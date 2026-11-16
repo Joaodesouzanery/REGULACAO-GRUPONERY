@@ -1,0 +1,180 @@
+{
+  "meta": {"video_id": "zwmZqcBj-Tc", "fonte": "legenda automática do YouTube; .md sem marcação de falantes por trecho (um único bloco); ts = tempo do vídeo via transcricoes/zwmZqcBj-Tc.json (sessão começa ~0:21:28); ts e autoria dos votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "23ª RPO 2025", "data": "2025-07-01", "formato": "presencial (sede da ANEEL), transmitida no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Daniel Dana (diretor substituto)"],
+    "ausentes": ["Fernando Mosna (missão institucional, ausência justificada)"],
+    "observacoes": [
+      "Última reunião da diretora Ludimila Lima (mandato até 13/07/2025; sairá de férias); homenagem de abertura (~0:21–0:45) com vídeo e falas de Agnes da Costa, Daniel Dana e do procurador-geral Eduardo Ramalho.",
+      "Comunicados: bandeira vermelha patamar 1 em julho; sede da ANEEL funcionando das 8h às 14h por corte orçamentário; CP 26/2025, TS 7/2025 e TS 5/2025.",
+      "Ata da 22ª RPO aprovada. Pauta com 45 itens; itens 10 a 45 em bloco; destacados 12, 15, 19, 26, 30 e 32; retirados 8, 13 e 36.",
+      "Itens 26 e 6 não foram deliberados por falta de tempo (prédio fecha às 14h por restrição orçamentária) e vão à próxima reunião.",
+      "Item 4 (MP 1212): voto-vista de Agnes da Costa (mudou o voto) prevaleceu por maioria; em sessão anterior Fernando Mosna (relator) e Ricardo Tili votaram pela concatenação não onerosa dos CUST.",
+      "Item 19: Sandoval Feitosa vencido (divergência sobre multa editalícia x regulamentar). Item 9: vista de Agnes da Costa. Item 32: vista do Diretor-Geral para parecer específico da Procuradoria.",
+      "Encerramento declarado pela diretora Ludimila Lima a convite do Diretor-Geral (5:27:00)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:45:42", "processo": "itens 10 a 45 (exceto destacados 12, 15, 19, 26, 30, 32 e retirados 13, 36)", "interessado": "diversos",
+      "assunto": "Itens de bloco com votos e atos disponibilizados previamente",
+      "tema": ["institucional/bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Todos os diretores aprovam os itens do bloco; o Diretor-Geral proclama.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco", "ts": "0:45:42", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "aprova os itens do bloco", "ts": "0:45:45", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "aprova os itens do bloco", "ts": "0:45:48", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco e proclama", "ts": "0:45:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:46:11", "processo": "48500.003647/2025-45", "interessado": "Energisa Tocantins Distribuidora de Energia S.A.",
+      "assunto": "Resultado da revisão tarifária periódica da Energisa Tocantins a vigorar a partir de 4/7/2025 (efeito médio 12,68%; AT 13,25%; BT 12,55%)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)"], "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa RTP com efeito médio de 12,68%; fixa TUSD/TE, receita de DIT, repasse CDE, postos tarifários, componente T do fator X 1,049% e referencial de perdas 2025–2029. Apresentação técnica da STR (Gustavo); Procuradoria sem questão jurídica.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "0:56:15", "justificativa": "resultado conforme metodologia do PRORET; aumento puxado por CDE, nova base de remuneração e WACC", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "0:57:45", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "0:57:47", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "0:57:49", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:58:33", "processo": "48500.003977/2025-31", "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A. (Presidente Prudente/SP)",
+      "assunto": "Reajuste tarifário anual da Energisa Sul-Sudeste a vigorar a partir de 12/7/2025",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "diferimento tarifário"], "relator": "Ludimila Lima", "resultado": "não captado (falha na transmissão)",
+      "resumo_voto": "Relatório lido; sustentação oral de Fernando César Maia (Energisa Sul-Sudeste): reajuste de cerca de 19% decorre do reajuste negativo de -9,89% em 2024, de CDE uso/CDE GD e da GD; só ~2% seria parcela da distribuidora. A leitura do voto e a votação deste item não aparecem na legenda (a Secretaria registrou problema na transmissão).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora (voto não captado na transmissão)", "ts": "0:58:40", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "12", "ts": "1:12:00", "processo": "não captado", "interessado": "distribuidora citada na legenda como «ENO São Paulo» (nome incerto)",
+      "assunto": "Reajuste tarifário anual de distribuidora (efeito médio 13,94%; AT 15,77%; BT 13,47%), destacado do bloco por pedido de sustentação oral do Conselho de Consumidores, que não compareceu",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)"], "relator": "não identificado (provavelmente Ludimila Lima)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentação técnica (Ricardo) com IRT econômico 8,32% e financeiros; homologa reajuste com efeito médio de 13,94%. O Diretor-Geral registrou que o Conselho de Consumidores pediu sustentação oral e não compareceu.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "1:16:06", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "1:17:09", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "1:17:11", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "1:17:13", "justificativa": "pede que agentes que solicitam sustentação oral compareçam", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:18:54", "processo": "48500.003865/2024-07", "interessado": "distribuidoras (regulamentação geral)",
+      "assunto": "Resultado da CP 8/2025: regulamentação de financeiros de diferimento em processos tarifários de distribuição (atende acórdão TCU 1336/2022)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras)", "regulação normativa (resolução, consulta pública)", "diferimento tarifário"], "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova REN com critérios de elegibilidade (faixa típica ou amplitude), limite de diferimento, remuneração pela Selic e caráter indicativo. Sustentação oral do deputado federal Thiago Flores (RO), fora do tema (derrubada de veto da lei das eólicas offshore); o DG prometeu levantamento de impactos. Apresentação de Marcelo Herlitz (STR).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "1:55:02", "justificativa": "proposta equilibra modicidade e expectativas de consumidores e empresas; diferimento como mitigação de volatilidade", "confianca": "alta"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "2:03:50", "justificativa": "parâmetros técnicos tornam objetiva a discussão de diferimento (comentário atribuído por inferência)", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "2:03:52", "justificativa": "dois critérios de elegibilidade (excepcionalidade e volatilidade) com mesmo peso; regra indicativa exige maior fundamentação para decidir diferente; horizontes longos aumentam erro", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "2:03:55", "justificativa": "regra de simples aferição; volatilidade não atende o interesse público; deliberação convergente após muito debate", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:04:06", "processo": "48500.001390/2024-14", "interessado": "centrais geradoras abrangidas pela MP 1212/2024; transmissoras; ONS",
+      "assunto": "Resultado da CP 28/2024: tratamento regulatório para empreendimentos da MP 1212/2024 quanto à postergação dos CUST por mais de 12 meses (voto-vista)",
+      "tema": ["transmissão (CUST, EUST)", "outorgas de geração (eólica, solar)", "regulação normativa (resolução, consulta pública)"], "relator": "Fernando Mosna (relator); Agnes da Costa (voto-vista)", "resultado": "aprovado por maioria o voto-vista de Agnes da Costa",
+      "resumo_voto": "Voto-vista aprova REN facultando postergação onerosa do CUST por até 36 meses, com encargo de postergação progressivo, encargo de ajuste parcelável em 12 vezes, aporte de GPC, sem desconto de 50% e pedido ao ONS em 60 dias; AIR em 2 anos. Rejeita a proposta do relator (postergação não onerosa) por transferir custo aos demais usuários. Processo estava empatado; Ludimila Lima desempatou.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: postergação onerosa do CUST com GPC (mudou o voto anterior de não fazer nada)", "ts": "2:33:15", "justificativa": "não reservar espaço escasso na rede sem pagamento; mitigar inadimplência e judicialização; isonomia com gerador ordinário; parecer PF 67/2025", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o voto-vista de Agnes da Costa", "ts": "2:35:21", "justificativa": "proposta equilibra interesse público e isonomia; risco de inadimplência como no processo do máximo esforço", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista de Agnes da Costa e proclama", "ts": "2:40:09", "justificativa": "não se pode reservar fila de forma não onerosa; exigir garantia para manter na fila quem quer implantar", "confianca": "alta"},
+        {"diretor": "Daniel Dana", "voto": "não vota (sucessor de diretor que já votou)", "ts": "2:40:01", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "9", "ts": "2:41:01", "processo": "48500.001526/2023-30", "interessado": "Light Serviços de Eletricidade S.A.",
+      "assunto": "Pedido de reconsideração da Light contra o despacho 3309/2024, que negou RTE para alterar perdas não técnicas da RTP 2022 (voto-vista)",
+      "tema": ["tarifas e revisão tarifária (RTE, perdas não técnicas)", "recursos administrativos"], "relator": "Ricardo Tili (relator); Ludimila Lima (voto-vista)", "resultado": "vista concedida à diretora Agnes da Costa",
+      "resumo_voto": "Voto-vista de Ludimila Lima nega provimento: ausência de fato gerador, preclusão administrativa (RTP 2022 não recorrida), desequilíbrio insuficiente nas inequações do submódulo 2.9 do PRORET; diverge do relator Tili (que acolhia a RTE em 13/05/2025).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "voto-vista: conhece e nega provimento", "ts": "3:44:06", "justificativa": "inexiste fato gerador; matéria preclusa; RTE não serve a rever parâmetros de RTP homologada; estabilidade regulatória", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:44:54", "justificativa": "não conseguiu estudar e quer ouvir o agente; elogia o voto e diz que não pretende analisar novas questões trazidas pela empresa", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "reserva-se para quando o processo retornar; concede vista", "ts": "3:47:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "3:47:47", "processo": "48500.002920/2015 (número incerto)", "interessado": "geradores hidrelétricos (segurança de barragens)",
+      "assunto": "Resultado da CP 19/2025: alteração da REN 1064/2023 (segurança de barragens) em função da Resolução CNRH 241/2024",
+      "tema": ["regulação normativa (resolução, consulta pública)", "fiscalização (segurança de barragens)", "outorgas de geração (hidrelétrica)"], "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Incorpora a matriz de classificação do CNRH; ajustes de redação; reclassificação no ciclo 2026 (divulgação 2027) em razão do corte orçamentário. Apresentação de Mateus (SGM).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "4:01:46", "justificativa": "mantém prazo original a contragosto por restrição orçamentária e de pessoal da ANEEL", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "4:04:00", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "4:04:02", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "4:04:05", "justificativa": "protocolos de segurança funcionaram no RS; corte orçamentário compromete fiscalização e sistemas", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "4:05:51", "processo": "48500.003183/2021-4", "interessado": "transmissoras, ONS, EPE",
+      "assunto": "Abertura de consulta pública (47 dias, 3/7 a 18/8/2025) sobre AIR de aprimoramento da regulamentação de confiabilidade das instalações de transmissão",
+      "tema": ["transmissão", "regulação normativa (AIR, consulta pública)"], "relator": "Ludimila Lima (redistribuído de Ricardo Tili)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaura CP sobre AIR 3/2022 (critérios N-1/N-2, probabilísticos) e determina que STD, SGM, SCE e SFT considerem elementos quantitativos e simulações com dados reais.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "4:20:17", "justificativa": "pede análise quantitativa, contribuição do ONS e interação com entes de planejamento e operação", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "4:24:30", "justificativa": "endossa a determinação adicional; ANEEL sozinha não trata o tema sem quem planeja e opera; correlato à CP 45 (cortes)", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "4:24:32", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "4:24:35", "justificativa": "tema atual desde o blecaute de 2023; custo da confiabilidade deve ser explicitado; ONS deve operar de forma previsível", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "19", "ts": "4:25:00", "processo": "processos listados na pauta (despachos SFG 2001 a 2012/2022)", "interessado": "Renova Energia S.A. (EOLs Abil, Acácia, Angico, Folha de Serra, Jabuticaba, Jacarandá do Cerrado, Taboquinha, Tábua, Vaqueta, Mulungu, Pau Santo e Quina)",
+      "assunto": "Recurso contra multa editalícia (3,85% do investimento, ~R$ 31 milhões) por atraso na implantação de 12 eólicas dos LER 2013 e 2014",
+      "tema": ["fiscalização e sanções (multa)", "leilões (energia de reserva)", "outorgas de geração (eólica)", "recursos administrativos"], "relator": "Ludimila Lima", "resultado": "negado provimento por maioria (vencido Sandoval Feitosa)",
+      "resumo_voto": "Sustentação oral de Pedro Henrique Maciel Fonseca (Renova): bis in idem, recuperação judicial e atenuante pelo avanço físico. Relatora mantém a multa: atraso posterior às autuações, fórmula do mínimo não usa D, RJ não altera obrigações (parecer PF 114/2020).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, conhece e nega provimento", "ts": "4:37:06", "justificativa": "não há bis in idem; atraso persistiu além das autuações; dosimetria seguiu nota técnica; apuração editalícia foi determinação da diretoria", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge: dá provimento de ofício, desconstitui os despachos e determina novo processo com base na REN 846/2019", "ts": "4:38:04", "justificativa": "penalidade editalícia só no caso extremo de não conclusão; obra concluída atrai penalidade regulamentar; princípio da especialidade; coerente com votos anteriores", "tom": "respeitoso", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "4:43:22", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "4:43:25", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "32", "ts": "4:44:23", "processo": "48500.005360/2023 (número incerto)", "interessado": "Companhia Siderúrgica Nacional (CSN); CCEE; Itasa",
+      "assunto": "Pedido de reconsideração da CSN contra o despacho 110/2025 (recontabilização 479 na CCEE, alocação de geração própria por controle indireto)",
+      "tema": ["comercialização (CCEE)", "recursos administrativos"], "relator": "Ludimila Lima", "resultado": "vista concedida ao Diretor-Geral",
+      "resumo_voto": "Sustentação oral de Janaína Diniz (CSN): havia contrato registrado e contabilizado; falha só formal. PF: tese dos pareceres 90/2024 e 92/2025 (recontabilização não supre falha de registro), sem parecer específico. Relatora nega provimento; dois diretores acompanham; o DG pede vista para análise exauriente da Procuradoria.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, conhece e nega provimento", "ts": "4:52:41", "justificativa": "pareceres anteriores tratam dos mesmos aspectos", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "4:53:50", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "4:53:53", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "4:53:57", "justificativa": "obter análise exauriente do caso concreto pela Procuradoria Federal", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "15", "ts": "4:54:15", "processo": "48500.003829/2025 (número incerto)", "interessado": "Camai Solar Power Ltda.; RGE (Uruguaiana e Barra do Quaraí/RS)",
+      "assunto": "Requerimento para emissão de orçamentos de conexão de 33 projetos de minigeração distribuída (32,5 MW) negados por desmembramento",
+      "tema": ["geração distribuída (MMGD)", "recursos administrativos"], "relator": "Ludimila Lima", "resultado": "negado provimento por unanimidade",
+      "resumo_voto": "Sustentação oral de Bárbara Rubim (Camai): faltam critérios objetivos; precedentes idênticos. PF (parecer 110/2025), SMA e STD: distribuidora reuniu indícios de fracionamento irregular. O DG questionou se ao menos 5 MW poderiam ser salvos; STD explicou que os 33 pedidos foram cancelados regularmente.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, conhece e nega provimento", "ts": "5:03:22", "justificativa": "projetos concebidos em conjunto; não cabe acatamento parcial de algo não pedido", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "5:14:30", "justificativa": "levantou em tese a possibilidade de conexão de um bloco de até 5 MW, sem divergir", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "5:14:25", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "5:14:27", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "30", "ts": "5:15:05", "processo": "48500.000993/2019-23 (número incerto)", "interessado": "Gerdau S.A. (Gerdau Açominas/Pindamonhangaba, grafia incerta); CCEE",
+      "assunto": "Pedido de reconsideração contra o despacho 3733/2024 (recontabilização 3449, alocação de geração própria 2017/2018)",
+      "tema": ["comercialização (CCEE)", "recursos administrativos"], "relator": "Ludimila Lima", "resultado": "negado provimento por unanimidade",
+      "resumo_voto": "Sustentação oral de Thiago Sandoval Furtado: decadência quinquenal (art. 54 da Lei 9784) para 2018. PF: relação privada na CCEE, prazo prescricional de 10 anos (parecer 369/2021).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, conhece e nega provimento", "ts": "5:23:01", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "5:23:37", "justificativa": "esclarecimento da Procuradoria sobre prazo prescricional deu conforto", "confianca": "media"},
+        {"diretor": "Daniel Dana", "voto": "acompanha a relatora", "ts": "5:24:10", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "5:24:12", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["8 (retirado de pauta)", "13 (retirado de pauta)", "36 (retirado de pauta)", "26 (destacado, não deliberado por falta de tempo)", "6 (não deliberado por falta de tempo)"],
+  "limites_da_analise": [
+    "Daniel Dana (diretor substituto) não consta da lista de diretores do config; registrado como dito.",
+    "O .md não separa falantes; a ordem dos votos dos que acompanham (Agnes da Costa x Daniel Dana) é inferida, confiança media/baixa; ts dos acompanhamentos aproximados.",
+    "Falha de transmissão (~1:12–1:18): o voto e o resultado do item 2 (Energisa Sul-Sudeste) não foram captados; o item 12 (reajuste de 13,94%) tem relator, interessado e processo incertos («ENO São Paulo» na legenda).",
+    "Números de processo e nomes de empresas vêm da legenda automática e podem estar errados (ex.: itens 5, 15, 30, 32).",
+    "Votos anteriores no item 4 (Mosna e Tili pela postergação não onerosa) foram proferidos em sessão anterior e só constam aqui como relato."
+  ]
+}

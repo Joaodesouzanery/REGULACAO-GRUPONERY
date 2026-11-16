@@ -1,0 +1,442 @@
+{
+ "meta": {
+  "video_id": "Qc0qQR-ZboE",
+  "fonte": "legenda automática do YouTube; .md sem marcadores internos; ts obtidos do .json da transcrição; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "20ª RPO 2025",
+  "data": "2025-06-10",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa na abertura; Sandoval Feitosa (Diretor-Geral) após chegar",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Daniel Dana",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [
+   "Fernando Mosna (motivo de saúde)"
+  ],
+  "observacoes": [
+   "Pauta com 38 itens; 8 a 38 em bloco; itens 1 e 10 retirados; 12 e 14 destacados.",
+   "Itens 5 e 6 (RBSE): voto-vista de Agnes vence o relator no item B por maioria; Ludimila Lima não vota (voto de antecessor).",
+   "Sessão de cerca de 4h57."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 8 a 38)",
+   "ts": "0:04:36",
+   "processo": "",
+   "interessado": "diversos; item 22: Ilha Comprida, Divisa Energia e Segredo Energia (impugnação de deliberação da CCEE); item 28: fiscalização SFF/SGM",
+   "assunto": "Itens de bloco 8 a 38 (exceto 10, retirado, e 12 e 14, destacados); itens 22 e 28 com divergência registrada",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "diversos (itens 22 e 28: Ricardo Tili, voto já proferido)",
+   "resultado": "bloco aprovado; nos itens 22 e 28 prevaleceram as divergências (Agnes da Costa no 22; Fernando Mosna no 28)",
+   "resumo_voto": "Item 22: conhecer e negar provimento à impugnação contra a CCEE (recontabilização), acompanhando a divergência de Agnes; item 28: manter a fiscalização nos termos da NT 78/2024 SFF/SGM, acompanhando a divergência de Fernando Mosna.",
+   "votos": [
+    {
+     "diretor": "Daniel Dana",
+     "voto": "aprova o bloco; não se manifesta nos itens 22 e 28",
+     "ts": "0:04:38",
+     "justificativa": "Itens 22 e 28 têm voto apresentado pelo diretor Ricardo Tili (antecessor), por isso não se manifesta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco; item 22 acompanha divergência de Agnes; item 28 acompanha divergência de Mosna",
+     "ts": "0:04:50",
+     "justificativa": "Item 22: conhecer e no mérito negar provimento à impugnação de Ilha Comprida, Divisa e Segredo contra deliberação da CCEE; item 28: acompanhar a NT 78/2024 da SFF e SGM.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco; mantém votos anteriores nos itens 22 e 28",
+     "ts": "0:05:38",
+     "justificativa": "Mantém voto da 17ª RPO (item 22: conhecer e negar provimento) e da 24ª RPO de 2024 (item 28: acompanhar divergência de Fernando Mosna).",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:06:07",
+   "processo": "48500.001795/2025-58 (legenda incerta)",
+   "interessado": "distribuidoras; ABRADEE (sustentação oral de Lucas Malheiros)",
+   "assunto": "Operacionalização da MP 1.300/2025 na tarifa social de energia elétrica (gratuidade até 80 kWh/mês a partir de 5/7/2025) por despacho declaratório",
+   "tema": [
+    "tarifas e tarifa social",
+    "CDE e encargos setoriais",
+    "regulação normativa"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Despacho declaratório: desconto da Lei 12.212 com redação da MP 1.300 para faturas a partir de 5/7/2025, afastando art. 179 da REN 1000, art. 2º da REN 472 e tabela 3 das REH; custo de disponibilidade de 80 kWh para baixa renda trifásico com consumo até 80 kWh; dispensa de consulta pública até a conversão da MP. Pleito da ABRADEE sobre custo de disponibilidade/CDE adiado para após a conversão em lei.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova",
+     "ts": "0:33:13",
+     "justificativa": "Acolhe a instrução da STD/STR; despacho evita alterar normas com base em texto provisório; pouca discricionariedade; CP após conversão da MP.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha a relatora",
+     "ts": "0:45:01",
+     "justificativa": "Política de justiça tarifária e alívio ao orçamento familiar; elogia rapidez da instrução.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "0:45:01",
+     "justificativa": "Combate à pobreza energética; custo de cerca de R$ 3,5 bi na CDE considerado destinação mais justa.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:45:01",
+     "justificativa": "Lembra que a ANEEL sugeriu faixa única de 80 kWh; subsídio mais justo por ser socialmente inclusivo.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:46:29",
+   "processo": "48500.007635/2025-90 (legenda incerta)",
+   "interessado": "centrais geradoras em ICG/IEG; Energisa Mato Grosso do Sul; conselhos de consumidores",
+   "assunto": "Resultado da CP 13/2025: TUSDg de centrais geradoras após transferência de ICG/IEG às distribuidoras (revisão do submódulo 7.4 do PRORET)",
+   "tema": [
+    "tarifas (TUSD/TUST)",
+    "transmissão (ICG)",
+    "regulação normativa"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova revisão do submódulo 7.4: usinas com TUST estabilizada mantêm o valor como TUSDg atualizado pelo IPCA (alternativa N); componente financeiro para 6 usinas em 69 kV; STR deve estudar substituir IGP-M pelo IPCA no submódulo 7.4 via agenda regulatória.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova",
+     "ts": "1:02:30",
+     "justificativa": "Segue AIR da STR; substituição do IGP-M extrapola o objeto da CP e vai para estudo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "1:03:47",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha a relatora",
+     "ts": "1:03:47",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:03:47",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:04:27",
+   "processo": "48500.007521/2019-84 (legenda incerta)",
+   "interessado": "ABIAP, Abrace, ESBR, Norte Energia vs. CELG GT (EDP Transmissão Goiás)",
+   "assunto": "Pedidos de reconsideração contra a REH 2.846/2021 (RAP da CELG GT; componente financeiro da RBSE) — voto-vista",
+   "tema": [
+    "transmissão (RAP, RBSE)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna (voto-vista: Agnes da Costa)",
+   "resultado": "itens A, C e D do relator por unanimidade; item B (não conhecer quanto ao fluxo antecipado/postecipado) e REH com fluxo uniforme por maioria, vencido o relator",
+   "resumo_voto": "Divergência só no item B: fluxo antecipado na capitalização e postecipado na amortização decorre da Portaria MME 120/2016 e do submódulo 9.1; não há erro material; pedidos intempestivos; solução consensada entre usuários (ABIAP, Abrace, ESBR) e transmissoras (Abrate) em 23/5/2025; cenário 1 (pagamentos uniformes).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: acompanha itens A, C e D do relator e diverge no item B",
+     "ts": "2:42:04",
+     "justificativa": "Divergência só no item B: fluxo antecipado na capitalização e postecipado na amortização decorre da Portaria MME 120/2016 e do submódulo 9.1; não há erro material; pedidos intempestivos; solução consensada entre usuários (ABIAP, Abrace, ESBR) e transmissoras (Abrate) em 23/5/2025; cenário 1 (pagamentos uniformes).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:55:44",
+     "justificativa": "Fluxo na capitalização é indiferente sem pagamentos; fases desvinculadas; consenso entre as partes e parecer da PF reforçam o postecipado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:55:44",
+     "justificativa": "Questionamento extemporâneo; segurança jurídica (no Brasil até o passado é incerto); fez seis reuniões com os agentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "não se manifesta",
+     "ts": "2:49:13",
+     "justificativa": "Há voto do diretor antecessor no processo.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vencido no item B (voto proferido na 17ª RPO de 2024; ausente nesta sessão)",
+     "ts": "1:06:00",
+     "justificativa": "Tinha votado por corrigir a amortização para fluxo antecipado desde o ciclo 2017-18 por vício metodológico.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:57:22",
+   "processo": "48500.007496/2019 e outros (legenda incerta)",
+   "interessado": "ABIAP, Abrace, ESBR, Norte Energia vs. CEEE-GT, Copel GT, Furnas, CGT Eletrosul, Eletronorte, CTEEP, Cemig GT, Chesf",
+   "assunto": "Pedidos de reconsideração contra as REH 2.845 e 2.847 a 2.853/2021 (RAP/RBSE) — voto-vista idêntico ao item 5",
+   "tema": [
+    "transmissão (RAP, RBSE)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra (voto-vista: Agnes da Costa)",
+   "resultado": "itens A, C e D por unanimidade; item B e REH com fluxo uniforme por maioria, vencido o relator",
+   "resumo_voto": "Mesmo voto-vista do item 5 aplicado às oito transmissoras; Sandoval pede rapidez no processamento para reduzir a tarifa de transmissão.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: acompanha A, C e D e diverge no item B",
+     "ts": "2:57:22",
+     "justificativa": "Mesmos fundamentos do item 5.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:59:06",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:59:06",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "vencido no item B (voto anterior; não integra mais a diretoria nesta sessão, inferido)",
+     "ts": "2:57:22",
+     "justificativa": "Voto anterior no sentido do relator do item 5 (fluxo antecipado).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:01:13",
+   "processo": "48500.017979/2025-15 (legenda incerta)",
+   "interessado": "RGE Sul (grupo CPFL); Instituto Abradee",
+   "assunto": "Edição 2025 da Olimpíada Nacional de Eficiência Energética (ONEE) no PEE, solenidade em 6/11/2025",
+   "tema": [
+    "eficiência energética (PEE)",
+    "institucional"
+   ],
+   "relator": "Daniel Dana",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova proposta da RGE Sul (custo estimado ~R$ 6,3 mi; meta 500 mil alunos) e a data da solenidade.",
+   "votos": [
+    {
+     "diretor": "Daniel Dana",
+     "voto": "relator, aprova",
+     "ts": "3:21:41",
+     "justificativa": "Iniciativa educacional de grande alcance; emenda do senador Wellington Fagundes depende de liberação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:37",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:26:37",
+     "justificativa": "Meta de dobrar participantes a cada ano (1 milhão em 2026).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (voto deixado assentado)",
+     "ts": "3:26:48",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "3:27:24",
+   "processo": "48500.003585/2024-91 (legenda incerta)",
+   "interessado": "Oliveira Energia SA — UTE Monte Cristo Sucuba (RR); sustentação oral de Guilherme Berejuk (grafia incerta)",
+   "assunto": "Recurso contra o auto de infração 46/2025 da SFT (multa por gestão inadequada, autonomia de combustível inferior a 7 dias e descumprimento de prazo do ONS)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "sistemas isolados"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade (recurso negado; multa de R$ 1.745.812,15 mantida)",
+   "resumo_voto": "Conhecer e negar provimento; PF: penalidade contratual do CCESI não afasta responsabilidade administrativa.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, nega provimento",
+     "ts": "3:41:42",
+     "justificativa": "Alegações da sustentação já enfrentadas no voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha a relatora",
+     "ts": "3:42:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "3:42:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:42:00",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:44:04",
+   "processo": "48500.005374/2023 (legenda incerta)",
+   "interessado": "CPFL Transmissão — LT 230 kV Guarita–Santa Rosa 1 (RS); sustentação oral de Wagner Rinaldi",
+   "assunto": "Recurso contra despacho 3.878/2024 da STD que negou isenção de PVI por desligamento em ciclone extratropical de 12/7/2023 (caso fortuito)",
+   "tema": [
+    "transmissão (PVI)",
+    "recursos administrativos",
+    "eventos climáticos"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade (recurso negado)",
+   "resumo_voto": "Não caracterizado caso fortuito pela velocidade do vento (ventos de 10 min até 102 km/h, abaixo do projeto de 130 km/h).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, nega provimento",
+     "ts": "3:57:26",
+     "justificativa": "Velocidade do vento não caracterizou caso fortuito ou força maior.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha a relatora",
+     "ts": "3:57:41",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "3:57:41",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (voto deixado com a presidência)",
+     "ts": "3:57:52",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:58:08",
+   "processo": "48500.006872/2022-21 (legenda incerta)",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA, grupo Equatorial)",
+   "assunto": "Pedido de reconsideração contra a REH 3.313/2024 (RTE 2023 da CEA diferida com efeito médio 0% e ativo regulatório)",
+   "tema": [
+    "tarifas e revisão tarifária (RTE)",
+    "recursos administrativos",
+    "equilíbrio econômico-financeiro"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (provimento parcial)",
+   "resumo_voto": "Dá provimento para que a RTE seja devidamente processada, sem valores a reprocessar (efeitos tratados no reajuste de 2024); nega correção de mercado de 2022, cobertura CDE para água/esgoto/rural e CDE Covid (perda de objeto ou intempestividade). Segue parecer da PF: diferimento unilateral violou a intangibilidade da equação econômico-financeira.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, dá provimento parcial",
+     "ts": "4:54:14",
+     "justificativa": "A ANEEL não pode diferir unilateralmente cláusula econômico-financeira; política tarifária cabe ao formulador; precedente perigoso de usar indicadores socioeconômicos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "4:55:40",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha a relatora",
+     "ts": "4:55:40",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (manifestação registrada pela presidência)",
+     "ts": "4:55:53",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 1",
+  "item 10"
+ ],
+ "limites_da_analise": [
+  "Daniel Dana (Daniel Cardoso Dana) não consta da lista de diretores do config; nome registrado como dito.",
+  "Atribuição de quem fala em cada voto de seguidor é inferida pela ordem e contexto; no bloco, a abstenção nos itens 22 e 28 (voto de Ricardo Tili) foi atribuída a Daniel Dana por inferência.",
+  "Números de processo vindos da legenda, possivelmente errados.",
+  "Votos anteriores de Fernando Mosna (item 5) e Hélvio Guerra (item 6) registrados como vencidos, sem fala nesta sessão.",
+  "Itens de bloco 8 a 38 não são discutidos individualmente; só 22 e 28 tiveram registro de voto."
+ ]
+}

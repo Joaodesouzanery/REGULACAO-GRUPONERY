@@ -1,0 +1,86 @@
+{
+  "meta": {"video_id": "qAQu0KE_IxY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08:40); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "11ª RPO 2025", "data": "2025-04-09", "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum completo de cinco diretores. Data no título do vídeo; a fala de abertura diz 11ª reunião pública ordinária de 2025.",
+      "Pauta com 49 itens; itens 4 a 49 em bloco, aprovados por unanimidade; item 9 retirado de pauta na publicação; item 13 retirado pelo relator na sessão (nota técnica que embasou o voto só se tornou pública depois do voto); item 45 (voto-vista) foi destacado e depois retirado de pauta a pedido do diretor relator.",
+      "Item 1 (reajuste CPFL Paulista com cumprimento de sentença de R$ 4,68 bi) gerou longo debate: questão de ordem de Fernando Mosna (tratar como acordo pela Norma de Organização 54) apoiada por Ricardo Tili, indeferida pelo Diretor-Geral; terminou com pedido de vista.",
+      "Sandoval Feitosa deixou a sessão após o item 1 e registrou votos por escrito nos itens 2 e 3 acompanhando os relatores."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:30:14", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 4 a 49 da pauta deliberados em bloco (exceto 9, 13 e 45 destacados/retirados)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Todos os diretores aprovam os itens do bloco.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:30:14", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:30:14", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "aprova o bloco", "ts": "0:30:14", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:30:14", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:30:14", "justificativa": "Aprova os itens do bloco.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:31:52", "processo": "48500.033182/2024-13 (número incerto na legenda)",
+      "interessado": "CPFL Paulista (distribuidora) e CPFL Brasil",
+      "assunto": "Reajuste tarifário anual 2025 da CPFL Paulista (a partir de 8/4/2025), incluindo cumprimento de sentença do TRF1 (afastar notas técnicas 23 e 81/2003 e aplicar a Resolução 248/2002) no valor de R$ 4,68 bi, com proposta da empresa de parcelamento em 5 anos (R$ 1,3 bi em 2025)",
+      "tema": ["tarifas e revisão tarifária", "cumprimento de decisão judicial", "diferimento tarifário", "distribuição"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista (deliberação suspensa; tarifas prorrogadas pela REH anterior)",
+      "resumo_voto": "Relatora propôs efeito médio de +4,56% (2,24% AT; 5,58% BT) incorporando R$ 1,3 bi como primeira de cinco parcelas, com Selic e neutralidade, condicionado à extinção do cumprimento de sentença; sem o financeiro seria -3,66%; com o valor integral, +25,95%. Procuradoria (sustentação) defendeu o cálculo da PRF1 pelo manual de cálculos da Justiça Federal como mais vantajoso ao consumidor. Fernando Mosna levantou questão de ordem (é acordo, deve seguir a NO 54 em processo próprio), apoiada por Ricardo Tili; o Diretor-Geral indeferiu. Ludimila Lima ponderou volatilidade (25% vs 4,56%) mas cobrou fundamentação de diferimento exigida pelo TCU.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova reajuste com parcelamento do financeiro judicial", "ts": "1:03:00", "justificativa": "Não se trata mais de acordo, mas de cumprimento de decisão com parecer de força executória; parcelar em 5 anos atende à modicidade e leva à extinção do cumprimento de sentença, afastando risco de valor maior (R$ 9 bi pedidos pela CPFL).", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:35:42", "justificativa": "Indeferiu a questão de ordem: é cumprimento de sentença, não acordo; apoiou-se na Procuradoria quanto ao risco de valor mais oneroso ao consumidor. Votou acompanhando a relatora.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge do encaminhamento (questão de ordem vencida); possível autor do pedido de vista", "ts": "1:07:20", "justificativa": "Condenação ilíquida; manual da Justiça Federal vale para a fazenda pública, mas quem paga é o consumidor; por IGPM ou IPCA o valor seria ~R$ 3 bi ou ~R$ 2,4 bi; trata-se de acordo (NO 54) e o parcelamento é diferimento que exige critérios da CP 8/2024, análise do TCU e ouvir o Conselho de Consumidores.", "tom": "crítico, extenso", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "diverge do encaminhamento; possível autor do pedido de vista", "ts": "1:30:00", "justificativa": "Proposta da CPFL é acordo (compromisso de extinguir a ação); débito de energia deveria ser atualizado pela CVA/Selic (R$ 4,78 bi segundo a STR); não é simples cumprimento de sentença; diferimento precisa de fundamentação de benefício ao consumidor.", "tom": "crítico", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "não identificado (questiona a falta de fundamentação do diferimento)", "ts": "2:35:58", "justificativa": "Reconhece o dilema 25% agora vs 4,56% parcelado, mas o voto não fundamenta o parcelamento como diferimento conforme determinação do TCU.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:36:15", "processo": "48500.009915/2025-32 (incerto)",
+      "interessado": "Ampla Energia e Serviços S.A. (Enel Rio, distribuidora)",
+      "assunto": "Pedido de medida cautelar para autorizar refinanciamento dos contratos de mútuo Ampla NBR63 e NBR64 com partes relacionadas (~R$ 141,8 milhões, vencimentos 16 e 24/4/2025)",
+      "tema": ["recursos administrativos", "medida cautelar", "anuência prévia / partes relacionadas", "distribuição"],
+      "relator": "Fernando Mosna", "resultado": "cautelar indeferida por unanimidade",
+      "resumo_voto": "Ausente o perigo da demora: valor pequeno frente à dívida líquida (~R$ 4,7 bi) e ao aumento de capital de R$ 2,5 bi; companhia tem mecanismos de liquidez.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, indefere a cautelar", "ts": "2:41:30", "justificativa": "Montante de ~3% da dívida líquida, muito inferior ao R$ 1,1 bi da cautelar anterior; sem risco à continuidade do serviço.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:42:36", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "2:42:40", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:42:40", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto por escrito)", "ts": "2:42:51", "justificativa": "Deixou voto escrito com a Secretaria acompanhando o relator.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:43:27", "processo": "48500.010196/2025-01 (incerto)",
+      "interessado": "Lucas Botelho Cavalca Nunes (consumidor/gerador) x Roraima Energia S.A. (distribuidora); UFV Cavalca 1 MW, Cantá-RR",
+      "assunto": "Pedido de medida cautelar para enquadrar minigeração distribuída como GD1 (Lei 14.300) em vez de GD3",
+      "tema": ["geração distribuída (MMGD)", "medida cautelar", "distribuição"],
+      "relator": "Ricardo Tili", "resultado": "cautelar indeferida por unanimidade; processo encaminhado à STD para análise de mérito",
+      "resumo_voto": "Ausente a fumaça do bom direito: houve carta de reprovação do projeto em 5/4/2023, exigindo instrução de mérito. Debate sobre padronizar encaminhamento (SMA vs STD) foi remetido às assessorias.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, indefere a cautelar e encaminha à STD", "ts": "2:49:00", "justificativa": "Apesar do mesmo protocolo e das obras feitas, a distribuidora reprovou o projeto; necessário coletar informações na fase de mérito.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:52:40", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:52:40", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "2:52:40", "justificativa": "Acompanha o relator; sugeriu uniformizar o encaminhamento (SMA/STD) desses pedidos.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto por escrito)", "ts": "2:52:50", "justificativa": "Voto registrado por escrito acompanhando o relator.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "9", "motivo": "retirado de pauta na publicação"},
+    {"id": "13", "motivo": "retirado pelo relator na sessão (nota técnica que embasou o voto só se tornou pública após o voto); havia pedido de sustentação oral"},
+    {"id": "45", "motivo": "voto-vista destacado e depois retirado de pauta a pedido do diretor relator"}
+  ],
+  "limites_da_analise": [
+    "Item 1: a legenda não identifica quem pediu vista (frase 'Eu vou pedir vista, já que a resolução homologatória do ano passado já prevê prorrogação'), nem quem pediu para registrar voto acompanhando integralmente a relatora; provavelmente Fernando Mosna ou Ricardo Tili pediu vista e Ludimila Lima antecipou voto com a relatora, mas não confirmado.",
+    "Itens 2 e 3: ordem dos votos dos seguidores inferida; quem presidiu após a saída do Diretor-Geral não está claro.",
+    "Números de processo e valores vêm da legenda automática e podem conter erros.",
+    "Autores dos itens 13 e 45 não identificados; o bloco não foi detalhado item a item."
+  ]
+}

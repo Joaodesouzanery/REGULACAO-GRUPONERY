@@ -1,12 +1,12 @@
 # Perfil analítico — Alber Vasconcelos · tema: tarifas_portuarias
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 165 votos neste tema; 33 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 168 votos neste tema; 34 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 114 (86% dos votos em que não era relator) · relator 33 · vista pedida 6 · voto-vista divergente 3 · vencido 0 · outros/não captado 9
-**Como relator:** 20/33 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 116 (86% dos votos em que não era relator) · relator 34 · vista pedida 6 · voto-vista divergente 3 · vencido 0 · outros/não captado 9
+**Como relator:** 20/34 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
-**Argumentos recorrentes nas justificativas registradas:** concorrência (12); usuário (9); governança/rito (6); evidência/dados (4); interesse público (1); eficiência/celeridade (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
+**Argumentos recorrentes nas justificativas registradas:** concorrência (12); usuário (9); governança/rito (6); evidência/dados (4); eficiência/celeridade (2); interesse público (1)
 **Tom (inferência da leitura, não métrica):** protetivo ao usuário | crítico | insistente, técnico | crítico à concessionária | enfático
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -176,3 +176,6 @@
 - **RD 621 (2026-10-27)**, item 10 — Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abert · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3484s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 11 — Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4215s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 14 — Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com e · voto: *relator, aprova* (relator, conf. alta) · «Antecipação equivale a financiamento da autoridade portuária; execução privada protege mais o patrimônio e dá agilidade (Acórdão TCU 1118/2026).» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=17240s) · resultado: aprovado com ajustes sugeridos pelo DG
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s) · resultado: aprovado (recurso desprovido)

@@ -1,0 +1,58 @@
+{
+ "meta": {"video_id": "SlKHQxJ0bq8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "5ª Reunião Pública Ordinária (Parte 2)", "data": "2025-02-18", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ludimila Lima", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 (tarde) da 5ª RPO de 18/02/2025.", "Item 3 retirado de pauta (anunciado no início).", "Item 24 (Rio Alto UFV) retirado de pauta pelo relator Fernando Mosna após sustentação oral.", "Itens 13 e 20 envolviam subsistência de votos do ex-diretor Hélvio Guerra."]
+ },
+ "itens": [
+  {"id": "23", "ts": "0:00:16", "processo": "48500.004235/2020-1 (número incerto)", "interessado": "Coremas 4 a 8 Geração de Energia SPE (devedoras); Coremas 1 a 3 (credoras); ONS",
+   "assunto": "Requerimento administrativo com medida cautelar das Coremas 4 a 8 contra o Despacho 3782/2024, que não conheceu recurso intempestivo contra o Despacho 2284/2024 (ressarcimento por compartilhamento de instalações, sob pena de desconexão)",
+   "tema": ["fiscalização e sanções", "outorgas de geração (solar)", "recursos administrativos"],
+   "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade, com ajuste de redação proposto por Fernando Mosna (abertura de processo de fiscalização contra Coremas 4 a 8 e ONS, prazo de 120 dias)",
+   "resumo_voto": "Não conhece do requerimento (esfera administrativa exaurida) e determina à SFT avaliar, em até 120 dias, o cumprimento do Despacho 2284/2024, abrindo processo de fiscalização em face das Coremas 4 a 8 e do ONS. Sustentação oral de Ana Clara Toledo Brito (Coremas 1, credoras), pedindo supressão do item 2 e reconhecimento de que o depósito judicial de R$ 4,5 mi não equivale ao laudo de R$ 6,5 mi.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:13:00", "justificativa": "há manifestações conflitantes sobre o cumprimento do Despacho 2284/2024; a SFT é a área competente para avaliar; acolheu o aperfeiçoamento de redação de Mosna", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha com ajuste de redação (inicialmente questionou/divergiu)", "ts": "0:16:46", "justificativa": "para ele é óbvio que o despacho foi descumprido (sem pagamento e sem desconexão pelo ONS); depósito judicial não equivale a pagamento; pediu que se explicite processo de fiscalização contra Coremas 4 a 8 e ONS, com prazo", "tom": "enfático, insistente", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha (proclama unanimidade)", "ts": "1:04:39", "justificativa": "descumprimento de decisão da diretoria deve ser apurado pela área de fiscalização, com instrução técnica e eventual penalidade (REN 846); sugeriu a assessoria acertar prazo com a SFT", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha", "ts": "1:04:44", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha", "ts": "1:04:44", "confianca": "baixa"}
+   ]},
+  {"id": "24", "ts": "0:46:30", "processo": "48500.000362/2025 (número incerto)", "interessado": "Rio Alto UFV STL 8 e 9 SPE S.A. (Santa Luzia); CCEE",
+   "assunto": "Pedido de medida cautelar para suspender processos de desligamento na CCEE (11534 e 11773) por não pagamento de penalidades, até decisão sobre pedido de parcelamento",
+   "tema": ["comercialização (CCEE)", "outorgas de geração (solar)", "fiscalização e sanções"],
+   "relator": "Fernando Mosna", "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após sustentação oral de Sérgio Campos e Silva (Rio Alto), alegando que o voto não tratou do pedido principal de parcelamento e invocando proporcionalidade e curtailment, o relator retirou o processo de pauta para reunião com o agente.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, retira de pauta", "ts": "0:52:00", "justificativa": "processo distribuído há só 15 dias; agente não pediu reunião; voltará tratando cautelar e parcelamento", "confianca": "media"}
+   ]},
+  {"id": "13", "ts": "0:53:05", "processo": "48500.006699/2023 (número incerto)", "interessado": "PB Produção de Energia Elétrica EIRELI; PCH Ponte Branca",
+   "assunto": "Recurso administrativo contra o Despacho 3364/2022 (SFG), multa editalícia por atraso na implantação da PCH Ponte Branca; voto-vista de Sandoval Feitosa",
+   "tema": ["fiscalização e sanções", "outorgas de geração (PCH)", "recursos administrativos"],
+   "relator": "Hélvio Guerra", "resultado": "por maioria, declarada a subsistência do voto de Hélvio Guerra (35ª RPO, 26/09/2023); conhecido o recurso e negado provimento; Sandoval Feitosa vencido",
+   "resumo_voto": "Ricardo Tili destacou questão preliminar (art. 28 do Regimento): subsistência do voto do ex-relator deve ser decidida antes do mérito, ouvida a Procuradoria. A Procuradoria entendeu que o novo parecer jurídico não é fato novo. Sandoval, no voto-vista, defendia a insubsistência e manteve seu voto no mérito.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "voto-vista: insubsistência do voto do relator e divergência no mérito; vencido", "ts": "0:56:29", "justificativa": "novo posicionamento da Procuradoria sobre multa editalícia seria fato novo; manteve o voto-vista", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "considera o voto subsistente; não vota no mérito (sucessora de Hélvio Guerra)", "ts": "0:59:29", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (subsistência; nega provimento)", "ts": "0:59:35", "justificativa": "mantém voto anterior acompanhando o relator", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (subsistência; nega provimento)", "ts": "0:59:45", "justificativa": "parecer jurídico não é fato novo; mantém voto acompanhando Hélvio", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (subsistência; nega provimento)", "ts": "1:00:47", "justificativa": "destacou a questão processual da subsistência", "confianca": "baixa"}
+   ]},
+  {"id": "20", "ts": "1:01:43", "processo": "não identificado", "interessado": "Eldorado Brasil Celulose",
+   "assunto": "Pedido de reconsideração contra o Despacho 3404, multa por atraso na implantação de usina termelétrica (nome incerto na legenda)",
+   "tema": ["fiscalização e sanções", "outorgas de geração (térmica)", "recursos administrativos"],
+   "relator": "Agnes da Costa", "resultado": "por maioria, declarada a subsistência do voto de Hélvio Guerra (34ª RPO, set/2023); conhecido o pedido e negado provimento; multa de R$ 571 mil aprox. (valor incerto); Fernando Mosna suspeito",
+   "resumo_voto": "Mesma questão de fundo do item 13; os diretores mantêm os votos anteriores.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, mantém voto (nega provimento)", "ts": "1:02:57", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "declara suspeição", "ts": "1:02:09", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "mantém voto-vista (provável divergência, vencido)", "ts": "1:02:57", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "considera o voto subsistente", "ts": "1:02:00", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:02:57", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": ["3", "24"],
+ "limites_da_analise": ["Transcrição em bloco único; ts dos votos aproximados a partir do arquivo de legendas.", "Números de processo, valores e nome da usina do item 20 incertos (legenda automática).", "Presença de Ricardo Tili inferida pelas falas; Gentil Nogueira não identificado falando.", "Item 20: composição exata dos votos e de quem ficou vencido não está clara."]
+}

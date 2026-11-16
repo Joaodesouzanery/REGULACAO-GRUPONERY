@@ -1,0 +1,70 @@
+{
+  "meta": {"video_id": "mMzlOUa6zIo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; o vídeo começa no meio da sessão (parte final); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10ª RPO 2026", "data": "2026-05-20", "formato": "presencial com participação por vídeo",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": ["Vídeo cobre apenas a parte final da reunião (começa no dispositivo do voto da Amazonas Energia).", "Fernando Mosna não aparece falando; o secretário registra que ele deixou consignado voto acompanhando o relator nos itens 15, 21 e 27, e que se declarou suspeito no item da Amazonas Energia.", "Registro de retificação, a pedido da diretora Agnes da Costa, do item 2 do dispositivo do processo 21 da 9ª RPO (5/5/2026), sobre atualização pelo IPCA do banco de preços de referência da ANEEL (REH 2.514/2019).", "Item 27: Diretor-Geral e Willamy Frota se comprometem a contatar o MME para clarificar a regra de homologação pelo CMSE (Resolução CNPE 1/2024)."]
+  },
+  "itens": [
+    {
+      "id": "Amazonas Energia - reajuste tarifário 2026", "ts": "0:00:00",
+      "processo": "", "interessado": "Amazonas Energia S.A. (distribuidora)",
+      "assunto": "Homologação das tarifas da Amazonas Energia a partir de 26/05/2026 (efeito médio 6,58%; AT 13,24%; BT 3,79%) e repasses da CCEE referentes a flexibilizações do 2º termo aditivo",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"],
+      "relator": "Willamy Frota", "resultado": "aprovado", "unanime": true,
+      "resumo_voto": "Relator lê dispositivo: homologar tarifas TE e TUSD, receita de DITs, repasses mensais da CCEE para subsídios e flexibilizações (perdas não técnicas, custo operacional, receitas irrecuperáveis, componente Pd do fator X).",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, aprova", "ts": "0:00:00", "justificativa": "Lê o dispositivo do voto homologando as novas tarifas e repasses da CCEE.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:03:17", "justificativa": "Elogia o trabalho coordenado com a deliberação anterior e proclama o resultado.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:03:17", "justificativa": "Voto não audível no trecho; inferido da proclamação.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "suspeição", "ts": "0:04:26", "justificativa": "Secretário registra que o diretor Fernando manifestou suspeição no início da reunião.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "15", "ts": "0:04:34",
+      "processo": "48500.004244/2025-13", "interessado": "Caucaia Solar 1 Projetos de Energia Fotovoltaica SPE Ltda. (geradora; UFVs Caucaia 1 a 3)",
+      "assunto": "Recurso contra despacho da STD que negou devolução de garantias financeiras de acesso (GPA, ~R$ 1,7 mi) executadas pelo ONS e reabertura da revalidação do parecer de acesso",
+      "tema": ["recursos administrativos", "transmissão", "outorgas de geração"],
+      "relator": "Gentil Nogueira", "resultado": "recurso conhecido e não provido", "unanime": true,
+      "resumo_voto": "Sustentação oral de Lívia de Souza Correia (Caucaia). Relator: garantia válida e renovada no protocolo da revalidação é requisito de admissibilidade; execução é consequência automática, não sanção; nega provimento.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova (nega provimento)", "ts": "0:12:32", "justificativa": "A execução da garantia nas hipóteses dos procedimentos de rede não é sanção discricionária mas consequência automática; segue a interpretação da STD e do ONS.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:19:09", "justificativa": "«regra tem que ser cumprida»; critica pedidos recorrentes de flexibilizar regras discutidas em consulta pública.", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:20:02", "justificativa": "Voto consignado previamente, lido pelo secretário.", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:20:07", "justificativa": "Voto não audível no trecho; inferido da proclamação.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "21", "ts": "0:20:27",
+      "processo": "48500.003353/2024-32", "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul)",
+      "assunto": "Pedido de reconsideração contra o Despacho 719/2026, que retificou de ofício o regime para TUST estabilizada (leilão A-6 5/2017) e compensação das diferenças no ciclo 2026/2027",
+      "tema": ["tarifas e revisão tarifária", "transmissão", "recursos administrativos", "leilões"],
+      "relator": "Gentil Nogueira", "resultado": "pedido conhecido e não provido", "unanime": true,
+      "resumo_voto": "Sustentação oral de Bruno Crispin (Marlim Azul): renúncia à estabilização como direito disponível após mudança do ponto de conexão. Relator: estabilização é regra editalícia, não direito individual renunciável; renúncia transferiria encargos a terceiros; nega provimento.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova (nega provimento)", "ts": "0:33:54", "justificativa": "TUST estabilizada integra o desenho econômico do leilão; o agente não pode invocar o regime especial quando convém e descartá-lo quando o ordinário é mais vantajoso.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:41:06", "justificativa": "Empresa busca o regime mais vantajoso conforme o cenário; eventual redução da TUST deveria ser repassada ao consumidor.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:42:18", "justificativa": "«Eu acompanho o voto do eminente relator.»", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:42:20", "justificativa": "Voto consignado previamente, lido pelo secretário.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "27", "ts": "0:42:40",
+      "processo": "48500.012508/2026-93", "interessado": "Abracel (associação de comercializadores)",
+      "assunto": "Medida cautelar para retirar a UHE Foz do Prata (nome incerto) do deck do PMO de maio/2026 até homologação pelo CMSE (art. 7º Resolução CNPE 1/2024)",
+      "tema": ["comercialização", "recursos administrativos"],
+      "relator": "Willamy Frota", "resultado": "cautelar conhecida e negada", "unanime": true,
+      "resumo_voto": "Sustentação oral de Urias Martiniano Garcia Neto (Abracel). Relator mantém o voto e nega provimento; DG chama a contestação de oportunismo diante de prática de 20 anos; Gentil registra incômodo com o texto da norma e sugere melhoria; compromisso de contato com o MME.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, aprova (nega provimento)", "ts": "0:52:02", "justificativa": "Mantém o voto disponibilizado; compromete-se a conversar com o MME para dar contorno à regra.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:53:20", "justificativa": "Homologação pelo CMSE é confirmação praticada há 20 anos; «parece oportunismo» contestar agora; PLD: metade perde, metade ganha.", "tom": "crítico ao requerente", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator, com ressalva", "ts": "0:55:05", "justificativa": "A norma diz que tem que ser após homologação; «a gente não pode se afastar do formalismo»; sugere melhorar publicidade e eventual ajuste da resolução CNPE.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:01:45", "justificativa": "Voto consignado previamente, lido pelo secretário.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Vídeo parcial: itens anteriores ao da Amazonas Energia não constam; número do item e do processo da Amazonas Energia não aparecem.", "Atribuição de falantes inferida (rótulos {..} da legenda são pouco confiáveis); a fala de 0:55:05 atribuída a Gentil Nogueira por contexto.", "Agnes da Costa não aparece presente (apenas pedido de retificação lido pelo secretário).", "Nomes incertos pela legenda: Foz do Prata/Rio do Prata; Urias Martiniano; Lívia de Souza Correia."]
+}

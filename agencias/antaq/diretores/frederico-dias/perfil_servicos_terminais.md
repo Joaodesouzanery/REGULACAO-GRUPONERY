@@ -1,12 +1,12 @@
 # Perfil analítico — Frederico Dias · tema: servicos_terminais
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 37 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 39 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 34 (94% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Votos:** acompanha o relator 36 (94% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); usuário (1); transparência (1); segurança viária (1); governança/rito (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); governança/rito (2); usuário (1); transparência (1); segurança viária (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -47,3 +47,5 @@
 - **RD 614 (2026-08-20)**, item 30 — Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 · voto: *acompanha a divergência* (acompanha, conf. alta) · «fatos e fundamentos da cautelar persistem; mérito deve vir em semanas» · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10504s) · resultado: vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber
 - **RD 614 (2026-08-20)**, item 31 — Manual de fiscalização da Res. 112/2024 (matriz de responsabilidade por armazenagem adicional), em cumprimento ao item 5.3.3 do Acórdão 94/2 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10990s) · resultado: aprovado (sem divergência registrada)
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3603s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Concorda em orientar a SFC por dispositivo; o rito era inovação e já não precisa da diretoria.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7661s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

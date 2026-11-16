@@ -1,0 +1,144 @@
+{
+  "meta": {"video_id": "x2ywLplRyDk", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo (sessão começa ~0:31:27; pausa de almoço entre 4:00:54 e 5:37:36); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "20ª Ordinária 2026", "data": "2026-10-06", "formato": "presencial (sede da ANEEL), transmitida no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Gentil Nogueira presidiu a partir do item 10 (~9:23)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes Costa", "Gentil Nogueira", "Willamy Frota", "Ludimila Lima da Silva"],
+    "ausentes": [],
+    "observacoes": ["Sessão de ~9 horas. Pauta com 48 itens; 11 a 48 em bloco; destacados 21 e 36 (48 voltou ao bloco); retirados 9, 16 e 24; depois retirados 7 e 8 (a pedido do relator) e o item 3 (postes, retirado pelo relator Gentil Nogueira após debate, para diálogo institucional com a Anatel).", "Sustentações orais do item 4 indeferidas pelo DG (já houve 20 sustentações em fases anteriores).", "Item 1 (leilões de energia existente A-1/A-2/A-3): aprovado por maioria, vencido Sandoval Feitosa (queria só o A-1).", "Item 4 (curtailment, CP 45/2019): aprovado por maioria, vencido o voto anterior do ex-diretor Fernando Mosna; Ludimila não vota.", "Item 2 (caducidade Enel SP): relatora Agnes Costa vota por recomendar ao MME a caducidade; Gentil Nogueira pediu vista.", "Item 10 (Cepesa): voto-vista de Agnes lido por Ludimila na ausência da relatora; Willamy Frota pediu vista.", "Agnes Costa saiu antes do item 6 e Sandoval Feitosa antes do item 10, deixando votos consignados em alguns itens."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:52:09", "processo": "", "interessado": "diversos (inclui itens 12, 20, 22, 23, 30, 45 e 48)",
+      "assunto": "Itens de bloco 11 a 48 (exceto destacados 21 e 36 e retirados 16 e 24); item 45 com correção material da relatora Agnes Costa (estabilização da TUST da EOL Ventos de Santa Luzia 17)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade, exceto itens 12 e 20 (por maioria)",
+      "resumo_voto": "Item 12: aprovado por maioria o voto-vista do Diretor-Geral, vencido o voto do ex-diretor Fernando Mosna. Item 20 (recurso da Light, prorrogação de contrato de mútuo financeiro, Despacho 1.989/2026): prevaleceu a divergência de Ludimila Lima da Silva (provimento parcial, prorrogação só até a RTP de 15/3/2027). Item 22: Ludimila declarou-se impedida (atuou como superintendente da SCE). Item 23: o DG chegou a proclamar maioria (vencido voto-vista de Gentil), mas corrigiu: sem divergência, unânime.",
+      "votos": [
+        {"diretor": "Ludimila Lima da Silva", "voto": "aprova o bloco; diverge no item 20; impedida no item 22; não vota no item 12", "ts": "0:56:21", "justificativa": "item 20: prorrogação do mútuo apenas até a revisão tarifária periódica de 15/3/2027", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco; item 20 acompanha a relatora (vencido); item 12 acompanha o voto-vista", "ts": "0:57:38", "justificativa": "falante inferido", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova o bloco; item 12 acompanha voto-vista do DG; item 20 acompanha a divergência de Ludimila; item 23 acompanha a relatora Agnes", "ts": "0:58:10", "confianca": "alta"},
+        {"diretor": "Agnes Costa", "voto": "aprova o bloco, mantém seus votos; item 12 acompanha a vista; item 30 acompanha", "ts": "1:00:12", "justificativa": "falante inferido; relatora do item 20 (vencida) por inferência", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; item 20 acompanha a divergência; proclama", "ts": "1:00:55", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:02:56", "processo": "48500.016112/2026-01", "interessado": "SCL/SGM; MME (preços-teto R$ 290, 270 e 245/MWh)",
+      "assunto": "Aprovação dos editais dos leilões 7, 8 e 9/2026 (leilões de energia existente A-1, A-2 e A-3 de 2026), após a CP 19/2026",
+      "tema": ["leilões (energia existente)", "comercialização (CCEAR, submercado)", "reforma tributária"],
+      "relator": "Agnes Costa", "resultado": "aprovado por maioria (vencido Sandoval Feitosa); encaminhamentos ao MME por unanimidade",
+      "resumo_voto": "Garantia financeira ampliada para um ano de receita de venda, dispensável para quem tem lastro próprio; risco entre submercados não resolvido (depende do Decreto 5.163/2004); voto e nota técnica encaminhados ao MME na CP 228; CEL deve avaliar a garantia para registro do CCEAR em 6 meses. Procuradoria (parecer 248/2026) sem óbice.",
+      "votos": [
+        {"diretor": "Agnes Costa", "voto": "relatora, aprova", "ts": "1:02:56", "justificativa": "risco de submercado vai ser precificado, não desaparece; segurar o leilão expõe distribuidoras a PLD alto; ajuste cabe ao decreto/diretrizes de cada leilão", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "1:24:54", "justificativa": "observou o risco de preço entre submercados (descolamento do Norte) como problema crescente nos processos tarifários; voto inferido pela proclamação", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "1:38:58", "justificativa": "só um 'acompanho a relatora' audível; atribuição incerta", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "acompanha a relatora", "ts": "1:38:58", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge: aprovaria só o A-1; A-2 e A-3 aguardariam a CP 228 do MME; vencido", "ts": "1:34:46", "justificativa": "frustração: consumidor continua arcando com a volatilidade de preço entre submercados e a ANEEL aparentemente nada pode fazer", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:39:59", "processo": "48500.037583 (número incompleto na legenda)", "interessado": "geradores eólicos, solares e hidrelétricos; ONS",
+      "assunto": "Resultado da 3ª fase da CP 45/2019: critérios operativos para redução e limitação de geração (curtailment) no SIN (voto-vista de Gentil Nogueira)",
+      "tema": ["regulação normativa (resolução)", "curtailment / restrição de geração", "outorgas de geração (eólica, solar, hidrelétrica)", "ONS"],
+      "relator": "Agnes Costa (voto-vista: Gentil Nogueira)", "resultado": "aprovado por maioria, vencido o voto anterior do ex-diretor Fernando Mosna",
+      "resumo_voto": "Rateio dos cortes energéticos entre renováveis; período-sombra para testar a inclusão de hidrelétricas com EVT e, depois, implantação escalonada imediata; rateio alternativo priorizando usinas sem contrato de energia de reserva (sugestão da SGM); reclassificação de eventos levada à revisão da REN 1030; impugnação excepcional das classificações do ONS; autoprodução: corte só no excedente ao consumo local; auditoria independente permanente. Relatora incorporou os ajustes; SGM deve revisar a REN 1017 em até 18 meses (proposta do DG).",
+      "votos": [
+        {"diretor": "Agnes Costa", "voto": "relatora, aprova com incorporação dos ajustes do voto-vista", "ts": "2:19:56", "justificativa": "concorda com proposta mais gradual e em deixar a reclassificação para a REN 1030", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "voto-vista: concilia relatora e Mosna; converge com a relatora", "ts": "1:39:59", "justificativa": "prudência regulatória com progressividade; período-sombra para gerar evidências antes da implantação", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora com os aprimoramentos", "ts": "2:31:33", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "2:32:08", "justificativa": "é preciso concluir; estabilidade regulatória; impugnações pela governança da REN 1017", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:32:08", "processo": "48500.026912/... (número incompleto na legenda)", "interessado": "distribuidoras (Abradee: Ricardo Brandão; Copel) e prestadoras de telecomunicações; Anatel",
+      "assunto": "Atualização da regulação do compartilhamento de postes entre distribuidoras e telecomunicações após o parecer vinculante 4/2026 da CNU/CGU/AGU (cessão obrigatória da exploração comercial, art. 16 do decreto)",
+      "tema": ["regulação normativa (resolução)", "compartilhamento de infraestrutura (postes)", "distribuição", "institucional (Anatel, AGU)"],
+      "relator": "Gentil Nogueira", "resultado": "retirado de pauta pelo relator após debate",
+      "resumo_voto": "Relator propôs minuta conjunta com o PRPP (2 a 3% dos postes por ano); Agnes Costa propôs não vedar a participação de empresa do grupo da distribuidora como cessionária; Ludimila apresentou ponto na fundamentação, retirado para convergência. Relator retirou o processo para conversa institucional com a Anatel (DG com o presidente da Anatel) e retorno em ~15 dias; DG pediu à SFT acelerar a fiscalização das distribuidoras.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator; retirou de pauta", "ts": "3:59:01", "justificativa": "evitar novo embate jurídico de pareceres com a Anatel; solução de curto prazo", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "5:37:36", "processo": "48500.033124/2024-72", "interessado": "Enel Distribuição São Paulo (Eletropaulo); sustentações orais da Enel, Consórcio Intermunicipal Grande ABC, prefeituras e sindicato",
+      "assunto": "Procedimento de avaliação de recomendação de caducidade do contrato de concessão 162/2008 (Enel São Paulo)",
+      "tema": ["fiscalização e sanções (caducidade)", "distribuição", "qualidade do serviço / eventos climáticos", "institucional/TCU"],
+      "relator": "Agnes Costa", "resultado": "pedido de vista de Gentil Nogueira; deliberação suspensa",
+      "resumo_voto": "Relatora vota por recomendar ao MME a caducidade da concessão: esgotados os instrumentos da regulação responsiva (planos de resultado, multas, plano de recuperação), falhas estruturais de atendimento a emergências persistem; melhora não se confunde com correção; decisão final cabe ao poder concedente.",
+      "votos": [
+        {"diretor": "Agnes Costa", "voto": "relatora, recomenda a caducidade ao MME", "ts": "6:32:35", "justificativa": "agência exauriu mecanismos regulatórios; persistência das falhas mesmo após penalidades e monitoramento; recomendação é técnica e instrutória", "confianca": "alta"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "manifesta alinhamento com a relatora (sem voto formal)", "ts": "7:54:48", "justificativa": "voto respondeu a todos os argumentos; processo segue no MME", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "sem voto (comentário)", "ts": "8:01:25", "justificativa": "voto longo disponibilizado na hora; concessão desafiadora; reconhece melhorias de desempenho citadas pela Enel", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "pede vista", "ts": "8:04:05", "justificativa": "aprofundar o conhecimento sobre o voto", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "sem voto (comentário); concede vista", "ts": "7:48:34", "justificativa": "locus adequado das discussões estruturais é o MME; prazo de 60 dias de determinação do TCU; não chegar a 2028 sem operador definido", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "8:05:46", "processo": "48500.0261.../2025 (número incompleto na legenda)", "interessado": "STD; ONS",
+      "assunto": "Resultado da CP 13/2026: criação do submódulo 1.4 dos Procedimentos de Rede (cadastro de agentes e representantes) e alteração da REN 903/2020",
+      "tema": ["regulação normativa (resolução)", "procedimentos de rede"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprovados documentos 'responsabilidades' (ANEEL) e 'operacional' (ONS), vigência em 1/1/2027.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "8:06:40", "confianca": "alta"},
+        {"diretor": "Agnes Costa", "voto": "acompanha o relator", "ts": "8:09:21", "justificativa": "três 'acompanho' sem identificação", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "8:09:23", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "acompanha o relator", "ts": "8:09:23", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "8:09:24", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "8:10:16", "processo": "48500.001812/2026-21", "interessado": "geradores, consumidores, CCEE (sustentação oral não identificada)",
+      "assunto": "Abertura de consulta pública sobre base de custeio e metodologia de rateio do encargo de reserva de capacidade (ERCAP) dos sistemas de armazenamento em baterias (AIR 5/2026; REN 1009/2022 e 957/2021)",
+      "tema": ["CDE e encargos setoriais (encargo de reserva de capacidade)", "regulação normativa (consulta pública)", "armazenamento em baterias", "geração distribuída (MMGD)"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por maioria (prazo de 30 dias, até 9/11/2026; Agnes Costa consignou voto no texto original)",
+      "resumo_voto": "Exclusão da MMGD e do armazenamento autônomo da base de rateio nesta etapa; segregação do RCAP geral; workshop durante a CP. A pedido do DG, prazo reduzido de 45 para 30 dias para tentar definir a regra antes do leilão.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova (aceita 30 dias)", "ts": "8:40:51", "justificativa": "MMGD fora da base exigiria desenho regulatório compatível com a Lei 14.300; CP é o instrumento para aprofundar", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha com prazo de 30 dias e proclama", "ts": "8:52:49", "justificativa": "preocupação em fazer o leilão com o rateio indefinido; agentes esperam mudança legal", "confianca": "alta"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "acompanha o voto com 30 dias de CP", "ts": "8:56:43", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha com a colocação de Ludimila", "ts": "8:56:46", "confianca": "media"},
+        {"diretor": "Agnes Costa", "voto": "voto consignado acompanhando o voto original do relator (ausente)", "ts": "8:56:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "21", "ts": "8:57:56", "processo": "48500.000472/... (número incompleto na legenda)", "interessado": "ABEEólica e Absolar (sustentação oral: Luís Eduardo Diniz Araújo)",
+      "assunto": "Recurso contra o Despacho SFT 1.877/2026 que negou revisão do RAP 2/2023 (perturbação de 15/8/2023)",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "ONS / operação", "outorgas de geração (eólica, solar)"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade: recurso conhecido e não provido",
+      "resumo_voto": "Reabrir o RAP após processos sancionatórios instaurados é inapropriado; questões podem ser levadas aos processos sancionatórios do apagão de 15/8/2023.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, nega provimento", "ts": "9:13:20", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "9:14:05", "justificativa": "rever o RAP implicaria desconstituir todos os processos punitivos; agentes podiam contestar na rotina do ONS à época", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "9:21:33", "justificativa": "falante incerto", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "acompanha o relator", "ts": "9:21:33", "justificativa": "voto inferido pela unanimidade", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "10", "ts": "9:22:02", "processo": "48500.002411/2024-19", "interessado": "Centrais Elétricas de Pernambuco (Cepesa); UTEs Termo Manaus e Pau Ferro I",
+      "assunto": "Recurso contra Despacho STD 2.095/2025 que negou isenção dos encargos rescisórios do CUST 18/2008 após antecipação do fim das outorgas (destacado do circuito deliberativo)",
+      "tema": ["transmissão (CUST, encargos)", "recursos administrativos", "outorgas de geração (térmica)"],
+      "relator": "Fernando Mosna (voto-vista: Agnes Costa)", "resultado": "pedido de vista de Willamy Frota",
+      "resumo_voto": "Voto-vista de Agnes (lido por Ludimila): provimento para afastar integralmente os EUST rescisórios no caso concreto.",
+      "votos": [
+        {"diretor": "Agnes Costa", "voto": "voto-vista: dá provimento (lido na sua ausência)", "ts": "9:23:45", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "pede vista", "ts": "9:25:31", "justificativa": "similaridade com outro processo da relatora; queria discutir com ela, ausente", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "36", "ts": "9:26:27", "processo": "48500.007285/2026-69", "interessado": "Tesla Comercializadora de Energia S.A. (sustentação oral: Urias Martiniano Garcia Neto)",
+      "assunto": "Medida cautelar para suspender EER e ERCAP sobre operações de exportação de energia até o mérito do recurso contra o Despacho SGM 3.522/2026",
+      "tema": ["CDE e encargos setoriais (EER, ERCAP)", "comercialização (exportação)", "medida cautelar"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade: cautelar indeferida",
+      "resumo_voto": "Sem fumaça do bom direito; mérito em análise na SGM, que deve passar pela Procuradoria.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, indefere", "ts": "9:34:24", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "9:35:41", "justificativa": "falante incerto", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima da Silva", "voto": "acompanha o relator", "ts": "9:35:41", "justificativa": "voto inferido pela unanimidade", "confianca": "baixa"},
+        {"diretor": "Agnes Costa", "voto": "voto consignado acompanhando o relator", "ts": "9:35:42", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto consignado acompanhando o relator", "ts": "9:35:42", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["3 (retirado pelo relator após debate)", "7", "8", "9", "16", "24"],
+  "limites_da_analise": ["Ludimila Lima da Silva não consta da lista canônica de diretores (config_agencia.json); nome como dito. Fernando Mosna citado como 'então diretor' (votos anteriores subsistem nos itens 4, 10 e 12).", "Votos dos itens de bloco 12, 20, 23 e 30 parcialmente atribuídos por inferência (falantes não identificados na legenda); assuntos dos itens 12, 23 e 30 não foram lidos.", "Muitos 'acompanho' sem identificação do falante (itens 1, 5, 21, 36); atribuições de confiança baixa.", "Lacuna da legenda entre 4:00:54 e 5:37:36 (intervalo de almoço).", "Números de processos incompletos ou truncados na legenda (itens 3, 4, 5, 21).", "Itens 2 e 3 envolveram debates longos; resumo cobre os pontos principais, não toda a discussão."]
+}

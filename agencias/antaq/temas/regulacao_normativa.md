@@ -300,6 +300,18 @@
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
 - **RD 464 (2019-06-28)**, 27 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI13 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 465 (2019-08-21)**, 2 · relator **Francisval Mendes** · Revisão da Resolução 1864-ANTAQ/2010 (afretamento de embarcação na navegação interior por EBN): submissão da minuta à audiência pública → aprovado por unanimidade, com ajustes formais do voto-vista e prazo de audiência pública d
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=400s)
+- **RD 465 (2019-08-21)**, 3 · relator **Francisval Mendes** · Norma sobre obrigatoriedade de prestação de informações ao Sistema de Desempenho da Navegação (SDN) pelas empresas de navegação de apoio portuário (pó → aprovado nos termos do voto condutor (unânime)
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=638s)
+- **RD 465 (2019-08-21)**, 5 · relator **Francisval Mendes** · Proposta de norma de arrendamento simplificado → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1573s)
+- **RD 465 (2019-08-21)**, 7 · relator **Adalberto Tokarski** · Modelagem para definição do WACC do setor portuário → adiado: prorrogação de vista de Mário Povia
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1634s)
+- **RD 465 (2019-08-21)**, 11 · relator **Mário Povia** · Revisão da Resolução 2389/2012 (serviço de segregação e entrega de contêineres, SSE/THC2, nos terminais) → aprovado nos termos do voto-vista de Francisval Mendes (minuta 831703), com supressão dos 
+  - votos: Mário: revisor_acompanha; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1937s)
+- **RD 465 (2019-08-21)**, 37 · relator **Mário Povia** · Revisão da Resolução 2448/2012 (participação social em audiências e consultas públicas), alinhada à Lei 13.848/2019 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=9734s)
 - **RD 465 (2019-08-22)**, 78 · relator **Francisval Mendes** · Consulta sobre registro de FSRU (unidade flutuante de regaseificação) e aplicação das normas de navegação → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3895s)
 - **RD 465 (2019-08-22)**, 79 · relator **Francisval Mendes** · Consulta sobre procedimentos para antecipação de receitas de tarifas e arrendamentos (Decreto 9.048/2017) → aprovado por unanimidade
@@ -326,6 +338,18 @@
   - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=267s)
 - **RD 466 (2019-09-27)**, 57 · relator **Mário Povia** · Resolução normativa sobre cadastro de usuário externo, peticionamento e intimação eletrônicos, após audiência pública → aprovado nos termos do voto do relator
   - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=455s)
+- **RD 466 (2019-09-27)**, 3 · relator **Adalberto Tokarski** · Modelagem do custo médio ponderado de capital (WACC) do setor portuário, diferenciado por natureza de carga (Nota Técnica 82/2018) → aprovado por unanimidade: nota técnica aprovada e submetida a audiência pública por 45 dia
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=466s)
+- **RD 466 (2019-09-27)**, 9 · relator **Francisval Mendes** · Critério temporal para exclusão de embarcações da frota autorizada de EBN em razão de docagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2005s)
+- **RD 466 (2019-09-27)**, 10 · relator **Francisval Mendes** · Norma sobre afretamento de embarcação estrangeira por tempo em substituição a embarcações em docagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2049s)
+- **RD 466 (2019-09-27)**, 11 · relator **Francisval Mendes** · Norma sobre regras do processo decisório da Diretoria Colegiada → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2117s)
+- **RD 466 (2019-09-27)**, 24 · relator **Mário Povia** · Revisão da RN 01/2015 (afretamento) e da Resolução 1811 (operação comercial de EBN): envio a audiência e consulta pública → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4190s)
+- **RD 466 (2019-09-27)**, 50 · relator **Mário Povia** · Norma do Sistema de Outorga Eletrônica (SOE), pós audiência pública → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7532s)
 - **RD 466 (2019-09-27)**, 123 · relator **Adalberto Tokarski** · Dilação de prazo de resolução → retirado de pauta pelo relator
   - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10423s)
 - **RD 466 (2019-09-27)**, 125 (referendo) · relator **Francisval Mendes** · Referendo das Resoluções 7.141 e 7.154: audiência pública da norma sobre estudos simplificados (EVTEA) para arrendamentos de menor valor (até R$ 150 m → referendado
@@ -1022,3 +1046,5 @@
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9657s)
 - **RD 621 (2026-10-27)**, 28 · relator **Alexandre Florambel** · Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10632s)
+- **RD 623 (2026-11-13)**, 23 · relator **Alexandre Florambel** · Consulta sobre inadimplência de usuários e possibilidade de suspensão de serviços → encaminhado à SFC (relator absteve-se de votar o mérito)
+  - votos: Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=14745s)

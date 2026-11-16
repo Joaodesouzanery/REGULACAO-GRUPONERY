@@ -1,12 +1,12 @@
 # Perfil analítico — Frederico Dias · tema: tarifas_portuarias
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 49 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 52 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 43 (93% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
+**Votos:** acompanha o relator 46 (93% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
 **Como relator:** 3/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); eficiência/celeridade (1); concorrência (1); governança/rito (1); participação social (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); eficiência/celeridade (1); concorrência (1); governança/rito (1); participação social (1); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -59,3 +59,6 @@
 - **RD 621 (2026-10-27)**, item 10 — Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abert · voto: *relator, aprova* (relator, conf. alta) · «problema definido como risco de condutas abusivas; sem tabelamento de preços; alternativas 1.5 e 1.2 próximas, escolha só após participação social» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3444s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 11 — Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4215s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 14 — Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com e · voto: *acompanha o relator com sugestões de redação* (acompanha, conf. alta) · «É consulta, sem efeito concreto; controle do orçamento continua com o poder público; sugere 'reconhecer a possibilidade'.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19553s) · resultado: aprovado com ajustes sugeridos pelo DG
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. alta) · «Valores não batem com as evidências; alerta para padronização entre analistas e para não incentivar quem apresenta menos informação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20539s) · resultado: aprovado (recurso desprovido)

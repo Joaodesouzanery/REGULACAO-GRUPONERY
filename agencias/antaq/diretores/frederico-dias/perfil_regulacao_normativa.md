@@ -1,11 +1,11 @@
 # Perfil analítico — Frederico Dias · tema: regulacao_normativa
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 49 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 49 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 36 (90% dos votos em que não era relator) · relator 9 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
 **Como relator:** 9/9 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (3); TCU/controle externo (2); participação social (2); interesse público (1); concorrência (1); usuário (1)
 
 ## Evidências (reunião · item · voto · justificativa)

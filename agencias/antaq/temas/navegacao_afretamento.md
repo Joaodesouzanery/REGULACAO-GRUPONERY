@@ -1500,6 +1500,54 @@
   - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
 - **RD 464 (2019-06-28)**, 35 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN - julgado em bloco (itens 32 a 35) → aprovado por unanimidade nos termos do voto condutor (bloco)
   - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
+- **RD 465 (2019-08-21)**, 2 · relator **Francisval Mendes** · Revisão da Resolução 1864-ANTAQ/2010 (afretamento de embarcação na navegação interior por EBN): submissão da minuta à audiência pública → aprovado por unanimidade, com ajustes formais do voto-vista e prazo de audiência pública d
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=400s)
+- **RD 465 (2019-08-21)**, 3 · relator **Francisval Mendes** · Norma sobre obrigatoriedade de prestação de informações ao Sistema de Desempenho da Navegação (SDN) pelas empresas de navegação de apoio portuário (pó → aprovado nos termos do voto condutor (unânime)
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=638s)
+- **RD 465 (2019-08-21)**, 9 · relator **Adalberto Tokarski** · Registro de instalação portuária (instalação em construção) → aprovado por maioria; Mário Povia vencido
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1847s)
+- **RD 465 (2019-08-21)**, 21 · relator **Mário Povia** · Outorga de autorização para operar como EBN na navegação de apoio portuário e de apoio marítimo → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4255s)
+- **RD 465 (2019-08-21)**, 22 · relator **Mário Povia** · Outorga de autorização para operar como EBN na travessia Carolina (MA) - Filadélfia (TO) → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4327s)
+- **RD 465 (2019-08-21)**, 23 · relator **Mário Povia** · Renúncia de outorga de EBN (termo de autorização 757) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4482s)
+- **RD 465 (2019-08-21)**, 24 · relator **Mário Povia** · Renúncia de outorga de EBN (termo de autorização 560) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4563s)
+- **RD 465 (2019-08-21)**, 25 · relator **Mário Povia** · Renúncia de outorga de EBN (termo de autorização 569, travessia do rio Parnaíba entre Tasso Fragoso-MA e Baixa Grande do Ribeiro-PI) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4623s)
+- **RD 465 (2019-08-21)**, 34 · relator **Mário Povia** · Processo sancionador: apoio marítimo à Petrobras com a embarcação Transdata 10 sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=7817s)
+- **RD 465 (2019-08-21)**, 39 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 40 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 41 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 42 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 43 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 44 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 45 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 46 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 47 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 39 a 47) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11697s)
+- **RD 465 (2019-08-21)**, 48 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 52 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 53 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 54 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 55 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 56 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
 - **RD 465 (2019-08-22)**, 62 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: cobrança da autoridade portuária pelo uso do espelho d'água pelo atracadouro flutuante do ferry boat Itaj → aprovado por unanimidade, com acréscimo proposto por Mário Povia
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=932s)
 - **RD 465 (2019-08-22)**, 76 · relator **Francisval Mendes** · Consulta sobre afretamento a casco nu para obter outorga de EBN e cessão de tonelagem; vista de Adalberto Tokarski → não concluído: vista de Adalberto Tokarski após o voto do relator
@@ -1552,12 +1600,54 @@
   - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4s)
 - **RD 466 (2019-09-27)**, 56 · relator **Mário Povia** · Consulta sobre interpretação do art. 28 da Lei 12.815/2013: dispensa de operador portuário em operações com embarcações de navegação interior → relator votou; processo vai à vista de Francisval Mendes
   - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=267s)
+- **RD 466 (2019-09-27)**, 2 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário em Porto Velho (RO) (RN 13) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=294s)
 - **RD 466 (2019-09-27)**, 58 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na navegação de apoio portuário com embarcações de até 2.000 HP (RN 5/2016) (julgado em bloco com o item 5 → aprovado nos termos do voto do relator (bloco 58-59)
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=616s)
 - **RD 466 (2019-09-27)**, 59 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na travessia interestadual de passageiros no Rio São Francisco entre Penedo-AL e Neópolis-SE (julgado em b → aprovado nos termos do voto do relator (bloco 58-59)
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=616s)
+- **RD 466 (2019-09-27)**, 5 · relator **Adalberto Tokarski** · Consulta: comprovação de operação comercial com carga própria (Resolução 1811/2010) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=1049s)
+- **RD 466 (2019-09-27)**, 6 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário em Santarém (PA), fora da poligonal do porto organizado → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=1232s)
+- **RD 466 (2019-09-27)**, 9 · relator **Francisval Mendes** · Critério temporal para exclusão de embarcações da frota autorizada de EBN em razão de docagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2005s)
+- **RD 466 (2019-09-27)**, 10 · relator **Francisval Mendes** · Norma sobre afretamento de embarcação estrangeira por tempo em substituição a embarcações em docagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2049s)
+- **RD 466 (2019-09-27)**, 13 · relator **Francisval Mendes** · Consulta sobre afretamento a casco nu e cessão de tonelagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2180s)
+- **RD 466 (2019-09-27)**, 18 · relator **Mário Povia** · Outorga de autorização para EBN na travessia Carolina (MA) - Filadélfia (TO), rio Tocantins → indeferido, nos termos do voto do relator; Adalberto Tokarski vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2332s)
 - **RD 466 (2019-09-27)**, 71 · relator **Francisval Mendes** · Processo sancionador transitado em julgado (não envio de contrato de afretamento em 60 dias): revogação de sobrestamento → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2381s)
+- **RD 466 (2019-09-27)**, 20 · relator **Francisval Mendes** · Pedido de intervenção contra bloqueio das circularizações de afretamento (LC 05/04/2019 A e B) (julgado em conjunto com os itens 20, 21 e 26) → aprovado nos termos do voto do relator; Adalberto Tokarski vencido
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2582s)
+- **RD 466 (2019-09-27)**, 21 · relator **Francisval Mendes** · Medida cautelar para impedir bloqueio com embarcação estrangeira sem suspensão de bandeira (julgado em conjunto com os itens 20, 21 e 26) → aprovado nos termos do voto do relator; Adalberto Tokarski vencido
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2582s)
+- **RD 466 (2019-09-27)**, 26 · relator **Francisval Mendes** · Consulta sobre interpretação do art. 6º da RN 01/2015 (equiparação de embarcação estrangeira à brasileira) (julgado em conjunto com os itens 20, 21 e  → aprovado nos termos do voto do relator; Adalberto Tokarski vencido
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2582s)
+- **RD 466 (2019-09-27)**, 24 · relator **Mário Povia** · Revisão da RN 01/2015 (afretamento) e da Resolução 1811 (operação comercial de EBN): envio a audiência e consulta pública → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4190s)
+- **RD 466 (2019-09-27)**, 27 · relator **Mário Povia** · Convênio de delegação do terminal hidroviário de Belém → adiado: vistas de Adalberto Tokarski e Francisval Mendes
+  - votos: Adalberto: outro; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4429s)
+- **RD 466 (2019-09-27)**, 28 · relator **Mário Povia** · Outorga de autorização para operar como EBN: apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4474s)
+- **RD 466 (2019-09-27)**, 29 · relator **Mário Povia** · Outorga de autorização para operar como EBN: apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4518s)
+- **RD 466 (2019-09-27)**, 30 · relator **Mário Povia** · Outorga de autorização para operar como EBN: navegação interior de biocombustíveis, petróleo e derivados na região amazônica (faixa de fronteira) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4561s)
+- **RD 466 (2019-09-27)**, 31 · relator **Mário Povia** · Outorga de autorização para operar como EBN: apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4605s)
+- **RD 466 (2019-09-27)**, 32 · relator **Mário Povia** · Outorga de autorização para operar como EBN: navegação interior de granéis sólidos e carga geral na região amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4651s)
+- **RD 466 (2019-09-27)**, 33 · relator **Mário Povia** · Outorga de autorização para operar como EBN: apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4696s)
+- **RD 466 (2019-09-27)**, 34 · relator **Mário Povia** · Outorga de autorização para operar como EBN: navegação interior de carga geral na região amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4742s)
+- **RD 466 (2019-09-27)**, 35 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 40/2019 (outorga de EBN na cabotagem negada) → aprovado por unanimidade (provido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4787s)
+- **RD 466 (2019-09-27)**, 50 · relator **Mário Povia** · Norma do Sistema de Outorga Eletrônica (SOE), pós audiência pública → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7532s)
 - **RD 466 (2019-09-27)**, 97 · relator **Adalberto Tokarski** · Processo sancionador: omissão de documentos solicitados pela fiscalização (navegação interior longitudinal) → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8072s)
 - **RD 466 (2019-09-27)**, 102 · relator **Adalberto Tokarski** · Consulta sobre efeito do convênio de delegação do Porto de Manaus ao Amazonas sobre a travessia na diretriz da BR-319 → aprovado nos termos do voto do relator
@@ -3064,3 +3154,9 @@
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10632s)
 - **RD 621 (2026-10-27)**, 30 · relator **Alexandre Florambel** · Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11800s)
+- **RD 623 (2026-11-13)**, 8 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6124s)
+- **RD 623 (2026-11-13)**, 26 · relator **Caio Farias** · Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas → aprovado (cautelar parcialmente deferida)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s)
+- **RD 623 (2026-11-13)**, 25 · relator **Alexandre Florambel** · Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s)

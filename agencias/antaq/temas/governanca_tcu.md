@@ -132,6 +132,8 @@
   - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4774s)
 - **RD 465 (2019-08-22)**, 96 · relator **Adalberto Tokarski** · Regulamentação do art. 79, §5º, da Res. 3259 (intimações por aplicativos de mensagem e e-mail) → aprovado por unanimidade (portaria do Diretor-Geral)
   - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6878s)
+- **RD 466 (2019-09-27)**, 11 · relator **Francisval Mendes** · Norma sobre regras do processo decisório da Diretoria Colegiada → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2117s)
 - **RD 466 (2019-09-27)**, 81 · relator **Francisval Mendes** · Nova prorrogação de prazo para baixa e desincorporação de bens do Porto de Natal (leilão) → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3640s)
 - **RD 467 (2019-10-21)**, 4 · relator **Francisval Mendes** · Pedido de suspensão cautelar da movimentação mínima contratual (MMC) no arrendamento do Tecon Imbituba e reequilíbrio econômico-financeiro → prevaleceu o voto-vista: arquivamento por perda superveniente de objeto (por maioria; rela
@@ -448,3 +450,7 @@
   - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=6938s)
 - **RD 621 (2026-10-27)**, 31 · relator **Alexandre Florambel** · Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão TCU 959/202 → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12219s)
+- **RD 623 (2026-11-13)**, 27 · relator **Frederico Dias** · Proposta de alteração da Portaria DG-ANTAQ 528/2024 (Programa de Gestão e Desempenho — teletrabalho: teto de 80% para 30%, parcial com 14 horas presen → retirado de pauta pelo próprio relator (DG)
+  - votos: Frederico: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2168s)
+- **RD 623 (2026-11-13)**, 2 · relator **Lima Filho** · Referendo do Acórdão 678/2026 — recurso de 2ª instância em pedido de acesso à informação (documentos sobre contratação de terceiros e ressarcimento em → aprovado (referendo)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2845s)

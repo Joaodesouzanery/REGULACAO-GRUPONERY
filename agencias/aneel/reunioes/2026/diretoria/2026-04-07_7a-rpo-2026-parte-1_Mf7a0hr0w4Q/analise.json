@@ -1,0 +1,46 @@
+{
+ "meta": {"video_id": "Mf7a0hr0w4Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "7ª RPO 2026 (Parte 1)", "data": "2026-04-07", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": ["Agnes da Costa chegou ao longo da reunião (deixou votos do bloco com o DG); quórum inicial de quatro diretores.", "Pauta com 32 itens; itens 14 a 32 em bloco; destacados 21 e 28; retirados 2, 4, 5, 6 e 18; sustentação oral pedida para 8, 11 e 13.", "Parte 1 cobre bloco, item 1, item 7 e item 13 (Enel SP); a sessão continuou à tarde (outro vídeo).", "Atas da 6ª RPO e do 4º circuito deliberativo aprovadas."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:11:51", "processo": "", "interessado": "diversos", "assunto": "Itens 14 a 32 em bloco (exceto destacados 21 e 28 e retirado 18)", "tema": ["institucional"], "relator": "diversos", "resultado": "aprovados por unanimidade", "resumo_voto": "Aprovação dos itens remanescentes do bloco; um diretor declarou suspeição no item 29 (transferência de controle da Rorem Energia para controladas do grupo JF).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:11:59", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "media"},
+    {"diretor": "Willamy Frota", "voto": "aprova o bloco", "ts": "0:12:08", "justificativa": "aprovo os itens remanescentes do bloco", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco (votos deixados com o DG)", "ts": "0:12:31", "justificativa": "votos relativos ao bloco entregues ao Diretor-Geral", "confianca": "media"},
+    {"diretor": "Gentil Nogueira", "voto": "aprova o bloco; suspeição no item 29", "ts": "0:12:31", "justificativa": "registra suspeição em todos os processos envolvendo o grupo JF desde 2024", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:12:31", "justificativa": "aprova e proclama unanimidade", "confianca": "alta"}
+   ]},
+  {"id": "1", "ts": "0:13:00", "processo": "48500.004996/2026-5 (incerto)", "interessado": "SCE / Secretaria Executiva de Leilões", "assunto": "Abertura de consulta pública (9/4 a 25/5/2026) para aperfeiçoar o edital do Leilão de Transmissão 4/2026 (9 lotes; inclui interligação Brasil-Bolívia e ativos da Jaçanã Transmissão sob análise de caducidade; Manaus-Porto Velho fora do escopo)", "tema": ["leilões", "transmissão", "regulação normativa"], "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade", "resumo_voto": "Instaurar consulta pública; ativos do contrato 2/2022 (Jaçanã) incluídos ressalvada a análise de caducidade; Manaus-Porto Velho fora por falta de consolidação no planejamento. Apresentação técnica de Gabriel Costa da Silva e André Tiburtino (SCE).",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:34:38", "justificativa": "inclusão do lote 9 (Jaçanã) sem prejuízo da análise de caducidade; exclusão de Manaus-Porto Velho preserva coerência com o poder concedente", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:41:16", "justificativa": "questionou salvaguardas contra participação de agentes inadimplentes/caducados e sócios de empresas caducadas; área técnica estudará até o fim da consulta", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:41:14", "justificativa": "acompanha o relator", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:41:14", "justificativa": "acompanha o relator", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:41:16", "justificativa": "acompanha o relator (presença no momento incerta)", "confianca": "baixa"}
+   ]},
+  {"id": "7", "ts": "0:42:20", "processo": "48500.003006/2025-10 (incerto)", "interessado": "Copel Distribuição S.A. (distribuidora)", "assunto": "Abertura de consulta pública (8/4 a 22/5/2026, reunião presencial em Curitiba 29/4) para a revisão tarifária periódica 2026 da Copel Distribuição; efeito médio preliminar 19,20% com diferimento de R$ 1,95 bi (seria 26,71% sem diferimento)", "tema": ["tarifas e revisão tarifária", "regulação normativa"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade", "resumo_voto": "Instaurar consulta pública da RTP 2026 da Copel; diferimento pedido pela distribuidora atende a admissibilidade do PRORET.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:43:20", "justificativa": "efeito médio de 19,20%; diferimento de R$ 1,95 bi reduz cerca de 6,79 p.p.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:46:06", "justificativa": "importante manter o debate com a sociedade na consulta pública", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:46:05", "justificativa": "acompanha o relator", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:46:05", "justificativa": "acompanha o relator", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:46:06", "justificativa": "acompanha o relator (presença no momento incerta)", "confianca": "baixa"}
+   ]},
+  {"id": "13", "ts": "0:46:51", "processo": "48500.003331/2024-72 (incerto)", "interessado": "Enel Distribuição São Paulo (distribuidora)", "assunto": "Termo de Intimação 49/2024 (SFT): falhas e transgressões da Enel SP; voto-vista sobre caducidade da concessão (contrato 162/98)", "tema": ["fiscalização e sanções", "caducidade", "distribuição"], "relator": "Agnes da Costa (voto-vista: Gentil Nogueira)", "resultado": "unanimidade pelo voto-vista de Gentil Nogueira: rejeitar argumentos da Enel, reconhecer que as falhas não foram regularizadas estruturalmente, instaurar procedimento tendente à caducidade com prazo de 30 dias para defesa, suspender análise da renovação; por maioria rejeitada a proposta do DG de plano de intervenção administrativa em 60 dias", "resumo_voto": "Sustentações orais de Marçal Justen Filho (Enel SP) e Luciana Sant'Ana Nardi (procuradora-geral do município de São Paulo). Gentil acolheu sugestão da procuradoria para instaurar processo de caducidade na ANEL (Decreto 12.068/2024) em vez de recomendar direto ao MME; incluiu reconhecimento do prazo de acompanhamento do plano até 31/3/2026.",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "voto-vista: instaurar processo de caducidade, prazo de 30 dias para defesa", "ts": "1:18:47", "justificativa": "medidas do plano de recuperação não sanaram estruturalmente as falhas do TI 49; subsistem as transgressões; necessidade de rito formal para segurança jurídica", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "2:40:15", "justificativa": "voto-vista se constrói sobre o seu; convencimento técnico de que a falha não foi saneada estruturalmente", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o voto-vista na íntegra", "ts": "2:48:18", "justificativa": "não acompanha o DG: recomendar caducidade já seria juízo de mérito; intervenção perde premência após fim do período úmido", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o voto-vista", "ts": "3:03:36", "justificativa": "voto do diretor Gentil irretocável; destaca equilíbrio do colegiado", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista; diverge e vencido quanto ao plano de intervenção", "ts": "3:14:28", "justificativa": "adere ao voto de Gentil mas mantém voto separado para que as áreas técnicas preparem plano/rito de intervenção administrativa em 60 dias; nega ter sugerido intervenção na empresa; antes votara (24/2) por recomendar caducidade", "tom": "firme", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["2", "4", "5", "6", "18"],
+ "limites_da_analise": ["Vídeo é a Parte 1 (manhã); itens 8 a 12, 21 e 28 estão na parte da tarde.", "Números de processo vêm da legenda automática e são incertos.", "Atribuição dos votos do bloco e dos 'acompanho' curtos (0:41, 0:46, 3:19) é inferida; não ficou claro qual diretor declarou suspeição no item 29.", "Não há trecho sem marcação de tempo entre 1:18:47 e 2:35:23 (leitura do voto-vista de Gentil); ts aproximado.", "Ricardo Tili aparece nas etiquetas de falante inferido, mas não há indício de presença; Ludimila Lima não mencionada."]
+}

@@ -1,11 +1,11 @@
 # Perfil analítico — Alber Vasconcelos · tema: governanca_tcu
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 82 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 83 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 68 (98% dos votos em que não era relator) · relator 13 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 69 (98% dos votos em que não era relator) · relator 13 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 6/13 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); segurança viária (2); evidência/dados (2); eficiência/celeridade (1)
 **Tom (inferência da leitura, não métrica):** crítico ao estoque de outorgas sem obra | contrariado com a leitura do voto pelo relator | crítico ao TCU (inferência) | crítico | enfático
 
@@ -93,3 +93,4 @@
 - **RD 621 (2026-10-27)**, item 9 — Contribuições da Consulta Pública 5/2026 e aprovação da alteração da Resolução 66/2022 (instrução processual e processo decisório) · voto: *acompanha, com elogio* (acompanha, conf. baixa) · «processo decisório mais eficaz e seguro; consolida práticas» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3840s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 19 — Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle po · voto: *relator, aprova (acolhe prazo de 90 dias)* (relator, conf. alta) · «controvérsias estão nas premissas, não no fluxo de caixa descontado; reduzir subjetividade e assimetria; Acórdão TCU 2206/2026 e consulta do MPor sobre a Portaria 530» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=7696s) · resultado: aprovado por unanimidade, com prazo ajustado para 90 dias
 - **RD 621 (2026-10-27)**, item 31 — Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão T · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13018s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 2 — Referendo do Acórdão 678/2026 — recurso de 2ª instância em pedido de acesso à informação (documentos sobre contratação de terceiros e ressar · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2845s) · resultado: aprovado (referendo)

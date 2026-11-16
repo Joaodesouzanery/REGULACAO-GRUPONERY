@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "video_id": "DSy0011X19s",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:21); ts de votos de quem acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2025",
+  "data": "2025-03-11",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo de cinco diretores; procuradora Selma Costa pela manhã e procurador Eduardo Ramalho à tarde; secretária-geral adjunta Renata.",
+   "Pauta com 72 itens: 6 a 72 em bloco; item 11 destacado; item 16 retirado.",
+   "Tili comunicou a prorrogação da CP 8/2024 (satisfação do consumidor) até 8/04, a pedido da Abradee.",
+   "Item 2 (Light) não concluído: vista em mesa de Ludimila, voto-vista com diferimento parcial e novo pedido de vista ao fim da sessão.",
+   "Intervalo para almoço entre ~3:51 e ~5:53 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:36:51",
+   "processo": "itens 6 a 72 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (6 a 72), com votos disponibilizados previamente; item 11 destacado e item 16 retirado de pauta",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade, com exceção dos itens 10 e 30 (votos individualizados)",
+   "resumo_voto": "Itens 10 e 30 têm voto do ex-diretor Hélvio Guerra (relator): item 10 = conhecer recurso e negar provimento, mantendo multa editalícia (despacho SFG 5068/2023); item 30 = multa editalícia de cerca de R$ 191.660,43 à PCH Armando Ribeiro S.A. por descumprimento do cronograma de implantação (leilão ANEEL). Uma diretora (provavelmente Ludimila Lima, sucessora de Hélvio) não votou nos itens 10 e 30 e declarou-se impedida no item 17 (recurso contra despacho que ela emitiu como superintendente da SCE).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco, exceto itens 10 e 30 (não vota) e 17 (impedida)",
+     "ts": "0:37:03",
+     "confianca": "media",
+     "justificativa": "não apresenta voto nos itens 10 e 30 porque há voto do diretor Hélvio; no item 17 não vota por ser recurso contra despacho emitido por ela enquanto superintendente"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco; acompanha o relator nos itens 10 e 30 (identidade do falante incerta)",
+     "ts": "0:37:28",
+     "confianca": "baixa",
+     "justificativa": "alterou o voto no item 10 para acompanhar o relator (negar provimento e manter a multa editalícia) e acompanhou o relator no item 30"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco (identidade do falante incerta)",
+     "ts": "0:38:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens remanescentes do bloco (identidade do falante incerta)",
+     "ts": "0:38:50",
+     "confianca": "baixa",
+     "justificativa": "mantém seu voto no item 10 e acompanha o relator no item 30"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes e proclama",
+     "ts": "0:38:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:39:29",
+   "processo": "48500.003221/2024 (número incerto)",
+   "interessado": "Enel Distribuição Rio (Ampla) — distribuidora",
+   "assunto": "Reajuste tarifário anual 2025 da Enel Rio, a vigorar a partir de 15/03/2025: efeito médio 0,27% (-3,35% AT; +1,31% BT). Sustentação oral de Hugo Lamim (Enel Rio), pedindo aplicar já o efeito da CP 9/2024 (MMGD nas perdas não técnicas), retroativo a 2023-2024, e um piloto/sandbox de reconhecimento anual de investimentos.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o RTA; nega os pleitos adicionais: efeitos da CP 9/2024 poderão ser considerados em 2026, retroativos a 2025; o sandbox deve ser tratado em processo específico (pleito 'promissor'), não cabendo antecipação no reajuste. Sandoval destacou a queda dos custos de transmissão (cerca de -8%) pela revisão das transmissoras de 2024.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "1:04:11",
+     "confianca": "alta",
+     "justificativa": "não é usual nem recomendável antecipar resultados de consultas públicas; efeitos da CP 9 em 2026 retroativos a 2025; sandbox em processo próprio"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:06:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "1:06:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "1:06:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:06:23",
+     "confianca": "media",
+     "justificativa": "destacou redução dos custos de transmissão pela revisão das RAP de 2024"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:07:09",
+   "processo": "48500.003323/2024 (número incerto)",
+   "interessado": "Light Serviços de Eletricidade S.A. — distribuidora; Conselho de Consumidores da Light",
+   "assunto": "Reajuste tarifário anual 2025 da Light (a partir de 15/03/2025): efeito calculado -11,96%, com pedido da Light de diferimento positivo (levar o índice a cerca de 0%). Sustentação oral de Felipe Tenório (Light).",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "diferimento tarifário",
+    "regulação normativa (CP 8/2025)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "não concluído: após o voto-vista da diretora Ludimila houve novo pedido de vista (de quem, incerto; provavelmente o Diretor-Geral, que vota por último)",
+   "resumo_voto": "Relator: diferimento positivo integral de R$ 1,6 bilhão (efeito -0,63%; +3,80% AT, -2,35% BT), passivo regulatório corrigido pela Selic e reavaliado em 2026; usa os critérios 1 e 2 da nota técnica da CP 8/2025, mas não segue o critério 3 porque a CP não é norma; colchão para a ADI 7324 (PIS/Cofins, seis votos no STF). Voto-vista de Ludimila (7:21): diferimento parcial de R$ 893,2 milhões pela métrica da CP 8/2025 (efeito -5,76%; -2,08% AT, -7,19% BT), alinhado à carta do Conselho de Consumidores (diferimento parcial de cerca de R$ 850 milhões). Agnes compartilhou a preocupação com volatilidade; Tili defendeu o colchão; Sandoval defendeu balizas da CP e registrou dúvidas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova com diferimento positivo integral de R$ 1,6 bilhão",
+     "ts": "1:35:36",
+     "confianca": "alta",
+     "justificativa": "a CP 8/2025 não é norma; caminho intermediário seria arbitrário; colchão diante da ADI 7324 (já com seis votos no STF) e da incerteza para 2026-2027; o consumidor é remunerado pela Selic",
+     "tom": "firme, argumentativo"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "pede vista em mesa; voto-vista: diferimento parcial de R$ 893,2 milhões (efeito -5,76%)",
+     "ts": "2:31:43",
+     "confianca": "alta",
+     "justificativa": "diferimento integral joga a volatilidade para 2026 (cerca de -15%); processo judicial incerto não deve privar o consumidor da redução; usa a proxy da CP 8/2025 (critério 3, variação tarifária); atende à carta do Conselho de Consumidores"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "sem voto formal; questiona o diferimento integral",
+     "ts": "1:40:00",
+     "confianca": "media",
+     "justificativa": "preocupação com volatilidade (de 0% para cerca de -15% em 2026); sugere ouvir o Conselho de Consumidores e considerar um diferimento parcial"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "sem voto formal; defende o diferimento (colchão)",
+     "ts": "2:05:00",
+     "confianca": "media",
+     "justificativa": "diferimento positivo cria reserva, adia a solução e não um problema; a Selic remunera o consumidor"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "provavelmente pede vista ao final (falante não identificado com certeza)",
+     "ts": "7:49:31",
+     "confianca": "baixa",
+     "justificativa": "no debate defendeu balizas (critérios da CP 8) contra decisões ad hoc e registrou dúvidas sobre transferir volatilidade"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:32:00",
+   "processo": "48500.009318/2022 (número incerto)",
+   "interessado": "Distribuidoras; Abradee (Ricardo Brandão), Neoenergia (André Ramon) e Enel Rio (Hugo Lamim) em sustentação oral",
+   "assunto": "Resultado da CP 9/2024: cálculo da energia requerida e das perdas não técnicas considerando a MMGD (alternativa 1 do AIR 1/2024: mercado BT medido e energia injetada), padronização do SAMP Balanço",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR)",
+    "tarifas e revisão tarifária (distribuidoras)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova alternativa 1, alterações nos PRORET (submódulos 2.1, 2.6, 2.6A, 3.1, 3.2, 3.2A, 4.2, 4.2A, 4.3) a partir dos processos de 2025, recálculo em 2026 para quem já teve processo em 2025; nega retroatividade a 2023-2024; determina à SFF e à STR, em até um ano, regular o tratamento dos créditos de MMGD expirados e dos créditos de energia injetada antes da norma, com procedimentos contábeis.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:20:00",
+     "confianca": "alta",
+     "justificativa": "não antecipa reversão de créditos; trata de atributos físicos da compra de energia; retroação só em caso de erro, desequilíbrio ou força maior"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "3:50:10",
+     "confianca": "media",
+     "justificativa": "ausente no momento da votação; voto registrado pelo Diretor-Geral"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora, com ressalva",
+     "ts": "3:50:15",
+     "confianca": "media",
+     "justificativa": "preocupação com a mistura entre o tratamento comercial dos créditos e o cálculo físico da tarifa, e com a transição dos créditos anteriores à norma"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:50:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:50:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "5:53:59",
+   "processo": "48500.002653/2024",
+   "interessado": "Empresa de Transmissão de Energia do Pará S.A. (ETEPA) — transmissora; Mineração Paragominas S.A. (Hydro) — consumidora livre, com sustentação oral de Rodolfo Zamian Danilo",
+   "assunto": "Requerimento da ETEPA (contrato de concessão 50/2017) sobre integração das funções de transmissão impactadas pela falta do seccionamento da LT 230 kV Vila do Conde–Miltônia 3 na SE Tomé-Açu (licença de operação da linha da mineradora)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece pendência impeditiva própria da ETEPA (sem TLR para a FT LT 230 kV); não acompanha a área técnica, que queria impor à mineradora a frustração de receita da ETEPA; afastamento regulatório do item 7.1 da seção 3.2 das Regras de Transmissão por 180 dias, convertendo TLP em TLD (100% da receita, salvo os 4,79% do seccionamento); ONS deve ignorar questões formais de titularidade; se não regularizar em 180 dias, as FT voltam a TLP (90%).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "6:16:40",
+     "confianca": "alta",
+     "justificativa": "responsabilidade e culpa são distintas: o risco do seccionamento é da ETEPA; incentivo retroativo à mineradora não estimula; solução construída com as partes e o ONS"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:48:21",
+     "confianca": "media",
+     "justificativa": "elogiou a solução ponderada, com prazo que exige diligência dos agentes"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:48:30",
+     "confianca": "baixa",
+     "justificativa": "elogiou a convergência construída; relembrou a REN 722/2016"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:48:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (presença incerta à tarde)",
+     "ts": "6:48:27",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "6:49:35",
+   "processo": "48500.000730/2025 (número incerto)",
+   "interessado": "Umaitá Solar 1 a 8 (ou 13) Empreendimentos S.A. — geradora fotovoltaica em Juazeiro (BA)",
+   "assunto": "Medida cautelar para o ONS não considerar as UFV Umaitá Solar no cálculo da TUST 2025-2026 nem cobrar nada nos CUST, por conflito fundiário com a Codevasf (desapropriação decretada em 2008)",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "indeferida por unanimidade; autos para a SCE analisar o mérito (excludente de responsabilidade)",
+   "resumo_voto": "Sem fumaça do bom direito: decreto de 2008 e ação de 2013 eram públicos e conhecíveis pelo empreendedor; sem perigo da demora: a regra permite postergar o CUST em até 12 meses junto ao ONS.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, indefere a cautelar",
+     "ts": "7:04:55",
+     "confianca": "alta",
+     "justificativa": "fatos fundiários anteriores à outorga; risco do empreendedor; existe a via regulatória de postergação do CUST"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:05:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "7:05:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "7:05:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "7:06:49",
+   "processo": "48500.011542/2024 (número incerto)",
+   "interessado": "Autódromo Energética S.A. e Boa Fé Energética S.A. — geradoras (Rio Grande do Sul); sustentação oral de Urias Martiniano Garcia Neto",
+   "assunto": "Recursos contra os despachos SFT 3083 e 3084/2024, que mantiveram multas (autos de infração 10 e 11/2024) por não fazer a inspeção de segurança especial de barragem após as cheias e por não implantar o PAE",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "segurança de barragens",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "recursos conhecidos e não providos, por unanimidade",
+   "resumo_voto": "Relator foi direto ao dispositivo (item que estava no bloco, destacado pela sustentação oral); a defesa alegou força maior, risco à equipe e falta de prazo para o PAE de usina existente, e pediu subsidiariamente conversão em advertência.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, nega provimento",
+     "ts": "7:18:11",
+     "confianca": "alta",
+     "justificativa": "argumentos já enfrentados na nota técnica e no voto"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:18:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "7:18:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:18:50",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "16",
+   "motivo": "retirado de pauta (motivo não informado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados (marcados como incertos).",
+  "Na votação do bloco, a ordem dos falantes não foi identificada com segurança: atribuí a ressalva sobre os itens 10, 30 e 17 a Ludimila Lima (sucessora do ex-diretor Hélvio Guerra, relator desses itens); os demais falantes do bloco têm atribuição incerta.",
+  "Item 2: não está claro quem pediu a segunda vista ('eu voto por último'); provavelmente o Diretor-Geral Sandoval Feitosa. Agnes, Tili e Sandoval não votaram formalmente.",
+  "À tarde, a presença física de cada diretor é incerta; nos itens 5 e 11 só há três ou quatro manifestações de voto, e Ludimila provavelmente não votou nesses itens.",
+  "Gentil Nogueira não aparece; Hélvio Guerra é citado só como ex-diretor (relator dos itens 10 e 30 do bloco)."
+ ]
+}

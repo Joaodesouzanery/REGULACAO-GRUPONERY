@@ -7,7 +7,7 @@
  "situacao": "titular",
  "senado": "2025-08-20 (MSF 43/2025; CI 21 votos)",
  "nomeacao_dou": "2025-08-29",
- "posse": null,
+ "posse": "2025-09-16",
  "inicio": "2025-08-28",
  "fim": null,
  "fim_legal": "2030-02-18",
@@ -22,5 +22,6 @@
  ],
  "obs_pesquisa": "Auditor do TCU. Decreto de 28/08/2025 (DOU 29/08/2025), vaga de Eduardo Nery. ANTAQ informa mandato 28/08/2025–18/02/2030. 1ª reunião presidida em 04/09/2025; cerimônia de posse 16/09/2025 (termo de posse não localizado).",
  "fonte": "pesquisa web 09/11/2026 (Senado/SGM, gov.br/antaq, DOU, atas ANTAQ, Agência iNFRA via busca)",
- "verificar": "data do termo de posse"
+ "verificar": "data do termo de posse",
+ "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026"
 }

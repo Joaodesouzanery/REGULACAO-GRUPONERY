@@ -1,11 +1,11 @@
 # Perfil analítico — Frederico Dias · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 67 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 69 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 65 (98% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 67 (98% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 0/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (3); governança/rito (2); segurança viária (1); evidência/dados (1); concorrência (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -77,3 +77,5 @@
 - **RD 621 (2026-10-27)**, item 27 — Acompanhamento do TAC 3/2023 (certificado do Corpo de Bombeiros): nulidades e saneamento processual · voto: *acompanha, apoiando a crítica aos TACs* (acompanha, conf. alta) · «repensar quando o custo administrativo de um TAC se justifica diante de multas baixas; pede apoio da PFA» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10497s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)

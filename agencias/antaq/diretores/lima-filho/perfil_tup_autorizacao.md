@@ -1,11 +1,11 @@
 # Perfil analítico — Lima Filho · tema: tup_autorizacao
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 204 votos neste tema; 52 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 207 votos neste tema; 54 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 142 (93% dos votos em que não era relator) · relator 52 · vista pedida 0 · voto-vista divergente 0 · vencido 4 · outros/não captado 6
-**Como relator:** 28/52 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 143 (93% dos votos em que não era relator) · relator 54 · vista pedida 0 · voto-vista divergente 0 · vencido 4 · outros/não captado 6
+**Como relator:** 28/54 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
 **Argumentos recorrentes nas justificativas registradas:** segurança jurídica (4); concorrência (4); interesse público (2); governança/rito (2); proporcionalidade (1); evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** firme
 
@@ -215,3 +215,6 @@
 - **RD 621 (2026-10-27)**, item 21 — Adequação do TAC 2/2026 (cronograma de investimentos do contrato de adesão 18/2021) com cláusula suspensiva · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 22 — Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9214s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 25 — Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9649s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 5 — Inclusão dos perfis contêiner e carga geral no TUP do contrato de adesão 10/2023 (Belém/PA, região de Vila do Conde) · voto: *relator, aprova* (relator, conf. alta) · «Volumes pequenos frente ao terminal de contêineres da área; sem contestação no anúncio público; BP foi a única habilitada.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=4087s) · resultado: pedido de vista
+- **RD 623 (2026-11-13)**, item 11 — Autorização em caráter especial para movimentação e armazenagem de carga geral por até 180 dias no TUP (contrato de adesão 9/2015), berço 5 · voto: *relator, aprova* (relator, conf. alta) · «Empresa proativa quanto à LO; melhor para a eficiência logística da região de Aracruz.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6317s) · resultado: aprovado
+- **RD 623 (2026-11-13)**, item 12 — Consulta regulatória sobre transhipment de soja, milho e fertilizantes entre barcaças e navios no quadro de boias do TUP em Manaus (contrato · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6538s) · resultado: aprovado

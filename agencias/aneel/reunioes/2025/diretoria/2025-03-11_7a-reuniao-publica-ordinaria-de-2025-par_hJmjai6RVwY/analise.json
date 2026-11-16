@@ -1,0 +1,248 @@
+{
+ "meta": {
+  "video_id": "hJmjai6RVwY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts calculados a partir de data/transcricoes/hJmjai6RVwY.json; ts de quem só acompanha é aproximado",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2025 (Parte 1)",
+  "data": "2025-03-11",
+  "formato": "presencial (auditório da ANEEL), transmitida no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores; procuradora federal Selma Costa e secretária-geral adjunta Renata.",
+   "Pauta com 72 itens; itens 6 a 72 em bloco; item 11 destacado; item 16 retirado de pauta; sustentações orais nos itens 1, 2, 3, 4 e 11.",
+   "Comunicado de Ricardo Tili: prorrogação do prazo da 2ª fase da CP 8/2024 (satisfação do consumidor) de 25/03 para 08/04, a pedido da Abradee.",
+   "Ata da 6ª RPO (25/02/2025) aprovada.",
+   "Esta parte 1 vai até o intervalo do almoço (12h40); os itens 4, 5 e 11 ficaram para a parte 2 (outro vídeo).",
+   "Item 2 (RTA Light): longo debate sobre diferimento positivo de R$ 1,6 bilhão; vista em mesa concedida a Ludimila Lima."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 6 a 72)",
+   "ts": "0:15:14",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (6 a 72, exceto o item 11 destacado e o 16 retirado), com votos e atos disponibilizados previamente; destaque para os itens 10 (recurso contra multa editalícia, Despacho SFG 5068/2023) e 30 (multa editalícia à PCH Armando Ribeiro por descumprimento de cronograma)",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "recursos administrativos",
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados os itens do bloco; itens 10 e 30 com votos individualizados (proclamação: por unanimidade, com exceção dos itens 10 e 30)",
+   "resumo_voto": "Um diretor não vota nos itens 10 e 30 (já havia voto do ex-diretor Hélvio Guerra) e se declara impedido no item 17 (recurso contra despacho que emitiu como superintendente); outro diretor altera o voto no item 10 para acompanhar o relator (conhecer e negar provimento, mantendo a multa) e acompanha o relator no item 30 (multa à PCH Armando Ribeiro, prazo de 20 dias para recolhimento, execução da garantia de fiel cumprimento se não paga).",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "aprova o bloco; não vota nos itens 10 e 30 (voto do diretor Hélvio Guerra); impedido no item 17",
+     "ts": "0:15:22",
+     "confianca": "baixa",
+     "justificativa": "item 17 é recurso contra despacho emitido por ele(a) como superintendente"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova o bloco; item 10: altera voto para acompanhar o relator; item 30: acompanha o relator",
+     "ts": "0:15:51",
+     "confianca": "baixa",
+     "justificativa": "conhece do recurso e nega provimento, mantendo a multa editalícia; aplica multa à PCH Armando Ribeiro"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova os itens remanescentes; acompanha o relator no item 10",
+     "ts": "0:16:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova os itens remanescentes; mantém o voto no item 10 e acompanha o relator no item 30",
+     "ts": "0:17:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes e proclama",
+     "ts": "0:17:22",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:17:43",
+   "processo": "48500.000321/2024 (número incerto)",
+   "interessado": "Enel Distribuição Rio (Ampla); sustentação oral de Hugo Lamim (Enel Rio)",
+   "assunto": "Reajuste tarifário anual de 2025 da Enel Distribuição Rio, a partir de 15/03/2025: efeito médio de 0,27% (-3,35% alta tensão; 1,31% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "geração distribuída (MMGD)",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o índice de reajuste; nega os pleitos adicionais da Enel Rio (aplicar já em 2025 o resultado da CP 9/2024 sobre efeito da MMGD nas perdas não técnicas, com retroação a 2023 e 2024; sandbox de reconhecimento anual de investimentos): não é recomendável antecipar resultados de consultas públicas; efeitos da CP 9 poderão entrar em 2026 retroativos a 2025; sandbox exige processo próprio, embora o pleito pareça promissor. Sandoval destacou a redução dos custos de transmissão (cerca de -8,3%).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "0:42:27",
+     "confianca": "alta",
+     "justificativa": "pedidos dependem de alteração regulatória; não é usual nem recomendável antecipar resultados de consultas públicas; sandbox requer processo específico"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:44:34",
+     "confianca": "media",
+     "justificativa": "destaca a redução expressiva dos custos de transmissão, fruto da revisão das transmissoras em 2024"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "0:44:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:44:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:44:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:45:27",
+   "processo": "48500.003323/2024 (número incerto)",
+   "interessado": "Light Serviços de Eletricidade S.A.; sustentação oral de Felipe Tenório (Light); carta do Conselho de Consumidores da Light",
+   "assunto": "Reajuste tarifário anual de 2025 da Light, a partir de 15/03/2025, com pedido de diferimento positivo (relator propõe diferimento de R$ 1,6 bilhão, efeito médio -0,63%; os valores do efeito sem diferimento aparecem divergentes na legenda)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA, diferimento)",
+    "regulação normativa (CP 8/2025 sobre diferimento)",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (vista em mesa concedida a Ludimila Lima); não deliberado nesta parte",
+   "resumo_voto": "Relator propõe acatar diferimento positivo de R$ 1,6 bilhão na TUSD, atualizado pela Selic, efeito médio -0,63% (3,80% AT; -2,35% BT), usando critérios 1 e 2 da NT 198/2024 (CP 8/2025) e flexibilizando o critério 3; reversão só em 2027 a ser avaliada em 2026. Agnes e Ludimila questionam: evitar volatilidade agora pode gerar outra maior em 2026 (cerca de -15%); sugerem caminho intermediário/diferimento parcial e ouvir o Conselho de Consumidores (favorável a diferimento parcial equivalente ao efeito do PIS/Cofins). Tili defende o colchão tarifário diante da ADI no STF sobre PIS/Cofins (R$ 1,4 bilhão). Sandoval defende balizas (a proposta da CP é bem calibrada), mas registra dúvidas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova com diferimento positivo de R$ 1,6 bilhão",
+     "ts": "1:08:00",
+     "confianca": "media",
+     "justificativa": "evita volatilidade; atende critérios 1 e 2 da CP 8/2025; caminho intermediário seria arbitrário sem regra aprovada; incertezas (ADI do PIS/Cofins, revisão de 2027) justificam colchão"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "pede vista (vista em mesa)",
+     "ts": "2:09:58",
+     "confianca": "alta",
+     "justificativa": "precisa firmar convicção; preocupação de que zerar o reajuste gere volatilidade maior em 2026; sugere diferimento parcial alinhado ao critério 3 da CP 8"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista em mesa); questionou o diferimento total",
+     "ts": "1:15:55",
+     "confianca": "media",
+     "justificativa": "usar volatilidade como argumento e causar volatilidade maior no ano seguinte é difícil de sustentar; ouvir o Conselho de Consumidores; considerar diferimento parcial",
+     "tom": "questionador"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista em mesa); manifestou apoio ao diferimento",
+     "ts": "1:49:35",
+     "confianca": "media",
+     "justificativa": "não é adiar problema, é guardar solução/colchão diante da ADI do PIS/Cofins e da revisão de 2027; diferimento remunerado pela Selic",
+     "tom": "favorável"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista em mesa); concedeu a vista",
+     "ts": "2:09:58",
+     "confianca": "media",
+     "justificativa": "defende balizas para decisões; a proposta da CP é bem calibrada; registra dúvidas sobre transferir volatilidade para 2026"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:10:20",
+   "processo": "48500.000931/2022 (número incerto)",
+   "interessado": "distribuidoras; sustentações orais de Ricardo Brandão (Abradee), André Ramon (Neoenergia) e Hugo Lamim (Enel Rio)",
+   "assunto": "Resultado da Consulta Pública 9/2024: AIR sobre cálculo da energia requerida e das perdas não técnicas considerando os efeitos da MMGD e padronização dos dados do balanço energético (Samp)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "tarifas e revisão tarifária (perdas não técnicas, energia requerida)",
+    "regulação normativa (consulta pública, AIR, PRORET)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a alternativa 1 do relatório de AIR 1/2024-STR (mercado medido no cálculo da energia requerida e das perdas não técnicas), alterações nos submódulos do PRORET e padronização do Samp, a partir dos processos tarifários de 2025, com recálculo retroativo em 2026 para quem já teve processo em 2025; nega retroação a 2023/2024 (estabilidade regulatória e segurança jurídica); determina à SFF e STR, em até um ano, tratamento regulatório e contábil dos créditos de MMGD expirados e da energia injetada antes da norma. Tili elogia, mas manifesta preocupação em misturar o tratamento comercial dos créditos com o cálculo físico e com a transição; procuradoria (Ramalho) e área técnica (Rodrigo) esclarecem.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:00:00",
+     "confianca": "media",
+     "justificativa": "proposta trata de atributos físicos da compra de energia, não antecipa reversão de créditos; retroação a 2023/2024 afetaria estabilidade regulatória"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "3:28:29",
+     "confianca": "media",
+     "justificativa": "registrado pelo Diretor-Geral, voto deixado antes"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "3:28:35",
+     "confianca": "baixa",
+     "justificativa": "elogia o avanço; preocupação com transição e com misturar tratamento comercial dos créditos ao cálculo de perdas e energia requerida",
+     "tom": "ressalva"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:28:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:28:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "16",
+   "motivo": "retirado de pauta (motivo não informado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Parte 1 da reunião: os itens 4, 5 e 11 foram julgados depois do almoço, em outro vídeo.",
+  "Bloco: os falantes que votaram de forma individual nos itens 10 e 30 e o impedido no item 17 não foram identificados com segurança (legenda sem marcação de falante); ordem provável Ludimila/Mosna/Tili, não confirmada.",
+  "Números de processo, valores e percentuais vêm da legenda automática e podem conter erros (ex.: efeito da Light citado como -1,96% e como cerca de -12%).",
+  "Ordem dos votos de quem só acompanha (itens 1 e 3) é aproximada; ts aproximados.",
+  "Ts do voto do relator no item 2 e da relatora no item 3 são aproximados.",
+  "Nome 'Hélvio Guerra' citado como ex-diretor com voto já proferido nos itens 10 e 30."
+ ]
+}

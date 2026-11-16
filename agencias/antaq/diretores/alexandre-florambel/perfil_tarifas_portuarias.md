@@ -1,11 +1,11 @@
 # Perfil analítico — Alexandre Florambel · tema: tarifas_portuarias
 
-**Amostra:** presente em 2 das 2 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 3 das 3 reuniões analisadas em que há registro de presença/ausência; 9 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 5 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 1/1 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 7 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 1/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 17/6; arrendamento_porto_organizado 16/6; tup_autorizacao 15/3; fiscalizacao_sancoes 10/4; governanca_tcu 9/3; regulacao_normativa 8/3; tarifas_portuarias 6/1; recursos_recursais 3/0; sustentabilidade 2/1; outros 2/0; servicos_terminais 1/0; mediacao 1/0; concessao_porto_hidrovia 1/1
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 24/8; navegacao_afretamento 20/7; tup_autorizacao 18/3; fiscalizacao_sancoes 13/5; governanca_tcu 10/3; tarifas_portuarias 9/2; regulacao_normativa 9/4; recursos_recursais 6/1; sustentabilidade 3/1; servicos_terminais 3/0; outros 3/0; mediacao 2/0; concessao_porto_hidrovia 1/1
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -15,3 +15,6 @@
 - **RD 621 (2026-10-27)**, item 10 — Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abert · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3484s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 11 — Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4215s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *relator, aprova* (relator, conf. alta) · «auditoria interna recomendou critérios; não cria obrigações novas, só aciona faculdades contratuais» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13464s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 14 — Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com e · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=17240s) · resultado: aprovado com ajustes sugeridos pelo DG
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *relator, aprova* (relator, conf. alta) · «Ausência de demonstração da razoabilidade das premissas, conforme a NT 152/2026.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s) · resultado: aprovado (recurso desprovido)

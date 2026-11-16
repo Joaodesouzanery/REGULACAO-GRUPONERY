@@ -1,11 +1,11 @@
 # Perfil analítico — Alber Vasconcelos · tema: navegacao_afretamento
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 318 votos neste tema; 79 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 321 votos neste tema; 79 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 223 (93% dos votos em que não era relator) · relator 79 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 15
+**Votos:** acompanha o relator 226 (93% dos votos em que não era relator) · relator 79 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 15
 **Como relator:** 37/79 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** usuário (8); concorrência (8); governança/rito (7); participação social (3); interesse público (2); segurança jurídica (1)
 **Tom (inferência da leitura, não métrica):** protetivo ao usuário | cauteloso | crítico | firme | engajado | combativo | técnico | enfático
 
@@ -329,3 +329,6 @@
 - **RD 621 (2026-10-27)**, item 26 — Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítim · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9762s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 30 — Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12214s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s) · resultado: aprovado (recurso desprovido)

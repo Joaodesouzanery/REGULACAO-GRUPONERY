@@ -1,11 +1,11 @@
 # Perfil analítico — Frederico Dias · tema: governanca_tcu
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 31 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 22 (95% dos votos em que não era relator) · relator 8 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 6/8 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 23 (95% dos votos em que não era relator) · relator 9 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 6/9 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (6); evidência/dados (3); sustentabilidade (1); participação social (1); transparência (1); usuário (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -41,3 +41,5 @@
 - **RD 621 (2026-10-27)**, item 9 — Contribuições da Consulta Pública 5/2026 e aprovação da alteração da Resolução 66/2022 (instrução processual e processo decisório) · voto: *relator, aprova* (relator, conf. alta) · «atende recomendações da CGU: motivação, prazo de relatoria preferencial de 60 dias (rejeita 30 dias da PFA), referendos em processo apartado, fim da vedação de vista com maioria formada, sustentação oral por terceiros» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3701s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 19 — Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle po · voto: *acompanha, sugere prazo de 90 dias (acolhido)* (acompanha, conf. alta) · «elogia simplificação e redução de subjetividade; SOG já prepara contribuição (processo 50300.020740/2026); demanda de reequilíbrios pressiona a SOG» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=7991s) · resultado: aprovado por unanimidade, com prazo ajustado para 90 dias
 - **RD 621 (2026-10-27)**, item 31 — Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão T · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13018s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 27 — Proposta de alteração da Portaria DG-ANTAQ 528/2024 (Programa de Gestão e Desempenho — teletrabalho: teto de 80% para 30%, parcial com 14 ho · voto: *retira de pauta (relator)* (relator, conf. alta) · «'não quero aprovar nas pressas. Eu tô retirando de pauta apenas para fazer esse ajuste' (política de consequências / exclusão do PGD).» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2769s) · resultado: retirado de pauta pelo próprio relator (DG)
+- **RD 623 (2026-11-13)**, item 2 — Referendo do Acórdão 678/2026 — recurso de 2ª instância em pedido de acesso à informação (documentos sobre contratação de terceiros e ressar · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2845s) · resultado: aprovado (referendo)

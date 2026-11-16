@@ -1110,6 +1110,30 @@
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
 - **RD 464 (2019-06-28)**, 27 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI13 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 465 (2019-08-21)**, 1 · relator **Francisval Mendes** · Consulta sobre o regime de uso (exclusividade) dos dolphins a serem construídos pela arrendatária fora da área arrendada (contrato de arrendamento 072 → não concluído: voto-vista divergente de Mário Povia; vai à vista de Adalberto Tokarski
+  - votos: Francisval: relator; Mário: revisor_diverge; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=29s)
+- **RD 465 (2019-08-21)**, 4 · relator **Francisval Mendes** · Prorrogação antecipada do contrato de arrendamento 016/98 (TVV, Vitória) por 25 anos, até 2048: análise do EVTEA → não concluído: voto-vista divergente de Mário Povia; vai à vista de Adalberto Tokarski (To
+  - votos: Francisval: relator; Mário: revisor_diverge; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=831s)
+- **RD 465 (2019-08-21)**, 5 · relator **Francisval Mendes** · Proposta de norma de arrendamento simplificado → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1573s)
+- **RD 465 (2019-08-21)**, 6 · relator **Francisval Mendes** · Processo da empresa Raízen (objeto não detalhado na sessão) → adiado: prorrogação de vista de Mário Povia
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1604s)
+- **RD 465 (2019-08-21)**, 7 · relator **Adalberto Tokarski** · Modelagem para definição do WACC do setor portuário → adiado: prorrogação de vista de Mário Povia
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1634s)
+- **RD 465 (2019-08-21)**, 12 · relator **Mário Povia** · Transferência de titularidade de contrato de arrendamento → adiado: aguarda vista de Francisval Mendes
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4168s)
+- **RD 465 (2019-08-21)**, 27 · relator **Mário Povia** · Desincorporação de 60 bens da União e alienação por doação a entidades filantrópicas → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4975s)
+- **RD 465 (2019-08-21)**, 28 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 31/2019 (EVTEA de reequilíbrio do contrato DP 24/2001, Santos): expurgo da álea empresarial e do acordo de acionis → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=5189s)
+- **RD 465 (2019-08-21)**, 29 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6155 (EVTEA do contrato de arrendamento 44/2001, Aratu) → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=5831s)
+- **RD 465 (2019-08-21)**, 30 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5738 (multas por irregularidades no porto de Estrela: seguro, plano de incêndio, licença ambiental) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6257s)
+- **RD 465 (2019-08-21)**, 32 · relator **Mário Povia** · Processo sancionador (seguro, ocupação por praticagem sem contrato, regularidade fiscal) no porto de Belém → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6856s)
+- **RD 465 (2019-08-21)**, 38 · relator **Mário Povia** · EVTEA de expansão de área e prorrogação do contrato de arrendamento DP 16/2000 (Santos) → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=10008s)
 - **RD 465 (2019-08-22)**, 64 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão sancionadora da Resolução 5969-ANTAQ → pedido conhecido e não provido, unânime
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1618s)
 - **RD 465 (2019-08-22)**, 65 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6095-ANTAQ (multa por não comunicar em 30 dias contratos de cessão de uso onerosa) → provimento parcial por maioria (multa reduzida), vencido um diretor (provavelmente Mário P
@@ -1130,10 +1154,22 @@
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4148s)
 - **RD 465 (2019-08-22)**, 100 · relator **Adalberto Tokarski** · Contrato de transição (180 dias ou até a licitação) para área ocupada pelo Sindaçúcar no porto do Recife → aprovado por unanimidade
   - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=7782s)
+- **RD 466 (2019-09-27)**, 1 · relator **Francisval Mendes** · Autorização para aplicar os recursos da alienação do Centro Integrado de Saúde (CIS) na compra de imóveis para o porto de Itajaí → aprovado nos termos do voto-vista de Mário Povia; relator Francisval Mendes vencido
+  - votos: Francisval: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=69s)
+- **RD 466 (2019-09-27)**, 3 · relator **Adalberto Tokarski** · Modelagem do custo médio ponderado de capital (WACC) do setor portuário, diferenciado por natureza de carga (Nota Técnica 82/2018) → aprovado por unanimidade: nota técnica aprovada e submetida a audiência pública por 45 dia
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=466s)
+- **RD 466 (2019-09-27)**, 4 · relator **Francisval Mendes** · Cálculo da indenização por investimentos emergenciais (sistema de combate a incêndio) na área AI-01 do porto de Cabedelo (PB) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=910s)
+- **RD 466 (2019-09-27)**, 7 · relator **Mário Povia** · Transferência de titularidade do contrato de arrendamento após incorporações societárias → aprovado por unanimidade, com o encaminhamento do voto-vista de Francisval: recomendar a t
+  - votos: Mário: revisor_acompanha; Adalberto: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=1350s)
 - **RD 466 (2019-09-27)**, 68 · relator **Francisval Mendes** · Implantação de polo de capacitação em negócios (programa municipal Salvador 360) em área do arrendamento, como receita complementar → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1744s)
 - **RD 466 (2019-09-27)**, 70 · relator **Francisval Mendes** · Processo sancionador: irregularidades no terminal marítimo de ureia (regularidade fiscal, água, bombeiros, manutenção) → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2117s)
+- **RD 466 (2019-09-27)**, 16 · relator **Mário Povia** · EVTEA de prorrogação (ordinária) e expansão do contrato de arrendamento DP 16/2000 (Santos) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2281s)
+- **RD 466 (2019-09-27)**, 17 · relator **Mário Povia** · Pedido de reconsideração (EVTEA do contrato 44/2001) → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2318s)
 - **RD 466 (2019-09-27)**, 75 · relator **Francisval Mendes** · Reversibilidade de bens — recurso administrativo (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
   - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3191s)
 - **RD 466 (2019-09-27)**, 78 · relator **Francisval Mendes** · Transferência de controle societário do arrendamento PAR 55/2002 (COFCO passa a controladora direta) → aprovado nos termos do voto do relator
@@ -1144,14 +1180,32 @@
   - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3622s)
 - **RD 466 (2019-09-27)**, 82 · relator **Francisval Mendes** · Consulta sobre como evitar solução de continuidade após rescisão do arrendamento do Cais Mauá (exploração transitória da área) → aprovado nos termos do voto do relator, com ressalvas de Mário Povia
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3774s)
+- **RD 466 (2019-09-27)**, 22 · relator **Francisval Mendes** · Prorrogação antecipada do contrato de arrendamento 016/98 (Vitória): EVTEA → aprovado nos termos do voto do relator; Mário Povia vencido
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=3817s)
 - **RD 466 (2019-09-27)**, 83 · relator **Francisval Mendes** · Reajuste do valor de arrendamento com IGP-M negativo (contrato 20/98): modulação dos efeitos → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4147s)
+- **RD 466 (2019-09-27)**, 23 · relator **Francisval Mendes** · Consulta sobre uso de dolphins → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4170s)
 - **RD 466 (2019-09-27)**, 86 · relator **Adalberto Tokarski** · Processo sancionador: permitir que a prefeitura ocupasse área do porto organizado de Estrela para oficina sem instrumento válido → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4731s)
+- **RD 466 (2019-09-27)**, 36 · relator **Mário Povia** · Recurso contra multa de R$ 667.755 da SFC (corredor de exportação operado pela Cidasc: generalidade de uso, fiscalização e conservação) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4883s)
+- **RD 466 (2019-09-27)**, 42 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 43 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 44 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 45 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
 - **RD 466 (2019-09-27)**, 92 · relator **Adalberto Tokarski** · Processo sancionador: irregularidades no Porto de Santarém (defensas, instalações para passageiros, seguro, regularidade fiscal, ocupação sem contrato → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5914s)
+- **RD 466 (2019-09-27)**, 46 · relator **Mário Povia** · Processo sancionador: permitir obras de terraplanagem da Petrobras entre os armazéns 15 e 16 em área comum sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=6293s)
 - **RD 466 (2019-09-27)**, 93 · relator **Adalberto Tokarski** · Processo sancionador: não realização de obras e investimentos contratuais do arrendamento → aprovado por maioria nos termos do voto do relator (auto insubsistente); Mário Povia venci
   - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=6494s)
+- **RD 466 (2019-09-27)**, 48 · relator **Mário Povia** · Consulta sobre metodologia (fluxo de caixa descontado) para redefinir valores dos contratos de transição → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=6566s)
 - **RD 466 (2019-09-27)**, 100 · relator **Adalberto Tokarski** · Consulta sobre o instrumento jurídico para uso de área portuária não operacional por terceiro → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8813s)
 - **RD 466 (2019-09-27)**, 125 (referendo) · relator **Francisval Mendes** · Referendo das Resoluções 7.141 e 7.154: audiência pública da norma sobre estudos simplificados (EVTEA) para arrendamentos de menor valor (até R$ 150 m → referendado
@@ -2928,3 +2982,21 @@
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s)
 - **RD 621 (2026-10-27)**, 31 · relator **Alexandre Florambel** · Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão TCU 959/202 → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12219s)
+- **RD 623 (2026-11-13)**, 1 · relator **None** · não lido na sessão → retirado de pauta a pedido do relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2125s)
+- **RD 623 (2026-11-13)**, 3 · relator **Lima Filho** · Procedimento licitatório VDC29 (arrendamento no porto de Vila do Conde/PA) — retorno de vista → vista renovada
+  - votos: Lima: relator; Alber: vista; Frederico: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2988s)
+- **RD 623 (2026-11-13)**, 15 · relator **Caio Farias** · Reconhecimento de passivo ambiental não conhecido: gerenciamento e destinação a aterro classe I dos sedimentos contaminados do berço sul do TGS1 (TGS1 → aprovado (unânime, sem debate)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6969s)
+- **RD 623 (2026-11-13)**, 18 · relator **Caio Farias** · Anuência prévia para cessão de uso não onerosa e servidão de passagem não onerosa (subestação do sistema Moegão, área ANOP 26) → aprovado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7728s)
+- **RD 623 (2026-11-13)**, 19 · relator **Caio Farias** · Autorização especial para receber por via rodoviária 500 t de enxofre em contêineres (trânsito aduaneiro) no terminal ATU12 — contrato de arrendamento → aprovado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=8056s)
+- **RD 623 (2026-11-13)**, 20 · relator **Caio Farias** · Nova autorização especial emergencial de 180 dias (a partir de 08/12/2026) para a área BEL11 (28.085 m²), terminal de Miramar, porto de Belém/PA (GLP) → aprovado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=8352s)
+- **RD 623 (2026-11-13)**, 21 · relator **Caio Farias** · EVTEA da recomposição do equilíbrio do contrato de arrendamento 4/2020 (STS14, Santos/SP) por investimento em viaduto, via e passarela fora da área ar → aprovado por maioria (3x2), com dispositivo do DG acrescentado
+  - votos: Caio: relator; Alber: acompanha; Frederico: vencido; Lima: acompanha; Alexandre: vencido · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=8578s)
+- **RD 623 (2026-11-13)**, 22 · relator **Alexandre Florambel** · Reequilíbrio, prorrogação até 25/11/2047 e unificação dos contratos de arrendamento 1/2001 e 2/2001 do porto de Manaus → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=13252s)
+- **RD 623 (2026-11-13)**, 24 · relator **Alexandre Florambel** · EVTEA do reequilíbrio do contrato DP/16.2000 (prorrogação e substituição de área de Outeirinhos para o Valongo, Santos), 7º e 8º termos aditivos → pedido de vista
+  - votos: Alexandre: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=14807s)

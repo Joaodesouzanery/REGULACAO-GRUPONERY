@@ -1,0 +1,551 @@
+{
+ "meta": {
+  "video_id": "2iou9kvDuLU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18ª RPO 2025",
+  "data": "2025-05-27",
+  "formato": "presencial",
+  "presidente_da_sessao": "Agnes da Costa (diretora-geral substituta)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Daniel Dana (diretor substituto)"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (missão institucional)"
+  ],
+  "observacoes": [
+   "Primeira reunião de Daniel Cardoso Dana como diretor substituto, após o fim do mandato de Ricardo Tili em 24/05/2025.",
+   "47 itens na pauta; bloco aprovado; retirados 1, 21 e 25; item 11 retirado pela relatora na sessão.",
+   "Itens 6 a 9 (prorrogações de concessões de distribuição) julgados em conjunto; Mosna apresentou fundamentação divergente com critérios adicionais e foi vencido no item 9 (Neoenergia Pernambuco).",
+   "Item 4: voto-vista de Ludmila prevaleceu sobre o relator Mosna."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:33:58",
+   "processo": "itens 12 a 47 (exceto destacados e retirados)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos e atos disponibilizados previamente); destacados 11, 14 e 17; retirados 1, 21 e 25",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado; um diretor (provavelmente Daniel Dana) declarou não poder se manifestar nos itens 15 e 24, de relatoria do ex-diretor Ricardo Tili.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:34:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco",
+     "ts": "0:34:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:34:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "aprova o bloco, exceto itens 15 e 24 (relatoria de Ricardo Tili)",
+     "ts": "0:34:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:34:56",
+   "processo": "48500.017282/2025-00 (legenda incerta)",
+   "interessado": "EDP São Paulo Distribuição de Energia S.A. (distribuidora)",
+   "assunto": "Antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 202/1998 (Lei 9.074/95, Decreto 12.068/2024); julgado em conjunto com itens 7 a 9",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "distribuicao_qualidade"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (Mosna por fundamentos distintos) — recomenda ao MME a prorrogação e encaminha minuta do 6º termo aditivo",
+   "resumo_voto": "Sustentações orais: Luís Felipe Falcone (EDP), Ricardo Brandão (ABRADEE), além das demais distribuidoras do bloco. Nota técnica conjunta: cumpre critérios de continuidade e gestão econômico-financeira e regularidade fiscal/trabalhista/setorial. Mosna: atende 3 dos 4 critérios adicionais (falha só no TMAE), logo recomenda.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, recomenda prorrogação",
+     "ts": "1:16:50",
+     "confianca": "alta",
+     "justificativa": "cumpriu critérios do Decreto 12.068/2024"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "1:18:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "1:18:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto divergente na fundamentação; conclui por recomendar a prorrogação",
+     "ts": "1:18:37",
+     "confianca": "alta",
+     "justificativa": "mantém tese de seu voto-vista no caso EDP Espírito Santo: critérios do art. 2º do Decreto 12.068/2024 são mínimos; aplica critérios adicionais (DEC com expurgo/DEC limite, IASC, TMAE, obras atrasadas, estes do ex-diretor Ricardo Tili)"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:31:54",
+   "processo": "48500.010742/2025-03 (legenda incerta)",
+   "interessado": "Equatorial Maranhão Distribuidora de Energia S.A.",
+   "assunto": "Antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 60/2000",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "distribuicao_qualidade"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade (Mosna por fundamentos distintos) — recomenda prorrogação e minuta do 5º termo aditivo",
+   "resumo_voto": "Sustentação oral de representante da Equatorial Maranhão. Mosna: atende 3 dos 4 critérios adicionais (obras atrasadas 77% vs média 21%), logo recomenda.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, recomenda prorrogação",
+     "ts": "1:31:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "1:32:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto divergente na fundamentação; recomenda a prorrogação",
+     "ts": "1:32:56",
+     "confianca": "alta",
+     "justificativa": "mantém tese de seu voto-vista no caso EDP Espírito Santo: critérios do art. 2º do Decreto 12.068/2024 são mínimos; aplica critérios adicionais (DEC com expurgo/DEC limite, IASC, TMAE, obras atrasadas, estes do ex-diretor Ricardo Tili)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "1:37:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:38:38",
+   "processo": "48500.010802/2025-80 (legenda incerta)",
+   "interessado": "Companhia Piratininga de Força e Luz — CPFL Piratininga",
+   "assunto": "Antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 9/2002",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "distribuicao_qualidade"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (Mosna por fundamentos distintos) — recomenda prorrogação e minuta do 5º termo aditivo",
+   "resumo_voto": "Sustentação oral de Rafael Lazarini (CPFL Piratininga). Mosna: atende todos os 4 critérios adicionais.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, recomenda prorrogação",
+     "ts": "1:38:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "1:39:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "1:39:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto divergente na fundamentação; recomenda a prorrogação",
+     "ts": "1:39:53",
+     "confianca": "alta",
+     "justificativa": "mantém tese de seu voto-vista no caso EDP Espírito Santo: critérios do art. 2º do Decreto 12.068/2024 são mínimos; aplica critérios adicionais (DEC com expurgo/DEC limite, IASC, TMAE, obras atrasadas, estes do ex-diretor Ricardo Tili)"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:44:41",
+   "processo": "48500.010850/2025-78 (legenda incerta)",
+   "interessado": "Companhia Energética de Pernambuco — Neoenergia Pernambuco",
+   "assunto": "Antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 26/2000",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "distribuicao_qualidade"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por maioria — recomenda prorrogação e minuta do 6º termo aditivo; vencido Fernando Mosna",
+   "resumo_voto": "Sustentação oral de Solange Ribeiro (Neoenergia). Mosna: descumpre 2 critérios adicionais (TMAE 12,44 vs média 8,96; obras atrasadas 41% vs 21%), por isso vota por não recomendar a prorrogação.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, recomenda prorrogação",
+     "ts": "1:44:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "1:45:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge: não recomenda a prorrogação (vencido)",
+     "ts": "1:45:51",
+     "confianca": "alta",
+     "justificativa": "descumprimento de 2 dos 4 critérios adicionais (TMAE e obras atrasadas acima da média Brasil)",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "1:50:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:51:05",
+   "processo": "48500.003671/2025-84 (legenda incerta)",
+   "interessado": "Equatorial Maranhão Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública (28/05 a 11/07/2025, audiência 12/06) sobre a revisão tarifária periódica 2025 da Equatorial Maranhão (vigência 28/08/2025); efeito médio preliminar ~21,85%",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "regulacao_normativa",
+    "cde_encargos"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade — instaura CP",
+   "resumo_voto": "Apresentação da STR (parcela B elevada pela nova base de remuneração). Agnes comenta peso crescente da CDE no Norte/Nordeste e sugere chamar atenção do Congresso.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, instaura consulta pública",
+     "ts": "2:01:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha; comenta parcela B e peso da CDE",
+     "ts": "2:01:30",
+     "confianca": "alta",
+     "justificativa": "CDE cresce no Norte/Nordeste; tema a ser levado ao Congresso"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:03:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "2:03:33",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:04:12",
+   "processo": "48500.001653/2024-87 (legenda incerta)",
+   "interessado": "CCEE (Câmara de Comercialização de Energia Elétrica)",
+   "assunto": "Pedido de delegação de competência à CCEE para reconhecer excludente de responsabilidade em desligamentos/penalidades decorrentes da calamidade no Rio Grande do Sul e diretrizes para parcelamento de débitos",
+   "tema": [
+    "comercializacao",
+    "recursos administrativos",
+    "calamidade RS"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade — indefere a delegação; autoriza parcelamento em até 8 parcelas (IGP-M + 1% a.m.) de casos comprovadamente afetados; CCEE operacionaliza e envia relatório mensal à SFF",
+   "resumo_voto": "Excludente de responsabilidade exige análise caso a caso e não traria ganho de eficiência se delegado; parcelamento excepcional sem valor mínimo. Agnes sugere que a ANEEL pode encerrar o regime especial antes do fim do decreto estadual.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, indefere delegação e autoriza parcelamento",
+     "ts": "2:07:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha; pondera que a ANEEL pode encerrar o regime antes do fim da calamidade estadual",
+     "ts": "2:25:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:27:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "2:28:01",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:31:05",
+   "processo": "48500.004163/2024-32 (legenda incerta)",
+   "interessado": "STE / setor (ABRADEE em sustentação)",
+   "assunto": "Resultado da CP 6/2025: edital do Prêmio ANEEL de Inovação 2025 (PDI)",
+   "tema": [
+    "regulacao_normativa",
+    "PDI / inovação"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade — aprova o edital",
+   "resumo_voto": "Sustentação de Ricardo Brandão (ABRADEE) pedindo início em 2026 e periodicidade bienal; área técnica manteve anual. Inscrição automática das empresas, nova categoria Norte/Nordeste/Centro-Oeste, conselho de consumidores no comitê. Mosna sugere estudar prêmio pecuniário ao pesquisador (fora de recursos de PDI).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova o edital",
+     "ts": "2:48:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha; iniciativa positiva",
+     "ts": "2:52:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha; sugere futura premiação financeira ao pesquisador via patrocínios",
+     "ts": "2:50:00",
+     "confianca": "alta",
+     "justificativa": "reconhecimento pecuniário ao pesquisador em próximas edições"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "2:53:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:54:09",
+   "processo": "48500.002429/2023-21",
+   "interessado": "transmissoras (ABRATE), ONS (sustentação oral de Naira Mamed Bezerra)",
+   "assunto": "Resultado da CP 5/2025: resolução sobre metodologia do máximo esforço das transmissoras na cobrança dos encargos rescisórios dos CUST (voto-vista)",
+   "tema": [
+    "transmissao",
+    "regulacao_normativa",
+    "tarifas_revisao_tarifaria"
+   ],
+   "relator": "Fernando Mosna (voto-vista: Ludimila Lima)",
+   "resultado": "aprovado por maioria conforme o voto-vista — máximo esforço caracterizado até o ajuizamento da ação pelo ONS (com protesto e cadastro de inadimplentes); valores na parcela de ajuste do ciclo 2026-2027; STD avalia incentivos/enforcement ao ONS; vencido o relator Fernando Mosna",
+   "resumo_voto": "ONS pediu que não se aprovasse (não é credor; riscos tributários; conflito de interesse). Ludmila: medir esforço e não resultado; trânsito em julgado favorável é exigência fora do controle da transmissora; exclui dívidas entre partes relacionadas; aplicação a partir do ciclo 26/27. Mosna: ajuizamento seria 'mínimo esforço'; propôs exigir decisão de mérito transitada em julgado (sem exigir que seja favorável) e criticou atribuir ônus e possível responsabilização ao ONS.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "voto-vista: diverge do relator quanto ao marco do máximo esforço",
+     "ts": "3:01:00",
+     "confianca": "media",
+     "justificativa": "distinção entre esforço e resultado; após o ajuizamento a condução é do ONS"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, mantém seu voto (vencido)",
+     "ts": "4:02:26",
+     "confianca": "alta",
+     "justificativa": "exigir decisão de mérito com trânsito em julgado; ajuizamento seria mínimo esforço; voto-vista onera o ONS, que não é credor",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha o voto-vista",
+     "ts": "4:02:25",
+     "confianca": "media",
+     "justificativa": "esforço deve ser medido no que está sob gestão da transmissora; parecer da Procuradoria dá conforto à representação pelo ONS; adiamento ao ciclo 26/27 é prudente"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "4:02:30",
+     "confianca": "media",
+     "justificativa": "medir esforço e não resultado; coerência com a centralização no ONS"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "5:36:07",
+   "processo": "48500.015702/2025-40 (legenda incerta)",
+   "interessado": "Rima Industrial S.A. (consumidor livre/autoprodutor equiparado)",
+   "assunto": "Requerimento com cautelar para não arcar com ônus da diferença de PLD entre submercados Nordeste e Sudeste/Centro-Oeste por restrição de intercâmbio (alegada falta de expansão da transmissão); liquidação CCEE de 12/05/2025 ~R$ 14,56 milhões",
+   "tema": [
+    "comercializacao",
+    "recursos administrativos",
+    "transmissao"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade — perda de objeto da cautelar; conhece e nega provimento",
+   "resumo_voto": "Sustentação de Thiago Sandoval Furtado (Rima). Procuradoria informou liminar em mandado de segurança. Relatora: risco de submercado é intrínseco e conhecido; contrato bilateral no ACL aloca o risco; expansão da transmissão ocorreu nos prazos.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, nega provimento",
+     "ts": "5:50:00",
+     "confianca": "alta",
+     "justificativa": "risco de submercado é conhecido e alocado contratualmente"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "6:00:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "6:00:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "6:00:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "6:22:52",
+   "processo": "48500.900879/2024-61 (legenda incerta)",
+   "interessado": "Equatorial Pará Distribuidora de Energia S.A.",
+   "assunto": "Recurso contra Auto de Infração 26/2024-SFT (multa por atraso em ligações com obra e em estudos/orçamentos de conexão)",
+   "tema": [
+    "fiscalizacao_sancoes",
+    "recursos administrativos",
+    "distribuicao_qualidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade — parcial provimento; multa reduzida para R$ 45.182.642,39",
+   "resumo_voto": "Sustentação de Lucas Custódio (Equatorial) alegando bis in idem, atenuante de 95% e desproporcionalidade, e pedindo retirada de pauta. Relator não retirou: não conformidades independentes (2.091 obras e 627 estudos atrasados em abr/2024).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, parcial provimento",
+     "ts": "6:35:00",
+     "confianca": "alta",
+     "justificativa": "não conformidades independentes; constatação à época da fiscalização"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "6:38:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "6:38:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:38:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "6:38:57",
+   "processo": "vários (despachos SCE 4578 a 4583/2023)",
+   "interessado": "CPFL Energias Renováveis S.A. — UFVs Cristais 1 a 6",
+   "assunto": "Recursos contra indeferimento de outorgas de autorização (e desconto tarifário da Lei 14.120) por falta de estatuto social e ata de eleição",
+   "tema": [
+    "outorgas_geracao",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade — nega provimento",
+   "resumo_voto": "Sustentação de Urias Martiniano Garcia Neto (CPFL). Procuradoria (parecer 281/2024): sem ilegalidade. Relatora: existência dos documentos em outros processos não exime o agente de instruir o pedido completo.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "6:49:00",
+     "confianca": "alta",
+     "justificativa": "documentação completa é exigível dado o impacto do desconto sobre consumidores"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "6:50:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "6:50:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "6:50:48",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "11 — João Valmor M. da Silva e Filhos Ltda. x Nova Palma Energia: orçamento de conexão e enquadramento GD1 (microGD solar, Restinga Seca/RS)",
+   "relator": "Ludimila Lima",
+   "motivo": "retirado pela relatora após sustentações orais, para instrução complementar das áreas técnicas",
+   "ts": "6:22:37"
+  },
+  {
+   "item": "1, 21 e 25",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta antes da sessão",
+   "ts": "0:33:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Daniel Cardoso Dana (diretor substituto) não consta da lista de diretores do config; registrado como dito.",
+  "Atribuição dos votos 'acompanha' a Ludmila/Dana/Agnes inferida pela ordem (Agnes vota por último como presidente da sessão); falantes não identificados na legenda.",
+  "Autor do voto divergente nos itens 6-9 inferido como Fernando Mosna (cita 'minha proposta' do DEC com expurgo e o voto-vista de Ricardo Tili); confiança alta mas não nominal na legenda.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "Itens de bloco (12-47) não detalhados."
+ ]
+}

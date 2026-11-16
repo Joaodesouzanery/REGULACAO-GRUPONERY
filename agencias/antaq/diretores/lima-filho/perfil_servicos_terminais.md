@@ -1,11 +1,11 @@
 # Perfil analítico — Lima Filho · tema: servicos_terminais
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 127 votos neste tema; 52 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 129 votos neste tema; 53 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 67 (89% dos votos em que não era relator) · relator 52 · vista pedida 0 · voto-vista divergente 0 · vencido 6 · outros/não captado 2
-**Como relator:** 32/52 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 68 (89% dos votos em que não era relator) · relator 53 · vista pedida 0 · voto-vista divergente 0 · vencido 6 · outros/não captado 2
+**Como relator:** 32/53 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
 **Argumentos recorrentes nas justificativas registradas:** segurança jurídica (8); eficiência/celeridade (7); proporcionalidade (4); usuário (2); governança/rito (2); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -137,3 +137,5 @@
 - **RD 614 (2026-08-20)**, item 30 — Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 · voto: *acompanha a relatora (vencido)* (vencido, conf. media) · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10600s) · resultado: vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber
 - **RD 614 (2026-08-20)**, item 31 — Manual de fiscalização da Res. 112/2024 (matriz de responsabilidade por armazenagem adicional), em cumprimento ao item 5.3.3 do Acórdão 94/2 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10990s) · resultado: aprovado (sem divergência registrada)
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3603s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *relator, aprova* (relator, conf. alta) · «Não demonstrada a urgência para restabelecer a cautelar.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

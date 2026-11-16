@@ -1,0 +1,159 @@
+{
+  "meta": {"video_id": "hMMZn8NbS6o", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (abertura ~0:08:26); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "11ª Reunião Pública Ordinária de 2026", "data": "2026-06-02", "formato": "presencial/híbrida",
+    "presidente_da_sessao": "Agnes da Costa (Diretora-Geral substituta)",
+    "diretores_presentes": ["Agnes da Costa", "Gentil Nogueira", "Willamy Frota"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": [
+      "Quórum de três diretores. Informes: bandeira amarela em junho; leitura de nota do COARF contra o decreto 12.990/2026 (bloqueio orçamentário de ~18%).",
+      "Aprovada a ata do 8º circuito deliberativo (26/05/2026).",
+      "Pauta com 23 itens; itens 10 a 23 em bloco; destacados 15 e 23; retirados 3 e 7; sustentações orais nos itens 1, 2, 4, 8, 15 e 23.",
+      "Item 6: o Diretor-Geral Sandoval Feitosa havia pedido destaque no circuito, mas estava ausente.",
+      "Item 2 (armazenamento): Agnes informa que o Diretor-Geral Sandoval Feitosa deixou registrado voto acompanhando a proposta de Willamy Frota; decisão proclamada por maioria (provável divergência registrada anteriormente, não identificada na sessão)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:36:12", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 10 a 22 em bloco (exceto 15 e 16 tratados à parte); no item 10 (regras de comercialização/álgebra de compensação por cortes de geração, Lei 15.269/2025) a relatora Agnes da Costa esclareceu redação dos parágrafos 43 e 44 sem mudança de mérito",
+      "tema": ["comercializacao", "regulacao_normativa"],
+      "relator": "vários", "resultado": "aprovados por unanimidade (exceto item 16, por maioria)",
+      "resumo_voto": "Votação em bloco dos itens remanescentes.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:40:00", "justificativa": "Relatora do item 10; esclarecimento dos parágrafos 43 e 44 do voto após reunião com agentes, sem alterar mérito.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha (itens remanescentes do bloco)", "ts": "0:40:08", "justificativa": "Eu acompanho os itens remanescentes do bloco.", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "aprova o bloco, exceto item 16", "ts": "0:40:17", "justificativa": "Aprova os itens do bloco, com voto divergente no item 16.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "16", "ts": "0:40:17", "processo": "", "interessado": "Companhia Energética Sinop",
+      "assunto": "Pedido de medida cautelar sobre a álgebra de comercialização (fator associado à garantia física/lastro) da UHE Sinop",
+      "tema": ["comercializacao", "recursos_recursais", "outorgas_geracao"],
+      "relator": "não identificado", "resultado": "aprovado por maioria (voto do relator, no bloco), vencido Willamy Frota",
+      "resumo_voto": "Voto do relator constava do bloco (teor não lido); Willamy votou por negar a cautelar.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "diverge: conhecer e negar provimento à cautelar (vencido)", "ts": "0:40:17", "justificativa": "Ausente a fumaça do bom direito; embora a álgebra proposta reflita mais precisamente a contribuição da unidade à garantia física, não há impropriedade formal na álgebra em vigor; o fator atual dá peso ao sinal para retorno da unidade em contingência; álgebra vigora há muito tempo e aprimoramento deve seguir o rito ordinário, não cautelar.", "tom": "técnico", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova (no bloco)", "ts": "0:40:00", "justificativa": "Votou com o bloco.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova (no bloco)", "ts": "0:40:08", "justificativa": "Votou com o bloco.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "23", "ts": "0:41:52", "processo": "48500.030885/2025-23", "interessado": "Cemig Distribuição S.A. (Cemig-D)",
+      "assunto": "Ratificação da decisão do 8º circuito deliberativo sobre o reajuste tarifário anual 2026 da Cemig-D (efeito médio 6,50%; AT 9,43%; BT 5,21%), vigência 28/05/2026; sustentação oral do deputado federal Weliton Prado contra o reajuste",
+      "tema": ["tarifas_revisao_tarifaria", "cde_encargos", "distribuicao_qualidade"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa tarifas com efeito médio de 6,50%; metade do aumento atribuída à CDE e parte à transmissão; determina à Cemig apresentar até 28/03/2027 histórico de receitas a reverter à modicidade (encargos rescisórios), sob pena de arbitramento pela STR.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:53:00", "justificativa": "Reajuste aplica contrato e regulação; metade do aumento decorre da CDE e transmissão subiu pela expansão; omissão de informações sobre encargos rescisórios é de valor não significativo e tratada com prazo e arbitramento.", "tom": "explicativo", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:00:15", "justificativa": "Corrobora as reflexões de Agnes; considera muito bem fundamentado o voto do relator.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:00:51", "justificativa": "Agradeceu a sustentação oral como contribuição à transparência e às preocupações com modicidade e qualidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:02:14", "processo": "48500.079462/2026-30", "interessado": "Concessionárias de transmissão; ABRATE (sustentação oral de Rafael Janiques)",
+      "assunto": "Casos extraordinários do reajuste 2026-2027 da RAP das transmissoras: ação judicial da Gerdau (recomposição ~R$ 39 mi), EUST não pagos pela Norte Energia (Belo Monte), encargos rescisórios de CUSTs e máximo esforço (REN 1.125/2025)",
+      "tema": ["transmissao", "tarifas_revisao_tarifaria", "fiscalizacao_sancoes"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Acolhe a STR, mas afasta por ora o desconto de ~R$ 875 mi de encargos rescisórios de contratos sem garantia (despacho 3.245/2023) rescindidos após o despacho 1.687/2024, até a STD decidir o pedido pendente; recompõe Gerdau; nega inclusão dos EUST da Norte Energia sem trânsito em julgado.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova (com ajuste à proposta da STR)", "ts": "1:13:30", "justificativa": "Mais prudente não descontar agora os R$ 875 mi para evitar variação tarifária de sobe e desce se o pleito da ABRATE for acolhido; inadimplência sub judice só entra após trânsito em julgado.", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:47:30", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:47:32", "justificativa": "Considerou que não é divergência real, mas tratamento que só a diretoria pode dar; mérito fica para a STD.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:49:27", "processo": "48500.073862/2025-67", "interessado": "Centrais geradoras com CUST; ABEEólica (Natália Caldeira) e Aurea Energia (Solange Davi) em sustentação oral",
+      "assunto": "Resultado da Consulta Pública 7/2026: mecanismo excepcional (anistia/«dia do perdão» 2) para revogação de outorgas e rescisão de CUST sem encargos rescisórios por centrais geradoras inviáveis",
+      "tema": ["outorgas_geracao", "transmissao", "regulacao_normativa"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a resolução normativa; usinas associadas e devolução de encargos já pagos ficam para análise de casos concretos; margem liberada vai ao processo ordinário de acesso; prazo de adesão 16/06.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "2:15:10", "justificativa": "Desassociação de usinas é pertinente, mas pedido autônomo; estender benefício a quem já pagou não libera margem nem reduz inadimplência, objetivos da norma.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:19:58", "justificativa": "Remeter usinas associadas a casos concretos é adequado; anistia não é algo garantido.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:20:54", "justificativa": "Entende que a condução está adequada.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:20:54", "processo": "48500.001409/2026-94", "interessado": "Distribuidoras e consumidores de baixa tensão",
+      "assunto": "Abertura de consulta pública (93 dias a partir de 08/06/2026) sobre encargo fixo para custo comercial na estrutura tarifária da baixa tensão (modernização das tarifas de distribuição, ciclo 1)",
+      "tema": ["tarifas_revisao_tarifaria", "regulacao_normativa"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaura CP sobre AIR conjunta 1/2026 STR/STD: tarifa fixa (fatura e medidor) substituindo o consumo mínimo, exceto baixa renda e SCEE.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "2:37:09", "justificativa": "Modernização tarifária é a agenda mais importante da ANEEL; separar custos fixos dos volumétricos; prazo longo pela falta de pessoal.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:39:44", "justificativa": "Apoia discussão sobre papel das distribuidoras em novas modalidades; pede às associações contribuições no prazo, sem pedir prorrogação.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:43:30", "justificativa": "Importância estratégica; viabiliza financiamento da medição inteligente.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:44:17", "processo": "48500.074790/2026-48", "interessado": "Força Canto de Baixo, Ventos de Santo Antônio e Ventos do Canto de Baixo (EOLs União dos Ventos 12, 13 e 14); sustentação oral de Urias Martiniano Garcia Neto",
+      "assunto": "Medida cautelar para suspender o efeito financeiro da geração realocada ao ACR (cortes de geração)",
+      "tema": ["comercializacao", "recursos_recursais", "outorgas_geracao"],
+      "relator": "Willamy Frota", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Dá provimento à cautelar; determina à SGM revisar regras de comercialização; suspende, a partir da publicação, o efeito financeiro da geração realocada ao ACR de eólicas e fotovoltaicas até a revisão.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, aprova (dá provimento)", "ts": "2:51:40", "justificativa": "Mantém o voto; regra atual não contempla impacto dos cortes de geração na realocação; não acolhe retroação a janeiro/2026 pedida na sustentação.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:53:30", "justificativa": "O caso concreto mostrou que a regra precisa de aperfeiçoamento.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "2:53:56", "justificativa": "Acompanha o relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "15", "ts": "2:54:48", "processo": "48500.027618/2025-79", "interessado": "Jesuíta Energia S.A.; sustentação oral de Rodrigo Quintana Fernandes",
+      "assunto": "Impugnação contra deliberação da CCEE (reunião 1477) sobre penalidade por insuficiência de lastro de energia de reserva",
+      "tema": ["comercializacao", "fiscalizacao_sancoes", "recursos_recursais"],
+      "relator": "Willamy Frota", "resultado": "negado provimento, por unanimidade",
+      "resumo_voto": "Conhece e nega provimento; recontabilização não é instrumento para recompor lastro retroativamente.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, nega provimento", "ts": "3:02:44", "justificativa": "O voto registra que a recontabilização não é instrumento para o agente recompor lastro retroativamente.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "3:04:27", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:04:30", "justificativa": "Acompanha o relator.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "3:04:51", "processo": "48500.040322/2022-45", "interessado": "Ambaçu Energia S.A. (UTE Uruguaiana)",
+      "assunto": "Requerimento de revogação da REN 340/2008, que alterou a garantia física da UTE Uruguaiana",
+      "tema": ["outorgas_geracao", "regulacao_normativa"],
+      "relator": "Agnes da Costa", "resultado": "deferido parcialmente, por unanimidade",
+      "resumo_voto": "Defere parcialmente, revogando a REN 340/2008; leitura só do dispositivo.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, defere parcialmente", "ts": "3:05:17", "justificativa": "Item vinha do circuito deliberativo com destaque do Diretor-Geral, ausente; leu só o dispositivo.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "3:05:45", "justificativa": "Acompanha a relatora.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "3:05:50", "justificativa": "Também acompanho a relatora.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "9", "ts": "3:06:04", "processo": "48500.002723/2010 e 48500.025262/2025-01", "interessado": "Transnorte Energia S.A. (TNE) — CER da SE Boa Vista e interligação Manaus-Boa Vista",
+      "assunto": "Flexibilização de requisitos do compensador estático (CER) da SE Boa Vista, interligação Brasil-Venezuela no projeto básico, e RAP/prazo do CER após arbitragem CCI 27016",
+      "tema": ["transmissao", "recursos_recursais"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Indefere flexibilização e reprova projeto básico do CER; segrega de ofício o contrato 003/2012 em dois (CER e interligação); ONS reanalisa projetos; TNE assina em 30 dias; mantém interligação Brasil-Venezuela nos estudos.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "3:08:30", "justificativa": "Separação contratual é consequência lógica da arbitragem; prazos dos objetos são descasados em ~10 anos; requisitos mantidos.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:14:24", "justificativa": "Encaminhamento bem construído; processos estavam em relatorias separadas e um afetava o outro.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "3:14:21", "justificativa": "Eu acompanho o voto do diretor Gentil.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "3:15:40", "processo": "48500.004885/2020-63", "interessado": "Sistemas de armazenamento (SAE); sustentações orais de ABEEólica (Francisco Carlos da Silva Júnior) e ABSOLAR (Isabela Carneiro)",
+      "assunto": "Resultado da CP 39/2023: regulação do armazenamento de energia elétrica — voto-vista (vista coletiva) após voto-vista de Fernando Mosna (RPO 7ª/2026) e voto de Daniel Danna declarado insubsistente",
+      "tema": ["regulacao_normativa", "transmissao", "tarifas_revisao_tarifaria", "outorgas_geracao"],
+      "relator": "Willamy Frota", "resultado": "aprovado por maioria (voto-vista de Willamy Frota)",
+      "resumo_voto": "Aprova regulamentação de outorga e tratamento regulatório do armazenamento; acompanha Mosna na maior parte (redução de até 30% do MUST/MUSD sem onerosidade) e propõe que SAE autônomo que aceite despacho integral do ONS contrate MUST de carga nulo; ONS divulga pontos de conexão e ajusta procedimentos em 180 dias.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "voto-vista: aprova com proposta complementar (MUST de carga nulo para SAE despachado pelo ONS)", "ts": "3:25:49", "justificativa": "Isentar a TUST de consumo sem contrapartida gera déficit arrecadatório; SAE sob despacho integral do ONS se aproxima de ativo de rede; alinhado à nota técnica 138/2025 do MME para o LRCAP de baterias.", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "4:10:30", "justificativa": "Aprimora a proposta de Mosna; tarifação dá sinal locacional sem tirar a livre iniciativa; cardápio de alternativas aos agentes.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o voto-vista", "ts": "4:10:20", "justificativa": "Já havia acompanhado Mosna; não tarifação deve observar despacho centralizado; ponto de partida para o leilão de baterias até dezembro.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["Item 3 (retirado de pauta)", "Item 7 (retirado de pauta)"],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas e números de processo podem estar errados (ex.: Cemig grafada SEMIG; Gerdau como Guerdal; Ambaçu como Aba Su/Amar SU; Força/Forte Canto de Baixo).",
+    "Rótulos de falante do .md frequentemente errados (ex.: Ricardo Tili e Fernando Mosna aparecem rotulados mas não estavam presentes; o voto divergente do item 16 aparece sob Gentil mas pela saudação é de Willamy Frota).",
+    "Item 16: relator e teor do voto vencedor não lidos (estava no bloco); interessado inferido como Companhia Energética Sinop.",
+    "Itens do bloco (10 a 22) não enunciados individualmente; não registrados um a um.",
+    "Item 2: proclamado por maioria sem identificar quem divergiu; Sandoval Feitosa (ausente) registrou voto acompanhando Willamy, segundo Agnes.",
+    "Ordem de votos de quem acompanha e ts aproximados."
+  ]
+}

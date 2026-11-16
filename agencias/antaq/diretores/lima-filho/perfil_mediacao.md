@@ -1,11 +1,11 @@
 # Perfil analítico — Lima Filho · tema: mediacao
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 32 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 23 (95% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 24 (96% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 5/8 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (2); interesse público (1); proporcionalidade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -42,3 +42,4 @@
 - **RD 605 (2026-03-24)**, item 29 — Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) · voto: *acompanha o relator (votação simbólica, sem manifestação)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13525s) · resultado: cautelar indeferida por unanimidade
 - **RD 611 (2026-06-11)**, item 43 — Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investi · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=14733s) · resultado: aprovado
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3603s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

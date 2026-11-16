@@ -1,0 +1,526 @@
+{
+ "meta": {
+  "video_id": "83fLzZL2WIk",
+  "fonte": "legenda automática do YouTube; falantes inferidos (tags {..} pouco confiáveis); ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "2",
+  "data": "2026-01-27",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (substituta; Diretor-Geral Sandoval Feitosa em férias)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Willamy Frota",
+   "Gentil Nogueira"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)"
+  ],
+  "observacoes": [
+   "2ª Reunião Pública Ordinária de 2026; pauta com 28 itens; itens 10 a 28 em bloco; item 25 destacado; item 23 retirado; sustentações orais nos itens 1, 5 e 25.",
+   "Ordem de julgamento: 1, 7, 8, 5, 2, 4, 25, 3, 6, 9.",
+   "Agnes registrou que não participou da reunião cuja ata foi aprovada.",
+   "Divergências: item 5 (Gentil vencido; prevaleceu a divergência de Willamy), item 25 (Mosna vencido na cautelar), item 3 (voto divergente de Mosna; relatora retirou de pauta).",
+   "Gentil Nogueira se ausentou antes do item 9, deixando o voto registrado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:25:28",
+   "processo": "itens 10 a 28 (exceto 23 retirado e 25 destacado)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 10 a 28 da pauta (votos e atos disponibilizados previamente)",
+   "tema": [
+    "votação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem debate.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco",
+     "ts": "0:25:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco",
+     "ts": "0:25:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:25:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:25:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:26:00",
+   "processo": "48500.003385/2022-14 (número incerto)",
+   "interessado": "distribuidoras; sustentação oral de Ricardo Brandão (ABRADEE)",
+   "assunto": "Resultado da Consulta Pública 8/2024: resolução normativa de ações para aumentar a satisfação do consumidor com a distribuição (componente S do Fator X, IASC, consumidor.gov, ouvidoria, prazos comerciais); efeitos a partir de 1/1/2027",
+   "tema": [
+    "regulação normativa (resolução, consulta pública)",
+    "distribuição e qualidade",
+    "tarifas e revisão tarifária (Fator X)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (com ajuste do relator na banda de efeito nulo)",
+   "resumo_voto": "Acompanha a NT conjunta 15/2025 (STD/SMA/STR), exceto banda de efeito nulo (-3% a +3% do IASC): acolhe pleito da ABRADEE e zera o componente S nas curvas vermelha e amarela nessa faixa, ajustando a inclinação entre -20% e -3%.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova com ajuste",
+     "ts": "0:45:54",
+     "confianca": "media",
+     "justificativa": "a banda de efeito nulo deve ser de fato neutra; o ajuste mantém a lógica de incentivo e suaviza as curvas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:52:03",
+     "confianca": "alta",
+     "justificativa": "elogia ajuste em linha com a preocupação da ABRADEE; debate com a sociedade melhora a norma"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:52:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "0:52:01",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:52:40",
+   "processo": "48500.001572/2026-57 (número incerto)",
+   "interessado": "Serra Negra Transmissão de Energia S.A. (grupo T Square, ex-Sterlite)",
+   "assunto": "Pedido de reconsideração contra o Despacho 3664/2025, que recomendou ao MME a caducidade do contrato de concessão de transmissão 10/2022 (atrasos; SE Nossa Senhora da Glória 2; risco de corte de carga em Sergipe)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Atrasos estruturais no caminho crítico, sem capacidade financeira nem plano de transferência idôneo; caducidade pode ser recomendada antes do prazo final; sem obrigação de submeter à SecexConsenso/TCU nem de distrato; pedido de retirada de pauta para alegações finais rejeitado (PF-ANEEL).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "1:02:58",
+     "confianca": "alta",
+     "justificativa": "fato grave configurado; própria empresa projeta operação só em 2029; multa não entrega a obra nem afasta risco sistêmico"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:38:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "1:38:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "1:38:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:38:50",
+   "processo": "48500.001677/2025-48 (número incerto)",
+   "interessado": "Tangará Transmissão de Energia S.A. (grupo T Square)",
+   "assunto": "Pedido de reconsideração contra o Despacho 3668/2025, que recomendou ao MME a caducidade do contrato de concessão de transmissão 14/2022",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Mesmos fundamentos do item 7; PF-ANEEL ratifica o Parecer 13/2026.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "1:39:30",
+     "confianca": "alta",
+     "justificativa": "caso análogo ao da Serra Negra"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:40:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "1:40:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "1:40:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:41:08",
+   "processo": "48500.000314/2023-01 (número incerto)",
+   "interessado": "Transmissora Aliança de Energia Elétrica S.A. (TAESA); sustentação oral de Gliender Pereira Mendonça",
+   "assunto": "Recurso contra o Despacho 423/2023 (STD) que negou afastar a PVI pelo desligamento da LT 525 kV Assis-Araraquara C1 em 23/10/2021 (vendaval, queda de 5 torres)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (PVI)",
+    "recursos administrativos",
+    "eventos climáticos extremos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "negado provimento, por maioria (relator vencido; prevaleceu a divergência de Willamy Frota)",
+   "resumo_voto": "Relator propôs reconhecer caso fortuito/força maior (três concessionárias atingidas, decretos de calamidade); divergência: projetar a rede para ventos fortes é risco ordinário da transmissora, precedente ISA CTEEP no mesmo evento; STD e PF-ANEEL contra.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, dá provimento — vencido",
+     "ts": "1:52:27",
+     "confianca": "alta",
+     "justificativa": "evento climático atípico atingiu três concessionárias com projetos distintos; negar o enquadramento esvaziaria o item 6.7.3 do Módulo 4"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "diverge: nega provimento (voto divergente)",
+     "ts": "2:05:19",
+     "confianca": "media",
+     "justificativa": "resistir a ventos fortes é risco ordinário; edital fixa requisitos mínimos; precedente ISA CTEEP para o mesmo evento"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência",
+     "ts": "2:17:16",
+     "confianca": "alta",
+     "justificativa": "alinhada a Willamy e ao precedente; pede critérios mais objetivos para evento extremo (P&D da ABRADEE)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência",
+     "ts": "2:20:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:20:22",
+   "processo": "48500.000730/2023-09 (número incerto)",
+   "interessado": "distribuidoras; operadoras de telecom",
+   "assunto": "Resultado da Consulta Pública 3/2025: compartilhamento de outras receitas da distribuição (Submódulos 2.7 e 2.7A do PRORET)",
+   "tema": [
+    "tarifas e revisão tarifária (outras receitas)",
+    "regulação normativa (consulta pública)",
+    "inovação",
+    "compartilhamento de postes"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade, com modificações do relator",
+   "resumo_voto": "Aprova a NT 142/2025-STR com dois ajustes: atividades inovadoras ficam em 5% nos 5 primeiros anos e depois são reavaliadas com dados reais (sem curva linear até 20%); compartilhamento de infraestrutura (postes) mantém 60% da receita bruta até a definição do preço regulado.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova parcialmente a proposta da área técnica",
+     "ts": "2:31:23",
+     "confianca": "alta",
+     "justificativa": "curva linear sem evidência empírica; postes já em franca expansão, risco de aumento artificial de receita"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:55:57",
+     "confianca": "alta",
+     "justificativa": "concorda com reavaliar após 5 anos e com não mexer nos postes antes do preço regulado"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:57:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:57:36",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:58:12",
+   "processo": "48500.002339/2024-11 (número incerto)",
+   "interessado": "distribuidoras",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 29/01 a 16/03/2026) sobre o Relatório de AIR conjunto 1/2025 de sistemas de medição para transição energética e modernização da distribuição",
+   "tema": [
+    "regulação normativa (consulta pública, AIR, agenda regulatória)",
+    "distribuição e qualidade (medição)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura a consulta pública.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:58:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:59:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:59:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:59:57",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "3:00:33",
+   "processo": "48500.028569/2025-91 (número incerto)",
+   "interessado": "Consórcios Livre Energia 1 e 2 (MMGD); Neoenergia Pernambuco; sustentação oral de Sumaia (nome incerto)",
+   "assunto": "Medida cautelar para obrigar a Neoenergia Pernambuco a apresentar demonstrativos de saldo de créditos de MMGD; indício de comercialização de energia no sistema de compensação",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos (cautelar)",
+    "fiscalização"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "item 1: cautelar negada por maioria (Mosna vencido); item 2: por unanimidade, envio à SFT com apoio da STD para decidir em 180 dias sobre o modelo de negócio",
+   "resumo_voto": "Relator nega a cautelar (sem perigo da demora) e manda apurar eventual venda de energia via compensação; acolheu sugestão de Gentil/Mosna de encaminhar à SFT com apoio da STD.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega a cautelar e encaminha à fiscalização (ajustado)",
+     "ts": "3:08:36",
+     "confianca": "alta",
+     "justificativa": "cautelar não é o ambiente para avaliar a comercialização; não há ampliação do objeto"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge no item 1 (daria a cautelar); acompanha no item 2",
+     "ts": "3:20:48",
+     "confianca": "alta",
+     "justificativa": "há fumaça do bom direito, perigo da demora (quase um ano sem informação) e reversibilidade; a suspeita de comercialização justifica fiscalização"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator com a modificação",
+     "ts": "3:20:48",
+     "confianca": "media",
+     "justificativa": "vê fumaça do bom direito mas não perigo da demora; abriria precedente de cautelares para pedido de informação; sugere SFT"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator com o ajuste no item 2",
+     "ts": "3:21:02",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:21:56",
+   "processo": "48500.003716/2025-33 (número incerto)",
+   "interessado": "distribuidoras e consumidores cativos das áreas da SUDAM e SUDENE; Equatorial; Governo do Amapá; EPE",
+   "assunto": "Resultado da CP 47/2025: critério de rateio dos recursos da CDE vindos da repactuação da UBP (Lei 15.235/2025, art. 4º, §§ 8º e 9º) para modicidade tarifária",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)",
+    "hidrelétricas (UBP)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pela relatora após voto divergente (sem deliberação)",
+   "resumo_voto": "Relatora acompanha a STR: rateio por tarifa B1 econômica x mercado ACR, com pesos da CDE por tensão (1/0,8/0,5) e redutor em 12 ciclos. Mosna diverge: redistribui 12,5% por z-scores de consumo residencial médio e índice de complexidade socioeconômica e deixa a distribuidora escolher entre componente financeiro e redutor na fatura. Gentil e Willamy elogiam a divergência; a relatora retira para refletir.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova proposta da STR; depois retira de pauta",
+     "ts": "3:49:52",
+     "confianca": "alta",
+     "justificativa": "critério tecnicamente robusto, isonômico e com atenção à baixa tensão; dúvida sobre publicar descontos se a distribuidora puder optar"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto divergente: rateio com redistribuição de 12,5%",
+     "ts": "4:00:49",
+     "confianca": "alta",
+     "justificativa": "modicidade tarifária é conceito aberto; a lei delegou à ANEEL; não deve se autolimitar a critérios sem variáveis socioeconômicas"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "manifestação sem voto formal; favorável à divergência",
+     "ts": "4:57:03",
+     "confianca": "media",
+     "justificativa": "se alinha completamente à posição de Mosna sobre a discricionariedade do percentual"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "manifestação sem voto formal; elogia os dois votos",
+     "ts": "4:40:56",
+     "confianca": "baixa",
+     "justificativa": "concorda com a discricionariedade da ANEEL e com a opção da distribuidora pelo componente financeiro"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:59:11",
+   "processo": "48500.001526/2023-0 (número incerto)",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Pedido de reconsideração contra o Despacho 3309/2024, que negou a revisão tarifária extraordinária (RTE) para alterar as perdas não técnicas da RTP de 2022 (vista coletiva)",
+   "tema": [
+    "tarifas e revisão tarifária (RTE, perdas não técnicas)",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "negado provimento por maioria (relator original Tili vencido; prevaleceu o voto-vista de Ludmila Lima)",
+   "resumo_voto": "Voto-vista de Mosna acompanha Ludmila e Agnes: não há fato gerador nem desequilíbrio; a RTE não serve para rediscutir parâmetros da RTP; o procurador-geral atual aceita a tese de preclusão.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator (voto em 13/05/2025, ex-diretor): acolhe a RTE — vencido",
+     "ts": "5:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludmila Lima",
+     "voto": "voto-vista (01/07/2025, ex-diretora): nega provimento",
+     "ts": "5:00:30",
+     "confianca": "media",
+     "justificativa": "percentuais de perdas foram calculados corretamente e equilibraram a concessão em 2022"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista (04/11/2025): nega provimento",
+     "ts": "5:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: acompanha Ludmila e Agnes, nega provimento",
+     "ts": "4:59:30",
+     "confianca": "alta",
+     "justificativa": "não houve fato gerador nem desequilíbrio; RTE não rediscute matéria já decidida"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "não vota no processo",
+     "ts": "5:10:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "5:11:14",
+   "processo": "48500.001685/2015-91 (número incerto)",
+   "interessado": "Companhia Energética Vale do São Simão (UTE Vale de São Simão)",
+   "assunto": "Pedido de reconsideração contra o item 2 do Despacho 840/2016 (negou o parcelamento do ressarcimento no CER 20/2008); determinação à CCEE de desligar o agente",
+   "tema": [
+    "comercialização (CCEE, energia de reserva)",
+    "outorgas de geração (térmica a biomassa)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por unanimidade, com determinação à CCEE de desligar o agente",
+   "resumo_voto": "Sem geração desde fevereiro de 2017, inadimplência de cerca de R$ 5,6 milhões, CER encerrado em março de 2025, sem plano de transferência; as propostas criariam precedente oportunista.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento e determina desligamento",
+     "ts": "5:15:02",
+     "confianca": "alta",
+     "justificativa": "agente inativo há quase 10 anos e sem capacidade de cumprir o CER; o consumidor pagou por energia não entregue"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (voto registrado antes de se ausentar)",
+     "ts": "5:27:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "5:27:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha (não verbalizado)",
+     "ts": "5:27:46",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "23",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "3",
+   "motivo": "retirado de pauta pela relatora Agnes da Costa após o voto divergente de Fernando Mosna"
+  }
+ ],
+ "limites_da_analise": [
+  "Números de processo transcritos pela legenda automática: incertos.",
+  "Em vários itens só uma ou duas falas de 'acompanho' aparecem; os votos de quem não aparece são inferidos pela proclamação de unanimidade (confiança baixa).",
+  "Item 5: o voto divergente foi atribuído a Willamy Frota porque Agnes diz 'me alinho ao posicionamento do diretor Willam'; a tag de falante do trecho diz outra coisa.",
+  "Item 6: Willamy disse que não vota (provavelmente sucedeu o relator original); não ficou claro se Gentil votou; votos de Tili e Ludmila (ex-diretores) são de sessões anteriores, citados no relatório.",
+  "Item 25: nome da advogada da sustentação oral ('Umaia Reidrit/Sumaia') incerto.",
+  "Item 3: Gentil e Willamy só se manifestaram, sem voto formal; o processo foi retirado sem deliberação."
+ ]
+}

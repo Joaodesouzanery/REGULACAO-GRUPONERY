@@ -1,0 +1,69 @@
+{
+  "meta": {"video_id": "RUe9UhatYxA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "6", "data": "2025-02-25", "formato": "presencial (Embaixada do Brasil em Madri, Espanha) — parte 1 da sessão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "6ª Reunião Pública Ordinária de 2025, parte 1; realizada nas instalações da Embaixada do Brasil na Espanha; pauta com 51 itens (itens 6 a 51 em bloco).",
+      "Retirados de pauta os itens 5 e 12; ordem de deliberação: bloco, item 4, item 1, item 3, item 2. Os itens 3 e 2 ficaram para depois do almoço (parte 2, outro vídeo).",
+      "Item 4 (termo aditivo para prorrogação das 19 concessões de distribuição, Decreto 12.068/2024): nove sustentações orais; pedido de vista em mesa de Fernando Mosna; Ricardo Tili sinalizou divergência (investimento intraciclo e áreas com severas restrições operativas desde o primeiro processo tarifário).",
+      "Aprovada a ata da 5ª Reunião Pública Ordinária (18/02/2025)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:11:15", "processo": "itens 6 a 51 (bloco)", "interessado": "diversos",
+      "assunto": "Itens de bloco 6 a 51 (votos disponibilizados previamente; sem destaques)",
+      "tema": ["recursos administrativos"], "relator": "diversos",
+      "resultado": "Aprovados os itens do bloco, com abstenções pontuais e um pedido de vista em item do bloco (número ininteligível na legenda)",
+      "resumo_voto": "Um diretor (provavelmente Ludimila Lima) não votou nos itens 8 e 9 (voto já proferido pelo ex-diretor Hélvio Guerra) nem nos itens 10 e 11 (recursos contra despachos que emitiu como superintendente da SCE); demais acompanharam os relatores; o Diretor-Geral pediu vista de um item e proclamou a aprovação dos remanescentes.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "acompanha os relatores; não vota nos itens 8, 9, 10 e 11", "ts": "0:11:20", "justificativa": "Itens 8 e 9 têm voto do diretor Hélvio; 10 e 11 são recursos contra despacho emitido por ela como superintendente da SCE.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha os relatores", "ts": "0:11:50", "justificativa": "Aprova o bloco; no item 8 acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha os relatores", "ts": "0:12:00", "justificativa": "Aprova o bloco; no item 8 acompanha o relator e no item 9 a relatora.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha os relatores", "ts": "0:12:20", "justificativa": "Acompanha os votos dos relatores.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha os relatores; pede vista de um item do bloco", "ts": "0:12:40", "justificativa": "Acompanha o bloco com exceção de um item (número ininteligível, «item S») no qual solicita vista; proclama a aprovação dos remanescentes.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:12:59", "processo": "48500.000208/2024-34",
+      "interessado": "19 distribuidoras com concessões vencendo entre 2025 e 2031 (Abradee, Enel Rio/SP/CE, Equatorial Maranhão, Light, Neoenergia, EDP Espírito Santo, Energisa)",
+      "assunto": "Resultado da Consulta Pública 27/2024: minuta de termo aditivo ao contrato de concessão de distribuição para prorrogação das concessões (Decreto 12.068/2024 e Lei 9.074/1995); recomendação ao poder concedente sobre quitação de multas",
+      "tema": ["regulação normativa", "tarifas e revisão tarifária", "distribuição e qualidade", "fiscalização e sanções"],
+      "relator": "Agnes da Costa",
+      "resultado": "Pedido de vista em mesa de Fernando Mosna; julgamento suspenso",
+      "resumo_voto": "Relatora vota por aprovar o termo aditivo (menu de contratos: regime A price cap e regime B futuro; matriz de riscos; ASRO tratadas a partir da primeira revisão tarifária após o aditivo; cláusula de renúncia restrita) e recomendar ao poder concedente avaliar exigir quitação, em 180 dias, de multas transitadas em julgado administrativo (cerca de R$ 944 milhões nas 19 distribuidoras). Na discussão, acatou retirar 'integral e exclusivamente' da cláusula de riscos e avaliar incluir o poder concedente na cláusula de intervenção. Sustentações orais: Ricardo Brandão (Abradee), Hugo Lamim (Enel), Cristiano Logrado (Equatorial Maranhão), Felipe Tenório (Light), Solange Ribeiro (Neoenergia), Luiz Felipe Falcone (EDP ES), Fernando Maia (Energisa), Frederico (Stocche Forbes), Ana Flávia (Vilanova advocacia).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:13:36", "justificativa": "Aprova o termo aditivo e a recomendação sobre quitação de multas; mantém o voto, rejeitando reconhecimento intraciclo por autodeclaração e efeitos de ASRO antes da revisão ('carroça na frente dos bois', risco de sobreinvestimento e de corromper a regulação price cap).", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "4:12:03", "justificativa": "Segue o voto da relatora com os ajustes que ela se propôs a fazer; antes, disse que as preocupações das sustentações foram bem endereçadas no voto.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "4:12:12", "justificativa": "Pede vista em mesa; diverge da recomendação de quitação de multas (item b do dispositivo), que considera coação (arts. 151 e 153 do Código Civil) e condição ad hoc contrária ao parecer da Procuradoria; questiona subcláusula sexta da cláusula sexta, cláusula de intervenção, expressão 'integral e exclusivamente', regime B sem todas as regras, ausência de prazo para reconhecimento intraciclo (sugere autodeclaração) e ASRO só na revisão.", "tom": "crítico, jurídico", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto antecipado)", "ts": "4:12:20", "justificativa": "Concede a vista e pede registro do voto acompanhando integralmente a relatora; contra autodeclaração de investimentos por assimetria de informação; renovação não resolve desequilíbrio; defende a recomendação de pagamento de multas (analogia com a renovação da CNH).", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (sinalizou divergência)", "ts": "3:09:13", "justificativa": "Preocupado com o reconhecimento anual de investimentos e com distribuidoras com ASRO (Light, Enel Rio) declararem equilíbrio ao assinar; disse que, se Mosna não trouxer o voto, encaminhará divergência.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "4:12:43", "processo": "48500.000977/2025-89", "interessado": "agentes de geração (térmicas e hidrelétricas); MME, EPE, ONS",
+      "assunto": "Abertura de consulta pública sobre minuta de edital do Leilão de Reserva de Capacidade na forma de potência de 2025 (LRCAP 2025)",
+      "tema": ["leilões", "outorgas de geração", "regulação normativa"],
+      "relator": "Ricardo Tili",
+      "resultado": "Aprovado por unanimidade: CP por intercâmbio documental de 47 dias (27/02 a 14/04/2025)",
+      "resumo_voto": "Relator diverge das áreas técnicas e retira a exigência de equipamento nunca utilizado comercialmente com garantia de fabricante para produtos novos, substituindo por autodeclaração de que os ativos não estavam vinculados a outorga até 14/02/2025; as duas propostas vão ao debate na CP.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "4:17:00", "justificativa": "Exigir equipamento novo restringe soluções (importados não operados, equipamentos sem outorga) sem dados que comprovem distorção de concorrência; mitiga risco com autodeclaração.", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "4:35:14", "justificativa": "Alinha-se ao entendimento do relator sobre empreendimento novo.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "4:44:56", "justificativa": "Bom encaminhamento; sugere ouvir a Procuradoria sobre a dificuldade de verificar a exigência.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "4:45:00", "justificativa": "Vota com o relator.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "4:45:11", "justificativa": "Acompanha e destaca que as duas propostas (área técnica e relator) estarão em debate na CP.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["5", "12"],
+  "limites_da_analise": [
+    "Vídeo é a parte 1; itens 3 e 2 foram deliberados após o almoço (outro vídeo).",
+    "Bloco: atribuição de falas por diretor inferida pela ordem e conteúdo (Ludimila foi superintendente da SCE); número do item com pedido de vista ininteligível ('item S', talvez 7).",
+    "Item 4: autoria do 'sigo o voto da relatora com os ajustes' e do voto antecipado do Diretor-Geral inferida; Ricardo Tili não registrou voto nesta parte.",
+    "Nomes de advogados/representantes nas sustentações vêm da legenda automática e podem estar grafados incorretamente; Hélvio Guerra citado apenas como autor de voto já proferido."
+  ]
+}

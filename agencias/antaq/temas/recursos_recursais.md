@@ -542,6 +542,14 @@
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4819s)
 - **RD 463 (2019-06-26)**, 37 · relator **Francisval Mendes** · Recurso com pedido de efeito suspensivo contra a Resolução 6926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logíst → efeito suspensivo indeferido por maioria (2x1), vencido Mário Povia
   - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=7814s)
+- **RD 465 (2019-08-21)**, 28 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 31/2019 (EVTEA de reequilíbrio do contrato DP 24/2001, Santos): expurgo da álea empresarial e do acordo de acionis → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=5189s)
+- **RD 465 (2019-08-21)**, 29 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6155 (EVTEA do contrato de arrendamento 44/2001, Aratu) → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=5831s)
+- **RD 465 (2019-08-21)**, 30 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5738 (multas por irregularidades no porto de Estrela: seguro, plano de incêndio, licença ambiental) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6257s)
+- **RD 465 (2019-08-21)**, 31 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6409 (multas de cerca de R$ 16 mil) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6536s)
 - **RD 465 (2019-08-22)**, 63 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6110-ANTAQ (multa e determinação de desocupação de área no porto do Rio Grande) → provimento parcial por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1492s)
 - **RD 465 (2019-08-22)**, 64 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão sancionadora da Resolução 5969-ANTAQ → pedido conhecido e não provido, unânime
@@ -554,16 +562,34 @@
   - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2093s)
 - **RD 466 (2019-09-27)**, 55 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 105/2017 (advertência por patrimônio líquido inferior ao exigido; possibilidade de TAC) → relator votou; processo vai à vista de Francisval Mendes (pedido de vista anterior)
   - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4s)
+- **RD 466 (2019-09-27)**, 1 · relator **Francisval Mendes** · Autorização para aplicar os recursos da alienação do Centro Integrado de Saúde (CIS) na compra de imóveis para o porto de Itajaí → aprovado nos termos do voto-vista de Mário Povia; relator Francisval Mendes vencido
+  - votos: Francisval: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=69s)
+- **RD 466 (2019-09-27)**, 14 · relator **Francisval Mendes** · Recurso voluntário (contra multa da SFC) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2227s)
+- **RD 466 (2019-09-27)**, 17 · relator **Mário Povia** · Pedido de reconsideração (EVTEA do contrato 44/2001) → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2318s)
 - **RD 466 (2019-09-27)**, 72 · relator **Francisval Mendes** · Pedido de revisão e medida cautelar (exclusão do Cadin) contra multa já transitada em julgado e inscrita em dívida ativa → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2565s)
 - **RD 466 (2019-09-27)**, 73 · relator **Francisval Mendes** · Recurso administrativo → pedido de vista antes do voto do relator
   - votos: Mário: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2949s)
 - **RD 466 (2019-09-27)**, 75 · relator **Francisval Mendes** · Reversibilidade de bens — recurso administrativo (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
   - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3191s)
+- **RD 466 (2019-09-27)**, 25 · relator **None** · Recurso voluntário → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4413s)
 - **RD 466 (2019-09-27)**, 84 · relator **Francisval Mendes** · Pedido de reconsideração → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4708s)
 - **RD 466 (2019-09-27)**, 85 · relator **Francisval Mendes** · Pedido de reconsideração → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4708s)
+- **RD 466 (2019-09-27)**, 35 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 40/2019 (outorga de EBN na cabotagem negada) → aprovado por unanimidade (provido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4787s)
+- **RD 466 (2019-09-27)**, 36 · relator **Mário Povia** · Recurso contra multa de R$ 667.755 da SFC (corredor de exportação operado pela Cidasc: generalidade de uso, fiscalização e conservação) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4883s)
+- **RD 466 (2019-09-27)**, 49 · relator **Mário Povia** · Pedido de reconsideração da Resolução 6774 (ANTAQ não interviria no juízo arbitral CIESP/FIESP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7342s)
+- **RD 466 (2019-09-27)**, 52 · relator **Mário Povia** · Alteração do plano de aplicação de recursos da alienação de bens inservíveis (troca de motocicleta por equipamentos de informática) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7902s)
+- **RD 466 (2019-09-27)**, 54 · relator **Mário Povia** · Recurso contra multa de R$ 137.500 por desvio de finalidade (centro de convenções em área do porto de Corumbá) → aprovado por unanimidade (recurso desprovido), com ciência ao poder concedente
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=8280s)
 - **RD 467 (2019-10-21)**, 2 · relator **Francisval Mendes** · Representação com cautelar contra majoração do SSE/THC2 (segregação e entrega de contêineres) no Porto de Santos; recursos de BTP e Libra → aprovado por unanimidade nos termos do voto do relator
   - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=110s)
 - **RD 467 (2019-10-21)**, 3 · relator **Adalberto Tokarski** · Consulta administrativo-regulatória → adiado (vista renovada por Mário Povia)
@@ -1290,3 +1316,9 @@
   - votos:  · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=900s)
 - **RD 621 (2026-10-27)**, vista-Login · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 733/2025 → não deliberado: vista renovada (revisor Caio Farias)
   - votos: Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=950s)
+- **RD 623 (2026-11-13)**, 6 · relator **Lima Filho** · Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de contêineres) → aprovado (recurso provido; auto insubsistente, multa afastada)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5446s)
+- **RD 623 (2026-11-13)**, 8 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6124s)
+- **RD 623 (2026-11-13)**, 25 · relator **Alexandre Florambel** · Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s)

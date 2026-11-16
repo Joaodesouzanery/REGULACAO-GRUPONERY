@@ -1,0 +1,468 @@
+{
+ "meta": {
+  "video_id": "FYpqxywKYB0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "30ª RPO 2025",
+  "data": "2025-08-20",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Daniel Danna",
+   "Ivo Sechi Nazareno"
+  ],
+  "ausentes": [
+   "Agnes da Costa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 37 itens; bloco 6-37; destacados 9, 12, 14 e 18; item 1 retirado.",
+   "Informe sobre sabatina no Senado de Gentil Nogueira e Willamy Frota (indicados).",
+   "No item 3 (Enel Rio) Fernando Mosna e Sandoval discutiram o RFT da Enel São Paulo pendente há 5 meses na SFT."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:36:16",
+   "processo": "itens 6 a 37 (bloco), exceto 9, 12, 14 e 18 destacados",
+   "interessado": "diversos",
+   "assunto": "Julgamento em bloco dos itens 6 a 37 (votos disponibilizados previamente); destacados 9 e 14 (sustentação oral) e 12 e 18 (pedido do diretor Fernando Mosna)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (exceto item 11, por maioria)",
+   "resumo_voto": "Bloco aprovado; Fernando Mosna pediu destaque dos itens 12 e 18.",
+   "votos": [
+    {
+     "diretor": "Daniel Danna",
+     "voto": "aprova o bloco",
+     "ts": "0:36:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede destaque dos itens 12 e 18 e aprova os demais",
+     "ts": "0:36:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "aprova o bloco",
+     "ts": "0:36:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova itens remanescentes, com exceção do item 11",
+     "ts": "0:36:36",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:36:36",
+   "processo": "",
+   "interessado": "agente responsável pela UHE (nome incerto na legenda; leilão 7/2011 A-5)",
+   "assunto": "Recurso administrativo contra termo de intimação de penalidade editalícia TIP 29/2022 da SFG (Despacho 764/2023) por descumprimento do cronograma de implantação de usina hidrelétrica (leilão 7/2011)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "outorgas de geração"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por maioria (voto do relator, no bloco), vencido Sandoval Feitosa",
+   "resumo_voto": "Voto do relator disponibilizado no bloco; Sandoval divergiu para desconstituir o TIP de ofício e mandar instaurar processo punitivo pela REN 846/2019.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (vencido): conhece e dá provimento de ofício ao recurso",
+     "ts": "0:37:10",
+     "confianca": "alta",
+     "justificativa": "em consonância com votos anteriores e recomendações da Procuradoria, desconstituir o TIP 29/2022 e o Despacho 764/2023 e determinar à SFT processo punitivo com base na subcláusula 11.8.1.4 do edital e na REN 846/2019"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (bloco)",
+     "ts": "0:36:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator (bloco)",
+     "ts": "0:36:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "acompanha o relator (bloco)",
+     "ts": "0:36:27",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:38:30",
+   "processo": "48500.906490/2023 (número incerto na legenda)",
+   "interessado": "Ampla Energia e Serviços S.A. (Enel Rio), distribuidora",
+   "assunto": "Requerimento de prorrogação do contrato de concessão de distribuição 5/1996 (Lei 9.074/95 e Decreto 12.068/2024) — voto-vista",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "outorgas / renovação de concessões de distribuição",
+    "qualidade do serviço"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por maioria: recomendação ao MME da prorrogação com antecipação de efeitos e envio da minuta do 8º termo aditivo; vencido Fernando Mosna (voto-vista)",
+   "resumo_voto": "Votos de Agnes da Costa, Ludimila Lima (relatora, hoje superintendente) e Daniel Danna já assentados em sessão anterior. Voto-vista de Mosna aplica critérios complementares (DEC com expurgo/limite >140%, IASC<50, TMAE, obras atrasadas): Enel Rio falha em 3 de 4 e não deveria ser recomendada. Maioria entendeu que só cabem os critérios do decreto; DG anunciou recomendação ao MME e ao TCU para exigir quitação de multas (~R$ 1 bi).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: não recomendar a prorrogação (vencido)",
+     "ts": "0:40:53",
+     "confianca": "alta",
+     "justificativa": "critérios do Decreto 12.068 são mínimos; serviço adequado (art. 6º Lei 8.987) exige análise ampla; Enel Rio: DEC expurgo/limite 165% no triênio, IASC 47,41, obras atrasadas acima da média",
+     "tom": "técnico, firme"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora Ludimila Lima",
+     "ts": "0:58:16",
+     "confianca": "alta",
+     "justificativa": "maioria entende que se aplicam apenas os critérios do decreto; MME como poder concedente decide; recomendação de exigir quitação de multas"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha a relatora (voto assentado em sessão anterior)",
+     "ts": "0:58:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:31:15",
+   "processo": "",
+   "interessado": "MME",
+   "assunto": "Fechamento da Consulta Pública 2 sobre o leilão 1/2025 de suprimento a sistemas isolados — retirado de pauta a pedido do MME (alteração da Portaria Normativa 92/2024)",
+   "tema": [
+    "leilões",
+    "sistemas isolados"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado a pedido do MME (Ofício 174/2025) para aguardar portaria sobre entrada em operação comercial antecipada.",
+   "votos": []
+  },
+  {
+   "id": "2",
+   "ts": "1:06:10",
+   "processo": "48500.0236xx/2025 (número incerto)",
+   "interessado": "MME / EPE; transmissoras; Equatorial Goiás",
+   "assunto": "Abertura de consulta pública (30 dias, 21/08 a 19/09/2025) para o edital do Leilão de Transmissão 1/2026 (5 lotes, ~R$ 3,3 bi, compensadores síncronos, lotes de possível caducidade Sterlite)",
+   "tema": [
+    "leilões",
+    "transmissão (outorgas, reforços)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Daniel Danna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP por intercâmbio documental de 30 dias; negada inclusão de lote para SE Iaciara 2 (Equatorial Goiás) por falta de tempo hábil. Sandoval registrou expectativa frustrada por não haver leilão de baterias.",
+   "votos": [
+    {
+     "diretor": "Daniel Danna",
+     "voto": "relator, aprova abertura da CP",
+     "ts": "1:07:00",
+     "confianca": "alta",
+     "justificativa": "sem tempo hábil para incluir novo lote; risco ao cronograma do leilão de 27/03/2026"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "acompanha o relator",
+     "ts": "1:36:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:36:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:36:03",
+     "confianca": "alta",
+     "justificativa": "defende sinalização de leilão de baterias no SIN em futuros certames"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:36:03",
+   "processo": "48500.015702/2025-40",
+   "interessado": "Rima Industrial S.A. (autoprodutora)",
+   "assunto": "Pedido de reconsideração contra Despacho 1.592/2025: isenção dos ônus da diferença de PLD entre submercados Nordeste e SE/CO por restrição de intercâmbio",
+   "tema": [
+    "comercialização (CCEE, PLD)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (conhecer e negar provimento)",
+   "resumo_voto": "Sem fatos novos; despacho foi motivado e fundamentado.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "1:38:16",
+     "confianca": "alta",
+     "justificativa": "sem fatos novos; decisão anterior fundamentada"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "1:40:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "acompanha o relator",
+     "ts": "1:41:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:41:02",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:41:43",
+   "processo": "48500.0389xx (número incerto)",
+   "interessado": "Baixada Santista Energia S.A. (BSE, Petrobras); EMAE",
+   "assunto": "Extinção da concessão da UTE Piratininga (contrato 1/2008), com sustentação oral da BSE (Jean William, Petrobras)",
+   "tema": [
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: recomendar ao MME a extinção da outorga e a dispensa de reversão dos bens inservíveis",
+   "resumo_voto": "Outorga venceu em 07/2015; equipamentos degradados; EMAE sem legitimidade no processo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, recomenda extinção",
+     "ts": "1:55:18",
+     "confianca": "alta",
+     "justificativa": "termo final do contrato, NT 984/2024 e degradação dos equipamentos; EMAE não é parte"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:06:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "acompanha o relator",
+     "ts": "2:06:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:06:33",
+     "confianca": "alta",
+     "justificativa": "perguntou se a usina ainda paga CUST"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:07:15",
+   "processo": "48500.0881xx/2025 (número incerto)",
+   "interessado": "Ecoenergia Crescimento S.A.; UFVs Ribeiro Gonçalves 1-4 e 6-8; Sertão Solar Barreiras 15-21",
+   "assunto": "Recurso contra Despacho 1.547/2025 da SGM: reclassificação de restrições de geração (constrained-off) de confiabilidade elétrica para indisponibilidade externa, por atraso da LT 500 kV Jaguaruana 2-Pacatuba",
+   "tema": [
+    "geração (curtailment / constrained-off)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Ivo Sechi Nazareno",
+   "resultado": "aprovado por maioria (negar provimento), vencido Fernando Mosna",
+   "resumo_voto": "Atraso de ~1 ano de transmissão é risco ordinário do gerador; ONS apontou informações divergentes dos geradores sobre modelos dinâmicos (evento 15/08/2023).",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "relator, nega provimento",
+     "ts": "2:08:22",
+     "confianca": "alta",
+     "justificativa": "aplicação estrita da REN 1.030; risco de acesso alocado ao gerador; responsabilidade dos agentes nos modelos dinâmicos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge (vencido)",
+     "ts": "2:47:49",
+     "confianca": "alta",
+     "justificativa": "obra não concluída não é equipamento; risco do empreendedor tem limite dado pelo parecer de acesso; pediu análise individual dos pareceres revisados após 08/2023",
+     "tom": "argumentativo, respeitoso"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:47:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:47:49",
+     "confianca": "alta",
+     "justificativa": "regulação da transmissão não embute risco de mercado; transferir risco recai no consumidor"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:49:05",
+   "processo": "48500.014155/2025-85",
+   "interessado": "Plastiline Indústria e Comércio de Embalagens Plásticas Ltda.",
+   "assunto": "Parcelamento de débitos de penalidades da CCEE por insuficiência de lastro",
+   "tema": [
+    "comercialização (CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ivo Sechi Nazareno",
+   "resultado": "aprovado por unanimidade, com acréscimo de determinação à SFF proposta por Fernando Mosna",
+   "resumo_voto": "Negado o requerimento (pleito anterior à delegação à CCEE); acrescida determinação à SFF de fiscalizar a regularização do rito pela CCEE (Despacho 1.591/2025).",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "relator, nega provimento; adere à determinação proposta",
+     "ts": "2:49:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha com acréscimo de determinação à SFF",
+     "ts": "2:53:22",
+     "confianca": "alta",
+     "justificativa": "trazer ao dispositivo o comando do parágrafo 38 do voto"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:53:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator com a inclusão",
+     "ts": "2:53:31",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:53:31",
+   "processo": "48500.004068/2024-39 (número incerto)",
+   "interessado": "Neoenergia Pernambuco (Celpe); ARPE",
+   "assunto": "Recurso contra auto de infração 1/2024 da ARPE (cobrança por irregularidade/recuperação de consumo), com sustentação oral de Rafael Licurgo",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Ivo Sechi Nazareno",
+   "resultado": "aprovado por unanimidade: provimento parcial (mantidas NC5 e NC6; multa reduzida para cerca de R$ 10,65 milhões)",
+   "resumo_voto": "Erros representativos (10% e 7,5% dos casos), não pontuais; penalidade independe de prejuízo ao consumidor; NC1, NC7 e NC9 convertidas em advertência.",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "relator, dá provimento parcial",
+     "ts": "3:08:25",
+     "confianca": "alta",
+     "justificativa": "casos representativos; erro de procedimento, não de prejuízo ao consumidor"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "3:15:10",
+     "confianca": "media",
+     "justificativa": "NC5 e NC6 não são pontuais"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:15:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:15:56",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:17:10",
+   "processo": "48500.010191/2025 (número incerto)",
+   "interessado": "Empresa de Transmissão Várzea Grande (ETVG), contrato 18/2010",
+   "assunto": "Pedido de reconsideração da REA 16.079/2025 (reforços e RAP), custo do transformador defasador pelo Banco de Preços; sustentação oral de Renata Rosada",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Ivo Sechi Nazareno",
+   "resultado": "aprovado por unanimidade (conhecer e negar provimento)",
+   "resumo_voto": "Receita de reforço é prévia e revista na revisão seguinte; BPR aprovado pela diretoria se aplica; não cabe determinar revisão pontual do banco.",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi Nazareno",
+     "voto": "relator, nega provimento",
+     "ts": "3:23:50",
+     "confianca": "alta",
+     "justificativa": "caráter prévio da RAP de reforços; BPR revisado em processo ordinário"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "3:30:13",
+     "confianca": "media",
+     "justificativa": "perguntou sobre incluir no dispositivo revisão do item do BPR"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:30:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:30:13",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "1"
+ ],
+ "limites_da_analise": [
+  "Daniel Danna (legenda: Daniel Dana) e Ivo Sechi Nazareno (legenda: Ivo SEC) não constam da lista de diretores do config; nomes registrados como ditos.",
+  "Números de processo frequentemente truncados pela legenda; marcados como incertos.",
+  "Votos de seguidores em bloco e acompanhamentos com ts aproximado; ordem de fala nem sempre identificável.",
+  "Item 11: relator e interessado não identificados (voto só no bloco).",
+  "Item 3: voto de Ivo Sechi Nazareno não registrado na sessão; votos de Agnes, Ludimila e Danna assentados em sessão anterior."
+ ]
+}

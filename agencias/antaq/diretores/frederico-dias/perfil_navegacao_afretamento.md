@@ -1,12 +1,12 @@
 # Perfil analítico — Frederico Dias · tema: navegacao_afretamento
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 102 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 105 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 96 (95% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 5
+**Votos:** acompanha o relator 99 (95% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 5
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** governança/rito (4); transparência (2); segurança viária (1); concorrência (1); segurança jurídica (1); usuário (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** governança/rito (4); transparência (2); evidência/dados (2); segurança viária (1); concorrência (1); segurança jurídica (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -112,3 +112,6 @@
 - **RD 621 (2026-10-27)**, item 26 — Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítim · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9762s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 30 — Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12214s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. alta) · «Valores não batem com as evidências; alerta para padronização entre analistas e para não incentivar quem apresenta menos informação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20539s) · resultado: aprovado (recurso desprovido)

@@ -1,11 +1,11 @@
 # Perfil analítico — Caio Farias · tema: sustentabilidade
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 60 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 61 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 48 (92% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
-**Como relator:** 4/8 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 48 (92% dos votos em que não era relator) · relator 9 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
+**Como relator:** 4/9 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (4); concorrência (2); participação social (1); TCU/controle externo (1); governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -70,3 +70,4 @@
 - **RD 616 (2026-08-21)**, item pauta (nº não dito) — margem equatorial — Aprovação do diagnóstico técnico «Atuação da ANTAQ na estruturação logístico-regulatória da Margem Equatorial brasileira» como subsídio às a · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=15874s) · resultado: aprovado, sem divergência registrada
 - **RD 621 (2026-10-27)**, item R-DG75 — Referendo da Deliberação DG 75/2026: segunda prorrogação (60 dias) do prazo para celebrar o contrato de outorga verde no sandbox regulatório · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2442s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 22 — Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) · voto: *relator, aprova* (relator, conf. alta) · «atrasos por ações civis públicas sobre o licenciamento (2015–2021); cronograma de 60 meses e estruturação financeira (cerca de R$ 1,9 bilhão); intempestividade formal não impede o mérito» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9137s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 15 — Reconhecimento de passivo ambiental não conhecido: gerenciamento e destinação a aterro classe I dos sedimentos contaminados do berço sul do  · voto: *relator, aprova* (relator, conf. alta) · «'a questão não reside no conhecimento prévio da contaminação, mas na existência de obrigação ambiental específica posteriormente imposta'; laudo apresentado no prazo de 360 dias; acompanha a NT 180/2026 GPO.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6993s) · resultado: aprovado (unânime, sem debate)

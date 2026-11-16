@@ -1,0 +1,136 @@
+# Itens do tema «outros» (todos os diretores)
+
+- **RD 32ª Reunião Pública Ordinária de 2025 (2025-09-03)**, bloco (itens 5-39 remanescentes) · relator **None** · Itens de bloco remanescentes (6, 9, 13, 14, 15, 19, 20, 24, 26, 28, 34, 36, 38), com votos publicados previamente; conteúdo não enunciado na sessão → aprovado por unanimidade
+  - votos: Agnes: outro; Fernando: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=H7Swctf5EG0&t=6927s)
+- **RD 32ª Reunião Pública Ordinária de 2025 (2025-09-03)**, 10 · relator **None** · Item 10 da pauta de bloco (conteúdo não enunciado) → não deliberado por falta de quórum; reinscrito na próxima reunião
+  - votos: Fernando: outro · [vídeo](https://www.youtube.com/watch?v=H7Swctf5EG0&t=6945s)
+- **RD 33ª Reunião Pública Ordinária de 2025 (2025-09-09)**, bloco (itens 2 a 29, exceto 4) · relator **None** · Itens de bloco com votos e atos disponibilizados previamente; retificação da diretora Agnes no item 28 (prorrogação de prazo de vista, governança da C → aprovado por unanimidade
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Agnes: outro · [vídeo](https://www.youtube.com/watch?v=YbNKpLXc94A&t=578s)
+- **RD 34ª RPO 2025 (2025-09-16)**, bloco (4 a 48) · relator **None** · Itens de bloco 4 a 48 (votos disponibilizados previamente); sem destaque → aprovados por unanimidade, exceto o item 9 (maioria); Gentil e Willamy não votaram 9 e 13
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Agnes: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=zRghUqWy_-s&t=937s)
+- **RD 34ª RPO 2025 (2025-09-17)**, bloco · relator **None** · Itens de bloco (votos e atos disponibilizados previamente); sem destaques. Itens 9 e 13 tratados à parte por já terem votação anterior. → aprovado por unanimidade (exceto item 9, por maioria)
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Agnes: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=wP6_moTwFPI&t=932s)
+- **RD 35ª RPO 2025 (2025-09-23)**, bloco · relator **None** · Deliberação em bloco dos itens 4 a 38 da pauta (votos disponibilizados previamente) → aprovado por unanimidade; item 9 por maioria (diretores novos não votaram por já haver vot
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=C3rvjAxNAhU&t=3505s)
+- **RD 35ª RPO 2025 (2025-09-24)**, bloco · relator **None** · Itens 4 a 38 deliberados em bloco (item 6 retirado de pauta) → aprovado por unanimidade; item 9 por maioria (Gentil Nogueira e Willamy Frota não votaram 
+  - votos: Gentil: outro; Willamy: outro; Fernando: relator; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=8KncgnoLdGY&t=4965s)
+- **RD 36ª RPO 2025 (Parte 1) (2025-10-07)**, bloco · relator **None** · Itens de bloco 4 a 50 (remanescentes, excluídos os destacados e retirados), com votos disponibilizados na publicação da pauta → aprovados por unanimidade
+  - votos: Sandoval: outro; Agnes: outro; Gentil: outro; Willamy: outro · [vídeo](https://www.youtube.com/watch?v=_RDMRZCiXCE&t=831s)
+- **RD 36ª RPO 2025 (2025-10-07)**, bloco · relator **None** · Julgamento em bloco dos itens com votos e atos disponibilizados previamente (circuito deliberativo); destacados 4, 5, 6, 7, 8, 13, 16, 23, 27, 30 e 31 → aprovado por unanimidade
+  - votos: Agnes: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=Tn11c0tAUao&t=2426s)
+- **RD 37 (2025-10-21)**, 5 · relator **Agnes da Costa** · Avaliação inicial das propostas da Chamada de PD&I Estratégico 23 - hidrogênio no setor elétrico; voto-vista → aprovado por maioria (voto assentado anterior): avaliação inicial das 24 propostas nos ter
+  - votos: Fernando: revisor_acompanha; Agnes: revisor_acompanha; Sandoval: revisor_acompanha; Gentil: outro · [vídeo](https://www.youtube.com/watch?v=-np7PaWqb38&t=7037s)
+- **RD 37 (2025-10-21)**, 8 · relator **None** · Item 8 retirado de pauta a pedido do relator (havia pedido de sustentação oral). → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=B29pPIWdmE8&t=15365s)
+- **RD 37ª RPO 2025 (2025-10-21)**, 5 · relator **Agnes da Costa** · Avaliação inicial das propostas da chamada de P&D estratégico 23 (hidrogênio no setor elétrico); voto-vista de Fernando Mosna → aprovado por maioria com o voto-vista de Fernando Mosna (voto assentado anterior de Ricard
+  - votos: Fernando: revisor_acompanha; Agnes: revisor_acompanha; Sandoval: revisor_acompanha; Gentil: outro · [vídeo](https://www.youtube.com/watch?v=N_wVKeeerXQ&t=28614s)
+- **RD 38ª RPO 2025 (parte 1) (2025-11-04)**, bloco · relator **None** · Itens de bloco (6 a 27, exceto os destacados 9, 10, 12, 15 e 16 e o retirado 7) → aprovados os itens remanescentes do bloco
+  - votos: Sandoval: revisor_acompanha; Gentil: outro; Agnes: outro; Willamy: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=Q1_GdV8U8Ag&t=452s)
+- **RD 38ª Reunião Pública Ordinária de 2025 (2025-11-04)**, bloco · relator **None** · Itens de bloco da 38ª RPO 2025 (votos publicados com a pauta) → aprovado; item 18 com voto-vista de Sandoval Feitosa acompanhado; pedido(s) de vista nos i
+  - votos: Gentil: outro; Willamy: revisor_acompanha; Agnes: revisor_acompanha; Fernando: vista; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=hCQn8ULpiGw&t=2013s)
+- **RD 39ª Reunião Pública Ordinária de 2025 (2025-11-18)**, 24-25 · relator **Fernando Mosna** · Requerimentos de prorrogação das concessões de distribuição da Elektro e da CPFL Paulista (recomendação ao MME) → aprovada a recomendação de prorrogação; prevaleceu a fundamentação divergente de Gentil (i
+  - votos: Fernando: relator; Gentil: outro; Willamy: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=61UyYNFsDU0&t=2290s)
+- **RD 39ª Reunião Pública Ordinária de 2025 (2025-11-18)**, 12 · relator **None** · Item 12 do bloco (assunto não lido na sessão) → pedido de vista de Willamy Frota
+  - votos: Willamy: vista · [vídeo](https://www.youtube.com/watch?v=61UyYNFsDU0&t=2339s)
+- **RD 39ª Reunião Pública Ordinária de 2025 (2025-11-18)**, 13 · relator **Willamy Frota** · Item 13 do bloco (assunto não lido na sessão); relator Willamy Frota, voto-vista de Gentil Nogueira → não proclamado separadamente (aprovado no bloco conforme registros de cada diretor)
+  - votos: Willamy: relator; Gentil: revisor_acompanha; Fernando: acompanha; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=61UyYNFsDU0&t=2339s)
+- **RD 39ª Reunião Pública Ordinária de 2025 (2025-11-18)**, 14 · relator **None** · Item 14 do bloco (assunto não lido); voto-vista de Fernando Mosna → aprovado no bloco
+  - votos: Fernando: revisor_acompanha; Willamy: outro; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=61UyYNFsDU0&t=2339s)
+- **RD 40 (2025-12-02)**, 17 · relator **None** · Item 17 do bloco (assunto não lido na sessão; sustentação oral desistida) → Pedido de vista
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TrpBQyMrBFU&t=678s)
+- **RD 40 (2025-12-02)**, bloco · relator **None** · Itens de bloco (itens 4 a 35, exceto os destacados 4, 12, 13, 15 e 28; item 17 permaneceu no bloco após desistência da sustentação oral) → aprovados por unanimidade, exceto item 17 (pedido de vista) e item 14 (por maioria); nos i
+  - votos: Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=xwmzzBO4IVw&t=2499s)
+- **RD 40 (2025-12-02)**, 17 · relator **None** · Item 17 do bloco (sustentação oral desistida); assunto não lido na sessão → pedido de vista
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=xwmzzBO4IVw&t=2507s)
+- **RD 41ª Reunião Pública Ordinária de 2025 (2025-12-09)**, bloco · relator **None** · Deliberação conjunta dos itens de bloco (votos disponibilizados previamente) → aprovados, com ressalvas individuais
+  - votos: Gentil: outro; Willamy: outro; Fernando: acompanha; Agnes: acompanha · [vídeo](https://www.youtube.com/watch?v=5yHH1qY2Fos&t=590s)
+- **RD 41ª Reunião Pública Ordinária de 2025 (2025-12-09)**, bloco · relator **None** · Itens de bloco da 41ª RPO de 2025 (votos e atos publicados previamente) → aprovado (com ressalvas de Willamy nos itens 33 e 36 e suspeição de Agnes nos itens 52, 53
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Agnes: acompanha · [vídeo](https://www.youtube.com/watch?v=NdYlCTwqKQs&t=2066s)
+- **RD 41ª Reunião Pública Ordinária de 2025 (2025-12-09)**, 10 · relator **Fernando Mosna** · Resultado da CP 29/2025: indicadores do programa de performance organizacional do ONS, ciclo 2026-2028 → aprovado por unanimidade
+  - votos: Fernando: relator; Gentil: acompanha; Willamy: acompanha; Agnes: acompanha · [vídeo](https://www.youtube.com/watch?v=5yHH1qY2Fos&t=7190s)
+- **RD 2ª Reunião Pública Extraordinária de 2025 (2025-12-18)**, bloco (itens 6 a 15) · relator **None** · Itens de bloco 6 a 15 (item 5 destacado do bloco); inclui o item 9 com voto-vista do Diretor-Geral, aprovado por maioria; conteúdo dos itens não lido  → bloco aprovado; item 9 aprovado por maioria (voto-vista de Sandoval Feitosa); Gentil Nogue
+  - votos: Agnes: outro; Willamy: outro; Gentil: outro; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8DYJpmqe0_Y&t=1111s)
+- **RD 2ª RPE 2025 (2025-12-18)**, 2 · relator **None** · Item 2 da pauta: retirado de pauta (assunto não lido na sessão) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=8ji67WrAHKQ&t=1809s)
+- **RD 2ª RPE 2025 (2025-12-18)**, bloco · relator **None** · Itens 6 a 15 da pauta deliberados em bloco (votos disponibilizados previamente); item 5 destacado; item 9 com voto-vista do Diretor-Geral → Bloco aprovado; item 9 aprovado por maioria (voto-vista do Diretor-Geral)
+  - votos: Agnes: outro; Gentil: outro; Willamy: outro; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8ji67WrAHKQ&t=1868s)
+- **RD 1 (2026-01-20)**, bloco · relator **None** · Itens do bloco (2 a 31, exceto 5, 7, 13 e 14), com votos disponibilizados previamente → aprovado; registrado que o item 4 não foi unânime (voto divergente de Fernando Mosna manti
+  - votos: Willamy: outro; Fernando: vencido; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=u7f_05SSyIg&t=674s)
+- **RD 1ª Reunião Pública Ordinária de 2026 (2026-01-21)**, bloco (itens 2 a 31, exceto 5, 7, 13 e 14) · relator **None** · Itens de bloco da 1ª Reunião Pública Ordinária de 2026 (votos e atos disponibilizados previamente com a pauta) → aprovado; no item 4 não houve unanimidade (Fernando Mosna mantém voto divergente; Sandoval
+  - votos: Willamy: outro; Fernando: outro; Sandoval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=nbGTzQ_GkIo&t=1597s)
+- **RD 2ª Reunião Pública Ordinária de 2026 (2026-01-27)**, bloco · relator **None** · Itens de bloco com votos e atos disponibilizados previamente com a pauta → aprovado por unanimidade
+  - votos: Gentil: outro; Willamy: outro; Fernando: outro; Agnes: outro · [vídeo](https://www.youtube.com/watch?v=2WbtG0E3Ap4&t=253s)
+- **RD 2 (2026-01-27)**, bloco · relator **None** · Votação em bloco dos itens 10 a 28 da pauta (votos e atos disponibilizados previamente) → aprovado por unanimidade
+  - votos: Willamy: outro; Gentil: outro; Fernando: outro; Agnes: outro · [vídeo](https://www.youtube.com/watch?v=83fLzZL2WIk&t=1528s)
+- **RD 3ª Reunião Pública Ordinária de 2026 (2026-02-10)**, bloco · relator **None** · Itens 4 a 26 da pauta em bloco (exceto destacados 6 e 16) → aprovados por unanimidade, exceto itens 4 e 21 (divergência de Sandoval Feitosa)
+  - votos: Agnes: outro; Gentil: outro; Fernando: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=g4l0mMe-iEM&t=315s)
+- **RD 3ª RPO 2026 (2026-02-11)**, bloco · relator **None** · Itens 4 a 26 em bloco (exceto destacados 6 e 16) → aprovado; itens 4 e 21 com divergência de Sandoval Feitosa (vencido)
+  - votos: Agnes: outro; Gentil: outro; Fernando: outro; Sandoval: vencido · [vídeo](https://www.youtube.com/watch?v=BasqubY7S3s&t=1605s)
+- **RD 4 (2026-02-24)**, bloco (itens 9 a 43, exceto 13, 14, 20 e 43) · relator **None** · Itens de bloco (votos e atos publicados com a pauta); item 19 com voto-vista acompanhando a relatora → aprovado por unanimidade (DG primeiro proclamou o item 19 por maioria e retificou para una
+  - votos: Fernando: outro; Willamy: vista; Agnes: outro; Gentil: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=M7UOgM01BSU&t=380s)
+- **RD 4 (2026-02-24)**, 20 · relator **None** · Item 20 do bloco (assunto não lido na sessão) → pedido de vista
+  - votos: Willamy: vista · [vídeo](https://www.youtube.com/watch?v=M7UOgM01BSU&t=407s)
+- **RD 4 (2026-02-24)**, 6 · relator **Gentil Nogueira** · Abertura de consulta pública (47 dias, 26/02 a 13/04/2026) sobre minuta de REN do projeto Energias da Floresta (sandbox regulatório) → aprovado por unanimidade
+  - votos: Gentil: relator; Fernando: acompanha; Agnes: acompanha; Willamy: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=M7UOgM01BSU&t=3475s)
+- **RD 5ª RPO 2026 (Parte 1) (2026-03-10)**, 4 · relator **None** · Item 4 retirado de pauta → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2N-SQvMf8Vc&t=1118s)
+- **RD 5ª RPO 2026 (Parte 1) (2026-03-10)**, bloco · relator **None** · Itens 6 a 28 do bloco (votos previamente disponibilizados), exceto destacados 10, 13, 16 e retirados 11 e 18 → aprovados por unanimidade, exceto o item 28 (maioria)
+  - votos: Sandoval: acompanha; Agnes: acompanha; Willamy: outro; Gentil: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=2N-SQvMf8Vc&t=1211s)
+- **RD 5ª RPO 2026 (2026-03-10)**, bloco · relator **None** · Itens do bloco com votos previamente disponibilizados → aprovados por unanimidade, exceto item 28 (relator Willamy Frota) aprovado por maioria
+  - votos: Sandoval: acompanha; Agnes: acompanha; Gentil: outro; Willamy: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=_r7LA4qkPWc&t=2104s)
+- **RD 6ª RPO 2026 (2026-03-24)**, bloco (itens 4 a 23, exceto 8, 11, 12 e 13) · relator **None** · Itens de bloco 4 a 23 (votos disponibilizados com a pauta), menos o 8 (destacado), o 11 (retirado), o 12 (votação própria) e o 13 (destacado na sessão → aprovados por unanimidade
+  - votos: Sandoval: outro; Agnes: outro; Gentil: outro; Willamy: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=LFBZA44OAMw&t=1032s)
+- **RD 6ª RPO 2026 (2026-03-25)**, bloco (4 a 23) · relator **None** · Itens 4 a 23 em bloco (votos disponibilizados previamente), exceto 8 (destacado), 11 (retirado) e 13 (destacado na sessão); item 12: pedido de reconsi → aprovados por unanimidade, exceto o item 12, aprovado por maioria
+  - votos: Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=QMXrsScu8Ek&t=2071s)
+- **RD 6ª RPO 2026 (2026-03-25)**, 3 · relator **Fernando Mosna** · Antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 1/1998 (Decreto 12.068/2024); voto-vista de Gentil Nogueira → aprovado por maioria o voto-vista: recomendar ao MME a prorrogação com antecipação dos efe
+  - votos: Fernando: vencido; Gentil: revisor_acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=QMXrsScu8Ek&t=5599s)
+- **RD 7ª RPO 2026 (Parte 1) (2026-04-07)**, bloco · relator **None** · Itens 14 a 32 em bloco (exceto destacados 21 e 28 e retirado 18) → aprovados por unanimidade
+  - votos: Fernando: outro; Willamy: outro; Agnes: outro; Gentil: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=Mf7a0hr0w4Q&t=711s)
+- **RD 7ª RPO 2026 (2026-04-07)**, bloco · relator **None** · Itens remanescentes do bloco (votação em lote), incluindo item 29 (transferência de controle da Rorem Energia para controladas do grupo JF) → aprovados por unanimidade
+  - votos: Gentil: outro; Willamy: outro; Agnes: outro; Fernando: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=WMA2rwAIw0I&t=1761s)
+- **RD 9ª RPO 2026 (2026-05-05)**, bloco · relator **None** · Itens de bloco da 9ª RPO 2026 (votos disponibilizados previamente no site) → aprovados por unanimidade
+  - votos: Agnes: acompanha; Gentil: acompanha; Fernando: acompanha; Willamy: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=3zfdHaNlbfc&t=935s)
+- **RD 9ª RPO 2026 (2026-05-05)**, 1 · relator **Willamy Frota** · Realização da edição 2026 da Olimpíada Nacional de Eficiência Energética (ONEE) no âmbito do Programa de Eficiência Energética; inclusão do ensino méd → aprovado por unanimidade
+  - votos: Willamy: relator; Agnes: acompanha; Gentil: acompanha; Fernando: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=3zfdHaNlbfc&t=970s)
+- **RD 9ª Reunião Pública Ordinária de 2026 (2026-05-06)**, bloco (8 a 24, exceto 14 e 21) · relator **None** · Itens de bloco 8 a 24 (votos disponibilizados previamente na página da ANEEL); item 21 destacado e item 14 retirado → aprovados por unanimidade
+  - votos: Fernando: acompanha; Willamy: acompanha; Gentil: acompanha; Agnes: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=e651C6iP6oA&t=2002s)
+- **RD 9ª Reunião Pública Ordinária de 2026 (2026-05-06)**, 1 · relator **Willamy Frota** · Realização da edição 2026 da Olimpíada Nacional de Eficiência Energética (ONEE) no âmbito do PEE; inclui ensino médio; orçamento ~R$ 8 milhões → aprovado por unanimidade
+  - votos: Willamy: relator; Gentil: acompanha; Fernando: acompanha; Agnes: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=e651C6iP6oA&t=2030s)
+- **RD 10ª RPO 2026 (2026-05-19)**, bloco · relator **None** · Itens de bloco (6 a 32, exceto destacados 15, 21 e 27 e retirados 5, 9, 24 e 26), com votos disponibilizados previamente → aprovados por unanimidade os itens remanescentes do bloco; vistas dos itens 17 e 29 (diret
+  - votos: Fernando: vista; Sandoval: outro; Willamy: vista; Gentil: vista · [vídeo](https://www.youtube.com/watch?v=ak4ob_aPFPk&t=1691s)
+- **RD 12ª Reunião Pública Ordinária de 2026 (2026-06-16)**, bloco · relator **None** · Itens de bloco 9 a 23 (votos disponibilizados previamente), sem destaques; item 17 retirado → aprovado por unanimidade (exceto item 15)
+  - votos: Gentil: outro; Willamy: outro; Agnes: outro · [vídeo](https://www.youtube.com/watch?v=jgFV8heabWw&t=521s)
+- **RD 13ª RPO 2026 (Parte 1) (2026-06-30)**, bloco · relator **None** · Itens de bloco (votos e atos publicados previamente); destacados 12, 13, 15, 25, 26 e 34 → aprovado por unanimidade, exceto item 10 (vista de Willamy Frota)
+  - votos: Fernando: outro; Willamy: vista; Gentil: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=MWHmT1Oatqc&t=1472s)
+- **RD 13ª Reunião Pública Ordinária de 2026 (2026-06-30)**, bloco · relator **None** · Itens de bloco (votos e atos disponibilizados previamente) → aprovados por unanimidade, exceto item 10 (vista do diretor Willam Frota)
+  - votos: Gentil: outro; Willamy: vista; Fernando: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=ZTSS83pM5PA&t=3044s)
+- **RD 13ª RPO 2026 (Parte 1) (2026-06-30)**, 3 · relator **Fernando Mosna** · Abertura da 2ª fase da Consulta Pública 1/2026: requisitos mínimos dos sistemas de medição inteligente (grupo B) → aprovado por unanimidade
+  - votos: Fernando: relator; Gentil: acompanha; Willamy: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=MWHmT1Oatqc&t=6834s)
+- **RD 14ª Reunião Pública Ordinária de 2026 (2026-07-14)**, bloco · relator **None** · Itens do bloco da 14ª RPO (item 19 destacado) → aprovados por unanimidade
+  - votos: Fernando: outro; Willamy: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=0_VWjl5r3lg&t=1965s)
+- **RD 14ª Reunião Pública Ordinária de 2026 (2026-07-14)**, 5 · relator **Willamy Frota** · Abertura de consulta pública do edital do Prêmio ANEEL de Inovação 2026 → aprovado por unanimidade
+  - votos: Willamy: relator; Fernando: acompanha; Gentil: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=0_VWjl5r3lg&t=15431s)
+- **RD 15ª Reunião Pública Ordinária de 2026 (Parte 1) (2026-07-28)**, bloco · relator **None** · Itens de bloco (10 a 43, exceto os destacados 12, 16, 42 e 43; item 18 retirado de pauta) → aprovados por unanimidade
+  - votos: Fernando: outro; Willamy: outro; Gentil: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=0_5ZSSlbkcI&t=1061s)
+- **RD 15ª Reunião Pública Ordinária de 2026 (2026-07-28)**, bloco · relator **None** · Itens do bloco da 15ª RPO → aprovados por unanimidade
+  - votos: Fernando: outro; Willamy: outro; Gentil: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=GCKeMAdQAbI&t=2908s)
+- **RD 16ª Reunião Pública Ordinária de 2026 (2026-08-11)**, bloco · relator **None** · Itens do bloco (votação em lote) da 16ª RPO → aprovados por unanimidade
+  - votos: Willamy: outro; Gentil: outro; Fernando: outro; Agnes: outro; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=34M8aLZY57k&t=9217s)
+- **RD 17ª Reunião Pública Ordinária de 2026 (2026-08-24)**, bloco · relator **None** · Itens de bloco da 17ª RPO 2026; item 10 com voto de Fernando Mosna e voto-vista de Gentil acompanhando → aprovado por unanimidade
+  - votos: Ludimila: outro; Agnes: outro; Gentil: outro; Willamy: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=eFfYu64jEHU&t=2803s)
+- **RD 17ª Reunião Pública Ordinária de 2026 (2026-08-24)**, 6 · relator **Gentil Nogueira** · Abertura de CP (47 dias, 27/08 a 12/10/2026) sobre redes subterrâneas e padrões de rede para resiliência da distribuição frente a eventos climáticos e → aprovado por unanimidade
+  - votos: Gentil: relator; Agnes: acompanha; Ludimila: acompanha; Willamy: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=eFfYu64jEHU&t=11572s)
+- **RD 18ª Reunião Pública Ordinária de 2026 (2026-09-08)**, bloco · relator **None** · Itens de bloco da 18ª RPO 2026 → aprovado por unanimidade (Ludmila impedida no item 12)
+  - votos: Ludimila: outro; Agnes: outro; Gentil: outro; Willamy: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=03M1t2wEFQQ&t=2827s)
+- **RD 18ª Reunião Pública Ordinária de 2026 (2026-09-08)**, 5 · relator **Agnes da Costa** · Abertura de CP (60 dias) para aprimorar o Módulo 3 do PRODIST: requisitos de observabilidade, operabilidade e controlabilidade de recursos energéticos → aprovado por unanimidade
+  - votos: Agnes: relator; Willamy: acompanha; Gentil: acompanha; Ludimila: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=03M1t2wEFQQ&t=7559s)
+- **RD 19ª Reunião Pública Ordinária de 2026 (2026-09-23)**, bloco · relator **None** · Itens de bloco da 19ª RPO 2026, com votos disponibilizados previamente → aprovado por unanimidade
+  - votos: Willamy: outro; Agnes: outro; Ludimila: outro; Sandoval: outro · [vídeo](https://www.youtube.com/watch?v=tMx62CYBq8Q&t=3140s)
+- **RD 20ª Ordinária 2026 (2026-10-06)**, bloco · relator **None** · Itens de bloco 11 a 48 (exceto destacados 21 e 36 e retirados 16 e 24); item 45 com correção material da relatora Agnes Costa (estabilização da TUST d → aprovados por unanimidade, exceto itens 12 e 20 (por maioria)
+  - votos: Ludimila: outro; Gentil: vencido; Willamy: revisor_diverge; Agnes: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=x2ywLplRyDk&t=3129s)
+- **RD 20ª Ordinária 2026 (2026-10-06)**, 3 · relator **Gentil Nogueira** · Atualização da regulação do compartilhamento de postes entre distribuidoras e telecomunicações após o parecer vinculante 4/2026 da CNU/CGU/AGU (cessão → retirado de pauta pelo relator após debate
+  - votos: Gentil: relator · [vídeo](https://www.youtube.com/watch?v=x2ywLplRyDk&t=9128s)
+- **RD 20ª Ordinária 2026 (2026-10-06)**, 5 · relator **Gentil Nogueira** · Resultado da CP 13/2026: criação do submódulo 1.4 dos Procedimentos de Rede (cadastro de agentes e representantes) e alteração da REN 903/2020 → aprovado por unanimidade
+  - votos: Gentil: relator; Agnes: acompanha; Willamy: acompanha; Ludimila: acompanha; Sandoval: acompanha · [vídeo](https://www.youtube.com/watch?v=x2ywLplRyDk&t=29146s)
+- **RD 21ª Ordinária 2026 (2026-10-21)**, bloco · relator **None** · Itens de bloco 10 a 31 (exceto destacados 13, 18 e 20 e retirados 17 e 22), com votos e atos disponibilizados previamente → aprovados por unanimidade
+  - votos: Willamy: outro; Ludimila: outro; Gentil: acompanha · [vídeo](https://www.youtube.com/watch?v=i3EJEj76hOI&t=2788s)

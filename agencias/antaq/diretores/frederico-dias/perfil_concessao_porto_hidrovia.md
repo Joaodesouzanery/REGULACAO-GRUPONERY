@@ -1,10 +1,10 @@
 # Perfil analítico — Frederico Dias · tema: concessao_porto_hidrovia
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 1 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 1 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
 
 **Votos:** acompanha o relator 1 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
 
 ## Evidências (reunião · item · voto · justificativa)
 

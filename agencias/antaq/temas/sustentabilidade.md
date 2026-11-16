@@ -28,6 +28,8 @@
   - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=2056s)
 - **RD 461 (2019-05-20)**, 39 · relator **Adalberto Tokarski** · Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido → aprovado por unanimidade, com ressalva do Diretor-Geral
   - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7324s)
+- **RD 466 (2019-09-27)**, 51 · relator **Mário Povia** · Declaração de utilidade pública (DUP) para supressão de Mata Atlântica na implantação do TUP (São Francisco do Sul, SC) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7710s)
 - **RD 473 (2020-02-10)**, 27 · relator **Francisval Mendes** · Proposição de declaração de utilidade pública para supressão de vegetação de Mata Atlântica em área arrendada → aprovado por unanimidade — recomenda ao Ministério da Infraestrutura a emissão da DUP
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8631s)
 - **RD 473 (2020-02-10)**, 36 · relator **Adalberto Tokarski** · Recurso contra multa da SFC (cerca de R$ 74 mil) por derramamento de combustível em transferência entre balsas → aprovado por unanimidade — recurso improvido
@@ -178,3 +180,5 @@
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2294s)
 - **RD 621 (2026-10-27)**, 22 · relator **Caio Farias** · Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) → aprovado por unanimidade (votação simbólica)
   - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s)
+- **RD 623 (2026-11-13)**, 15 · relator **Caio Farias** · Reconhecimento de passivo ambiental não conhecido: gerenciamento e destinação a aterro classe I dos sedimentos contaminados do berço sul do TGS1 (TGS1 → aprovado (unânime, sem debate)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6969s)

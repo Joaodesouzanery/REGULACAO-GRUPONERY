@@ -15,3 +15,6 @@ agencias/*/boletins/*.html
 # base legal gerada (o .md vai para o git)
 data/leis.db
 data/aneel/regulacao.db
+agencias/aneel/reunioes/**/transcricao.json
+agencias/aneel/reunioes/**/leitura.md
+agencias/aneel/exportacoes/regulacao.db.gz

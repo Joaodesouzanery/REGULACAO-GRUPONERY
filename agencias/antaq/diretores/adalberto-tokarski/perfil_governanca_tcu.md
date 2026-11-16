@@ -1,11 +1,11 @@
 # Perfil analítico — Adalberto Tokarski · tema: governanca_tcu
 
-**Amostra:** presente em 89 das 90 reuniões analisadas em que há registro de presença/ausência; 107 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 91 das 92 reuniões analisadas em que há registro de presença/ausência; 108 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 69 (84% dos votos em que não era relator) · relator 25 · vista pedida 6 · voto-vista divergente 0 · vencido 4 · outros/não captado 3
+**Votos:** acompanha o relator 69 (83% dos votos em que não era relator) · relator 25 · vista pedida 6 · voto-vista divergente 0 · vencido 4 · outros/não captado 4
 **Como relator:** 17/25 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1069/375; arrendamento_porto_organizado 855/227; fiscalizacao_sancoes 769/214; tup_autorizacao 525/166; recursos_recursais 386/78; regulacao_normativa 296/68; outros 227/79; tarifas_portuarias 175/50; servicos_terminais 112/35; governanca_tcu 107/25; mediacao 39/16; sustentabilidade 23/6; concessao_porto_hidrovia 6/0
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1114/378; arrendamento_porto_organizado 878/228; fiscalizacao_sancoes 788/214; tup_autorizacao 531/166; recursos_recursais 399/78; regulacao_normativa 306/69; outros 241/79; tarifas_portuarias 178/50; servicos_terminais 114/35; governanca_tcu 108/25; mediacao 41/16; sustentabilidade 24/6; concessao_porto_hidrovia 6/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (3); evidência/dados (2); usuário (2); participação social (1)
 **Tom (inferência da leitura, não métrica):** preocupado com controle de preços
 
@@ -64,6 +64,7 @@
 - **RD 464 (2019-06-28)**, item 19 — Portaria de delegação à SOG da competência para deliberar sobre renúncias de outorga de EBN · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=8955s) · resultado: aprovado por maioria; vencido Mário Povia
 - **RD 465 (2019-08-22)**, item 81 — Proposta de resolução normativa sobre regras gerais do processo decisório da Diretoria Colegiada (substitui a Res. 900/2003); vista de Adalb · voto: *pede vista* (vista, conf. media) · «processo foi à vista deste diretor» · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4966s) · resultado: não concluído: vista de Adalberto Tokarski após o voto do relator
 - **RD 465 (2019-08-22)**, item 96 — Regulamentação do art. 79, §5º, da Res. 3259 (intimações por aplicativos de mensagem e e-mail) · voto: *relator, aprova* (relator, conf. alta) · «PF sem óbice; ferramenta torna a fiscalização mais ágil» · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6909s) · resultado: aprovado por unanimidade (portaria do Diretor-Geral)
+- **RD 466 (2019-09-27)**, item 11 — Norma sobre regras do processo decisório da Diretoria Colegiada · voto: *prorroga pedido de vista* (outro, conf. media) · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2117s) · resultado: adiado: prorrogação do pedido de vista de Adalberto Tokarski
 - **RD 466 (2019-09-27)**, item 81 — Nova prorrogação de prazo para baixa e desincorporação de bens do Porto de Natal (leilão) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3760s) · resultado: aprovado nos termos do voto do relator
 - **RD 467 (2019-10-21)**, item 4 — Pedido de suspensão cautelar da movimentação mínima contratual (MMC) no arrendamento do Tecon Imbituba e reequilíbrio econômico-financeiro · voto: *acompanha o voto-vista* (revisor_acompanha, conf. alta) · «embora a Portaria 530 tenha trazido à ANTAQ a competência do reequilíbrio, o poder concedente decidiu poucos dias antes: ato jurídico perfeito» · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1156s) · resultado: prevaleceu o voto-vista: arquivamento por perda superveniente de objet
 - **RD 467 (2019-10-21)**, item 33 — Portaria sobre audiências de agentes públicos com particulares · voto: *pede vista* (vista, conf. alta) · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6045s) · resultado: adiado (vista de Adalberto Tokarski)

@@ -1,11 +1,11 @@
 # Perfil analítico — Caio Farias · tema: navegacao_afretamento
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 314 votos neste tema; 45 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 317 votos neste tema; 46 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 254 (94% dos votos em que não era relator) · relator 45 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 14
-**Como relator:** 24/45 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 256 (94% dos votos em que não era relator) · relator 46 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 14
+**Como relator:** 24/46 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** interesse público (4); segurança jurídica (3); participação social (2); TCU/controle externo (2); concorrência (1); governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -324,3 +324,6 @@
 - **RD 621 (2026-10-27)**, item 26 — Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítim · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9762s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 30 — Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12214s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *relator, aprova* (relator, conf. alta) · «Descumprimento reiterado das determinações; retenção não decorre de frete ou avaria grossa (art. 12 da Resolução 62/2021).» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Regulado pode voltar a qualquer tempo à SRG; celeridade da delegação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20819s) · resultado: aprovado (recurso desprovido)

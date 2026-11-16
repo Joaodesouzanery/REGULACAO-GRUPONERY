@@ -1,11 +1,11 @@
 # Perfil analítico — Adalberto Tokarski · tema: sustentabilidade
 
-**Amostra:** presente em 89 das 90 reuniões analisadas em que há registro de presença/ausência; 23 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 91 das 92 reuniões analisadas em que há registro de presença/ausência; 24 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 14 (82% dos votos em que não era relator) · relator 6 · vista pedida 1 · voto-vista divergente 0 · vencido 2 · outros/não captado 0
+**Votos:** acompanha o relator 15 (83% dos votos em que não era relator) · relator 6 · vista pedida 1 · voto-vista divergente 0 · vencido 2 · outros/não captado 0
 **Como relator:** 3/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1069/375; arrendamento_porto_organizado 855/227; fiscalizacao_sancoes 769/214; tup_autorizacao 525/166; recursos_recursais 386/78; regulacao_normativa 296/68; outros 227/79; tarifas_portuarias 175/50; servicos_terminais 112/35; governanca_tcu 107/25; mediacao 39/16; sustentabilidade 23/6; concessao_porto_hidrovia 6/0
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1114/378; arrendamento_porto_organizado 878/228; fiscalizacao_sancoes 788/214; tup_autorizacao 531/166; recursos_recursais 399/78; regulacao_normativa 306/69; outros 241/79; tarifas_portuarias 178/50; servicos_terminais 114/35; governanca_tcu 108/25; mediacao 41/16; sustentabilidade 24/6; concessao_porto_hidrovia 6/0
 **Argumentos recorrentes nas justificativas registradas:** interesse público (2)
 **Tom (inferência da leitura, não métrica):** entusiasmado
 
@@ -23,6 +23,7 @@
 - **RD 454 (2018-12-20)**, item 55 — Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalaç · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16877s) · resultado: referendado por unanimidade
 - **RD 458 (2019-04-04)**, item 12 — Consulta regulatória e denúncia sobre o Instrumento Normativo 15.004 da CDRJ (barreiras de contenção e cadastro de prestadores de combustíve · voto: *pede vista (inferido)* (vista, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3357s) · resultado: voto do relator proferido; processo foi à vista (provavelmente de Adal
 - **RD 461 (2019-05-20)**, item 39 — Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido · voto: *relator, responde que granel sólido é admitido de forma subsidiária* (relator, conf. alta) · «pareceres técnico e jurídico; terminal deve evitar interferência com a área de contêineres» · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7479s) · resultado: aprovado por unanimidade, com ressalva do Diretor-Geral
+- **RD 466 (2019-09-27)**, item 51 — Declaração de utilidade pública (DUP) para supressão de Mata Atlântica na implantação do TUP (São Francisco do Sul, SC) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7895s) · resultado: aprovado por unanimidade
 - **RD 473 (2020-02-10)**, item 27 — Proposição de declaração de utilidade pública para supressão de vegetação de Mata Atlântica em área arrendada · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8867s) · resultado: aprovado por unanimidade — recomenda ao Ministério da Infraestrutura a
 - **RD 473 (2020-02-10)**, item 36 — Recurso contra multa da SFC (cerca de R$ 74 mil) por derramamento de combustível em transferência entre balsas · voto: *relator: conhece e nega provimento* (relator, conf. alta) · «competência ambiental subsidiária legítima diante da omissão dos órgãos ambientais» · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=10077s) · resultado: aprovado por unanimidade — recurso improvido
 - **RD 472 (2020-02-10)**, item 42 — Referendo da Res. 7344 (afretamento emergencial de embarcações estrangeiras para rebocar FPSO Cidade do Rio de Janeiro) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10566s) · resultado: referendado por unanimidade

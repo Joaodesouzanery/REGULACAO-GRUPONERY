@@ -9,7 +9,7 @@
  "nomeacao_dou": null,
  "posse": null,
  "inicio": null,
- "fim": null,
+ "fim": "2026-02-18",
  "fim_legal": null,
  "confianca": "baixa",
  "confirmado": "nao",
@@ -18,5 +18,6 @@
  ],
  "obs_pesquisa": "Citado como ex-Diretor Interino na ata ROD 506 (11/08/2021). Período e nome completo não localizados.",
  "fonte": "pesquisa web 09/11/2026 (Senado/SGM, gov.br/antaq, DOU, atas ANTAQ, Agência iNFRA via busca)",
- "verificar": "nome completo, período, ato"
+ "verificar": "nome completo, período, ato",
+ "obs_iris": "não aparece na composição de 10/11/2026 (IRIS); fim aproximado, conferir"
 }

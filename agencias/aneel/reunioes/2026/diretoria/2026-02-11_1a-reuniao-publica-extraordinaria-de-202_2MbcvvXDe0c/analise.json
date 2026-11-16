@@ -1,0 +1,26 @@
+{
+  "meta": {"video_id": "2MbcvvXDe0c", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Extraordinária de 2026", "data": "2026-02-11", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (diretora; tratada como «senhora presidente»)",
+    "diretores_presentes": ["Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": ["Pauta publicada em 9/2/2026 com item único.", "Sustentação oral de Sérgio Leverde Campos e Silva (nome incerto), representante da UTE MC2, defendendo devolução das outorgas e novo cronograma.", "Manifestação da Procuradoria (nome incerto, 'Eduardo') a favor da leitura das áreas técnicas.", "Decisão unânime proclamada pela presidente da sessão."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:51",
+      "processo": "48500.002856/2026-52 (numeração da legenda, incerta)", "interessado": "UTE MC2 e outras (grupo Bertin Energia; complexo termelétrico MC2)",
+      "assunto": "Cumprimento de decisão judicial transitada em julgado (TRF1) que anulou o Despacho ANEEL 323/2014 sobre excludente de responsabilidade e novo cronograma das usinas do Leilão ANEEL 3/2008",
+      "tema": ["outorgas de geração (térmica)", "fiscalização e sanções (revogação de outorga, auto de infração)", "comercialização (CCEE, CCEAR)", "cumprimento de decisão judicial"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reconhece os 12 meses de suspensão fixados judicialmente, mas ratifica as REAs 5729 a 5734/2016 que revogaram as outorgas e os autos de infração 4 a 9/2021 da SFG; ratifica a rescisão dos CCEAR; determina à CCEE recalcular penalidades de atraso e rescisão e manter desligamento e cobranças por insuficiência de lastro e não aporte de garantia. Fundamento: mesmo com o prazo adicional as usinas não avançaram; penalidades têm base autônoma na inexecução.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:14:01", "justificativa": "o cumprimento da decisão judicial não implica a anulação automática dos atos punitivos regularmente praticados; usinas não avançaram mesmo com o acréscimo de 12 meses", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:20:56", "justificativa": "presidente da sessão: agradece a diligência do relator e endossa a interpretação da Procuradoria", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["A legenda não nomeia os demais diretores presentes nem a presidente da sessão (voz feminina; possivelmente Agnes da Costa ou Ludimila Lima, não confirmado); só o relator foi identificado.", "Números de processo e ação judicial vêm da legenda automática e podem estar errados.", "O rótulo de falante {Fernando Mosna} em 0:00:51 corresponde na verdade ao secretário-geral apregoando o item.", "Nomes do advogado e do procurador incertos."]
+}

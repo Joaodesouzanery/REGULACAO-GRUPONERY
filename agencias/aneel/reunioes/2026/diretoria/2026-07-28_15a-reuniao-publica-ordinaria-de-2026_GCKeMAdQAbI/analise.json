@@ -1,0 +1,606 @@
+{
+ "meta": {
+  "video_id": "GCKeMAdQAbI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "15ª Reunião Pública Ordinária de 2026",
+  "data": "2026-07-28",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Agnes Costa (férias)"
+  ],
+  "observacoes": [
+   "Pausa para almoço às ~3:54; retomada às ~5:48 (trecho intermediário sem deliberação no vídeo, com conversa informal de microfone aberto).",
+   "Itens 8 e 9 vinham com deliberação suspensa da 14ª RPO; item 9 (São Francisco) empatado 2x2, decidido na 16ª RPO com voto de Agnes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:48:28",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco da 15ª RPO",
+   "tema": [
+    "outros"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado; um diretor registrou suspeição no item 18, que fora retirado.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:48:40",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco",
+     "ts": "0:48:54",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco (suspeição no item 18, falante incerto)",
+     "ts": "0:49:11",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova e proclama",
+     "ts": "0:49:25",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:49:53",
+   "processo": "48500.001599/2026-11 (legenda)",
+   "interessado": "associação de armazenadores e escritório de advocacia (sustentações orais)",
+   "assunto": "Abertura de consulta pública do edital do LRCAP 2026 Armazenamento Nacional (baterias com conteúdo nacional)",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "regulação normativa"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 46 dias (30/07 a 14/09/2026) com audiência em 01/09/2026; preço-teto partindo do limite da EPE, divergindo da área; rateio do custo e ADS em debate. Debate sobre sorteio antecipado de relator para regulamentar o art. 3º-A da Lei 10.848; relator não alterou o voto.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "1:15:48",
+     "justificativa": "Propõe CP com teto igual ao limite indicado pela EPE; manter debate sobre rateio.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (com sugestão não acolhida)",
+     "ts": "1:41:50",
+     "justificativa": "Propôs trazer ao debate opções regulatórias e sorteio antecipado de relator para a regulamentação do rateio.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:11:10",
+     "justificativa": "Processo inédito; respeitar a propositura do relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "2:16:50",
+     "justificativa": "Sorteio extraordinário é competência do diretor-geral e não estava em pauta.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:17:35",
+   "processo": "48500.009603/2026-18 (legenda)",
+   "interessado": "ABEEólica (Marcelo Cabral, sustentação oral)",
+   "assunto": "Abertura de consulta pública do edital do LRCAP 2026 Potência e Armazenamento 2028B",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "regulação normativa"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 46 dias com audiência em 01/09/2026; ABEEólica pediu que custos do art. 3º-A não fossem rateados só entre geradores.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:32:57",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:36:58",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:37:05",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "2:37:05",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:37:47",
+   "processo": "48500.030189/2025-17",
+   "interessado": "Neoenergia Distribuição Brasília",
+   "assunto": "Abertura de consulta pública da revisão tarifária periódica 2026 da Neoenergia Brasília",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 45 dias (30/07 a 12/09/2026) com audiência em 27/08/2026; apresentação técnica de Luiz Eduardo Nogueira.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "2:48:25",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:53:20",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:53:23",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "2:53:23",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:54:26",
+   "processo": "48500.003753/2019 (legenda)",
+   "interessado": "INEL, APINE, ABIAPE, ABEEólica, ABSOLAR (sustentações orais)",
+   "assunto": "Resultado da 3ª fase da CP 45/2019 (critérios de redução/limitação de geração - curtailment) - voto-vista",
+   "tema": [
+    "regulação normativa",
+    "comercialização",
+    "outorgas de geração (eólica, solar)"
+   ],
+   "relator": "Agnes Costa",
+   "resultado": "pedido de vista (Gentil Nogueira; vistas coletivas)",
+   "resumo_voto": "Voto-vista de Mosna: encerra 3ª fase, rateio ex post intrafonte no período transitório, ajustes em cortes elétricos, período sombra com cenário alternativo e abertura de 4ª fase da CP 45 sobre resultados do período sombra. Relatora Agnes ausente (férias).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: encerrar 3ª fase com ajustes e abrir 4ª fase",
+     "ts": "3:19:44",
+     "justificativa": "Proposta da relatora avança, mas tratamento de cortes elétricos e período sombra comportam aprimoramento.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "3:54:18",
+     "justificativa": "Questiona falta de critério objetivo de qualificação; vistas coletivas concedidas.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "5:48:14",
+   "processo": "48500.015535/2026-81 (legenda)",
+   "interessado": "CCEE",
+   "assunto": "Abertura de consulta pública sobre regras de comercialização dos LRCAP 2026 e aprovação provisória",
+   "tema": [
+    "comercialização",
+    "leilões"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado",
+   "resumo_voto": "CP por intercâmbio documental de 45 dias (30/07 a 12/09/2026) e aprovação provisória das regras. Relator critica demora de 52 dias no sorteio.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "5:49:05",
+     "justificativa": "Sorteado 52 dias após a proposta da CCEE; pede celeridade na distribuição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "6:00:24",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:00:26",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "proclama",
+     "ts": "6:00:26",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "6:01:18",
+   "processo": "48500.000846/2026-82 (legenda)",
+   "interessado": "ONS; acessantes",
+   "assunto": "Abertura de consulta pública para aprimoramentos regulatórios do Decreto 12.772/2025 (temporadas de acesso à transmissão)",
+   "tema": [
+    "transmissão (acesso)",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (diretor não identificado)",
+   "resumo_voto": "Relator propõe CP de 47 dias (30/07 a 14/09/2026) com regra de transição; Gentil questiona tratamento de quem tem parecer de acesso; vista pedida para avaliar as questões de Gentil.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "6:21:22",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (com ressalvas)",
+     "ts": "6:27:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "6:27:27",
+     "justificativa": "Vai avaliar as questões levantadas pelo diretor Gentil.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "6:27:34",
+   "processo": "48500.006161/2025-93",
+   "interessado": "Estaleiro Atlântico Sul",
+   "assunto": "Impugnação contra decisão do Conselho de Administração da CCEE (penalidade por insuficiência de lastro)",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento; recontabilização pela CCEE e liberação de caução de cerca de R$ 305 mil; item 4 acrescentado por sugestão de Mosna.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, dá provimento",
+     "ts": "6:28:32",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha",
+     "ts": "6:31:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "6:31:35",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:31:36",
+     "justificativa": "Sugeriu o item 4 do dispositivo.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "6:31:36",
+   "processo": "48500.001094/2026 (legenda incerta)",
+   "interessado": "RGE Sul",
+   "assunto": "Impugnação contra decisão do ONS: parcela de ineficiência por ultrapassagem do MUST (ponto Cidade Industrial 138 kV) - deliberação suspensa na 14ª RPO",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por maioria (vencido Gentil Nogueira)",
+   "resumo_voto": "Parcial provimento, afastando a PI de ultrapassagem; Gentil havia apresentado voto divergente anteriormente.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, parcial provimento",
+     "ts": "6:33:39",
+     "justificativa": "Mantém voto anterior.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (voto anterior)",
+     "ts": "6:34:50",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge (voto anterior), vencido",
+     "ts": "6:34:55",
+     "justificativa": "Voto divergente apresentado na 14ª RPO.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:34:55",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "6:36:00",
+   "processo": "48500.037603/2025",
+   "interessado": "São Francisco Transmissão de Energia",
+   "assunto": "Anuência prévia de transferência de controle e novo cronograma (deliberação suspensa)",
+   "tema": [
+    "transmissão (outorgas)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "empate 2x2; reinscrito para a próxima reunião (aguarda Agnes)",
+   "resumo_voto": "Os quatro diretores presentes já haviam votado; empate mantido.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "mantém voto anterior (empate)",
+     "ts": "6:36:26",
+     "justificativa": "Determina reinscrição na próxima reunião.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "6:36:26",
+   "processo": "48500.002575/2024-38",
+   "interessado": "Canoas 2, 3, 4, Lagoa 3, 4 e outras eólicas (sustentação oral de Urias, pelas recorrentes)",
+   "assunto": "Recurso contra autos de infração da SFT pela perturbação de 15/08/2023",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota; outro pedido de vista de diretor não identificado)",
+   "resumo_voto": "Relator dá parcial provimento descaracterizando a NC1 (não é possível individualizar a contribuição para a perturbação), mantendo NC2 e NC3. Procurador-geral defende a linha da SFT.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, parcial provimento",
+     "ts": "7:02:45",
+     "justificativa": "Sem individualização da conduta não há causalidade jurídica; precedente para dezenas de casos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "7:21:07",
+     "justificativa": "Coerência: analisa 12 processos semelhantes com a assessoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista (atribuição incerta)",
+     "ts": "7:24:37",
+     "justificativa": "Diz ter cerca de 18 processos do tema; 'irei pedir vistas'.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "7:25:37",
+   "processo": "48500.000641/2023-43",
+   "interessado": "Transmissora de Energia Ribeiro Gonçalves Balsas (Valéria de Souza Rosa, sustentação oral)",
+   "assunto": "Recurso contra Despacho SFT 3143/2025: multa editalícia por inexecução total do CC 27/2018",
+   "tema": [
+    "fiscalização e sanções",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Mantém decisão da SFT (Despacho 1262/2026).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "7:40:09",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha (comentário)",
+     "ts": "7:40:54",
+     "justificativa": "Caducidade já exaurida em duas instâncias; consequência apenas.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "7:41:58",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "7:41:58",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "7:42:35",
+   "processo": "48500.007946/2026-30 (legenda)",
+   "interessado": "Interligação Elétrica do Madeira, IE Garanhuns (legenda), Tropicália Transmissora, TAESA (Ana Beatriz Dias Souza, sustentação oral)",
+   "assunto": "Ratificação de decisão do 12º Circuito Deliberativo sobre cautelares de cobertura tarifária integral da RAP 2026/27 (créditos de ações judiciais)",
+   "tema": [
+    "transmissão (RAP)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "ratificado (todos com o relator)",
+   "resumo_voto": "Conhece das cautelares e, no mérito, nega provimento, demais itens conforme o relator.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, ratifica",
+     "ts": "7:52:53",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:56:11",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "ratifica e acompanha",
+     "ts": "7:56:11",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "7:56:21",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "7:56:21",
+   "processo": "48500.009516/2026-61 (legenda)",
+   "interessado": "Interligação Elétrica do Madeira",
+   "assunto": "Ratificação de cautelar do 12º Circuito Deliberativo (ONS incluir créditos de ações judiciais no cálculo da RAP 2026/27)",
+   "tema": [
+    "transmissão (RAP)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "ratificado por unanimidade",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, ratifica",
+     "ts": "7:58:09",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:59:04",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "ratifica e acompanha",
+     "ts": "7:59:04",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "7:59:04",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "18",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de empresas podem estar errados.",
+  "Item 6: diretor que pediu vista não identificado (Willamy ou Sandoval).",
+  "Item 12: segundo pedido de vista atribuído a Gentil com baixa confiança.",
+  "Item 9: sentido individual dos votos do empate não é dito nesta sessão.",
+  "Bloco: autor da suspeição no item 18 incerto.",
+  "Votos de seguidores com ts aproximado."
+ ]
+}

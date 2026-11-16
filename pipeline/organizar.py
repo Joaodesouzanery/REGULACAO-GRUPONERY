@@ -5,7 +5,7 @@ Estrutura: reunioes/<ano>/<tipo>/<data>_<numero>_<id>/ · diretores/<nome>/ · t
 import json, os, re, shutil, sqlite3, subprocess, sys, csv, gzip, unicodedata
 ag = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("AGENCIA", "antt")
 R = f"agencias/{ag}"
-PRESERVAR = {"qualidade"}  # pastas mantidas à mão (não geradas aqui)
+PRESERVAR = {"qualidade", "boletins", "diretoria", "apresentacao"}  # pastas mantidas à mão (não geradas aqui)
 if os.path.exists(R):
     for x in os.listdir(R):
         if x in PRESERVAR: continue

@@ -1,11 +1,11 @@
 # Perfil analítico — Alexandre Florambel · tema: governanca_tcu
 
-**Amostra:** presente em 2 das 2 reuniões analisadas em que há registro de presença/ausência; 9 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 3 das 3 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 6 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 7 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 17/6; arrendamento_porto_organizado 16/6; tup_autorizacao 15/3; fiscalizacao_sancoes 10/4; governanca_tcu 9/3; regulacao_normativa 8/3; tarifas_portuarias 6/1; recursos_recursais 3/0; sustentabilidade 2/1; outros 2/0; servicos_terminais 1/0; mediacao 1/0; concessao_porto_hidrovia 1/1
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 24/8; navegacao_afretamento 20/7; tup_autorizacao 18/3; fiscalizacao_sancoes 13/5; governanca_tcu 10/3; tarifas_portuarias 9/2; regulacao_normativa 9/4; recursos_recursais 6/1; sustentabilidade 3/1; servicos_terminais 3/0; outros 3/0; mediacao 2/0; concessao_porto_hidrovia 1/1
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (3)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -19,3 +19,4 @@
 - **RD 621 (2026-10-27)**, item 9 — Contribuições da Consulta Pública 5/2026 e aprovação da alteração da Resolução 66/2022 (instrução processual e processo decisório) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3814s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 19 — Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle po · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8082s) · resultado: aprovado por unanimidade, com prazo ajustado para 90 dias
 - **RD 621 (2026-10-27)**, item 31 — Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão T · voto: *relator, aprova* (relator, conf. alta) · «nova modelagem atende ao TCU; corrigir capacidade estática (25.025 t) e retirar granel sólido; pagamento integral da outorga; 2 propostas para viva-voz» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12889s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 2 — Referendo do Acórdão 678/2026 — recurso de 2ª instância em pedido de acesso à informação (documentos sobre contratação de terceiros e ressar · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2845s) · resultado: aprovado (referendo)

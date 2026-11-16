@@ -1,11 +1,11 @@
 # Perfil analítico — Caio Farias · tema: outros
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 43 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 45 votos neste tema; 7 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 22 (59% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 15
-**Como relator:** 2/6 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 23 (60% dos votos em que não era relator) · relator 7 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 15
+**Como relator:** 2/7 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -52,3 +52,5 @@
 - **RD 616 (2026-08-21)**, item extrapauta — Prorrogação por 60 dias da Consulta Pública 06/2026 (concessão do Sistema Aquaviário Integrado dos Portos do Sul e Lagoa Mirim — SAIP Sul Mi · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=17219s) · resultado: aprovado, sem divergência registrada
 - **RD 619 (2026-09-24)**, item 17 — Registro de instalação de apoio ao transporte aquaviário em Belém (abastecimento de embarcações, água, recebimento de resíduos), com diferim · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8973s) · resultado: aprovado
 - **RD 619 (2026-09-24)**, item 29 — Consulta sobre uso de cábrea embarcada em balsa como equipamento auxiliar de içamento em instalação de apoio ao transporte aquaviário · voto: *relator, aprova* (relator, conf. alta) · «não se confunde com operação portuária comercial; o enquadramento do registro não muda» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13400s) · resultado: aprovado: sem óbice ao uso exclusivo e pontual, efeito limitado ao cas
+- **RD 623 (2026-11-13)**, item 7 — Consulta sobre competência da ANTAQ para titularidade dominial e delimitação de imóveis na poligonal do porto organizado de Vitória · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5794s) · resultado: aprovado
+- **RD 623 (2026-11-13)**, item 17 — não lido na sessão · voto: *retira de pauta (relator)* (relator, conf. media) · «'item 17 da pauta, eu estou retirando de pauta' (sem motivo declarado).» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7721s) · resultado: retirado de pauta pelo relator

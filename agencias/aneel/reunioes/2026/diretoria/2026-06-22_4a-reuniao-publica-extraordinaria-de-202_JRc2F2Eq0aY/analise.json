@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "video_id": "JRc2F2Eq0aY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4ª Reunião Pública Extraordinária de 2026",
+  "data": "2026-06-22",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); no fim, Gentil Nogueira",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes Costa",
+   "Gentil Nogueira",
+   "Willam Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo na abertura; registro da Corrida da Regulação (30 anos da ANEEL).",
+   "Item 2 teve cerca de 16 sustentações orais de 5 minutos.",
+   "Sandoval Feitosa e Willam Frota saíram antes da votação do item 2 (Willam deixou voto)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:24:05",
+   "processo": "48500.004996/2026-5 (número incerto)",
+   "interessado": "futuros concessionários de transmissão; inclui instalações do fim do contrato de concessão 12/2010 (concessionária atual citada como 'Fluente', nome incerto)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão 4/2026, após a Consulta Pública 6/2026",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova minuta do edital com apêndices e anexos consolidada após a CP 6/2026 (mais de 200 contribuições); ~1.866 km de linhas, ~13.564 MVA, ~20.500 empregos estimados (legenda); cronograma: edital após TCU em 29/09/2026, sessão pública em 30/10/2026, contratos em 26/02/2027. Sem óbices da SCE/CEL.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "0:42:35",
+     "justificativa": "acompanha integralmente SCE e CEL; sem ressalvas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:48:58",
+     "justificativa": "proclama unanimidade; destaca sucesso e governança dos leilões de transmissão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:45:02",
+     "justificativa": "aprimoramentos discutidos na CP que não entraram podem vir nos próximos editais",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:48:54",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:48:56",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:49:27",
+   "processo": "48500.00x375/2019-83 (número incerto)",
+   "interessado": "geradores eólicos e solares, hidrelétricas, ONS, CCEE; sustentações de V Robotics, ABRAPINE (Rui Altieri), Caputo Bastos e Serra, CN Energia, Lera Renováveis, ABSOLAR (Rodrigo Sauaia), ABIAP (André/Paulo André), Aura Energia, Neoenergia, Ecoenergia, ABRAGE, Atlas, Voltalia, ABEEólica, CPFL Renováveis",
+   "assunto": "Resultado da 3ª fase da Consulta Pública 45/2019 - critérios operativos para redução/limitação de geração (curtailment) no SIN e rateio dos cortes",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "comercialização (curtailment, rateio)",
+    "outorgas de geração (eólica, solar, hidrelétrica)"
+   ],
+   "relator": "Agnes Costa",
+   "resultado": "sem deliberação: pedido de vista após voto da relatora e adesões",
+   "resumo_voto": "Relatora propõe: 90 dias para ONS/CCEE adaptarem procedimentos de rede e regras de comercialização; rateio conjunto de cortes entre eólica, solar e hidrelétricas com EVT (energia vertida turbinável); MMGD e usinas tipo 3 fora; um ano de período-sombra sem efeito econômico, com simulação paralela do GHmin (geração hídrica mínima); rateio ex post provisório solar com solar e eólica com eólica. Procuradoria (parecer) sem óbice formal. Fernando Mosna sugeriu concluir a 3ª fase com a regra de transição e abrir uma 4ª fase, e permitir recurso à ANEEL contra classificação de curtailment pelo ONS (REN 1017/art. 18-A); relatora manteve o voto.",
+   "votos": [
+    {
+     "diretor": "Agnes Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:24:00",
+     "justificativa": "curtailment é problema alocativo; EVT é o critério adequado; sem apego ao GHmin; 'não vi outra regra que fosse melhor... é um resultado que ele é mais justo'",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "5:17:11",
+     "justificativa": "presidia a sessão no fim; atribuição inferida",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha a relatora (voto deixado)",
+     "ts": "5:17:12",
+     "justificativa": "voto registrado antes de sair",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "5:17:12",
+     "justificativa": "propôs alternativa (concluir 3ª fase e abrir 4ª fase; recurso contra classificação do ONS); atribuição do pedido de vista inferida",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ausente na votação (saiu durante a discussão)",
+     "ts": "5:16:53",
+     "justificativa": "participou da discussão (90 dias, EVT, impugnações ao ONS)",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "A transcrição não identifica falantes; atribuição dos votos de quem acompanha (item 1) e do pedido de vista (item 2) é inferida pelo contexto: o presidente em exercício diz que olhava para 'o MR' (provavelmente Mosna) 'para ver quem que ia pedir vista'.",
+  "Leitura do voto da relatora no item 2 (aprox. 2:24 a 4:46) não foi lida integralmente nesta análise; o resumo baseia-se no relatório inicial, na discussão final e nas explicações da relatora.",
+  "Números de processo, extensões e valores vêm da legenda automática.",
+  "Nomes fora da lista canônica: sustentantes Donato da Silva Filho (V Robotics), Rui Altieri, Isabela Ramagem, Bernardo Vieira Bezerra, Pablo Mota Ribeiro, Rodrigo Lopes Sauaia, André Sen da Silva / Paulo André (ABIAP), Francine Martins, Rachel Marques Marcato, Lio Gonçalves Jaquino, Camila de Andrade Gonçalves Fernandes, Sérgio Felipe Falcão Lima, Caroline Dias, Francisco Carlos da Silva Júnior, Guilherme Pereira Bajo; servidor Felipe (área técnica)."
+ ]
+}

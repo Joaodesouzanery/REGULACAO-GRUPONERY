@@ -1,11 +1,11 @@
 # Perfil analítico — Francisval Mendes · tema: sustentabilidade
 
-**Amostra:** presente em 58 das 58 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 60 das 60 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 7 (77% dos votos em que não era relator) · relator 5 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 8 (80% dos votos em que não era relator) · relator 5 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 704/278; arrendamento_porto_organizado 569/232; fiscalizacao_sancoes 449/168; tup_autorizacao 302/115; recursos_recursais 231/104; regulacao_normativa 196/95; outros 144/60; tarifas_portuarias 101/42; governanca_tcu 61/29; servicos_terminais 58/22; mediacao 27/7; sustentabilidade 14/5; concessao_porto_hidrovia 1/0
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 748/302; arrendamento_porto_organizado 587/236; fiscalizacao_sancoes 466/169; tup_autorizacao 308/115; recursos_recursais 240/105; regulacao_normativa 205/99; outros 150/62; tarifas_portuarias 103/43; governanca_tcu 61/29; servicos_terminais 59/22; mediacao 29/7; sustentabilidade 15/5; concessao_porto_hidrovia 1/0
 **Argumentos recorrentes nas justificativas registradas:** interesse público (2); eficiência/celeridade (1); concorrência (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -16,6 +16,7 @@
 - **RD 454 (2018-12-20)**, item 55 — Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalaç · voto: *relator, aprova* (relator, conf. alta) · «interesse público intrínseco à outorga; portos respondem por 95% do comércio exterior» · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16860s) · resultado: referendado por unanimidade
 - **RD 458 (2019-04-04)**, item 12 — Consulta regulatória e denúncia sobre o Instrumento Normativo 15.004 da CDRJ (barreiras de contenção e cadastro de prestadores de combustíve · voto: *sem voto registrado (processo foi à vista)* (outro, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3357s) · resultado: voto do relator proferido; processo foi à vista (provavelmente de Adal
 - **RD 461 (2019-05-20)**, item 39 — Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7553s) · resultado: aprovado por unanimidade, com ressalva do Diretor-Geral
+- **RD 466 (2019-09-27)**, item 51 — Declaração de utilidade pública (DUP) para supressão de Mata Atlântica na implantação do TUP (São Francisco do Sul, SC) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7895s) · resultado: aprovado por unanimidade
 - **RD 473 (2020-02-10)**, item 27 — Proposição de declaração de utilidade pública para supressão de vegetação de Mata Atlântica em área arrendada · voto: *relator: reconhece o empreendimento como apto à DUP e encaminha ao Minfra* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8821s) · resultado: aprovado por unanimidade — recomenda ao Ministério da Infraestrutura a
 - **RD 473 (2020-02-10)**, item 36 — Recurso contra multa da SFC (cerca de R$ 74 mil) por derramamento de combustível em transferência entre balsas · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=10169s) · resultado: aprovado por unanimidade — recurso improvido
 - **RD 472 (2020-02-10)**, item 42 — Referendo da Res. 7344 (afretamento emergencial de embarcações estrangeiras para rebocar FPSO Cidade do Rio de Janeiro) · voto: *relator, aprova* (relator, conf. alta) · «interesse público e risco ambiental» · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10474s) · resultado: referendado por unanimidade

@@ -1,10 +1,10 @@
 # Perfil analítico — Adalberto Tokarski · tema: concessao_porto_hidrovia
 
-**Amostra:** presente em 89 das 90 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 91 das 92 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 6 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1069/375; arrendamento_porto_organizado 855/227; fiscalizacao_sancoes 769/214; tup_autorizacao 525/166; recursos_recursais 386/78; regulacao_normativa 296/68; outros 227/79; tarifas_portuarias 175/50; servicos_terminais 112/35; governanca_tcu 107/25; mediacao 39/16; sustentabilidade 23/6; concessao_porto_hidrovia 6/0
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 1114/378; arrendamento_porto_organizado 878/228; fiscalizacao_sancoes 788/214; tup_autorizacao 531/166; recursos_recursais 399/78; regulacao_normativa 306/69; outros 241/79; tarifas_portuarias 178/50; servicos_terminais 114/35; governanca_tcu 108/25; mediacao 41/16; sustentabilidade 24/6; concessao_porto_hidrovia 6/0
 **Tom (inferência da leitura, não métrica):** favorável com ressalva de preocupação
 
 ## Evidências (reunião · item · voto · justificativa)

@@ -1,0 +1,96 @@
+{
+  "meta": {"video_id": "ullqdK_ZMcY", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} do .md pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27ª Reunião Pública Ordinária de 2025", "data": "2025-07-29", "formato": "presencial com participação remota (Agnes da Costa remota)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Daniel Danna", "Ivo Sechi Nazareno (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": [
+      "Boas-vindas ao diretor substituto Ivo Sechi Nazareno, em exercício desde 14/07/2025, em substituição a Ludimila Lima (ex-diretora, presente no auditório como superintendente).",
+      "Pauta com 38 itens; itens 3 a 38 em bloco; destacados 4 e 10 (sustentação oral); item 7 retirado de pauta; vistas no bloco dos itens 6 e 8.",
+      "Item 1 (MP 1300/2025, mecanismo concorrencial do GSF): longa discussão sobre a taxa de desconto (WACC 9,63% da MP x 10,94% da Portaria MME 112/2025) levantada por Fernando Mosna; terminou com pedido de vista de Fernando Mosna.",
+      "Aprovadas as atas da 23ª e 26ª reuniões, com registro de ausências."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:11:55", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 3 a 38 em bloco (reclamações de consumidores sobre faturamento, classificação tarifária e devoluções; cautelares de microgeração e acesso à rede; transferências de concessão; declarações de utilidade pública), exceto 4 e 10 (destacados), 7 (retirado), 6 e 8 (vista)",
+      "tema": ["bloco de itens", "distribuição e consumidores", "geração distribuída (MMGD)", "outorgas"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade, exceto itens com pedido de vista (6 e 8)",
+      "resumo_voto": "Diretores aprovam o bloco; três diretores mantêm voto já proferido no item 8; um pede vista do item 6; o Diretor-Geral pede vista do item 8.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista do item 8; aprova os demais", "ts": "0:12:43", "justificativa": "Eu peço vistas do item oito e aprovo todos os itens remanescentes.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "mantém voto no item 8 e aprova o bloco", "ts": "0:12:26", "justificativa": "Eu mantenho também meu voto no item oito e aprovo os itens remanescentes do bloco.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (falante incerto)", "ts": "0:12:08", "justificativa": "Falas de aprovação do bloco sem identificação segura do falante.", "confianca": "baixa"},
+        {"diretor": "Daniel Danna", "voto": "aprova o bloco (falante incerto)", "ts": "0:12:17", "justificativa": "Falas de aprovação do bloco sem identificação segura do falante.", "confianca": "baixa"},
+        {"diretor": "Ivo Sechi Nazareno", "voto": "aprova o bloco (falante incerto; um diretor não identificado mantém voto no item 8 e pede vista do item 6)", "ts": "0:12:35", "justificativa": "Eu, da mesma forma mantenho meu voto no item oito, peço vista do item seis e aprovo todos os demais (falante não identificado).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:13:11", "processo": "48500.034725/2025-92 (número incerto)",
+      "interessado": "geradoras hidrelétricas do MRE; Statkraft, Abragel, ABRAGE, Brasil Energia e outros (consultas)",
+      "assunto": "Rebatimentos do mecanismo concorrencial da MP 1300/2025 (GSF) nos descontos de TUST/TUSD, no limite de 7 anos de extensão de outorga e na livre disposição de energia por usinas cotistas",
+      "tema": ["outorgas de geração (hidrelétrica)", "tarifas (TUST/TUSD, descontos)", "comercialização (CCEE, MRE, risco hidrológico)", "institucional / MME"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista de Fernando Mosna (julgamento suspenso)",
+      "resumo_voto": "Relatora, com PF-ANEEL (Parecer 160/2025) e NT conjunta SCE/SGM 36/2025: extensão não é prorrogação, descontos mantidos; teto de 7 anos só para o mecanismo; cotistas mantêm regime de cotas (parcela livre só conforme contrato). Incorporou recomendação ao MME para reavaliar o WACC e sobrestar o mecanismo se julgar necessário. Mosna sustentou ilegalidade da Portaria 112 (10,94% x 9,63% da MP; exemplo UHE com 459 dias a mais) e propôs recomendar expressamente a suspensão do leilão de 1º/08 ao MME e à CCEE; pediu vista.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova (esclarecimentos + recomendação ao MME para reavaliar o WACC, sobrestando o mecanismo se julgar necessário)", "ts": "0:24:00", "justificativa": "Extensão distinta de prorrogação; não se sente na posição de fazer controle de legalidade de atos do ministério; ANEEL não pode sobrestar leilão de competência da CCEE.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge parcialmente; pede vista", "ts": "1:56:07", "justificativa": "Concorda com os três esclarecimentos, mas a Portaria 112 (WACC 10,94%) afronta a MP 1300 (9,63%); recomendar expressamente ao MME e à CCEE a suspensão do leilão de 1º de agosto.", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista); manifestou dúvida sobre o WACC e defendeu esclarecer antes do certame", "ts": "1:17:33", "justificativa": "Não vejo como o certame ser realizado sem esse ponto ser esclarecido; dúvida entre 9,63 e 10,94.", "confianca": "media"},
+        {"diretor": "Daniel Danna", "voto": "não votou (vista); apoiou informar/recomendar ao MME", "ts": "1:11:05", "justificativa": "Elogia o voto; conflito de valores detectado deve ser informado ao ministério para ratificar ou retificar a portaria; consequência (data do leilão) cabe a MME e CCEE.", "confianca": "media"},
+        {"diretor": "Ivo Sechi Nazareno", "voto": "não votou (vista); concordou com encaminhamento ao ministério", "ts": "1:12:56", "justificativa": "Ponto do WACC é independente dos três esclarecimentos; encaminhamento ao ministério aumenta a segurança jurídica.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:56:20", "processo": "48500.007747/2022 (número incerto)", "interessado": "ISA Energia Brasil S.A. (transmissora)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1228/2025 (revisão periódica da RAP de contratos de transmissão prorrogados pela Lei 12.783/2013, revisão de julho/2023); voto-vista",
+      "tema": ["transmissão (RAP)", "recursos administrativos", "tarifas"],
+      "relator": "Ricardo Tili", "resultado": "não conhecido, por unanimidade",
+      "resumo_voto": "Voto-vista de Sandoval acompanha o relator Ricardo Tili: sem fato novo nem vício de legalidade; armazenamento em discussão com o poder concedente (POTEE). Ivo e Danna não votam (antecessores já votaram).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: acompanha o relator", "ts": "2:22:31", "justificativa": "Não se trata de fato novo; decisão respaldada nos normativos; não se verifica vício de legalidade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:25:35", "justificativa": "Mantém voto já proferido ou acompanha relator (falante incerto entre Agnes e Mosna).", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:25:39", "justificativa": "Mantém voto já proferido ou acompanha relator (falante incerto entre Agnes e Mosna).", "confianca": "baixa"},
+        {"diretor": "Ivo Sechi Nazareno", "voto": "não vota (antecessora já votou)", "ts": "2:25:25", "justificativa": "Eu não voto nesse processo em face de voto da minha antecessora.", "confianca": "media"},
+        {"diretor": "Daniel Danna", "voto": "não vota (processo relatado pelo diretor Tili)", "ts": "2:25:29", "justificativa": "Também não voto nesse processo que foi relatado pelo diretor Tili.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:59:30", "processo": "48500.006448/2023-27", "interessado": "consumidor (reclamante) x Equatorial Goiás Distribuidora de Energia S.A.",
+      "assunto": "Recurso administrativo contra o Despacho 1633/2024 da SMA sobre restituição de adiantamento para atendimento de solicitação de fornecimento",
+      "tema": ["distribuição e consumidores", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "conhecido e negado provimento, por unanimidade",
+      "resumo_voto": "Sustentação oral pedida, mas o representante não compareceu; relator foi direto ao dispositivo; procuradoria ratifica Parecer 129. Diretor-Geral estava ausente na votação e depois registrou seu voto.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega provimento)", "ts": "2:00:59", "justificativa": "Manter integralmente o Despacho 1633/2024.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:01:57", "justificativa": "Presidiu momentaneamente como substituta e proclamou unanimidade.", "confianca": "media"},
+        {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "2:01:57", "justificativa": "Acompanha o relator (aproximado).", "confianca": "baixa"},
+        {"diretor": "Ivo Sechi Nazareno", "voto": "acompanha o relator", "ts": "2:01:57", "justificativa": "Acompanha o relator (aproximado).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (registrado depois)", "ts": "2:02:41", "justificativa": "Pediu para registrar seu voto após retornar.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "2:02:41", "processo": "48500.025892/2025-59 (número incerto)", "interessado": "REC Bandeirantes 41 Participações S.A. (consumidor livre/data center, Franco da Rocha-SP); ONS; ISA Energia",
+      "assunto": "Pedido de medida cautelar para revalidar parecer de acesso à rede básica cancelado pelo ONS",
+      "tema": ["transmissão (acesso à rede)", "recursos administrativos (cautelar)"],
+      "relator": "Ivo Sechi Nazareno", "resultado": "conhecido e negado, por unanimidade; processo à STD para decisão em 1ª instância",
+      "resumo_voto": "Sustentação oral de Pedro Henrique Dante e Piero Carle (atraso do ONS/ISA nos contratos CUST/CCT). Relator: sem fumaça do bom direito (CUST padrão enviado ~20 dias antes, sua assinatura reserva a rede) e perigo da demora inverso (outros cinco acessantes na fila).",
+      "votos": [
+        {"diretor": "Ivo Sechi Nazareno", "voto": "relator, aprova (nega cautelar)", "ts": "2:11:19", "justificativa": "ONS não descumpriu regulamento; CUST é contrato padrão; rede no limite com outros cinco acessantes.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:21:07", "justificativa": "Questionou prazo do ONS e testou compromisso da empresa de assinar o CUST; segue o relator e a superintendência avaliará eventual extrapolação do ONS.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:22:00", "justificativa": "Eu voto com relator também.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:22:01", "justificativa": "Acompanha o relator (aproximado).", "confianca": "baixa"},
+        {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "2:22:02", "justificativa": "Acompanha o relator (aproximado).", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["item 7 (retirado de pauta; assunto não informado)"],
+  "limites_da_analise": [
+    "Daniel Danna e Ivo Sechi Nazareno (diretor substituto) não constam da lista de diretores do config_agencia.json; nomes registrados como ditos (legenda: «Dana», «Ivo Seque Nazareno»/«Ivo SEC Nazareno»).",
+    "Rótulos de falante do .md são frequentemente errados; atribuição de falas no bloco, no item 1 (Danna/Ivo) e no item 2 (Agnes/Mosna) é inferida.",
+    "Itens 6 e 8 do bloco tiveram pedido de vista; quem pediu vista do item 6 não foi identificado com segurança; assuntos dos itens do bloco não foram lidos.",
+    "Números de processo vêm da legenda automática e podem estar errados.",
+    "No item 1 a frase final «Eu também voto com a relatora. Eu vou pedir vista» mistura falantes; registrado apenas o pedido de vista de Fernando Mosna."
+  ]
+}

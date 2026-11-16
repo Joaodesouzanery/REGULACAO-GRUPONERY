@@ -32,6 +32,12 @@
   - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
 - **RD 464 (2019-06-28)**, 15 · relator **Mário Povia** · Arbitragem regulatória com pedido cautelar: cobrança pela CDRJ (cerca de R$ 11,35 milhões) por não atingimento da movimentação mínima contratual (MMC) → voto do relator proferido; processo vai à vista de Adalberto Tokarski
   - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=7174s)
+- **RD 465 (2019-08-21)**, 10 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflitos → adiado: Francisval renova pedido de vista (relator e Povia já votaram)
+  - votos: Francisval: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1907s)
+- **RD 466 (2019-09-27)**, 19 · relator **Francisval Mendes** · Arbitragem regulatória → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2566s)
+- **RD 466 (2019-09-27)**, 49 · relator **Mário Povia** · Pedido de reconsideração da Resolução 6774 (ANTAQ não interviria no juízo arbitral CIESP/FIESP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7342s)
 - **RD 466 (2019-09-27)**, 133 (referendo) · relator **Francisval Mendes** · Referendo da Resolução 7.165: indeferimento de cautelar para suspender a devolução dos terminais T35 e T37 do Porto de Santos → referendado
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11727s)
 - **RD 466 (2019-09-27)**, 159 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflitos (relator Adalberto Tokarski e Mário Povia já votaram em reunião anterior) → sobrestamento proposto por Francisval Mendes diante de possível composição entre as partes
@@ -156,3 +162,5 @@
   - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=13928s)
 - **RD 619 (2026-09-24)**, 2 · relator **Alber Vasconcelos** · Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira empresa; su → cautelar indeferida e processo arquivado (aprovado)
   - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3021s)
+- **RD 623 (2026-11-13)**, 16 · relator **Caio Farias** · Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição → aprovado (arquivamento), com dispositivo acrescentado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s)

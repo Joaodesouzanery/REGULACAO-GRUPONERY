@@ -2,17 +2,15 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **40** · sem /diretoria: 1; sem /audiencia: 5; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 3; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **33** · sem /audiencia: 1; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
 - 2020-04-10 · diretoria · 475ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xli1Kp1oxZU · **legenda desativada/inexistente no YouTube**
-- 2019-09-27 · diretoria · 466ª Reunião Ordinária da Diretoria - Parte 1 · https://www.youtube.com/watch?v=PH7Z-S9LV14 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-21 · diretoria · 465ª Reunião Ordinária da Diretoria - Parte 1 · https://www.youtube.com/watch?v=57Z3eViWyVI · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **legenda desativada/inexistente no YouTube**
 - 2018-12-03 · diretoria · 453ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=bFOusUSVYos · **legenda desativada/inexistente no YouTube**
 - 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 18 de maio de 2018 · https://www.youtube.com/watch?v=YuPXF9CnvTI · **legenda desativada/inexistente no YouTube**
 - 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 16 de maio de 2018 · https://www.youtube.com/watch?v=gn55JbGyLk4 · **legenda desativada/inexistente no YouTube**
-- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 14 de maio de 2018 · https://www.youtube.com/watch?v=owmozgvRKJo · **bloqueio temporário do YouTube (tentar de novo)**
+- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 14 de maio de 2018 · https://www.youtube.com/watch?v=owmozgvRKJo · **legenda desativada/inexistente no YouTube**
 - 2018-04-23 · diretoria · 441ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=u8qFAgp4do8 · **legenda desativada/inexistente no YouTube**
 - 2017-10-27 · diretoria · 431a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=7AE0vGl3Hus · **legenda desativada/inexistente no YouTube**
 - 2017-08-08 · diretoria · 426a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=pjBAThnWO58 · **legenda desativada/inexistente no YouTube**
@@ -38,9 +36,4 @@ Total: **40** · sem /diretoria: 1; sem /audiencia: 5; 2021/diretoria: 1; 2020/d
 - 2016-02-05 · diretoria · 393a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=OLUFx9yT38E · **legenda desativada/inexistente no YouTube**
 - 2016-02-01 · diretoria · 383a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=_G7VAIDK6Qk · **legenda desativada/inexistente no YouTube**
 - 2016-01-29 · diretoria · 379a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=UWXkN9Prpu8 · **legenda desativada/inexistente no YouTube**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=1JJAO3a4AFA · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=dCnp2izF8FY · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=CGzAdM8PMmk · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=_hlg9820_vc · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=WwDnx9NOjQc · **privado**
-- s/data · diretoria · 623ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=L5asPhti148 · **privado**
+- s/data · audiencia · Webinário -  Audiência Pública nº08/2026 - Resoluções ANTAQ nº 129/2025 e nº 62/ · https://www.youtube.com/watch?v=W6-Qt9WdDv4 · **ainda não baixado (rodar a coleta no Mac)**

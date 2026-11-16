@@ -88,8 +88,12 @@
   - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=34s)
 - **RD 464 (2019-06-28)**, 7 · relator **Mário Povia** · Revisão da Resolução 2.389/2012 (parâmetros da movimentação e armazenagem de contêineres; SSE/THC2), com inclusão dos TUPs e previsão de preço-teto → voto-vista de Francisval Mendes proferido (acompanha com ressalvas); processo vai à vista 
   - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=3544s)
+- **RD 465 (2019-08-21)**, 11 · relator **Mário Povia** · Revisão da Resolução 2389/2012 (serviço de segregação e entrega de contêineres, SSE/THC2, nos terminais) → aprovado nos termos do voto-vista de Francisval Mendes (minuta 831703), com supressão dos 
+  - votos: Mário: revisor_acompanha; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1937s)
 - **RD 465 (2019-08-22)**, 58 · relator **Francisval Mendes** · Ampliação de área de instalação de armazenagem fora do porto organizado de Santos, ligada ao porto por dutovia (contrato de passagem) → aprovado por unanimidade, com acréscimo de ciência à CODESP e ao poder concedente
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=204s)
+- **RD 466 (2019-09-27)**, 8 · relator **Francisval Mendes** · Tabela de serviços básicos → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=1985s)
 - **RD 466 (2019-09-27)**, 77 · relator **Francisval Mendes** · Escaneamento de cargas (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
   - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3234s)
 - **RD 467 (2019-10-21)**, 1 · relator **None** · Regulação de preço-teto em terminais arrendados (voto do relator já proferido) → adiado (vista renovada por Mário Povia)
@@ -582,3 +586,7 @@
   - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10649s)
 - **RD 619 (2026-09-24)**, 2 · relator **Alber Vasconcelos** · Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira empresa; su → cautelar indeferida e processo arquivado (aprovado)
   - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3021s)
+- **RD 623 (2026-11-13)**, 8 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6124s)
+- **RD 623 (2026-11-13)**, 16 · relator **Caio Farias** · Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição → aprovado (arquivamento), com dispositivo acrescentado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s)

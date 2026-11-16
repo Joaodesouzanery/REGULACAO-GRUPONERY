@@ -1210,6 +1210,22 @@
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=11008s)
 - **RD 464 (2019-06-28)**, 14 · relator **Mário Povia** · Processo administrativo sancionador: ocupação/exploração dos armazéns 14 e 17 e áreas contíguas do cais de São Cristóvão (Porto do Rio de Janeiro) sem → voto do relator proferido; processo vai à vista de Francisval Mendes
   - votos: Mário: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6703s)
+- **RD 465 (2019-08-21)**, 8 · relator **Mário Povia** · Processo sancionador: ocupação exclusiva e sem contrato dos armazéns 14 a 17 do Cais de São Cristóvão (porto do Rio de Janeiro) → aprovado nos termos do voto condutor (Francisval divergiu quanto ao valor da multa)
+  - votos: Mário: relator; Francisval: revisor_diverge; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1666s)
+- **RD 465 (2019-08-21)**, 22 · relator **Mário Povia** · Outorga de autorização para operar como EBN na travessia Carolina (MA) - Filadélfia (TO) → não concluído: vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4327s)
+- **RD 465 (2019-08-21)**, 30 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5738 (multas por irregularidades no porto de Estrela: seguro, plano de incêndio, licença ambiental) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6257s)
+- **RD 465 (2019-08-21)**, 31 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6409 (multas de cerca de R$ 16 mil) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6536s)
+- **RD 465 (2019-08-21)**, 32 · relator **Mário Povia** · Processo sancionador (seguro, ocupação por praticagem sem contrato, regularidade fiscal) no porto de Belém → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=6856s)
+- **RD 465 (2019-08-21)**, 33 · relator **Mário Povia** · Pedido de revisão: TAC 21/2016 sobre ocupação do Molhe Sul de Barra do Riacho pelo emissário submarino da Fibria → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=7235s)
+- **RD 465 (2019-08-21)**, 34 · relator **Mário Povia** · Processo sancionador: apoio marítimo à Petrobras com a embarcação Transdata 10 sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=7817s)
+- **RD 465 (2019-08-21)**, 35 · relator **Mário Povia** · Processo sancionador: ocupação sem licitação de armazéns no porto de Porto Alegre → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=8059s)
 - **RD 465 (2019-08-22)**, 61 · relator **Francisval Mendes** · Processo administrativo sancionador: auto de infração lavrado pela GFP por explorar instalação portuária privada sem autorização prévia do poder conce → não concluído: vista de Adalberto Tokarski após o voto do relator
   - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=773s)
 - **RD 465 (2019-08-22)**, 62 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: cobrança da autoridade portuária pelo uso do espelho d'água pelo atracadouro flutuante do ferry boat Itaj → aprovado por unanimidade, com acréscimo proposto por Mário Povia
@@ -1234,12 +1250,20 @@
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1910s)
 - **RD 466 (2019-09-27)**, 70 · relator **Francisval Mendes** · Processo sancionador: irregularidades no terminal marítimo de ureia (regularidade fiscal, água, bombeiros, manutenção) → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2117s)
+- **RD 466 (2019-09-27)**, 14 · relator **Francisval Mendes** · Recurso voluntário (contra multa da SFC) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2227s)
+- **RD 466 (2019-09-27)**, 15 · relator **Francisval Mendes** · Processo sancionador (exploração de instalação portuária sem autorização) → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2266s)
+- **RD 466 (2019-09-27)**, 18 · relator **Mário Povia** · Outorga de autorização para EBN na travessia Carolina (MA) - Filadélfia (TO), rio Tocantins → indeferido, nos termos do voto do relator; Adalberto Tokarski vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2332s)
 - **RD 466 (2019-09-27)**, 71 · relator **Francisval Mendes** · Processo sancionador transitado em julgado (não envio de contrato de afretamento em 60 dias): revogação de sobrestamento → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2381s)
 - **RD 466 (2019-09-27)**, 72 · relator **Francisval Mendes** · Pedido de revisão e medida cautelar (exclusão do Cadin) contra multa já transitada em julgado e inscrita em dívida ativa → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2565s)
 - **RD 466 (2019-09-27)**, 86 · relator **Adalberto Tokarski** · Processo sancionador: permitir que a prefeitura ocupasse área do porto organizado de Estrela para oficina sem instrumento válido → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4731s)
+- **RD 466 (2019-09-27)**, 36 · relator **Mário Povia** · Recurso contra multa de R$ 667.755 da SFC (corredor de exportação operado pela Cidasc: generalidade de uso, fiscalização e conservação) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=4883s)
 - **RD 466 (2019-09-27)**, 87 · relator **Adalberto Tokarski** · Processo sancionador → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5082s)
 - **RD 466 (2019-09-27)**, 88 · relator **Adalberto Tokarski** · Processo sancionador: não apresentação de documentos de pré-qualificação de operador portuário (Portaria 111/2013) → aprovado nos termos do voto do relator
@@ -1250,8 +1274,18 @@
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5420s)
 - **RD 466 (2019-09-27)**, 91 · relator **Adalberto Tokarski** · Processo sancionador: ocupação e exploração de área do porto organizado de Manaus sem contrato (julgamento em bloco 89-91) → aprovado nos termos do voto do relator (bloco 89-91)
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5420s)
+- **RD 466 (2019-09-27)**, 42 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 43 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 44 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
+- **RD 466 (2019-09-27)**, 45 · relator **Mário Povia** · Processo sancionador: exploração de área no porto de Santos sem licitação (contrato de arrendamento 01/97 da Ferronorte e aditivos, objeto de ação pop → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5558s)
 - **RD 466 (2019-09-27)**, 92 · relator **Adalberto Tokarski** · Processo sancionador: irregularidades no Porto de Santarém (defensas, instalações para passageiros, seguro, regularidade fiscal, ocupação sem contrato → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5914s)
+- **RD 466 (2019-09-27)**, 46 · relator **Mário Povia** · Processo sancionador: permitir obras de terraplanagem da Petrobras entre os armazéns 15 e 16 em área comum sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=6293s)
 - **RD 466 (2019-09-27)**, 93 · relator **Adalberto Tokarski** · Processo sancionador: não realização de obras e investimentos contratuais do arrendamento → aprovado por maioria nos termos do voto do relator (auto insubsistente); Mário Povia venci
   - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=6494s)
 - **RD 466 (2019-09-27)**, 94 · relator **Adalberto Tokarski** · Processo sancionador: destinação irregular das receitas do corredor de exportação (5º termo aditivo ao convênio de delegação 1/2011) → aprovado nos termos do voto do relator
@@ -1260,8 +1294,12 @@
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=7280s)
 - **RD 466 (2019-09-27)**, 96 · relator **Adalberto Tokarski** · Processo sancionador: permitir ocupação do terminal graneleiro pela Cidasc sem instrumento contratual válido → aprovado nos termos do voto do relator (sugestão de Francisval Mendes para prever também a
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=7544s)
+- **RD 466 (2019-09-27)**, 53 · relator **Mário Povia** · Fiscalização ordinária do cronograma do TUP (contrato de adesão 3/2017), com área ocupada por terceiros e 64 ações judiciais → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7999s)
 - **RD 466 (2019-09-27)**, 97 · relator **Adalberto Tokarski** · Processo sancionador: omissão de documentos solicitados pela fiscalização (navegação interior longitudinal) → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8072s)
+- **RD 466 (2019-09-27)**, 54 · relator **Mário Povia** · Recurso contra multa de R$ 137.500 por desvio de finalidade (centro de convenções em área do porto de Corumbá) → aprovado por unanimidade (recurso desprovido), com ciência ao poder concedente
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=8280s)
 - **RD 466 (2019-09-27)**, 98 · relator **Adalberto Tokarski** · Acompanhamento de TAC (regularização com assinatura do contrato de adesão 7/2019 da ETC) → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8355s)
 - **RD 467 (2019-10-21)**, 2 · relator **Francisval Mendes** · Representação com cautelar contra majoração do SSE/THC2 (segregação e entrega de contêineres) no Porto de Santos; recursos de BTP e Libra → aprovado por unanimidade nos termos do voto do relator
@@ -2330,3 +2368,9 @@
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10632s)
 - **RD 621 (2026-10-27)**, 32 · relator **Alexandre Florambel** · Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13027s)
+- **RD 623 (2026-11-13)**, 6 · relator **Lima Filho** · Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de contêineres) → aprovado (recurso provido; auto insubsistente, multa afastada)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5446s)
+- **RD 623 (2026-11-13)**, 26 · relator **Caio Farias** · Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas → aprovado (cautelar parcialmente deferida)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s)
+- **RD 623 (2026-11-13)**, 23 · relator **Alexandre Florambel** · Consulta sobre inadimplência de usuários e possibilidade de suspensão de serviços → encaminhado à SFC (relator absteve-se de votar o mérito)
+  - votos: Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=14745s)

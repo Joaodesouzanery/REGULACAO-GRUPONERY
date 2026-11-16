@@ -5,6 +5,7 @@ Base de reuniões públicas de diretoria (vídeo, legenda, análise item a item 
 ## Comece por aqui
 | Para | Abra |
 |---|---|
+| **Cada agência organizada (reuniões, diretores, temas, planilhas)** | `agencias/README.md` |
 | Estado atual, comandos e pendências | `docs/CONTINUAR.md` |
 | O que está completo por agência | `COMPLETUDE.md` · `COBERTURA.md` |
 | Lista de todos os scripts, skills e agentes | `docs/MAPA.md` |

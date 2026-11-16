@@ -1,12 +1,12 @@
 # Perfil analítico — Lima Filho · tema: tarifas_portuarias
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 154 votos neste tema; 52 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 157 votos neste tema; 53 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 90 (88% dos votos em que não era relator) · relator 52 · vista pedida 0 · voto-vista divergente 0 · vencido 8 · outros/não captado 4
-**Como relator:** 25/52 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 92 (88% dos votos em que não era relator) · relator 53 · vista pedida 0 · voto-vista divergente 0 · vencido 8 · outros/não captado 4
+**Como relator:** 25/53 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
-**Argumentos recorrentes nas justificativas registradas:** proporcionalidade (7); eficiência/celeridade (5); segurança jurídica (4); concorrência (3); usuário (3); TCU/controle externo (2)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
+**Argumentos recorrentes nas justificativas registradas:** proporcionalidade (7); eficiência/celeridade (5); segurança jurídica (4); concorrência (3); usuário (3); governança/rito (3)
 **Tom (inferência da leitura, não métrica):** insiste após a divergência e alerta para o precedente | enfático
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -165,3 +165,6 @@
 - **RD 621 (2026-10-27)**, item 10 — Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abert · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3484s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 11 — Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) · voto: *relator, aprova* (relator, conf. alta) · «requisitos da Res. 61/2021 cumpridos; percentual igual ao IPCA acumulado; tabelas 3 e 5 mantidas» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4114s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *relator, aprova* (relator, conf. alta) · «Instrução não reúne elementos para a condenação; falhas de motivação e contraditório; provê o recurso.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 14 — Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com e · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=17240s) · resultado: aprovado com ajustes sugeridos pelo DG
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s) · resultado: aprovado (recurso desprovido)

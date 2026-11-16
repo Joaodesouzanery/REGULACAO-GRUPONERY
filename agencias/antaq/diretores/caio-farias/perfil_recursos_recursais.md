@@ -1,12 +1,12 @@
 # Perfil analítico — Caio Farias · tema: recursos_recursais
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 190 votos neste tema; 31 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 193 votos neste tema; 31 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 138 (86% dos votos em que não era relator) · relator 31 · vista pedida 2 · voto-vista divergente 3 · vencido 3 · outros/não captado 13
+**Votos:** acompanha o relator 141 (87% dos votos em que não era relator) · relator 31 · vista pedida 2 · voto-vista divergente 3 · vencido 3 · outros/não captado 13
 **Como relator:** 8/31 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
-**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); segurança jurídica (3); eficiência/celeridade (1); evidência/dados (1); segurança viária (1); proporcionalidade (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); segurança jurídica (3); eficiência/celeridade (2); evidência/dados (1); segurança viária (1); proporcionalidade (1)
 **Tom (inferência da leitura, não métrica):** firme
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -201,3 +201,6 @@
 - **RD 619 (2026-09-24)**, item 6 — Referendo da Deliberação DG 71/2026: recurso de 2ª instância em pedido de acesso à informação; informação ainda inexistente; SFC deve submet · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=4290s) · resultado: referendado (aprovado); recurso conhecido e parcialmente provido
 - **RD 619 (2026-09-24)**, item 31 — Embargos de declaração contra o Acórdão 484/2026 (que negou reconsideração; regime de preço-teto contratual suspenso) · voto: *relator, aprova* (relator, conf. alta) · «embargos não servem a novo julgamento» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13937s) · resultado: embargos conhecidos e rejeitados (aprovado)
 - **RD 621 (2026-10-27)**, item vista-Login — Recurso de reconsideração contra o Acórdão 733/2025 · voto: *renova vista (revisor)* (revisor_acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=950s) · resultado: não deliberado: vista renovada (revisor Caio Farias)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Regulado pode voltar a qualquer tempo à SRG; celeridade da delegação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20819s) · resultado: aprovado (recurso desprovido)

@@ -1,12 +1,12 @@
 # Perfil analítico — Caio Farias · tema: tarifas_portuarias
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 155 votos neste tema; 20 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 158 votos neste tema; 20 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 118 (87% dos votos em que não era relator) · relator 20 · vista pedida 0 · voto-vista divergente 3 · vencido 2 · outros/não captado 12
+**Votos:** acompanha o relator 121 (87% dos votos em que não era relator) · relator 20 · vista pedida 0 · voto-vista divergente 3 · vencido 2 · outros/não captado 12
 **Como relator:** 12/20 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
-**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (6); usuário (3); eficiência/celeridade (1); concorrência (1); segurança jurídica (1); governança/rito (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (6); usuário (3); eficiência/celeridade (2); concorrência (1); segurança jurídica (1); governança/rito (1)
 **Tom (inferência da leitura, não métrica):** firme
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -166,3 +166,6 @@
 - **RD 621 (2026-10-27)**, item 10 — Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abert · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3484s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 11 — Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4215s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 14 — Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com e · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=17240s) · resultado: aprovado com ajustes sugeridos pelo DG
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. media) · «Regulado pode voltar a qualquer tempo à SRG; celeridade da delegação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20819s) · resultado: aprovado (recurso desprovido)

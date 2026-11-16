@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "PtSzOQxp4BY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22); ts de votos de quem acompanha aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Reunião Pública Extraordinária de 2026", "data": "2026-02-13", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Gentil Nogueira", "Fernando Mosna"],
+    "ausentes": ["Agnes da Costa", "Willamy Frota"],
+    "observacoes": ["Agnes da Costa e Willamy Frota ausentes justificadamente (viagem a serviço).", "Pauta com 2 itens sobre o LRCAP 2026, ambos relatados por Fernando Mosna; sem sustentação oral.", "Ambos aprovados por unanimidade: substituição dos preços-teto pelos valores do Ofício MME 35/2026 após manifestações do mercado.", "Sexta-feira de carnaval."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:23:47",
+      "processo": "48500.002821/2025-67", "interessado": "Ministério de Minas e Energia; Secretaria Executiva de Leilões; CCEE",
+      "assunto": "Alteração do edital do Leilão nº 2/2026 (LRCAP 2026 — UTEs a gás natural, carvão mineral e UHEs) para substituir os preços-teto pelos valores do Ofício MME 35/2026",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração (térmica, hidrelétrica)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Compete ao MME fixar diretrizes e preços do leilão; preços-teto são elemento estruturante do edital; revisão comunicada pelo poder concedente exige deliberação formal e publicidade. Preços-teto de potência termelétrica sobem (ex.: existentes de cerca de 1,12 mi para 2,25 mi R$/MW.ano; novos de 1,6 mi para 2,9 mi); hidrelétricas mantidas em 1,4 mi (valores da legenda automática).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:28:00", "justificativa": "acolhe o encaminhamento do Ofício MME 35/2026; mostra-se juridicamente adequado e administrativamente necessário alterar o edital para preservar o cronograma (sessão em 18/03/2026)", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:37:09", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:37:09", "justificativa": "ressalta que a definição dos parâmetros do leilão é competência exclusiva do MME e que o papel da ANEEL é garantir certame isonômico, transparente e previsível", "tom": "elogioso à área técnica e ao relator", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:38:34",
+      "processo": "48500.002822/2025-10", "interessado": "Ministério de Minas e Energia; Secretaria Executiva de Leilões; CCEE",
+      "assunto": "Alteração do edital do Leilão nº 3/2026 (LRCAP 2026 — UTEs a óleo e biodiesel, existentes) para substituir os preços-teto pelos valores do Ofício MME 35/2026",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração (térmica)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mesmo racional do item 1; preços-teto 2026/2027 de 920 mil para 1,6 mi R$/MW.ano e 2030 de 990 mil para 1,75 mi (valores da legenda automática).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:39:10", "justificativa": "mesmo racional argumentativo do item anterior; acolhe o Ofício MME 35/2026", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:41:50", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:41:50", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo e valores de preço-teto podem estar imprecisos.", "Falantes inferidos: o 'acompanho o relator' atribuído a Gentil Nogueira por exclusão (único outro diretor presente).", "Trecho anterior a 0:22 (espera de transmissão) não contém deliberação."]
+}

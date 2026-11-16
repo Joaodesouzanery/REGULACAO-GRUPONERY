@@ -1,11 +1,11 @@
 # Perfil analítico — Lima Filho · tema: governanca_tcu
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 79 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 80 votos neste tema; 14 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 60 (90% dos votos em que não era relator) · relator 13 · vista pedida 1 · voto-vista divergente 0 · vencido 5 · outros/não captado 0
-**Como relator:** 8/13 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 60 (90% dos votos em que não era relator) · relator 14 · vista pedida 1 · voto-vista divergente 0 · vencido 5 · outros/não captado 0
+**Como relator:** 8/14 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); segurança jurídica (3); concorrência (2); governança/rito (2); interesse público (1); eficiência/celeridade (1)
 **Tom (inferência da leitura, não métrica):** crítico à atuação da PFA | crítico
 
@@ -90,3 +90,4 @@
 - **RD 621 (2026-10-27)**, item 9 — Contribuições da Consulta Pública 5/2026 e aprovação da alteração da Resolução 66/2022 (instrução processual e processo decisório) · voto: *acompanha, com elogio* (acompanha, conf. media) · «cumprimenta o diretor-geral pelo avanço (há 4 anos na agência)» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3814s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 19 — Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle po · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8082s) · resultado: aprovado por unanimidade, com prazo ajustado para 90 dias
 - **RD 621 (2026-10-27)**, item 31 — Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão T · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13018s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 2 — Referendo do Acórdão 678/2026 — recurso de 2ª instância em pedido de acesso à informação (documentos sobre contratação de terceiros e ressar · voto: *relator, aprova* (relator, conf. alta) · «Sem fatos novos que motivem revisão; referenda o acórdão 678/2026.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2845s) · resultado: aprovado (referendo)

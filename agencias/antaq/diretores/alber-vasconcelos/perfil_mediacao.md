@@ -1,11 +1,11 @@
 # Perfil analítico — Alber Vasconcelos · tema: mediacao
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 34 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 24 (88% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
+**Votos:** acompanha o relator 25 (89% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
 **Como relator:** 2/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** concorrência (1); governança/rito (1); TCU/controle externo (1)
 **Tom (inferência da leitura, não métrica):** enfático | crítico às assimetrias entre passagistas e arrendatários
 
@@ -44,3 +44,4 @@
 - **RD 605 (2026-03-24)**, item 29 — Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) · voto: *acompanha o relator (votação simbólica, sem manifestação)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13525s) · resultado: cautelar indeferida por unanimidade
 - **RD 611 (2026-06-11)**, item 43 — Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investi · voto: *relator, aprova* (relator, conf. alta) · «autocomposição é escolha do poder concedente; agência apenas fornece subsídio técnico (NT 78/2026)» · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=13944s) · resultado: aprovado
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *relator, aprova* (relator, conf. alta) · «CLIA em zona secundária não é instalação portuária; ausente a fumaça do bom direito e, por consequência, o perigo da demora» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3301s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

@@ -1,0 +1,49 @@
+{
+ "meta": {"video_id": "9Gl5AxXWgV4", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "19ª Reunião Pública Ordinária de 2025", "data": "2025-06-03", "formato": "presencial",
+  "presidente_da_sessao": "Agnes da Costa (substituindo o Diretor-Geral)",
+  "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ludimila Lima", "Daniel Danna"],
+  "ausentes": ["Sandoval Feitosa (missão institucional, ausência justificada)"],
+  "observacoes": ["Quórum de quatro diretores; primeira reunião de Daniel Danna como diretor (saudado pelo procurador-geral Eduardo Ramalho).", "Pauta com 30 itens; itens 4 a 30 em bloco; retirados de pauta os itens 1, 7, 9 e 12; item 6 destacado (sustentação oral) e item 29 destacado por Agnes da Costa.", "Ata da 18ª RPO aprovada."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:05:49", "processo": "", "interessado": "diversos", "assunto": "Itens de bloco (4 a 30, exceto destacados e retirados), incluindo itens 13 e 14 (pedido de reconsideração da Ox Participações SA contra o Despacho 3225/2021, excludente de responsabilidade das UTEs Santa Luz, Paula Rainha, Cantá e Bonfim, Roraima) e item 30 (prorrogação de vista sobre custos da Petrobras na UTE Nova Piratininga)", "tema": ["recursos administrativos", "fiscalização e sanções", "institucional"], "relator": "diversos", "resultado": "aprovado o bloco; nos itens 29 e 30 Fernando Mosna votou por prorrogar a vista só por duas reuniões; item 29 destacado", "resumo_voto": "Bloco aprovado. Agnes e Ludimila não se manifestaram nos itens 13 e 14 (voto de diretor anterior).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco; não se manifesta nos itens 13 e 14; pede destaque do item 29", "ts": "0:05:49", "justificativa": "Itens 13 e 14 têm voto de outro diretor.", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "aprova o bloco; não se manifesta nos itens 13 e 14", "ts": "0:06:02", "justificativa": "Itens 13 e 14 têm voto de outro diretor.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco; diverge nos itens 29 e 30 (prorrogar vista só por duas reuniões)", "ts": "0:06:26", "justificativa": "Por analogia a precedente da reunião administrativa, prorrogação de vista limitada a duas reuniões; item 29 com vista desde maio de 2024 e item 30 desde novembro de 2024.", "confianca": "media"},
+    {"diretor": "Daniel Danna", "voto": "aprova o bloco; mantém voto no item 13 (negar provimento à Ox Participações)", "ts": "0:08:10", "justificativa": "Mantém voto no sentido de conhecer e negar provimento ao pedido de reconsideração.", "confianca": "baixa"}
+   ]},
+  {"id": "2", "ts": "0:08:55", "processo": "48500.003674/2025-18", "interessado": "Energisa Paraíba Distribuidora de Energia SA", "assunto": "Abertura de consulta pública sobre a revisão tarifária periódica 2025 da Energisa Paraíba (efeito médio preliminar de cerca de 15,88%), vigência a partir de 28/08/2025", "tema": ["tarifas e revisão tarifária", "regulação normativa"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: CP de 4/6 a 18/7/2025 com reunião presencial em João Pessoa em 18/6/2025", "resumo_voto": "Apresentação técnica da STR (servidor Fabiano). Agnes destacou o peso da CDE Uso (2,58%) no efeito tarifário.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:23:40", "justificativa": "Instaurar consulta pública para colher subsídios à proposta de RTP.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:24:30", "justificativa": "Comenta o impacto do orçamento da CDE (CDE Uso 2,58%) frente à parcela B de 2,27%.", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:24:59", "justificativa": "Vota com o relator.", "confianca": "media"},
+    {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "0:25:01", "justificativa": "Vota com o relator.", "confianca": "baixa"}
+   ]},
+  {"id": "3", "ts": "0:25:32", "processo": "48500.002150/2024-29", "interessado": "Boa Hora 4, 5 e 6 Geradora de Energia SA", "assunto": "Recurso contra o Despacho 490/2025 da SFT que aplicou multa editalícia pelo atraso das UFVs Boa Hora 4, 5 e 6 (voto-vista de Fernando Mosna)", "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (solar)"], "relator": "Ludimila Lima", "resultado": "unanimidade: parcial provimento, atenuante elevado para 50% (multa de cerca de R$ 3.843.700 por usina) e determinação à SFT para avaliar os critérios de atenuante", "resumo_voto": "Mosna (voto-vista) propôs atenuante de 50% pela descontratação via MCSD Energia Nova antes do início do suprimento e desconto de 25% por analogia ao art. 38 da REN 846. Ludimila incorporou o atenuante de 50% e a determinação à SFT, mas não o desconto de 25%; Mosna aderiu ao voto ajustado.",
+   "votos": [
+    {"diretor": "Ludimila Lima", "voto": "relatora, aprova (voto ajustado: parcial provimento)", "ts": "0:47:41", "justificativa": "Incorpora o atenuante de 50% específico para a Boa Hora, que descontratou para 2024-25, e determina à SFT avaliar os critérios de atenuante; não incorpora o desconto de 25% por haver dúvidas diante da REN 846.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "voto-vista: parcial provimento; adere ao voto ajustado da relatora", "ts": "0:48:59", "justificativa": "A diligência deve ser medida pela descontratação no MCSD Energia Nova antes do início do suprimento, não pelos marcos do cronograma; vencida a proposta de desconto de 25%, adere com redutor de 50% e deixa o voto registrado.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "0:49:20", "justificativa": "Concorda com o atenuante; tem restrições ao desconto de 25%, cuja motivação na REN 846 é a economia processual.", "confianca": "media"},
+    {"diretor": "Daniel Danna", "voto": "acompanha a relatora", "ts": "0:49:23", "justificativa": "Vota com a relatora.", "confianca": "baixa"}
+   ]},
+  {"id": "6", "ts": "0:50:40", "processo": "48500.900729/2024-57", "interessado": "Equatorial Piauí Distribuidora de Energia SA", "assunto": "Recurso contra o Auto de Infração 23/2024 da SFT (DEC/FEC de conjuntos em 2022), multa de cerca de R$ 10,56 milhões; sustentação oral de Lucas Custódio pela Equatorial Piauí", "tema": ["fiscalização e sanções", "recursos administrativos", "distribuição (qualidade)"], "relator": "Fernando Mosna", "resultado": "unanimidade: negado provimento; mantida a NC1 e a multa de R$ 10.556.488,40", "resumo_voto": "A empresa alegou desproporcionalidade (recuperação pós-privatização) e pediu atenuantes; a procuradoria concordou com o voto.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega provimento)", "ts": "1:02:40", "justificativa": "Mantém a não conformidade e a multa.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:03:07", "justificativa": "Vota com o relator.", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:03:08", "justificativa": "Vota com o relator.", "confianca": "baixa"},
+    {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "1:03:09", "justificativa": "Vota com o relator.", "confianca": "baixa"}
+   ]},
+  {"id": "29", "ts": "1:03:50", "processo": "48500.001367/2026-10", "interessado": "fontes incentivadas (CP 20/2023)", "assunto": "Prorrogação do prazo de pedido de vista sobre o resultado da CP 20/2023 (revisão da REN 1031/2022 e regras de comercialização, fim dos descontos na TUSD/TUST para fontes incentivadas, art. 4º da Lei 14.120/2021)", "tema": ["regulação normativa", "tarifas", "comercialização"], "relator": "Hélvio Guerra", "resultado": "aprovado por maioria: vista prorrogada por oito semanas; vencido Fernando Mosna", "resumo_voto": "Agnes (vistora) relatou providências e citou a MP 1300 como fato superveniente; Mosna defendeu duas reuniões e prazo de uma semana para SGM/SGE responderem ao memorando 15/2025.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "voto-vista: prorrogar por oito semanas", "ts": "1:13:50", "justificativa": "Processo complexo; a nova Lei 15.097/2025 e a MP 1300 exigem nova análise das áreas técnicas.", "confianca": "alta"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha a prorrogação", "ts": "1:13:55", "justificativa": "Reforça o voto dado no bloco pela prorrogação.", "confianca": "media"},
+    {"diretor": "Daniel Danna", "voto": "acompanha a prorrogação (ratifica voto)", "ts": "1:13:58", "justificativa": "Ratifica o voto.", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "diverge: prorrogar só por duas reuniões; vencido", "ts": "1:14:01", "justificativa": "Vista pendente desde maio de 2024; por coerência com precedente da reunião administrativa, prorrogar por duas reuniões e fixar prazo de uma semana para SGM/SGE.", "tom": "firme", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["1", "7", "9", "12"],
+ "limites_da_analise": ["Daniel Danna não consta da lista de diretores do config_agencia.json; registrado como dito na sessão.", "Falantes no bloco inferidos: a atribuição do voto mantido no item 13 (Ox Participações) a Daniel Danna é incerta; o autor dos votos nos itens 13 e 14 é citado como Ricardo Tili ou Hélvio (legenda confusa).", "Números de processos e valores vêm de legenda automática e podem conter erros (ex.: processo do item 29).", "Votos de quem só acompanha têm ts aproximado."]
+}

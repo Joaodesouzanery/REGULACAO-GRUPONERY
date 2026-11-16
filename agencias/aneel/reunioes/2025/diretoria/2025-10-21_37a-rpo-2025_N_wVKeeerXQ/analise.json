@@ -1,0 +1,469 @@
+{
+ "meta": {
+  "video_id": "N_wVKeeerXQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "37ª RPO 2025",
+  "data": "2025-10-21",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Willamy Frota"
+  ],
+  "observacoes": [
+   "Willamy Frota ausente (missão de fiscalização no Amazonas); deixou voto no bloco e é relator do item 1.",
+   "Pauta com 27 itens; 9 a 27 em bloco; item 9 retirado; item 8 retirado a pedido do relator.",
+   "Reunião encerrada às 18h36; minuto de silêncio pelo servidor Rodrigo Torres; anúncio do Leilão de Transmissão 4/2025 (31/10)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 10-27",
+   "ts": "0:41:56",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 10 a 27 (votos e atos publicados com a pauta; nenhum destacado); item 17 com registro de Agnes da Costa sobre penalidades do Leilão 1/2019 (suprimento de Boa Vista e localidades conectadas)",
+   "tema": [
+    "fiscalização e sanções",
+    "leilões"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado; Willamy Frota (ausente) deixou registrada a aprovação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:43:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco, com registro no item 17",
+     "ts": "0:42:24",
+     "confianca": "media",
+     "justificativa": "no item 17, com a revogação da autorização (item 16), há inadimplemento total do objeto do edital do Leilão 1/2019; aplicam-se as multas genéricas do item 16 do edital e não a previsão especial do item 11.9.6.3"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco",
+     "ts": "0:42:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:42:14",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "ata 2º circuito",
+   "ts": "0:43:51",
+   "processo": "48500.003979/2025-20; 48500.003985/2025-87",
+   "interessado": "EDP São Paulo; Neoenergia Brasília",
+   "assunto": "Retificação da ata do 2º circuito deliberativo (14/10/2025): recálculo da tarifa social (Lei 15.235/2025) nos reajustes da EDP São Paulo (16,78% para 16,35%) e Neoenergia Brasília (11,93% para 11,65%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "ata reaprovada com as retificações (por aclamação)",
+   "resumo_voto": "Inconsistência na rotina de cálculo da tarifa social exigiu recálculo; ata reaprovada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (submete e declara aprovada)",
+     "ts": "0:45:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova; apresenta as retificações",
+     "ts": "0:43:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova (aclamação)",
+     "ts": "0:45:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova (aclamação)",
+     "ts": "0:45:23",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:45:23",
+   "processo": "48500.003980/2025-54",
+   "interessado": "Equatorial Goiás (distribuidora)",
+   "assunto": "Reajuste tarifário anual da Equatorial Goiás a partir de 22/10/2025 (efeito médio 18,55%: AT 17,04%, BT 19,01%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator Willamy Frota ausente; voto lido por Gentil Nogueira. Homologa tarifas, TE/TUSD, receita de DIT exclusivas e repasse da CCEE para subsídios.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "lê o voto do relator, aprova",
+     "ts": "0:55:51",
+     "confianca": "media",
+     "justificativa": "voto do relator ausente; apresentação técnica cobriu os pontos"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:57:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6 (preliminar)",
+   "ts": "0:58:21",
+   "processo": "48500.006150/2018-50 (incerto)",
+   "interessado": "Enel Rio (Ampla Energia e Serviços)",
+   "assunto": "Incidente de impedimento do relator Fernando Mosna suscitado pela Enel Rio (denúncia à CGU e ação judicial contra o diretor) e pedido de retirada de pauta",
+   "tema": [
+    "institucional",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "incidente rejeitado por unanimidade (manifestamente incabível e intempestivo)",
+   "resumo_voto": "Mosna: ausência de litígio válido e preexistente (art. 7º, IV, Norma de Organização 1); fato superveniente criado pela concessionária (CPC art. 144 §2º); preclusão; Procuradoria concordou.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, rejeita o impedimento",
+     "ts": "1:01:08",
+     "confianca": "alta",
+     "justificativa": "engenharia contenciosa com desvio de finalidade; fato autoproduzido para afastar relator; risco à colegialidade"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:48:39",
+     "confianca": "media",
+     "justificativa": "tentativa de constranger relatores e diretores; voto em defesa da instituição e do colegiado"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:47:18",
+     "confianca": "media",
+     "justificativa": "precedente perigoso: qualquer inconformismo poderia afastar o relator; não conhecer do impedimento"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha, impedimento rejeitado",
+     "ts": "1:49:33",
+     "confianca": "media",
+     "justificativa": "movimentos inéditos para subjugar o colegiado com acusações infundadas"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:53:14",
+   "processo": "48500.006150/2018-50 (incerto; também citado 48500.009415/2025-32)",
+   "interessado": "Enel Rio (Ampla) e partes relacionadas Enel Brasil, Enel Finance International, Enel CIEN, Enel Trading",
+   "assunto": "Recurso administrativo da Enel Rio contra o Despacho SFF 1860/2024, que negou anuência prévia ao refinanciamento de mútuos intragrupo (aprox. R$ 5,8 bi); sustentação oral por vídeo de Hugo Lamim (Enel)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "contratos entre partes relacionadas"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "recurso negado por unanimidade; instaurar fiscalização pela SFF e enviar ofício à CVM",
+   "resumo_voto": "Endividamento incompatível com geração de caixa; comunicados ao mercado indicando vencimento em 2026 extrapolam a cautelar provisória; determina fiscalização sobre informações ao mercado, mútuos sem anuência e prazos; ofício à CVM.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento + fiscalização + ofício à CVM",
+     "ts": "2:53:47",
+     "confianca": "alta",
+     "justificativa": "comunicado ao mercado deu aparência de definitividade a autorização que dependia de deliberação; indícios justificam apuração"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "3:35:11",
+     "confianca": "baixa",
+     "justificativa": "debateu forma do envio à CVM e se cada mútuo exige anuência individual"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:35:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:35:11",
+     "confianca": "media",
+     "justificativa": "art. 27 da Lei Geral das Agências: basta indício para comunicar órgão competente"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:38:11",
+   "processo": "48500.007955/2025-58 (incerto)",
+   "interessado": "consumidores baixa renda; irrigantes e aquicultores",
+   "assunto": "Abertura de consulta pública (22/10 a 05/11/2025) para regulamentar a Lei 15.235/2025 (MP 1300): tarifa social, isenção da CDE para famílias elegíveis (programa Luz do Povo) e desconto de irrigação e aquicultura",
+   "tema": [
+    "regulação normativa",
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura CP com período de contribuição de 22/10 a 05/11/2025.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:38:11",
+     "confianca": "alta",
+     "justificativa": "regulamentar lei de conversão da MP 1300; parte depende de diretrizes do poder concedente"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "3:54:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:54:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:54:56",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:54:56",
+   "processo": "48500.002887/2024-41 (incerto)",
+   "interessado": "Porto de Sergipe (nome incerto na legenda: 'Porto 100'), UTE ~1.560 MW",
+   "assunto": "Recurso contra o Despacho STD 3250/2024 que indeferiu isenção de encargos rescisórios na descontratação/mudança de ponto de conexão (CUST); sustentação oral de Bruno César Crispim",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "outorgas de geração"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Gentil Nogueira",
+   "resumo_voto": "Relatora propôs conhecer e dar provimento parcial com atenuação dos encargos rescisórios (lacuna regulatória); Sandoval anunciou que revogará o efeito suspensivo e ponderou que o setor é planejado; vista concedida a Gentil.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, provimento parcial (atenuação)",
+     "ts": "4:00:00",
+     "confianca": "media",
+     "justificativa": "caso concreto permite atenuações; lacuna na REN 1001/2022 a ser tratada na agenda regulatória"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "4:50:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "sem voto (vista)",
+     "ts": "4:40:11",
+     "confianca": "baixa",
+     "justificativa": "manifestou ideia semelhante a pedido de vista"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "sem voto (vista); ponderações",
+     "ts": "4:40:19",
+     "confianca": "media",
+     "justificativa": "regra é dura, mas é a regra; usina grande não pode mudar de ponto livremente; retirará efeito suspensivo"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "6:00:04",
+   "processo": "48500.002880/2024-28; 48500.006500/2023 (incertos)",
+   "interessado": "distribuidoras e transmissoras; ABRADEE, Neoenergia, Energisa, Equatorial (sustentações orais)",
+   "assunto": "Resultado da CP 32/2024: resiliência da distribuição e transmissão a eventos climáticos extremos (Prodist módulos 1,4,6,8,11; Procedimentos de Rede 4 e 6; poda/plano de manejo, comunicação com consumidores e poderes públicos, compensações)",
+   "tema": [
+    "regulação normativa",
+    "qualidade do serviço",
+    "eventos climáticos extremos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova novas versões do Prodist, Procedimentos de Rede e várias REN. Sustentações: Ricardo Brandão (ABRADEE), César Muniz (Neoenergia), Rodrigo Santana (Energisa), Lázaro Serra Soares Filho (Equatorial, vídeo).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "7:04:22",
+     "confianca": "alta",
+     "justificativa": "mecanismos de melhoria da resposta a eventos climáticos extremos, com transparência ao poder público"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora, com comentários",
+     "ts": "7:36:59",
+     "confianca": "media",
+     "justificativa": "anseio da sociedade por manutenção das redes em eventos extremos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "7:55:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "7:55:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "7:56:54",
+   "processo": "48500.008476/2022-6 (incerto)",
+   "interessado": "Neoenergia, Itapebi, Petrobras e proponentes (sustentação de Tatsume Garach Júnior, Itapebi)",
+   "assunto": "Avaliação inicial das propostas da chamada de P&D estratégico 23 (hidrogênio no setor elétrico); voto-vista de Fernando Mosna",
+   "tema": [
+    "P&D",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria com o voto-vista de Fernando Mosna (voto assentado anterior de Ricardo Tili)",
+   "resumo_voto": "Aprova a avaliação inicial das 24 propostas (NT 396/2024) com alterações e autoriza início de projetos selecionados. Gentil Nogueira não vota (sucede diretor com voto já proferido).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: aprova com alterações",
+     "ts": "8:14:31",
+     "confianca": "media",
+     "justificativa": "mudança de percepção do mercado sobre hidrogênio; redução de escopo dos projetos"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista de Fernando Mosna",
+     "ts": "8:44:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "8:44:31",
+     "confianca": "alta",
+     "justificativa": "processo com muitos fatos novos desde dez/2024"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não vota (voto assentado de antecessor)",
+     "ts": "8:42:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "8:45:20",
+   "processo": "48500.007105/2019-01 (incerto)",
+   "interessado": "ONS",
+   "assunto": "Resultado da CP 44/2023: sandbox para serviço ancilar de suporte de reativos para controle de tensão (art. 33-A da REN 1030)",
+   "tema": [
+    "transmissão",
+    "regulação normativa",
+    "serviços ancilares"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria; vencido Sandoval Feitosa",
+   "resumo_voto": "Autoriza o ONS a contratar produtos alternativos de suporte de reativos em ambiente experimental.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "8:45:20",
+     "confianca": "alta",
+     "justificativa": "sandbox sem prejuízo da dinâmica de reforços e melhorias da transmissão"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "9:44:48",
+     "confianca": "baixa",
+     "justificativa": "planejador decide o que entra no POTEE"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "9:48:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge, vencido",
+     "ts": "9:48:29",
+     "confianca": "alta",
+     "justificativa": "premissa de não interferência com reforços não é correta: reforços foram vetados para a área Minas; dúvida sobre quem arca se não der certo; fará voto à parte"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "9",
+   "motivo": "retirado de pauta (sandbox de controle secundário de frequência/autorrestabelecimento)"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado a pedido do relator (relator não identificado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Números de processo transcritos pela legenda e incertos.",
+  "Nome da interessada do item 7 incerto ('Porto 100', provável Porto de Sergipe).",
+  "Votos dos seguidores no bloco e na ata têm atribuição de falante incerta.",
+  "Item 5: maioria inclui voto anterior de Ricardo Tili (não presente); sentido exato do voto vencido não identificado.",
+  "Itens de bloco não detalhados individualmente."
+ ]
+}

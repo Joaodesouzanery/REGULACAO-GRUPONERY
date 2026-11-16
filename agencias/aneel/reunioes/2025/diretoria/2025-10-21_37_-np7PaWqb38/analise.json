@@ -1,0 +1,75 @@
+{
+  "meta": {"video_id": "-np7PaWqb38", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "37", "data": "2025-10-21", "formato": "presencial (Parte 2 da 37ª Reunião Pública Ordinária)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 2 da sessão (tarde): itens 4, 5 e 3 da pauta; encerrada às 18h36 com 23 processos deliberados no total da reunião (segundo o DG).",
+      "Fernando Mosna não falou ao vivo: deixou votos registrados (acompanha a relatora nos itens 4 e 3; voto-vista no item 5 lido pelo DG).",
+      "Item 9 da pauta (sandbox de controle secundário de frequência e autorrestabelecimento) foi retirado de pauta, segundo menção da relatora.",
+      "Item 5 aprovado por maioria por haver voto assentado anterior (o DG cita o diretor Ricardo, ex-diretor Ricardo Tili); Gentil Nogueira não votou nesse processo.",
+      "Item 3 aprovado por maioria, com divergência do DG Sandoval Feitosa (vencido)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "4", "ts": "0:00:24",
+      "processo": "48500.002882/2024-28 e 48500.006650/2023-9 (números incertos, legenda)",
+      "interessado": "distribuidoras e transmissoras (Abradee, Neoenergia, Energisa, Equatorial em sustentação oral)",
+      "assunto": "Resultado da Consulta Pública 32/2024: aprimoramentos regulatórios para resiliência dos sistemas de distribuição e transmissão a eventos climáticos extremos; canal de comunicação dedicado a órgãos do poder público (Decreto 12.068/2024)",
+      "tema": ["regulação normativa (resolução, consulta pública)", "distribuição e qualidade (eventos climáticos extremos, planos de contingência)", "transmissão"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade: novas versões dos módulos 1, 4, 6, 8 e 11 do PRODIST, módulos 4 e 6 dos Procedimentos de Regras de Transmissão e alterações nas REN 846/2019, 905/2020, 948/2021, 956/2021 e 1000/2021",
+      "resumo_voto": "Cinco sustentações orais (Ricardo Brandão/Abradee, César Munz/Neoenergia, Rodrigo Santana/Energisa, Lázaro Serra Soares Filho/Equatorial por vídeo e uma primeira não identificada). Relatora apresenta mecanismos de resposta a eventos extremos (planos de contingência, compensações por DIC com multiplicador do DICRI, prazos em áreas não urbanas, plataforma Radar). DG elogia, mas lamenta que o enterramento de redes e tarifa diferenciada em áreas densas não tenham sido enfrentados.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:01:19", "justificativa": "Processo instruído por diversas superintendências com ampla escuta à sociedade; cria mecanismos de melhoria da resposta das distribuidoras e transmissoras a eventos climáticos extremos.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "1:37:22", "justificativa": "Parabeniza relatora e áreas; anseio da sociedade; desafio para as distribuidoras se adaptarem ao novo normativo.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (voto deixado registrado)", "ts": "1:56:03", "justificativa": "Voto registrado previamente, lido pelo DG.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:56:03", "justificativa": "Elogia o trabalho e a plataforma Radar; registra frustração por não se enfrentar o enterramento de redes e tarifa diferenciada para regiões densamente povoadas.", "tom": "elogioso com ressalva", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:57:17",
+      "processo": "48500.008476/2022-6 (incerto)",
+      "interessado": "proponentes da Chamada de PD&I Estratégico 23 (Petrobras, Eletrobras Furnas, Neoenergia Itapebi, Cemig, Parnaíba, Rio Paraná Energia)",
+      "assunto": "Avaliação inicial das propostas da Chamada de PD&I Estratégico 23 - hidrogênio no setor elétrico; voto-vista",
+      "tema": ["pesquisa e desenvolvimento (PD&I)", "hidrogênio", "regulação normativa"],
+      "relator": "Agnes da Costa (relatora original); voto-vista de Fernando Mosna, lido pelo DG",
+      "resultado": "aprovado por maioria (voto assentado anterior): avaliação inicial das 24 propostas nos termos da NT 396/2024-STE com as alterações da tabela 1 do voto-vista, reduzindo o uso de recursos de PD&I para cerca de R$ 200 milhões",
+      "resumo_voto": "Processo com vista do DG (dez/2024) e depois de Fernando Mosna. Voto-vista de Mosna reduz projetos (retira Itapebi/Neoenergia, Cemig, Furnas; mantém parte de Petrobras e Rio Paraná) por falta de clareza da proposta revisada da Neoenergia. Sustentação oral de Tatsume (nome incerto), Neoenergia Itapebi. Gentil não vota (voto anterior assentado); DG comenta que haveria fato novo para desconstituir o voto do diretor Ricardo, mas não haveria maioria.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: aprova com redução dos projetos (~R$ 200 milhões)", "ts": "1:58:07", "justificativa": "Novos números são bom ponto de equilíbrio entre incentivo ao hidrogênio de baixo carbono e uso racional e proporcional dos recursos de PD&I, em consonância com a modicidade tarifária; falta clareza na proposta revisada da Neoenergia.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista de Fernando Mosna", "ts": "2:37:44", "justificativa": "Redução de escopo é rotina das chamadas estratégicas; agentes mostram quais projetos são viáveis; projeto excluído pode seguir no rito normal de PD&I ou recorrer em 60 dias.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista de Fernando Mosna", "ts": "2:44:54", "justificativa": "Pediu vista antes para melhor convencimento; percepção do mercado sobre hidrogênio verde mudou; processo atual muito diferente do de dez/2024.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "não vota (voto anterior assentado de outro diretor)", "ts": "2:43:21", "justificativa": "Não vota no processo; comenta que pensa da mesma forma sobre a solução.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:45:43",
+      "processo": "48500.007105/2019-01 (incerto)",
+      "interessado": "ONS (sustentação oral de Andreia Maia Monteiro)",
+      "assunto": "Resultado da Consulta Pública 44/2023: sandbox (ambiente regulatório experimental) para o ONS contratar serviço ancilar de suporte de reativos para controle de tensão (art. 33-A da REN 1030/2022)",
+      "tema": ["serviços ancilares", "sandbox regulatório", "transmissão", "regulação normativa (consulta pública)", "CDE e encargos setoriais (ESS)"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por maioria: resolução autorizativa para o ONS contratar produtos alternativos de suporte de reativos em sandbox; determinação para avaliar em até 2 anos a inclusão das transmissoras; vencido o DG",
+      "resumo_voto": "Relatora propõe aprovar o sandbox conforme NT da SGM com opinativo do ONS. DG diverge: janela curta para amortizar investimentos, risco de imagem para a ANEEL (planejamento não é dela), custo integral ao consumo via ESS e interferência no modelo de autorizações (POT já previa reatores em Minas Gerais sem incentivo à antecipação). Gentil contrapõe que serviço ancilar de reativos pago via ESS existe desde 2003.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:46:21", "justificativa": "Sandbox previsto na agenda regulatória; sem prejuízo de reforços pelo POT; planejador decidiu esperar o teste; ONS reforçou prioridade do tema.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "3:42:53", "justificativa": "Prestação de suporte reativo via encargo de serviço de sistema já existe desde 2003; o sandbox é mais uma alternativa. Voto explícito não audível; inferido pelo resultado por maioria.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (voto deixado registrado)", "ts": "3:48:59", "justificativa": "Voto registrado previamente.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge (vencido)", "ts": "3:38:24", "justificativa": "Curta janela para amortizar investimentos; risco de a ANEEL ser responsabilizada por função do planejamento setorial; custo arcado só pelo consumo via ESS; interferência no modelo de autorizações (reatores em Minas Gerais já autorizados sem antecipação). Não pede vista para não parar o processo; registrará razões no voto.", "tom": "cético, mas cooperativo", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["Item 9 (sandbox para controle secundário de frequência e autorrestabelecimento integral), retirado de pauta segundo menção da relatora"],
+  "limites_da_analise": [
+    "Só a Parte 2 da 37ª RPO; itens da Parte 1 estão em outro vídeo.",
+    "Números de processo e nomes de expositores vêm da legenda automática e podem estar errados (ex.: Tatsume e Garach Júnior, César Munz).",
+    "Rótulos de falante no .md são inconsistentes (ex.: fala do técnico Paulo atribuída a Willamy Frota); Willamy Frota e Ludimila Lima não foram identificados votando nesta parte.",
+    "Item 4: o 'Eu acompanho a relatora' ao fim do comentário do DG pode ser de Gentil Nogueira; atribuição com confiança média.",
+    "Item 3: voto de Gentil Nogueira não audível; inferido.",
+    "Item 5: voto assentado do ex-diretor Ricardo Tili (citado como 'diretor Ricardo') conta para a maioria, sem registro nesta sessão."
+  ]
+}

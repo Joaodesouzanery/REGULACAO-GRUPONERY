@@ -1,0 +1,26 @@
+{
+  "meta": {"video_id": "dWod609SVjQ", "fonte": "legenda automática do YouTube; falantes inferidos; sessão começa ~0:40:33; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Extraordinária de 2026", "data": "2026-02-12", "formato": "presencial (transmitida no YouTube)",
+    "presidente_da_sessao": "não identificado (uma diretora, tratada por «senhora presidente»)",
+    "diretores_presentes": ["Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": ["Pauta com item único, publicada em 9/02/2026; uma sustentação oral (Sérgio Leverde Campos e Silva, pela UTE MC2).", "Procurador-Geral (chamado Eduardo) manifestou-se defendendo a leitura da ANEEL sobre o alcance da decisão judicial.", "Decisão unânime proclamada pela presidente da sessão; encerramento ~1:03:00."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:41:21",
+      "processo": "48500.002856/2026-52", "interessado": "UTE MC2 (complexo MC2, grupo Bertin Energia) e outras",
+      "assunto": "Cumprimento de decisão judicial transitada em julgado (ação 0017084-43.2014.4.01.3400, TRF1) que anulou o Despacho ANEEL 323/2014 (excludente de responsabilidade e novo cronograma; leilão ANEEL 3/2008)",
+      "tema": ["institucional/judicial", "fiscalização e sanções (revogação de outorga, auto de infração)", "outorgas de geração (térmica)", "comercialização (CCEE, CCEAR)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ratificar as REAs 5729 a 5734/2016 que revogaram as outorgas das UTEs do complexo MC2 e os autos de infração 4 a 9/2021 da SFG; ratificar a rescisão dos CCEAR do leilão 3/2008; determinar à CCEE recálculo das penalidades por atraso e rescisão conforme parâmetros da ANEEL e manutenção das demais consequências (desligamento, penalidades por insuficiência de lastro e não aporte de garantia). Sustentação oral de Sérgio Leverde Campos e Silva (UTE MC2) pedindo cumprimento integral da decisão, com retorno das outorgas e novo cronograma.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:54:31", "justificativa": "o acréscimo de 12 meses reconhecido judicialmente não altera a persistente inexecução dos empreendimentos; revogações e multas tinham fundamento autônomo, não só no Despacho 323; cumprimento da decisão não implica anulação automática dos atos punitivos", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (presidente da sessão)", "ts": "1:01:26", "justificativa": "agradece a diligência do relator; diz ser preciso dar cumprimento à decisão judicial", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda não registra a votação dos demais diretores (salto de ~1:00 a 1:01:26); unanimidade só pela proclamação; lista de presentes incompleta.", "Presidente da sessão é uma diretora não nomeada na legenda (possivelmente Agnes da Costa ou Ludimila Lima); não atribuída.", "Nome do relator lido como «Fernando Luiz Moon Ferreira da Silva» pela legenda; números de processo reconstruídos da legenda e podem conter erros."]
+}

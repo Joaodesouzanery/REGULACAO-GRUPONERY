@@ -1,0 +1,63 @@
+{
+  "meta": {"video_id": "GM_IqxLh6hQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "26ª Reunião Pública Ordinária de 2025", "data": "2025-07-23", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (presidente substituta; Diretor-Geral em férias)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Daniel (Danna)", "Ivo"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": ["Quórum de quatro diretores; Diretor-Geral Sandoval Feitosa ausente justificadamente (férias).", "Primeira reunião do diretor Ivo (boas-vindas dos colegas).", "Pauta com 47 itens; itens 5 a 47 em bloco; item 21 destacado para sustentação oral; retirados de pauta os itens 2, 4, 11, 14, 15, 16, 17, 18, 24 e 26.", "Ata da 25ª reunião aprovada.", "Informes: tomada de subsídios 11/2025 (agenda regulatória 2026/2027) e webinar sobre transição para DSO."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:25:30", "processo": "itens 5 a 47 (bloco)", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos disponibilizados previamente); com posições específicas nos itens 8, 10 e 25",
+      "tema": ["bloco de itens"], "relator": "diversos",
+      "resultado": "aprovado; posições divergentes nos itens 8 e 10 registradas em ata; item 25 sem decisão",
+      "resumo_voto": "Um diretor não vota no item 8 (voto já proferido pela antecessora); no item 10 há voto-vista da diretora Agnes; no item 25 voto-vista do diretor Daniel Danna, mas o item ficou sem deliberação.",
+      "votos": [
+        {"diretor": "Ivo", "voto": "aprova o bloco; não vota no item 8; mantém voto no item 10; acompanha a diretora Agnes no item 25", "ts": "0:25:35", "justificativa": "no item 8 houve voto proferido pela antecessora; menciona retirada do item 24 a pedido do representante do agente por problema de saúde", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco; mantém voto no item 8; acompanha voto-vista da diretora Agnes no item 10", "ts": "0:26:10", "confianca": "baixa"},
+        {"diretor": "Daniel (Danna)", "voto": "aprova o bloco; acompanha voto-vista do diretor Daniel Danna no item 25 (atribuição incerta)", "ts": "0:26:40", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco e mantém seus votos nos itens 8, 10 e 25", "ts": "0:27:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:27:34", "processo": "48500.009732/2025-09 (legenda: 485009732509)", "interessado": "MME / EPE / CCEE; empreendimentos hidrelétricos (PCH, CGH, UHE)",
+      "assunto": "Aprovação do edital do Leilão de Energia Nova A-5 de 2025 (Leilão 3/2025), exclusivo de fonte hidrelétrica até 50 MW, após Consulta Pública 12/2025; volta após retirada na 25ª reunião, com Portaria MME 113/2025 e MP 1304/2025",
+      "tema": ["leilões", "outorgas de geração (hidrelétrica, PCH)", "regulação normativa (consulta pública)", "tarifas (TUSD de referência)"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por maioria (vencido Fernando Mosna)",
+      "resumo_voto": "Aprova edital e anexos, início de suprimento em 1/1/2030, leilão em 22/08/2025, TUSD de referência; preços-teto da EPE/MME: CMR R$ 411/MWh; com outorga e contrato UHE R$ 221,55 e PCH/CGH R$ 316,50/MWh. Procuradoria (Eduardo Ramalho): sem necessidade de reabrir a CP.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:38:38", "justificativa": "Portaria MME 113/2025 superou a dúvida sobre fundamentação; alterações não afetam a margem discricionária da ANEEL e não exigem nova CP; escolha da fonte cabe ao MME, que já havia ido além dos 50% da lei", "confianca": "alta"},
+        {"diretor": "Daniel (Danna)", "voto": "acompanha a relatora", "ts": "1:02:17", "confianca": "baixa"},
+        {"diretor": "Ivo", "voto": "acompanha a relatora", "ts": "1:02:19", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "diverge, não aprova o edital (vencido)", "ts": "1:02:23", "justificativa": "leilão nasceu vinculado ao art. 21 da Lei 14.182 (revogado) e virou discricionário 100% PCH sem motivação do MME; cita art. 2º, I da Lei 10.848 (modicidade tarifária) e entrevista do ministro sobre competição entre fontes", "tom": "questionador, técnico-jurídico", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:03:22", "processo": "48500.007885/2022 (legenda)", "interessado": "Termelétrica Rio Grande S.A. (UTE Rio Grande, RS); seguradora Tokio Marine",
+      "assunto": "Recurso administrativo contra Despacho SFT 1087/2024 que aplicou multa (citada como R$ 235 milhões) por descumprimento do cronograma de implantação da UTE Rio Grande",
+      "tema": ["fiscalização e sanções (multa)", "recursos administrativos", "outorgas de geração (térmica)"],
+      "relator": "Fernando Mosna", "resultado": "retirado de pauta pelo relator após sustentação oral",
+      "resumo_voto": "Sustentação oral de Rafael Janiques (Termelétrica Rio Grande) alegando fato do príncipe e sentença judicial que anulou a revogação da outorga, pedindo retirada e reunião; Procuradoria opina pelo desprovimento. Relator retira de pauta para reunião com o agente e avaliar a judicialização (apelação no TRF e SLS).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, retira de pauta", "ts": "1:23:15", "justificativa": "entender contornos jurídicos da judicialização (sentença com recurso, SLS, julgamento iminente no TRF); observa que o agente nunca pediu reunião desde julho de 2024", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "21", "ts": "1:23:40", "processo": "48500.002945/2021 (legenda)", "interessado": "Maracanaú Geradora de Energia S.A. (UTE Maracanaú I, UG5)",
+      "assunto": "Recurso administrativo contra Despacho SFT 348/2024 que suspendeu a operação comercial da unidade geradora UG5 da UTE Maracanaú I",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (térmica)", "comercialização (CCEAR por disponibilidade)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: recurso conhecido e não provido",
+      "resumo_voto": "Sustentação oral de Caio Figueiredo Cavalcante (Maracanaú) sobre despacho muito acima do previsto e razoabilidade; Procuradoria: unidade indisponível e risco de acionamento assumido no CCEAR por disponibilidade.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "1:33:30", "justificativa": "fundamentos escorados na manifestação jurídica da Procuradoria", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:34:36", "confianca": "media"},
+        {"diretor": "Daniel (Danna)", "voto": "acompanha o relator", "ts": "1:34:38", "confianca": "baixa"},
+        {"diretor": "Ivo", "voto": "acompanha o relator", "ts": "1:34:40", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["2", "4", "11", "14", "15", "16", "17", "18", "24", "26", "3 (retirado na sessão pelo relator)"],
+  "limites_da_analise": ["Diretores 'Daniel' (Danna) e 'Ivo' citados na abertura não constam da lista do config da agência; registrados como ditos.", "Os falantes inferidos no cabeçalho (Sandoval, Ricardo Tili) não condizem com o texto: Sandoval estava ausente.", "Atribuição dos votos do bloco a cada diretor é inferida pela ordem e pelo conteúdo; baixa confiança.", "Ordem de quem acompanhou a relatora no item 1 e o relator no item 21 não identificável; ts aproximados.", "Números de processo e valores vêm da legenda automática e podem estar errados."]
+}

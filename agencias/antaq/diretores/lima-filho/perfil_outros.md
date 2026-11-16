@@ -1,11 +1,12 @@
 # Perfil analítico — Lima Filho · tema: outros
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 34 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 36 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 17 (65% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 8
-**Como relator:** 2/8 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 17 (65% dos votos em que não era relator) · relator 10 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 8
+**Como relator:** 2/10 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
+**Argumentos recorrentes nas justificativas registradas:** segurança viária (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -43,3 +44,5 @@
 - **RD 616 (2026-08-21)**, item extrapauta — Prorrogação por 60 dias da Consulta Pública 06/2026 (concessão do Sistema Aquaviário Integrado dos Portos do Sul e Lagoa Mirim — SAIP Sul Mi · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=17219s) · resultado: aprovado, sem divergência registrada
 - **RD 619 (2026-09-24)**, item 17 — Registro de instalação de apoio ao transporte aquaviário em Belém (abastecimento de embarcações, água, recebimento de resíduos), com diferim · voto: *relator, aprova* (relator, conf. alta) · «há contrato de locação, inscrição de ocupação e processo em curso na SPU; precedente admite diferimento» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8764s) · resultado: aprovado
 - **RD 619 (2026-09-24)**, item 29 — Consulta sobre uso de cábrea embarcada em balsa como equipamento auxiliar de içamento em instalação de apoio ao transporte aquaviário · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13667s) · resultado: aprovado: sem óbice ao uso exclusivo e pontual, efeito limitado ao cas
+- **RD 623 (2026-11-13)**, item 10 — Concessão do canal de acesso aquaviário do Porto de Itajaí (separada do arrendamento do terminal de contêineres) · voto: *retira de pauta (relator)* (relator, conf. alta) · «Pedido do MPor para restituir ao ministério; concessão de canal é projeto inovador e o poder concedente tem dúvidas.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=3390s) · resultado: retirado de pauta a pedido do relator (solicitação do MPor)
+- **RD 623 (2026-11-13)**, item 7 — Consulta sobre competência da ANTAQ para titularidade dominial e delimitação de imóveis na poligonal do porto organizado de Vitória · voto: *relator, aprova* (relator, conf. alta) · «Matéria dominial é de órgãos patrimoniais e registro imobiliário; alteração de poligonal cabe ao poder concedente.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5794s) · resultado: aprovado

@@ -1,0 +1,92 @@
+{
+  "meta": {"video_id": "7LRVRCVyf1g", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "16ª Reunião Pública Ordinária de 2025 (Parte 1)", "data": "2025-05-13", "formato": "presencial",
+    "presidente_da_sessao": "Agnes da Costa (substituindo o Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna", "Ludimila Lima"],
+    "ausentes": ["Sandoval Feitosa (ausência justificada, imersão institucional)"],
+    "observacoes": [
+      "Quórum de quatro diretores; ata da 15ª RPO aprovada.",
+      "Pauta com 43 itens; itens 14 a 43 em bloco (destacados 15, 16, 19, 23, 24 e 25; retirados 20 e 31). Bloco remanescente aprovado por unanimidade.",
+      "Ordem de deliberação: bloco, 5, 3 (pauta lida como 2/3), 7, 9, 10, 11, 12, 13, 8, 6, 1, 4, 15, 16, 19, 23, 24, 25. Esta parte 1 termina na pausa para almoço (retorno às 15h30) após o pedido de vista no item 4; itens 8, 6, 1, 15, 16, 19, 23, 24 e 25 ficam para a parte 2.",
+      "Pedidos de vista nos itens 3 (estatuto da CCEE), 7 (Light, RTE de perdas não técnicas) e 4 (máximo esforço em encargos rescisórios de CUST).",
+      "Itens 9 a 13 (grupo MEZ/MES 6 a 10): recomendação de caducidade ao MME aprovada por unanimidade.",
+      "Procurador-geral Eduardo Ramalho se despede antecipadamente de Ricardo Tili (fim de mandato próximo)."
+    ]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:05:50", "processo": "", "interessado": "diversos", "assunto": "Itens 14 a 43 em bloco (exceto destacados 15, 16, 19, 23, 24, 25 e retirados 20, 31)", "tema": ["institucional"], "relator": "diversos", "resultado": "aprovados por unanimidade", "resumo_voto": "Votos disponibilizados com a pauta; aprovação conjunta.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:06:20", "justificativa": "", "confianca": "media"},
+      {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:06:22", "justificativa": "", "confianca": "media"},
+      {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:06:24", "justificativa": "", "confianca": "media"},
+      {"diretor": "Ludimila Lima", "voto": "aprova o bloco", "ts": "0:06:25", "justificativa": "", "confianca": "media"}]},
+    {"id": "5", "ts": "0:06:39", "processo": "48500.00732?/2021 (número incerto na legenda)", "interessado": "Eletricidade da Amazônia Ltda. (Eletran); Energisa Mato Grosso (EMT)", "assunto": "Recurso administrativo contra o Despacho 2258/2022 da SRM que negou prorrogação/manutenção dos efeitos tarifários de contrato de compra e venda de energia com a EMT", "tema": ["recursos administrativos", "tarifas e revisão tarifária", "comercialização"], "relator": "Ricardo Tili", "resultado": "permanece empatado; sem três votos convergentes, sem resultado", "resumo_voto": "Processo iniciado na RPO de 6/5/2025 e empatado; nesta sessão um diretor declarou acompanhar o voto divergente e o processo segue empatado.",
+     "votos": [
+      {"diretor": "não identificado", "voto": "acompanha o voto divergente", "ts": "0:07:40", "justificativa": "Diretor que não votou na sessão anterior; empate mantido.", "confianca": "baixa"}]},
+    {"id": "2", "ts": "0:07:57", "processo": "48500.004029/2025-?", "interessado": "EDP Espírito Santo Distribuição de Energia S.A.", "assunto": "Abertura de consulta pública sobre a revisão tarifária periódica 2025 da EDP Espírito Santo (vigência a partir de 7/8/2025); efeito médio preliminar de cerca de 11,65%", "tema": ["tarifas e revisão tarifária", "regulação normativa"], "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade: CP de 14/5 a 27/6/2025 com audiência pública em 5/6/2025", "resumo_voto": "Apresentação técnica da STR (Ricardo Martins); procuradoria sem óbice; relatora vota por instaurar a consulta pública.",
+     "votos": [
+      {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "0:27:40", "justificativa": "Instaurar consulta pública para aprimorar a proposta de RTP 2025 da EDP ES.", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:28:32", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:28:34", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha a relatora (presidente proclama unanimidade)", "ts": "0:28:36", "justificativa": "", "confianca": "media"}]},
+    {"id": "3", "ts": "0:29:12", "processo": "48500.001002/2024-?? e 48500.001062/20??", "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE)", "assunto": "Homologação do novo Estatuto Social da CCEE (75ª AGE, 18/12/2024) decorrente do Decreto 11.835/2023", "tema": ["comercialização", "regulação normativa"], "relator": "Ricardo Tili", "resultado": "pedido de vista", "resumo_voto": "Relator vota por homologar integralmente o estatuto: as cinco incompatibilidades apontadas na 42ª RPO de 2024 foram sanadas; discorda do parecer 37 da procuradoria quanto à coisa julgada administrativa. Fernando Mosna aponta ilegalidade no art. 15, §4º (estatuto poderia dispor sobre distribuição de votos da Assembleia, matéria que o Decreto 5.177 reserva à Convenção de Comercialização) e questiona se há outras. Agnes da Costa considera o dispositivo letra morta mas esquisito.",
+     "votos": [
+      {"diretor": "Ricardo Tili", "voto": "relator, aprova (homologação integral)", "ts": "0:47:00", "justificativa": "Não há vício de legalidade; o art. 15 §4º seria letra morta, pois o estatuto não distribui votos; não há coisa julgada administrativa.", "confianca": "alta"},
+      {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "1:09:54", "justificativa": "Art. 15 §4º do estatuto seria patentemente ilegal (Lei 9.427 art. 3º XIV; Decretos 5.163 e 5.177 art. 8º §1º: número de votos é definido na Convenção); dúvida se há outras ilegalidades não vistas por SGM e procuradoria.", "tom": "crítico à instrução", "confianca": "media"},
+      {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:09:51", "justificativa": "Voto declarado antes do pedido de vista; falante não identificado (Agnes da Costa ou Ludimila Lima).", "confianca": "baixa"}]},
+    {"id": "7", "ts": "1:10:00", "processo": "48500.001526/2023-?", "interessado": "Light Serviços de Eletricidade S.A.", "assunto": "Pedido de reconsideração contra o Despacho 3309/2024 que negou revisão tarifária extraordinária (RTE) para alterar perdas não técnicas da RTP 2022", "tema": ["tarifas e revisão tarifária", "recursos administrativos", "distribuição e qualidade"], "relator": "Ricardo Tili", "resultado": "pedido de vista", "resumo_voto": "Sustentação oral de Alisson Rodrigues (Light). Relator vota por dar parcial provimento, acolher a RTE e alterar percentuais de perdas não técnicas desde 2022 (risco de mercado na revisão é do poder concedente; queda de ~26% do mercado BT; ajuste DMF/TOI; nível máximo de discricionariedade do Proret 2.6; glosas de todo o ciclo atendem às inequações do submódulo 2.9). Procurador Eduardo Ramalho registra posição divergente (preclusão). Ludimila Lima e Agnes da Costa sentem falta de análise de mérito da área técnica sobre as premissas.",
+     "votos": [
+      {"diretor": "Ricardo Tili", "voto": "relator, dá parcial provimento (acolhe RTE)", "ts": "1:55:00", "justificativa": "Risco de mercado é da distribuidora só intraciclo; na revisão o contrato não foi equilibrado; metodologia não capturou a queda do mercado de baixa tensão.", "confianca": "alta"},
+      {"diretor": "Ludimila Lima", "voto": "questiona premissas (sem voto registrado)", "ts": "2:00:30", "justificativa": "Faltou avaliação da área técnica sobre considerar 5 anos de glosas e sobre se o desequilíbrio é da concessão e não da gestão da concessionária.", "confianca": "media"},
+      {"diretor": "Agnes da Costa", "voto": "manifesta dúvidas (sem voto registrado)", "ts": "2:06:30", "justificativa": "Gostaria de opinião da área técnica nos autos; dúvidas sobre componentes anuais x 5 anos e sobre a retroatividade.", "confianca": "media"},
+      {"diretor": "não identificado", "voto": "pede vista", "ts": "2:09:25", "justificativa": "Falante não identificado na legenda.", "confianca": "baixa"}]},
+    {"id": "9", "ts": "2:09:30", "processo": "48500.003542/20??", "interessado": "MES 6 Energia (grupo MEZ/MES)", "assunto": "Termo de intimação 54/2024 (SFT): falhas no contrato de concessão 2/2021 (LT 345 kV Norte–Miguel Reale, SP); excludente de responsabilidade e proposta de solução; proposição de caducidade", "tema": ["fiscalização e sanções", "transmissão"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: nega excludente e proposta de solução; recomenda caducidade ao MME", "resumo_voto": "Apresentação técnica SFT/SCE (Humberto e Taciana Chaves) para os cinco processos MES 6 a 10: avanço físico zero, pedidos de excludente por COVID sem nexo causal, propostas de transferência de controle sem contrato vinculante (REN 1077/2023).",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova (caducidade)", "ts": "2:44:00", "justificativa": "Incapacidade da concessionária de cumprir o contrato ou apresentar plano de transferência de controle; empreendimento relevante para a região metropolitana de São Paulo.", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:47:30", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:47:32", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:47:34", "justificativa": "", "confianca": "baixa"}]},
+    {"id": "10", "ts": "2:48:30", "processo": "48500.003642/20??", "interessado": "MES 8 Energia", "assunto": "Termo de intimação 55/2024: contrato de concessão 6/2021 (LTs Norte–São Miguel–Ramon Reber, SE São Miguel); proposição de caducidade", "tema": ["fiscalização e sanções", "transmissão"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: recomenda caducidade ao MME", "resumo_voto": "Mesma fundamentação do item 9.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova (caducidade)", "ts": "2:49:00", "justificativa": "", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:49:40", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:49:42", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:49:44", "justificativa": "", "confianca": "baixa"}]},
+    {"id": "11", "ts": "2:50:30", "processo": "48500.002374/20?? e 48500.003807/20??", "interessado": "MES 9 Energia", "assunto": "Termo de intimação 51/2024 e excludente de responsabilidade: contrato 7/2021 (SE Iguatemi 2, MS); proposição de caducidade", "tema": ["fiscalização e sanções", "transmissão"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: recomenda caducidade ao MME", "resumo_voto": "Mesma fundamentação do item 9.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova (caducidade)", "ts": "2:51:10", "justificativa": "", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:51:45", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:51:47", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:51:49", "justificativa": "", "confianca": "baixa"}]},
+    {"id": "12", "ts": "2:52:14", "processo": "48500.003380/2024-? e 48500.003809/20??", "interessado": "MES 7 Energia", "assunto": "Termo de intimação 53/2024 e excludente: contrato 13/2021 (SE Cuiabá Norte, MT); proposição de caducidade", "tema": ["fiscalização e sanções", "transmissão"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: recomenda caducidade ao MME", "resumo_voto": "Mesma fundamentação do item 9.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova (caducidade)", "ts": "2:53:00", "justificativa": "", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:53:36", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:53:38", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:53:40", "justificativa": "", "confianca": "baixa"}]},
+    {"id": "13", "ts": "2:54:07", "processo": "48500.003512/20?? e 48500.003808/20??", "interessado": "MES 10 Energia", "assunto": "Termo de intimação 52/2024 e excludente: contrato 15/2021 (SE Dom Pedro I, SP); proposição de caducidade", "tema": ["fiscalização e sanções", "transmissão"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: recomenda caducidade ao MME", "resumo_voto": "Mesma fundamentação do item 9.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova (caducidade)", "ts": "2:55:00", "justificativa": "", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:55:33", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:55:35", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:55:37", "justificativa": "", "confianca": "baixa"}]},
+    {"id": "4", "ts": "2:56:05", "processo": "48500.000249/2023-21", "interessado": "transmissoras (Abrate, ABDIB); ONS", "assunto": "Resultado da CP 5/2025: metodologia de análise do máximo esforço das transmissoras na cobrança de encargos rescisórios de CUST (corrida do ouro, cerca de R$ 1 bilhão inadimplido)", "tema": ["transmissão", "regulação normativa", "CDE e encargos setoriais"], "relator": "Fernando Mosna", "resultado": "pedido de vista", "resumo_voto": "Sustentações orais de Rafael Janiques (Abrate) e Caio Figueiredo Cavalcante (ABDIB) contra o desconto imediato na RAP e contra exigir decisão transitada em julgado. Relator acompanha integralmente a STD (apresentação de Frazão): aprova REN em que o valor sai da RAP e retorna se comprovado o máximo esforço; ONS como representante universal dos credores; revisa posição anterior sobre enriquecimento sem causa.",
+     "votos": [
+      {"diretor": "Fernando Mosna", "voto": "relator, aprova (REN conforme minuta)", "ts": "3:43:00", "justificativa": "Exigir decisão de mérito favorável não é obrigação impossível, é condição; máximo esforço é obrigação de resultado; manter o valor na RAP tiraria a urgência da cobrança.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "manifesta dúvidas", "ts": "3:45:00", "justificativa": "Dúvida sobre medir o máximo esforço pelo trânsito em julgado e sobre critérios abertos (paralelo com a CP 13); analogia com o máximo esforço das distribuidoras na sobrecontratação.", "confianca": "media"},
+      {"diretor": "Ludimila Lima", "voto": "manifesta dúvidas", "ts": "3:55:00", "justificativa": "Dependência dos trâmites do Judiciário; questiona a ordem de retirar o encargo da receita antes da apuração do máximo esforço.", "confianca": "baixa"},
+      {"diretor": "Ricardo Tili", "voto": "comenta, tende a concordar com o relator", "ts": "4:00:00", "justificativa": "Protocolar petição é o mínimo; exigir diligência até decisão transitada é justo.", "confianca": "baixa"},
+      {"diretor": "não identificado", "voto": "pede vista", "ts": "4:06:36", "justificativa": "Como eu ainda tenho dúvidas, eu vou pedir vista (Agnes da Costa ou Ludimila Lima).", "confianca": "baixa"}]}
+  ],
+  "retirados": ["20", "31"],
+  "limites_da_analise": [
+    "Vídeo é a Parte 1 da 16ª RPO de 2025; itens 8, 6, 1, 15, 16, 19, 23, 24 e 25 foram deliberados depois do almoço (outro vídeo).",
+    "O .md tem só um marcador de tempo; ts obtidos do JSON da legenda e aproximados para seguidores.",
+    "Autores dos pedidos de vista nos itens 7 e 4 e do voto 'acompanho' no item 3 não identificáveis pela legenda (prováveis Agnes da Costa ou Ludimila Lima); vista do item 3 atribuída a Fernando Mosna por ser quem levantou a ilegalidade (confiança media).",
+    "Item 5 (Eletran): diretor que acompanhou o voto divergente não identificado; número do processo incerto.",
+    "Números de processos com dígitos ilegíveis na legenda automática (marcados com ?).",
+    "Nomes de servidores e advogados (Ricardo Martins, Humberto, Taciana Chaves, Frazão, Alisson Rodrigues, Rafael Janiques, Caio Figueiredo Cavalcante) conforme a legenda.",
+    "Ordem dos votos dos seguidores nos itens 9 a 13 inferida; os três votos são de Tili, Mosna e Ludimila em ordem não confirmada."
+  ]
+}

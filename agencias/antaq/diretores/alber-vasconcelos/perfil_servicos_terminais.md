@@ -1,11 +1,11 @@
 # Perfil analítico — Alber Vasconcelos · tema: servicos_terminais
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 134 votos neste tema; 12 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 136 votos neste tema; 12 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 114 (93% dos votos em que não era relator) · relator 12 · vista pedida 1 · voto-vista divergente 4 · vencido 0 · outros/não captado 3
+**Votos:** acompanha o relator 116 (93% dos votos em que não era relator) · relator 12 · vista pedida 1 · voto-vista divergente 4 · vencido 0 · outros/não captado 3
 **Como relator:** 7/12 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (5); usuário (3); evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** técnico, detalhado | enfático
 
@@ -145,3 +145,5 @@
 - **RD 614 (2026-08-20)**, item 30 — Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 · voto: *diverge: mantém a cautelar e a instrução de mérito* (outro, conf. alta) · «não há prejuízo em manter a cautelar enquanto a SRG faz a análise exauriente» · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10454s) · resultado: vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber
 - **RD 614 (2026-08-20)**, item 31 — Manual de fiscalização da Res. 112/2024 (matriz de responsabilidade por armazenagem adicional), em cumprimento ao item 5.3.3 do Acórdão 94/2 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10990s) · resultado: aprovado (sem divergência registrada)
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *relator, aprova* (relator, conf. alta) · «CLIA em zona secundária não é instalação portuária; ausente a fumaça do bom direito e, por consequência, o perigo da demora» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3301s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7453s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

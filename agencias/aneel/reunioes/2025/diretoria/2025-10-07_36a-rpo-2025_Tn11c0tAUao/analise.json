@@ -1,0 +1,622 @@
+{
+ "meta": {
+  "video_id": "Tn11c0tAUao",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "36ª RPO 2025",
+  "data": "2025-10-07",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota"
+  ],
+  "ausentes": [
+   "Fernando Mosna (férias)"
+  ],
+  "observacoes": [
+   "Primeira reunião após o circuito deliberativo (Res. 1133); pauta com 50 itens, 4 a 50 em bloco.",
+   "Destacados 4,5,6,7,8,13,16,23,27,30,31; retirados 3,10,11,29,32.",
+   "Pedidos de vista: item 4 (Gentil, vista coletiva de 60 dias), item 7 (provavelmente Sandoval), item 31 (Sandoval), item 5 (Gentil).",
+   "Intervalo para almoço entre ~3:21 e 5:20; encerrada às 16h."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:40:26",
+   "processo": "itens 4 a 50 da pauta (bloco), exceto destacados e retirados",
+   "interessado": "diversos",
+   "assunto": "Julgamento em bloco dos itens com votos e atos disponibilizados previamente (circuito deliberativo); destacados 4, 5, 6, 7, 8, 13, 16, 23, 27, 30 e 31",
+   "tema": [
+    "institucional/circuito deliberativo"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados; um diretor recém-empossado ressalvou que não vota os itens 4 e 27 (votos já proferidos por antecessores).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:40:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova, com exceção dos itens 4 e 27",
+     "ts": "0:40:44",
+     "confianca": "baixa",
+     "justificativa": "votos desses itens já foram apresentados pelos antecessores que ocupavam a cadeira"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:41:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova e proclama a aprovação por unanimidade",
+     "ts": "0:41:16",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:42:34",
+   "processo": "48500.0732..(número parcial na legenda)",
+   "interessado": "geradores de fontes incentivadas; sustentação oral de Vitória (ABEEólica e Absolar)",
+   "assunto": "Resultado da Consulta Pública 13/2024: regulamentação do desconto de no mínimo 50% na TUST/TUSD para fontes incentivadas (individualização de empreendimentos/complexos até 300 MW), em cumprimento aos Acórdãos TCU 2353/2023, 129/2024 e 955/2024",
+   "tema": [
+    "tarifas (TUST/TUSD, descontos)",
+    "regulação normativa (resolução, consulta pública)",
+    "institucional/TCU",
+    "outorgas de geração (eólica, solar)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (emissão de resolução normativa)",
+   "resumo_voto": "Aprova resolução normativa com novos critérios de individualização para desconto; preserva outorgas já expedidas (segurança jurídica); ~325 outorgas requeridas no prazo da Lei 14.120.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:15:56",
+     "confianca": "alta",
+     "justificativa": "cumprir determinação do TCU, aplicar desconto conforme finalidade da lei, preservando segurança jurídica das outorgas já expedidas"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:20:04",
+     "confianca": "media",
+     "justificativa": "processo complexo de 2 a 3 anos; solução atende o futuro e preserva segurança jurídica dos já outorgados"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:20:49",
+     "confianca": "media",
+     "justificativa": "parabeniza o trabalho; acompanha a nobre relatora"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:24:49",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:24:49",
+   "processo": "48500.0015..(número parcial na legenda)",
+   "interessado": "leilões de energia existente; sustentação oral de Rafael Freitas Machado (Comitê Brasileiro de Arbitragem - CBAr)",
+   "assunto": "Aprovação dos editais dos Leilões 5, 6 e 7/2025-ANEEL (energia existente A-1, A-2 e A-3 de 2025), após Consulta Pública 25/2025; cláusula de arbitragem contestada pelo CBAr",
+   "tema": [
+    "leilões (geração)",
+    "comercialização (CCEE, contratos)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital e anexos; determina à CCEE proposta de regras sobre garantias financeiras (subcláusula 5.6 do CCAR) em 15 dias; preços-teto informados pelo MME; sessão prevista para 14/11/2025.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:49:58",
+     "confianca": "alta",
+     "justificativa": "acompanha integralmente as áreas técnicas; Procuradoria pelo prosseguimento do certame"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "1:51:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "1:51:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:51:34",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:52:14",
+   "processo": "48500.008787/2022",
+   "interessado": "Energisa Mato Grosso do Sul (sustentação oral de Fabrício Ferreira Neves)",
+   "assunto": "Enquadramento da distribuidora como beneficiária da CCC para custos de atendimento (sistemas individuais) no Pantanal Sul-Mato-Grossense; relator original Hélvio Guerra, voto-vista Agnes da Costa",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "sistemas isolados",
+    "distribuição"
+   ],
+   "relator": "Hélvio Guerra (voto-vista: Agnes da Costa)",
+   "resultado": "pedido de vista (coletiva, 60 dias) de Gentil Nogueira; não deliberado",
+   "resumo_voto": "Voto-vista de Agnes acompanha integralmente o voto condutor de Hélvio Guerra: negar o reembolso via CCC; Procuradoria reitera interpretação restritiva (não aplicar o Decreto 11.628). Gentil pede vista, primeira 'vista da vista' sob a Res. 1133.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: acompanha integralmente o voto condutor (nega provimento)",
+     "ts": "2:02:03",
+     "confianca": "alta",
+     "justificativa": "pedidos de informação à empresa não supriram as lacunas; interpretação restritiva da CCC"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "comenta; sensível à semelhança com regiões isoladas, sugere buscar solução entre custo operacional e CCC",
+     "ts": "2:07:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "comenta; cada caso de sistema isolado é diferente",
+     "ts": "2:09:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "2:10:46",
+     "confianca": "alta",
+     "justificativa": "estudar o caso por 60 dias; vista coletiva prevista no § 9º do art. 53 da Res. 1133"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:13:20",
+   "processo": "48500.0019..(número parcial na legenda)",
+   "interessado": "Energética Suape II S.A. (sustentação oral de Alexandre Ortigão Sampaio Boarque)",
+   "assunto": "Recurso contra o Despacho 1/2025 da ARPE (agência de Pernambuco): multa de R$ 4.906.885,27 por descumprimento do art. 12, V, da REN 846/2019 (frustração de despacho de térmica)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista; não concluído",
+   "resumo_voto": "Relatora nega provimento e mantém a multa (137 desligamentos em 5 meses de 2023). Diretor pede vista e solicitará parecer da Procuradoria (que não fora instada).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, nega provimento",
+     "ts": "2:23:36",
+     "confianca": "alta",
+     "justificativa": "desempenho operacional deficiente: 137 desligamentos, 111 automáticos/emergência"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:28:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:28:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "2:28:51",
+     "confianca": "media",
+     "justificativa": "processos sancionatórios deveriam ter parecer da Procuradoria para evitar litigância judicial; pedirá manifestação da Procuradoria"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:29:53",
+   "processo": "48500.0937..(número parcial na legenda)",
+   "interessado": "Sul Transmissora de Energia (sustentação oral de Thiago Sandoval Furtado)",
+   "assunto": "Recurso contra os Despachos 3094 e 3095/2024 (SFT e SCE) que indeferiram receita de instalações de transmissão; alegação de nulidade por vício de instrução (processo cautelar desmembrado)",
+   "tema": [
+    "transmissão (RAP)",
+    "recursos administrativos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Não houve cerceamento de defesa; processos de cautelar e mérito tramitaram em vias separadas no sistema antigo (SICnet); sugere aprimorar tramitação conjunta. Procurador sugerira, por prudência, reabrir prazo.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, nega provimento",
+     "ts": "2:46:58",
+     "confianca": "alta",
+     "justificativa": "sem cerceamento de defesa; recurso restrito a questões de forma"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:56:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:56:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "2:56:49",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:57:10",
+   "processo": "48500.008166/2025-26",
+   "interessado": "Brasnorte Transmissora de Energia (sustentação oral de Gabriel Oliveira Cota)",
+   "assunto": "Recurso contra o Despacho 1622/2025 (STD) que manteve PVI por desligamento automático alegadamente causado por terceiro (caso fortuito)",
+   "tema": [
+    "transmissão (PVI)",
+    "recursos administrativos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Risco deve ser alocado a quem tem mais capacidade de geri-lo; transferir ao consumidor gera incentivo ruim. Sandoval lembra precedente do 'balão tripulável' do qual foi relator.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, nega provimento",
+     "ts": "3:09:31",
+     "confianca": "alta",
+     "justificativa": "risco alocado a quem tem mais capacidade de geri-lo; não transferir ao consumidor"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "3:17:41",
+     "confianca": "baixa",
+     "justificativa": "concorda integralmente; matéria exaustivamente debatida"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:20:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "3:20:56",
+     "confianca": "alta",
+     "justificativa": "precedente do balão tripulável não é dissonante"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "5:20:51",
+   "processo": "48500.003647/2025-45",
+   "interessado": "Energisa Tocantins (ETO)",
+   "assunto": "Pedido de reconsideração da REH 3479/2025 (revisão tarifária periódica 2025 da ETO)",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Acatar o pleito seria excepcionalidade à regra vigente; tema na agenda regulatória (consulta pública prevista para início de 2026).",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento",
+     "ts": "5:22:06",
+     "confianca": "alta",
+     "justificativa": "acatar o pleito seria excepcionalidade; regra será revista na agenda regulatória"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "5:30:47",
+     "confianca": "media",
+     "justificativa": "reforça que o tema está na agenda regulatória para 2026; risco de se tornar recorrente"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "5:32:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "5:32:14",
+     "confianca": "media",
+     "justificativa": "não se antecipa revisão de custos, nem para cima nem para baixo; vale o banco vigente"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "5:32:40",
+   "processo": "48500.002653/2024-02",
+   "interessado": "ETEPA - Empresa de Transmissão de Energia do Pará (sustentação de Bruna de Barros Correia); Mineração Paragominas (sustentação de Rodolfo Zaman Danilou)",
+   "assunto": "Medida cautelar para manter efeitos do Despacho 654/2025 por mais 120 dias e preservar a RAP (seccionamento de linha; invasão/derrubada de torre)",
+   "tema": [
+    "transmissão (RAP)",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "pedido de vista de Sandoval Feitosa; não concluído",
+   "resumo_voto": "Relator nega a cautelar. Gentil acompanha: cautelar não é o remédio adequado. Sandoval pede vista e promete proposta em cerca de 15-20 dias, recomendando acordo entre as partes.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento",
+     "ts": "5:53:20",
+     "confianca": "alta",
+     "justificativa": "medida cautelar não se justifica"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "5:55:29",
+     "confianca": "media",
+     "justificativa": "cautelar não é o remédio adequado; eventual reequilíbrio seria outra via"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:00:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "6:00:02",
+     "confianca": "media",
+     "justificativa": "busca solução útil entre as partes; trará proposta de encaminhamento em cerca de 20 dias"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "6:00:02",
+   "processo": "48500.004912/2022-77",
+   "interessado": "Gralha Azul Transmissão de Energia (sustentação oral de Valéria Rosa)",
+   "assunto": "Pedido de reconsideração do Despacho 3525/2024 que indeferiu reequilíbrio econômico-financeiro do contrato de concessão 1/2018",
+   "tema": [
+    "transmissão (concessão, reequilíbrio)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Prazo limite contratual não foi descumprido; sem evidência de que aumento de custos decorra de fato não alocado ao empreendedor; frustração da expectativa de antecipação.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, nega provimento",
+     "ts": "6:17:36",
+     "confianca": "alta",
+     "justificativa": "prazo contratual não descumprido; custos sem evidência de causa externa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "6:20:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "6:20:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "6:18:54",
+     "confianca": "alta",
+     "justificativa": "matéria pacificada; ANEEL não regula por custo nem analisa planilhas privadas; data do contrato não foi violada"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "6:21:12",
+   "processo": "48500.005850/2021-22 e outros",
+   "interessado": "MEZ 1 a MEZ 9 Energia (grupo MEZ Energia) (sustentação por vídeo de Ana Beatriz Dias Souza)",
+   "assunto": "Recursos contra Autos de Infração 1 a 8/2025 (SFF): multas por transferência de controle societário sem anuência prévia",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Gentil Nogueira; não concluído",
+   "resumo_voto": "Relatora nega provimento e mantém multas. Procuradoria tem leitura divergente da SFF e defende clarear a norma. Gentil pede vista para resolver o impasse.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, nega provimento",
+     "ts": "6:38:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "6:43:42",
+     "confianca": "alta",
+     "justificativa": "divergência com a Procuradoria dificulta sustentar processo sancionador na Justiça; quer resolver o impasse"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "comenta; apoia instrução com parecer da Procuradoria",
+     "ts": "6:41:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "6:43:43",
+   "processo": "48500.0016..(número parcial na legenda)",
+   "interessado": "CEA Equatorial - Companhia de Eletricidade do Amapá (sustentação por vídeo de Gustavo Hugo Ramos Tavares)",
+   "assunto": "Recurso contra o Auto de Infração 27/2024 (SFT): multa por descontinuidade de fornecimento (incêndio em subestação, apagão no Amapá); falhas na proteção e plano de contingência",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento; multa de R$ 8.343.521,97)",
+   "resumo_voto": "Mantém as duas não conformidades e a dosimetria.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, nega provimento",
+     "ts": "6:55:09",
+     "confianca": "alta",
+     "justificativa": "mantém as não conformidades (proteção da subestação e plano de contingência)"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "7:01:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "7:01:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "7:01:23",
+     "confianca": "alta",
+     "justificativa": "parabeniza a fiscalização pela conclusão diligente"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "7:03:07",
+   "processo": "48500.0020..(número parcial na legenda)",
+   "interessado": "Termopernambuco S.A. (Neoenergia) (sustentação por vídeo de Jéssica da Silva Souza)",
+   "assunto": "Recurso contra decisão da ARPE que manteve multa do Auto de Infração 3/2024 (frustração de despacho de térmica, art. 12, V, REN 846/2019)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Mantém integralmente a multa; Gentil destaca testes reais de despacho da SFT (9 de 9 térmicas sem problemas).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, nega provimento",
+     "ts": "7:14:13",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:16:46",
+     "confianca": "baixa",
+     "justificativa": "reconhece o trabalho da SFT com testes de despacho de térmicas"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "7:21:07",
+     "confianca": "media",
+     "justificativa": "amostra de testes é pequena frente à dimensão do parque"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "7:23:06",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pela Secretaria-Geral)",
+   "ts": "0:40:00"
+  },
+  {
+   "item": "10",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pela Secretaria-Geral)",
+   "ts": "0:40:00"
+  },
+  {
+   "item": "11",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pela Secretaria-Geral)",
+   "ts": "0:40:00"
+  },
+  {
+   "item": "29",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pela Secretaria-Geral)",
+   "ts": "0:40:00"
+  },
+  {
+   "item": "32",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pela Secretaria-Geral)",
+   "ts": "0:40:00"
+  },
+  {
+   "item": "27 — pedido de reconsideração da CSN contra o Despacho 110/2025 (recontabilização CCEE)",
+   "relator": "Ludimila Lima (voto-vista: Sandoval Feitosa)",
+   "motivo": "retirado a pedido do Diretor-Geral; volta no limite do prazo do voto-vista",
+   "ts": "7:23:49"
+  }
+ ],
+ "limites_da_analise": [
+  "Rótulos de falante da legenda são inconsistentes (ex.: fala do presidente rotulada como Willamy Frota); identificação de quem 'acompanha' foi inferida pela ordem, muitos marcados 'não identificado'.",
+  "Números de processo parciais/distorcidos na legenda.",
+  "Item 7: atribuição da vista a Sandoval Feitosa inferida pelo conteúdo (defesa de parecer da Procuradoria em processos sancionatórios).",
+  "Hélvio Guerra e Ludimila Lima aparecem apenas como relatores de votos já proferidos (itens 4 e 27); não estavam presentes.",
+  "Bloco: diretor que ressalvou não votar itens 4 e 27 (sucessor nas cadeiras) não identificado com segurança.",
+  "Ordem dita: item 1 (leilões) deliberado após o item 2."
+ ]
+}

@@ -1,0 +1,469 @@
+{
+ "meta": {
+  "video_id": "4StXGD76ubw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:20:48); ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária de 2025",
+  "data": "2025-04-02",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (substituindo o Diretor-Geral)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Ludimila Lima"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (compromisso institucional)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores; ata da 9ª RPO aprovada.",
+   "Pauta com 55 itens; itens 2, 6, 10 e 15 retirados; item 19 destacado do bloco; sustentações orais nos itens 9 e 19.",
+   "Item 9 (prorrogação EDP ES) teve pedido de vista; item 7 teve prorrogação de vista.",
+   "Item 8: relatora Agnes incorporou o voto-vista de Mosna (prazo até 1/5/2026)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:28:28",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (pauta de 55 itens; votos disponibilizados previamente); item 19 destacado",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado pelos quatro diretores presentes.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:28:30",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:28:30",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco",
+     "ts": "0:28:30",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:28:30",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "7",
+   "ts": "0:28:42",
+   "processo": "48500.004104/2023-35 (número incerto na legenda)",
+   "interessado": "Sol Maior Geradora de Energia S.A.",
+   "assunto": "Pedido de reconsideração contra despacho que aplicou multa prevista no edital do Leilão 8/2015; voto-vista de Agnes da Costa",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "leilões",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "prorrogado o prazo de vista (sem deliberação de mérito)",
+   "resumo_voto": "Agnes da Costa (voto-vista) não concluiu o voto e pediu prorrogação da vista; demais aprovaram.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede prorrogação de vista",
+     "ts": "0:29:00",
+     "justificativa": "Não concluiu o voto diante de outros problemas mais urgentes; trará assim que possível.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova a prorrogação",
+     "ts": "0:29:30",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova a prorrogação",
+     "ts": "0:29:30",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova a prorrogação",
+     "ts": "0:29:30",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": false
+  },
+  {
+   "id": "9",
+   "ts": "0:29:35",
+   "processo": "48500.007421/2025-13",
+   "interessado": "EDP Espírito Santo Distribuição de Energia S.A.; sustentações orais: Luís Felipe Falcone (EDP ES) e Fabíola Latino Antesana (CNU)",
+   "assunto": "Cumprimento dos critérios para prorrogação do contrato de concessão de distribuição 1/1995 (Decreto 12.068/2024, Lei 9.074/1995); recomendação ao MME e minuta do 5º termo aditivo",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "qualidade (DEC/FEC)",
+    "gestão econômico-financeira"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "pedido de vista (sem deliberação)",
+   "resumo_voto": "Relatora votou por recomendar ao MME a prorrogação da concessão (EDP cumpriu continuidade DEC/FEC 2020-2024 e gestão econômico-financeira, documentos de regularidade); primeira das 19 distribuidoras com pedido. Após manifestação de Agnes, um diretor pediu vista, concedida.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relator, aprova (recomendar prorrogação)",
+     "ts": "0:56:30",
+     "justificativa": "EDP cumpriu critérios de continuidade e gestão econômico-financeira do Decreto 12.068 e comprovou regularidade; instrução feita em menos de 30 dias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "concede vista",
+     "ts": "0:58:55",
+     "justificativa": "Elogiou equipes; marco do ciclo de prorrogações; contribuições dos trabalhadores incorporadas ao contrato.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista (atribuição incerta)",
+     "ts": "0:58:52",
+     "justificativa": "'Levando em conta que a gente tá adiantado, eu vou pedir vista' - falante não identificado (Tili ou Mosna).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "concede vista (atribuição incerta)",
+     "ts": "0:58:55",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ],
+   "unanime": false
+  },
+  {
+   "id": "19",
+   "ts": "0:59:02",
+   "processo": "48500.001965/2024-64 (número incerto)",
+   "interessado": "Novo Estado Transmissora de Energia S.A.; sustentação oral: Valéria de Souza Rosa",
+   "assunto": "Pedido de reconsideração contra Despacho 2.993/2024 que negou reequilíbrio econômico-financeiro do contrato de concessão 3/2018 por extracustos da pandemia (EPCistas)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "reequilíbrio econômico-financeiro"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (conhecer e negar provimento)",
+   "resumo_voto": "Relator adotou entendimento consolidado e a fala do procurador: ausência de nexo causal; transmissora tinha mecanismos para se proteger da variação de custos; risco não pode ir ao consumidor.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:14:20",
+     "justificativa": "Entendimento já consolidado na ANEEL; endossa integralmente a manifestação do procurador-geral.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:14:42",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:14:42",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:14:42",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "1",
+   "ts": "1:14:50",
+   "processo": "48500.007344/2025-00 (número incerto)",
+   "interessado": "Secretaria de Leilões/SCE; MME/EPE",
+   "assunto": "Abertura de consulta pública (4/4 a 19/5/2025) sobre edital do Leilão de Transmissão 4/2025 (11 lotes; alguns dependentes de caducidade de contratos da M6/MEZ)",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão",
+    "regulação normativa (consulta pública)",
+    "caducidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar CP por intercâmbio documental por 46 dias; lotes vinculados a possíveis caducidades serão retirados se a caducidade não for emitida até a publicação do edital.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:28:30",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:33:27",
+     "justificativa": "Pediu esclarecimento sobre a situação das caducidades e alertou para o cronograma, que depende do MME; obras relicitadas importantes para a carga (falante inferido).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:33:29",
+     "justificativa": "Relatora das caducidades: recebeu proposta de troca de controle como alternativa e está finalizando a análise; prazo do edital já no radar.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:33:29",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "3",
+   "ts": "1:33:55",
+   "processo": "48500.003647/2025-45",
+   "interessado": "Energisa Tocantins Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública (2/4 a 16/5/2025, com audiência) sobre a revisão tarifária periódica de 2025 da Energisa Tocantins (efeito médio preliminar 9,40%)",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar CP; efeito médio preliminar de 9,4% (CDE, parcela B, base de remuneração).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relator, aprova",
+     "ts": "1:44:30",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "1:47:04",
+     "justificativa": "Registrou que o efeito está acima do aprovado recentemente; distribuidoras do Norte com baixa densidade e custo de distribuição de 37% exigem cuidado para não ampliar distorção tarifária regional (falante inferido; legenda diz 'diretor Gil').",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:47:07",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "1:47:10",
+     "justificativa": "Concordou; novo contrato pode trazer soluções regulatórias diferenciadas.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "4",
+   "ts": "1:47:37",
+   "processo": "48500.003805/2024-86",
+   "interessado": "Transmissoras desverticalizadas (Afluente T, Light, Evrecy)",
+   "assunto": "Abertura de consulta pública (3/4 a 19/5/2025) sobre revisão periódica da RAP de 2025 das transmissoras desverticalizadas (Lei 10.848/2004)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resultado preliminar: +2,8% (base blindada) e +4,6% total; última revisão desses contratos.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relator, aprova",
+     "ts": "2:01:01",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "2:01:27",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:01:27",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "2:01:27",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "5",
+   "ts": "2:01:52",
+   "processo": "48500.003804/2024-31",
+   "interessado": "30 transmissoras licitadas",
+   "assunto": "Abertura de consulta pública (3/4 a 19/5/2025) sobre revisão periódica da RAP de 2025 das concessões de transmissão licitadas",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resultado preliminar de +2,89% na RAP total; seis transmissoras não responderam ao ofício sobre outras receitas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:12:40",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:13:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:13:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:13:12",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "8",
+   "ts": "2:13:42",
+   "processo": "48500.007845/2025-88 (número incerto)",
+   "interessado": "Abragel - Associação Brasileira de Geração de Energia Limpa",
+   "assunto": "Medida cautelar para suspender prazos de apuração de desempenho de hidrelétricas da REN 1.033/2022 (redação da REN 1.085/2024) até conclusão da CP 1/2025; voto-vista de Fernando Mosna",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "comercialização (CCEE, MRE)",
+    "regulação normativa",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (cautelar concedida; prazos suspensos até 1/5/2026)",
+   "resumo_voto": "Voto-vista de Mosna concordou com os requisitos da cautelar, mas divergiu da suspensão por prazo indefinido (insegurança jurídica) e fixou 1/5/2026, conforme pedido adicional da Abragel; a relatora incorporou o voto-vista ao seu pelo princípio da colegialidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: concede cautelar até 1/5/2026",
+     "ts": "2:23:05",
+     "justificativa": "Suspensão indefinida gera insegurança jurídica; manter lógica de 12 meses da REN 1.085 para escolha e implementação após aprovação das regras.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (incorpora o voto-vista)",
+     "ts": "2:23:43",
+     "justificativa": "Pelo princípio da colegialidade assume o voto do vista; só a data estava pendente.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "2:24:15",
+     "justificativa": "Concorda; previsibilidade é valor a prezar.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "2:24:18",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "10",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição tem um único marcador de tempo; ts obtidos do JSON de legendas por busca textual.",
+  "Item 9: o diretor que pediu vista não é identificável pela legenda (atribuído com confiança baixa a Ricardo Tili).",
+  "Itens 1 e 3: falas de esclarecimento/registro atribuídas por inferência a Ricardo Tili (legenda diz 'diretor Gil').",
+  "Números de processo da legenda podem estar errados.",
+  "Itens do bloco não detalhados (votos publicados previamente).",
+  "Ordem de votação: presidente da sessão (Agnes) vota por último; votos dos demais atribuídos de forma aproximada."
+ ]
+}

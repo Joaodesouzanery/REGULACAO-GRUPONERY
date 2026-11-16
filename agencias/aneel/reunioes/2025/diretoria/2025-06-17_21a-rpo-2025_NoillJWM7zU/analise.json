@@ -1,0 +1,403 @@
+{
+ "meta": {
+  "video_id": "NoillJWM7zU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "21ª RPO 2025",
+  "data": "2025-06-17",
+  "formato": "presencial (auditório ANEEL) com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Daniel Danna (diretor substituto; fora da lista do config)"
+  ],
+  "ausentes": [
+   "Fernando Mosna (férias)"
+  ],
+  "observacoes": [
+   "Pauta de 32 itens; 6 a 32 em bloco; item 12 retirado; 11 e 18 destacados por sustentação oral; ordem: bloco, 2, 3, 4, 18, 5, 1, 11.",
+   "Ata da 20ª RPO (10/6/2025) aprovada.",
+   "Informes do DG: tarifa social (MP 1300), avaliação da OCDE e crítica a cortes orçamentários.",
+   "Pedidos de vista: Danna (item 18) e Sandoval (item 5)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:13:38",
+   "processo": "itens 6 a 32 (exceto 11, 12 e 18)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 21ª RPO 2025 (votos e atos disponibilizados previamente)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Aprovação em bloco; item 12 retirado de pauta; 11 e 18 destacados por sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova",
+     "ts": "0:13:40",
+     "justificativa": "Submete e aprova os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova",
+     "ts": "0:13:45",
+     "justificativa": "Aprova os itens do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova",
+     "ts": "0:13:45",
+     "justificativa": "Aprova os itens do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "aprova",
+     "ts": "0:13:45",
+     "justificativa": "Aprova os itens do bloco.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:14:11",
+   "processo": "48500.003973/2025-52",
+   "interessado": "Copel Distribuição S.A. (distribuidora, Paraná)",
+   "assunto": "Reajuste tarifário anual 2025 da Copel Distribuição, a vigorar a partir de 24/6/2025",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: efeito médio de 2,02% (2,99% AT; 1,55% BT)",
+   "resumo_voto": "Relatora segue a área técnica (STR); alerta que sem o aumento das cotas CDE Uso e CDE GD o consumidor teria redução média de 3,74%; defende revisão da estrutura da CDE. Sandoval comenta que tributos superam custo de energia e distribuição e que os encargos (~20% da tarifa) equivalem ao custo de toda a transmissão.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:25:00",
+     "justificativa": "Homologa RTA de 2,02%; alerta que a CDE inverteu uma redução esperada de 3,74% em aumento; pede reflexão sobre itens a retirar da CDE (MP 1300).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:28:38",
+     "justificativa": "Comenta peso de tributos e encargos setoriais na tarifa; pede discussão pelos formuladores de políticas públicas.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:28:40",
+     "justificativa": "Vota com a relatora.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "0:28:42",
+     "justificativa": "Vota com a relatora.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:29:21",
+   "processo": "48500.003805/2024-86 (número incerto na legenda)",
+   "interessado": "transmissoras desverticalizadas: Evrecy, Afluente T, Light T",
+   "assunto": "Resultado da Consulta Pública 16/2025 e revisão periódica da RAP dos contratos de transmissão desverticalizados (Lei 10.848/2004), revisão em julho/2025",
+   "tema": [
+    "transmissão",
+    "regulação normativa"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa RTP da RAP dos contratos 20/2008, 1/2010 e 32/2018, parcelas de ajuste e adiantamento para melhorias de pequeno porte; receita da Evrecy de 1 a 17/7/2025 paga via PA do contrato 1/2020. Apresentação técnica da STR (Ronald).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relator, aprova",
+     "ts": "0:47:05",
+     "justificativa": "Vota pela homologação da RAP revisada conforme STR.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:47:16",
+     "justificativa": "Vota com a relatora.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:47:18",
+     "justificativa": "Vota com a relatora.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "0:47:20",
+     "justificativa": "Vota com a relatora.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:48:41",
+   "processo": "48500.008004/2024-31 (número incerto na legenda)",
+   "interessado": "30 contratos de transmissão licitados (ex.: Argo, Eletronorte, Copel)",
+   "assunto": "Resultado da Consulta Pública 17/2025 e revisão periódica da RAP dos contratos de transmissão licitados, revisão em julho/2025",
+   "tema": [
+    "transmissão",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto do relator Mosna (ausente, férias) lido por Daniel Danna: aprova índices de reposicionamento e RAP revisada (leilão e reforços/melhorias). Pleito de não deflacionar o spread no custo de capital de terceiros rejeitado (Súmula 18/2025).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto lido por Daniel Danna; ausente)",
+     "ts": "0:58:40",
+     "justificativa": "Aprova índices finais e RAP revisada dos contratos do quadro 1.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "acompanha o relator (leu o voto)",
+     "ts": "0:59:50",
+     "justificativa": "Leu o voto do relator e vota com ele.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:59:57",
+     "justificativa": "Vota com o relator e proclama.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:59:52",
+     "justificativa": "Vota com o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:59:54",
+     "justificativa": "Vota com o relator.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:00:43",
+   "processo": "48500.005298/2022 (número incompleto na legenda)",
+   "interessado": "Eletrobras; Hidria Participações (Grupo Bom Futuro) — PCHs Sapezal, Parecis, Cidezal, Telegráfica e Rondon (rio Juruena, MT, Proinfa)",
+   "assunto": "Impugnação da Eletrobras contra decisão da CCEE (reunião 1261) que cancelou a recontabilização 4380 (retirada das PCHs do rateio de perdas da rede básica de jun/2011 a jan/2021)",
+   "tema": [
+    "comercialização",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Daniel Danna; sem deliberação",
+   "resumo_voto": "Sustentação oral de Mohamed Cassem Fares Júnior (Hidria). Relatora, alinhada à Procuradoria (contrato de mandato Hidria/Eletrobras), vota por conhecer e negar provimento, mantendo só os 3 meses recontabilizados; SRM tinha entendimento contrário. Sandoval questiona se a CCEE, identificando o erro de ofício, não deveria recontabilizar todo o período; nota que o rateio afeta agentes e não o consumidor.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator: conhece e nega provimento",
+     "ts": "1:17:30",
+     "justificativa": "Segue a Procuradoria: Hidria, como mandante, devia dar ordem expressa à Eletrobras; recontabilização a pedido do agente limita-se a 3 meses.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "pede vista",
+     "ts": "1:26:08",
+     "justificativa": "Dúvida pela divergência entre área técnica (SRM) e Procuradoria; quer aprofundar com ambas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista); manifestou dúvidas",
+     "ts": "1:21:00",
+     "justificativa": "Pondera que o rateio de perdas impacta agentes e não consumidores; pergunta se correção de ofício pela CCEE alcançaria todo o período.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "não votou (vista)",
+     "ts": "1:26:08",
+     "justificativa": "Sem manifestação registrada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:26:36",
+   "processo": "48500.003082/2023-9 (número incerto)",
+   "interessado": "Ilha Comprida Energia, Divisa Energia e Segredo Energia",
+   "assunto": "Impugnação contra deliberação da CCEE (reunião 1332) que cancelou as recontabilizações 4832, 4833 e 4835 (rateio de perdas)",
+   "tema": [
+    "comercialização",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de vista de Sandoval Feitosa; deliberação suspensa em fase de votação",
+   "resumo_voto": "Matéria correlata ao item 18; relator (ex-diretor Tili) já votara; sustentação oral indeferida.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "1:27:14",
+     "justificativa": "Para trabalhar conjuntamente com Danna (vista do item 18), em função das dúvidas levantadas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "1:27:14",
+     "justificativa": "—",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "não votou (vista)",
+     "ts": "1:27:14",
+     "justificativa": "—",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "não votou (vista)",
+     "ts": "1:27:14",
+     "justificativa": "—",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:27:44",
+   "processo": "48500.003323/2024-26 (número incerto)",
+   "interessado": "Light Serviços de Eletricidade S.A. (distribuidora, RJ)",
+   "assunto": "Reajuste tarifário anual 2025 da Light (data-base 15/3/2025); diferimento e créditos de PIS/Cofins — voto-vista de Sandoval Feitosa",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna (voto-vista: Sandoval Feitosa)",
+   "resultado": "unanimidade pelo não conhecimento dos pleitos extemporâneos; por maioria, RTA de -1,67% (0,52% AT; -2,52% BT), excluindo componente financeiro de ~R$ 1,404 bi de PIS/Cofins, conforme voto-vista de Ricardo Tili; vencida Ludimila Lima",
+   "resumo_voto": "Histórico: Mosna (-0,63%, diferimento de R$ 1,6 bi), vista em mesa de Ludimila (-5,76%, diferimento ~R$ 893 mi), vista de Tili (-1,67%). Sandoval critica pleito extemporâneo da Light no dia da deliberação (decisão da Receita Federal de 14/4/2025 que homologou só ~64% dos créditos); não conhece pleitos extemporâneos (CDE 2025, Despacho 684, PIS/Cofins) por respeito à data-base e isonomia; acompanha Tili com fundamentação diversa (estabilidade tarifária, menor impacto em 2026). Diferença de receita compensada em 2026 com Selic.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha o voto-vista de Ricardo Tili (fundamentação diversa) e não conhece pleitos extemporâneos",
+     "ts": "2:15:00",
+     "justificativa": "Data-base deve ser respeitada; pleitos extemporâneos gerariam precedente perigoso e tratamento não isonômico; cenário de Tili tem menor impacto tarifário em 2026.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o não conhecimento; mantém seu voto-vista em mesa (-5,76%) — vencida",
+     "ts": "2:20:18",
+     "justificativa": "Sua proposta já contempla a glosa da Receita Federal; R$ 542 mi em caixa podem ser devolvidos ao consumidor neste processo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista (muda seu voto)",
+     "ts": "2:22:20",
+     "justificativa": "Montante diferido maior, levado à Selic, permite ao consumidor fazer frente a despesas de 2025 (CDE possivelmente subestimada, MP 1300).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "não vota",
+     "ts": "2:26:56",
+     "justificativa": "Não vota (sucede relator que já votou).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:28:18",
+   "processo": "48500.005682/2022-84 (número incerto)",
+   "interessado": "Barueri Energia Renovável S.A. — UTE Barueri (resíduos sólidos urbanos, 20 MW, PPP com município de Barueri)",
+   "assunto": "Recurso contra Despacho SCE 2267/2024 que negou excludente de responsabilidade pelo atraso da UTE Barueri e pedidos de alteração de cronograma e de suprimento dos CCEARs",
+   "tema": [
+    "outorgas de geração",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Daniel Danna",
+   "resultado": "recurso conhecido e não provido, por unanimidade dos votantes",
+   "resumo_voto": "Sustentação oral de Henrique Silva Reis (advogado) e Rodrigo (empresa). Procuradoria (Parecer 193/2024): risco fundiário é do empreendedor; PPP assinada 10 anos antes do leilão. Relator: atos do município como parceiro, não poder público; licenciamento arbóreo levou ~5 meses, sem inércia; nega excludente e isenção de penalidades; SFT avaliará marcos.",
+   "votos": [
+    {
+     "diretor": "Daniel Danna (diretor substituto; fora da lista do config)",
+     "voto": "relator: conhece e nega provimento",
+     "ts": "2:48:00",
+     "justificativa": "Barueri teve quase uma década para cobrar do município a entrega do terreno; risco assumido no leilão; sem inércia do órgão ambiental.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:49:10",
+     "justificativa": "Poder público é sócio/copartícipe do empreendimento, logo corresponsável; destaca importância do projeto pioneiro de resíduos sólidos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado (Agnes da Costa ou Ludimila Lima)",
+     "voto": "não vota (impedida: recurso contra despacho que exarou)",
+     "ts": "2:50:38",
+     "justificativa": "Declara não votar por ser recurso contra despacho exarado por ela.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado (Agnes da Costa ou Ludimila Lima)",
+     "voto": "acompanha o relator",
+     "ts": "2:50:45",
+     "justificativa": "Vota com o relator.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "12",
+   "motivo": "retirado de pauta (sem detalhe na fala)"
+  }
+ ],
+ "limites_da_analise": [
+  "Daniel Cardoso Danna (diretor substituto, leu voto de Mosna e relatou o item 11) não consta da lista de diretores do config; nome registrado como dito.",
+  "Item 11: uma diretora (Agnes ou Ludimila) declarou não votar por ser recurso contra despacho exarado por ela; não foi possível identificar qual; também mencionou 'item dois', sentido incerto.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "No item 18 a relatora menciona 'item 18' e 'item 20' de forma confusa ao comparar com o item 5 (Tili).",
+  "Itens do bloco não foram detalhados individualmente (votos disponibilizados por escrito).",
+  "Ricardo Tili é citado como 'então diretor' (já fora do colegiado)."
+ ]
+}

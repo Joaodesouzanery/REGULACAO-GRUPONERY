@@ -1,11 +1,12 @@
 # Perfil analítico — Alexandre Florambel · tema: tup_autorizacao
 
-**Amostra:** presente em 2 das 2 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 3 das 3 reuniões analisadas em que há registro de presença/ausência; 18 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 11 (91% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 13 (86% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 2/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 17/6; arrendamento_porto_organizado 16/6; tup_autorizacao 15/3; fiscalizacao_sancoes 10/4; governanca_tcu 9/3; regulacao_normativa 8/3; tarifas_portuarias 6/1; recursos_recursais 3/0; sustentabilidade 2/1; outros 2/0; servicos_terminais 1/0; mediacao 1/0; concessao_porto_hidrovia 1/1
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 24/8; navegacao_afretamento 20/7; tup_autorizacao 18/3; fiscalizacao_sancoes 13/5; governanca_tcu 10/3; tarifas_portuarias 9/2; regulacao_normativa 9/4; recursos_recursais 6/1; sustentabilidade 3/1; servicos_terminais 3/0; outros 3/0; mediacao 2/0; concessao_porto_hidrovia 1/1
+**Argumentos recorrentes nas justificativas registradas:** governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -24,3 +25,6 @@
 - **RD 621 (2026-10-27)**, item 21 — Adequação do TAC 2/2026 (cronograma de investimentos do contrato de adesão 18/2021) com cláusula suspensiva · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 22 — Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9214s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 25 — Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) · voto: *relator, aprova* (relator, conf. alta) · «acompanha a PFA: CDRU vinculada à vigência da autorização do TUP; cláusula resolutiva 11.8 compatível com direito privado; sem novas alterações» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9608s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 5 — Inclusão dos perfis contêiner e carga geral no TUP do contrato de adesão 10/2023 (Belém/PA, região de Vila do Conde) · voto: *observações (voto não colhido)* (outro, conf. baixa) · «Volume não é irrelevante (~1/3 de Vila do Conde); processo 'não tá suficientemente descrito'; fiscalização deve verificar se a outorga é efetiva.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5058s) · resultado: pedido de vista
+- **RD 623 (2026-11-13)**, item 11 — Autorização em caráter especial para movimentação e armazenagem de carga geral por até 180 dias no TUP (contrato de adesão 9/2015), berço 5 · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6317s) · resultado: aprovado
+- **RD 623 (2026-11-13)**, item 12 — Consulta regulatória sobre transhipment de soja, milho e fertilizantes entre barcaças e navios no quadro de boias do TUP em Manaus (contrato · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6538s) · resultado: aprovado

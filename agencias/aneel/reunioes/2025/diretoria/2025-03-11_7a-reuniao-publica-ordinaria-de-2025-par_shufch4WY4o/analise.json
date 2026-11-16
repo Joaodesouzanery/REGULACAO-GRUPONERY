@@ -1,0 +1,58 @@
+{
+ "meta": {"video_id": "shufch4WY4o", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha o relator são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2025 (Parte 2, tarde)", "data": "2025-03-11", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (conduzindo a sessão)",
+  "diretores_presentes": ["Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": ["Sandoval Feitosa"],
+  "observacoes": ["Parte da tarde da 7ª RPO de 11/03/2025; procurador comenta mesa com maioria feminina (mês das mulheres).", "Itens 4, 5 e 11 (relator Ricardo Tili) aprovados por unanimidade.", "Item 2 (reajuste Light) voltou com voto-vista de Ludimila Lima (diferimento parcial) divergindo do relator Fernando Mosna (diferimento integral); na votação houve novo pedido de vista e a reunião foi encerrada sem decisão."]
+ },
+ "itens": [
+  {"id": "4", "ts": "0:00:03", "processo": "48500.002653/2024", "interessado": "Empresa de Transmissão de Energia do Pará S.A. (ETEPA); Mineração Paragominas S.A. (MPSA, grupo Hydro)",
+   "assunto": "Requerimento da ETEPA para integração das funções de transmissão do contrato de concessão 50/2017, impactadas pela não realização do seccionamento da LT 230 kV Vila do Conde - Miltônia 3 na SE Tomé-Açu (licença de operação da linha da mineradora)",
+   "tema": ["transmissão (RAP, TLP/TLD/TLR)", "recursos administrativos", "regulação normativa (afastamento regulatório)"],
+   "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade: provimento ao requerimento da Mineração Paragominas (não acompanhar a recomendação técnica de obrigá-la a pagar receitas não auferidas pela ETEPA; reconhecida pendência impeditiva própria da ETEPA para o TLR); parcial provimento à ETEPA com afastamento do item 7.1 da seção 3.2 das regras de transmissão por 180 dias (conversão de TLP em TLD) e determinações ao ONS",
+   "resumo_voto": "Sustentação oral de Rodolfo (MPSA): LO sempre válida, atraso do órgão ambiental, cobrança retroativa seria multa sem previsão. Relator: responsabilidade pelo seccionamento é da ETEPA (culpa e responsabilidade são distintas); rejeita alocação retroativa de custos à mineradora sem análise de excludente; waiver de 180 dias para 100% da receita exceto a parcela do seccionamento (4,79% da RAP), com retorno a TLP se pendências não forem regularizadas.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:45:35", "justificativa": "Solução construída com as partes e o ONS; 'a responsabilidade por honrar as obrigações do contrato de concessão 50 de 2017 é da etepa'; incentivo regulatório não teve efetividade no caso, daí o afastamento provisório.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:54:31", "justificativa": "Cumprimentou o relator: 'achei que foi uma solução ponderada', com prazo que exige diligência dos agentes; seccionamentos serão desafio crescente.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:54:31", "justificativa": "Elogiou a construção de convergência; relatou experiência na SRT com a REN 722 e caso semelhante (Onça Puma). Atribuição de falante inferida.", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:54:31", "justificativa": "Acompanhou o voto do relator sem comentários registrados.", "confianca": "baixa"}
+   ]},
+  {"id": "5", "ts": "0:55:45", "processo": "48500.000306/2025", "interessado": "UFV Umaitá Solar 1 a 13 Empreendimentos S.A. (Juazeiro-BA)",
+   "assunto": "Pedido de medida cautelar para que o ONS não considere as UFVs no cálculo da TUST 2025-2026 e não cobre encargos do CUST até o mérito (questão fundiária com desapropriação da Codevasf)",
+   "tema": ["outorgas de geração (solar)", "transmissão (TUST, CUST)", "recursos administrativos (cautelar)"],
+   "relator": "Ricardo Tili", "resultado": "cautelar indeferida por unanimidade; autos à SCE para análise de mérito da excludente de responsabilidade",
+   "resumo_voto": "Ausentes fumaça do bom direito (decreto de 2008 e ação de desapropriação de 2013 eram anteriores e públicos; empreendedor assumiu o risco) e perigo da demora (regras permitem postergar o CUST por até 12 meses junto ao ONS). Procuradoria concordou.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:04:16", "justificativa": "Decreto e ação de desapropriação 'deveriam ser de conhecimento do Empreendedor'; ausentes os requisitos cumulativos da cautelar.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:11:56", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:11:56", "justificativa": "Votou com o relator.", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:11:56", "justificativa": "Votou com o relator.", "confianca": "baixa"}
+   ]},
+  {"id": "11", "ts": "1:12:58", "processo": "48500.000154/2024", "interessado": "Autódromo Energética S.A. e Boa Fé Energética S.A. (usinas no RS)",
+   "assunto": "Recursos administrativos contra despachos 3083 e 3084/2024 da SFT que mantiveram multas dos autos de infração 10 e 11/2024 (inspeção de segurança especial de barragem não realizada e PAE não implantado)",
+   "tema": ["fiscalização e sanções (multa, segurança de barragens)", "recursos administrativos"],
+   "relator": "Ricardo Tili", "resultado": "recursos conhecidos e, no mérito, negado provimento, por unanimidade",
+   "resumo_voto": "Sustentação oral de Urias Martiniano Garcia Neto (Boa Fé): usina vertendo nas cheias de 2023 impedia inspeção, ausência de prazo para PAE, pediu conversão em advertência ou suspensão. Relator foi direto ao dispositivo: argumentos já enfrentados na nota técnica e no voto.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova (nega provimento)", "ts": "1:24:45", "justificativa": "Argumentos da sustentação 'já foram abordados pela nota técnica' e pelo voto; conhecer e negar provimento.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:25:03", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:25:03", "justificativa": "Votou com o relator.", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:25:03", "justificativa": "Votou com o relator.", "confianca": "baixa"}
+   ]},
+  {"id": "2", "ts": "1:25:46", "processo": "48500.003323/2024", "interessado": "Light Serviços de Eletricidade S.A.; Conselho de Consumidores da Light",
+   "assunto": "Reajuste tarifário anual 2025 da Light (vigência 15/03/2025) e pedido de diferimento positivo; retorno com voto-vista",
+   "tema": ["tarifas e revisão tarifária (reajuste, diferimento)", "CDE e encargos setoriais"],
+   "relator": "Fernando Mosna", "resultado": "não decidido: após voto-vista divergente, novo pedido de vista na votação; reunião encerrada",
+   "resumo_voto": "Relator propôs diferimento integral (~1,6 bi) para efeito próximo de zero, citando a ADI 7324 no STF (devolução de PIS/Cofins). Voto-vista de Ludimila: diferimento parcial de cerca de R$ 893 milhões pela proxy da CP 8/2025, efeito médio de -5,76% (-2,08% AT; -7,19% BT), passivo regulatório corrigido pela Selic.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova (diferimento integral); contestou o voto-vista", "ts": "1:39:27", "justificativa": "A incerteza permeia todo diferimento; no STF 'já tem seis votos' pela prescrição, evento certo de data incerta; a CP 8 não é norma e impediria diferimento negativo futuro; o valor do voto-vista não atende o Conselho de Consumidores (1,4 bi).", "confianca": "alta"},
+    {"diretor": "Ludimila Lima", "voto": "voto-vista: diverge parcialmente (diferimento parcial de ~R$ 893 mi, efeito -5,76%)", "ts": "1:27:44", "justificativa": "'as incertezas em relação ao desfecho do processo judicial não são suficientes para privar os usuários das reduções tarifárias'; usa a CP 8/2025 como proxy; conselho de consumidores pedia diferença de ~850 mi.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "sem voto registrado (sinalizou concordância com o raciocínio do voto-vista)", "ts": "1:55:17", "justificativa": "CP usada como proxy, não vinculante; conselho é opinativo; disse que o esclarecimento sobre o pleito parcial de ~890 milhões ficou mais claro para ela. Pode ser ela quem pediu vista (falante incerto).", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "sem voto registrado; possível autor do pedido de vista", "ts": "1:55:42", "justificativa": "Na votação alguém diz 'Eu voto por último né vou pedir vista do processo'; falante não identificado com segurança.", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Transcrição tem um único marcador de tempo; ts obtidos do JSON da legenda por busca de frases, aproximados.", "Falantes dos votos de acompanhamento não identificados individualmente; ordem e atribuição inferidas.", "Item 2: quem pediu vista na votação é incerto (Ricardo Tili ou Agnes da Costa); 'Eu voto por último' sugere quem preside, mas o pedido foi deferido por outra voz.", "Fala sobre experiência na SRT em 2015 atribuída a Fernando Mosna por inferência.", "Valores e números de processo vêm da legenda automática (ex.: 48500.003323/2024 e 893 milhões podem estar errados).", "Sandoval Feitosa não aparece nesta parte; ausência inferida.", "Parte 1 da reunião (manhã, itens 1, 3 etc.) está em outro vídeo."]
+}

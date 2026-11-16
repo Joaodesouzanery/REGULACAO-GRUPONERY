@@ -1,11 +1,11 @@
 # Perfil analítico — Alexandre Florambel · tema: navegacao_afretamento
 
-**Amostra:** presente em 2 das 2 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 3 das 3 reuniões analisadas em que há registro de presença/ausência; 20 votos neste tema; 7 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 10 (90% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
-**Como relator:** 4/6 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 12 (92% dos votos em que não era relator) · relator 7 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 4/7 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 17/6; arrendamento_porto_organizado 16/6; tup_autorizacao 15/3; fiscalizacao_sancoes 10/4; governanca_tcu 9/3; regulacao_normativa 8/3; tarifas_portuarias 6/1; recursos_recursais 3/0; sustentabilidade 2/1; outros 2/0; servicos_terminais 1/0; mediacao 1/0; concessao_porto_hidrovia 1/1
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 24/8; navegacao_afretamento 20/7; tup_autorizacao 18/3; fiscalizacao_sancoes 13/5; governanca_tcu 10/3; tarifas_portuarias 9/2; regulacao_normativa 9/4; recursos_recursais 6/1; sustentabilidade 3/1; servicos_terminais 3/0; outros 3/0; mediacao 2/0; concessao_porto_hidrovia 1/1
 **Argumentos recorrentes nas justificativas registradas:** eficiência/celeridade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -27,3 +27,6 @@
 - **RD 621 (2026-10-27)**, item 26 — Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítim · voto: *relator, aprova* (relator, conf. alta) · «abrir consulta pública não cumpre o item da agenda; norma final ainda pendente» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9719s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *relator, aprova* (relator, conf. alta) · «deficiência informacional dos contratos (descrições genéricas, divergência com a circularização); manual orienta sem criar obrigações ou infrações» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11016s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 30 — Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos · voto: *relator, defere* (relator, conf. alta) · «coerência com autorizações anteriores (Acórdão 159/2026); vazante do Tocantins abaixo de Tucuruí impediu os testes; segue a SOG contra a GOA» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12169s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *relator, aprova* (relator, conf. alta) · «Ausência de demonstração da razoabilidade das premissas, conforme a NT 152/2026.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s) · resultado: aprovado (recurso desprovido)

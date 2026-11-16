@@ -1,0 +1,121 @@
+{
+  "meta": {"video_id": "Tn67NHP-YrI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:17); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "12ª RPO 2025", "data": "2025-04-16", "formato": "presencial/híbrida (Ricardo Tili participa de forma híbrida)",
+    "presidente_da_sessao": "Agnes da Costa (Diretora-Geral em exercício na abertura); Sandoval Feitosa (Diretor-Geral) chega depois e proclama a partir do item 1",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ludimila Lima", "Ricardo Tili", "Sandoval Feitosa"],
+    "ausentes": ["Gentil Nogueira (não citado)"],
+    "observacoes": ["Pauta com 45 itens; itens 4 a 45 em bloco; destacados do bloco os itens 12 e 17; item 11 retirado de pauta; itens 10 e 15 voltaram do bloco por terem pedido de sustentação oral não anunciado.", "Ordem efetiva: bloco, 2, 1, 3, 12, 17, 10, 15.", "Item 3 com voto-vista de Sandoval Feitosa vencedor por maioria; Ricardo Tili mudou seu voto de 2023 para acompanhar a vista.", "Informe: suspensão da CP 10/2025 (edital do LRCAP 2025) por cancelamento do leilão; MMGD ultrapassou 2 GW no 1º trimestre de 2025."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:21:30", "processo": "itens 4 a 45 (exceto 10, 11, 12, 15 e 17)", "interessado": "diversos",
+      "assunto": "Itens do bloco com votos disponibilizados previamente", "tema": ["bloco"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade", "resumo_voto": "Aprovação em bloco dos itens remanescentes.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:21:53", "justificativa": "Submete e aprova os demais itens do bloco.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:21:55", "justificativa": "Também aprova o bloco.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "aprova o bloco", "ts": "0:21:56", "justificativa": "Também aprova o bloco.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:21:58", "justificativa": "Também aprova o bloco.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:22:43", "processo": "48500.003924/2019 e 48500.001656/2019 (números incertos)", "interessado": "PCH Mantovilis SPE S.A. (geradora; PCH em Santo Antônio do Leverger-MT)",
+      "assunto": "Pedido de reconsideração com pedido de medida cautelar contra o Despacho 207/2025, que indeferiu excludente de responsabilidade adicional pelo atraso da PCH Mantovilis. Sustentação oral: Rodrigo Quintana Fernandes (PCH).",
+      "tema": ["outorgas de geração", "fiscalização e sanções", "recursos administrativos", "excludente de responsabilidade"],
+      "relator": "Fernando Mosna", "resultado": "unânime: conhecer e negar provimento ao pedido de reconsideração; não conhecer da cautelar por perda de objeto",
+      "resumo_voto": "Sem fatos novos; alteração de arranjo e compatibilização com PCH Mutum são risco do empreendedor; STIR não foi o único entrave; COVID sem nexo causal comprovado.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "0:36:00", "justificativa": "Não se observa indicação de fatos novos aptos a denotarem erro na decisão; cautelar prejudicada pela análise de mérito.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:48:03", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:48:05", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:48:07", "justificativa": "Acompanha o relator (ele havia apresentado voto-vista favorável à empresa no processo original).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:48:41", "processo": "48500.003315/2022-80 (número incerto)", "interessado": "Enel Distribuição Ceará (distribuidora); Conselho de Consumidores (Conerge)",
+      "assunto": "Reajuste tarifário anual 2025 da Enel Ceará, a partir de 22/04/2025, com pedido de diferimento positivo de R$ 532,85 milhões e pleito de retificação de dados de MMGD no SAMP. Sustentações: Hugo Lamim (Enel Ceará) e vídeo de Antônio Herildo Lemos Pontes (Conselho de Consumidores).",
+      "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)", "diferimento tarifário", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa", "resultado": "unânime: homologa reajuste com efeito médio de -2,10% (AT -2,84%; BT -1,89%), acatando diferimento de R$ 532 milhões; indeferida retificação do SAMP",
+      "resumo_voto": "Diferimento atende aos três critérios da CP 8/2025 e teve apoio do Conselho de Consumidores; retificação SAMP negada por dado autodeclarado, sem recurso no processo de 2024 e precedentes.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:00:00", "justificativa": "O acatamento do diferimento vai ao encontro da redução da volatilidade tarifária, previsibilidade e estabilidade; não há erro material no SAMP, dados autodeclarados.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:32:01", "justificativa": "Concorda integralmente, mas pede que a regra final da CP 8 valorize o terceiro critério (olhar para o futuro, N+1 a N+3), citando contribuições da Abradee e da própria Enel.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:42:01", "justificativa": "Acompanha integralmente; ressalta comunicar que o objetivo é que no próximo reajuste haverá 532 milhões a menos mais Selic para o consumidor.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "1:43:42", "justificativa": "Defende aprimorar a relação da ANEEL com os Conselhos de Consumidores nos processos com diferimento.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:47:52", "justificativa": "Voto alinhado à proposta da CP; diferimentos buscam evitar volatilidade tarifária, embora prever tarifas seja muito difícil.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:49:29", "processo": "48500.002898/2023 (número incerto)", "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, Macaé-RJ, gás natural, 565 MW)",
+      "assunto": "Excludente de responsabilidade (COVID-19, 206 dias pleiteados) e alteração do cronograma de implantação da UTE Marlim Azul. Voto-vista de Sandoval Feitosa.",
+      "tema": ["outorgas de geração", "excludente de responsabilidade", "fiscalização e sanções"],
+      "relator": "Fernando Mosna", "resultado": "por maioria: conhecer e negar provimento (voto-vista vencedor); vencidos Fernando Mosna e Hélvio Guerra (voto de 2023)",
+      "resumo_voto": "Vista: RAPEEL não é cronograma; análise marco a marco; o marco regulatório de início de obras (9/11/2020) foi cumprido, logo não houve atraso a excluir; 54 dias de testes foram escolha da própria empresa (precedente Azulão, relator Tili).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: nega provimento", "ts": "1:49:40", "justificativa": "O rapel não é e não deve ser entendido como cronograma; a empresa iniciou as obras antes do marco fixado, portanto não houve atraso nem responsabilidade a excluir.", "tom": "divergência respeitosa", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "relator, mantém voto (reconhecer 152 dias) - vencido", "ts": "2:34:53", "justificativa": "Mantém voto de 2023: reconhecer 152 dias de excludente pelo impacto das restrições municipais da COVID nas obras civis.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "2:35:10", "justificativa": "Vota com o voto-vista.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista (muda voto anterior)", "ts": "2:35:25", "justificativa": "Tendo em vista o voto do Sandoval, inclusive com um precedente trazido por mim, muda o voto e acompanha a vista.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:36:03", "processo": "48500.005595/2025-41 (número incerto)", "interessado": "Dunas Transmissão de Energia S.A. (transmissora; contrato de concessão 14/2018, leilão 2/2018 lote 3)",
+      "assunto": "Requerimento e recurso contra o Despacho 714/2025 (SFT/SCE) que negou excludente de responsabilidade por atraso (licenciamento IBAMA e alteração de premissas do edital) e afastamento de PV. Sustentação oral: Bruno Crispim (Dunas).",
+      "tema": ["transmissão", "excludente de responsabilidade", "fiscalização e sanções", "recursos administrativos"],
+      "relator": "Ricardo Tili", "resultado": "unânime: conhecer e negar provimento; negado afastamento da parcela variável",
+      "resumo_voto": "Atraso do IBAMA é incontroverso, mas obras começaram antes do marco do cronograma, quebrando o nexo causal; divergências de premissas do edital são risco do empreendedor.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "2:50:00", "justificativa": "A obra começa antes do cronograma previsto e com isso quebra o nexo de causalidade; segundo ponto era risco do empreendedor.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:54:55", "justificativa": "Antecipações propostas em certames de transmissão são risco do agente; atraso do licenciamento não comprometeu o empreendimento; preocupação com prazos fixados pelo Judiciário.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:57:17", "justificativa": "Vota com o relator.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:57:19", "justificativa": "Vota com o relator.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "2:57:21", "justificativa": "Vota com o relator.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "17", "ts": "2:57:54", "processo": "48500.009099/2021 (número incerto)", "interessado": "Empresa Luz e Força Santa Maria S.A. (distribuidora, ES)",
+      "assunto": "Reconhecimento de sobrecontratação involuntária em 2016 (crise hídrica e consumo rural de irrigação). Sustentação oral: Alexandre Leite Ferreira (Santa Maria).",
+      "tema": ["comercialização", "sobrecontratação", "tarifas e revisão tarifária"],
+      "relator": "Fernando Mosna", "resultado": "unânime: parcial provimento, retificando montantes involuntários (-0,52 MWmed 2016; -1,67 MWmed 2017)",
+      "resumo_voto": "Só a migração de consumidores livres é involuntária; previsão de alta da irrigação em 2016 com restrições hídricas vigentes é risco de mercado da distribuidora.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, parcial provimento", "ts": "3:08:00", "justificativa": "A queda ou o crescimento do mercado acima do previsto faz parte do risco do negócio, não devendo ser repassado ao consumidor.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:13:52", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:13:54", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "3:13:56", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:13:58", "justificativa": "Acompanha o relator.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "10", "ts": "3:14:31", "processo": "48500.005895/2023-69 (número incerto)", "interessado": "Abradee e distribuidoras",
+      "assunto": "Recursos contra o Despacho 4395/2023 (STR/SGM) que homologou exposição e sobrecontratação involuntária das distribuidoras em 2018 (carregamento de involuntariedade entre anos). Sustentação oral: Ricardo Brandão (Abradee).",
+      "tema": ["comercialização", "sobrecontratação", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "unânime: conhecer e negar provimento",
+      "resumo_voto": "Máximo esforço exige participação em todos os mecanismos (MCSD); sem ele não há carregamento de involuntariedade; não é aplicação retroativa de novo critério.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "3:30:00", "justificativa": "Não é possível reconhecer involuntariedade de energia anteriormente voluntária, se a distribuidora não utilizou todos os mecanismos disponíveis.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:35:10", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:35:12", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "3:35:14", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:35:16", "justificativa": "Acompanha o relator.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "15", "ts": "3:35:56", "processo": "48500.009318/2022 (número incerto)", "interessado": "Abradee",
+      "assunto": "Pedido de reconsideração contra o Despacho 684/2025 (perdas não técnicas e energia requerida considerando MMGD) pedindo aplicação retroativa a 2023 e 2024. Sustentação oral: Ricardo Brandão (Abradee).",
+      "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)", "perdas", "recursos administrativos"],
+      "relator": "Ludimila Lima", "resultado": "unânime: conhecer e negar provimento",
+      "resumo_voto": "Perdas técnicas e não técnicas são variáveis distintas; retroagir a 2023-2024 fere estabilidade regulatória e segurança jurídica; aplicação a 2025 por isonomia.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, nega provimento", "ts": "3:43:00", "justificativa": "A impossibilidade de retroagir para 2023 e 2024 é imposta pelos princípios da estabilidade regulatória e segurança jurídica.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "3:47:32", "justificativa": "Acompanha a relatora.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "3:47:34", "justificativa": "Acompanha a relatora.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "3:47:36", "justificativa": "Acompanha a relatora.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "3:47:38", "justificativa": "Acompanha a relatora.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "11", "motivo": "retirado de pauta a pedido"}],
+  "limites_da_analise": ["Transcrição com um único marcador de tempo; ts de leitura de voto estimados e de votos de quem acompanha aproximados.", "Atribuição de falantes nas votações curtas é inferida (ordem não identificada); confiança baixa.", "Números de processo e nomes de empresas (Mantovilis, Marlim Azul) vêm de legenda automática e podem estar errados.", "Gentil Nogueira não é mencionado; presumido ausente.", "Item 3: Hélvio Guerra (ex-diretor) votou com o relator em 2023; Ludimila Lima não votou neste item (voto já assentado na cadeira)."]
+}

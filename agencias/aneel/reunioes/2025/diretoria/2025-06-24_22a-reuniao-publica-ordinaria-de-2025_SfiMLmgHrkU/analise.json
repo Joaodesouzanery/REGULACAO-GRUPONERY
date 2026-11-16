@@ -1,0 +1,91 @@
+{
+ "meta": {"video_id": "SfiMLmgHrkU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "22ª Reunião Pública Ordinária de 2025", "data": "2025-06-24", "formato": "presencial com participação remota (Fernando Mosna remoto)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Daniel Danna"],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores. Pauta com 27 itens; itens 6 a 27 em bloco; item 17 destacado do bloco; itens 2, 3 e 5 retirados de pauta.",
+   "Abertura dominada pelo comunicado do Diretor-Geral sobre o corte orçamentário da ANEEL em 2025 (orçamento de 117 milhões, suspensão do call center, da pesquisa IASC, redução de fiscalização, demissão de cerca de 140-145 terceirizados, expediente das 8 às 14h) e fala de Benedito Cruz Gomes, presidente da associação de servidores.",
+   "Aprovada a ata da 21ª RPO (17/06/2025).",
+   "Encerrada após o item 17 (retirado de pauta pela relatora)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 6 a 27, exceto 17)", "ts": "0:24:48", "processo": "", "interessado": "diversos",
+   "assunto": "Itens de bloco 6 a 27 (votos disponibilizados previamente), exceto o item 17 destacado; Fernando Mosna pediu vista dos itens 14 e 15",
+   "tema": ["deliberação em bloco"],
+   "relator": "diversos", "resultado": "aprovados por unanimidade (exceto itens 14 e 15, com vista)",
+   "resumo_voto": "Bloco aprovado; um diretor não votou o item 8 por ser recurso contra despacho assinado por ele na SCE.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:25:30", "justificativa": "Proclama aprovação unânime do bloco.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "pede vista dos itens 14 e 15; aprova os demais", "ts": "0:25:22", "justificativa": "Pedido de vista (áudio remoto falhou; legenda primeiro registra '1215').", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco", "ts": "0:24:48", "justificativa": "Ordem dos falantes não identificada com certeza.", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "aprova os itens do bloco", "ts": "0:24:50", "justificativa": "Ordem dos falantes não identificada com certeza.", "confianca": "baixa"},
+    {"diretor": "Daniel Danna", "voto": "aprova os itens do bloco", "ts": "0:24:52", "justificativa": "Ordem dos falantes não identificada; um dos diretores declarou não votar o item 8 (recurso contra despacho que assinou na SCE) — autoria não identificada.", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "14 e 15", "ts": "0:25:22", "processo": "", "interessado": "não identificado",
+   "assunto": "Itens 14 e 15 do bloco (conteúdo não lido na sessão)",
+   "tema": ["pedido de vista"],
+   "relator": "não identificado", "resultado": "pedido de vista de Fernando Mosna",
+   "resumo_voto": "Fernando Mosna pediu vista dos itens 14 e 15.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "0:25:22", "justificativa": "Pediu vista dos itens 14 e 15, sem fundamentar.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "4", "ts": "0:25:54", "processo": "48500.018048/2025-26",
+   "interessado": "transmissoras do grupo MES: MES 6, 7, 8, 9 e 10 Energia S.A.",
+   "assunto": "Pedidos de reconsideração contra os Despachos 1437 a 1441/2025, que negaram excludentes de responsabilidade e recomendaram ao MME a caducidade dos contratos de concessão de transmissão 2, 6, 7, 13 e 15/2021",
+   "tema": ["fiscalização e sanções (caducidade)", "transmissão", "recursos administrativos"],
+   "relator": "Daniel Danna", "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Pedidos tempestivos; parecer da Procuradoria é facultativo (art. 46 REN 846); termos de intimação claros quanto à caducidade; rito da REN 846 cumprido; obras com 0% de avanço físico e entrada em operação prevista cerca de 3 anos após o contratual; argumentos já conhecidos no edital; sem elementos novos. Encerra discussão administrativa para os lotes entrarem no leilão de transmissão 4/2025.",
+   "votos": [
+    {"diretor": "Daniel Danna", "voto": "relator, nega provimento", "ts": "0:46:19", "justificativa": "Pedidos tempestivos; parecer jurídico facultativo; rito da REN 846 cumprido; obras com 0% de avanço; argumentos já constavam do edital; sem elementos novos.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:47:30", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:47:31", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:47:32", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:47:34", "justificativa": "Antes perguntou se a deliberação permitia incluir os lotes no leilão de transmissão relatado por Fernando Mosna; proclamou o resultado.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:48:07", "processo": "48500.007344/2025-00",
+   "interessado": "Secretaria de Leilões/SCE; sustentação oral de Mauro Pedroso Gonçalves (Comitê Brasileiro de Arbitragem)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão 4/2025 (objeto, RAP, anexos técnicos) após a Consulta Pública 18/2025; cerca de 8 bilhões de investimento, 11 lotes",
+   "tema": ["leilões (transmissão)", "transmissão", "regulação normativa (consulta pública)"],
+   "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a minuta do edital consolidada com a CP 18/2025, envia ao TCU (IN 81/2018) e determina que as concessionárias autorizem visitas até 13/10/2025. Não acolhida a cláusula arbitral obrigatória pedida na sustentação (Procuradoria: inclusão facultativa e discricionária; custos da arbitragem). Lotes 7 a 10 sujeitos à caducidade podem ser retirados se o MME decidir em contrário.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:09:22", "justificativa": "Endossou a apresentação técnica de André Tiburtino (Secretaria de Leilões) e foi direto ao dispositivo.", "confianca": "alta"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:13:35", "justificativa": "Votou com o relator; falante dos comentários prévios não identificado com segurança.", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:13:36", "justificativa": "Votou com o relator.", "confianca": "media"},
+    {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "1:13:37", "justificativa": "Votou com o relator; possivelmente autor do destaque de que o leilão envolve quase 8 bilhões e 18 mil empregos, mostrando a importância de manter a regulação valorizada (falante incerto).", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:13:40", "justificativa": "Elogiou a previsibilidade e o histórico de sucesso dos leilões da ANEEL e as equipes; citou a caducidade do grupo MES como exemplo de enforcement (atribuição inferida); proclamou o resultado.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "17", "ts": "1:14:16", "processo": "48100.001299/1993-4 (legenda incerta)",
+   "interessado": "ArcelorMittal Brasil S.A. e Samarco Mineração S.A. (UHE Guilman-Amorim, Nova Era e Antônio Dias/MG); sustentação oral de Rafael Gomes (Samarco)",
+   "assunto": "Prorrogação do prazo da concessão da UHE Guilman-Amorim (autoprodução)",
+   "tema": ["outorgas de geração (hidrelétrica)", "prorrogação de concessão"],
+   "relator": "Agnes da Costa", "resultado": "retirado de pauta pela relatora",
+   "resumo_voto": "Sustentação: cláusula nona, subcláusula terceira do contrato prevê que o silêncio do poder concedente por 18 meses equivale a concordância com a prorrogação; pede prorrogação tácita ou instrução complementar. Procuradoria disse não ter se manifestado sobre essa cláusula. Relatora retirou o processo de pauta e enviou à Procuradoria.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, retira de pauta", "ts": "1:27:23", "justificativa": "Questão do silêncio administrativo não foi tratada nos pareceres; decisão importante sobre prorrogação; encaminha à Procuradoria para analisar a cláusula específica.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "concorda com a retirada", "ts": "1:27:50", "justificativa": "Retirada é decisão da relatora e foi bem encaminhada.", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": ["item 2", "item 3", "item 5", "item 17 (retirado pela relatora durante a sessão)"],
+ "limites_da_analise": [
+  "O diretor relator do item 4, chamado na legenda de Daniel Cardoso Dana/Danna, não consta da lista de diretores do config da agência; nome registrado como dito. Os falantes inferidos no cabeçalho citam Ricardo Tili, mas a fala de abertura nomeia Daniel Dana.",
+  "Na votação do bloco a ordem dos falantes não é identificável; não se sabe quem se absteve do item 8.",
+  "Atribuição dos comentários antes da votação do item 1 é incerta.",
+  "Números de processo, nome da usina (Guilman-Amorim) e valores vêm de legenda automática e podem conter erros.",
+  "Conteúdo dos itens de bloco (6 a 27) não foi lido na sessão."
+ ]
+}

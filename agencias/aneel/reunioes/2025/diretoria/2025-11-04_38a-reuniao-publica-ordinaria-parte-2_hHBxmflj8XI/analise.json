@@ -1,0 +1,308 @@
+{
+ "meta": {
+  "video_id": "hHBxmflj8XI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "38ª Reunião Pública Ordinária (parte 2)",
+  "data": "2025-11-04",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 38ª RPO de 2025; itens 1, 9, 10, 12, 15 e 16.",
+   "Item 10: pedido de vista de Gentil Nogueira (precedente Equatorial Pará).",
+   "Item 15 retirado de pauta por Sandoval (voto-vista) para nova consulta à PF."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:10",
+   "processo": "48500.004742/2021-32",
+   "interessado": "CCEE; agentes de mercado (Abracel, CPFL Energia, Enge citados)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 47 dias, 6/11 a 22/12/2025) sobre minuta de resolução normativa do monitoramento prudencial pós-período sombra, manual algébrico, PdCs 1.4 e 1.7 e relatório de AIR/ARR nº 1/2025 SGM/SFF; sustentação oral de Helen Apolinário (CCEE); apresentação técnica do servidor Alex Alves",
+   "tema": [
+    "comercialização (CCEE, monitoramento prudencial)",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (instaurada consulta pública)",
+   "resumo_voto": "Relator dispensou a fundamentação; elogiou a instrução que expõe os pontos controversos com os agentes; votou por instaurar a CP de 47 dias.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "0:34:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:34:23",
+     "confianca": "media",
+     "justificativa": "parabeniza as equipes; CP para ver o que se deixou de enxergar"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "0:32:06",
+     "justificativa": "instrução didática e transparente indicando os pontos controversos facilita a consulta pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:35:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "0:34:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:35:05",
+   "processo": "48500.006366/2020",
+   "interessado": "Norte Brasil Transmissora de Energia (NBTE)",
+   "assunto": "Ratificação: recurso administrativo contra Despacho 1178/2025 (STD) que manteve parcela variável por indisponibilidade (PVI) pela queda de torre do bipolo 2 do Rio Madeira (Porto Velho–Araraquara 2) em 13-14/10/2020; sustentação oral de Aline Terezinha de Souza (NBTE) alegando caso fortuito (ventos de até 137 km/h)",
+   "tema": [
+    "transmissão (PVI, indisponibilidade)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "recurso conhecido e não provido, por unanimidade (ratificação)",
+   "resumo_voto": "Relator manteve o voto original do circuito deliberativo: negar provimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:44:49",
+     "confianca": "media",
+     "justificativa": "longo histórico de julgados: engenharia deve prever confiabilidade; só eventos que extrapolem muito o usual; remuneração fixa com cláusulas de qualidade; pedidos cada vez mais raros"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "0:46:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "0:46:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento (mantém voto)",
+     "ts": "0:44:04",
+     "justificativa": "mantém o voto original após a sustentação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "0:46:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:46:42",
+   "processo": "48500.002741/2025-49",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Recurso contra Despacho 2496/2025 (STD) que isentou a PIO mas manteve o ADCUST por ultrapassagem de MUST em 31/08/2024 (desligamento de subestações da rede básica, Guarulhos, por pipa); sustentação oral de Hugo Lamim (Enel SP)",
+   "tema": [
+    "transmissão (MUST, encargos de uso)",
+    "tarifas",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "pedido de vista de Gentil Nogueira (não votado)",
+   "resumo_voto": "Relator votou por negar provimento quanto ao ADCUST; Agnes observou que em contrato antigo o risco é do agente; Gentil citou precedente Equatorial Pará (jan/2025, SE Castanhal) com repasse do ADCUST ao processo tarifário e pediu vista para uniformizar; relator concordou com a vista.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento (concorda com a vista)",
+     "ts": "0:58:53",
+     "justificativa": "mantém voto original; diante do fato novo prefere o encaminhamento da vista por tratamento isonômico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "1:03:49",
+     "justificativa": "precedente Equatorial Pará (decisão de jan/2025) aparentemente congênere; uniformizar o tratamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista); observação: contrato antigo, risco da transmissão fica com o agente",
+     "ts": "1:00:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista); sugeriu retirada de pauta ou vista",
+     "ts": "1:04:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "1:05:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:05:17",
+   "processo": "48500.003395/2022-72",
+   "interessado": "Petrobras (UTE TermoCeará)",
+   "assunto": "Ratificação: pedido de reconsideração contra Despacho 2495/2024 que determinou a rescisão (retroativa) dos CCEARs da UTE TermoCeará; sustentação oral de Jean William (Petrobras) pedindo arquivamento, efeitos ex nunc ou recálculo do CVU merchant",
+   "tema": [
+    "comercialização (CCEAR)",
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "reconsideração conhecida e não provida, por unanimidade (ratificação)",
+   "resumo_voto": "Relatora leu só o dispositivo: negar provimento ao pedido de reconsideração com efeito suspensivo. Na decisão original (ago/2024) Agnes havia ficado vencida, segundo a sustentação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (ratifica)",
+     "ts": "1:13:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "1:12:14",
+     "justificativa": "voto já disponível no circuito deliberativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:13:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:13:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:13:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:13:52",
+   "processo": "48500.005360/2023",
+   "interessado": "Companhia Siderúrgica Nacional (CSN); CCEE",
+   "assunto": "Ratificação: pedido de reconsideração contra Despacho 110/2025 (impugnação de decisão do CAd/CCEE sobre recontabilização); relatora Ludimila Lima, voto-vista Sandoval Feitosa; sustentação oral da representante da CSN pedindo nova análise da PF",
+   "tema": [
+    "comercialização (CCEE, recontabilização)",
+    "recursos administrativos"
+   ],
+   "relator": "Ludimila Lima (voto-vista Sandoval Feitosa)",
+   "resultado": "retirado de pauta (nova consulta à Procuradoria)",
+   "resumo_voto": "Sandoval, autor do voto-vista, diante da sustentação e da manifestação da procuradora (reanálise possível), retirou o processo para nova consulta à PF.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta (voto-vista)",
+     "ts": "1:23:21",
+     "justificativa": "remeter nova consulta à Procuradoria diante dos argumentos da sustentação",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:23:41",
+   "processo": "48500.003258/2022-77 e outros",
+   "interessado": "Campos Energia SPE 1 a 10 e Talismã Energia SPE 1 a 10 (UFVs Campos 1 a 20, Santa Rita de Cássia/BA)",
+   "assunto": "Pedido de reconsideração contra Despacho 2551/2025 que indeferiu postergação do prazo do desconto na TUST/TUSD e recomposição do prazo das outorgas; sustentação oral de Cláudio Girardi (ato do poder público: parecer do ONS adiando conexão para 2030)",
+   "tema": [
+    "outorgas de geração (solar)",
+    "tarifas (desconto TUST/TUSD)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "reconsideração conhecida e não provida, por unanimidade",
+   "resumo_voto": "Com base no parecer PF 130/2025: sem previsão legal para estender desconto; decisão judicial só suspendeu prazos de CUST e garantias; art. 12 §2º da REN 1071 não se aplica; ajustes técnicos são competência da superintendência.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:36:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:36:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:36:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator (não explícito na legenda; proclamação unânime)",
+     "ts": "1:36:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "1:31:40",
+     "justificativa": "não há fatos novos; sem previsão legal para extensão do desconto (Lei 9.427); acompanha área técnica e PF",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "15 — reconsideração CSN (recontabilização CCEE)",
+   "relator": "Ludimila Lima (voto-vista Sandoval Feitosa)",
+   "motivo": "nova consulta à Procuradoria Federal",
+   "ts": "1:23:21"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de representantes incertos (ex.: Jean William Carms, Yasmogo Ferreira, Cláudio Girarde).",
+  "Presença de Fernando Mosna e Ludimila Lima não confirmada explicitamente; só se ouvem duas falas de 'acompanho' por item; votos não explícitos marcados com confiança baixa.",
+  "Na fala de 0:46:13 há menção a 'Dr. Sandoval deixou consignado voto' que pode ser erro de legenda (talvez outra diretora ausente).",
+  "Rótulos de falante {..} do .md são frequentemente errados (ex.: 0:12:43 é o servidor Alex Alves, 0:44:49 é o presidente)."
+ ]
+}

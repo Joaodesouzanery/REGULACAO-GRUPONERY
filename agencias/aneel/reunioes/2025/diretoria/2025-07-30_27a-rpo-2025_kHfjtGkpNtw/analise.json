@@ -1,0 +1,301 @@
+{
+ "meta": {
+  "video_id": "kHfjtGkpNtw",
+  "fonte": "legenda automática do YouTube; falantes não separados no .md (atribuição por contexto); ts a partir de data/aneel/transcricoes/kHfjtGkpNtw.json",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "27ª RPO 2025",
+  "data": "2025-07-30",
+  "formato": "presencial com participação remota (Agnes da Costa remota)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Daniel Danna",
+   "Ivo Sechi Nazareno (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Boas-vindas ao diretor substituto Ivo Sechi Nazareno (desde 14/07/2025), que substitui Ludimila Lima.",
+   "Pauta com 38 itens; itens 3 a 38 em bloco; itens 4 e 10 destacados para sustentação oral; item 7 retirado de pauta.",
+   "Aprovadas as atas da 23ª e 26ª RPO, registradas as ausências dos diretores respectivos.",
+   "Item 1 (MP 1300/2025, mecanismo concorrencial do GSF na CCE) teve longo debate sobre o WACC (9,63% da MP x 10,94% da Portaria MME 112/2025) levantado por Fernando Mosna; terminou com pedido de vista dele.",
+   "Encerrada por volta de 2:55:10 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 3 a 38, exceto 4, 7 e 10)",
+   "ts": "0:41:20",
+   "processo": "",
+   "interessado": "diversos (reclamações de consumidores, cautelares de MMGD e acesso, transferências de concessão, DUPs)",
+   "assunto": "Itens de bloco: reclamações de consumidores sobre faturamento, classificação tarifária e devoluções; cautelares de micro/minigeração distribuída e acesso à rede; transferências de concessões; declarações de utilidade pública (MG, TO, PA, MT e outros)",
+   "tema": [
+    "recursos administrativos",
+    "geração distribuída (MMGD)",
+    "outorgas",
+    "transmissão"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, exceto itens com pedido de vista (6 e 8)",
+   "resumo_voto": "Bloco aprovado; votos já publicados; pedidos de vista dos itens 6 e 8; alguns diretores mantiveram voto já proferido no item 8.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:41:56",
+     "justificativa": "Proclamou aprovação unânime do bloco, exceto itens com vista; possivelmente pediu vista de um dos itens (atribuição incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco; mantém voto no item 8",
+     "ts": "0:41:40",
+     "justificativa": "Disse: «mantenho também meu voto no item oito e aprova os itens remanescentes do bloco».",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco; provável pedido de vista (item 8)",
+     "ts": "0:41:30",
+     "justificativa": "Começou a pedir vista antes da vez e foi interrompido («Desculpa, Mosna»); falante não separado na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "aprova o bloco",
+     "ts": "0:41:26",
+     "justificativa": "Um diretor: «mantenho o meu voto no item oito e ... aprovo o bloco na integralidade»; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "aprova o bloco",
+     "ts": "0:41:49",
+     "justificativa": "Um diretor manteve voto no item 8 e pediu vista do item 6; atribuição incerta.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:42:24",
+   "processo": "48500.034725/2025-92 (número incerto na legenda)",
+   "interessado": "CCE; agentes de geração hidrelétrica do MRE; Statkraft, Abragel, Abrage e outros (consultas)",
+   "assunto": "Rebatimentos do mecanismo concorrencial da MP 1300/2025 (títulos do GSF judicializado) no direito a descontos na TUST/TUSD, no limite de 7 anos de extensão de outorga e na livre disposição de energia (inclusive usinas cotistas)",
+   "tema": [
+    "comercialização (CCEE, MRE, GSF)",
+    "tarifas (TUST/TUSD descontos)",
+    "outorgas de geração (hidrelétrica)",
+    "institucional/MME"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Fernando Mosna (julgamento suspenso)",
+   "resumo_voto": "Relatora, com PF-ANEEL (Parecer 160/2025) e NT conjunta 36/2025 SCE/SGM: descontos mantidos na extensão (extensão não é prorrogação); limite de 7 anos só para este mecanismo; livre disposição não altera regime de cotas (parcela cotista não pode ser vendida livremente). Incorporou recomendação ao MME para reavaliar o WACC (10,94% da Portaria 112) e ratificar/retificar, sobrestando o mecanismo se julgar necessário. Mosna defendeu 9,63% (parâmetros da repactuação 2015/2020) e propôs recomendar expressamente ao MME e à CCE a suspensão do leilão de 1º/08.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova (com recomendação ao MME)",
+     "ts": "2:23:30",
+     "justificativa": "Esclarecimentos conforme PF e áreas técnicas; não se sente em posição de fazer controle de legalidade de ato do ministério; propõe recomendar ao MME reavaliar o fundamento do WACC, sobrestando o mecanismo se julgar necessário.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "2:25:21",
+     "justificativa": "Sustentou que a MP 1300 manda usar os parâmetros já aplicados pela ANEEL (WACC 9,63%) e a Portaria 112 (10,94%) seria ilegal, alongando outorgas (exemplo Amador Aguiar 2: 459 dias a mais); divergia para recomendar ao MME e à CCE a suspensão do mecanismo de 1º/08.",
+     "confianca": "alta",
+     "tom": "firme, crítico ao alijamento da ANEEL"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha a relatora",
+     "ts": "2:25:17",
+     "justificativa": "Antes defendeu informar o MME para ratificar/retificar a portaria, cabendo ao MME e à CCE decidir sobre a data do certame.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "2:25:19",
+     "justificativa": "Antes concordou que o WACC é ponto importante e independente dos esclarecimentos; apoiou encaminhamento ao ministério.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista concedida antes de seu voto)",
+     "ts": "2:25:25",
+     "justificativa": "Disse ter dúvida entre 9,63% e 10,94% e que o certame não deveria ocorrer com a dúvida ativa; concedeu vista.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:29:18",
+   "processo": "48500.006448/2023-27",
+   "interessado": "consumidor (Deus Liv Vast Tosta, nome incerto) x Equatorial Goiás",
+   "assunto": "Recurso contra Despacho 1633/2024 da SMA sobre restituição de adiantamento para atendimento de solicitação de fornecimento",
+   "tema": [
+    "recursos administrativos",
+    "consumidor",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Representante não compareceu para sustentação; relator foi direto ao dispositivo mantendo integralmente o despacho 1633/2024.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "2:30:20",
+     "justificativa": "Mantém integralmente o despacho 1633 de 27/05/2024.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:31:05",
+     "justificativa": "Presidiu a votação como DG substituta na ausência momentânea de Sandoval.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:31:07",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "2:31:09",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:31:40",
+     "justificativa": "Ausente na votação; pediu depois para registrar seu voto após a PF ratificar o Parecer 129.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:32:04",
+   "processo": "48500.002589/2025-59",
+   "interessado": "REC Bandeirantes 41 Participações S.A. x ONS; ISA Energia (transmissora)",
+   "assunto": "Medida cautelar para revalidar parecer de acesso de unidade consumidora (empreendimento com data centers em Franco da Rocha/SP) e anular cancelamento pelo ONS",
+   "tema": [
+    "transmissão (acesso à rede)",
+    "recursos administrativos"
+   ],
+   "relator": "Ivo Sechi Nazareno (diretor substituto)",
+   "resultado": "aprovado por unanimidade: cautelar negada; processo à STD em primeira instância",
+   "resumo_voto": "Sustentação oral de Pedro Henrique Dante e Piero Carli (atraso do ONS e da ISA nos contratos CUST/CCT). Relator: sem fumaça do bom direito (CUST padrão enviado com ~21 dias; assinatura do CUST reserva a rede) nem perigo da demora (cinco outros acessantes na fila).",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "relator, aprova (nega cautelar)",
+     "ts": "2:42:53",
+     "justificativa": "Ônus de assinar o CUST era do acessante; rede no limite e outros cinco acessantes aguardando.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:50:50",
+     "justificativa": "Questionou se a empresa assinaria o CUST imediatamente (exemplo do shopping center); seguiu o relator, cabendo à STD avaliar eventual extrapolação do ONS.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:51:04",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:51:06",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:51:08",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:25:33",
+   "processo": "48500.007747/2022 (número incompleto)",
+   "interessado": "ISA Energia Brasil S.A.",
+   "assunto": "Pedido de reconsideração contra Despacho 1228/2025 (revisão periódica da RAP de transmissoras prorrogadas pela Lei 12.783/2013, julho/2023; sistema de armazenamento em Registro e BPR para módulos incompletos)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili (voto-vista de Sandoval Feitosa)",
+   "resultado": "aprovado por unanimidade dos votantes: não conhecer o pedido de reconsideração",
+   "resumo_voto": "Voto-vista acompanha o relator: sem fato novo nem ilegalidade; armazenamento em discussão com o poder concedente para retificação do POTEE; leitura adiada pois o voto-vista não estava no sistema.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "2:51:55",
+     "justificativa": "Pediu vista por efeito temporal (POTEE não publicado antes da revisão); presunção de legalidade do ato; empresa pode pleitear quando o POTEE sair.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "não vota (antecessora votou)",
+     "ts": "2:54:38",
+     "justificativa": "Não vota em razão de voto da antecessora (Ludimila Lima).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "não vota",
+     "ts": "2:54:42",
+     "justificativa": "«Também não voto nesse processo que foi relatado pelo diretor Tili» (atribuição incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "mantém voto (com o relator)",
+     "ts": "2:54:46",
+     "justificativa": "«Eu mantenho meu voto» (atribuição incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:54:50",
+     "justificativa": "Não estava na reunião anterior; vota com o relator (atribuição incerta).",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 7 (retirado de pauta; assunto não lido)"
+ ],
+ "limites_da_analise": [
+  "Daniel Danna e Ivo Sechi Nazareno (substituto de Ludimila Lima) não constam da lista de diretores do config; nomes registrados como ditos/grafia provável.",
+  "Legenda sem separação de falantes: atribuições de votos no bloco, item 1 (seguidores) e item 2 são inferidas pela ordem e contexto.",
+  "Pedidos de vista do bloco (itens 6 e 8) sem autoria segura; conteúdo dos itens do bloco não lido.",
+  "Números de processo e nomes (interessado do item 4, sustentantes do item 10) podem estar errados na legenda."
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "meta": {
+  "video_id": "iRbtk5tJ7qY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "14ª Reunião Pública Ordinária de 2025",
+  "data": "2025-04-29",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Agnes da Costa presidiu o item 6",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta com 42 itens; 8 a 42 em bloco; retirados os itens 5 e 10; sustentações orais nos itens 1, 2, 3 e 7.",
+   "Ordem: bloco, 4, 15 (destaque), 1, 3, 7, 2, 6.",
+   "Item 1 decidido por maioria (Ludimila, Agnes, Sandoval x Fernando, Ricardo).",
+   "Item 2 (Light) com pedido de vista do Diretor-Geral após fato novo da Receita Federal.",
+   "Item 7: DG retificou o resultado para unanimidade na recomendação."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:51",
+   "processo": "itens 8 a 42 da pauta (exceto 10, retirado, e 15, destacado)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos disponibilizados com a pauta); sem debate",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Agnes da Costa destacou o item 15; demais itens do bloco aprovados por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:05:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco (destaca o item 15)",
+     "ts": "0:05:00",
+     "confianca": "alta",
+     "justificativa": "dúvida se o parcelamento soma juros de 1% ao mês ao IGP-M"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco",
+     "ts": "0:05:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:05:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:05:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:06:11",
+   "processo": "48500.003314/2024-?? (número incerto)",
+   "interessado": "Equatorial Alagoas (distribuidora)",
+   "assunto": "Reajuste tarifário anual 2025 da Equatorial Alagoas, a partir de 3/5/2025, com diferimento positivo de R$ 150 milhões pedido pela distribuidora",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "diferimento tarifário"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -11,90% sem diferimento; acolhido diferimento de R$ 150 milhões (com concordância do Conselho de Consumidores), efeito médio -6,79%, passivo regulatório remunerado pela Selic a reverter no próximo processo. Redução por quitação das contas Covid e Escassez Hídrica e sinal locacional.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova com diferimento",
+     "ts": "0:19:58",
+     "confianca": "alta",
+     "justificativa": "diferimento reduz volatilidade, dá previsibilidade e estabilidade; evita -12% agora e +12% no ano seguinte"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:24:36",
+     "confianca": "media",
+     "justificativa": "comenta quitação das contas Covid/Escassez e sinal locacional reduzindo custo de transmissão em Alagoas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:24:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:24:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:24:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:26:21",
+   "processo": "não informado na transmissão",
+   "interessado": "REVAT Geradora de Energia Elétrica (usina citada como MADU, nome incerto); CCEE",
+   "assunto": "Recurso contra notificação de pagamento da CCEE pela resolução do contrato de energia de reserva; destaque da diretora Agnes sobre a redação do parcelamento",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhecer e dar parcial provimento: revisar o ressarcimento até o cancelamento do registro; indeferir pedido de não incidência de correção/juros e de pagar com energia; conceder parcelamento em 6 vezes corrigido pelo IGP-M mais juros de 1% ao mês. Redação retificada pelo relator.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (redação retificada)",
+     "ts": "0:26:21",
+     "confianca": "alta",
+     "justificativa": "erro ao subir o voto; esclarece IGP-M mais juros de mora de 1% ao mês"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (após destaque esclarecido)",
+     "ts": "0:27:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:27:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:29:12",
+   "processo": "48500.003322/2024-81 (número incerto)",
+   "interessado": "Neoenergia Pernambuco (Celpe); sustentação oral de Breno Fernandes Lobo Nogueira (Neoenergia Pernambuco)",
+   "assunto": "Resultado da revisão tarifária periódica 2025 da Neoenergia Pernambuco após Consulta Pública 4/2025; disputa sobre a Energisa Acre como benchmark de perdas não técnicas",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "perdas não técnicas"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria (3x2), vencido o relator quanto à meta de perdas e à cautelar",
+   "resumo_voto": "Relator propunha cautelar de ofício afastando a Energisa Acre como benchmark (variável roubo de veículos ausente em 25 de 138 modelos), perdas não técnicas flat de 16,31% e análise da STR em 180 dias (efeito 0,65%). Divergência de Ludimila Lima: aprova a revisão com o referencial de perdas da nota técnica (efeito 0,61%), sem cautelar. STR (Leandro) disse que a ausência de dados já era tratada pela metodologia e simulação com proxy de Rondônia muda pouco.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova com cautelar e perdas flat; vencido",
+     "ts": "0:51:18",
+     "confianca": "alta",
+     "justificativa": "erro material na modelagem (25 de 138 modelos sem dado) gera dúvida razoável; usar o ponto de partida da própria concessionária e mandar a STR reanalisar em 180 dias; diz respeitar e dar enforcement à regra"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "diverge parcialmente: aprova a revisão, mas não acompanha o item G (perdas) nem a cautelar",
+     "ts": "1:46:28",
+     "confianca": "alta",
+     "justificativa": "dados faltantes já tratados pela metodologia desde a CP; usar Coelba ou flat afasta a metodologia de benchmark"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência de Ludimila Lima",
+     "ts": "1:47:00",
+     "confianca": "media",
+     "justificativa": "comentou critérios de semelhança e a ponderação pela matriz de probabilidade"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator; vencido",
+     "ts": "1:47:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência",
+     "ts": "1:47:08",
+     "confianca": "alta",
+     "justificativa": "metodologia é norma objetiva para evitar casuísmo; não sair da regra às vésperas de rediscuti-la na agenda regulatória; Neoenergia pediu Acre como benchmark na CP 29/2020"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:48:04",
+   "processo": "48500.003318/2024-?? (número incerto)",
+   "interessado": "CPFL Paulista; CPFL Brasil/CPFL Comercialização; sustentação oral de Márcio Pina (CPFL); Conselho de Consumidores da CPFL Paulista",
+   "assunto": "Reajuste tarifário anual 2025 da CPFL Paulista (vigência a partir de 30/4/2025), com voto-vista de Fernando Mosna sobre a inclusão de parcela (R$ 1,3 bi de R$ 4,68 bi) de decisão judicial",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "judicialização",
+    "acordos (norma de organização 54)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (voto da relatora reformulado, convergindo com o voto-vista)",
+   "resumo_voto": "Após decisão da 14ª Vara Federal (título ilíquido) e nova nota jurídica 12/2025 da Procuradoria, reajuste homologado sem o componente judicial: efeito médio -3,66%; diferença de receita desde 8/4 compensada em 2026 pela Selic; instaurar processo apartado em que a Procuradoria pergunte à CPFL se mantém a carta 3 como proposta de acordo (NO 54/2023).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: exclui o componente judicial; acompanha o voto reformulado da relatora",
+     "ts": "2:02:22",
+     "confianca": "alta",
+     "justificativa": "título claramente ilíquido segundo o juiz; parcelamento é acordo (concessões mútuas) e exige rito da NO 54; contrato entre partes relacionadas sem cláusula de juros de mora, correção só por IGP-M; repassar R$ 4,6 bi seria enriquecimento sem causa",
+     "tom": "assertivo"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, reformula o voto e aprova sem o componente judicial",
+     "ts": "2:33:33",
+     "confianca": "alta",
+     "justificativa": "fatos novos (decisão judicial e nova nota da Procuradoria) tornam insustentável o voto anterior"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "2:51:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora, nos termos do segundo voto",
+     "ts": "2:51:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora com os ajustes",
+     "ts": "2:51:49",
+     "confianca": "alta",
+     "justificativa": "elogia o debate colegiado; diz que Fernando e Ricardo foram persuasivos"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:54:48",
+   "processo": "48500.007421/2025-13 (número incerto)",
+   "interessado": "EDP Espírito Santo (distribuidora); sustentação oral de Ricardo Brandão (Abradee)",
+   "assunto": "Cumprimento dos critérios para prorrogação do contrato de concessão de distribuição 1/1995 da EDP Espírito Santo (Decreto 12.068/2024); votos-vista de Fernando Mosna e Ricardo Tili",
+   "tema": [
+    "renovação de concessões de distribuição",
+    "regulação normativa"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade a recomendação de prorrogação ao MME; prevaleceu por maioria o voto da relatora (só critérios do art. 2º do decreto), vencidos Fernando Mosna e Ricardo Tili nos critérios adicionais",
+   "resumo_voto": "Recomendar ao MME a prorrogação e encaminhar minuta do 5º termo aditivo, com base estritamente nos critérios do art. 2º do Decreto 12.068/2024 (parecer 80/2025 da Procuradoria). Votos-vista propunham critérios adicionais (tendência DEC expurgado, IASC, tempo de atendimento emergencial, obras atrasadas) e audiência pública obrigatória. DG proclamou maioria e depois retificou para unanimidade quanto à recomendação.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, recomenda a prorrogação com base no decreto; mantém o voto",
+     "ts": "3:35:51",
+     "confianca": "alta",
+     "justificativa": "parecer da Procuradoria reforça que a ANEEL não pode criar critérios além do art. 2º"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: recomenda a prorrogação com critérios adicionais e audiência pública; vencido nos acréscimos",
+     "ts": "3:06:57",
+     "confianca": "alta",
+     "justificativa": "recomendar é ato opinativo fundamentado, não carimbo; lei 8.987 (serviço adequado) prevalece sobre decreto; TCU fará análise individual; EDP atende IASC, tempo de atendimento e obras",
+     "tom": "assertivo"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: recomenda com critérios adicionais; mantém o voto; vencido nos acréscimos",
+     "ts": "3:54:44",
+     "confianca": "alta",
+     "justificativa": "critérios do decreto são mínimos e rasos; temerário recomendar prorrogação de 30 anos só com eles"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "3:51:57",
+     "confianca": "alta",
+     "justificativa": "juntará fundamentação escrita"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:54:51",
+     "confianca": "alta",
+     "justificativa": "critério é do poder concedente; ANEEL deve informar e agir por fiscalização, sanções e caducidade"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "4:00:06",
+   "processo": "48500.003323/2024-?? (número incerto)",
+   "interessado": "Light Serviços de Eletricidade; sustentação oral de Felipe Tenório (Light)",
+   "assunto": "Reajuste tarifário anual 2025 da Light (data contratual 15/3/2025), com votos-vista de Ludimila Lima e Ricardo Tili; fato novo: despacho da Receita Federal deferindo parcialmente créditos de PIS/Cofins",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "diferimento tarifário",
+    "créditos de PIS/Cofins"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Sandoval Feitosa); não concluído",
+   "resumo_voto": "Voto-vista de Ricardo Tili: excluir componente financeiro negativo de PIS/Cofins (~R$ 1,44 bi), efeito -1,67%, diferença de receita compensada em 2026 pela Selic e fiscalização da SFF sobre créditos. Relator Fernando aderiu. STR e SFF disseram desconhecer o despacho da Receita (notificado à Light em 14/4).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: aprova excluindo créditos de PIS/Cofins; mantém o voto",
+     "ts": "4:06:49",
+     "confianca": "alta",
+     "justificativa": "despacho da Receita impede novo aproveitamento; há espaço tarifário e o que a fiscalização apurar vai ao reajuste de 2026"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator: adere ao voto-vista de Ricardo Tili",
+     "ts": "4:23:17",
+     "confianca": "media",
+     "justificativa": "fato novo superveniente ao seu voto"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "mantém seu voto-vista (diferimento parcial)",
+     "ts": "4:23:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto de Ludimila Lima",
+     "ts": "4:23:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "4:23:19",
+     "confianca": "alta",
+     "justificativa": "perplexidade com carta de última hora; áreas técnicas desconheciam impacto de cerca de R$ 1,5 bi",
+     "tom": "crítico à distribuidora"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:24:05",
+   "processo": "48500.005112/2021-46 (número incerto)",
+   "interessado": "Amazonas Energia; Powertec (UTE Manicoré)",
+   "assunto": "Condições de atendimento ao município de Manicoré (AM) — Portaria MME 714/2022; prorrogação da locação emergencial da UTE Manicoré 2",
+   "tema": [
+    "sistemas isolados",
+    "outorgas de geração (térmica)",
+    "fiscalização"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece que não foram restabelecidas integralmente as condições de atendimento (recuperação judicial da Powertec); autoriza a Amazonas Energia a prorrogar por até 180 dias a locação de reserva (última possível na portaria); SFT/SFF acompanham; Procuradoria informa evolução judicial; análise de solução estrutural pelo art. 8º-A do Decreto 7.246/2010.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova a prorrogação por precaução",
+     "ts": "4:55:34",
+     "confianca": "alta",
+     "justificativa": "precaução: processos judiciais pendentes e parecer da Procuradoria apontam risco"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "4:58:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "4:58:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (voto deixado, ausente na hora)",
+     "ts": "4:58:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (voto deixado, ausente na hora)",
+     "ts": "4:58:08",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "5",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não dito)",
+   "ts": "0:04:20"
+  },
+  {
+   "item": "10 (bloco)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta",
+   "ts": "0:04:20"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo incompletos/incertos; valores podem estar errados.",
+  "No item 2 a atribuição de 'mantenho meu voto' a Ludimila Lima e do pedido de vista a Sandoval Feitosa é inferida pela ordem de votação.",
+  "No item 1, a frase 'acompanho a divergência... acompanho o voto do relator' mistura duas falas; atribuídas a Agnes (divergência) e Ricardo (relator) pela proclamação por maioria.",
+  "Itens de bloco não detalhados (votos só escritos).",
+  "Nome da usina no item 15 (MADU) e do interessado (REVAT) incertos.",
+  "No item 6, Fernando Mosna e Sandoval Feitosa haviam saído e deixaram voto."
+ ]
+}

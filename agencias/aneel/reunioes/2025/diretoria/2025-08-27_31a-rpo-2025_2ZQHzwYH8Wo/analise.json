@@ -1,0 +1,109 @@
+{
+  "meta": {"video_id": "2ZQHzwYH8Wo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:35); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "31ª RPO 2025", "data": "2025-08-27", "formato": "presencial com participação remota (diretor substituto Ivo por vídeo); sala alternativa por problema técnico",
+    "presidente_da_sessao": "Agnes da Costa (diretora-geral substituta)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Daniel Danna", "Ivo (diretor substituto, remoto; saiu antes do item 19 deixando votos)"],
+    "ausentes": ["Sandoval Feitosa (ausência justificada)"],
+    "observacoes": [
+      "Quórum de quatro diretores. Presidência registra aprovação no Senado (19/08/2025) de Gentil Nogueira e Willamy Frota, aguardando nomeação no DOU.",
+      "Informes: leilão de energia nova A-5 de 2025 (22/08), CP 28/2025 do leilão de transmissão 1/2026, workshop de data centers (04/09).",
+      "Agnes da Costa informou o Prêmio Inovação ANEEL e a retirada de pauta da CP 39 (marco regulatório do armazenamento, relator Daniel Danna, com vista dela) após ofício 181 da SNTEP/MME pedindo reuniões técnicas sobre tarifação do uso da rede por armazenamento.",
+      "Pauta com 46 itens; itens 5 a 46 em bloco; item 19 destacado; itens 3, 15 e 16 retirados; sustentação oral nos itens 4 e 19; item 8 destacado do bloco por Agnes da Costa.",
+      "Ata da 30ª RPO aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "1:16:31", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 5 a 46 (exceto 8 e 19 destacados e 15/16 retirados), com votos disponibilizados previamente",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado; no item 14 (relator Ricardo Tili, ex-diretor) houve manifestações específicas: um diretor acompanhou o relator, outro não votou em razão do voto já apresentado por Ricardo Tili, e Fernando Mosna manteve seu voto.",
+      "votos": [
+        {"diretor": "Daniel Danna", "voto": "aprova o bloco; no item 14 acompanha o relator Ricardo Tili", "ts": "1:16:39", "confianca": "baixa"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "aprova o bloco; não vota no item 14 em razão do voto de Ricardo Tili", "ts": "1:16:45", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco e mantém seu voto no item 14", "ts": "1:16:56", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco e pede destaque do item 8", "ts": "1:17:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:17:10", "processo": "48500....802/2024-42", "interessado": "Secretaria de Leilões/SGM; distribuidoras dos sistemas isolados (Amazonas e Pará)",
+      "assunto": "Aprovação do edital do Leilão 1/2025 — suprimento aos sistemas isolados 2025 (11 localidades em 3 lotes no AM e PA; mínimo de 22% de energia renovável ou gás natural), após CP 2/2025",
+      "tema": ["leilões (sistemas isolados)", "comercialização (CCEE)", "CDE e encargos setoriais (CCC)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta do edital e anexos; apresentação técnica de Igor Caminha (Secretaria de Leilões): parcela Petrib (ICMS) incorporada à receita variável, CCEE deixa de ser interveniente do contrato, antecipação de suprimento em Anamã, Caapiranga e Codajás (Portaria MME 116/2025); preços-teto informados pelo MME; sessão prevista para 26/09/2025. Procuradoria (parecer 179/2025) favorável.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:36:48", "justificativa": "primeiro leilão de sistema isolado com renovabilidade mínima; reabertura de prazos e portarias para dar transparência", "confianca": "alta"},
+        {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "1:41:21", "justificativa": "elogia relatoria; leilão dos isolados é dos mais difíceis, mais desafiador com a renovabilidade", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:41:24", "justificativa": "leilão foca em soluções de suprimento e inventividade do setor privado; aprendizado para outros leilões", "confianca": "media"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "acompanha o relator (unanimidade proclamada)", "ts": "1:41:24", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:41:40", "processo": "48500.03674/2025-18", "interessado": "Energisa Paraíba (distribuidora)",
+      "assunto": "Revisão tarifária periódica 2025 da Energisa Paraíba, vigência a partir de 28/08/2025, após CP 24/2025 e audiência pública 5/2025 em João Pessoa",
+      "tema": ["tarifas e revisão tarifária (RTP)", "CDE e encargos setoriais"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio de 13,59% (12,11% alta tensão; 13,94% baixa tensão); fixa TUSD/TE, recursos CDE, receita de DIT, postos tarifários, fator X (componentes Pd e T) e referencial de perdas 2025–2028. Apresentação técnica de Fabiano (STR).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:59:24", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:02:33", "justificativa": "destaca peso da CDE uso (2,71%) e CDE GD (~1%) comparável à remuneração da base; reflexão cabe ao Congresso", "confianca": "media"},
+        {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "2:02:36", "confianca": "media"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "acompanha o relator (unanimidade proclamada)", "ts": "2:02:36", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:05:17", "processo": "48500.020505/2025-42", "interessado": "Abradee (Associação Brasileira de Distribuidores de Energia Elétrica)",
+      "assunto": "Pedido de medida cautelar da Abradee para suspender os planos de resultados da SFT com metas de TMAE e de interrupções acima de 24 horas (ciclo 2025/2026) até regulamentação",
+      "tema": ["fiscalização e sanções (plano de resultados, fiscalização responsiva)", "distribuição e qualidade", "recursos administrativos (cautelar)"],
+      "relator": "Daniel Danna", "resultado": "cautelar conhecida e negada por unanimidade",
+      "resumo_voto": "Sustentação oral de Ricardo Brandão (Abradee): metas exigem AIR e consulta pública, plano não pode valer para 100% das distribuidoras, correlação fraca TMAE x DEC. Procurador Eduardo Ramalho: plano de resultados é instrumento consensual de regulação responsiva. Relator: sem fumaça do bom direito (indicador já previsto no Prodist módulo 8, metas como referência, 27 de 51 distribuidoras com metas de redução) nem perigo da demora (não sancionatório).",
+      "votos": [
+        {"diretor": "Daniel Danna", "voto": "relator, conhece e nega provimento à cautelar", "ts": "2:22:34", "justificativa": "TMAE piorou 32% desde 2015; plano de resultados não cria obrigação nem é sancionatório; suspender engessaria a fiscalização", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:48:48", "justificativa": "fiscalização tem papel indutor; ANEEL não pode fechar os olhos ao atendimento emergencial; sugere normatizar a fiscalização responsiva", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:48:48", "confianca": "baixa"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "acompanha o relator (voto deixado antes de se ausentar)", "ts": "3:01:49", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "19", "ts": "2:49:00", "processo": "48500.017332/2025-30", "interessado": "CSN Energia / Companhia Estadual de Geração de Energia Elétrica (UHE Jacuí, RS)",
+      "assunto": "Pedido de medida cautelar para impedir a suspensão da operação comercial da UHE Jacuí, paralisada pelas enchentes de maio de 2024, até o fim da modernização",
+      "tema": ["outorgas de geração (hidrelétrica)", "fiscalização e sanções", "recursos administrativos (cautelar)"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista (relatora votou por negar a cautelar)",
+      "resumo_voto": "Sustentação oral de Janaína (CSN Energia): força maior, prazo de 12 meses por unidade geradora, risco ao financiamento de R$ 500 milhões do BNDES e à saída do MRE. Relatora: sem fumaça do bom direito (REN 1029 e 1033; paralisada desde maio/2024, obras desde junho/2025 até julho/2027); mérito na instrução da área técnica.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, conhece e nega provimento à cautelar", "ts": "2:56:19", "justificativa": "operação comercial deve refletir a realidade física; prazo supera os 12 meses da REN 1033", "confianca": "alta"},
+        {"diretor": "Daniel Danna", "voto": "acompanha a relatora", "ts": "3:01:45", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "3:01:45", "justificativa": "questionou contagem do prazo de 12 meses vs 26 meses e efeito da força maior", "confianca": "media"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "acompanha a relatora (voto deixado antes de se ausentar)", "ts": "3:01:49", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "3:02:02", "processo": "48500.004034/2027-15", "interessado": "ONS (Operador Nacional do Sistema Elétrico)",
+      "assunto": "Indicadores e metas de performance organizacional do ONS para o ciclo jan/2026–dez/2028: abertura de consulta pública (intercâmbio documental, 33 dias a partir de 28/08/2025)",
+      "tema": ["regulação normativa (consulta pública)", "institucional (ONS)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaura CP por 33 dias. Destaque de Agnes da Costa sem reparos, sugerindo indicadores de cumprimento de decisões da ANEEL (caso Coremas), multas, controles internos (caso IBMT), mapeamento de inadimplência e transparência (curtailment/CP 45); relator concorda e pretende tratar com o diretor-geral do ONS.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura da CP", "ts": "3:02:50", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (destaque sem reparos)", "ts": "3:03:27", "justificativa": "provocar reflexão da sociedade sobre indicadores de cumprimento de decisões, controles internos, inadimplência e transparência do ONS", "confianca": "alta"},
+        {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "3:11:31", "confianca": "media"},
+        {"diretor": "Ivo (diretor substituto)", "voto": "acompanha o relator (voto deixado)", "ts": "3:11:34", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "3", "relator": "", "motivo": "retirado de pauta (motivo não informado)", "ts": "1:15:33"},
+    {"item": "15", "relator": "", "motivo": "retirado de pauta", "ts": "1:15:33"},
+    {"item": "16", "relator": "", "motivo": "retirado de pauta", "ts": "1:15:33"},
+    {"item": "CP 39 — marco regulatório do armazenamento", "relator": "Daniel Danna (vista de Agnes da Costa)", "motivo": "retirado por Agnes da Costa após ofício 181 do MME pedindo reuniões técnicas sobre tarifação do uso da rede", "ts": "1:08:02"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo parciais/distorcidos (ex.: item 8 lido como 485004034/2715) e nomes deformados.",
+    "Daniel Danna (lido 'Dana', 'Daniel Cardoso Dano') e o diretor substituto Ivo não constam da lista de diretores do config; registrados como ditos.",
+    "Atribuição de falantes nos votos do bloco e do item 19 é incerta: legenda não identifica quem disse 'Eu vou pedir vista'; inferido Fernando Mosna por ter questionado o prazo (a área técnica cita 'dúvida do diretor Mosna').",
+    "No bloco, item 14 tem relator Ricardo Tili (voto já apresentado); quem deixou de votar no item 14 não está claro.",
+    "Itens de bloco não foram detalhados individualmente (votos publicados previamente).",
+    "Os rótulos de falante {..} do .md estão frequentemente errados (ex.: falas da Abradee e da CSN marcadas como Ricardo Tili)."
+  ]
+}

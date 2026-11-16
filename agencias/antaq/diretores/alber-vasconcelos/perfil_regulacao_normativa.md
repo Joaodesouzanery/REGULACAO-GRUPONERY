@@ -1,11 +1,11 @@
 # Perfil analítico — Alber Vasconcelos · tema: regulacao_normativa
 
-**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 155 votos neste tema; 18 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 44 das 44 reuniões analisadas em que há registro de presença/ausência; 155 votos neste tema; 18 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 124 (90% dos votos em que não era relator) · relator 18 · vista pedida 2 · voto-vista divergente 1 · vencido 1 · outros/não captado 9
 **Como relator:** 13/18 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 430/96; navegacao_afretamento 318/79; fiscalizacao_sancoes 263/45; tup_autorizacao 218/57; recursos_recursais 191/33; tarifas_portuarias 165/33; regulacao_normativa 155/18; servicos_terminais 134/12; governanca_tcu 82/13; sustentabilidade 60/8; outros 53/8; mediacao 33/6; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 438/96; navegacao_afretamento 321/79; fiscalizacao_sancoes 265/45; tup_autorizacao 221/58; recursos_recursais 194/33; tarifas_portuarias 168/34; regulacao_normativa 155/18; servicos_terminais 136/12; governanca_tcu 83/13; sustentabilidade 61/8; outros 55/8; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** concorrência (3); TCU/controle externo (2); participação social (2); evidência/dados (1); transparência (1); segurança viária (1)
 **Tom (inferência da leitura, não métrica):** contrariado com a leitura do voto pelo relator | técnico | firme | desconfortável / crítico | crítico
 

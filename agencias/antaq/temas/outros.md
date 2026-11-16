@@ -370,10 +370,40 @@
   - votos: Mário: vista; Adalberto: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=10315s)
 - **RD 462 (2019-05-30)**, 33 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (Porto Leão do Marajó), RN 3 → aprovado por unanimidade
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=9034s)
+- **RD 465 (2019-08-21)**, 13 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 14 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 15 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 16 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 17 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 18 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 19 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 20 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (objeto não lido na sessão) → adiado: Tokarski prorroga o pedido de vista (itens 13 a 20)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4202s)
+- **RD 465 (2019-08-21)**, 49 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (retirado do bloco) → adiado: pedido de vista de Mário Povia; relator não votou
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 50 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por maioria; Mário Povia vencido
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
+- **RD 465 (2019-08-21)**, 51 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgamento em bloco dos itens 48 e 50 a 56 → aprovado por maioria; Mário Povia vencido
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=11853s)
 - **RD 465 (2019-08-22)**, 89 · relator **Francisval Mendes** · Nova autorização em caráter especial (180 dias) para ancoragem da FSRU e testes de comissionamento em instalação de apoio na Barra dos Coqueiros (SE) → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5953s)
 - **RD 466 (2019-09-27)**, 76 · relator **Francisval Mendes** · Contrato de transição do Porto de Maceió (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
   - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3213s)
+- **RD 466 (2019-09-27)**, 37 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (RN 13): instalação de apoio em Vitória (ES) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5056s)
+- **RD 466 (2019-09-27)**, 38 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (RN 13): instalação de apoio em Breves (PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5104s)
+- **RD 466 (2019-09-27)**, 39 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (RN 13): estaleiro de construção e reparação naval em Barcarena (PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5146s)
+- **RD 466 (2019-09-27)**, 40 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (RN 13): instalação «Porto Olinda» no Pará → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5185s)
 - **RD 466 (2019-09-27)**, 101 · relator **Adalberto Tokarski** · Consulta administrativo-regulatória → pedido de vista; relator não proferiu voto
   - votos: Mário: vista; Adalberto: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8935s)
 - **RD 467 (2019-10-21)**, 39 · relator **Francisval Mendes** · Registro de instalação portuária → adiado (vista de Adalberto Tokarski; relator votará depois)
@@ -758,3 +788,15 @@
   - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13391s)
 - **RD 621 (2026-10-27)**, 24 · relator **Caio Farias** · Processo do Estaleiro Atlântico Sul (objeto não lido) → retirado de pauta (dúvida de última hora; volta na próxima reunião)
   - votos:  · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=1029s)
+- **RD 623 (2026-11-13)**, 9 · relator **None** · não lido na sessão → retirado de pauta a pedido do relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2125s)
+- **RD 623 (2026-11-13)**, 13 · relator **None** · não lido na sessão → retirado de pauta a pedido do relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2125s)
+- **RD 623 (2026-11-13)**, 4 · relator **None** · não lido na sessão → vista renovada (anunciada na abertura)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=2149s)
+- **RD 623 (2026-11-13)**, 10 · relator **Lima Filho** · Concessão do canal de acesso aquaviário do Porto de Itajaí (separada do arrendamento do terminal de contêineres) → retirado de pauta a pedido do relator (solicitação do MPor)
+  - votos: Lima: relator; Frederico: outro; Alber: outro · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=3288s)
+- **RD 623 (2026-11-13)**, 7 · relator **Lima Filho** · Consulta sobre competência da ANTAQ para titularidade dominial e delimitação de imóveis na poligonal do porto organizado de Vitória → aprovado
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5772s)
+- **RD 623 (2026-11-13)**, 17 · relator **Caio Farias** · não lido na sessão → retirado de pauta pelo relator
+  - votos: Caio: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7718s)

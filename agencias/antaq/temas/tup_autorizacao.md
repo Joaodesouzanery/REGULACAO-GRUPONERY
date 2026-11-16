@@ -758,6 +758,10 @@
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9620s)
 - **RD 464 (2019-06-28)**, 30 · relator **Adalberto Tokarski** · Registro de instalação de apoio para embarque e desembarque de passageiros (Trapiche de Soure) → aprovado por unanimidade nos termos do voto condutor
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9688s)
+- **RD 465 (2019-08-21)**, 26 · relator **Mário Povia** · Reorganização societária e transferência de titularidade do contrato de adesão 12/2016 (TUP em Canoas, RS) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=4688s)
+- **RD 465 (2019-08-21)**, 36 · relator **Mário Povia** · Reabertura do julgamento (ordem do TRF1) da ampliação do TUP Super Terminais em Manaus (contrato de adesão 51/2014), em disputa locacional com a Chiba → aprovado por maioria; Francisval Mendes vencido
+  - votos: Mário: relator; Francisval: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=8338s)
 - **RD 465 (2019-08-22)**, 57 · relator **Francisval Mendes** · Ampliação de área de TUP na Ilha de Viana, Niterói (RJ), com aumento de capacidade de 60 mil t/ano (aditamento ao contrato de adesão 04/2016) → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=0s)
 - **RD 465 (2019-08-22)**, 59 · relator **Francisval Mendes** · Comunicação de instalação de balsas espaçadoras em TUP em Niterói (RJ), contrato de adesão 04/2017 → aprovado por unanimidade
@@ -798,6 +802,14 @@
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1514s)
 - **RD 466 (2019-09-27)**, 67 · relator **Francisval Mendes** · Adequação do contrato de adesão 7/2014 para incluir o perfil granel sólido (erro material) → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1610s)
+- **RD 466 (2019-09-27)**, 41 · relator **Mário Povia** · Consulta sobre inclusão de perfil de carga (GNL/energia) e ampliação do TUP (contrato de adesão 17/2014) para dentro da poligonal do porto de Santos → aprovado por unanimidade (arquivamento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=5224s)
+- **RD 466 (2019-09-27)**, 47 · relator **Mário Povia** · Transferência de controle societário (TUP de minério de manganês, contrato de adesão 11/2014) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=6516s)
+- **RD 466 (2019-09-27)**, 51 · relator **Mário Povia** · Declaração de utilidade pública (DUP) para supressão de Mata Atlântica na implantação do TUP (São Francisco do Sul, SC) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7710s)
+- **RD 466 (2019-09-27)**, 53 · relator **Mário Povia** · Fiscalização ordinária do cronograma do TUP (contrato de adesão 3/2017), com área ocupada por terceiros e 64 ações judiciais → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=7999s)
 - **RD 466 (2019-09-27)**, 98 · relator **Adalberto Tokarski** · Acompanhamento de TAC (regularização com assinatura do contrato de adesão 7/2019 da ETC) → aprovado nos termos do voto do relator
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8355s)
 - **RD 466 (2019-09-27)**, 99 · relator **Adalberto Tokarski** · Consulta sobre serviço temporário de carga, descarga e armazenagem de contêineres vazios por barcaça antes da conclusão do terminal → aprovado nos termos do voto do relator
@@ -1594,3 +1606,9 @@
   - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s)
 - **RD 621 (2026-10-27)**, 25 · relator **Alexandre Florambel** · Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9214s)
+- **RD 623 (2026-11-13)**, 5 · relator **Lima Filho** · Inclusão dos perfis contêiner e carga geral no TUP do contrato de adesão 10/2023 (Belém/PA, região de Vila do Conde) → pedido de vista
+  - votos: Lima: relator; Alber: acompanha; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=4087s)
+- **RD 623 (2026-11-13)**, 11 · relator **Lima Filho** · Autorização em caráter especial para movimentação e armazenagem de carga geral por até 180 dias no TUP (contrato de adesão 9/2015), berço 5 → aprovado
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6300s)
+- **RD 623 (2026-11-13)**, 12 · relator **Alber Vasconcelos** · Consulta regulatória sobre transhipment de soja, milho e fertilizantes entre barcaças e navios no quadro de boias do TUP em Manaus (contrato de adesão → aprovado
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6538s)

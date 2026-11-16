@@ -1,11 +1,11 @@
 # Perfil analítico — Frederico Dias · tema: recursos_recursais
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 61 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 64 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 55 (90% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 6
+**Votos:** acompanha o relator 58 (90% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 6
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); governança/rito (5); concorrência (2); transparência (1); eficiência/celeridade (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); governança/rito (5); concorrência (2); transparência (1); eficiência/celeridade (1); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -70,3 +70,6 @@
 - **RD 619 (2026-09-24)**, item 1 — Recurso de reconsideração contra o Acórdão 262/2026-ANTAQ que manteve auto de infração e multa de R$ 39.930 por cobrança de no show charge e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3016s) · resultado: recurso conhecido e indeferido; Acórdão 262/2026 mantido (Alexandre Fl
 - **RD 619 (2026-09-24)**, item 6 — Referendo da Deliberação DG 71/2026: recurso de 2ª instância em pedido de acesso à informação; informação ainda inexistente; SFC deve submet · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=4322s) · resultado: referendado (aprovado); recurso conhecido e parcialmente provido
 - **RD 619 (2026-09-24)**, item 31 — Embargos de declaração contra o Acórdão 484/2026 (que negou reconsideração; regime de preço-teto contratual suspenso) · voto: *acompanha (presidente)* (acompanha, conf. media) · «a decisão já previu controles para acompanhar os riscos apontados» · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=14320s) · resultado: embargos conhecidos e rejeitados (aprovado)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 8 — Recurso de reconsideração contra o Acórdão 337/2026 (revogação de medida cautelar) · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6146s) · resultado: aprovado (recurso desprovido)
+- **RD 623 (2026-11-13)**, item 25 — Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) · voto: *acompanha o relator* (acompanha, conf. alta) · «Valores não batem com as evidências; alerta para padronização entre analistas e para não incentivar quem apresenta menos informação.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=20539s) · resultado: aprovado (recurso desprovido)

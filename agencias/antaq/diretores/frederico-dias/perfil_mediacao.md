@@ -1,11 +1,11 @@
 # Perfil analítico — Frederico Dias · tema: mediacao
 
-**Amostra:** presente em 12 das 12 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 13 das 13 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 11 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 113/4; navegacao_afretamento 102/1; fiscalizacao_sancoes 67/1; recursos_recursais 61/0; tup_autorizacao 60/0; tarifas_portuarias 49/3; regulacao_normativa 49/9; servicos_terminais 37/1; governanca_tcu 31/8; sustentabilidade 19/2; mediacao 11/0; outros 9/0; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** transparência (1); segurança viária (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 120/4; navegacao_afretamento 105/1; fiscalizacao_sancoes 69/1; recursos_recursais 64/0; tup_autorizacao 62/0; tarifas_portuarias 52/3; regulacao_normativa 49/9; servicos_terminais 39/1; governanca_tcu 33/9; sustentabilidade 20/2; mediacao 12/0; outros 11/0; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** transparência (1); segurança viária (1); governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -20,3 +20,4 @@
 - **RD 605 (2026-03-24)**, item 29 — Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) · voto: *acompanha o relator (votação simbólica, sem manifestação)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13525s) · resultado: cautelar indeferida por unanimidade
 - **RD 611 (2026-06-11)**, item 43 — Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investi · voto: *acompanha o relator* (acompanha, conf. alta) · «agência não faz o reequilíbrio, apenas subsidia a autocomposição» · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=14733s) · resultado: aprovado
 - **RD 619 (2026-09-24)**, item 2 — Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3603s) · resultado: cautelar indeferida e processo arquivado (aprovado)
+- **RD 623 (2026-11-13)**, item 16 — Denúncia com pedido cautelar sobre cobrança de detention de 100 contêineres (Itajaí–Savannah); autocomposição · voto: *acompanha o relator* (acompanha, conf. media) · «Concorda em orientar a SFC por dispositivo; o rito era inovação e já não precisa da diretoria.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=7661s) · resultado: aprovado (arquivamento), com dispositivo acrescentado

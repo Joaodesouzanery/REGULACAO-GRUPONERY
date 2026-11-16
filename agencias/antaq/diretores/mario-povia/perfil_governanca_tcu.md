@@ -1,11 +1,11 @@
 # Perfil analítico — Mário Povia · tema: governanca_tcu
 
-**Amostra:** presente em 72 das 74 reuniões analisadas em que há registro de presença/ausência; 71 votos neste tema; 26 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 74 das 76 reuniões analisadas em que há registro de presença/ausência; 71 votos neste tema; 26 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 36 (80% dos votos em que não era relator) · relator 26 · vista pedida 2 · voto-vista divergente 2 · vencido 2 · outros/não captado 3
 **Como relator:** 15/26 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 832/237; fiscalizacao_sancoes 626/214; arrendamento_porto_organizado 610/212; tup_autorizacao 432/126; recursos_recursais 285/120; regulacao_normativa 184/59; outros 164/40; tarifas_portuarias 89/27; governanca_tcu 71/26; servicos_terminais 56/19; mediacao 22/8; sustentabilidade 17/7
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 876/254; fiscalizacao_sancoes 644/231; arrendamento_porto_organizado 633/226; tup_autorizacao 438/132; recursos_recursais 296/129; regulacao_normativa 194/62; outros 171/44; tarifas_portuarias 91/27; governanca_tcu 71/26; servicos_terminais 57/19; mediacao 23/9; sustentabilidade 18/8
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (10); governança/rito (2); usuário (2); transparência (1); evidência/dados (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** crítico à jurisprudência do TCU | respeitoso | defensivo quanto a críticas de captura
 

@@ -1,12 +1,12 @@
 # Perfil analítico — Lima Filho · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 245 votos neste tema; 94 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 41 das 44 reuniões analisadas em que há registro de presença/ausência; 247 votos neste tema; 95 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 147 (97% dos votos em que não era relator) · relator 94 · vista pedida 1 · voto-vista divergente 0 · vencido 3 · outros/não captado 0
-**Como relator:** 54/94 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 148 (97% dos votos em que não era relator) · relator 95 · vista pedida 1 · voto-vista divergente 0 · vencido 3 · outros/não captado 0
+**Como relator:** 54/95 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
-**Argumentos recorrentes nas justificativas registradas:** governança/rito (5); segurança jurídica (5); proporcionalidade (4); usuário (3); concorrência (2); segurança viária (1)
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 406/113; navegacao_afretamento 312/94; fiscalizacao_sancoes 247/95; tup_autorizacao 207/54; recursos_recursais 190/69; tarifas_portuarias 157/53; regulacao_normativa 147/38; servicos_terminais 129/53; governanca_tcu 80/14; sustentabilidade 59/12; outros 36/10; mediacao 33/8; concessao_porto_hidrovia 5/3
+**Argumentos recorrentes nas justificativas registradas:** governança/rito (6); segurança jurídica (5); proporcionalidade (4); usuário (3); concorrência (2); segurança viária (1)
 **Tom (inferência da leitura, não métrica):** enfático quanto à segurança | firme
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -256,3 +256,5 @@
 - **RD 621 (2026-10-27)**, item 27 — Acompanhamento do TAC 3/2023 (certificado do Corpo de Bombeiros): nulidades e saneamento processual · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10632s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 28 — Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 32 — Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13627s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 6 — Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de cont · voto: *relator, aprova* (relator, conf. alta) · «Instrução não reúne elementos para a condenação; falhas de motivação e contraditório; provê o recurso.» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5469s) · resultado: aprovado (recurso provido; auto insubsistente, multa afastada)
+- **RD 623 (2026-11-13)**, item 26 — Denúncia com pedido cautelar sobre bloqueio de embarque de contêiner por faturas contestadas · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=11197s) · resultado: aprovado (cautelar parcialmente deferida)

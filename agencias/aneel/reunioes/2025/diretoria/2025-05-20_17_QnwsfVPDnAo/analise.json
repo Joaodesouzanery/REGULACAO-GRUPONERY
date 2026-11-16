@@ -1,0 +1,122 @@
+{
+  "meta": {"video_id": "QnwsfVPDnAo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "17", "data": "2025-05-20", "formato": "presencial (Parte 1, manhã)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili", "Ludimila Lima (diretora substituta, chegou durante o item 12)"],
+    "ausentes": [],
+    "observacoes": [
+      "17ª Reunião Pública Ordinária de 2025, Parte 1; última reunião do mandato do diretor Ricardo Tili (fim em 24/05/2025), com homenagens na abertura (0:05–0:37).",
+      "Pauta com 57 itens; itens 18, 22 e 25 retirados; destacados do bloco 11, 12, 27, 30 e 35; sustentação oral pedida para 2, 3, 4, 5, 8, 12, 27 e 35.",
+      "Ata da 16ª RPO aprovada com registro da ausência do Diretor-Geral.",
+      "Fernando Mosna não estava presente na parte final (itens 12 e 8); no item 8 seu voto assentado foi computado e ficou vencido no item 6 do dispositivo.",
+      "Sessão suspensa às 13h para retorno às 14h30 (continuação na Parte 2, outro vídeo)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:39:37", "processo": "", "interessado": "diversos",
+      "assunto": "Itens do bloco (itens 9 a 57 com votos antecipados), com destaques; item 30 ajustado (conhecer recursos e declarar perda superveniente de objeto) e devolvido ao bloco; item 28 com voto-vista de Agnes da Costa; item 32 com pedido de vista de Fernando Mosna; item 56 (prorrogação de prazo de vista de Agnes na CP 5 sobre créditos de PIS/Cofins-ICMS) destacado sem deliberação",
+      "tema": ["recursos administrativos", "regulação normativa", "tarifas e revisão tarifária"],
+      "relator": "diversos",
+      "resultado": "Bloco aprovado (maioria dos itens por unanimidade; item 28 por maioria acompanhando voto-vista de Agnes da Costa); item 32 com vista de Fernando Mosna; item 56 destacado para deliberação posterior com quórum completo",
+      "resumo_voto": "Fernando Mosna declarou suspeição no item 26, pediu vista do item 32 e apresentou divergência no item 56: em vez de nova prorrogação de 8 reuniões do pedido de vista de Agnes (vista desde 19/09/2023, 8 prorrogações, 609 dias), determinar respostas aos memorandos 56/2023 e 73/2024 em 7 dias e conceder no máximo duas reuniões, por coerência com precedente da 16ª reunião administrativa de 12/05/2025 e duração razoável do processo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco; suspeição no item 26; pede vista do item 32; diverge no item 56", "ts": "0:42:03", "justificativa": "Prorrogação reiterada de vista compromete a duração razoável do processo; tratamento idêntico ao dado ao seu próprio pedido na 16ª reunião administrativa (máximo de duas reuniões).", "tom": "crítico, formal", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens remanescentes do bloco; acompanha a divergência de Fernando Mosna no item 56", "ts": "0:49:26", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco; ajustes nos itens 11 e 30; no item 32 vota por conhecer e negar provimento à impugnação de Ilha Comprida, Divisa e Segredo Energia (com recontabilização pela CCEE); mantém o pedido de prorrogação no item 56 e pede destaque", "ts": "0:41:07", "justificativa": "Item 56 deve ser votado com quórum completo.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco; acompanha o voto-vista de Agnes da Costa no item 28", "ts": "0:51:21", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:52:07", "processo": "48500.003320/2024-92 (número incerto)", "interessado": "Companhia Jaguari de Energia (CPFL Santa Cruz)",
+      "assunto": "Reajuste tarifário anual da CPFL Santa Cruz a partir de 22/03/2025 (processo pendente por falta de três votos convergentes)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa (voto-vista de Fernando Mosna)",
+      "resultado": "Aprovado o voto-vista de Fernando Mosna: efeito médio de 2,62% (2,61% AT; 2,62% BT), vigência a partir de 22/05/2025, passivo regulatório e compensação da receita do período postergado (22/03 a 21/05/2025) no processo de 2026 com Selic",
+      "resumo_voto": "Formou-se maioria com o voto-vista de Fernando Mosna (homologação do reajuste, TUSD/TE, DIT, repasse CDE, passivo regulatório remunerado pela Selic).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: homologar reajuste com efeito médio de 2,62%", "ts": "0:52:57", "justificativa": "Voto já proferido em reunião anterior.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto divergente (voto-vista) de Fernando Mosna", "ts": "0:52:57", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator do voto-vista Fernando Mosna", "ts": "0:53:05", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "relatora vencida (voto proferido em reunião anterior)", "ts": "0:52:07", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "0:54:56", "processo": "48500.007320/... (número incerto)", "interessado": "Eletricidade da Amazônia Ltda (Eletran); Energisa Mato Grosso (EMT)",
+      "assunto": "Recurso contra o Despacho 2.258/2022 da SRM que negou prorrogação do contrato de compra e venda de energia nº 192 com a EMT para fins tarifários (pendente por falta de três votos convergentes)",
+      "tema": ["recursos administrativos", "comercialização", "tarifas e revisão tarifária"],
+      "relator": "Ricardo Tili",
+      "resultado": "Por maioria, recurso conhecido e provido: reconhecida a prorrogação automática do contrato 192 com ajuste de preço, nos termos do voto do relator",
+      "resumo_voto": "Sandoval Feitosa desempatou acompanhando o relator.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (dar provimento)", "ts": "0:54:56", "justificativa": "Voto proferido em reunião anterior.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator: conhecer e dar provimento", "ts": "0:55:43", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:57:56", "processo": "48500.004006/2025-16 (número incerto)", "interessado": "Amazonas Energia S.A.",
+      "assunto": "Reajuste tarifário anual da Amazonas Energia a partir de 26/05/2025; ajuste no item 5 (devolução de R$ 111,3 milhões de sobrecontratação à CCC em parcela única, retirando a compensação; encontro de contas/parcelamento a tratar na CCEE pelo submódulo 5.2 do PRORET)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa",
+      "resultado": "Aprovado por unanimidade com o ajuste no item 5",
+      "resumo_voto": "Relatora destacou o item do bloco para explicar retirada do trecho de compensação; eventuais encontros de contas com créditos de CCC (≈ R$ 95 milhões) devem ser pedidos à CCEE.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "0:57:56", "justificativa": "Encontro de contas e parcelamento já previstos no submódulo 5.2 do PRORET, a tratar na CCEE.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:01:29", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:01:29", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:01:31", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:02:56", "processo": "48500.002691/2024-57", "interessado": "Distribuidoras e prestadoras de telecomunicações; sustentações: Conexis Brasil Digital (Bruno Cavalcante), Abradee (Lucas Malheiros), Copel Distribuição (Fernando Grupel Júnior), Associação NEO (Aníbal Diniz)",
+      "assunto": "Aperfeiçoamento da regulamentação do compartilhamento de postes entre distribuidoras e telecom (resolução conjunta ANEEL/Anatel, Decreto 12.068/2024), cessão do direito de exploração comercial e 2ª fase da CP 73/2021",
+      "tema": ["regulação normativa", "distribuição e qualidade", "compartilhamento de infraestrutura"],
+      "relator": "Ricardo Tili",
+      "resultado": "Pedido de vista de Agnes da Costa; relator pediu redistribuição por fim de mandato",
+      "resumo_voto": "Relator propôs cessão compulsória da exploração comercial a pessoa jurídica distinta (distribuidora pode criar PJ própria em 120 dias nos contratos vigentes; chamamento público; distribuidora responde se frustrado), contratos de até 15 anos, prazo de 120 dias para ofertas de referência, sem nova participação social, aprovação da resolução conjunta, 2ª fase da CP 73 por 45 dias, avaliação em 90 dias e ARR em 5 anos. Sandoval e Agnes sentiram falta de parecer da Procuradoria da ANEEL após o decreto.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova a resolução conjunta com cessão compulsória a PJ distinta", "ts": "1:41:16", "justificativa": "Após 7 anos de debate, buscar consenso com a Anatel e honrar o espírito do Decreto 12.068; parecer da Procuradoria da Anatel (AGU) torna dispensável novo parecer; distribuidoras tiveram 7 anos para regularizar, como fez a Copel.", "tom": "conciliador, firme com a Abradee", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "comentários; sem voto (vista concedida)", "ts": "2:14:53", "justificativa": "Preocupação com ausência de parecer da Procuradoria da ANEEL; contratos vigentes não podem perder direito; dúvida sobre compulsoriedade nos novos contratos; receita de compartilhamento deve ir em parte à modicidade tarifária.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "2:39:13", "justificativa": "Considerou a solução inteligente, mas sente falta de posicionamento formal da Procuradoria e tem dúvida jurídica sobre dissociar o serviço do objeto dos contratos vigentes.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:40:14", "processo": "48500.000408/2025-05 (número incerto)", "interessado": "Cemig Distribuição S.A.; sustentação oral do deputado federal Wellington Prado",
+      "assunto": "Reajuste tarifário anual da Cemig-D a partir de 28/05/2025",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "distribuição e qualidade"],
+      "relator": "Agnes da Costa",
+      "resultado": "Aprovado por unanimidade: efeito médio de 7,78% (9,45% AT; 7,03% BT), retificação dos percentuais de perdas não técnicas",
+      "resumo_voto": "Deputado pediu reajuste zero alegando lucros e piora da qualidade (DEC/FEC). Relatora: 4,78 p.p. do reajuste vêm das cotas da CDE; Sandoval apresentou dados de tarifa de distribuição abaixo da inflação e queda de reclamações.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "3:12:00", "justificativa": "Peso crescente da CDE no reajuste, a maior parte não gerenciável; reconhece necessidade de aperfeiçoar captura de produtividade.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:16:08", "justificativa": "Registrou preocupação com qualidade das distribuidoras e lembrou ter sido vencido ao propor critérios de qualidade nas renovações de concessão.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "3:16:22", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:16:48", "justificativa": "Tarifa de distribuição da Cemig abaixo da inflação em 15 anos; alta decorre de encargos definidos pelo Congresso.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "3:17:53", "processo": "48500.008300/2022 (número incerto)", "interessado": "Abradee; Neoenergia Distribuição Brasília; sustentação oral de Ricardo Brandão (Abradee)",
+      "assunto": "Pedido de reconsideração da Abradee contra o Despacho 3.478/2022 e pleitos sobre critérios de eficiência na gestão econômico-financeira (aporte de capital) das distribuidoras, anos 2022 e 2023",
+      "tema": ["recursos administrativos", "distribuição e qualidade", "fiscalização e sanções"],
+      "relator": "Fernando Mosna (voto-vista de Ricardo Tili)",
+      "resultado": "Itens 1 a 5 por unanimidade; item 6 por maioria (vencido Fernando Mosna): prazo de 180 dias a partir da publicação para os aportes, e para distribuidoras com pedido de prorrogação pelo Decreto 12.068 a necessidade de aporte será avaliada pela SFF no processo de renovação",
+      "resumo_voto": "Tili acompanhou o relator nos itens 1–5 e divergiu no item 6; aceitou ajuste de redação de Agnes (sem criar exceção).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "voto-vista: acompanha relator nos itens 1 a 5 e diverge no item 6", "ts": "3:25:00", "justificativa": "Prazo deve correr da publicação (prospectivo, conforme Procuradoria); distribuidoras em renovação pelo Decreto 12.068 terão a sustentabilidade avaliada na renovação.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista com ajuste de redação", "ts": "3:48:45", "justificativa": "Separar os dois processos: aplicar 180 dias a todas e reavaliar na renovação, sem excepcionar ninguém.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o voto-vista", "ts": "3:48:58", "justificativa": "Compatibilizar as duas avaliações.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista", "ts": "3:49:00", "justificativa": "", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "vencido no item 6 (voto assentado; ausente)", "ts": "3:48:45", "justificativa": "", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["18", "22", "25"],
+  "limites_da_analise": [
+    "Vídeo é a Parte 1 (manhã); itens 2, 3, 4, 6, 27, 30, 35 e demais ficaram para a Parte 2.",
+    "Na votação do bloco a atribuição de falas é incerta: o voto no item 32 (negar provimento à impugnação) e a manutenção da prorrogação no item 56 foram atribuídos a Agnes da Costa com confiança baixa; não fica claro quem votou em cada ordem.",
+    "Números de processo vêm da legenda automática e podem estar errados.",
+    "Ludimila Lima chegou durante o item 12; no item 8 Sandoval diz que ela talvez não estivesse no colegiado quando do voto original.",
+    "ts de votos de acompanhamento são aproximados; ts 3:12:00 e 3:25:00 estimados."
+  ]
+}

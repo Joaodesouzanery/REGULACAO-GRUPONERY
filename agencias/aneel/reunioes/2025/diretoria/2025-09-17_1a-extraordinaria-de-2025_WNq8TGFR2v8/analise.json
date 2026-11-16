@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "WNq8TGFR2v8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Extraordinária de 2025", "data": "2025-09-17", "formato": "presencial/transmitida",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Gentil Nogueira", "Willamy Frota"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária com item único, no dia da posse dos diretores Willamy Frota e Gentil Nogueira; seguida da 34ª Reunião Pública Ordinária.", "Secretária-Geral Renata; procurador Cid (sem consideração adicional).", "Decisão unânime."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:12:42",
+      "processo": "48500.003612/2025-22", "interessado": "Ministério de Minas e Energia (poder concedente); agentes de transmissão",
+      "assunto": "Consulta Pública 28/2025 (subsídios para o edital do Leilão de Transmissão 1/2026): inclusão dos lotes 6 a 10 (cinco lotes retirados do leilão de outubro de 2025, em comissão de consenso no TCU) e prorrogação do prazo de contribuições",
+      "tema": ["leilões (transmissão)", "transmissão", "regulação normativa (consulta pública)"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade: inclusão dos lotes 6 a 10 no edital do Leilão de Transmissão 1/2026 e prorrogação da CP 28/2025 por 5 dias (21/08/2025 a 24/09/2025)",
+      "resumo_voto": "Atendendo a pedido do MME, retira cinco lotes do leilão de outubro de 2025 e os inclui no leilão de março de 2026; prorroga a consulta pública de 19 para 24 de setembro para dar publicidade e transparência; prazo reduzido justificado pela urgência.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:13:34", "justificativa": "Atende ao pedido do Ministério de Minas e Energia; prorroga a consulta pública para que todos os agentes possam se manifestar.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:17:15", "justificativa": "Pleito do poder concedente; redução do prazo de 45 dias justificada pela urgência; proclama o resultado.", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:17:12", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:17:15", "justificativa": "Acompanha o relator.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: os dois votos 'acompanho o relator' (0:17:12 e 0:17:15) não têm falante identificado; provavelmente Gentil Nogueira e Willamy Frota, recém-empossados, mas não confirmado.", "Presença de Agnes da Costa/Ludimila Lima não confirmada na transcrição.", "Número do processo reconstruído da legenda (ditos 485003612522 e 485002361612/202522); incerto."]
+}

@@ -1,0 +1,215 @@
+{
+ "meta": {
+  "video_id": "-62tkkQ4WnQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29ª RPO 2025",
+  "data": "2025-08-12",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Daniel Dana",
+   "Ivo Sechi"
+  ],
+  "ausentes": [
+   "Agnes da Costa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 26 itens; itens 3 e 11 retirados; item 5 destacado do bloco.",
+   "Ricardo Tili não estava presente; comunicado sobre leilão de sistemas isolados 1/2025 foi feito por diretor relator (atribuição incerta).",
+   "Item 1 (armazenamento) teve vista de Fernando Mosna; Diretor-Geral consignou voto antecipado e deixou a presidência."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:42:52",
+   "processo": "itens 4, 6 a 10 e 12 a 26 da pauta",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos e atos disponibilizados previamente; item 5 destacado; itens 3 e 11 retirados)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado sem debate.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova",
+     "ts": "0:43:08",
+     "justificativa": "Aprova e proclama unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova",
+     "ts": "0:43:02",
+     "justificativa": "Aprovação do bloco sem manifestação individual registrada na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "aprova",
+     "ts": "0:43:02",
+     "justificativa": "Aprovação do bloco sem manifestação individual registrada na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi",
+     "voto": "aprova",
+     "ts": "0:43:02",
+     "justificativa": "Aprovação do bloco sem manifestação individual registrada na legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:43:28",
+   "processo": "48500.048852/2020-63 (número incerto na legenda)",
+   "interessado": "ABSOLAR, ABSAE, Costa Verde Energia Renovável, ABEEólica (sustentações orais); áreas técnicas SGM/STD/STR/SCE/STE",
+   "assunto": "Resultado da Consulta Pública 39/2023 (2ª fase): regulamentação do armazenamento de energia elétrica (SAE, usinas reversíveis), resolução normativa",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Daniel Dana",
+   "resultado": "pedido de vista de Fernando Mosna; julgamento suspenso (relator, Ivo Sechi e Sandoval Feitosa já acompanharam o voto)",
+   "resumo_voto": "Aprovar a resolução normativa do armazenamento; SAE autônomo como PIE; tarifa de uso: consumo quando consome e geração quando gera; relator alterou proposta técnica retirando a ultrapassagem em dobro e ampliando para 30% a redução do MUST. Sustentações orais: Vinícius Prado (ABSOLAR), Thiago de Barros Correia (ABSAE), Rafael Fabre Dávila (Costa Verde), Marcelo Cabral (ABEEólica).",
+   "votos": [
+    {
+     "diretor": "Daniel Dana",
+     "voto": "relator, aprova",
+     "ts": "2:38:30",
+     "justificativa": "Regulamentação essencial para renováveis, segurança energética e eficiência tarifária; manteve em pauta apesar de pedidos de adiamento; mantém tarifa de consumo e de geração.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "3:31:30",
+     "justificativa": "Converge com ultrapassagem simples e 30% de MUST, mas propôs retirar de pauta para aprofundar a tarifação do uso da rede pelo SAE autônomo; vista concedida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ivo Sechi",
+     "voto": "acompanha o relator",
+     "ts": "3:31:27",
+     "justificativa": "Aparato tarifário atual pode ser aplicado; sugere acelerar modernização tarifária (tarifa horária na transmissão).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:31:30",
+     "justificativa": "Antecipa voto acompanhando integralmente; sustenta que não há dupla tarifa para o mesmo serviço, mas tarifas distintas para geração e consumo.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:31:30",
+   "processo": "48500.020250/2025-91 (número incerto na legenda)",
+   "interessado": "Dom Pedro II Transmissora de Energia SPE Ltda (nome incerto: I/II); sustentação oral de Carlos Clementino Moreira Filho",
+   "assunto": "Requerimentos sobre contrato de concessão 8/2020: bancos de capacitores na SE Crato II, desligamento da LT 230 kV Milagres, cautelar para RAP/TLR",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: indeferir reforço dos bancos de capacitores e desligamento da LT; pleito de esclarecimento (proclamação diz deferir, voto lido diz indeferir); perda de objeto da cautelar",
+   "resumo_voto": "Relator indeferiu pleitos; valores tratados só na fundamentação com interação da superintendência.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "4:01:30",
+     "justificativa": "Expectativa de reforço não garante viabilidade; indefere pleitos e declara perda de objeto da cautelar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:02:26",
+     "justificativa": "Voto consignado acompanhando o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha o relator",
+     "ts": "4:02:30",
+     "justificativa": "Unanimidade proclamada sem fala individual.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi",
+     "voto": "acompanha o relator",
+     "ts": "4:02:30",
+     "justificativa": "Perguntou se o assunto se encerrava no mérito; unanimidade proclamada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "4:02:30",
+   "processo": "48500.054752/2023-1 (número incerto na legenda)",
+   "interessado": "Pitangueiras Bioenergia Ltda (UTE Nova Pitangueiras); sustentação oral de Ana Beatriz Dias Souza",
+   "assunto": "Pedido de reconsideração contra a REA 16.009/2025 (prazo da outorga, 35 anos, e desconto, Lei 14.120)",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Ivo Sechi",
+   "resultado": "unânime: conhecer e negar provimento",
+   "resumo_voto": "Relator nega pedido: atendê-lo daria usufruto do desconto por 44 anos, o que não é razoável; contrariou entendimento da Procuradoria e área técnica, segundo a recorrente.",
+   "votos": [
+    {
+     "diretor": "Ivo Sechi",
+     "voto": "relator, nega provimento",
+     "ts": "4:23:00",
+     "justificativa": "Caso sui generis; acolher o pedido possibilitaria desconto por 44 anos, não razoável.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "4:23:51",
+     "justificativa": "Vota com o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Daniel Dana",
+     "voto": "acompanha o relator",
+     "ts": "4:23:55",
+     "justificativa": "Vota com o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:23:57",
+     "justificativa": "Voto consignado com o relator.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 3",
+  "item 11"
+ ],
+ "limites_da_analise": [
+  "Daniel Dana e Ivo Sechi (Ivo Sechi Nazareno) não constam da lista de diretores do config; nomes como ditos na sessão.",
+  "Atribuição dos falantes no item 1 inferida pelo conteúdo; o voto «acompanho o relator» às 3:31:27 foi atribuído a Ivo Sechi com baixa confiança.",
+  "Números de processo e nome Dom Pedro I/II incertos pela legenda.",
+  "Votos individuais dos itens do bloco não são lidos."
+ ]
+}

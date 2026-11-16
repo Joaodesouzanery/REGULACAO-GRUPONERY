@@ -1,11 +1,11 @@
 # Perfil analítico — Caio Farias · tema: tup_autorizacao
 
-**Amostra:** presente em 42 das 42 reuniões analisadas em que há registro de presença/ausência; 209 votos neste tema; 38 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 43 das 43 reuniões analisadas em que há registro de presença/ausência; 211 votos neste tema; 38 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 155 (90% dos votos em que não era relator) · relator 38 · vista pedida 0 · voto-vista divergente 1 · vencido 1 · outros/não captado 14
+**Votos:** acompanha o relator 157 (90% dos votos em que não era relator) · relator 38 · vista pedida 0 · voto-vista divergente 1 · vencido 1 · outros/não captado 14
 **Como relator:** 18/38 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 412/69; navegacao_afretamento 314/45; fiscalizacao_sancoes 246/32; tup_autorizacao 209/38; recursos_recursais 190/31; tarifas_portuarias 155/20; regulacao_normativa 149/16; servicos_terminais 131/16; governanca_tcu 79/9; sustentabilidade 60/8; outros 43/6; mediacao 33/5; concessao_porto_hidrovia 5/0
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 419/74; navegacao_afretamento 317/46; fiscalizacao_sancoes 248/33; tup_autorizacao 211/38; recursos_recursais 193/31; tarifas_portuarias 158/20; regulacao_normativa 149/16; servicos_terminais 133/17; governanca_tcu 80/9; sustentabilidade 61/9; outros 45/7; mediacao 34/6; concessao_porto_hidrovia 5/0
 **Argumentos recorrentes nas justificativas registradas:** interesse público (4); concorrência (2); governança/rito (2); eficiência/celeridade (2); segurança jurídica (1); sustentabilidade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -219,3 +219,5 @@
 - **RD 621 (2026-10-27)**, item 21 — Adequação do TAC 2/2026 (cronograma de investimentos do contrato de adesão 18/2021) com cláusula suspensiva · voto: *relator, defere parcialmente* (relator, conf. alta) · «adiamento indefinido não atende ao interesse público; condição suspensiva (arts. 121 e 125 do Código Civil) só da obrigação principal; transferência não exonera o Estado» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8818s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 22 — Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) · voto: *relator, aprova* (relator, conf. alta) · «atrasos por ações civis públicas sobre o licenciamento (2015–2021); cronograma de 60 meses e estruturação financeira (cerca de R$ 1,9 bilhão); intempestividade formal não impede o mérito» · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9137s) · resultado: aprovado por unanimidade (votação simbólica)
 - **RD 621 (2026-10-27)**, item 25 — Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9649s) · resultado: aprovado por unanimidade (votação simbólica)
+- **RD 623 (2026-11-13)**, item 11 — Autorização em caráter especial para movimentação e armazenagem de carga geral por até 180 dias no TUP (contrato de adesão 9/2015), berço 5 · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6317s) · resultado: aprovado
+- **RD 623 (2026-11-13)**, item 12 — Consulta regulatória sobre transhipment de soja, milho e fertilizantes entre barcaças e navios no quadro de boias do TUP em Manaus (contrato · voto: *acompanha o relator* (acompanha, conf. media) · «Sem manifestação individual; aprovado sem objeção ('Matéria em votação. Aprovado').» · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=6538s) · resultado: aprovado

@@ -124,12 +124,18 @@
   - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
 - **RD 464 (2019-06-28)**, 7 · relator **Mário Povia** · Revisão da Resolução 2.389/2012 (parâmetros da movimentação e armazenagem de contêineres; SSE/THC2), com inclusão dos TUPs e previsão de preço-teto → voto-vista de Francisval Mendes proferido (acompanha com ressalvas); processo vai à vista 
   - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=3544s)
+- **RD 465 (2019-08-21)**, 11 · relator **Mário Povia** · Revisão da Resolução 2389/2012 (serviço de segregação e entrega de contêineres, SSE/THC2, nos terminais) → aprovado nos termos do voto-vista de Francisval Mendes (minuta 831703), com supressão dos 
+  - votos: Mário: revisor_acompanha; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=57Z3eViWyVI&t=1937s)
 - **RD 465 (2019-08-22)**, 62 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: cobrança da autoridade portuária pelo uso do espelho d'água pelo atracadouro flutuante do ferry boat Itaj → aprovado por unanimidade, com acréscimo proposto por Mário Povia
   - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=932s)
 - **RD 465 (2019-08-22)**, 77 · relator **Francisval Mendes** · Consulta sobre cobrança de tarifa de movimentação de passageiros no porto organizado de Salvador; vista de Adalberto Tokarski → não concluído: vista de Adalberto Tokarski após o voto do relator
   - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3708s)
 - **RD 465 (2019-08-22)**, 79 · relator **Francisval Mendes** · Consulta sobre procedimentos para antecipação de receitas de tarifas e arrendamentos (Decreto 9.048/2017) → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4148s)
+- **RD 466 (2019-09-27)**, 8 · relator **Francisval Mendes** · Tabela de serviços básicos → adiado: prorrogação do pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=1985s)
+- **RD 466 (2019-09-27)**, 12 · relator **Francisval Mendes** · Consulta sobre cobrança de tarifa de movimentação de passageiros no porto de Salvador → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PH7Z-S9LV14&t=2136s)
 - **RD 466 (2019-09-27)**, 74 · relator **Francisval Mendes** · Pedido de suspensão do reajuste linear de 19,22% das tarifas do Terminal Salineiro de Areia Branca (Resolução 6.660) → aprovado nos termos do voto do relator
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2971s)
 - **RD 466 (2019-09-27)**, 122 · relator **Adalberto Tokarski** · Regulação de preço-teto nos terminais arrendados de passageiros (cruzeiros) → relator e Francisval Mendes votaram; processo com pedido de vista (aparentemente de Mário 
@@ -796,3 +802,9 @@
   - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3901s)
 - **RD 621 (2026-10-27)**, 32 · relator **Alexandre Florambel** · Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) → aprovado por unanimidade (votação simbólica)
   - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13027s)
+- **RD 623 (2026-11-13)**, 6 · relator **Lima Filho** · Recurso hierárquico contra Deliberação PAS 38/2025 (auto de infração, multa de R$ 200 mil por preço abusivo na inspeção não invasiva de contêineres) → aprovado (recurso provido; auto insubsistente, multa afastada)
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=5446s)
+- **RD 623 (2026-11-13)**, 14 · relator **Alber Vasconcelos** · Consulta sobre antecipação de receitas tarifárias (art. 42-B do Decreto 8.033; Resolução 48) para a 2ª fase do Píer em T de Paranaguá, com execução da → aprovado com ajustes sugeridos pelo DG
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=17221s)
+- **RD 623 (2026-11-13)**, 25 · relator **Alexandre Florambel** · Recurso hierárquico contra as Deliberações SRG 8 e 9/2026 (não homologação da sobretaxa de seca LWS 2026) → aprovado (recurso desprovido)
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=L5asPhti148&t=19932s)

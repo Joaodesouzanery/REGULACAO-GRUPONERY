@@ -1,0 +1,358 @@
+{
+ "meta": {
+  "video_id": "jy7jE2z1FL0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts dos seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "16ª RPO 2025 (parte 2)",
+  "data": "2025-05-13",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (Diretora-Geral substituta)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa"
+  ],
+  "observacoes": [
+   "Parte 2 (tarde) da 16ª Reunião Pública Ordinária de 13/5/2025.",
+   "Item 24 retirado de pauta a pedido da relatora (não identificada).",
+   "Item 1 (CPFL Santa Cruz) terminou sem decisão após voto-vista de Mosna; retorna na próxima pauta.",
+   "Nos itens 23, 15, 19 e 25 só dois diretores acompanharam o relator: Ricardo Tili aparentemente não votou/estava ausente."
+  ]
+ },
+ "itens": [
+  {
+   "id": "8",
+   "ts": "0:00:07",
+   "processo": "48500.000760/2024-98",
+   "interessado": "Inove Serviços de Treinamentos e Consultoria Empresarial Ltda. (representando o município de Eusébio-CE); distribuidora Enel Ceará",
+   "assunto": "Requerimento administrativo para reconhecimento de legitimidade da Inove para representar o município de Eusébio (CE) em reclamações contra a Enel Ceará e na ouvidoria da ANEEL",
+   "tema": [
+    "direitos do consumidor / ouvidoria",
+    "distribuição (Enel Ceará)",
+    "representação processual",
+    "parecer 361/2023 da Procuradoria"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: não reconhecida a legitimidade da Inove; SMA deve levantar todos os processos com a Inove como representante; comunicar ARCE; ofício ao MP-CE e TCE-CE",
+   "resumo_voto": "Sustentação oral de Francisco Dias de Oliveira Júnior (Inove), que criticou o parecer 361/2023 como «cheque em branco» à Enel. Procuradoria (parecer 168/2024) entendeu sanada a representação no caso concreto; o relator divergiu da Procuradoria: contrato do município com a Inove tem objeto de recuperação de crédito/auditoria de faturas, sem previsão de representação perante a ANEEL; extrapolação do objeto contratual; exigir documentos complementares tem amparo legal.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, não reconhece legitimidade",
+     "ts": "0:15:44",
+     "confianca": "alta",
+     "justificativa": "objeto do contrato com o município não prevê representação perante órgãos públicos; procuração isolada não basta para ente público; determina levantamento pela SMA e comunicação ao MP-CE e TCE-CE"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:26:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:26:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:28:06",
+   "processo": "48500.003308/2024-88",
+   "interessado": "Município de Eusébio (CE), via Inove; Enel Distribuição Ceará",
+   "assunto": "Pedido de reconsideração contra o Despacho 3162/2024 (cautelar que suspendeu canal exclusivo de atendimento da Enel Ceará para representantes de consumidores), pedindo proibir exigência de contrato, licitação e publicação",
+   "tema": [
+    "recursos administrativos",
+    "medida cautelar",
+    "direitos do consumidor / ouvidoria",
+    "distribuição (Enel Ceará)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: não conhecido o pedido de reconsideração por ausência de legitimidade; de ofício revogado o Despacho 3162/2024",
+   "resumo_voto": "Nova sustentação oral de Francisco Dias de Oliveira Júnior (Inove). Relator: representação irregular (mesmos fundamentos do item 8); sócia administradora da Inove não inscrita na OAB; e-mail de errata da Enel mostra que os demais canais continuam disponíveis, logo ausentes fumaça do bom direito e perigo da demora, revogando-se a cautelar.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, não conhece e revoga de ofício a cautelar",
+     "ts": "0:40:13",
+     "confianca": "alta",
+     "justificativa": "defeito de representação; ausência de fumus boni iuris e periculum in mora após esclarecimentos da Enel; rebate que a agência não marginaliza o consumidor"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:51:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:51:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:51:37",
+   "processo": "48500.000184/2024-89",
+   "interessado": "Mestra 3 Energia S.A. (transmissora); subestação Rio Claro 2; LT 230 kV Rondonópolis-Rio Verde (Furnas); ONS",
+   "assunto": "Recurso contra o Despacho 1298/2024 da STD que negou emissão de Termo de Liberação de Receita (TLR) retroativo a jan/2023 para a SE Rio Claro 2 (contrato de concessão 24/2018)",
+   "tema": [
+    "transmissão (RAP, TLR)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: recurso conhecido e negado provimento",
+   "resumo_voto": "Sustentação oral de Urias Martiniano Garcia Neto (Mestra): ONS indeferiu 5 vezes o desligamento por restrição sistêmica, caso fortuito. Procuradoria sem parecer. Relator: recurso tempestivo (instabilidade do sistema); acompanha STD: gerenciar intervenções com Furnas e ONS é risco conhecido do licitante; pedir desligamento de um mês dificulta a autorização; pendência impeditiva própria; RAP só a partir da solicitação do TLR.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:00:47",
+     "confianca": "alta",
+     "justificativa": "pendência impeditiva própria; necessidade de desligamento era conhecida no leilão; transmissora tem responsabilidade integral pela implantação"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:08:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:08:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:08:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:08:46",
+   "processo": "48500.003320/2024-92",
+   "interessado": "Companhia Jaguari de Energia (CPFL Santa Cruz), distribuidora; Conselho de Consumidores",
+   "assunto": "Reajuste tarifário anual 2025 da CPFL Santa Cruz: voto-vista sobre pedido de diferimento positivo de cerca de R$ 111,7 milhões",
+   "tema": [
+    "tarifas e revisão tarifária (RTA)",
+    "diferimento tarifário",
+    "consulta pública 8/2025"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "sem decisão (empate); retorna automaticamente na próxima pauta",
+   "resumo_voto": "Na 8ª RPO (18/3/2025) Agnes votou por homologar efeito médio de -3,44% sem diferimento, acompanhada por Ludimila; Mosna pediu vista. Voto-vista de Mosna: com base nas contribuições da CP 8/2025 e precedentes (Enel Ceará, R$ 532 mi; Equatorial Alagoas, R$ 150 mi), aceita diferimento parcial de R$ 100 milhões, efeito médio de +2,62%, vigência a partir de 22/5/2025 com compensação via Selic no processo de 2026 (projeção de +17,23% em 2026 sem diferimento). Agnes mantém o voto (inversão de sinal no primeiro ano; caso não excepcional; aguardar regra da CP 8). Ludimila mantém o voto original (exceção deve ser tratada em 2026). Resultado anunciado como sem decisão.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, mantém voto original (homologa -3,44% sem diferimento)",
+     "ts": "1:39:50",
+     "confianca": "alta",
+     "justificativa": "incomoda a inversão de sinal no primeiro ano; ainda formando convicção sobre a regra da CP 8; se 2026 for excepcional a regra tratará no ano seguinte"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: diverge, aprova diferimento parcial de R$ 100 milhões (efeito +2,62%)",
+     "ts": "1:09:00",
+     "confianca": "alta",
+     "justificativa": "reduzir volatilidade tarifária e dar previsibilidade, coerência com precedentes Enel Ceará e Equatorial Alagoas, concordância do conselho de consumidores, acórdão TCU 1376/2022; valor integral pleiteado inverteria demais o efeito"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o voto original da relatora",
+     "ts": "1:42:00",
+     "confianca": "media",
+     "justificativa": "diferimento deve ter caráter excepcional; a volatilidade deveria ser tratada em 2026, não neste processo"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não identificado (o empate anunciado sugere que acompanhou a divergência de Mosna)",
+     "ts": "1:44:17",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:44:36",
+   "processo": "48500.001414/2024-27",
+   "interessado": "Diamante Geração de Energia Ltda.; Complexo Termelétrico Jorge Lacerda (CTJL)",
+   "assunto": "Pedido de reconsideração contra a REH 3.410/2024 (preço do carvão mineral nacional, ano-base 2023, para o contrato de energia de reserva da Lei 14.299/2022), pedindo possibilidade de rever o preço após a assinatura do CER",
+   "tema": [
+    "outorgas de geração (térmica a carvão)",
+    "transição energética justa",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: conhecido e negado provimento",
+   "resumo_voto": "Sustentação oral de Valéria de Souza Rosa (Diamante), citando nota técnica da ANM sobre custos de fechamento de mina subestimados. Procuradoria não instada. Relatora leu só o dispositivo (voto disponível no bloco).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "1:54:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "1:55:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:55:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:55:38",
+   "processo": "48500.003521/2024-90",
+   "interessado": "Energisa Mato Grosso (EMT), distribuidora; AGER-MT",
+   "assunto": "Recurso contra o auto de infração 2/2024 da AGER-MT por cobrança indevida de contribuição de iluminação pública (CIP) a unidades reclassificadas de rurais para residenciais; multa de R$ 12,79 milhões",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: provimento parcial, mantida a multa de R$ 12.790.088,72 e ampliado para 180 dias o prazo das determinações 1 e 2",
+   "resumo_voto": "Sustentação oral de Fabrício Ferreira Neves (Energisa MT): devolução em dobro de R$ 4,5 mi, leis municipais caóticas, multa desproporcional, dupla penalidade. Relatora: cobrança indevida reiterada, inércia da distribuidora mesmo após auto de infração; dosimetria (50% gravidade, 25% dano) conforme precedentes.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, provimento parcial (mantém multa, amplia prazo)",
+     "ts": "2:05:44",
+     "confianca": "alta",
+     "justificativa": "conduta lesiva continuou mesmo após o auto de infração; dosimetria condizente com precedentes de erro de faturamento"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "2:08:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:08:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:09:33",
+   "processo": "48500.000672/2025-77",
+   "interessado": "ABEEólica; sustentações de Neoenergia Renováveis e ABEEólica; CCEE",
+   "assunto": "Pedido de reconsideração contra a REN 1.109/2024 (regras de comercialização, SCL) na parte que zera o ressarcimento por constrained-off a eólicas do ACL sem garantia física publicada",
+   "tema": [
+    "comercialização (CCEE, regras)",
+    "geração eólica (constrained-off, ESS)",
+    "regulação normativa",
+    "recursos administrativos"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: pedido não conhecido (recurso contra ato normativo geral e abstrato, art. 43, IV, REN 273/2007)",
+   "resumo_voto": "Sustentações de Rachel Marques Marcato (Neoenergia Renováveis) e Luiz Henrique Basso Almeida (ABEEólica), propondo média móvel de 12 meses de geração como garantia física. Procuradoria: não cabe recurso contra resolução, mas autotutela é possível. Relatora: tema já avaliado na CP 22/2022 (NT 144/2024); tratamento isonômico; emissão de garantia física por certificação não está suspensa no MME.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, não conhece",
+     "ts": "2:26:06",
+     "confianca": "alta",
+     "justificativa": "recurso contra norma abstrata; pleito subsidiário já avaliado nas consultas; empresas podem pedir cálculo de garantia física ao MME"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "2:38:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:38:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:39:05",
+   "processo": "48500.006280/2018-92",
+   "interessado": "Argo VI Transmissão de Energia S.A.; LT 500 kV Xingu (nome incerto na legenda)",
+   "assunto": "Recurso contra o Despacho 404/2023 que não reconheceu excludente de responsabilidade pelo atraso da LT 500 kV (contrato de concessão 18/2014); penalidade editalícia de cerca de R$ 22 milhões",
+   "tema": [
+    "transmissão (atraso, penalidade editalícia)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: conhecido e negado provimento",
+   "resumo_voto": "Sustentação oral de Bruno Crispim (Argo): 73 dias de atraso no licenciamento reconhecidos na fundamentação de voto anterior deveriam reduzir a dosimetria. Procuradoria tende a manter o voto (presunção de legitimidade). Relatora: não houve reconhecimento de ausência de culpa pelos 73 dias; o argumento anterior era só que não afetaria a PVA.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "2:49:00",
+     "confianca": "alta",
+     "justificativa": "não houve reconhecimento pela ANEEL de ausência de culpa pelos 73 dias"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "2:49:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:49:43",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "24",
+   "motivo": "retirado a pedido da relatora"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de empresas, pessoas e números de processo podem estar errados (ex.: Mestra 3, Argo 6, LT Xingu/Quixadá).",
+  "Sandoval Feitosa ausente por inferência (Agnes presidiu como DG substituta).",
+  "Item 1: voto de Ricardo Tili não está audível; o «sem decisão» sugere empate 2x2; registro com confiança baixa.",
+  "Itens 23, 15, 19, 25: só três votos audíveis; Tili não registrado.",
+  "Ts dos votos de quem só acompanha são aproximados."
+ ]
+}
