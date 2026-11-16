@@ -4,7 +4,7 @@ Uso: python3 pipeline/relatorio_nery.py clientes/<x>/<pasta>   → <pasta>/relat
 Setor/fotos: kit por agência (docs/marca/setores/kit.json); foto do cliente (empresa.json → foto_capa) tem prioridade na capa."""
 import sys, os, re, json, datetime, collections, math, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import previsao, mapa_tema, design as d
+import previsao, mapa_tema, design as d, notas_cliente as nc
 from desfecho import desfecho_item
 E = d.E
 
@@ -62,7 +62,7 @@ def links_par(txt):
         cand = [i for i in its if str(i["numero"]) == num]
         mi = re.findall(r"item (\d+)", txt)
         alvo = next((i for i in cand if str(i["item"]) in mi), cand[0] if cand else None)
-        if alvo: out.append(f'<a href="{minuto(alvo)}">▶ {num}ª reunião, item {alvo["item"]}</a>')
+        if alvo: out.append(f'<a href="{minuto(alvo)}">▶ {num}ª reunião, item {alvo["item"]}</a>' + d.selo_placar(*nc.placar(c, alvo["id"], alvo["resultado"])))
     return ('<p class="mins">' + " &nbsp; ".join(out) + "</p>") if out else ""
 
 
@@ -86,14 +86,15 @@ S.append(d.divisor(1, SEC[0][0], f"Tudo o que a diretoria da {NOME} decidiu sobr
 linhas_p = [[E(STATUS(i)), fmtd(i["data"]), f'<span class="nw">{E(k)}</span>', E(i["assunto"] or ""), E(des(i["id"])), f'<a href="{minuto(i)}">▶</a>'] for k, i in procs.items()]
 tabf = lambda ls: d.tabela(["Situação", "Última sessão", "Processo", "Assunto", "Para a empresa", "Vídeo"], ls, ["9%", "10%", "16%", "50%", "11%", "4%"])
 DES = collections.Counter(des(i["id"]) for i in its)
-calh = d.tabela(["Data", "Evento", "Observação"], [[fmtd(x["data"]), f'{x["reuniao"]}ª reunião da diretoria', E(x.get("formato", ""))] for x in cal] +
+cal_v = [x for x in ld(f"{D}/calendario.json", []) if max(nc.dias_reuniao(x)) >= HOJE.isoformat()][:3]
+calh = d.tabela(["Data", "Evento", "Observação"], [[nc.periodo(x) + "/" + x["data"][:4], f'{x["reuniao"]}ª reunião da diretoria', ("<b>virtual, " + str(len(nc.dias_reuniao(x))) + " dias, sem transmissão</b>") if x.get("formato") == "virtual" else E(x.get("formato", "")) + ", transmitida"] for x in cal_v] +
                 [[fmtd(mandato(n)[1]), "fim de mandato", E(n)] for n in board if mandato(n)[1] and HOJE.isoformat() <= str(mandato(n)[1]) <= (HOJE + datetime.timedelta(days=460)).isoformat()])
 def decs_html(lst):
     rows = []
     for i in lst:
         v = fala_rel(i["id"])
         tr = f'«{E((v["trecho"] or "")[:170])}»' if v else ""
-        rows.append([f'{fmtd(i["data"])}<br><span style="color:#6B7780">{i["numero"]}ª, item {i["item"]}</span>', E(i["assunto"] or ""), E(i["relator"] or ""), E(des(i["id"])), f'<i>{tr}</i> <a href="{minuto(i)}">▶ minuto</a>'])
+        rows.append([f'{fmtd(i["data"])}<br><span style="color:#6B7780">{i["numero"]}ª, item {i["item"]}</span>', E(i["assunto"] or ""), E(i["relator"] or ""), E(des(i["id"])) + "<br>" + d.selo_placar(*nc.placar(c, i["id"], i["resultado"])), f'<i>{tr}</i> <a href="{minuto(i)}">▶ minuto</a>'])
     return d.tabela(["Sessão", "Assunto", "Relator", "Para a empresa", "O que foi dito"], rows, ["9%", "33%", "11%", "11%", "36%"])
 CATR = {"acompanha": "acompanha", "relator": "relator", "vencido": "vencido", "revisor_diverge": "diverge", "vista": "vista"}
 def matriz(lst):
@@ -108,12 +109,13 @@ pn = NAR.get("painel") or {}
 pars0 = pn.get("paragrafos", [])
 rot = ["O que a diretoria decidiu", "O que está em aberto", "O que vem a seguir"] + [f"Ponto {k}" for k in range(4, 9)]
 S.append(d.tecnica("01 · A empresa na agência", "Onde a empresa está hoje na diretoria",
-                   d.whitepaper("Painel", [(rot[k], f"<p>{E(x)}</p>" + links_par(x)) for k, x in enumerate(pars0)], foto=FOTO, foco=FOCO, h_foto="1.25in"), AG, logo_cliente=CLI))
+                   d.whitepaper("Painel", [(rot[k], f"<p>{E(x)}</p>" + links_par(x) + (d.agenda_cards(cal_v, 2) if k == 2 else "")) for k, x in enumerate(pars0)], foto=None), AG, logo_cliente=CLI))
 cs_all = "".join(d.citacao(q["texto"], q.get("quem", ""), f'{q.get("reuniao", "")}{" · item " + str(q["item"]) if q.get("item") else ""}', q.get("link")) for q in pn.get("citacoes", [])[:3])
 S.append(d.tecnica("01 · A empresa na agência", "Desfechos, falas e calendário", d.grade(d.conceito("", "Desfecho histórico", "decisões desde 2018 (conferidas à mão quando ambíguas)", texto=d.rosca(dict(DES.most_common()), "decisões")),
                                                                                     d.conceito("", "O que foi dito", "trechos literais, com link no minuto", texto=cs_all),
-                                                                                    d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=3) + d.conceito("", "Decisões da empresa, com o minuto", "as mais recentes: relator, resultado e trecho literal da sessão", texto=decs_html(its[-3:][::-1])), AG,
+                                                                                    d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=3) + d.notas_box(nc.notas(AG, EMP, its, cal_v, ld(f"{D}/cadeiras.json", {}).get("cadeiras"), HOJE)), AG,
                    "Desfecho: «a favor» = pedido da empresa atendido; «em parte» = atendido parcialmente; «sem efeito direto» = ato da agência sem ganho ou perda para a empresa; «contra» = pedido negado ou sanção mantida.", CLI))
+S.append(d.tecnica("01 · A empresa na agência", "Decisões mais recentes, com o placar e o minuto", decs_html(its[-5:][::-1]), AG, "Placar calculado a partir dos votos registrados no vídeo; quem só acompanha o relator tem minuto aproximado.", CLI))
 PP = -(-len(linhas_p) // max(1, -(-len(linhas_p) // 14)))
 for k0 in range(0, len(linhas_p), PP):
     S.append(d.tecnica("01 · A empresa na agência", "Processos da empresa na diretoria" + (f" ({k0 // PP + 1}/{(len(linhas_p) + PP - 1) // PP})" if len(linhas_p) > PP else ""), tabf(linhas_p[k0:k0 + PP]), AG,

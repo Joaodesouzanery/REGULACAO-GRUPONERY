@@ -5,7 +5,7 @@ Uso: python3 pipeline/monitor_8blocos.py clientes/<x>/<pasta> "<proc principal>[
 Saída: <pasta>/monitoramento_8_blocos.pdf. Dados do SEI só aparecem se o cliente informar (processos.json); senão, «a informar pelo cliente»."""
 import sys, os, re, json, datetime, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import previsao, prazos, similares, mapa_tema, design as d
+import previsao, prazos, similares, mapa_tema, design as d, notas_cliente as nc
 from desfecho import desfecho_item
 E = d.E
 
@@ -138,7 +138,7 @@ S.append(d.tecnica(SEC(3), "Quanto tempo leva e como se compara", d.grade(*cols,
 
 # 4 agenda
 ult = c.execute("select id, numero, data, video_id from reunioes order by data desc limit 1").fetchone()
-ag_rows = [[f'{x["reuniao"]}ª', fmtd(x["data"]), E(x.get("formato", "")), "pauta publicada" if x.get("pauta") else "pauta a publicar", "; ".join(f'Processo {k + 1}: {"pode voltar (desdobramento pendente)" if p["pend"] else "sem previsão"}' for k, p in enumerate(PR))] for x in cal]
+ag_rows = [[f'{x["reuniao"]}ª', nc.periodo(x) + "/" + x["data"][:4], ("<b>virtual, " + str(len(nc.dias_reuniao(x))) + " dias, sem transmissão</b>") if x.get("formato") == "virtual" else E(x.get("formato", "")) + ", transmitida", "pauta publicada" if x.get("pauta") else "pauta a publicar", "; ".join(f'Processo {k + 1}: {"pode voltar (desdobramento pendente)" if p["pend"] else "sem previsão"}' for k, p in enumerate(PR))] for x in cal]
 assoc = [[f'{i["numero"]}ª ({fmtd(i["data"])})', f'item {E(str(i["item"]))}', E(p["principal"]), E((i["resultado"] or "")[:80]), f'<a href="{link(i["video_id"], i["ts"])}">▶</a>'] for p in PR for i in p["sess"]]
 S.append(d.tecnica(SEC(4), "Reuniões, pautas e o que cada uma decidiu", d.conceito("", "Próximas reuniões (calendário oficial)", "e a relação com os processos monitorados", texto=d.tabela(["Reunião", "Data", "Formato", "Pauta", "Processos"], ag_rows, ["9%", "11%", "14%", "14%", "52%"]))
                    + '<div style="height:.12in"></div>' + d.conceito("", "Reunião → item → processo → resultado", "todas as sessões dos processos monitorados", texto=d.tabela(["Reunião", "Item", "Processo", "Resultado", "Vídeo"], assoc, ["16%", "9%", "17%", "52%", "6%"]))

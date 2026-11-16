@@ -77,6 +77,27 @@ def whitepaper(rotulo, itens, intro="", foto=None, foco="50% 50%", h_foto="2.1in
             + (f'<div class="wf" style="height:{h_foto};background-image:url({b64(foto)});background-position:{foco}"></div>' if foto else ""))
 
 
+def agenda_cards(cal, n=3):
+    """um cartão por reunião: período (virtual = vários dias), formato e se tem transmissão."""
+    import notas_cliente as nc
+    cs = []
+    for x in cal[:n]:
+        virt = x.get("formato") == "virtual" or x.get("transmitida") is False
+        cs.append(f'<div class="ag{" agv" if virt else ""}"><div class="agd">{nc.periodo(x)}</div><div class="agn">{E(str(x.get("reuniao", "")))}ª reunião da diretoria</div>'
+                  f'<div class="agf">{"● virtual · " + str(len(nc.dias_reuniao(x))) + " dias" if virt else "● " + E(x.get("formato", "") or "presencial")}</div>'
+                  f'<div class="agt">{"sem transmissão: resultado só na ata" if virt else "transmitida: vídeo e link no minuto"}</div></div>')
+    return '<div class="ags">' + "".join(cs) + "</div>"
+
+
+def notas_box(notas, titulo="O que observar"):
+    if not notas: return ""
+    return f'<div class="nbx"><div class="nbh">{E(titulo)}</div><ul>' + "".join(f"<li>{t}</li>" for _, _, t in notas) + "</ul></div>"
+
+
+def selo_placar(txt, tipo):
+    return f'<span class="spl spl-{tipo}">{E(txt)}</span>'
+
+
 def lista_tripla(cols):
     """3 colunas numeradas com → (estilo «Getting Started»). cols=[(titulo,[itens])]"""
     return '<div class="l3">' + "".join(f'<div><div class="l3h"><span>{k + 1}</span><u>{E(t)}</u></div><ul class="arr sm">{"".join(f"<li>{x}</li>" for x in xs)}</ul></div>' for k, (t, xs) in enumerate(cols)) + "</div>"
@@ -208,9 +229,9 @@ blockquote.q{{margin:.08in 0;padding:.04in 0 .04in .16in;border-left:2px solid {
 .fc{{position:absolute;left:.8in;top:.75in;width:6.4in}}.ftop{{display:flex;align-items:center;gap:12px;margin-bottom:1.1in}}.fim .fh{{font-size:92pt!important;font-weight:500;letter-spacing:-.03em;line-height:1;color:#fff!important;margin:0!important}}.fr{{display:block;width:.5in;height:2px;background:{LILAS};margin:.35in 0 .2in}}.fc p{{font-size:9.6pt;line-height:1.6;color:rgba(255,255,255,.85);font-weight:300}}
 .fbar{{position:absolute;left:0;right:0;bottom:0;height:.85in;background:#fff;color:{TINTA};display:flex;align-items:center;gap:.3in;padding:0 .8in;font-size:9pt}}.fbar .hn{{height:.26in}}.fsp{{flex:1}}
 .wp{{display:grid;grid-template-columns:3.3in 1fr;gap:.4in;border-top:1px solid {TINTA};padding-top:.12in}}.wl{{font-size:15pt;color:{AZUL2};font-weight:400}}.wi p{{margin:0 0 .08in;font-size:10pt;line-height:1.55}}
-.wr{{display:grid;grid-template-columns:.4in 2.5in .4in 1fr;gap:0;border-top:1px solid {FIO};padding:.14in 0 .12in;margin-left:0}}.wr:first-of-type{{border-top:none}}.wn{{font-size:8pt;color:{AZUL2};font-weight:600;padding-top:.05in}}.wt{{font-size:13pt;font-weight:400;line-height:1.2;color:{TINTA}}}.wa{{font-size:13pt;color:{TINTA}}}.wx{{font-size:8.8pt;line-height:1.5;padding-left:.4in}}.wx p{{margin:0 0 .06in}}
+.wr{{display:grid;grid-template-columns:.4in 2.5in .4in 1fr;gap:0;border-top:1px solid {FIO};padding:.09in 0 .08in;margin-left:0}}.wr:first-of-type{{border-top:none}}.wn{{font-size:8pt;color:{AZUL2};font-weight:600;padding-top:.05in}}.wt{{font-size:13pt;font-weight:400;line-height:1.2;color:{TINTA}}}.wa{{font-size:13pt;color:{TINTA}}}.wx{{font-size:8.8pt;line-height:1.5;padding-left:.4in}}.wx p{{margin:0 0 .06in}}
 .wf{{border-radius:8px;background-size:cover;margin-top:.14in;flex:1 1 0;min-height:0}}.tec{{display:flex;flex-direction:column}}.tec .tb{{flex:1 1 auto;display:flex;flex-direction:column;min-height:0;padding-bottom:.3in}}.tec .tb>*{{flex:none}}.tec .tb>.wf{{flex:1 1 0}}
-.l3{{display:grid;grid-template-columns:repeat(3,1fr);gap:.3in}}.l3h{{display:flex;gap:.12in;align-items:baseline;margin-bottom:.08in}}.l3h span{{font-size:16pt;color:{AZUL2};font-weight:300}}.l3h u{{text-underline-offset:3px;font-size:9.6pt}}
+.ags{{display:grid;grid-template-columns:repeat(3,1fr);gap:.12in}}.ag{{border:1px solid {FIO};border-top:3px solid {AZUL};padding:.08in .1in}}.agv{{border-top-color:{LILAS};background:{NEVOA}}}.agd{{font-size:15pt;font-weight:300;color:{AZUL};line-height:1.1}}.agn{{font-size:7.8pt;font-weight:500;margin-top:2px}}.agf{{font-size:7.4pt;color:{AZUL2};margin-top:3px}}.agt{{font-size:7.2pt;color:{CINZA}}}.agv .agt{{color:{TINTA};font-weight:500}}.nbx{{border-left:3px solid {LILAS};background:{NEVOA};padding:.08in .14in;margin-top:.1in}}.nbh{{font-size:7.4pt;letter-spacing:.12em;text-transform:uppercase;color:{AZUL2};margin-bottom:.04in}}.nbx ul{{margin:0;padding-left:1em;font-size:8.2pt;line-height:1.45}}.spl{{display:inline-block;font-size:6.8pt;font-weight:600;padding:1px 6px;margin-left:4px;letter-spacing:.04em;white-space:nowrap}}.spl-unanime{{background:{AZUL};color:#fff}}.spl-maioria{{background:{LILAS};color:{AZUL}}}.spl-neutro{{background:{FIO};color:{TINTA}}}.l3{{display:grid;grid-template-columns:repeat(3,1fr);gap:.3in}}.l3h{{display:flex;gap:.12in;align-items:baseline;margin-bottom:.08in}}.l3h span{{font-size:16pt;color:{AZUL2};font-weight:300}}.l3h u{{text-underline-offset:3px;font-size:9.6pt}}
 .qm{{font-size:8pt}}.qmh{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;color:{CINZA};font-size:7pt;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid {TINTA};padding-bottom:4px}}.qax{{position:relative;height:1em}}.qax span{{position:absolute;transform:translateX(-50%);letter-spacing:0}}
 .qr{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;border-bottom:1px solid {FIO};padding:.09in 0;align-items:center}}.qc{{font-size:11pt;color:{AZUL};font-weight:500}}.qa{{display:flex;gap:.12in;align-items:center}}.qa .av{{width:.56in;height:.56in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA}}}.qa .av.ini{{display:flex;align-items:center;justify-content:center;color:{AZUL2}}}.qa b{{display:block;font-weight:500;font-size:9pt}}.qa span{{display:block;color:{CINZA};font-size:7.4pt;line-height:1.35}}.qvago{{color:{CINZA};letter-spacing:.1em}}
 .qtl{{position:relative;height:.24in}}.qv{{position:absolute;inset:0;background:repeating-linear-gradient(45deg,{NEVOA} 0 4px,#fff 4px 8px);border:1px solid {FIO}}}.qtl i{{position:absolute;top:0;bottom:0;display:block;border-right:2px solid #fff;overflow:hidden}}.qt{{background:{AZUL}}}.qs{{background:{LILAS}}}.qx{{background:#8C969C}}.qex{{margin-top:.12in;border-top:1px solid {FIO};padding-top:.08in}}.qexh{{font-size:7pt;letter-spacing:.08em;text-transform:uppercase;color:{CINZA};margin-bottom:.06in}}.qexg{{display:grid;grid-template-columns:repeat(5,1fr);gap:.1in}}.qe{{display:flex;gap:.08in;align-items:center;filter:grayscale(1)}}.qe .av{{width:.42in;height:.42in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA}}}.qe .av.ini{{display:flex;align-items:center;justify-content:center;font-size:8pt;color:{CINZA}}}.qe b{{display:block;font-size:7.6pt;font-weight:500}}.qe span{{font-size:6.8pt;color:{CINZA}}}.mins{{font-size:7.8pt;margin-top:.04in!important}}.mins a{{white-space:nowrap}}.nw{{white-space:nowrap;color:{CINZA}}}.qtl i.qn{{background:#fff;border:none}}.qn em{{color:{CINZA}!important}}.qtl em{{font-style:normal;color:#fff;font-size:6.6pt;padding-left:4px;line-height:.24in;white-space:nowrap}}.qs em{{color:{AZUL}}}
