@@ -5,7 +5,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | workshop | 1 | 0 | 0 |
-| sem data | diretoria | 36 | 0 | 0 |
+| sem data | diretoria | 36 | 11 | 0 |
 | sem data | audiencia | 5 | 0 | 0 |
 | 2026 | workshop | 15 | 2 | 2 |
 | 2026 | diretoria | 46 | 45 | 11 |
@@ -32,7 +32,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 67 | 0 |
+| 2018 | diretoria | 69 | 68 | 0 |
 | 2018 | audiencia | 58 | 0 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
@@ -742,5 +742,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-02-06 · Bloco dos Itens de 12 ao 39 - 3ª Reunião Pública Ordinária ANEEL 06/02 · `RDGQbIYpSeE`
 - 2018-01-30 · Retificação da 1ª Reunião Pública Ordinária ANEEL 30/01/2018 · `8p0y1E_QKBA`
 - 2018-01-30 · Itens 11 a 45 - 2ª Reunião Pública Ordinária ANEEL 30/01/2018 · `96TVQGfRjYY`
+- 2018-01-23 · Itens 11 a 47 - 1ª Reunião Pública Ordinária ANEEL 23/01/2018 · `6-11UmwSnDg`
+-  · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `GadM58CgTM8`
+-  · 2ª Reunião Pública Extraordinária da Diretoria Colegiada · `G0QvS7K94O8`
+-  · 29ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `FkcuPd84kbg`
+-  · 28ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `MhsOvSI_Y3w`
+-  · 26ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `_FotOKAnuWA`
+-  · 25ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `sDGHdxgvIuQ`
+-  · 24ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `bW9p0mAUux0`
+-  · 23ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `rZEEgSSft64`
+-  · 22ª Reunião Pública Ordinária da Diretoria Colegiada · `yFO24uLmsiY`
+-  · 21ª Reunião Pública Ordinária da Diretoria Colegiada · `uOYMo8RI4ew`
+-  · 20ª Reunião Pública Ordinária da Diretoria Colegiada · `pNLtOLsQMZ4`
 
 Vídeos sem legenda registrados: 24 (ver `data/sem_legenda.jsonl`).
