@@ -55,7 +55,9 @@ def divisor(n, titulo, texto, foto, foco="50% 50%"):
 
 
 def tecnica(secao, titulo, corpo, ag, rodape="", logo_cliente=None):
-    return f'''<section class="pg tec"><header><span class="hs">{E(NOME_AG.get(ag, ag.upper()))} · {E(secao)}</span><span class="hsp"></span>{f'<img src="{b64(logo_cliente)}" class="hcli">' if logo_cliente else ''}<img src="{img("nery_a")}" class="hn"></header>
+    marca = f'<img src="{b64(logo_cliente)}" class="hcli">' if logo_cliente else f'<img src="{img("circle_p")}" class="hcp"><img src="{img("nery_a")}" class="hn">'
+    pe = f'<div class="tpe"><img src="{img("circle_p")}" class="pc"><span>em parceria com</span><img src="{img("nery_a")}" class="pn"></div>' if logo_cliente else ""
+    return f'''<section class="pg tec">{pe}<header><span class="hs">{E(NOME_AG.get(ag, ag.upper()))} · {E(secao)}</span><span class="hsp"></span>{marca}</header>
 <h2 class="th">{E(titulo)}</h2><div class="tb">{corpo}</div>{f'<div class="trod">{rodape}</div>' if rodape else ''}</section>'''
 
 
@@ -190,8 +192,8 @@ CSS = f"""@page{{size:13.333in 7.5in;margin:0}}*{{box-sizing:border-box}}body{{m
 .sum{{display:grid;grid-template-columns:4.6in 1fr}}.sf{{background-size:cover}}.sc{{padding:.7in .7in}}.sh{{font-size:24pt;font-weight:300;color:{AZUL};margin:.12in 0 .35in}}.sl{{display:grid;grid-template-columns:1fr 1fr;gap:.28in .5in}}.si{{display:flex;gap:.18in;border-top:1px solid {FIO};padding-top:.12in}}.sn{{font-size:22pt;font-weight:300;color:{AZUL2};line-height:1}}.si b{{display:block;font-weight:500;font-size:11pt}}.si span{{font-size:8.6pt;color:{CINZA};line-height:1.4}}
 .div{{background:{AZUL};color:#fff}}.df{{position:absolute;inset:0 0 0 5.4in;background-size:cover}}.dv{{position:absolute;left:5.4in;top:0;bottom:0;width:1.4in;background:linear-gradient(90deg,{AZUL},rgba(0,59,76,0))}}
 .dc{{position:absolute;left:.7in;top:1.6in;width:4.5in}}.dn{{font-size:84pt;font-weight:200;color:{LILAS};line-height:1}}.div h2{{font-size:28pt;font-weight:400;margin:.18in 0 .14in}}.div p{{font-size:10.5pt;line-height:1.55;color:rgba(255,255,255,.8);font-weight:300}}.dsim{{position:absolute;left:.7in;bottom:.55in;height:.32in;opacity:.9}}
-.tec{{padding:.45in .6in .4in}}.tec header{{display:flex;align-items:center;gap:12px;border-top:1px solid {TINTA};padding-top:.1in}}.hs{{font-size:7.6pt;letter-spacing:.14em;text-transform:uppercase;color:{CINZA}}}.hsp{{flex:1}}.hn{{height:.2in}}.hcli{{height:.22in}}
-.th{{font-size:20pt;font-weight:400;color:{AZUL};margin:.2in 0 .2in;max-width:10.5in}}.tb{{font-size:9.2pt;line-height:1.5}}.trod{{position:absolute;left:.6in;right:.6in;bottom:.22in;font-size:6.8pt;color:{CINZA};border-top:1px solid {FIO};padding-top:.05in}}
+.tec{{padding:.45in .6in .4in}}.tec header{{display:flex;align-items:center;gap:12px;border-top:1px solid {TINTA};padding-top:.1in}}.hs{{font-size:7.6pt;letter-spacing:.14em;text-transform:uppercase;color:{CINZA}}}.hsp{{flex:1}}.hn{{height:.2in}}.hcli{{height:.3in}}.hcp{{height:.22in}}.tpe{{position:absolute;right:.6in;bottom:.1in;display:flex;align-items:center;gap:6px;font-size:6pt;letter-spacing:.1em;text-transform:uppercase;color:{CINZA}}}.tpe .pc{{height:.15in}}.tpe .pn{{height:.12in}}
+.th{{font-size:20pt;font-weight:400;color:{AZUL};margin:.2in 0 .2in;max-width:10.5in}}.tb{{font-size:9.2pt;line-height:1.5}}.trod{{position:absolute;left:.6in;right:3.2in;bottom:.22in;font-size:6.8pt;color:{CINZA};border-top:1px solid {FIO};padding-top:.05in}}
 .gd{{display:grid;gap:.25in .45in}}.cc{{border-top:1px solid {FIO};padding-top:.1in}}.ccn{{font-size:13pt;color:{AZUL2};font-weight:400}}.cct{{font-size:13pt;color:{AZUL2};font-weight:400;margin-bottom:.1in}}.ccs{{text-decoration:underline;text-underline-offset:3px;margin-bottom:.1in;font-size:9.4pt}}
 .cctx p{{margin:0 0 .08in;text-align:justify;hyphens:auto}}ul.arr{{list-style:none;padding:0;margin:0}}ul.arr li{{padding-left:.3in;position:relative;margin:.04in 0}}ul.arr li:before{{content:"→";position:absolute;left:0;color:{AZUL2}}}
 .nums{{display:grid;grid-template-columns:repeat(4,1fr);gap:.3in;margin:.05in 0 .2in}}.nums div{{border-top:1px solid {AZUL};padding-top:.07in}}.nums b{{font-size:22pt;font-weight:300;color:{AZUL};display:block;line-height:1.05}}.nums span{{font-size:7.8pt;color:{CINZA}}}
