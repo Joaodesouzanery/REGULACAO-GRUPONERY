@@ -36,3 +36,6 @@ Sempre commit e push no branch de trabalho; não abra PR sem pedido. Não versio
 
 ## Subagentes (`.claude/agents/`) e hooks
 `analista-reuniao` (1 reunião → .analise.json validado), `conferente-cego` (amostra cega, sem ver a base), `auditor-respostas` (confere cada afirmação de relatório com SQL próprio), `pesquisador-mandatos` (Senado/DOU com fontes), `analista-evento` (audiência/workshop → .evento.json), `revisor-visual` (confere o PDF página a página), `pesquisador-dirigentes` (composição oficial, retratos, formação), `curador-fotos` (fotos de setor com licença). Skill **auditoria** (base + amostra cega + respostas + visual). Comandos: `/pergunta`, `/relatorio`, `/lote-mac` (`.claude/commands/`). Hooks em `.claude/settings.json`: `git commit` só passa se `checar_integridade.py` passar; início de sessão lembra este roteiro.
+
+## Skills novas (nov/2026)
+**analise-lote** (fila + workflow de analistas + conferência), **auditoria-falas** (`pipeline/auditar_falas.py`), **pacote-mensal** (`bash pipeline/pacote_mensal.sh`), **pagina-cheia** (densidade; travessão só onde precisa), **post-setor**, **calendario-agencias** (agente `pesquisador-calendario`), **controle-diretoria** (`cadeiras.json`), **lacunas-agencias**, **transparencia-agencias** (agente `auditor-transparencia`, `pipeline/transparencia.py` → `docs/transparencia_agencias.md`).
