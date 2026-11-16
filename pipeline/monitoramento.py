@@ -33,7 +33,7 @@ S = []
 
 def top(n, t):
     return (f'<header class="hd"><span class="num">{n:02d}</span><span>{E(NOME)} · {E(t)}</span><span class="sp"></span>'
-            + (f'<img src="{CLI}" class="hcli">' if CLI else "") + f'<img src="{dz.img("nery_a")}" class="hl"></header>')
+            + (f'<img src="{CLI}" class="hcli"></header><div class="tpe"><img src="{dz.img("circle_p")}" class="pc"><span>em parceria com</span><img src="{dz.img("nery_a")}" class="pn"></div>' if CLI else f'<img src="{dz.img("circle_p")}" class="hcp"><img src="{dz.img("nery_a")}" class="hl"></header>'))
 
 
 KIT = dz.kit(EMP.get("setor") or dz.SETOR_AG.get(AG, "portos")); FOTOP = EMP.get("foto_capa") or KIT["capa"]; FOCO = EMP.get("foco", "50% 55%")
@@ -101,10 +101,10 @@ if MODO == "raio_x":
          [(len(procs), "processos monitorados"), (len(ativos), "em aberto (vista, retirado ou em instrução)"), (sum(1 for k in grupos if k in PJ), "com etapa do SEI informada"), (len(cal), "próximas reuniões oficiais")])
     # visão geral
     linhas = ""
-    for k, lst in procs[:15]:
+    for k, lst in procs[:11]:
         st = status(lst); u = lst[-1] if lst else None; pj = PJ.get(k, {})
         d = DUR.get(k); tema = d[1] if d else (pj.get("tema") or "—")
-        linhas += (f'<tr><td><span class="st st-{st.split()[0]}">{E(st)}</span></td><td class="pn">{E(k)}</td><td>{E((pj.get("titulo") or (u["assunto"] if u else ""))[:90])}</td>'
+        linhas += (f'<tr><td><span class="st st-{st.split()[0]}">{E(st)}</span></td><td class="pn">{E(k)}</td><td>{E(pj.get("titulo") or (u["assunto"] if u else ""))}</td>'
                    f'<td>{E(pj.get("area") or (u["relator"] if u else "") or "—")}</td><td>{E(pj.get("etapa_sei") or "a informar")}</td><td>{fmtd(u["data"]) if u else "—"}</td></tr>')
     S.append(f'''<section class="pg">{top(1, "Visão geral")}<h2>Processos da empresa: onde cada um está</h2><div class="card"><table class="tb"><tr><th>Status</th><th>Processo</th><th>Assunto</th><th>Responsável (relator / área)</th><th>Etapa no SEI</th><th>Última sessão</th></tr>{linhas}</table>
 <p class="nt">Status pela última sessão da diretoria. Etapa no SEI e área técnica: informadas pelo cliente (processos.json); sem essa informação aparece «a informar». Nº do processo vem da legenda; conferir no SEI.</p></div></section>''')
@@ -213,7 +213,7 @@ h2{{font-size:20pt;font-weight:400;color:{dz.AZUL};margin:0 0 .16in}}h3{{font-si
 .iqr{{position:absolute;top:0;bottom:0;background:{AC};opacity:.3;border-radius:7px}}.md{{position:absolute;top:-3px;width:4px;height:20px;background:{AC};border-radius:2px}}.pb em{{font-size:7.4pt;color:#7A766F;font-style:normal}}.lgx{{font-size:7.6pt;color:{dz.CINZA};margin-bottom:.08in}}.lgx i{{display:inline-block;width:14px;height:9px;margin:0 4px 0 10px;position:relative;border-radius:3px}}.lgx i.md{{width:4px;top:0;height:12px}}
 .big{{font-size:30pt;font-weight:500;line-height:1.05}}.lst{{margin:0;padding-left:1.1em;font-size:8.2pt;line-height:1.42}}.lst li{{margin-bottom:.05in}}.est{{font-size:6.6pt;font-weight:500;text-transform:uppercase;color:{dz.AZUL};background:{dz.LILAS};border-radius:99px;padding:2px 7px;margin-left:4px}}
 .mt{{margin-top:.14in}}.ctr{{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:7.6pt;border-bottom:1px solid {dz.FIO};padding:5px 0;line-height:1.35}}
-.pag{{position:absolute;right:.45in;bottom:.15in;font-size:7.5pt;font-weight:500;color:{GOLD}}}"""
+.pag{{position:absolute;left:.6in;bottom:.12in;font-size:7.5pt;font-weight:500;color:{GOLD}}}"""
 open(out + ".html", "w").write(leve_html(dz.sem_travessao(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(nome_curto)}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>')))
 js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(out)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(out)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
