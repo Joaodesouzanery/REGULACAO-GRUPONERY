@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **298** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/workshop: 7; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **286** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 3; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
@@ -26,21 +26,12 @@ Total: **298** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2020-04-07 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 07/04/2020 – Parte 2 · https://www.youtube.com/watch?v=hoC3pYrYDWo · **legenda desativada/inexistente no YouTube**
 - 2020-03-10 · diretoria · 7ª Reunião Pública Ordinária ANEEL – 10/03/2020 · https://www.youtube.com/watch?v=orCn1aHb1Ks · **legenda desativada/inexistente no YouTube**
 - 2020-02-18 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 18/02/2020 · https://www.youtube.com/watch?v=0NtDdrHPTGs · **legenda desativada/inexistente no YouTube**
-- 2019-11-21 · workshop · Workshop Autorização de Reforços e Melhorias - Parte 1 - 21/11/2019 · https://www.youtube.com/watch?v=PrsFVKgM_lo · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-06 · workshop · Workshop Brasil-Alemanha sobre mini e microgeração - 6/11/2019 · https://www.youtube.com/watch?v=Exv4fI71svg · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-10-31 · workshop · Workshop Regulamentação sobre Estações Anemométricas e Solarimétricas - 31/10/20 · https://www.youtube.com/watch?v=weq4dk9WX6o · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-10-24 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão N° 02/2019 - 24/10/201 · https://www.youtube.com/watch?v=5lEaGiG3R_c · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-15 · diretoria · 38ª Reunião Pública Ordinária ANEEL – 15/10/2019 - Parte 1 · https://www.youtube.com/watch?v=OEm9o4lfaRU · **legenda desativada/inexistente no YouTube**
 - 2019-10-08 · diretoria · 37ª Reunião Pública Ordinária ANEEL – 08/10/2019  - Parte 2 · https://www.youtube.com/watch?v=ykeyNIO4U70 · **legenda desativada/inexistente no YouTube**
 - 2019-10-08 · diretoria · 37ª Reunião Pública Ordinária ANEEL – 08/10/2019  - Parte 1 · https://www.youtube.com/watch?v=LnJI3qeBw9A · **legenda desativada/inexistente no YouTube**
 - 2019-09-03 · diretoria · 32ª Reunião Pública Ordinária ANEEL – 03/09/2019 – Parte 2 · https://www.youtube.com/watch?v=3GZ-pyBHiuU · **legenda desativada/inexistente no YouTube**
-- 2019-05-15 · workshop · Workshop Internacional Limites de Preços do Mercado de Curto Prazo - Parte 2 - 1 · https://www.youtube.com/watch?v=8sPdYucxT1U · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-15 · workshop · Workshop Internacional Limites de Preços do Mercado de Curto Prazo - Parte 1 - 1 · https://www.youtube.com/watch?v=tE78_mYww64 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-15 · workshop · Workshop Internacional - Limites de preços do Mercado de curto prazo · https://www.youtube.com/watch?v=wALyodWYNEs · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-11 · audiencia · Audiência Pública ANEEL 001/2019 - Micro e Minigeração Distribuída - 11/04/2019 · https://www.youtube.com/watch?v=OTN81bDfKNk · **legenda desativada/inexistente no YouTube**
 - 2019-03-14 · audiencia · Audiência Pública ANEEL 001/2019 - Micro e Minigeração Distribuída - 14/03/2019 · https://www.youtube.com/watch?v=8hZcrXD2-OI · **legenda desativada/inexistente no YouTube**
-- 2018-11-28 · workshop · Workshop de Esclarecimento do Leilão de Transmissão 04/2018 - 28/11/2018 · https://www.youtube.com/watch?v=YyirgpMPruE · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-16 · workshop · Workshop sobre Armazenamento de Energia   Painel 4 · https://www.youtube.com/watch?v=0LFF59wq144 · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 5 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=CvbP5XKeW9I · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 4 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=L9wPpygs2CE · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 2 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=48P_uJvk8Dg · **legenda desativada/inexistente no YouTube**
@@ -52,9 +43,6 @@ Total: **298** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 011/2017 Parte 1 - Revisão Tarifária Eletrocar · https://www.youtube.com/watch?v=O5x4owWW2Hs · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 010/2017 Parte 7 - Revisão Tarifária Hidropan · https://www.youtube.com/watch?v=Bhi-4p7LW2U · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 010/2017 Parte 4 - Revisão Tarifária Hidropan · https://www.youtube.com/watch?v=veprAgAEKZk · **legenda desativada/inexistente no YouTube**
-- 2018-11-08 · workshop · Workshop Tarifa Binômia – 08/11/2018 – Parte 3 · https://www.youtube.com/watch?v=KbcDGeovFsQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-08 · workshop · Workshop Tarifa Binômia – 08/11/2018 – Parte 2 · https://www.youtube.com/watch?v=oZ3T1mIP_Lc · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-07 · workshop · Workshop Tarifa Binômia – 07/11/2018 – Parte 1 · https://www.youtube.com/watch?v=dMCCKpEN9OM · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-25 · diretoria · Itens 6 a 26 - 35ª Reunião Pública Ordinária ANEEL 25/09/2018 · https://www.youtube.com/watch?v=vH-EfZC9dtk · **transcrição sem fala útil (970 caracteres; só música/ruído)**
 - 2018-09-25 · diretoria · Aprovação da Ata da 34ª Reunião Pública Ordinária - 35ª Reunião Pública Ordinári · https://www.youtube.com/watch?v=zrv6oksHLZ4 · **transcrição sem fala útil (400 caracteres; só música/ruído)**
 - 2018-09-21 · diretoria · Aprovação da Pauta da 33ª RPO · https://www.youtube.com/watch?v=VEvoidXB4gI · **transcrição sem fala útil (1173 caracteres; só música/ruído)**

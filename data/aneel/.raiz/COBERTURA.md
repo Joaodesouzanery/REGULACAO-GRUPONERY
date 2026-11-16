@@ -8,10 +8,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 36 | 30 | 0 |
 | sem data | audiencia | 5 | 5 | 0 |
 | 2026 | workshop | 15 | 15 | 2 |
-| 2026 | diretoria | 46 | 45 | 25 |
+| 2026 | diretoria | 46 | 45 | 45 |
 | 2026 | audiencia | 4 | 4 | 3 |
 | 2025 | workshop | 9 | 8 | 0 |
-| 2025 | diretoria | 97 | 95 | 0 |
+| 2025 | diretoria | 97 | 95 | 26 |
 | 2025 | audiencia | 9 | 9 | 0 |
 | 2024 | workshop | 16 | 14 | 0 |
 | 2024 | diretoria | 103 | 102 | 0 |
@@ -28,10 +28,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | workshop | 2 | 2 | 0 |
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 9 | 0 |
-| 2019 | workshop | 8 | 1 | 0 |
+| 2019 | workshop | 8 | 8 | 0 |
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 17 | 0 |
-| 2018 | workshop | 8 | 0 | 0 |
+| 2018 | workshop | 8 | 5 | 0 |
 | 2018 | diretoria | 69 | 68 | 0 |
 | 2018 | audiencia | 58 | 47 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
@@ -45,52 +45,6 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-04-23 · 8ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `p3H87mEF_ZY`
-- 2026-04-07 · 7ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `WMA2rwAIw0I`
-- 2026-04-07 · 7ª Reunião Pública Ordinária ANEEL – 7/4/2026 – Parte 2 · `2KgVj2-0zuE`
-- 2026-04-07 · 7ª Reunião Pública Ordinária ANEEL – 7/4/2026 – Parte 1 · `Mf7a0hr0w4Q`
-- 2026-03-25 · 6ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `QMXrsScu8Ek`
-- 2026-03-24 · 6ª Reunião Pública Ordinária ANEEL – 24/3/2026 · `LFBZA44OAMw`
-- 2026-03-10 · 5ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `_r7LA4qkPWc`
-- 2026-03-10 · 5ª Reunião Pública Ordinária ANEEL – 10/3/2026 – Parte 2 · `XDXxMneIEA0`
-- 2026-03-10 · 5ª Reunião Pública Ordinária ANEEL – 10/3/2026 – Parte 1 · `2N-SQvMf8Vc`
-- 2026-02-24 · 4ª Reunião Pública Ordinária ANEEL – 24/2/2026 · `M7UOgM01BSU`
-- 2026-02-13 · 2ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `PtSzOQxp4BY`
-- 2026-02-13 · 2ª Reunião Pública Extraordinária ANEEL – 13/2/2026 · `pkQIB2NZ55M`
-- 2026-02-12 · 1ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `dWod609SVjQ`
-- 2026-02-11 · 3ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `BasqubY7S3s`
-- 2026-02-11 · 1ª Reunião Pública Extraordinária ANEEL – 11/2/2026 · `2MbcvvXDe0c`
-- 2026-02-10 · 3ª Reunião Pública Ordinária ANEEL – 10/2/2026 · `g4l0mMe-iEM`
-- 2026-01-27 · 2ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `83fLzZL2WIk`
-- 2026-01-27 · 2ª Reunião Pública Ordinária ANEEL – 27/1/2026 · `2WbtG0E3Ap4`
-- 2026-01-21 · 1ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `nbGTzQ_GkIo`
-- 2026-01-20 · 1ª Reunião Pública Ordinária ANEEL – 20/1/2026 · `u7f_05SSyIg`
-- 2025-12-19 · 2ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2025 · `8ji67WrAHKQ`
-- 2025-12-18 · 2ª Reunião Pública Extraordinária ANEEL – 18/12/2025 · `8DYJpmqe0_Y`
-- 2025-12-09 · 41ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `NdYlCTwqKQs`
-- 2025-12-09 · 41ª Reunião Pública Ordinária ANEEL – 9/12/2025 · `5yHH1qY2Fos`
-- 2025-12-02 · 40ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `xwmzzBO4IVw`
-- 2025-12-02 · 40ª Reunião Pública Ordinária ANEEL – 2/12/2025 · `TrpBQyMrBFU`
-- 2025-11-18 · 39ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `61UyYNFsDU0`
-- 2025-11-18 · 39ª Reunião Pública Ordinária ANEEL – 18/11/2025 – Parte 2 · `CCkY31nOIAk`
-- 2025-11-18 · 39ª Reunião Pública Ordinária ANEEL – 18/11/2025 – Parte 1 · `4Ar66Gm_x1c`
-- 2025-11-04 · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `hCQn8ULpiGw`
-- 2025-11-04 · 38ª Reunião Pública Ordinária ANEEL – 4/11/2025 – Parte 2 · `hHBxmflj8XI`
-- 2025-11-04 · 38ª Reunião Pública Ordinária ANEEL – 4/11/2025 – Parte 1 · `Q1_GdV8U8Ag`
-- 2025-10-21 · 37ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `N_wVKeeerXQ`
-- 2025-10-21 · 37ª Reunião Pública Ordinária ANEEL – 21/10/2025 – Parte 2 · `-np7PaWqb38`
-- 2025-10-21 · 37ª Reunião Pública Ordinária ANEEL – 21/10/2025 – Parte 1 · `B29pPIWdmE8`
-- 2025-10-07 · 36ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `Tn11c0tAUao`
-- 2025-10-07 · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 1 · `_RDMRZCiXCE`
-- 2025-09-24 · 35ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `8KncgnoLdGY`
-- 2025-09-23 · 35ª Reunião Pública Ordinária ANEEL – 23/9/2025 · `C3rvjAxNAhU`
-- 2025-09-17 · 34ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `wP6_moTwFPI`
-- 2025-09-17 · 1ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2025 · `WNq8TGFR2v8`
-- 2025-09-16 · 34ª Reunião Pública Ordinária ANEEL – 16/9/2025 · `zRghUqWy_-s`
-- 2025-09-16 · 1ª Reunião Pública Extraordinária ANEEL – 16/9/2025 · `iDIBoIgIiEI`
-- 2025-09-12 · 33ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `cbwGHP885HU`
-- 2025-09-09 · 33ª Reunião Pública Ordinária ANEEL – 9/9/2025 · `YbNKpLXc94A`
-- 2025-09-03 · 32ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `H7Swctf5EG0`
 - 2025-09-02 · 32ª Reunião Pública Ordinária ANEEL – 2/9/2025 · `_aQJLY-TcTY`
 - 2025-08-27 · 31ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `2ZQHzwYH8Wo`
 - 2025-08-26 · 31ª Reunião Pública Ordinária ANEEL – 26/8/2025 · `RW_P2yqmtLc`
