@@ -2,9 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **526** · sem /workshop: 1; sem /diretoria: 13; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **514** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 5; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
-- 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas  – 1º dia – Parte I · https://www.youtube.com/watch?v=JbhIEPkMnPg · **ainda não baixado (rodar a coleta no Mac)**
@@ -20,14 +19,10 @@ Total: **526** · sem /workshop: 1; sem /diretoria: 13; sem /audiencia: 5; 2026/
 - 2026-01-22 · workshop · Workshop Nova Tarifa Branca · https://www.youtube.com/watch?v=km17Nu9FbaM · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-13 · workshop · Workshop sobre avaliação do Programa de Eficiência Energética - 13/01/2026 · https://www.youtube.com/watch?v=HZ9X3DH-AiQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-14 · workshop · Workshop de apresentação do Projeto PD – 10307-223/23 · https://www.youtube.com/watch?v=S67-eOY293A · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-07 · audiencia · Audiência Pública 007/2025 · https://www.youtube.com/watch?v=H7BbaQzsYgQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-06 · audiencia · Audiência Pública 8/2025 – CPFL Santa Cruz – 6/11/2025 · https://www.youtube.com/watch?v=erlt_VWiyz8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-06 · audiencia · Audiência Pública 7/2025 – Agenda Regulatória da ANEEL para 2026/2027 – 6/11/202 · https://www.youtube.com/watch?v=6Vef5E8reEg · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-30 · workshop · Lançamento do projeto Sandbox Regulatório Energias da Floresta e Assinatura do A · https://www.youtube.com/watch?v=aXXrV1uwWTw · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-07 · diretoria · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 2 · https://www.youtube.com/watch?v=gwaiZX5AZGM · **legenda desativada/inexistente no YouTube**
 - 2025-10-06 · workshop · Como funcionam os sandboxes tarifários? · https://www.youtube.com/watch?v=7mAKPYLdD3A · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-26 · audiencia · Audiência Pública 6/2025 – DME Distribuição S.A.– 26/9/2025 · https://www.youtube.com/watch?v=IvAnO50Yfss · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-04 · workshop · Workshop “Horizonte Renovável: A era dos Data Centers no Brasil” · https://www.youtube.com/watch?v=uUYgwc0GXQ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-11 · workshop · Workshop de encerramento do PDI “Sistema Inteligente para Diagnóstico Operativo  · https://www.youtube.com/watch?v=wKs4bQqvZDE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-10 · workshop · Workshop Sistema Inteligente para Diagnóstico Operativo de Isoladores - 10/7/202 · https://www.youtube.com/watch?v=8pdFomXV5NY · **ainda não baixado (rodar a coleta no Mac)**
@@ -512,21 +507,14 @@ Total: **526** · sem /workshop: 1; sem /diretoria: 13; sem /audiencia: 5; 2026/
 - 2012-01-31 · diretoria · Itens 3 e 4 - 3ª Reunião Pública Ordinária ANEEL  31/01/2012 · https://www.youtube.com/watch?v=agrP4oBMneA · **ainda não baixado (rodar a coleta no Mac)**
 - 2012-01-24 · diretoria · Itens 32 a 45 - 2ª Reunião Pública Ordinária ANEEL 24/01/2012 · https://www.youtube.com/watch?v=ICeH2Lz2Nwc · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · Workshop Plano Estratégico Quinquenal de Inovação (PEQuI) · https://www.youtube.com/watch?v=GJbeub9LJBk · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · TESTE DA 48ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2020 · https://www.youtube.com/watch?v=49Ek8O3lqNE · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=_yV9mHlWd30 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=Kpe5zLM_ImU · **ainda não baixado (rodar a coleta no Mac)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=_yV9mHlWd30 · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=Kpe5zLM_ImU · **privado**
 - s/data · audiencia · Audiência Pública nº 20/2022 - Orçamento da CDE · https://www.youtube.com/watch?v=reLLcXYWLa0 · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 15/2022 sobre micro e minigeração distribuída · https://www.youtube.com/watch?v=1rCxOSLqxDY · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 018 2022 · https://www.youtube.com/watch?v=JQrBttEJM9I · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 017 2022 · https://www.youtube.com/watch?v=x1zc4a3eoXs · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 016 2022 · https://www.youtube.com/watch?v=7B2yXVD-RFQ · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 6ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · https://www.youtube.com/watch?v=tEBK733Zgrc · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 5ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2020. · https://www.youtube.com/watch?v=w0VYdizbOs0 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 4ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · https://www.youtube.com/watch?v=195jrNlSJ2c · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 3ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · https://www.youtube.com/watch?v=WJc9Wmg_IoA · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 2ª Reunião Pública Ordinária ANEEL · https://www.youtube.com/watch?v=sxsChN4J4Z0 · **ainda não baixado (rodar a coleta no Mac)**
+- s/data · diretoria · 2ª Reunião Pública Ordinária ANEEL · https://www.youtube.com/watch?v=sxsChN4J4Z0 · **legenda desativada/inexistente no YouTube**
 - s/data · diretoria · 25ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=RAkv2BTFm1k · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · 24ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=0Vnh3I6Avcc · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · 23ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=BZXASlI3HQ8 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 21ª REUNIÃO PÚBLICA  ORDINÁRIA DE 2020 · https://www.youtube.com/watch?v=oOax8XLTcpQ · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 1ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · https://www.youtube.com/watch?v=KJlGWmH9K60 · **ainda não baixado (rodar a coleta no Mac)**

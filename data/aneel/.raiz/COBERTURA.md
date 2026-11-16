@@ -5,14 +5,14 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | workshop | 1 | 0 | 0 |
-| sem data | diretoria | 36 | 23 | 0 |
+| sem data | diretoria | 36 | 30 | 0 |
 | sem data | audiencia | 5 | 0 | 0 |
 | 2026 | workshop | 15 | 2 | 2 |
 | 2026 | diretoria | 46 | 45 | 11 |
-| 2026 | audiencia | 4 | 3 | 3 |
+| 2026 | audiencia | 4 | 4 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |
 | 2025 | diretoria | 97 | 95 | 0 |
-| 2025 | audiencia | 9 | 0 | 0 |
+| 2025 | audiencia | 9 | 4 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
 | 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
@@ -743,8 +743,13 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-01-30 · Retificação da 1ª Reunião Pública Ordinária ANEEL 30/01/2018 · `8p0y1E_QKBA`
 - 2018-01-30 · Itens 11 a 45 - 2ª Reunião Pública Ordinária ANEEL 30/01/2018 · `96TVQGfRjYY`
 - 2018-01-23 · Itens 11 a 47 - 1ª Reunião Pública Ordinária ANEEL 23/01/2018 · `6-11UmwSnDg`
+-  · TESTE DA 48ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2020 · `49Ek8O3lqNE`
 -  · 8ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `5QW-g7ZBXaw`
 -  · 7 ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `ab6YY2k4dZw`
+-  · 6ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `tEBK733Zgrc`
+-  · 5ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2020. · `w0VYdizbOs0`
+-  · 4ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `195jrNlSJ2c`
+-  · 3ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `WJc9Wmg_IoA`
 -  · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `GadM58CgTM8`
 -  · 2ª Reunião Pública Extraordinária da Diretoria Colegiada · `G0QvS7K94O8`
 -  · 29ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `FkcuPd84kbg`
@@ -755,7 +760,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · 23ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `rZEEgSSft64`
 -  · 22ª Reunião Pública Ordinária da Diretoria Colegiada · `yFO24uLmsiY`
 -  · 21ª Reunião Pública Ordinária da Diretoria Colegiada · `uOYMo8RI4ew`
+-  · 21ª REUNIÃO PÚBLICA  ORDINÁRIA DE 2020 · `oOax8XLTcpQ`
 -  · 20ª Reunião Pública Ordinária da Diretoria Colegiada · `pNLtOLsQMZ4`
+-  · 1ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `KJlGWmH9K60`
 -  · 19ª Reunião Pública Ordinária da Diretoria Colegiada · `-kS36Ljgo2Y`
 -  · 18ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `zYVcFn2Z9kg`
 -  · 17ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `eI37OQMScL0`
@@ -767,4 +774,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `Qp_czn7vPxY`
 -  · 10ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `SwmVyDLxtiI`
 
-Vídeos sem legenda registrados: 24 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 27 (ver `data/sem_legenda.jsonl`).
