@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **370** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 22; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **358** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 4; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -97,8 +97,6 @@ Total: **370** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2019-03-14 · audiencia · Audiência Pública ANEEL 001/2019 - Micro e Minigeração Distribuída - 14/03/2019 · https://www.youtube.com/watch?v=8hZcrXD2-OI · **legenda desativada/inexistente no YouTube**
 - 2018-11-28 · workshop · Workshop de Esclarecimento do Leilão de Transmissão 04/2018 - 28/11/2018 · https://www.youtube.com/watch?v=YyirgpMPruE · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-16 · workshop · Workshop sobre Armazenamento de Energia   Painel 4 · https://www.youtube.com/watch?v=0LFF59wq144 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 078/2015 · https://www.youtube.com/watch?v=HawH482C2vc · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 058/2016 · https://www.youtube.com/watch?v=InBA9w5UBPc · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 5 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=CvbP5XKeW9I · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 4 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=L9wPpygs2CE · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 028/2017 Parte 2 - Revisão Tarifária Cooperaliança · https://www.youtube.com/watch?v=48P_uJvk8Dg · **legenda desativada/inexistente no YouTube**
@@ -106,22 +104,13 @@ Total: **370** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 027/2017 - Revisão Tarifária Cemar · https://www.youtube.com/watch?v=Ezn2Ck5tb8U · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 024/2017 · https://www.youtube.com/watch?v=sKc_kBsUK5s · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 012/2018 - Revisão Tarifária Cemig · https://www.youtube.com/watch?v=3dMqZVke9BI · **legenda desativada/inexistente no YouTube**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 012/2017 Parte 5 - Revisão Tarifária Demei · https://www.youtube.com/watch?v=R4pmt9G6EX8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 012/2017 Parte 3 - Revisão Tarifária Demei · https://www.youtube.com/watch?v=7vZc--crf8Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 012/2017 Parte 2 - Revisão Tarifária Demei · https://www.youtube.com/watch?v=Gl0WugwE2_k · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 012/2017 Parte 1 - Revisão Tarifária Demei · https://www.youtube.com/watch?v=0BVgYe0QFd0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 011/2017 Parte 3 - Revisão Tarifária Eletrocar · https://www.youtube.com/watch?v=53Q21ZGxZno · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · audiencia · Audiência Pública ANEEL 011/2017 Parte 2 - Revisão Tarifária Eletrocar · https://www.youtube.com/watch?v=KHGjZVvTxxU · **ainda não baixado (rodar a coleta no Mac)**
+- 2018-11-13 · audiencia · Audiência Pública ANEEL 011/2017 Parte 3 - Revisão Tarifária Eletrocar · https://www.youtube.com/watch?v=53Q21ZGxZno · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 011/2017 Parte 1 - Revisão Tarifária Eletrocar · https://www.youtube.com/watch?v=O5x4owWW2Hs · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 010/2017 Parte 7 - Revisão Tarifária Hidropan · https://www.youtube.com/watch?v=Bhi-4p7LW2U · **legenda desativada/inexistente no YouTube**
 - 2018-11-13 · audiencia · Audiência Pública ANEEL 010/2017 Parte 4 - Revisão Tarifária Hidropan · https://www.youtube.com/watch?v=veprAgAEKZk · **legenda desativada/inexistente no YouTube**
-- 2018-11-09 · audiencia · Reunião Técnica - Audiência Pública ANEEL 050/2017 · https://www.youtube.com/watch?v=_8cXDCAUBCg · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-09 · audiencia · Audiência Pública nº  035 de 2017 video longo · https://www.youtube.com/watch?v=Y-iVxaCnoLk · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-08 · workshop · Workshop Tarifa Binômia – 08/11/2018 – Parte 3 · https://www.youtube.com/watch?v=KbcDGeovFsQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-08 · workshop · Workshop Tarifa Binômia – 08/11/2018 – Parte 2 · https://www.youtube.com/watch?v=oZ3T1mIP_Lc · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-08 · audiencia · Audiência Pública ANEEL 003/2017 - Revisão Tarifária Celpe · https://www.youtube.com/watch?v=Tl-ZTd99tW8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-11-07 · workshop · Workshop Tarifa Binômia – 07/11/2018 – Parte 1 · https://www.youtube.com/watch?v=dMCCKpEN9OM · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-05 · audiencia · Audiência Pública ANEEL 013/2017 Parte 2 - Revisão Tarifária Muxenergia · https://www.youtube.com/watch?v=mWA-VxPey6I · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-25 · diretoria · Itens 6 a 26 - 35ª Reunião Pública Ordinária ANEEL 25/09/2018 · https://www.youtube.com/watch?v=vH-EfZC9dtk · **transcrição sem fala útil (970 caracteres; só música/ruído)**
 - 2018-09-25 · diretoria · Aprovação da Ata da 34ª Reunião Pública Ordinária - 35ª Reunião Pública Ordinári · https://www.youtube.com/watch?v=zrv6oksHLZ4 · **transcrição sem fala útil (400 caracteres; só música/ruído)**
 - 2018-09-21 · diretoria · Aprovação da Pauta da 33ª RPO · https://www.youtube.com/watch?v=VEvoidXB4gI · **transcrição sem fala útil (1173 caracteres; só música/ruído)**
@@ -368,7 +357,6 @@ Total: **370** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - s/data · audiencia · Audiência Pública nº 20/2022 - Orçamento da CDE · https://www.youtube.com/watch?v=reLLcXYWLa0 · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 15/2022 sobre micro e minigeração distribuída · https://www.youtube.com/watch?v=1rCxOSLqxDY · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 018 2022 · https://www.youtube.com/watch?v=JQrBttEJM9I · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública 017 2022 · https://www.youtube.com/watch?v=x1zc4a3eoXs · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública 016 2022 · https://www.youtube.com/watch?v=7B2yXVD-RFQ · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · 2ª Reunião Pública Ordinária ANEEL · https://www.youtube.com/watch?v=sxsChN4J4Z0 · **legenda desativada/inexistente no YouTube**
 - s/data · diretoria · 25ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=RAkv2BTFm1k · **ainda não baixado (rodar a coleta no Mac)**
