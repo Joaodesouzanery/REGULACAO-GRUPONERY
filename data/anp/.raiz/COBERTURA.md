@@ -7,10 +7,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | workshop | 2 | 0 | 0 |
 | sem data | audiencia | 2 | 0 | 0 |
 | 2026 | workshop | 17 | 0 | 0 |
-| 2026 | diretoria | 22 | 12 | 0 |
+| 2026 | diretoria | 22 | 21 | 0 |
 | 2026 | audiencia | 18 | 0 | 0 |
 | 2025 | workshop | 17 | 0 | 0 |
-| 2025 | diretoria | 24 | 0 | 0 |
+| 2025 | diretoria | 24 | 3 | 0 |
 | 2025 | audiencia | 15 | 0 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
 | 2024 | diretoria | 24 | 0 | 0 |
@@ -47,3 +47,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-06-30 · Reunião de Diretoria Colegiada Extraordinária nº 70 - 30 de junho de 2 · `1jsQIQjXcrE`
 - 2026-06-26 · Reunião de Diretoria Colegiada nº 1185 - 26 de junho de 2026 · `b6dGTaO30l4`
 - 2026-06-12 · Reunião de Diretoria Colegiada nº 1184 - 12 de junho de 2026 · `XbaYaRcXU5Q`
+- 2026-05-30 · Reunião de Diretoria Colegiada nº 1183 - 29 de maio de 2026 · `8t-G1JYjqto`
+- 2026-05-15 · Reunião de Diretoria Colegiada nº 1182 - 15 de maio de 2026 · `IeB4KrCv1F8`
+- 2026-04-30 · Reunião de Diretoria Colegiada Extraordinária nº 69 - 30 de abril de 2 · `Pmr1xYvP6no`
+- 2026-04-25 · Reunião de Diretoria Colegiada nº 1181 - 24 de abril de 2026 · `Nd0DMbM4Sm4`
+- 2026-04-10 · Reunião de Diretoria Colegiada nº 1180 - 10 de abril de 2026 · `uzA1iXXIlZM`
+- 2026-03-14 · Reunião de Diretoria Colegiada nº 1178 - 13 de março de 2026 · `Ls8VtnIGOSM`
+- 2026-02-27 · Reunião de Diretoria Colegiada nº 1177 - 27 de fevereiro de 2026 · `405uUdarpGc`
+- 2026-02-13 · Reunião de Diretoria Colegiada nº 1176 - 13 de fevereiro de 2026 · `n6OCGR_4sWc`
+- 2026-01-26 · Reunião de Diretoria Colegiada nº 1175 - 26 de janeiro de 2026 · `ch6jsy49HRs`
+- 2025-12-18 · Reunião de Diretoria Colegiada nº 1174 - 18 de dezembro de 2025 · `tY633kzXT38`
+- 2025-12-09 · Reunião de Diretoria Colegiada nº 1173 - 8 de dezembro de 2025 · `NDl1aH4iipk`
+- 2025-11-18 · Reunião de Diretoria Colegiada nº 1172 - 18 de novembro de 2025 · `FDRzdpNsyGI`
+
+Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).

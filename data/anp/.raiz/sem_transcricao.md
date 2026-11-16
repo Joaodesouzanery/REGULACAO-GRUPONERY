@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **464** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/diretoria: 10; 2026/audiencia: 18; 2025/workshop: 17; 2025/diretoria: 24; 2025/audiencia: 15; 2024/workshop: 12; 2024/diretoria: 24; 2024/audiencia: 9; 2023/workshop: 16; 2023/diretoria: 22; 2023/audiencia: 16; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **452** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/diretoria: 21; 2025/audiencia: 15; 2024/workshop: 12; 2024/diretoria: 24; 2024/audiencia: 9; 2023/workshop: 16; 2023/diretoria: 22; 2023/audiencia: 16; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -27,36 +27,24 @@ Total: **464** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/d
 - 2026-06-17 · audiencia · Audiência Pública nº 12/2026 - 2ª Sessão · https://www.youtube.com/watch?v=1E6Dd_EdDTA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-06-16 · audiencia · Audiência Pública nº 12/2026 - 1ª Sessão · https://www.youtube.com/watch?v=g11XDFzFBB4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-06-16 · audiencia · Audiência Pública nº 06/2026 · https://www.youtube.com/watch?v=_JrEKCX69JM · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-05-30 · diretoria · Reunião de Diretoria Colegiada nº 1183 - 29 de maio de 2026 · https://www.youtube.com/watch?v=8t-G1JYjqto · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-27 · workshop · 1º Workshop sobre a Revisão da Resolução ANP nº 915/2023 · https://www.youtube.com/watch?v=uF6oFxWoiVs · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-21 · workshop · Workshop Dinamização da Fase de Exploração · https://www.youtube.com/watch?v=lwPUyYOcOG8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-05-15 · diretoria · Reunião de Diretoria Colegiada nº 1182 - 15 de maio de 2026 · https://www.youtube.com/watch?v=IeB4KrCv1F8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-30 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 69 - 30 de abril de 2026 · https://www.youtube.com/watch?v=Pmr1xYvP6no · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-28 · audiencia · Audiência Pública nº 05/2026 · https://www.youtube.com/watch?v=eNPmNXhf8LU · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-27 · workshop · Workshop Novo Modelo de Licitações de E&P da ANP: Parceria com a B3 · https://www.youtube.com/watch?v=aBDtUBdSpgw · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-25 · diretoria · Reunião de Diretoria Colegiada nº 1181 - 24 de abril de 2026 · https://www.youtube.com/watch?v=Nd0DMbM4Sm4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-16 · audiencia · Audiência Pública nº 01/2026 · https://www.youtube.com/watch?v=kRWhLC6aAS8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-10 · diretoria · Reunião de Diretoria Colegiada nº 1180 - 10 de abril de 2026 · https://www.youtube.com/watch?v=uzA1iXXIlZM · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **ainda não baixado (rodar a coleta no Mac)**
+- 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2026-04-02 · workshop · Webinar Edital de Bolsa Internacional PRH-ANP · https://www.youtube.com/watch?v=45KJRLzpPt0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-31 · audiencia · Audiência Pública nº 17/2025 · https://www.youtube.com/watch?v=FjChxu4-g0Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-16 · workshop · 1° Workshop ABPIP + ANP 2026 - Especificações e Qualidade do Gás Natural: entend · https://www.youtube.com/watch?v=KNJSy1RGrkA · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-03-14 · diretoria · Reunião de Diretoria Colegiada nº 1178 - 13 de março de 2026 · https://www.youtube.com/watch?v=Ls8VtnIGOSM · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-10 · workshop · 1º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Ga · https://www.youtube.com/watch?v=Kry65wW7DTM · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-03 · audiencia · Audiência Pública nº 16/2025 · https://www.youtube.com/watch?v=Mc-k1i3wMRk · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-02-27 · diretoria · Reunião de Diretoria Colegiada nº 1177 - 27 de fevereiro de 2026 · https://www.youtube.com/watch?v=405uUdarpGc · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-02-13 · diretoria · Reunião de Diretoria Colegiada nº 1176 - 13 de fevereiro de 2026 · https://www.youtube.com/watch?v=n6OCGR_4sWc · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-26 · diretoria · Reunião de Diretoria Colegiada nº 1175 - 26 de janeiro de 2026 · https://www.youtube.com/watch?v=ch6jsy49HRs · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-22 · audiencia · Audiência Pública nº 15/2025 · https://www.youtube.com/watch?v=Aw45oyuMRHY · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-12 · audiencia · Audiência Pública nº 13/2025 · https://www.youtube.com/watch?v=AMwlAKZmjgA · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-18 · diretoria · Reunião de Diretoria Colegiada nº 1174 - 18 de dezembro de 2025 · https://www.youtube.com/watch?v=tY633kzXT38 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-12 · workshop · Seminário da Oferta Permanente de Concessão 2025 · https://www.youtube.com/watch?v=pDUgJFHjdfk · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-12 · workshop · Open Acreage of Concession Seminar 2025 · https://www.youtube.com/watch?v=6Cp16nqFqYQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-09 · diretoria · Reunião de Diretoria Colegiada nº 1173 - 8 de dezembro de 2025 · https://www.youtube.com/watch?v=NDl1aH4iipk · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-06 · audiencia · Audiência Pública nº 11/2025 · https://www.youtube.com/watch?v=mwSxUo93KFw · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-02 · audiencia · Audiência Pública nº 14/2025 · https://www.youtube.com/watch?v=XWoEwTJIGng · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-28 · workshop · IX Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrestre · https://www.youtube.com/watch?v=vA5ulvQWWzc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-18 · diretoria · Reunião de Diretoria Colegiada nº 1172 - 18 de novembro de 2025 · https://www.youtube.com/watch?v=FDRzdpNsyGI · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-18 · audiencia · Audiência Pública nº 10/2025 · https://www.youtube.com/watch?v=OCyUEgpIS40 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-13 · diretoria · Retomada da Reunião de Diretoria nº 1.171 - 13 de novembro de 2025 · https://www.youtube.com/watch?v=UD0QyhXwvgg · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-12 · workshop · XIII Seminário de Segurança Operacional e Meio Ambiente da ANP (XIII SOMA) · https://www.youtube.com/watch?v=RHqTaXwpfQo · **ainda não baixado (rodar a coleta no Mac)**
