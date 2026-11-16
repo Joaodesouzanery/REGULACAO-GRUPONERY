@@ -1,0 +1,103 @@
+{
+ "meta": {"video_id": "e651C6iP6oA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:17:41); ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "9ª Reunião Pública Ordinária de 2026", "data": "2026-05-06", "formato": "presencial (sede da ANEEL, transmissão no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) na abertura; depois Agnes da Costa (inferido: presidente tratada no feminino e encerramento com 'Obrigada')",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta com 24 itens publicada em 29/04; itens 8 a 24 em bloco; item 21 destacado; itens 4 e 14 retirados de pauta; sem sustentação oral.",
+   "Ordem: bloco, itens 1, 2, 7, 3, 5, 6 e 21.",
+   "Aprovadas as atas da 8ª RPO (com retificação pedida sobre a RTP da CPFL Santa Cruz: postos tarifários, fator X 0,502% e perdas) e do 6º circuito deliberativo.",
+   "Diretor-Geral deixou a sessão no curso da reunião e deixou votos registrados nos itens 3 e 21 (lidos pela presidência).",
+   "Item 7 (túnel Vigário–Ponte Coberta, Light): vista coletiva por 60 dias após empate de posições; item 5 e item 6: pedidos de vista.",
+   "Itens 3 e 21 decididos por maioria; no 21 prevaleceu a divergência de Agnes da Costa (IPCA no BPR a partir de 30/06/2026), relator Fernando Mosna vencido."
+  ]
+ },
+ "itens": [
+  {"id": "bloco (8 a 24, exceto 14 e 21)", "ts": "0:33:22", "processo": "", "interessado": "diversos", "assunto": "Itens de bloco 8 a 24 (votos disponibilizados previamente na página da ANEEL); item 21 destacado e item 14 retirado",
+   "tema": ["diversos (bloco)"], "relator": "diversos", "resultado": "aprovados por unanimidade", "resumo_voto": "Todos acompanham os itens do bloco; um diretor registrou suspeição no item 11.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "acompanha os itens do bloco", "ts": "0:33:32", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha os itens do bloco", "ts": "0:33:35", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha os itens do bloco", "ts": "0:33:38", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha os itens do bloco (suspeição no item 11 registrada por um diretor não identificado)", "ts": "0:33:40", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha e proclama unanimidade", "ts": "0:33:45", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:33:50", "processo": "48500.006528/2026-25", "interessado": "Equatorial Piauí Distribuidora de Energia S.A.", "assunto": "Realização da edição 2026 da Olimpíada Nacional de Eficiência Energética (ONEE) no âmbito do PEE; inclui ensino médio; orçamento ~R$ 8 milhões",
+   "tema": ["eficiência energética (PEE)", "institucional"], "relator": "Willamy Frota", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar a proposta da Equatorial Piauí para a ONEE 2026. Apresentação técnica de Douglas Caldas (STE). Diretores elogiaram a iniciativa; presidência pediu atenção ao defeso eleitoral, inscrição institucional e patrocínios.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, aprova", "ts": "0:49:22", "justificativa": "proposta viável quanto a regulamento, governança e orçamento", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "1:00:03", "justificativa": "registro sobre a relevância acadêmica e a 'pobreza elétrica' de conhecimento no ensino básico (falante inferido)", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:00:04", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:00:04", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:00:06", "justificativa": "contribuição para cultura da energia e formação de engenheiros", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "1:00:27", "processo": "48500.000957/2026-49", "interessado": "ANEEL (STE)", "assunto": "Abertura de consulta pública (45 dias, 6/5 a 20/6/2026) sobre minuta de edital e termo de referência da Plataforma de Inovação do Setor Elétrico (PINSE)",
+   "tema": ["regulação normativa (consulta pública)", "P&D e inovação"], "relator": "Willamy Frota", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar CP por 45 dias. Agnes da Costa questionou a vedação a projetos cooperados/consórcios; tratado como tema para a CP. Debate sobre diretrizes de P&D com Abrate e Abradee.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, aprova abertura de CP", "ts": "1:09:00", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:10:08", "justificativa": "pondera que permitir consórcios pode ser útil; deixa para a consulta pública", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:17:06", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "1:17:07", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:17:08", "confianca": "media"}
+   ]},
+  {"id": "7", "ts": "1:17:30", "processo": "48100.003409/1995-75 (incerto)", "interessado": "Light Energia S.A. (complexo de Lajes, UHE Nilo Peçanha, Fontes Nova, Pereira Passos)", "assunto": "Marco definitivo para conclusão do túnel de transposição Vigário–Ponte Coberta (bypass, REA 6185/2017); voto-vista",
+   "tema": ["outorgas de geração (hidrelétrica)", "fiscalização e sanções", "segurança hídrica"], "relator": "Willamy Frota", "resultado": "pedido de vista coletiva (60 dias) pela presidência; não concluído",
+   "resumo_voto": "Relator: fixar prazo até 31/03/2028 (fim da concessão da UHE Nilo Peçanha) e, acolhendo Fernando Mosna, determinar fiscalização da SFT. Voto-vista de Gentil: negar o prazo, analisar com a ANA em 60 dias a alternativa (ampliação de Fontes Nova), tratar na prorrogação (Lei 15.269/2025) e fiscalizar a Light. Obra parada desde 2023 com 27% de avanço; custo da ordem de R$ 800 milhões.",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "voto-vista: diverge, nega fixação de prazo", "ts": "1:22:35", "justificativa": "prazo seria meramente declaratório; risco de indenização ao consumidor por ativo não amortizado; solução deve ir para a prorrogação", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "relator, mantém voto original (prazo 31/03/2028)", "ts": "1:52:04", "justificativa": "obra autorizada há 9 anos, 27% executada; alternativas tardias não afastam a obrigação", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "2:15:14", "justificativa": "risco de indenização; avaliação junto à ANA", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:15:34", "justificativa": "obrigação existe independentemente de cronograma; sugeriu incluir fiscalização da SFT", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista (coletiva, 60 dias)", "ts": "2:15:37", "justificativa": "sem prazo a obrigação perderia sentido; quer verificar a agenda com a ANA proposta no voto-vista", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "2:15:56", "processo": "48500.009532/2021-0 (incerto)", "interessado": "Abradee, Abrate e Cemig Distribuição", "assunto": "Recursos contra o Despacho 675/2026 (STR) – atualização da taxa regulatória de remuneração do capital (WACC) 2026; janela do custo de emissão de debêntures",
+   "tema": ["tarifas e revisão tarifária (WACC)", "recursos administrativos"], "relator": "Fernando Mosna", "resultado": "parcial provimento por maioria (custo de emissão de debêntures 0,571%, janela 2016–2025)",
+   "resumo_voto": "Relator acompanha a área técnica, exceto na janela: aplica os últimos 10 anos do PRORET (2016–2025) em vez de 2013–2022; motivação insuficiente para mudar prática de 2024 e 2025. Diretor-Geral deixou voto negando provimento.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento", "ts": "2:17:05", "justificativa": "PRORET fixa os últimos 10 anos; mudança de critério sem motivação (art. 50 Lei 9.784)", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:35:25", "justificativa": "não gostou de nenhuma solução, mas concorda com usar os últimos 10 anos; pede buscar dados de custo de captação", "confianca": "media"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "2:46:07", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:46:09", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "vencido: nega provimento (voto registrado)", "ts": "2:46:12", "justificativa": "acompanha o entendimento da área técnica", "confianca": "media"}
+   ]},
+  {"id": "5", "ts": "2:46:30", "processo": "48500.003802/2024-42 (incerto)", "interessado": "Jacaré Canga Energia SPE Ltda. e MZ Comércio e Serviços de Máquinas Ltda.", "assunto": "Pedidos de reconsideração contra homologação e adjudicação do Leilão 1/2025 (sistemas isolados)",
+   "tema": ["leilões (sistemas isolados)", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "pedido de vista; não concluído",
+   "resumo_voto": "Relatora: conhecer e negar provimento ao pedido da Jacaré Canga; não conhecer o da MZ (adesivo e intempestivo). Dúvida sobre o prêmio de renovabilidade (PS, ~R$ 114/MWh) calculado pela EPE levou a pedido de vista.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento e não conhece", "ts": "2:49:03", "justificativa": "argumentos já examinados pela CPL; fator i não se confunde com consumo específico; sem prova de inexequibilidade", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "pede vista", "ts": "2:53:46", "justificativa": "dúvida sobre o cálculo do prêmio de renovabilidade que pode ter influenciado o resultado", "confianca": "baixa"}
+   ]},
+  {"id": "6", "ts": "2:53:52", "processo": "48500.007603/2025-19 (incerto)", "interessado": "São Francisco Transmissão de Energia S.A. (T Square / Sterlite → BTG Pactual Energy)", "assunto": "Anuência prévia à transferência de controle indireto e novo cronograma (término 30/08/2027) do contrato de concessão 18/2018",
+   "tema": ["transmissão (outorgas)", "fiscalização e sanções (caducidade)"], "relator": "Gentil Nogueira", "resultado": "pedido de vista; não concluído",
+   "resumo_voto": "Relator: anuir à transferência, aprovar novo cronograma sem excludente de responsabilidade e minuta do 2º termo aditivo. Fernando Mosna questionou a vantajosidade apenas contemporânea e a falta de atuação da fiscalização desde 2023.",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "2:54:29", "justificativa": "concluir 20% remanescentes em 12 meses é melhor que caducidade e relicitação", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "manifestação favorável ao relator (presidindo; não votou antes da vista)", "ts": "3:15:41", "justificativa": "análise contemporânea relevante; caso Sterlite acompanhado no CMSE", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "3:18:32", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "3:19:26", "justificativa": "vantajosidade não pode ignorar o histórico de atraso desde 2023; risco de excludente futuro onerar o consumidor", "confianca": "media"}
+   ]},
+  {"id": "21", "ts": "3:19:40", "processo": "48500.010525/2025-59 (incerto)", "interessado": "transmissoras / Abrate", "assunto": "Aprimoramento do Banco de Preços de Referência (BPR) da ANEEL: índice de atualização dos serviços (IPCA x INPC)",
+   "tema": ["transmissão (RAP, BPR)", "tarifas e revisão tarifária"], "relator": "Fernando Mosna", "resultado": "aprovado por maioria o voto divergente de Agnes da Costa (IPCA a partir de 30/06/2026); relator vencido",
+   "resumo_voto": "Relator: continuidade dos estudos e adiar o IPCA para a consulta pública do 2º semestre de 2026. Divergência: seguir a NT conjunta 52/2025 e aplicar IPCA aos serviços desde 30/06/2026.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, vencido", "ts": "3:20:02", "justificativa": "aplicar IPCA antes da CP fecharia o debate; 10 de 11 contribuições contrárias", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "diverge: aplica IPCA desde 30/06/2026", "ts": "3:34:02", "justificativa": "INPC sobrevaloriza o custo de serviço; transmissoras não trouxeram estudo prometido", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a divergência", "ts": "3:38:50", "justificativa": "debate se arrasta há quase 10 anos; ancorar no IPCA força a discussão", "confianca": "media"},
+    {"diretor": "Willamy Frota", "voto": "acompanha a divergência", "ts": "3:38:58", "justificativa": "provocar agenda para conclusão do tema", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência (voto registrado)", "ts": "3:41:07", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["4", "14"],
+ "limites_da_analise": [
+  "Falantes inferidos pela legenda são frequentemente trocados; atribuição de votos de seguidores é aproximada.",
+  "Presidência: abertura pelo Diretor-Geral (inferido); depois Agnes da Costa conduz (inferido).",
+  "Suspeição no item 11 do bloco registrada por diretor não identificado.",
+  "Quem pediu vista no item 5 não identificado.",
+  "Números de processo transcritos pela legenda automática; vários incertos.",
+  "'Dra. Ludmila' aparece como superintendente (SCE), não como diretora votante; 'Ricardo Tili' marcado na legenda sem fala identificável."
+ ]
+}

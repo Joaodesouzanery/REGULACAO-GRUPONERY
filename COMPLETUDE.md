@@ -5,9 +5,9 @@ Recorte 2018 em diante. Gerado por `python3 pipeline/completude.py` (skill compl
 | Agência | Reuniões de diretoria (canal / texto / analisadas) | Eventos (canal / texto / analisados) | Itens · votos | Período | Diretoria em exercício (n / foto ≥600 / formação / minibio) | Superintendentes (n / foto) | Mandatos atuais (n / confirmados) · vagas | Agenda (próx. reuniões / calendário até / pautas baixadas) | Prazos (processos c/ nº / >1 sessão / tipos com base) | Rodadas de conferência cega |
 |---|---|---|---|---|---|---|---|---|---|---|
 | ANTT | 289/286/283 | 275/263/263 | 2382 · 9398 | 2019-03-12 a 2026-11-09 | 5/3/5/5 | 10/0 | 6/4 · 1 | 0 / — / 0 | 1618/195/7 | 16 |
-| ANM | 121/116/116 | 32/32/32 | 3619 · 16245 | 2019-02-19 a 2026-11-04 | 4/4/4/4 | 10/0 | 10/1 · 2 | 0 / — / 0 | 662/17/1 | 5 |
+| ANM | 121/116/116 | 32/32/32 | 3619 · 16245 | 2019-02-19 a 2026-11-04 | 4/4/4/4 | 10/4 | 10/1 · 2 | 0 / 2026-11-04 / 0 | 662/17/1 | 5 |
 | ANTAQ | 117/112/112 | 141/137/137 | 3984 · 13151 | 2018-01-25 a 2026-11-13 | 5/5/5/5 | 6/0 | 6/5 · 1 | 2 / 2026-12-10 / 0 | 2755/320/9 | 6 |
-| ANEEL | 763/636/11 | 263/5/5 | 107 · 415 | 2026-06-22 a 2026-10-28 | 5/5/5/5 | 17/6 | 5/3 · 1 | 0 / — / 0 | 69/7/0 | 0 |
+| ANEEL | 763/739/25 | 263/178/5 | 107 · 415 | 2026-06-22 a 2026-10-28 | 5/5/5/5 | 17/6 | 5/3 · 1 | 4 / 2026-12-08 / 0 | 69/7/0 | 0 |
 | ANP | não iniciada | | | | | | | | | |
 
 ## Processos de clientes (blocos 1 e 2 — dependem do cliente informar o SEI)

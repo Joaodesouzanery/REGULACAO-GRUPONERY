@@ -1,0 +1,4 @@
+# Retificação do Item 4 da 16ª Reunião Pública Ordinária ANEEL 22/05/2018 (2018-05-22) — qOlajpnme4o
+
+[0:00:00] há só uma questão de ordem são a retificação a ser feita é mais pré registo na reunião porque os atos já estão todos corretos voto publicado e ata foi no item 4 da deliberação passada referente ao reajuste tarifário da cooperativa de eletrificação em desenvolvimento rural da região de novo horizonte à cern e é o ajuste é no que diz respeito à parcela de cdr que deve ser repassada à cooperativa para fazer frente à política pública então que foi promulgada que na sessão foi 163 mil trezentos e vinte e oito reais e sessenta e oito centavos quanto o valor correto é 145 mil seiscentos e sessenta e seis reais e vinte e nove centavos mas os atos que enderecem essa decisão já estão todos os deputados
+

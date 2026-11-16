@@ -1,0 +1,54 @@
+{
+ "agencia": "ANEEL",
+ "criterios": [
+  {
+   "nome": "Reuniões transmitidas",
+   "nota": 2,
+   "evidencia": "videos.jsonl: 1.110 vídeos de diretoria (2012–2026); 58–103/ano desde 2016 (2024: 103; 2025: 97; 2026 parcial: 55). Exceção: CPDO virtual, sem vídeo.",
+   "fonte": "data/aneel/videos.jsonl; https://www.youtube.com/@aneel"
+  },
+  {
+   "nome": "Legenda disponível",
+   "nota": 2,
+   "evidencia": "930 transcrições; só 44 vídeos sem legenda automática (sem_legenda.jsonl).",
+   "fonte": "data/aneel/transcricoes; data/aneel/sem_legenda.jsonl"
+  },
+  {
+   "nome": "Pauta antecipada",
+   "nota": 1,
+   "evidencia": "Pautas publicadas antes das reuniões públicas, mas a base não tem pautas coletadas (sem pasta pautas/; campo pauta nulo no calendario.json); antecedência não medida (não encontrado na base, não inexistente).",
+   "fonte": "https://www.gov.br/aneel/pt-br/reunioes-publicas"
+  },
+  {
+   "nome": "Atas e votos escritos",
+   "nota": 2,
+   "evidencia": "Atas e votos dos relatores publicados pela ANEEL; prazo de publicação não medido.",
+   "fonte": "https://www.gov.br/aneel/pt-br/reunioes-publicas; https://biblioteca.aneel.gov.br"
+  },
+  {
+   "nome": "Calendário anual",
+   "nota": 2,
+   "evidencia": "Calendário oficial fixado por portaria (Portaria ANEEL nº 7.014, de 3/11/2025); 23 datas na base (RPO e CPDO). Cumprimento não verificado.",
+   "fonte": "data/aneel/calendario.json; https://www.gov.br/aneel/pt-br/reunioes-publicas/calendario; https://www2.aneel.gov.br/cedoc/prt20257014.pdf"
+  },
+  {
+   "nome": "Composição e currículos",
+   "nota": 2,
+   "evidencia": "Página oficial da diretoria; base com fichas de dirigentes (foto+bio), mandatos e vacâncias.",
+   "fonte": "https://www.gov.br/aneel/pt-br/composicao; data/aneel/dirigentes; data/aneel/mandatos.json"
+  },
+  {
+   "nome": "Sigilo e reuniões sem vídeo",
+   "nota": 1,
+   "evidencia": "0 de 107 itens analisados com resultado sigiloso; porém os circuitos deliberativos (CPDO) são virtuais e sem transmissão (transmitida=null no calendário).",
+   "fonte": "data/aneel/regulacao.db (tabela itens); data/aneel/calendario.json"
+  },
+  {
+   "nome": "Facilidade de acesso",
+   "nota": 1,
+   "evidencia": "Canal e portal com busca, mas documentos divididos entre gov.br e www2.aneel.gov.br/cedoc; 6.600+ vídeos 'outro' no canal dificultam achar as reuniões.",
+   "fonte": "data/aneel/videos.jsonl; https://www.gov.br/aneel"
+  }
+ ],
+ "observacoes": "Soma 13/16. Não há COMPLETUDE.md nem pasta pautas/ em data/aneel. Base analisada pequena (107 itens). Notas de pauta, atas e composição vêm de conhecimento das páginas oficiais, sem verificação web nesta execução; prazos de publicação não medidos. 36 vídeos de diretoria sem data."
+}

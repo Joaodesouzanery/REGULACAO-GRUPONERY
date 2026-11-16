@@ -1,0 +1,54 @@
+{
+  "meta": {"video_id": "3JWO5tkDQ4k", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis nesta reunião); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "4ª Reunião Pública Extraordinária", "data": "2026-06-22", "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Fernando Mosna", "Willamy Frota"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum completo declarado na abertura; pauta publicada em 18/06/2026 com dois itens; sustentações orais só no item 2.",
+      "Abertura com registro sobre a Corrida da Regulação (30 anos da ANEEL); próxima anfitriã será a ANTT.",
+      "Item 1 (edital do Leilão de Transmissão 4/2026) aprovado por unanimidade.",
+      "Item 2 (CP 45/2019, curtailment) teve 15 sustentações orais de 5 min; relatora Agnes da Costa votou por encerrar a CP e aprovar a resolução; Fernando Mosna propôs alternativa (encerrar a 3ª fase com regra de transição e abrir 4ª fase com período sombra) e pediu vista ao final; Willamy Frota deixou voto registrado acompanhando a relatora."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:07:00",
+      "processo": "48500.004996/2026-5 (número da legenda, incerto)", "interessado": "SCL / área de leilões (concessões de transmissão em BA, GO, MS, PB, PR, RO e SP)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 4/2026, consolidado após a Consulta Pública 6/2026 (cerca de R$ 8,9 bi de investimentos; retirada do sublote 4C, conversora da interligação com a Bolívia)",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "leilões (geração, transmissão, reserva de capacidade)", "regulação normativa"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta do edital com apêndices e anexos; envia ao TCU (IN 81/2018); autoriza visitas às instalações até 16/10/2026; prorroga por 60 dias a determinação da 4ª RPO de 24/02/2026 para que as áreas aprofundem, com fundamentação de proporcionalidade, condições mais restritivas de participação (preocupação da Procuradoria).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:18:41", "justificativa": "não há ressalvas à instrução técnica nem óbices; restrições adicionais de habilitação ficam para próximo leilão após avaliação de proporcionalidade", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:23:30", "justificativa": "elogia o trabalho e a importância das linhas para confiabilidade do sistema e para o ONS", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:25:00", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:25:02", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:25:04", "justificativa": "antes, destacou que a ANEEL deve exercer discricionariedade para selecionar agentes responsáveis, sem restringir a competitividade, citando empreendedores que vencem e não implementam obras", "tom": "cobrança à área técnica para cumprir o prazo", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:25:33",
+      "processo": "48500.003750/2019-83 (número da legenda, incerto)", "interessado": "SGM; geradores eólicos, solares e hidrelétricos; associações (ABRAPE/APINE, ABSOLAR, ABEEólica, ABRAGE, ABIAPE e outras)",
+      "assunto": "Resultado da 3ª fase da Consulta Pública 45/2019: critérios operativos para redução ou limitação de geração (curtailment) no SIN e rateio contábil ex post entre fontes (eólica, solar, hidrelétrica com vertimento turbinável)",
+      "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "comercialização (CCEE, PLD, contratos)", "outorgas de geração (eólica, solar, hidrelétrica, térmica)", "curtailment"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista (Fernando Mosna); deliberação suspensa",
+      "resumo_voto": "Relatora vota por encerrar a CP 45/2019 aprovando a minuta de resolução: 90 dias para ONS/CCEE proporem procedimentos de rede e regras de comercialização; depois 12 meses de operação sombra (regra da SGM agrupando hidrelétricas com vertimento turbinável, eólica e solar na linha D, mais simulação paralela com GHmin), com rateio ex post transitório só entre usinas da mesma fonte; GHmin reavaliado em consulta futura. 15 sustentações orais (Voltalia, APINE, Caputo Bastos e Serra, CN Energia, Lera, ABSOLAR, ABIAPE, Auren, Neoenergia, Ecoenergia, ABRAGE, Atlas, Voltá, ABEEólica, CPFL Renováveis, nomes conforme legenda).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova encerramento da CP 45/2019 e a resolução", "ts": "1:59:47", "justificativa": "após 7 anos, é ruim não ter regra: sem norma o ONS corta como quiser e ninguém pode questionar; critério da SGM é o mais justo; GHmin serviria só para atenuar efeitos redistributivos; rejeita abrir 4ª fase", "tom": "firme, defende concluir a consulta", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "4:53:18", "justificativa": "propôs encerrar a 3ª fase só com a regra de transição (rateio por fonte) e abrir 4ª fase com período sombra para EVT e GHmin, por falta de quantificação; sugeriu ainda incluir recorribilidade das classificações de corte do ONS (art. 18-A da REN 1017/2022)", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora (voto deixado registrado)", "ts": "4:53:18", "justificativa": "ausente no momento da votação; voto anunciado por outro diretor", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "4:53:17", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática; números de processo e nomes de empresas/oradores podem estar errados.",
+    "Rótulos de falante {..} do .md são inconsistentes (ex.: Ludimila Lima, hoje superintendente, e Ricardo Tili aparecem como rótulos mas não votam); identificação feita pelo contexto.",
+    "Item 1: três votos de acompanhamento sem nome identificável (provavelmente Agnes da Costa, Fernando Mosna e Willamy Frota).",
+    "Item 2: o fim da sessão é confuso; um diretor (provavelmente Gentil Nogueira, que fez perguntas na discussão) disse acompanhar a relatora; não fica claro se Sandoval Feitosa votou antes da vista; a sessão era presidida por outro diretor em parte do final.",
+    "Item 2: a leitura do voto de 101 páginas vai de ~1:59 a ~4:23; justificativas resumidas."
+  ]
+}
