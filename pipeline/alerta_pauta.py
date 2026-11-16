@@ -12,7 +12,7 @@ P = sys.argv[1].rstrip("/")
 EMP = json.load(open(f"{P}/empresa.json"))
 AG = sys.argv[sys.argv.index("--agencia") + 1] if "--agencia" in sys.argv else EMP.get("agencias", ["antaq"])[0]
 D = "data" if AG == "antt" else f"data/{AG}"
-NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]
+NOME = AG.upper()
 E = html.escape
 hoje = datetime.date.today().isoformat()
 fmtd = lambda s: datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if s else "a confirmar"
