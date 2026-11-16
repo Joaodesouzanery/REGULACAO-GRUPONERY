@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **430** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 7; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **418** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 14; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -76,13 +76,6 @@ Total: **430** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2021-02-04 · audiencia · Audiência Pública 011/2020 - Programa de Pesquisa e Desenvolvimento – 04/02/2021 · https://www.youtube.com/watch?v=kj2JnPam04Q · **legenda desativada/inexistente no YouTube**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 2 · https://www.youtube.com/watch?v=ChsWYxucaec · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 1 · https://www.youtube.com/watch?v=CzvzgVaXIDY · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-15 · audiencia · Audiência Pública 008/2020 - Revisão Tarifária Extraordinária da Energisa Acre–  · https://www.youtube.com/watch?v=HTY3myeXQFE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-08 · audiencia · Audiência Pública 007/2020 - Revisão Tarifária Extraordinária da Energisa Rondôn · https://www.youtube.com/watch?v=PxIh6mUas0M · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-01 · audiencia · Audiência Pública 006/2020 - Revisão Tarifária Extraordinária Equatorial Energia · https://www.youtube.com/watch?v=rFINVZ6-8Qc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-24 · audiencia · Audiência Pública 004/2020 - Revisão Tarifária Extraordinária da Roraima Energia · https://www.youtube.com/watch?v=87gctsbtam0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-18 · audiencia · Audiência Pública 003/2020 - Revisão Tarifária Extraordinária da Amazonas Energi · https://www.youtube.com/watch?v=6IhbzlrJvaA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-17 · audiencia · Audiência Pública 005/2020 - Revisão Tarifária Periódica da DMED - 17/09/2020 · https://www.youtube.com/watch?v=ldjWP0ReglQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-03 · audiencia · Audiência Pública 002/2020 - Chamada de Eficiência Energética nº 3/2020 - 03/09/ · https://www.youtube.com/watch?v=1hXPrDU0ChI · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-23 · diretoria · 22ª Reunião Pública Ordinária ANEEL – 23/06/2020 – Parte 1 · https://www.youtube.com/watch?v=Q1zJ0JL9XxY · **legenda desativada/inexistente no YouTube**
 - 2020-04-28 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 28/04/2020 – Parte 2 · https://www.youtube.com/watch?v=783FPx5o6Yg · **legenda desativada/inexistente no YouTube**
 - 2020-04-07 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 07/04/2020 – Parte 2 · https://www.youtube.com/watch?v=hoC3pYrYDWo · **legenda desativada/inexistente no YouTube**
@@ -90,9 +83,6 @@ Total: **430** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2020-02-18 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 18/02/2020 · https://www.youtube.com/watch?v=0NtDdrHPTGs · **legenda desativada/inexistente no YouTube**
 - 2019-11-21 · workshop · Workshop Autorização de Reforços e Melhorias - Parte 2 - 21/11/2019 · https://www.youtube.com/watch?v=aWQ9Ta_RA5k · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-21 · workshop · Workshop Autorização de Reforços e Melhorias - Parte 1 - 21/11/2019 · https://www.youtube.com/watch?v=PrsFVKgM_lo · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-20 · audiencia · Audiência Pública 039/2019 - Qualidade e gestão econômico-financeira das distrib · https://www.youtube.com/watch?v=g0Pwcj7EgS0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-14 · audiencia · Audiência Pública 041/2019 - Agenda Regulatória 2020-2021 · https://www.youtube.com/watch?v=MZhWpKHmx7s · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-07 · audiencia · Audiência Pública 040/2019 – Revisão da Resolução nº 482/2012 – 07/11/2019 · https://www.youtube.com/watch?v=xh1EUOCfoJU · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-06 · workshop · Workshop Brasil-Alemanha sobre mini e microgeração - 6/11/2019 · https://www.youtube.com/watch?v=Exv4fI71svg · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-31 · workshop · Workshop Regulamentação sobre Estações Anemométricas e Solarimétricas - 31/10/20 · https://www.youtube.com/watch?v=weq4dk9WX6o · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-24 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão N° 02/2019 - 24/10/201 · https://www.youtube.com/watch?v=5lEaGiG3R_c · **ainda não baixado (rodar a coleta no Mac)**
@@ -100,8 +90,6 @@ Total: **430** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2019-10-08 · diretoria · 37ª Reunião Pública Ordinária ANEEL – 08/10/2019  - Parte 2 · https://www.youtube.com/watch?v=ykeyNIO4U70 · **legenda desativada/inexistente no YouTube**
 - 2019-10-08 · diretoria · 37ª Reunião Pública Ordinária ANEEL – 08/10/2019  - Parte 1 · https://www.youtube.com/watch?v=LnJI3qeBw9A · **legenda desativada/inexistente no YouTube**
 - 2019-09-03 · diretoria · 32ª Reunião Pública Ordinária ANEEL – 03/09/2019 – Parte 2 · https://www.youtube.com/watch?v=3GZ-pyBHiuU · **legenda desativada/inexistente no YouTube**
-- 2019-08-22 · audiencia · Audiência Pública 030/2019 – Revisão Tarifária da CPFL Piratininga – 22/08/2019 · https://www.youtube.com/watch?v=l9apX8qrK2k · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-08 · audiencia · Audiência Pública 028/2019 - Revisão Tarifária Periódica da EDP São Paulo - 08/0 · https://www.youtube.com/watch?v=JB0lLTrmZyM · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-24 · audiencia · Audiência Pública 22/2019 - Limites de PLD · https://www.youtube.com/watch?v=c9IPGux_5k0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-14 · audiencia · Audiência Pública 024/2019 - Revisão Tarifária da  Elektro Eletricidade e Serviç · https://www.youtube.com/watch?v=WfDkbBBfmaA · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-14 · audiencia · Audiência Pública 020/2019 - Revisão Tarifária Celpa - 14/06/2019 · https://www.youtube.com/watch?v=D4xkDBhC8CE · **ainda não baixado (rodar a coleta no Mac)**
