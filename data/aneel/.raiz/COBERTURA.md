@@ -32,7 +32,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 7 | 0 |
+| 2018 | diretoria | 69 | 19 | 0 |
 | 2018 | audiencia | 58 | 0 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
@@ -682,5 +682,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-12-11 · 46ª Reunião Pública Ordinária ANEEL – 11/12/2018 - Parte 2 · `-Ig_IpJK5z4`
 - 2018-12-11 · 46ª Reunião Pública Ordinária ANEEL – 11/12/2018 - Parte 1 · `tnSPvVE2nTM`
 - 2018-12-04 · 45ª Reunião Pública Ordinária ANEEL – 04/12/2018 · `nmRE9sHe7Ak`
+- 2018-11-27 · 44ª Reunião Pública Ordinária ANEEL – 27/11/2018 · `ZZ4MJ9WCVdk`
+- 2018-11-20 · 43ª Reunião Pública Ordinária ANEEL – 20/11/2018 · `eL8PPNzpJEY`
+- 2018-11-13 · 42ª Reunião Pública Ordinária ANEEL - 13/11/2018 - Parte 2 · `NRg8JAec03Y`
+- 2018-11-13 · 42ª Reunião Pública Ordinária ANEEL - 13/11/2018 - Parte 1 · `GYJ5tJ0Absk`
+- 2018-11-07 · 6ª Reunião Pública Extraordinária ANEEL – 07/11/2018 · `LQu18hxDfEk`
+- 2018-11-06 · 41ª Reunião Pública Ordinária ANEEL – 06/11/2018 · `Vjx59q9ZUQA`
+- 2018-10-30 · 40ª Reunião Pública Ordinária ANEEL – 30/10/2018 - Parte 2 · `1Rke1z0CLjY`
+- 2018-10-30 · 40ª Reunião Pública Ordinária ANEEL – 30/10/2018 - Parte 1 · `DSW6_hGH0PQ`
+- 2018-10-23 · 39ª Reunião Pública Ordinária ANEEL - 23/10/2018 - Parte 2 · `uXPzJ-Pt8Ew`
+- 2018-10-23 · 39ª Reunião Pública Ordinária ANEEL - 23/10/2018 - Parte 1 · `ELBTnzyQuCY`
+- 2018-10-16 · 38ª Reunião Pública Ordinária ANEEL – 16/10/2018 · `EQ337qQHvfE`
+- 2018-10-09 · Bloco 7 à 37 - 37ª Reunião Pública Ordinária 2018 ANEEL 09/10/2018 · `ooHScJJ78a8`
 
 Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
