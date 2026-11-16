@@ -8,16 +8,17 @@
   "nomeacao_dou": "2018-11-28",
   "posse": null,
   "inicio": "2018-11-28",
-  "fim": null,
+  "fim": "2022-12-04",
   "fim_legal": null,
-  "confianca": "media",
+  "confianca": "baixa",
   "confirmado": "parcial",
   "fontes_pesquisa_2026_11": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
   ],
   "obs_pesquisa": "mandato de 4 anos (diretoria inicial escalonada)",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "fora da composição atual no IRIS; data de fim aproximada (antes da posse de Mauro Sousa em 05/12/2022), confirmar no DOU"
  },
  {
   "diretor": "Tasso Mendonça",
@@ -48,7 +49,7 @@
   "nomeacao_dou": null,
   "posse": null,
   "inicio": null,
-  "fim": null,
+  "fim": "2022-12-04",
   "fim_legal": null,
   "confianca": "baixa",
   "confirmado": "nao",
@@ -57,7 +58,8 @@
   ],
   "obs_pesquisa": "4 anos",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "fora da composição atual no IRIS; data de fim aproximada (antes da posse de Mauro Sousa em 05/12/2022), confirmar no DOU"
  },
  {
   "diretor": "Tomás Filho",
@@ -68,7 +70,7 @@
   "nomeacao_dou": null,
   "posse": null,
   "inicio": null,
-  "fim": null,
+  "fim": "2022-12-04",
   "fim_legal": null,
   "confianca": "baixa",
   "confirmado": "nao",
@@ -77,7 +79,8 @@
   ],
   "obs_pesquisa": "2 anos",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "fora da composição atual no IRIS; data de fim aproximada (antes da posse de Mauro Sousa em 05/12/2022), confirmar no DOU"
  },
  {
   "diretor": "Debora Puccini",
@@ -88,7 +91,7 @@
   "nomeacao_dou": null,
   "posse": null,
   "inicio": null,
-  "fim": null,
+  "fim": "2022-12-04",
   "fim_legal": null,
   "confianca": "baixa",
   "confirmado": "nao",
@@ -97,7 +100,8 @@
   ],
   "obs_pesquisa": "3 anos",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "fora da composição atual no IRIS; data de fim aproximada (antes da posse de Mauro Sousa em 05/12/2022), confirmar no DOU"
  },
  {
   "diretor": "Ronaldo Lima",
@@ -108,7 +112,7 @@
   "nomeacao_dou": null,
   "posse": null,
   "inicio": null,
-  "fim": null,
+  "fim": "2022-12-04",
   "fim_legal": null,
   "confianca": "baixa",
   "confirmado": "nao",
@@ -117,7 +121,8 @@
   ],
   "obs_pesquisa": "Caio Seabra ocupou a vaga dele",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "fora da composição atual no IRIS; data de fim aproximada (antes da posse de Mauro Sousa em 05/12/2022), confirmar no DOU"
  },
  {
   "diretor": "Mauro Sousa",
@@ -126,8 +131,8 @@
   "situacao": "titular",
   "senado": "2022-04-07",
   "nomeacao_dou": null,
-  "posse": null,
-  "inicio": null,
+  "posse": "2022-12-05",
+  "inicio": "2022-12-05",
   "fim": null,
   "fim_legal": "2026-12-04",
   "confianca": "media",
@@ -138,7 +143,8 @@
   ],
   "obs_pesquisa": "busca recondução (out/2026)",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026"
  },
  {
   "diretor": "Roger Cabral",
@@ -164,13 +170,13 @@
   "diretor": "Caio Seabra",
   "nome_completo": "Caio Mário Trivellato Seabra Filho",
   "cargo": "Diretor",
-  "situacao": "titular (afastado em 2025)",
+  "situacao": "afastado por decisão judicial desde set/2025 (ANM não declarou vacância; Despacho DOU 05/08/2026)",
   "senado": "2023-12-13 (CI)",
   "nomeacao_dou": null,
-  "posse": null,
-  "inicio": null,
+  "posse": "2023-12-27",
+  "inicio": "2023-12-27",
   "fim": null,
-  "fim_legal": null,
+  "fim_legal": "2026-12-04",
   "confianca": "baixa",
   "confirmado": "nao",
   "fontes_pesquisa_2026_11": [
@@ -178,28 +184,30 @@
   ],
   "obs_pesquisa": "afastado após prisão na Operação Rejeito (2025); plenário não confirmado",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026"
  },
  {
   "diretor": "José Fernando Gomes",
-  "nome_completo": "José Fernando Gomes Júnior",
+  "nome_completo": "José Fernando de Mendonça Gomes Júnior",
   "cargo": "Diretor",
   "situacao": "titular",
   "senado": "2025-08-20",
   "nomeacao_dou": null,
-  "posse": "2025-09",
-  "inicio": "2025-09",
+  "posse": "2025-09-01",
+  "inicio": "2025-09-01",
   "fim": null,
   "fim_legal": "2028-12-04",
   "confianca": "media",
-  "confirmado": "parcial",
+  "confirmado": "sim",
   "fontes_pesquisa_2026_11": [
    "https://www12.senado.leg.br/noticias/senado-agora/2025/08/20/agencia-nacional-de-mineracao-2013-anm",
    "https://agenciainfra.com/blog/anm-da-posse-a-jose-fernando-gomes-como-novo-diretor-da-agencia/"
   ],
   "obs_pesquisa": "",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026"
  },
  {
   "diretor": "Cláudio Freire",
@@ -210,7 +218,7 @@
   "nomeacao_dou": null,
   "posse": null,
   "inicio": "2025-12",
-  "fim": null,
+  "fim": "2026-11-10",
   "fim_legal": null,
   "confianca": "baixa",
   "confirmado": "nao",
@@ -219,13 +227,14 @@
   ],
   "obs_pesquisa": "previsto para vaga de Tasso/Roger",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "obs_iris": "o IRIS (10/11/2026) traz Luiz Paniago Neves como substituto na vaga de Roger Cabral; Cláudio Freire não aparece. Data de fim = data do IRIS; conferir no DOU"
  },
  {
   "diretor": "Fábio Borges",
-  "nome_completo": "Fábio Borges",
+  "nome_completo": "Fábio Fernando Borges",
   "cargo": "Diretor substituto",
-  "situacao": "substituto",
+  "situacao": "substituto na vaga de Tasso Mendonça Junior",
   "senado": null,
   "nomeacao_dou": null,
   "posse": null,
@@ -239,6 +248,20 @@
   ],
   "obs_pesquisa": "previsto para vaga de Tasso/Roger",
   "fonte": "pesquisa web 07/11/2026 (Senado, Agência iNFRA, imprensa)",
-  "verificar": "DOU (posse, fim)"
+  "verificar": "DOU (posse, fim)",
+  "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026"
+ },
+ {
+  "diretor": "Luiz Paniago",
+  "nome_completo": "Luiz Paniago Neves",
+  "cargo": "Diretor substituto",
+  "situacao": "substituto na vaga de Roger Romão Cabral (encerrada 04/12/2025)",
+  "inicio": null,
+  "fim": null,
+  "fim_legal": null,
+  "confianca": "media",
+  "confirmado": "parcial",
+  "fonte_iris": "IRIS «Diretorias e mandatos» (posição 10/11/2026; cada linha com link do ato no DOU), recebido do usuário em 16/11/2026",
+  "verificar": "data da designação no DOU"
  }
 ]
