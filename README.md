@@ -1,6 +1,28 @@
-# Regulação — perfis de diretores de agências (ANTT e ANM)
+# Regulação: inteligência sobre diretorias de agências reguladoras
 
-Repositório de **transcrições de reuniões públicas** (YouTube @canalANTT) + **análise por item/voto** + **busca com link no minuto exato do vídeo**.
+Base de reuniões públicas de diretoria (vídeo, legenda, análise item a item e voto a voto) das agências **ANTT, ANM, ANTAQ e ANEEL** (ANP a seguir), com perfis de diretores, mandatos, prazos, casos semelhantes e relatórios em PDF para clientes. Cada afirmação traz reunião, item, trecho literal e **link do vídeo no minuto exato**.
+
+## Comece por aqui
+| Para | Abra |
+|---|---|
+| Estado atual, comandos e pendências | `docs/CONTINUAR.md` |
+| O que está completo por agência | `COMPLETUDE.md` · `COBERTURA.md` |
+| Lista de todos os scripts, skills e agentes | `docs/MAPA.md` |
+| Comandos do Mac (coleta) | `docs/MAC_COMANDOS.md` |
+| Produto e comercial | `docs/PRODUTO_CONSULTORIA.md` · `proposta2/` |
+| Mandatos e vacância (12 agências) | `docs/vacancia_12_agencias.md` · `data/mandatos_agencias.json` |
+| Transparência das agências | `docs/transparencia_agencias.md` |
+
+## Pastas
+| Pasta | Conteúdo |
+|---|---|
+| `data/` (ANTT) e `data/<ag>/` | transcrições, análises (`analise/*.analise.json`), eventos, mandatos, cadeiras, calendário, dirigentes; bancos `regulacao.db` (reconstruídos com `05_indexar.py`; o da ANEEL fica fora do git) |
+| `agencias/<ag>/` | árvore organizada gerada (`organizar.py`): reuniões por ano, diretores, temas, exportações, qualidade |
+| `pipeline/` | coleta (Mac), análise, indexação, consultas, relatórios em PDF (`design.py` é o padrão visual) |
+| `docs/` | roteiros, metodologia, marca (fotos e logos), leis |
+| `proposta2/` | propostas, contratos-modelo, marketing e comercial |
+| `.claude/` | skills, agentes, comandos e hooks do Claude |
+| `clientes/` | **nunca vai ao GitHub** (dados de clientes) |
 
 ## Como perguntar (no chat com o Claude, nesta pasta)
 Exemplos: «Alex Azevedo e empresas de ônibus: como e por quê?», «quem divergiu em 2026 e por quê?», «Felipe Queiroz e free flow», «o que se disse nas audiências sobre pagamento avulso?».
