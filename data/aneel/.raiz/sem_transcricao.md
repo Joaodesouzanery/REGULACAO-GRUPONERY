@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **514** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 5; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **502** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 25; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -26,39 +26,27 @@ Total: **514** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2025-09-04 · workshop · Workshop “Horizonte Renovável: A era dos Data Centers no Brasil” · https://www.youtube.com/watch?v=uUYgwc0GXQ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-11 · workshop · Workshop de encerramento do PDI “Sistema Inteligente para Diagnóstico Operativo  · https://www.youtube.com/watch?v=wKs4bQqvZDE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-10 · workshop · Workshop Sistema Inteligente para Diagnóstico Operativo de Isoladores - 10/7/202 · https://www.youtube.com/watch?v=8pdFomXV5NY · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-06-18 · audiencia · Audiência Pública 5/2025 – Energisa Paraíba – 18/6/2025 · https://www.youtube.com/watch?v=tESSJWhIwek · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-06-12 · audiencia · Audiência Pública 4/2025 – Equatorial Maranhão – 12/6/2025 · https://www.youtube.com/watch?v=5wbyvzehDm8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-06-11 · audiencia · Audiência Pública 3/2025 – EDP Espírito Santo – 11/6/2025 · https://www.youtube.com/watch?v=4TOtXJlL5m0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-05-27 · workshop · SENDI 2025: Modernização das tarifas (Sandboxes Tarifários) – 27/05/2025 · https://www.youtube.com/watch?v=TMpTUydyWqc · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-05-10 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 04/2025 · https://www.youtube.com/watch?v=aghddIHAwlc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-04-24 · audiencia · Audiência Pública 2/2025 – Energisa Tocantins – 24/4/2025 · https://www.youtube.com/watch?v=p9EhMTamT98 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-03-12 · audiencia · Audiência Pública 1/2025 – Neoenergia Pernambuco – 12/3/2025 · https://www.youtube.com/watch?v=hzLIYhvIflQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-02-13 · workshop · Workshop Modernização Tarifária no Brasil · https://www.youtube.com/watch?v=XgfmiYgkd-o · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-30 · workshop · Tariff Sandboxes: learn about the projects that could change your electric bill · https://www.youtube.com/watch?v=m8aCID-NjFc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-12 · workshop · Workshop SIASE-T Nodal · https://www.youtube.com/watch?v=sZ_kAhJj3P0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-12 · workshop · Workshop Nodal Siase-T (Tomada de subsídios 22/2024) · https://www.youtube.com/watch?v=VatmRjgz4yU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-24 · audiencia · Audiência Pública N° 04/2024 · https://www.youtube.com/watch?v=fLB6MKmcED0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-23 · workshop · Workshop de Encerramento · https://www.youtube.com/watch?v=9AWG8IktkNA · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-23 · audiencia · Audiência Pública 004/2024 - Agenda Regulatória ciclo 2025-2026 – 23/10/2024 · https://www.youtube.com/watch?v=VV-rOlqSABc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-21 · workshop · Workshop de Encerramento de Projeto de P&D · https://www.youtube.com/watch?v=PK9f-rKar5Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-18 · workshop · Workshop de Encerramento do Projeto · https://www.youtube.com/watch?v=CzhageZi8F4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-09 · diretoria · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=q8nYQeqT62c · **legenda desativada/inexistente no YouTube**
 - 2024-10-08 · diretoria · 3ª Reunião Pública Extraordinária ANEEL – 08/10/2024 · https://www.youtube.com/watch?v=UzkDLoPmQ04 · **transcrição sem fala útil (1183 caracteres; só música/ruído)**
-- 2024-08-30 · audiencia · Audiência Pública 003/2024 · https://www.youtube.com/watch?v=ZMKMVQq8sIY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-29 · audiencia · Audiência Pública 003/2024 - Faturamento das distribuidoras do Grupo Equatorial  · https://www.youtube.com/watch?v=sqlWbhf-kjw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte II · https://www.youtube.com/watch?v=5dNllSR9ub4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte I · https://www.youtube.com/watch?v=KLSVdkLvJcc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-07-04 · workshop · Workshop Internacional de Perdas Não-Técnicas · https://www.youtube.com/watch?v=8l2aIe11bb8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-13 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão nº 2/2024 · https://www.youtube.com/watch?v=FZJ0Buz811o · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão 02/2024 - 12/04/2024 · https://www.youtube.com/watch?v=nXNRsGlaUBY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · workshop · Workshop de Encerramento do P&D “Análise da Capacidade do Mercado” · https://www.youtube.com/watch?v=SZQDQexS6vE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-15 · audiencia · Audiência Pública 002/2024 - Revisão Tarifária Periódica da Amazonas Energia – 1 · https://www.youtube.com/watch?v=lkOYK6QzBik · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-29 · audiencia · Audiência Pública 001/2024 - Revisão Tarifária Periódica da Equatorial Alagoas – · https://www.youtube.com/watch?v=FmTJJI2JQqc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-22 · workshop · Workshop: Resiliência de Redes frente a Eventos Climáticos de Elevada Severidade · https://www.youtube.com/watch?v=fa3rjVSdMK8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-23 · workshop · WORKSHOP DE ESCLARECIMENTOS TÉCNICOS SOBRE O LEILÃO Nº 1/2024-ANEEL (LEILÃO DE T · https://www.youtube.com/watch?v=AeSHxQFl__c · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-22 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 01/2024 - 22/01/2024 · https://www.youtube.com/watch?v=_6fQ_pCoXDc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-23 · audiencia · Audiência Pública 021/2023 - Revisão Tarifária Periódica da Roraima Energia – 23 · https://www.youtube.com/watch?v=ErEZ4ToxuOQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-02 · audiencia · Audiência Pública Virtual 020/2023 – Agenda Regulatória · https://www.youtube.com/watch?v=rNX2sDAfzJc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-01 · audiencia · Audiência Pública 020/2023 - Agenda Regulatória 2024-2025– 01/11/2023 · https://www.youtube.com/watch?v=Bp3TrBx8yEw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-23 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão n⁰ 02/2023 - 23/10/202 · https://www.youtube.com/watch?v=fUjiqwi5eqI · **ainda não baixado (rodar a coleta no Mac)**
