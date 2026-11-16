@@ -1,0 +1,284 @@
+{
+ "meta": {
+  "video_id": "Lhl19fS3jnU",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} do .md frequentemente errados, corrigidos pelo contexto); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12ª Reunião Pública Ordinária de 2026",
+  "data": "2026-06-17",
+  "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Agnes da Costa (diretora na presidência da sessão; tratada como «senhora presidente»/«diretora»)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna"
+  ],
+  "observacoes": [
+   "Quórum de três diretores (Agnes, Gentil, Willamy); ausentes não nomeados na sessão — lista de ausentes inferida, não confirmada.",
+   "Aprovada a ata do 9º circuito deliberativo (9/6/2026).",
+   "Pauta com 23 itens; itens 9 a 23 em bloco (legenda diz 'itens 9 e 23'); retirados de pauta os itens 3, 4 e 17; item 7 voltou à pauta por falta de três votos convergentes e ainda não pôde ser deliberado (volta na próxima RPO).",
+   "Item 15 do bloco (pedido de reconsideração da Itapebi Geração de Energia) ficou sem decisão: relator Gentil reafirmou voto, Willamy manteve voto-vista; volta na próxima RPO.",
+   "Item 6 (autoprodução, Lei 15.269/2025) ficou sem decisão: Willamy divergiu do item 3 do dispositivo (prazo de transição), sem três votos convergentes; volta na próxima RPO (art. 63 da norma).",
+   "A presidente encerrou a sessão para ir ao Senado defender o orçamento das agências reguladoras."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:27:55",
+   "processo": "itens 9 a 23 de bloco",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 12ª RPO 2026 (inclui item 15, pedido de reconsideração da Itapebi Geração de Energia SA)",
+   "tema": [
+    "outros",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade; item 15 sem decisão (falta de três votos convergentes), volta na próxima RPO",
+   "resumo_voto": "Sem destaques. No item 15, o relator Gentil reafirmou seu voto, Willamy manteve o voto-vista divergente e Agnes acompanhou o relator.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens remanescentes do bloco; item 15: relator, reafirma o voto",
+     "ts": "0:27:55",
+     "confianca": "media",
+     "justificativa": "reafirma seu voto no pedido de reconsideração da Itapebi"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova os itens do bloco; item 15: voto-vista, mantém seu voto",
+     "ts": "0:28:14",
+     "confianca": "media",
+     "justificativa": "apresentou voto-vista no item 15 e o mantém"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco; item 15: acompanha o relator Gentil",
+     "ts": "0:28:39",
+     "confianca": "media",
+     "justificativa": "no item 15 vota com o relator Gentil"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:29:01",
+   "processo": "48500.006725/2025-21",
+   "interessado": "Energisa Minas Rio Distribuidora de Energia SA (EMR), Cataguases-MG",
+   "assunto": "Resultado da revisão tarifária periódica 2026 da Energisa Minas Rio após a Consulta Pública 4/2026 (efeito médio 11,27%) — controvérsia sobre perdas técnicas com geração distribuída (critério de 25% para alimentadores atípicos)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral de Rodrigo Santana (EMR) pedindo considerar as perdas declaradas em todos os alimentadores com GD, sem limite de 25%, como em precedentes (Energisa Paraíba, Tocantins, EDP Espírito Santo). Relator manteve a proposta da STD: critério objetivo de 25% de GD para alimentador atípico, apoiado em estudo da UFU; acatar o pleito elevaria o efeito de 11,27% para 11,82% e levaria perdas não técnicas a quase zero. Efeito 5,23% AT e 12,8% BT; fator T 2,446%; perdas não técnicas fixadas em 1,526% (ajuste lido em sessão). Tema remetido à agenda regulatória (atividade de aprimoramento das perdas técnicas).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "0:49:38",
+     "confianca": "alta",
+     "justificativa": "a regulação confere à ANEEL poder-dever de análise crítica das perdas declaradas; 84% dos alimentadores declarados atípicos destoa das demais distribuidoras; critério de 25% dá tratamento isonômico até a revisão metodológica; ressalta urgência de revisar a metodologia de perdas técnicas porque a GD está contaminando a análise"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:00:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:00:46",
+     "confianca": "media",
+     "justificativa": "comentou que o pleito pode ser rediscutido quando a área desenvolver a nova metodologia na agenda regulatória"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:02:19",
+   "processo": "48500.008925/2025-10 (número incerto na legenda)",
+   "interessado": "RGE Sul Distribuidora de Energia SA (RGE), São Leopoldo-RS",
+   "assunto": "Reajuste tarifário anual 2026 da RGE a partir de 19/6/2026 (efeito médio 16,06%), primeiro após o 8º termo aditivo do contrato de concessão; reversão de mais 1/4 do diferimento de 2024 (calamidade no RS)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 16,06% (19,02% AT, 14,94% BT); financeiros contribuem com 13,03 p.p.; reversão de cerca de 424 milhões do diferimento de 2024; parcela B ainda corrigida só pelo IGP-M por regra de transição do aditivo (assinatura em maio).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "1:14:40",
+     "confianca": "alta",
+     "justificativa": "homologa o reajuste conforme apresentação técnica da STR; perguntou/esclareceu a proporcionalização IGP-M/IPCA"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "1:16:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "1:16:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:17:46",
+   "processo": "48500.007295/2025-21",
+   "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE); comercializadoras",
+   "assunto": "Abertura de consulta pública (18/6 a 3/8/2026) sobre o processo sancionador do monitoramento de mercado da CCEE (minuta de REN, PdC 1.9, alteração da REN 846 para comercializadoras sem receita)",
+   "tema": [
+    "comercialização (CCEE)",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (abertura da consulta pública)",
+   "resumo_voto": "Proposta das áreas SFF/SGM com AIR (alternativa de responsabilidade compartilhada ANEEL-CCEE); três condutas puníveis; penalidades de advertência, multa, restrição de acesso e desligamento; exclusão de instrumentos consensuais; divergências da CCEE (decisão por dois diretores, instrumentos consensuais, desligamento voluntário) levadas à consulta.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "1:29:12",
+     "confianca": "alta",
+     "justificativa": "tema fundamental pelo que vem ocorrendo com comercializadoras e pela abertura do mercado no próximo ano; pontos divergentes da CCEE devem passar por escrutínio público"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:35:15",
+     "confianca": "media",
+     "justificativa": "tema importante e oportuno; parabeniza o relator e a equipe"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:35:33",
+     "confianca": "media",
+     "justificativa": "destaca o processo interativo com a CCEE para construir governança clara"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:35:50",
+   "processo": "48500.022233/2025-15 (número incerto na legenda)",
+   "interessado": "autoprodutores; ABIAP; ABRAPCH; CCEE; Petrobras (pedido de urgência)",
+   "assunto": "Procedimentos de autoprodução de energia, inclusive por equiparação, conforme art. 16-B da Lei 9.074/1995 (Lei 15.269/2025): grupo econômico, usinas sem outorga (registro) e período de transição",
+   "tema": [
+    "comercialização (CCEE)",
+    "outorgas de geração",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "sem decisão (ausência de três votos convergentes); volta na próxima RPO",
+   "resumo_voto": "Sustentações orais de Daniel Pina (ABIAP, apoia e pede rápida publicação) e Luíza (nome incerto, ABRAPCH, contesta que a lei tenha inovado contra usinas com registro e pede subsidiariamente prazo de 10 anos). Procurador-geral propôs ajuste de fundamentação mantendo a conclusão do parecer. Relatora: CCEE só cadastra para autoprodução ativos outorgados a partir de 25/11/2025; transição para usinas sem outorga já modeladas = o maior entre 3 anos e o remanescente de 35 anos de outorga equivalente, não prorrogável; critérios de equiparação (30.000 kW agregados, 3.000 kW por unidade) e grupo econômico.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:05:24",
+     "confianca": "alta",
+     "justificativa": "rejeita o prazo de 3 anos baseado na prescrição civil por não guardar relação com a transição nem permitir recuperar investimentos; propõe o remanescente do prazo de outorga de mesma fonte, mínimo de 3 anos, não prorrogável, com base na LINDB e segurança jurídica"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:25:13",
+     "confianca": "baixa",
+     "justificativa": "solução de transição equilibrada; questão das usinas com registro pode ser aprofundada em recurso"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "diverge parcialmente: acompanha a relatora exceto no item 3 do dispositivo",
+     "ts": "2:25:13",
+     "confianca": "alta",
+     "justificativa": "prazo de até 35 anos praticamente anula o comando legal; adota a proposta das áreas técnicas (NT conjunta 7/2026): período máximo de 3 anos a partir da publicação da Lei 15.269/2025; pede que os outros dois diretores participem do debate"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:27:53",
+   "processo": "48500.079332/2026-61 (número incerto na legenda)",
+   "interessado": "Amazonas Energia SA; CCEE",
+   "assunto": "Prorrogação do prazo do Despacho 1778/2024 que afastou o limite temporal do art. 68, §5º, da REN 1016/2022 (reembolso preliminar de 100%) e pedido de repasse dos custos de flexibilização na data da liquidação do MCP",
+   "tema": [
+    "CDE e encargos setoriais",
+    "comercialização (CCEE)",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: deferido parcialmente",
+   "resumo_voto": "Mantida por mais 3 meses, sem nova prorrogação, a autorização excepcional para a CCEE não aplicar o limite temporal; negado o repasse na data da liquidação do MCP, mantido o pagamento no 10º dia útil (decisão da 10ª RPO de 19/5/2026). Só o dispositivo foi lido.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, defere parcialmente",
+     "ts": "2:27:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:29:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "2:29:30",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta",
+   "ts": "0:26:06"
+  },
+  {
+   "item": "4",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta",
+   "ts": "0:26:06"
+  },
+  {
+   "item": "17",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta",
+   "ts": "0:26:06"
+  },
+  {
+   "item": "7",
+   "relator": "não identificado",
+   "motivo": "retornou por ausência de três votos convergentes; deliberação ainda não possível, pautado na próxima RPO (havia pedido de sustentação oral)",
+   "ts": "0:26:06"
+  }
+ ],
+ "limites_da_analise": [
+  "Rótulos de falante do .md trocados (ex.: apresentações técnicas atribuídas a Ricardo Tili, que não estava presente); identidades inferidas pelo contexto (relator anunciado, saudações, 'obrigada, diretor Wil').",
+  "Presidência atribuída a Agnes da Costa por inferência ('senhora presidente', ela cumprimenta Willamy e Gentil); ausentes não declarados na sessão.",
+  "Item 15 do bloco: relator Gentil e voto-vista de Willamy inferidos pelas falas; assunto só como 'reconsideração da Itapebi'.",
+  "Números de processo transcritos pela legenda podem estar errados.",
+  "Na legenda, votos de seguidores e a proclamação aparecem fundidos; ts aproximados.",
+  "Nome da representante da ABRAPCH ('Luía Melcopo de Cro Le Dantas') ilegível na legenda."
+ ]
+}
