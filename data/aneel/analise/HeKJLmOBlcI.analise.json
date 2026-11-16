@@ -1,0 +1,392 @@
+{
+ "meta": {
+  "video_id": "HeKJLmOBlcI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "14ª RPO 2026",
+  "data": "2026-07-14",
+  "formato": "presencial",
+  "presidente_da_sessao": "Gentil Nogueira (presidiu a sessão)",
+  "diretores_presentes": [
+   "Gentil Nogueira",
+   "Fernando Mosna",
+   "Willamy Frota"
+  ],
+  "ausentes": [
+   "Agnes da Costa"
+  ],
+  "observacoes": [
+   "Quórum de três diretores. Pauta de 31 itens; bloco 11 a 31; retirados 4, 8, 9 e 17; item 19 destacado.",
+   "Item 1 (RTP Energisa Sul-Sudeste): vista em mesa de Mosna no mesmo dia; relator incorporou a divergência; efeito médio 9,63%.",
+   "Itens 6 (apagão 15/08/2023, vista de Willamy) e 10 (UHE Salto Santiago, divergência de Willamy e vista de Gentil) não concluídos.",
+   "Sustentação oral do item 2 indeferida por intempestividade; itens 30 e 31 sem nova sustentação (ratificação de circuito)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:05:43",
+   "processo": "itens 11 a 31 (exceto 17 retirado e 19 destacado)",
+   "interessado": "diversos (inclui item 27: autorização de reforços da ISA Energia)",
+   "assunto": "Itens de bloco da 14ª RPO 2026 (votos disponibilizados previamente); itens 30 e 31 em fase de ratificação de circuito deliberativo",
+   "tema": [
+    "transmissão",
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Gentil Nogueira esclareceu ajustes no voto do item 27 (reforços ISA Energia): avaliação prévia da viabilidade de licitar intervenções em DIT e encaminhamento institucional ao MME.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:07:00",
+     "confianca": "alta",
+     "justificativa": "ajuste no item 27 por modicidade tarifária e encaminhamento institucional ao MME"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:06:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco (proclamado unânime)",
+     "ts": "0:07:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:07:16",
+   "processo": "48500.003007/2025-99 (aprox.)",
+   "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A.; ABRADEE",
+   "assunto": "Resultado da revisão tarifária periódica 2026 da Energisa Sul-Sudeste após CP 10/2026; controvérsia sobre critério de 25% de penetração de GD para alimentadores atípicos no cálculo de perdas técnicas",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "geração distribuída (MMGD)",
+    "perdas técnicas"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade após vista em mesa de Fernando Mosna; relator incorporou a divergência parcial (afasta critério de 25%, aplica item 74 do módulo 7 do Prodist); efeito médio 9,63% (AT 9,99%, BT 9,49%)",
+   "resumo_voto": "Voto original: efeito médio 9,44% com critério STD de 25%. Sustentações orais de Danilo (Energisa) e Ricardo Brandão (ABRADEE). Mosna pediu vista em mesa por entender que o critério de 25% é inovação normativa sem consulta pública (art. 9º Lei 13.848) e retornou com voto-vista; Gentil incorporou, com determinação de não usar o critério de 25% antes de consulta pública.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova; ao final incorpora as contribuições do voto-vista",
+     "ts": "4:29:54",
+     "confianca": "alta",
+     "justificativa": "inicialmente defendeu discricionariedade da STD e isonomia entre distribuidoras; depois convergiu para haver solução hoje dada a vigência em 12/07"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista em mesa; voto-vista: diverge parcialmente (afasta 25%, aplica item 74 do módulo 7 do Prodist)",
+     "ts": "4:22:20",
+     "confianca": "alta",
+     "justificativa": "critério de 25% é inovação normativa de interesse geral sem consulta pública; base no estudo da UFU é mera citação bibliográfica (Múrcia, Espanha); afeta 10 revisões de 2026; precedentes Energisa Paraíba, Tocantins, EDP ES"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator com o ajuste do voto-vista",
+     "ts": "4:29:54",
+     "confianca": "media",
+     "justificativa": "aguardou desdobramento da vista; não acompanhou a divergência de imediato"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:48:18",
+   "processo": "48500.004063/2020-82 (aprox.)",
+   "interessado": "17 distribuidoras de pequeno porte/permissionárias; Electra Comercializadora de Energia Ltda.; COPREL",
+   "assunto": "Análise dos contratos firmados entre comercializadoras e distribuidoras de pequeno porte: resolução de 19 contratos bilaterais regulados com a Electra (não entrega de energia, recuperação judicial)",
+   "tema": [
+    "comercialização",
+    "distribuidoras de pequeno porte",
+    "tarifas"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova resolução dos 19 contratos; distribuidoras apuram em 30 dias penalidades e perdas e danos; valores habilitados na recuperação judicial e revertidos à modicidade quando recuperados; tratamento tarifário excepcional limitado ao VR (Despacho 3176/2024) para mercado inferior a 700 GWh.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "0:59:57",
+     "confianca": "alta",
+     "justificativa": "não entrega de energia configura inadimplemento contratual material, não mero ajuizamento de recuperação judicial"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:03:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (proclamado unânime)",
+     "ts": "1:03:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:03:50",
+   "processo": "48500.902008/2024-81 (aprox.)",
+   "interessado": "Ventos de São Vitor 12, 13 e 14 Energias Renováveis S.A.; Sol do Sertão OB1, OB2 e OB3 Energia Solar Ltda.",
+   "assunto": "Recurso contra autos de infração 49 a 59/2024 da SFT pela perturbação de 15/08/2023 (apagão) — modelos matemáticos inadequados e prazos do RAP 12/2023",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "operação do sistema / apagão 15/08/2023",
+    "outorgas de geração (eólica, solar)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Willamy Frota (não concluído)",
+   "resumo_voto": "Sustentação oral de Marcos (Max) Mitieri pelas recorrentes. Relator dá parcial provimento: descaracteriza NC1 (art. 13, II REN 846, falta de individualização da conduta/nexo causal), mantém NC4 reenquadrada no grupo 3 (art. 11) e NC2; multa de R$ 4.160.368,80 para R$ 1.447.084,55 (memorando SFT 335). Procurador-Geral manteve entendimento divergente (contribuição concorrente/causalidade cumulativa).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:28:57",
+     "confianca": "alta",
+     "justificativa": "sem individualização da conduta não há subsunção ao art. 13, II da REN 846; impossibilidade técnica de decompor a contribuição não pode presumir o nexo causal"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "sem voto registrado (questionou relator e procurador na discussão)",
+     "ts": "1:58:48",
+     "confianca": "media",
+     "justificativa": "reconhece culpa concorrente técnica dos geradores intermitentes; dúvida jurídica sobre prova para o art. 13, II"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "2:16:07",
+     "confianca": "alta",
+     "justificativa": "estudar o tema sob a ótica operacional e sistêmica; tem ao menos 12 processos ligados ao evento de 15/08/2023"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:19:31",
+   "processo": "48500.906496/2023-15 (aprox.)",
+   "interessado": "Equatorial Goiás Distribuidora de Energia S.A. (comercializadora coligada Ecom Energia)",
+   "assunto": "Recurso contra auto de infração 24/2025 da SFF: conduta atentatória à concorrência (manter comercializadora do grupo em cópia de e-mail de consumidor que migraria ao ACL)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "comercialização (mercado livre, concorrência)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: parcial provimento, multa reduzida de cerca de R$ 15 milhões para R$ 2.791.313,10",
+   "resumo_voto": "Sustentação oral de Sofia Barbosa (Equatorial). Infração do art. 13, XI REN 846 mantida (mera conduta, desverticalização); rejeitada metodologia alternativa da SFF (benchmark CADE, fator de representatividade do caso CEMIG-D); nova dosimetria com abrangência e gravidade de 2,64% (participação do ACL da concessão no ACL nacional) e +12% por antecedentes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "2:32:06",
+     "confianca": "alta",
+     "justificativa": "multa padrão de R$ 94,4 milhões seria desproporcional; base deve ser a ROL; abrangência e gravidade graduadas pelo mercado livre da área (2,64%)"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:53:02",
+     "confianca": "alta",
+     "justificativa": "caso será divisor de águas para a SFF com a abertura do mercado de baixa tensão; distribuidora não pode usar informação do consumidor para ganho concorrencial"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:53:02",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:53:02",
+   "processo": "48500.001997/1997-09 (aprox.)",
+   "interessado": "Engie Brasil Energia S.A. — UHE Salto Santiago (Saudade do Iguaçu/PR)",
+   "assunto": "Prorrogação da concessão da UHE Salto Santiago por acréscimo de 710 MW (duas unidades), art. 26, §7º da Lei 9.427/96",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "aproveitamento ótimo / potência"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Gentil Nogueira após divergência de Willamy Frota (não concluído)",
+   "resumo_voto": "Sustentação oral de Henrique Silva Reis (Engie). Relator aceita potência no aproveitamento ótimo (parecer da Procuradoria e carta do ONS) e prorroga por 3.415 dias (9,36 anos) usando metodologia do mecanismo concorrencial da MP 1.300/Portaria MME 112; SCE propunha 5 anos (fluxo de caixa com parâmetros do LRCAP 2026). Procurador sugeriu deixar claro que não haverá indenização de saldo a depreciar.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova prorrogação por 3.415 dias",
+     "ts": "3:11:12",
+     "confianca": "alta",
+     "justificativa": "prorroga-se a concessão inteira, não só a parcela ampliada; contratação em novo LRCAP é evento incerto; metodologia testada pelo mercado e pelo TCU"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "diverge: acompanha a área técnica (5 anos)",
+     "ts": "3:45:26",
+     "confianca": "alta",
+     "justificativa": "está convencido, neste momento, dos 5 anos da SCE; quer dar subsídio ao voto-vista",
+     "tom": "descontraído"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "3:45:26",
+     "confianca": "alta",
+     "justificativa": "concorda com potência no aproveitamento ótimo, mas não vê maturidade na metodologia de cálculo do prazo"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:45:26",
+   "processo": "48500.025392/2025-71 e 48500.026202/2025-33 (aprox.)",
+   "interessado": "Termopernambuco S.A. — UTE Termopernambuco; ONS",
+   "assunto": "Voto-vista: impugnação contra decisão do ONS sobre apuração de indisponibilidade da UTE Termopernambuco",
+   "tema": [
+    "recursos administrativos",
+    "operação do sistema (ONS)",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento; determinações ao ONS",
+   "resumo_voto": "Agnes (ausente) votou na 10ª RPO de 19/05/2026; voto-vista de Mosna acompanha integralmente: ONS deve recepcionar como impugnação o pedido da carta de reverter o estado operativo desde 01/06/2025 (DCO/NOR) e passar a avaliar a tempestividade das impugnações. Destacado do bloco por pedido de sustentação oral, que não ocorreu.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento (voto proferido na 10ª RPO)",
+     "ts": "3:47:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: acompanha integralmente a relatora",
+     "ts": "3:47:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "mantém voto da 10ª RPO (acompanha)",
+     "ts": "3:49:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "mantém voto (acompanha)",
+     "ts": "3:49:09",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:50:09",
+   "processo": "48500.017275/2026-15 (aprox.)",
+   "interessado": "STE / empresas do programa de PDI",
+   "assunto": "Abertura de consulta pública sobre o edital do Prêmio ANEEL de Inovação 2026 (edição dos 30 anos da ANEEL)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "PDI / inovação"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade: CP de 17/07 a 15/08/2026",
+   "resumo_voto": "Apresentação de Márcio Vinícius (STE): nova fórmula da menção honrosa (superação do mínimo regional e escala), até quatro indicações de pessoa inovadora (um homem e uma mulher por subcategoria), novos portes.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova abertura de CP",
+     "ts": "3:56:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "3:57:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (proclamado unânime)",
+     "ts": "3:57:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:57:42",
+   "processo": "48500.007624/2025-26 (aprox.)",
+   "interessado": "distribuidoras; ABRADEE",
+   "assunto": "Abertura de consulta pública para revisão da metodologia do Fator X — componente Pd (produtividade)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade: CP de 16/07 a 31/08/2026 e STR deve disponibilizar a base de dados de PTF 2025",
+   "resumo_voto": "Sustentação oral de Ricardo Brandão (ABRADEE) sobre investimentos intraciclo e dados. Apresentação de Vitor Queiroz (STR): PTF 2018-2024 de 0,48% a.a.; alternativa 3 preferida (média com produtividade da distribuidora, cálculo anual).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova abertura de CP",
+     "ts": "4:19:48",
+     "confianca": "alta",
+     "justificativa": "disponibilizar dados; discutir janela temporal e comparabilidade entre pequenas e grandes"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha (proclamado unânime)",
+     "ts": "4:21:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (proclamado unânime)",
+     "ts": "4:21:22",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "4",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:00:05"
+  },
+  {
+   "item": "8",
+   "motivo": "retirado de pauta",
+   "ts": "0:00:05"
+  },
+  {
+   "item": "9",
+   "motivo": "retirado de pauta",
+   "ts": "0:00:05"
+  },
+  {
+   "item": "17",
+   "motivo": "retirado de pauta",
+   "ts": "0:00:05"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo reconstruídos (aproximados); nomes de sustentantes incertos (Danilo Batista/Febrone, Max/Marcos Mitieri).",
+  "Falantes inferidos pela transcrição frequentemente errados (ex.: Ricardo Tili marcado em falas da Procuradoria/sustentantes); atribuição feita pelo contexto.",
+  "Presidente da sessão inferido: Gentil Nogueira (cumprimenta os diretores Fernando e Willamy e proclama resultados).",
+  "Votos de Mosna nos itens 2, 5, 3 e no bloco não são audíveis; registrados pela proclamação de unanimidade (confiança baixa).",
+  "Ludimila Lima falou como superintendente da SCE (item 10), não como diretora; sem voto.",
+  "Retirados com ts da abertura (anúncio da Secretaria-Geral ~0:03)."
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "meta": {
+  "video_id": "MWHmT1Oatqc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13ª RPO 2026 (Parte 1)",
+  "data": "2026-06-30",
+  "formato": "presencial (auditório da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Agnes da Costa"
+  ],
+  "observacoes": [
+   "Agnes da Costa ausente em missão institucional; quórum de 4.",
+   "Pauta com 36 itens (10 a 36 em bloco); item 2 e item 15 retirados; itens 9, 12, 14, 15, 26 e 34 seguem na parte da tarde (outro vídeo).",
+   "Informes: bandeira amarela em julho, convênio com Adasa, campanha contra queimadas, 1 ano do Radar, museu de eficiência energética.",
+   "Sandoval comenta que faltam 43 dias (para fim do mandato, inferência).",
+   "Sessão suspensa ~12h para retorno às 14h30."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:24:32",
+   "processo": "itens 10 a 36 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos e atos publicados previamente); destacados 12, 13, 15, 25, 26 e 34",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, exceto item 10 (vista de Willamy Frota)",
+   "resumo_voto": "Itens remanescentes do bloco aprovados sem leitura.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:24:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco, exceto item 10, para o qual pede vista",
+     "ts": "0:24:55",
+     "confianca": "media",
+     "justificativa": "pede vista do item 10 para melhor entendimento do desenvolvimento do tema; antes, alerta sobre queimadas próximas a linhas de transmissão e elogia o museu de eficiência energética"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:29:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco e proclama",
+     "ts": "0:29:14",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:29:40",
+   "processo": "48500.0?70/2025-44 (número incerto)",
+   "interessado": "Companhia Campo Larguense de Energia (Cocel), Campo Largo/PR; comercializadora Electra (em recuperação judicial)",
+   "assunto": "Revisão tarifária periódica 2026 da Cocel, com tratamento excepcional dos contratos bilaterais inadimplidos pela Electra (valoração pelo VR)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "comercialização (contratos bilaterais, inadimplência de comercializadora)",
+    "distribuição"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Desconsidera os contratos bilaterais com a Electra (não entregues, RJ) e valora o déficit pelo VR (Despacho 3176/2024); efeito médio 14,97% (AT ~15,9%, BT 14,51%); componente T do fator X 0,764%; perdas para 2026-2030. Negou à STR delegação para aplicar o mesmo tratamento a casos similares, remetendo ao processo estrutural relatado por Willamy Frota. Apresentação técnica de Leonardo Mendonça (STR).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "0:44:12",
+     "confianca": "alta",
+     "justificativa": "inadimplemento material da Electra; nem valorar pelo contrato (custo fictício) nem repassar volatilidade do MCP ao consumidor; VR é referência regulatória conservadora; CVA Energia faz o ajuste fino"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:57:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:57:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:57:17",
+     "confianca": "alta",
+     "justificativa": "caso concreto bem tratado ao não expor a permissionária ao MCP; tema de comercializadoras exige abordagem estrutural no processo do diretor Willamy"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:57:50",
+   "processo": "48500.?/2009 (número incerto)",
+   "interessado": "ENBPar; distribuidoras",
+   "assunto": "Homologação da reserva técnica financeira da conta de comercialização de Itaipu, da tarifa bônus de Itaipu e dos valores de repasse às distribuidoras para 2026 (destacado do bloco pelo Diretor-Geral)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "Itaipu / bônus"
+   ],
+   "relator": "Agnes da Costa (ausente; voto lido pelo Diretor-Geral)",
+   "resultado": "vista em mesa concedida a Fernando Mosna",
+   "resumo_voto": "Voto da relatora: reserva técnica de cerca de R$ 524 milhões (limite de 5% do recolhimento anual), tarifa bônus de 0,0065 R$/kWh, repasse pela ENBPar até 25/07/2026 e crédito nas faturas de 1 a 30/08/2026; bônus da ordem de R$ 767 milhões.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista em mesa",
+     "ts": "1:12:49",
+     "confianca": "alta",
+     "justificativa": "propõe ser mais conservador na reserva técnica (ex.: 4% em vez do teto de 5%; 1% equivale a ~R$ 104 milhões) para dar algum alívio tarifário ao consumidor; no ano anterior foi 3% e houve sobra"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (leu o voto)",
+     "ts": "1:14:04",
+     "confianca": "baixa",
+     "justificativa": "considerou a perspectiva de Fernando interessante; manteve a votação"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "sem voto registrado claramente",
+     "ts": "1:07:27",
+     "confianca": "baixa",
+     "justificativa": "participou do esclarecimento sobre a composição da conta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "sem voto registrado claramente",
+     "ts": "1:02:07",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:14:14",
+   "processo": "48500.004017/2025-12; 48500.?687/2024; 48500.?4800/2023-90",
+   "interessado": "Gold Comercializadora de Energia (em recuperação judicial); distribuidoras; Cedrap; Coopernorte; Abradee",
+   "assunto": "Resolução dos CCEARs derivados do MCSD e dos contratos bilaterais regulados entre distribuidoras e a Gold Comercializadora",
+   "tema": [
+    "comercialização (CCEAR, MCSD, inadimplência de comercializadora)",
+    "fiscalização e sanções",
+    "tarifas e modicidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolve os contratos; CCEE calcula penalidades; multas por rescisão de CBR (Cedrap R$ 2,62 mi; Coopernorte R$ 3,23 mi); créditos habilitados na RJ e revertidos à modicidade só quando efetivamente recuperados (diverge da SGM); SGM e STR têm 270 dias para propor metodologia de máximo esforço das distribuidoras. Sustentação oral de Thiago (Abradee), concordando com o relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (diverge da área técnica quanto ao repasse antecipado)",
+     "ts": "1:17:20",
+     "confianca": "alta",
+     "justificativa": "repasse antes do recebimento transferiria à distribuidora o risco de insolvência; precedente Equatorial Pará/BBF e despacho 2031/2026 (transmissoras em RJ); juízo recuperacional impede cobrança autônoma"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:38:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:38:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:38:32",
+     "confianca": "alta",
+     "justificativa": "ressalva: analogia com transmissoras não é tão aderente, pois distribuidoras têm risco de mercado e devem gerir seu portfólio"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:39:26",
+   "processo": "48500.?233/2025-15",
+   "interessado": "autoprodutores",
+   "assunto": "Procedimentos de autoprodução, inclusive por equiparação, após alterações da Lei 9.074/1995 pela Lei 15.269/2025 (fase de votação)",
+   "tema": [
+    "regulação normativa",
+    "autoprodução",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado; unanimidade nos demais itens, item 3 por maioria (divergência de Willamy Frota: transição máxima de 3 anos)",
+   "resumo_voto": "Item 3: prevaleceu período máximo de 3 anos a partir da publicação da Lei 15.269/2025 para manter ativas modelagens de autoprodutor lastreadas em usinas sem outorga, em vez do maior entre 3 anos e o remanescente de 35 anos proposto pela relatora.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova (voto em sessão anterior)",
+     "ts": "1:39:26",
+     "confianca": "media",
+     "justificativa": "transição pelo maior entre 3 anos ou remanescente de prazo equivalente a 35 anos"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "mantém voto acompanhando a relatora",
+     "ts": "1:46:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "diverge no item 3 (mantém)",
+     "ts": "1:45:51",
+     "confianca": "alta",
+     "justificativa": "prazo único de 3 anos; urgência do tema"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência",
+     "ts": "1:40:43",
+     "confianca": "media",
+     "justificativa": "ressalva: registros antigos que já passaram de 35 anos não deveriam ganhar mais 3 anos (captura de renda; alerta do TCU sobre encargos), cerca de 300 registros"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência e proclama",
+     "ts": "1:46:23",
+     "confianca": "alta",
+     "justificativa": "lei foi objetiva; autoprodução não é mais vista como incentivo; possivelmente conjunto vazio de casos"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:47:50",
+   "processo": "48500.008476/2026 (número incerto)",
+   "interessado": "Itapebi Geração de Energia S.A. (projeto de hidrogênio verde ligado à JBS/Seara)",
+   "assunto": "Pedido de reconsideração contra despacho que aprovou avaliação inicial de projetos de PDI da Chamada 23 (hidrogênio no setor elétrico), STE",
+   "tema": [
+    "recursos administrativos",
+    "P&D / inovação (hidrogênio)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por maioria o voto-vista de Willamy Frota: conhecer e negar provimento",
+   "resumo_voto": "Fase de votação. Para evitar empate, Gentil Nogueira alterou o voto e acompanhou o voto-vista; o voto anterior de Agnes da Costa (que o acompanhava) permanece.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "voto-vista: conhecer e negar provimento (sessão anterior)",
+     "ts": "1:47:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanhou o voto original do relator (dar provimento), sessão anterior",
+     "ts": "1:51:39",
+     "confianca": "baixa",
+     "justificativa": "registro contraditório da secretaria; segundo Gentil, o voto dela segue o voto anterior dele"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "declara suspeição",
+     "ts": "1:49:16",
+     "confianca": "alta",
+     "justificativa": "processos que envolvem o grupo J&F"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista de Willamy (nega provimento) e proclama",
+     "ts": "1:49:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator; altera o voto e acompanha a divergência de Willamy",
+     "ts": "1:51:50",
+     "confianca": "media",
+     "justificativa": "pela colegialidade, para evitar empate"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:51:55",
+   "processo": "48500.?500/2025-01",
+   "interessado": "Hospital (nome incerto, 'Haroldo Jua'); distribuidora não identificada",
+   "assunto": "Recurso contra despacho 2509/2025 da SMA que negou compensação financeira por descumprimento de prazos",
+   "tema": [
+    "recursos administrativos",
+    "consumidor / compensação"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista coletiva concedida a Fernando Mosna (placar 2 a 2)",
+   "resumo_voto": "Pedido de sustentação oral negado por estar em fase de votação. Sandoval acompanhou o relator; Willamy acompanhou o voto-vista de Agnes.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanhou o relator (sessão anterior)",
+     "ts": "1:51:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanhou o voto-vista de Agnes (sessão anterior)",
+     "ts": "1:51:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista (sessão anterior; ausente)",
+     "ts": "1:51:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "1:53:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:53:54",
+   "processo": "48500.?2339/2024-11",
+   "interessado": "distribuidoras; fabricantes de medidores",
+   "assunto": "Abertura da 2ª fase da Consulta Pública 1/2026: requisitos mínimos dos sistemas de medição inteligente (grupo B)",
+   "tema": [
+    "regulação normativa",
+    "distribuição (medição inteligente)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "2ª fase da CP 1/2026 por intercâmbio documental por 45 dias (área técnica sugeria 30) com minuta de REN sobre requisitos mínimos (Prodist módulos 1 e 5, REN 1000), alinhada à Portaria MME 126/2026; ACB e planos de implantação depois. Apresentação técnica da STD não ocorreu por ausência da área.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:22:20",
+     "confianca": "alta",
+     "justificativa": "tema de grande relevância para modernização da rede e abertura de mercado justifica 45 dias de contribuição"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:25:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:25:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:25:49",
+     "confianca": "alta",
+     "justificativa": "elogia a instrução; antes exigiu presença da área técnica"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:26:20",
+   "processo": "48500.007603/2025-19",
+   "interessado": "São Francisco Transmissão de Energia S.A.; Q Square (controlador atual); BTG Pactual Energy (FIP)",
+   "assunto": "Anuência prévia para transferência de controle indireto da São Francisco Transmissão, com alteração do cronograma de implantação (LT 230 kV Morro do Chapéu II–Irecê pendente)",
+   "tema": [
+    "transmissão",
+    "transferência de controle",
+    "fiscalização e sanções"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "sem deliberação: 2 a 2; aguarda voto de Agnes da Costa",
+   "resumo_voto": "Gentil: anuir a transferência e aprovar novo cronograma até 30/08/2027 (vantajosidade frente a relicitação; precedente ETTM), aceitando incluir que a mudança não elide responsabilidade pelo atraso. Voto-vista de Fernando: anuir a transferência, mas não aprovar cronograma nem o termo aditivo nessa parte (art. 20 da LINDB, parecer 129/2026 da Procuradoria). Esclarecimento de Júlia, diretora jurídica da empresa, sobre a data de 30/06.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova transferência e novo cronograma; mantém voto",
+     "ts": "3:42:31",
+     "confianca": "alta",
+     "justificativa": "obra 90% concluída e abandonada pelo antigo controlador; importante para escoamento de renováveis do Nordeste; novo cronograma cria obrigação e incentivo ao sucessor; penalidade deve ser apurada no processo próprio"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: diverge parcialmente (anui a transferência; não aprova cronograma)",
+     "ts": "2:30:07",
+     "confianca": "alta",
+     "justificativa": "vantajosidade só temporal não basta (art. 20 LINDB); precedente ETTM usado parcialmente; risco moral para leilões; multa estimada pela SFT até cerca de R$ 46 milhões"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "altera o voto e acompanha o voto-vista de Fernando",
+     "ts": "4:06:18",
+     "confianca": "alta",
+     "justificativa": "voto-vista traz complementos importantes; concessionário tem obrigação de executar o cronograma"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator Gentil",
+     "ts": "4:07:52",
+     "confianca": "alta",
+     "justificativa": "para oportunizar manifestação de Agnes e do colegiado completo, dada a relevância do precedente; pediu a Gentil atualizar o voto"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2",
+   "motivo": "retirado de pauta (não informado)",
+   "ts": "0:22:23"
+  },
+  {
+   "item": "15",
+   "motivo": "retirado de pauta (anunciado durante a sessão)",
+   "ts": "0:57:50"
+  }
+ ],
+ "limites_da_analise": [
+  "Números de processo distorcidos pela legenda automática; marcados com ? quando incertos.",
+  "Votos de quem só acompanha têm ts aproximado e confiança baixa.",
+  "Item 13: só uma manifestação 'acompanho a relatora' audível antes da vista; voto de Gentil e Willamy não identificados com clareza.",
+  "Item 6: secretaria descreveu de forma contraditória o voto anterior de Agnes; adotada a fala de Gentil ('o dela é o meu').",
+  "Item 7: relator não identificado (provavelmente Gentil Nogueira) e nome do hospital incerto.",
+  "Falante do pedido de vista do item 10 inferido como Willamy Frota (fala sobre operação de transmissão).",
+  "Parte 1 apenas; a tarde está em outro vídeo."
+ ]
+}
