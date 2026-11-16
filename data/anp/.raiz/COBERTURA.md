@@ -10,7 +10,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | diretoria | 22 | 21 | 0 |
 | 2026 | audiencia | 18 | 0 | 0 |
 | 2025 | workshop | 17 | 0 | 0 |
-| 2025 | diretoria | 24 | 3 | 0 |
+| 2025 | diretoria | 24 | 15 | 0 |
 | 2025 | audiencia | 15 | 0 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
 | 2024 | diretoria | 24 | 0 | 0 |
@@ -59,5 +59,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-12-18 · Reunião de Diretoria Colegiada nº 1174 - 18 de dezembro de 2025 · `tY633kzXT38`
 - 2025-12-09 · Reunião de Diretoria Colegiada nº 1173 - 8 de dezembro de 2025 · `NDl1aH4iipk`
 - 2025-11-18 · Reunião de Diretoria Colegiada nº 1172 - 18 de novembro de 2025 · `FDRzdpNsyGI`
+- 2025-11-13 · Retomada da Reunião de Diretoria nº 1.171 - 13 de novembro de 2025 · `UD0QyhXwvgg`
+- 2025-11-07 · Reunião de Diretoria Colegiada nº 1171 - 6 de novembro de 2025 - PARTE · `uNfZWdrGZE8`
+- 2025-11-07 · Reunião de Diretoria Colegiada nº 1171 - 6 de novembro de 2025 - PARTE · `KYoZJZq_Iws`
+- 2025-10-16 · Reunião de Diretoria Colegiada nº 1170 - 16 de outubro de 2025 · `abQsfHJI5sY`
+- 2025-10-03 · Reunião de Diretoria Colegiada nº 1169 - 3 de outubro de 2025 · `E8Vwhdqd9rA`
+- 2025-09-18 · Reunião de Diretoria Colegiada nº 1168 - 18 de setembro de 2025 · `Fnz9b9qPF8c`
+- 2025-09-05 · Reunião de Diretoria Colegiada nº 1167 - 5 de setembro de 2025 · `YXcpyAaNQHk`
+- 2025-08-21 · Reunião de Diretoria Colegiada nº 1166 - 21 de agosto de 2025 · `UmA79afO3zg`
+- 2025-08-08 · Reunião de Diretoria Colegiada nº 1165 - 7 de agosto de 2025 · `cZxe7UZQZQI`
+- 2025-07-25 · Reunião de Diretoria Colegiada nº 1164 - 24 de julho de 2025 · `jQQGj6JPnAA`
+- 2025-07-10 · Reunião de Diretoria Colegiada nº 1163 - 10 de julho de 2025 · `CCbXdb6WXqM`
+- 2025-06-26 · Reunião de Diretoria Colegiada nº 1162 - 26 de junho de 2025 · `-0UwTZaim8k`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
