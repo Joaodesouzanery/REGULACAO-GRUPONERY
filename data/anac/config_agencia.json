@@ -1,0 +1,48 @@
+{
+ "sigla": "anac",
+ "nome": "Agência Nacional de Aviação Civil",
+ "canal": "@OficialANAC",
+ "playlists": [],
+ "atas_url": "",
+ "diretores": [
+  "Tiago Faierstein",
+  "Rui Mesquita",
+  "Antonio Moreira",
+  "Roberto Honorato",
+  "Cláudio Ianelli"
+ ],
+ "alias": {
+  "Tiago Faierstein": "Faierstein|Tiago\\b.{0,30}Faierstein",
+  "Rui Mesquita": "Mesquita|Rui\\b.{0,30}Mesquita",
+  "Antonio Moreira": "Antonio\\b.{0,30}Moreira|Moreira",
+  "Roberto Honorato": "Honorato|Roberto\\b.{0,30}Honorato",
+  "Cláudio Ianelli": "Cláudio\\b.{0,30}Ianelli|Ianelli"
+ },
+ "rx_nomes": "Faierstein|Mesquita|Moreira|Honorato|Ianelli",
+ "temas": [
+  [
+   "aeroportos_concessoes",
+   "aeroporto|concess[aã]o|reequil[ií]brio|tarifa aeroportu"
+  ],
+  [
+   "empresas_aereas",
+   "companhia a[eé]rea|empresa a[eé]rea|transporte a[eé]reo|slot"
+  ],
+  [
+   "seguranca_certificacao",
+   "certifica|aeronavegabilidade|RBAC|seguran[cç]a operacional"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "auto de infra|multa|penalidade"
+  ],
+  [
+   "regulamentacao",
+   "resolu[cç][aã]o|consulta p[uú]blica|audi[eê]ncia p[uú]blica"
+  ]
+ ],
+ "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
+ "excluir_titulo": "(?i)\\bteste\\b|^item \\d+|\\bitem \\d+ -|public hearing|webinar in english|\\[(en|es)\\]",
+ "desde": "2018-01-01",
+ "fonte_diretores": "data/mandatos_agencias.json (IRIS 10/11/2026, conferência no DOU em data/auditoria_mandatos)"
+}

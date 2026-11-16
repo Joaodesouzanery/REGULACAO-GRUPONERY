@@ -1,0 +1,48 @@
+{
+ "sigla": "anp",
+ "nome": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+ "canal": "@ANPgovbr",
+ "playlists": [],
+ "atas_url": "",
+ "diretores": [
+  "Artur Neto",
+  "Pietro Mendes",
+  "Symone Araújo",
+  "Julio Nishida",
+  "Amanda Gondim"
+ ],
+ "alias": {
+  "Artur Neto": "Artur\\b.{0,30}Neto|Neto",
+  "Pietro Mendes": "Mendes|Pietro\\b.{0,30}Mendes",
+  "Symone Araújo": "Araujo|Symone\\b.{0,30}Araújo",
+  "Julio Nishida": "Julio\\b.{0,30}Nishida|Nishida",
+  "Amanda Gondim": "Amanda\\b.{0,30}Gondim|Gondim"
+ },
+ "rx_nomes": "Neto|Mendes|Araújo|Nishida|Gondim",
+ "temas": [
+  [
+   "exploracao_producao",
+   "explora|produ[cç][aã]o|bloco|campo|partilha|oferta permanente|rodada"
+  ],
+  [
+   "abastecimento",
+   "distribuid|revend|posto|combust[ií]ve|GLP|etanol|biodiesel"
+  ],
+  [
+   "gas_natural",
+   "g[aá]s natural|gasoduto|transporte de g[aá]s"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "auto de infra|multa|penalidade|san[cç][aã]o"
+  ],
+  [
+   "regulamentacao",
+   "resolu[cç][aã]o|consulta p[uú]blica|audi[eê]ncia p[uú]blica"
+  ]
+ ],
+ "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
+ "excluir_titulo": "(?i)\\bteste\\b|^item \\d+|\\bitem \\d+ -|public hearing|webinar in english|\\[(en|es)\\]",
+ "desde": "2018-01-01",
+ "fonte_diretores": "data/mandatos_agencias.json (IRIS 10/11/2026, conferência no DOU em data/auditoria_mandatos)"
+}

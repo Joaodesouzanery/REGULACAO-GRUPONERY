@@ -1,0 +1,46 @@
+{
+ "sigla": "ana",
+ "nome": "Agência Nacional de Águas e Saneamento Básico",
+ "canal": "@anagovbr",
+ "playlists": [],
+ "atas_url": "",
+ "diretores": [
+  "Leonardo Silva",
+  "Larissa Rêgo",
+  "Cristiane Battiston",
+  "Ana Fioreze"
+ ],
+ "alias": {
+  "Leonardo Silva": "Leonardo\\b.{0,30}Silva|Silva",
+  "Larissa Rêgo": "Larissa\\b.{0,30}Rêgo|Rego",
+  "Cristiane Battiston": "Battiston|Cristiane\\b.{0,30}Battiston",
+  "Ana Fioreze": "Ana\\b.{0,30}Fioreze|Fioreze"
+ },
+ "rx_nomes": "Silva|Rêgo|Battiston|Battiston|Fioreze",
+ "temas": [
+  [
+   "saneamento",
+   "saneamento|norma de refer[eê]ncia|tarif|[aá]gua e esgoto"
+  ],
+  [
+   "outorga",
+   "outorga|uso de recursos h[ií]dricos"
+  ],
+  [
+   "seguranca_barragens",
+   "barragem|seguran[cç]a de barragens"
+  ],
+  [
+   "regulamentacao",
+   "resolu[cç][aã]o|consulta p[uú]blica"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "auto de infra|multa|penalidade"
+  ]
+ ],
+ "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
+ "excluir_titulo": "(?i)\\bteste\\b|^item \\d+|\\bitem \\d+ -|public hearing|webinar in english|\\[(en|es)\\]",
+ "desde": "2018-01-01",
+ "fonte_diretores": "data/mandatos_agencias.json (IRIS 10/11/2026, conferência no DOU em data/auditoria_mandatos)"
+}
