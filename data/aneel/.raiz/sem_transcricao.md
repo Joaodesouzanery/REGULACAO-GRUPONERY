@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **624** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 33; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **612** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 21; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -195,26 +195,14 @@ Total: **624** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2019-06-14 · audiencia · Audiência Pública 024/2019 - Revisão Tarifária da  Elektro Eletricidade e Serviç · https://www.youtube.com/watch?v=WfDkbBBfmaA · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-14 · audiencia · Audiência Pública 020/2019 - Revisão Tarifária Celpa - 14/06/2019 · https://www.youtube.com/watch?v=D4xkDBhC8CE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-06 · audiencia · Audiência Pública 017/2019 - Revisão Tarifária EDP Espírito Santo - 06/06/2019 · https://www.youtube.com/watch?v=_v3rGRJsgPM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-28 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 28/05/2019 - Parte 1 · https://www.youtube.com/watch?v=N9WHDXyv9mg · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-22 · audiencia · Audiência Pública 13/2019 – Autorização de Pequenas Centrais Hidrelétricas (PCHs · https://www.youtube.com/watch?v=a1tb94aF27M · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-21 · diretoria · 17ª Reunião Pública Ordinária ANEEL - 21/05/2019 · https://www.youtube.com/watch?v=56Dbt6syzvY · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-17 · audiencia · Como contribuir em uma audiência ou consulta pública · https://www.youtube.com/watch?v=mg7rMA_7DsM · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-15 · workshop · Workshop Internacional Limites de Preços do Mercado de Curto Prazo - Parte 2 - 1 · https://www.youtube.com/watch?v=8sPdYucxT1U · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-15 · workshop · Workshop Internacional Limites de Preços do Mercado de Curto Prazo - Parte 1 - 1 · https://www.youtube.com/watch?v=tE78_mYww64 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-15 · workshop · Workshop Internacional - Limites de preços do Mercado de curto prazo · https://www.youtube.com/watch?v=wALyodWYNEs · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-14 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 14/05/2019 - Parte 2 · https://www.youtube.com/watch?v=YZAJkFb0Hu4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-14 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 14/05/2019 - Parte 1 · https://www.youtube.com/watch?v=qB-af_VETVg · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-07 · diretoria · 15ª Reunião Pública Ordinária ANEEL – 07/05/2019 · https://www.youtube.com/watch?v=c553Ss7-5t4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-30 · diretoria · 14ª Reunião Pública Ordinária ANEEL - 30/04/2019 · https://www.youtube.com/watch?v=ULiG_zzjAGg · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-29 · diretoria · 3ª Reunião Pública Extraordinária ANEEL - 29/04/2019 - Parte 2 · https://www.youtube.com/watch?v=y2pAYd9O42k · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-29 · diretoria · 3ª Reunião Pública Extraordinária ANEEL - 29/04/2019 - Parte 1 · https://www.youtube.com/watch?v=kReUmftjtv0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-23 · diretoria · 13ª Reunião Pública Ordinária ANEEL - 23/04/2019 - Parte 2 · https://www.youtube.com/watch?v=L2Qvm81K9wQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-23 · diretoria · 13ª Reunião Pública Ordinária ANEEL - 23/04/2019 - Parte 1 · https://www.youtube.com/watch?v=I93VviS0q0Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-17 · audiencia · Audiência Pública 011/2019 - Revisão Tarifária ENEL Distribuição São Paulo - 17/ · https://www.youtube.com/watch?v=oye92ZB3kmw · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-16 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 16/04/2019 · https://www.youtube.com/watch?v=9fB6bwD2GhE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-11 · audiencia · Audiência Pública ANEEL 001/2019 - Micro e Minigeração Distribuída - 11/04/2019 · https://www.youtube.com/watch?v=OTN81bDfKNk · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-10 · audiencia · Audiência Pública ANEEL 009/2019 - Cálculo do WACC Transmissão e Geração - 10/04 · https://www.youtube.com/watch?v=Gyy9UBfYLk0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-09 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 09/04/2019 - Parte 2 · https://www.youtube.com/watch?v=4HfTwFuZJYo · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-09 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 09/04/2019 - Parte 1 · https://www.youtube.com/watch?v=cDWHz0EBExY · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-02 · diretoria · 2ª Reunião Pública Extraordinária ANEEL – 02/04/2019 · https://www.youtube.com/watch?v=IkK3nwjWxI8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-02 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 02/04/2019 - Parte 2 · https://www.youtube.com/watch?v=bzGd8SFA4AQ · **ainda não baixado (rodar a coleta no Mac)**
