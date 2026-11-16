@@ -1,0 +1,132 @@
+{
+  "meta": {"video_id": "_r7LA4qkPWc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª RPO 2026", "data": "2026-03-10", "formato": "presencial com diretora Agnes da Costa remota (escritório regional em São Paulo)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Pauta com 28 itens; itens 6 a 28 em bloco; destacados do bloco 10, 13 e 16; retirados de pauta 4, 11 e 18; sustentação oral do item 26 indeferida pela presidência.",
+      "Bloco aprovado por unanimidade, exceto o item 28 (relator Willamy Frota), decidido por maioria; não fica claro na legenda quem divergiu no item 28.",
+      "Informes do DG: CP 2/2026 (Energias da Floresta, sandbox), fim da CP 42/2025 (eletromobilidade, relator Willamy Frota), evento sobre o Decreto 11.314/2022 (concessões de transmissão), missão técnica à Colômbia, Dia da Mulher, nova marca da ANEEL (30 anos). Prorrogada a CP 39/2025 (manual de controle patrimonial) até 3/4/2026.",
+      "Ata aprovada: retificado às 2:16 que se tratava da ata do 2º circuito deliberativo público ordinário de 3/3/2026.",
+      "Sessão suspensa às ~3:17 para almoço e retomada ~5:46.",
+      "Item 3 (armazenamento, voto-vista de Fernando Mosna): aprovada por maioria a insubsistência dos votos anteriores (Sandoval Feitosa discordou); em seguida o relator do voto-vista retirou o processo de pauta para consulta à Procuradoria."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:35:04", "processo": "itens 6 a 28 da pauta (exceto 10, 13, 16 destacados e 11, 18 retirados)", "interessado": "diversos",
+      "assunto": "Itens do bloco com votos previamente disponibilizados", "tema": ["bloco"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade, exceto item 28 (relator Willamy Frota) aprovado por maioria",
+      "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; no item 28 acompanham o relator Willamy Frota, com ao menos um voto divergente não identificado na legenda.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; no item 28 acompanha o relator", "ts": "0:37:26", "justificativa": "Proclama unanimidade no bloco, exceto item 28 por maioria.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco; acompanha o voto no item 28", "ts": "0:36:58", "justificativa": "Diz 'diretora Agnes acompanha o voto'; legenda confusa.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco", "ts": "0:36:14", "justificativa": "Aprova os itens remanescentes do bloco; posição no item 28 incerta.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "relator, aprova (item 28); aprova o bloco", "ts": "0:36:42", "justificativa": "Relator do item 28.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:37:10", "justificativa": "Aprova os itens do bloco; posição no item 28 incerta (alguém diz 'no 28 apresentei o voto divergente').", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:38:00", "processo": "48500.?/2025-70 (número incerto na legenda)", "interessado": "Ampla Energia e Serviços S.A. (Enel Distribuição Rio); Conselho de Consumidores da Enel Rio",
+      "assunto": "Reajuste tarifário anual 2026 da Enel Distribuição Rio, vigência a partir de 15/03/2026", "tema": ["tarifas e revisão tarifária", "distribuidoras", "créditos de PIS/Cofins"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade: efeito médio de 15,46% (19,94% AT; 14,23% BT); pleitos extraordinários negados",
+      "resumo_voto": "Homologa tarifas; mantém projeção de crédito de PIS/Cofins pela média dos últimos 3 meses (recomendação da SFF), contra pedido da Enel de média de 12 meses; nega pleitos extraordinários (remuneração de investimentos intraciclo, honorários da ação de PIS/Cofins, retificação de energia MMGD, créditos de compra de energia). Sustentações orais: Hugo Lamim (Enel Rio) e Robson Alves (Conselho de Consumidores).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "1:05:25", "justificativa": "Acompanha a STR: projeção com 3 meses de aproveitamento exclusivo de crédito de PIS/Cofins, observando valores mais recentes; pleitos extraordinários sem base no PRT ou intempestivos.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:15:19", "justificativa": "Proclama o resultado.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:15:16", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:15:16", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:15:16", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:15:19", "processo": "48500.?/2025-38 (número incerto na legenda)", "interessado": "Light Serviços de Eletricidade S.A.",
+      "assunto": "Reajuste tarifário anual 2026 da Light, vigência a partir de 15/03/2026", "tema": ["tarifas e revisão tarifária", "distribuidoras", "créditos de PIS/Cofins"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade: efeito médio de 8,59% (13,46% AT; 6,56% BT)",
+      "resumo_voto": "Homologa tarifas; relator pede registro em ata de que a ANEEL busque entendimento com a Receita Federal sobre homologação de créditos de PIS/Cofins, para evitar devolução ao consumidor seguida de cobrança futura com financeiro selicado. Sustentação oral: Felipe Tenório (Light). Discussão com a Procuradoria sobre a ADI 7324 (boa-fé do consumidor).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "1:43:37", "justificativa": "O principal impactado são os consumidores; a ANEEL deve ter participação ativa junto à Receita Federal para compatibilizar valores de créditos de PIS/Cofins.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:13:56", "justificativa": "Algumas incertezas do ano passado viraram certezas; compatibilizar com a Receita até o limite do risco de prescrição; fará contato sugerido com a Receita.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:15:24", "justificativa": "Considerando o que se tem disponível e a razoabilidade, o voto está bem construído (consultou a Procuradoria sobre a ADI 7324).", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:15:45", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:15:45", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:16:57", "processo": "48500.008569/2025-91", "interessado": "Consórcios Em Lívia Energia 1 e 2 (nome incerto); Neoenergia Pernambuco",
+      "assunto": "Pedido de reconsideração contra o Despacho 241/2026 que negou medida cautelar para que a Neoenergia Pernambuco apresente demonstrativos de saldo de MMGD", "tema": ["geração distribuída (MMGD)", "recursos administrativos", "medida cautelar"],
+      "relator": "Fernando Mosna", "resultado": "indeferido por maioria (relator vencido; prevaleceu a divergência de Willamy Frota, com acréscimo de Agnes da Costa sobre o 'caminho do entendimento')",
+      "resumo_voto": "Relator votava por deferir e determinar a apresentação dos demonstrativos em 5 dias úteis. Divergência: não há requisitos para cautelar; indícios de comercialização de excedentes vedada pela Lei 14.300; a reclamação deve seguir o rito da Ouvidoria. Sustentação oral: Sumaia (representante do consórcio; nome incerto).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (deferir) — vencido", "ts": "2:23:30", "justificativa": "Direito à informação básica do gerador distribuído; presume-se a boa-fé; o caminho do entendimento não é condição de procedibilidade para cautelar.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "diverge (indeferir) — voto vencedor", "ts": "2:42:58", "justificativa": "Relator da primeira decisão; não vê requisitos da cautelar; diligências são próprias da Ouvidoria; risco da demora reverso por indícios de comercialização de excedentes.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "diverge do relator (acompanha a divergência)", "ts": "2:28:01", "justificativa": "Não vê fumaça do bom direito; caminho do entendimento e capítulo 14 da REN 1000 não foram percorridos; risco de a diretoria julgar cautelares o tempo todo.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a divergência de Willamy Frota", "ts": "2:42:58", "justificativa": "Pede acréscimo do argumento sobre o caminho do entendimento como via regular.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência de Willamy Frota", "ts": "2:45:24", "justificativa": "Ruim trazer pedido de informação à diretoria; preocupação em contornar o arcabouço de reclamações da agência.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "2:46:49", "processo": "48500.015499/2025-51 (incerto)", "interessado": "Scala Data Centers S.A. (Scala 3)",
+      "assunto": "Recurso contra o Despacho 1865/2025 da STD que indeferiu postergação do início de execução do CUST 59/2024", "tema": ["transmissão", "data centers", "recursos administrativos"],
+      "relator": "Agnes da Costa", "resultado": "recurso conhecido e não provido, por unanimidade",
+      "resumo_voto": "Mantido o indeferimento: flexibilizar o prazo poderia gerar impactos tarifários e repasse de custos a terceiros; a transmissão é remunerada pela disponibilidade. Sustentação oral: Ana Carolina Cal (Scala).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento", "ts": "2:58:48", "justificativa": "Consequências práticas consideradas (LINDB); serviço de transmissão remunerado pela disponibilidade, independentemente da conexão efetiva.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "3:02:54", "justificativa": "Conexão de grandes cargas e escassez exigem atenção das empresas aos cronogramas; não cabe flexibilizar contratos sem o devido zelo.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "3:04:51", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "3:04:53", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "3:04:53", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "13", "ts": "3:04:54", "processo": "48500.?/2022-41 (incerto)", "interessado": "W7 Energia Ltda. (comercializadora)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1206/2025 que manteve o Termo de Intimação 53/2024 (SFF) e a revogação da autorização de comercialização (Despacho 3079/2019)", "tema": ["fiscalização e sanções", "comercialização", "recursos administrativos"],
+      "relator": "Willamy Frota", "resultado": "conhecido e negado provimento por unanimidade; mantida a revogação da outorga",
+      "resumo_voto": "Voto reflete decisões anteriores, manifestação da SFF e da CCEE; agente irregular desde 2023 (pendência de organograma técnico assinado). Sustentação oral: João Paulo Guzmão (W7).",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, nega provimento", "ts": "3:12:28", "justificativa": "Agente irregular desde 2023, conforme SFF e CCEE.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:15:29", "justificativa": "Estranha que a empresa não tenha enviado um organograma técnico assinado: 'difícil de entender, mas paciência'.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:16:07", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "3:16:08", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:16:08", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "16", "ts": "5:46:47", "processo": "48500.009056/2025, 48500.009115/2025-46 e 48500.009117/2025-35 (incertos)", "interessado": "Casa dos Ventos S.A.; BEP Data Center Salto 1 e 2 Ltda.",
+      "assunto": "Medida cautelar para manutenção da prioridade de reserva de capacidade de cargas (data centers) e preservação do horizonte técnico dos pareceres de acesso do ONS", "tema": ["transmissão", "acesso à rede", "data centers", "medida cautelar"],
+      "relator": "Agnes da Costa", "resultado": "cautelar concedida por maioria (relatora vencida; prevaleceu divergência de Fernando Mosna, até a análise de mérito dos requerimentos)",
+      "resumo_voto": "Relatora votava por indeferir (sem fumaça do bom direito: o agente mantém direito de pedir ampliação). Divergência: incerteza regulatória após o decreto sobre acesso (processo de relatoria de Fernando Mosna em consulta à Procuradoria) justifica cautelar para manter o lugar na fila. Sustentação oral: Pedro (Casa dos Ventos).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, indefere — vencida", "ts": "6:00:41", "justificativa": "Não enxerga fumaça do bom direito; o direito de pedir ampliação dentro da regra continua.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge (concede cautelar) — voto vencedor", "ts": "6:05:50", "justificativa": "Barafunda regulatória entre decreto e regulação da ANEEL; perigo da demora (perda do lugar na fila); reversibilidade; cautelar até definição do processo sob sua relatoria.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência", "ts": "6:19:56", "justificativa": "Após esclarecimento da STD (contratação garantida só até 2028), vê perigo da demora e fumaça do bom direito.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a divergência", "ts": "6:19:43", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a divergência", "ts": "6:19:49", "justificativa": "Sem manifestação adicional.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "6:21:50", "processo": "48500.004885/2022-63 (incerto)", "interessado": "setor (ABEEólica, Costa Verde Energia Renovável, ABSOLAR, Abragel)",
+      "assunto": "Resultado da Consulta Pública 39/2023: regulação do armazenamento de energia elétrica (voto-vista); preliminar de insubsistência dos votos anteriores após a Lei 15.269", "tema": ["regulação normativa", "armazenamento", "tarifas de uso (TUSD/TUST)"],
+      "relator": "Fernando Mosna", "resultado": "insubsistência dos votos anteriores aprovada por maioria (Sandoval Feitosa vencido); mérito não deliberado: processo retirado de pauta pelo relator para consulta à Procuradoria",
+      "resumo_voto": "Voto-vista de Fernando Mosna propõe insubsistência dos votos do relator original Daniel Dana (hoje secretário-geral) e de outro ex-diretor, por fato novo (Lei 15.269). Debate sobre desconto/encargos de rede para baterias e conceito de hidrelétrica reversível. Sustentações orais: Marcelo Cabral (ABEEólica) e Rafael Dávila (Costa Verde).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: insubsistência dos votos; retira de pauta", "ts": "8:51:49", "justificativa": "Lei 15.269 incluiu o armazenamento nas competências da ANEEL; consulta jurídica à Procuradoria e melhor conceituação de usina hidrelétrica reversível antes do mérito.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido na preliminar (contra a insubsistência)", "ts": "8:14:09", "justificativa": "A Lei 15.269 mudou aspectos de outorga, não de tarifa; propôs separar a insubsistência; defende ouvir a Procuradoria e diz que isentar baterias transfere custo a outros ('não tem almoço grátis').", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha Fernando Mosna pela insubsistência", "ts": "8:13:53", "justificativa": "Levantou dúvida sobre o conceito de armazenamento hidráulico (parágrafo 107 do voto).", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha Fernando Mosna pela insubsistência", "ts": "8:13:53", "justificativa": "Prefere parecer da Procuradoria no fechamento da consulta pública.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha Fernando Mosna pela insubsistência", "ts": "8:14:06", "justificativa": "Sem manifestação adicional identificada.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["item 4", "item 11", "item 18", "item 3 (retirado pelo relator do voto-vista após a preliminar, para consulta à Procuradoria)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, nomes de interessados (Em Lívia Energia, Sumaia, Scala) e valores podem estar errados.",
+    "Falantes inferidos e frequentemente trocados nas marcações; atribuição de votos de quem só acompanha é aproximada.",
+    "Item 28 do bloco: decidido por maioria, mas não foi possível identificar quem divergiu.",
+    "Item 5: a proclamação na legenda diz 'indeferir por maioria' mas repete parte do dispositivo do relator; registrado como indeferido com base na divergência vencedora.",
+    "Item 3: ordem dos três votos pela insubsistência não identificável; ex-diretores Daniel Dana (atual secretário-geral) e outro ('Ivouse', nome incerto) não estão na lista de diretores. 'Ludimila Lima' aparece citada como superintendente da SCE, não como diretora votante.",
+    "Trecho entre ~3:17 e ~5:46 é intervalo de almoço."
+  ]
+}

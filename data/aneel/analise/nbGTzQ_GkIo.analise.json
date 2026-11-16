@@ -1,0 +1,53 @@
+{
+ "meta": {"video_id": "nbGTzQ_GkIo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:15:26); ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "1ª Reunião Pública Ordinária de 2026",
+  "data": "2026-01-21",
+  "formato": "presencial (sede da ANEEL), transmitida no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Willamy Frota"],
+  "ausentes": ["Agnes da Costa (férias, ausência justificada)", "Gentil Nogueira (férias, ausência justificada)"],
+  "observacoes": [
+   "Quórum de três diretores.",
+   "Informes do Diretor-Geral: fim da última liminar do GSF (TRF1, 18/12/2025); valores 2026 de TEO, TEO Itaipu, serviços ancilares e limites do PLD; calendário das bandeiras 2026; nota técnica ONS/EPE/ANEEL de capacidade remanescente para os LRCAP; workshops da CP 46/2025 (tarifa branca, relatoria Fernando Mosna); CP 25/2025 (perdas não técnicas); AP 8/2025 em Itapetininga (CPFL Santa Cruz); instalação de representações regionais em São Paulo e Amazonas; saída/afastamento de 14 servidores em janeiro de 2026.",
+   "Pauta com 31 itens; itens 2 a 31 em bloco; itens 13 e 14 destacados (sustentação oral); itens 5 e 7 retirados de pauta.",
+   "Ata da 41ª reunião ordinária aprovada; ata da 2ª extraordinária ficou pendente por falta de quórum (Fernando Mosna ausente naquela reunião)."
+  ]
+ },
+ "itens": [
+  {"id": "bloco (itens 2 a 31, exceto 5, 7, 13 e 14)", "ts": "0:26:37", "processo": "", "interessado": "diversos", "assunto": "Itens de bloco da 1ª Reunião Pública Ordinária de 2026 (votos e atos disponibilizados previamente com a pauta)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado; no item 4 não houve unanimidade (Fernando Mosna mantém voto divergente; Sandoval Feitosa, em voto-vista, acompanhou Ludimila Lima e Ricardo Tili)", "resumo_voto": "Bloco aprovado. Willamy Frota não vota no item 4 (já votado pela diretora Ludimila) e mantém no item 8 o voto proferido na 36ª reunião ordinária. No item 4, Sandoval Feitosa registrou voto-vista em sentido diverso de Fernando Mosna quanto a uma questão de ilegalidade.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "aprova o bloco; não participa do item 4; no item 8 mantém voto da 36ª RPO", "ts": "0:26:49", "justificativa": "item 4 já votado pela diretora Ludimila; item 8 já votado anteriormente", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova os itens remanescentes, ratificando votos já proferidos; no item 4 mantém voto divergente", "ts": "0:27:40", "justificativa": "sustenta ponto de ilegalidade no item 4", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes; voto-vista no item 4 acompanhando Ludimila Lima e Ricardo Tili", "ts": "0:27:50", "justificativa": "no item 4 trouxe entendimento em sentido diverso do diretor Fernando sobre a ilegalidade", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:28:41", "processo": "48500.006342/2025-49 (legenda incerta)", "interessado": "Roraima Energia S.A. (distribuidora)", "assunto": "Reajuste tarifário anual 2026 da Roraima Energia, efeito médio de 24,13% (AT 28,93%, BT 22,90%); TUSD/TE, DIT exclusivas, repasse CDE de subsídios, ressarcimento CCC de R$ 54,15 milhões, valor de geração própria R$ 463,54/MWh, revogação de cota CDE-GD", "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa o RTA da Roraima Energia a vigorar a partir de 25/01/2026 e demais encaminhamentos; procuradoria sem manifestação.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:31:17", "justificativa": "homologação do reajuste conforme minuta", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:33:10", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:33:15", "confianca": "alta"}
+   ]},
+  {"id": "13", "ts": "0:33:50", "processo": "48500.002082/2024-08 (legenda incerta)", "interessado": "Caio Afonso Junqueira Filho e outros (consumidores); Energisa Mato Grosso", "assunto": "Recurso contra o Despacho SMA 2360/2024 sobre revisão do cálculo de restituição de valores por antecipação de atendimento (rede particular, projeto 177) na área da Energisa MT", "tema": ["recursos administrativos", "consumidor", "distribuição"], "relator": "Fernando Mosna", "resultado": "recurso conhecido e não provido, por unanimidade; Energisa MT deve concluir o ressarcimento da rede particular em até 180 dias", "resumo_voto": "Sustentação oral por vídeo (Dra. Jaqueline, representante dos recorrentes) alegando premissa fática equivocada; procuradoria reitera o Parecer 251/2024 (rede energizada antes da Res. 223/2003, aplicável a Res. 229/2006). Relator nega provimento.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "0:40:30", "justificativa": "mantém o despacho da SMA e determina conclusão do ressarcimento em 180 dias", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:41:32", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:41:34", "confianca": "alta"}
+   ]},
+  {"id": "14", "ts": "0:42:08", "processo": "48500.003805/2024-86 (legenda incerta)", "interessado": "Light Energia S.A. (transmissora desverticalizada)", "assunto": "Pedido de reconsideração contra a REH 3470/2025 (revisão periódica da RAP dos contratos de transmissão 20/2008, 1/2010 e 32/2018), ativos das SEs Nilo Peçanha e Fontes Novas 138 kV", "tema": ["transmissão", "recursos administrativos", "tarifas e revisão tarifária"], "relator": "Fernando Mosna", "resultado": "parcial provimento, por unanimidade", "resumo_voto": "Sustentação oral de Emerson Caçador Rubim (Light). Indeferidos: bens de reserva técnica imobilizada no período incremental, ativos da Res. Autorizativa 6630/2017 (PMI revogado) e reabertura da base blindada de 2020 (pleito extemporâneo; precedente ISA não se aplica a transmissora desverticalizada). Acatados: reconhecimento parcial das LTs 138 kV Fontes Novas–Nilo Peçanha C1/C2 para regularização e indenização, ajustes de módulos no cadastro e alteração do usuário pagador do módulo para a Light SESA.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento", "ts": "0:53:36", "justificativa": "submódulo 9.1 do PRORET não permite reabrir a base blindada por omissão da concessionária; segue áreas técnicas", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:03:54", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:03:56", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": [
+  {"item": "5", "relator": "não identificado", "motivo": "retirado de pauta (motivo não informado)", "ts": "0:25:46"},
+  {"item": "7", "relator": "não identificado", "motivo": "retirado de pauta (motivo não informado)", "ts": "0:25:46"}
+ ],
+ "limites_da_analise": [
+  "Itens do bloco não foram lidos em sessão; conteúdo e relatores do bloco não identificados.",
+  "Item 4 do bloco: divergência de Fernando Mosna e voto-vista de Sandoval Feitosa acompanhando Ludimila Lima e Ricardo Tili (votos destes proferidos em reunião anterior); assunto do item não dito.",
+  "Falantes dos votos do bloco e do voto de Willamy no item 1 inferidos; números de processo da legenda automática incertos.",
+  "Nome da representante na sustentação do item 13 (Jaqueline Botcher Procópio?) incerto."
+ ]
+}

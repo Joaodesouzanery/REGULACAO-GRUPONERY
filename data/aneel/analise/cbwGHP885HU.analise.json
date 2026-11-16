@@ -1,0 +1,41 @@
+{
+  "meta": {"video_id": "cbwGHP885HU", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts = tempo do vídeo (sessão começa ~0:14); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "33ª Reunião Pública Ordinária de 2025", "data": "2025-09-12", "formato": "presencial",
+    "presidente_da_sessao": "Agnes da Costa (presidindo a sessão)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Gentil Nogueira"],
+    "ausentes": ["Willamy Frota (ausente por compromisso pessoal; deixou votos com a Secretaria-Geral)", "Sandoval Feitosa"],
+    "observacoes": ["Primeira reunião do diretor Gentil Nogueira; posse festiva dele e de Willamy Frota prevista para a semana seguinte.", "Quórum de três diretores presentes mais votos escritos de Willamy Frota; ata não deliberada por falta de quórum.", "Pauta com 29 itens: itens 2 a 29 em bloco (sem destaques), item 4 retirado de pauta, sem sustentação oral; item 1 deliberado em separado.", "Agnes da Costa retificou seu voto no item 28 (prorrogação de vista na governança da CCEE: de 60 para 45 dias).", "Informes: retomada do teleatendimento 167 após descontingenciamento; CP 27/2025 (confiabilidade da transmissão); reunião sobre curtailment (CP 45/2019); Olimpíada Nacional de Eficiência Energética com premiação adicional da CPFL (informe de Fernando Mosna)."]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 2 a 29)", "ts": "0:36:36", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 2 a 29 deliberados em bloco (votos e atos disponibilizados previamente); item 4 retirado de pauta; no item 28 Agnes da Costa alterou seu voto sobre prorrogação de vista da governança da CCEE de 60 para 45 dias",
+      "tema": ["bloco de itens", "comercialização (CCEE)"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado por unanimidade; Willamy Frota votou por escrito e registrou suspeição no item 6.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "aprova os itens do bloco", "ts": "0:39:45", "justificativa": "primeira reunião; vota pela aprovação do bloco", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "aprova os itens do bloco (voto escrito), suspeição no item 6", "ts": "0:39:52", "justificativa": "voto deixado com a Secretaria-Geral; suspeição registrada no item 6", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco", "ts": "0:39:59", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens do bloco", "ts": "0:40:03", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:40:10",
+      "processo": "48500.018871/2025-31", "interessado": "Gold Comercializadora de Energia Ltda. (Gold Energia); cooperativas CEDRAP e COPERNORTE; distribuidoras compradoras de CCEAR",
+      "assunto": "Termo de Intimação 22/2025 da SFF: revogação da outorga de autorização da comercializadora Gold Energia por inadimplência sistemática (REN 846/2019, art. 18), processo punitivo específico pela rescisão unilateral de CBR sem anuência prévia da ANEEL e autorização de encaminhamento à Procuradoria para ação civil pública com pedido de desconsideração da personalidade jurídica",
+      "tema": ["fiscalização e sanções (revogação de outorga)", "comercialização (CCEE, PLD, garantias)", "abertura de mercado", "institucional (ação civil pública, Procuradoria)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Revoga a outorga da Gold Energia (descumprimento de CBR desde mar/2025 e CCEAR desde mai/2025, não aporte de garantias, penalidades de lastro, não entrega de balanço auditado); determina à SFF processo punitivo pela rescisão de CBR sem anuência; autoriza encaminhamento à Procuradoria Federal (Portaria PGF 172/2016) para manifestação prévia e ajuizamento de ação civil pública com desconsideração da personalidade jurídica. Perda potencial estimada de cerca de R$ 28 milhões só em agosto/2025 às distribuidoras. Sem sustentação oral; Procuradoria sem parecer formal.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova revogação da outorga, processo punitivo e encaminhamento para ação civil pública", "ts": "0:53:20", "justificativa": "inadimplência sistemática prejudica consumidores cativos e a confiança no mercado diante da abertura para baixa tensão (MP 1300); a comercializadora agiu «quase como uma casa de bet»; só revogar a outorga não basta, é preciso resposta firme", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "1:34:23", "justificativa": "elogia densidade do voto; destaca monitoramento da comercialização e enforcement com vistas à abertura do mercado; pediu esclarecimento à Procuradoria sobre o rito da ACP", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:42:44", "justificativa": "agentes precisam ser críveis com a abertura do mercado; registrou dúvidas jurídicas sobre cabimento da ACP, resolvidas pelo entendimento de que a Procuradoria fará análise prévia", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator (voto escrito, presumido)", "ts": "1:42:44", "justificativa": "resultado proclamado por unanimidade; voto escrito não lido na sessão", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["item 4 (assunto não anunciado na sessão)"],
+  "limites_da_analise": ["Itens 2 a 29 do bloco não são lidos na sessão: assuntos e relatores individuais não identificados.", "Data: o cabeçalho indica 2025-09-12, mas os informes falam em «próxima sexta-feira, 12 de setembro»; a data real pode ser anterior (ex.: 2025-09-09). A Secretaria-Geral chamou a reunião de 32ª.", "Rótulos de falantes {..} da transcrição são inconsistentes; atribuições feitas pelo contexto (Agnes presidindo; Gentil em primeira reunião).", "Voto de Willamy Frota no item 1 não foi lido: inferido da proclamação por unanimidade.", "Números do processo e valores vêm da legenda automática (ex.: processo citado como 48500.018871/2025-31 e 48500871202531)."]
+}

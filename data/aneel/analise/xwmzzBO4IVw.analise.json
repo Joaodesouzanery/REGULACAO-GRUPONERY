@@ -1,0 +1,495 @@
+{
+ "meta": {
+  "video_id": "xwmzzBO4IVw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:11); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "40",
+  "data": "2025-12-02",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "40ª Reunião Pública Ordinária de 2025 (legenda diz '4ª'); quórum completo; 35 itens em pauta, 4 a 35 em bloco.",
+   "Aniversário da ANEEL; anúncio de CPs 35 e 36/2025 (2º e 3º LRCAP em março de 2026), CP 37 e 38/2025 e bandeira amarela em dezembro.",
+   "Item 13: questão de ordem do advogado da CEEE-G indeferida pelo DG; Mosna, Sandoval e Willamy criticaram o tom do memorial contra a SCE; DG cassou a palavra do advogado e fez desagravo público aos servidores no encerramento.",
+   "Debate no item 4 sobre evasão de servidores (Sandoval, Mosna, Willamy).",
+   "Item 2 (postes) encerra pedido de vista longo de Agnes; decisão por maioria contando o voto anterior do ex-diretor Ricardo Tili."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:41:39",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (itens 4 a 35, exceto os destacados 4, 12, 13, 15 e 28; item 17 permaneceu no bloco após desistência da sustentação oral)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade, exceto item 17 (pedido de vista) e item 14 (por maioria); nos itens 6, 33, 34 e 35 um diretor declarou suspeição",
+   "resumo_voto": "Votos e atos disponibilizados com a pauta; deliberação em bloco.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista do item 17; aprova os demais itens do bloco; menciona que não precisa votar o item 14",
+     "ts": "0:41:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova o bloco; no item 14 acompanha o relator (nega provimento); declara suspeição nos itens 6, 33, 34 e 35 (art. 9º, §2º, Norma de Organização ANEEL nº 1)",
+     "ts": "0:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "mantém voto no item 14 acompanhando o relator e acompanha o bloco",
+     "ts": "0:43:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco e proclama",
+     "ts": "0:43:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:42:06",
+   "processo": "",
+   "interessado": "distribuidora (legenda: «distribuição São Paulo»)",
+   "assunto": "Recurso administrativo contra o Despacho 2.496/2025 da STD sobre afastamento do pagamento de encargos de uso do sistema de transmissão (EUST) por ultrapassagem de montantes contratados em 31/08/2024 (item de bloco)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "tarifas e encargos"
+   ],
+   "relator": "não identificado",
+   "resultado": "recurso não provido, por maioria (proclamação confusa: 'vencido o voto... o relator venceu')",
+   "resumo_voto": "Negar provimento ao recurso; votos já proferidos em sessão anterior foram mantidos.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (nega provimento)",
+     "ts": "0:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "mantém voto acompanhando o relator",
+     "ts": "0:43:09",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:41:47",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 17 do bloco (sustentação oral desistida); assunto não lido na sessão",
+   "tema": [],
+   "relator": "não identificado",
+   "resultado": "pedido de vista",
+   "resumo_voto": "Um diretor pediu vista.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "0:41:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:44:32",
+   "processo": "48500.0?0641/20?? (legenda incerta)",
+   "interessado": "SFF (área técnica)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 04/12/2025 a 04/03/2026) para revisão do Manual de Controle Patrimonial do Setor Elétrico (MCPSE): AIR, minuta de REN e minuta do manual; inclui armazenamento de energia (Lei 15.269) com vida útil de 16 anos",
+   "tema": [
+    "regulação normativa (consulta pública, AIR)",
+    "armazenamento de energia",
+    "controle patrimonial"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar CP; apresentação técnica do servidor Wesley (SFF); vigência: armazenamento na publicação, demais pontos a partir de 2027.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "0:56:28",
+     "confianca": "alta",
+     "justificativa": "simplificar e atualizar o manual, incorporar armazenamento e agilizar revisões"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:57:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "0:57:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:57:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:57:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:58:32",
+   "processo": "48500.03180/2025-50 (legenda incerta)",
+   "interessado": "GDG; sustentação oral: Gustavo Moraes Franco Pereira (Grupo Energisa)",
+   "assunto": "Aprovação da Agenda Regulatória da ANEEL 2026-2027 (59 atividades) e publicação do RAC da Audiência Pública 7/2025",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "tarifas e revisão tarifária",
+    "geração distribuída (MMGD)",
+    "comercialização"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Agenda com 32 atividades para 2026 e 27 para 2027; Energisa pediu antecipar BRR/banco de preços e revisão do WACC; não incorporado (banco de preços em 2026, WACC deixado para novo ciclo). Debate paralelo sobre evasão de servidores.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:29:30",
+     "confianca": "alta",
+     "justificativa": "agenda é comando legal; transparência e previsibilidade; apelo por mais contribuições (só 32 na AP); evasão de servidores por remuneração",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:51:28",
+     "confianca": "media",
+     "justificativa": "pediu e elogiou antecipação de temas de GD para 2026; sugeriu analisar constrained-off de todas as fontes junto com a revisão da REN 1030"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:51:29",
+     "confianca": "media",
+     "justificativa": "explicou que BRR/banco de preços está na agenda e STR tem equipe reduzida (cinco especialistas)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:51:29",
+     "confianca": "baixa",
+     "justificativa": "fez reflexão sobre incentivos internos para retenção de servidores"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:51:29",
+     "confianca": "baixa",
+     "justificativa": "defendeu reunião administrativa do colegiado para tratar evasão de servidores"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:51:31",
+   "processo": "48100.0?1996/20?? (legenda incerta)",
+   "interessado": "Bahia PCH I S.A. — PCH Sítio Grande; sustentação oral: José Batista Soares Neto",
+   "assunto": "Recurso contra Despacho 865/2023 (SCG) que homologou parâmetros para revisão extraordinária da garantia física da PCH Sítio Grande (nova série de vazões 1991-2021, vazão remanescente 2 m3/s)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos",
+    "garantia física / MRE"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "parcial provimento, por unanimidade",
+   "resumo_voto": "Mantida a série de vazões (mudança estrutural por uso agrícola, não risco hidrológico do MRE); acolhida atualização dos índices de indisponibilidade (TEIF/IP); negada atualização do rendimento turbina-gerador (laudos insuficientes).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e dá parcial provimento",
+     "ts": "2:04:25",
+     "confianca": "alta",
+     "justificativa": "redução de vazões é fato relevante estrutural; período 1991-2021 é o único estacionário com 30 anos; consultou o MME antes de admitir novos documentos"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:10:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "2:10:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:10:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "2:10:16",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:10:16",
+   "processo": "48500.03165/2024 (legenda incerta)",
+   "interessado": "CEEE-G (Companhia Estadual de Geração de Energia Elétrica); SB Engenharia; sustentação oral: Davi Antônio Monteiro (advogado chamado de Dr. Waltemberg)",
+   "assunto": "Recurso contra Despacho 866/2025 (SCE) que conferiu à SB Engenharia o registro para estudos de inventário hidrelétrico do rio Guarita (RS), trecho até o remanso da PCH (nome incerto: Ouvais/Delvais)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "recurso não provido, por unanimidade; questão de ordem (retirada de pauta) indeferida pelo DG",
+   "resumo_voto": "Prioridade é de quem apresenta documentação completa primeiro; CEEE-G não apresentou a certificação B3 da apólice. Memorial não precisa ser enfrentado no voto se não traz fato novo.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "2:29:37",
+     "confianca": "alta",
+     "justificativa": "norma garante o direito ao primeiro com documentação completa; análise simultânea é rito usual da área; manteve o processo em pauta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:43:40",
+     "confianca": "alta",
+     "justificativa": "memorial não tem previsão legal como peça de contraditório, só fato novo deve ser enfrentado; criticou afirmações do memorial contra servidores da SCE",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "2:43:40",
+     "confianca": "alta",
+     "justificativa": "indeferiu questão de ordem; endossou Mosna sobre rito processual; cassou a palavra do advogado",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "2:43:40",
+     "confianca": "media",
+     "justificativa": "solidarizou-se com a SCE e a relatora pela 'deselegância' do memorial"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:43:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:43:40",
+   "processo": "48500.014737/2025-61 (legenda incerta)",
+   "interessado": "Ventos de São Canuto 4, Ventos de São Guilherme e Ventos de São Jeremias Energias Renováveis S.A. (Casa dos Ventos, complexo Umari/RN; EOLs Ventos de Santa Luzia 11, 12 e 13); sustentação oral: Pedro Marcelo de Triches",
+   "assunto": "Recurso contra Despacho 1.358/2025 (SFT) que aplicou multa editalícia por descumprimento do cronograma de implantação (Leilão 6/2021)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "leilões"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "parcial provimento, por unanimidade",
+   "resumo_voto": "Aplicado atenuante de 50% (descontratação integral via MCSD, conforme 19ª RPO de 03/06/2025) sobre a multa mínima editalícia de 2,5%: R$ 264.987,50 por agente, total R$ 794.962,50; divergiu da área técnica. Procurador-geral validou redução abaixo do mínimo do edital (art. 413 do Código Civil, multa compensatória).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, conhece e dá parcial provimento",
+     "ts": "3:00:13",
+     "confianca": "alta",
+     "justificativa": "edital fixa pena-base; atenuante determinado pelo colegiado deve ser aplicado; razoabilidade e proporcionalidade; sem prejuízo ao sistema"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:07:55",
+     "confianca": "media",
+     "justificativa": "agradeceu esclarecimento do procurador sobre a cláusula editalícia"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:07:56",
+     "confianca": "alta",
+     "justificativa": "convergência com jurisprudência do colegiado e previsibilidade"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "3:07:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "3:07:56",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "3:09:11",
+   "processo": "48500.03184/2025-38 (legenda incerta)",
+   "interessado": "ABEEólica (Associação Brasileira de Energia Eólica e Novas Tecnologias); sustentação oral desistida",
+   "assunto": "Requerimento de isenção da remuneração pela custódia de garantias de fiel cumprimento (GFC) de empreendimentos que aderiram à MP 1.212/2024",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "leilões",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "requerimento não provido, por unanimidade",
+   "resumo_voto": "Conhecer e negar provimento.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "3:10:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "3:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "3:11:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:11:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:11:04",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:11:04",
+   "processo": "48500.02691/2024-57",
+   "interessado": "distribuidoras e prestadoras de telecom (Anatel, ABRADEE, Conexis, TelComp, Copel); sustentações orais: Luís Henrique Barbosa da Silva (TelComp) e Bruno Cavalcante (Conexis Brasil Digital)",
+   "assunto": "Resultado da CP 73/2021 e nova Resolução Conjunta ANEEL-Anatel de compartilhamento de postes (revoga RC 4/2014) e segunda fase da CP 73 sobre metodologia de preço dos pontos de fixação",
+   "tema": [
+    "regulação normativa (resolução conjunta, consulta pública)",
+    "distribuição",
+    "compartilhamento de infraestrutura (postes/telecom)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado o voto-vista de Agnes da Costa, por maioria (vencido o voto do relator original Ricardo Tili, proferido na 17ª RPO de 20/05/2025)",
+   "resumo_voto": "Cessão da exploração comercial dos postes é facultativa para a distribuidora; ANEEL/Anatel podem impô-la por mau desempenho, descumprimento ou atratividade econômica/interesse público; cessionária pode ser do grupo da distribuidora, não de grupo de telecom; PRP de 2% a 3% dos postes/ano; preço de referência R$ 5,84 até preço regulado; chamamento público regulado só após aprovação conjunta; segunda fase da CP 73 (60 dias) condicionada à assinatura da RC; envio à Anatel para ratificação; ARR em até 5 anos. Base: Parecer PF-ANEEL 210/2025 (divergente da PF-Anatel).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator (voto proferido em 20/05/2025): cessão compulsória da exploração comercial a pessoa jurídica distinta; vencido",
+     "ts": "3:11:04",
+     "confianca": "media",
+     "justificativa": "art. 16 do Decreto 12.068/2024 imporia a cessão (resumo feito por Agnes)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: aprova resolução conjunta com cessão facultativa e cessão compulsória motivada",
+     "ts": "3:44:57",
+     "confianca": "alta",
+     "justificativa": "cessão irrestrita cria intermediário sem ganho de escala e eleva custos; PF-ANEEL exige motivação; incorpora voto-vista de Mosna (2024) e proposta de Tili sobre empresa do mesmo grupo"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto-vista",
+     "ts": "5:03:38",
+     "confianca": "media",
+     "justificativa": "como ex-gestor de distribuidoras viveu o problema; passo importante, tema não se esgota",
+     "tom": "elogioso"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "5:03:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o voto-vista",
+     "ts": "5:03:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "5:03:46",
+     "confianca": "alta",
+     "justificativa": "decreto não disciplinou a exploração comercial; pediu ajuste no item D (chamamento só após aprovação conjunta), acolhido pela relatora"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1",
+   "motivo": "retirado de pauta (assunto não lido)",
+   "ts": "0:41:00"
+  },
+  {
+   "item": "16",
+   "motivo": "retirado de pauta (assunto não lido)",
+   "ts": "0:41:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de empresas e de usinas distorcidos (ex.: PCH 'Ouvais/Delvais', 'distribuição São Paulo').",
+  "Bloco: não foi possível identificar quem pediu vista do item 17, quem declarou suspeição nos itens 6, 33, 34 e 35 nem o relator do item 14; os itens do bloco não foram lidos individualmente.",
+  "Item 14: proclamação contraditória ('vencido o voto... o relator venceu'), resultado 'por maioria' sem identificar o divergente.",
+  "Votos de seguidores (acompanha) com atribuição de diretor inferida pela ordem; ts aproximados.",
+  "Item 2: Ricardo Tili e Hélvio Guerra são ex-diretores, citados; Tili não presente, seu voto de 20/05/2025 contado como vencido.",
+  "Sustentação do item 13: advogado anunciado como Davi Antônio Monteiro e chamado de Dr. Waltemberg."
+ ]
+}

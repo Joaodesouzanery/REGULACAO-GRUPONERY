@@ -1,0 +1,285 @@
+{
+ "meta": {
+  "video_id": "LFBZA44OAMw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "6ª RPO 2026",
+  "data": "2026-03-24",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta de 23 itens; itens 4 a 23 em bloco; retirados os itens 2 e 11; sustentação oral nos itens 1 (indeferida, processo em vista) e 8.",
+   "Ata da 5ª RPO reaprovada após retificação de Fernando Mosna no item 16 (cautelares de Casa dos Ventos e BEP Data Center Salto 1 e 2; decisão por maioria de 4 a 1); aprovada também a ata do 3º circuito deliberativo.",
+   "Informes do DG: Infotarifas (efeito médio de 8% em 2026), LRCAP 2026 (18,97 GW), Plano Clima.",
+   "Itens 8 e 13, ambos de Agnes da Costa, foram retirados de pauta durante a sessão.",
+   "Procurador-geral: Eduardo Ramalho; secretário-geral: Daniel Danna."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 4 a 23, exceto 8, 11, 12 e 13)",
+   "ts": "0:17:12",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 4 a 23 (votos disponibilizados com a pauta), menos o 8 (destacado), o 11 (retirado), o 12 (votação própria) e o 13 (destacado na sessão)",
+   "tema": [
+    "itens de bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; proclamação por unanimidade, salvo o item 12.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:17:21",
+     "justificativa": "Aprova os itens remanescentes do bloco (ordem das falas não permite atribuir o minuto exato a cada diretor).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:17:21",
+     "justificativa": "Aprova os itens remanescentes do bloco (ordem das falas não permite atribuir o minuto exato a cada diretor).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:17:21",
+     "justificativa": "Aprova os itens remanescentes do bloco (ordem das falas não permite atribuir o minuto exato a cada diretor).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:17:21",
+     "justificativa": "Aprova os itens remanescentes do bloco (ordem das falas não permite atribuir o minuto exato a cada diretor).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:17:21",
+     "justificativa": "Aprova os itens remanescentes do bloco (ordem das falas não permite atribuir o minuto exato a cada diretor).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:17:40",
+   "processo": "48500.05298/2022-53 (número incerto na legenda)",
+   "interessado": "MAGE Comercializadora de Energia Ltda. (comercializadora)",
+   "assunto": "Pedido de reconsideração da MAGE Comercializadora contra o Despacho 2840/2025 (item de bloco)",
+   "tema": [
+    "comercialização (CCEE, contratos)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por maioria (voto do bloco); um diretor divergiu",
+   "resumo_voto": "Voto do bloco aprovado por maioria; um diretor votou por conhecer e negar provimento ao pedido de reconsideração, conforme seu entendimento exarado no processo.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "diverge: conhecer e no mérito negar provimento ao pedido de reconsideração",
+     "ts": "0:17:40",
+     "justificativa": "Vota por conhecer e negar provimento ao pedido de reconsideração da MAGE contra o Despacho 2840/2025, em consonância com seu entendimento no processo; falante não identificado na legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:18:31",
+   "processo": "48500.019672/2024-80 (número incerto)",
+   "interessado": "Eneva S.A. (geradora; UTE Fortaleza, ex-PPT); ONS",
+   "assunto": "Recurso administrativo da Eneva contra o Despacho 784/2025 da STD, sobre isenção de encargos rescisórios do CUST 3/2002 após antecipação do fim da outorga da UTE Fortaleza",
+   "tema": [
+    "transmissão (CUST, encargos rescisórios)",
+    "recursos administrativos",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pela relatora após sustentação oral e manifestação da Procuradoria",
+   "resumo_voto": "Sustentação oral de Luís Eduardo Diniz Araújo (Eneva, ex-procurador-geral da ANEEL): término da outorga extingue o CUST de pleno direito, sem rescisão; pede isonomia com UTEs Apoena e Guarani. Procurador-geral Eduardo Ramalho: parecer 56/2025 aplicável, mas dúvida sobre a cláusula penal não existir quando o CUST foi firmado. Relatora retira de pauta para pedir parecer e reavaliar os seis meses de redução.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, retira de pauta",
+     "ts": "0:36:39",
+     "justificativa": "Retira para pedir parecer da Procuradoria sobre a aplicação da cláusula penal inexistente à época do contrato; diz que tende até a não conceder os seis meses de redução e que falta norma sobre dosimetria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "comenta (sem voto)",
+     "ts": "0:38:26",
+     "justificativa": "Afirma que há regra, feita em ambiente diferente; hoje conexões liberadas no Nordeste são logo ocupadas, minimizando o risco de deixar custo aos demais usuários; reflexão faz sentido.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:41:21",
+   "processo": "48500.059282/2028-31 (número incerto na legenda)",
+   "interessado": "CEEE-G (Companhia Estadual de Geração de Energia Elétrica; UHE Jacuí, RS)",
+   "assunto": "Recurso administrativo da CEEE-G contra o Despacho SFT 2998/2025, que suspendeu a operação comercial das UG1 a UG6 da UHE Jacuí após a cheia de maio de 2024",
+   "tema": [
+    "fiscalização e sanções (suspensão de operação comercial)",
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos",
+    "eventos climáticos extremos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado o voto-vista de Gentil Nogueira (provimento ao recurso), com determinação acrescida a pedido de Willamy Frota; aparentemente sem divergência",
+   "resumo_voto": "Voto-vista: dar provimento, revogar o Despacho 2998/2025 e restabelecer a operação comercial; marco da franquia de modernização (REN 1033) em 12/06/2025, sem suspensão retroativa; se as UGs não voltarem até 12/06/2026, suspender a operação comercial; SFT acompanha o cronograma. Acrescida determinação à fiscalização para, em até 60 dias, aprimorar o monitoramento dos empreendimentos de geração. Pedido de sustentação oral foi indeferido pela presidência.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista: dar provimento ao recurso",
+     "ts": "0:42:31",
+     "justificativa": "A REN 1033 é faculdade do agente; iniciar o espurgo em set/2024 sem formalização esvazia a franquia; ofícios da CEEE-G não foram analisados; excepcionalidade da cheia no RS; não cabe retroação; janela 12/06/2025 a 11/06/2026.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, acompanha o voto-vista com determinação adicional",
+     "ts": "1:10:04",
+     "justificativa": "A divergência era só se a empresa iniciou de imediato a modernização; o melhor seria ter suspendido a operação em 2024, mas não foi feito; não cabe retroação; pede inclusão de determinação para revisar em 60 dias o monitoramento da fiscalização.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:13:43",
+     "justificativa": "Concorda: teria sido melhor enquadrar como suspensão na época, mas houve boa-fé; o marco que vale é a comunicação ao ONS; aprendizado institucional e mais rigor na suspensão.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (presumido)",
+     "ts": "1:15:48",
+     "justificativa": "Sem manifestação individual identificada; resultado proclamado com voto único.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha (presumido)",
+     "ts": "1:15:48",
+     "justificativa": "Sem manifestação individual identificada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:16:01",
+   "processo": "48500.008652/2025-36 (número incerto)",
+   "interessado": "Enel Distribuição Ceará (distribuidora)",
+   "assunto": "Requerimento da Enel Ceará de antecipação dos efeitos da prorrogação do contrato de concessão de distribuição 1/1998 (Decreto 12.068/2024)",
+   "tema": [
+    "prorrogação de concessão de distribuição",
+    "qualidade (DEC/FEC)",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria o voto-vista de Gentil Nogueira: recomendar ao MME a prorrogação com antecipação dos efeitos; relator vencido",
+   "resumo_voto": "Voto-vista: com horizonte 2021-2025 a Enel Ceará violou DEC global só em 2 anos consecutivos (2021-2022) e cumpre o critério econômico-financeiro; plano de resultados aprovado pelo MME; recomenda ao MME avaliar cláusula resolutiva no termo aditivo e envia minuta do 5º termo aditivo. SFT não viu afetação pelos indícios de espurgos apontados pelo TCU no caso Enel Rio.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista: recomendar a prorrogação com antecipação dos efeitos",
+     "ts": "1:21:07",
+     "justificativa": "Período de apuração passa a ser 2021-2025; descumprimento do DEC por apenas 2 anos consecutivos; gestão econômico-financeira atendida; cabe ao MME juízo final e avaliação da cláusula resolutiva.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vencido (voto de 09/12/2025 por não recomendar a prorrogação)",
+     "ts": "1:16:01",
+     "justificativa": "Na 41ª RPO de 2025 votou por não recomendar, por descumprimento do critério de continuidade no horizonte 2020-2024; não houve nova manifestação registrada nesta sessão.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:43:16",
+     "justificativa": "Acompanho o voto do diretor relator do vistas.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:43:21",
+     "justificativa": "Também acompanha o relator do vistas.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:43:21",
+   "processo": "48500.005392/2025-71 e 48500.000262/2025-33 (números incertos)",
+   "interessado": "Termo Pernambuco S.A. (UTE Termopernambuco; Neoenergia); ONS",
+   "assunto": "Pedido de impugnação da Termo Pernambuco contra decisão do ONS que atribuiu disponibilidade nula em 31/05/2025 (penalidade de R$ 760.435,18 no CRCAP 14/2021) e reclassificou retroativamente o estado operativo",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "fiscalização e sanções",
+    "comercialização"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pela relatora após debate, para parecer da Procuradoria e diligência à SGM",
+   "resumo_voto": "Voto lido: negar a impugnação quanto a 31/05/2025 (mantém a penalidade), acatar parcialmente para reverter o estado operativo a partir de 01/06/2025 (DCO/NOR) e determinar ao ONS avaliar tempestividade e documentar ciência. Fernando Mosna sustentou preclusão do item 2 (deveria ter havido nova impugnação ao ONS, conforme art. 18-A da REN 1.117/2024) e crítica à instrução do ONS.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, retira de pauta",
+     "ts": "2:23:41",
+     "justificativa": "Leu voto pelo indeferimento quanto a 31/05 e reversão do estado operativo desde 01/06; diante da preclusão levantada, retira para pedir parecer e verificar se houve impugnação no ONS.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge parcialmente (concorda com item 1, discorda do item 2 por preclusão)",
+     "ts": "2:04:18",
+     "justificativa": "A ANEEL aprecia só pedido de impugnação; a carta de 21/08/2025 trouxe tema não impugnado ao ONS, ocorrendo preclusão temporal; critica a bagunça processual do ONS ao remeter os autos.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2",
+   "processo": "48500.903312/2024-72 (número incerto)",
+   "assunto": "Termo de Intimação 49/2024 da SFD: relatório de falhas e transgressões da Enel São Paulo (voto-vista de Gentil Nogueira)",
+   "motivo": "Retirado por Gentil Nogueira em cumprimento a liminar em mandado de segurança que proíbe a deliberação e suspende o voto do DG proferido na 4ª RPO de 24/02/2026",
+   "ts": "0:10:40"
+  },
+  {
+   "id": "11",
+   "assunto": "não informado na sessão",
+   "motivo": "retirado antes da sessão"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes (CEEE-G aparece como C3EG, Enel como NEL) incertos.",
+  "Bloco: não foi possível atribuir com segurança cada fala de voto a um diretor; o divergente no item 12 e quem pediu destaque do item 13 não foram identificados.",
+  "Item 3: proclamado por maioria; os dois diretores que acompanham não foram identificados (entre Agnes, Willamy e Sandoval); o voto vencido de Mosna é inferido da sessão de 09/12/2025.",
+  "Item 1: em 1:10:04 o relator se dirige à 'presidente Agnes', possível ausência momentânea do DG; votos de Mosna e Sandoval presumidos.",
+  "Ricardo Tili (ex-diretor) aparece apenas citado como relator anterior da cautelar do item 8.",
+  "Sustentante do item 8: Luís Eduardo Diniz Araújo (Eneva), nome fora da lista de diretores."
+ ]
+}

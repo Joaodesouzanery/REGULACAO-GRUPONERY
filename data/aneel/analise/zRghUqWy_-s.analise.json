@@ -1,0 +1,227 @@
+{
+ "meta": {
+  "video_id": "zRghUqWy_-s",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} do .md pouco confiáveis, identificação pelo conteúdo); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34ª RPO 2025",
+  "data": "2025-09-16",
+  "formato": "presencial (com transmissão)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Gentil Nogueira",
+   "Willamy Frota"
+  ],
+  "ausentes": [
+   "Agnes da Costa (missão internacional; enviou registro de votos do bloco)"
+  ],
+  "observacoes": [
+   "Primeira reunião de Willamy Frota; posse de Gentil Nogueira e Willamy Frota no MME pela manhã.",
+   "Pauta com 48 itens; itens 4 a 48 em bloco; retirados 1, 8 e 17.",
+   "Atas da 32ª e 33ª RPO adiadas por falta de quórum de quem participou.",
+   "Item 3: item A unânime; item B (remessa ao TCU sobre a Portaria MME 112/2025) por maioria, vencido Gentil Nogueira.",
+   "Gentil Nogueira e Willamy Frota não votaram os itens 9 e 13 do bloco (já deliberados antes da posse)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (4 a 48)",
+   "ts": "0:15:37",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 4 a 48 (votos disponibilizados previamente); sem destaque",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade, exceto o item 9 (maioria); Gentil e Willamy não votaram 9 e 13",
+   "resumo_voto": "aprovação em bloco",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco, exceto itens 9 e 13",
+     "ts": "0:15:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco, exceto itens 9 e 13",
+     "ts": "0:16:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:18:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco (registro enviado; ausente)",
+     "ts": "0:18:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o bloco",
+     "ts": "0:20:02",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:18:54",
+   "processo": "",
+   "interessado": "Ilha Comprida Energia, Divisa Energia e Segredo Energia (PCHs)",
+   "assunto": "Recurso contra deliberação da CCEE (reunião 1332) que cancelou relatórios de recontabilização das PCHs Divisa, Segredo e Ilha Comprida; rateio de perdas da rede básica desde 2012/2013",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "por maioria; decisão final com recontabilização por usina (Segredo a partir de agosto de 2013 segundo o DG; Ilha Comprida a partir de julho de 2013); processo antes empatado",
+   "resumo_voto": "conclusão de julgamento iniciado na 17ª RPO; votos anteriores de Ricardo Tili, Ludimila Lima e Agnes da Costa computados",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge: mantém voto original (negar provimento, mantendo cancelamento da recontabilização)",
+     "ts": "0:18:54",
+     "confianca": "media",
+     "justificativa": "mantém divergência inaugurada na 17ª RPO, acompanhada por Ludimila Lima"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto por usina: Divisa acompanha Agnes/Ludimila (manter cancelamento); Ilha Comprida e Segredo acompanha maioria para recontabilizar",
+     "ts": "2:22:00",
+     "confianca": "baixa",
+     "justificativa": "ratifica voto anterior; esclarecimento confuso no fim da sessão"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto anterior: recontabilizar (com Ricardo Tili); ratifica que acompanha o relator",
+     "ts": "2:20:53",
+     "confianca": "baixa",
+     "justificativa": "fala atribuída por inferência"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:20:39",
+   "processo": "48500.0?4537/2025 (número incerto)",
+   "interessado": "Energisa Acre Distribuidora de Energia S.A.",
+   "assunto": "Requerimento de reembolso pela CCC de créditos de ICMS não compensados sobre óleo diesel (jan/2010 a dez/2016)",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "sistemas isolados",
+    "distribuidoras"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Pedido intempestivo: prazo de 6 meses do art. 60 da REN 801/2017 para reprocessamento, contado dos pagamentos do Refis (2018/2019); pedido só em 23/12/2021. Sustentação oral de Rodrigo Santana (Energisa Acre): seria primeiro processamento, não reprocessamento. Procuradoria (Parecer 37/2024): isonomia e segurança jurídica.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, indefere",
+     "ts": "0:38:40",
+     "confianca": "alta",
+     "justificativa": "prazo procedimental de 6 meses (art. 60 REN 801) descumprido; isonomia com agentes que tiveram pedidos negados; precedentes judiciais sem identidade de objeto"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "0:53:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "0:53:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:53:08",
+     "confianca": "alta",
+     "justificativa": "cita precedente de indeferimento à Roraima Energia (PIS/Cofins fora do prazo)"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:53:08",
+   "processo": "48500.022712/2025-78 (número incerto)",
+   "interessado": "usinas do MRE e vencedoras do mecanismo concorrencial (ex.: Capivara); CCEE",
+   "assunto": "Extensão de prazos de outorga de usinas do MRE (REN 1035/2022) e das vencedoras do mecanismo concorrencial centralizado da MP 1300/2025 (passivo do GSF); remessa ao TCU sobre a Portaria MME 112/2025",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "risco hidrológico / GSF",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "item A aprovado por unanimidade; item B (remessa ao TCU) aprovado por maioria, vencido Gentil Nogueira",
+   "resumo_voto": "Relator homologa os prazos calculados pela CCEE, mas aponta potencial ilegalidade da Portaria MME 112 (parâmetros novos: 10,94%, preço 229,85, OPEX 95,81, em vez dos valores de 2015: 9,63%), prazos mais que o dobro, ônus ao consumidor; propõe remessa ao TCU.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova a extensão e a remessa ao TCU",
+     "ts": "1:04:59",
+     "confianca": "alta",
+     "justificativa": "MP 1300 manda usar os valores dos parâmetros aplicados pela ANEEL, não a mesma metodologia; portaria eleva prazos com ônus aos consumidores"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge parcialmente: acompanha item A, vencido no item B",
+     "ts": "1:37:09",
+     "confianca": "alta",
+     "justificativa": "não cabe à ANEEL controle de legalidade de atos do MME; TCU já analisa o tema (TC 016170/2025-3); ágio de cerca de R$ 500-560 milhões à CDE implica taxa efetiva menor que 9,63%"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator nos itens A e B",
+     "ts": "2:16:41",
+     "confianca": "alta",
+     "justificativa": "não vê prejuízo em consultar o TCU; resposta pode enriquecer a agência"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:18:35",
+     "confianca": "alta",
+     "justificativa": "ANEEL é independente; procuradoria não se subordina à Conjur do MME; não há supervisão ministerial; TCU deve avaliar"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1",
+   "relator": "não identificado",
+   "motivo": "não informado",
+   "ts": "0:13:35"
+  },
+  {
+   "item": "8",
+   "relator": "não identificado",
+   "motivo": "não informado",
+   "ts": "0:13:35"
+  },
+  {
+   "item": "17 — prorrogação da concessão da Energisa Sergipe",
+   "relator": "Fernando Mosna",
+   "motivo": "análise complementar após fala do ministro sobre critérios objetivos na prorrogação",
+   "ts": "0:10:17"
+  }
+ ],
+ "limites_da_analise": [
+  "Rótulos de falante do .md frequentemente errados; atribuição feita pelo conteúdo.",
+  "Item 9: relator, processo e votos originais (17ª RPO) não claros na legenda; resultado por usina incerto.",
+  "Números de processo e valores podem estar errados (legenda automática).",
+  "Ricardo Tili e Ludimila Lima citados apenas por votos anteriores do item 9; não presentes."
+ ]
+}

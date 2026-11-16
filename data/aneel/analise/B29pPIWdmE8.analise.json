@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "video_id": "B29pPIWdmE8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "37",
+  "data": "2025-10-21",
+  "formato": "presencial (Parte 1)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Gentil Nogueira"
+  ],
+  "ausentes": [
+   "Willamy Frota (missão de fiscalização no Amazonas)"
+  ],
+  "observacoes": [
+   "37ª Reunião Pública Ordinária, Parte 1; pauta com 27 itens; ordem: bloco, 1, 6, 2, 4, 5, 3, 8 (7 inserido após o 2). Itens 3, 4 e 5 ficaram para a Parte 2 após o almoço (14h40).",
+   "Aprovadas atas 32ª, 33ª e do 2º circuito deliberativo (esta reaprovada com retificação de Agnes: recálculo da tarifa social nos reajustes da EDP São Paulo, 16,78% para 16,35%, e Neoenergia Brasília, 11,93% para 11,65%).",
+   "Willamy Frota ausente, mas foi informado que deixou registrada aprovação dos itens do bloco.",
+   "Item 6: Enel Rio impetrou mandado de segurança (liminar indeferida) contra a inclusão em pauta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 10 a 27)",
+   "ts": "0:18:55",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 10 a 27 (votos e atos disponibilizados com a pauta; item 9 retirado de pauta; nenhum destaque). Inclui item 16 (revogação de autorização) e item 17 (penalidades editalícias do Leilão 1/2019 de suprimento a Boa Vista e localidades conectadas).",
+   "tema": [
+    "institucional/TCU",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado. Agnes registrou no item 17 que acompanha a relatora porque, com a revogação da autorização (item 16), fica caracterizado inadimplemento total do edital do Leilão 1/2019 (Boa Vista), aplicando-se as multas genéricas do item 16 do edital e não a previsão especial do item 11.9.6.3.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:20:27",
+     "justificativa": "Declara aprovado o bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (aprova o bloco), com registro no item 17",
+     "ts": "0:19:23",
+     "justificativa": "Item 17: inadimplemento total do objeto do edital do Leilão 1/2019 após revogação da autorização (item 16); aplicam-se as multas genéricas do item 16 do edital, não o item 11.9.6.3.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:19:07",
+     "justificativa": "Voto pela aprovação dos itens do bloco (falante inferido).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:19:13",
+     "justificativa": "Também vota pela aprovação (falante inferido).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:22:22",
+   "processo": "48500.003980/2025-54",
+   "interessado": "Equatorial Goiás Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual da Equatorial Goiás a vigorar a partir de 22/10/2025: efeito médio de 18,55% (17,04% alta tensão; 19,01% baixa tensão); reversão de créditos de PIS/Cofins conforme Lei 14.385 e ADI 7324 (prescrição de 10 anos contada da restituição/homologação da compensação, segundo a Procuradoria); diferimento de cerca de R$ 270 milhões aceito.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator Willamy Frota (ausente); voto lido por Gentil Nogueira após apresentação técnica da STR e manifestação da Procuradoria sobre prescrição dos créditos de PIS/Cofins. Homologa tarifas TE/TUSD, receita de DIT e repasse mensal da CCEE para subsídios.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator (lê o voto do relator Willamy Frota), aprova",
+     "ts": "0:32:50",
+     "justificativa": "Pela homologação das novas tarifas, efeito médio de 18,55%.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:34:07",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:34:08",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:34:08",
+     "justificativa": "Proclama aprovação unânime.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:35:20",
+   "processo": "48500.006150/2018-50 (número incerto na legenda)",
+   "interessado": "Ampla Energia e Serviços S.A. (Enel Distribuição Rio); mutuantes Enel Brasil, Enel Finance International NV, Enel CIEN, Enel Trading Brasil",
+   "assunto": "Recurso contra o Despacho SFF 1860/2024, que negou anuência prévia ao refinanciamento de mútuos com partes relacionadas (cerca de R$ 3,85 bilhões após aporte de capital). Preliminar: incidente de impedimento do relator Fernando Mosna suscitado pela Enel Rio (denúncia na CGU/ANEEL, notícia-crime na PF e ação de danos morais no TJDFT). Sustentação oral por vídeo de Hugo Lamim (Enel Rio), pedindo retirada de pauta e provimento.",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "preliminar: impedimento rejeitado por unanimidade (manifestamente incabível); mérito: recurso conhecido e não provido por unanimidade; determinada fiscalização da SFF e envio de ofício à CVM",
+   "resumo_voto": "Mosna rejeita sigilo do incidente (renuncia à restrição em seu favor) e o reputa incabível: litígio fabricado após o voto (art. 144 §2º CPC), denunciante não é parte, ação contra agente é ilegítima (Tema 940 STF) e arguição intempestiva (prazo de 15 dias do Ofício 11/2025). No mérito, interpretação sistêmica dos módulos 5 e 8 da REN 948: endividamento incompatível com geração de caixa. Aponta indícios de comunicados ao mercado (jun e ago/2025) atribuindo prazo até 07/07/2026 ao mútuo cautelar Enel Brasil 55 e citando mútuos 77 a 82 sem anuência; determina fiscalização da SFF e ofício à CVM. Procurador-geral concordou com a rejeição do impedimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator: rejeita o impedimento; nega provimento; determina fiscalização SFF e ofício à CVM",
+     "ts": "2:24:00",
+     "justificativa": "Impedimento autoproduzido e intempestivo; anuência deve considerar sustentabilidade (módulo 8 da REN 948); indícios de informação potencialmente enganosa ao mercado e mútuos sem anuência.",
+     "confianca": "alta",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (preliminar e mérito) e proclama",
+     "ts": "3:00:30",
+     "justificativa": "Rejeita impedimento: precedente perigoso de constranger relatores; defende envio à CVM com base no art. 27 da Lei 13.848 e determinação para a SFF incorporar à rotina a verificação de informações ao mercado.",
+     "confianca": "alta",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:25:38",
+     "justificativa": "Rejeita impedimento: tentativa de constranger relatores e diretores; voto como defesa da colegialidade. No mérito, acompanha.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator, com ressalvas sobre o envio à CVM",
+     "ts": "3:00:30",
+     "justificativa": "Rejeita impedimento (precedente perigoso). Concorda com a leitura conjunta dos módulos 5 e 8; questionou se os mútuos 77-82 seriam refinanciamentos e sugeriu que a apuração ficasse com a SFF via acordo ANEEL-CVM antes do envio, mas acompanhou.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:03:29",
+   "processo": "48500.007952/2025-58 (número incerto)",
+   "interessado": "distribuidoras; consumidores de baixa renda",
+   "assunto": "Abertura de consulta pública (22/10 a 05/11/2025) para regulamentar a Lei 15.235/2025 (conversão da MP 1300): tarifa social (gratuidade até 80 kWh), desconto social (isenção da CDE a partir de 01/01/2026 para renda de meio a um salário mínimo per capita) e desconto de irrigação e aquicultura.",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública de 15 dias pela urgência. Sem sustentação oral. Gentil destacou que a nota técnica saiu no mesmo dia da sanção; Sandoval pediu que as diretrizes do MME sobre horário de irrigação considerem diferenças regionais.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:15:31",
+     "justificativa": "Consulta pública por 15 dias dada a urgência para implantação do desconto social em 1º de janeiro.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:20:12",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "3:20:12",
+     "justificativa": "Acompanha; elogiou a eficiência (nota técnica no dia da sanção).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:20:15",
+     "justificativa": "Proclama aprovação unânime.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:20:15",
+   "processo": "48500.002887/2024-41 (número incerto)",
+   "interessado": "Portocem Geração de Energia S.A. (UTE Portocem I, 1.560 MW, LRCAP 2021; ponto de conexão mudado de Pecém II/CE para Vila do Conde/PA)",
+   "assunto": "Recurso contra o Despacho STD 3250/2024, que negou isenção dos EUST de descontratação do ponto de conexão do CUST 141/2023 (item 4.4.12 do módulo 5 das regras de transmissão; cerca de R$ 586 milhões). Sustentação oral de Bruno César Crispim (Portocem).",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "leilões (geração, transmissão, reserva de capacidade)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista (Gentil Nogueira); deliberação adiada",
+   "resumo_voto": "Relatora propõe parcial provimento: encargo devido, mas atenuado por fator de redução de 57,9% (margem retida 634 dias; sem investimentos na rede; margem de Pecém reocupada), e determina à STD considerar as atenuantes na revisão da norma (2027). Procurador citou o Parecer 386/2021 admitindo atenuação. Sandoval anunciou retirada do efeito suspensivo e defendeu sinal de respeito ao planejamento (‘a regra é dura, mas é a regra’).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora: parcial provimento, redutor de 57,9%",
+     "ts": "3:39:22",
+     "justificativa": "Não houve custos de conexão nem ociosidade; realocação eficiente; mas a reserva de margem por 634 dias gerou custo de oportunidade a terceiros.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "4:15:23",
+     "justificativa": "Vista para aprofundar entre a posição técnica (sem redução) e a sustentação (isenção total); questionou o percentual e o fato de o ONS não ter alertado antes da mudança de outorga.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "manifestou intenção semelhante de pedir vista (vista ficou com Gentil)",
+     "ts": "4:05:30",
+     "justificativa": "Teria tido a mesma ideia de pedir vista (atribuição de falante incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista concedida); comentários",
+     "ts": "4:05:38",
+     "justificativa": "Retirará o efeito suspensivo; precedente anterior não isentou encargos; planejamento deve ser respeitado; sugere aprimorar a regra.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "4:16:05",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 8 retirado de pauta a pedido do relator (havia pedido de sustentação oral).",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado sem deliberação.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  "9 (bloco)",
+  "8 (a pedido do relator)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes (Portocem grafado ‘Porto 100’, Enel ‘NO/Nel’) incertos.",
+  "Atribuição de falantes nos votos de seguidores é aproximada; no item 7 não está claro se o primeiro a anunciar vista foi Gentil ou Fernando Mosna (vista registrada para Gentil).",
+  "Itens 3, 4 e 5 não aparecem neste vídeo (Parte 2)."
+ ]
+}

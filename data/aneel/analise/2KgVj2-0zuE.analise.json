@@ -1,0 +1,406 @@
+{
+ "meta": {
+  "video_id": "2KgVj2-0zuE",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª RPO 2026 — Parte 2 (tarde)",
+  "data": "2026-04-07",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Continuação da 7ª RPO no período da tarde; ordem invertida (8, 10, 11, 12, 3, 9, 28, 21).",
+   "Três pedidos de vista (8 Willamy, 9 Gentil, 21 Agnes); item 28 retirado; item 10 por maioria com Sandoval vencido."
+  ]
+ },
+ "itens": [
+  {
+   "id": "8",
+   "ts": "0:00:16",
+   "processo": "48500.004885/2020-63 (número incerto na legenda)",
+   "interessado": "setor (armazenamento); sustentações orais: ABSAE (Fábio Monteiro Lima), Elera Renováveis (Pablo Mota Ribeiro), ABSOLAR (Isabela Ceni Santos Carneiro), Costa Verde Energia Renovável (Rafael Dávila, desistiu)",
+   "assunto": "Resultado da Consulta Pública 39/2023 — regulação do armazenamento de energia elétrica (SAE), voto-vista após Lei 15.269 e Parecer 76 da Procuradoria",
+   "tema": [
+    "regulação normativa",
+    "transmissão (TUST/MUST)",
+    "armazenamento de energia",
+    "consulta pública"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota); vistas coletivas; não concluído",
+   "resumo_voto": "Voto-vista de Mosna: declarar insubsistentes os votos anteriores (arts. 54-55 NO 1), aprovar duas resoluções (outorga do SAE e alterações correlatas), sem nova fase de CP; diverge na SN1 (redução de até 30% do MUST imediata e não onerosa, ARR em 3 anos), na SN3 (sem TUST/TUSD de consumo no carregamento, só tarifa de geração na injeção) e na definição de usina reversível de ciclo fechado; sem cobrança de TFSE do SAE autônomo; vigência 90 dias após publicação.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: aprova com ajustes (SN1, SN3, reversíveis, TFSE)",
+     "ts": "0:22:55",
+     "justificativa": "Lei 15.269 deu base própria ao armazenamento; causalidade de custos: carregamento não é consumo final; evitar dupla cobrança (cita Ofgem); prazo de 90 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:57:51",
+     "justificativa": "precisa aprofundar pontos do voto e conversar com a Procuradoria e assessorias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "sem voto (comentários; vista do Willamy)",
+     "ts": "1:01:19",
+     "justificativa": "questiona dispensar nova fase de CP se os votos são declarados insubsistentes diante de nova figura legal; pede que a análise tarifária apresentada pela Elera seja avaliada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o voto do diretor Fernando",
+     "ts": "1:06:42",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ],
+   "sustentacao_oral": true
+  },
+  {
+   "id": "10",
+   "ts": "1:07:15",
+   "processo": "48500.005054/9-75 (número incerto)",
+   "interessado": "Oliveira Energia SA (UTE Monte Cristo Sucuba)",
+   "assunto": "Recurso contra Despacho 2331/2022 (SFG) que aplicou multa por atraso na implantação da UTE Monte Cristo Sucuba",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "conhecido e negado provimento, por maioria (Sandoval vencido; Gentil impedido)",
+   "resumo_voto": "Relatora conhece e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:08:02",
+     "justificativa": "conhece e nega provimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:08:33",
+     "justificativa": "havia pedido destaque no circuito deliberativo; dúvida sanada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (vencido)",
+     "ts": "1:08:44",
+     "justificativa": "multa contratual vs. regulamentar: usina entrou em operação, pelo princípio da especialidade não se aplica o edital; propõe desconstituir o termo de intimação e instruir processo de multa regulamentar; diz ser recorrentemente vencido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "impedido",
+     "ts": "1:09:40",
+     "justificativa": "já proferiu decisão na instância inferior (inc. II art. 7º NO 1; ex-SFG)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:09:53",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:10:33",
+   "processo": "48500.037174/2025-80 (número incerto)",
+   "interessado": "Associação de Jovens Indígenas Nambiquara (AJINA); sustentação oral: Rodrigo Quintana Fernandes e Severino Manduca",
+   "assunto": "Recurso contra Despachos 1419/2025, 3752/2024 e 805/2022 (SCE) de reenquadramento dos aproveitamentos AHE Juína 029B, Juína 008 e PPG 147 (rio Juína, TI Nambiquara)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos",
+    "terras indígenas"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "não conhecido (intempestivo), por unanimidade; recomendação à SCE com a Procuradoria de avaliar efeitos do MI 7490 do STF nos inventários",
+   "resumo_voto": "Retificações dos despachos só mudaram unidades (kW para MW), não reabrem prazo; MI 7490 não invalida atos; recomenda análise SCE+PF.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "1:26:52",
+     "justificativa": "intempestividade; retificações não trouxeram fato novo; fase de DRI ainda sem outorga",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:31:07",
+     "justificativa": "equiparação com citação a interessado específico não se amolda (interesse difuso); sem violação de direito antes da outorga",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:32:26",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:32:28",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:32:28",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ],
+   "sustentacao_oral": true
+  },
+  {
+   "id": "12",
+   "ts": "1:33:00",
+   "processo": "48500.002215/2025-59 (número incerto)",
+   "interessado": "Usina Termelétrica Lençóis Paulista SPE SA (UTE Cidade do Livro, Lençóis Paulista-SP)",
+   "assunto": "Recurso contra Despacho 3472/2025 (SCE) que reconheceu 448 dias de excludente de responsabilidade pelo atraso da UTE Cidade do Livro",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "recursos administrativos",
+    "leilões"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "conhecido e provido parcialmente, por unanimidade",
+   "resumo_voto": "Mantém 448 dias de excludente; desloca início e fim dos CCEARs do Leilão 11/2021 em 448 dias; autoriza ONS a aditar o CUST.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "1:34:48",
+     "justificativa": "dispositivo lido sem relatório (processo do circuito deliberativo)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:36:42",
+     "justificativa": "pediu destaque para aprofundar; diz não gostar do modelo de deliberação em circuito",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:37:23",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:37:28",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:37:32",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:38:15",
+   "processo": "48500.003997/2025-10",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA Equatorial)",
+   "assunto": "Reajuste Tarifário Anual 2025 da CEA (voto-vista)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "UBP"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade conforme voto-vista de Gentil: efeito médio 3,54% (19,03% AT; 0,01% BT)",
+   "resumo_voto": "Inclui componente financeiro de cerca de R$ 211,1 mi como antecipação de recursos da UBP (pedido da Equatorial); diferença de receita desde 13/12/2025 compensada em 2026 com Selic.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista: aprova com antecipação da UBP",
+     "ts": "1:42:43",
+     "justificativa": "atende pleito da distribuidora para efeito ~0% na baixa tensão; cautelar já liberou R$ 118 mi",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, acompanha o voto-vista",
+     "ts": "1:49:33",
+     "justificativa": "fatos novos; antecipação de recursos é adequada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:50:04",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:50:26",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:50:30",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:51:03",
+   "processo": "48500.0716/2025-33 (número incerto; citado também como 37166/2025)",
+   "interessado": "distribuidoras das áreas Sudam/Sudene; Consórcio Nordeste; Equatorial",
+   "assunto": "Resultado da CP 47/2025 — critério de rateio dos recursos da CDE da repactuação da UBP (Lei 15.235/2025, art. 4º §§8-9)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista (Gentil Nogueira); não concluído",
+   "resumo_voto": "Agnes reapresenta voto: repartição base pela NT 7 (tarifa B1 econômica x mercado ACR, pesos 1/0,8/0,5) com piso e teto de efeito tarifário cumulativo 2026; redutor R$/MWh em 12 ciclos ou concatenado ao processo tarifário; rejeita critérios do voto divergente de Mosna (12,5% por complexidade socioeconômica e consumo médio).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (novo voto)",
+     "ts": "2:01:00",
+     "justificativa": "choque de combustíveis e preocupação com tarifas 2026; consumo médio sensível à renda; evitar empréstimos bancários onerosos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge (mantém voto divergente; questiona)",
+     "ts": "2:56:02",
+     "justificativa": "piso/teto seria critério ad hoc fora do escopo da CP; ofício 8 do MME e choque do petróleo não são fato novo; se houver fato novo caberia nova fase de CP",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "sem voto (debate)",
+     "ts": "3:14:45",
+     "justificativa": "diferimentos positivos de 2025 (Equatorial Alagoas, Enel CE) penalizariam consumidores no critério de piso/teto",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "3:19:27",
+     "justificativa": "sinalizou desejo de avaliar melhor o voto",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "3:19:27",
+   "processo": "48500.021385/2025 (número incerto)",
+   "interessado": "ISA Energia Brasil SA (transmissora)",
+   "assunto": "Anuência prévia para atividades atípicas (eficiência energética com BESS) nos contratos de concessão de transmissão 59/2001, 12/2023, 8/2022 e 6/2023",
+   "tema": [
+    "transmissão",
+    "armazenamento de energia",
+    "atividades atípicas"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "retirado de pauta pelo relator após questionamentos",
+   "resumo_voto": "Voto lido: anuir e recomendar à SFF não usar ativos do serviço público; Mosna questionou enquadramento de BESS como serviço de engenharia (10% à modicidade); relator retirou.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, retira de pauta",
+     "ts": "3:19:27",
+     "justificativa": "contribuições merecem reflexão mais ampla",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "questiona (destaque)",
+     "ts": "3:21:56",
+     "justificativa": "BESS B2B não se enquadra como serviço de engenharia (Manual de Contabilidade, Lei 15.269); monopólio natural",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:33:09",
+   "processo": "48500.500202/2025-01 (número incerto)",
+   "interessado": "Hospital (H. Joaçaba, nome incerto)",
+   "assunto": "Recurso contra Despacho 2509/2025 (SMA) sobre não pagamento de compensação por descumprimento de prazos",
+   "tema": [
+    "recursos administrativos",
+    "distribuição e qualidade"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "pedido de vista (Agnes da Costa)",
+   "resumo_voto": "Relator conhece e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "3:34:26",
+     "justificativa": "conhece e nega provimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "3:34:40",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "3:33:42",
+     "justificativa": "não estava na votação do bloco",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "28 — ISA Energia Brasil, atividades atípicas com BESS (retirado pelo relator Willamy Frota)"
+ ],
+ "limites_da_analise": [
+  "Atribuição de falantes inferida pelo contexto (rótulos automáticos frequentemente errados); votos de quem só acompanha têm ts aproximado.",
+  "Números de processo distorcidos na legenda.",
+  "Item 8: quem disse 'acompanho o voto do diretor Fernando' não identificado; Gentil, Agnes e Sandoval não votaram formalmente antes da vista.",
+  "Item 10: atribuição de Sandoval (divergente, 8 anos de colegiado) e Mosna (destaque) inferida.",
+  "Nomes de interessados (ISA Energia, AJINA, hospital de Joaçaba) incertos."
+ ]
+}

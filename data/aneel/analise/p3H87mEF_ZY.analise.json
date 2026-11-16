@@ -1,0 +1,523 @@
+{
+ "meta": {
+  "video_id": "p3H87mEF_ZY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "8ª RPO 2026",
+  "data": "2026-04-23",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota"
+  ],
+  "ausentes": [
+   "Fernando Mosna"
+  ],
+  "observacoes": [
+   "Fernando Mosna ausente, em missão representando a ANEEL; quórum de quatro diretores.",
+   "Informes de tomadas de subsídio 7 a 10/2026 e audiências públicas (Copel, Energisa Minas Rio); reflexão do DG sobre qualidade, MMGD e modernização tarifária.",
+   "Gentil Nogueira corrigiu ao final erro material no item 3: diferimento de 59 milhões a preços de março de 2026."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:42:33",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (circuito deliberativo); itens 18 e 35 com voto divergente de Gentil Nogueira sobre neutralidade do adicional de encargo de uso do sistema de transmissão; item 21 destacado; item 37 (PCH Curemas, Axia) com retificação da fundamentação",
+   "tema": [
+    "transmissão (encargos)",
+    "outorgas de geração"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade, exceto itens 18 e 35 aprovados por maioria",
+   "resumo_voto": "Gentil diverge nos itens 18 e 35 (neutralidade do adicional de encargo de uso do sistema de transmissão), coerente com votos anteriores; demais aprovam.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco; diverge nos itens 18 e 35",
+     "ts": "0:42:40",
+     "justificativa": "Questões que eu já venho reiteradamente colocando sobre a neutralidade do adicional de encargo de uso do sistema de transmissão; retificou fundamentação do item 37 (barragem da PCH Curemas não é da Axia, e sim do DNOCS)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco (acompanha relatores)",
+     "ts": "0:43:30",
+     "justificativa": "Também apoio o voto dos relatores (atribuição incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco; posição em 18 e 35 incerta",
+     "ts": "0:43:40",
+     "justificativa": "Fala «vou acompanhar a divergência inaugurada pelo diretor Gentil» por coerência com deliberações anteriores, de atribuição incerta (Agnes ou Sandoval)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:43:50",
+     "justificativa": "Proclama aprovação unânime do bloco, com 18 e 35 por maioria",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:44:00",
+   "processo": "48500.035430/2025-02",
+   "interessado": "ONS; distribuidoras; consumidores com MMGD",
+   "assunto": "Abertura de consulta pública (45 dias) sobre tratamento de excedentes de energia e flexibilidade operativa na distribuição: combate à alteração à revelia de MMGD, sinalização de restrições sistêmicas na transmissão, conexões temporárias, aperfeiçoamento do plano de gestão de excedentes (NT 148/2025)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "regulação normativa (consulta pública)",
+    "distribuição",
+    "fiscalização"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade, com ajustes: restrições a novas conexões de GD em áreas com inviabilidade declarada pelo ONS valem desde a abertura da CP; prazo da auditoria das distribuidoras reduzido de 90 para 60 dias",
+   "resumo_voto": "Apresentação técnica de Daniel Vieira (STD). Relator destaca indícios do ONS de MMGD não registrada (vários GW) e propõe auditoria obrigatória das distribuidoras, suspensão não automática, potência instalada pela saída do inversor (CA).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova (acata ajustes de Agnes e de prazo 60 dias)",
+     "ts": "1:19:00",
+     "justificativa": "Aplicação atual é reativa, casuística e pouco padronizada; indício forte de sub-representação estrutural da MMGD; acata reduzir prazo para 60 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:18:00",
+     "justificativa": "Precisamos saber quanto de MMGD realmente temos; restrição estrutural do sistema (MT, RO, AC); acompanho o relator com ajustes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator, propõe ajuste acatado",
+     "ts": "1:19:30",
+     "justificativa": "Propõe que a negativa de conexões em áreas com inviabilidade declarada pelo ONS valha desde a abertura da CP; acompanha com o ajuste",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:33:30",
+     "justificativa": "Fraudes de MMGD são casos de polícia e devem ser duramente penalizadas, inclusive responsabilização civil; sugere encurtar o prazo de 90 dias",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:33:30",
+   "processo": "48500.030641/2025-41",
+   "interessado": "Energisa Mato Grosso do Sul (EMS)",
+   "assunto": "Reajuste tarifário anual 2026 da EMS, com diferimento pedido pela distribuidora: efeito médio 12,11% (AT 12,39%, BT 11,98%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito sem diferimento seria 12,61%; Conselho de Consumidores concordou e alertou para a CDE.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "1:36:00",
+     "justificativa": "Homologa reajuste com diferimento nos limites regulatórios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:20",
+     "justificativa": "acompanha a relatora",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:20",
+     "justificativa": "acompanha a relatora",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:30",
+     "justificativa": "ANEEL cumpre contratos; faltam ações estruturais (Congresso, Executivo) para tarifas mais previsíveis",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:43:39",
+   "processo": "48500.005531/2016-50",
+   "interessado": "Breitener Tambaqui S.A.",
+   "assunto": "Recurso contra despacho SFF 1454/2023 que determinou devolução à CCC; declarada perda de objeto por revogação do despacho em cumprimento de decisão judicial",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (perda de objeto)",
+   "resumo_voto": "Conhece do recurso e declara perda de objeto; SFF deve apurar novo montante quando houver alteração judicial.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, perda de objeto",
+     "ts": "1:44:00",
+     "justificativa": "Fase de cumprimento de decisão judicial; pode ser revisto se mudar na justiça",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "1:45:30",
+     "justificativa": "acompanha a relatora",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "1:45:30",
+     "justificativa": "Voto traz bem o fundamento de cumprimento de decisão judicial (atribuição incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:45:40",
+     "justificativa": "voto consignado acompanhando a relatora",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:46:00",
+   "processo": "48500.003283/2020-31 e outros",
+   "interessado": "Usina Chavantes S.A. (UTEs UTX Anamã, Anori, Carapiranga, Codajás, Nova Remanso, AM; Amazonas Energia)",
+   "assunto": "Pedido de reconsideração contra despacho 1828/2024 (multa editalícia e suspensão de 1 ano) e revogação das autorizações das UTEs; sustentação oral de Paulo Gesteira",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração (térmica, sistemas isolados)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Culpa já avaliada no voto de Mosna em 1ª instância; não cabe atenuante por descontratação nem avanço físico; sem mitigação de perdas.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "2:05:00",
+     "justificativa": "Descontratação decorreu de interesse público, não do agente; ordem de assinatura do CCG e situação da Amazonas não afetam o valor da multa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:11:30",
+     "justificativa": "acompanha a relatora",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "2:11:30",
+     "justificativa": "acompanha a relatora",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "2:11:40",
+     "justificativa": "Empresa não implantou e se confirma a penalidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:11:50",
+   "processo": "48500.030696/2025-51",
+   "interessado": "Neoenergia Coelba",
+   "assunto": "Reajuste tarifário anual 2026 da Coelba: efeito médio 5,85% (AT 10,21%, BT 4,19%), com antecipação de recursos da UBP",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem UBP o efeito seria 12,43%; enunciado corrigido de 5,18% para 5,85%.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:12:21",
+     "justificativa": "Recursos da UBP pleiteados pela distribuidora reduzem impacto na baixa tensão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:14:00",
+     "justificativa": "Destaca efeito médio sem UBP de 12,43%",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:14:30",
+     "justificativa": "Previsibilidade; pode haver ajuste quando valores da UBP forem consolidados (atribuição incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:14:40",
+     "justificativa": "acompanha o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:16:18",
+   "processo": "48500.028437/2025-60",
+   "interessado": "CPFL Santa Cruz (Companhia Jaguari de Energia)",
+   "assunto": "Revisão tarifária periódica 2026 da CPFL Santa Cruz (após CP 41/2025); voto-vista de Gentil: efeito médio 15,12% (AT 9,71%, BT 17,86%) com diferimento de 59 milhões e compensação do período sem tarifa",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "pedido de vista"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Gentil Nogueira",
+   "resumo_voto": "Vista pedida por pedido do MME e da distribuidora; voto-vista acolhe diferimento (efeito antes 18,89%); voto de Mosna mantido no processo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, voto original (vencido; ausente, em missão)",
+     "ts": "2:20:30",
+     "justificativa": "Voto original seguia a área, sem o diferimento pedido posteriormente",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista: aprova com diferimento",
+     "ts": "2:17:00",
+     "justificativa": "Acompanha a proposta de Mosna mas reconhece componente financeiro do período sem tarifa e diferimento de 59 milhões pedido pela distribuidora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:21:40",
+     "justificativa": "acompanho o voto vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:21:45",
+     "justificativa": "acompanho o voto vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:21:50",
+     "justificativa": "Mantém os dois votos para deliberação",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:22:30",
+   "processo": "48500.030639/2025-71",
+   "interessado": "Energisa Mato Grosso (EMT)",
+   "assunto": "Reajuste tarifário anual 2026 da EMT: efeito médio 6,86% (AT 10,42%, BT 5,27%), com recursos da UBP (Sudam)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diferença do período postergado compensada em 2027 pela Selic; registro da visita do senador Wellington Fagundes.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:23:00",
+     "justificativa": "Parte dos recursos da UBP considerados a pedido da distribuidora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:00",
+     "justificativa": "acompanha o relator",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:25:00",
+     "justificativa": "acompanha o relator",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:10",
+     "justificativa": "acompanha o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:25:20",
+   "processo": "48500.030071/2025-99",
+   "interessado": "Energisa Sul-Sudeste (ESS)",
+   "assunto": "Abertura de consulta pública (24/04 a 08/06/2026) para a RTP 2026 da Energisa Sul-Sudeste, com reunião presencial em Presidente Prudente em 22/05",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura CP; tarifas a vigorar a partir de 12/07/2026.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:25:40",
+     "justificativa": "Instaura consulta pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:26:30",
+     "justificativa": "acompanha o relator",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:26:30",
+     "justificativa": "acompanha o relator",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:26:40",
+     "justificativa": "acompanha o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:27:00",
+   "processo": "48500.003427/2020-15",
+   "interessado": "PCH Cabuí SPE S.A.",
+   "assunto": "Recurso contra despacho SFT 2974/2025 (multa editalícia por inexecução total da PCH Cabuí, leilão 4/2019); parcial provimento com multa de R$ 9.125.713,44",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "parcial provimento, unânime após o relator acatar a divergência de Willamy Frota (descontratação de 99,76%, não 100%)",
+   "resumo_voto": "Relator usava 100% de descontratação (março/2026), multa de 9.118.419; Willamy propôs 99,76% (dado à época do recurso), seguindo precedentes e parecer da Procuradoria; relator acomodou.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, parcial provimento (ajusta voto à divergência)",
+     "ts": "2:28:00",
+     "justificativa": "Diferença de cerca de 7 mil reais; pela colegialidade acata usar 99,76%",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "diverge do valor; vencedora sua proposta acatada pelo relator",
+     "ts": "2:30:00",
+     "justificativa": "Considerar 99,76% de descontratação da época do recurso, pois a descontratação a 100% ocorreu só em março de 2026, após a decisão de 1ª instância; segue decisões anteriores da ANEEL",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator com ajuste",
+     "ts": "2:38:50",
+     "justificativa": "acompanho o relator com esse ajuste",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator com ajuste",
+     "ts": "2:38:00",
+     "justificativa": "Previsibilidade e seguir a jurisprudência da agência; mudança só com fundamento forte",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:39:50",
+   "processo": "48500.004147/2026-10",
+   "interessado": "Qair Brasil Participações S.A. e Qair H2 Brasil S.A. (hub no Pecém; hidrogênio verde e data center); ONS",
+   "assunto": "Pedido de medida cautelar para que o ONS aceite fianças bancárias (BNP Paribas) e prossiga com solicitações de acesso à rede básica; sustentação oral de Marco Souza",
+   "tema": [
+    "transmissão (acesso à rede)",
+    "recursos administrativos (cautelar)",
+    "pedido de vista"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Gentil Nogueira; não deliberado",
+   "resumo_voto": "Relatora indefere a cautelar seguindo parecer da Procuradoria (vício de conteúdo, não de forma); Gentil pede vista por dúvida se o ONS analisou a declaração de equivalência do BNP de 02/02/2026.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, indefere a cautelar",
+     "ts": "2:58:00",
+     "justificativa": "Acompanha o entendimento perfunctório da Procuradoria, sem afastar análise do mérito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "3:09:09",
+     "justificativa": "Não ficou claro se o ONS considerou a declaração de equivalência protocolada em 02/02; pretende pedir informações ao ONS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:06:00",
+     "justificativa": "ONS deve cumprir a regra e analisar todos os documentos; espera que reconsidere de ofício para eventual perda de objeto",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Votação do bloco: atribuição de falas incerta; não está claro quem (Agnes ou Sandoval) acompanhou a divergência de Gentil nos itens 18 e 35, e com 4 presentes o placar de maioria não fecha pela transcrição.",
+  "Nos itens com votos curtos ('acompanho'), a ordem e a autoria de cada fala são inferidas; ts aproximados.",
+  "Item 6: nome do interessado varia na legenda (Breitner Tabacos / Breitener Tambaqui).",
+  "Ricardo Tili aparece em marcadores de falante inferidos mas não há indicação de presença; não registrado.",
+  "Item 3: no enunciado o DG falou 'por maioria' considerando o voto original de Mosna (ausente)."
+ ]
+}

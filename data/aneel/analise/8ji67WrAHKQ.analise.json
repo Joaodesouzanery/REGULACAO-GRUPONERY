@@ -1,0 +1,113 @@
+{
+  "meta": {"video_id": "8ji67WrAHKQ", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis nesta reunião); ts = tempo do vídeo (sessão começa ~0:12:30); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª RPE 2025",
+    "data": "2025-12-18",
+    "formato": "presencial com participação remota (Willamy Frota em Manaus)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota"],
+    "ausentes": ["Fernando Mosna (missão institucional/representação; voto do item 5 lido pelo diretor Gentil)"],
+    "observacoes": [
+      "2ª Reunião Pública Extraordinária da Diretoria de 2025; título do vídeo indica 2025-12-19, mas o presidente diz na abertura «hoje é dia 18 de dezembro» e a pauta cita a 2ª RPE agendada para 18/12/2025.",
+      "Informes do Diretor-Geral sobre a interrupção prolongada na área da Enel São Paulo (10/12/2025): fiscalização conjunta com a ARSESP, multa recorde já aplicada (exigibilidade suspensa pela Justiça Federal), relatório de falhas e transgressões preparatório de caducidade sob relatoria da diretora Agnes com pedido de vista, criação de gerências regionais de fiscalização em São Paulo e Manaus e convênio com a Agenersa (RJ).",
+      "Willamy Frota participou de Manaus, acompanhando a distribuidora do Amazonas por determinação do Diretor-Geral.",
+      "Aprovada a ata da 41ª RPO de 2025 (09/12/2025) com duas retificações materiais pedidas pelo diretor Fernando Mosna (valores de indenização da RTE Energisa Rondônia; item 21 Energisa Rondônia em vez de Equatorial Pará).",
+      "Pauta com 15 itens; itens 5 a 15 em bloco; item 5 destacado do bloco; item 2 retirado de pauta. Ordem: bloco, 1, 3, 4, 5.",
+      "Pedidos de vista do diretor Gentil Nogueira nos itens 3 (reajuste CEA/Equatorial Amapá) e 4 (anuência prévia Sabesp/EMAI).",
+      "Presença do deputado federal Dorinaldo Malafaia (coordenador da bancada do Amapá), que se manifestou excepcionalmente no item 3."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:31:08",
+      "processo": "", "interessado": "diversos",
+      "assunto": "Itens 6 a 15 da pauta deliberados em bloco (votos disponibilizados previamente); item 5 destacado; item 9 com voto-vista do Diretor-Geral",
+      "tema": ["bloco de itens"],
+      "relator": "diversos",
+      "resultado": "Bloco aprovado; item 9 aprovado por maioria (voto-vista do Diretor-Geral)",
+      "resumo_voto": "Três diretores aprovam o bloco e registram a manutenção de seus votos no item 9; um deles declara suspeição nos itens 12 e 15 (art. 9º, §2º da Norma de Organização ANEEL nº 1). O Diretor-Geral, propositor do voto-vista no item 9, aprova os remanescentes e declara o item 9 aprovado por maioria. Conteúdo dos itens do bloco não lido na sessão.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco; mantém seu voto no item 9", "ts": "0:31:19", "justificativa": "Não é possível atribuir com segurança qual das três falas é de cada diretor.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco; mantém seu voto no item 9", "ts": "0:31:30", "justificativa": "Atribuição incerta entre as três falas.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova o bloco; mantém seu voto no item 9", "ts": "0:31:48", "justificativa": "Atribuição incerta; uma das falas declara suspeição nos itens 12 e 15.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco; voto-vista no item 9, aprovado por maioria", "ts": "0:32:05", "justificativa": "«fui o propositor do voto vista no item nove e declaro que este item foi aprovado por maioria»", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:32:05",
+      "processo": "48500.007166/2025-33 (número da legenda, incerto)",
+      "interessado": "consumidores do ACR nas áreas da Sudam e Sudene; distribuidoras",
+      "assunto": "Rateio dos recursos arrecadados na CDE de que tratam os §§ 8º e 9º do art. 4º da Lei 15.235/2025 (repactuação de parcelas vincendas de UBP): abertura de consulta pública com quatro alternativas de critério",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária", "regulação normativa"],
+      "relator": "Agnes da Costa",
+      "resultado": "Aprovado por unanimidade: consulta pública por intercâmbio documental por 20 dias (19/12/2025 a 08/01/2026)",
+      "resumo_voto": "Apresentação de Denis Januzzi (STR) com quatro alternativas (mercado cativo; mercado ponderado por nível de tensão; proporção das tarifas; mercado mais perdas não técnicas). Relatora propõe CP com prazo inferior a 45 dias pela urgência (correspondência do Congresso), aberta a critérios adicionais, inclusive capacidade de pagamento; deliberação final prevista para a 1ª RPO de 2026 (20/01). Procuradoria opinou pela abertura da CP.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (abertura de consulta pública)", "ts": "0:50:55", "justificativa": "Consulta pública garante transparência e participação; urgência e relevância justificam prazo reduzido; pergunta à sociedade «o que a sociedade brasileira entende como um critério justo, transparente e defensável» para alocar os recursos.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "1:00:43", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "1:01:00", "justificativa": "Parabeniza a relatora; CP importante para colher subsídios e decidir da forma mais justa e criteriosa (fala atribuída por inferência, cita «corroborando com diretor gentil»).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:01:53", "justificativa": "Registro de que o diretor-geral deixou voto acompanhando a relatora; antes destacou que a CP também deve colher alternativas além das quatro.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:30:09", "processo": "", "interessado": "",
+      "assunto": "Item 2 da pauta: retirado de pauta (assunto não lido na sessão)",
+      "tema": [], "relator": "não identificado", "resultado": "retirado de pauta", "resumo_voto": "", "votos": []
+    },
+    {
+      "id": "3", "ts": "1:01:57",
+      "processo": "48500.003997/2025-1x (número da legenda, incerto)",
+      "interessado": "Companhia de Eletricidade do Amapá – CEA (Equatorial Amapá / Equatorial Energia)",
+      "assunto": "Reajuste tarifário anual 2025 da CEA (Equatorial Amapá), vigência a partir de 13/12/2025: efeito médio proposto de 14,5% com diferimentos pedidos pela distribuidora",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa",
+      "resultado": "Pedido de vista do diretor Gentil Nogueira; não deliberado",
+      "resumo_voto": "Efeito inicial de 33,61%, reduzido a 24,13% com recursos da Lei 15.269/2025 (~R$ 118,6 mi), a 16,73% com diferimento do submódulo 4.4A do PRORET e a 14,5% com diferimento complementar de ~R$ 21,6 mi antecipando recursos da UBP (Lei 15.235/2025); 21,82% alta tensão e 12,83% baixa tensão. Apresentação técnica de Charles Rocha (STR). Manifestação excepcional do deputado Dorinaldo Malafaia pedindo postergação e alegando que o Conselho de Consumidores não foi ouvido; relatora responde que o conselho foi consultado duas vezes. Diretor-Geral diz que, concluído o rateio da UBP, a redução será aplicada de imediato, sem esperar o processo tarifário seguinte.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (homologa RTA com efeito médio de 14,5%)", "ts": "1:34:40", "justificativa": "Postergar a tarifa até definir a UBP criaria «uma verdadeira bolha» de financeiros contra o consumidor; ANEEL não pode adiar sem pedido do concessionário (Parecer 109/2024 PF); acolhe os diferimentos pela sensibilidade às expectativas dos amapaenses, ressalvando o risco financeiro.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "pede vista", "ts": "1:47:11", "justificativa": "Pede vista para avaliar a alocação de recursos e a consequência na tarifa do Amapá; antes elogiou a atuação dos senadores Alcolumbre, Randolfe e Braga e disse que sem as medidas o reajuste passaria de 30%.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:47:11",
+      "processo": "48500.008612/25-74 (número da legenda, incerto)",
+      "interessado": "Sabesp e Vórtx DTVM (requerentes); EMAE – Empresa Metropolitana de Águas e Energia; Pirapora Energia; Fênix Água e Energia (atual controladora, opositora)",
+      "assunto": "Anuência prévia à transferência para a Sabesp do controle societário direto da EMAE e indireto da Pirapora Energia, hoje detidos pela Fênix, após excussão de alienação fiduciária de ações pela Vórtx",
+      "tema": ["outorgas de geração (hidrelétrica)", "transferência de controle societário", "institucional"],
+      "relator": "Agnes da Costa",
+      "resultado": "Pedido de vista do diretor Gentil Nogueira; não deliberado",
+      "resumo_voto": "Sustentação oral de Felipe (advogado da Fênix) alegando cerceamento de defesa (acesso a autos só um dia e meio antes, 220 folhas), falta de alegações finais, ilegitimidade da requerente e conflito água x energia; pede consulta pública e decisão coordenada com ANA e ARSESP. A palavra foi cassada ao estourar o tempo; nova manifestação de advogada da Fênix e de advogado da Sabesp. Procurador-Geral Eduardo Ramalho: Fênix não é parte formal; Sabesp/Vórtx legítimas por atipicidade (Parecer 282/2025); não é tomada hostil; anuência é condição suspensiva. Relatora vota por anuir, citando CADE (aprovação sem restrições em 15/12/2025), rebaixamento de rating da EMAE pela Fitch e CDBs do Banco Master como razões para não aguardar janeiro.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (anuir previamente à transferência de controle para a Sabesp)", "ts": "2:37:20", "justificativa": "ANEEL só verifica a capacidade do pretendente (art. 27 da Lei 8.987/95 e REN 948); uso da água é regulado por outorgas e ONS/ANA, sem margem para a Sabesp arbitrar; princípio da precaução diante da indefinição do controle da EMAE.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "pede vista", "ts": "3:19:12", "justificativa": "Antes disse ficar «extremamente desconfortável» com a ANEEL colocada numa disputa empresarial judicial, discordou da urgência e considerou curto o prazo de acesso aos documentos.", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "sem voto (vista concedida antes da votação); comentou", "ts": "3:18:22", "justificativa": "Considerou tudo bem contextualizado e elogiou os esclarecimentos da Procuradoria.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "3:19:23",
+      "processo": "48500.010924/2024-13 (número da legenda, incerto)",
+      "interessado": "Companhia Energética Rio das Antas – CERAN (UHE Castro Alves)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 7/2024 da SFT (multa de cerca de R$ 1,36 mi) por descumprimento da Política Nacional de Segurança de Barragens (comunicação à Defesa Civil nas cheias de setembro de 2023)",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "segurança de barragens"],
+      "relator": "Fernando Mosna",
+      "resultado": "Aprovado por unanimidade: recurso conhecido e, no mérito, negado provimento",
+      "resumo_voto": "Item destacado do bloco por sustentação oral de Vittor Sarmento Melo (CERAN): sem norma que fixe o momento de comunicar a Defesa Civil fora de risco de acidente; PAE só exige comunicação em nível de alerta; barragem segura. Procuradoria (Parecer 25/2025): sem vício de motivação se confirmada tecnicamente alteração nas condições de segurança. Voto do relator ausente lido pelo diretor Gentil, só o dispositivo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento (voto lido pelo diretor Gentil na sua ausência)", "ts": "3:32:39", "justificativa": "Conhecer o recurso e, no mérito, negar-lhe provimento; fundamentação disponibilizada previamente, não lida.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "3:35:56", "justificativa": "Acompanha.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:35:56", "justificativa": "Acompanha.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "3:35:56", "justificativa": "Acompanha (unanimidade proclamada).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:35:59", "justificativa": "«Eu também acompanho o ilustre relator»; proclama a unanimidade.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Item 2 da pauta (assunto não lido na sessão)"],
+  "limites_da_analise": [
+    "Rótulos de falantes {..} da transcrição são inconsistentes (ex.: falas do Diretor-Geral rotuladas como Agnes, Ricardo Tili ou Fernando Mosna); atribuições feitas pelo contexto. Ricardo Tili e Ludimila Lima não aparecem na sessão.",
+    "Bloco: não é possível saber quem disse cada uma das três falas de aprovação, nem quem declarou suspeição nos itens 12 e 15; itens 6–15 não foram lidos e seus assuntos não constam da transcrição.",
+    "Item 1: a fala de 1:01:53 diz que «o diretor geral também deixou o voto» acompanhando, o que é estranho com o Diretor-Geral presidindo; atribuído a Sandoval Feitosa com confiança média.",
+    "Item 5: as falas «também acompanho o relator» não são identificadas; a unanimidade foi proclamada.",
+    "Números de processo, valores e nomes (Vórtx, EMAE, CERAN, Dorinaldo Malafaia, Januzzi) vêm da legenda automática e podem estar errados.",
+    "Data: título diz 19/12/2025, mas a fala e a pauta indicam 18/12/2025; registrada 2025-12-18."
+  ]
+}

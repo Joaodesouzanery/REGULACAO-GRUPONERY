@@ -1,0 +1,48 @@
+{
+  "meta": {"video_id": "XDXxMneIEA0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª RPO 2026 (Parte 2, tarde)", "data": "2026-03-10", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Gentil Nogueira", "Willamy Frota"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 (tarde) da 5ª Reunião Pública Ordinária de 2026; dois itens: 16 (cautelar Casa dos Ventos/data centers) e 3 (fechamento da CP 39/2023, armazenamento).", "Item 16: relatora Agnes da Costa vencida; prevaleceu a divergência de Fernando Mosna, que redigirá o voto condutor em até 7 dias.", "Item 3: aprovada por maioria a insubsistência dos votos anteriores (Daniel Dana e outro diretor), com discordância do Diretor-Geral; depois do debate de mérito, Fernando Mosna retirou o processo de pauta para consultar a Procuradoria e rediscutir a definição de usina hidrelétrica reversível."]
+  },
+  "itens": [
+    {
+      "id": "16", "ts": "0:00:24",
+      "processo": "48500.9056/25 e outros (números ilegíveis na legenda)",
+      "interessado": "Casa dos Ventos S.A., BEP Data Center Salto 1 Ltda. e BEP Data Center Salto 2 Ltda. (data centers PC2/Pecém, Salto 1 e Salto 2)",
+      "assunto": "Pedido de medida cautelar para manter a prioridade da reserva de capacidade de carga dos data centers e preservar o horizonte técnico dos pareceres de acesso do ONS, diante do decreto da PNAST que levou à fila do ONS os pedidos pendentes no MME.",
+      "tema": ["transmissão (acesso à rede, grandes cargas, data centers)", "recursos administrativos (medida cautelar)", "institucional (decreto PNAST, competência ANEEL x MME)"],
+      "relator": "Agnes da Costa",
+      "resultado": "Concedida a cautelar por maioria, nos termos da divergência de Fernando Mosna, até a análise de mérito dos requerimentos administrativos; relatora vencida.",
+      "resumo_voto": "Sustentação oral de Pedro Marcelo (Casa dos Ventos). Relatora votou por indeferir: sem fumaça do bom direito, pois o direito de pedir revisão do parecer de acesso em 1º de janeiro foi mantido e o MME confirmou que o efeito da transição era previsto. Fernando Mosna divergiu: incerteza regulatória (decreto PNAST, PDL no Congresso, consulta à Procuradoria sobre competência) configura fumaça do bom direito, há perigo da demora e reversibilidade. O Diretor-Geral acompanhou a divergência depois de esclarecimento da área técnica (STD) sobre o contrato até 2028.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, indefere a cautelar (vencido)", "ts": "0:14:19", "justificativa": "Não vê fumaça do bom direito: o direito de pedir em 1º de janeiro o ajuste do parecer de acesso continuou valendo; a transição do decreto foi escolha do poder concedente e o MME disse que o efeito poderia ocorrer de qualquer forma. Manteve o voto.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: concede a cautelar", "ts": "0:19:27", "justificativa": "«barafunda regulatória» entre o decreto do PNAST, PDL no Congresso e a consulta à Procuradoria sobre a competência da ANEEL; há fumaça do bom direito, perigo da demora (perda do lugar na fila) e reversibilidade; cautelar até a análise de mérito.", "tom": "argumentativo", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência", "ts": "0:31:54", "justificativa": "De início via fragilidade em interferir num tema regido por decreto; após o esclarecimento de que outros entrariam na frente na recontratação depois de 2028, viu perigo da demora e fumaça do bom direito e acompanhou Fernando Mosna.", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a divergência", "ts": "0:33:21", "justificativa": "Declaração breve: «acompanho o voto divergente» (falante não identificado com certeza).", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a divergência", "ts": "0:33:27", "justificativa": "Declaração breve: «também acompanho o voto divergente» (falante não identificado com certeza).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:35:25",
+      "processo": "48500.004885/2020-63 (número aproximado pela legenda)",
+      "interessado": "Agentes de armazenamento; sustentações orais de Marcelo Cabral (ABEEólica) e Rafael Dávila (Costa Verde Energia Renovável)",
+      "assunto": "Voto-vista no resultado da Consulta Pública 39/2023: regulação do armazenamento de energia elétrica (SAE), após a Lei 15.269/2025 (outorga do SAE autônomo, MUST/MUSD, tarifação do uso da rede, definição de usina hidrelétrica reversível de ciclo fechado).",
+      "tema": ["regulação normativa (consulta pública, resolução)", "transmissão (MUST/TUST)", "tarifas (TUSD/TUST do armazenamento)", "outorgas de geração (armazenamento, hidrelétrica reversível)"],
+      "relator": "Fernando Mosna (voto-vista; relator original Daniel Dana, hoje secretário-geral)",
+      "resultado": "Preliminar: aprovada por maioria a insubsistência dos votos já proferidos (Diretor-Geral discordou). Mérito: retirado de pauta pelo relator do voto-vista para consulta à Procuradoria e rediscussão da definição de hidrelétrica reversível.",
+      "resumo_voto": "Fernando Mosna propôs declarar insubsistentes os votos anteriores por causa da Lei 15.269/2025; no mérito acompanhou em linhas gerais o relator Dana, divergindo na SN1 (redução de até 30% do MUST/MUSD sem limite de 5% ao ano) e na SN3 (equiparação do SAE autônomo a gerador, sem fio de consumo, para evitar bitarifação). O Diretor-Geral discordou da insubsistência e defendeu ouvir a Procuradoria; Agnes da Costa e Gentil Nogueira comentaram o mérito.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: insubsistência dos votos anteriores e aprovação das normas com divergências em SN1 e SN3; depois retira de pauta", "ts": "0:45:51", "justificativa": "A Lei 15.269 é fato novo; o voto deve ser mantido ou desconstituído na íntegra; MUST/MUSD reduzível até 30% sem limite anual; incidência do fio de consumo sobre o SAE seria bitarifação; retirou de pauta para consulta jurídica e melhor definição de hidrelétrica reversível.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge da insubsistência (vencido na preliminar)", "ts": "2:27:55", "justificativa": "A lei mudou só a outorga, não a tarifação; propôs dividir a insubsistência; julgou importante ouvir a Procuradoria por se tratar de nova regra de tarifação para um agente que não existe; «não tem almoço grátis».", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator do voto-vista na insubsistência", "ts": "2:27:38", "justificativa": "Declarou acompanhar Fernando Mosna pela insubsistência; no mérito, considerou avanço tratar o armazenador como agente novo e julgou coerente o perfil de gerador.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "não votou a preliminar (sucessor de diretor com voto anterior); mérito não votado (retirado de pauta)", "ts": "2:27:55", "justificativa": "Pela norma de organização, só poderia votar depois de declarada a insubsistência; comungou da ideia de rediscutir a definição de hidrelétrica reversível.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "não votou a preliminar (sucessor de diretor com voto anterior); mérito não votado (retirado de pauta)", "ts": "2:27:55", "justificativa": "Habilitado a votar só depois da insubsistência; processo retirado de pauta antes da votação de mérito.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["3 (CP 39/2023, armazenamento): retirado de pauta por Fernando Mosna ao fim da discussão (3:05:35)"],
+  "limites_da_analise": ["Legenda automática: números de processo ilegíveis/aproximados.", "Item 16: os dois votos breves «acompanho o voto divergente» (0:33:21 e 0:33:27) não têm falante identificado; atribuídos a Gentil Nogueira e Willamy Frota por exclusão (confiança baixa).", "Item 3: as três manifestações pela insubsistência (2:27:38 a 2:27:51) não têm falantes claros; só a de Agnes da Costa foi inferida.", "Nomes fora da lista do config: Daniel Dana (ex-diretor e relator original, agora secretário-geral) e um segundo ex-diretor citado como «Ivoc» (ilegível). Ludmila Lima é citada como superintendente da SCE, não como diretora; as etiquetas {Ricardo Tili}/{Ludimila Lima} do .md são falsos positivos."]
+}

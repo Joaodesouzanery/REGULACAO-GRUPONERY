@@ -1,0 +1,63 @@
+{
+  "meta": {"video_id": "2N-SQvMf8Vc", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª RPO 2026 (Parte 1)", "data": "2026-03-10", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": ["Pauta com 28 itens; itens 6 a 28 em bloco; destacados do bloco os itens 10, 13 e 16; retirados de pauta os itens 4, 11 e 18; sustentação oral pedida nos itens 1, 2, 3, 5, 10, 13, 16 e 26 (a do 26 indeferida pela presidência).", "Parte 1 (manhã): bloco, itens 1, 2, 5, 10 e 13. Itens 16 e 3 ficaram para a tarde (Parte 2, outro vídeo).", "Retificação: a ata aprovada foi a do 2º circuito deliberativo público ordinário de 3/3/2026."]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:20:11", "processo": "", "interessado": "diversos", "assunto": "Itens 6 a 28 do bloco (votos previamente disponibilizados), exceto destacados 10, 13, 16 e retirados 11 e 18", "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovados por unanimidade, exceto o item 28 (maioria)", "resumo_voto": "Bloco aprovado; no item 28 houve voto divergente (diretor não identificado na legenda) e prevaleceu o relator Willamy Frota.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; no 28 acompanha o relator", "ts": "0:22:14", "justificativa": "Aprova os itens remanescentes; no item 28 acompanha o relator Willamy.", "confianca": "media"},
+      {"diretor": "Agnes da Costa", "voto": "aprova o bloco; no 28 acompanha o relator", "ts": "0:21:46", "justificativa": "Acompanha o voto do relator no item 28.", "confianca": "baixa"},
+      {"diretor": "Willamy Frota", "voto": "aprova o bloco; relator do item 28", "ts": "0:21:02", "justificativa": "Relator do item 28.", "confianca": "media"},
+      {"diretor": "Gentil Nogueira", "voto": "aprova o bloco", "ts": "0:21:31", "justificativa": "Aprova os itens remanescentes do bloco; voto no 28 não identificado.", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:21:59", "justificativa": "Aprova os itens do bloco; voto no 28 não identificado.", "confianca": "baixa"}
+     ]},
+    {"id": "4", "ts": "0:18:38", "processo": "", "interessado": "", "assunto": "Item 4 retirado de pauta", "tema": ["retirado de pauta"], "relator": "não identificado", "resultado": "retirado de pauta", "resumo_voto": "", "votos": []},
+    {"id": "1", "ts": "0:22:49", "processo": "48500.007025/2025-70 (legenda incerta)", "interessado": "Ampla Energia (Enel Distribuição Rio); sustentação oral Hugo Lamim (Enel Rio) e Robson Alves (Conselho de Consumidores)", "assunto": "Reajuste tarifário anual 2026 da Enel Rio, vigência a partir de 15/03/2026; reversão de créditos de PIS/Cofins", "tema": ["tarifas e revisão tarifária"], "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade; efeito médio 15,46% (AT 19,94%, BT 14,23%)", "resumo_voto": "Voto alinhado à área técnica, mantendo o montante de devolução de créditos de PIS/Cofins sugerido pela SFF (efeito médio -5,98%).",
+     "votos": [
+      {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:50:13", "justificativa": "Voto alinhado à proposta da área técnica, mantendo o montante de devolução de PIS/Cofins sugerido pela SFF.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:00:04", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:00:04", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:00:04", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:00:07", "justificativa": "Também acompanha o eminente relator e proclama.", "confianca": "media"}
+     ]},
+    {"id": "2", "ts": "1:00:07", "processo": "48500.006xxx/2025-38 (legenda incerta)", "interessado": "Light Serviços de Eletricidade; sustentação oral Felipe Tenório (Light)", "assunto": "Reajuste tarifário anual 2026 da Light, vigência a partir de 15/03/2026; crédito de PIS/Cofins e ADI 7324", "tema": ["tarifas e revisão tarifária"], "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade; efeito médio 8,59% (AT 13,46%, BT 6,56%)", "resumo_voto": "Relator tratou com cautela o valor de crédito de PIS/Cofins a considerar, diante da ADI 7324 pendente e da homologação na Receita Federal; houve consulta à Procuradoria sobre devolução de boa-fé.",
+     "votos": [
+      {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "1:28:25", "justificativa": "Cautela no crédito de PIS/Cofins para evitar devolução futura pelo consumidor caso a Receita não reconheça o valor.", "confianca": "media"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:00:20", "justificativa": "Consultou a Procuradoria sobre a ADI 7324 (boa-fé do consumidor); considerou o voto bem construído pela razoabilidade com o que se tem disponível.", "confianca": "media"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:00:41", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:00:43", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:58:53", "justificativa": "Antecipa concordância; incertezas do ano anterior foram resolvidas; sugere contato com a Receita Federal.", "confianca": "media"}
+     ]},
+    {"id": "5", "ts": "2:01:54", "processo": "48500.008569/2025-91 (legenda incerta)", "interessado": "Consórcios Lívia Energia 1 e 2 (legenda incerta); Neoenergia Pernambuco; sustentação oral Sumaia (sobrenome incerto)", "assunto": "Pedido de reconsideração contra despacho que negou cautelar para obrigar a Neoenergia Pernambuco a apresentar demonstrativos de saldo de MMGD", "tema": ["geração distribuída (MMGD)", "recursos administrativos"], "relator": "Fernando Mosna", "resultado": "por maioria, conhecido e indeferido, conforme divergência de Willamy Frota (com acréscimo de Agnes: encaminhar pelo caminho do entendimento); relator vencido", "resumo_voto": "Relator propunha determinar à distribuidora a entrega dos demonstrativos em 5 dias; divergência viu ausência de fumaça do bom direito, necessidade de instrução pela Ouvidoria e risco da demora reverso (indícios de comercialização de excedentes vedada pela Lei 14.300).",
+     "votos": [
+      {"diretor": "Fernando Mosna", "voto": "relator, vencido", "ts": "2:08:32", "justificativa": "Propunha determinar à Neoenergia Pernambuco apresentar em 5 dias os demonstrativos de saldo de MMGD.", "confianca": "media"},
+      {"diretor": "Willamy Frota", "voto": "diverge (indeferir), vencedor", "ts": "2:27:59", "justificativa": "Relator da primeira decisão; não vê requisitos da cautelar; investigação é própria da Ouvidoria; risco da demora reverso por indícios de comercialização de excedentes.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha a divergência", "ts": "2:27:59", "justificativa": "Acompanha Willamy e pede acrescentar o caminho do entendimento regular da agência; acréscimo aceito.", "confianca": "alta"},
+      {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (vencido)", "ts": "2:27:59", "justificativa": "Frase «Eu vou acompanhar o diretor Fernando» sem falante claro; atribuição inferida.", "confianca": "baixa"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência", "ts": "2:30:26", "justificativa": "Questionou cautelar para mera prestação de informação chegar à diretoria e o desvio do rito de reclamações; acompanha a divergência e proclama.", "confianca": "alta"}
+     ]},
+    {"id": "10", "ts": "2:31:50", "processo": "48500.015499/2025-10 (legenda incerta)", "interessado": "Scala Data Centers SA (Scala 3); sustentação oral Ana Carolina (sobrenome incerto)", "assunto": "Recurso contra Despacho 1865/2025 da STD que indeferiu postergação do início de execução do CUST", "tema": ["transmissão", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: conhecer e negar provimento", "resumo_voto": "Acessante assumiu os riscos do cronograma; alteração regulatória e exigências de terceiros não são fato do príncipe; precedentes de geradoras outorgadas não se aplicam a consumidor.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:43:49", "justificativa": "Riscos do cronograma assumidos voluntariamente; não há fato do príncipe; flexibilização poderia gerar impactos tarifários.", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:47:55", "justificativa": "Conexão de grandes cargas exige atenção aos cronogramas; sem âncora regulatória para flexibilizar.", "confianca": "alta"},
+      {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "2:49:52", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "2:49:54", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:49:54", "justificativa": "", "confianca": "baixa"}
+     ]},
+    {"id": "13", "ts": "2:49:55", "processo": "48500.0xxx62/2022-41 (legenda incerta)", "interessado": "W7 Energia Ltda; sustentação oral João Paulo (sobrenome incerto)", "assunto": "Pedido de reconsideração contra Despacho 1206/2025 que manteve termo de intimação 53/2024 da SFF, revogando a autorização da W7 Energia (Despacho 3079/2019)", "tema": ["fiscalização e sanções", "outorgas de geração"], "relator": "Willamy Frota", "resultado": "aprovado por unanimidade: conhecer e negar provimento (revogação mantida)", "resumo_voto": "Segue precedentes da diretoria e manifestações da SFF e CCEE; agente irregular desde 2023 (organograma técnico assinado não saneado).",
+     "votos": [
+      {"diretor": "Willamy Frota", "voto": "relator, aprova", "ts": "2:57:30", "justificativa": "Agente irregular desde 2023; segue SFF, CCEE e decisões anteriores.", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:00:30", "justificativa": "Estranha a empresa não ter enviado organograma técnico assinado; acompanha.", "confianca": "media"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:01:08", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "3:01:10", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:01:11", "justificativa": "", "confianca": "baixa"}
+     ]}
+  ],
+  "retirados": ["4", "11", "18"],
+  "limites_da_analise": ["Rótulos de falante da legenda são pouco confiáveis; votos de seguidores atribuídos por ordem, confiança baixa.", "Item 28 (bloco): houve voto divergente e decisão por maioria, mas o divergente não foi identificado; assunto do item 28 não citado.", "Item 5: atribuição de Gentil Nogueira como acompanhante do relator vencido é inferida.", "Números de processo, nomes de consórcios e de advogados são incertos (legenda automática).", "Itens 3 e 16 ficaram para a Parte 2 (tarde), em outro vídeo."]
+}
