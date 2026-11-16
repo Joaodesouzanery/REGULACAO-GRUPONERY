@@ -1,0 +1,69 @@
+{
+  "meta": {"video_id": "Q1_GdV8U8Ag", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "38ª RPO 2025 (parte 1)", "data": "2025-11-04", "formato": "presencial (sede da ANEEL, com transmissão)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 1 da 38ª Reunião Pública Ordinária de 2025; quórum de cinco diretores. Pauta com 27 itens; itens 6 a 27 em bloco; destacados do bloco 9, 10, 12, 15 e 16; retirados de pauta 2, 5 e 7.",
+      "Ordem definida: bloco, depois itens 3, 4, 1, 9, 10, 12, 15 e 16. Nesta parte foram deliberados o bloco, o item 3 (vista) e o item 4; a sessão foi suspensa às 12h35 para almoço; itens 1, 9, 10, 12, 15 e 16 devem estar na parte 2.",
+      "Aprovada a ata do 3º Circuito Deliberativo Público (28/10/2025). Informes: leilão de transmissão 4/2025 (R$ 5,53 bi de investimento), AP 7/2025 (agenda regulatória 2026-2027), TS 20/2025, TS 19/2025 (UBP), CP 32 (tarifa social).",
+      "Diretor-Geral advertiu que pedidos de sustentação oral fora do prazo regimental não serão mais aceitos salvo casos excepcionais."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:32",
+      "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco (6 a 27, exceto os destacados 9, 10, 12, 15 e 16 e o retirado 7)",
+      "tema": ["institucional/TCU"],
+      "relator": "diversos", "resultado": "aprovados os itens remanescentes do bloco",
+      "resumo_voto": "Bloco aprovado. Houve ressalvas de diretores que não votam nos itens 13 e 15; no item 18 houve voto-vista de Sandoval Feitosa (relator original aparentemente Willamy Frota), acompanhado por outros diretores; menção a pedido de vista dos itens 13, 14 e 18 por diretor não identificado.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco; voto-vista no item 18", "ts": "0:08:52", "justificativa": "Proclamou a aprovação do bloco.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco, exceto itens 13 e 15", "ts": "0:08:09", "justificativa": "Não vota nos itens 13 e 15 (15 destacado).", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:08:18", "justificativa": "No item 18 acompanha o voto-vista do diretor Sandoval (atribuição de falante incerta).", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova os itens remanescentes do bloco", "ts": "0:08:52", "justificativa": "Mantém seu voto no item 18 (atribuição incerta).", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens remanescentes do bloco", "ts": "0:08:52", "justificativa": "Possivelmente quem pediu vista dos itens 13, 14 e 18 (falante incerto).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:09:30",
+      "processo": "48500.0331xx/2024 (número incerto na legenda)", "interessado": "Enel Distribuição São Paulo",
+      "assunto": "Termo de Intimação 49/2024-SFT (relatório de falhas e transgressões, potencial caducidade) sobre o restabelecimento do fornecimento após eventos climáticos de nov/2023 e out/2024; análise do plano de recuperação",
+      "tema": ["fiscalização e sanções (termo de intimação, caducidade)", "distribuição e qualidade (TMAE, interrupções > 24h)", "transparência/publicidade de processos"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista de Gentil Nogueira; votos antecipados de Sandoval Feitosa e Willamy Frota acompanhando a relatora",
+      "resumo_voto": "Relatora vota por estender o prazo de acompanhamento e avaliação do plano de recuperação no âmbito do TI 49 até 31/03/2026 (período úmido 2025-26), seguindo SFT e PF/ANEEL (parecer 219/2025). Sustentação oral de Hugo Lamim (Enel SP) pedindo arquivamento do TI. Preliminar de impedimento de Fernando Mosna (carta Enel 407/2025) indeferida por unanimidade; questão de ordem de Mosna deferida pelo Diretor-Geral tornando o processo público (ADI 5371 do STF). Mosna sugeriu termo de compromisso (art. 26 da LINDB) com metas por período chuvoso; Gentil levantou preocupação com o prazo de cura (art. 38 da Lei 8.987) e pediu vista.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, estende o acompanhamento do TI 49 até 31/03/2026", "ts": "0:36:24", "justificativa": "Histórico de 7 de 11 planos de resultado reprovados e multas judicializadas (~R$ 262 mi não pagas); melhora só após o TI, com ações provisórias; necessidade de testar ações estruturantes num período úmido; DEC/FEC não esgota o serviço adequado.", "tom": "firme, crítico à concessionária", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "pede vista", "ts": "2:45:14", "justificativa": "Quer aprofundar caminho intermediário inspirado na proposta de Mosna, estruturado para além de março/2026; antes alertou para vício de origem quanto a metas objetivas e prazo de cura (art. 38, §3º, Lei 8.987).", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (voto antecipado)", "ts": "2:46:44", "justificativa": "Acompanha a diretora Agnes, admitindo rever se a proposta do diretor Gentil vier antes de março; antes ponderou sobre previsibilidade e evitar prorrogações sucessivas.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora (voto antecipado)", "ts": "2:47:45", "justificativa": "Voto bem estruturado e fundamentado; deve-se ater aos fatos e não à futurologia.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "não votou nesta sessão (vista concedida); propôs termo de compromisso", "ts": "2:20:18", "justificativa": "Arguiu impedimento como questão preliminar e obteve publicidade do processo; sugeriu termo de compromisso (art. 26 da LINDB) com metas por períodos chuvosos em vez de simples extensão até março.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:49:16",
+      "processo": "48500.906332/2023 (número incerto na legenda)", "interessado": "Light Serviços de Eletricidade S.A.",
+      "assunto": "Prorrogação do contrato de concessão de distribuição 001/1996-DNAEE (Decreto 12.068/2024 e Lei 9.074/1995): recomendação ao MME e minuta do 8º termo aditivo",
+      "tema": ["renovação/prorrogação de concessão de distribuição", "distribuição e qualidade", "sustentabilidade econômico-financeira"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade (recomendação ao MME pela prorrogação)",
+      "resumo_voto": "Light cumpre continuidade (DEC/FEC 2020-2024) e gestão econômico-financeira: com base nos despachos 586, 616 e 617 e parecer 171 da PF, efeitos do plano de recuperação judicial (haircut, estorno de juros, AVJ) considerados como aporte de capital para 2023; não houve descumprimento por 2 anos consecutivos.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "3:20:40", "justificativa": "Critérios do Decreto 12.068 cumpridos; primazia da realidade na redução da dívida via PRJ.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:21:09", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "3:21:22", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a conclusão por fundamentos distintos", "ts": "3:21:24", "justificativa": "Avalia quatro critérios (DEC com expurgos, TMAE, obras atrasadas, IASC); a Light falha só no TMAE, e ele só não recomendaria com dois critérios descumpridos.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:22:32", "justificativa": "Proclamou a unanimidade; segundo processo de renovação resolvido no RJ.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["2", "5", "7"],
+  "limites_da_analise": [
+    "Vídeo é só a parte 1; itens 1, 9, 10, 12, 15 e 16 ficaram para depois do almoço (parte 2).",
+    "Bloco: a legenda mistura falas; atribuição de quem não vota nos itens 13/15, de quem pediu vista dos itens 13, 14 e 18 e do voto-vista no item 18 é incerta.",
+    "Números de processo dos itens 3 e 4 truncados pela legenda automática.",
+    "Item 4: as duas falas 'acompanho o relator' não têm falante identificado; atribuídas a Agnes e Willamy por exclusão."
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+ "meta": {
+  "video_id": "NdYlCTwqKQs",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão abre em ~0:24:40); ts de votos de seguidores aproximados; transcrição longa (~9h25) lida integralmente em 8 blocos",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "41ª Reunião Pública Ordinária de 2025",
+  "data": "2025-12-09",
+  "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Agnes da Costa (diretora-geral substituta) até ~4:39; Sandoval Feitosa (Diretor-Geral) a partir do item 16",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última reunião ordinária de 2025; quórum de quatro pela manhã; Sandoval Feitosa chegou à tarde (~4:39).",
+   "Pauta com 55 itens; 28 a 55 em bloco; destacados 38, 43, 45 e 47; retirados 9, 18, 39, 44, 48, 49 e 51; na sessão retirados também 7 (RTA CEA/Equatorial Amapá, por Agnes), 38 (pelo próprio relator) e 8 e 15 (satisfação do consumidor e sistema de medição).",
+   "Agnes declarou suspeição nos itens 1 e 17 e nos itens 52, 53 e 55 do bloco.",
+   "Renovações de concessão: Gentil abriu divergência de fundamentação (estrita observância do Decreto 12.068) acompanhada por Willamy e Agnes nos itens 22, 23 e 24; no 23 (Coelba) o relator Fernando Mosna ficou vencido; no 25 (Enel Ceará) Gentil pediu vista.",
+   "Item 12 (tarifa social/CPF) decidido por maioria após longa negociação; Gentil vencido.",
+   "Discussão sobre ordem da pauta (~4:14): diretor pediu que itens de leitura precedessem o bloco até a chegada do DG."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:34:26",
+   "processo": "itens 28 a 55 (exceto destacados 38, 43, 45, 47 e retirados 39, 44, 48, 49, 51)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 41ª RPO de 2025 (votos e atos publicados previamente)",
+   "tema": [
+    "outros"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado (com ressalvas de Willamy nos itens 33 e 36 e suspeição de Agnes nos itens 52, 53 e 55)",
+   "resumo_voto": "Bloco aprovado sem discussão.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:34:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco, exceto o item 33 e o item 36",
+     "ts": "0:34:33",
+     "justificativa": "item 33 propõe desconstituição de voto do ex-diretor Hélvio Guerra; item 36 já tem voto consignado por Hélvio à época",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:34:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha os relatores; suspeição nos itens 52, 53 e 55",
+     "ts": "0:35:08",
+     "justificativa": "suspeição nos termos do art. 9º, §2º, da Norma de Organização ANEEL nº 1",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:35:55",
+   "processo": "48500.025110/2025-36 (e pedido de cautelar 48500.035645/2025-15)",
+   "interessado": "Roraima Energia S.A.; Eletronorte; TNE; geradores do sistema Boa Vista; CCEE; ONS",
+   "assunto": "Interligação do sistema isolado de Boa Vista (Roraima) ao SIN: aspectos técnicos, comerciais e tarifários; data da efetiva interligação",
+   "tema": [
+    "transmissao",
+    "tarifas_revisao_tarifaria",
+    "cde_encargos",
+    "sistemas isolados",
+    "comercializacao"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade (Agnes suspeita)",
+   "resumo_voto": "Define 1º/01/2026 como data da efetiva interligação de Boa Vista ao SIN; geradores devem concluir SMF e modelagem na CCEE até 30/06/2026; Roraima Energia deve separar ativos até 1º/07/2027; revoga despachos 2768/2019 e (a partir da interligação) 2300/2019; tratamento tarifário de encargos de conexão e rede básica. Cautelar da Roraima Energia tratada em outra oportunidade. Apresentação técnica SGM/SFF/STR (servidora Francine).",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "1:06:00",
+     "justificativa": "marco histórico: interliga a última capital isolada; segurança, confiabilidade e modicidade tarifária para Boa Vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:11:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:11:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "declara suspeição",
+     "ts": "1:11:27",
+     "justificativa": "art. 9º, §2º, da Norma de Organização ANEEL nº 1",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:11:51",
+   "processo": "48500.009086/2019-1x",
+   "interessado": "Energisa Rondônia; sustentação oral do Conselho de Consumidores de Rondônia (Ricardo Vidinich e Jorge Rafael Oliveira de Almeida)",
+   "assunto": "Resultado do processamento da revisão tarifária extraordinária (RTE) de 2019 da Energisa Rondônia, em substituição ao reajuste de 2019",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "distribuidoras"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa efeitos financeiros do recálculo dos processos tarifários 2019-2024 (cerca de R$ 377 milhões a preços de dez/2025) e efeito econômico sobre a parcela B (fator ~1,12%) para 2025-2027; novos valores de obras físicas e AIC das portarias MME 438/2020 e 484/2021 e ofício ao MME. Conselho de consumidores criticou impacto e lucro da distribuidora.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:26:22",
+     "justificativa": "recálculo decorrente do pedido de reconsideração da Energisa; parte via tarifa e ajuste de indenização via portarias MME (RGR)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:30:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:30:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:30:15",
+     "justificativa": "pediu esclarecimento sobre o que vai à tarifa e o que é ajuste via RGR",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:32:38",
+   "processo": "48500.003999/2025-59",
+   "interessado": "Energisa Acre; sustentação oral de Fernando César Maia (Energisa)",
+   "assunto": "Reajuste tarifário anual 2025 da Energisa Acre (vigência 13/12/2025)",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "distribuidoras"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 11,54% (20,24% alta tensão; 9,51% baixa tensão); repasse da CCEE do art. 2º-G da Lei 13.203/2015 (Lei 15.269/2025) para modicidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:36:31",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:38:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:38:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:38:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:39:34",
+   "processo": "48500.004004/2025-19",
+   "interessado": "Energisa Rondônia; sustentação oral do Conselho de Consumidores de Rondônia (Ricardo Vidinich)",
+   "assunto": "Reajuste tarifário anual 2025 da Energisa Rondônia",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "distribuidoras",
+    "cde_encargos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 15,72% (18,49% AT; 15,01% BT); inclui R$ 57 milhões da RTE 2019 e reconhece ativo regulatório de R$ 320 milhões em favor da distribuidora (diferimento proposto pela Energisa); Lei 15.269/2025 reduz o efeito em 12,10%. Conselho pediu prorrogação do PLPT e criticou sobrecontratação.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "1:49:15",
+     "justificativa": "CVA de 10,65% puxada pela UTE GNA 2; diferimento de R$ 320 milhões para anos seguintes; avaliará PLPT com a distribuidora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:58:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:58:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:58:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:59:30",
+   "processo": "48500.000733/2025-38",
+   "interessado": "Eletronuclear (Angra 1 e 2); TCU; ANSN",
+   "assunto": "Regulamentação contábil-tributária do fundo de descomissionamento de Angra 1 e 2 (acórdão TCU 2502/2024): abertura de consulta pública",
+   "tema": [
+    "regulacao_normativa",
+    "tarifas_revisao_tarifaria",
+    "institucional/TCU",
+    "geração nuclear"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre CP de 10/12/2025 a 24/01/2026 (intercâmbio documental) para alterar o submódulo 6.7 do PRT, com aplicação imediata e provisória da nova regra na receita fixa de Angra 1 e 2 para 2026 (cobertura tarifária do fundo vai a zero; PIS/Cofins sobre rendimentos ~R$ 17 milhões). Preservar o fundo sem saques; dispensa de AIR por urgência (prazo TCU).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:22:09",
+     "justificativa": "atender o prazo do TCU; melhor opção é preservar o saldo do fundo de saques e cobrir tributação via receita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:23:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:23:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:23:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:24:26",
+   "processo": "48500.004034/2027-15 (número incerto)",
+   "interessado": "ONS; sustentação oral de Rafael (ONS)",
+   "assunto": "Resultado da CP 29/2025: indicadores e metas do programa de performance organizacional do ONS, ciclo 2026-2028",
+   "tema": [
+    "regulacao_normativa",
+    "transmissao",
+    "institucional"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolução homologatória com 13 indicadores (4 excluídos, 2 novos: IBEDIT e IARPP) e ciclo de 3 anos. Agnes cobrou acompanhamento de transparência de dados de curtailment e cumprimento de determinações pelo ONS.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:36:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com o relator",
+     "ts": "2:38:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com o relator",
+     "ts": "2:38:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "vota com o relator",
+     "ts": "2:38:34",
+     "justificativa": "pede às áreas acompanhar transparência do curtailment e cumprimento de decisões da ANEEL pelo ONS",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:38:57",
+   "processo": "48500.033972/2025-60 (número incerto)",
+   "interessado": "CCEE; ONS; agentes (26 entidades na CP)",
+   "assunto": "Resultado da CP 31/2025: Regras de Comercialização de Energia Elétrica versão 2026",
+   "tema": [
+    "comercializacao",
+    "regulacao_normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova Regras de Comercialização 2026, altera REN 1029/2022 e determina à CCEE e ONS estudo em 90 dias sobre frustração de oferta (Portaria MME 60/2022). Inclui conversão do complexo Jorge Lacerda em CER e cálculo do VR pela CCEE. Gentil sugeriu prazo de 120 dias para estudo da CCEE sobre inversão de fluxo por MMGD, mas retirou ao saber que o tema está na agenda regulatória de 2026.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:50:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:56:40",
+     "justificativa": "preocupação com inversão de fluxo por MMGD e risco de ativos de RTE futuros; retirou a proposta de prazo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "2:56:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com a relatora",
+     "ts": "2:56:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:57:50",
+   "processo": "48500.028437/2025-60",
+   "interessado": "CPFL Santa Cruz (Companhia Jaguari de Energia)",
+   "assunto": "Abertura de consulta pública para a revisão tarifária periódica 2026 da CPFL Santa Cruz",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "distribuidoras"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 10/12/2025 a 07/02/2026 com reunião presencial em Itapetininga (SP) em 23/01/2026; RTP a vigorar a partir de 22/03/2026.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:58:31",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com o relator",
+     "ts": "2:59:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com o relator",
+     "ts": "2:59:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "vota com o relator",
+     "ts": "2:59:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:00:05",
+   "processo": "48500.002092/2022-82 e outros",
+   "interessado": "Ventos de Santa Tarcila e demais SPEs do complexo eólico Serra do Tigre (Casa dos Ventos), RN; sustentação oral de Pedro Marcelo",
+   "assunto": "Recursos contra despacho SCE 2341/2024 (excludente de responsabilidade) e despacho SFT 2566/2024 (multas editalícias por atraso) das EOLs Ventos de São Rafael 1 a 11 e Ventos de Santa Luzia 17",
+   "tema": [
+    "fiscalizacao_sancoes",
+    "outorgas_geracao",
+    "recursos administrativos",
+    "eólica"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (recursos negados)",
+   "resumo_voto": "Conhece e nega provimento; mantém despacho SFT 725/2025 com multa recalculada para São Rafael 1 a 5 e 8. Empresa pediu multa por inexecução parcial e não total.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "3:10:12",
+     "justificativa": "pontos da empresa tratados na fundamentação do voto publicado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com a relatora",
+     "ts": "3:12:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com a relatora",
+     "ts": "3:12:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com a relatora",
+     "ts": "3:12:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "3:13:39",
+   "processo": "48500.006167/2025-61",
+   "interessado": "COPEL Distribuição S.A.",
+   "assunto": "Medida cautelar para suspender a compensação por violação do DMIC à unidade consumidora 21450 (aprox.)",
+   "tema": [
+    "fiscalizacao_sancoes",
+    "distribuidoras",
+    "qualidade do serviço"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (cautelar negada)",
+   "resumo_voto": "Ausente o periculum in mora: valor compensatório pequeno frente ao porte da Copel e vínculo comercial sólido com o consumidor permite reversão futura.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega a cautelar",
+     "ts": "3:14:31",
+     "justificativa": "não demonstrado periculum in mora diante do faturamento e lucro da companhia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "3:18:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "3:18:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:18:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:18:56",
+   "processo": "48500.028248/2025-97",
+   "interessado": "Brasil BioFuels (BBF); Amazonas Energia, Equatorial Pará, Energisa Acre",
+   "assunto": "Reembolso direto aos fornecedores de custos de locação, transporte e sobressalentes das usinas da BBF em sistemas isolados",
+   "tema": [
+    "cde_encargos",
+    "sistemas isolados",
+    "outorgas_geracao"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CCEE repassa custos diretamente aos fornecedores (limitado aos créditos da diferença receita x ACR médio); cientifica o poder concedente do risco de interrupção no AC, RO e AM; distribuidoras notificadas para assumir atendimento em caso de extinção da outorga (Decreto 12.054/2024). Processo de extinção da outorga segue com o relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:19:34",
+     "justificativa": "decisão emergencial para evitar interrupção do suprimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com o relator",
+     "ts": "3:22:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com o relator",
+     "ts": "3:22:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "vota com o relator",
+     "ts": "3:22:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "3:23:30",
+   "processo": "48500.036112/2025-61",
+   "interessado": "Neoenergia Cosern (RN)",
+   "assunto": "Prorrogação do contrato de concessão de distribuição nº 8/1997 (Decreto 12.068/2024)",
+   "tema": [
+    "distribuidoras",
+    "renovação de concessões",
+    "outorgas"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: recomenda ao MME a prorrogação (fundamentação vencedora de Gentil, acompanhada por Willamy e Agnes)",
+   "resumo_voto": "Relator recomenda prorrogação com base no decreto e em 4 critérios adicionais (DEC com expurgo, IASC, TMAE, obras atrasadas). Gentil diverge na fundamentação: recomenda com estrita observância do Decreto 12.068/2024, sem os 4 critérios adicionais (seção 2.4/3.4) do relator. Houve dúvida se seria por maioria; concluído por unanimidade pois o encaminhamento é o mesmo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, recomenda a prorrogação (decreto + 4 critérios adicionais)",
+     "ts": "3:24:44",
+     "justificativa": "Cosern atende também aos quatro critérios adicionais de serviço adequado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge na fundamentação; recomenda a prorrogação pela estrita observância do decreto",
+     "ts": "3:26:12",
+     "justificativa": "coerência com votos anteriores em renovações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:27:33",
+     "justificativa": "como em processos semelhantes anteriores",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:27:43",
+     "justificativa": "como nos outros processos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "3:30:01",
+   "processo": "48500.002525/2024-51",
+   "interessado": "Neoenergia Coelba (BA)",
+   "assunto": "Prorrogação do contrato de concessão de distribuição nº 10/1997 (Decreto 12.068/2024)",
+   "tema": [
+    "distribuidoras",
+    "renovação de concessões",
+    "qualidade do serviço"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria: recomenda ao MME a prorrogação (voto divergente de Gentil); relator vencido",
+   "resumo_voto": "Relator votou por NÃO recomendar: Coelba falha em 2 dos 4 critérios adicionais (TMAE 11,42 h, 2º pior do país; obras atrasadas) e nota técnica SFT 199/2025 aponta 11.046 ligações com obra em atraso, 7,38% de interrupções acima de 24 h, aumento de expurgos e planos de resultados sucessivos. Gentil recomendou a prorrogação pela estrita observância do decreto.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não recomenda a prorrogação (vencido)",
+     "ts": "3:30:47",
+     "justificativa": "serviço não está sendo prestado de modo adequado; descumpre TMAE e obras atrasadas; dados da NT SFT 199/2025",
+     "tom": "enfático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge: recomenda a prorrogação com base estrita no Decreto 12.068",
+     "ts": "3:44:36",
+     "justificativa": "coerência com votos anteriores; Coelba cumpre os critérios do decreto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:46:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:46:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "3:46:40",
+   "processo": "48500.003615/2025-40",
+   "interessado": "Energisa Mato Grosso",
+   "assunto": "Prorrogação do contrato de concessão de distribuição nº 3/1997 (Decreto 12.068/2024)",
+   "tema": [
+    "distribuidoras",
+    "renovação de concessões"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: recomenda ao MME a prorrogação (fundamentação divergente de Gentil acompanhada por Willamy e Agnes)",
+   "resumo_voto": "EMT falha só no TMAE entre os 4 critérios adicionais, o que não altera a recomendação positiva do relator. Gentil diverge na fundamentação: recomenda com estrita observância do Decreto 12.068/2024, sem os 4 critérios adicionais (seção 2.4/3.4) do relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, recomenda a prorrogação",
+     "ts": "3:47:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge na fundamentação; recomenda a prorrogação pela estrita observância do decreto",
+     "ts": "3:49:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:50:28",
+     "justificativa": "conforme casos anteriores",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto divergente de Gentil",
+     "ts": "3:50:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "3:50:58",
+   "processo": "48500.008652/2025-36",
+   "interessado": "Enel Distribuição Ceará; sustentação oral de Hugo Lamim (Enel)",
+   "assunto": "Antecipação dos efeitos da prorrogação do contrato de concessão nº 1/1998 (plano de resultados aprovado pelo MME, art. 11, II, do Decreto 12.068)",
+   "tema": [
+    "distribuidoras",
+    "renovação de concessões",
+    "qualidade do serviço"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Gentil Nogueira",
+   "resumo_voto": "Relator vota por NÃO recomendar a antecipação: DEC violado em 2020-2022 (3 anos consecutivos); plano de resultados aprovado pelo MME em 08/10/2025 é acompanhado pela ARCE. Gentil pede vista para consultar a Procuradoria sobre a competência e sobre minuta contratual com cláusula de perda de eficácia caso o MME prorrogue.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não recomenda a antecipação da prorrogação",
+     "ts": "3:58:27",
+     "justificativa": "descumprimento do critério de continuidade no horizonte 2020-2024; pediu celeridade lembrando pedido do MME",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "4:09:13",
+     "justificativa": "dúvida sobre competência da ANEEL quando há plano de resultados aprovado pelo MME e sobre a minuta do termo aditivo; consultar a Procuradoria",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "4:12:10",
+   "processo": "48500.005952/2025-62 (número incerto)",
+   "interessado": "COPEL Geração e Transmissão",
+   "assunto": "Extinção a pedido da concessão da UTE Figueira (Figueira-PR)",
+   "tema": [
+    "outorgas_geracao",
+    "térmica"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Remete ao MME o pedido de extinção recomendando provimento (art. 5º do Decreto 9.187/2017).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "4:13:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "4:14:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com a relatora",
+     "ts": "4:14:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com a relatora",
+     "ts": "4:14:14",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "4:17:20",
+   "processo": "48500.045337/2025-17 (número incerto)",
+   "interessado": "Energisa Acre; sustentação oral de Igor Folena Dias da Silva",
+   "assunto": "Pedido de reconsideração contra despacho 2798/2025: reembolso pela CCC de créditos de ICMS não compensados do diesel (2010-2016), indeferido por intempestividade (art. 60 da REN 801/2017)",
+   "tema": [
+    "cde_encargos",
+    "sistemas isolados",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (reconsideração negada)",
+   "resumo_voto": "Conhece e nega provimento. Procuradoria: pedido intempestivo (parecer 37/2024) e decisões judiciais citadas tratam de limite de preço de combustível, não de crédito de ICMS.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "4:26:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com a relatora",
+     "ts": "4:26:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com a relatora",
+     "ts": "4:26:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com a relatora",
+     "ts": "4:26:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "4:27:39",
+   "processo": "48500.035714/2025-91 (número incerto)",
+   "interessado": "distribuidoras; consumidores de eletromobilidade",
+   "assunto": "Abertura de consulta pública: regras de acesso e conexão de instalações de eletromobilidade (recarga de veículos elétricos) à distribuição",
+   "tema": [
+    "regulacao_normativa",
+    "distribuidoras",
+    "mobilidade elétrica"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 90 dias (11/12/2025 a 10/03/2026): conexão flexível permanente, mapa de disponibilidade de rede (Decreto 12.668), acompanhamento de solicitações, cadastro de estações de recarga (nova subclasse), plano de comunicação e esclarecimentos; também consulta sobre distribuidora prestar serviço de recarga (art. 557 da REN 1000).",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "4:40:01",
+     "justificativa": "tema presente em toda a sociedade; espera muitas contribuições",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:46:05",
+     "justificativa": "crescimento de veículos elétricos sem infraestrutura de recarga; mapa de viabilidade de conexão é essencial; prefeituras pedem recarga de ônibus",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "4:46:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "vota com o relator",
+     "ts": "4:46:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com o relator",
+     "ts": "4:46:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "4:46:43",
+   "processo": "48500.001452/2024-80 (número incerto)",
+   "interessado": "transmissoras; sustentação oral de Márcio Pina (Abrate)",
+   "assunto": "Abertura de consulta pública da AIR sobre a regulamentação do Decreto 11.314/2022 (licitação e prorrogação de concessões de transmissão em fim de vigência): modelo de receitas e indenização",
+   "tema": [
+    "transmissao",
+    "regulacao_normativa",
+    "leiloes"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade (Agnes suspeita)",
+   "resumo_voto": "CP de 90 dias (11/12/2025 a 10/03/2026); AIR recomenda alternativa 3 (melhorias de pequeno porte na licitação). Área técnica entende não haver indenização do saldo não depreciado do objeto original (parecer PF 2006); Abrate defende indenização para contratos anteriores a 2019 (ato jurídico perfeito).",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "5:05:30",
+     "justificativa": "CP é ambiente apropriado para debater o tema de relevância inquestionável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "5:08:14",
+     "justificativa": "há questão jurídica importante (parecer de 2006 e contratos anteriores); segurança jurídica da transmissão; Procuradoria terá de se debruçar",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com o relator",
+     "ts": "5:11:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "5:11:25",
+     "justificativa": "é um ciclo de debates; transmissão teve fluxo contínuo de investimentos e confiança no modelo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "declara suspeição (registrada)",
+     "ts": "5:11:14",
+     "justificativa": "art. 9º, §2º, da Norma de Organização ANEEL nº 1",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "5:11:50",
+   "processo": "48500.009413/2025-28",
+   "interessado": "geradores hidrelétricos com UBP (Abiape, Abragel e outros)",
+   "assunto": "Saldo do uso do bem público (UBP) a ser repactuado (art. 4º da Lei 15.235/2025): abertura de consulta pública",
+   "tema": [
+    "cde_encargos",
+    "outorgas_geracao",
+    "hidrelétrica"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 11/12/2025 a 12/01/2026 sobre metodologia (ordem desconto/WACC, taxa 7,31% vs 11,08%, receita incorporada, adesão parcial de consórcios, data D+60). Estimativa da área: ~R$ 8,8 bilhões para a CDE. Relator diverge da área quanto a não descontar a receita incorporada e sugere solidariedade para adesão parcial de consorciados.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "5:12:34",
+     "justificativa": "ouvir agentes antes de decidir; valor presente exige taxa de desconto; D+60 como marco de cálculo com encontro de contas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "5:30:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "5:30:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "5:30:52",
+     "justificativa": "questionou o prazo legal de 60 dias",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "5:31:33",
+   "processo": "48500.009180/2025-63 (número incerto)",
+   "interessado": "CCEE; consumidores",
+   "assunto": "Orçamento anual da CDE 2026: abertura de consulta pública e cotas provisórias",
+   "tema": [
+    "cde_encargos",
+    "tarifas_revisao_tarifaria"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 47 dias (10/12/2025 a 26/01/2026); orçamento proposto ~R$ 52,7 bilhões (+7%) e cota CDE Uso ~R$ 47,8 bilhões; cotas provisórias mensais a partir de jan/2026. DRU retira 30% da UBP.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "5:46:12",
+     "justificativa": "segue proposta da área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "5:47:18",
+     "justificativa": "questionou queda da receita de UBP (DRU) e se a repactuação sofrerá desvinculação; ESS pode substituir CCC em Roraima",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "vota com a relatora",
+     "ts": "5:52:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com a relatora",
+     "ts": "5:52:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "5:52:09",
+     "justificativa": "CDE é o custo que mais cresce (cerca de 298% em 14 anos); destacou alta da tarifa social e do subsídio da GD",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "5:52:40",
+   "processo": "48500.001795/2025-8x (número incerto)",
+   "interessado": "Abradee (sustentação oral de Ricardo Brandão); distribuidoras; beneficiários da tarifa social",
+   "assunto": "Resultado da CP 32/2025: regulamentação da Lei 15.235/2025 (MP 1300) — tarifa social, desconto social (isenção de CDE) e desconto de irrigação/aquicultura",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "cde_encargos",
+    "regulacao_normativa",
+    "tarifa social"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria (Gentil e, provavelmente, Fernando vencidos)",
+   "resumo_voto": "Aprova REN; exige titular CPF da família no CadÚnico/BPC e endereço correspondente, com regularização até 31/12/2026 (prazo ampliado a pedido alternativo da Abradee); STD reporta em jul. e nov./2026; STR publica tarifas da subclasse desconto social a partir de 1º/01/2026; acrescida determinação (proposta de Sandoval) de relatórios trimestrais das distribuidoras sobre a regularização cadastral. Gentil propôs retirar o critério de CPF e abrir 2ª fase de CP; Sandoval chegou a propor 6 meses e depois aderiu à relatora com o ajuste.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "6:05:10",
+     "justificativa": "reduzir risco de fraude e de terceiros se apropriarem do benefício (CGU); CPF é chave única (Lei 14.534/2023), paralelo com Bolsa Família; prazo de 1 ano sem descadastramento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge: retira a exigência de CPF/titularidade e abre 2ª fase de CP (vencido)",
+     "ts": "6:31:12",
+     "justificativa": "pode atingir contingente grande de não fraudadores; relatório da CGU é preliminar; há fiscalizações com efeito maior na CDE (GD, descontos)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência de Gentil (vencido)",
+     "ts": "6:46:40",
+     "justificativa": "identificação do falante incerta",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora com o ajuste (inicialmente seguira a proposta de Sandoval)",
+     "ts": "6:54:10",
+     "justificativa": "importante monitoramento trimestral e conclusão ao longo do ano",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora com ajuste de relatórios trimestrais",
+     "ts": "6:55:36",
+     "justificativa": "cadastro das distribuidoras precisa ser fidedigno; temia sucessivas prorrogações como no caso dos aquicultores",
+     "tom": "enfático",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "6:57:21",
+   "processo": "48500.004060/2025-8x (número incerto)",
+   "interessado": "sustentações orais da ABGD (Luísa Melcópio) e do INEL (Renata Réges); distribuidoras; consumidores BT",
+   "assunto": "Abertura de consulta pública: modernização tarifária ciclo 1 — tarifa horária (tarifa branca) automática para consumidores do grupo B com consumo acima de 1.000 kWh/mês",
+   "tema": [
+    "tarifas_revisao_tarifaria",
+    "geracao_distribuida",
+    "regulacao_normativa",
+    "modernização tarifária"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade, com ajustes no item 2 e datas dos workshops 'preferencialmente'",
+   "resumo_voto": "CP de 10/12/2025 a 09/03/2026 sobre aplicação automática da tarifa branca a B1, B2 e B3 acima de 1.000 kWh/mês (exceto baixa renda/desconto social), implementação até fim de 2026; escopo ampliado para avaliar recalibração dos parâmetros da tarifa branca por todas as distribuidoras também nos reajustes; avaliar aplicação a consumidores com MMGD frente à Lei 14.300; processo para plano de comunicação com recursos do PEE; três workshops (21/01, 28/01, 03/02, preferencialmente).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto longo, com ampliação do escopo)",
+     "ts": "7:26:05",
+     "justificativa": "legalidade e legitimidade: 2,5 milhões de unidades migradas exigem debate; tarifa branca de 2010 não sinaliza a curva do pato; risco a direitos da Lei 14.300; ganhos no mercado de curto prazo (PLD 10-15h vs 19-22h)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator com os ajustes",
+     "ts": "9:00:33",
+     "justificativa": "propôs que o item 2 seja avaliação na CP e não determinação imediata; questionou consumo líquido vs bruto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator com os ajustes nos itens 2 e 5",
+     "ts": "9:00:41",
+     "justificativa": "considerar especificidades regionais (região Norte)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "9:02:52",
+     "justificativa": "defendeu consulta à Procuradoria sobre MMGD e direitos adquiridos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "9:02:56",
+     "justificativa": "sugeriu que o corte de 1.000 kWh pudesse ser discutido por área de concessão; foco é sinal de preço rápido com ferramentas existentes",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "ts": "9:05:03",
+   "processo": "48500.002581/2022-23",
+   "interessado": "Raízen Caarapó Açúcar e Álcool e Suzano S.A.; sustentação oral (Raízen)",
+   "assunto": "Transferência do responsável pelo suprimento dos CCEARs da UTE Bioenergia Paraguaçu (leilão A-5 nº 8/2021) para a UTE Suzano RRP1, transferência de titularidade e revogação da outorga",
+   "tema": [
+    "comercializacao",
+    "outorgas_geracao",
+    "biomassa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (requerimento indeferido)",
+   "resumo_voto": "Indefere: transferência a usina não habilitada no certame afronta objeto do leilão e princípios licitatórios (parecer PF 120/2025); revogação não afasta penalidades. Empresa ofereceu redução de ~10% da receita fixa.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, indefere",
+     "ts": "9:14:36",
+     "justificativa": "segue parecer 120/2025 da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "9:15:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "9:15:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "9:15:34",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "9:16:05",
+   "processo": "48500.004387/2025-25",
+   "interessado": "Eólica Serra das Vacas 1 a 4; sustentação oral de Urias Martiniano Garcia Neto",
+   "assunto": "Medida cautelar para suspender o ressarcimento apurado pela CCEE até decisão do requerimento administrativo (falha em série de pitch bearings em 43 aerogeradores)",
+   "tema": [
+    "comercializacao",
+    "outorgas_geracao",
+    "eólica",
+    "fiscalizacao_sancoes"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (cautelar negada)",
+   "resumo_voto": "Conhece e nega provimento à cautelar; ausente verossimilhança.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega a cautelar",
+     "ts": "9:23:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "9:23:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "9:23:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (voto deixado registrado)",
+     "ts": "9:24:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "9:24:07",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "7",
+   "assunto": "Reajuste tarifário anual 2025 da CEA (Equatorial Amapá)",
+   "motivo": "retirado por Agnes a pedido da Equatorial (carta 114/2025), aguardando definição do rateio Sudam/Sudene da Lei 15.235",
+   "ts": "0:32:36"
+  },
+  {
+   "id": "38",
+   "assunto": "item do bloco destacado (assunto não lido)",
+   "motivo": "retirado pelo próprio relator durante discussão sobre a ordem da pauta",
+   "ts": "4:17:03"
+  },
+  {
+   "id": "8",
+   "assunto": "processo sobre satisfação do consumidor",
+   "motivo": "retirado a pedido do relator",
+   "ts": "4:27:13"
+  },
+  {
+   "id": "15",
+   "assunto": "avaliação de sistema de medição",
+   "motivo": "retirado a pedido do relator",
+   "ts": "4:27:13"
+  },
+  {
+   "id": "9, 18, 39, 44, 48, 49, 51",
+   "assunto": "não lidos",
+   "motivo": "retirados antes da sessão",
+   "ts": "0:30:31"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados (marcados como incertos).",
+  "Votos de quem só acompanha foram atribuídos por ordem e contexto; muitos sem nome dito (confiança baixa).",
+  "Bloco: primeiro voto (0:34:26) atribuído a Gentil por inferência; Willamy excetuou itens 33 e 36.",
+  "Item 12: identificação de quem acompanhou a divergência de Gentil (atribuído a Fernando Mosna) e de quem 'mantém o voto' é incerta.",
+  "Itens 38, 8 e 15: relator que retirou não identificado com segurança.",
+  "Itens 45 e 47: Fernando Mosna deixou voto registrado (ausente); Willamy possivelmente ausente no 45 (só uma voz acompanhou); no 14 houve menção a Willamy ausente, mas depois uma fala de diretor da região Norte foi atribuída a ele.",
+  "Itens 17 e 26: Agnes parece ter se ausentado (suspeição deixada registrada no 17); no 26 só três vozes acompanharam."
+ ]
+}

@@ -1,0 +1,100 @@
+{
+  "meta": {"video_id": "BasqubY7S3s", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:21:36); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª RPO 2026", "data": "2026-02-11", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) na abertura e no bloco; depois Agnes da Costa conduziu a sessão",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Fernando Mosna"],
+    "ausentes": ["Willamy Frota"],
+    "observacoes": [
+      "Willamy Frota ausente justificado (missão técnica no Amazonas, sem acesso à internet).",
+      "Sandoval Feitosa abriu a sessão, votou o bloco e se ausentou em seguida (citado pelo advogado da Light: 'diretor Sandoval, que teve que se ausentar'); itens 1, 2, 3, 6 e 16 deliberados por três diretores (quórum mínimo), com Agnes da Costa conduzindo.",
+      "Pauta de 26 itens; itens 4 a 26 em bloco, destacados os itens 6 e 16; sustentação oral nos itens 1 (Light), 6 (Ternium) e 16 (Abrate).",
+      "Aprovada a ata da 2ª RPO de 2026.",
+      "Comunicados: Tomadas de Subsídios 3/2026 e 4/2026 e Consulta Pública 1/2026 (sistemas de medição), até 16 de março; participação da ANEEL na DistribuTECH 2026 (Califórnia)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:26:45", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 4 a 26 em bloco (exceto destacados 6 e 16)",
+      "tema": ["bloco de itens"],
+      "relator": "diversos", "resultado": "aprovado; itens 4 e 21 com divergência de Sandoval Feitosa (vencido)",
+      "resumo_voto": "Bloco aprovado por todos. Sandoval Feitosa ressalvou o item 4 (votou pelo não provimento do processamento de revisão tarifária extraordinária) e o item 21 (votou pelo provimento do recurso do agente setorial).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:26:56", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova os itens remanescentes do bloco", "ts": "0:27:00", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens remanescentes do bloco", "ts": "0:27:03", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco, diverge nos itens 4 e 21 (vencido)", "ts": "0:27:05", "justificativa": "item 4: não provimento do processamento da revisão tarifária extraordinária; item 21: provimento do recurso do agente setorial", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:27:49", "processo": "48500.032812/2025-67",
+      "interessado": "Light (sustentação oral: Luís Eduardo Diniz Araújo e Emerson Caçador Rubim); MME; Comissão de Infraestrutura do Senado",
+      "assunto": "Aprovação do edital do Leilão 2/2026 - LRCAP 2026 (UTE a gás natural, carvão mineral e UHE), após CP 35/2025; resolução homologatória das TUSDg; aviso de convocação; ofício ao MME sobre leilões regionalizados",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração", "CDE e encargos setoriais", "recuperação judicial"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade (com ajustes do relator ao texto técnico)",
+      "resumo_voto": "Relator acompanhou a área técnica na exigência de equipamento novo (com caracterização por ato da Secretaria de Leilões, sugestão de Gentil) e na vedação a UHE com outorga vencendo antes do suprimento (caso Light); divergiu da área técnica e da Procuradoria ao vedar participação de empresas em recuperação judicial (art. 69, II, Lei 14.133; precedentes STJ/TCU inaplicáveis); não acolheu cláusula que afastava o custeio da reserva de capacidade (art. 8º-A Lei 9.074), substituindo-a por instrução para desconsiderar o encargo nos lances com possível reequilíbrio; suprimiu a vedação à GSub temporária (subcláusula 4.6), mantendo a 4.7; objetivou a resolução por falta de combustível (3 ou mais ocorrências em 12 meses).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova com ajustes", "ts": "1:03:00", "justificativa": "recuperação judicial: 'a lei veda, artigo 69, inciso 2º'; risco sistêmico do LRCAP; edital não pode antecipar isenção do encargo de reserva de capacidade; critica agentes que levam ao MME tema a ser decidido pela ANEEL", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator, com ressalvas", "ts": "2:15:55", "justificativa": "apoiou equipamento novo e GSub; teria visão diferente sobre inflexibilidade e não queria descartar de pronto a participação de empresas em RJ, sugerindo rediscutir em editais futuros", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:01:14", "justificativa": "pela precaução, por ser a primeira vez que se abriria a participação de empresas em RJ e a partir de caso concreto; sugere reflexão conceitual para próximos editais", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "3:01:40", "processo": "48500.032822/2025-10", "interessado": "geradores a óleo e biodiesel; Comissão de Infraestrutura do Senado",
+      "assunto": "Aprovação do edital do Leilão 3/2026 - LRCAP 2026 (UTE a óleo e biodiesel, empreendimentos existentes), após CP 36/2025; ofício ao MME sobre leilões regionalizados",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator dispensou leitura do relatório e mérito (mesmas questões do item 1); Procuradoria (parecer 28/2026) opinou pela aprovação.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "3:04:00", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "3:05:18", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:05:21", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "3:06:20", "processo": "48500.031277/2024-51", "interessado": "transmissora (contrato de cessão de uso de infraestrutura SE 6/99)",
+      "assunto": "Destinação à modicidade tarifária de receita prevista em contrato de cessão do direito de uso de infraestrutura e cumprimento do Despacho 1290/2022",
+      "tema": ["transmissão (RAP)", "tarifas e revisão tarifária"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reconhece montante dos ciclos incontroversos 2018/19 a 2022/23 para modicidade (duas parcelas, ciclos 2026/27 e 2027/28); ciclos 2010-2013 pela receita líquida auferida (parecer da Procuradoria); SFF apura até 31/03/2027 e STR captura depois, limitada em média a 1,5% da receita; prazo incluído a pedido da assessoria de Willamy Frota.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "3:09:00", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:12:00", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:12:02", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "3:13:36", "processo": "48500.0934/2025", "interessado": "Ternium Brasil (UTE do Atlântico, cogeração; sustentação oral: Marcos Vinícius da Fonseca Boarque)",
+      "assunto": "Recurso contra o Auto de Infração 44/2025 da SFT (multa por não conformidade em operação/manutenção das subestações da UTE do Atlântico)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "outorgas de geração"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; recomendação à SFT suprimida",
+      "resumo_voto": "Mantida a multa (cerca de R$ 3,45 milhões; valor incerto na legenda). Relatora propunha recomendar à SFT tratamento específico para autoprodução; Mosna discordou (sem diferença material entre autoprodutor e produtor independente para fins sancionatórios) e a relatora retirou a recomendação pela colegialidade.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento; retira a recomendação", "ts": "3:20:33", "justificativa": "aceitou suprimir o item 2 pelo princípio da colegialidade, com três diretores", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha no mérito, diverge da recomendação à SFT", "ts": "3:21:24", "justificativa": "obrigações de autoprodutores e PIEs são equivalentes; foco sancionatório na conduta do agente", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora com a supressão do item 2", "ts": "3:23:31", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "16", "ts": "3:24:17", "processo": "48500.001972/2024-92", "interessado": "Abrate (sustentação oral por vídeo: Rafael Janiques) e transmissoras (State Grid, CPFL, ISA, Neoenergia, Eletrobras, Chesf, Eletronorte, EDP e outras); Norte Energia (Belo Monte)",
+      "assunto": "Pedidos de reconsideração contra a REH 3481/2025 (RAP das transmissoras, ciclo 2025/26)",
+      "tema": ["transmissão (RAP)", "tarifas e revisão tarifária", "recursos administrativos"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "42 pedidos; provimento total ou parcial conforme tabela 4 (NT 8/2026-STR), demais negados; pleito da Abrate sobre inadimplência da Norte Energia no EUST (mais de R$ 450 milhões, liminar do TRF1) não conhecido por tramitar em processo específico; parcelas de ajuste desconsideradas no reajuste de 2026 de distribuidora (nome incerto).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "3:32:47", "justificativa": "não se nega o pleito da Abrate; é tratado em processo apartado", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:35:30", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:35:35", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes podem estar errados (ex.: valor da multa do item 6, nº do processo do item 6, distribuidora do item 16).",
+    "Itens do bloco (4 a 26) não são descritos na transmissão; o assunto dos itens 4 e 21, em que Sandoval Feitosa divergiu, não foi enunciado.",
+    "A proclamação do bloco fala em unanimidade 'com exceção dos itens 4 e 21'; o voto de Sandoval nesses itens foi registrado como vencido por inferência.",
+    "Atribuição de falantes inferida: Agnes da Costa conduziu a sessão após a saída de Sandoval Feitosa; votos de quem apenas acompanha têm ts aproximado.",
+    "Ricardo Tili aparece nas marcações de falante, mas as falas correspondem ao procurador-geral (Eduardo Ramalho) e à Secretaria-Geral; não votou."
+  ]
+}

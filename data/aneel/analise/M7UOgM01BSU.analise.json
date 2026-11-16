@@ -1,0 +1,470 @@
+{
+ "meta": {
+  "video_id": "M7UOgM01BSU",
+  "fonte": "legenda automática do YouTube; falantes inferidos pouco confiáveis; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4",
+  "data": "2026-02-24",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "4ª RPO de 2026, 43 itens na pauta; itens 9 a 43 em bloco; destacados 13, 14 e 43; retirados 2, 3, 5 e 8; sustentação oral nos itens 4, 7 e 13.",
+   "Item 43 (Enel SP) gerou embate entre Sandoval Feitosa e Fernando Mosna sobre o rito regimental (art. 53 da REN 1.133/2025).",
+   "Sessão longa (cerca de 5h36)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 9 a 43, exceto 13, 14, 20 e 43)",
+   "ts": "0:06:20",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos e atos publicados com a pauta); item 19 com voto-vista acompanhando a relatora",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (DG primeiro proclamou o item 19 por maioria e retificou para unanimidade)",
+   "resumo_voto": "Bloco aprovado; destacados os itens 13, 14 e 43; no item 19 todos acompanharam a relatora (voto-vista também acompanhando).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:06:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "mantém voto no item 19, pede vista do item 20 e aprova os remanescentes",
+     "ts": "0:06:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:07:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:07:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco; no item 19 acompanha a relatora",
+     "ts": "0:08:27",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:06:47",
+   "processo": "",
+   "interessado": "não identificado",
+   "assunto": "Item 20 do bloco (assunto não lido na sessão)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista",
+   "resumo_voto": "Item retirado do bloco por pedido de vista.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:06:47",
+     "confianca": "media",
+     "justificativa": "não detalhada"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:14",
+   "processo": "48500.002361/2025-22",
+   "interessado": "Secretaria de Leilões (CEL); transmissoras com caducidade (Serra Negra, Tangará, M7-M10 Energia, Sterlite); Light (lote 1)",
+   "assunto": "Aprovação do edital do Leilão nº 1/2026-ANEEL (transmissão), consolidado após análise do TCU",
+   "tema": [
+    "leilões",
+    "transmissão",
+    "fiscalização e sanções (caducidade)",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade, com ajustes",
+   "resumo_voto": "Edital com 9 lotes; sessão pública em 27/03/2026 para lotes 1 a 5 e segunda sessão para lotes 7 a 10 ao menos 30 dias após homologação pelo TCU do distrato consensual (lote 6 fora, acordo da M6). Relator diverge da área: veda só concessionária (não controladora) e só caducidade decretada pelo MME, não mera recomendação (parecer PF 2020). Ajustes no debate: data da 2ª sessão por comunicado de fato relevante da Comissão Especial de Licitação; CEL com apoio da PF e SCE instrui em 60 dias processo de regulamentação das condições de participação (sugestão do DG).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:27:54",
+     "confianca": "alta",
+     "justificativa": "sem homologação do TCU o distrato não produz efeitos; duas sessões preservam credibilidade e segurança jurídica do certame"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator com as modificações",
+     "ts": "0:56:05",
+     "confianca": "media",
+     "justificativa": "perguntou se a 2ª sessão voltaria à diretoria"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator com as sugestões",
+     "ts": "0:56:10",
+     "confianca": "media",
+     "justificativa": "dúvida sobre o lote 6 caso o TCU não homologue"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator com as modificações",
+     "ts": "0:56:16",
+     "confianca": "baixa",
+     "justificativa": "sugeriu comunicado relevante da comissão em vez de aviso de licitação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:56:16",
+     "confianca": "alta",
+     "justificativa": "lamentou contingências às vésperas do edital, perguntou sobre risco de abastecimento; propôs prazo e regulamentação geral das condições de participação"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:57:55",
+   "processo": "48500.036730/2025-09",
+   "interessado": "comunidades isoladas da Amazônia; IEMA; BID",
+   "assunto": "Abertura de consulta pública (47 dias, 26/02 a 13/04/2026) sobre minuta de REN do projeto Energias da Floresta (sandbox regulatório)",
+   "tema": [
+    "regulação normativa",
+    "universalização / sistemas isolados",
+    "P&D e eficiência energética"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre CP; dispensa de AIR por caráter habilitador e experimental (art. 7º, II, REN 941). Apresentação de Renata Scot (coordenação de transição energética).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova abertura de CP",
+     "ts": "1:03:53",
+     "confianca": "alta",
+     "justificativa": "baixo impacto normativo, ambiente de experimentação semelhante ao sandbox tarifário"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:11:35",
+     "confianca": "baixa",
+     "justificativa": "questionou fonte de custeio (PDI/PEE) e se é programa ou conjunto de pilotos"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:12:11",
+     "confianca": "baixa",
+     "justificativa": "perguntou sobre a futura resolução autorizativa de governança"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:11:35",
+     "confianca": "baixa",
+     "justificativa": "pede conceito mais sistêmico de povos da floresta, não só indígenas (falante inferido)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:12:13",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:12:49",
+   "processo": "48500.029413/2025-28",
+   "interessado": "usinas hidrelétricas com UBP; ABIAP, APINE e ABRAGE (sustentação oral)",
+   "assunto": "Resultado da CP 45/2025: metodologia e valores do saldo de UBP a repactuar (art. 4º da Lei 15.235/2025) e minuta de termo aditivo",
+   "tema": [
+    "CDE e encargos setoriais",
+    "outorgas de geração (hidrelétrica)",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "itens 1 e 3 por unanimidade; item 2 (minuta de termo aditivo com adesão parcial de consorciados) por maioria",
+   "resumo_voto": "Mantém taxa de 7,31% (CNPE) e 10% onde previsto em edital; receita incorporada a valor presente; dedução após o redutor de 50% (literalidade da lei); data de referência D+60; admite adesão parcial de consorciados com cláusula de solidariedade proposta pela PF (NJ 4/2026). Saldo total cerca de R$ 7,88 bi à CDE. Sustentações: Daniel Pina (ABIAP), Josiane Napolitano (APINE), Camila Fernandes (ABRAGE).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:43:38",
+     "confianca": "alta",
+     "justificativa": "aplicação literal da lei quanto à taxa e ao ordenamento; adesão parcial não cria risco novo e amplia a política pública (cerca de R$ 1,2 bi em consórcios)"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o voto integral do relator",
+     "ts": "2:36:04",
+     "confianca": "media",
+     "justificativa": "sensibilizado com o ordenamento do cálculo (desconto negativo afasta agentes), mas acompanha"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:36:08",
+     "confianca": "media",
+     "justificativa": "lei não dá discricionariedade sobre o ordenamento; apoia solução para consórcios"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:36:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha itens 1 e 3; diverge no item 2 (adesão parcial de consorciados)",
+     "ts": "2:32:15",
+     "confianca": "alta",
+     "justificativa": "obrigações do consórcio devem ser vistas de forma integral; segue parecer 269 da Procuradoria; cita precedente de consorciado inadimplente de UBP"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:38:44",
+   "processo": "48500.041252/2024-80",
+   "interessado": "ABRATE (sustentação oral de Thiago de Barros Correa); transmissoras do RS",
+   "assunto": "Recurso contra Despacho 436/2025 (SCE/STD) que negou tratamento regulatório excepcional para enquadrar como reforço ou melhoria investimentos de recomposição após as enchentes do RS em 2024",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "eventos climáticos / resiliência"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Contratos atribuem à transmissora licitada o risco de fatos danosos extraordinários (seguro ou recursos próprios); risco precificado no leilão; não cabe excepcionalização; reforços seguem rito da Portaria MME 215/2020.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento",
+     "ts": "2:54:53",
+     "confianca": "alta",
+     "justificativa": "matriz de risco contratual; força maior afastada pela assunção expressa do risco (art. 393 CC); isonomia com prorrogadas não procede"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "3:14:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:14:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:14:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:14:24",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "3:14:38",
+   "processo": "48500.903312/2024-72",
+   "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
+   "assunto": "Prorrogação do prazo de vista do TI 49/2024 (SFT) — falhas e transgressões da Enel SP, possível recomendação de caducidade",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "distribuição e qualidade",
+    "eventos climáticos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "por maioria, vista prorrogada até a RPO de 24/03/2026 (proposta de Willamy Frota)",
+   "resumo_voto": "Gentil (voto-vista) pediu +60 dias (nota técnica SFT 9/2026 sobre evento de dez/2025, prazo de manifestação da Enel até 26/02, risco de nulidade). Sandoval apresentou voto por não prorrogar, recomendar caducidade ao MME e mandar áreas elaborarem em 30 dias plano de intervenção, alterando voto anterior (art. 53, §2º). Mosna e Agnes contestaram o rito (mérito em sede de prorrogação). Willamy propôs deliberação em 24/03; maioria acompanhou.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista: pede prorrogação de 60 dias; mantém e se submete ao colegiado",
+     "ts": "3:15:19",
+     "confianca": "alta",
+     "justificativa": "contraditório e ampla defesa; incluir evento de 2025 por descumprimento continuado; evitar nulidade e judicialização"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge: não prorrogar; recomendar caducidade ao MME e plano de intervenção (vencido)",
+     "ts": "3:23:39",
+     "confianca": "alta",
+     "justificativa": "60 dias ultrapassariam o prazo de março que fundamentou seu voto anterior; Enel perdeu legitimidade social; serviço inadequado comprovado em 2023 e 2024",
+     "tom": "debate áspero com Fernando Mosna sobre o rito"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "propõe deliberação em 24/03/2026 (cerca de 30 dias)",
+     "ts": "5:13:27",
+     "confianca": "alta",
+     "justificativa": "prazo razoável, coerente com o voto da relatora; manifestação da Enel até 26/02"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a proposta de Willamy Frota",
+     "ts": "5:17:53",
+     "confianca": "media",
+     "justificativa": "urgência e expectativa de solução em março; considera elementos novos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a proposta de Willamy Frota",
+     "ts": "5:17:53",
+     "confianca": "media",
+     "justificativa": "criticou voto de mérito de Sandoval em sede de prorrogação de vista, sem previsão regimental",
+     "tom": "questionamento duro ao DG"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "5:19:28",
+   "processo": "48500.008692/2024-25",
+   "interessado": "Energisa Mato Grosso do Sul (sustentação oral de Rodrigo Santana)",
+   "assunto": "Recurso contra Despacho 3.500/2025 (STD) que indeferiu afastamento do adicional de EUST (ADC-UST) no ponto de conexão Campo Grande 2 após desligamento causado por manutenção da transmissora",
+   "tema": [
+    "transmissão",
+    "tarifas (EUST/MUST)",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "negado provimento, por maioria",
+   "resumo_voto": "Relator mantém o despacho.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento",
+     "ts": "5:30:19",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge: mantém despacho mas com neutralidade na Parcela A do próximo processo tarifário",
+     "ts": "5:31:42",
+     "confianca": "alta",
+     "justificativa": "precedente de jan/2025 relatado pelo ex-diretor Ricardo Tili (Equatorial)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "5:32:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "5:32:59",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (voto registrado)",
+     "ts": "5:32:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "5:33:29",
+   "processo": "48500.058142/2025-17",
+   "interessado": "Enel Distribuição Ceará",
+   "assunto": "Recurso contra Despacho 3.685/2025 (STD): isenção da PI deferida, afastamento do ADC-UST indeferido (ultrapassagens de MUST em 05/03/2025, Fortaleza e Delmiro Gouveia)",
+   "tema": [
+    "transmissão",
+    "tarifas (EUST/MUST)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento; proclamado por unanimidade",
+   "resumo_voto": "Relatora mantém o despacho.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "5:34:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "registra a mesma manifestação do item 13 (neutralidade)",
+     "ts": "5:35:19",
+     "confianca": "baixa",
+     "justificativa": "proclamado como unanimidade apesar da manifestação"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "5:35:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "5:35:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (voto registrado)",
+     "ts": "5:35:43",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2"
+  },
+  {
+   "item": "3"
+  },
+  {
+   "item": "5"
+  },
+  {
+   "item": "8"
+  }
+ ],
+ "limites_da_analise": [
+  "Etiquetas de falante {..} da transcrição são frequentemente erradas; atribuição de votos de quem só acompanha inferida pela ordem de fala (confiança baixa/média).",
+  "Bloco: identidade do autor do pedido de vista do item 20 e do voto-vista do item 19 incerta; assunto do item 20 não lido.",
+  "Números de processo vêm da legenda automática e podem estar errados.",
+  "'Ludmila'/'Thaís' citadas no item 1 são da área técnica (outorgas), não diretoras; Ricardo Tili é citado como ex-diretor substituído por Gentil Nogueira.",
+  "Item 14: Gentil registrou a mesma manifestação divergente do item 13, mas o resultado foi proclamado por unanimidade.",
+  "Item 43: não é deliberação de mérito; resultado é a prorrogação da vista até 24/03/2026."
+ ]
+}

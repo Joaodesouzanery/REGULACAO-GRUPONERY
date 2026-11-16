@@ -1,0 +1,66 @@
+{
+  "meta": {"video_id": "C3rvjAxNAhU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "35ª RPO 2025", "data": "2025-09-23", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Willamy Frota", "Gentil Nogueira"],
+    "ausentes": ["Agnes da Costa (missão institucional internacional)"],
+    "observacoes": ["Quórum de quatro diretores; primeira reunião dos diretores Gentil Nogueira e Willamy Frota na bancada.", "Apresentação da Secretaria-Geral (Renata Farias) sobre a nova Norma de Organização nº 1 (REN 1133/2025) e implantação do circuito deliberativo assíncrono, intercalado com reuniões presenciais (Portaria 6999/2025).", "Fernando Mosna leu o comunicado relevante da retirada do lote 2 (Amazonas: Anamã, Anori, Caapiranga, Codajás, Coari) do leilão de sistemas isolados 1/2025 a pedido do MME (ofício 459) e registrou discordância técnica; Sandoval criticou retrabalho por retiradas na véspera (terceiro certame); Willamy Frota manifestou preocupação com o atendimento das localidades e com o energético no edital.", "Pauta com 38 itens; itens 4 a 38 em bloco (item 6 retirado); sem sustentações orais; ordem: bloco, itens 1, 3 e 2 (todos relatados por Fernando Mosna)."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:58:25", "processo": "itens 4 a 38 (exceto 6)", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 4 a 38 da pauta (votos disponibilizados previamente)",
+      "tema": ["deliberação em bloco"], "relator": "diversos",
+      "resultado": "aprovado por unanimidade; item 9 por maioria (diretores novos não votaram por já haver voto do antecessor)",
+      "resumo_voto": "Bloco aprovado sem destaques; no item 9 dois diretores se abstiveram por já haver voto proferido na 26ª reunião (diretor Ivo, substituto).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco, exceto item 9", "ts": "0:58:49", "justificativa": "não vota no item 9 por já haver voto de diretor anterior", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova o bloco, exceto item 9", "ts": "0:59:01", "justificativa": "diretor Ivo já tinha proferido voto na 26ª reunião", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco e mantém voto no item 9", "ts": "0:59:13", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco e proclama", "ts": "0:59:34", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:59:58", "processo": "48500.073442/2025-00 (incerto)", "interessado": "Secretaria de Leilões (SEL); transmissoras",
+      "assunto": "Aprovação do edital do Leilão nº 4/2025 de transmissão, consolidado após análise do TCU (7 lotes, sessão em 31/10/2025 na B3; RAP ≈ R$ 937 milhões, investimento ≈ R$ 5,5 bilhões; 4 lotes retirados por solução consensual MME/TCU, recolocados no leilão de março/2026)",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"], "relator": "Fernando Mosna",
+      "resultado": "aprovado (proclamação não captada na legenda; presumido unânime)",
+      "resumo_voto": "Voto por aprovar o edital do Leilão 4/2025 com objeto, RAP e anexos de 7 lotes; Procuradoria favorável (parecer 133/2025); apresentação técnica de André Tiburtino (SEL).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:08:17", "justificativa": "TCU atestou atendimento formal à IN 81/2018; ajustes de valoração apontados pelo TCU sem alterar condições editalícias", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "1:10:00", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:10:00", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:10:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:10:00", "processo": "48500.007128/2025-72 (incerto)", "interessado": "Central Energética Palmeiras S.A. (CEPAL), UTE Palmeiras de Goiás; CCEE",
+      "assunto": "Pedido de efeito suspensivo na impugnação da CEPAL contra decisão do Conselho de Administração da CCEE (reunião 1476) de desligá-la por inadimplência de cerca de R$ 17,9 milhões em penalidades",
+      "tema": ["comercialização (CCEE)", "recursos administrativos", "fiscalização e sanções"], "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade com ajuste: efeito suspensivo concedido até 31/12/2025 (em vez de até o julgamento de mérito) e CEPAL mantida em monitoramento na CCEE",
+      "resumo_voto": "Presentes perigo da demora e reversibilidade; desligamento cancelaria CCEARs mantidos por efeito suspensivo do DG (despacho 3768/2024); CCEE deve restringir contratos de venda a lastro. Gentil Nogueira questionou a extensão indefinida da suspensão; relator aceitou prazo final de 31/12/2025.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (com ajuste do prazo para 31/12/2025)", "ts": "1:13:22", "justificativa": "receio de prejuízo de difícil reparação e reversibilidade; coerência com o efeito suspensivo do DG sobre os CCEARs; monitoramento limita risco ao MCP", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator com as propostas de alteração", "ts": "1:39:44", "justificativa": "preocupação com a suspensão se alongar desde dez/2024 sem julgamento; sugeriu vincular a prazo ou à decisão sobre rescisão dos contratos", "tom": "questionador, colaborativo", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator com o prazo finito de 31/12/2025", "ts": "1:39:52", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:39:58", "justificativa": "defendeu que o mérito (na SGM/diretora Agnes) seja julgado o mais rápido possível", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:40:59", "processo": "não identificado", "interessado": "Celesc Distribuição S.A.",
+      "assunto": "Recurso administrativo contra o Auto de Infração 35/2024 (SFT) que aplicou multa (≈ R$ 4,9 milhões após atenuante de 50%) por descumprimento de prazos de envio de dados à base INDGER",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "distribuição"], "relator": "Fernando Mosna",
+      "resultado": "recurso provido; auto de infração anulado e arquivado (por unanimidade)",
+      "resumo_voto": "Aplicação do venire contra factum proprium: o Ofício Circular 16/2024 deu 60 dias para autorregularização a todas as distribuidoras sem distinguir quem não enviou dados; TN emitido 18 dias depois e Celesc regularizou em 30/04, dentro do prazo; remédio é anular, não reduzir a multa. Área técnica (Ana Cláudia, SFT) defendeu que a Celesc nunca enviou dados corretos.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá provimento e anula o auto de infração", "ts": "1:42:17", "justificativa": "proteção da confiança legítima e fiscalização responsiva: o ofício circular criou expectativa de prazo de 60 dias para regularização", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "2:13:53", "justificativa": "questionou a aplicação da atenuante de 50% da REN 846 e sugeriu AIR sobre a efetividade dos atenuantes", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "2:13:53", "justificativa": "resumiu que o ofício da ANEEL incutiu expectativa legítima de prazo adicional", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:13:55", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "6 (bloco)", "relator": "não identificado", "motivo": "retirado de pauta (motivo não informado)", "ts": "0:55:43"}],
+  "limites_da_analise": ["Legenda automática: números de processo distorcidos (itens 1 e 3 incertos; item 2 sem número).", "Item 1: os votos e a proclamação não aparecem na legenda (passa direto ao item 3); resultado e votos dos seguidores presumidos.", "Falantes das manifestações no bloco, no item 3 (1:39:44, 1:39:52) e no item 2 (perguntas sobre atenuante; transcrição chama a autora de 'diretora', mas Agnes estava ausente) atribuídos por inferência; confiança baixa.", "Item 9 do bloco: proclamado 'por maioria' por abstenção dos diretores novos; identidade exata de quem se absteve incerta.", "Ricardo Tili e Ludimila Lima não citados como presentes."]
+}

@@ -1,0 +1,610 @@
+{
+ "meta": {
+  "video_id": "61UyYNFsDU0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "39ª Reunião Pública Ordinária de 2025",
+  "data": "2025-11-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Agnes da Costa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 34 itens; 8 a 34 em bloco; destacados 19, 32, 33, 34; item 7 retirado; item 12 com vista.",
+   "Fernando Mosna deixou a sessão após o item 19 (compromisso institucional).",
+   "Suspensão para almoço (vídeo salta de ~2:46 para 5:19).",
+   "Sustentação oral do item 5 recebida após o prazo não admitida; a da Abragel no item 5 foi feita."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:36:26",
+   "processo": "itens 8 a 34 (exceto destacados 19, 32, 33, 34)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos disponibilizados com a pauta); inclui item 10 (consulta pública sobre aporte de garantias financeiras dos vencedores do leilão de energia existente, relator Gentil Nogueira)",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado, com as ressalvas registradas por cada diretor",
+   "resumo_voto": "No item 10 Gentil esclarece que não haverá retroação da norma, apenas adaptação dos agentes se a regra de garantias mudar ao fim da consulta pública; compromete-se a positivar isso no voto.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco; diverge na fundamentação dos itens 24 e 25",
+     "ts": "0:38:10",
+     "confianca": "media",
+     "justificativa": "no item 10 a regra de garantias vale desde já, sem retroação; nos itens 24/25 concorda com o encaminhamento, diverge da fundamentação"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco com ressalvas (vista no 12; mantém voto no 13; não vota no 14)",
+     "ts": "0:38:59",
+     "confianca": "media",
+     "justificativa": "falante inferido pelo contexto"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco; no 13 acompanha o relator Willamy",
+     "ts": "0:39:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o bloco com ressalvas",
+     "ts": "0:39:54",
+     "confianca": "alta",
+     "justificativa": "no 13 acompanha voto-vista de Gentil; no 14 voto-vista de Fernando Mosna; nos 24/25 a divergência de Gentil"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:38:59",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 12 do bloco (assunto não lido na sessão)",
+   "tema": [
+    "não identificado"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista de Willamy Frota",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:38:59",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 13 do bloco (assunto não lido na sessão); relator Willamy Frota, voto-vista de Gentil Nogueira",
+   "tema": [
+    "não identificado"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "não proclamado separadamente (aprovado no bloco conforme registros de cada diretor)",
+   "resumo_voto": "Willamy mantém seu voto; Fernando acompanha o relator; Sandoval acompanha o voto-vista de Gentil.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, mantém o voto",
+     "ts": "0:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista (teor não lido)",
+     "ts": "0:39:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:39:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista de Gentil",
+     "ts": "0:39:54",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:38:59",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 14 do bloco (assunto não lido); voto-vista de Fernando Mosna",
+   "tema": [
+    "não identificado"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado no bloco",
+   "resumo_voto": "Willamy não vota porque o voto já fora proferido por diretor substituto (Ivo); Sandoval acompanha voto-vista de Fernando Mosna.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista",
+     "ts": "0:39:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "não vota (voto já proferido por substituto)",
+     "ts": "0:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista de Fernando Mosna",
+     "ts": "0:39:54",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "24-25",
+   "ts": "0:38:10",
+   "processo": "",
+   "interessado": "Neoenergia Elektro e CPFL Paulista",
+   "assunto": "Requerimentos de prorrogação das concessões de distribuição da Elektro e da CPFL Paulista (recomendação ao MME)",
+   "tema": [
+    "distribuição e concessões",
+    "institucional"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovada a recomendação de prorrogação; prevaleceu a fundamentação divergente de Gentil (itens 3.4 e 3.6)",
+   "resumo_voto": "Divergência só de fundamentação, já de praxe nesses processos.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, recomenda prorrogação",
+     "ts": "0:38:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge da fundamentação (itens 3.4 e 3.6), concorda com o encaminhamento",
+     "ts": "0:38:10",
+     "confianca": "alta",
+     "justificativa": "divergência de praxe"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a divergência de Gentil",
+     "ts": "0:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Gentil",
+     "ts": "0:39:54",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:41:05",
+   "processo": "48500.028212/2025-67 (legenda incerta)",
+   "interessado": "Secretaria de Leilões; MME",
+   "assunto": "Abertura de consulta pública (28 dias, 19/11 a 16/12/2025) sobre edital do LRCAP 2026 (leilão 3/2025): termelétricas a gás natural e carvão mineral e hidrelétricas",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública reduzida de 45 para 28 dias pela data do leilão fixada pelo MME (18 e 20/03/2026). Sandoval critica a pouca interação do MME, a contratação longa de fontes pouco flexíveis e a atribuição de fiscalizar combustível; debate com Gentil sobre inflexibilidade x tempos de partida.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "0:58:00",
+     "confianca": "alta",
+     "justificativa": "prazo reduzido a 28 dias para cumprir a data do leilão"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:11:49",
+     "confianca": "media",
+     "justificativa": "em debate, sustenta que as usinas não têm inflexibilidade, apenas restrições técnicas de partida/parada"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:11:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:11:55",
+     "confianca": "alta",
+     "justificativa": "preocupação com contratos longos de fontes pouco flexíveis, interação exígua com o MME e competência para fiscalizar combustível"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:12:09",
+   "processo": "",
+   "interessado": "Secretaria de Leilões; MME",
+   "assunto": "Abertura de consulta pública sobre edital do LRCAP 2026 para termelétricas a óleo combustível, óleo diesel e biodiesel",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mesma apresentação técnica do item 1.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:12:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:12:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:12:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:12:35",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:12:35",
+   "processo": "48500.003665/2022-84",
+   "interessado": "Diamante Geração de Energia (Complexo Termelétrico Jorge Lacerda)",
+   "assunto": "Recursos contra Despachos SGM 1051/2023 e 739/2024 que aprovaram os CVUs do Complexo Jorge Lacerda (custo do combustível secundário, óleo diesel)",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (térmica)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "por maioria, conhecer e negar provimento (voto da relatora Agnes); voto-vista de Fernando Mosna vencido",
+   "resumo_voto": "Sustentação oral de Valéria Rosa (Diamante): desvio de finalidade ao aplicar a REN 1016/2022 (CCC) ao CVU. Voto-vista de Mosna: aplicar REN 1016 tornaria letra morta a REN 1093; dar parcial provimento para recalcular os CVUs 2023-2024 pelo custo efetivamente incorrido com diesel; acolheu sugestão de incluir a SFF.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento (voto proferido em sessão anterior; ausente, em férias)",
+     "ts": "1:12:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: dá parcial provimento (vencido)",
+     "ts": "1:14:00",
+     "confianca": "alta",
+     "justificativa": "aplicar REN 1016 seria desvio de finalidade; REN 1093 manda análise do caso concreto; recalcular CVU pelo custo incorrido"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o voto-vista de Fernando Mosna (vencido)",
+     "ts": "1:30:15",
+     "confianca": "baixa",
+     "justificativa": "achou interessante o custo incorrido, 'não é errado'; sugeriu incluir a SFF"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora Agnes",
+     "ts": "1:30:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora Agnes",
+     "ts": "1:30:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:31:23",
+   "processo": "48500.015402/2024-81 (legenda incerta)",
+   "interessado": "Elera Renováveis (usina Itiquira)",
+   "assunto": "Impugnação de termos de notificação da CCEE (insuficiência de lastro, set-out/2023) após sucessão do agente Itiquira",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: negar provimento, mantidas as penalidades (cerca de R$ 1,8 milhão)",
+   "resumo_voto": "Sustentação oral de Pablo Mota Ribeiro (Elera): falha de disponibilização de dados pela CCEE, pede arquivamento ou recontabilização. Relator: CCEE agiu nos limites das normas; sem previsão para recontabilização; esclarece que os adjetivos 'desleixada e inaceitável' vêm do Parecer 90/2024 e não se dirigem à Elera.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "1:42:17",
+     "confianca": "alta",
+     "justificativa": "não há previsão normativa para recontabilização no caso concreto"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:45:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:45:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:45:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:46:46",
+   "processo": "48500.036752/2025-62 (legenda incerta)",
+   "interessado": "DME Distribuição (DMED), Poços de Caldas-MG",
+   "assunto": "Revisão tarifária periódica 2025 da DMED, efeito médio de 12,48% (AT 22,47%, BT 6,59%), após CP 30/2025",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral do Conselho de Consumidores (Arlene Nogueira e Ricardo Vidinich): alta dos encargos setoriais, subsídios à MMGD, Itaipu. Componente T do fator X em 0%. Sandoval destaca que a DMED tem a tarifa mais baixa do Brasil.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova a RTP",
+     "ts": "2:14:56",
+     "confianca": "alta",
+     "justificativa": "lembra que a norma de diferimento só foi aprovada em 2025"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator Gentil",
+     "ts": "2:20:56",
+     "confianca": "media",
+     "justificativa": "registro de agradecimento a Ricardo Vidinich; desigualdade tarifária do Amazonas"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:21:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:21:59",
+   "processo": "48500.003330/2025-33",
+   "interessado": "SGM/STR; CCEE; Angra 1 e 2 (Eletronuclear)",
+   "assunto": "Consulta pública (47 dias, 20/11/2025 a 05/01/2026) sobre rateio do custo e da geração de Angra 1 e 2 entre todos os usuários finais do SIN (art. 11-A da Lei 12.111/2009, Lei 15.235/2025, MP 1300); aplicação provisória de regras da CCEE e republicação das tarifas da baixa renda",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "comercialização (CCEE, PLD, contratos)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Rateio via liquidação centralizada na CCEE, uso provisório da conta custódia sem CCG. Gentil e Sandoval destacam justiça tarifária: mercado livre passa a pagar Angra.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "2:40:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:45:20",
+     "confianca": "baixa",
+     "justificativa": "Angra dá segurança a todos os consumidores; redução relevante de custo do regulado"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:45:29",
+     "confianca": "alta",
+     "justificativa": "medida traz justiça tarifária"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "5:19:45",
+   "processo": "48500.001219/2024-05 e outro (legenda incerta)",
+   "interessado": "Amazonense de Transmissão de Energia (AETE) e Norte de Transmissão de Energia",
+   "assunto": "Ratificação da decisão do 4º circuito deliberativo: pedidos de reconsideração contra REA 15.573/2024 (melhorias e RAP de substituição de bancos de capacitores)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "ratificado por unanimidade (negado provimento)",
+   "resumo_voto": "Voto da relatora Agnes lido por Gentil. Sustentação oral de Thiago de Barros: pede garantia de VPL zero na indenização ao fim da concessão. Área técnica: metodologia de indenização em regulamentação (relator Willamy).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "ratifica (lê o voto da relatora)",
+     "ts": "5:29:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "ratifica",
+     "ts": "5:29:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ratifica",
+     "ts": "5:29:20",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "5:30:11",
+   "processo": "48500.039898/2025-4 (legenda incerta)",
+   "interessado": "ONS; distribuidoras (CPFL Paulista, Cemig D, Energisa MT, Copel, Elektro, Celesc, Equatorial Goiás, Energisa MS, Coelba, RGE, EDP ES, Neoenergia PE); Abragel",
+   "assunto": "Plano emergencial de corte de geração na distribuição (usinas tipo 3) proposto pelo ONS",
+   "tema": [
+    "distribuição e qualidade",
+    "geração distribuída (MMGD)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade; negado o pedido de retirada de pauta da Abragel",
+   "resumo_voto": "Sustentação oral de Renata Menescal (Abragel): pede retirada, consulta pública e AIR, critica documentos sigilosos. Relator: corte já é possível pelo arcabouço vigente; distribuidoras elaboram instrução de operação em 20 dias; ONS pode fazer consulta de no mínimo 10 dias; relatório ao ANEEL em 30 dias após cada acionamento; SFT acompanha.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova o plano",
+     "ts": "5:44:15",
+     "confianca": "alta",
+     "justificativa": "ou o corte é coordenado ou é descoordenado (blackout); não inova, só organiza"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "6:30:41",
+     "confianca": "media",
+     "justificativa": "debate apenas começando; previsibilidade e segurança do sistema"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:30:45",
+     "confianca": "alta",
+     "justificativa": "as leis da física se sobrepõem; crescimento da MMGD sustentado por subsídios bilionários"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "6:32:10",
+   "processo": "48500.010706/2025-31 (legenda incerta)",
+   "interessado": "UTE Pampa Sul; Seival Sul Mineração",
+   "assunto": "Ratificação: recurso contra Despacho SGM 2604/2025 que negou recomposição dos preços do carvão mineral nacional",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "ratificado (negado provimento)",
+   "resumo_voto": "Sustentação oral de Dárcio Franco Lima Júnior (Seival Sul) pede sobrestamento até manifestação do MME; relator ratifica.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, ratifica",
+     "ts": "6:39:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "ratifica",
+     "ts": "6:39:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ratifica",
+     "ts": "6:39:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "6:39:40",
+   "processo": "48500.015152/2025-11 (legenda incerta)",
+   "interessado": "Parintins Amazonas Transmissora de Energia",
+   "assunto": "Ratificação: pedido de reequilíbrio econômico-financeiro do contrato de concessão 16/2019 (efeitos da COVID-19)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "ratificado (negado provimento)",
+   "resumo_voto": "Voto da relatora Agnes lido por Gentil. Sustentação oral de Bruno César Crispim: custos incrementais (R$ 11 mi) e receita antecipada frustrada (R$ 73 mi).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "ratifica (lê o voto da relatora)",
+     "ts": "6:47:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "ratifica",
+     "ts": "6:47:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ratifica",
+     "ts": "6:47:33",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "7",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:36:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Atribuição de falantes inferida; nos itens 6, 12-14 a ordem de votos no bloco foi deduzida da proclamação do Diretor-Geral.",
+  "Item 6: quem acompanhou o voto-vista (Gentil) e quem acompanhou a relatora (Willamy) inferido pela ordem habitual; confiança baixa.",
+  "Itens 4, 32 e 34: nem todos os votos audíveis na legenda; registrados como acompanhamento.",
+  "Números de processo distorcidos pela legenda.",
+  "Itens 12, 13, 14 e 24/25 do bloco: assuntos não lidos na sessão.",
+  "Diretor substituto 'Ivo' citado no item 14 não está na lista de diretores."
+ ]
+}

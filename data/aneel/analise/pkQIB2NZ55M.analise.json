@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "pkQIB2NZ55M", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Reunião Pública Extraordinária de 2026", "data": "2026-02-13", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Gentil Nogueira", "Fernando Mosna"],
+    "ausentes": ["Agnes da Costa (em viagem a serviço, justificada)", "Willamy Frota (em viagem a serviço, justificada)"],
+    "observacoes": ["Reunião extraordinária para alterar os preços-teto dos editais do LRCAP 2026 (leilões 2 e 3/2026) aprovados na 3ª RPO de 10/02/2026, a pedido do MME (Ofício 35/2026, de 12/02/2026).", "Sem sustentação oral. Dois itens, ambos relatados por Fernando Mosna e aprovados por unanimidade.", "Procuradoria (Eduardo Estevão) entendeu tratar-se de questão técnica, sem questão jurídica a enfrentar."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:40",
+      "processo": "48500.002821/2025-67", "interessado": "Ministério de Minas e Energia (poder concedente); Secretaria Executiva de Leilões",
+      "assunto": "Alteração dos preços-teto do edital do Leilão 2/2026-ANEEL (LRCAP 2026 – UTEs a gás natural, carvão mineral e UHEs), conforme Ofício MME 35/2026",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração (térmica, hidrelétrica)", "comercialização"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Preços-teto são elemento estruturante do edital e sua fixação compete ao MME; comunicada a revisão pelo poder concedente e pedida deliberação em tempo hábil para o certame de 18/03/2026, cabe alterar o edital. Substitui os preços-teto (ex.: potência termelétrica existente de cerca de R$ 1,12 mi para 2,25 mi/MW.ano; novos empreendimentos de 1,6 mi para 2,9 mi; hidrelétrica mantida em 1,4 mi), determina consolidação e publicação no DOU e ciência ao MME e à CCEE.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:02:53", "justificativa": "compete ao MME fixar diretrizes e preços; à ANEEL cabe operacionalizar o certame com segurança jurídica, isonomia e previsibilidade; alteração necessária para preservar o cronograma", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:15:02", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:15:04", "justificativa": "definição dos parâmetros do leilão é competência exclusiva do MME como formulador de política pública; papel da ANEEL é garantir certame isonômico, transparente e previsível; dinâmica do setor de geração ligada ao mercado internacional e geopolítica", "tom": "elogioso ao relator e às áreas técnicas", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:16:27",
+      "processo": "48500.002822/2025-10", "interessado": "Ministério de Minas e Energia (poder concedente); Secretaria Executiva de Leilões",
+      "assunto": "Alteração dos preços-teto do edital do Leilão 3/2026-ANEEL (LRCAP 2026 – UTEs a óleo e biodiesel, empreendimentos existentes), conforme Ofício MME 35/2026",
+      "tema": ["leilões (reserva de capacidade)", "outorgas de geração (térmica)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mesmo racional do item 1. Preços-teto passam de cerca de R$ 920 mil para 1,6 mi/MW.ano (2026 e 2027) e de 990 mil para 1,75 mi (2030 e custo marginal de referência); consolidação, publicação no DOU e ciência ao MME e à CCEE.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:17:03", "justificativa": "mesmo racional do item anterior: acolhe o encaminhamento do MME (Ofício 35/2026)", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:19:43", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:19:45", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo e valores de preço-teto podem ter erros de reconhecimento (ex.: 'R.900.000').", "Falantes inferidos com erro nos rótulos do .md; o voto 'acompanho o relator' antes da proclamação foi atribuído a Gentil Nogueira por ser o único outro diretor presente (confiança média).", "Procurador-geral citado como Eduardo Estevão e secretário-geral como Daniel Dana (grafia incerta)."]
+}

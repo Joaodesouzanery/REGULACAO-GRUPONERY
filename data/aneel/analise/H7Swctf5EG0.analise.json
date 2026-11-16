@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "H7Swctf5EG0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão abre ~1:52); ts de votos aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "32ª Reunião Pública Ordinária de 2025", "data": "2025-09-03", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": ["Abertura com boas-vindas a Gentil Nogueira e Willamy Frota (posse em 1º/09/2025) e homenagem aos ex-diretores substitutos Daniel Dana (14 reuniões, 476 processos) e Ivo (7 reuniões, 256 processos), que fazem discursos de despedida.", "DG declara quórum de três diretores; os novos diretores não votam nesta sessão segundo a transcrição.", "Informes: CP 29/2025 (metas de desempenho do ONS 2026-2028), workshop sobre data centers em 4/9, bandeira vermelha patamar 2 em setembro (R$ 7,87/100 kWh), missão à Dinamarca.", "Ata da 31ª RPO aprovada.", "Pauta com 39 itens; itens 5 a 39 em bloco, sem destaque nem sustentação oral; retirados de pauta 1 a 4, 7, 8, 11, 12, 16, 17, 18, 21, 22, 23, 25, 27, 29 a 33, 35, 37 e 39.", "Item 10 sem quórum por suspeição declarada de um diretor (processos do grupo J&F); reinscrito na próxima reunião."]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 5-39 remanescentes)", "ts": "1:55:27",
+   "processo": "", "interessado": "diversos",
+   "assunto": "Itens de bloco remanescentes (6, 9, 13, 14, 15, 19, 20, 24, 26, 28, 34, 36, 38), com votos publicados previamente; conteúdo não enunciado na sessão",
+   "tema": ["bloco de pauta"],
+   "relator": "não identificado", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem destaque nem sustentação oral.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "1:55:41", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco, com suspeição no item 10", "ts": "1:55:45", "justificativa": "declara suspeição em processos que envolvem o grupo J&F", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova e proclama o resultado", "ts": "1:55:50", "justificativa": "", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "10", "ts": "1:55:45",
+   "processo": "", "interessado": "grupo J&F (citado como 'grupo JF')",
+   "assunto": "Item 10 da pauta de bloco (conteúdo não enunciado)",
+   "tema": ["bloco de pauta"],
+   "relator": "não identificado", "resultado": "não deliberado por falta de quórum; reinscrito na próxima reunião",
+   "resumo_voto": "Um diretor declarou suspeição; com três diretores presentes não houve quórum.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "suspeição declarada", "ts": "1:55:45", "justificativa": "suspeição como em outros processos que envolvem o grupo J&F", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": ["1", "2", "3", "4", "7", "8", "11", "12", "16", "17", "18", "21", "22", "23", "25", "27", "29", "30", "31", "32", "33", "35", "37", "39"],
+ "limites_da_analise": ["Falantes dos votos do bloco inferidos pela ordem; quem declarou suspeição no item 10 é incerto (atribuído a Fernando Mosna com confiança baixa).", "Conteúdo dos itens do bloco não enunciado; processos e relatores não identificados.", "Nomes 'Daniel Dana' e 'Ivo' (ex-diretores substitutos) fora da lista do config; legenda automática."]
+}

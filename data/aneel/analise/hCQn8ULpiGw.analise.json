@@ -1,0 +1,455 @@
+{
+ "meta": {
+  "video_id": "hCQn8ULpiGw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:26); ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "38ª Reunião Pública Ordinária de 2025",
+  "data": "2025-11-04",
+  "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores; subprocuradora-geral Fábia (sobrenome incerto na legenda) e secretário-geral Daniel (Dana).",
+   "Pauta com 27 itens; bloco = itens 6 a 27; destacados do bloco 9, 10, 12, 15 e 16; retirados de pauta 2, 5 e 7; ordem: bloco, 3, 4, 1, 9, 10, 12, 15, 16.",
+   "Item 3 (Termo de Intimação 49/2024, Enel São Paulo, caducidade) ocupou a manhã: preliminar de impedimento do diretor Fernando Mosna (carta Enel 407/2025) indeferida por unanimidade; questão de ordem de Mosna (publicidade do processo, ADI 5371 do STF) deferida pelo Diretor-Geral; vista de Gentil Nogueira, com votos antecipados de Sandoval e Willamy acompanhando a relatora.",
+   "Intervalo de almoço de ~12h35 a ~14h30 (vídeo salta de 3:48 para 5:5x).",
+   "Diretor-Geral advertiu que pedidos de sustentação oral fora do prazo regimental não serão mais aceitos.",
+   "Item 15 (CSN) retirado de pauta por Sandoval (relator do voto-vista) para nova consulta à Procuradoria."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:33:33",
+   "processo": "itens 6 a 27 (exceto destacados 9, 10, 12, 15, 16 e retirado 7)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 38ª RPO 2025 (votos publicados com a pauta)",
+   "tema": [
+    "outros"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado; item 18 com voto-vista de Sandoval Feitosa acompanhado; pedido(s) de vista nos itens 13 e 14 (autor incerto)",
+   "resumo_voto": "Bloco aprovado. Um diretor não votou os itens 13 e 15; no item 18 diretores passaram a acompanhar o voto-vista do Diretor-Geral (antes acompanhavam Willamy Frota); alguém pediu vista dos itens 13, 14 e 18 (transcrição confusa).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco, exceto itens 13 e 15 (não vota)",
+     "ts": "0:33:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco; no item 18 acompanha o voto-vista de Sandoval",
+     "ts": "0:34:19",
+     "justificativa": "tinha acompanhado o voto de Willamy no 18 e passou ao voto-vista de Sandoval (atribuição de falante incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes; no item 18 acompanha o voto-vista",
+     "ts": "0:34:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes (possivelmente pede vista dos itens 13 e 14)",
+     "ts": "0:34:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes; mantém seu voto-vista no item 18",
+     "ts": "0:34:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:35:30",
+   "processo": "48500.0331xx/2024-72 (número incerto na legenda)",
+   "interessado": "Enel Distribuição São Paulo (Enel SP); sustentação oral de Hugo Lamim (diretor regulatório)",
+   "assunto": "Termo de Intimação 49/2024-SFT: falhas no restabelecimento após eventos climáticos de nov/2023 e out/2024 (TEMAI, interrupções > 24 h, plano de contingência); análise parcial do plano de recuperação e extensão do acompanhamento até 31/03/2026 (rito que pode levar à recomendação de caducidade)",
+   "tema": [
+    "fiscalização e sanções (termo de intimação, caducidade)",
+    "distribuição e qualidade do serviço",
+    "eventos climáticos / resiliência"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista (Gentil Nogueira); votos antecipados de Sandoval Feitosa e Willamy Frota acompanhando a relatora; preliminar de impedimento de Fernando Mosna indeferida por unanimidade; questão de ordem para tornar o processo público deferida",
+   "resumo_voto": "Relatora: histórico de 11 planos de resultado (7 reprovados) e multas (~R$ 262 mi não pagas, judicializadas); empresa só reagiu com o TI; resultados de TEMAI e >24 h melhoraram, mas com ações provisórias e ainda abaixo das demais distribuidoras de SP; acompanha SFT e PF (parecer 219/2025): estender acompanhamento do plano de recuperação até 31/03/2026, após o período úmido 2025/26. Apresentação técnica da SFT (Jaqueline).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, estende acompanhamento do plano de recuperação do TI 49 até 31/03/2026",
+     "ts": "1:02:25",
+     "justificativa": "resultados positivos, mas obtidos com ações provisórias; falta testar ações estruturantes num período úmido; empresa resistente aos incentivos regulatórios; mantém o TI aberto e admite discutir TAC depois",
+     "tom": "crítico à concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "3:11:14",
+     "justificativa": "quer construir caminho intermediário estruturado além de março/2026 (a partir da sugestão de Mosna); antes questionou o prazo de cura (art. 38 §3º Lei 8.987) e a objetividade das metas para evitar vício em eventual caducidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "antecipa voto acompanhando a relatora",
+     "ts": "3:12:44",
+     "justificativa": "acompanha Agnes, disposto a rever se a proposta de Gentil for melhor; defende desfecho decisório para não prolongar a incerteza; relata atuação da ANEEL desde 2023 e contestações de MME, governo e prefeitura de SP",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "antecipa voto acompanhando a relatora",
+     "ts": "3:13:46",
+     "justificativa": "voto bem estruturado e fundamentado; ater-se aos fatos e evitar futurologia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista concedida antes); sugeriu termo de compromisso (art. 26 da LINDB) com metas por período chuvoso",
+     "ts": "2:46:18",
+     "justificativa": "prorrogar até março pode não ser métrica perfeita se não houver evento extremo; propôs compromisso bilateral; antes arguiu-se seu impedimento (carta Enel 407/2025), que rebateu falando em 'stalking regulatório' e 'chicana regulatória'",
+     "tom": "combativo com a concessionária",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:15:17",
+   "processo": "48500.0xx633/2023 (número incerto)",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Prorrogação do contrato de concessão de distribuição 001/1996-DNAEE da Light (Decreto 12.068/2024 e Lei 9.074/1995): recomendação ao MME e minuta do 8º termo aditivo",
+   "tema": [
+    "renovação de concessões de distribuição",
+    "distribuição e qualidade do serviço",
+    "gestão econômico-financeira"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (recomenda ao MME a prorrogação)",
+   "resumo_voto": "Light cumpre continuidade (DEC/FEC 2020-2024) e gestão econômico-financeira: com base na PF (despachos 586, 616, 617 e parecer 171/2025), efeitos do plano de recuperação judicial (haircut, estorno de juros, AVJ) equiparados a aporte de capital para 2023; não houve descumprimento em 2 anos consecutivos; regularidade fiscal sanada (certidão positiva com efeito de negativa).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, recomenda a prorrogação",
+     "ts": "3:17:04",
+     "justificativa": "critérios do Decreto 12.068 cumpridos; primazia da realidade na redução da dívida via recuperação judicial; alinha-se aos precedentes da diretoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:47:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "3:47:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o resultado com fundamentação divergente",
+     "ts": "3:47:20",
+     "justificativa": "avalia quatro critérios (DEC com expurgos, TEMAI, obras atrasadas e IASC); só não recomendaria com 2 descumpridos; Light falha apenas no TEMAI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:48:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "5:52:00",
+   "processo": "48500.004742/2021-32 (número incerto)",
+   "interessado": "CCEE; agentes do mercado (Abraceel, CPFL); sustentação oral de Helen Apolinário (CCEE)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 47 dias, 06/11 a 22/12/2025) sobre aprimoramento do monitoramento prudencial do mercado após o período sombra: minuta de REN, manual algébrico, PdCs 1.4 e 1.7 e AIR/ARR 1/2025-SGM/SFF",
+   "tema": [
+    "comercialização (CCEE, monitoramento prudencial)",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica de Alex Alves (SGM/SFF): inclusão do risco de crédito no fator de alavancagem, exclusão de consumidores < 9 MW médios, stress test, demonstrações trimestrais, PL ajustado; risco operacional fica para depois.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, instaura consulta pública",
+     "ts": "6:24:35",
+     "justificativa": "instrução transparente explicita pontos controversos, o que facilita a consulta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (parabeniza equipes)",
+     "ts": "6:26:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "6:26:52",
+     "justificativa": "parabeniza equipes da ANEEL e CCEE (atribuição de falante incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:27:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:27:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "6:27:34",
+   "processo": "48500.006366/2020-30 (número incerto)",
+   "interessado": "Norte Brasil Transmissora de Energia (NBTE); sustentação oral de Aline Terezinha de Souza",
+   "assunto": "Recurso contra Despacho STD 1178/2025 (PVI por queda de torre do bipolo 2 Porto Velho–Araraquara 2, Rio Madeira, em out/2020, atribuída a ventos de até 137 km/h); processo de ratificação",
+   "tema": [
+    "transmissão (PVI, indisponibilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento; ratificação)",
+   "resumo_voto": "Mantido o voto do circuito deliberativo: ventos fortes previsíveis, cabe à transmissora projetar para resistir; sem caso fortuito.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento (mantém voto)",
+     "ts": "6:36:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:37:19",
+     "justificativa": "longo histórico de julgados: engenharia deve prever confiabilidade; remuneração fixa com cláusulas de qualidade; só eventos que extrapolem absurdamente o usual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:38:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "6:38:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:38:43",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "6:39:12",
+   "processo": "48500.002741/2025-49 (número incerto)",
+   "interessado": "Enel Distribuição São Paulo; sustentação oral de Hugo Lamim",
+   "assunto": "Recurso contra Despacho STD 2496/2025: afastamento do ADCUST (adicional de encargo de uso do sistema de transmissão) por ultrapassagens de MUST em 31/08/2024 após contingência dupla na rede básica (pipa na SE Guarulhos, Eletrobras); PIU já isentado",
+   "tema": [
+    "transmissão (MUST, EUST)",
+    "tarifas e encargos",
+    "recursos administrativos"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "pedido de vista (Gentil Nogueira)",
+   "resumo_voto": "Relator mantém voto de negar provimento quanto ao ADCUST; Gentil apontou precedente Equatorial Pará (SE Castanhal, voto de Ricardo Tili, jan/2025) em que o ADCUST foi levado à receita requerida; vista para uniformizar.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega provimento (mantém voto); aceita a vista para tratamento isonômico",
+     "ts": "6:51:23",
+     "justificativa": "fato novo trazido por Gentil; prefere tratamento isonômico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "comenta (sem voto formal)",
+     "ts": "6:52:53",
+     "justificativa": "contrato antigo: risco da transmissão fica com o agente, que deve precificá-lo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "pede vista",
+     "ts": "6:57:40",
+     "justificativa": "precedente Equatorial Pará parecido; uniformizar tratamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista concedida)",
+     "ts": "6:57:02",
+     "justificativa": "sugeriu ao relator retirar de pauta ou apreciar o fato novo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista concedida)",
+     "ts": "6:57:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "6:57:40",
+   "processo": "48500.003395/20xx (número incerto)",
+   "interessado": "Petrobras (UTE TermoCeará); sustentação oral de representante da Petrobras (nome incerto)",
+   "assunto": "Pedido de reconsideração contra Despacho 2495/2024 que determinou a rescisão (retroativa a out/2023) dos CCEARs da UTE TermoCeará; ratificação",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "comercialização (CCEAR)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento; ratificação)",
+   "resumo_voto": "Mantido voto do circuito deliberativo. Petrobras pedia revogação, efeitos só a partir da publicação ou recálculo do CVU como merchant, citando o caso UTE Palmeiras de Goiás.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "7:04:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "7:05:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora",
+     "ts": "7:05:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "7:05:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (ratifica)",
+     "ts": "7:05:38",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "7:16:10",
+   "processo": "48500.003258/2022-77 e demais",
+   "interessado": "Campos Energia SPE 1 a 10 e Talismã Energia SPE 1 a 10 (UFVs Campos 1 a 20, Santa Rita de Cássia/BA); sustentação oral de Cláudio Girardi",
+   "assunto": "Pedido de reconsideração contra Despacho 2551/2025: postergação da data-limite do desconto na TUST/TUSD e recomposição do prazo das outorgas, após parecer de acesso do ONS indicar conexão só em 2030",
+   "tema": [
+    "outorgas de geração (solar)",
+    "tarifas (desconto TUST/TUSD)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (conhece e nega provimento)",
+   "resumo_voto": "Acompanha SCG e PF (parecer 130/2025): sem previsão legal para estender o desconto além da Lei 9.427; liminar só suspendeu prazos do CUST e garantias; art. 12 §2º da REN 1071 não se aplica; não adesão à MP 1212 é risco das empresas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "7:24:10",
+     "justificativa": "sem fatos novos; acompanha área técnica e Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:28:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:28:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "7:28:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:28:40",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão",
+   "ts": "0:31:00"
+  },
+  {
+   "item": "5",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão",
+   "ts": "0:31:00"
+  },
+  {
+   "item": "7",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão (item de bloco)",
+   "ts": "0:31:00"
+  },
+  {
+   "item": "15 — pedido de reconsideração da CSN contra Despacho 110/2025 (recontabilização CCEE 4791; ~R$ 70 mi); relatora Ludimila Lima, voto-vista Sandoval Feitosa; sustentação de Yasmin Ferreira (CSN)",
+   "relator": "Sandoval Feitosa",
+   "motivo": "Sandoval (voto-vista) retirou de pauta para nova consulta à Procuradoria sobre documentos de contabilização alegados pela CSN",
+   "ts": "7:15:51"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes (Fábia, Hugo Lamim, Cláudio Girardi, Yasmin Ferreira, representante da Petrobras) podem estar errados.",
+  "Votação do bloco muito confusa na transcrição: não é possível atribuir com segurança quem não votou os itens 13 e 15, quem pediu vista dos itens 13/14/18 nem os relatores dos itens de bloco.",
+  "Ludimila Lima (relatora do item 15) não estava presente; Ricardo Tili é citado como ex-diretor (precedente Equatorial Pará).",
+  "No item 3 Fernando Mosna não registrou voto (a vista de Gentil foi concedida antes); seus comentários estão como manifestação.",
+  "Trecho entre ~3:49 e ~5:57 corresponde ao intervalo de almoço; ts do item 1 é aproximado.",
+  "Falantes inferidos {..} frequentemente errados; ts de quem só acompanha são aproximados."
+ ]
+}

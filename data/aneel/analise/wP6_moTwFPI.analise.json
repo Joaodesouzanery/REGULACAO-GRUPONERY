@@ -1,0 +1,81 @@
+{
+  "meta": {"video_id": "wP6_moTwFPI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "34ª RPO 2025", "data": "2025-09-17", "formato": "presencial (com transmissão)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Gentil Nogueira", "Willamy Frota"],
+    "ausentes": ["Agnes da Costa (missão internacional; enviou votos por escrito para o bloco)"],
+    "observacoes": [
+      "Primeira reunião após a posse de Gentil Nogueira e Willamy Frota no MME (manhã do mesmo dia); quórum de quatro diretores.",
+      "Pauta com 48 itens; itens 4 a 48 em bloco; retirados os itens 1, 8 e 17 (17 = prorrogação da concessão da Energisa Sergipe, retirado pelo relator Fernando Mosna para análise complementar após fala do ministro Alexandre Silveira sobre critérios objetivos em prorrogações).",
+      "Atas da 32ª e 33ª RPO não aprovadas por ausências; ficaram para a reunião seguinte.",
+      "Item 3 (extensão de outorgas MRE / mecanismo concorrencial da MP 1300): item A unânime; item B (remessa ao TCU sobre a potencial ilegalidade da Portaria MME 112/2025) por maioria, vencido Gentil Nogueira.",
+      "Debate sobre independência das agências: Sandoval afirma que o MME não exerce supervisão ministerial sobre a ANEEL e que a Procuradoria da ANEEL não é subordinada à Conjur do MME."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:15:32",
+      "processo": "itens 4 a 48 (bloco)", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos e atos disponibilizados previamente); sem destaques. Itens 9 e 13 tratados à parte por já terem votação anterior.",
+      "tema": ["institucional / bloco"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade (exceto item 9, por maioria)",
+      "resumo_voto": "Diretores aprovam os itens remanescentes do bloco, exceto 9 e 13, que já tinham sido objeto de votação anterior; Agnes da Costa enviou voto por escrito aprovando o bloco.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco, exceto itens 9 e 13", "ts": "0:15:43", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "aprova os itens remanescentes do bloco, exceto 9 e 13", "ts": "0:16:39", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco, exceto 9 e 13", "ts": "0:18:34", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (voto escrito lido pela secretaria)", "ts": "0:18:48", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha os itens do bloco", "ts": "0:19:56", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "9", "ts": "0:18:48",
+      "processo": "(não citado)", "interessado": "PCHs Ilha Comprida, Divisa e Segredo Energia Ltda.; CCEE",
+      "assunto": "Recurso (impugnação) contra deliberação da CCEE (reunião 1332) que cancelou relatórios de recontabilização das PCHs Ilha Comprida, Divisa e Segredo quanto ao rateio de perdas da rede básica a partir de 2012/2013; processo vindo da 17ª RPO, com votação empatada",
+      "tema": ["comercialização (CCEE)", "recursos administrativos", "outorgas de geração (PCH)"],
+      "relator": "não identificado", "resultado": "aprovado por maioria; decisão de recontabilização para a PCH Segredo a partir de agosto de 2013 (ponto incontroverso); detalhes por usina incertos",
+      "resumo_voto": "Agnes da Costa manteve divergência inaugurada na 17ª RPO (acompanhada por Ludimila Lima) para negar provimento; Fernando Mosna e Ricardo Tili votaram antes por manter a recontabilização; um diretor (não identificado com segurança) desempatou: na PCH Divisa acompanhou Agnes/Ludimila (manter cancelamento), na Ilha Comprida acompanhou a maioria (recontabilizar desde julho/2013) e na Segredo fixou-se agosto/2013.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "diverge: mantém voto da 17ª RPO, nega provimento", "ts": "0:18:48", "justificativa": "voto escrito; mantém divergência acompanhada por Ludimila Lima", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "mantém voto anterior pela recontabilização", "ts": "2:21:54", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "voto de desempate por usina (Divisa: mantém cancelamento; Ilha Comprida: recontabiliza desde jul/2013; Segredo: a partir de ago/2013)", "ts": "2:21:54", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:20:33",
+      "processo": "48500.014537/2025-17 (aprox.)", "interessado": "Energisa Acre Distribuidora de Energia S.A.",
+      "assunto": "Requerimento de reembolso pela CCC de créditos de ICMS não compensados sobre óleo diesel (jan/2010 a dez/2016)",
+      "tema": ["CDE e encargos setoriais (CCC)", "distribuição", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "indeferido por unanimidade",
+      "resumo_voto": "Sustentação oral de Rodrigo Santana (Energisa Acre): seria primeiro processamento, não reprocessamento. Procuradoria (parecer 37/2024) e relator: pedido intempestivo, fora do prazo de 6 meses do art. 60 da REN 801/2017 (prazo procedimental, preclusão administrativa); isonomia com outros agentes; precedentes judiciais sem identidade de objeto. DG cita precedente da Roraima Energia (PIS/Cofins).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, indefere", "ts": "0:38:34", "justificativa": "pedido apresentado quase 2 anos após o início do prazo de 6 meses do art. 60 da REN 801/2017; segurança jurídica e isonomia", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "0:53:02", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "0:53:02", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:53:02", "justificativa": "precedente da diretoria (Roraima Energia, 2023)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:53:30",
+      "processo": "48500.022712/2025-78 (aprox.)", "interessado": "geradoras hidrelétricas participantes do MRE e vencedoras do mecanismo concorrencial (ex.: UHE Capivara); CCEE; MME",
+      "assunto": "Extensão de prazos de outorga das usinas do MRE (art. 3º REN 1035/2022, REH 3439) e formalização da extensão das vencedoras do mecanismo concorrencial centralizado da MP 1300/2025 (passivo do GSF); remessa ao TCU sobre a Portaria MME 112/2025",
+      "tema": ["outorgas de geração (hidrelétrica)", "comercialização (MRE, GSF)", "institucional/TCU"],
+      "relator": "Fernando Mosna", "resultado": "item A aprovado por unanimidade; item B (remessa ao TCU) aprovado por maioria, vencido Gentil Nogueira",
+      "resumo_voto": "Relator homologa os prazos calculados pela CCEE, mas sustenta potencial ilegalidade da Portaria MME 112: a MP 1300 manda usar os valores dos parâmetros aplicados pela ANEEL (taxa 9,63%, preço e OPEX de 2015), não a mesma metodologia (10,94%, preço 229,85, OPEX 95,81), o que mais que dobra os prazos (ex.: Capivara 678 vs 1460 dias) com ônus ao consumidor; propõe remeter os autos ao TCU. Gentil diverge do item B: ANEEL não faz controle de legalidade de atos do MME; TCU já examina a representação do MPTCU; ágio de cerca de R$ 560 milhões à CDE torna a taxa efetiva inferior a 9,63%.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova a resolução autorizativa (A) e a remessa ao TCU (B)", "ts": "1:04:53", "justificativa": "MP 1300 exige os valores dos parâmetros da ANEEL; portaria eleva prazos de extensão e onera o consumidor; TCU deve analisar também preço de referência e OPEX", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha no item A; diverge no item B (vencido)", "ts": "1:37:03", "justificativa": "não cabe à ANEEL controle de legalidade de atos do MME; remessa redundante, TCU já analisa a matéria; ágio à CDE beneficia o consumidor", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator nos itens A e B", "ts": "2:16:36", "justificativa": "não vê prejuízo em consultar o TCU; resposta pode enriquecer a agência para situações futuras", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:18:29", "justificativa": "independência da ANEEL; Procuradoria não é subordinada à Conjur do MME; processo segue e TCU avalia na completude", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["1", "8", "17 (prorrogação da concessão da Energisa Sergipe, retirado pelo relator Fernando Mosna)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo aproximados; falantes inferidos frequentemente trocados (ex.: fala do relator do item 2 rotulada como Gentil; voto divergente do item 3 rotulado com outros nomes, mas atribuído a Gentil pelo DG na proclamação).",
+    "Item 9: quem desempatou e os votos por usina são incertos; Ludimila Lima e Ricardo Tili (ex-diretores) votaram em sessão anterior e não constam como presentes.",
+    "Votos do bloco: atribuição de falantes incerta; item 13 sem detalhe.",
+    "Título do vídeo diz Ordinária; a abertura menciona também uma reunião extraordinária anterior não coberta neste vídeo."
+  ]
+}
