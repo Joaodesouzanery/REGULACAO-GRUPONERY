@@ -32,7 +32,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 43 | 0 |
+| 2018 | diretoria | 69 | 55 | 0 |
 | 2018 | audiencia | 58 | 0 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
@@ -718,5 +718,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-07-10 · Itens 7 a 18 - 24ª Reunião Pública Ordinária ANEEL 10/07/2018 · `VS3uVtUo_Ds`
 - 2018-07-03 · Itens 12 a 31 - 23ª Reunião Pública Ordinária ANEEL 03/07/2018 · `mRGH-SclUYI`
 - 2018-06-26 · Itens 19 a 53 - 22ª Reunião Pública Ordinária ANEEL 26/06/2018 · `Og_mBrAXHeE`
+- 2018-06-19 · Bloco 12 a 25 - 21ª Reunião Pública Ordinária ANEEL 19/06/2018 · `_AOmPU_vM5g`
+- 2018-06-14 · OBS  ATA 17ª RPO ITEM 27 · `lBZPk5TSCXg`
+- 2018-06-12 · Itens 11 a 21 - 20ª Reunião Pública Ordinária ANEEL 12/06/2018 · `lawmUsSFsCQ`
+- 2018-06-05 · BLOCO - 19ª Reunião Pública Ordinária ANEEL 05/06/2018 · `3AHiFKIq_aY`
+- 2018-05-22 · Retificação do Item 4 da 16ª Reunião Pública Ordinária ANEEL 22/05/201 · `qOlajpnme4o`
+- 2018-05-22 · Retificação do Item 25 da 16ª Reunião Pública Ordinária ANEEL 22/05/20 · `_ipALgAgO6g`
+- 2018-05-22 · Itens 16 a 41 - 17ª Reunião Pública Ordinária ANEEL 22/05/2018 · `7bZ-dvfjOS8`
+- 2018-05-15 · Blocos dos Itens 18 a 42 com retificação - 16ª Reunião Pública Ordinár · `V6GMRIss2rc`
+- 2018-05-03 · Itens 11 a 20 - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · `V9L1YxeOris`
+- 2018-05-03 · Aprovação de atas - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · `mqOBYnYbmBY`
+- 2018-04-27 · Observação ATA 12ªRPO Item 4 · `znGuOJgJkqU`
+- 2018-04-24 · BLOCO DA PAUTA - 13ª Reunião Pública Ordinária ANEEL 24/04/2018 · `CizoSshKIqc`
 
 Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **562** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 36; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **557** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 31; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -284,18 +284,13 @@ Total: **562** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2018-08-21 · diretoria · Bloco da Pauta Itens de 15 ao 27 - 30ª Reunião Pública Ordinária ANEEL 21/08/201 · https://www.youtube.com/watch?v=I9f2Vm_MRow · **transcrição sem fala útil (1275 caracteres; só música/ruído)**
 - 2018-07-24 · diretoria · Itens 8 a 20 - 26ª Reunião Pública Ordinária ANEEL 24/07/2018 · https://www.youtube.com/watch?v=5Ui6ooJVSKs · **transcrição sem fala útil (1484 caracteres; só música/ruído)**
 - 2018-07-10 · diretoria · Itens 7 a 18 - 24ª Reunião Pública Ordinária ANEEL 10/07/2018 · https://www.youtube.com/watch?v=VS3uVtUo_Ds · **transcrição sem fala útil (1338 caracteres; só música/ruído)**
-- 2018-06-19 · diretoria · Bloco 12 a 25 - 21ª Reunião Pública Ordinária ANEEL 19/06/2018 · https://www.youtube.com/watch?v=_AOmPU_vM5g · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-14 · diretoria · OBS  ATA 17ª RPO ITEM 27 · https://www.youtube.com/watch?v=lBZPk5TSCXg · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-12 · diretoria · Itens 11 a 21 - 20ª Reunião Pública Ordinária ANEEL 12/06/2018 · https://www.youtube.com/watch?v=lawmUsSFsCQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-05 · diretoria · BLOCO - 19ª Reunião Pública Ordinária ANEEL 05/06/2018 · https://www.youtube.com/watch?v=3AHiFKIq_aY · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-22 · diretoria · Retificação do Item 4 da 16ª Reunião Pública Ordinária ANEEL 22/05/2018 · https://www.youtube.com/watch?v=qOlajpnme4o · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-22 · diretoria · Retificação do Item 25 da 16ª Reunião Pública Ordinária ANEEL 22/05/2018 · https://www.youtube.com/watch?v=_ipALgAgO6g · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-22 · diretoria · Itens 16 a 41 - 17ª Reunião Pública Ordinária ANEEL 22/05/2018 · https://www.youtube.com/watch?v=7bZ-dvfjOS8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · diretoria · Blocos dos Itens 18 a 42 com retificação - 16ª Reunião Pública Ordinária ANEEL 1 · https://www.youtube.com/watch?v=V6GMRIss2rc · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-03 · diretoria · Itens 11 a 20 - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · https://www.youtube.com/watch?v=V9L1YxeOris · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-03 · diretoria · Aprovação de atas - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · https://www.youtube.com/watch?v=mqOBYnYbmBY · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-04-27 · diretoria · Observação ATA 12ªRPO Item 4 · https://www.youtube.com/watch?v=znGuOJgJkqU · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-04-24 · diretoria · BLOCO DA PAUTA - 13ª Reunião Pública Ordinária ANEEL 24/04/2018 · https://www.youtube.com/watch?v=CizoSshKIqc · **ainda não baixado (rodar a coleta no Mac)**
+- 2018-06-19 · diretoria · Bloco 12 a 25 - 21ª Reunião Pública Ordinária ANEEL 19/06/2018 · https://www.youtube.com/watch?v=_AOmPU_vM5g · **transcrição sem fala útil (1264 caracteres; só música/ruído)**
+- 2018-06-14 · diretoria · OBS  ATA 17ª RPO ITEM 27 · https://www.youtube.com/watch?v=lBZPk5TSCXg · **transcrição sem fala útil (1075 caracteres; só música/ruído)**
+- 2018-05-22 · diretoria · Retificação do Item 4 da 16ª Reunião Pública Ordinária ANEEL 22/05/2018 · https://www.youtube.com/watch?v=qOlajpnme4o · **transcrição sem fala útil (701 caracteres; só música/ruído)**
+- 2018-05-22 · diretoria · Itens 16 a 41 - 17ª Reunião Pública Ordinária ANEEL 22/05/2018 · https://www.youtube.com/watch?v=7bZ-dvfjOS8 · **transcrição sem fala útil (1331 caracteres; só música/ruído)**
+- 2018-05-03 · diretoria · Itens 11 a 20 - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · https://www.youtube.com/watch?v=V9L1YxeOris · **transcrição sem fala útil (994 caracteres; só música/ruído)**
+- 2018-04-27 · diretoria · Observação ATA 12ªRPO Item 4 · https://www.youtube.com/watch?v=znGuOJgJkqU · **transcrição sem fala útil (1082 caracteres; só música/ruído)**
+- 2018-04-24 · diretoria · BLOCO DA PAUTA - 13ª Reunião Pública Ordinária ANEEL 24/04/2018 · https://www.youtube.com/watch?v=CizoSshKIqc · **transcrição sem fala útil (1150 caracteres; só música/ruído)**
 - 2018-04-17 · diretoria · Retificação - 12ª Reunião Pública Ordinária ANEEL 17/04/2018 · https://www.youtube.com/watch?v=KeMcQS5J09o · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-04-17 · diretoria · Itens 13 a 50 - 12ª Reunião Pública Ordinária ANEEL 17/04/2018 · https://www.youtube.com/watch?v=6RR6a1-Bn1E · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-04-03 · diretoria · Bloco da Pauta Itens de 07 ao 37 - 10ª Reunião Pública Ordinária ANEEL 03/04/201 · https://www.youtube.com/watch?v=g7vhlDCA3kM · **ainda não baixado (rodar a coleta no Mac)**
