@@ -32,7 +32,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 31 | 0 |
+| 2018 | diretoria | 69 | 43 | 0 |
 | 2018 | audiencia | 58 | 0 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
@@ -705,6 +705,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-09-11 · Aprovação da Ata da 32ª Reunião Pública Ordinária - Reunião Pública Or · `wa09sgoruVY`
 - 2018-09-05 · OBSERVAÇÕES E APROVAÇÃO DA ATA 31ª RPO · `AQ8GSQasmXQ`
 - 2018-09-04 · BLOCO dos Itens de 8 ao 17 - 32ª Reunião Pública Ordinária ANEEL 04/09 · `HHsJNq5lKUs`
+- 2018-08-28 · Itens 10 a 26 - 31ª Reunião Pública Ordinária ANEEL 28/08/2018 · `saBiuXIHtBA`
 - 2018-08-28 · Boas vindas e avisos - 31ª Reunião Pública Ordinária ANEEL 28/08/2018 · `pGgUdacCG04`
+- 2018-08-21 · Bloco da Pauta Itens de 15 ao 27 - 30ª Reunião Pública Ordinária ANEEL · `I9f2Vm_MRow`
+- 2018-08-13 · Itens 27 a 50 - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `6yfWAfHiZH0`
+- 2018-08-13 · Itens 13 a 15 - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `6H_bmAk-43c`
+- 2018-08-13 · Agradecimentos - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `MNnQPPTstUE`
+- 2018-08-07 · BLOCO DE PROCESSOS - 28ª Reunião Pública Ordinária ANEEL 07/08/2018 · `FGd8vvrXkC0`
+- 2018-07-31 · Itens 11 a 16 - 27ª Reunião Pública Ordinária ANEEL 31/07/2018 · `vK7I8dH0W2U`
+- 2018-07-24 · Itens 8 a 20 - 26ª Reunião Pública Ordinária ANEEL 24/07/2018 · `5Ui6ooJVSKs`
+- 2018-07-17 · Itens 11 a 22 - 25ª Reunião Pública Ordinária ANEEL 17/07/2018 · `rvaXxZwNJEU`
+- 2018-07-10 · Itens 7 a 18 - 24ª Reunião Pública Ordinária ANEEL 10/07/2018 · `VS3uVtUo_Ds`
+- 2018-07-03 · Itens 12 a 31 - 23ª Reunião Pública Ordinária ANEEL 03/07/2018 · `mRGH-SclUYI`
+- 2018-06-26 · Itens 19 a 53 - 22ª Reunião Pública Ordinária ANEEL 26/06/2018 · `Og_mBrAXHeE`
 
 Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
