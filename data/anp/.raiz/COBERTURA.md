@@ -10,10 +10,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | diretoria | 22 | 21 | 0 |
 | 2026 | audiencia | 18 | 0 | 0 |
 | 2025 | workshop | 17 | 0 | 0 |
-| 2025 | diretoria | 24 | 15 | 0 |
+| 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 15 | 0 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
-| 2024 | diretoria | 24 | 0 | 0 |
+| 2024 | diretoria | 24 | 3 | 0 |
 | 2024 | audiencia | 9 | 0 | 0 |
 | 2023 | workshop | 16 | 0 | 0 |
 | 2023 | diretoria | 22 | 0 | 0 |
@@ -71,5 +71,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-07-25 · Reunião de Diretoria Colegiada nº 1164 - 24 de julho de 2025 · `jQQGj6JPnAA`
 - 2025-07-10 · Reunião de Diretoria Colegiada nº 1163 - 10 de julho de 2025 · `CCbXdb6WXqM`
 - 2025-06-26 · Reunião de Diretoria Colegiada nº 1162 - 26 de junho de 2025 · `-0UwTZaim8k`
+- 2025-06-12 · Reunião de Diretoria Colegiada nº 1161 - 12 de junho de 2025 · `1d7r5tB2DzE`
+- 2025-05-29 · Reunião de Diretoria Colegiada nº 1160 - 29 de maio de 2025 · `4NoadD_90BQ`
+- 2025-05-15 · Reunião de Diretoria Colegiada nº 1159 - 15 de maio de 2025 · `Y_QWTHRZvnA`
+- 2025-04-24 · Reunião de Diretoria Colegiada nº 1158 - 24 de abril de 2025 · `iyrLrQbRFTU`
+- 2025-03-27 · Reunião de Diretoria Colegiada nº 1157 - 27 de março de 2025 · `ocXCzfq0zZI`
+- 2025-03-20 · Reunião de Diretoria Colegiada nº 1156 - 20 de março de 2025 · `FdjDOZ9wcmI`
+- 2025-02-20 · Reunião de Diretoria Colegiada nº 1155 - 20 de fevereiro de 2025 · `OrAPFrxXbNc`
+- 2025-02-06 · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
+- 2025-01-23 · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
+- 2024-12-19 · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
+- 2024-12-14 · Reunião de Diretoria Colegiada nº 1151 - 13 de dezembro de 2024 · `MngJ-EXGqcs`
+- 2024-11-28 · Reunião de Diretoria Colegiada nº 1150 - 28 de novembro de 2024 · `hrCl14NQxvY`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
