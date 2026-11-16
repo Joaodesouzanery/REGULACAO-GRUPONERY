@@ -8,7 +8,7 @@ import previsao, mapa_tema, design as d, notas_cliente as nc
 from desfecho import desfecho_item
 E = d.E
 
-P = sys.argv[1].rstrip("/")
+P = sys.argv[1].rstrip("/"); PREVIA = os.environ.get("PREVIA") == "1"
 if not os.path.exists(f"{P}/empresa.json"): sys.exit(f"Pasta do cliente não encontrada: {P}")
 EMP = json.load(open(f"{P}/empresa.json")); AG = EMP.get("agencias", ["antaq"])[0]
 D = "data" if AG == "antt" else f"data/{AG}"; NOME = d.NOME_AG.get(AG, AG.upper())
@@ -74,7 +74,7 @@ def narrativa(chave):
 
 
 S = []
-S.append(d.capa(FOTO, FOCO, f"Inteligência regulatória · {NOME}", nome_curto, EMP["nome"][len(nome_curto):].strip(" ()") or EMP.get("subtitulo", ""), EMP.get("cnpj", ""),
+S.append(d.capa(FOTO, FOCO, f"{'Prévia gratuita' if PREVIA else 'Inteligência regulatória'} · {NOME}", nome_curto, EMP["nome"][len(nome_curto):].strip(" ()") or EMP.get("subtitulo", ""), EMP.get("cnpj", ""),
                 [(len(its), f"decisões da diretoria sobre a empresa desde {fmtd(its[0]['data'])[-4:] if its else '—'}"), (f"{100 * unan / max(len(its), 1):.0f}%", "decididas sem voto divergente"),
                  (" · ".join(fmtd(x["data"])[:5] for x in cal) or "—", "próximas reuniões da diretoria"), (aberto, "processos em aberto (vista ou retirados)")], CLI))
 SEC = [("A empresa na agência", "processos, calendário e desfechos"), ("Quem decide", "diretoria, perfis e superintendentes"), ("Como a diretoria decide", "temas da empresa, com as falas"),
@@ -117,6 +117,7 @@ S.append(d.tecnica("01 · A empresa na agência", "Desfechos, falas e calendári
                    "Desfecho: «a favor» = pedido da empresa atendido; «em parte» = atendido parcialmente; «sem efeito direto» = ato da agência sem ganho ou perda para a empresa; «contra» = pedido negado ou sanção mantida.", CLI))
 S.append(d.tecnica("01 · A empresa na agência", "Decisões mais recentes, com o placar e o minuto", decs_html(its[-5:][::-1]), AG, "Placar calculado a partir dos votos registrados no vídeo; quem só acompanha o relator tem minuto aproximado.", CLI))
 PP = -(-len(linhas_p) // max(1, -(-len(linhas_p) // 14)))
+if PREVIA: linhas_p = linhas_p[:12]; PP = 12
 for k0 in range(0, len(linhas_p), PP):
     S.append(d.tecnica("01 · A empresa na agência", "Processos da empresa na diretoria" + (f" ({k0 // PP + 1}/{(len(linhas_p) + PP - 1) // PP})" if len(linhas_p) > PP else ""), tabf(linhas_p[k0:k0 + PP]), AG,
                        "Situação pela última sessão da diretoria. O nº de processo vem da legenda automática: confira no SEI.", CLI))
@@ -153,7 +154,7 @@ for k, tc in enumerate(EMP.get("temas_consultoria", [])):
                        "Chance = histórico de cada diretor no tema (prior 97%, peso 10); estimativa, não certeza.", CLI))
 
 # 04 contratos
-S.append(d.divisor(4, SEC[3][0], "A trajetória de cada contrato da empresa na diretoria: o que foi pedido, quem votou o quê e o que vem a seguir.", DIV[3] if len(DIV) > 3 else FOTO))
+if any(k in NAR for k in ("atu12", "atu18")): S.append(d.divisor(4, SEC[3][0], "A trajetória de cada contrato da empresa na diretoria: o que foi pedido, quem votou o quê e o que vem a seguir.", DIV[3] if len(DIV) > 3 else FOTO))
 for chave in ("atu12", "atu18"):
     if chave not in NAR: continue
     n = NAR[chave]; ps = [f"<p>{E(p)}</p>" for p in n.get("paragrafos", [])]; cs = [d.citacao(q["texto"], q.get("quem", ""), f'{q.get("reuniao", "")}{" · item " + str(q["item"]) if q.get("item") else ""}', q.get("link")) for q in n.get("citacoes", [])]
@@ -166,8 +167,9 @@ for chave in ("atu12", "atu18"):
 # 05 antecipar
 S.append(d.divisor(5, SEC[4][0], "O item em aberto que interessa à empresa e o que o histórico de votos permite estimar, sempre como estimativa.", DIV[4] if len(DIV) > 4 else FOTO))
 ps, cs = narrativa("item17")
+TEM_ITEM = bool(EMP.get("item_antecipado"))
 calh2 = "".join(f'<li><b>{E(x["data"])}</b> {E(x["reuniao"])}: {E(x["obs"])}</li>' for x in (EMP.get("item_antecipado") or {}).get("calendario", []))
-S.append(d.tecnica("05 · Antecipar", (EMP.get("item_antecipado") or {}).get("titulo", "Item em aberto"), d.grade(f'<div class="nar">{ps}</div>', '<div>' + d.conceito("", "Próximas reuniões", "calendário oficial", texto=f'<ul class="arr">{calh2}</ul>') + cs + '</div>', cols=2)
+if TEM_ITEM: S.append(d.tecnica("05 · Antecipar", (EMP.get("item_antecipado") or {}).get("titulo", "Item em aberto"), d.grade(f'<div class="nar">{ps}</div>', '<div>' + d.conceito("", "Próximas reuniões", "calendário oficial", texto=f'<ul class="arr">{calh2}</ul>') + cs + '</div>', cols=2)
                    + d.conceito("", f"A empresa na {its[-1]['numero']}ª reunião, item a item", "o que foi decidido, quem relatou e o que foi dito", texto=decs_html([i for i in its if i["numero"] == its[-1]["numero"]][:4])), AG, logo_cliente=CLI))
 def faixa(ps_):
     lo = hi = mid = 1.0
@@ -180,9 +182,17 @@ fut = (f'<p>{d.selo("estimativa, não é certeza")}</p><div class="nums" style="
        f'<div><b>{100 * lo:.0f}–{"≥99" if hi >= .99 else f"{100 * hi:.0f}"}%</b><span>chance de decisão unânime com o relator</span></div></div>'
        f'<ul class="arr"><li>O voto do relator define o resultado na grande maioria dos casos.</li><li>Pode mudar: troca de diretor (mandatos em dez/2026 e fev/2027), voto-vista, divergência do Diretor-Geral em metodologia de cálculo.</li>'
        f'<li>Teste no passado: acertou {ac} de {tt} ({100 * ac / max(tt, 1):.0f}%), igual à taxa de unanimidade. A regra não antecipa divergências.</li></ul>')
-S.append(d.tecnica("05 · Antecipar", "Previsão para os próximos processos da empresa", d.grade(d.conceito("Passado", "Quanto cada diretor acompanha o relator", f"temas {', '.join(t.replace('_', ' ') for t in pr['temas'])} · 3 anos", texto=pas),
+if PREVIA:
+    S.append(d.tecnica("05 · O que vem no pacote completo", "O que esta prévia não mostra", d.whitepaper("Pacote completo", [
+        ("Previsão de placar", "<p>Estimativa de placar e chance de unanimidade para cada processo da empresa, com o histórico de cada diretor e o teste no passado.</p>"),
+        ("Alerta antes de cada reunião", "<p>Assim que a pauta sai: itens da empresa, relator, casos parecidos e o que observar (reunião virtual, prazos, mandatos).</p>"),
+        ("Raio-X de todos os processos", "<p>Linha do tempo, prazo comparado com semelhantes, próximos marcos e alertas, processo a processo, com os dados internos que a empresa informar.</p>"),
+        ("Respostas às perguntas da equipe", "<p>Até 5 perguntas por mês, respondidas com decisão, voto, trecho literal e o minuto do vídeo.</p>"),
+        ("Monitoramento em 8 blocos e boletim mensal", "<p>Visão geral, mapeamento, prazo, agenda, quem conduz, busca, comparativa e visão da empresa, todo mês.</p>")]), AG, logo_cliente=CLI))
+else: S.append(d.tecnica("05 · Antecipar", "Previsão para os próximos processos da empresa", d.grade(d.conceito("Passado", "Quanto cada diretor acompanha o relator", f"temas {', '.join(t.replace('_', ' ') for t in pr['temas'])} · 3 anos", texto=pas),
                                                                                                  d.conceito("Futuro", "O que esperar", "", texto=fut), cols=2) + d.conceito("", "A base da estimativa: votos recentes", "cada célula é o voto registrado no vídeo; ▶ abre a sessão no minuto", texto=matriz(its[-5:][::-1])), AG,
                    "Estimativa estatística a partir do histórico de votos; não substitui a publicação oficial nem orientação jurídica. Legenda automática pode errar nomes e números.", CLI))
 cob = f"Base: {len(its)} decisões da diretoria da {NOME} sobre a empresa desde 2018, com o voto de cada diretor e link para o vídeo oficial no minuto. Fontes públicas (vídeos das reuniões, pautas e calendário da agência, Senado, DOU). Previsões são estimativas."
 S.append(d.fim(cob, EMP.get("contato", "Circle Consultoria em parceria com Grupo Nery"), DIV[0]))
-print(d.documento(S, f"{nome_curto} · {NOME}", f"{P}/relatorio_empresa"), len(S), "páginas")
+if PREVIA: S = [x.replace("</section>", '<div class="wm-pv">PRÉVIA · válida por 30 dias</div></section>', 1) if 'class="pg tec"' in x else x for x in S]
+print(d.documento(S, f"{nome_curto} · {NOME}", f"{P}/{'previa_completa' if PREVIA else 'relatorio_empresa'}"), len(S), "páginas")

@@ -63,7 +63,7 @@ Pode ser um conteúdo exclusivo para os associados. Faz sentido conversarmos?
 
 Olá,
 
-Como combinado (ou: como prometido), segue a prévia da {EMPRESA}, feita só com informação pública. Ela tem as decisões mais recentes, o desfecho para a empresa, quem decide e uma amostra do perfil de um diretor.
+Como combinado, segue a prévia completa da {EMPRESA} (cerca de 15 páginas), feita só com informação pública: diretoria sem desfoque, temas da empresa analisados, agenda e o que observar. Ela tem as decisões mais recentes, o desfecho para a empresa, quem decide e uma amostra do perfil de um diretor.
 
 Três coisas que a prévia mostra:
 1. {fato 1, por exemplo: quem relatou mais processos da empresa}

@@ -1,0 +1,48 @@
+{
+ "meta": {"video_id": "Xa20VHfSGfc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "6ª Reunião Pública Ordinária de 2025 (parte 2)", "data": "2025-02-25", "formato": "presencial/transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": ["Gentil Nogueira"],
+  "observacoes": ["Parte 2 da 6ª RPO; inversão de pauta: item 2, item 3 e retorno do item 4 (voto-vista).", "Na abertura consta Ricardo Tili ausente; ao final o DG registra que ele, em férias, esteve presente até pouco antes e deixou registrado que acompanha o voto-vista de Fernando Mosna no item 4.", "Item 4 (termo aditivo de prorrogação das concessões de distribuição, Decreto 12.068/2024) aprovado por maioria nos termos da relatora Agnes da Costa, vencido o voto-vista de Fernando Mosna (e Ricardo Tili).", "Encerrada a 6ª reunião pública ordinária ao fim do vídeo (~2:46:36)."]
+ },
+ "itens": [
+  {"id": "2", "ts": "0:00:31", "processo": "48500.000386/2024-7 (número incerto)", "interessado": "Superintendência de Gestão Tarifária (STR); distribuidoras",
+   "assunto": "Abertura de consulta pública para regulamentação de financeiros de diferimento em processos tarifários de distribuição (atendimento ao Acórdão TCU 1376/2022 e determinação do reajuste da Copel 2024)",
+   "tema": ["tarifas e revisão tarifária", "regulação normativa", "consulta pública", "institucional/TCU"],
+   "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade (CP de 45 dias, 26/02 a 11/04/2025)",
+   "resumo_voto": "Relatora propõe CP sobre proposta da STR com fórmula/parâmetros objetivos para avaliar pedidos de diferimento; Fernando Mosna criticou que a área técnica trouxe fórmula e não balizas, e pediu deixar claro que a decisão é da diretoria (não homologatória) e considerar peculiaridades regionais; relatora acolheu ajuste sobre a decisão ser da diretoria.",
+   "votos": [
+    {"diretor": "Ludimila Lima", "voto": "relatora, aprova abertura de consulta pública", "ts": "0:01:30", "justificativa": "objetividade e previsibilidade na análise de diferimentos; diretoria decide, área técnica instrui", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "0:46:05", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora com os ajustes indicados", "ts": "0:46:07", "justificativa": "ressalvas: regra não deve ser fórmula determinativa; decisão é da diretoria; considerar peculiaridades regionais (Norte/Nordeste)", "tom": "crítico, construtivo", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:46:10", "justificativa": "parâmetros dão previsibilidade e transparência, evitando casos ad hoc; CP pode ajustar", "confianca": "alta"}
+   ]},
+  {"id": "3", "ts": "0:46:49", "processo": "48500.000101/2029-0 (número incerto)", "interessado": "CCEE; geradores fotovoltaicos",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 45 dias) para regras e procedimentos de comercialização do constrained-off de usinas fotovoltaicas (título II-A da REN 1030/2022, incluído pela REN 1073/2023); prorrogação da metodologia transitória e recontabilização pela CCEE desde 01/04/2024",
+   "tema": ["comercialização (CCEE)", "outorgas de geração (solar)", "regulação normativa", "consulta pública"],
+   "relator": "Agnes da Costa", "resultado": "aprovado por maioria",
+   "resumo_voto": "Relatora: abrir CP, aplicar metodologia transitória até aprovação das regras definitivas e determinar à CCEE recontabilizar o constrained-off de UFVs de 01/04/2024 até essa data; um diretor discordou por coerência com o entendimento de que a REN 1030 deve ser revista antes.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova abertura de consulta pública", "ts": "0:47:30", "justificativa": "isonomia com eólicas, cobrança crescente dos geradores e preservação de direitos desde abril/2024", "confianca": "alta"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "1:16:02", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "diverge", "ts": "1:16:04", "justificativa": "coerência com seu entendimento de que a REN 1030 precisa ser revista; o fundamento de validade deveria ser revisto, não cabendo abrir CP agora", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:16:20", "confianca": "alta"}
+   ]},
+  {"id": "4", "ts": "1:17:23", "processo": "48500.000208/2024-34 (número incerto)", "interessado": "distribuidoras com concessões a vencer (EDP Espírito Santo, Light, Enel Rio etc.); MME",
+   "assunto": "Resultado da CP 27/2024: minuta do termo aditivo ao contrato de concessão de distribuição para prorrogação das concessões (Decreto 12.068/2024 e Lei 9.074/1995) — retorno de pedido de vista em mesa",
+   "tema": ["tarifas e revisão tarifária", "distribuição (prorrogação de concessões)", "fiscalização e sanções", "consulta pública"],
+   "relator": "Agnes da Costa", "resultado": "aprovado por maioria nos termos da relatora, vencido o voto-vista; recomendação ao poder concedente para condicionar a assinatura à quitação de multas transitadas em julgado em 180 dias com desistência de ações judiciais",
+   "resumo_voto": "Voto-vista de Fernando Mosna: abrir 2ª fase de CP (30 dias, 06/03 a 05/04/2025) sobre reconhecimento intraciclo de investimentos, regime econômico flexível e perdas não técnicas/receitas irrecuperáveis em áreas de severa restrição operativa; aprovar minuta só para assinatura da EDP ES com faculdade de adesão em 60 dias ao novo contrato; excluir o item B da relatora (quitação de multas/desistência judicial) por violar acesso à justiça. Relatora manteve o voto.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, mantém o voto integralmente com os ajustes já falados", "ts": "2:41:10", "justificativa": "contrato debatido; ajustes já acordados", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "voto-vista: 2ª fase de CP, aprovação restrita à EDP ES e exclusão do item B; vencido", "ts": "1:18:06", "justificativa": "prazo exíguo de análise; cláusulas com margem a interpretações divergentes; exigir quitação de multas e desistência judicial é cláusula ad hoc sem previsão no decreto e mitiga o acesso à justiça (art. 5º, XXXV)", "tom": "técnico, divergente", "confianca": "alta"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:41:20", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:41:30", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista (registrado, ausente no momento); vencido", "ts": "2:41:43", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática; números de processo provavelmente errados.", "Item 3: autor da divergência não nomeado na fala; atribuído a Fernando Mosna pela ordem de votação (no item 2 ele votou em segundo) — confiança baixa; idem a ordem de Agnes/Ludimila como acompanhantes.", "Ricardo Tili consta ausente na abertura; seu voto no item 4 foi registrado pelo secretário/DG.", "Gentil Nogueira não integrava a diretoria (citado como secretário do MME).", "Parte 1 da 6ª RPO (item 1 e demais) está em outro vídeo."]
+}

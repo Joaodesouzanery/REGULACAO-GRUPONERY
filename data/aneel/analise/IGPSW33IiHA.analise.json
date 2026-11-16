@@ -1,0 +1,407 @@
+{
+ "meta": {
+  "video_id": "IGPSW33IiHA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4ª RPO 2025",
+  "data": "2025-02-12",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Ludimila Lima (missão institucional, justificada)"
+  ],
+  "observacoes": [
+   "Pauta com 38 itens; itens 4 a 38 em bloco; item 7 retirado; destaques 12, 14, 15 e 22 com sustentação oral.",
+   "Ata da 3ª RPO de 2025 aprovada.",
+   "Longo embate regimental (itens 1 e 2): Ricardo Tili e Fernando Mosna acusam interpretação casuística do regimento pelo Diretor-Geral («Regimento Sandoval»); Sandoval decide de ofício questão de ordem.",
+   "Item 12 terminou empatado 2 x 2 e aguarda nova deliberação."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 4 a 38)",
+   "ts": "0:30:51",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (4 a 38, exceto o 7, retirado, e os destacados 12, 14, 15 e 22), com votos e atos publicados com a pauta",
+   "tema": [
+    "bloco de pauta"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (proclamação), com divergência do Diretor-Geral no item 21 e uma declaração de suspeição no item 8",
+   "resumo_voto": "Bloco aprovado. Sandoval Feitosa divergiu no item 21 (recurso sobre a PCH ligada ao leilão 3/2016): conhecer e dar provimento ao recurso, desconstituir o TIP 1/2020 da AGER-MT/SFG, na linha da nota jurídica 10/2024 da Procuradoria, e determinar que a SFT instaure processo punitivo com base na cláusula 11.9.2 do edital do leilão 3/2016. Um diretor não identificado declarou suspeição no item 8.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, diverge no item 21",
+     "ts": "0:31:11",
+     "justificativa": "Diverge no item 21: dar provimento ao recurso, desconstituir o TIP 1/2020 e mandar a SFT instaurar processo punitivo pelo atraso no cronograma da PCH (edital do leilão 3/2016).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:31:00",
+     "justificativa": "Aprova os itens do bloco (atribuição das falas curtas incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:31:00",
+     "justificativa": "Aprova os itens do bloco (atribuição das falas curtas incerta; um dos diretores declarou suspeição no item 8).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:31:00",
+     "justificativa": "Aprova os itens do bloco (atribuição das falas curtas incerta; um dos diretores declarou suspeição no item 8).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:33:06",
+   "processo": "",
+   "interessado": "não identificado na legenda",
+   "assunto": "Processo empatado (sem três votos convergentes) que voltou à pauta em fase de votação, pendente do voto de Ludimila Lima (ausente); disputa regimental sobre retirada de pauta pelo relator e pedido de vista",
+   "tema": [
+    "institucional / regimento interno",
+    "pedido de vista"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "vista concedida a Agnes da Costa por decisão do Diretor-Geral em questão de ordem; pedido de vista de Ricardo Tili e pedido de retirada de pauta de Fernando Mosna não acolhidos",
+   "resumo_voto": "Secretaria informa que os itens 1 e 2 dependem do voto de Ludimila Lima. Ricardo Tili pede vista; o Diretor-Geral entende inicialmente que não cabe e concede vista a Agnes da Costa (que vota antes na ordem). Ricardo e Fernando criticam a interpretação casuística do regimento (orientação de reunião administrativa de 2019 x faculdade do relator de retirar de pauta); Fernando pede retirada de pauta; o Diretor-Geral decide de ofício a questão de ordem e mantém a vista com Agnes. Fernando registra inconformismo mas se submete.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "decide questão de ordem: vista concedida a Agnes",
+     "ts": "1:00:04",
+     "justificativa": "Processo sem três votos convergentes deve voltar com todos os diretores; questão de ordem decidida conclusivamente pelo Diretor-Geral; «fiquem à vontade de fazer qualquer representação a respeito da minha gestão».",
+     "confianca": "media",
+     "tom": "tenso"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "0:33:40",
+     "justificativa": "Prefere que a Ludimila possa votar; a orientação de 2019 visa permitir que todos os diretores votem.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator; pede retirada de pauta (não acolhida)",
+     "ts": "0:58:35",
+     "justificativa": "Regimento permite ao relator retirar de pauta a qualquer momento antes da proclamação; critica o «Regimento Sandoval» e a questão de ordem de ofício; submete-se discordando.",
+     "confianca": "media",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista (não acolhida)",
+     "ts": "0:33:30",
+     "justificativa": "Precedente de 2019 já foi cumprido; retirada de pauta devolve o processo ao relator; critica flexibilização casuística do regimento que gera insegurança ao setor.",
+     "confianca": "media",
+     "tom": "crítico"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:33:06",
+   "processo": "",
+   "interessado": "não identificado na legenda",
+   "assunto": "Processo empatado (sem três votos convergentes) que voltou à pauta em fase de votação, pendente do voto de Ludimila Lima (ausente); disputa regimental sobre retirada de pauta pelo relator e pedido de vista",
+   "tema": [
+    "institucional / regimento interno",
+    "pedido de vista"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "vista concedida a Agnes da Costa por decisão do Diretor-Geral em questão de ordem; pedido de vista de Ricardo Tili e pedido de retirada de pauta de Fernando Mosna não acolhidos",
+   "resumo_voto": "Secretaria informa que os itens 1 e 2 dependem do voto de Ludimila Lima. Ricardo Tili pede vista; o Diretor-Geral entende inicialmente que não cabe e concede vista a Agnes da Costa (que vota antes na ordem). Ricardo e Fernando criticam a interpretação casuística do regimento (orientação de reunião administrativa de 2019 x faculdade do relator de retirar de pauta); Fernando pede retirada de pauta; o Diretor-Geral decide de ofício a questão de ordem e mantém a vista com Agnes. Fernando registra inconformismo mas se submete.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "decide questão de ordem: vista concedida a Agnes",
+     "ts": "1:00:04",
+     "justificativa": "Processo sem três votos convergentes deve voltar com todos os diretores; questão de ordem decidida conclusivamente pelo Diretor-Geral; «fiquem à vontade de fazer qualquer representação a respeito da minha gestão».",
+     "confianca": "media",
+     "tom": "tenso"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "0:33:40",
+     "justificativa": "Prefere que a Ludimila possa votar; a orientação de 2019 visa permitir que todos os diretores votem.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator; pede retirada de pauta (não acolhida)",
+     "ts": "0:58:35",
+     "justificativa": "Regimento permite ao relator retirar de pauta a qualquer momento antes da proclamação; critica o «Regimento Sandoval» e a questão de ordem de ofício; submete-se discordando.",
+     "confianca": "media",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista (não acolhida)",
+     "ts": "0:33:30",
+     "justificativa": "Precedente de 2019 já foi cumprido; retirada de pauta devolve o processo ao relator; critica flexibilização casuística do regimento que gera insegurança ao setor.",
+     "confianca": "media",
+     "tom": "crítico"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:02:30",
+   "processo": "48500.004433/2017-15 (incerto)",
+   "interessado": "Oeste Canoas Petróleo e Gás Ltda. (UTE Oeste de Canoas 1)",
+   "assunto": "Recurso administrativo contra o Despacho SFT 5173/2023, que aplicou multa pelo atraso na implantação da UTE Oeste de Canoas 1 (leilão 1/2016)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: recurso não conhecido por perda de objeto e suspensa a exigibilidade do despacho enquanto durar a decisão judicial",
+   "resumo_voto": "Excludente de responsabilidade já negada em última instância (Despacho 648/2024): coisa julgada administrativa esvazia o recurso; liminar da 17ª Vara Federal/DF suspende efeitos das sanções, mas não impede o julgamento. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não conhece do recurso",
+     "ts": "1:20:00",
+     "justificativa": "Fundamentos idênticos ao pedido de reconsideração já julgado; perda de objeto; suspensão da exigibilidade enquanto vigorar a liminar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:50",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:50",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:20:50",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:21:58",
+   "processo": "48500.000931/2026-5 (número incerto)",
+   "interessado": "ABRADEE (Associação Brasileira de Distribuidores de Energia Elétrica)",
+   "assunto": "Pedido de medida cautelar para antecipar o tratamento das perdas não técnicas afetadas pela MMGD (mercado de baixa tensão medido) nos processos tarifários de 2025, antes da conclusão da CP 9/2024",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "geração distribuída (MMGD)",
+    "recursos administrativos",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "sem deliberação: empate 2 x 2 (sem três votos convergentes); aguarda próxima deliberação",
+   "resumo_voto": "Relatora: indeferir a cautelar, pois a solução não pode ser antecipada só na parte que interessa às distribuidoras; a CP olha o problema como um todo; área técnica (Camila) prevê nota técnica até 28/2. Sustentação oral de Lucas Malheiros Nunes (ABRADEE). Fernando Mosna abre divergência (fumaça do bom direito, perigo da demora e reversibilidade presentes), Ricardo Tili acompanha; Sandoval acompanha a relatora.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, indefere a cautelar",
+     "ts": "1:30:00",
+     "justificativa": "Antecipar um pedaço da discussão em que há consenso pode beneficiar só um lado; consulta pública ainda aberta para tratar o todo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge: dá provimento à cautelar",
+     "ts": "1:49:49",
+     "justificativa": "Tema em debate desde 2022 (tomada de subsídios 28 e CP 9); presentes fumaça do bom direito (verossimilhança, não direito líquido e certo), perigo da demora e reversibilidade; coerência com caso Enel RJ.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a divergência",
+     "ts": "1:50:04",
+     "justificativa": "Solidariza-se com a ABRADEE; demora «muito tardia e lenta»; requisitos de reversibilidade e perigo da demora presentes; já reconheceu perda não técnica em casos Energisa MT/MS.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:50:13",
+     "justificativa": "Sem certeza mínima para cautelar com efeito normativo; compromisso da relatora/área técnica com prazo atende o pleito; jornada regulatória prevista em lei.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:50:21",
+   "processo": "48500.003858/2024-05",
+   "interessado": "Consórcio REC Bandeirantes (data center GLP Bandeirantes, região de São Paulo); ONS",
+   "assunto": "Pedido de medida cautelar para manter posição do projeto na fila de acesso à rede de transmissão e suspender pareceres de acesso de terceiros até estudos da EPE e POTEE do MME",
+   "tema": [
+    "transmissão",
+    "acesso à rede / data centers",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: cautelar indeferida; processo à STD para mérito e à SFT para fiscalizar o ONS quanto a prazos de pareceres de acesso",
+   "resumo_voto": "ONS cumpriu o prazo de 85 dias; sem fumaça do bom direito nem prova de má-fé; mas há indícios de tratamento não isonômico (outros pareceres além do prazo), justificando fiscalização. Sustentação oral de Rodrigo Machado Santos (consórcio).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, indefere a cautelar e determina fiscalização do ONS",
+     "ts": "2:03:29",
+     "justificativa": "ONS respeitou o prazo regulamentar; ausência de fumaça do bom direito; SFT deve verificar descumprimento de prazo para outros agentes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "justificativa": "Perguntou à área técnica sobre outras negativas de parecer para data centers.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:50",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:07:50",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:08:37",
+   "processo": "48500.004244/2025-13 (incerto)",
+   "interessado": "Calcaia Solar 1 Projetos de Energia Fotovoltaica SPE Ltda.; ONS",
+   "assunto": "Pedido de medida cautelar para suspender a execução, pelo ONS, das garantias financeiras de solicitação de acesso (GPAS) da solicitação SGA 0141/2024",
+   "tema": [
+    "transmissão",
+    "acesso à rede",
+    "outorgas de geração (solar)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: cautelar indeferida e processo enviado à STD para análise de mérito",
+   "resumo_voto": "Para revalidar parecer sem CUST assinado o acessante deve renovar a garantia com 365 dias (submódulo 7.1, item 4.5.11 e anexo C); garantia vencia em maio/2025; sem fumaça do bom direito. Sustentação oral de William Fontes Mendes, que informou que a garantia já foi executada.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, indefere a cautelar e envia à STD",
+     "ts": "2:18:55",
+     "justificativa": "ONS agiu conforme os procedimentos de rede; ausência de fumaça do bom direito; garantia já executada, mérito vai à STD.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:23:59",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:23:59",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:23:59",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:24:45",
+   "processo": "48500.004293/2012-31",
+   "interessado": "Lacerdópolis Energética S.A. (PCH Lacerdópolis, Lacerdópolis/SC)",
+   "assunto": "Alteração do cronograma de implantação, excludente de responsabilidade por enchentes (2022-2023), postergação do suprimento do CCEAR e recomposição do prazo de outorga",
+   "tema": [
+    "outorgas de geração (hidrelétrica/PCH)",
+    "fiscalização e sanções",
+    "excludente de responsabilidade"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: pleito indeferido",
+   "resumo_voto": "Chuvas e vazões não superaram máximos históricos (tempo de retorno de 25 anos); enchente de out/2023 posterior à data de operação comercial (28/06/2023); sem nexo causal nem imprevisibilidade. Sustentação oral de Susana (Tiessen?) e João Carlos Floss. Relator ressalta que a usina está em operação em teste e o lastro do CCEAR vem sendo recomposto, atenuantes para futura fiscalização.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, indefere",
+     "ts": "2:36:29",
+     "justificativa": "Eventos climáticos não imprevisíveis; nexo de causalidade não demonstrado; conclusão da usina é atenuante na fiscalização.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:44:17",
+     "justificativa": "Vazão inferior à de 25 anos dificulta caracterizar excepcionalidade; agentes devem se preparar com base no histórico.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:44:20",
+     "justificativa": "Perguntou se a referência de 25 anos é aplicada a todos os casos; ressalta possibilidade de recurso com mais elementos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:44:25",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "7",
+   "motivo": "retirado de pauta (motivo não informado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos do JSON de legendas, aproximados.",
+  "Atribuição das falas curtas do bloco é incerta; não se sabe qual diretor declarou suspeição no item 8; divergência no item 21 inferida como do Diretor-Geral pela fala «voto divergente que apresentei».",
+  "Assunto e número dos processos dos itens 1 e 2 não lidos na sessão; relator Fernando Mosna inferido de falas («relatoria do Fernando»), confiança média.",
+  "Números de processo vêm da legenda automática e podem estar errados."
+ ]
+}

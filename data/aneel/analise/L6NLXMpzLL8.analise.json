@@ -1,0 +1,109 @@
+{
+  "meta": {"video_id": "L6NLXMpzLL8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5", "data": "2025-02-18", "formato": "presencial (Parte 1 da 5ª Reunião Pública Ordinária de 2025)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Gentil Nogueira"],
+    "observacoes": [
+      "Quórum de cinco diretores; procurador-geral Eduardo Ramalho presente.",
+      "Pauta com 44 itens; itens 8 a 44 em bloco; destacados do bloco 13, 20, 23 e 24; retirados 4, 12, 29 e 30; sustentação oral pedida para 15(?), 5, 23 e 24.",
+      "Ordem: bloco, 2, 1, 6, 7, 5, 3, 23, 24, 13, 20. Esta Parte 1 cobre bloco, 2, 1, 6, 7 e 5; itens 3, 23, 24, 13 e 20 ficam para a Parte 2 (intervalo às ~13h20, retorno às 15h).",
+      "Comunicado do DG sobre ofício do Ibama à Norte Energia (Belo Monte) mantendo vazão no trecho de vazão reduzida até 15/03/2025: perda estimada de ~2.400 MW médios na ponta e custo de R$ 1,2 a 2,4 bilhões ao consumidor.",
+      "Item 6: Ricardo Tili pediu vista após voto-vista divergente de Agnes da Costa. Item 5: debate duro entre Fernando Mosna (relator) e o DG Sandoval Feitosa sobre constrained-off; relator vencido no item II."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (8 a 44)", "ts": "0:08:22", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 8 a 44 (exceto destacados 13, 20, 23, 24 e retirados 29 e 30)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado",
+      "resumo_voto": "Bloco aprovado. Agnes da Costa declarou-se impedida no item 14 (dispositivo I, recurso contra despacho da SCE) e no item 16; houve declaração de suspeição no item 8 (diretor não identificado). Um diretor apresentou voto próprio no item 14 (UTE BBF Baliza, leilão 1/2019): parcial provimento para reconhecer 254 dias de excludente (marco de operação comercial de 28/06/2021 para 09/03/2022) e provimento ao recurso contra o Despacho 4849/2023 para desconstituir o TIP 4/2021 e determinar à SFT instaurar processo punitivo.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco; impedida no item 14 (dispositivo I) e no 16; acompanha relator no item 14 dispositivo II", "ts": "0:08:33", "justificativa": "recursos contra despachos da SCE", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "aprova o bloco", "ts": "0:09:10", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:09:20", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:09:25", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:11:15", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:11:24", "processo": "48500.004163/2024-32", "interessado": "STE/ANEEL (empresas com obrigação de PDI)",
+      "assunto": "Abertura de consulta pública sobre a minuta do edital do Prêmio ANEEL de Inovação 2025 (programa de PDI)",
+      "tema": ["regulação normativa (consulta pública)", "PDI e inovação"],
+      "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Consulta pública de 19/02 a 04/04/2025; apresentação técnica de Márcio Alcântara (STE); prêmio bienal ligado ao CITENEL. Sugestões em debate: Fernando Mosna pediu representante de consumidores e recorte de P&D nas associações do comitê julgador; Ricardo Tili sugeriu premiação em dinheiro ou bolsa ao pesquisador.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova abertura da CP", "ts": "0:13:00", "justificativa": "prêmio fortalece a cultura de inovação; primeira edição submetida à CP; periodicidade bienal", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:34:04", "justificativa": "sugere incluir representante de consumidores no comitê julgador", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:34:06", "justificativa": "sugere premiação em dinheiro ou bolsa", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "0:34:08", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "0:34:10", "justificativa": "destaca prêmios IASC, ouvidoria e de conselhos de consumidores", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:34:47", "processo": "48500.000503/2024-56", "interessado": "consumidores do grupo A, distribuidoras e comercializadoras; sustentação oral de Bernardo (ABRACEEL)",
+      "assunto": "Abertura de consulta pública sobre aprimoramento regulatório da distribuição com a abertura do mercado para o grupo A e instituição do Open Energy",
+      "tema": ["comercialização (mercado livre)", "regulação normativa (consulta pública, AIR)", "distribuição"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "CP por intercâmbio documental de 47 dias (20/02 a 07/04/2025): simplificação da migração, prazos de 180/90 dias, fim da migração parcial, sandbox de fatura unificada, padronização de faturas, vedações a distribuidora e comercializadora do mesmo grupo (marca, RH e infraestrutura), práticas anticoncorrenciais e roadmap do Open Energy. Procuradoria opinou pela abertura.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova abertura da CP", "ts": "1:07:46", "justificativa": "regulação robusta para garantir livre concorrência e isonomia antes da abertura ao grupo B; assimetria de informação", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:16:58", "justificativa": "atenção a vedações e práticas anticoncorrenciais desde a partida, não esperar o caso concreto", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:17:00", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:17:02", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:16:58", "justificativa": "ANEEL tem poder-dever de acompanhar competitividade, alinhada ao CADE", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:17:44", "processo": "48500.008886/2023-81 (número incerto)", "interessado": "Parnaíba Geração e Comercialização; SPEs Ventos de São Canuto, São Guilherme, São Jeremias, São Julião, São Raimundo, São Roberto, São Galdino (Casa dos Ventos)",
+      "assunto": "Pedidos de reconsideração contra a REH 3217/2023 (TUST ciclo 2023-2024): prazo de estabilização da TUSDg convertida em TUST após migração para a rede básica (leilões A-3/A-4 6 e 7/2021)",
+      "tema": ["tarifas (TUST)", "transmissão", "recursos administrativos", "outorgas de geração (eólica)"],
+      "relator": "Fernando Mosna", "resultado": "pedido de vista (Ricardo Tili); julgamento não concluído",
+      "resumo_voto": "Relator vota por estender a estabilização por toda a outorga (norma lacunosa até a REN 1024/2022). Voto-vista de Agnes da Costa: estabilização por 10 ciclos tarifários, com a procuradoria e área técnica; impacto estimado de ~R$ 1,5 bilhão ao consumo contra ~R$ 43 milhões de benefício. Relator rebateu parágrafo a parágrafo e manteve o voto.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, mantém voto (provimento: estabilização por toda a outorga)", "ts": "2:00:00", "justificativa": "regra lacunosa permitia interpretação razoável; resposta inconclusiva da ANEEL em 2019; alteração de característica técnica aprovada pela própria agência; critica argumentos consequencialistas e termos «deletério» e «perfunctória»", "tom": "contundente", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: diverge, estabilização por 10 ciclos tarifários", "ts": "1:19:03", "justificativa": "análise teleológica das normas (REN 267/2007, 349/2009); interpretação restritiva da exceção conforme parecer 312/2023 da procuradoria; desequilíbrio risco-benefício", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o voto-vista de Agnes", "ts": "2:24:43", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "2:24:51", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista de Agnes (voto assentado)", "ts": "2:24:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:25:07", "processo": "48500.000931/2022-65 (número incerto)", "interessado": "ABRADEE (distribuidoras)",
+      "assunto": "Pedido de medida cautelar da ABRADEE sobre impactos das perdas não técnicas no ciclo tarifário 2025 (antecipação dos efeitos da CP 9/2024)",
+      "tema": ["tarifas e revisão tarifária (perdas)", "recursos administrativos (cautelar)"],
+      "relator": "Agnes da Costa", "resultado": "por maioria, não conhecer e no mérito negar provimento à cautelar",
+      "resumo_voto": "Item retomado por falta de três votos convergentes (empate em sessão anterior); Ludimila Lima desempatou acompanhando a relatora. Votos dos demais foram dados em sessão anterior e não são repetidos aqui.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora (voto proferido em sessão anterior)", "ts": "2:25:07", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "2:26:15", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não identificado (voto em sessão anterior)", "ts": "2:25:50", "justificativa": "sugeriu contextualização do processo pelo relator em casos de empate", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "não identificado (voto em sessão anterior)", "ts": "2:25:07", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "não identificado (voto em sessão anterior); proclama", "ts": "2:26:20", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:27:00", "processo": "48500.000680/2022-16", "interessado": "ABSOLAR (geradores solares); sustentação oral de Camila Alves de Moraes",
+      "assunto": "Pedido de reconsideração da ABSOLAR contra a REN 1073/2023 (constrained-off de usinas fotovoltaicas: classificação de eventos e franquia de horas)",
+      "tema": ["comercialização (constrained-off, ESS)", "outorgas de geração (solar)", "regulação normativa", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "I) não conhecer do pedido de reconsideração (unânime); II) por maioria, conhecer como direito de petição e negar provimento (sem abrir CP); relator vencido",
+      "resumo_voto": "Relator propôs conhecer como direito de petição e abrir CP (20/02 a 21/03/2025) sobre classificação de eventos, transparência do ONS e franquia de horas, por entender que REN 927/2021 e 1073/2023 esvaziaram o direito legal (Lei 10.848, Decreto 5.163). DG Sandoval criticou ausência de nota técnica, parecer e AIR e risco à defesa judicial; Ludimila Lima e Agnes da Costa defenderam o rito (agenda regulatória, ARR em 5 anos, CP 45). Procuradoria: não conhecimento e legalidade das normas.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator: não conhece o recurso, conhece como petição e abre CP; vencido no item II", "ts": "2:55:08", "justificativa": "norma esvaziou o núcleo do direito ao ressarcimento (apenas ~1,5% dos cortes ressarcidos); franquia baseada em dados de 2014-2018; ONS não justifica classificação; urgência financeira dos agentes; formalismo moderado", "tom": "contundente", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator no item I; diverge no item II (nega provimento)", "ts": "4:10:46", "justificativa": "falta avaliação da área técnica e de resultado regulatório; tema deveria ir à agenda regulatória", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a divergência", "ts": "4:11:04", "justificativa": "não se deve escapar do rito; transparência já tratada na CP 45", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (vencido no item II)", "ts": "4:11:07", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência e proclama", "ts": "4:11:10", "justificativa": "ausência de instrução técnica, parecer e AIR; fragilizaria a posição da ANEEL em juízo; fontes solar e térmica têm atributos distintos", "tom": "crítico", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["4", "12", "29", "30"],
+  "limites_da_analise": [
+    "Vídeo é só a Parte 1; itens 3, 23, 24, 13 e 20 estão na Parte 2.",
+    "Legenda automática: números de processo dos itens 6 e 7 incertos.",
+    "Ordem de votação não é anunciada nominalmente: atribuição dos votos no item 5 (quem abriu a divergência e quem acompanhou o relator) e nos itens 2 e 1 é inferida; confiança média/baixa.",
+    "Bloco: autor da suspeição no item 8 e do voto próprio no item 14 não identificados.",
+    "Item 7: votos dos demais diretores foram proferidos em sessão anterior."
+  ]
+}

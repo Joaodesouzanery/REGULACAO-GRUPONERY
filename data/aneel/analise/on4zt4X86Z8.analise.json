@@ -1,0 +1,523 @@
+{
+ "meta": {
+  "video_id": "on4zt4X86Z8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:17); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "5ª Reunião Pública Ordinária de 2025",
+  "data": "2025-02-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Gentil Nogueira"
+  ],
+  "observacoes": [
+   "Quórum de cinco diretores. Comunicado do Diretor-Geral sobre ofício do Ibama à Norte Energia (vazão reduzida em Belo Monte até 15/03/2025): perda estimada de cerca de 2.400 MW médios e custo de R$ 1,2 a 2,4 bilhões aos consumidores.",
+   "Pauta com 44 itens; bloco 8 a 44; destacados 13, 20, 23, 24; retirados 4, 12, 29, 30; sustentações orais nos itens 1, 5, 23 e 24.",
+   "Debates longos e tensos entre Fernando Mosna e Agnes da Costa (item 6) e entre Fernando Mosna e Sandoval Feitosa (item 5).",
+   "Intervalo de cerca de 13h20 às 15h."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:25:50",
+   "processo": "itens 8 a 44 (exceto destacados 13, 20, 23, 24 e retirados 12, 29, 30)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco com votos e atos disponibilizados previamente na publicação da pauta",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados os itens remanescentes do bloco (item 14 com ressalvas; ver item 14)",
+   "resumo_voto": "Diretores aprovam o bloco; uma diretora se declara impedida no item 14 (dispositivo um) e no item 16 (recursos contra despachos da SCE); o Diretor-Geral apresenta voto próprio no item 14.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, com voto próprio no item 14",
+     "ts": "0:26:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:25:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:25:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:25:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:25:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:25:50",
+   "processo": "recursos contra os despachos 4848/2023 e 4849/2023",
+   "interessado": "agente da UTE BBF Baliza (Leilão 1/2019)",
+   "assunto": "Recursos contra despachos relativos ao atraso na implantação da UTE BBF Baliza (excludente de responsabilidade e TIP 4/2021)",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado (diretora relatora)",
+   "resultado": "aprovado no bloco; teor exato do resultado proclamado não ficou claro na legenda",
+   "resumo_voto": "Diretor-Geral vota por dar parcial provimento ao recurso contra o Despacho 4848/2023 (254 dias de excludente; marco de operação comercial de 28/06/2021 para 09/03/2022) e por dar provimento ao recurso contra o Despacho 4849/2023 para desconstituir o TIP 4/2021 e determinar à SFT instaurar processo punitivo com base na cláusula 11.9.3 do edital do Leilão 1/2019, na linha da Nota Jurídica 23/2024 da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto próprio: parcial provimento (4848) e provimento (4849) para desconstituir o TIP",
+     "ts": "0:26:40",
+     "confianca": "alta",
+     "justificativa": "segue recomendações recentes da Procuradoria (nota jurídica 23/2024); conduta deve ser apenada pelo regime sancionatório da REN 846/2019"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "declara-se impedida quanto ao dispositivo um (recurso contra despacho da SCE); acompanha a relatora no dispositivo dois",
+     "ts": "0:25:50",
+     "confianca": "baixa",
+     "justificativa": "impedimento por tratar de despacho emitido pela SCE"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:28:17",
+   "processo": "48500.004163/2024-32",
+   "interessado": "STE / setor de PD&I",
+   "assunto": "Abertura de consulta pública sobre a minuta do edital do Prêmio ANEEL de Inovação 2025 (programa PDI)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "PD&I e inovação"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade (CP de 19/02 a 04/04/2025)",
+   "resumo_voto": "Apresentação técnica de Márcio Alcântara (STE). Relatora acompanha a STE: primeira edição só com empresas obrigadas a investir em PD&I; propõe perfis do comitê julgador e periodicidade bienal vinculada ao CITENEL. Fernando Mosna sugere incluir representante de consumidores e exigir perfil acadêmico/PD&I das associações; Ricardo Tili sugere prêmio em dinheiro ou bolsa ao pesquisador; relatora aceita avaliar na CP.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova abertura de CP",
+     "ts": "0:30:00",
+     "confianca": "alta",
+     "justificativa": "fortalecer cultura de inovação; prêmio bienal por maturação longa dos projetos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:52",
+     "confianca": "media",
+     "justificativa": "sugere representante dos consumidores no comitê julgador e recorte de atuação em PD&I das associações"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:52",
+     "confianca": "media",
+     "justificativa": "sugere premiação em dinheiro ou bolsa para estimular pesquisadores"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:50:58",
+     "confianca": "alta",
+     "justificativa": "elogia STE; destaca realização junto ao CITENEL"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:51:37",
+   "processo": "48500.000503/2024-56",
+   "interessado": "distribuidoras, comercializadores varejistas, consumidores do grupo A; sustentação oral: Bernardo (Abraceel)",
+   "assunto": "Abertura de consulta pública sobre aprimoramento regulatório da distribuição em razão da abertura do mercado ao grupo A e instituição do Open Energy (AIR 1/2025)",
+   "tema": [
+    "comercialização (mercado livre)",
+    "regulação normativa (consulta pública, AIR)",
+    "distribuição",
+    "concorrência"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (CP por intercâmbio documental, 47 dias, 20/02 a 07/04/2025)",
+   "resumo_voto": "Sustentação oral da Abraceel (apoio). Procurador-Geral opina pela abertura e defende competência da ANEEL para regular concorrência no varejo. Apresentação de Daniel (STD) e Renato (SFF): simplificação da migração, prazo de 90 dias para menores, fim da migração parcial, sandbox de faturamento unificado, padronização de faturas, vedações de marca e compartilhamento entre distribuidora e comercializadora do mesmo grupo, lista de práticas anticoncorrenciais e roadmap do Open Energy. Agnes comenta vedação de marca e análise prévia de concentração; Sandoval destaca papel antitruste da ANEEL e convênio com o CADE.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova abertura de CP",
+     "ts": "1:24:44",
+     "confianca": "alta",
+     "justificativa": "preparar a abertura ao grupo B com regulação robusta que garanta livre concorrência e isonomia; tratar assimetria de informação"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:33:47",
+     "confianca": "media",
+     "justificativa": "considera importante discutir vedações e práticas anticoncorrenciais antes do caso concreto; ouvir a sociedade sobre concentração de mercado"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:33:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:33:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:33:55",
+     "confianca": "alta",
+     "justificativa": "ANEEL tem poder-dever de acompanhar a competitividade e evitar concentração e abuso de mercado"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:34:32",
+   "processo": "48500.000886/2023-81",
+   "interessado": "Parnaíba Geração e Comercialização; SPEs Ventos de São Canuto 4, São Guilherme, São Jeremias, São Julião, São Raimundo, São Roberto, São Galdino (Casa dos Ventos); usinas Ventos de Santo Antônio 1 e Ventos de Santa Luzia",
+   "assunto": "Pedidos de reconsideração contra a REH 3217/2023 (TUST ciclo 2023-2024): prazo de estabilização da TUSDg convertida em TUST após migração da distribuição para a rede básica (Leilões 6 e 7/2021)",
+   "tema": [
+    "tarifas (TUST/TUSDg)",
+    "transmissão",
+    "leilões (geração)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Ricardo Tili; deliberação não concluída (Agnes, Ludimila e Sandoval acompanham o voto-vista)",
+   "resumo_voto": "Voto-vista de Agnes: conhece; Parnaíba por perda de objeto; diverge do relator quanto à Casa dos Ventos e reconhece que a estabilização da TUSDg aplicada como TUST vale por 10 ciclos tarifários (não por toda a outorga), em linha com Procuradoria (Parecer 312/2023) e área técnica; estima impacto de cerca de R$ 1,5 bilhão aos consumidores contra benefício de cerca de R$ 43 milhões. O relator Fernando Mosna (voto anterior: estabilização por toda a outorga) rebate parágrafo a parágrafo: norma lacunosa até a REN 1024/2022, resposta inconclusiva da comissão de licitação em 2019, critica termos deletério e perfunctória e argumentos consequencialistas e a menção à multa editalícia.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: diverge do relator (estabilização por 10 ciclos)",
+     "ts": "1:35:00",
+     "confianca": "alta",
+     "justificativa": "análise teleológica das REN 267/2007, 349/2009, 559/2013 e 1024/2022; manter premissas da habilitação no certame; regra excepcional deve ser interpretada restritivamente; desequilíbrio risco-benefício para consumidores"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, mantém voto (estabilização pela outorga) e rebate o voto-vista",
+     "ts": "2:16:40",
+     "confianca": "alta",
+     "justificativa": "lacuna regulatória até a REN 1024/2022; interpretação razoável gera direito possível; ampliação de capacidade foi aprovada pela ANEEL; rejeita argumentos consequencialistas",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o voto-vista de Agnes",
+     "ts": "2:41:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "2:41:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista de Agnes",
+     "ts": "2:41:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:41:51",
+   "processo": "48500.000931/2022-65",
+   "interessado": "Abradee",
+   "assunto": "Pedido de medida cautelar da Abradee sobre impactos das perdas não técnicas nos ciclos tarifários 2023-2025 (antecipação da conclusão de consulta pública)",
+   "tema": [
+    "tarifas e revisão tarifária (perdas não técnicas)",
+    "distribuição",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "por maioria, não conhecer e no mérito negar provimento à cautelar (desempate)",
+   "resumo_voto": "Processo vinha empatado sem três votos convergentes; Ricardo Tili lembra que se costuma contextualizar casos de empate, mas Sandoval nota que o procedimento não está na norma; Ludimila desempata acompanhando a relatora. Votos dos demais proferidos em reunião anterior.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora (desempate)",
+     "ts": "2:43:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora (voto proferido anteriormente)",
+     "ts": "2:41:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "proclama resultado por maioria",
+     "ts": "2:43:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:43:43",
+   "processo": "48500.000680/2022-16",
+   "interessado": "ABSOLAR (sustentação oral: Camila Alves de Moraes)",
+   "assunto": "Pedido de reconsideração da ABSOLAR contra a REN 1073/2023 (constrained-off de usinas solares fotovoltaicas, REN 1030/2022): classificação de eventos e franquia de horas",
+   "tema": [
+    "comercialização (constrained-off, ESS)",
+    "outorgas de geração (solar)",
+    "regulação normativa (consulta pública)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: não conhecer o pedido de reconsideração; por maioria: conhecer como direito de petição e negar provimento (sem abrir consulta pública); vencidos Fernando Mosna e Ricardo Tili",
+   "resumo_voto": "Relator: não conhece da reconsideração (art. 43, IV, REN 273/2007) mas conhece como direito de petição e propõe CP de 30 dias sobre classificação de eventos, transparência do ONS e franquia de horas, por entender que REN 927/2021 e 1073/2023 esvaziaram o direito ao ressarcimento (apenas cerca de 1,5% dos cortes ressarcidos). Procurador-Geral: não conhecimento e legalidade das resoluções (tema judicializado). Sandoval critica abrir CP sem nota técnica, parecer e AIR e alerta para fragilizar a defesa judicial; Ludimila sente falta de avaliação da área técnica e de ARR (previsto em 5 anos); Agnes defende seguir o rito e cita a CP 45 (curtailment). Divergência vencedora: conhecer como petição e negar provimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator: não conhece da reconsideração; conhece como petição e dá provimento para abrir CP",
+     "ts": "3:47:39",
+     "confianca": "alta",
+     "justificativa": "regulamentação esvaziou o núcleo do direito ao ressarcimento da Lei 10.848 e Decreto 5.163; franquia baseada em dados 2014-2018; norma com sinais de fadiga; formalismo moderado",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator no item 1; diverge no item 2 (conhecer como petição e negar provimento)",
+     "ts": "4:27:23",
+     "confianca": "media",
+     "justificativa": "falta avaliação da área técnica e de resultado regulatório; tema deveria ir à agenda regulatória"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência",
+     "ts": "4:27:40",
+     "confianca": "media",
+     "justificativa": "não escapar do rito regulatório; parte do tema já em discussão na CP 45"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "4:27:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência e proclama",
+     "ts": "4:27:50",
+     "confianca": "alta",
+     "justificativa": "CP sem nota técnica, parecer jurídico e AIR não é a forma de trabalho da agência; tema judicializado"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "5:40:27",
+   "processo": "48500.004235/2020-1 (número incerto)",
+   "interessado": "Coremas 4 a 8 Geração de Energia SPE (requerentes/devedoras); Coremas 1 a 3 (credoras; sustentação oral: Ana Clara Toledo Brito)",
+   "assunto": "Requerimento administrativo com cautelar contra o Despacho 3782/2024 (não conheceu recurso intempestivo contra o Despacho 2284/2024 sobre ressarcimento por compartilhamento de instalações)",
+   "tema": [
+    "fiscalização e sanções",
+    "transmissão (compartilhamento de instalações)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: não conhecer (esfera administrativa exaurida) e determinar à SFT avaliar o cumprimento do Despacho 2284/2024, abrindo processo de fiscalização em face de Coremas 4 a 8 e do ONS, com submissão à diretoria em até 120 dias",
+   "resumo_voto": "Credoras pedem supressão do item 2 e reconhecimento de que o depósito judicial de cerca de R$ 4,5 milhões não equivale ao laudo da mediação (cerca de R$ 6,5 milhões). Fernando Mosna (relator do mérito anterior) afirma que o despacho foi claramente descumprido pelas devedoras e pelo ONS (que não desconectou imediatamente) e propõe explicitar a abertura de processo de fiscalização com prazo; a relatora incorpora a redação e o prazo de 120 dias.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, não conhece e determina avaliação pela SFT; incorpora ajuste de redação",
+     "ts": "6:31:24",
+     "confianca": "alta",
+     "justificativa": "há manifestações conflitantes sobre cumprimento do despacho; SFT é a área competente"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha com aperfeiçoamento de redação (processo de fiscalização contra Coremas 4-8 e ONS, com prazo)",
+     "ts": "6:50:00",
+     "confianca": "media",
+     "justificativa": "descumprimento objetivo: não houve pagamento e o ONS não desconectou; depósito judicial não equivale a pagamento",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha",
+     "ts": "7:22:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha",
+     "ts": "7:22:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "7:22:11",
+     "confianca": "media",
+     "justificativa": "sugere nivelar prazo com a área de fiscalização"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "7:10:49",
+   "processo": "48500.006699/2013-3 (número incerto)",
+   "interessado": "PB Produção de Energia Elétrica EIRELI (PCH Ponte Branca)",
+   "assunto": "Recurso contra o Despacho 3642/2022 da SFG que aplicou multa editalícia por atraso na implantação da PCH Ponte Branca",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "por maioria, declarada a subsistência do voto do ex-diretor Hélvio Guerra (35ª RPO, 26/09/2023) e, por maioria, conhecer do recurso e negar-lhe provimento",
+   "resumo_voto": "Voto-vista de Sandoval propunha a insubsistência do voto de Hélvio por novo parecer da Procuradoria; Ricardo Tili destacou que a preliminar deve ser decidida antes do mérito (art. 28 do Regimento); Procuradoria: não é fato novo. Ludimila (sucessora) não vota no mérito.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: propõe insubsistência; mantém voto divergente no mérito (vencido)",
+     "ts": "7:12:30",
+     "confianca": "media",
+     "justificativa": "novo entendimento da Procuradoria sobre penalidade editalícia"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "considera o voto subsistente; não vota no mérito",
+     "ts": "7:17:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "considera subsistente; mantém voto acompanhando o relator (negar provimento)",
+     "ts": "7:18:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "considera subsistente; acompanha o relator",
+     "ts": "7:18:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "considera subsistente (parecer não é fato novo); mantém voto com o relator",
+     "ts": "7:18:40",
+     "confianca": "media",
+     "justificativa": "destacou o rito do art. 28 do Regimento"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "7:19:40",
+   "processo": "despacho 3404 (número do processo não lido)",
+   "interessado": "Eldorado Brasil Celulose",
+   "assunto": "Pedido de reconsideração contra o Despacho 3404 sobre multa por atraso na implantação de UTE (nome distorcido na legenda)",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "por maioria, subsistência do voto do ex-diretor Hélvio Guerra (34ª RPO, 19/09/2023) e conhecer e negar provimento à reconsideração, com multa (valor incerto na legenda)",
+   "resumo_voto": "Mesma questão de fundo do item 13; Fernando Mosna declara suspeição.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora original, mantém voto",
+     "ts": "7:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "declara suspeição",
+     "ts": "7:20:08",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "subsistência do voto de Hélvio; não vota no mérito",
+     "ts": "7:20:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém voto",
+     "ts": "7:20:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "proclama; voto-vista divergente (vencido)",
+     "ts": "7:21:00",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "24 — 48500.000362/2025-96 (número incerto), cautelar das UFV Santa Luzia 8 e 9 (Rio Alto) para suspender processos de desligamento na CCEE até decisão sobre parcelamento de penalidades; sustentação oral de Sérgio Campos e Silva",
+   "relator": "Fernando Mosna",
+   "motivo": "relator retirou de pauta após a sustentação para reunir-se com o agente e tratar também do pedido de parcelamento",
+   "ts": "7:10:49"
+  },
+  {
+   "item": "3",
+   "relator": "não informado",
+   "motivo": "retirado de pauta na sessão",
+   "ts": "5:40:27"
+  },
+  {
+   "item": "4, 12, 29 e 30",
+   "relator": "não informado",
+   "motivo": "retirados de pauta (anúncio do secretário-geral)",
+   "ts": "0:24:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de usinas e valores podem estar distorcidos (ex.: itens 13, 20, 23).",
+  "O .md tem só um marcador de tempo; ts obtidos por busca no JSON da transcrição; ts de quem só acompanha são aproximados.",
+  "Atribuição dos votos curtos (eu acompanho/voto com o relator) aos diretores é inferida pela ordem usual; especialmente no item 5 a autoria da divergência (Ludimila) e da adesão (Agnes) é inferida.",
+  "Bloco: a diretora que se declarou impedida nos itens 14 e 16 não foi identificada; relatora do item 14 não identificada.",
+  "Item 7: votos de Agnes, Fernando, Ricardo e Sandoval foram proferidos em reunião anterior (empate); só o desempate de Ludimila ocorre aqui.",
+  "Itens 13 e 20: legenda confusa sobre quem manteve qual voto; Sandoval tinha voto-vista divergente e ficou vencido.",
+  "Hélvio Guerra é ex-diretor cujo voto foi declarado subsistente (não presente)."
+ ]
+}
