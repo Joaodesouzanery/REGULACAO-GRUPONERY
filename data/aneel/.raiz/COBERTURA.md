@@ -5,7 +5,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | workshop | 1 | 0 | 0 |
-| sem data | diretoria | 36 | 11 | 0 |
+| sem data | diretoria | 36 | 23 | 0 |
 | sem data | audiencia | 5 | 0 | 0 |
 | 2026 | workshop | 15 | 2 | 2 |
 | 2026 | diretoria | 46 | 45 | 11 |
@@ -743,6 +743,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-01-30 · Retificação da 1ª Reunião Pública Ordinária ANEEL 30/01/2018 · `8p0y1E_QKBA`
 - 2018-01-30 · Itens 11 a 45 - 2ª Reunião Pública Ordinária ANEEL 30/01/2018 · `96TVQGfRjYY`
 - 2018-01-23 · Itens 11 a 47 - 1ª Reunião Pública Ordinária ANEEL 23/01/2018 · `6-11UmwSnDg`
+-  · 8ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `5QW-g7ZBXaw`
+-  · 7 ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `ab6YY2k4dZw`
 -  · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `GadM58CgTM8`
 -  · 2ª Reunião Pública Extraordinária da Diretoria Colegiada · `G0QvS7K94O8`
 -  · 29ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `FkcuPd84kbg`
@@ -754,5 +756,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · 22ª Reunião Pública Ordinária da Diretoria Colegiada · `yFO24uLmsiY`
 -  · 21ª Reunião Pública Ordinária da Diretoria Colegiada · `uOYMo8RI4ew`
 -  · 20ª Reunião Pública Ordinária da Diretoria Colegiada · `pNLtOLsQMZ4`
+-  · 19ª Reunião Pública Ordinária da Diretoria Colegiada · `-kS36Ljgo2Y`
+-  · 18ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `zYVcFn2Z9kg`
+-  · 17ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `eI37OQMScL0`
+-  · 16ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `uVEWJgMmnCc`
+-  · 15ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `yMZF04UoHCA`
+-  · 14ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `wq3qmJOtnNo`
+-  · 13ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `gww3SFDuI9o`
+-  · 12ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `zjrOYFHfTD0`
+-  · 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `Qp_czn7vPxY`
+-  · 10ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `SwmVyDLxtiI`
 
 Vídeos sem legenda registrados: 24 (ver `data/sem_legenda.jsonl`).
