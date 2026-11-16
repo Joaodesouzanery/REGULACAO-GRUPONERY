@@ -29,7 +29,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
-| 2019 | diretoria | 77 | 32 | 0 |
+| 2019 | diretoria | 77 | 44 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
 | 2018 | diretoria | 69 | 0 | 0 |
@@ -634,5 +634,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-08-06 · 28ª Reunião Pública Ordinária ANEEL – 06/08/2019 – Parte 1 · `gm5_lvmqMmo`
 - 2019-07-30 · 27ª Reunião Pública Ordinária ANEEL - 30/07/2019 · `d8JDsICD8B8`
 - 2019-07-23 · 26ª Reunião Pública Ordinária ANEEL - 23/07/2019 · `dePrf-yt_Jw`
+- 2019-07-16 · 25ª Reunião Pública Ordinária ANEEL - 16/07/2019 - Parte 1 · `BgfmKO90xe0`
+- 2019-07-09 · 24ª Reunião Pública Ordinária ANEEL - 09/07/2019 · `0w1HhrvY_hA`
+- 2019-07-02 · 23ª Reunião Pública Ordinária ANEEL - 02/07/2019 · `ahAI5yFD8oM`
+- 2019-06-25 · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 2 · `1jI56rPVCC0`
+- 2019-06-25 · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 1 · `fUhyu6iDKjk`
+- 2019-06-18 · 21ª Reunião Pública Ordinária ANEEL – 18/06/2019 · `WfCoi5LbjxM`
+- 2019-06-11 · 20ª Reunião Pública Ordinária ANEEL – 11/06/2019 Parte 1 · `c3rA0C_b6EY`
+- 2019-06-11 · 20ª Reunião Pública Ordinária ANEEL – 11/06/2019 - Parte 2 · `1jyPmdB2G3M`
+- 2019-06-04 · 19ª Reunião Pública Ordinária ANEEL – 04/06/2019 - Parte 2 · `emGd28OiWk4`
+- 2019-06-04 · 19ª Reunião Pública Ordinária ANEEL – 04/06/2019 - Parte 1 · `65kJfi-By-Y`
+- 2019-05-30 · 4ª Reunião Pública Extraordinária ANEEL – 30/05/2019 · `VGpKpmTTq8I`
+- 2019-05-28 · 18ª Reunião Pública Ordinária ANEEL – 28/05/2019 - Parte 2 · `4VG0s3_PUDk`
 
 Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
