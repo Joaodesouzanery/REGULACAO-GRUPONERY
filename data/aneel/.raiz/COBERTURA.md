@@ -32,7 +32,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 19 | 0 |
+| 2018 | diretoria | 69 | 31 | 0 |
 | 2018 | audiencia | 58 | 0 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
@@ -694,5 +694,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-10-23 · 39ª Reunião Pública Ordinária ANEEL - 23/10/2018 - Parte 1 · `ELBTnzyQuCY`
 - 2018-10-16 · 38ª Reunião Pública Ordinária ANEEL – 16/10/2018 · `EQ337qQHvfE`
 - 2018-10-09 · Bloco 7 à 37 - 37ª Reunião Pública Ordinária 2018 ANEEL 09/10/2018 · `ooHScJJ78a8`
+- 2018-10-02 · Bloco 9 à 25 - 36ª Reunião Pública Ordinária 2018 ANEEL 02/10/2018 · `2Qu9VTlHfVo`
+- 2018-09-25 · Itens 6 a 26 - 35ª Reunião Pública Ordinária ANEEL 25/09/2018 · `vH-EfZC9dtk`
+- 2018-09-25 · Aprovação da Ata da 34ª Reunião Pública Ordinária - 35ª Reunião Públic · `zrv6oksHLZ4`
+- 2018-09-21 · Informativos · `1t-TSYQnAiY`
+- 2018-09-21 · Aprovação da Pauta da 33ª RPO · `VEvoidXB4gI`
+- 2018-09-18 · Bloco 7 à 34 - 34ª Reunião Pública Ordinária ANEEL 18/09/2018 · `ZzegMMlKpvI`
+- 2018-09-11 · Itens 2 a 30 - 33ª Reunião Pública Ordinária ANEEL 11/09/2018 · `4ozODOajzDU`
+- 2018-09-11 · Informes - 33ª Reunião Pública Ordinária ANEEL 11/09/2018 · `Rg98WUd_AKM`
+- 2018-09-11 · Aprovação da Ata da 32ª Reunião Pública Ordinária - Reunião Pública Or · `wa09sgoruVY`
+- 2018-09-05 · OBSERVAÇÕES E APROVAÇÃO DA ATA 31ª RPO · `AQ8GSQasmXQ`
+- 2018-09-04 · BLOCO dos Itens de 8 ao 17 - 32ª Reunião Pública Ordinária ANEEL 04/09 · `HHsJNq5lKUs`
+- 2018-08-28 · Boas vindas e avisos - 31ª Reunião Pública Ordinária ANEEL 28/08/2018 · `pGgUdacCG04`
 
 Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
