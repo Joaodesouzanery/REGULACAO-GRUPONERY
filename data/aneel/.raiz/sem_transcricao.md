@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **322** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 5; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **310** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
@@ -10,20 +10,8 @@ Total: **322** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2025-10-06 · workshop · Como funcionam os sandboxes tarifários? · https://www.youtube.com/watch?v=7mAKPYLdD3A · **legenda desativada/inexistente no YouTube**
 - 2024-10-09 · diretoria · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=q8nYQeqT62c · **legenda desativada/inexistente no YouTube**
 - 2024-10-08 · diretoria · 3ª Reunião Pública Extraordinária ANEEL – 08/10/2024 · https://www.youtube.com/watch?v=UzkDLoPmQ04 · **transcrição sem fala útil (1183 caracteres; só música/ruído)**
-- 2024-04-12 · workshop · Workshop de Encerramento do P&D “Análise da Capacidade do Mercado” · https://www.youtube.com/watch?v=SZQDQexS6vE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-22 · workshop · Workshop: Resiliência de Redes frente a Eventos Climáticos de Elevada Severidade · https://www.youtube.com/watch?v=fa3rjVSdMK8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-01-23 · workshop · WORKSHOP DE ESCLARECIMENTOS TÉCNICOS SOBRE O LEILÃO Nº 1/2024-ANEEL (LEILÃO DE T · https://www.youtube.com/watch?v=AeSHxQFl__c · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-01-22 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 01/2024 - 22/01/2024 · https://www.youtube.com/watch?v=_6fQ_pCoXDc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-23 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão n⁰ 02/2023 - 23/10/202 · https://www.youtube.com/watch?v=fUjiqwi5eqI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-02 · workshop · Workshop de P&D : Desafio de estabelecer incentivos regulatórios na era das tecn · https://www.youtube.com/watch?v=fELKBOAEvDs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-03 · workshop · Workshop Inteligência Analítica na Fiscalização Tarifária Setor Elétrico - 03/08 · https://www.youtube.com/watch?v=DsuXyOlsNrA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-19 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão 01/2023 - 19/05/2023 · https://www.youtube.com/watch?v=hR7IONdC0-4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-19 · workshop · Workshop de Esclarecimentos do 1ºLeilão de Transmissão de 2023-ANEEL · https://www.youtube.com/watch?v=YtUlkCzzZKc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-27 · workshop · Workshop Plano Estratégico Quinquenal de Inovação PEQuI · https://www.youtube.com/watch?v=7EXN5rfIe0Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-14 · workshop · (EN) Workshop: Controle da Infestação por Mexilhão-Dourado – Fase III · https://www.youtube.com/watch?v=MDg9p_0lSUE · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-13 · workshop · Workshop Controle da Infestação por Mexilhão Dourado – 13/4/2023 · https://www.youtube.com/watch?v=TukK0BTiSRk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-13 · workshop · (PT) Workshop: Controle da Infestação por Mexilhão-Dourado – Fase III · https://www.youtube.com/watch?v=PeX-KHJtSZs · **ainda não baixado (rodar a coleta no Mac)**
+- 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **legenda desativada/inexistente no YouTube**
+- 2024-01-22 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 01/2024 - 22/01/2024 · https://www.youtube.com/watch?v=_6fQ_pCoXDc · **legenda desativada/inexistente no YouTube**
 - 2023-02-09 · audiencia · Audiência Pública 019/2022 - Revisão Tarifária Periódica Energisa Mato Grosso –  · https://www.youtube.com/watch?v=Wn697jqJjCQ · **legenda desativada/inexistente no YouTube**
 - 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 2 · https://www.youtube.com/watch?v=cvG1a4qN-2g · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 1 · https://www.youtube.com/watch?v=ByY4W3LTRkw · **ainda não baixado (rodar a coleta no Mac)**
