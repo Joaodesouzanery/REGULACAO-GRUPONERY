@@ -21,10 +21,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | audiencia | 26 | 25 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 78 | 0 |
-| 2022 | audiencia | 16 | 12 | 0 |
+| 2022 | audiencia | 16 | 15 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 81 | 0 |
-| 2021 | audiencia | 33 | 0 | 0 |
+| 2021 | audiencia | 33 | 9 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
