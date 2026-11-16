@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **442** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 12; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **430** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 7; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -72,20 +72,8 @@ Total: **442** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2021-05-27 · workshop · Workshop Revisão da Resolução Normativa 875/2020 - 27/05/2021 · https://www.youtube.com/watch?v=-La8ki49lE0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-26 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão nº 01/2021 · https://www.youtube.com/watch?v=MLPQzxkbe_4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-25 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 25/05/2021 – Parte 1 · https://www.youtube.com/watch?v=eNn10-EeivQ · **legenda desativada/inexistente no YouTube**
-- 2021-05-06 · audiencia · Audiência Pública 009/2021- Revisão Tarifária Periódica da Energisa Sul Sudeste  · https://www.youtube.com/watch?v=HQXRvhbAdTY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-29 · workshop · Workshop Compartilhamento de Instalações de Transmissão - 29/04/2021 · https://www.youtube.com/watch?v=azP_TnkWstE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-28 · audiencia · Audiência Pública 003/2021- Revisão da norma de Conselhos de Consumidores – 28/0 · https://www.youtube.com/watch?v=Bx6JEDMV838 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-23 · audiencia · Audiência Pública 007/2021- Revisão Tarifária Periódica da Copel – 23/04/2021 · https://www.youtube.com/watch?v=WTNg16qY0f0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-22 · audiencia · Audiência Pública 008/2021- Revisão Tarifária Periódica da Cocel – 22/04/2021 · https://www.youtube.com/watch?v=TYIaoWWVuLU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-09 · audiencia · Audiência Pública 006/2021- Revisão Tarifária Periódica da Energisa Nova Friburg · https://www.youtube.com/watch?v=LYrJRRcGK3o · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-01 · audiencia · Audiência Pública 005/2021- Revisão Tarifária Periódica da Energisa MG – 01/04/2 · https://www.youtube.com/watch?v=MN4rkoqZGf4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-11 · audiencia · Audiência Pública 002/2021- Revisão Tarifária Periódica da Celpe – 11/03/2021 · https://www.youtube.com/watch?v=5WNeyMsZc0g · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-10 · audiencia · Public Hearing 004/2021 - Consolidation of Accounting Standards – 03/10/2021 · https://www.youtube.com/watch?v=92tnjjBynd4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-04 · audiencia · Audiência Pública 011/2020 - Programa de Pesquisa e Desenvolvimento – 04/02/2021 · https://www.youtube.com/watch?v=kj2JnPam04Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-28 · audiencia · Audiência Pública 001/2021 - Consolidação de Normas da ANEEL – 28/01/2021 · https://www.youtube.com/watch?v=iwMkLC8aeqs · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-21 · audiencia · Audiência Pública 012/2020 - Revisão Tarifária Periódica da CPFL Santa Cruz – 21 · https://www.youtube.com/watch?v=UslX2WzmO8M · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-03 · audiencia · Audiência Pública 009/2020 - Revisão Tarifária Periódica da Energisa Borborema – · https://www.youtube.com/watch?v=HYbCIAO-9g4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-19 · audiencia · Audiência Pública nº 010/2020 - Agenda Regulatória 2021/2022 - 19/11/2020 · https://www.youtube.com/watch?v=2mtNhhebUzc · **ainda não baixado (rodar a coleta no Mac)**
+- 2021-02-04 · audiencia · Audiência Pública 011/2020 - Programa de Pesquisa e Desenvolvimento – 04/02/2021 · https://www.youtube.com/watch?v=kj2JnPam04Q · **legenda desativada/inexistente no YouTube**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 2 · https://www.youtube.com/watch?v=ChsWYxucaec · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 1 · https://www.youtube.com/watch?v=CzvzgVaXIDY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-15 · audiencia · Audiência Pública 008/2020 - Revisão Tarifária Extraordinária da Energisa Acre–  · https://www.youtube.com/watch?v=HTY3myeXQFE · **ainda não baixado (rodar a coleta no Mac)**
