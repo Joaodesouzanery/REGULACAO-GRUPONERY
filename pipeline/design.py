@@ -2,7 +2,7 @@
 Cores fixas: azul petróleo #003B4C + lilás #BCCFFF + cinzas. No máximo 2 cores por página; status em tons de azul/cinza com rótulo.
 Páginas: capa (foto do setor/cliente) · sumário · divisor de seção (foto + número) · página técnica branca (fio no topo, «↳», «→») · fim.
 Kit por setor: docs/marca/setores/kit.json (fotos e ícone por setor; agência → setor). Use: import design as d; d.documento(paginas, titulo, saida)."""
-import os, json, base64, html, math, datetime, subprocess
+import os, re, json, base64, html, math, datetime, subprocess
 from pdf_leve import leve_html, leve_pdf
 
 E = html.escape
@@ -80,7 +80,7 @@ def lista_tripla(cols):
     return '<div class="l3">' + "".join(f'<div><div class="l3h"><span>{k + 1}</span><u>{E(t)}</u></div><ul class="arr sm">{"".join(f"<li>{x}</li>" for x in xs)}</ul></div>' for k, (t, xs) in enumerate(cols)) + "</div>"
 
 
-def quadro_mandatos(cadeiras, desde="2018-01-01", ate=None, foto_fn=None):
+def quadro_mandatos(cadeiras, desde="2018-01-01", ate=None, foto_fn=None, ex=False):
     """controle da diretoria por cadeira: ocupante atual + linha do tempo de ocupantes (VAGO hachurado) + substitutos.
     cadeiras=[{"cadeira","ocupantes":[{"nome","tipo","ordem_mandato","inicio","fim_legal","posse","saida","decreto"}],"lista_triplice"}]"""
     hoje = (ate or datetime.date.today().isoformat())
@@ -100,8 +100,9 @@ def quadro_mandatos(cadeiras, desde="2018-01-01", ate=None, foto_fn=None):
             if not a: continue
             sub = not (o.get("tipo") or "titular").lower().startswith("tit")
             l, r = pos(a), pos(b)
-            barras += f'<i class="{"qs" if sub else "qt"}" style="left:{l}%;width:{max(r - l, .4)}%" title="{E(o["nome"])}"><em>{E(o["nome"].split()[0] + " " + o["nome"].split()[-1]) if r - l > 9 else ""}</em></i>'
-        cr = f'<i class="qn" style="left:0;width:{pos(cad["criada"])}%"><em>cadeira criada em {fd(cad["criada"])[-4:]}</em></i>' if cad.get("criada") else ""
+            ant = o is not atual and not sub
+            barras += f'<i class="{"qs" if sub else "qx" if ant else "qt"}" style="left:{l}%;width:{max(r - l, .4)}%" title="{E(o["nome"])}"><em>{E(o["nome"].split()[0] + " " + o["nome"].split()[-1]) if r - l > 9 else ""}</em></i>'
+        cr = f'<i class="qn" style="left:0;width:{pos(cad["criada"])}%"></i>' if cad.get("criada") else ""
         barras = f'<div class="qv"></div>' + cr + barras  # fundo hachurado = vago
         if atual:
             ft = foto_fn(atual.get("nome_chave") or atual["nome"]) if foto_fn else ""
@@ -114,7 +115,20 @@ def quadro_mandatos(cadeiras, desde="2018-01-01", ate=None, foto_fn=None):
         hist = " · ".join(f'{E(o["nome"].split()[0] + " " + o["nome"].split()[-1])} ({fd(o.get("posse") or o.get("inicio"))[-4:]}–{fd(o.get("saida"))[-4:] if o.get("saida") else "…"}{", subst." if not (o.get("tipo") or "titular").lower().startswith("tit") else ""})' for o in oc if o is not atual)
         lt = f'<div class="qlt">Lista tríplice: {E(", ".join(cad["lista_triplice"]))}</div>' if cad.get("lista_triplice") else ""
         out += f'<div class="qr"><div class="qc">{E(cad["cadeira"])}</div><div class="qa">{info}</div><div class="qb"><div class="qtl">{barras}</div><div class="qh">{hist}</div>{lt}</div></div>'
-    return out + '<div class="qleg"><i class="qt"></i>titular <i class="qs"></i>substituto/interino <i class="qv0"></i>vago</div></div>'
+    exh = ""
+    if ex:
+        vistos, lst = set(), []
+        atuais = {o["nome"] for cad in cadeiras for o in cad.get("ocupantes", []) if not o.get("saida")}
+        for cad in cadeiras:
+            for o in cad.get("ocupantes", []):
+                if o.get("saida") and (o.get("saida") >= desde) and o["nome"] not in atuais and o["nome"] not in vistos and (o.get("tipo") or "titular").lower().startswith("tit"):
+                    vistos.add(o["nome"]); lst.append((o, cad["cadeira"]))
+        def papel(o, cad):
+            return "Ex-Diretor(a)-Geral" if "Geral" in cad else "Ex-Diretor(a)"
+        exh = '<div class="qex"><div class="qexh">Saíram do colegiado desde ' + desde[:4] + '</div><div class="qexg">' + "".join(
+            f'<div class="qe">{foto_fn(o.get("nome_chave") or o["nome"]) if foto_fn else ""}<div><b>{E(o["nome"])}</b><span>{papel(o, cad)} · {fd(o.get("posse") or o.get("inicio"))[-4:]} a {fd(o.get("saida"))[-4:]}</span></div></div>'
+            for o, cad in lst) + "</div></div>"
+    return out + '<div class="qleg"><i class="qt"></i>em exercício <i class="qx"></i>ex-diretor(a) <i class="qs"></i>substituto/interino <i class="qv0"></i>vago</div>' + exh + "</div>"
 
 
 # ---------------- blocos ----------------
@@ -192,20 +206,47 @@ blockquote.q{{margin:.08in 0;padding:.04in 0 .04in .16in;border-left:2px solid {
 .fc{{position:absolute;left:.8in;top:.75in;width:6.4in}}.ftop{{display:flex;align-items:center;gap:12px;margin-bottom:1.1in}}.fim .fh{{font-size:92pt!important;font-weight:500;letter-spacing:-.03em;line-height:1;color:#fff!important;margin:0!important}}.fr{{display:block;width:.5in;height:2px;background:{LILAS};margin:.35in 0 .2in}}.fc p{{font-size:9.6pt;line-height:1.6;color:rgba(255,255,255,.85);font-weight:300}}
 .fbar{{position:absolute;left:0;right:0;bottom:0;height:.85in;background:#fff;color:{TINTA};display:flex;align-items:center;gap:.3in;padding:0 .8in;font-size:9pt}}.fbar .hn{{height:.26in}}.fsp{{flex:1}}
 .wp{{display:grid;grid-template-columns:3.3in 1fr;gap:.4in;border-top:1px solid {TINTA};padding-top:.12in}}.wl{{font-size:15pt;color:{AZUL2};font-weight:400}}.wi p{{margin:0 0 .08in;font-size:10pt;line-height:1.55}}
-.wr{{display:grid;grid-template-columns:.4in 2.5in .4in 1fr;gap:0;border-top:1px solid {FIO};padding:.14in 0 .12in;margin-left:0}}.wr:first-of-type{{border-top:none}}.wn{{font-size:8pt;color:{AZUL2};font-weight:600;padding-top:.05in}}.wt{{font-size:13pt;font-weight:400;line-height:1.2;color:{TINTA}}}.wa{{font-size:13pt;color:{TINTA}}}.wx{{font-size:9.3pt;line-height:1.6;padding-left:.4in}}.wx p{{margin:0 0 .06in}}
-.wf{{border-radius:8px;background-size:cover;margin-top:.14in}}
+.wr{{display:grid;grid-template-columns:.4in 2.5in .4in 1fr;gap:0;border-top:1px solid {FIO};padding:.14in 0 .12in;margin-left:0}}.wr:first-of-type{{border-top:none}}.wn{{font-size:8pt;color:{AZUL2};font-weight:600;padding-top:.05in}}.wt{{font-size:13pt;font-weight:400;line-height:1.2;color:{TINTA}}}.wa{{font-size:13pt;color:{TINTA}}}.wx{{font-size:8.8pt;line-height:1.5;padding-left:.4in}}.wx p{{margin:0 0 .06in}}
+.wf{{border-radius:8px;background-size:cover;margin-top:.14in;flex:1 1 0;min-height:0}}.tec{{display:flex;flex-direction:column}}.tec .tb{{flex:1 1 auto;display:flex;flex-direction:column;min-height:0;padding-bottom:.3in}}.tec .tb>*{{flex:none}}.tec .tb>.wf{{flex:1 1 0}}
 .l3{{display:grid;grid-template-columns:repeat(3,1fr);gap:.3in}}.l3h{{display:flex;gap:.12in;align-items:baseline;margin-bottom:.08in}}.l3h span{{font-size:16pt;color:{AZUL2};font-weight:300}}.l3h u{{text-underline-offset:3px;font-size:9.6pt}}
 .qm{{font-size:8pt}}.qmh{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;color:{CINZA};font-size:7pt;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid {TINTA};padding-bottom:4px}}.qax{{position:relative;height:1em}}.qax span{{position:absolute;transform:translateX(-50%);letter-spacing:0}}
 .qr{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;border-bottom:1px solid {FIO};padding:.09in 0;align-items:center}}.qc{{font-size:11pt;color:{AZUL};font-weight:500}}.qa{{display:flex;gap:.12in;align-items:center}}.qa .av{{width:.56in;height:.56in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA}}}.qa .av.ini{{display:flex;align-items:center;justify-content:center;color:{AZUL2}}}.qa b{{display:block;font-weight:500;font-size:9pt}}.qa span{{display:block;color:{CINZA};font-size:7.4pt;line-height:1.35}}.qvago{{color:{CINZA};letter-spacing:.1em}}
-.qtl{{position:relative;height:.24in}}.qv{{position:absolute;inset:0;background:repeating-linear-gradient(45deg,{NEVOA} 0 4px,#fff 4px 8px);border:1px solid {FIO}}}.qtl i{{position:absolute;top:0;bottom:0;display:block;border-right:2px solid #fff;overflow:hidden}}.qt{{background:{AZUL}}}.qs{{background:{LILAS}}}.qtl i.qn{{background:#fff;border:none}}.qn em{{color:{CINZA}!important}}.qtl em{{font-style:normal;color:#fff;font-size:6.6pt;padding-left:4px;line-height:.24in;white-space:nowrap}}.qs em{{color:{AZUL}}}
+.qtl{{position:relative;height:.24in}}.qv{{position:absolute;inset:0;background:repeating-linear-gradient(45deg,{NEVOA} 0 4px,#fff 4px 8px);border:1px solid {FIO}}}.qtl i{{position:absolute;top:0;bottom:0;display:block;border-right:2px solid #fff;overflow:hidden}}.qt{{background:{AZUL}}}.qs{{background:{LILAS}}}.qx{{background:#8C969C}}.qex{{margin-top:.12in;border-top:1px solid {FIO};padding-top:.08in}}.qexh{{font-size:7pt;letter-spacing:.08em;text-transform:uppercase;color:{CINZA};margin-bottom:.06in}}.qexg{{display:grid;grid-template-columns:repeat(5,1fr);gap:.1in}}.qe{{display:flex;gap:.08in;align-items:center;filter:grayscale(1)}}.qe .av{{width:.42in;height:.42in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA}}}.qe .av.ini{{display:flex;align-items:center;justify-content:center;font-size:8pt;color:{CINZA}}}.qe b{{display:block;font-size:7.6pt;font-weight:500}}.qe span{{font-size:6.8pt;color:{CINZA}}}.mins{{font-size:7.8pt;margin-top:.04in!important}}.mins a{{white-space:nowrap}}.nw{{white-space:nowrap;color:{CINZA}}}.qtl i.qn{{background:#fff;border:none}}.qn em{{color:{CINZA}!important}}.qtl em{{font-style:normal;color:#fff;font-size:6.6pt;padding-left:4px;line-height:.24in;white-space:nowrap}}.qs em{{color:{AZUL}}}
 .qh{{font-size:6.8pt;color:{CINZA};margin-top:3px;line-height:1.35}}.qlt{{font-size:6.8pt;color:{AZUL2};margin-top:2px}}.qleg{{margin-top:.08in;font-size:7pt;color:{CINZA};display:flex;gap:.08in;align-items:center}}.qleg i{{width:14px;height:8px;display:inline-block;margin-left:.1in}}.qv0{{background:repeating-linear-gradient(45deg,{NEVOA} 0 3px,#fff 3px 6px);border:1px solid {FIO}}}"""
+
+
+LIMITE_VAZIO = 1.4  # polegadas livres no pé de uma página técnica (skill pagina-cheia)
+
+
+def densidade(html_path, estrito=False):
+    """mede o espaço vazio no pé de cada página técnica (.pg que não é capa, sumário, divisor ou fim) e avisa acima do limite."""
+    js = ("const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1280,height:720}});"
+          f"await p.goto('file://{os.path.abspath(html_path)}');"
+          "const r=await p.evaluate(()=>[...document.querySelectorAll('.pg')].map((g,k)=>{if(/capa|sum|div|fim/.test(g.className.replace('pg','')))return null;"
+          "const t=g.getBoundingClientRect();let m=t.top;g.querySelectorAll('*').forEach(e=>{if(e.closest('.trod,.pag,.rod,.wm'))return;const q=e.getBoundingClientRect();if(q.height>0&&q.width>0)m=Math.max(m,q.bottom)});"
+          "return [k+1,(t.bottom-m)/96]}).filter(Boolean));console.log(JSON.stringify(r));await b.close();})();")
+    r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
+    try: res = json.loads(r.stdout.strip().splitlines()[-1])
+    except Exception: return []
+    ruins = [(k, v) for k, v in res if v > LIMITE_VAZIO]
+    for k, v in res:
+        if v < 0.05: print(f"AVISO estouro: página {k} com conteúdo passando do pé ({v:.2f} pol); reduza ou divida.")
+    for k, v in ruins: print(f"AVISO densidade: página {k} com {v:.1f} pol vazias no pé (limite {LIMITE_VAZIO}); preencha com falas, votos ou precedentes (skill pagina-cheia).")
+    if estrito and ruins: raise SystemExit("densidade abaixo do padrão")
+    return ruins
+
+
+def sem_travessao(h):
+    """troca o travessão de texto corrido por vírgula (skill pagina-cheia); mantém «—» sozinho (célula vazia)."""
+    return re.sub(r"(?<=\S) — (?=\S)", ", ", h).replace("→ —", "→ a definir")
 
 
 def documento(paginas, titulo, saida):
     H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(titulo)}</title><style>{CSS}</style></head><body>{"".join(paginas)}</body></html>'
-    open(saida + ".html", "w").write(leve_html(H))
+    open(saida + ".html", "w").write(leve_html(sem_travessao(H)))
     js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(saida)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(saida)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
     r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
     if r.returncode: raise SystemExit(r.stderr[-400:])
     leve_pdf(saida + ".pdf")
+    densidade(saida + ".html")
     return saida + ".pdf"

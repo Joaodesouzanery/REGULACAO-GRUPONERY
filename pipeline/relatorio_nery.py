@@ -16,7 +16,9 @@ ld = lambda p, x: json.load(open(p)) if os.path.exists(p) else x
 MAN, NAR = ld(f"{P}/desfechos_manuais.json", {}), ld(f"{P}/narrativas.json", {})
 HOJE = datetime.date.today(); TRES = (HOJE - datetime.timedelta(days=3 * 365)).isoformat(); DESDE = "2018-01-01"
 fmtd = lambda s: datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if s and re.match(r"\d{4}-\d\d-\d\d", str(s)) else str(s or "—")
-c = previsao.conn(AG); des = lambda i: (MAN.get(str(i)) or {}).get("desfecho") or desfecho_item(c, i)
+c = previsao.conn(AG)
+ROT = {"favorável": "a favor da empresa", "parcial": "em parte", "neutro": "sem efeito direto", "desfavorável": "contra a empresa", "pendente": "sem decisão ainda"}
+des = lambda i: ROT.get(x := ((MAN.get(str(i)) or {}).get("desfecho") or desfecho_item(c, i)), x)
 KIT = d.kit(EMP.get("setor") or d.SETOR_AG.get(AG, "portos"))
 FOTO = EMP.get("foto_capa") or KIT["capa"]; FOCO = EMP.get("foco", "50% 55%"); CLI = EMP.get("logo")
 DIV = KIT["divisores"] + [FOTO] * 4
@@ -25,6 +27,8 @@ slug = lambda s: re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", s).enc
 
 # ---------- dados ----------
 pr = previsao.calcular(AG, EMP["aliases"]); board = pr["colegiado"]
+bios0 = {b["diretor"]: b for b in (json.load(open(f"{D}/bios.json")) if os.path.exists(f"{D}/bios.json") else [])}
+board = sorted(board, key=lambda n: 0 if re.search(r"geral", (bios0.get(n) or {}).get("cargo") or "", re.I) and not re.search(r"interin|substitut", (bios0.get(n) or {}).get("cargo") or "", re.I) else 1)
 its = [i for i in pr["itens"] if i["data"] >= DESDE]
 bios = {b["diretor"]: b for b in ld(f"{D}/bios.json", [])}; mand = ld(f"{D}/mandatos.json", [])
 vac = [v for v in ld(f"{D}/vacancias.json", []) if not v.get("fim")]; sups = ld(f"{D}/superintendentes.json", [])
@@ -44,6 +48,22 @@ for i in reversed(its):
 unan = sum(1 for i in its if not c.execute("select 1 from votos where item_id=? and categoria in ('vencido','revisor_diverge')", (i["id"],)).fetchone())
 aberto = sum(1 for i in procs.values() if STATUS(i) != "decidido")
 link = mapa_tema.link
+def fala_rel(iid):
+    """voto do relator (ou primeiro voto com trecho) com link no minuto."""
+    v = c.execute("select * from votos where item_id=? and trecho is not null and trecho!='' order by eh_relator desc, id limit 1", (iid,)).fetchone()
+    return v
+def minuto(i):
+    v = fala_rel(i["id"]); ts = (v["ts"] if v and v["ts"] else i["ts"])
+    return link(i["video_id"], ts)
+def links_par(txt):
+    """«▶ 605ª · minuto» para cada reunião citada no parágrafo, no item da empresa naquela reunião."""
+    out = []
+    for num in dict.fromkeys(re.findall(r"(\d{3})ª ROD", txt)):
+        cand = [i for i in its if str(i["numero"]) == num]
+        mi = re.findall(r"item (\d+)", txt)
+        alvo = next((i for i in cand if str(i["item"]) in mi), cand[0] if cand else None)
+        if alvo: out.append(f'<a href="{minuto(alvo)}">▶ {num}ª reunião, item {alvo["item"]}</a>')
+    return ('<p class="mins">' + " &nbsp; ".join(out) + "</p>") if out else ""
 
 
 def narrativa(chave):
@@ -63,22 +83,41 @@ S.append(d.sumario(SEC, DIV[0]))
 
 # 01 empresa
 S.append(d.divisor(1, SEC[0][0], f"Tudo o que a diretoria da {NOME} decidiu sobre a {nome_curto} desde 2018, o que está em aberto e o que vem na agenda.", DIV[0]))
-tab = d.tabela(["Situação", "Última sessão", "Processo", "Assunto", "Para a empresa"],
-               [[E(STATUS(i)), fmtd(i["data"]), f'<span style="color:#6B7780">{E(k)}</span>', E((i["assunto"] or "")[:95]), E(des(i["id"]))] for k, i in list(procs.items())[:14]], ["10%", "11%", "17%", "47%", "15%"])
+linhas_p = [[E(STATUS(i)), fmtd(i["data"]), f'<span class="nw">{E(k)}</span>', E(i["assunto"] or ""), E(des(i["id"])), f'<a href="{minuto(i)}">▶</a>'] for k, i in procs.items()]
+tabf = lambda ls: d.tabela(["Situação", "Última sessão", "Processo", "Assunto", "Para a empresa", "Vídeo"], ls, ["9%", "10%", "16%", "50%", "11%", "4%"])
 DES = collections.Counter(des(i["id"]) for i in its)
 calh = d.tabela(["Data", "Evento", "Observação"], [[fmtd(x["data"]), f'{x["reuniao"]}ª reunião da diretoria', E(x.get("formato", ""))] for x in cal] +
                 [[fmtd(mandato(n)[1]), "fim de mandato", E(n)] for n in board if mandato(n)[1] and HOJE.isoformat() <= str(mandato(n)[1]) <= (HOJE + datetime.timedelta(days=460)).isoformat()])
+def decs_html(lst):
+    rows = []
+    for i in lst:
+        v = fala_rel(i["id"])
+        tr = f'«{E((v["trecho"] or "")[:170])}»' if v else ""
+        rows.append([f'{fmtd(i["data"])}<br><span style="color:#6B7780">{i["numero"]}ª, item {i["item"]}</span>', E(i["assunto"] or ""), E(i["relator"] or ""), E(des(i["id"])), f'<i>{tr}</i> <a href="{minuto(i)}">▶ minuto</a>'])
+    return d.tabela(["Sessão", "Assunto", "Relator", "Para a empresa", "O que foi dito"], rows, ["9%", "33%", "11%", "11%", "36%"])
+CATR = {"acompanha": "acompanha", "relator": "relator", "vencido": "vencido", "revisor_diverge": "diverge", "vista": "vista"}
+def matriz(lst):
+    nomes = [n for n in board]
+    rows = []
+    for i in lst:
+        vs = {v["diretor"]: v for v in c.execute("select * from votos where item_id=?", (i["id"],))}
+        cel = lambda n: ("relator" if vs[n]["eh_relator"] else CATR.get(vs[n]["categoria"], vs[n]["categoria"] or "vota")) if n in vs else '<span style="color:#93B3BE">não votou</span>'
+        rows.append([f'{fmtd(i["data"])} · {i["numero"]}ª, item {i["item"]} <a href="{minuto(i)}">▶</a>', E((i["assunto"] or "")[:70])] + [cel(n) for n in nomes])
+    return d.tabela(["Sessão", "Assunto"] + [n.split()[0] for n in nomes], rows, ["17%", "33%"] + [f"{50 // max(len(nomes), 1)}%"] * len(nomes))
 pn = NAR.get("painel") or {}
 pars0 = pn.get("paragrafos", [])
 rot = ["O que a diretoria decidiu", "O que está em aberto", "O que vem a seguir"] + [f"Ponto {k}" for k in range(4, 9)]
 S.append(d.tecnica("01 · A empresa na agência", "Onde a empresa está hoje na diretoria",
-                   d.whitepaper("Painel", [(rot[k], f"<p>{E(x)}</p>") for k, x in enumerate(pars0)], foto=FOTO, foco=FOCO, h_foto="1.25in"), AG, logo_cliente=CLI))
+                   d.whitepaper("Painel", [(rot[k], f"<p>{E(x)}</p>" + links_par(x)) for k, x in enumerate(pars0)], foto=FOTO, foco=FOCO, h_foto="1.25in"), AG, logo_cliente=CLI))
 cs_all = "".join(d.citacao(q["texto"], q.get("quem", ""), f'{q.get("reuniao", "")}{" · item " + str(q["item"]) if q.get("item") else ""}', q.get("link")) for q in pn.get("citacoes", [])[:3])
 S.append(d.tecnica("01 · A empresa na agência", "Desfechos, falas e calendário", d.grade(d.conceito("", "Desfecho histórico", "decisões desde 2018 (conferidas à mão quando ambíguas)", texto=d.rosca(dict(DES.most_common()), "decisões")),
                                                                                     d.conceito("", "O que foi dito", "trechos literais, com link no minuto", texto=cs_all),
-                                                                                    d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=3), AG, logo_cliente=CLI))
-S.append(d.tecnica("01 · A empresa na agência", "Processos da empresa na diretoria", tab, AG,
-                   "Situação pela última sessão da diretoria. Nº de processo vem da legenda automática — conferir no SEI.", CLI))
+                                                                                    d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=3) + d.conceito("", "Decisões da empresa, com o minuto", "as mais recentes: relator, resultado e trecho literal da sessão", texto=decs_html(its[-3:][::-1])), AG,
+                   "Desfecho: «a favor» = pedido da empresa atendido; «em parte» = atendido parcialmente; «sem efeito direto» = ato da agência sem ganho ou perda para a empresa; «contra» = pedido negado ou sanção mantida.", CLI))
+PP = -(-len(linhas_p) // max(1, -(-len(linhas_p) // 14)))
+for k0 in range(0, len(linhas_p), PP):
+    S.append(d.tecnica("01 · A empresa na agência", "Processos da empresa na diretoria" + (f" ({k0 // PP + 1}/{(len(linhas_p) + PP - 1) // PP})" if len(linhas_p) > PP else ""), tabf(linhas_p[k0:k0 + PP]), AG,
+                       "Situação pela última sessão da diretoria. O nº de processo vem da legenda automática: confira no SEI.", CLI))
 
 # 02 quem decide
 S.append(d.divisor(2, SEC[1][0], "Os diretores em exercício, como cada um atua nos temas da empresa e quem é quem nas superintendências.", DIV[1] if len(DIV) > 1 else FOTO))
@@ -92,12 +131,12 @@ for n in board:
 S.append(d.tecnica("02 · Quem decide", "Diretoria em exercício", d.grade(*pes, cols=2), AG, "Perfis com fontes oficiais; mandatos conferidos todo dia 1.", CLI))
 CAD = ld(f"{D}/cadeiras.json", {}).get("cadeiras")
 if CAD:
-    S.append(d.tecnica("02 · Quem decide", "Controle da diretoria: cadeiras, mandatos e substitutos", d.quadro_mandatos(CAD, foto_fn=lambda n: foto(n)), AG,
+    S.append(d.tecnica("02 · Quem decide", "Controle da diretoria: cadeiras, mandatos e substitutos", d.quadro_mandatos(CAD, foto_fn=lambda n: foto(n), ex=True), AG,
                        "Fontes: Senado, DOU e agência; datas marcadas «a confirmar» na base quando o ato não foi localizado. Faixa hachurada = cadeira sem titular nem substituto registrado (vago).", CLI))
-sc = "".join(f'<li><b>{E(s.get("nome", ""))}</b> — {E((s.get("superintendencia") or s.get("cargo") or "")[:70])}</li>' for s in sups[:14])
+sc = "".join(f'<li><b>{E(s.get("nome", ""))}</b>, {E((s.get("superintendencia") or s.get("cargo") or "")[:70])}</li>' for s in sups[:14])
 vh = "; ".join(f'{E(v["cadeira"])} (desde {fmtd(v["inicio"])}; interinos: {E(v.get("interinos") or "—")})' for v in vac) or "nenhuma"
 S.append(d.tecnica("02 · Quem decide", "Superintendências e cadeiras vagas", d.grade(d.conceito("", "Superintendentes", "quem conduz a instrução técnica dos processos", texto=f'<ul class="arr">{sc}</ul>'),
-                                                                                   d.conceito("", "Mandatos e vagas", "o que pode mudar na composição", texto=f"<p>{vh}</p>"), cols=2), AG, logo_cliente=CLI))
+                                                                                   d.conceito("", "Mandatos e vagas", "o que pode mudar na composição", texto=f"<p>{vh}</p>"), d.conceito("", "Quem relatou os processos da empresa", f"desde 2018 · {len(its)} decisões", texto=d.barras([(n, v, "relatorias") for n, v in collections.Counter(i["relator"] for i in its if i["relator"]).most_common(7)])), cols=2), AG, logo_cliente=CLI))
 
 # 03 como decide
 S.append(d.divisor(3, SEC[2][0], "Como cada diretor vota nos temas da empresa, os argumentos que a diretoria usa e as decisões semelhantes.", DIV[2] if len(DIV) > 2 else FOTO))
@@ -105,7 +144,7 @@ for k, tc in enumerate(EMP.get("temas_consultoria", [])):
     m = mapa_tema.mapear(AG, tc["regex"], TRES); chave = ["reequilibrio", "passivo"][k] if k < 2 else f"tema{k}"
     ps, cs = narrativa(chave)
     linhas = [(n, st["p_acomp"], f'n={st["n"]}' + (" · insuficiente" if st["n"] < 5 else "")) for n, st in m["por_diretor"].items()]
-    prec = "".join(f'<li>{fmtd(i["data"])} · {i["numero"]}ª — {E((i["assunto"] or "")[:85])} → {E(des(i["id"]))} <a href="{link(i["video_id"], i["ts"])}">vídeo</a></li>' for i in m["itens"][-4:][::-1])
+    prec = "".join(f'<li>{fmtd(i["data"])} · {i["numero"]}ª: {E((i["assunto"] or "")[:85])} → {E(des(i["id"]))} <a href="{link(i["video_id"], i["ts"])}">vídeo</a></li>' for i in m["itens"][-4:][::-1])
     S.append(d.tecnica("03 · Como a diretoria decide", re.sub(r"^\w\)\s*", "", tc["titulo"]).split(":")[0],
                        d.grade(f'<div class="nar">{ps}</div>', '<div>' + cs + d.conceito("", "Chance de acompanhar o relator", f"estimativa · {len(m['itens'])} decisões nos últimos 3 anos, {m['unanimes']} sem divergência", texto=d.barras(linhas, lambda v: f"{v:.0%}"))
                                 + d.conceito("", "Decisões semelhantes", "", texto=f'<ul class="arr sm">{prec}</ul>') + '</div>', cols=2).replace("repeat(2,1fr)", "1.25fr 1fr"), AG,
@@ -117,13 +156,17 @@ for chave in ("atu12", "atu18"):
     if chave not in NAR: continue
     n = NAR[chave]; ps = [f"<p>{E(p)}</p>" for p in n.get("paragrafos", [])]; cs = [d.citacao(q["texto"], q.get("quem", ""), f'{q.get("reuniao", "")}{" · item " + str(q["item"]) if q.get("item") else ""}', q.get("link")) for q in n.get("citacoes", [])]
     meio = max(1, (len(ps) + 1) // 2)
-    S.append(d.tecnica("04 · Contratos em foco", n.get("titulo", chave.upper()), d.grade("<div>" + "".join(ps[:meio]) + "".join(cs[:2]) + "</div>", "<div>" + "".join(ps[meio:]) + "".join(cs[2:4]) + "</div>", cols=2), AG, logo_cliente=CLI))
+    RXC = {"atu12": r"02/2021|ATU ?12|AT[UO] ?12", "atu18": r"03/2021|ATU ?18|AT[UO] ?18"}[chave]
+    dc = [i for i in its if re.search(RXC, f'{i["assunto"]} {i["processo"]}', re.I)][-2:][::-1]
+    extra = d.conceito("", "Decisões deste contrato, com o minuto", "relator, resultado e trecho literal", texto=decs_html(dc)) if dc and len(" ".join(n.get("paragrafos", []))) < 2600 else ""
+    S.append(d.tecnica("04 · Contratos em foco", n.get("titulo", chave.upper()), d.grade("<div>" + "".join(ps[:meio]) + "".join(cs[:2]) + "</div>", "<div>" + "".join(ps[meio:]) + "".join(cs[2:4]) + "</div>", cols=2) + extra, AG, logo_cliente=CLI))
 
 # 05 antecipar
-S.append(d.divisor(5, SEC[4][0], "O item em aberto que interessa à empresa e o que o histórico de votos permite estimar — sempre como estimativa.", DIV[4] if len(DIV) > 4 else FOTO))
+S.append(d.divisor(5, SEC[4][0], "O item em aberto que interessa à empresa e o que o histórico de votos permite estimar, sempre como estimativa.", DIV[4] if len(DIV) > 4 else FOTO))
 ps, cs = narrativa("item17")
-calh2 = "".join(f'<li><b>{E(x["data"])}</b> {E(x["reuniao"])} — {E(x["obs"])}</li>' for x in (EMP.get("item_antecipado") or {}).get("calendario", []))
-S.append(d.tecnica("05 · Antecipar", (EMP.get("item_antecipado") or {}).get("titulo", "Item em aberto"), d.grade(f'<div class="nar">{ps}</div>', '<div>' + d.conceito("", "Próximas reuniões", "calendário oficial", texto=f'<ul class="arr">{calh2}</ul>') + cs + '</div>', cols=2), AG, logo_cliente=CLI))
+calh2 = "".join(f'<li><b>{E(x["data"])}</b> {E(x["reuniao"])}: {E(x["obs"])}</li>' for x in (EMP.get("item_antecipado") or {}).get("calendario", []))
+S.append(d.tecnica("05 · Antecipar", (EMP.get("item_antecipado") or {}).get("titulo", "Item em aberto"), d.grade(f'<div class="nar">{ps}</div>', '<div>' + d.conceito("", "Próximas reuniões", "calendário oficial", texto=f'<ul class="arr">{calh2}</ul>') + cs + '</div>', cols=2)
+                   + d.conceito("", f"A empresa na {its[-1]['numero']}ª reunião, item a item", "o que foi decidido, quem relatou e o que foi dito", texto=decs_html([i for i in its if i["numero"] == its[-1]["numero"]][:4])), AG, logo_cliente=CLI))
 def faixa(ps_):
     lo = hi = mid = 1.0
     for p, nn in ps_:
@@ -131,12 +174,12 @@ def faixa(ps_):
     return lo, mid, hi
 lo, mid, hi = faixa([pr["por_diretor"][n] for n in board if n in pr["por_diretor"]]); ac, tt = pr["backtest"]
 pas = d.barras([(n, p, f"n={k}") for n, (p, k) in pr["por_diretor"].items()], lambda v: f"{v:.0%}")
-fut = (f'<p>{d.selo("estimativa — não é certeza")}</p><div class="nums" style="grid-template-columns:1fr 1fr"><div><b>{pr["placar_esperado"][0]} × {pr["placar_esperado"][1]}</b><span>placar mais provável</span></div>'
+fut = (f'<p>{d.selo("estimativa, não é certeza")}</p><div class="nums" style="grid-template-columns:1fr 1fr"><div><b>{pr["placar_esperado"][0]} × {pr["placar_esperado"][1]}</b><span>placar mais provável</span></div>'
        f'<div><b>{100 * lo:.0f}–{"≥99" if hi >= .99 else f"{100 * hi:.0f}"}%</b><span>chance de decisão unânime com o relator</span></div></div>'
        f'<ul class="arr"><li>O voto do relator define o resultado na grande maioria dos casos.</li><li>Pode mudar: troca de diretor (mandatos em dez/2026 e fev/2027), voto-vista, divergência do Diretor-Geral em metodologia de cálculo.</li>'
-       f'<li>Teste no passado: acertou {ac} de {tt} ({100 * ac / max(tt, 1):.0f}%) — igual à taxa de unanimidade; a regra não antecipa divergências.</li></ul>')
+       f'<li>Teste no passado: acertou {ac} de {tt} ({100 * ac / max(tt, 1):.0f}%), igual à taxa de unanimidade. A regra não antecipa divergências.</li></ul>')
 S.append(d.tecnica("05 · Antecipar", "Previsão para os próximos processos da empresa", d.grade(d.conceito("Passado", "Quanto cada diretor acompanha o relator", f"temas {', '.join(t.replace('_', ' ') for t in pr['temas'])} · 3 anos", texto=pas),
-                                                                                                 d.conceito("Futuro", "O que esperar", "", texto=fut), cols=2), AG,
+                                                                                                 d.conceito("Futuro", "O que esperar", "", texto=fut), cols=2) + d.conceito("", "A base da estimativa: votos recentes", "cada célula é o voto registrado no vídeo; ▶ abre a sessão no minuto", texto=matriz(its[-5:][::-1])), AG,
                    "Estimativa estatística a partir do histórico de votos; não substitui a publicação oficial nem orientação jurídica. Legenda automática pode errar nomes e números.", CLI))
 cob = f"Base: {len(its)} decisões da diretoria da {NOME} sobre a empresa desde 2018, com o voto de cada diretor e link para o vídeo oficial no minuto. Fontes públicas (vídeos das reuniões, pautas e calendário da agência, Senado, DOU). Previsões são estimativas."
 S.append(d.fim(cob, EMP.get("contato", "Circle Consultoria em parceria com Grupo Nery"), DIV[0]))

@@ -13,8 +13,8 @@ AG, MES = sys.argv[1].lower(), sys.argv[2]
 OUT = sys.argv[3] if len(sys.argv) > 3 else f"agencias/{AG}/boletins"
 os.makedirs(OUT, exist_ok=True)
 D = "data" if AG == "antt" else f"data/{AG}"
-NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]
-SET = {"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}[AG]
+NOME = AG.upper()
+SET = {"antt": "rodovias", "anm": "mineracao", "antaq": "portos", "aneel": "energia"}.get(AG, "portos")
 MESES = "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()
 ano, mm = map(int, MES.split("-")); MESN = f"{MESES[mm-1]} de {ano}"
 ini = datetime.date(ano, mm, 1); fim = (ini + datetime.timedelta(days=32)).replace(day=1) - datetime.timedelta(days=1)

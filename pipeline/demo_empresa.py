@@ -50,15 +50,29 @@ def rosca(cont):
     return f'<div class="rosca"><svg width="160" height="160">{arcs}<text x="80" y="86" text-anchor="middle" class="rt">{tot}</text></svg><div class="leg">{leg}</div></div>'
 
 
+def falas(lista, n=4, diretor=None):
+    rows, vistos = [], set()
+    for i in lista:
+        q = "select * from votos where item_id=? and trecho is not null and trecho!=''" + (" and diretor=?" if diretor else "") + " order by eh_relator desc, id limit 3"
+        for v in c.execute(q, (i["id"], diretor) if diretor else (i["id"],)):
+            if v["trecho"][:60] in vistos: continue
+            vistos.add(v["trecho"][:60])
+            rows.append(f'<tr><td class="pn">{fmtd(i["data"])}<br>{i["numero"]}ª, item {E(str(i["item"]))}</td><td><b>{E(v["diretor"])}</b>{" (relator)" if v["eh_relator"] else ""}</td><td><i>«{E(v["trecho"][:230])}»</i> <a href="{mapa_tema.link(i["video_id"], v["ts"] or i["ts"], v["trecho_t"])}">▶ minuto</a></td></tr>')
+            if len(rows) >= n: break
+        if len(rows) >= n: break
+    return ('<table class="tt"><tr><th style="width:13%">Sessão</th><th style="width:17%">Quem</th><th>O que foi dito (trecho literal da legenda)</th></tr>' + "".join(rows) + "</table>") if rows else ""
+
+
 S = []
 S.append(dz.capa(FOTOP, "50% 55%", f"Prévia de inteligência regulatória · {NOME}", NOMEEMP, f"Como a diretoria da {NOME} decide os temas da sua empresa",
                   f"DEMO · válida até {(HOJE + datetime.timedelta(days=30)):%d/%m/%Y} · só fontes públicas · voto de cada diretor com link do vídeo no minuto exato",
                   [(len(its3), "decisões da diretoria sobre a empresa (3 anos)"), (len(board), "diretores mapeados voto a voto"), (len(cal) or "—", "próximas reuniões no calendário"), ("4", "documentos por mês no pacote completo")]).replace("</section>", '<div class="wm">DEMO</div></section>'))
 ult = list(reversed(its3))[:3]
-evs = "".join(f'<li><b>{fmtd(i["data"])} · {i["numero"]}ª reunião</b> {E((i["assunto"] or "")[:110])} — <i>{E((i["resultado"] or "")[:60])}</i> <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶ vídeo no minuto</a></li>' for i in ult)
+evs = "".join(f'<li><b>{fmtd(i["data"])} · {i["numero"]}ª reunião</b> {E((i["assunto"] or "")[:110])}: <i>{E((i["resultado"] or "")[:60])}</i> <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶ vídeo no minuto</a></li>' for i in ult)
 S.append(f'''<section class="pg">{f'<img src="{LOGO_P}" class="lp">' if LOGO_P else ''}<div class="tg">Prévia · {NOME}</div><h2>O que a diretoria decidiu sobre {E(NOMEEMP)}</h2><div class="g2">
 <div class="card"><h3>Desfecho para a empresa (3 anos)</h3>{rosca(DES)}<p class="nt">Classificação automática pela decisão; conferida à mão no relatório completo.</p></div>
-<div class="card"><h3>Decisões mais recentes</h3><ul>{evs or "<li>Sem decisões no recorte.</li>"}</ul><h3 style="margin-top:.16in">Próximas reuniões</h3><p>{" · ".join(f"{x['reuniao']}ª em {fmtd(x['data'])} ({x.get('formato', '')})" for x in cal) or "calendário oficial no relatório completo"}</p></div></div><div class="wm">DEMO</div></section>''')
+<div class="card"><h3>Decisões mais recentes</h3><ul>{evs or "<li>Sem decisões no recorte.</li>"}</ul><h3 style="margin-top:.16in">Próximas reuniões</h3><p>{" · ".join(f"{x['reuniao']}ª em {fmtd(x['data'])} ({x.get('formato', '')})" for x in cal) or "calendário oficial no relatório completo"}</p></div></div>
+{f'<div class="card mt"><h3>O que foi dito nessas decisões</h3>{fl}</div>' if (fl := falas(list(reversed(its3)), 4)) else ""}<div class="wm">DEMO</div></section>''')
 if aberto not in board and board: aberto = max(board, key=lambda n: rel.get(n, 0))
 cards = ""
 for d in sorted(board, key=lambda x: x != aberto):
@@ -69,13 +83,16 @@ for d in sorted(board, key=lambda x: x != aberto):
 {f'<p class="q">«{E((st["ev"]["justificativa"] or st["ev"]["voto"] or "")[:120])}» <a href="{mapa_tema.link(st["ev"]["video_id"], st["ev"]["ts"], st["ev"]["trecho_t"])}">▶</a></p>' if st.get("ev") else ""}</div>'''
     else:
         cards += f'<div class="dcd blur">{foto_dir(d)}<div class="dnm">{E(d)}</div><div class="lock">disponível no relatório completo</div><div class="fake"><span></span><span></span><span></span></div></div>'
-S.append(f'''<section class="pg">{f'<img src="{LOGO_P}" class="lp">' if LOGO_P else ''}<div class="tg">Prévia · diretoria</div><h2>Quem decide os processos de {E(NOMEEMP)}</h2><p class="lead">Abrimos o diretor que mais relatou processos da empresa. Os demais — com voto, argumentos e chance de divergir — estão no relatório completo.</p>
-<div class="dgrid" style="grid-template-columns:1.6fr {" ".join(["1fr"] * max(len(board) - 1, 1))}">{cards}</div><div class="wm">DEMO</div></section>''')
+S.append(f'''<section class="pg">{f'<img src="{LOGO_P}" class="lp">' if LOGO_P else ''}<div class="tg">Prévia · diretoria</div><h2>Quem decide os processos de {E(NOMEEMP)}</h2><p class="lead">Abrimos o diretor que mais relatou processos da empresa. Os demais (voto, argumentos e chance de divergir) estão no relatório completo.</p>
+<div class="dgrid" style="grid-template-columns:1.6fr {" ".join(["1fr"] * max(len(board) - 1, 1))}">{cards}</div>
+{f'<div class="card mt"><h3>O que {E(aberto)} disse nos processos da empresa</h3>{fl}</div>' if (fl := falas(list(reversed(its)), 2, aberto)) else ""}<div class="wm">DEMO</div></section>''')
+BASE = c.execute("select count(*), count(distinct i.reuniao_id), min(r.data) from itens i join reunioes r on r.id=i.reuniao_id where r.data>='2018-01-01'").fetchone()
 docs = [("1", "Relatório da empresa", "processos, calendário, diretoria e mandatos, como cada diretor vota nos seus temas, previsão"), ("2", "Boletim mensal", "alerta antes de cada reunião, respostas às suas perguntas, o mês na agência"),
         ("3", "Raio-X dos processos", "etapa, linha do tempo e prazo estimado de cada processo"), ("4", "Agenda e comparativa", "pautas, casos semelhantes e possíveis contradições")]
 S.append(f'''<section class="pg">{f'<img src="{LOGO_P}" class="lp">' if LOGO_P else ''}<div class="tg">O que você recebe</div><h2>4 documentos por mês, cada afirmação com prova</h2><div class="g4">{"".join(f'<div class="card dk"><b class="nb">{a}</b><h3>{E(t)}</h3><p>{E(x)}</p></div>' for a, t, x in docs)}</div>
-<div class="g2 mt"><div class="card"><h3>Previsão para o próximo processo <span class="est">estimativa</span></h3><div class="plac">●<span>×</span>●</div><p>Placar provável e chance de unanimidade, com o histórico de cada diretor e o teste no passado — no relatório completo.</p></div>
-<div class="card cta"><h3>Quer ver o resto?</h3><p>{E(CONTATO)}</p><p class="nt">Fontes públicas (vídeos oficiais das reuniões, pautas, DOU). Previsões são estimativas e não substituem a publicação oficial nem orientação jurídica.</p></div></div><div class="wm">DEMO</div></section>''')
+<div class="g2 mt"><div class="card"><h3>Previsão para o próximo processo <span class="est">estimativa</span></h3><div class="plac">●<span>×</span>●</div><p>Placar provável e chance de unanimidade, com o histórico de cada diretor e o teste no passado, no relatório completo.</p></div>
+<div class="card cta"><h3>Quer ver o resto?</h3><p>{E(CONTATO)}</p><p class="nt">Fontes públicas (vídeos oficiais das reuniões, pautas, DOU). Previsões são estimativas e não substituem a publicação oficial nem orientação jurídica.</p></div></div>
+<div class="card mt"><h3>A base por trás da prévia</h3>{dz.numeros([(f"{BASE[0]:,}".replace(",", "."), f"decisões da diretoria da {NOME} na base"), (BASE[1], "reuniões de diretoria analisadas"), (fmtd(BASE[2]), "primeira reunião da base"), (len(board), "diretores em exercício mapeados")])}<p class="nt">Cada decisão tem relator, voto de cada diretor, resultado, justificativa e o link do vídeo oficial no minuto. A legenda é automática: nomes e valores são conferidos no relatório.</p></div><div class="wm">DEMO</div></section>''')
 S.append(dz.fim("Prévia feita só com fontes públicas (vídeos oficiais das reuniões, pautas, DOU). Previsões são estimativas e não substituem a publicação oficial nem orientação jurídica.", CONTATO, KIT["divisores"][0]))
 CSS = dz.CSS + """@page{size:13.333in 7.5in;margin:0}*{box-sizing:border-box}body{margin:0;font-family:'Inter Display',Inter,system-ui,sans-serif;color:#0B1A20;-webkit-print-color-adjust:exact;print-color-adjust:exact}
 .pg:not(.capa):not(.fim){background:#fff;padding:.45in .6in}h1,h2,h3{margin:0;font-weight:500}a{color:#0F5468;font-weight:500;text-decoration:none}
@@ -89,8 +106,8 @@ CSS = dz.CSS + """@page{size:13.333in 7.5in;margin:0}*{box-sizing:border-box}bod
 .g4{display:grid;grid-template-columns:repeat(4,1fr);gap:.14in}.dk{background:#0B1A20;color:#fff;border:0}.dk p{color:#CFCAC0;font-size:8.6pt}.nb{font-size:22pt;color:#BCCFFF}.est{font-size:6.8pt;font-weight:500;text-transform:uppercase;color:#003B4C;background:#BCCFFF;border-radius:99px;padding:2px 8px}
 .plac{font-size:48pt;font-weight:500;color:#C9C4BA}.plac span{font-size:24pt;margin:0 .1in}.cta{border:2px solid #003B4C}"""
 base = f"{OUT}/demo_{AG}"
-open(base + ".html", "w").write(leve_html(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Prévia {E(NOMEEMP)}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>'))
+open(base + ".html", "w").write(leve_html(dz.sem_travessao(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Prévia {E(NOMEEMP)}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>')))
 js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(base)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(base)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
-if r.returncode == 0: leve_pdf(base + ".pdf")
+if r.returncode == 0: leve_pdf(base + ".pdf"); dz.densidade(base + ".html")
 print(base + ".pdf" if r.returncode == 0 else r.stderr[-300:], len(its3), "decisões (3 anos)")
