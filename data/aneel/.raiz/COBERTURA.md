@@ -21,7 +21,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | audiencia | 26 | 25 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 78 | 0 |
-| 2022 | audiencia | 16 | 0 | 0 |
+| 2022 | audiencia | 16 | 12 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
@@ -774,4 +774,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `Qp_czn7vPxY`
 -  · 10ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `SwmVyDLxtiI`
 
-Vídeos sem legenda registrados: 28 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 29 (ver `data/sem_legenda.jsonl`).

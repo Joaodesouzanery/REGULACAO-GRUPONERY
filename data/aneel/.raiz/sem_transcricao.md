@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **478** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **466** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 4; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -57,26 +57,14 @@ Total: **478** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2023-04-13 · workshop · Workshop Controle da Infestação por Mexilhão Dourado – 13/4/2023 · https://www.youtube.com/watch?v=TukK0BTiSRk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-13 · workshop · (PT) Workshop: Controle da Infestação por Mexilhão-Dourado – Fase III · https://www.youtube.com/watch?v=PeX-KHJtSZs · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-09 · audiencia · Audiência Pública 019/2022 - Revisão Tarifária Periódica Energisa Mato Grosso –  · https://www.youtube.com/watch?v=Wn697jqJjCQ · **legenda desativada/inexistente no YouTube**
-- 2022-12-08 · audiencia · Audiência Pública 15/2022 - Micro e minigeração distribuída - 08/12/2022 · https://www.youtube.com/watch?v=10pE4gbPIrI · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 2 · https://www.youtube.com/watch?v=cvG1a4qN-2g · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 1 · https://www.youtube.com/watch?v=ByY4W3LTRkw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-11-04 · audiencia · Audiência Pública 014/2022 – Agenda Regulatória 2023-2024 – 04/11/2022 · https://www.youtube.com/watch?v=TzOCzngSXiM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-21 · workshop · Workshop de Esclarecimentos sobre Leilão de Transmissão 02/2022 - 21/10/2022 · https://www.youtube.com/watch?v=6SFun97b4E8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 2 · https://www.youtube.com/watch?v=v-t8q6eEPFA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 1 · https://www.youtube.com/watch?v=PS3rRtKNdoY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-14 · audiencia · Audiência Pública 010/2022 - Agrupamento das áreas de concessão EMG e ENF - 14/0 · https://www.youtube.com/watch?v=VJ_8j6Qabqs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-24 · audiencia · Audiência Pública 012/2022 - Revisão Tarifária da Cooperaliança - 24/06/2022 · https://www.youtube.com/watch?v=tQmKM6czn34 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-22 · audiencia · Audiência Pública 011/2022 - Agrupamento das áreas de concessão EPB e EBO - 22/0 · https://www.youtube.com/watch?v=bXhavS7TJhU · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-26 · audiencia · Audiência Pública 009/2022 - Revisão Tarifária Periódica da EDP Espírito Santo - · https://www.youtube.com/watch?v=VFbS-DeYHlk · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-20 · workshop · Workshop de esclarecimentos sobre o Leilão de Transmissão nº 01/2022 - 20/05/202 · https://www.youtube.com/watch?v=MzjfN0DkRm0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-18 · audiencia · Audiência Pública 008/2022 - Revisão Tarifária Periódica e DEC/FEC - Eletrocar - · https://www.youtube.com/watch?v=6n3WpySsIpM · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-12 · audiencia · Audiência Pública 007/2022 - Revisão Tarifária Periódica Nova Palma – 12/05/2022 · https://www.youtube.com/watch?v=JtsODeZqgRo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-12 · audiencia · Audiência Pública 006/2022 - Revisão Tarifária Periódica Nova Palma – 12/05/2022 · https://www.youtube.com/watch?v=yhsEsascOfo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-12 · audiencia · Audiência Pública 005/2022 - Revisão Tarifária Periódica Hidropan – 12/05/2022 · https://www.youtube.com/watch?v=t5BjX5SeT4A · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-04 · audiencia · Audiência Pública 004/2022 - Revisão Tarifária Periódica Demei – 04/05/2022 · https://www.youtube.com/watch?v=P3TXMaYNsD4 · **ainda não baixado (rodar a coleta no Mac)**
+- 2022-05-12 · audiencia · Audiência Pública 006/2022 - Revisão Tarifária Periódica Nova Palma – 12/05/2022 · https://www.youtube.com/watch?v=yhsEsascOfo · **legenda desativada/inexistente no YouTube**
 - 2022-03-29 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 1 · https://www.youtube.com/watch?v=2ZsMm1h_OPU · **legenda desativada/inexistente no YouTube**
-- 2022-03-23 · audiencia · Audiência Pública 003/2022- Consolidação de Procedimentos de Comercialização - 2 · https://www.youtube.com/watch?v=bVuQn0J-JOM · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-23 · audiencia · Audiência Pública 002/2022 - Autorização para Comercializadores de Energia - 23/ · https://www.youtube.com/watch?v=bb3pzZLGmfs · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-10 · audiencia · Audiência Pública 001/2022 - Revisão Tarifária Periódica da  Sulgipe- 10/03/2022 · https://www.youtube.com/watch?v=5NqFRI6q_08 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-01-27 · audiencia · Audiência Pública 032/2021- Revisão da Resolução Normativa nº 696/2015-  27/01/2 · https://www.youtube.com/watch?v=EC-J6sv52h8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-01-19 · audiencia · Audiência Pública 031/2021 -  Revisão Tarifária Periódica da LIGHT -  19/01/2022 · https://www.youtube.com/watch?v=7ASgx5CCmq8 · **ainda não baixado (rodar a coleta no Mac)**
