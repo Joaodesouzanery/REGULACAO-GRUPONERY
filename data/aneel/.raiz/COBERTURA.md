@@ -5,35 +5,35 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | workshop | 1 | 0 | 0 |
-| sem data | diretoria | 36 | 0 | 0 |
-| sem data | audiencia | 5 | 0 | 0 |
+| sem data | diretoria | 36 | 30 | 0 |
+| sem data | audiencia | 5 | 1 | 0 |
 | 2026 | workshop | 15 | 2 | 2 |
 | 2026 | diretoria | 46 | 45 | 11 |
-| 2026 | audiencia | 4 | 3 | 3 |
+| 2026 | audiencia | 4 | 4 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |
 | 2025 | diretoria | 97 | 95 | 0 |
-| 2025 | audiencia | 9 | 0 | 0 |
+| 2025 | audiencia | 9 | 9 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
 | 2024 | diretoria | 103 | 102 | 0 |
-| 2024 | audiencia | 6 | 0 | 0 |
+| 2024 | audiencia | 6 | 6 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
 | 2023 | diretoria | 82 | 82 | 0 |
-| 2023 | audiencia | 26 | 0 | 0 |
+| 2023 | audiencia | 26 | 25 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 78 | 0 |
-| 2022 | audiencia | 16 | 0 | 0 |
+| 2022 | audiencia | 16 | 15 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 81 | 0 |
-| 2021 | audiencia | 33 | 0 | 0 |
+| 2021 | audiencia | 33 | 31 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
 | 2020 | diretoria | 90 | 85 | 0 |
-| 2020 | audiencia | 9 | 0 | 0 |
+| 2020 | audiencia | 9 | 9 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
-| 2019 | diretoria | 77 | 68 | 0 |
-| 2019 | audiencia | 19 | 0 | 0 |
+| 2019 | diretoria | 77 | 73 | 0 |
+| 2019 | audiencia | 19 | 17 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
-| 2018 | diretoria | 69 | 0 | 0 |
-| 2018 | audiencia | 58 | 0 | 0 |
+| 2018 | diretoria | 69 | 68 | 0 |
+| 2018 | audiencia | 58 | 47 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
 | 2017 | diretoria | 96 | 0 | 0 |
 | 2017 | audiencia | 2 | 0 | 0 |
@@ -670,5 +670,108 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-03-12 · 7ª Reunião Pública Ordinária ANEEL – 12/03/2019 - Parte 1 · `TaiFOPNoRRY`
 - 2019-02-26 · 6ª Reunião Pública Ordinária ANEEL – 26/02/2019 - Parte 2 · `Y4Wj_Uv8Qxg`
 - 2019-02-26 · 6ª Reunião Pública Ordinária ANEEL – 26/02/2019 - Parte 1 · `BqI9aJalpjc`
+- 2019-02-19 · 5ª Reunião Pública Ordinária ANEEL – 19/02/2019 · `yN0XUHRZ3kM`
+- 2019-02-12 · 4ª Reunião Pública Ordinária ANEEL – 12/02/2019 · `OUG1MnCEAOg`
+- 2019-02-05 · 3ª Reunião Pública Ordinária ANEEL – 05/02/2019 · `A18pj2IQ298`
+- 2019-01-29 · 2ª Reunião Pública Ordinária ANEEL – 29/01/2019 · `VBKBdjPSOZs`
+- 2019-01-22 · 1ª Reunião Pública Ordinária ANEEL – 22/01/2019 · `JafgQ15GWG4`
+- 2018-12-21 · 10ª Reunião Pública Extraordinária ANEEL – 21/12/2018 · `L4WmePHDXPU`
+- 2018-12-18 · 47ª Reunião Pública Ordinária ANEEL – 18/12/2018 - Parte 2 · `Hylz5zUK-uE`
+- 2018-12-18 · 47ª Reunião Pública Ordinária ANEEL – 18/12/2018 - Parte 1 · `LjkN-zACDXg`
+- 2018-12-11 · 7ª Reunião Pública Extraordinária ANEEL – 11/12/2018 · `lWSMCORvSmM`
+- 2018-12-11 · 46ª Reunião Pública Ordinária ANEEL – 11/12/2018 - Parte 2 · `-Ig_IpJK5z4`
+- 2018-12-11 · 46ª Reunião Pública Ordinária ANEEL – 11/12/2018 - Parte 1 · `tnSPvVE2nTM`
+- 2018-12-04 · 45ª Reunião Pública Ordinária ANEEL – 04/12/2018 · `nmRE9sHe7Ak`
+- 2018-11-27 · 44ª Reunião Pública Ordinária ANEEL – 27/11/2018 · `ZZ4MJ9WCVdk`
+- 2018-11-20 · 43ª Reunião Pública Ordinária ANEEL – 20/11/2018 · `eL8PPNzpJEY`
+- 2018-11-13 · 42ª Reunião Pública Ordinária ANEEL - 13/11/2018 - Parte 2 · `NRg8JAec03Y`
+- 2018-11-13 · 42ª Reunião Pública Ordinária ANEEL - 13/11/2018 - Parte 1 · `GYJ5tJ0Absk`
+- 2018-11-07 · 6ª Reunião Pública Extraordinária ANEEL – 07/11/2018 · `LQu18hxDfEk`
+- 2018-11-06 · 41ª Reunião Pública Ordinária ANEEL – 06/11/2018 · `Vjx59q9ZUQA`
+- 2018-10-30 · 40ª Reunião Pública Ordinária ANEEL – 30/10/2018 - Parte 2 · `1Rke1z0CLjY`
+- 2018-10-30 · 40ª Reunião Pública Ordinária ANEEL – 30/10/2018 - Parte 1 · `DSW6_hGH0PQ`
+- 2018-10-23 · 39ª Reunião Pública Ordinária ANEEL - 23/10/2018 - Parte 2 · `uXPzJ-Pt8Ew`
+- 2018-10-23 · 39ª Reunião Pública Ordinária ANEEL - 23/10/2018 - Parte 1 · `ELBTnzyQuCY`
+- 2018-10-16 · 38ª Reunião Pública Ordinária ANEEL – 16/10/2018 · `EQ337qQHvfE`
+- 2018-10-09 · Bloco 7 à 37 - 37ª Reunião Pública Ordinária 2018 ANEEL 09/10/2018 · `ooHScJJ78a8`
+- 2018-10-02 · Bloco 9 à 25 - 36ª Reunião Pública Ordinária 2018 ANEEL 02/10/2018 · `2Qu9VTlHfVo`
+- 2018-09-25 · Itens 6 a 26 - 35ª Reunião Pública Ordinária ANEEL 25/09/2018 · `vH-EfZC9dtk`
+- 2018-09-25 · Aprovação da Ata da 34ª Reunião Pública Ordinária - 35ª Reunião Públic · `zrv6oksHLZ4`
+- 2018-09-21 · Informativos · `1t-TSYQnAiY`
+- 2018-09-21 · Aprovação da Pauta da 33ª RPO · `VEvoidXB4gI`
+- 2018-09-18 · Bloco 7 à 34 - 34ª Reunião Pública Ordinária ANEEL 18/09/2018 · `ZzegMMlKpvI`
+- 2018-09-11 · Itens 2 a 30 - 33ª Reunião Pública Ordinária ANEEL 11/09/2018 · `4ozODOajzDU`
+- 2018-09-11 · Informes - 33ª Reunião Pública Ordinária ANEEL 11/09/2018 · `Rg98WUd_AKM`
+- 2018-09-11 · Aprovação da Ata da 32ª Reunião Pública Ordinária - Reunião Pública Or · `wa09sgoruVY`
+- 2018-09-05 · OBSERVAÇÕES E APROVAÇÃO DA ATA 31ª RPO · `AQ8GSQasmXQ`
+- 2018-09-04 · BLOCO dos Itens de 8 ao 17 - 32ª Reunião Pública Ordinária ANEEL 04/09 · `HHsJNq5lKUs`
+- 2018-08-28 · Itens 10 a 26 - 31ª Reunião Pública Ordinária ANEEL 28/08/2018 · `saBiuXIHtBA`
+- 2018-08-28 · Boas vindas e avisos - 31ª Reunião Pública Ordinária ANEEL 28/08/2018 · `pGgUdacCG04`
+- 2018-08-21 · Bloco da Pauta Itens de 15 ao 27 - 30ª Reunião Pública Ordinária ANEEL · `I9f2Vm_MRow`
+- 2018-08-13 · Itens 27 a 50 - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `6yfWAfHiZH0`
+- 2018-08-13 · Itens 13 a 15 - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `6H_bmAk-43c`
+- 2018-08-13 · Agradecimentos - 29ª Reunião Pública Ordinária ANEEL 13/08/2018 · `MNnQPPTstUE`
+- 2018-08-07 · BLOCO DE PROCESSOS - 28ª Reunião Pública Ordinária ANEEL 07/08/2018 · `FGd8vvrXkC0`
+- 2018-07-31 · Itens 11 a 16 - 27ª Reunião Pública Ordinária ANEEL 31/07/2018 · `vK7I8dH0W2U`
+- 2018-07-24 · Itens 8 a 20 - 26ª Reunião Pública Ordinária ANEEL 24/07/2018 · `5Ui6ooJVSKs`
+- 2018-07-17 · Itens 11 a 22 - 25ª Reunião Pública Ordinária ANEEL 17/07/2018 · `rvaXxZwNJEU`
+- 2018-07-10 · Itens 7 a 18 - 24ª Reunião Pública Ordinária ANEEL 10/07/2018 · `VS3uVtUo_Ds`
+- 2018-07-03 · Itens 12 a 31 - 23ª Reunião Pública Ordinária ANEEL 03/07/2018 · `mRGH-SclUYI`
+- 2018-06-26 · Itens 19 a 53 - 22ª Reunião Pública Ordinária ANEEL 26/06/2018 · `Og_mBrAXHeE`
+- 2018-06-19 · Bloco 12 a 25 - 21ª Reunião Pública Ordinária ANEEL 19/06/2018 · `_AOmPU_vM5g`
+- 2018-06-14 · OBS  ATA 17ª RPO ITEM 27 · `lBZPk5TSCXg`
+- 2018-06-12 · Itens 11 a 21 - 20ª Reunião Pública Ordinária ANEEL 12/06/2018 · `lawmUsSFsCQ`
+- 2018-06-05 · BLOCO - 19ª Reunião Pública Ordinária ANEEL 05/06/2018 · `3AHiFKIq_aY`
+- 2018-05-22 · Retificação do Item 4 da 16ª Reunião Pública Ordinária ANEEL 22/05/201 · `qOlajpnme4o`
+- 2018-05-22 · Retificação do Item 25 da 16ª Reunião Pública Ordinária ANEEL 22/05/20 · `_ipALgAgO6g`
+- 2018-05-22 · Itens 16 a 41 - 17ª Reunião Pública Ordinária ANEEL 22/05/2018 · `7bZ-dvfjOS8`
+- 2018-05-15 · Blocos dos Itens 18 a 42 com retificação - 16ª Reunião Pública Ordinár · `V6GMRIss2rc`
+- 2018-05-03 · Itens 11 a 20 - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · `V9L1YxeOris`
+- 2018-05-03 · Aprovação de atas - 14ª Reunião Pública Ordinária ANEEL 03/05/2018 · `mqOBYnYbmBY`
+- 2018-04-27 · Observação ATA 12ªRPO Item 4 · `znGuOJgJkqU`
+- 2018-04-24 · BLOCO DA PAUTA - 13ª Reunião Pública Ordinária ANEEL 24/04/2018 · `CizoSshKIqc`
+- 2018-04-17 · Retificação - 12ª Reunião Pública Ordinária ANEEL 17/04/2018 · `KeMcQS5J09o`
+- 2018-04-17 · Itens 13 a 50 - 12ª Reunião Pública Ordinária ANEEL 17/04/2018 · `6RR6a1-Bn1E`
+- 2018-04-03 · Bloco da Pauta Itens de 07 ao 37 - 10ª Reunião Pública Ordinária ANEEL · `g7vhlDCA3kM`
+- 2018-03-27 · Retificação - 9ª Reunião Pública Ordinária ANEEL 27/03/2018 · `DQKgAf1EKQ8`
+- 2018-03-27 · Bloco dos Itens de 14 ao 51 - 9ª Reunião Pública Ordinária ANEEL 27/03 · `EbYfFfTDGNc`
+- 2018-03-13 · Bloco de 14 a 31 - 7ª Reunião Pública Ordinária ANEEL 13/03/2018 · `bWR1FGfmJ5w`
+- 2018-03-06 · Bloco dos itens de 11 ao 27 - 6ª Reunião Pública Ordinária ANEEL 06/03 · `0QMP9YS4wxw`
+- 2018-02-27 · Itens 14 a 31 - 5ª Reunião Pública Ordinária ANEEL 27/02/2018 · `fC_o9t1frgU`
+- 2018-02-23 · Bloco da Pauta Itens de 7 ao 47 · `fVdLC_-Jp40`
+- 2018-02-06 · Bloco dos Itens de 12 ao 39 - 3ª Reunião Pública Ordinária ANEEL 06/02 · `RDGQbIYpSeE`
+- 2018-01-30 · Retificação da 1ª Reunião Pública Ordinária ANEEL 30/01/2018 · `8p0y1E_QKBA`
+- 2018-01-30 · Itens 11 a 45 - 2ª Reunião Pública Ordinária ANEEL 30/01/2018 · `96TVQGfRjYY`
+- 2018-01-23 · Itens 11 a 47 - 1ª Reunião Pública Ordinária ANEEL 23/01/2018 · `6-11UmwSnDg`
+-  · TESTE DA 48ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2020 · `49Ek8O3lqNE`
+-  · 8ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `5QW-g7ZBXaw`
+-  · 7 ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `ab6YY2k4dZw`
+-  · 6ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `tEBK733Zgrc`
+-  · 5ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2020. · `w0VYdizbOs0`
+-  · 4ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `195jrNlSJ2c`
+-  · 3ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `WJc9Wmg_IoA`
+-  · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `GadM58CgTM8`
+-  · 2ª Reunião Pública Extraordinária da Diretoria Colegiada · `G0QvS7K94O8`
+-  · 29ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `FkcuPd84kbg`
+-  · 28ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `MhsOvSI_Y3w`
+-  · 26ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `_FotOKAnuWA`
+-  · 25ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `sDGHdxgvIuQ`
+-  · 24ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `bW9p0mAUux0`
+-  · 23ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `rZEEgSSft64`
+-  · 22ª Reunião Pública Ordinária da Diretoria Colegiada · `yFO24uLmsiY`
+-  · 21ª Reunião Pública Ordinária da Diretoria Colegiada · `uOYMo8RI4ew`
+-  · 21ª REUNIÃO PÚBLICA  ORDINÁRIA DE 2020 · `oOax8XLTcpQ`
+-  · 20ª Reunião Pública Ordinária da Diretoria Colegiada · `pNLtOLsQMZ4`
+-  · 1ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `KJlGWmH9K60`
+-  · 19ª Reunião Pública Ordinária da Diretoria Colegiada · `-kS36Ljgo2Y`
+-  · 18ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `zYVcFn2Z9kg`
+-  · 17ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `eI37OQMScL0`
+-  · 16ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `uVEWJgMmnCc`
+-  · 15ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `yMZF04UoHCA`
+-  · 14ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `wq3qmJOtnNo`
+-  · 13ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `gww3SFDuI9o`
+-  · 12ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `zjrOYFHfTD0`
+-  · 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `Qp_czn7vPxY`
+-  · 10ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `SwmVyDLxtiI`
 
-Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 44 (ver `data/sem_legenda.jsonl`).
