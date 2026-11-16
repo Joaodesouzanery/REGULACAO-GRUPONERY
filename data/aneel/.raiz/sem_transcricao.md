@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **310** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **298** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/workshop: 7; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
@@ -13,31 +13,19 @@ Total: **310** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **legenda desativada/inexistente no YouTube**
 - 2024-01-22 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 01/2024 - 22/01/2024 · https://www.youtube.com/watch?v=_6fQ_pCoXDc · **legenda desativada/inexistente no YouTube**
 - 2023-02-09 · audiencia · Audiência Pública 019/2022 - Revisão Tarifária Periódica Energisa Mato Grosso –  · https://www.youtube.com/watch?v=Wn697jqJjCQ · **legenda desativada/inexistente no YouTube**
-- 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 2 · https://www.youtube.com/watch?v=cvG1a4qN-2g · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-11-23 · workshop · 1º Workshop de Planos de Resultados da Distribuição - 23/11/2022 - Parte 1 · https://www.youtube.com/watch?v=ByY4W3LTRkw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-10-21 · workshop · Workshop de Esclarecimentos sobre Leilão de Transmissão 02/2022 - 21/10/2022 · https://www.youtube.com/watch?v=6SFun97b4E8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 2 · https://www.youtube.com/watch?v=v-t8q6eEPFA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 1 · https://www.youtube.com/watch?v=PS3rRtKNdoY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-20 · workshop · Workshop de esclarecimentos sobre o Leilão de Transmissão nº 01/2022 - 20/05/202 · https://www.youtube.com/watch?v=MzjfN0DkRm0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-12 · audiencia · Audiência Pública 006/2022 - Revisão Tarifária Periódica Nova Palma – 12/05/2022 · https://www.youtube.com/watch?v=yhsEsascOfo · **legenda desativada/inexistente no YouTube**
 - 2022-03-29 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 1 · https://www.youtube.com/watch?v=2ZsMm1h_OPU · **legenda desativada/inexistente no YouTube**
-- 2021-10-22 · workshop · Workshop sobre o Leilão de Transmissão 2/2021 - 22/10/2021 · https://www.youtube.com/watch?v=ooUBG7N60zw · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-10 · diretoria · 29ª Reunião Pública Ordinária ANEEL – 10/08/2021 – Parte 1 · https://www.youtube.com/watch?v=XamLq8gxcoo · **legenda desativada/inexistente no YouTube**
 - 2021-06-29 · diretoria · 23ª Reunião Pública Ordinária ANEEL – 29/06/2021 – Parte 1 · https://www.youtube.com/watch?v=YiTVIcg4_-0 · **legenda desativada/inexistente no YouTube**
 - 2021-06-16 · audiencia · Audiência Pública 014/2021- Revisão Tarifária Periódica da Cemar – 16/06/2021 · https://www.youtube.com/watch?v=GmALHG2gnss · **legenda desativada/inexistente no YouTube**
-- 2021-05-27 · workshop · Workshop Revisão da Resolução Normativa 875/2020 - 27/05/2021 · https://www.youtube.com/watch?v=-La8ki49lE0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-26 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão nº 01/2021 · https://www.youtube.com/watch?v=MLPQzxkbe_4 · **ainda não baixado (rodar a coleta no Mac)**
+- 2021-05-27 · workshop · Workshop Revisão da Resolução Normativa 875/2020 - 27/05/2021 · https://www.youtube.com/watch?v=-La8ki49lE0 · **legenda desativada/inexistente no YouTube**
 - 2021-05-25 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 25/05/2021 – Parte 1 · https://www.youtube.com/watch?v=eNn10-EeivQ · **legenda desativada/inexistente no YouTube**
-- 2021-04-29 · workshop · Workshop Compartilhamento de Instalações de Transmissão - 29/04/2021 · https://www.youtube.com/watch?v=azP_TnkWstE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-04 · audiencia · Audiência Pública 011/2020 - Programa de Pesquisa e Desenvolvimento – 04/02/2021 · https://www.youtube.com/watch?v=kj2JnPam04Q · **legenda desativada/inexistente no YouTube**
-- 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 2 · https://www.youtube.com/watch?v=ChsWYxucaec · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 1 · https://www.youtube.com/watch?v=CzvzgVaXIDY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-23 · diretoria · 22ª Reunião Pública Ordinária ANEEL – 23/06/2020 – Parte 1 · https://www.youtube.com/watch?v=Q1zJ0JL9XxY · **legenda desativada/inexistente no YouTube**
 - 2020-04-28 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 28/04/2020 – Parte 2 · https://www.youtube.com/watch?v=783FPx5o6Yg · **legenda desativada/inexistente no YouTube**
 - 2020-04-07 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 07/04/2020 – Parte 2 · https://www.youtube.com/watch?v=hoC3pYrYDWo · **legenda desativada/inexistente no YouTube**
 - 2020-03-10 · diretoria · 7ª Reunião Pública Ordinária ANEEL – 10/03/2020 · https://www.youtube.com/watch?v=orCn1aHb1Ks · **legenda desativada/inexistente no YouTube**
 - 2020-02-18 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 18/02/2020 · https://www.youtube.com/watch?v=0NtDdrHPTGs · **legenda desativada/inexistente no YouTube**
-- 2019-11-21 · workshop · Workshop Autorização de Reforços e Melhorias - Parte 2 - 21/11/2019 · https://www.youtube.com/watch?v=aWQ9Ta_RA5k · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-21 · workshop · Workshop Autorização de Reforços e Melhorias - Parte 1 - 21/11/2019 · https://www.youtube.com/watch?v=PrsFVKgM_lo · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-06 · workshop · Workshop Brasil-Alemanha sobre mini e microgeração - 6/11/2019 · https://www.youtube.com/watch?v=Exv4fI71svg · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-31 · workshop · Workshop Regulamentação sobre Estações Anemométricas e Solarimétricas - 31/10/20 · https://www.youtube.com/watch?v=weq4dk9WX6o · **ainda não baixado (rodar a coleta no Mac)**

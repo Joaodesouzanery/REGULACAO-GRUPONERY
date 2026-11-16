@@ -19,16 +19,16 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | workshop | 9 | 9 | 0 |
 | 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 25 | 0 |
-| 2022 | workshop | 6 | 0 | 0 |
+| 2022 | workshop | 6 | 6 | 0 |
 | 2022 | diretoria | 79 | 78 | 0 |
 | 2022 | audiencia | 16 | 15 | 0 |
-| 2021 | workshop | 4 | 0 | 0 |
+| 2021 | workshop | 4 | 3 | 0 |
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 31 | 0 |
-| 2020 | workshop | 2 | 0 | 0 |
+| 2020 | workshop | 2 | 2 | 0 |
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 9 | 0 |
-| 2019 | workshop | 8 | 0 | 0 |
+| 2019 | workshop | 8 | 1 | 0 |
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 17 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
@@ -760,4 +760,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `Qp_czn7vPxY`
 -  · 10ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `SwmVyDLxtiI`
 
-Vídeos sem legenda registrados: 47 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 48 (ver `data/sem_legenda.jsonl`).
