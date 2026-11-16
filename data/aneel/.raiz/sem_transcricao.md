@@ -2,24 +2,12 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **346** · sem /workshop: 1; sem /diretoria: 6; 2026/workshop: 5; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **334** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 2; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
-- 2026-01-29 · workshop · Workshop Nova Tarifa Branca · https://www.youtube.com/watch?v=22OsUKmtG4c · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-28 · workshop · Workshops temáticos – Tarifa Branca (CP46/25): Encontro com associações setoriai · https://www.youtube.com/watch?v=5Dyco4-fQpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-22 · workshop · Workshops temáticos – Tarifa Branca (CP46/25): Consultorias setoriais especializ · https://www.youtube.com/watch?v=pt294vGKdwE · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-22 · workshop · Workshop Nova Tarifa Branca · https://www.youtube.com/watch?v=km17Nu9FbaM · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-13 · workshop · Workshop sobre avaliação do Programa de Eficiência Energética - 13/01/2026 · https://www.youtube.com/watch?v=HZ9X3DH-AiQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-14 · workshop · Workshop de apresentação do Projeto PD – 10307-223/23 · https://www.youtube.com/watch?v=S67-eOY293A · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
-- 2025-10-30 · workshop · Lançamento do projeto Sandbox Regulatório Energias da Floresta e Assinatura do A · https://www.youtube.com/watch?v=aXXrV1uwWTw · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-07 · diretoria · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 2 · https://www.youtube.com/watch?v=gwaiZX5AZGM · **legenda desativada/inexistente no YouTube**
-- 2025-10-06 · workshop · Como funcionam os sandboxes tarifários? · https://www.youtube.com/watch?v=7mAKPYLdD3A · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-04 · workshop · Workshop “Horizonte Renovável: A era dos Data Centers no Brasil” · https://www.youtube.com/watch?v=uUYgwc0GXQ8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-07-11 · workshop · Workshop de encerramento do PDI “Sistema Inteligente para Diagnóstico Operativo  · https://www.youtube.com/watch?v=wKs4bQqvZDE · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-07-10 · workshop · Workshop Sistema Inteligente para Diagnóstico Operativo de Isoladores - 10/7/202 · https://www.youtube.com/watch?v=8pdFomXV5NY · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-27 · workshop · SENDI 2025: Modernização das tarifas (Sandboxes Tarifários) – 27/05/2025 · https://www.youtube.com/watch?v=TMpTUydyWqc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-10 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 04/2025 · https://www.youtube.com/watch?v=aghddIHAwlc · **ainda não baixado (rodar a coleta no Mac)**
+- 2025-10-06 · workshop · Como funcionam os sandboxes tarifários? · https://www.youtube.com/watch?v=7mAKPYLdD3A · **legenda desativada/inexistente no YouTube**
 - 2025-02-13 · workshop · Workshop Modernização Tarifária no Brasil · https://www.youtube.com/watch?v=XgfmiYgkd-o · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-30 · workshop · Tariff Sandboxes: learn about the projects that could change your electric bill · https://www.youtube.com/watch?v=m8aCID-NjFc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-12 · workshop · Workshop SIASE-T Nodal · https://www.youtube.com/watch?v=sZ_kAhJj3P0 · **ainda não baixado (rodar a coleta no Mac)**
