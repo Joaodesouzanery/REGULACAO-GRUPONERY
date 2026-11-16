@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **286** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 3; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **282** · sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/diretoria: 4; 2019/audiencia: 2; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
@@ -46,9 +46,6 @@ Total: **286** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2018-09-25 · diretoria · Itens 6 a 26 - 35ª Reunião Pública Ordinária ANEEL 25/09/2018 · https://www.youtube.com/watch?v=vH-EfZC9dtk · **transcrição sem fala útil (970 caracteres; só música/ruído)**
 - 2018-09-25 · diretoria · Aprovação da Ata da 34ª Reunião Pública Ordinária - 35ª Reunião Pública Ordinári · https://www.youtube.com/watch?v=zrv6oksHLZ4 · **transcrição sem fala útil (400 caracteres; só música/ruído)**
 - 2018-09-21 · diretoria · Aprovação da Pauta da 33ª RPO · https://www.youtube.com/watch?v=VEvoidXB4gI · **transcrição sem fala útil (1173 caracteres; só música/ruído)**
-- 2018-09-20 · workshop · 1º Workshop Inventários Hidrelétricos Participativos - 20/09/2018 - Parte 3 · https://www.youtube.com/watch?v=MbHlXWd005I · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-09-20 · workshop · 1º Workshop Inventários Hidrelétricos Participativos - 20/09/2018 - Parte 2 · https://www.youtube.com/watch?v=xPwlNeciVCc · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-09-20 · workshop · 1º Workshop Inventários Hidrelétricos Participativos - 20/09/2018 - Parte 1 · https://www.youtube.com/watch?v=eSnGaUGhlnc · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-11 · diretoria · Informes - 33ª Reunião Pública Ordinária ANEEL 11/09/2018 · https://www.youtube.com/watch?v=Rg98WUd_AKM · **transcrição sem fala útil (638 caracteres; só música/ruído)**
 - 2018-09-11 · diretoria · Aprovação da Ata da 32ª Reunião Pública Ordinária - Reunião Pública Ordinária AN · https://www.youtube.com/watch?v=wa09sgoruVY · **transcrição sem fala útil (887 caracteres; só música/ruído)**
 - 2018-09-04 · diretoria · BLOCO dos Itens de 8 ao 17 - 32ª Reunião Pública Ordinária ANEEL 04/09/2018 · https://www.youtube.com/watch?v=HHsJNq5lKUs · **transcrição sem fala útil (959 caracteres; só música/ruído)**
@@ -283,7 +280,6 @@ Total: **286** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/w
 - 2012-01-31 · diretoria · Itens 34 a 67 - 3ª Reunião Pública Ordinária ANEEL 31/01/2012 · https://www.youtube.com/watch?v=2Smd92h0Ba4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2012-01-31 · diretoria · Itens 3 e 4 - 3ª Reunião Pública Ordinária ANEEL  31/01/2012 · https://www.youtube.com/watch?v=agrP4oBMneA · **ainda não baixado (rodar a coleta no Mac)**
 - 2012-01-24 · diretoria · Itens 32 a 45 - 2ª Reunião Pública Ordinária ANEEL 24/01/2012 · https://www.youtube.com/watch?v=ICeH2Lz2Nwc · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · workshop · Workshop Plano Estratégico Quinquenal de Inovação (PEQuI) · https://www.youtube.com/watch?v=GJbeub9LJBk · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=_yV9mHlWd30 · **privado**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=Kpe5zLM_ImU · **privado**
 - s/data · diretoria · 2ª Reunião Pública Ordinária ANEEL · https://www.youtube.com/watch?v=sxsChN4J4Z0 · **legenda desativada/inexistente no YouTube**

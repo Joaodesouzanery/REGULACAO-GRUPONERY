@@ -4,7 +4,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | workshop | 1 | 0 | 0 |
+| sem data | workshop | 1 | 1 | 0 |
 | sem data | diretoria | 36 | 30 | 0 |
 | sem data | audiencia | 5 | 5 | 0 |
 | 2026 | workshop | 15 | 15 | 2 |
@@ -31,7 +31,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | workshop | 8 | 8 | 0 |
 | 2019 | diretoria | 77 | 73 | 0 |
 | 2019 | audiencia | 19 | 17 | 0 |
-| 2018 | workshop | 8 | 5 | 0 |
+| 2018 | workshop | 8 | 8 | 0 |
 | 2018 | diretoria | 69 | 68 | 0 |
 | 2018 | audiencia | 58 | 47 | 0 |
 | 2017 | workshop | 6 | 0 | 0 |
