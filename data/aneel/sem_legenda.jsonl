@@ -21,3 +21,4 @@
 {"id": "ahAI5yFD8oM", "motivo": "bloqueio", "info": "ConnectionError | ERROR: [youtube] ahAI5yFD8oM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube", "em": "2026-11-15"}
 {"id": "1jI56rPVCC0", "motivo": "bloqueio", "info": "ConnectionError | ERROR: [youtube] 1jI56rPVCC0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube", "em": "2026-11-15"}
 {"id": "fUhyu6iDKjk", "motivo": "bloqueio", "info": "ConnectionError | ERROR: [youtube] fUhyu6iDKjk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  http", "em": "2026-11-15"}
+{"id": "HfCicuM4blQ", "motivo": "sem_legenda", "info": "TranscriptsDisabled | WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtime", "em": "2026-11-16"}
