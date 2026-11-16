@@ -6,8 +6,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 |---|---|---|---|---|
 | sem data | workshop | 1 | 0 | 0 |
 | sem data | diretoria | 36 | 30 | 0 |
-| sem data | audiencia | 5 | 1 | 0 |
-| 2026 | workshop | 15 | 2 | 2 |
+| sem data | audiencia | 5 | 5 | 0 |
+| 2026 | workshop | 15 | 10 | 2 |
 | 2026 | diretoria | 46 | 45 | 11 |
 | 2026 | audiencia | 4 | 4 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |

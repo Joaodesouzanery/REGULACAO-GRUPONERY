@@ -2,17 +2,9 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **358** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 4; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **346** · sem /workshop: 1; sem /diretoria: 6; 2026/workshop: 5; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
-- 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas  – 1º dia – Parte I · https://www.youtube.com/watch?v=JbhIEPkMnPg · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-23 · workshop · 2nd Workshop on Tariff Modernization – Day 2 – Part II · https://www.youtube.com/watch?v=XlgJRHymPos · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-17 · workshop · 2º Workshop Modernização das Tarifas de Energia Elétrica No Brasil (17/04/2026) · https://www.youtube.com/watch?v=Du4XjhVM1Ug · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-16 · workshop · 2º Workshop Modernização das Tarifas de Energia Elétrica No Brasil (16/04/2026) · https://www.youtube.com/watch?v=oQtIWbZfVrw · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
-- 2026-02-04 · workshop · Workshop Nova Tarifa Branca · https://www.youtube.com/watch?v=kOG4SX-w_qg · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-02-03 · workshop · Workshops temáticos – Tarifa Branca (CP46/25): Debate sobre importância e estrat · https://www.youtube.com/watch?v=Q4pEA3HzWXo · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-29 · workshop · Workshop Nova Tarifa Branca · https://www.youtube.com/watch?v=22OsUKmtG4c · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-28 · workshop · Workshops temáticos – Tarifa Branca (CP46/25): Encontro com associações setoriai · https://www.youtube.com/watch?v=5Dyco4-fQpA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-01-22 · workshop · Workshops temáticos – Tarifa Branca (CP46/25): Consultorias setoriais especializ · https://www.youtube.com/watch?v=pt294vGKdwE · **ainda não baixado (rodar a coleta no Mac)**
@@ -354,10 +346,6 @@ Total: **358** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 4; 2026/w
 - s/data · workshop · Workshop Plano Estratégico Quinquenal de Inovação (PEQuI) · https://www.youtube.com/watch?v=GJbeub9LJBk · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=_yV9mHlWd30 · **privado**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=Kpe5zLM_ImU · **privado**
-- s/data · audiencia · Audiência Pública nº 20/2022 - Orçamento da CDE · https://www.youtube.com/watch?v=reLLcXYWLa0 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública 15/2022 sobre micro e minigeração distribuída · https://www.youtube.com/watch?v=1rCxOSLqxDY · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública 018 2022 · https://www.youtube.com/watch?v=JQrBttEJM9I · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública 016 2022 · https://www.youtube.com/watch?v=7B2yXVD-RFQ · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · 2ª Reunião Pública Ordinária ANEEL · https://www.youtube.com/watch?v=sxsChN4J4Z0 · **legenda desativada/inexistente no YouTube**
 - s/data · diretoria · 25ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=RAkv2BTFm1k · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · 24ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=0Vnh3I6Avcc · **ainda não baixado (rodar a coleta no Mac)**
