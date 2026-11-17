@@ -2,25 +2,13 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **230** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **218** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 6; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
-- 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-27 · audiencia · Audiência Pública n° 17/2026 · https://www.youtube.com/watch?v=m-HkcZ1f6Jg · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-01 · workshop · Workshop sobre a Revisão da Resolução ANP nº 898/2022 · https://www.youtube.com/watch?v=4ACtvgbyFlc · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-01 · audiencia · Audiência Pública n° 13/2026 · https://www.youtube.com/watch?v=0SSGFydgAPQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-30 · workshop · Workshop Nova Carga do Programa Anual de Trabalho e Orçamento de Descomissioname · https://www.youtube.com/watch?v=ayuo2rrEbOk · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-29 · workshop · 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Ga · https://www.youtube.com/watch?v=lClsffpLdMc · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-24 · audiencia · Audiência Pública n° 15/2026 · https://www.youtube.com/watch?v=Uek4K_Md9z8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-08-12 · audiencia · Audiência Pública n° 09/2026 · https://www.youtube.com/watch?v=B9k1cgk8mwQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-08-03 · audiencia · Audiência Pública n° 10/2026 · https://www.youtube.com/watch?v=_jeN3BrA6hI · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-07-30 · audiencia · Audiência Pública n° 14/2026 · https://www.youtube.com/watch?v=j94DJg56zps · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-07-28 · audiencia · Audiência Pública n° 08/2026 · https://www.youtube.com/watch?v=5UjOGZUBZ2M · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-17 · audiencia · Audiência Pública nº 12/2026 - 2ª Sessão · https://www.youtube.com/watch?v=1E6Dd_EdDTA · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-16 · audiencia · Audiência Pública nº 12/2026 - 1ª Sessão · https://www.youtube.com/watch?v=g11XDFzFBB4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-16 · audiencia · Audiência Pública nº 06/2026 · https://www.youtube.com/watch?v=_JrEKCX69JM · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-27 · workshop · 1º Workshop sobre a Revisão da Resolução ANP nº 915/2023 · https://www.youtube.com/watch?v=uF6oFxWoiVs · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-21 · workshop · Workshop Dinamização da Fase de Exploração · https://www.youtube.com/watch?v=lwPUyYOcOG8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-28 · audiencia · Audiência Pública nº 05/2026 · https://www.youtube.com/watch?v=eNPmNXhf8LU · **ainda não baixado (rodar a coleta no Mac)**
