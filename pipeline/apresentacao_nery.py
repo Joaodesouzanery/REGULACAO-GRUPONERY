@@ -1,6 +1,6 @@
 """Apresentação institucional do Grupo Nery (comercial), no padrão visual dos relatórios, com densidade de whitepaper.
 Não cita ferramenta, repositório nem método de coleta. Uso: python3 pipeline/apresentacao_nery.py [--one-pager]
-Saída: proposta2/comercial/apresentacao_grupo_nery.pdf (ou one_pager_grupo_nery.pdf)."""
+Saída: documentos/comercial/apresentacao_grupo_nery.pdf (ou one_pager_grupo_nery.pdf)."""
 import sys, os, re, json, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import design as d, previsao
@@ -101,9 +101,9 @@ S.append(T("06 · Como trabalhar conosco", "Do primeiro contato ao pacote mensal
     foto=K["ferrovias"]["capa"], h_foto="auto")))
 S.append(d.fim("Fontes públicas das agências reguladoras. Estimativas são sempre identificadas como estimativas e não substituem orientação jurídica.", CONTATO, K["portos"]["divisores"][0]))
 
-out = "proposta2/comercial/apresentacao_grupo_nery"
+out = "documentos/comercial/apresentacao_grupo_nery"
 if "--one-pager" in sys.argv:
-    S = [S[0], S[4], S[11]]; out = "proposta2/comercial/one_pager_grupo_nery"
+    S = [S[0], S[4], S[11]]; out = "documentos/comercial/one_pager_grupo_nery"
 S = [so_nery(x) for x in S]
-os.makedirs("proposta2/comercial", exist_ok=True)
+os.makedirs("documentos/comercial", exist_ok=True)
 print(d.documento(S, "Grupo Nery · Inteligência regulatória", out), len(S), "páginas")

@@ -2,7 +2,7 @@
 name: conformidade-entrega
 description: Etapa 11 do montar-relatorio — checklist de conformidade antes de enviar qualquer PDF ao cliente (clientes/ fora do git, aviso de estimativa, fontes, marca do parceiro + Grupo Nery, autorização de divulgação, LGPD). Use sempre antes de enviar uma entrega ou publicar material derivado.
 ---
-Base: seção B de `proposta2/contrato/checklist_contrato.md` (itens 23–32). Resultado em `clientes/<x>/entrega.md`.
+Base: seção B de `documentos/contratos/checklist_contrato.md` (itens 23–32). Resultado em `clientes/<x>/entrega.md`.
 
 1. `git check-ignore -q clientes/ && echo ok` — se falhar, **parar**. `git status --porcelain | grep clientes/` deve vir vazio.
 2. Aviso de estimativa: toda página com previsão, placar ou prazo traz «inferência», backtest e n por diretor (agente **auditor-previsao**).

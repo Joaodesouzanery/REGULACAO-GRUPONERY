@@ -24,7 +24,7 @@
 19. Vigência de 12 meses, renovação, aviso de 30–60 dias, multa ≤ saldo, efeitos do término.
 20. Uso de marca/caso do cliente só com autorização escrita.
 21. Lei brasileira, mediação prévia, foro.
-22. Nenhum campo `{{ }}` sem preencher; valores batem com `contrato.json` e com `proposta2/modelo_comercial.md`.
+22. Nenhum campo `{{ }}` sem preencher; valores batem com `contrato.json` e com `documentos/produto/modelo_comercial.md`.
 22-A. Dados de processos do cliente: declaração de origem lícita; vedação de uso de credencial do cliente, de automação e de contorno de CAPTCHA (CP art. 154-A; Lei 12.737/2012; termos do SEI); sigilosos fora de divulgação/demo/terceiros; eliminação no término (LGPD arts. 15–16); LAI (Lei 12.527/2011) para o público.
 
 ## B. Cada entrega (PDF) antes de enviar

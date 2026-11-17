@@ -5,7 +5,7 @@ description: Particularidades para iniciar ANEEL ou ANP — vocabulário técnic
 ## Formatos
 - **ANEEL**: Reunião Pública Ordinária (**RPO**) semanal, extraordinárias e sessões de **sorteio** (não analisar sorteio como deliberação). Sem playlist: filtrar o canal pelo título `Reuni[ãa]o P[úu]blica (Ordin|Extraordin)`. Reuniões longas (3–8 h) com sustentação oral.
 - **ANP**: Reunião de Diretoria Colegiada (**RD**, numerada, ~nº 1193 em out/2026) — playlist «Reuniões de Diretoria»; o termo interno pode aparecer como **ROD** (ordinária) — aceitar `RD|ROD|Reuni[ãa]o de Diretoria`.
-- Ver `proposta2/novas_agencias.md` (canais, playlists, composição a confirmar).
+- Ver `documentos/produto/novas_agencias.md` (canais, playlists, composição a confirmar).
 
 ## Vocabulário (para prompts, temas e `revisor-energia`)
 - **RTP** revisão tarifária periódica; **RTA** reajuste tarifário anual; **RTE** revisão extraordinária.

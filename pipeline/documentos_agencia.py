@@ -1,5 +1,5 @@
 """Documento público da AGÊNCIA (não de empresa): panorama da diretoria, decisões, temas, prazos, relatorias, mandatos/vacância e transparência.
-Vai para agencias/<ag>/documentos/panorama_<ag>.pdf (pode ir ao GitHub: só dado público agregado). Uso: python3 pipeline/documentos_agencia.py <ag>"""
+Vai para documentos/agencias/<ag>/panorama_<ag>.pdf (pode ir ao GitHub: só dado público agregado). Uso: python3 pipeline/documentos_agencia.py <ag>"""
 import sys, os, re, json, datetime, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao, prazos, design as d
@@ -41,14 +41,14 @@ rows = [[f"<b>{E(p['nome'])}</b>" if p["tipo"] == "titular" else "<b>VAGO</b>", 
          E(p.get("substituto") or "")] for p in MA]
 cad = ld(f"{D}/cadeiras.json", {}).get("cadeiras")
 corpo = d.tabela(["Diretor(a)", "Cargo", "Mandato", "Substituto"], rows, ["30%", "26%", "22%", "22%"]) + d.conceito("", "Quem mais relatou (3 anos)", "", texto=d.barras([(k, v, "relatorias") for k, v in rel.most_common(7)]))
-S.append(d.tecnica("02 · Quem decide", "Diretoria hoje e relatorias", corpo, AG, "Composição conferida com o Diário Oficial (auditoria em docs/auditoria_mandatos.md)."))
+S.append(d.tecnica("02 · Quem decide", "Diretoria hoje e relatorias", corpo, AG, "Composição conferida com o Diário Oficial (auditoria em documentos/agencias/auditoria_mandatos.md)."))
 if cad: S.append(d.tecnica("02 · Quem decide", "Controle da diretoria por cadeira", d.quadro_mandatos(cad, ex=True), AG))
 S.append(d.divisor(3, SEC[2][0], "Quando um processo não sai na primeira sessão, quanto tempo ele fica na diretoria.", DIV[2]))
 S.append(d.tecnica("03 · Quanto tempo leva", "Prazo na diretoria por tipo de processo", d.barras([(t.replace("_", " "), e["mediana"], f'n={e["n"]} · faixa {e["p25"]:.0f}–{e["p75"]:.0f} dias') for t, e in est], lambda v: f"{v:.0f} dias")
                    + '<p style="font-size:8.5pt;color:#6B7780;margin-top:.15in">Mediana de dias entre a 1ª sessão e a decisão final, só para processos que passaram por mais de uma sessão (vista, retirada, diligência), desde 2018. Não inclui o tempo na área técnica antes da pauta.</p>', AG))
 S.append(d.divisor(4, SEC[3][0], "O que a agência publica e quão fácil é acompanhá-la.", DIV[3]))
 tr = [[E(x["nome"]), str(x["nota"]) + "/2", E(x["evidencia"][:260])] for x in TR.get("criterios", [])]
-S.append(d.tecnica("04 · Transparência", "Como acompanhar a agência", (d.tabela(["Critério", "Nota", "Evidência"], tr, ["24%", "8%", "68%"]) if tr else "<p>Avaliação em preparação.</p>"), AG, "Notas 0–2 por critério; comparativo entre agências em docs/transparencia_agencias.md."))
+S.append(d.tecnica("04 · Transparência", "Como acompanhar a agência", (d.tabela(["Critério", "Nota", "Evidência"], tr, ["24%", "8%", "68%"]) if tr else "<p>Avaliação em preparação.</p>"), AG, "Notas 0–2 por critério; comparativo entre agências em documentos/agencias/transparencia_agencias.md."))
 S.append(d.fim("Panorama feito só com fontes públicas: vídeos oficiais das reuniões, pautas, calendário e Diário Oficial. Contagens dependem da legenda automática e da análise item a item; a taxa de conferência cega está em agencias/" + AG + "/qualidade.", "Grupo Nery · inteligência regulatória", DIV[0]))
-os.makedirs(f"agencias/{AG}/documentos", exist_ok=True)
-print(d.documento(S, f"Panorama {NOME}", f"agencias/{AG}/documentos/panorama_{AG}"), len(S), "páginas")
+os.makedirs(f"documentos/agencias/{AG}", exist_ok=True)
+print(d.documento(S, f"Panorama {NOME}", f"documentos/agencias/{AG}/panorama_{AG}"), len(S), "páginas")

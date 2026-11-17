@@ -25,6 +25,6 @@
 - Bloco 7 (Comparativa): `pipeline/similares.py` (precedentes por texto + empresa) e `pipeline/mapa_tema.py` (como cada diretor vota num assunto).
 - Boletim (C): ANTT, ANM e ANTAQ de outubro/2026 gerados.
 - Marca: «[parceiro] em parceria com Grupo Nery» em todos os PDFs (`pipeline/marca.py`; `--parceiro logo.png`).
-- Contrato: modelos em `proposta2/contrato/` (para advogado) + skills `contratos`, `conformidade-entrega` e agentes `revisor-contratual`, `pesquisador-juridico`.
+- Contrato: modelos em `documentos/contratos/` (para advogado) + skills `contratos`, `conformidade-entrega` e agentes `revisor-contratual`, `pesquisador-juridico`.
 - Lembretes: `pipeline/pendencias.py` avisa pauta não publicada, alerta não gerado, boletim do mês, renovação/reajuste de contrato.
 - Fase 3: `prazos.py` (raio-X de prazo), `/cliente` (pacote mensal), entidades da ANTAQ, calendário da ANTT e da ANM, Whisper das antigas.

@@ -27,7 +27,7 @@ Documento interno do Grupo Nery. Os números de economia são **ilustrativos**: 
 - **Mapa de pessoas:** quem relata o quê em cada agência, superintendentes que instruem, trajetória entre agências.
 
 ## 4. Exemplos de valor
-Todos os exemplos, com o cálculo por serviço (premissas, faixa conservadora e otimista, preço de referência e como medir), estão em **`proposta2/comercial/exemplos_de_valor.md`**.
+Todos os exemplos, com o cálculo por serviço (premissas, faixa conservadora e otimista, preço de referência e como medir), estão em **`documentos/comercial/exemplos_de_valor.md`**.
 
 ## 5. Como provar o valor na venda
 - **Prévia completa gratuita** (10 a 12 páginas, dado público da própria empresa): diretoria sem desfoque, um tema analisado por inteiro, a agenda e um processo nos 8 blocos. A prévia curta, de 4 páginas, fica para o LinkedIn.

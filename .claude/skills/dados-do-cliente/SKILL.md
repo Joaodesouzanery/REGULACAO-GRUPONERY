@@ -4,7 +4,7 @@ description: Como receber, usar, proteger e apagar dados de processos que o clie
 ---
 # Dados do cliente
 
-Base contratual: `proposta2/contrato/clausulas_cliente_final.md` cláusula 14 e `dpa_lgpd.md` seção 6-A. **Nunca** usamos login/senha/certificado do cliente no SEI, nunca automatizamos acesso nem contornamos CAPTCHA (CP art. 154-A; Lei 12.737/2012). O cliente **envia**.
+Base contratual: `documentos/contratos/clausulas_cliente_final.md` cláusula 14 e `dpa_lgpd.md` seção 6-A. **Nunca** usamos login/senha/certificado do cliente no SEI, nunca automatizamos acesso nem contornamos CAPTCHA (CP art. 154-A; Lei 12.737/2012). O cliente **envia**.
 
 ## 1. Receber
 - Canal: e-mail corporativo ou planilha enviada pelo cliente (pedido na conversa mensal: skill `consulta-mensal-cliente`). Guarde o original em `clientes/<x>/<pasta>/recebidos/AAAA-MM-DD_<origem>.*`.

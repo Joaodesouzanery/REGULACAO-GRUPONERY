@@ -1,6 +1,6 @@
 ---
 name: prospeccao
-description: Monta e atualiza a lista de possíveis clientes do Grupo Nery (empresas reguladas, escritórios, associações, investidores) em proposta2/comercial/prospects.csv/.xlsx, com motivo de interesse tirado da base e contato institucional público. Use quando pedirem lista de clientes, prospecção ou leads.
+description: Monta e atualiza a lista de possíveis clientes do Grupo Nery (empresas reguladas, escritórios, associações, investidores) em documentos/comercial/prospects.csv/.xlsx, com motivo de interesse tirado da base e contato institucional público. Use quando pedirem lista de clientes, prospecção ou leads.
 ---
 # Prospecção
 1. Motivo de interesse: contagem de decisões da diretoria em que a empresa aparece (`itens.interessado`/assunto via `previsao.conn(ag)`); confira nomes ambíguos com `consulta.py busca`.

@@ -1,10 +1,10 @@
 ---
 name: contratos
-description: Gera a minuta de contrato (parceiro revendedor, termos do cliente final e DPA LGPD) a partir de clientes/<x>/contrato.json e dos modelos em proposta2/contrato/; confere com o agente revisor-contratual. Use quando pedir «contrato do parceiro X», «minuta para o cliente Y» ou ao fechar venda.
+description: Gera a minuta de contrato (parceiro revendedor, termos do cliente final e DPA LGPD) a partir de clientes/<x>/contrato.json e dos modelos em documentos/contratos/; confere com o agente revisor-contratual. Use quando pedir «contrato do parceiro X», «minuta para o cliente Y» ou ao fechar venda.
 ---
-**Sempre modelo para revisão por advogado; não é aconselhamento jurídico.** A minuta fica em `clientes/<x>/contrato/` (fora do git), nunca em `proposta2/`.
+**Sempre modelo para revisão por advogado; não é aconselhamento jurídico.** A minuta fica em `clientes/<x>/contrato/` (fora do git), nunca em `documentos/produto/`.
 
-1. Ler `proposta2/contrato/` (clausulas_parceiro.md, clausulas_cliente_final.md, dpa_lgpd.md, checklist_contrato.md) e `proposta2/modelo_comercial.md` (preços).
+1. Ler `documentos/contratos/` (clausulas_parceiro.md, clausulas_cliente_final.md, dpa_lgpd.md, checklist_contrato.md) e `documentos/produto/modelo_comercial.md` (preços).
 2. Ler ou criar `clientes/<x>/contrato.json`. Campos:
 ```json
 {"tipo": "parceiro|cliente_final",

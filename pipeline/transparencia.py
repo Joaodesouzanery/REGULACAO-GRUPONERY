@@ -1,5 +1,5 @@
 """Quadro comparativo de transparência e facilidade das agências (skill transparencia-agencias).
-Lê data/<ag>/transparencia.json (notas do agente auditor-transparencia) + números da base e escreve docs/transparencia_agencias.md.
+Lê data/<ag>/transparencia.json (notas do agente auditor-transparencia) + números da base e escreve documentos/agencias/transparencia_agencias.md.
 Uso: python3 pipeline/transparencia.py"""
 import os, json, glob, datetime, collections
 AGS = [("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq"), ("aneel", "data/aneel"), ("anp", "data/anp")]
@@ -37,5 +37,5 @@ for ag, d in AGS:
     t = ld(f"{d}/transparencia.json", {})
     if not t: continue
     L += [f"### {ag.upper()}"] + [f"- **{c['nome']}** ({c['nota']}): {c['evidencia']} — {c.get('fonte') or 'base interna'}" for c in t.get("criterios", [])] + ([f"- Observações: {t['observacoes']}"] if t.get("observacoes") else []) + [""]
-open("docs/transparencia_agencias.md", "w").write("\n".join(L) + "\n")
+open("documentos/agencias/transparencia_agencias.md", "w").write("\n".join(L) + "\n")
 print("\n".join(L[:12 + len(linhas)]))

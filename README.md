@@ -5,14 +5,15 @@ Base de reuniões públicas de diretoria (vídeo, legenda, análise item a item 
 ## Comece por aqui
 | Para | Abra |
 |---|---|
+| **Todos os documentos (comercial, agências, dashboard, contratos)** | `documentos/README.md` |
 | **Cada agência organizada (reuniões, diretores, temas, planilhas)** | `agencias/README.md` |
 | Estado atual, comandos e pendências | `docs/CONTINUAR.md` |
 | O que está completo por agência | `COMPLETUDE.md` · `COBERTURA.md` |
 | Lista de todos os scripts, skills e agentes | `docs/MAPA.md` |
 | Comandos do Mac (coleta) | `docs/MAC_COMANDOS.md` |
-| Produto e comercial | `docs/PRODUTO_CONSULTORIA.md` · `proposta2/` |
-| Mandatos e vacância (12 agências) | `docs/vacancia_12_agencias.md` · `data/mandatos_agencias.json` |
-| Transparência das agências | `docs/transparencia_agencias.md` |
+| Produto e comercial | `docs/PRODUTO_CONSULTORIA.md` · `documentos/produto/` |
+| Mandatos e vacância (12 agências) | `documentos/agencias/vacancia_12_agencias.md` · `data/mandatos_agencias.json` |
+| Transparência das agências | `documentos/agencias/transparencia_agencias.md` |
 
 ## Pastas
 | Pasta | Conteúdo |
@@ -21,7 +22,7 @@ Base de reuniões públicas de diretoria (vídeo, legenda, análise item a item 
 | `agencias/<ag>/` | árvore organizada gerada (`organizar.py`): reuniões por ano, diretores, temas, exportações, qualidade |
 | `pipeline/` | coleta (Mac), análise, indexação, consultas, relatórios em PDF (`design.py` é o padrão visual) |
 | `docs/` | roteiros, metodologia, marca (fotos e logos), leis |
-| `proposta2/` | propostas, contratos-modelo, marketing e comercial |
+| `documentos/produto/` | propostas, contratos-modelo, marketing e comercial |
 | `.claude/` | skills, agentes, comandos e hooks do Claude |
 | `clientes/` | **nunca vai ao GitHub** (dados de clientes) |
 
@@ -57,7 +58,7 @@ Limites: legenda automática erra nomes e números; falantes são inferidos pelo
 | `agencias/antt/`, `agencias/anm/` | Árvore organizada: reuniões por ano, diretores, temas, `mandatos/`, `qualidade/` (conferências e cruzamento com atas), `exportacoes/` (planilha `votos_diretores.xlsx`, CSVs, banco compactado), `apresentacao/relatorio.pdf` |
 | `agencias/VACANCIA_AGENCIAS.md` | Comparativo de vacância entre agências |
 | `pipeline/` | Coleta (Mac), análise, indexação, `consulta.py` (perfil, ficha, empresa, grupo, microtema, precedentes, relator, reincidência, sustentações, tramitação), `relatorio.py` (PDF de cliente), `relatorio_agencia.py` (apresentação), `monitor.py`, `painel_dados.py`, `checar_integridade.py` |
-| `proposta2/` | Proposta do 2º produto (Radar Regulatório): catálogo, modelo comercial, operação, roadmap — só documento |
+| `documentos/produto/` | Proposta do 2º produto (Radar Regulatório): catálogo, modelo comercial, operação, roadmap — só documento |
 | `.claude/skills/` | Regras de resposta com evidência, cuidados antes de commit, vacância, relatório de cliente, nova agência, lote do Mac, relatório visual, auditoria |
 | `.claude/agents/` | Subagentes: analista de reunião, analista de evento, conferente cego, auditor de respostas, revisor visual, pesquisador de mandatos |
 | `.claude/commands/` | Atalhos: `/pergunta`, `/relatorio`, `/lote-mac` |

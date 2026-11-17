@@ -9,5 +9,5 @@ Por quê: energia é o maior mercado e o leitor (diretor regulatório de distrib
 3. **Valores e números**: nunca da legenda sozinha; conferir em ata, voto escrito ou DOU, ou marcar «valor da legenda, não conferido».
 4. **Fotos**: só oficiais, maior versão disponível, recorte 800×800 com mínimo 600 px (skill `fotos-oficiais`); sem foto oficial → iniciais.
 5. **Mandatos** confirmados no DOU antes de qualquer entrega.
-6. Revisão humana: amostra mensal pelo advogado revisor (`proposta2/conhecimento.md`, seção 5).
+6. Revisão humana: amostra mensal pelo advogado revisor (`documentos/produto/conhecimento.md`, seção 5).
 Pronto quando: os quatro conferentes passaram e a taxa do lote está citada no bloco de cobertura.

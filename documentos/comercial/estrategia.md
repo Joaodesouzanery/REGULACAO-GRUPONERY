@@ -54,7 +54,7 @@ Com o ticket alto, a meta é menor e mais qualificada: 1 contrato novo por mês 
 | Qualidade auditada por agência | ANTT, ANM e ANTAQ feitas; ANEEL em curso | Publicar a taxa por agência na apresentação |
 | Caso de sucesso com números | CS Portos | Medir após 3 meses: eventos antecipados e horas poupadas |
 | Dashboard | Protótipo HTML | Usar como bônus e demonstração |
-| Contrato, DPA e termos | Modelos prontos (`proposta2/contrato/`) | Revisão de advogado |
+| Contrato, DPA e termos | Modelos prontos (`documentos/contratos/`) | Revisão de advogado |
 | CNPJ, nota fiscal e conta | A definir | Formalizar antes do 3º cliente |
 | Site ou landing page | Não existe | Uma página com a prévia gratuita e o formulário |
 | CRM | Planilha de prospects | Adicionar colunas de status, data e próximo passo |
