@@ -28,7 +28,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | workshop | 10 | 0 | 0 |
 | 2020 | diretoria | 26 | 26 | 0 |
 | 2020 | audiencia | 18 | 0 | 0 |
-| 2019 | diretoria | 42 | 4 | 0 |
+| 2019 | diretoria | 42 | 16 | 0 |
 | 2015 | audiencia | 1 | 0 | 0 |
 | 2013 | audiencia | 1 | 0 | 0 |
 | 2011 | diretoria | 1 | 0 | 0 |
@@ -219,6 +219,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-12-12 · Reunião de Diretoria Colegiada nº 1005 - 12 de dezembro de 2019 · `8kpKKICQT2w`
 - 2019-12-05 · Reunião de Diretoria Colegiada nº 1004 - 05 de dezembro de 2019 · `fc3t-ZV29vo`
 - 2019-11-28 · Reunião de Diretoria Colegiada nº 1003 - 28 de novembro de 2019 · `91LMHVUJrWg`
+- 2019-11-21 · Reunião de Diretoria Colegiada nº 1002 - 21 de novembro de 2019 · `pKFBj2lhhMk`
+- 2019-11-05 · Reunião de Diretoria Colegiada nº 1000 - 05 de novembro de 2019 · `DBR340X3aeo`
+- 2019-10-31 · Reunião de Diretoria Colegiada nº 999 - 31 de outubro de 2019 · `yZ9_mdcQM0A`
+- 2019-10-24 · Reunião de Diretoria Colegiada nº 998 - 24 de outubro de 2019 · `e7hgs_0ysOk`
+- 2019-10-17 · Reunião de Diretoria Colegiada nº 997 - 17 de outubro de 2019 · `auUIG_gF1aw`
+- 2019-10-09 · Reunião de Diretoria Colegiada nº 996 - 9 de outubro de 2019 · `ocZ4QnD1Nw0`
+- 2019-09-26 · Reunião de Diretoria Colegiada nº 994 - 26 de setembro de 2019 · `L_HUQPYz_j8`
+- 2019-09-19 · Reunião de Diretoria Colegiada Nº 993 - 19 de Setembro de 2019 · `wqTBUco86A4`
+- 2019-09-12 · Reunião de Diretoria Colegiada Nº 992 - 12 de Setembro de 2019 · `T6m4Z7qIeF4`
+- 2019-09-05 · Reunião de Diretoria Colegiada nº991 - 5 de setembro de 2019 · `kFGc0GzznpM`
+- 2019-08-31 · Reunião de Diretoria Colegiada nº 990 - 29 de agosto de 2019 · `4TfbcPrkv-k`
+- 2019-08-16 · Reunião de Diretoria Colegiada nº989 - 16 de agosto de 2019 · `KRynXtRpqJQ`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
@@ -238,4 +250,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
 -  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
 
-Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
