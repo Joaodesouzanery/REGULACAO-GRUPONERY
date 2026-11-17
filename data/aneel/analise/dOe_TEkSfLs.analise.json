@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "dOe_TEkSfLs", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md imprecisos); ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "16ª Reunião Pública Extraordinária de 2021",
+    "data": "2021-12-30",
+    "formato": "presencial/híbrido (procurador participa virtualmente)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Hélvio Guerra", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária com um único item: orçamento trienal 2022-2024 do ONS.", "Aprovado por unanimidade (proclamação do Diretor-Geral).", "No encerramento o Diretor-Geral anuncia a tarifa social automática a partir de 1º/01/2022 (cerca de 20 milhões de famílias)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:49",
+      "processo": "48500.003742/2015-xx (número parcialmente ilegível na legenda)",
+      "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+      "assunto": "Resultado da Consulta Pública nº 70/2021 e aprovação do orçamento do ONS para o ciclo trienal janeiro/2022 a dezembro/2024, no montante de R$ 2,391 bilhões",
+      "tema": ["CDE e encargos setoriais", "regulação normativa (consulta pública, REN 780/2017)", "institucional (ONS)", "transmissão (TUST como fonte de custeio)"],
+      "relator": "Elisa Bastos",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relatora aprova integralmente o orçamento do ONS (R$ 2,391 bi, 2022-2024), divergindo da área técnica (SFF), que recomendava glosa de cerca de R$ 29 milhões em pessoal pela mediana de mercado; custo de pessoal em ~108% da mediana, menor que no ciclo anterior (tolerância de 120%). Determina que o ONS automatize o processo de orçamentação com rastreabilidade e acesso remoto da SFF e que a pesquisa salarial do ciclo 2025-2027 traga dados quantitativos de remuneração e benefícios. Carteira de projetos passa a ser alterada por aprovação do Conselho de Administração do ONS. Contribuição do sindicato dos urbanitários do DF sobre revisão da REN 780 não acatada neste processo. Houve apresentação da SFF (superintendente Camila) e manifestação da Procuradoria sobre liminares do ONS contra glosas de prestações de contas anteriores.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova o orçamento integralmente", "ts": "0:08:46", "justificativa": "atividades do ONS têm particularidades que dificultam comparação direta com o mercado; comparação com o ciclo 2019-2021 mostra esforço de eficiência; proposta atende prudência e eficiência", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:17:46", "justificativa": "destaca a importância da divergência que levou à consulta pública de 10 dias e permitiu aprovar o orçamento ainda em 2021; concorda que a REN 780 precisa ser revista", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (concordância antecipada)", "ts": "0:52:50", "justificativa": "ressalva de forma: a pesquisa salarial qualiquantitativa determinada em 2019 chegou só em 9/12 e o relator original da determinação não foi consultado; pede gatilhos na revisão da REN 780, preocupa-se com remanejamento de rubricas e aumento de serviços de terceiros", "tom": "crítico quanto ao processo, favorável ao voto", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:04:39", "justificativa": "parabeniza a relatora e a SFF; processo histórico por aprovar orçamento dentro do ano", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (Diretor-Geral; proclama unanimidade)", "ts": "1:17:46", "justificativa": "reforça modicidade tarifária e regulação por incentivos; registra desconforto de Sandoval com a segunda exceção à regra de 100% da mediana (120% antes, 108% agora) e espera seguir a REN 780 no próximo ciclo; atraso decorreu de informação enviada pelo ONS só em dezembro", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática confunde ONS com INSS/MS/Mel e erra nomes (diretor Efrain aparece como Efraim/Train; Elisa como Eliza); número do processo termina em 2015 mas o sufixo está ilegível.",
+    "Rótulos de falantes do .md estão imprecisos; a abertura menciona 'diretor Elisa' e quórum de quatro, mas pelas falas e pelo anúncio final havia cinco diretores (Pepitone, Sandoval, Elisa, Hélvio, Efrain); presença de Efrain e Pepitone inferida das falas.",
+    "Voto de Elisa Bastos: ts é do início da leitura do voto; dispositivo lido por volta de 0:50.",
+    "Votos individuais 'acompanho' (1:17:46) sem nomes na legenda: atribuídos pela proclamação de unanimidade; ts de Hélvio, Sandoval e Efrain referem-se às suas falas de discussão; confiança media onde aplicável.",
+    "Hélvio Guerra foi chamado de «diretor Elvis» pela legenda; identificado pelo contexto (autor da divergência de 23/11 que abriu a consulta pública).",
+    "Nº de votos = 5 = presentes; nenhum impedido."
+  ]
+}

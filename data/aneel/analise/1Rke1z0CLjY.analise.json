@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "video_id": "1Rke1z0CLjY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "40ª Reunião Pública Ordinária (Parte 2, sessão da tarde)",
+  "data": "2018-10-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "diretor não identificado"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão da tarde só com os itens remanescentes 1 e 5 da pauta; quórum de três diretores, segundo a abertura.",
+   "Sandoval Feitosa abre, relata os dois itens e proclama o resultado; Rodrigo Limp é citado nominalmente; o terceiro diretor, que comenta o item 1, não é identificável pela legenda."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:21",
+   "processo": "48500.004977/2018-29",
+   "interessado": "Boa Vista Energia S.A. (Roraima, sistema isolado)",
+   "assunto": "Reajuste tarifário anual de 2018 da Boa Vista Energia, a vigorar a partir de 1º de novembro de 2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição",
+    "CDE e encargos setoriais",
+    "sistema isolado / linha Manaus-Boa Vista"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste médio de 38,5% (37,03% AT; 38,90% BT), fixa as tarifas e homologa CDE mensal de R$ 965.234,17 a ser repassado pela CCEE. Compra de energia pesa cerca de 19,6 p.p.; diferimento de 2017 (R$ 55 mi) incluído.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:10:36",
+     "justificativa": "aplica as portarias MME 388/425 de 2016; ACR médio 36,7% maior; destaca que a falta da interligação eleva o custo e que a falha não é do concessionário nem do regulador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:24:52",
+     "justificativa": "comenta que o custo de energia (cerca de 18 p.p.) decorre do sistema isolado e da falta da linha Manaus-Boa Vista (licenciamento, terras indígenas), e que o ICMS de Roraima é dos menores",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:29",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:36:41",
+   "processo": "48500.000306/2015-46",
+   "interessado": "Agência (SRM); contribuições do grupo EDP e Energias do Brasil/Taesa",
+   "assunto": "Resultado da Audiência Pública 39/2018: estrutura de capital na metodologia da receita teto dos leilões de transmissão (revisão do submódulo 9.8 do PRORET)",
+   "tema": [
+    "transmissão (RAP, leilões)",
+    "regulação normativa (audiência pública)",
+    "institucional/TCU",
+    "leilões (transmissão)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova revisão 1.2 do submódulo 9.8 com estrutura de capital por dados de empresas de capital aberto de transmissão, limitada por dívida líquida/EBITDA regulatório de 2 a 3 vezes (capital de terceiros entre 30% e 45%), atendendo ao Acórdão TCU 1.039/2018.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:37:22",
+     "justificativa": "mudança metodológica pontual; o TCU determinou avaliar alternativas, e a agência avaliou; não vê exacerbação de competência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator, com ressalva",
+     "ts": "0:51:26",
+     "justificativa": "concorda com o voto, mas se preocupa com determinações do TCU sobre custo de capital: leilões vazios no passado, melhora recente com competição; teme apertar a receita teto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:55:00",
+     "justificativa": "preocupa-se com o TCU sobre o manto da austeridade; a ANEEL detém o melhor conhecimento para regular a eficiência dos leilões; cita caducidade e a Eletrosul",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes dos diretores quase não aparecem; o terceiro diretor presente não pôde ser identificado (marcado como não identificado). O rótulo inicial de falante (Ricardo Tili) é inferência errada para 2018.",
+  "A fala do item 5 que cita «doutor Rodrigo» é de outro diretor, que se dirige a Limp; a atribuição da primeira fala a Limp é inferida.",
+  "Números do voto (processo, valores, percentuais) podem conter erros de legenda; número do processo do item 1 lido como 48500.004977/2018-29 e do item 5 como 48500.000306/2015-46, ambos incertos.",
+  "Resultados vêm da proclamação de Sandoval Feitosa: unanimidade nos dois itens. Parte 1 da reunião (manhã) não está neste vídeo.",
+  "Ts dos votos de quem apenas acompanha são aproximados."
+ ]
+}

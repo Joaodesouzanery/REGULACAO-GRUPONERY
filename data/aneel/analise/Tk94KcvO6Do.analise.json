@@ -1,0 +1,34 @@
+{
+  "meta": {"video_id": "Tk94KcvO6Do", "fonte": "legenda automática do YouTube; falantes inferidos (os rótulos do .md estão errados); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª Extraordinária de 2020", "data": "2020-06-25", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Júlio César Rezende Ferraz", "Elisa Bastos", "Sandoval Feitosa"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores declarado na abertura; único item da pauta.", "Sandoval Feitosa perdeu a conexão durante a votação (problema de roteador), foi chamado sem sucesso e votou ao voltar, após a proclamação parcial do Diretor-Geral.", "Sustentações orais: senador Rodrigo Pacheco (consumidores de Minas Gerais) e Alexandre Ramos Peixoto (Cemig). Parecer 188/2020 da Procuradoria Federal."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:13",
+      "processo": "48500.007033/2019-94", "interessado": "Cemig Distribuição S.A. (Minas Gerais)",
+      "assunto": "Reajuste tarifário anual de 2020 da Cemig Distribuição, a vigorar a partir de 28/05/2020, com discussão sobre incluir componente financeiro negativo de cerca de R$ 800 milhões (depósitos judiciais levantados da ação PIS/Cofins sobre ICMS) para os consumidores",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA)", "CDE e encargos setoriais", "comercialização", "recursos administrativos"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por maioria; vencido o relator Efrain Cruz; prevaleceu a Nota Técnica 70 da SGT (efeito médio de 4,27%, 6,19% alta tensão, 3,43% baixa tensão), sem o componente de R$ 800 milhões",
+      "resumo_voto": "Relator propôs incluir componente financeiro extraordinário de cerca de R$ 800 milhões (depósitos judiciais levantados em 13/02/2020, natureza distinta de crédito tributário, conforme Parecer 188/2020 da Procuradoria), levando o efeito médio a -0,51% (alta tensão +1,37%, baixa tensão -1,33%). Júlio Ferraz divergiu: tratar o tema no processo da Tomada de Subsídios 5/2020 para dar tratamento isonômico a todas as distribuidoras; homologou-se o reajuste conforme NT 70 (4,27%). Sustentação do senador Rodrigo Pacheco a favor de usar os créditos para zerar o reajuste; Cemig (Alexandre Ramos) contra tratar o tema no reajuste, por segurança jurídica.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, vota por incluir componente financeiro de R$ 800 milhões (efeito médio -0,51%); vencido", "ts": "1:26:00", "justificativa": "valor dos depósitos judiciais tem natureza distinta de crédito tributário, já está no caixa da Cemig, equilíbrio econômico é via de mão dupla, modicidade tarifária em momento de pandemia; não prejudica a Tomada de Subsídios 5; capacidade de absorção da distribuidora e evitar efeito rebote", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "diverge do relator; vota pelo reajuste conforme NT 70 da SGT (sem o componente); voto vencedor", "ts": "2:02:29", "justificativa": "tema deve ser tratado de forma coerente e isonômica para todas as distribuidoras no processo da Tomada de Subsídios 5/2020, que está com o relator; informação ainda incompleta sobre outras empresas; questão de conveniência, não de legalidade", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha a divergência de Júlio Ferraz (NT 70)", "ts": "2:03:43", "justificativa": "levantou dúvidas sobre risco de reversão do valor, efeito sobre a saúde financeira da empresa e uso alternativo da conta Covid; preferiu manter o assunto no processo da tomada de subsídios", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha a divergência (NT 70) e proclama por maioria", "ts": "2:08:20", "justificativa": "reconhece o empenho do relator com a modicidade tarifária, mas defende tratamento isonômico entre empresas no processo sorteado ao relator, com celeridade", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha Júlio Ferraz (NT 70); votou após reconectar", "ts": "2:10:27", "justificativa": "procedimento do rito do processo tarifário; ressalvou que não ouviu toda a argumentação e que lhe causou surpresa o recurso estar na empresa", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros; os rótulos de falantes do .md (Sandoval Feitosa, Ricardo Tili) não são confiáveis; relator identificado pelo contexto como Efrain Cruz (legenda: dr freire pereira da cruz).",
+    "Voto de Elisa Bastos: a fala «eu acompanho o voto do diretor Júlio» aparece sem nome na legenda; atribuída pela sequência (Júlio, depois Elisa, Pepitone, Sandoval) e pela fala da própria diretora sobre a tomada de subsídios; confiança alta, mas ts aproximado.",
+    "Nº de votos = 5 = presentes. Falta de nome na fala de Sandoval (2:09:50 a 2:11:00) também inferida pela narrativa de reconexão.",
+    "Valores citados (R$ 800 milhões, R$ 1,2 bilhão, R$ 6 bilhões) podem estar errados na legenda; número do processo da legenda: 48500.007033/2019-94 (provável)."
+  ]
+}

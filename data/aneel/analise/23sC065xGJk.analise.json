@@ -1,0 +1,300 @@
+{
+ "meta": {
+  "video_id": "23sC065xGJk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13",
+  "data": "2021-04-20",
+  "formato": "videoconferência (reunião pública ordinária virtual)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão virtual de cerca de 3h50 (encerrada às 3:49:06 do vídeo); sustentações orais nos itens 17 (IDEC) e 26 (Gol Energy).",
+   "Ata da 12ª reunião aprovada por unanimidade no início.",
+   "Comunicados: audiências públicas 7 e 8/2021 (revisões tarifárias Copel e outra distribuidora), CP 7/2021 (segurança cibernética) e tomada de subsídios 5/2021.",
+   "Hélvio Guerra teve problemas de conexão durante o item 17 e não votou nele."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:04",
+   "processo": "(bloco de itens sem destaque; números dos processos não identificáveis na legenda)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens aprovados em conjunto (itens de pauta sem debate; votos disponibilizados no site desde a quinta-feira anterior); itens 19 e 29 do bloco com pedido de vista de Sandoval Feitosa",
+   "tema": [
+    "bloco de itens",
+    "pedido de vista"
+   ],
+   "relator": "vários (não identificados)",
+   "resultado": "demais itens do bloco aprovados por unanimidade; itens 19 e 29 com pedido de vista do diretor Sandoval Feitosa",
+   "resumo_voto": "Pauta de 37 itens; bloco apreciado de início. Sandoval solicitou vista dos itens 19 e 29 (a legenda traz também a proclamação citando vistas do item 19 e do item 29); os demais itens do bloco foram aprovados por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista dos itens 19 e 29; aprova os demais itens do bloco",
+     "ts": "0:08:04",
+     "justificativa": "pedido de vista de dois itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:08:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:08:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:08:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama unanimidade",
+     "ts": "0:08:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:50",
+   "processo": "48500.005321/2019-42 (número parcial na legenda)",
+   "interessado": "State Grid Brazil Holding S.A. (proponente em 2º lugar no lote 1); SCL/B3",
+   "assunto": "Homologação final do resultado e adjudicação do objeto do Leilão nº 1/2020-ANEEL (transmissão): lote 1 adjudicado à State Grid Brazil Holding S.A. após inabilitação da primeira colocada (11 lotes, 30 anos de concessão; lotes 2 a 11 já homologados)",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (outorgas)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (homologação e adjudicação do lote 1 à State Grid)",
+   "resumo_voto": "Em 17/12/2020 o leilão arrematou os 11 lotes (1.959 km de linhas, 6.420 MVA); lote 1 teve a vencedora inabilitada, convocou-se a segunda colocada (State Grid), que entregou a documentação e foi habilitada (nota técnica 8); sem recursos contra a decisão da SCL. Procuradoria atestou a viabilidade jurídica da homologação.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova homologação e adjudicação do lote 1 à State Grid",
+     "ts": "0:14:45",
+     "justificativa": "sem recursos contra a habilitação; procuradoria atestou a juridicidade; parabenizou a equipe da SCL",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:15:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:15:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:15:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:15:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:15:45",
+   "processo": "48500.005218/2020-06 (número parcial na legenda)",
+   "interessado": "SRD, SMA e SGE da ANEEL; consumidores, distribuidoras, geradores (usuários do serviço de distribuição)",
+   "assunto": "Abertura de consulta pública (23/04 a 22/06/2021, 60 dias, com duas audiências públicas virtuais em 19/05 e 16/06) sobre a consolidação dos atos normativos de direitos e deveres do usuário do serviço público de distribuição e transferência de ativos de iluminação pública (Decreto 10.139/2019, revisaço), com relatório de AIR",
+   "tema": [
+    "regulação normativa (consulta/audiência pública, AIR, consolidação)",
+    "distribuição de energia (direitos do usuário)",
+    "tarifas (correção monetária IPCA)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (instauração da consulta pública); sem sustentação oral",
+   "resumo_voto": "Consolidação de 19 atos em resoluções normativas, com revogação de 61/62 resoluções e redução de cerca de 500 para 285 páginas (43%); IPCA no lugar do IGP-M como índice de correção de contas em atraso; devolução em dobro conforme STJ; prazo de 5 anos para ressarcimento de danos; conexão em meio eletrônico; Casa Verde e Amarela; relator acrescentou na sessão a gratuidade da conexão (ramal, kit interno e padrão de entrada) para escolas e postos de saúde públicos rurais. Apresentação técnica de Nara Rúbia e Daniel Bego (SRD).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova instauração da consulta pública",
+     "ts": "1:05:00",
+     "justificativa": "simplificar e dar clareza aos direitos e deveres dos usuários; propõe gratuidade a escolas e postos de saúde rurais; IPCA padronizado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação); elogiou o trabalho",
+     "ts": "1:05:38",
+     "justificativa": "elogiou a qualidade da apresentação e a importância da consolidação (simplificação, clareza, eliminação de contradições); perguntou sobre o índice IPCA",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação); associou-se aos elogios",
+     "ts": "1:05:43",
+     "justificativa": "associou-se aos elogios; destacou o envolvimento dos consumidores e conselhos de consumidores",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:05:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:05:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:06:44",
+   "processo": "48500.002842/2021-80 (número parcial na legenda)",
+   "interessado": "Santa Vitória do Palmar Energias Renováveis S.A. (empresas 1 a 12; usinas eólicas em Santa Vitória do Palmar/RS); sustentação oral do IDEC (Clauber Leite); Procuradoria Federal (Luiz Eduardo)",
+   "assunto": "Requerimentos administrativos para apuração de restrição de operação (constrained-off) de usinas eólicas, nas parcelas de energia do ambiente regulado (ACR) e livre (ACL), sob decisão judicial do TRF-1 com prazo até 21/04/2021 e multa diária",
+   "tema": [
+    "comercialização (constrained-off, ESS, CCEE)",
+    "outorgas de geração (eólica)",
+    "encargos setoriais (ESS)",
+    "regulação normativa (REN 927/2021)",
+    "interessado: Santa Vitória do Palmar; IDEC (sustentação oral)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por maioria o provimento parcial: ACR tratado conforme a REN 927/2021; ACL negado provimento por falta de regra. Voto original do relator (provimento integral, com ajuste financeiro via ESS no ACL) não prevaleceu",
+   "resumo_voto": "O relator votou por reconhecer o direito do ACR pela REN 927/2021 e do ACL com ajustes financeiros via mecanismo auxiliar de cálculo (MAC) a débito do mercado de curto prazo, por existirem as bases legais (Lei 10.848, art. 1º, par. 10, incluído pela Lei 13.360), a REN 637/2014 e decisões anteriores favoráveis. Sandoval divergiu: a lei de 2016 exige regra de comercialização aprovada; precedentes de primeira instância; um indeferimento na máxima instância. Procuradoria: normas de eficácia limitada, exigem resolução normativa com audiência pública. IDEC (sustentação): risco de subsídio cruzado com consumidores cativos pagando cerca de 70% do ESS. Resultado: ACR aplica-se a REN 927/2021; ACL negado por falta de regra, com redação final em 48 horas.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, voto pelo provimento integral (ACR pela REN 927/2021 e ACL com ajustes via MAC); manteve o voto; vencido na parcela do ACL",
+     "ts": "2:24:31",
+     "justificativa": "há previsão legal (Lei 10.848/Lei 13.360) e precedentes; segurança jurídica e coerência; risco do ACL e ressarcimento via ESS; cálculo possível; mudança de entendimento não se sustenta; admite que a regra pode ser tratada no recurso futuro",
+     "tom": "firme e extenso",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge do relator; provimento parcial (ACR pela REN 927; ACL negado)",
+     "ts": "3:24:29",
+     "justificativa": "a lei de 2016 condiciona o ressarcimento a regras de comercialização aprovadas, que não existem para o ACL; a REN 637 é de 2014 e a lei posterior; subsídio cruzado; precedente de máxima instância negou",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "diverge do relator; provimento parcial (ACR pela REN 927; ACL negado)",
+     "ts": "3:24:10",
+     "justificativa": "sem conforto em acompanhar: risco de subsídio cruzado, ACR e ACL pagariam o mesmo; a regra do MAC difere da REN 927 em prejuízo da carga (expurgo de 78 horas); faltou regra",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "diverge do relator; provimento parcial (ACR pela REN 927; ACL negado); proclama por maioria",
+     "ts": "3:26:23",
+     "justificativa": "norma ineficaz sem procedimento de consulta pública (parecer da Procuradoria); não há previsão regulatória nem em contrato de concessão; não decidir contra legem",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (queda de conexão); na discussão disse estar inclinado a não acompanhar o relator por ausência de norma e cogitou pedir vista",
+     "ts": "2:52:00",
+     "justificativa": "reconheceu a densidade do voto do relator, mas considerou que na ausência de regulamentação específica o regulador deve ser conservador",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "3:29:06",
+   "processo": "48500.000596/2017-11 (número parcial na legenda)",
+   "interessado": "Gol Energy Comercializadora de Energia Ltda. (Goiânia/Água Energy na legenda; nome incerto); CCEE; sustentação oral de João Gabriel Pimenta (advogado da recorrente); Procuradoria Federal",
+   "assunto": "Pedido de reconsideração contra o Despacho 1.506/2020 (que negou medida cautelar e, no mérito, o pedido de recontabilização do mês de junho de 2019 para registrar contrato, evitando penalidades por insuficiência de lastro dos termos de notificação 1416, 1599 e 1742/2019 aplicados pela CCEE)",
+   "tema": [
+    "comercialização (CCEE, recontabilização, lastro)",
+    "fiscalização e sanções (penalidade por insuficiência de lastro)",
+    "recursos administrativos",
+    "interessado: Gol Energy; sustentação oral"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes: conhecer do pedido de reconsideração e, no mérito, negar provimento",
+   "resumo_voto": "Contrato celebrado após o fechamento do mês; a recorrente alegou erro de prazo na CCEE e penalidade desproporcional (cerca de R$ 1 milhão) e pediu alternativamente mudança do mês ou parcelamento; Procuradoria opinou pela aplicação fiel dos procedimentos de comercialização, sem flexibilização do registro de contratos. A relatora leu apenas o dispositivo (votos disponíveis desde a quinta-feira anterior).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e nega provimento ao pedido de reconsideração",
+     "ts": "3:48:04",
+     "justificativa": "procedimentos de comercialização são precisos quanto ao registro de contratos e não podem ser flexibilizados (parecer da Procuradoria)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:48:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:48:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (provavelmente ainda fora da conexão; proclamação diz unanimidade dos votantes)",
+     "ts": "3:48:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama por unanimidade dos votantes",
+     "ts": "3:48:47",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "Item 11 da pauta (processo não identificado)",
+   "relator": "não identificado",
+   "motivo": "retirado a pedido",
+   "ts": "3:28:59"
+  },
+  {
+   "item": "Itens 2 a 9, 12 a 16 e 18 da pauta (processos tarifários: revisões e reajustes de distribuidoras com vigência em 22/04, e recursos/pedidos de reconsideração de transmissoras, itens 13 a 15)",
+   "relator": "vários",
+   "motivo": "retirados de pauta por questões operacionais ligadas a acordo com os segmentos de geração, transmissão e distribuição pela modicidade tarifária; reunião extraordinária convocada para quinta-feira 22/04/2021 às 8h30",
+   "ts": "0:04:06"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa (nomes e números distorcidos); números de processo parciais; interessado do item 26 aparece como Gol Energy/Goiânia/Água Energy, nome incerto.",
+  "Votos de seguidores aproximados e atribuídos pela ordem usual e pelas proclamações; nos itens 1, 10 e 26 as falas «acompanho» não trazem nome na legenda, confiança baixa.",
+  "A pauta tinha 37 itens; a numeração do bloco (itens 19 e 29, pedido de vista) é imprecisa; autoria do pedido de vista atribuída a Sandoval Feitosa pela proclamação.",
+  "No item 17 a atribuição dos votos finais é incerta (legenda confusa entre 3:24 e 3:27): Efrain Cruz mantém voto de provimento integral (vencido); Elisa Bastos, Sandoval Feitosa e André Pepitone votam pelo provimento parcial; Hélvio Guerra perdeu a conexão e não votou. Proclamação fala em maioria sem citar o nome do vencido.",
+  "Item 26: proclamação fala em unanimidade dos votantes; Hélvio Guerra possivelmente ausente da conexão nesse momento (não confirmado).",
+  "Contagem de votos: item 1, 10 e bloco com 5 presentes; item 17 com 4 votos e Hélvio não votou; item 26 com 4 votos e Hélvio não votou.",
+  "Item 10: autoria dos comentários (elogios, pergunta sobre IPCA) atribuída a Hélvio Guerra e Efrain Cruz com confiança baixa."
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "meta": {
+  "video_id": "dP-Kr0iiWzE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4",
+  "data": "2021-02-09",
+  "formato": "reunião pública ordinária (videoconferência), Parte 2 (turno da tarde)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2: sessão da tarde, três itens (consulta pública créditos PIS/Cofins, consulta pública revisão tarifária Celpe, cautelar Sol Maior).",
+   "Itens 1 e 2 aprovados por unanimidade; item 3 com pedido de vista.",
+   "Presença deduzida dos relatores, falas e menções; sem chamada nominal na parte 2."
+  ]
+ },
+ "itens": [
+  {
+   "id": "P2-1",
+   "ts": "0:00:00",
+   "processo": "48500.001747/2020 (número lido pela legenda, incerto)",
+   "interessado": "Distribuidoras de energia elétrica (créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo); SFF, SRM, SGT, SMA; Procuradoria",
+   "assunto": "Abertura de consulta pública para a metodologia de devolução aos consumidores dos créditos tributários obtidos pelas distribuidoras em ações judiciais sobre a exclusão do ICMS da base de cálculo do PIS/Pasep e da Cofins",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "regulação normativa (consulta pública)",
+    "créditos tributários PIS/Cofins ICMS",
+    "distribuição"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: consulta pública de 11/02 a 29/03 (46 dias, conforme proclamação); em situações excepcionais com risco de aumento tarifário expressivo, até 20% do total envolvido nas ações judiciais pode ser usado antes do fim da CP",
+   "resumo_voto": "Relator propõe CP sobre devolução de cerca de R$ 50,1 bilhões em créditos; a área técnica (SFF, apresentação de Maria Luiza) propõe devolução por desconto direto na fatura conforme o aproveitamento efetivo dos créditos, sem prazo máximo próprio. Durante a leitura o relator ajustou o voto, mantendo o limite de 20% e retirando o item B (limite ao total já compensado na Receita). Procuradoria (Eduardo Ramalho) ressalvou questões jurídicas (prescrição, prêmio de performance) a serem tratadas após a CP; houve apresentação técnica sem sustentação oral externa.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (leitura do voto com ajuste)",
+     "ts": "0:35:27",
+     "confianca": "alta",
+     "justificativa": "consumidor é o titular do crédito; abertura da CP para definir quanto, como e em quanto tempo devolver; modular uso antecipado até 20%"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (concordância integral na discussão; também na proclamação)",
+     "ts": "0:41:36",
+     "confianca": "media",
+     "justificativa": "parabeniza o relator; ressalta atenuação tarifária no processo da Celpe, coordenação com Receita Federal e judiciário para habilitar créditos"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (comentário na discussão; pela proclamação)",
+     "ts": "0:41:46",
+     "confianca": "media",
+     "justificativa": "processo maduro para discussão com a sociedade; tomada de subsídio e áreas técnicas debateram bastante"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (comentário na discussão; pela proclamação)",
+     "ts": "0:42:38",
+     "confianca": "media",
+     "justificativa": "pressão tarifária em 2021 (IGP-M, dólar, transmissão, hidrologia); devolução de créditos ajuda a modicidade tarifária; precedentes Cemig e EDP ES"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "P2-2",
+   "ts": "0:54:58",
+   "processo": "48500.004617/2020 e 48500.006051/2020 (números lidos pela legenda)",
+   "interessado": "Companhia Energética de Pernambuco (Celpe), grupo Neoenergia; Conselho de Consumidores",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 10/02 a 26/03/2021, reunião virtual em 11/03) sobre a proposta da 5ª revisão tarifária periódica da Celpe (vigência a partir de 29/04/2021) e os limites de DEC e FEC para 2022 a 2025",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição",
+    "regulação normativa (consulta pública)",
+    "qualidade (DEC/FEC)",
+    "conta covid"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes (proclamação)",
+   "resumo_voto": "Efeito médio proposto de 9,99% (13,79% era o índice inicial); usou-se o mercado de janeiro e diferimento de 2 pontos percentuais (cerca de R$ 110 milhões) condicionado à expectativa de habilitar créditos de PIS/Cofins na Receita Federal; conta covid reduz 8,36%. Apresentação técnica da SGT (Marcelo). Procuradoria opina pela legitimidade do ato. Pepitone perguntou sobre habilitação dos créditos durante a CP.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:26:09",
+     "confianca": "alta",
+     "justificativa": "reduzir o índice com mercado de janeiro, diferimento e articulação com Receita Federal, Ministério da Economia e bancada de Pernambuco"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação; discussão com pergunta e elogios)",
+     "ts": "1:27:03",
+     "confianca": "media",
+     "justificativa": "pergunta sobre uso de mais créditos se habilitados durante a CP; compromisso com consumidor de Pernambuco"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação; elogio ao relator na discussão)",
+     "ts": "1:29:40",
+     "confianca": "media",
+     "justificativa": "elogia articulação do relator que reduziu o impacto tarifário (diz que completa três meses no colegiado)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:37:52",
+   "processo": "48500.004104/2017 (número lido pela legenda)",
+   "interessado": "Sol Maior 2 SP Geradora de Energia S.A. (UFV Sol Maior 2; controladora Lyon Infraestrutura; antiga controladora Premier Rio Energias Renováveis; Leilão de Energia de Reserva 2015)",
+   "assunto": "Pedido de medida cautelar da Sol Maior para afastar os efeitos da inadimplência (Cadin) pelo não recolhimento da multa editalícia (R$ 205.790, Despacho 2.400/2020), pendente pedido de reconsideração",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "leilões (reserva)",
+    "outorgas de geração (solar fotovoltaica)",
+    "recursos administrativos (medida cautelar)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (diretor não identificado com segurança); sem decisão na sessão",
+   "resumo_voto": "Relatora vota por conhecer e conceder a cautelar: afastar cautelarmente a multa até o trânsito do pedido de reconsideração, afastar consequências do não recolhimento e determinar à SAF a exclusão do Cadin (fumaça do bom direito e perigo de demora; risco de vencimento antecipado de debêntures). Debate: ressalvas de que a nova controladora assumiu os ônus e de que afastar a multa equivaleria a efeito suspensivo inexistente para multa editalícia; discussão sobre separar o Cadin da multa; procuradoria opina pela presunção de legitimidade do ato.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, concede a cautelar",
+     "ts": "1:49:47",
+     "confianca": "alta",
+     "justificativa": "fumaça do bom direito (mérito discutível, ofício enviado ao destinatário errado) e perigo de demora (Cadin, debêntures)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ressalvas na discussão (afastar a multa daria efeito suspensivo inexistente); voto final não identificado",
+     "ts": "1:52:29",
+     "confianca": "baixa",
+     "justificativa": "novo controlador assumiu ônus e bônus; risco de precedente para multas editalícias; vê adequado afastar efeitos do Cadin mas não a aplicação da multa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "ressalvas na discussão; voto final não identificado",
+     "ts": "1:59:15",
+     "confianca": "baixa",
+     "justificativa": "questiona se a decisão antecipa o mérito e se o pedido da empresa era afastar efeitos da inadimplência, não a aplicação da multa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o voto da relatora",
+     "ts": "2:09:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "mantém a decisão da unidade organizacional (diverge da relatora)",
+     "ts": "2:09:59",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "2:10:06",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números de processo (48500.001747, 004617, 006051, 004104) podem estar errados; id dos itens não confirmados com a pauta (parte 1 não lida), por isso P2-1, P2-2 e 8 (este dito como último da pauta).",
+  "Itens 1 e 2: as falas individuais de acompanhamento são poucas e sem nome; votos de Hélvio Guerra, Ricardo Tili (item 1) e Elisa Bastos, Ricardo Tili, Efrain Cruz (item 2) vêm só da proclamação, confiança baixa/média.",
+  "Item 1: Hélvio e Tili sem fala identificável; votos 'acompanho' em 0:54:00 não atribuíveis a nomes.",
+  "Item 8: três falas finais sem nome (acompanho a relatora; mantenho a decisão da unidade organizacional; peço vista) em 2:09:55 a 2:10:06. Sandoval e Hélvio fizeram ressalvas, mas não é possível atribuir com segurança quem diverge e quem pediu vista; Efrain Cruz, Ricardo Tili e André Pepitone não têm voto identificado no item 8.",
+  "Item 8: o comentário 'muito salutar o pedido de vistas' (2:10:12) é de diretor não identificado; o Diretor-Geral encerra a sessão em seguida.",
+  "A legenda cita 'Daniel' (provável 'a Aneel') e 'Rodrigo/André' de forma confusa; Diretor-Geral tratado como André Pepitone por ser chamado de Doutor André."
+ ]
+}

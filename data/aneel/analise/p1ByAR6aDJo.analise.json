@@ -1,0 +1,25 @@
+{
+  "meta": {"video_id": "p1ByAR6aDJo", "fonte": "legenda automática do YouTube; falantes inferidos; Parte 2 da 12ª RPO de 13/04/2021 (tarde)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "12", "data": "2021-04-13", "formato": "reunião pública ordinária (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Efrain Cruz (Diretor-Geral substituto) - não confirmado na legenda",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Elisa Bastos", "André Pepitone", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Sessão retomada à tarde com um único processo em pauta (pedidos de reconsideração contra a REN 895/2020 sobre repactuação do risco hidrológico), retirado de pauta pelo diretor Sandoval Feitosa (relator do voto-vista) após notificação do TCU.", "Sem deliberação de mérito; não houve votos."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:01",
+      "processo": "48500.000373/2019-94", "interessado": "Norte Energia S.A.; Santo Antônio Energia S.A.; Associação Brasileira de Energia Limpa (Abragel)",
+      "assunto": "Pedidos de reconsideração contra a Resolução Normativa 895/2020 (regulamenta art. 2º da Lei 14.052/2020, repactuação do risco hidrológico de geração - GSF)",
+      "tema": ["comercialização (risco hidrológico, GSF)", "recursos administrativos", "geração hidrelétrica", "institucional/TCU"],
+      "relator": "Sandoval Feitosa (voto-vista; relator original Efrain Cruz)", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Sandoval Feitosa retirou o processo para aguardar a análise do TCU, que notificou a diretoria na véspera questionando forma e conteúdo da decisão de 30/03 (Resolução 930, publicada no DOU no dia). Os demais diretores comentaram sem votar; Hélvio Guerra e André Pepitone elogiaram a decisão e a postura do TCU.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "retira o processo de pauta (relator do voto-vista)", "ts": "0:00:01", "justificativa": "aguardar conclusão da análise do TCU para ter segurança quanto ao conteúdo e à forma antes de deliberar; já sinalizava indeferimento dos pedidos", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["48500.000373/2019-94: pedidos de reconsideração contra REN 895/2020 (risco hidrológico), retirado pelo relator Sandoval Feitosa"],
+  "limites_da_analise": ["Legenda muito ruidosa; números e nomes podem estar errados (o relator original aparece como «Efraim da Cruz»; processo lido como 48.500.00037 3/2019-94).", "Quem preside a sessão não é dito claramente; Efrain Cruz como Diretor-Geral substituto é inferência.", "Falantes dos comentários finais inferidos: Hélvio Guerra (agradecimento ao ministro Benjamin Zymler) e André Pepitone (defesa do rito da agência); o 1º comentário após a retirada é atribuído a Hélvio Guerra por ele não ser citado na lista de diretores.", "Sem votos de mérito; apenas a retirada de pauta foi registrada."]
+}

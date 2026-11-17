@@ -1,0 +1,34 @@
+{
+  "meta": {"video_id": "DbnjY2n3aic", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Extraordinária de 2020", "data": "2020-03-24", "formato": "videoconferência (virtual, pandemia de covid-19)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Júlio César Rezende Ferraz", "Efrain Cruz", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores declarado na abertura; sessão com um único processo (extrapauta de caráter emergencial).", "Três sustentações orais: Rosemeire (presidente do conselho de consumidores da Energisa MS), Michel (IDEC) e Ricardo Vinícius (conselho de consumidores da Copel); manifestação da Procuradoria favorável.", "Medidas com validade de 90 dias, revisáveis a qualquer tempo."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:02:15",
+      "processo": "48500.001841/2020-81", "interessado": "Distribuidoras de energia elétrica; consumidores (conselhos de consumidores, IDEC, MPF, Abradee)",
+      "assunto": "Medidas de preservação do serviço de distribuição de energia elétrica em face da pandemia do coronavírus (covid-19): resolução normativa vedando suspensão de fornecimento por inadimplência, suspendendo atendimento presencial e entrega de fatura impressa, mantendo tarifa social, entre outras",
+      "tema": ["distribuição e qualidade (covid-19)", "regulação normativa (resolução normativa)", "tarifa social / baixa renda", "inadimplência e suspensão de fornecimento", "sustentação oral"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova resolução normativa com medidas por 90 dias: proíbe corte por inadimplência em unidades residenciais e serviços essenciais, suspende prazo de 90 dias do art. 172 da REN 414, permite suspender atendimento presencial e fatura impressa (com alternativa eletrônica), prioriza urgência/emergência e hospitais, mantém tarifa social e usa último BMR homologado, isenta demanda complementar de rurais/sazonais. Dispensa consulta pública e AIR pelo poder geral de cautela, com base na Nota Técnica 14/2020-SRD.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:19:56", "justificativa": "preservar vida e saúde e a continuidade do fornecimento, sobretudo aos vulneráveis, sem isentar do pagamento; dispensa de consulta pública e AIR justificada pela calamidade e pelo poder geral de cautela", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:03:35", "justificativa": "destacou princípio da solidariedade, equilíbrio entre consumidor e distribuidora e proteção de trabalhadores do setor; proclamou a unanimidade", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator", "ts": "1:03:19", "justificativa": "chamado nominalmente pelo Diretor-Geral na votação", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:03:25", "justificativa": "fala quase ininteligível na legenda; atribuída pela ordem de votação e pela proclamação unânime", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:03:30", "justificativa": "chamado nominalmente na votação", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros; falantes dos elogios durante a discussão (0:41 a 1:02) não identificados com segurança, por isso sem justificativa individual além do Diretor-Geral e do relator.",
+    "Voto de Elisa Bastos atribuído por exclusão: a legenda registra apenas a frase a pesquisar volto com relator entre Júlio e Efrain; confirmar no áudio.",
+    "O ts do voto do relator marca o início da leitura; o dispositivo é lido mais adiante.",
+    "5 votos para 5 presentes; ninguém impedido."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {"video_id": "HZYs3Y2h1as", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; Parte 2 da 19ª RPO de 02/06/2020; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "19", "data": "2020-06-02", "formato": "videoconferência (Parte 2, retorno após intervalo)",
+    "presidente_da_sessao": "Sandoval Feitosa (diretor substituto do Diretor-Geral André Pepitone, que marcou o retorno)",
+    "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Júlio César Rezende Ferraz"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da reunião; a Parte 1 não está neste arquivo. O Diretor-Geral André Pepitone não aparece falando nesta parte.", "Júlio César Rezende Ferraz atua como diretor substituto (na vaga de Rodrigo Limp, hoje Secretário Nacional de Energia).", "4 itens deliberados (2 medidas cautelares da Enel Green Power negadas, reconsideração da UTE Rio Grande mantendo a revogação, encaminhamento ao MME da prorrogação da PCH Paranoá) mais a prorrogação de prazos dos itens 8 e 9 por consenso tácito.", "Sandoval Feitosa sugere mutirão de cobrança/negociação de multas com deságio, destinando o arrecadado à conta covid."]
+  },
+  "itens": [
+    {
+      "id": "16", "ts": "0:00:57",
+      "processo": "48500.002489/2020", "interessado": "Enel Green Power São Gonçalo 7, 8, 11 e 12 (usinas solares fotovoltaicas do complexo São Gonçalo, PI)",
+      "assunto": "Pedido de medida cautelar para modificar os CUST (contratos de uso do sistema de transmissão) postergando o início da contratação dos montantes de uso (covid-19); cobrança pelo ONS",
+      "tema": ["transmissão (CUST, encargos de uso)", "outorgas de geração (solar)", "recursos administrativos", "covid-19"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos presentes: conhecer e negar a medida cautelar; processo segue à SRT para análise do mérito",
+      "resumo_voto": "Sustentação oral (Gerusa de Souza Couto Magalhães, pela Enel Green Power, em vídeo) alegou força maior da pandemia e equiparação ao Despacho 1298. Procuradoria: requisitos da cautelar (probabilidade do direito e perigo da demora) não preenchidos, nexo de causalidade exige análise mais aprofundada. Relatora negou a cautelar sem prejuízo do mérito, que a área técnica vai analisar.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, conhece e nega provimento à cautelar", "ts": "0:16:00", "justificativa": "requisitos da cautelar não identificados; sustentação oral não trouxe fatos novos; nexo de causalidade a aprofundar no mérito", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:18:27", "confianca": "baixa"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:18:30", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama o resultado", "ts": "0:18:34", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "17", "ts": "0:21:46",
+      "processo": "48500.002901/2020-83", "interessado": "Enel Green Power Ventos de Santa Ângela 1 a 11, 14 e 15 (eólicas, PI; leilão A-6/2017)",
+      "assunto": "Pedido de medida cautelar para suspender cobrança do ONS dos valores do CUST até a análise do mérito (postergação do início da contratação do uso, covid-19)",
+      "tema": ["transmissão (CUST, encargos de uso)", "outorgas de geração (eólica)", "leilões", "recursos administrativos", "covid-19"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes: conhecer e negar a cautelar; processo à SRT para análise do mérito",
+      "resumo_voto": "Mesma sustentação oral (Gerusa de Souza Couto Magalhães) e mesma manifestação da Procuradoria do item anterior; relatora não identificou os requisitos da cautelar. Paralisações por municípios (Lagoa do Barro, Queimada Nova) e lockdown no Piauí foram alegados.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, conhece e nega provimento à cautelar", "ts": "0:34:50", "justificativa": "caso semelhante ao anterior; requisitos da cautelar não identificados", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora", "ts": "0:35:43", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora", "ts": "0:35:49", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama o resultado", "ts": "0:36:24", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "P2-3", "ts": "0:37:54",
+      "processo": "48500.003291/2016-59 e 48500.006572/2014-10", "interessado": "Termelétrica Rio Grande S.A. (UTE Rio Grande, 1.238 MW, RS); Governo do RS; Prefeitura de Rio Grande; FIERGS; Cobra Brasil (plano de transferência de controle)",
+      "assunto": "Pedido de reconsideração contra a Resolução Autorizativa 6.608/2017 (cita-se 6668/2017 na legenda) que revogou a autorização da UTE Rio Grande; análise do plano de transferência do controle societário como alternativa à penalidade (voto-vista)",
+      "tema": ["outorgas de geração (térmica)", "fiscalização e sanções (revogação de outorga)", "recursos administrativos", "licenciamento ambiental / excludente de responsabilidade"],
+      "relator": "Rodrigo Limp (relator original, não mais diretor); voto-vista de Efrain Cruz", "resultado": "aprovado por votantes presentes: conhecer e negar provimento aos pedidos de reconsideração, não aprovar o plano de transferência de controle e manter a revogação",
+      "resumo_voto": "Sustentações orais de Celso Eduardo Medeiros da Silva (Termelétrica Rio Grande) e José Carlos Gaguim (Cobra Brasil, plano de transferência e mudança do terminal de combustível). Procuradoria Federal (parecer 157/2020): ações do MPF não excluem a responsabilidade pelo atraso nas licenças ambientais. Efrain Cruz, em vista, acompanhou integralmente o voto original de Limp, com considerações sobre o parecer da Procuradoria.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "voto-vista: acompanha o voto do relator original (conhece, nega provimento e mantém a revogação)", "ts": "0:41:55", "justificativa": "Procuradoria concluiu que recomendações do MPF não excluem a responsabilidade; licenças dependiam do órgão licenciador; sem fatos supervenientes; regulador não pode ficar à mercê de alternativas sucessivas do empreendedor", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o voto original (pela proclamação)", "ts": "1:00:17", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "não votou (substituto da vaga do relator original)", "ts": "1:00:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "P2-4", "ts": "1:01:56",
+      "processo": "48500.000016/1998-73", "interessado": "CEB Geração S.A. (PCH Paranoá, 30 MW, Brasília/DF)",
+      "assunto": "Prorrogação da concessão da PCH Paranoá: encaminhamento ao MME, nos termos do art. 1º da Lei 12.783/2013, após retratação da desistência pela CEB Geração",
+      "tema": ["outorgas de geração (hidrelétrica/PCH)", "prorrogação de concessão", "regime de cotas"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: encaminhar ao MME para análise de interesse público e vantajosidade ao consumidor",
+      "resumo_voto": "Relatora Procuradoria (parecer 142/2020) admitiu a retratação da desistência; ANEEL é órgão instrutor e a decisão cabe ao MME. Dispositivo alterado em plenário para incluir análise do interesse público e vantajosidade ao consumidor (usina vendeu energia a preço superior ao de cotas por cerca de cinco anos). Sandoval Feitosa questionou a alteração do dispositivo.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova encaminhamento ao MME", "ts": "1:17:40", "justificativa": "papel instrutor da ANEEL; legalidade e vantajosidade são do MME; retratação admitida pela Procuradoria", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:21:13", "confianca": "baixa"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator", "ts": "1:21:17", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a proposta de voto", "ts": "1:21:21", "justificativa": "levantou dúvida sobre o novo trecho do dispositivo; aceitou a explicação de que critérios cabem ao MME", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "P2-5", "ts": "1:21:30",
+      "processo": "(itens 8 e 9 da pauta, de autoria de Sandoval Feitosa)", "interessado": "(não identificado)",
+      "assunto": "Prorrogação de prazo dos itens 8 e 9 da pauta, proposta pelo presidente da sessão",
+      "tema": ["institucional"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovada sem objeção (consenso tácito)",
+      "resumo_voto": "Sandoval propôs prorrogar os prazos; quem concordasse permaneceria calado; declarou aprovado.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, propõe prorrogação", "ts": "1:21:45", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "sem objeção (silêncio)", "ts": "1:22:13", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "sem objeção (silêncio)", "ts": "1:22:13", "confianca": "baixa"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "sem objeção (silêncio)", "ts": "1:22:13", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Texto é um único bloco corrido da legenda automática; falantes inferidos, nomes e números podem estar errados.",
+    "Diretores presentes inferidos pelas menções e pelo número de votos (Sandoval, Elisa, Efrain, Júlio); não houve chamada nominal nesta parte. O Diretor-Geral Pepitone não fala aqui.",
+    "Itens 16 e 17 têm numeração dita; os demais itens não têm numeração clara na legenda (ids P2-3 a P2-5 são da ordem na sessão, não da pauta).",
+    "Atribuição dos votos «acompanho» sem nome (itens 16, 17, P2-3 e P2-4) segue a ordem relator, demais diretores, quem preside por último; confiança baixa/media. No item 16 só duas falas de acompanho são audíveis antes da proclamação.",
+    "Item P2-3: Sandoval Feitosa não aparece votando (a fala diz que restava a doutora Elisa votar); não incluído. Proclamação: por votantes presentes. Júlio substitui a vaga de Rodrigo Limp e não votou.",
+    "Número da resolução autorizativa (6.608 ou 6668/2017) incerto na legenda; os processos da UTE Rio Grande aparecem com dígitos incertos.",
+    "Minutos dos votos aproximados a partir dos marcadores da legenda; item P2-5: votos de silêncio são inferência."
+  ]
+}

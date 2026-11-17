@@ -1,0 +1,32 @@
+{
+  "meta": {"video_id": "NjujRGPd0MI", "fonte": "legenda automática do YouTube (Parte 2 da 27ª RPO); falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27", "data": "2020-07-28", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "André Pepitone", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da 27ª reunião pública ordinária: único processo da tarde, último da pauta.", "Relator cumprimenta “doutor André, doutora Elisa” e o procurador-geral; demais diretores não citados."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:11",
+      "processo": "48500.003628/2017-17", "interessado": "Furnas Centrais Elétricas S.A. e consórcios Uirapuru, Santa Rosa, Ventos de Angelim, Arara-Azul, Bem-te-vi, Ouro Verde 1, 2 e 3 e Serra do Mel (complexos eólicos)",
+      "assunto": "Pedido de reconsideração com pedido de efeito suspensivo contra os despachos 1655 a 1665/2018, que aplicaram multa de 1% do investimento às usinas eólicas dos consórcios e suspenderam por um ano o direito de Furnas contratar ou participar de licitações da ANEEL",
+      "tema": ["fiscalização e sanções (multa, suspensão de licitar)", "recursos administrativos", "outorgas de geração (eólica)", "leilões (geração)", "comercialização (MCSD)", "sustentação oral"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes: reconsideração conhecida e desprovida; reconhecido que Furnas já cumpriu a suspensão de um ano; recomendação à Procuradoria Federal",
+      "resumo_voto": "Mantém multa de 1% e a suspensão; fornecedor de aerogeradores (Wind Power Energia, em recuperação judicial) é risco gerencial do empreendedor; atenuação da penalidade pelo MCSD (REN 693/2015) já refletida; distingue caso relatado por Elisa Bastos (SPEs com 49% de Furnas) dos consórcios com 90%; reconhece cumprimento integral da suspensão (inscrição no SICAF/CEIS de 30/07/2018 a 29/07/2019); recomenda que a CPPAD seja informada de decisões judiciais sobre suspensões. Sustentação oral de Valéria de Souza Rosa (Furnas) antes do voto; Procurador-Geral não opinou (apenas remeteu a parecer anterior).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, conhece e nega provimento; reconhece cumprimento da suspensão", "ts": "0:25:00", "justificativa": "escolha do fornecedor é risco do agente; penalidades coerentes com precedentes; Furnas tinha 90% nos consórcios, diferente do caso das SPEs com 49%; suspensão já cumprida pelo registro no cadastro de impedidos", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:43:33", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; parabeniza o voto", "ts": "0:43:33", "justificativa": "parabenizou o voto do diretor Sandoval como muito bem elaborado e proclamou o resultado", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa; presença de diretores inferida da saudação do relator (André, Elisa) e da proclamação; não se ouve chamada nominal, outros diretores podem ter participado (ex.: Efrain Cruz, Rodrigo Limp não são citados).",
+    "Quem fez a fala de parabenização e o ts exato são inferidos: atribuída ao Diretor-Geral André Pepitone pela ordem usual (DG vota por último e proclama); fala de Elisa Bastos não ouvida, voto dela atribuído pela proclamação de unanimidade (confiança baixa).",
+    "ts de voto do relator aproximado (início da leitura do voto na parte final, dispositivo em ~0:41:37); parabenização em 0:43:33.",
+    "Tema do item cobre também sustentação oral da advogada Valéria de Souza Rosa (Furnas) em 0:07:46."
+  ]
+}

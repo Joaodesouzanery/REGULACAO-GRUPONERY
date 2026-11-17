@@ -1,0 +1,336 @@
+{
+ "meta": {
+  "video_id": "HZ5q88e2DvM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47",
+  "data": "2021-12-15",
+  "formato": "presencial/híbrido (auditório da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Elisa Bastos",
+   "André Pepitone (Diretor-Geral; ausente, pois Sandoval preside como substituto)"
+  ],
+  "observacoes": [
+   "Vídeo é a Parte 3 da 47ª Reunião Pública Ordinária; começa no item 13 e termina com suspensão para retorno às 14h30 (itens 17 e seguintes não aparecem neste vídeo).",
+   "Quórum de três diretores; Elisa Bastos em férias, com votos condutores mantidos nos blocos (itens 57, 18 e 2).",
+   "Efrain Cruz deixou a sessão durante o último item e deixou voto registrado.",
+   "Itens 18 e 2 (voto-vista) foram antecipados na pauta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "13",
+   "ts": "0:02:37",
+   "processo": "48500.002542/2015-42 (número incerto na legenda)",
+   "interessado": "ANEEL / SRG e SFG; agentes de geração hidrelétrica (Abragel citada)",
+   "assunto": "Abertura de consulta pública (60 dias, 16/12/2021 a 14/02/2022, com audiência pública virtual em 27/01/2022) para revisão da Resolução Normativa 696/2015 sobre segurança de barragens fiscalizadas pela ANEEL, em função da Lei 14.066/2020 que alterou a Lei 12.334/2010",
+   "tema": [
+    "regulação normativa (consulta/audiência pública)",
+    "segurança de barragens",
+    "fiscalização",
+    "outorgas de geração (hidrelétricas, CGH)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "sustentacao_oral": "não houve; apresentação técnica da SRG (Mateus)",
+   "resumo_voto": "Abre consulta pública para incorporar à REN 696/2015 as mudanças da Lei 14.066 (categoria de risco, fiscalização das CGH, plano de ação emergencial, mapa de inundação em cascata com estudo sequencial montante-jusante, capítulo de infrações). Credenciamento e seguro ficam de fora até regulamentação por decreto. Dispensada AIR por ser mera tradução de comando legal.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "0:25:14",
+     "justificativa": "barragem é o principal ativo do concessionário; setor elétrico difere da mineração, mas exige presença do regulador e fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:59",
+     "justificativa": "parabenizou o relator e lembrou a mobilização pós-Brumadinho; comentários de elogio à equipe técnica (atribuição das falas de elogio entre diretores incerta)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; preside e proclama",
+     "ts": "0:45:06",
+     "justificativa": "proclama aprovação por unanimidade dos votantes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:45:47",
+   "processo": "48500.007105/2019-01 (número incerto na legenda)",
+   "interessado": "ANEEL / SRG; ONS; agentes geradores (termelétricas, eólicas, fotovoltaicas, hidrelétricas)",
+   "assunto": "Abertura de consulta pública conjunta (16/12/2021 a 14/02/2022) sobre relatório de AIR e minuta de revisão da Resolução Normativa 697/2015 (prestação e remuneração de serviços ancilares no SIN)",
+   "tema": [
+    "regulação normativa (consulta pública, AIR)",
+    "serviços ancilares",
+    "comercialização / encargos de serviço do sistema",
+    "outorgas de geração (térmica, eólica, solar, hidrelétrica)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "sustentacao_oral": "não houve; apresentação técnica da SRG (Rafael)",
+   "resumo_voto": "Propõe produtos de 1 a 7 horas e teto de oferta de 130% do CVU no despacho complementar para reserva de potência operativa, remuneração de suporte de reativos por eólicas e fotovoltaicas (geração ativa nula), ajustes de texto e estudos futuros sobre novas tecnologias.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "1:04:48",
+     "justificativa": "aloca custos de forma eficiente e abre espaço a eólicas e solares; fecha o ano com agenda de modernização do setor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:14:04",
+     "justificativa": "alinhou-se ao relator e destacou a agenda de modernização (sandbox tarifário, segurança cibernética, resposta da demanda); falas atribuídas por contexto",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; preside e proclama",
+     "ts": "1:14:46",
+     "justificativa": "proclama aprovação por unanimidade dos votantes presentes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:15:32",
+   "processo": "48500.004344/2017-15",
+   "interessado": "ONS (Programa de Performance Organizacional); SRG, SRT e SFF",
+   "assunto": "Resultado da Consulta Pública 59/2021 e aprovação de resolução homologatória com indicadores e metas do Programa de Performance Organizacional do ONS para os ciclos 2022 e 2023 (REN 780/2017, art. 6º)",
+   "tema": [
+    "regulação normativa (resultado de consulta pública)",
+    "regulação por incentivos / ONS",
+    "transmissão (MUST, encargos de serviços do sistema)",
+    "institucional"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (relator divergiu parcialmente das áreas técnicas)",
+   "sustentacao_oral": "não houve; apresentação técnica (Vinícius, SRG/SRT)",
+   "resumo_voto": "Acompanha as áreas técnicas, exceto na descontinuidade de dois indicadores (recontratação anual do MUST e prazos de apuração de encargos), que o relator mantém por caráter estratégico e melhoria continuada; determina estudo de indicador de gestão orçamentária do ONS para o ciclo 2024-2025.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova com ressalva (mantém dois indicadores que as áreas técnicas queriam descontinuar)",
+     "ts": "1:40:24",
+     "justificativa": "indicadores já atingidos continuam relevantes por serem serviços continuados e de caráter estratégico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:42:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; preside e proclama",
+     "ts": "1:42:09",
+     "justificativa": "proclama aprovação por unanimidade dos votantes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "57",
+   "ts": "1:44:01",
+   "processo": "48500.001773/2004-60 e 48500.004216/2018-37 (números incertos na legenda)",
+   "interessado": "Hidrelétrica Pimenta Bueno Ltda.; Construtora Aterpa e Construtora Centro Minas (consórcio Aterpa/CCM); Eletrosul",
+   "assunto": "Voto-vista em mesa: pedido de transferência da autorização da PCH Urubu para a Hidrelétrica Pimenta Bueno e alteração do projeto básico da PCH Urubu; reflexo no DRS-PCH da PCH São Paulo do Pimenta Bueno",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "transferência de titularidade",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos (relatora original, ausente); voto-vista de Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes, nos termos do voto-vista",
+   "sustentacao_oral": "não houve; Procuradoria sem considerações",
+   "resumo_voto": "Voto-vista de Efrain nega a transferência e a alteração do projeto básico da PCH Urubu (faltou garantia de fiel cumprimento, REN 875/2020), mas manda registrar adequabilidade do DRS-PCH da PCH São Paulo com aproveitamento temporário do nível de montante na cota 207,75 m até a implantação da Urubu, outorgada em 2007 e sem obras.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista vencedor",
+     "ts": "1:54:33",
+     "justificativa": "potencial hidráulico não pode ficar condicionado a usina outorgada há 14 anos sem obras; casos similares já aprovados (Rancho Grande, Paredão de Minas)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:58:01",
+     "justificativa": "solução inteligente para aproveitar o potencial hidráulico; embora tenha votado antes com a relatora, acompanha o voto-vista (atribuição pelo contexto)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista; preside e proclama",
+     "ts": "1:58:53",
+     "justificativa": "proclama unanimidade dos presentes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto deixado (voto condutor mantido no bloco; ausente, de férias)",
+     "ts": "1:44:01",
+     "justificativa": "relatora original negou a transferência e a alteração por falta dos requisitos; a ausência foi comunicada e ela anuiu com a apresentação do voto-vista",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:00:04",
+   "processo": "48500.004935/2020-11",
+   "interessado": "SFF; Eletrobras; SPU/Ministério da Economia",
+   "assunto": "Abertura de consulta pública (46 dias, 16/12/2021 a 31/01/2022) para regulamentar o art. 3º da Lei 14.120/2021: alienação, transferência a outorgados ou transferência à SPU de bens da União sob administração da Eletrobras (BUSA), adquiridos com recursos da RGR",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "CDE e encargos setoriais (RGR)",
+    "bens da União",
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "sustentacao_oral": "não houve; apresentação técnica da SFF (Leila)",
+   "resumo_voto": "Há 1.994 BUSA (1.872 serviveis, 67 inservíveis, 25 serviveis desativados, 23 alienados, 7 sob posse da SPU), 75% no Sudeste. Proposta prevê declaração de inservibilidade, reversão do produto de vendas à RGR em 5 dias (10% de taxa de administração), transferência sem ônus ao outorgado e autorização da ANEEL no lugar do ato conjunto com a SPU, condicionada à aprovação posterior.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "2:21:19",
+     "justificativa": "regulamentar a destinação dos BUSA, assunto antigo do setor; ato conjunto com a SPU exige engenharia institucional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:25:38",
+     "justificativa": "solução importante; participou da MP 998 quando estava no MME; regulamentação encerra dilema de fiscalizar a integridade de bens sem relação direta com o serviço (atribuição de falas por contexto)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:25:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:27:47",
+   "processo": "48500.002242/2020-49",
+   "interessado": "Cooperativa de Geração Compartilhada (COGECOM) e MFB Participações; CGH João dos Passos; Copel (permissionária); RGE Sul",
+   "assunto": "Pedido de reconsideração com pedido de medida cautelar contra o Despacho 933/2021 que negou alocação de créditos de geração compartilhada da CGH João dos Passos (área da Copel) a unidades da área de concessão da RGE Sul; voto-vista de Hélvio Guerra após vista de Efrain Cruz",
+   "tema": [
+    "geração distribuída (MMGD, compensação de créditos)",
+    "recursos administrativos",
+    "projeto-piloto regulatório",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos (relatora original, ausente); relator convocado do voto-vista: Hélvio Guerra",
+   "resultado": "aprovado por maioria dos presentes (três votos favoráveis; voto condutor de Elisa Bastos vencido)",
+   "sustentacao_oral": "não houve; Procuradoria sem manifestação",
+   "resumo_voto": "Voto-vista de Hélvio acolhe parcialmente a proposta de Efrain: autoriza projeto-piloto para compensar a energia da CGH em consumidores da RGE Sul, condicionado à sanção do PL 5.829/2019 e ao enquadramento do piloto no dispositivo legal, com prazos e etapas definidos pela SRD e custos suportados pelos requerentes. Efrain abre mão do seu voto e acompanha Hélvio.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor",
+     "ts": "2:36:27",
+     "justificativa": "a REN 482 não permite locação de créditos entre áreas distintas; piloto só se o PL 5.829 prosperar, sem impor ônus a ANEEL, Copel ou consumidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista (abre mão do seu próprio voto-vista)",
+     "ts": "2:40:00",
+     "justificativa": "vê com bons olhos condicionar à sanção do PL; geração distribuída acima de 11% no mercado de permissionários",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista; preside e proclama",
+     "ts": "2:44:40",
+     "justificativa": "proclama aprovação por maioria dos presentes, três favoráveis e um vencido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "vencido (voto condutor mantido; ausente)",
+     "ts": "2:46:37",
+     "justificativa": "voto condutor mantido no bloco; a ausência foi comunicada e ela manteve a posição original de negar provimento",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:47:07",
+   "processo": "48500.000614/2018-10",
+   "interessado": "RGE Sul Distribuidora de Energia S.A.",
+   "assunto": "Requerimento administrativo da RGE Sul para franquia adicional ao DEC programado, para fins de caducidade, em razão do plano de substituição de postes de madeira por concreto (2021-2025); voto-vista de Hélvio Guerra",
+   "tema": [
+    "distribuição (continuidade DEC/FEC)",
+    "fiscalização e sanções (critérios de caducidade, REN 896/2019)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos (relatora original, ausente); relator convocado do voto-vista: Hélvio Guerra",
+   "resultado": "aprovado por maioria dos presentes (três votos favoráveis; voto condutor de Elisa Bastos vencido)",
+   "sustentacao_oral": "não houve; Procuradoria disse não ter parecer formal sobre o tema",
+   "resumo_voto": "Voto-vista dá provimento parcial: franquia adicional de 1,73 hora ao DEC programado, exclusivamente para avaliação de caducidade, vinculada ao cumprimento de metas do plano atualizado (2022-2025), com relatório trimestral de execução à SFE. Cerca de 37% dos postes da RGE Sul são de madeira (cerca de 700 mil).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor, dá provimento parcial",
+     "ts": "3:01:38",
+     "justificativa": "troca programada de postes causa menos impacto ao consumidor que a emergencial; demais regras e compensações preservadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto deixado (favorável ao voto-vista; saiu da sessão por imprevisto)",
+     "ts": "3:08:12",
+     "justificativa": "dois passos atrás nos indicadores para avançar em redes robustas; concordância com Hélvio antes de deixar a sessão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista; preside e proclama",
+     "ts": "3:14:44",
+     "justificativa": "franquia limitada e específica, sem precedente, incentivos preservados; proclama três votos favoráveis e voto condutor de Elisa vencido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "vencido (voto condutor mantido; ausente)",
+     "ts": "3:14:56",
+     "justificativa": "voto condutor mantido no bloco; relatora havia votado por conhecer e negar provimento",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo (itens 13, 14, 57) incertos; o item 57 refere-se a um número de pauta e os ids 18 e 2 seguem a fala do secretário, que a legenda embaralhou.",
+  "Identificação de quem fala em cada comentário de elogio é incerta (sem diarização); rótulos de falante do cabeçalho do .md não são confiáveis (citam superintendentes como diretores).",
+  "André Pepitone (DG) não aparece votando: Sandoval preside como Diretor-Geral substituto e os itens 18 e 2 registram três votos favoráveis mais Elisa vencida. Menções a 'doutor André' na legenda podem ser erro de transcrição.",
+  "Itens 13, 14, 15 e 16: votos de seguidores inferidos da proclamação por unanimidade; confiança media/baixa.",
+  "Votos de Elisa Bastos (ausente) registrados como voto deixado, a partir da fala dos colegas.",
+  "Itens 18/2: Efrain Cruz abre mão do voto-vista e acompanha Hélvio (fala dele em 2:40, ts aproximado)."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "EbYfFfTDGNc", "fonte": "legenda automática do YouTube; transcrição curta (~3 min) cobre só abertura e votação do bloco; sem nomes de diretores", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9", "data": "2018-03-27", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Parte do vídeo: Bloco dos Itens de 14 ao 51 da 9ª Reunião Pública Ordinária de 27/03/2018.", "Quórum de três diretores declarado na abertura; nomes não ditos na legenda.", "Aprovada a ata da 7ª reunião com retificação de erro material no item 5 (revisão tarifária do grupo CPFL; valores da CDE corrigidos).", "Retirados de pauta os itens 6 e 23; destacados do bloco os itens 20 e 45 para apresentação oral (45 depois deliberado no bloco após retificação: outorga de gerador solar com erro material no dispositivo)."]
+  },
+  "itens": [
+    {
+      "id": "bloco-14-51", "ts": "0:02:10",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de itens 14 a 51 (exceto 23 retirado de pauta e 20 destacado) deliberados em bloco, incluindo o item 45 (outorga de gerador solar) com retificação de erro material no dispositivo",
+      "tema": ["regulação normativa", "outorgas de geração (solar)"],
+      "relator": "não identificado",
+      "resultado": "aprovado em bloco (votação de três diretores; proclamação não aparece no trecho)",
+      "resumo_voto": "Os três diretores votaram pela aprovação dos itens do bloco; falas individuais sem nome na legenda.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:50", "justificativa": "voto pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:55", "justificativa": "também voto pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:03:00", "justificativa": "voto pela aprovação dos itens remanescentes do bloco, exceto 23 retirado e 20 destacado", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["6", "23"],
+  "limites_da_analise": ["Transcrição termina na votação do bloco; os itens 9, 10, 20, 27 e 13 (apresentação oral) não aparecem.", "Nenhum nome de diretor é dito na legenda; votos atribuídos como não identificado.", "Minutos aproximados."]
+}

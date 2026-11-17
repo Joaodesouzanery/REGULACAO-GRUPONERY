@@ -1,0 +1,404 @@
+{
+ "meta": {
+  "video_id": "OUG1MnCEAOg",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda são pouco confiáveis; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4",
+  "data": "2019-02-12",
+  "formato": "presencial (auditório da ANEEL)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "4ª Reunião Pública Ordinária de 2019; quórum de cinco diretores declarado na abertura.",
+   "Pedidos de sustentação oral nos itens 1 e 3; preferência nos itens 1 e 5; ordem de julgamento: bloco, itens 1, 3, 5, 2, 4, 6.",
+   "Item 16 retirado do bloco/pauta.",
+   "Comunicados iniciais: seminário SIGET (13/2), audiência pública presencial sobre revisão tarifária da Enel Ceará em Fortaleza (14/2, conduzida por Sandoval Feitosa), visita da embaixada da Índia.",
+   "Item 1 teve pedido de vista; demais itens deliberados por unanimidade.",
+   "Parabéns à CCEE pelos 20 anos e ao livro comemorativo (Efrain e demais diretores)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:02:57",
+   "processo": null,
+   "interessado": "vários (itens em bloco da pauta)",
+   "assunto": "Bloco de itens da pauta aprovados em conjunto (itens numerados do bloco não detalhados na legenda); item 16 retirado do bloco/pauta; itens 7 e 8 aprovados por unanimidade dos votantes por impedimento de Sandoval Feitosa",
+   "tema": [
+    "itens em bloco",
+    "decisões em primeira instância"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade (itens 7 e 8 por unanimidade dos votantes, Sandoval impedido)",
+   "resumo_voto": "Votação do bloco conduzida pelo Diretor-Geral; aprovado por unanimidade, com a ressalva de que os itens 7 e 8 foram aprovados pelos votantes diante do impedimento do diretor Sandoval.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; impedido nos itens 7 e 8",
+     "ts": "0:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama",
+     "ts": "0:03:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:04:14",
+   "processo": "48500.002891/2018 (número parcial)",
+   "interessado": "ONS; sustentações de Abrasel, Curucaca Geradora e Tibagi Energia",
+   "assunto": "Resultado da Audiência Pública 41/2018: revisão 2018.12 dos submódulos dos Procedimentos de Rede (flexibilização de requisitos para despacho centralizado das UHEs acima de 30 MW e modalidade de operação tipo 2)",
+   "tema": [
+    "regulação normativa",
+    "procedimentos de rede",
+    "outorgas de geração (hidrelétrica)",
+    "audiência pública",
+    "pedido de vista"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista; sem decisão na sessão",
+   "resumo_voto": "Sandoval leu o dispositivo: aprovar por resolução autorizativa a revisão 2018.12 dos submódulos dos Procedimentos de Rede; casos específicos de usinas que pedem excepcionalização serão instruídos depois da aprovação, com prazo de 180 dias de adequação contado da aprovação. Abrasel pediu tratamento caso a caso e fim da retroatividade; Curucaca (Salto Curucaca, 37 MW em duas casas de força) e Tibagi (usina em construção, contratada no leilão A-5/2015 como tipo 3) pediram manutenção da modalidade anterior; a Procuradoria viu aplicação imediata, não retroação; a SRG (Mateus) apresentou a nota técnica. Houve pedido de vista por diretor não identificado na legenda.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (voto lido)",
+     "ts": "0:41:00",
+     "confianca": "media",
+     "justificativa": "manter o despacho centralizado das UHEs acima de 30 MW com flexibilização de requisitos; excepcionalizações tratadas depois, em instrução específica"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "0:47:14",
+     "confianca": "baixa",
+     "justificativa": "legenda: «vista a pedido do diretor ...» (nome ininteligível)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:47:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:47:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "0:47:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:47:14",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:47:35",
+   "processo": "48500.005493/2018-10",
+   "interessado": "EDP Espírito Santo Distribuição de Energia (sustentação oral: Donato da Silva Filho); relatora Elisa Bastos",
+   "assunto": "Recurso administrativo da EDP-ES contra o Despacho SRT 1961/2018, que indeferiu o expurgo de ultrapassagens de MUST (set-dez/2011 e 2013) nas subestações Mascarenhas, Verona e Campos, por alteração do defasamento angular dos transformadores 230/138 kV",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "MUST / contratação do uso do sistema de transmissão",
+    "parcela de ineficiência por ultrapassagem",
+    "distribuidoras"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e desprovido, por unanimidade dos votantes (Sandoval impedido); despacho mantido",
+   "resumo_voto": "Elisa rejeitou decadência e prescrição, afastou a tese de expurgo por ocorrência na rede básica, entendeu que a RN 399/2010 exigia contratar o máximo montante de demanda e que não houve aplicação retroativa; manteve a cobrança. Rodrigo Limp expressou dúvidas sobre o conflito entre RN 399 e procedimento de rede e consultou Procuradoria e SRT; após os esclarecimentos de que o fato foi posterior à RN 399, não houve oposição. Procuradoria (Luiz Eduardo) se absteve de manifestar-se além do voto.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, nega provimento",
+     "ts": "1:36:53",
+     "confianca": "alta",
+     "justificativa": "falta de contratação pelo montante máximo (RN 399/2010); defasamento angular dentro das condições normais de operação; não houve retroatividade"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "1:38:06",
+     "confianca": "media",
+     "justificativa": "elogiou o enfrentamento jurídico do voto e a segurança regulatória"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "1:38:13",
+     "confianca": "baixa",
+     "justificativa": "declarou impedimento por ter emitido o primeiro despacho do processo (identidade atribuída pela ordem e pela proclamação «por unanimidade dos votantes»)"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (após esclarecimentos)",
+     "ts": "1:50:30",
+     "confianca": "media",
+     "justificativa": "teve dúvida sobre a norma superveniente e o procedimento de rede; satisfeito com as explicações da Procuradoria e da SRT"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "1:52:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:53:38",
+   "processo": null,
+   "interessado": "CEAL (Companhia Energética de Alagoas, designada; vencedora do leilão: Equatorial Energia)",
+   "assunto": "Cálculo e homologação do empréstimo suplementar da RGR (Portaria MME 510/2018, limite de R$ 400 milhões) à distribuidora designada CEAL, período 1/7/2017 a 30/9/2018 (déficit calculado de R$ 430 milhões)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "RGR",
+    "distribuidoras designadas",
+    "privatização"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade; homologado empréstimo de R$ 400 milhões",
+   "resumo_voto": "Limp homologou o empréstimo de R$ 400 milhões da RGR (repasse pela Eletrobras/CCR, podendo ocorrer após assinatura do contrato de concessão e ser parcelado) e determinou à SFF que publique despacho com eventual diferença do 4o trimestre de 2018. Um diretor sugeriu comando de precaução sobre devolução de eventual diferença; esclarecido que a SFF fará a compensação ex post.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:05:20",
+     "confianca": "alta",
+     "justificativa": "homologar o limite de R$ 400 milhões da Portaria 510/2018; repasse após contrato de concessão e parcelável"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:09:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:09:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:09:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:09:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:10:20",
+   "processo": "48500.002253/2018-41",
+   "interessado": "Central Eólica Trairi 2 Ltda (eólica Estrela, Trairi/CE); auto de infração da ARCE",
+   "assunto": "Recurso administrativo da Central Eólica Trairi 2 contra o Auto de Infração 01/2017 da ARCE (multa de R$ 34.282,07 por atraso superior a 11 meses no cronograma de implantação da eólica Estrela)",
+   "tema": [
+    "fiscalização e sanções",
+    "multa",
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "agência estadual conveniada (ARCE)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "recurso não conhecido (intempestivo), por unanimidade; multa mantida",
+   "resumo_voto": "Sandoval seguiu o parecer 556/2018 da Procuradoria: recurso intempestivo (trânsito em julgado na ARCE) e sem usurpação de competência pela agência estadual conveniada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, não conhece do recurso",
+     "ts": "2:19:42",
+     "confianca": "alta",
+     "justificativa": "intempestividade; competência delegada à ARCE abrange produtores independentes"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:20:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:20:59",
+   "processo": "48500.002002/2019-65 (parcial)",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Pedido de reconsideração com medida cautelar do ONS contra a REA 7.517/2018, que aprovou provisoriamente 4/12 do orçamento 2019 (pagamento de PLR 2018 a empregados)",
+   "tema": [
+    "recursos administrativos",
+    "cautelar",
+    "ONS orçamento",
+    "encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "medida cautelar negada, por unanimidade; autos à SFF para instrução com o processo do orçamento 2019-2021",
+   "resumo_voto": "Efrain negou a cautelar por ausência de fumaça do bom direito e de perigo da demora: a resolução apenas limitou o repasse tarifário provisório, sem impedir o pagamento da PLR, que é ato de gestão do ONS; a ANEEL analisa custos eficientes repassados à tarifa. Pepitone ressaltou que a relação do pagamento é entre ONS e empregados, a da ANEEL é com a tarifa, e que a representação do sindicato no MPT será respondida com esta decisão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega provimento à medida cautelar",
+     "ts": "2:41:27",
+     "confianca": "alta",
+     "justificativa": "sem fumaça do bom direito nem perigo da demora; a REA não vedou o pagamento da PLR; ONS tem outras receitas"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:47:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:47:22",
+     "confianca": "media",
+     "justificativa": "a ANEEL regula o repasse à tarifa, não a relação entre a diretoria do ONS e seus empregados"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:47:39",
+   "processo": "48500.000178/2019-64",
+   "interessado": "Chesf (subestações Nossa Senhora do Socorro, Maceió II, Messias e Jardim; contrato de concessão 5/2012)",
+   "assunto": "Requerimento da Chesf para energização excepcional e emergencial das subestações Nossa Senhora do Socorro e Maceió II e instalações associadas, com não conformidade temporária de alimentação dos serviços auxiliares em corrente alternada (submódulo 2.3 dos Procedimentos de Rede)",
+   "tema": [
+    "transmissão",
+    "outorgas",
+    "procedimentos de rede",
+    "energia solar com armazenamento"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade; provimento para autorizar energização excepcional",
+   "resumo_voto": "Efrain autorizou o ONS a atestar excepcionalmente a conformidade do projeto básico para emissão do TLT e energização, condicionou o TLD ao cumprimento das soluções até 31/7/2019 (Messias) e 9/9/2019 (Jardim) e determinou à SRT analisar painéis solares com baterias como fonte alternativa para os Procedimentos de Rede. Um diretor perguntou por que o TLD das subestações Maceió II e Nossa Senhora do Socorro fica condicionado, e foi esclarecido que o contrato 5/2012 envolve as quatro instalações.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, dá provimento",
+     "ts": "2:55:12",
+     "confianca": "alta",
+     "justificativa": "não conformidade temporária não afeta a operação; ONS concordou em caráter excepcional"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:00:36",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "item 16 do bloco (assunto não identificado na legenda)",
+   "relator": "não identificado",
+   "motivo": "retirado da pauta/bloco pela presidência",
+   "ts": "0:03:18"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa: nomes de diretores atribuídos por contexto (Diretor-Geral André Pepitone preside; relatores identificados pelos nomes lidos pela mesa); falantes inferidos pelo arquivo não foram usados.",
+  "Presença dos cinco diretores inferida do quórum e dos votos; Tiago Correia só é citado como autor de artigo e não participou.",
+  "O bloco: números dos itens do bloco não ficam claros na legenda (além de 7, 8 e 16); itens do bloco não foram detalhados.",
+  "Item 1: a legenda diz «vista a pedido do diretor ...» sem nome legível; autor do pedido de vista é não identificado; votos dos demais registrados como «não votou (vista)» com confiança baixa. Houve discussão entre diretores sem identificação de falantes.",
+  "Item 3: o impedimento («foi quem emitiu o primeiro despacho») foi atribuído a Sandoval Feitosa pela ordem de votação, pelo impedimento dele nos itens 7 e 8 do bloco e pela proclamação por unanimidade dos votantes; confiança baixa. Sandoval também figura como impedido apenas nos itens 7 e 8 do bloco, que não estão detalhados.",
+  "Votos de quem apenas acompanha o relator vêm da proclamação; ts aproximados (confiança media).",
+  "Item 5: número do processo ilegível (48500.001663/2019?), omitido. Item 4 e item 6: números de processo parciais.",
+  "No item 5 e no item 6, discussão entre diretores sem falante identificado; no item 4 elogios à CCEE e comentário do Diretor-Geral sobre representação no MPT.",
+  "Sustentações orais (item 1): Charles Lenzi (Abrasel), José Wilmar Cardoso (Curucaca Geradora), José Guilherme do Nascimento (Tibagi Energia); item 3: Donato da Silva Filho (EDP-ES); grafias incertas."
+ ]
+}

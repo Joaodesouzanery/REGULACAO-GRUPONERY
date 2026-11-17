@@ -1,0 +1,467 @@
+{
+ "meta": {
+  "video_id": "WTZTNIs69aE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "11ª Reunião Pública Ordinária de 2021 (Parte 1, manhã)",
+  "data": "2021-04-06",
+  "formato": "virtual (videoconferência)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores; sessão virtual aberta às ~0:00:34.",
+   "Informes: audiência pública sobre processo tarifário da Energisa Nova Friburgo (9/4), prazo da tomada de subsídios 4/2021 (12/4), assinatura de contratos de 10 dos 11 lotes do leilão de transmissão 1/2020 (investimento superior a R$ 7 bilhões), homenagens (doutorado do procurador-geral e três aposentadorias).",
+   "Ata da 10ª reunião ordinária aprovada às ~0:15:56 após ajuste pedido por Efrain Cruz ao seu voto no processo 48500.000373/2019-94 (GSF/Santo Antônio, Abragel e outros); não contada como item.",
+   "Pauta com 37 itens; itens 7, 10 e 23 retirados de pauta; ordem: bloco, 8, 3, 1, 2, 4, 5, 6, 9, 11, 12, 13, 25.",
+   "Os itens 3, 1 e 2 (reajustes de Energisa MT, CPFL Paulista e Energisa MS) foram prorrogações das tarifas em vigor, não reajuste.",
+   "Sessão suspensa ~4:18 para almoço, retomada às 15h30 (Parte 2 em outro vídeo; itens 5, 11, 12, 13 e 25 não estão aqui)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:16:05",
+   "processo": "",
+   "interessado": "várias",
+   "assunto": "Votação em bloco dos itens da pauta sem destaque (pauta de 37 itens; bloco de 24 itens, exceto o item 25 destacado; itens 7, 10 e 23 retirados de pauta)",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "vários (itens do bloco)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Secretário-geral informou pedidos de sustentação oral nos itens 2, 3, 5, 9, 12 e 25 e preferência para 25 e 12; ordem do dia: bloco, 8, 3, 1, 2, 4, 5, 6, 9, 11, 12, 13, 25. Sustentação oral do item 12 indeferida com concordância dos diretores (processo já teve três deliberações com sustentação). Diretor-Geral proclamou unanimidade.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:18:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:18:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:18:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:18:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:18:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:19:12",
+   "processo": "48500.003161/2018-88",
+   "interessado": "Enel Green Power Dois Riachos (e outras usinas, conforme legenda)",
+   "assunto": "Recurso administrativo contra despacho da SRG que indeferiu ressarcimento financeiro de encargo de serviço de sistema (ESS) por custos de sistema especial de proteção; relator original Sandoval Feitosa, com voto-vista de Hélvio Guerra",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (eólica)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo autor do voto-vista; extensão de prazo de mais 8 sessões deferida",
+   "resumo_voto": "Hélvio Guerra, em voto-vista, informou que sua assessoria identificou ponto que exige aprofundamento, retirou o processo de pauta e pediu extensão do prazo regimental para retorno; sem objeção, o Diretor-Geral deferiu mais oito sessões.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: retira de pauta e pede extensão de prazo",
+     "ts": "0:20:20",
+     "confianca": "alta",
+     "justificativa": "assessoria identificou ponto que precisa de aprofundamento da análise"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a extensão de prazo de 8 sessões (sem objeção dos demais)",
+     "ts": "0:20:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:21:14",
+   "processo": "48500.005024/2020-xx (número parcial na legenda)",
+   "interessado": "Energisa Mato Grosso Distribuidora de Energia (MT; cerca de 1,5 milhão de unidades consumidoras)",
+   "assunto": "Reajuste tarifário anual 2021 da Energisa MT: prorrogação da vigência das tarifas da RH 2.672/2020 até a homologação das novas tarifas do processo de 2021 (reajuste que valeria a partir de 8/4/2021)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidoras",
+    "institucional/pressão tarifária",
+    "IGP-M x IPCA"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (resolução homologatória prorrogando a vigência das tarifas vigentes)",
+   "resumo_voto": "Relator propõe postergar a vigência das tarifas atuais (não aplicar o reajuste ainda) porque as soluções em estudo para conter a pressão tarifária (reperfilamento de indenizações da rede básica, créditos de PIS/Cofins, receitas não destinadas à modicidade, diferimento de parcela B, superávit da conta de comercialização de Itaipu pelo Decreto 10.665) precisam de tempo; reconhece o IGP-M como descolado (contrato da Energisa MT é corrigido por IGP-M, alteração exige rito regulatório). Sustentações orais: deputado estadual (nome incerto na legenda; pede indeferimento do aumento e troca do IGP-M pelo IPCA) e Edivaldo Belisário dos Santos, presidente do Conselho de Consumidores da Energisa MT (critica o não envio das planilhas ao conselho no prazo do Módulo 10.2 do PRORET). Relator respondeu que não houve envio porque não há processo tarifário deliberado. Procurador-geral registrou que a agência deve cumprir contrato e regulamento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova prorrogação da vigência das tarifas",
+     "ts": "0:47:09",
+     "confianca": "alta",
+     "justificativa": "adiar a vigência até que as medidas em estudo possam ser aplicadas ao reajuste; respeito ao contrato de concessão e ao IGP-M contratual, com reflexão futura sobre índice"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:19:35",
+     "confianca": "media",
+     "justificativa": "defendeu o equilíbrio econômico-financeiro das distribuidoras (qualidade e confiabilidade exigem remuneração justa) e que baixar tarifa na marra não é modicidade; pela legenda é o diretor que fala logo após o relator, atribuição por inferência"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:19:38",
+     "confianca": "baixa",
+     "justificativa": "atribuição da fala de apoio por inferência da ordem de discussão"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:19:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "1:19:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:20:25",
+   "processo": "48500.005015/2020-10 (conforme legenda)",
+   "interessado": "Companhia Paulista de Força e Luz - CPFL Paulista (cerca de 4,6 milhões de unidades consumidoras)",
+   "assunto": "Reajuste tarifário anual 2021 da CPFL Paulista: prorrogação da vigência das tarifas da RH 2.677/2020 (tabelas 1 a 9) até a homologação das tarifas de 2021",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidoras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mesma fundamentação do item da Energisa MT: postergar tarifas para dar tempo às medidas de atenuação (Itaipu, transmissão, PIS/Cofins). Mesa informou que a expectativa é julgar os processos suspensos na sessão de 13 ou, no máximo, 20 de abril.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova prorrogação",
+     "ts": "1:25:17",
+     "confianca": "alta",
+     "justificativa": "adota os argumentos do relator do item anterior (Sandoval) e das medidas em curso sobre Itaipu e transmissão; objetivo único de postergar as tarifas"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:26:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:26:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:26:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "1:26:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:27:00",
+   "processo": "48500.005029/2020-25 (conforme legenda)",
+   "interessado": "Energisa Mato Grosso do Sul Distribuidora de Energia (cerca de 1 milhão de unidades consumidoras)",
+   "assunto": "Reajuste tarifário anual 2021 da Energisa MS: prorrogação da vigência das tarifas da RH 2.661/2020 (tabelas 1 a 8) até a homologação das tarifas de 2021",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidoras",
+    "IGP-M x IPCA",
+    "Itaipu"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral de Rosemeire Cecília da Costa, representante do Conselho de Consumidores da Energisa MS (crítica ao IGP-M acima de 30%, parcela B, encargos setoriais, Itaipu pós-2023, PIS/Cofins). Diretores elogiaram a sustentação; relator usou a mesma fundamentação do item da CPFL e destacou o ponto de Itaipu. Sandoval anunciou consulta pública sobre a norma dos conselhos de consumidores. Houve voto registrado fora da ordem por um diretor que havia esquecido de votar.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova prorrogação",
+     "ts": "1:46:47",
+     "confianca": "alta",
+     "justificativa": "mesma fundamentação do item da CPFL; leva em conta a sustentação sobre Itaipu para criar ambiente de atenuação tarifária"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:55:09",
+     "confianca": "baixa",
+     "justificativa": "na discussão (atribuição por inferência) elogiou a sustentação de Rosemeire Cecília da Costa como técnica e gentil"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:55:06",
+     "confianca": "baixa",
+     "justificativa": "atribuição por inferência: diretor que fala do processo de revisão da norma dos conselhos de consumidores é relator dessa matéria"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:55:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "1:55:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:56:08",
+   "processo": "48500.001840/2020-81 (conforme legenda)",
+   "interessado": "consumidores e distribuidoras (REN 928/2021, art. 7)",
+   "assunto": "Índice de atualização monetária das compensações por violação de DEC/FEC e conformidade de tensão não realizadas (suspensas pela REN 928/2021); proposta de usar o IPCA e de alterar o art. 26 da REN 414/2010 para que débitos de consumidores também sejam atualizados pelo IPCA; abertura de consulta pública",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição e qualidade (DEC/FEC, compensações)",
+    "IGP-M x IPCA",
+    "pandemia"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada, sem divergência declarada, a abertura de consulta pública de 12 dias (de 7 a 19 de abril de 2021) sobre a minuta",
+   "resumo_voto": "Relator propõe IPCA (e não o IGP-M) para atualizar as compensações não pagas e também os débitos dos consumidores (alteração da REN 414, art. 26); dispensa de AIR e consulta prévia por poder geral de cautela devido à calamidade pública, com consulta pública de 12 dias. Diretores destacaram simetria de tratamento (compensação e débito pelo mesmo índice) e que o IGP-M virou outlier.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova consulta pública com IPCA",
+     "ts": "2:16:20",
+     "confianca": "alta",
+     "justificativa": "IPCA é menos volátil que o IGP-M; simetria entre o que a distribuidora deve e o que o consumidor deve; não se altera contrato, apenas norma da agência; dispensa de AIR e consulta prévia por cautela"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:25:31",
+     "confianca": "baixa",
+     "justificativa": "atribuição por inferência: diretor que contextualiza a suspensão do corte e das compensações da semana anterior e fecha a discussão"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:25:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:25:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:26:29",
+   "processo": "48500.003095/2019-53 (conforme legenda)",
+   "interessado": "Companhia Hidro Elétrica do São Francisco - Chesf",
+   "assunto": "Recurso administrativo da Chesf contra auto de infração da SFE (multa) por atraso de obras na SE João Câmara II (terceiro transformador 230/69 kV e dois bancos de capacitor, autorizados pela REA 4.445/2013) e descumprimento de procedimento de rede",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento, reduzindo a multa (de cerca de R$ 588 mil para cerca de R$ 415 mil; valores exatos incertos na legenda)",
+   "resumo_voto": "Relator aplica a REN 63 vigente à época (parecer da PGF, retroatividade benéfica não aplicada); mantém as não conformidades de atraso (479 e 439 dias) por tratarem de equipamentos distintos (sem bis in idem) e dosimetria correta; cancela a não conformidade 3 (fonte externa na SE Mossoró II) por isonomia com caso da SE Coletora Porto Velho em que a SFE cancelou o apontamento por mudança dos Procedimentos de Rede.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhecer e dar parcial provimento",
+     "ts": "2:40:47",
+     "confianca": "alta",
+     "justificativa": "manter N1 e N2; cancelar N3 por tratamento isonômico, reduzindo a multa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:41:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:41:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "2:41:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:42:17",
+   "processo": "48500.000373/2019-94 (conforme legenda)",
+   "interessado": "Norte Energia (Belo Monte), Energia Sustentável do Brasil (Jirau), Santo Antônio Energia e Abragel",
+   "assunto": "Pedidos de reconsideração contra a REN 895/2020 (regulamenta a Lei 14.052/2020, repactuação do risco hidrológico/GSF): garantia física das usinas estruturantes (rateio do MRE) e energia vertida turbinável de Belo Monte; item que voltou da sessão anterior",
+   "tema": [
+    "geração (hidrelétrica; usinas estruturantes Belo Monte, Jirau, Santo Antônio)",
+    "comercialização (MRE, GSF, CCEE)",
+    "recursos administrativos",
+    "regulação normativa",
+    "risco hidrológico"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "julgamento suspenso por pedido de vista de Sandoval Feitosa (placar parcial: Elisa e André Pepitone pelo não conhecimento; Efrain Cruz e, pela legenda, Hélvio Guerra pelo conhecimento e alteração da REN 895)",
+   "resumo_voto": "Sustentação oral do representante da Norte Energia (Dr. Moisés, ex-superintendente da ANEEL) sobre antecipação de garantia física e energia vertida turbinável. Relator Efrain Cruz mantém a admissibilidade (já aceita no recurso de Furnas na sessão anterior) e propõe usar a garantia física outorgada (ato de outorga/portaria MME) no rateio do ajuste do MRE para as estruturantes (alterando art. 3, par. 2 e art. 4, par. 5 da REN 895) e a CCEE revisar o módulo em 20 dias; mantém a redação sobre energia vertida turbinável. Elisa Bastos (relatora da REN 895) e André Pepitone defendem o não conhecimento por se tratar de ato normativo geral e abstrato (art. 43 da Norma de Organização/REN 273) e rejeitam mudar a metodologia sem consulta pública; Elisa destaca que o efeito da antecipação nas estruturantes é nulo ou negativo (17%, 21% e 29% da compensação de Belo Monte, Santo Antônio e Jirau pela metodologia vigente). Hélvio Guerra vê razoável a tese da garantia física das estruturantes e tem dúvidas sobre a energia vertida turbinável. Sandoval pediu vista por dúvidas e incertezas surgidas, em especial na sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece dos pedidos e propõe alterar a REN 895 (garantia física outorgada no rateio)",
+     "ts": "2:56:55",
+     "confianca": "alta",
+     "justificativa": "a lei não excluiu as estruturantes e não alterou a garantia física; rateio do MRE com garantia física outorgada corrige a política pública sem afetar o MRE; consumidores foram os beneficiados da política"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "diverge do relator: não conhece dos pedidos de reconsideração",
+     "ts": "3:32:47",
+     "confianca": "alta",
+     "justificativa": "ato normativo geral e abstrato não admite recurso (Norma de Organização 1); alteração normativa exigiria consulta pública; estruturantes já são compensadas pela metodologia vigente"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "vota por não conhecer (diverge do relator)",
+     "ts": "3:49:54",
+     "confianca": "media",
+     "justificativa": "associa-se integralmente a Elisa; recurso contra ato normativo geral e abstrato; parecer 358/2020 da PGF e nota técnica 127/2020 enfrentaram os pontos"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (garantia física outorgada); dúvidas sobre energia vertida turbinável",
+     "ts": "4:17:24",
+     "confianca": "media",
+     "justificativa": "usinas estruturantes não fizeram nada ilícito; quem se beneficiou foram os consumidores; razoável tratar as estruturantes como os demais empreendimentos; acompanha as áreas técnicas quanto à energia vertida turbinável"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "4:17:54",
+     "confianca": "alta",
+     "justificativa": "quantidade de dúvidas e incertezas surgidas na deliberação, especialmente na sustentação oral"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "4:18:35",
+   "processo": "",
+   "interessado": "PCH (nome incerto na legenda)",
+   "assunto": "Requerimento administrativo com voto-vista: recomposição do prazo da autorização para implantação de PCH (nome incerto)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "não deliberado nesta parte (item previsto para a sessão da tarde, Parte 2); apenas voto antecipado de um diretor que sairia",
+   "resumo_voto": "Diretor que se ausentaria na tarde deixou voto antecipado acompanhando o voto-vista (atribuído pela legenda a Efrain Cruz).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto deixado: acompanha o voto-vista (antecipado, ausente na tarde)",
+     "ts": "4:19:02",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "4:19:10",
+   "processo": "",
+   "interessado": "Santa Vitória do Palmar Energia Renovável (conforme legenda)",
+   "assunto": "Requerimento administrativo da Santa Vitória do Palmar Energia Renovável sobre apuração de despacho/geração (conteúdo incerto na legenda); item movido para o fim da pauta",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "não deliberado nesta parte (Parte 2)",
+   "resumo_voto": "Mesmo diretor deixou voto antecipado, por e-mail à secretaria, sem conteúdo audível.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto deixado por e-mail (conteúdo não audível)",
+     "ts": "4:19:35",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "itens 7, 10 e 23 (retirados de pauta, assunto não dito)",
+  "item 8 (Enel Green Power Dois Riachos): retirado pelo autor do voto-vista com extensão de prazo de 8 sessões"
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processos de itens 1, 2, 3, 4 e 6 são parciais ou duvidosos; valores da multa do item 6 aproximados.",
+  "Parte 1 apenas (manhã); itens 5, 11, 12, 13 e 25 ficam para a Parte 2; os itens 12 e 5 aparecem só com voto antecipado de um diretor que se ausentaria na tarde.",
+  "Votos de quem só diz acompanho: o falante não é identificado na legenda; atribuição pela ordem de votação e pela proclamação do Diretor-Geral (confiança baixa a media). Em alguns itens o Diretor-Geral aparece citando os votos em ordem desconhecida.",
+  "O diretor que anunciou ausência na tarde e deixou votos antecipados (itens 12 e 5) foi atribuído a André Pepitone com confiança baixa (a legenda fala em Diretor-Geral substituto conduzindo a tarde). A atribuição do voto-vista do item 12 a Efrain Cruz também é incerta (a legenda cita Elisa e Efrain).",
+  "No item 9 a atribuição das falas: terceiro orador (associa-se a Elisa e adianta voto pelo não conhecimento) = André Pepitone, por inferência (Elisa disse que ela e o Diretor-Geral ficaram vencidos na sessão anterior); orador do doutorado e das licitações = Hélvio Guerra; orador seguinte, que o chama de Doutor Hélvio, = Sandoval Feitosa. O voto de Hélvio na legenda diz voto pelo não conhecimento, provavelmente erro de legenda (acompanha Efrain, que conhece).",
+  "Em 1:55 um diretor registrou o voto fora da ordem (item 2); a legenda não identifica quem.",
+  "Nos itens 3, 1, 2 e 4 as justificativas de não relatores são parcialmente inferidas; a contagem de votos de quem só acompanha vem da proclamação.",
+  "Item 8: só Hélvio Guerra (voto-vista) e o Diretor-Geral aparecem; os demais não se manifestaram de forma audível (não conta 5 votos).",
+  "Sustentação oral do item 3 por deputado estadual: nome incerto na legenda."
+ ]
+}

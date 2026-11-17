@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "video_id": "qKqGPosJCY0",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante (o .md só tem [0:00:00]); ts obtidos de transcricoes/qKqGPosJCY0.json; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46",
+  "data": "2019-12-10",
+  "formato": "presencial (plenário da ANEEL), Parte 1 de 2",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [
+   "Elisa Bastos (viagem a serviço)"
+  ],
+  "observacoes": [
+   "46ª Reunião Pública Ordinária de 10/12/2019, Parte 1 (0:00:00 a 3:25:23); encerrada em intervalo, retomada às 14h30 (Parte 2 em outro vídeo).",
+   "Quórum de quatro diretores; pauta com 42 itens; bloco dos itens 12 a 42; sustentação oral pedida para itens 2, 3, 9 e 10; ordem de preferência: 3, 2, 4, 6, 9, 10, 5, 7, 8 e 11.",
+   "Item 10 (e 5, 7, 8, 11) não aparecem nesta parte.",
+   "Incidente: após a proclamação do item 3, deputada Silvia Cristina (RO) criticou duramente a Energisa e a ANEEL; sessão suspensa e retomada com falas de repúdio dos diretores e do procurador-geral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:02:00",
+   "processo": "itens 12 a 42 da pauta (processos do bloco; números não ditos)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 12 a 42 da pauta (exceto os retirados 14 e 16), com votos e atos disponibilizados desde a quinta-feira anterior",
+   "tema": [
+    "bloco de itens sem destaque",
+    "institucional"
+   ],
+   "relator": "vários (não identificados)",
+   "resultado": "aprovado em bloco (todos os itens do bloco)",
+   "resumo_voto": "Diretor-Geral submeteu o bloco; aprovado sem destaque; proclamação: a diretoria decidiu pela aprovação dos itens do bloco. Conteúdo individual dos itens não é lido em sessão.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:02:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:02:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:02:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:02:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:03:08",
+   "processo": "48500.005792/2019-12",
+   "interessado": "Centrais Elétricas de Rondônia S.A. (Ceron / Energisa Rondônia)",
+   "assunto": "Reajuste tarifário anual (RTA) de 2019 da Ceron, a vigorar a partir de 13/12/2019; efeito médio 0,11% (alta tensão -0,27%, baixa tensão 0,24%, residencial B1 -0,78%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "CDE e encargos setoriais",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "homologado o reajuste (resolução homologatória), sem divergência registrada; proclamação sem a palavra «unanimidade»",
+   "resumo_voto": "RTA processado por força do contrato após indeferimento da revisão tarifária extraordinária pedida pela Energisa (pedido de reconsideração ainda sob relatoria do próprio relator). Sustentação oral de Frederico (Energisa) pedindo suspensão do reajuste e prorrogação das tarifas vigentes até julgar o recurso, e uso da base já em audiência pública. Área técnica (SGT) apresentou os componentes: parcela A (encargos -7,54%, fim da CDE/CCC e quitação antecipada da Conta-ACR; transmissão +1,60%; energia +4,60%), parcela B +0,59%, financeiros +12,66% anulados pelos financeiros em vigor. Após a proclamação, a deputada Silvia Cristina criticou a Energisa e a ANEEL; sessão suspensa e, na retomada, diretores repudiaram as ofensas a servidores e a diretoria.",
+   "sustentacao_oral": "Frederico (advogado, Energisa Rondônia e Energisa Acre; falou conjuntamente para os itens 2 e 3)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:27:58",
+     "justificativa": "homologar RTA por força do contrato de concessão, em substituição à RTE indeferida; reduções de encargos setoriais dominam a parcela A",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:31:55",
+     "confianca": "media",
+     "justificativa": "declarou ao fim que precisa seguir o rito do regimento e não abriu a palavra a representante dos consumidores antes da proclamação"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:38:01",
+   "processo": "48500.005791/2019-38",
+   "interessado": "Companhia de Eletricidade do Acre (Eletroacre / Energisa Acre)",
+   "assunto": "Reajuste tarifário anual de 2019 da Eletroacre, a vigorar a partir de 13/12/2019; efeito médio -4,24% (alta -4,44%, baixa -4,20%); tarifa B1 de R$ 612,88 para R$ 569,84",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "homologado por unanimidade dos votantes",
+   "resumo_voto": "RTA em substituição ao indeferimento da revisão tarifária extraordinária (reconsideração sob relatoria do relator). Parcela A negativa (encargos -5,96%), parcela B +1,36%. Relator rebateu a Energisa sobre antecipar as novas cotas da CDE: processo ainda sob ajustes, tratamento próprio depois. Sustentação oral da Energisa foi dada em conjunto com o item 3. Na abertura do item, a sessão foi retomada após a suspensão pelo incidente com a deputada; falas de repúdio de Pepitone, Sandoval, Limp e Efrain (atribuição aproximada) e do procurador-geral.",
+   "sustentacao_oral": "dispensada neste item (já feita em conjunto com o item 3)",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:03:49",
+     "justificativa": "cumprir o contrato, processar RTA após indeferimento da RTE; efeito médio -4,24%",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (unanimidade dos votantes)",
+     "ts": "1:06:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:07:37",
+   "processo": "48500.002309/2018-67 (voto cita também 48500.005911/2016-xx; número parcial)",
+   "interessado": "SRD/SMA/SFR; Conselho de Consumidores; Enel São Paulo (sandbox de autoleitura citado)",
+   "assunto": "Resultado da 2ª fase da Audiência Pública 28/2018: revisão do Módulo 5 do PRODIST (medição) e aprimoramento do processo de leitura (REN 414/2010); aprova resolução normativa que consolida normas de medição e leitura",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição (medição, leitura, PRODIST)",
+    "mercado livre / abertura de mercado",
+    "consumidor"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a resolução normativa por unanimidade dos votantes",
+   "resumo_voto": "Altera as REN 395/2009, 414/2010, 506 e 610/2012, 733/2016 e módulos 5, 8 e 10 do PRODIST; consolida 9 normas em duas; eleva classe de exatidão dos medidores (grupo B de A para B; acima de 44 kV de C para D) igualando mercado cativo e livre; memória de massa para faturamento; deslocamento do ponto de medição; autoleitura estendida ao grupo B; limita faturamento por média a 3 meses em impedimento de acesso; permite acumular faturas de baixo valor; determina refletir no módulo 12 dos Procedimentos de Rede. Diretores elogiaram o trabalho e destacaram a migração ao mercado livre, PL 232 (Senado) e PL 1917 (Câmara) e ganhos de eficiência.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:25:34",
+     "justificativa": "simplificar e consolidar a norma de medição e leitura, estimular migração ao mercado livre e inovação (sandbox Enel SP)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (unanimidade dos votantes)",
+     "ts": "1:32:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:33:21",
+   "processo": "48500.005911/2016-94 (legenda: 48.500 00 59 11/2006-94)",
+   "interessado": "SRD/SRB; Conselhos de Consumidores; distribuidoras (Abradee)",
+   "assunto": "Abertura da 2ª fase da Audiência Pública 46/2018 (proposta de aprimoramento da regulamentação da continuidade do fornecimento: compensações DIC/FIC/DMIC, componente Q do Fator X, indicadores internos); contribuições de 12/12/2019 a 11/03/2020 (90 dias)",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição (qualidade, DEC/FEC, continuidade)",
+    "tarifas (Fator X, componente Q)",
+    "fiscalização e sanções (caducidade, reincidência)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a instauração da 2ª fase da audiência pública por unanimidade dos votantes",
+   "resumo_voto": "Proposta: concentrar compensações nos consumidores com pior serviço (compensação média BT de cerca de R$ 5 para cerca de R$ 21), base de cálculo só pela parcela B, componente Q do Fator X focado no DEC com multiplicadores por conjuntos e reincidência, e uso de indicadores internos (excluindo eventos externos). O relator declarou preferir manter os eventos externos na apuração (transmissão) e submeteu a ideia à audiência. Prazo estendido a 90 dias a pedido das distribuidoras. Em debate, diretor (não identificado com segurança) apoiou a proposta, apontou desigualdade de DEC dentro das áreas de concessão e anunciou aprovar o regulamento em 2020; Sandoval sugeriu para a consulta ajustar a tabela 1 (multiplicadores de reincidência, ligada à regra de caducidade em discussão) e a tabela 2 (multiplicadores por conjuntos).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:03:34",
+     "justificativa": "aprimorar incentivos de qualidade com foco nos piores conjuntos e consumidores, universalizar e uniformizar a qualidade na área de concessão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (unanimidade dos votantes)",
+     "ts": "2:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:18:10",
+   "processo": "48500.000090/2016-08",
+   "interessado": "Global Energia Elétrica S.A. (PCH Salto Bartolomeu/«Barulho Itu», legenda); Energisa Mato Grosso (terceira interessada)",
+   "assunto": "Requerimento administrativo da Global para reequilíbrio econômico-financeiro do CCVE 17/12 e transferência onerosa de linha de transmissão da PCH; exigibilidade da CFURH (jun/2001 a mai/2011, valor histórico cerca de R$ 7,12 milhões) e outros pedidos; proposta de acordo/distrato com a Energisa MT",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "CDE e encargos setoriais (CFURH, TUSD)",
+    "outorgas de geração (PCH, hidrelétrica)",
+    "recursos administrativos (coisa julgada administrativa, decadência)",
+    "mediação / consumidor cativo"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento ao requerimento; perda de objeto da cautelar; SMA instruirá processo de mediação para eventual distrato (unanimidade dos votantes)",
+   "resumo_voto": "Relator (processo herdado por redistribuição de Rave Barros e Pepitone) concluiu que revisão de preço, CFURH retroativa (decadência de 10 anos), TUSD retroativa, redução de preço por mudança de regime e demais temas já eram coisa julgada administrativa sem fatos novos; pedido de transferência da linha de interesse restrito perdeu objeto (cessão onerosa de R$ 10,47 milhões já pactuada, litígio só na forma de compensação). Sobre o distrato, anuiu à iniciativa mas exigiu proteção ao consumidor cativo da Energisa MT, que discordou das condicionantes; encaminha à mediação da SMA, condicionada ao interesse de ambas as partes. Procurador alertou que consumidor regulado deve ser blindado. Em resposta aos pedidos finais da Energisa, relator disse que verificará a metodologia da SRM para o preço do aditivo, não cabe crédito pelo não cumprimento de 2013 nem glosas sem risco de Cadin.",
+   "sustentacao_oral": "Frederico (advogado, Energisa Mato Grosso, terceira interessada); pediu que a diretoria defina o preço do CCVE ou determine à superintendência fazê-lo em 15 dias, reconheça crédito e autorize glosas sem risco de Cadin",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:17:42",
+     "justificativa": "negar o pleito por exaurimento (coisa julgada, decadência), encaminhar mediação protegendo consumidores cativos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (unanimidade dos votantes)",
+     "ts": "3:23:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:23:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:23:55",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "itens 1, 14 e 16 da pauta (a legenda diz 11, 14 e 16 no primeiro anúncio; item 11 aparece depois na ordem de preferência)",
+   "relator": "não informado",
+   "motivo": "retirados de pauta pelo secretário-geral; motivo não dito",
+   "ts": "0:02:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos (ex.: PCH «Barulho Itu» provavelmente Salto Bartolomeu/Bartira; Global Energia).",
+  "Falantes não identificados no texto: votos «acompanha» de Limp, Efrain e Sandoval inferidos da proclamação e da ordem de votação (relator, demais, Diretor-Geral por último), confiança media/baixa.",
+  "Pepitone preside (Diretor-Geral) e vota por último; Elisa Bastos ausente. Rodrigo Limp aparece como «Limpe/olímpique» na legenda.",
+  "Itens do bloco 12 a 42 não têm processo ou assunto identificáveis nesta parte; registrado como um item único.",
+  "Itens 1, 11 (ambíguo), 14 e 16: retirados de pauta, números ambíguos na legenda.",
+  "Atribuição das falas de repúdio no incidente (itens 3 e 2) e das falas de debate nos itens 4 e 6 é aproximada.",
+  "Item 6: o processo no cabeçalho aparece como 48.500 00 59 11/2006; adotado 005911/2016-94."
+ ]
+}

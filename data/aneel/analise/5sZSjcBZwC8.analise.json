@@ -1,0 +1,496 @@
+{
+ "meta": {
+  "video_id": "5sZSjcBZwC8",
+  "fonte": "legenda automática do YouTube (sem marcadores internos no .md); ts de abertura de itens e de votos finais obtidos da transcrição bruta; ts de justificativas aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "6",
+  "data": "2021-03-02",
+  "formato": "videoconferência (Efrain Cruz participou da sede da CCEE)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Elisa Bastos"
+  ],
+  "observacoes": [
+   "6ª Reunião Pública Ordinária de 2021; encerrada por volta de 3:20:42 do vídeo (sessão de ≈ 3h20).",
+   "Abertura com quórum de três diretores (Efrain Cruz se integra depois); Elisa Bastos não participa. Informes: prazo da CP 62/2020 (custos operacionais regulatórios) até 8/3, satélite Amazônia-1 (Sandoval), homenagem à servidora Vilma Gurgel Bezerra, aprovação da ata da 5ª reunião.",
+   "Pauta de 33 itens; bloco aprovado (exceto item 13 retirado); 13 pedidos de sustentação oral, preferência para o item 7.",
+   "Encerramento: Efrain Cruz agradece à CCEE e anuncia entrega dos cálculos do GSF; ANEEL terá 30 dias para homologar."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:21:10",
+   "processo": "itens do bloco da pauta (33 itens publicados; bloco dos itens 1 e 11 a 33 segundo a legenda, exceto o 13)",
+   "interessado": "diversos (processos em bloco; votos e relatórios disponíveis no site desde a quinta-feira anterior)",
+   "assunto": "Votação em bloco dos itens remanescentes da pauta (sem sustentação oral nem preferência); item 13 retirado de pauta",
+   "tema": [
+    "votação em bloco",
+    "regulação normativa"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Secretário-Geral informa 33 itens, 13 pedidos de sustentação oral entre os itens 2 a 10 e preferência para o item 7; os itens do bloco são aprovados em votação nominal curta e o Diretor-Geral proclama a aprovação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:22:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:22:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:22:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:22:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:22:55",
+   "processo": "48500.003339/2019-19",
+   "interessado": "Enel Distribuição Goiás",
+   "assunto": "Recurso administrativo da Enel Goiás contra auto de infração nº 1/2019 lavrado pela AGR (agência goiana), que aplicou multa por descumprimento de normas de qualidade técnica do fornecimento de energia elétrica; multa de R$ 7,66 milhões (reduzida pela AGR)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição e qualidade do serviço",
+    "distribuidoras (Enel Goiás)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: conhecer e dar provimento parcial, reduzindo a multa de cerca de R$ 7,66 milhões para cerca de R$ 5,69 milhões",
+   "resumo_voto": "Correção da base de cálculo (receita líquida sem ICMS/ISS, erro material alegado pela distribuidora e confirmado pela SFF); mantidas as demais não conformidades e cancelada uma; rejeitada a nulidade do auto. Sem sustentação oral; procuradoria não emitiu parecer.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, provimento parcial",
+     "ts": "0:25:30",
+     "confianca": "alta",
+     "justificativa": "acolhe a correção da base de cálculo e mantém as demais não conformidades; rejeita nulidade por falta de nota técnica"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:44:15",
+     "confianca": "media",
+     "justificativa": "participou da instrução como superintendente de fiscalização; destaca o contexto ruim de prestação de serviço em Goiás e a importância da fiscalização preventiva e da AGR"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:44:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:44:55",
+   "processo": "48500.003349/2019-15",
+   "interessado": "Equatorial Maranhão Distribuidora de Energia / Prefeitura de São José de Ribamar (MA)",
+   "assunto": "Recurso da Equatorial Maranhão contra o despacho 1453/2020 da SMA, que determinou devolução de valores faturados a maior por perdas em reatores de iluminação pública; discussão do prazo prescricional (36 ciclos x 10 anos, despacho 18/2019)",
+   "tema": [
+    "recursos administrativos",
+    "distribuição e qualidade do serviço",
+    "iluminação pública",
+    "devolução de valores / prescrição",
+    "distribuidoras (Equatorial Maranhão)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: conhecido, negado provimento; mantida a devolução simples de fev/2011 a dez/2016, podendo abater valores já devolvidos e dívidas do município",
+   "resumo_voto": "Mantém a aplicação do despacho 18/2019 (prazo decenal contado da reclamação, 21/05/2019), na linha de decisão recente (Nova Andradina/MS); sugere que a SGT estude súmula para decisões reiteradas. Sustentação oral da Equatorial Maranhão (representante dita Barbosa Braga) pedindo prazo de 36 ciclos e irretroatividade; procuradoria opinou por não provimento.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "1:00:00",
+     "confianca": "alta",
+     "justificativa": "prazo decenal do despacho 18/2019 contado da reclamação; recomenda estudo de súmula pela SGT"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:16:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:17:40",
+   "processo": "48500.004932/2020-56 (número parcial pela legenda)",
+   "interessado": "concessionárias de distribuição (CDE); CNPE/EPE citados",
+   "assunto": "Orçamento anual da CDE 2021: aprovação provisória das cotas mensais (valores de 2020 prorrogados) até a aprovação definitiva do orçamento, após sanção da Lei 14.120 (conversão da MP 998)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e modicidade tarifária",
+    "MP 998 / Lei 14.120"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cotas provisórias para evitar ficar sem orçamento; orçamento definitivo depende da regulamentação de P&D (relatoria da diretora Elisa Bastos) e do aporte previsto na nova lei; permissionárias tratadas nos processos tarifários. Procuradoria opinou pela aprovação. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova cotas provisórias",
+     "ts": "1:20:00",
+     "confianca": "alta",
+     "justificativa": "única decisão possível agora; preocupação pontual com dispositivo sobre modicidade tarifária (EPE, CNPq) mas louva a MP convertida"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:26:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:27:10",
+   "processo": "48500.002824/2019-48, 48500.002825/2019-72 e 48500.002826/2019-17",
+   "interessado": "Bom Jesus Energia, Ingá Energia e Santa Bárbara Energia (CGH Bom Jesus, Ingá e Santa Bárbara); Cemig e Energisa Minas Gerais",
+   "assunto": "Pedido de medida cautelar para enquadrar as três CGHs, beneficiadas pelo Reidi, como minigeração distribuída com adesão ao sistema de compensação (precedente: CGH Pardo e Pedra Lavada, despacho 2533/2018)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "Reidi",
+    "outorgas de geração (CGH)",
+    "medida cautelar",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: cautelar indeferida; mérito a ser julgado em breve",
+   "resumo_voto": "Fumaça do bom direito presente, mas perigo da demora não demonstrado; levantamento da SRD (memorando 281/2020) mostra 75 CGHs com Reidi; relator retirou do voto a determinação de prazo de 30 dias para consistência de dados, que será dada por despacho da relatoria. Sustentação oral da Ingá (advogado das empresas) invocando isonomia e notas técnicas 37-39/2019. Procuradoria à disposição, sem novo parecer.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, indefere a cautelar",
+     "ts": "1:55:00",
+     "confianca": "alta",
+     "justificativa": "sem perigo da demora; mérito julgado em breve, já favorável à mudança de entendimento"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:58:00",
+     "confianca": "media",
+     "justificativa": "antecipa voto favorável; lembra que o Reidi foi vedado a GD por entender-se que GD não seria infraestrutura e que a revisão da Res. 482 pode reabrir a questão"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:10:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:10:54",
+     "confianca": "media",
+     "justificativa": "comenta que o Reidi visa quem comercializa energia, o que não ocorre na GD, mas considera PCH/CGH infraestrutura"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:11:26",
+   "processo": "48500.004948/2020-81 (número parcial pela legenda)",
+   "interessado": "Usina Termelétrica de Anápolis / CCEE",
+   "assunto": "Pedido de impugnação da UTE Anápolis contra decisão da CCEE; retirado de pauta a pedido do relator Efrain Cruz (voto será aprimorado)",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator solicita retirada para aprimoramento do voto, após comunicado da assessoria.",
+   "votos": []
+  },
+  {
+   "id": "6",
+   "ts": "2:12:18",
+   "processo": "48100.000718/1993-05 e 48500.005300/2020-41 (números parciais pela legenda)",
+   "interessado": "CESP / Consórcio São Paulo Energia (UHE Paraibuna)",
+   "assunto": "Rito específico para extensão provisória (180 dias) da outorga da UHE Paraibuna (contrato 3/2004, termo final 9/3/2021) como compensação da repactuação do risco hidrológico (Leis 13.203 e 14.052/2020; REN 895/2020)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "risco hidrológico (GSF)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aditivo provisório de 180 dias (estimativa preliminar de 269 dias de extensão) com cláusula de resolução contratual se a CESP não firmar o aditivo definitivo; exige desistência de ações e renúncia conforme a REN 895; não se confunde com a prorrogação regida pela Lei 12.783. Procuradoria não consultada.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova o rito específico",
+     "ts": "2:17:00",
+     "confianca": "alta",
+     "justificativa": "adaptação temporal da REN 895 ao caso, sem criar direitos novos; CCEE já enviou resultados para homologação"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:22:00",
+     "confianca": "media",
+     "justificativa": "perguntou se a extensão provisória traria risco ou impedimento frente à resolução; satisfeito com a explicação, parabeniza as áreas pela inovação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:26:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:26:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:26:38",
+   "processo": "48500.007800/2019-38 (número parcial pela legenda)",
+   "interessado": "Marlin Azul Energia S.A. (UTE Marlin Azul, Macaé/RJ)",
+   "assunto": "Declaração de utilidade pública (DUP) para servidão administrativa da faixa do gasoduto dedicado (cerca de 22 km, Terminal de Cabiúnas até a usina) da UTE Marlin Azul, primeira térmica com gás do pré-sal; primeira DUP de gasoduto na ANEEL",
+   "tema": [
+    "outorgas de geração (térmica a gás)",
+    "declaração de utilidade pública / servidão",
+    "gasoduto",
+    "Reidi"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: resolução autorizativa declarando a utilidade pública",
+   "resumo_voto": "Competência da ANEEL (art. 10 da Lei 9.074/95; parecer 104/2020 da PF); gasoduto é instalação necessária à usina, análogo à LT de interesse restrito; rejeitada a tese de perda de objeto da SCG (memorando 136) por haver DUP estadual (decreto 47.123/2020), pois esta só alcança áreas privadas, há cerca de 40 áreas do Incra, diferença de traçado e efeito sobre o Reidi. Sustentação oral de Patrícia Cardoso (Marlin Azul). Procuradoria favorável com ressalva sobre sobreposição.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova a DUP",
+     "ts": "2:50:00",
+     "confianca": "alta",
+     "justificativa": "gasoduto como estrutura do setor elétrico; sem perda de objeto; inaugura nova modalidade de DUP e sugere estudo de térmicas locacionais"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:59:46",
+     "confianca": "media",
+     "justificativa": "sem dúvida de que o gasoduto é vinculado à usina como LT de interesse restrito; entende que não há perda de objeto por serem finalidades distintas; sugere que a agência estude térmicas locacionais"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:14:41",
+     "confianca": "media",
+     "justificativa": "dúvida sobre sobreposição das DUPs federal e estadual, esclarecida pelo relator"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "3:15:05",
+   "processo": "48500.002281/2016-47 (parcial)",
+   "interessado": "PCH Generoso",
+   "assunto": "Prorrogação de prazo de pedido de vista (mais 8 sessões, conforme o regimento): PCH Generoso (recurso com efeito suspensivo contra despacho 1172/2015-SCG que determinou desmobilização das estruturas e restituição do rio ao leito)",
+   "tema": [
+    "pedido de vista / prorrogação",
+    "recursos administrativos",
+    "outorgas de geração"
+   ],
+   "relator": "Elisa Bastos (voto-vista); relator original Efrain Cruz",
+   "resultado": "deferida a prorrogação por oito sessões (votação em bloco dos itens 8, 9 e 10, sem objeção)",
+   "resumo_voto": "Itens lidos em bloco pelo Secretário-Geral por sugestão do Diretor-Geral; sem objeção, deferidas oito sessões aos respectivos relatores.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:15:05",
+   "processo": "48500.005985/2017 (parcial)",
+   "interessado": "Energipe S.A.",
+   "assunto": "Prorrogação de prazo de pedido de vista (mais 8 sessões, conforme o regimento): Energipe: pedido de reconsideração com efeito suspensivo contra despachos 2705/2018 e 2717/2019 que aplicaram multa a centrais eólicas (Araras, Garças, Lagoa Seca, Vento do Oeste, Ventos de Santa Rosa, Santo Inácio, São Geraldo, Sebastião)",
+   "tema": [
+    "pedido de vista / prorrogação",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efrain Cruz (voto-vista); relator original Júlio César Rezende Ferraz",
+   "resultado": "deferida a prorrogação por oito sessões (votação em bloco dos itens 8, 9 e 10, sem objeção)",
+   "resumo_voto": "Itens lidos em bloco pelo Secretário-Geral por sugestão do Diretor-Geral; sem objeção, deferidas oito sessões aos respectivos relatores.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "3:15:05",
+   "processo": "48500.002902/2020-21 (parcial)",
+   "interessado": "Centrais Elétricas de Sergipe S.A.",
+   "assunto": "Prorrogação de prazo de pedido de vista (mais 8 sessões, conforme o regimento): Centrais Elétricas de Sergipe (UTE Porto de Sergipe): requerimento para não aplicação de penalidade pela CCEE em contrato no ambiente regulado",
+   "tema": [
+    "pedido de vista / prorrogação",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efrain Cruz (voto-vista); relator original Cristiano Vieira da Silva",
+   "resultado": "deferida a prorrogação por oito sessões (votação em bloco dos itens 8, 9 e 10, sem objeção)",
+   "resumo_voto": "Itens lidos em bloco pelo Secretário-Geral por sugestão do Diretor-Geral; sem objeção, deferidas oito sessões aos respectivos relatores.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "defere a prorrogação (sem objeção)",
+     "ts": "3:15:22",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "13 (do bloco; assunto não identificado na legenda)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da reunião (informado pelo Secretário-Geral)",
+   "ts": "0:21:10"
+  },
+  {
+   "item": "5 — impugnação da UTE Anápolis contra decisão da CCEE (48500.004948/2020-81)",
+   "relator": "Efrain Cruz",
+   "motivo": "relator pede retirada para aprimorar o voto",
+   "ts": "2:11:58"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais, valores e nomes distorcidos; processos marcados como parciais não devem ser citados sem conferência.",
+  "Numeração dos itens 1 a 3 incerta: a legenda fala item 2 e 3 para Enel Goiás e Equatorial e não diz o número da CDE; adotei 1, 2 e 3 pela ordem de julgamento (itens 4 a 10 batem com a fala do Secretário-Geral). O texto do bloco também é ambíguo (11 a 33).",
+  "Itens do bloco (exceto 13) não são identificados individualmente na gravação; não há votos nem relatores por item.",
+  "Ricardo Tili e Gentil Nogueira constam nas tags de falante mas Tili atua como Secretário-Geral na sessão e Gentil não é diretor presente; ignorados como votantes.",
+  "Votos de seguidores baseados na proclamação (Diretor-Geral); ordem de fala e ts individuais são aproximados e a atribuição por nome é baixa/média quando só se ouve «acompanho».",
+  "Justificativas de Hélvio Guerra no item 4, 6 e 7 e de André Pepitone nos itens 4 e 7 atribuídas por indícios (relator se dirige a eles pelo nome); comentários de outros diretores nos itens 1, 3 e 7 não puderam ser atribuídos com segurança.",
+  "No item 1 um segundo comentário elogiando a fiscalização e a melhora do serviço em Goiás não teve autor identificado.",
+  "ts de votos de relatores (justificativas) são estimativas dentro do bloco de leitura do voto."
+ ]
+}

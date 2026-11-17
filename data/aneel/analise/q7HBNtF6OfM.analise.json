@@ -1,0 +1,433 @@
+{
+ "meta": {
+  "video_id": "q7HBNtF6OfM",
+  "fonte": "legenda automática do YouTube; sem falantes nomeados (turno único); ts de itens e votos obtidos do arquivo de transcrição, aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "30",
+  "data": "2021-08-17",
+  "formato": "não informado (reunião pública ordinária, Parte 2, tarde)",
+  "presidente_da_sessao": "não identificado pela legenda (provável Diretor-Geral André Pepitone)",
+  "diretores_presentes": [
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "Sandoval Feitosa",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 30ª Reunião Pública Ordinária de 17/08/2021; retomada às 0:00:11 do vídeo, encerrada em 3:04:15. A pauta da manhã está em outro vídeo.",
+   "8 itens: 4 aprovados por unanimidade (17, 18, 6, 13), 1 por maioria no mérito (10), 1 unânime nos itens de consulta pública (10), 2 pedidos de vista (15 por Elisa Bastos; 4 por Hélvio Guerra), 1 unânime (3).",
+   "Item 10: Elisa Bastos vencida quanto ao conhecimento dos recursos.",
+   "Item 3: sustentação oral de Renato Bacci de Castilho (Abrage)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "15",
+   "ts": "0:00:49",
+   "processo": "48500.004694/1998-81",
+   "interessado": "Delta Geração de Energia Investimentos e Participações Ltda (UTE William Arjona, Campo Grande/MS)",
+   "assunto": "Registro de óleo diesel como combustível alternativo da UTE William Arjona (alteração da Resolução Autorizativa que registrou apenas gás natural como combustível principal); processo retirado de pauta na reunião anterior",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "crise hídrica / suprimento",
+    "CVU e custos fixos de UTE a gás"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de vista de Elisa Bastos; sem deliberação nesta sessão",
+   "resumo_voto": "Relator votou por autorizar o registro do óleo diesel como combustível alternativo (correção de erro material da outorga, em linha com ofício do MME/CMSE) e determinar à SRG a homologação do CVU. Debate sobre a competência da ANEEL diante da carta do MME (Sandoval Feitosa, Hélvio e Elisa comentam). Elisa Bastos pediu vista para melhor avaliar a questão de competência.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova a autorização do registro do combustível alternativo",
+     "ts": "0:07:24",
+     "justificativa": "correção de erro material da outorga; a usina foi autorizada em razão de medidas do CMSE para despacho de térmicas; determina à SRG homologar o CVU com óleo diesel",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "0:20:43",
+     "justificativa": "a questão da competência (MME x ANEEL) precisa ser avaliada melhor para evitar dúvidas em outros processos; a não deliberação hoje não compromete a geração da usina, pois há gás por mais 15 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "0:20:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:20:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:20:43",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:20:55",
+   "processo": "48500.001543/2019-58",
+   "interessado": "Chimarrão Transmissora de Energia S.A. (contrato de concessão 10/2019, lote 10 do leilão 4/2018; Guaíba 3, RS)",
+   "assunto": "Etapas para antecipação da entrada em operação comercial das instalações do contrato de concessão 10/2019 (inversão entre as etapas 1 e 2; SE Guaíba 3 525/230 kV em separado, com RAP segmentada)",
+   "tema": [
+    "transmissão (RAP, antecipação de entrada em operação)",
+    "contrato de concessão",
+    "confiabilidade do sistema Rio Grande do Sul"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estabelece a sequência de etapas do anexo 1 do despacho, com possibilidade de inversão entre as etapas 1 e 2, e autoriza a operação comercial dos setores de 525 e 230 kV da SE Guaíba 3 em separado, com segmentação da RAP do módulo geral. ONS validou a alternativa; permite substituir torres de emergência na linha radial dos complexos eólicos do Chuí sem desligar os parques.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:35:15",
+     "justificativa": "otimiza a energização de obra planejada em 2013; alternativa da transmissora tem desempenho elétrico superior à de referência e foi validada pelo ONS; permite antecipar trecho para trocar torres de emergência sem desligar eólicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:36:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:36:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:36:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:36:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:37:48",
+   "processo": "48500.003635/2021-97",
+   "interessado": "Transmissoras (reforços prioritários autorizados); ONS; grupo de acompanhamento do SIN (GT crise hídrica)",
+   "assunto": "Adicional de RAP para antecipação de entrada em operação comercial de reforços de transmissão prioritários já autorizados, com operação até 31/12/2022",
+   "tema": [
+    "transmissão (RAP, reforços autorizados)",
+    "crise hídrica / segurança de suprimento",
+    "tarifas (impacto tarifário)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza adicional de RAP para reforços do anexo 1 da NT 516/2021 que antecipem a operação até 31/12/2022, igual ao pagamento base por mês de antecipação, pago nos reajustes subsequentes (submódulo 9.7 do PRORET). Apresentação técnica da SCT: 31 empreendimentos autorizados; impacto máximo estimado de R$ 11,6 milhões por mês (0,43% da RAP).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:46:30",
+     "justificativa": "mecanismo já usado para obras licitadas estendido às autorizadas; melhora escoamento (NE-SE) em momento de crise hídrica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:49:16",
+     "justificativa": "é antecipação de fluxo de caixa e não receita adicional; antecipa concordância com o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:50:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:50:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:50:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:51:53",
+   "processo": "48500.005162/2018-91 e 48500.000027/2020-67 (números parciais pela legenda)",
+   "interessado": "Usinas híbridas e associadas (regulamentação; agenda regulatória 2021/2022, item 50)",
+   "assunto": "Abertura da segunda fase da Consulta Pública 61/2020 (30 dias, a contar de 18/08/2021) para colher subsídios sobre minuta de resolução normativa sobre usinas híbridas e associadas",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "geração (usinas híbridas e associadas)",
+    "escoamento de energia no Nordeste"
+   ],
+   "relator": "Elisa Bastos (relatora original); voto-vista de Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Efrain Cruz devolveu o voto-vista acompanhando a relatora original quanto à abertura da segunda fase da CP 61/2020, por 30 dias a partir de 18/08/2021; preferiu tratar as questões de escoamento no âmbito da consulta e não na abertura.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora original, aprova abertura da segunda fase",
+     "ts": "0:52:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: acompanha a relatora; consulta de 30 dias",
+     "ts": "0:52:13",
+     "justificativa": "questão do escoamento (principalmente Nordeste) será enfrentada dentro da consulta pública e não na abertura",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:55:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "confirma o voto inicial (acompanha a relatora)",
+     "ts": "0:55:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:55:53",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:56:34",
+   "processo": "48500.000373/2019-94",
+   "interessado": "Norte Energia S.A., Energia Sustentável do Brasil (ESBR), Santo Antônio Energia, Abragel (recorrentes)",
+   "assunto": "Pedidos de reconsideração contra a REN 895/2020 (repactuação do risco hidrológico, GSF; Lei 14.052/2020 alterada pela Lei 14.182/2021 da Eletrobras); abertura de consulta pública sobre minuta de alteração da REN 895 e das regras de comercialização",
+   "tema": [
+    "comercialização (risco hidrológico, GSF, MRE)",
+    "recursos administrativos",
+    "regulação normativa (consulta pública)",
+    "Eletrobras / capitalização",
+    "Belo Monte"
+   ],
+   "relator": "Efrain Cruz (relator do voto-vista devolvido por Sandoval Feitosa; relatora original Elisa Bastos)",
+   "resultado": "mérito dos recursos aprovado por maioria (Elisa Bastos vencida quanto ao conhecimento); abertura das duas consultas públicas por unanimidade, com prazo reduzido para 10 dias",
+   "resumo_voto": "Relator votou por conhecer dos recursos e negar provimento a quase todos os pedidos (Norte Energia, Abragel, ESBR), com provimento parcial a Norte Energia (par. 2 do art. 3 da REN 895), e instaurar consulta pública (inicialmente 45 dias) sobre a minuta de alteração da REN 895 e sobre as regras de comercialização do módulo GSF, em atendimento ao art. 18 da Lei 14.182/2021. Hélvio Guerra propôs reduzir a consulta a 10 dias para que a CCEE calcule as extensões de outorga antes do balanço do 3o trimestre (30/09); o relator acatou. Procuradoria manteve que não cabe recurso contra ato normativo.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece, nega/dá parcial provimento e instaura as consultas (prazo ajustado para 10 dias)",
+     "ts": "1:15:41",
+     "justificativa": "alteração legislativa superveniente ratifica a interpretação da REN 930; dispensa de AIR com base na Norma ANEEL 40/2013, art. 7",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator, com proposta de reduzir a consulta de 45 para 10 dias (acatada)",
+     "ts": "1:17:40",
+     "justificativa": "45 dias seria excessivo; consulta curta permite à CCEE calcular as extensões de outorga a tempo do balanço do 3o trimestre de 2021 e do processo de capitalização da Eletrobras",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "vencida quanto ao conhecimento; acompanha as consultas públicas (10 dias)",
+     "ts": "1:28:20",
+     "justificativa": "votou por não conhecer os recursos, por serem contra norma de caráter geral e abstrato; mas acompanha os itens B e C (consultas públicas), inclusive os 10 dias",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (conhecimento e consultas)",
+     "ts": "1:29:46",
+     "justificativa": "citado na proclamação entre os que decidiram conhecer; devolveu o voto-vista por perda de objeto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:33:36",
+   "processo": "48500.002907/2010-89",
+   "interessado": "Geradores termelétricos; ONS; ABRAGET; ACENDE (contribuições à CP 8/2020)",
+   "assunto": "Resultado da Consulta Pública 8/2020 para revisão da REN 614/2014 (critérios de indisponibilidade e inflexibilidade de centrais termelétricas)",
+   "tema": [
+    "regulação normativa (resultado de consulta pública)",
+    "comercialização / operação (indisponibilidade, inflexibilidade, GFOM)",
+    "geração termelétrica"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista de Hélvio Guerra; sem deliberação nesta sessão",
+   "resumo_voto": "Relatora votou por aprovar a revisão da REN 614: média de inflexibilidade declarada igual à usada na garantia física, duas verificações intermediárias na apuração, fim do crédito de GFOM (saldo com limite de 4 anos), revogação do capítulo de GD sem medição na CCEE, uso dos tempos do modelo DECOMP/DESSEM; ONS com 90 dias para ajustar procedimentos de rede. Apresentação técnica da SRG (Patrícia). Hélvio Guerra pediu vista antes da votação por querer mais segurança, lembrando questionamento feito na reunião técnica.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova a revisão da REN 614",
+     "ts": "1:57:24",
+     "justificativa": "aprimoramento após sete anos da norma; compatibiliza declarações de inflexibilidade com a garantia física e aumenta o comprometimento do agente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "1:59:40",
+     "justificativa": "quer mais segurança para votar; recorda dúvida levantada na reunião técnica; promete devolver o quanto antes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "2:00:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:00:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:00:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:01:14",
+   "processo": "48500.004534/2020-42 (parcial), 48500.000361/2019-32 e 48500.002015/2019-16 (números pela legenda, incertos)",
+   "interessado": "Empresa de Transmissão Timóteo Mesquita Ltda (ETTM); controladora Orteng Energia; TCE Infraestrutura / Acetol (adquirente proposta); Mantiqueira Transmissora de Energia (afetada)",
+   "assunto": "Apuração de falhas e transgressões no contrato de concessão 2/2012 (leilão 4/2011): anuência prévia à transferência de controle da ETTM como alternativa à caducidade, termo de intimação SFE 8/2019 (suspensão de licitar) e recurso contra multa editalícia do Despacho SFE 618/2021",
+   "tema": [
+    "fiscalização e sanções (multa editalícia, suspensão de licitar)",
+    "transmissão (atraso de obra, caducidade)",
+    "transferência de controle societário (Lei 9.074)",
+    "TLR / pendência impeditiva de terceiros (Mantiqueira)"
+   ],
+   "relator": "Elisa Bastos (relatora original); voto-vista de Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes, nos termos do voto-vista de Hélvio Guerra",
+   "resumo_voto": "Voto-vista de Hélvio Guerra: anuir previamente à transferência do controle para a TCE/Acetol; aprovar a minuta do 2o termo aditivo (30 dias, sob pena de seguir a caducidade); vedar nova transferência até a operação de todas as funções; aplicar à ETTM e à Orteng suspensão de 2 anos de licitar; indeferir a cautelar; dar provimento parcial ao recurso mantendo a multa, mas reduzindo-a para cerca de R$ 359 mil (1,5% do investimento com avanço de 85%, atenuada em 50%), em vez de afastá-la; e determinar ao ONS que revise os TLR da Mantiqueira após o termo aditivo, com custos de novo atraso recaindo sobre o novo controlador. Elisa Bastos mudou seu posicionamento inicial e acompanhou.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor: diverge da relatora original quanto à multa e ao TLR",
+     "ts": "2:31:56",
+     "justificativa": "transferência de controle não deve abonar penalidades; afastar a multa emite sinal regulatório equivocado e enfraquece os leilões; atraso causou ônus de cerca de R$ 3,8 milhões em RAP à Mantiqueira",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o voto-vista (muda o voto inicial)",
+     "ts": "2:35:38",
+     "justificativa": "considerou brilhante o voto-vista e o tratamento dado ao TLR, que era diferente do seu; muda de posição e acompanha",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:36:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:36:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "2:36:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:39:06",
+   "processo": "48500.000374/2019-39",
+   "interessado": "ABRAGE (sustentação oral: Renato Bacci de Castilho, GT de manutenção); Abrage, CTG Brasil e outros geradores; ONS",
+   "assunto": "Resultado da Consulta Pública 44/2019 sobre expurgos de indisponibilidade das usinas hidrelétricas no MRE (anexo da REN 614/2014)",
+   "tema": [
+    "regulação normativa (resultado de consulta pública)",
+    "comercialização (MRE)",
+    "geração hidrelétrica (indisponibilidade, mexilhão dourado)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Mantém o anexo da REN 614 (alternativa 2), com adaptação da linha de limpeza por mexilhão dourado e plantas aquáticas (franquia de 360 horas por unidade, sem limite temporal) e inclusão do item n (15 minutos de sincronismo e obtenção de potência máxima para hidrelétricas). Sustentação oral da Abrage contra o item n (15 min não isonômico, fora da consulta); procuradoria sem parecer. Efeito simulado: cerca de 3 pontos percentuais de disponibilidade e 0,4% da garantia física.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova a minuta de resolução normativa",
+     "ts": "3:02:45",
+     "justificativa": "expurgos são riscos comuns a todos os agentes; efeito de 3 p.p. é assimilável; item n traz isonomia com as térmicas e área pode prever exceções",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "3:03:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:03:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:03:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama unanimidade dos presentes",
+     "ts": "3:03:43",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com turno único: nenhum falante é nomeado; atribuição de votos feita pela ordem de votação, pelo nome dito pela mesa e pelas proclamações; muitos 'acompanho' sem nome ficam com confiança baixa.",
+  "Presença de André Pepitone não confirmada na fala desta parte (presidente não nomeado; há menção a 'diretor-geral substituto'); registrado como presente e como proclamador por inferência, confiança baixa. Se estiver ausente, remover seus votos.",
+  "Item 15: antes da vista houve um 'acompanho o relator' sem nome claro; não atribuído a ninguém; demais diretores marcados como não votou (vista) com confiança baixa.",
+  "Item 13: números de processo incertos; valores da multa citados como 359 mil (voto-vista) conforme legenda aproximada.",
+  "Item 10: nomes da fundamentação (Norte Energia, ESBR, Abragel, Santo Antônio) podem estar distorcidos; resultado por maioria vem da fala final da mesa.",
+  "Numeração dos itens segundo a pauta falada (15, 17, 18, 6, 10, 4, 13, 3)."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {"video_id": "Og_mBrAXHeE", "fonte": "legenda automática do YouTube; trecho curto (~2,5 min) da 22ª Reunião Pública Ordinária; falantes não identificados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "22", "data": "2018-06-26", "formato": "presencial", "presidente_da_sessao": "não identificado",
+    "diretores_presentes": [], "ausentes": [],
+    "observacoes": ["Vídeo cobre apenas a abertura e a votação em bloco dos itens 19 a 53 (título: Itens 19 a 53). Ata da 21ª reunião aprovada sem observações.", "Reunião seria interrompida às 11h para inauguração da primeira etapa de usina fotovoltaica, retomando por volta das 12h.", "Sustentação oral prevista para itens 7 e 16; nenhum destaque no bloco."]
+  },
+  "itens": [
+    {
+      "id": "19-53", "ts": "0:02:00",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de itens 19 a 53 da pauta, votados em bloco sem destaque (conteúdo dos itens não descrito no trecho)",
+      "tema": ["bloco de itens sem destaque"],
+      "relator": "não identificado",
+      "resultado": "aprovado em bloco (todos os diretores que falaram votaram pela aprovação; no item 20 um diretor se absteve de votar por ter participado da instrução anterior)",
+      "resumo_voto": "Secretário submete o bloco 19 a 53; quatro diretores votam pela aprovação do bloco e um (segundo a votar) aprova exceto o item 20, por ter participado da instrução anterior.",
+      "unanime": false,
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:08", "justificativa": "voto pela aprovação dos itens do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco exceto item 20 (impedido)", "ts": "0:02:14", "justificativa": "com exceção do item 20 haja vista que participei da instrução anterior", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:20", "justificativa": "voto pela aprovação dos itens do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:24", "justificativa": "também acompanha o voto pela aprovação de todo o bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:28", "justificativa": "também voto pela aprovação dos itens do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "28", "motivo": "retirado de pauta (anunciado pelo secretário)"},
+    {"id": "15", "motivo": "retirado de pauta (anunciado pelo secretário)"},
+    {"id": "17", "motivo": "retirado de pauta (anunciado pelo secretário)"}
+  ],
+  "limites_da_analise": ["Nenhum diretor é nomeado no trecho; todos os votos como não identificado. Ordem de votação e minutos são aproximados.", "Legenda automática confusa: números dos itens retirados (28, 15, 17) e a ordem de apreciação posterior (16, 18, 3, 4, 5) podem estar errados.", "Vídeo é fragmento; não há deliberação item a item."]
+}

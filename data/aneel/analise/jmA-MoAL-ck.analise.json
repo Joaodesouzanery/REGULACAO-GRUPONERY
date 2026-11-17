@@ -1,0 +1,653 @@
+{
+ "meta": {
+  "video_id": "jmA-MoAL-ck",
+  "fonte": "legenda automática do YouTube; sem falantes nomeados (marcadores só no início); ts = tempo do vídeo obtido de transcricoes/jmA-MoAL-ck.json; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47",
+  "data": "2019-12-17",
+  "formato": "presencial (Parte 1 da 47ª Reunião Pública Ordinária; sessão suspensa para almoço, retomada às 15h30 na Parte 2)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura: 5 diretores, quórum para deliberar; comunicado do leilão de transmissão 2/2019 em 19/12/2019 (São Paulo, 34 empreendimentos, R$ 4,2 bilhões).",
+   "Pauta de 65 itens; itens 1 a 21 de deliberação individual e 22 a 65 em bloco; retirados de pauta os itens 4, 17, 21 e 29.",
+   "Parte 1 cobre abertura até a suspensão para almoço (5:00:08 do vídeo); itens 8 a 14, 19, 20 e 47 constam da ordem de julgamento e ficam para a Parte 2.",
+   "Vistas nesta parte: item 33 do bloco (Efrain Cruz), item 16 (Efrain Cruz) e item 6 (autor provável André Pepitone)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:40",
+   "processo": "itens 22 a 65 da pauta (bloco), exceto 23, 38 e 47 destacados e item 33",
+   "interessado": "diversos",
+   "assunto": "Aprovação em bloco dos itens de deliberação sem destaque (itens 22 a 65, menos os destacados 23, 38 e 47); item 33 (resultado de audiência pública, processo 48500.004477/2019, número da AP incerto) retirado do bloco por pedido de vista",
+   "tema": [
+    "regulação normativa",
+    "bloco de itens sem destaque"
+   ],
+   "relator": "vários (itens do bloco)",
+   "resultado": "bloco aprovado, exceto item 33 (vista de Efrain Cruz)",
+   "resumo_voto": "O Diretor-Geral submeteu o bloco; Efrain Cruz aprovou os demais itens e pediu vista do item 33; os outros diretores aprovaram o bloco; proclamado aprovado, com o item 33 em vista.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco, exceto item 33: pede vista",
+     "ts": "0:03:57",
+     "justificativa": "pede vista do item 33 (processo 48500.004477/2019, resultado de audiência pública)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama (Diretor-Geral)",
+     "ts": "0:04:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:01",
+   "processo": "48500.005211/2019-42",
+   "interessado": "ANEEL / SCT / SEL (consulta pública do edital do Leilão de Transmissão 1/2020)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 20/12/2019 a 03/02/2020) para aprimorar a minuta de edital do Leilão de Transmissão nº 1/2020: 6 lotes (AM, CE, GO, MS, RS, SP), cerca de R$ 2,1 bilhões; inclui SE Itapaci (reforço à CELG G&T por determinação do MME) e lote da Amazonas GT",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura a consulta pública e determina à SCT outorgar por autorização a SE Itapaci como reforço à CELG G&T (determinação do MME); apresentação técnica de Daniel Oliveira (SCT). Debate sobre taxa da Prefeitura de Fortaleza pelo uso da faixa da linha (lote 5, possível ônus de cerca de R$ 150 milhões), cláusula de não repasse ao contrato, e proposta de encaminhar o tema à AGU para ADPF; fim da exigência de anuência da diretoria em reestruturação societária pré-operacional (item 14.4 do edital). Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:20:00",
+     "justificativa": "consulta pública necessária; SE Itapaci como reforço à CELG por determinação do MME; lote Amazonas GT licitado em lote único",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "0:37:18",
+     "justificativa": "comentou o risco de tributos e taxas sobre a tarifa (ICMS no Amazonas, taxa de Fortaleza)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:38:26",
+   "processo": "48500.005939/2019 (dígitos finais incertos)",
+   "interessado": "ANEEL / SEL (leilões de energia existente A-4 e A-5 de 2020)",
+   "assunto": "Abertura de consulta pública (19/12/2019 a 03/02/2020) para o edital e anexos dos Leilões 5 e 6/2019, A-4 e A-5 de 2020, de energia de empreendimentos existentes (térmicas a gás e carvão nacional; CVU máximo de R$ 300/MWh; contratos de 15 anos; leilão previsto para 30/04/2020)",
+   "tema": [
+    "leilões (geração)",
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (consulta pública)",
+    "tarifas"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura a consulta pública. Objetivo de substituir térmicas caras (CVU acima de R$ 1.000/MWh) que vencem a partir de 2023; apresentação de Barreto (SEL). Efeito esperado de redução de tarifa e estudo de rescisão bilateral antecipada de contratos. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:50:00",
+     "justificativa": "consulta pública do edital; leilão de energia existente com horizonte de entrega mais longo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "0:55:42",
+     "justificativa": "destacou a medida como fruto de trabalho com o MME para reduzir o custo de térmicas com CVU muito elevado (ex.: Pau Ferro, Termomanaus, Chavantes)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:56:17",
+   "processo": "48500.002044/2018-05",
+   "interessado": "ANEEL / SRM / Município de Boa Vista (RR)",
+   "assunto": "Abertura de consulta pública (20/12/2019 a 18/03/2020) para o edital do Leilão 4/2020, Leilão de Eficiência Energética em Boa Vista (RR), com agente redutor de consumo (RC) e protocolo de medição e verificação; 16 documentos, minutas de resoluções normativas e autorizativas",
+   "tema": [
+    "leilões (eficiência energética)",
+    "CDE e encargos setoriais (CCC)",
+    "regulação normativa (consulta pública)",
+    "distribuição"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura a consulta pública do leilão inovador de eficiência energética (7 lotes de 0,5 MWmédio mais um lote de iluminação pública); apresentação de Paulo Luciano (SRM). Diretores elogiam o projeto como redução de custos da CCC e ponto de partida para replicação; alerta para auditoria da medição. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:19:23",
+     "justificativa": "consulta pública do leilão de eficiência energética em Boa Vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:19:45",
+     "justificativa": "parabeniza relator e equipes; projeto de interesse internacional, benefícios de uso racional, redução de gases e postergação de investimento em rede",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:20:30",
+     "justificativa": "importância em Boa Vista pela redução do custo da CCC (combustíveis fósseis)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:21:30",
+     "justificativa": "elogia relator e equipe; modernizar pela regulação, desoneração tarifária, iluminação pública",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "1:23:00",
+     "justificativa": "associa-se aos elogios; destaca foco da audiência na auditoria da medição de eficiência como caminho crítico",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:25:00",
+   "processo": "48500.004352/2019-48",
+   "interessado": "CCEE / Abrace (sustentação oral) / distribuidoras e transmissoras (cotas CDE)",
+   "assunto": "Resultado da Consulta Pública 29/2019 e aprovação do orçamento anual da CDE 2020 (R$ 21,912 bilhões; cota CDE-Uso R$ 20,105 bilhões; CCC de R$ 7,5 bilhões), custos unitários, cotas, tarifas de rede básica, ajustes na REN 414 e submódulo 7.3 (Decreto 9.642/2018) e homologações (Energisa MT, Eletrobras/CCC)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "fiscalização e sanções",
+    "subsídios (tarifa social, rural, irrigação)",
+    "sistemas isolados / Roraima (CCC)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes, com acréscimo de comando de fiscalização sugerido por Elisa Bastos",
+   "resumo_voto": "Sustentação oral de Felipe Soares (diretor técnico da Abrace): fundo de reserva de R$ 500 milhões, indícios de acúmulo de subsídios, uso de recursos setoriais para solar em sistemas isolados, cooperativas de eletrificação rural. Nádia (SGT) apresenta análise das 56 contribuições. Relator retira o fundo de reserva, determina diagnóstico em 120 dias do parque térmico dos sistemas isolados, plano de ação e metas sobre sub-rogação. Aumento de 19% sobre 2019 explicado em grande parte pelo atendimento 100% térmico de Roraima (fim da energia da Venezuela).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:00:47",
+     "justificativa": "retirada do fundo de reserva de R$ 500 milhões; diagnóstico do parque térmico isolado em 120 dias; fiscalização dos subsídios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "2:04:00",
+     "justificativa": "explicou o aumento da conta (Roraima, déficit de 2019, fim de receitas), a redução gradual de descontos pelo Decreto 9.642 e a preocupação com o crescimento do desconto de fonte incentivada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator, com sugestão de inserir no dispositivo o comando de diagnóstico",
+     "ts": "2:17:44",
+     "justificativa": "pediu que o comando de diagnóstico e fiscalização da CCC constasse do dispositivo; relator aceitou",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:27",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:20:52",
+   "processo": "48500.003992/2018-50",
+   "interessado": "Enel Brasil S.A. (controladora da CGTF, UTE Fortaleza) x Petrobras",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar da Enel Brasil para suspender a exigibilidade de débitos no mercado de curto prazo associados à ausência de suprimento de gás natural à UTE Fortaleza (CGTF); continuação de julgamento após votos-vista",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "comercialização (CCEE, MCP)",
+    "recursos administrativos",
+    "institucional (competência ANEEL x ANP)",
+    "gás natural / PPT"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "indeferido por maioria (vencido Efrain Cruz)",
+   "resumo_voto": "Relator original (Sandoval) indeferiu o requerimento; Efrain Cruz divergiu em voto-vista (ANEEL poderia determinar à Petrobras o restabelecimento do gás; supremacia do interesse público; sugere articular com a ANP); Rodrigo Limp (voto-vista anterior) e Elisa Bastos (voto-vista nesta sessão) acompanharam o relator, com base nos pareceres da Procuradoria (84 e 182) e do MME (ofício de 25/11/2019, parecer 337): ANEEL não tem competência sobre preço de insumo; revisão do CVU exigiria alterar a Portaria 234/2002. Proposta de acordo extrajudicial CGTF-Petrobras segue como pleito adicional para o relator. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, indefere o requerimento",
+     "ts": "2:20:52",
+     "justificativa": "voto original de 30/10/2018: indeferir o requerimento da Enel",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "2:34:26",
+     "justificativa": "ANEEL não tem competência sobre preço de gás; CVU só muda com alteração da Portaria 234; não invadir competência de outras agências; interlocução com ANP cabe ao relator no pleito adicional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "voto-vista anterior (3/9/2019): acompanha o relator",
+     "ts": "2:48:25",
+     "justificativa": "concordou com o relator quanto ao indeferimento (voto-vista proferido em sessão anterior; mantém voto)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: diverge, vencido",
+     "ts": "2:35:40",
+     "justificativa": "ANEEL tem competência por ser contrato do setor elétrico vinculado ao PPT; supremacia do interesse público; sugeriu decisão articulada com a ANP; mantém voto divergente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama por maioria (Diretor-Geral)",
+     "ts": "2:48:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "2:50:50",
+   "processo": "48500.005082/2019 (dígitos incertos)",
+   "interessado": "CPFL Paulista (recorrente); reclamação de consumidor, decisão da SMA",
+   "assunto": "Recurso administrativo da CPFL Paulista contra o Despacho 1254/2019 (SMA) que deu provimento parcial a reclamação de consumidor; ajuste de prazo de comprovação do pagamento de 15 para 45 dias (item 6 do voto)",
+   "tema": [
+    "recursos administrativos",
+    "distribuição / qualidade e reclamação de consumidor"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (com o ajuste do relator)",
+   "resumo_voto": "Item destacado do bloco só para submeter o ajuste: a CPFL Paulista pediu 45 dias (em vez de 15) para encaminhar à SMA a comprovação do pagamento. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova com ajuste de prazo",
+     "ts": "2:51:50",
+     "justificativa": "prazo de 45 dias a pedido da empresa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:52:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:52:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:52:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "2:52:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:52:44",
+   "processo": "48500.003242/2017-53 (dígitos incertos)",
+   "interessado": "ANEEL / SRG; sustentação oral de Josiane Gomes Napolitano (associação de geradores hidrelétricos, transcrita como Pine, provável Abrage)",
+   "assunto": "Resultado da Audiência Pública 83/2017 (elegibilidade de térmicas despachadas por restrição elétrica, inflexibilidade térmica declarada na programação diária e em tempo real, importação sem garantia física, para deslocamento hidrelétrico, art. 6º da REN 764/2017); conclusão parcial",
+   "tema": [
+    "comercialização (CCEE, PLD, MRE, GSF)",
+    "regulação normativa (audiência pública)",
+    "geração hidrelétrica (deslocamento)",
+    "operação do sistema (ONS)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Conclui parcialmente a AP 83: térmica que redeclarar inflexibilidade após o fechamento da programação arca com o custo do deslocamento hidrelétrico (PLD - PLDx); importação sem garantia física perde objeto (Portaria MME 339); CCEE e ONS têm 90 dias para ajustar regras de comercialização e procedimentos de rede; eficácia a partir de abril de 2020. Apresentação de Cristiano (SRG); a associação defendeu que o ressarcimento caiba às térmicas e não ao MRE.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "3:12:30",
+     "justificativa": "responsabilizar quem dá causa ao deslocamento (térmica que redeclara inflexibilidade); alinhado ao reequilíbrio do MRE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "3:19:30",
+     "justificativa": "correção rápida de anomalia, com audiência pública, alinhada ao objetivo de reequilibrar o MRE em 2020",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:21:29",
+   "processo": "48500.003291/2016-59 e 48500.006572/2014-00 (dígitos incertos)",
+   "interessado": "Termelétrica Rio Grande S.A. (UTE Rio Grande, 1.238 MW), Governo do RS, Prefeitura de Rio Grande, FIERGS; sustentação oral de Ricardo Pigatto (conselheiro da Termelétrica Rio Grande; nome transcrito Ricardo Nilo Machado Pegado)",
+   "assunto": "Pedidos de reconsideração contra a Resolução Autorizativa 6.668/2017 que revogou a outorga da UTE Rio Grande (leilão A-5 2014, CCEAR a partir de 2019) e análise de plano de transferência de controle (grupo Cobra) como alternativa à penalidade",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções (revogação de outorga)",
+    "recursos administrativos",
+    "transferência de controle societário",
+    "licenciamento ambiental / MPF"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "suspenso por pedido de vista de Efrain Cruz (voto do relator: negar provimento e não aprovar o plano de transferência)",
+   "resumo_voto": "Empresa pediu sobrestamento e novo plano de transferência para o grupo Cobra (usina deslocada para a Bahia, operação em 2025). Relator vota por conhecer e negar provimento aos pedidos e não aprovar as diretrizes do plano, mantendo a revogação: descumprimento do cronograma do Despacho 374/2017, ausência de contrato vinculante, MME já não considera o empreendimento, estudo mostra prejuízo médio (R$ 360 a 450 milhões/ano). Procurador defendeu data de corte para planos de transferência (a decisão de revogação). DG destaca a agenda regulatória para regulamentar a data de corte.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, nega provimento e não aprova o plano de transferência",
+     "ts": "4:07:49",
+     "justificativa": "a revogação decorreu da inviabilidade global do projeto; plano de transferência sem compromisso vinculante e sem benefício comprovado ao serviço",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (comentou); não consta pedido de vista próprio",
+     "ts": "4:10:00",
+     "justificativa": "reconheceu o esforço dos empreendedores mas viu a situação se degradar; defendeu data de corte regulamentada e crítica à pressão do MPF sobre gestores",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "4:13:16",
+     "justificativa": "(pedido de vista registrado na proclamação do Diretor-Geral, fala do pedido pouco clara na legenda)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "4:13:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "4:13:11",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:15:04",
+   "processo": "48500.005054/2018-94",
+   "interessado": "Eletronorte (UHE Tucuruí) x agentes do MRE; sustentação oral de Guilherme Velho (diretor-presidente da associação transcrita como Pine, provável Abrage)",
+   "assunto": "Resultado da Audiência Pública 62/2018 sobre revisão do §3º do art. 18 da REN 614/2014 (índice de disponibilidade de referência / mecanismo de redução de energia assegurada, MRA) e pedido da Eletronorte de regra de transição e recontabilização de 2018 para Tucuruí",
+   "tema": [
+    "comercialização (CCEE, MRE, garantia física)",
+    "regulação normativa (audiência pública)",
+    "geração hidrelétrica (Tucuruí)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "suspenso por pedido de vista (autor provável: André Pepitone)",
+   "resumo_voto": "Relator mantém o §3º do art. 18 da REN 614 sem a alteração proposta pela Eletronorte e determina à CCEE recontabilizar o MCP com efeitos retroativos a dezembro de 2018 (Despacho 3090/2018). Sustentação: a regra de transição desincentivaria a manutenção e prejudicaria quem investiu em disponibilidade. Procuradoria opinou pela presunção de legitimidade do ato. Impacto estimado para a Eletronorte em torno de R$ 500 milhões/ano (citado em debate).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (manter art. 18 §3º e recontabilizar)",
+     "ts": "4:37:36",
+     "justificativa": "a grande maioria das contribuições foi contrária; regra de transição desestimula a gestão eficiente das manutenções",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "pede vista",
+     "ts": "4:45:13",
+     "justificativa": "em debate ponderou o impacto de cerca de R$ 500 milhões para empresa pública e o fim de vida útil da usina (atribuição do pedido pela ordem de votação, confiança média)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "4:45:10",
+     "justificativa": "voz não identificada na legenda",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "4:45:12",
+     "justificativa": "voz não identificada na legenda",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "4:46:01",
+   "processo": "48500.003203/2019-61 (dígitos incertos)",
+   "interessado": "Eletrosul e CGTEE (SPEs Transmissoras Litorânea, Fronteira Oeste, TSBE e outras)",
+   "assunto": "Prorrogação por 120 dias (a contar de 02/01/2020) do prazo do Despacho 2.375/2019 para implementação da transferência de controle e de titularidade das outorgas de transmissão e geração da Eletrosul para a CGT Eletrosul (incorporação), art. 27 da REN 484/2012",
+   "tema": [
+    "transmissão (outorgas)",
+    "outorgas de geração",
+    "transferência de controle societário (incorporação)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Pedido tempestivo; liminar que suspendia as assembleias foi revogada em 28/11/2019; superintendências (nota técnica 216) concluíram pelos requisitos. Procuradoria: prorrogação prevista no art. 27 da REN 484, prazo único. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "4:52:16",
+     "justificativa": "requisitos cumpridos; prorrogação única de 120 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:52:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:52:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:52:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "4:52:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "4:53:18",
+   "processo": "48500.004668/2019-30",
+   "interessado": "Eletrobras / Abragel (sustentação oral de advogado, Guilherme Coelho)",
+   "assunto": "Homologação das cotas de custeio do Proinfa para 2020 (resolução homologatória); item destacado do bloco para sustentação da Abragel sobre restituição de valores glosados pela Eletrobras (decisão judicial transitada em julgado, cerca de R$ 1,76 milhão)",
+   "tema": [
+    "CDE e encargos setoriais (Proinfa)",
+    "comercialização",
+    "geração (fontes alternativas)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relator entende que a ANEEL não é parte da ação judicial e que o valor (cerca de R$ 1,7 milhão) é desprezível frente ao orçamento de bilhões; as cotas podem ser aprovadas e a decisão judicial será cumprida quando chegar à agência. Após o item, a reunião foi suspensa para o almoço, retomando às 15h30.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "4:59:16",
+     "justificativa": "cotas do Proinfa 2020 podem ser aprovadas; decisão judicial será cumprida quando comunicada, sem prejuízo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:59:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:59:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:59:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama (Diretor-Geral)",
+     "ts": "5:00:00",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta (informado pelo secretário-geral na abertura)"
+  },
+  {
+   "id": "17",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "21",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "29",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa e sem falantes nomeados: nomes de diretores só foram atribuídos quando a mesa ou o texto os indicam; os votos de quem apenas acompanha foram atribuídos pela proclamação do Diretor-Geral (confiança baixa ou média).",
+  "Relator dito como Rodrigo Olimpo Nascimento na legenda corresponde a Rodrigo Limp; Sandoval de Araújo Feitosa Neto a Sandoval Feitosa; Efrain Pereira da Cruz a Efrain Cruz; Elisa Bastos Silva a Elisa Bastos.",
+  "Ordem dos itens inferida da ordem em que o Diretor-Geral os chamou; números de item vêm da fala da mesa (ex.: item 7 CDE, item 5 AP 83, item 6 AP 62) e podem ter erro de legenda; números de processo com dígitos finais incertos.",
+  "Item 6: o pedido de vista foi atribuído a André Pepitone pela ordem de votação (o Diretor-Geral votou por último) e pelas dúvidas que expressou; legenda confusa. Dois seguidores do relator não foram identificados.",
+  "Item 16: a legenda diz que a vista é do diretor Efrain; Sandoval e Elisa registrados como não votaram (vista) por inferência; Rodrigo Limp é o relator.",
+  "Item 15: Rodrigo Limp e Elisa Bastos votaram por voto-vista (Rodrigo em sessão anterior, 3/9/2019); a sessão tem 5 votos. Sustentante no item 6 disse que os demais diretores estavam ausentes neste momento, mas Sandoval e o Diretor-Geral participaram depois.",
+  "Siglas das associações dos sustentantes (transcritas como Pine nos itens 5 e 6) provavelmente correspondem à Abrage; não confirmado.",
+  "Após a alteração da ordem, a fala diz que foram retirados os itens 2:20 (provavelmente itens 12 e 20 ou similar); confirmar na Parte 2.",
+  "Itens do bloco (22 a 65) não detalhados: apenas aprovação em bloco, sem relatores nem assuntos individuais."
+ ]
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {"video_id": "f4OqfrBIdXs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Extraordinária de 2021", "data": "2021-03-19", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Elisa Bastos", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": [
+      "Pauta de processo único: resultado da Audiência Pública 34/2019 (normas para apuração e ressarcimento de constrained-off de usinas eólicas), convocada em razão de decisão judicial do TRF1 com prazo e multa diária de R$ 50 mil.",
+      "Abertura com quatro diretores e o quinto entrando ao longo da sessão (quórum de cinco, conforme o Diretor-Geral). O quinto presente é inferido como Efrain Cruz, que pediu vista no fim; a legenda erra o nome.",
+      "A sessão terminou sem proclamação de resultado: Efrain Cruz pediu vista no momento da votação. O Diretor-Geral encerrou e determinou convocar a 2ª reunião extraordinária para segunda-feira 22/03/2021, às 9h.",
+      "Quatro diretores já haviam manifestado voto favorável (relator, Pepitone, Hélvio Guerra e Elisa Bastos). O Diretor-Geral pediu que o resultado fosse proclamado antes da vista, e Sandoval Feitosa registrou questão de ordem contra o pedido; o pedido de vista foi mantido.",
+      "Encerrada por volta das 18h de 19/03/2021 (≈ 3h38 de vídeo)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:00",
+      "processo": "48500.006218/2017-10", "interessado": "Associação Brasileira de Energia Eólica (ABEEólica), Enel Green Power, CCEE, ONS; geradores eólicos (Enel, CPFL, Casa dos Ventos citados em reuniões)",
+      "assunto": "Resultado da Audiência Pública 34/2019: proposta de resolução normativa com procedimentos e critérios para apuração e ressarcimento (via ESS) de restrição de operação por constrained-off de usinas eólicas, e tratamento dos casos sobrestados pelo Despacho 2.303/2019.",
+      "tema": ["regulação normativa (AP 34/2019, resolução normativa)", "geração eólica (constrained-off)", "CDE e encargos setoriais (ESS)", "comercialização (CCEE, ACR, ACL, regras de comercialização)", "recursos judiciais (decisão do TRF1, multa diária)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Julgamento suspenso por pedido de vista de Efrain Cruz, sem proclamação de resultado. Antes da vista, o relator, Pepitone, Hélvio Guerra e Elisa Bastos haviam manifestado voto favorável à proposta do relator, com dois ajustes incorporados no debate.",
+      "unanime": false,
+      "resumo_voto": "Sandoval Feitosa (sexto relator do processo, sorteado em 08/02/2021) propôs: (1) aprovar a resolução normativa que regula o constrained-off de eólicas, com efeitos econômicos a partir do 1º dia do 7º mês civil após a publicação (outubro de 2021); (2) ressarcimento via ESS apenas para restrição por razão de indisponibilidade externa (a elétrica por requisitos de confiabilidade e a energética seriam risco ordinário do gerador), com franquia de disponibilidade da transmissão (6h30 por mês, ajustada para 78 horas por ano, a partir da média de 99,1% do ONS); (3) pagamento igual para ACR e ACL, limitado à energia comercializada ou à garantia física, valorada ao PLD; (4) tomada de subsídios pela SRG em 5 dias úteis sobre a regra de comercialização para os casos sobrestados. Estimativa citada: R$ 846 milhões retidos na CCEE desde agosto de 2019 e alívio médio de 0,35% nas tarifas. Para os casos passados, o voto recomendava seguir as regras da época: pagar no ACR e não pagar no ACL (parágrafo 75). No debate, o relator concordou em retirar o parágrafo 75 (sugestão de Efrain Cruz, apoiada por Elisa Bastos, Pepitone e Hélvio), deixando os casos passados do ACL a critério dos relatores de cada processo, e em trocar o valor fixo da franquia pela média móvel dos últimos cinco anos do ONS (sugestão de Hélvio Guerra).",
+      "sustentacao_oral": ["Sandro Yamamoto e Camila Alves (ABEEólica)", "Henrique Soares (Enel Green Power)"],
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (com ajustes: retira o parágrafo 75 e adota média móvel de cinco anos)", "ts": "1:44:00", "justificativa": "Defendeu regras prospectivas e sem subsídio cruzado entre ACR e ACL; só a indisponibilidade externa acima do esperado é restrição extraordinária ressarcível via ESS. Para o passado, afirmou que não havia regra para o ACL e que não há jurisprudência consolidada. Registrou que a decisão judicial impôs o calendário.", "tom": "técnico e firme; reagiu com veemência ao pedido de vista", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (voto favorável)", "ts": "1:54:38", "justificativa": "Concordou com a aprovação da norma e com a irretroatividade; viu como inviável e fonte de insegurança jurídica aplicar o tratamento aos casos passados do ACL (ONS não tem os dados, subsídio cruzado retroativo). Na questão de ordem pediu que o resultado fosse proclamado e disse que quer o voto favorável consignado em ata, para evitar risco de multa.", "tom": "institucional, preocupado com o prazo judicial", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (voto favorável)", "ts": "1:55:30", "justificativa": "Ressaltou a alocação justa de custos e riscos e a ausência de norma para o ACL, elogiando o relator e o risco de subsídio cruzado. Sugeriu depois a média móvel de cinco anos para a franquia. Atribuição do voto por ordem de fala e pela contagem do Diretor-Geral.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (voto favorável, com dúvida procedimental sobre o parágrafo 75)", "ts": "1:59:26", "justificativa": "Elogiou a proposta como equilibrada e disse concordar com o voto, mas alertou para a contradição entre o dispositivo (casos até setembro de 2021 pelo item 2.2) e o parágrafo 75, que já recomendava não pagar o ACL: sugeriu ajustar, para não fechar a porta aos casos concretos. Atribuição por ordem de fala.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "pede vista", "ts": "3:20:43", "justificativa": "Pediu vista no momento da votação, invocando o Regimento. Na discussão (2:04:23) disse concordar com a nova regra e a alocação do risco no ESS para ACL e ACR, mas divergiu quanto aos casos passados: defendeu que a data de corte seja a da lei, não vê ilegalidade em reconhecer o passado e contestou que os pedidos do ACL fossem negados, pois a agência paralisou as análises. Sugeriu a retirada do parágrafo 75. Rejeitou a ideia de proclamar o resultado antes da vista e retirou o pedido de suspender a sessão.", "tom": "crítico, ancorado em coerência regulatória", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros de nomes e números (ex.: Efrain/Efraim/Fryer, ONS como INSS, ABEEólica como abeeólica/de ó Lica, CCEE como CCR/cc-e). Falantes identificados por inferência do conteúdo e da ordem de fala.",
+    "Presença: cinco diretores inferidos (Pepitone, Sandoval Feitosa, Hélvio Guerra, Elisa Bastos, Efrain Cruz). O Diretor-Geral disse na abertura que havia quatro diretores com o quinto entrando depois; Efrain Cruz como quinto é inferência.",
+    "Ordem de fala no debate: Pepitone, Hélvio, Elisa, Efrain, réplica de Sandoval. Os trechos da legenda que atribuem falas a Hélvio e Elisa são pouco nítidos; os ts de Hélvio (1:55:30) e Elisa (1:59:26) são aproximados e a confiança é media.",
+    "O momento 3:20:36 (eu acompanho o voto do relator) não tem falante claro; a contagem de quatro votos favoráveis veio da fala do Diretor-Geral (3:21:04) e fecha com relator, Pepitone, Hélvio e Elisa. Se Efrain tivesse acompanhado, não teria pedido vista.",
+    "Sem proclamação de resultado, com 5 votos registrados para 5 presentes (4 favoráveis, 1 vista). O texto final do dispositivo e a eventual conclusão estão na 2ª reunião extraordinária de 22/03/2021 (não incluída aqui).",
+    "Processo e número da audiência pública conforme a leitura da legenda (48500.006218/2017-10; AP 34/2019); valores (R$ 846 milhões, 0,35%) podem conter erro de legenda.",
+    "Nomes como Rodrigo Limp, Júlio César Ferraz e Cristiano Vieira (relatores anteriores) aparecem só no histórico do processo; não votaram. Cristiano Vieira, superintendente da SRG na sessão, falou no debate; não é diretor presente."
+  ]
+}

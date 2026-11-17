@@ -1,0 +1,364 @@
+{
+ "meta": {
+  "video_id": "fqUGMcBuZiY",
+  "fonte": "legenda automática do YouTube; falantes pouco identificados (só o início); ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "35",
+  "data": "2019-09-24",
+  "formato": "reunião pública ordinária (sessão da manhã)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp",
+   "quarto diretor não identificado"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura: quórum de quatro diretores. Pauta com 24 itens; bloco (itens 8 a 24 exceto 8, 9, 11, 12, 24) aprovado; item 3 retirado.",
+   "Ordem de julgamento: 1, 7, 8, 9, 2, 4, 5, 6. Itens 5 e 6 foram retirados de pauta pelo relator após o almoço; sessão encerrada ao fim da manhã (≈3:16).",
+   "Sandoval declarou-se impedido nos itens 7 (SPT, ex-superintendente da fiscalização) e 9 (CEB, lavrou o auto de infração).",
+   "Informes iniciais: audiências públicas AP 80/2019 e AP 32/2019 em fase documental, participação da ANEEL na CPI Enel/Light (RJ) e na audiência sobre a REN 482 (Rodrigo Limp em BH)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco",
+   "ts": "0:05:15",
+   "processo": "vários (itens do bloco, sem leitura individual)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens da pauta (itens 8 a 24, exceto os destacados 8 e 9 e os retirados 11, 12 e 24; na prática 10 e 13 a 23), aprovado em bloco sem leitura individual",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Diretoria votou pela aprovação do bloco; votos e atos disponibilizados desde a quinta-feira anterior.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (presidente proclama)",
+     "ts": "0:05:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:05:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:05:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova o bloco",
+     "ts": "0:05:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:36",
+   "processo": "48500.003193/2009-64",
+   "interessado": "distribuidora de média (nome distorcido na legenda; DEC/FEC, concessão prorrogada por 6º termo aditivo)",
+   "assunto": "Abertura de audiência pública (25/09 a 11/11/2019) para limites dos indicadores de continuidade DEC e FEC de 2020 de distribuidora de médio porte, cuja revisão tarifária foi adiada para novembro de 2021",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC)",
+    "regulação normativa (audiência pública)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes (audiência pública instaurada)",
+   "resumo_voto": "Com a prorrogação da concessão a revisão tarifária passou de 28/10/2019 para novembro de 2021 e 2020 ficou sem limites de DEC/FEC definidos; audiência pública para estabelecê-los (metodologia da REN 641/2014).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova instauração da audiência",
+     "ts": "0:06:30",
+     "justificativa": "limites de 2020 não definidos na revisão de 2015; propostos sem redução frente a 2019, entre os menores do Sudeste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; comenta a situação peculiar (2020 ficou no limbo)",
+     "ts": "0:12:40",
+     "justificativa": "excepcionalmente abre-se audiência para debater DEC/FEC de 2020",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:13:54",
+   "processo": "48500.001556/2016-84",
+   "interessado": "São Pedro Transmissora de Energia S.A. (SPT); contexto Abengoa/ATE XVI, SJT, SE Gilbués 2",
+   "assunto": "Pedido de reconsideração da SPT contra a Resolução Autorizativa 6069/2016: alteração do cronograma de implantação do reforço na SE Gilbués 2 (PI)",
+   "tema": [
+    "transmissão (reforços, cronograma)",
+    "recursos administrativos",
+    "excludente de responsabilidade",
+    "caducidade (ATE XVI)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes (Sandoval impedido): conhecido e provido",
+   "resumo_voto": "Reconhece excludentes de responsabilidade (caducidade da concessão da ATE XVI em 20/09/2017 e embargo judicial que paralisou obras por 63 dias, superado em 05/02/2018) e altera para 23/05/2018 o prazo de conclusão dos reforços na SE Gilbués 2; caso análogo ao da SJT decidido em 18/12/2018.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "0:30:22",
+     "justificativa": "aplica a mesma decisão do caso análogo da SJT; art. 19 da Lei 13.360/2016 justifica recompor prazo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "0:38:32",
+     "justificativa": "declarou impedimento por ter assinado a nota técnica 567/2017 quando superintendente de fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:38:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha a relatora (fala: voto com a relatora)",
+     "ts": "0:38:34",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:39:22",
+   "processo": "48500.002090/2019-87",
+   "interessado": "21 permissionárias de distribuição (19 em SC, 2 em SP) com aniversário em setembro de 2019; supridoras Celesc e Elektro; Cooperativa inadimplente (nome distorcido, Cooper...)",
+   "assunto": "Homologação dos reajustes tarifários anuais (tarifas de energia e TUSD) das permissionárias com aniversário em 30/09/2019, destacado do bloco",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste de permissionárias)",
+    "TUSD",
+    "CDE e encargos setoriais (descontos tarifários, baixa densidade de carga)",
+    "inadimplência intrassetorial"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova efeitos médios, tarifas de suprimento, cotas CDE/Proinfa e repasses CDE; as tarifas da permissionária inadimplente só podem ser praticadas após comprovar adimplência, por despacho da SGT. Houve apresentação técnica da SGT.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "0:50:02",
+     "justificativa": "reforça prática de condicionar a aplicação da tarifa à adimplência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; reforça prática da SGT sobre adimplência",
+     "ts": "0:51:47",
+     "justificativa": "clareza de que a tarifa só vale após ato da SGT atestando adimplência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:37",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:54:30",
+   "processo": "48500.000549/2015-84 (número parcial na legenda)",
+   "interessado": "CEB Distribuição S.A.",
+   "assunto": "Recurso administrativo da CEB Distribuição contra o auto de infração 62/2017 (SFE): multa por descumprimento de determinações sobre apuração de indicadores de continuidade e compensações (nc 3); multa reduzida em reconsideração de R$ 5.314.283,97 para R$ 3.171.129,16",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição e qualidade (indicadores de continuidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes (Sandoval impedido): conhecido e provido parcialmente, mantida multa de R$ 3,17 milhões",
+   "resumo_voto": "Conhece e dá provimento parcial, confirmando a redução da multa feita em juízo de reconsideração; mantém a nc 3 (descumprimento das determinações 23 a 26, anos 2010 e 2011), rejeita conversão em advertência por não ser de pequeno potencial ofensivo. Sustentação oral da CEB (César Dutra Munhoz, 10 min): cancelar a nc 3 ou rever dosimetria (precedentes Celesc e Ceron).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "1:15:48",
+     "justificativa": "descumprir determinação sobre qualidade do serviço não é de pequeno potencial ofensivo; manteve a multa reduzida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "1:16:50",
+     "justificativa": "lavrou o auto de infração 62/2017 como superintendente de fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (fala: também voto com o relator)",
+     "ts": "1:16:53",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:17:25",
+   "processo": "48500.005973/2016-04",
+   "interessado": "Rio Paraná Energia S.A. (grupo CTG Brasil); UHEs Ilha Solteira e Jupiá",
+   "assunto": "Recurso da Rio Paraná Energia contra o Despacho SRG 3631/2017 que indeferiu desconsiderar expurgos de indisponibilidade por mexilhão dourado e plantas aquáticas anteriores a 01/07/2016",
+   "tema": [
+    "outorgas de geração (hidrelétrica, regime de cotas)",
+    "indisponibilidade e expurgos (REN 614/2014, REN 541/2013)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: conhecido, recurso desprovido",
+   "resumo_voto": "Nega provimento: a franquia de 360 horas em 60 meses vale a partir de 01/10/2014 (REN 614) e não reinicia com o novo contrato; o art. 2º da REN 541 trata de reformas e modernização; o edital falava de infrações administrativas, não de expurgos. Sustentação oral de Bruno César Crispim (CTG). Procurador-geral comentou a revisão do parecer anterior da Procuradoria (parecer 231/2019 contrário ao recurso).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:38:19",
+     "justificativa": "franquia de 360 h segue a REN 614 (prazo até 30/09/2019); Jupiá já usou toda a franquia e Ilha Solteira teve folga após 01/07/2016",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (fala: parabeniza o relator, acompanha)",
+     "ts": "1:59:56",
+     "justificativa": "voto robusto, edital não previa afastar a transferência de expurgos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:00:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:00:16",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:00:49",
+   "processo": "48500.003287/2010-03 e outros (legenda parcial)",
+   "interessado": "Energipe (Energimp, na legenda) e Sequóia Capital Ltda.; complexos eólicos Ceará 2 e Ceará 4; Rio Energy citada como novo player",
+   "assunto": "Pedido de nova prorrogação de 90 dias do prazo do Despacho 1832/2018 (prorrogado pelo Despacho 2917/2018) para transferência de controle e quitação de débitos, e de postergação do início dos CUST das geradoras",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "revogação de outorga",
+    "energia de reserva (CER)",
+    "CUST/transmissão",
+    "fiscalização e sanções"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: requerimentos indeferidos e outorgas revogadas",
+   "resumo_voto": "Indefere os pedidos; declara não atendida a condição de eficácia do Despacho 1832/2018; revoga as autorizações; resolve os contratos de energia de reserva com multa rescisória pela CCEE; manda propor regulamentação do art. 4-C da Lei 9.074/1995 em 180 dias. Sem vantajosidade: contratos de reserva a cerca de R$ 240 a 264/MWh contra cerca de R$ 80 nos leilões recentes. Sustentações orais da Energipe, da Sequóia (Maurício, João Márcio) e da Rio Energy; manifestação do procurador-geral sobre vantajosidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, indefere e revoga outorgas",
+     "ts": "2:27:12",
+     "justificativa": "condição de eficácia não cumprida, plano novo extemporâneo e sem vantajosidade ao consumidor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (comenta vantajosidade e equilíbrio)",
+     "ts": "3:12:00",
+     "justificativa": "dois diretores se manifestaram sem nome na legenda (necessidade de energia/preço do contrato; equilíbrio e proteção do consumidor, caso Renova lote B); a legenda não permite separar os autores",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:50",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3 (retirado de pauta; ligado a pedido de sustentação oral/preferência)",
+   "relator": "não identificado",
+   "motivo": "retirado na organização da pauta",
+   "ts": "0:03:59"
+  },
+  {
+   "item": "11, 12 e 24 (retirados do bloco)",
+   "relator": "não identificado",
+   "motivo": "retirados da pauta do bloco",
+   "ts": "0:03:40"
+  },
+  {
+   "item": "5 (pauta comum; relator Sandoval Feitosa, pelo contexto, a confirmar)",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "3:15:53"
+  },
+  {
+   "item": "6 (pauta comum; relator Sandoval Feitosa, pelo contexto, a confirmar)",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "3:15:53"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática erra nomes, siglas (Energipe aparece como Energimp, ATE XVI, SJT) e números de processo; processos e valores podem estar distorcidos.",
+  "Só o primeiro trecho traz falantes inferidos, e estes são pouco confiáveis; o quarto diretor presente nunca é identificado pelo nome (a lista do config inclui Efrain Cruz, mas isso não foi confirmado na fala) e consta como não identificado.",
+  "Votos de seguidores baseados na proclamação do Diretor-Geral (confiança baixa/media); em vários itens só uma fala «acompanho» sem nome foi ouvida.",
+  "Nos itens 2 e 4 as falas de comentário de diretores sem nome não puderam ser atribuídas a Elisa Bastos ou Rodrigo Limp com segurança.",
+  "No item 4 estão resumidos dois comentários anônimos num só voto; em itens com Sandoval impedido há 3 votos (Elisa, Rodrigo, não identificado) mais o impedimento.",
+  "Bloco: itens exatos aprovados em bloco não foram citados individualmente (provavelmente 10 e 13 a 23).",
+  "Número do processo do item 9 e dos itens 5 e 6 (relator, objeto) não ficaram claros; item 3 e itens 5 e 6 sem deliberação."
+ ]
+}

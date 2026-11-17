@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "3AHiFKIq_aY", "fonte": "legenda automática do YouTube; transcrição curta (trecho do bloco); falantes inferidos", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "19", "data": "2018-06-05", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (inferido pelo marcador de falante; incerto)",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo curto (BLOCO): só a votação do bloco de itens 11 a 52 da 19ª Reunião Pública Ordinária de 05/06/2018.", "Retirados de pauta: itens 3, 9, 10, 13 e 49; item 12 destacado do bloco por pedido de sustentação oral; item 17 e 12 chamados depois."]
+  },
+  "itens": [
+    {
+      "id": "bloco 11-52", "ts": "0:00:01",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 11 a 52 da pauta, exceto 12 (destacado), 13 e 49 (retirados). Conteúdo individual dos itens não aparece neste vídeo.",
+      "tema": ["votação em bloco"],
+      "relator": "não identificado",
+      "resultado": "aprovado por unanimidade, exceto item 14, aprovado sem voto de um diretor",
+      "resumo_voto": "Três diretores votam pela aprovação do bloco. Um diretor faz destaque quanto ao item 14, por ter participado da instrução anterior como superintendente (SCE/CEF, legenda confusa), e não vota nesse item. A mesa proclama unanimidade, exceto item 14, em que o diretor citado não votou.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco, exceto item 14 (não vota por ter participado da instrução como superintendente)", "ts": "0:01:00", "justificativa": "Participou da instrução anterior como superintendente; por isso não votou no item 14.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:10", "justificativa": "Voto pela aprovação dos itens remanescentes do bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:15", "justificativa": "Voto pela aprovação dos itens remanescentes do bloco.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["itens 3, 9, 10, 13 e 49"],
+  "limites_da_analise": ["Transcrição muito curta e sem nomes dos diretores além de marcador inferido; nomes não atribuídos por falta de base.", "Timestamps dos votos aproximados (o texto não traz marcadores intermediários).", "Item 14: a proclamação cita o diretor Sandoval como quem declarou a razão de não votar, mas a legenda é ambígua; não atribuído.", "Número de diretores presentes não confirmado; votos não fecham com presentes."]
+}

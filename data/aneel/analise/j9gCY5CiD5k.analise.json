@@ -1,0 +1,65 @@
+{
+  "meta": {"video_id": "j9gCY5CiD5k", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "32", "data": "2020-09-01", "formato": "videoconferência (parte 2, sessão da tarde)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral, inferido pela proclamação e pela queda de conexão)",
+    "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Júlio César Rezende Ferraz", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 (retomada às 0:03:45) da 32ª Reunião Pública Ordinária de 01/09/2020; a fala de encerramento diz 30ª por engano da legenda ou do orador.", "3 itens deliberados (7, 8 e 17 da pauta da tarde): recurso ATE/Abengoa (caducidade, multa editalícia), recurso Hidrovias do Brasil (leilão de energia nova A-6/2019, vista de Efrain Cruz) e recurso Enel SP (auto de infração 64/2017, Sandoval impedido).", "Presentes inferidos pelo contexto (relatores, vista, impedimento); a legenda não traz chamada nominal."]
+  },
+  "itens": [
+    {
+      "id": "7", "ts": "0:03:45",
+      "processo": "48500.002939/2016-70 e 48500.003692/2017-90", "interessado": "ATE 16 Transmissora de Energia S.A. (grupo Abengoa; seguradora Sirefex/«Serfex» Brasil Seguros Corporativos, nome incerto na legenda)",
+      "assunto": "Recurso administrativo contra o despacho SCT 2.561/2018, que executou a garantia de fiel cumprimento (R$ 92 milhões) do contrato de concessão 1/2013 (lote A do leilão de transmissão 7/2012) após caducidade; relator propõe negar provimento e, de ofício, revogar o despacho, aplicar multa editalícia de 10% do investimento (cerca de R$ 198,7 milhões, atualizada pelo IPCA) e executar a garantia se a multa não for paga",
+      "tema": ["transmissão (outorgas, caducidade)", "fiscalização e sanções (multa editalícia, execução de garantia)", "recursos administrativos", "leilões (transmissão)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: conhecido, negado provimento ao recurso, com medidas de ofício (multa editalícia)",
+      "resumo_voto": "Inexecução total do contrato (obras de interligação para escoamento de Belo Monte e eólicas do Nordeste); não é necessário comprovar prejuízo para executar a garantia; a Diretoria já converteu caso idêntico (GF Guaianazes) em multa editalícia de 10% (parecer PF 402/2019 e 353/2019); multa de 10% sem atenuação dada a gravidade; garantia devolvida se a multa for paga e executada se não; recorrente poderá pedir reconsideração. Relator: será a maior multa administrativa da ANEEL desde a criação e sinal regulatório para os leilões.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento e aplica multa editalícia", "ts": "0:07:00", "justificativa": "inexecução total; prejuízo é consequência imediata; multa de 10% do investimento, sinal regulatório e efeito exemplar; PF admite multa por inexecução total (art. 38 Lei 8.987/95, art. 87 Lei 8.666/93, edital 7/2012)", "tom": "firme", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o voto do relator", "ts": "0:44:38", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:44:41", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (parabeniza o relator)", "ts": "0:44:45", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:44:49", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:45:30",
+      "processo": "48500.001756/2019-80", "interessado": "Hidrovias do Brasil Vila do Conde S.A.; consórcio Barcarena habilitado",
+      "assunto": "Recurso contra o despacho 898/2020 da Comissão Especial de Licitação que habilitou o consórcio Barcarena no Leilão de Energia Nova A-6/2019 (leilão 4/2019); relatora original Elisa Bastos, vista de Efrain Cruz",
+      "tema": ["leilões (geração, energia nova A-6/2019)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes: conhecido e negado provimento",
+      "resumo_voto": "Relatora apresentou voto (acompanhado por Júlio Ferraz antes da vista); Efrain Cruz, com vista, acompanha a relatora; demais acompanham. Mérito do voto da relatora não lido nesta parte do vídeo; resultado: conhecer e negar provimento.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, nega provimento (voto apresentado antes da vista)", "ts": "0:45:30", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora (antes da vista, segundo a mesa)", "ts": "0:48:14", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "voto-vista: acompanha a relatora", "ts": "0:46:19", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:48:21", "justificativa": "acompanha por entender que o voto da relatora está correto, já que o diretor com vista a acompanhou (legenda confusa)", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:48:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "17", "ts": "0:49:09",
+      "processo": "48500.005077/2015-56", "interessado": "Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distribuição São Paulo); sustentação oral de Yuri de Oliveira Araújo (Enel SP)",
+      "assunto": "Recurso contra o auto de infração 64/2017 (SFE; multa por transgressões na qualidade técnica, indicadores de continuidade DEC/FEC e compensações DIC/FIC/DMIC de 2015; fiscalização pela Arsesp)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "distribuição e qualidade (continuidade DEC/FEC, DIC, expurgos)", "recursos administrativos", "tarifas/pandemia (alegação de fluxo de caixa)"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes (Sandoval impedido): conhecido e provido em parte, multa reduzida",
+      "resumo_voto": "Multa em reconsideração: R$ 21.736.140,57 reduzida para R$ 21.472.316,06 por reclassificação da NC2 (art. 5º, IV, REN 63/2004), conforme PF 59/2019. Rejeitou argumentos da Enel (adiar o cumprimento durante a pandemia; adotar critério de dosimetria do processo de abril de 2020 sobre expurgos): os processos têm finalidades distintas, o critério dos indicadores individuais (119 UCs afetadas de amostra de 380) é padrão desde 2017.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, provimento parcial", "ts": "0:59:34", "justificativa": "metodologia padrão desde 2017 pelos indicadores individuais; caso anterior (DEC global) era fiscalização específica; sem motivo para rever dosimetria", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o voto da relatora", "ts": "1:03:25", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o voto da relatora", "ts": "1:03:28", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "suspeito/impedido (regimentalmente impedido)", "ts": "1:03:31", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:03:39", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas (ATE 16, seguradora, Abengoa) e valores podem estar errados; não há chamada nominal nesta parte.",
+    "Item 7: três votos de acompanhamento sem nome na legenda, entre Elisa Bastos, Efrain Cruz e Júlio César Rezende Ferraz; marcados como não identificado; Diretor-Geral assumido como André Pepitone.",
+    "Item 17: dois votos sem nome entre Efrain Cruz e Júlio César Rezende Ferraz; Sandoval Feitosa impedido (a proclamação na legenda diz 'entendimento', lido como impedimento); 4 votos de presentes não impedidos mais relatora.",
+    "Item 8: atribuições a Júlio, Sandoval e André pelo relato da mesa e ordem de votação; o voto da relatora não foi lido nesta parte. A fala 'não acompanho' na legenda parece erro de reconhecimento.",
+    "A fala de encerramento menciona 30ª reunião; o título e a abertura indicam 32ª."
+  ]
+}

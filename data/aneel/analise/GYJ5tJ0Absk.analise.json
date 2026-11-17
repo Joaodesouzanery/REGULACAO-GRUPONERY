@@ -1,0 +1,344 @@
+{
+ "meta": {
+  "video_id": "GYJ5tJ0Absk",
+  "fonte": "legenda automática do YouTube (sem marcadores internos de tempo; ts localizados em data/aneel/transcricoes); ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "42",
+  "data": "2018-11-13",
+  "formato": "presencial (Parte 1 de 2; pausa às 15h)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores; a legenda cita Rodrigo Limp apenas indiretamente e o quarto diretor foi inferido pelo colegiado de 2018 (outras reuniões do mês).",
+   "Itens 5, 8 e 13 retirados de pauta; item 16 destacado do bloco por sustentação oral.",
+   "Ordem real: bloco, item 16, 1, 3, 4, 6, 2; reunião interrompida às 15h para retomada (Parte 2)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:08",
+   "processo": "",
+   "interessado": "vários (itens do bloco, textos publicados na internet desde quinta-feira)",
+   "assunto": "Votação em bloco dos itens de pauta não destacados (a legenda não permite identificar os números nem os processos do bloco; mencionados impedimentos nos itens 9 e 10 e nos itens 12 e 14)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "O Diretor-Geral submeteu o bloco com exceção do item 16 (destacado, com pedido de sustentação oral) e dos itens 5, 8 e 13 (retirados de pauta); cada diretor votou pela aprovação; houve declaração de impedimento nos itens 9 e 10 (diretor ouvido como Franklin, provavelmente Efrain Cruz) e 12 e 14 (Sandoval); proclamada a unanimidade dos votantes.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, impedido nos itens 12 e 14 (pela proclamação)",
+     "ts": "0:04:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco, impedido nos itens 9 e 10 (pela proclamação; legenda: diretor Franklin)",
+     "ts": "0:04:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:05:06",
+   "processo": "48500.007690/2002",
+   "interessado": "ACM Minas PCH Energia Ltda (PCH Bebedouro, Unaí/MG)",
+   "assunto": "Revogação a pedido da autorização da PCH Bebedouro, outorgada por transferência à ACM Minas PCH Energia Ltda, em Unaí (MG); a interessada pediu que a revogação não implicasse execução da garantia de fiel cumprimento",
+   "tema": [
+    "outorgas de geração (hidrelétrica, PCH)",
+    "garantia de fiel cumprimento",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: deferida a revogação; SCG determinada a abrir processo específico para a execução da garantia de fiel cumprimento",
+   "resumo_voto": "Sustentação oral de Eduardo Rodrigues Evangelista (consultor da ACM Minas) pediu indeferir o pedido sem execução da garantia, alegando inviabilidade ambiental declarada em Minas Gerais e a Resolução 673/2015 (garantia será devolvida). O relator deferiu a revogação (direito da autorizada) e tratou a garantia como pedido autônomo, em processo específico com contraditório, aberto por conexão sob sua relatoria.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (defere revogação e determina abertura de processo específico para a garantia)",
+     "ts": "0:15:13",
+     "confianca": "alta",
+     "justificativa": "revogação a pedido é direito da autorizada; a garantia é pedido autônomo, a tratar em processo específico com ampla defesa; declaração de inviabilidade ambiental juntada muito recentemente"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator, com ressalva de que a análise da garantia seja separada (pela proclamação)",
+     "ts": "0:13:00",
+     "confianca": "media",
+     "justificativa": "apesar da plausibilidade do argumento da empresa, a procuradoria não se manifestou de forma conclusiva; interessante análise específica em separado"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:24:00",
+     "confianca": "baixa",
+     "justificativa": "a legenda registra falas de um diretor concordando com a separação dos processos e defendendo agilidade e parecer referencial; autoria não identificada"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:24:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:26:02",
+   "processo": "48500.000808/2018 (número incerto na legenda)",
+   "interessado": "Leilão 3/2018 (A-6); vendedores de 52 empreendimentos; CERON (inadimplência setorial sanada)",
+   "assunto": "Homologação parcial do resultado e adjudicação do objeto do Leilão 3/2018-ANEEL (A-6), compra de energia de novos empreendimentos de geração, nos termos da Portaria MME 44/2018",
+   "tema": [
+    "leilões (geração)",
+    "comercialização (CCEE)",
+    "outorgas de geração"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Leilão de 31/08/2018: 8.350 lotes, deságio médio de 46,89%, 62 empreendimentos (48 eólicas, 6 PCHs, 4 CGHs, 3 térmicas a biomassa, 1 a gás natural, 1 hidrelétrica), suprimento a partir de 1/1/2024; homologados 52 empreendimentos de 34 agentes; a determinação de apurar a CERON deixou de caber após o parcelamento da dívida.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:36:00",
+     "confianca": "alta",
+     "justificativa": "relator reconhece a habilitação de 52 empreendimentos e a regularização da CERON no cadastro de inadimplentes"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:38:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:38:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:38:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:38:55",
+   "processo": "48500.004970/2018 (número incerto na legenda)",
+   "interessado": "Companhia Hidroelétrica São Patrício (CHESP)",
+   "assunto": "Reajuste tarifário anual de 2018 da CHESP, vigência a partir de 22/11/2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 1,51% para os consumidores (0,12% alta tensão; 1,8% baixa tensão); subvenção mensal CDE de cerca de R$ 341 mil; financeiros mitigados por crescimento de mercado devolvido ao consumidor.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:43:00",
+     "confianca": "alta",
+     "justificativa": "homologa o reajuste; efeito médio de 1,51%"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:50:45",
+   "processo": "48500.004974/2018 (número incerto na legenda)",
+   "interessado": "Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D)",
+   "assunto": "Reajuste tarifário anual de 2018 da CEEE Distribuição, vigência a partir de 22/11/2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "CDE e encargos setoriais",
+    "bandeiras tarifárias"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 7,35% (5,24% alta tensão; 8,32% baixa tensão); CDE e compra de energia (Itaipu, dólar) pressionam, transmissão reduz; o Diretor-Geral considerou o patamar razoável.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:55:00",
+     "confianca": "alta",
+     "justificativa": "homologa o reajuste; efeito médio de 7,35%"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:00",
+     "confianca": "media",
+     "justificativa": "considera o reajuste dentro de um patamar razoável"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:02:45",
+   "processo": "48500.001577/2018",
+   "interessado": "CCEE; agentes do setor (Abeeólica, Abrace/Abrasel, ÚNICA, Abragel, Apine, CPFL Renováveis, entre outros)",
+   "assunto": "Resultado da Audiência Pública 20/2018: aprovação das Regras de Comercialização de Energia Elétrica, versão 2019/2020",
+   "tema": [
+    "regulação normativa (audiência pública)",
+    "comercialização (CCEE, PLD)",
+    "preço horário",
+    "descontos TUST/TUSD de ampliações de usinas incentivadas"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos participantes",
+   "resumo_voto": "Aprova as regras 2019/2020; preço horário (PLD) só em jan/2020, com contabilização sombra disponibilizada pela CCEE até julho de 2019; mantém o entendimento de que o desconto na TUST/TUSD vale só para a parcela de ampliação vendida em leilão regulado (pleito da ÚNICA e outros negado); houve sustentações orais na reunião anterior (41ª), o relator retirou de pauta para analisar.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:04:00",
+     "confianca": "alta",
+     "justificativa": "o voto responde às sustentações da ÚNICA e do escritório SBZ: o desconto só alcança energia comercializada em leilão regulado, conforme a Lei 13.203/2015; adia o PLD horário para 2020 com operação sombra até julho de 2019"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:38:09",
+   "processo": "48500.002605/2018 (número incerto na legenda)",
+   "interessado": "Leilão de Transmissão 4/2018 (16 lotes; B3, sessão em 20/12/2018)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão 4/2018, com objeto, RAPs e anexos técnicos, após a Audiência Pública 43/2018",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas)",
+    "caducidade (Eletrosul)",
+    "TCU"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "16 lotes, investimento de cerca de R$ 13,17 bilhões, ~7.152 km de linhas e 15.000 MVA, ~28 mil empregos; lotes 10 a 13 e 14 vêm da caducidade do contrato 1/2015 da Eletrosul (Portaria MME 466/2018); lotes 17 e 18 (Amazonas) retirados; afastado o art. 1º da REN 709/2016; Acórdão TCU 2543/2018.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:19:00",
+     "confianca": "alta",
+     "justificativa": "aprova o edital; caducidade da Eletrosul e retirada dos lotes 17 e 18 por descasamento com obras da distribuidora"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:35",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "13",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem falantes confiáveis: votos individuais atribuídos pela proclamação do Diretor-Geral, confiança media/baixa.",
+  "Quarto diretor presente inferido como Rodrigo Limp (colegiado de 2018); trecho com doutor Rodrigo Limpe e procurador-geral na legenda pode referir-se a procuradoria.",
+  "Diretor Franklin da legenda interpretado como Efrain Cruz (impedido nos itens 9 e 10).",
+  "Itens do bloco e processos não identificados; números de processo dos itens 1, 2, 3, 4 incertos.",
+  "Autores das falas no item 16 e no item 6 (comentários sobre contabilização sombra) não identificados.",
+  "Item 6 teve 3 sustentações orais na 41ª reunião, não nesta."
+ ]
+}

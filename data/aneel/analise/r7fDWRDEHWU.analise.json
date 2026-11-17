@@ -1,0 +1,47 @@
+{
+  "meta": {"video_id": "r7fDWRDEHWU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "36ª Ordinária (Parte 2, tarde)", "data": "2020-09-29", "formato": "videoconferência",
+    "presidente_da_sessao": "Ricardo Tili (Diretor-Geral)",
+    "diretores_presentes": ["Ricardo Tili", "Efrain Cruz", "Elisa Bastos", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Segunda parte (tarde) da 36ª reunião pública ordinária de 2020; item 6 retirado de pauta (liberado posteriormente); 2 itens deliberados (7 e 11, este destacado do bloco).", "Encerrada ao final do item de recurso da Enel Ceará (ts ~0:41:00)."]
+  },
+  "itens": [
+    {
+      "id": "7", "ts": "0:00:41",
+      "processo": "48500.004679/2020-53", "interessado": "Sic Geração de Energia Ltda. (usina de biomassa de capim-elefante) x Coelba",
+      "assunto": "Pedido de medida cautelar para suspender a aplicação de penalidades do Contrato de Geração Distribuída 01/2019 com a Coelba e a retirada da inscrição no Cadin",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (biomassa)", "geração distribuída", "comercialização (contratos)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: cautelar negada; autos à SRM com a SFG para análise do mérito e posterior devolução ao relator",
+      "resumo_voto": "Sem sustentação oral e sem parecer da Procuradoria. Penalidade de cerca de R$ 11,5 milhões por 56 dias de paralisação da usina (turbina, pandemia alegada como caso fortuito). Relator não vê fumaça do bom direito (contrato bilateral e específico para suprimento da região oeste da Bahia; defeito surgiu dois dias após a manutenção anual, risco da requerente; sem nexo com a pandemia) nem perigo da demora (sem notificação tempestiva da cláusula 12.3; sem prova de prejuízo pelo Cadin).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, nega a cautelar e encaminha à SRM/SFG", "ts": "0:19:45", "justificativa": "ausência de probabilidade do direito e de perigo da demora; contrato livremente pactuado, sem notificação tempestiva de força maior", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:20:12", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:20:14", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator; proclama por unanimidade", "ts": "0:20:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:21:37",
+      "processo": "48500.000060/2019-95", "interessado": "Enel Distribuição Ceará (Coelce)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 01/2019 lavrado pela ARCE (multa de R$ 730 mil por classificação incorreta de registros de atendimento e avaliação de reclamações; determinação de recálculo do FER)",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "distribuição e qualidade"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; mantida a multa de cerca de R$ 730 mil e a determinação em 30 dias",
+      "resumo_voto": "Sustentação oral de Raimundo Tarcísio Costa Júnior (Enel Ceará), alegando vício processual no despacho saneador, falta de clareza do anexo da REN 414, isonomia com caso da Light (advertência) e ausência de dano. Procuradoria (parecer 123/2020) pelo conhecimento e não provimento. Relatora: fiscalização é atividade irrestrita; contraditório assegurado; dúvidas sobre o anexo poderiam ter sido objeto de consulta formal.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, conhece e nega provimento", "ts": "0:39:01", "justificativa": "fiscalização prevista em lei e contratos; ampla defesa preservada; classificação incorreta comprovada; dúvidas nunca levadas à ANEEL", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:40:03", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:40:05", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora; proclama por unanimidade", "ts": "0:40:10", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "6", "motivo": "retirado de pauta, a ser liberado posteriormente (processo não identificado na fala)"}],
+  "limites_da_analise": [
+    "Chamada de presença da parte 1 (manhã) não está neste vídeo: presentes inferidos pelos nomes citados (Tili, Efrain Cruz, Elisa Bastos, André Pepitone). Sandoval Feitosa pode ter participado, mas não é citado; Rodrigo Limp foi exonerado antes (citado só como ex-relator do item 11).",
+    "Votos de seguidores (Elisa e André no item 7; Efrain e André no item 11) sem nome na legenda: atribuição pela proclamação de unanimidade e pela ordem usual; confiança baixa.",
+    "Número do processo do item 7 reconstituído da legenda (48500.004679/2020-53) e valores de multa podem estar errados na legenda automática; nome da requerente aparece como «cinco é geração»/«Sic Geração», incerto.",
+    "ts da fala de Efrain/Elisa aproximados; ts reais de leitura do voto: item 7 até ~0:19:45 (1185 s), item 11 ~0:39:01 (2341 s)."
+  ]
+}

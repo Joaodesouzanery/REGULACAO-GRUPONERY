@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "N4wWfnXwoZY", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "11ª RPE 2020",
+  "data": "2020-11-27",
+  "formato": "não identificado (sessão noturna, início às 20h30 segundo fala do presidente da sessão)",
+  "presidente_da_sessao": "André Pepitone (presidente da sessão; atribuição por inferência)",
+  "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Hélvio Guerra", "Elisa Bastos"],
+  "ausentes": ["Sandoval Feitosa (não participou da deliberação, conforme abertura)"],
+  "observacoes": ["Reunião extraordinária com processo único, convocada com urgência pela crise de suprimento no Amapá (perturbação de 3/11/2020).", "Quórum de quatro diretores; Sandoval Feitosa declarado como não participante na abertura (motivo ininteligível na legenda)."]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:55",
+   "processo": "48500.005932/2020-05 (número incerto na legenda; citado também como 48.500 005 1930/2011-05 na abertura)",
+   "interessado": "Centrais Elétricas do Norte do Brasil (Eletronorte); Linhas de Macapá Transmissora de Energia (LMTE); usina UTE Jaguatirica II (Boa Vista/RR) citada",
+   "assunto": "Transferência onerosa de transformadores da Eletronorte (SE Boa Vista e SE Vila do Conde) para a LMTE (SE Macapá e Laranjal do Jari) em razão do Gabinete de Crise do MME (Portaria 403/2020) após o apagão no Amapá",
+   "tema": ["transmissão (reforços, transferência de equipamentos)", "fiscalização e sanções (apuração da perturbação no Amapá)", "institucional (MME, ONS, Gabinete de Crise)", "outorgas de geração (UTE Jaguatirica II, acesso)"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes: dispensada anuência prévia ao contrato de cessão onerosa Eletronorte-LMTE; função de transmissão TR 230/69 kV de 100 MVA da SE Boa Vista considerada disponível enquanto o transformador estiver deslocado por decisão do Gabinete de Crise; superintendências devem informar MME, ONS e Conselho de Administração do ONS (na pessoa do presidente) sobre prazos de recomposição na SE Boa Vista e cronograma de comissionamento da UTE Jaguatirica II",
+   "resumo_voto": "Relator entendeu que a transferência provisória já foi decidida pelo Gabinete de Crise e ratificada pelo MME, sem ação deliberativa da ANEEL; a RN 691/2015 (desvinculação) não se aplica; contrato de cessão entre partes não relacionadas é dispensado de anuência prévia (RN 699/2016), sujeito a fiscalização posterior; indisponibilidade da função de transmissão não se caracteriza por ser determinação do poder concedente; determina comunicar MME, ONS e demais instituições. Procuradoria (Dr. Ramalho) não viu questão jurídica e opinou pela presunção de legitimidade. Sem sustentação oral.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:29:24", "justificativa": "Voto pela dispensa de anuência prévia ao contrato de cessão onerosa, pela disponibilidade da função de transmissão durante o deslocamento e pela comunicação ao MME, ONS e Conselho do ONS sobre prazos de recomposição da SE Boa Vista e comissionamento de Jaguatirica II.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:46:36", "justificativa": "Parabenizou o relator pela velocidade e sensibilidade; propôs que o ofício ao ONS siga também com cópia ao presidente do Conselho de Administração do ONS; explicou o histórico de multas ao ONS e apresentou casos anteriores de perturbações (2013, 2014, 2018) e a apuração em curso do caso Amapá. Proclamou o resultado.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:46:20", "justificativa": "Alinhou-se ao que foi dito, cumprimentou o relator, concordou com informar todos os conselheiros do ONS e declarou acompanhar o relator.", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:39:55", "justificativa": "Concordou com a observação sobre ciência do Conselho de Administração do ONS e reafirmou que a situação do Amapá é inaceitável e que a apuração de responsabilidades prosseguirá.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros: número do processo, nomes (relator citado como Franklin Pereira da Cruz, lido como Efrain Cruz) e siglas (ONS grafado INSS) incertos.",
+  "Atribuição dos falantes na discussão e na votação é por inferência: o presidente da sessão (André Pepitone, chamado de Doutor André) e Hélvio Guerra e Elisa Bastos aparecem por menção nominal; os três acompanham o relator em ordem, sem nomes ditos na votação (0:46:20 a 0:46:36).",
+  "ts de Pepitone, Hélvio e Elisa são aproximados; a lista de presentes (4) vem do quórum anunciado e das falas, e Ricardo Tili aparece como rótulo automático sem base.",
+  "Motivo da não participação de Sandoval Feitosa ininteligível."
+ ]
+}

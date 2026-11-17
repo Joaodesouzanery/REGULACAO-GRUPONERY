@@ -1,0 +1,257 @@
+{
+ "meta": {
+  "video_id": "c553Ss7-5t4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "15",
+  "data": "2019-05-07",
+  "formato": "presencial, transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "não identificado"
+  ],
+  "ausentes": [
+   "André Pepitone"
+  ],
+  "observacoes": [
+   "15ª Reunião Pública Ordinária, pauta de 16 itens; itens 1 e 2 e 8 retirados; bloco de itens remanescentes aprovado em bloco; deliberados individualmente 5, 3, 4, 6 e 7.",
+   "Pepitone (Diretor-Geral) em missão internacional (AIER)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "5",
+   "ts": "0:12:12",
+   "processo": "48500.000166/2019-30",
+   "interessado": "Interligação Elétrica Garanhuns S.A. (transmissora)",
+   "assunto": "Recurso administrativo contra o Despacho SRT 547/2019, que manteve o desconto de parcela variável por indisponibilidade (PVI) por desligamentos de 23/12/2017 nas LTs Garanhuns II - Campina Grande III e Garanhuns II - Pau Ferro (500 kV)",
+   "tema": [
+    "transmissão (RAP, PVI)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "não conhecido por intempestividade; mantida a PVI; unanimidade",
+   "resumo_voto": "Recurso protocolado em 21/03/2019 contra despacho publicado em 26/02/2019; prazo de 10 dias (Lei 9.784/99, REN 273/2007) encerrou em 08/03. Mesmo no mérito, acúmulo de poluição nos isoladores é previsível e evitável, não é caso fortuito ou força maior (parecer PGE e nota técnica SRT). Sustentação oral da transmissora pedindo sobrestamento até julgar processo conexo e estudo com a ABRATE/ONS; procurador e relator mantiveram o item em pauta.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, não conhece o recurso (intempestivo) e mantém a PVI",
+     "ts": "0:16:31",
+     "confianca": "alta",
+     "justificativa": "intempestividade; poluição previsível e evitável, sem caso fortuito ou força maior"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator, com comentário",
+     "ts": "0:29:53",
+     "confianca": "baixa",
+     "justificativa": "concorda com o relator: poluição na região é sanável com operação e manutenção (lavagem, revestimento de isoladores); disse ter atuado na fiscalização"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:30:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:30:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:31:35",
+   "processo": "48500.006285/2018-15",
+   "interessado": "EDP Espírito Santo (distribuidora)",
+   "assunto": "Abertura de audiência pública (8/5 a 24/6/2019; reunião presencial em Vitória em 7/6) para a 8ª revisão tarifária periódica da EDP Espírito Santo, vigência a partir de 7/8/2019",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "regulação normativa (audiência pública)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovada a abertura da audiência pública; unanimidade (julgado em conjunto com o item 4)",
+   "resumo_voto": "Resultado preliminar: efeito médio ao consumidor de -6,66%, com forte impacto negativo dos encargos setoriais (antecipação de pagamento de cotas CDE/CCC, -6,63%) e retirada de financeiros de 2018. Perdas técnicas e não técnicas em redução. Procuradoria dispensou manifestação.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:49:48",
+     "confianca": "alta",
+     "justificativa": "abertura da audiência pública; destaca que a redução vem dos encargos setoriais e da retirada de financeiros"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator, com registro de satisfação pelo reajuste negativo",
+     "ts": "0:49:03",
+     "confianca": "baixa",
+     "justificativa": "registrou alegria pelo segundo reajuste negativo e pelo trabalho do colegiado sob coordenação do Diretor-Geral"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:31:35",
+   "processo": "48500.001752/2019-30",
+   "interessado": "EDP Espírito Santo (distribuidora)",
+   "assunto": "Abertura de audiência pública para definir limites dos indicadores DEC e FEC da EDP Espírito Santo para 2020 a 2022 (julgado com o item 3)",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovada a abertura da audiência pública; unanimidade (conjunto com item 3)",
+   "resumo_voto": "Limites de DEC e FEC propostos pela nota técnica SRD 27/2019; apurado em trajetória descendente dentro da meta.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:49:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:50:47",
+   "processo": "48500.001936/2019-61",
+   "interessado": "Transmissora Sertaneja de Eletricidade S.A. (TSE) e Equatorial Transmissora 3 SPE S.A.",
+   "assunto": "Requerimento para antecipar a entrada em operação comercial de funções de transmissão dos contratos de concessão 09/2017 (TSE) e 10/2017 (Equatorial 3), condicionada à Equatorial 2 (contrato 08/2017), no Piauí e na Bahia",
+   "tema": [
+    "transmissão (RAP, outorgas, antecipação de operação)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovada a autorização; unanimidade",
+   "resumo_voto": "Autoriza antecipar a LT 500 kV Buritirama - Queimada Nova 2, o segundo circuito Queimada Nova 2 - Curral Novo do Piauí 2 e a SE Queimada Nova 2, com direito a 38,85% da RAP da TSE nas funções antecipadas (a LT não antecipada representa 61,15%). ONS favorável; benefícios de confiabilidade na interligação Nordeste e Sudeste.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:01:15",
+     "confianca": "alta",
+     "justificativa": "benefícios ao sistema, ONS favorável, SCT recomendou; RAP proporcional aos investimentos estimados"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:36",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:02:24",
+   "processo": "48500.000027/2019-14",
+   "interessado": "Edital de Leilão de Geração 1/2019 (suprimento a Boa Vista e localidades conectadas, RR)",
+   "assunto": "Ratificação da decisão da 3ª Reunião Pública Extraordinária (29/4/2019) que alterou parâmetros do edital do leilão, após a audiência pública 7/2019",
+   "tema": [
+    "leilões (geração, Boa Vista/Roraima)",
+    "regulação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "ratificada a decisão; unanimidade",
+   "resumo_voto": "Deliberação decorre de norma organizacional de ratificação. Um diretor ressalvou a igualdade do preço do gás e do óleo diesel no leilão, mas aprovou por a competência ser do Ministério de Minas e Energia (delegada ao secretário-adjunto); procuradoria confirmou.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, ratifica",
+     "ts": "1:04:50",
+     "confianca": "alta",
+     "justificativa": "cumprimento de procedimento regimental de ratificação"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:05:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:05:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator, com ponto de reflexão",
+     "ts": "1:05:00",
+     "confianca": "baixa",
+     "justificativa": "competência do MME; reflexão sobre igualar preço do gás ao do óleo diesel"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "1",
+   "assunto": "retirado de pauta (a pedido)"
+  },
+  {
+   "id": "2",
+   "assunto": "retirado de pauta (a pedido)"
+  },
+  {
+   "id": "8",
+   "assunto": "retirado do bloco e de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Só há um marcador de tempo no .md; ts obtidos de data/transcricoes por frase e aproximados.",
+  "Itens do bloco (9 a 16, sem o 8) foram aprovados em bloco sem leitura; não detalhados na transmissão, não registrados.",
+  "A abertura cita quatro diretores presentes, mas a legenda só permite nomear Rodrigo Limp e Efrain Cruz além de Sandoval; o quarto nome está ilegível (possível Elisa Bastos ou Tiago Correia; não confirmado), registrado como não identificado.",
+  "Falas individuais de comentários nos itens 5, 3 e 7 não têm nome; atribuição ao quarto diretor é inferência (confiança baixa). A legenda chama Efrain Cruz de «Franklin».",
+  "Votos de seguidores inferidos da proclamação por unanimidade."
+ ]
+}

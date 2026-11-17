@@ -1,0 +1,349 @@
+{
+ "meta": {
+  "video_id": "PmCpdXdMAn4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "38",
+  "data": "2021-10-13",
+  "formato": "reunião pública ordinária (presencial/híbrida)",
+  "presidente_da_sessao": "Elisa Bastos (Diretora-Geral substituta)",
+  "diretores_presentes": [
+   "Elisa Bastos",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "André Pepitone"
+  ],
+  "observacoes": [
+   "Pepitone (Diretor-Geral) ausente em representação institucional; Elisa Bastos preside como substituta.",
+   "Início com 3 diretores (Elisa, Sandoval, Hélvio); Efrain Cruz entra depois; Hélvio Guerra sai antes do item 4 (por volta de 2:02) e Efrain Cruz já participa dos itens 4, 5 e 7.",
+   "Pauta de 43 itens; bloco dos itens 12 a 43; retirados de pauta 16, 10, 11, 21, 27 e 29; preferência para o item 8; sustentação oral para 9 e 26; item 2 já deliberado na 10ª RPE de 8/10/2021.",
+   "Ordem de julgamento: bloco, 9, 8, 3, 26 (retirado), 4, 5, 7. Encerrada às cerca de 3:29:00 do vídeo.",
+   "Informes: prazos das CP 49, 39, 57 e 7/2021; ata da 37ª RPO e da 10ª RPE aprovadas; CP 64/2021 (Fator X transmissão) de 7/10 a 22/11/2021."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 12-43",
+   "ts": "0:05:02",
+   "processo": "",
+   "interessado": "vários (bloco de itens 12 a 43, exceto os retirados 16, 10, 11, 21, 27 e 29 e o item 26 destacado)",
+   "assunto": "Deliberação em bloco dos itens 12 a 43 da pauta da 38ª RPO, com votos e atos publicados no site desde a quinta-feira anterior",
+   "tema": [
+    "deliberação em bloco",
+    "regulação normativa"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Presidente pergunta se há observações; sem destaques, aprovam o bloco; proclamação por unanimidade dos presentes.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:07:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:07:09",
+     "justificativa": "proclamação por unanimidade dos presentes",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:07:28",
+   "processo": "48500.005272/2019 e outros (5 processos; numeração parcial pela legenda)",
+   "interessado": "Oxe Participações S.A. (UTEs Santa Luz, Pau-Rainha, Cantá e Bonfim, Roraima; Leilão 1/2019 de Boa Vista e localidades conectadas)",
+   "assunto": "Requerimento administrativo para reconhecimento de excludente de responsabilidade (impacto ambiental/licenciamento, chuvas acima da média, pandemia) e alteração do cronograma de implantação das usinas termelétricas a biomassa em Roraima; pedido de 163 dias",
+   "tema": [
+    "outorgas de geração (térmica a biomassa)",
+    "leilões (Boa Vista e localidades conectadas)",
+    "excludente de responsabilidade",
+    "sustentação oral",
+    "Roraima",
+    "sistemas isolados"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e provido parcialmente por unanimidade: reconhecidos 95 dias (pandemia); negados licenciamento ambiental e chuvas",
+   "resumo_voto": "Reconhece 95 dias de excludente apenas pela pandemia (conforme SCG/SFG e PGF); suprimento passa a 1/10/2021 a 30/9/2036; mantida a vigência da outorga; afasta mudança de entendimento do órgão ambiental (prazo regulamentar de 12 meses não extrapolado; agente alterou características do projeto) e chuvas (índices de 2018/2019 maiores). Sustentação oral de Henrique Reis (Santa Luz Geração) pedia 163 dias. Item adiado do início por problema de carregamento do voto no sistema.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá provimento parcial",
+     "ts": "1:08:40",
+     "justificativa": "prazos regulamentares do órgão ambiental não ultrapassados; chuvas em Roraima são normais para a região; pandemia comprovada por 95 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:16:32",
+     "justificativa": "comentou o risco assumido por empreendedores em região de chuvas intensas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:16:34",
+     "justificativa": "destacou que a excludente só se caracterizou quanto à pandemia",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:10:14",
+   "processo": "48500.004888/2021-88 (numeração parcial pela legenda)",
+   "interessado": "Equatorial Energia S.A. (CEA, Amapá)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para afastar penalidades regulatórias pela inadimplência da CEA na CCEE, desbloquear participação em futuros MCSD de energia nova e dispensar certificado de adimplemento no reajuste tarifário 2021",
+   "tema": [
+    "comercialização (CCEE, MCSD)",
+    "medida cautelar",
+    "tarifas e reajuste tarifário",
+    "distribuidoras (CEA, Amapá)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido; negado provimento à cautelar por unanimidade dos presentes",
+   "resumo_voto": "Ausentes fumaça do bom direito e perigo da demora: o Despacho 2.915/2020 segue válido para participação da CEA no MCSD; precificação da inadimplência no leilão de privatização; certificado de adimplemento pode ser analisado no processo de reajuste. Procuradoria sem parecer específico, vê falta de respaldo legal. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento à cautelar",
+     "ts": "0:32:10",
+     "justificativa": "ausência dos requisitos do art. 300 do CPC; despacho anterior já contempla o pedido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:32:47",
+     "justificativa": "antecipou concordância: pedidos já contemplados em atos anteriores",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:34:38",
+     "justificativa": "proclamação por unanimidade dos presentes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:17:52",
+   "processo": "48500.000891/2019-16",
+   "interessado": "SRT (ANEEL); associações de transmissoras (ABRATE); ONS",
+   "assunto": "Abertura da segunda fase da Consulta Pública 30/2020 sobre AIR de reforços e melhorias em instalações de transmissão, de 15/10 a 29/11/2021 (46 dias)",
+   "tema": [
+    "transmissão (reforços e melhorias, RAP)",
+    "regulação normativa (consulta pública, AIR)",
+    "participação social"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura 2ª fase da CP 30/2020: definições de reforços e melhorias de grande e pequeno porte, RAP de pequeno porte só na revisão periódica, desvinculação de reforço pequeno e grande porte, novo conceito contábil de melhorias, tratamento de sinistros; apresentação técnica de Rafael (SRT). Procuradoria sem contribuições de mérito.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:39:22",
+     "justificativa": "modicidade tarifária, segurança operacional e segurança do empreendedor; processo colaborativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:44:25",
+     "justificativa": "elogiou a equipe e a criação de indicadores de acompanhamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:44:31",
+     "justificativa": "parabenizou a equipe técnica e o relator",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:45:18",
+   "processo": "48500.000077/1997 e 48500.006285/2003 (numeração parcial pela legenda)",
+   "interessado": "Campos Novos Energia S.A. (Enercan), UHE Campos Novos",
+   "assunto": "Requerimento de excludente de responsabilidade com recomposição do prazo da concessão da UHE Campos Novos (vazão anômala no túnel de desvio nº 2, 325 dias de atraso, art. 19 da Lei 13.360/2016)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "excludente de responsabilidade",
+    "prescrição",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator para nova análise da Procuradoria",
+   "resumo_voto": "Após sustentação oral de Alexei Macorin Vivan (Enercan) e manifestação do procurador-geral Luiz Eduardo sobre prescrição e irretroatividade da Lei 13.360, o relator retirou o processo; áreas técnicas indicavam indeferimento por falta de nexo causal e por risco ordinário do empreendimento. Sem votação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "1:59:32",
+     "justificativa": "solicita análise da procuradoria sobre prescrição e conhecimento do pedido",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:03:14",
+   "processo": "48500.004536/2021-22",
+   "interessado": "SRD (ANEEL); Ministério da Cidadania; distribuidoras",
+   "assunto": "Abertura de consulta pública (14/10 a 12/11/2021) sobre minuta que regulamenta a Lei 14.203/2021 (inscrição automática dos beneficiários da Tarifa Social de Energia Elétrica, TSEE)",
+   "tema": [
+    "tarifa social (TSEE)",
+    "CDE e encargos setoriais",
+    "distribuição (distribuidoras)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Concessão automática individual e coletiva e periódica pelas distribuidoras via CadÚnico/BPC, busca ativa de 6 meses e campanha; potencial de cerca de 12 milhões de famílias, custo de cerca de R$ 3,4 bi/ano pela CDE. Prazo corrigido de 16/11 para 12/11. Apresentação de Daniel Bego (SRD). Procuradoria já se manifestou.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:24:10",
+     "justificativa": "política pública da tarifa social; busca ativa agora obrigatória por lei",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:34:39",
+     "justificativa": "elogiou o relator e o alcance social da medida",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:34:43",
+     "justificativa": "destacou a relevância social da regra",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:35:16",
+   "processo": "48500.004864/2020-83",
+   "interessado": "MTP Transmissora de Energia Ltda. (Lote 15, leilão 4/2018, Rondônia)",
+   "assunto": "Recurso administrativo contra o Despacho SFE 617/2021 que aplicou multa de 2,5% do investimento por descumprimento de marcos intermediários do contrato de concessão 15/2019",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "transmissão (leilão 4/2018)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e provido parcialmente por unanimidade dos presentes: multa reduzida a 0,3% (cerca de R$ 208 mil)",
+   "resumo_voto": "Reduz a dosimetria de 2,5% para 0,3% (0,1% por marco intermediário não cumprido, coerente com editais novos); rejeita suspender a multa; empresa inerte, SFE deve avaliar medidas incluindo caducidade; Procuradoria apontou multa elevada com risco de precipitar caducidade. Valor da multa na legenda é incerto.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, dá provimento parcial",
+     "ts": "2:48:41",
+     "justificativa": "multa de 2,5% excessiva; 0,1% por marco; manter multa e acionar fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:05:47",
+     "justificativa": "pediu diagnóstico da fiscalização sobre obras outorgadas ao grupo econômico",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "3:05:54",
+     "justificativa": "concorda; refletiu sobre multas que podem inviabilizar empreendimentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:08:20",
+   "processo": "48500.003502/2021-11",
+   "interessado": "Serra do Facão Energia S.A. (UHE Serra do Facão, contrato 129/2001)",
+   "assunto": "Requerimento com pedido de medida cautelar para substituir o IGPM pelo IPCA como índice de reajuste do UBP (uso de bem público)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "CDE e encargos setoriais (UBP)",
+    "medida cautelar",
+    "índices de reajuste (IGPM x IPCA)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido; negado provimento à cautelar por unanimidade dos presentes; processo ao SCG para análise de mérito",
+   "resumo_voto": "Sem fumaça do bom direito: variação do IGPM faz parte da matriz de risco e não há equilíbrio econômico-financeiro em contrato de uso de bem público (PGF, parecer 259); sem perigo da demora; recomenda consulta pública específica; relator trouxe reflexão sobre volatilidade do IGPM nos contratos do setor.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento à cautelar",
+     "ts": "3:25:59",
+     "justificativa": "requisitos do art. 300 do CPC ausentes; cláusula contratual transparente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:28:14",
+     "justificativa": "variações do IGPM são risco do contrato de longo prazo",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:28:17",
+     "justificativa": "proclamação por unanimidade dos presentes",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "itens 16, 10, 11, 21, 27 e 29 (retirados de pauta antes da sessão, conforme secretário-geral)",
+   "relator": "não informado",
+   "motivo": "retirados de pauta (sem detalhe na legenda)",
+   "ts": "0:04:30"
+  },
+  {
+   "item": "26 - Campos Novos Energia (excludente de responsabilidade, UHE Campos Novos)",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado pelo relator para análise adicional da Procuradoria sobre prescrição e cabimento do pedido",
+   "ts": "1:59:32"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros: números de processo, valores e siglas parciais ou distorcidos.",
+  "Atribuição de quem diz acompanho é inferida pela ordem usual (relator, demais, presidente por último) e pelos agradecimentos nominais; confiança media/baixa.",
+  "Item 5: quem proclamou o resultado quando Elisa Bastos é relatora não ficou claro; a ordem de Sandoval e Efrain é incerta.",
+  "Item 7: o voto de Efrain Cruz (3:28:14) é atribuído por exclusão; confiança baixa.",
+  "Nomes ditos Doutor Ricardo e Doutor Luiz Eduardo são o secretário-geral e o procurador-geral, não diretores; Ricardo Tili (rótulo de falante) não é diretor nesta sessão.",
+  "Itens 1 e 6 da pauta não aparecem na legenda e não foram deliberados em sessão ou foram incluídos sem registro; não analisados.",
+  "Conteúdo do bloco 12-43 não é detalhado em sessão; um único registro agregado."
+ ]
+}

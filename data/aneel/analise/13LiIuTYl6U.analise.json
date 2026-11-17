@@ -1,0 +1,372 @@
+{
+ "meta": {
+  "video_id": "13LiIuTYl6U",
+  "fonte": "legenda automática do YouTube; texto sem separação de falantes (rótulos do .md são inferidos e não confiáveis); ts por busca em data/transcricoes",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "42",
+  "data": "2019-11-12",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto) no início; André Pepitone (Diretor-Geral) após chegar",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Elisa Bastos",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura informou quórum de três diretores no momento; Elisa Bastos e André Pepitone provavelmente chegaram depois (Pepitone diz ter chegado durante o item 2, 1:49:12).",
+   "Bloco de itens 8 a 31 aprovado; item 7 retirado de pauta; item 10 destacado do bloco por sustentação oral.",
+   "Ordem julgada: 10, 3, 1, 2, 4, 5, 6.",
+   "Encerrada às ~2:55:37 de vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 8-31",
+   "ts": "0:04:23",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Bloco de itens 8 a 31 da pauta (votos disponibilizados com antecedência), aprovados em bloco; item 7 retirado de pauta e item 10 destacado para sustentação oral",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado em bloco",
+   "resumo_voto": "Presidência da sessão votou pela aprovação do bloco; os outros dois diretores presentes também votaram pela aprovação. Conteúdo individual dos itens do bloco não é lido na sessão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:23",
+     "justificativa": "Submeteu o bloco a julgamento e votou pela aprovação.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:30",
+     "justificativa": "Votou pela aprovação do bloco (voz não identificada pela legenda).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:35",
+     "justificativa": "Votou pela aprovação do bloco (voz não identificada pela legenda).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:05:16",
+   "processo": "48500.003615/2015-78 (número aproximado pela legenda)",
+   "interessado": "Roraima Energia S.A. (ex-Boa Vista Energia)",
+   "assunto": "Adequação dos limites de consumo específico de combustível das centrais termelétricas dos sistemas isolados de Boa Vista (Monte Cristo, Senador Arnon Afonso Farias de Mello, Floresta, Distrito 1 e 2, Novo Paraíso), flexibilizando o limite da REN 801/2017 para 0,283 l/kWh e reembolso do passivo pela CCC",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "distribuição",
+    "regulação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator vota por substituir a aplicação do anexo 1 da REN 801/2017 por 0,283 l/kWh para as usinas, desde 19/12/2017 até 30/06/2021 ou interligação de Boa Vista ao SIN, e determinar à CCEE apurar e reembolsar o passivo. Sustentação oral da Roraima Energia (Joaquim Moreira, diretor administrativo-financeiro) pediu reprocessamento do período jul/2017 a 18/12/2017 em processo apartado; superintendente (Cristiano) esclareceu que o item 2 do voto já atende tacitamente. Houve manifestação da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:28:00",
+     "justificativa": "Leu o voto: o Despacho 465/2016 perdeu efeito com a REN 801/2017; razoabilidade em manter a flexibilização até junho de 2021 ou interligação, e recomendação à CCC para reprocessar competências anteriores.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:45",
+     "justificativa": "Pediu esclarecimento da superintendência sobre o pleito da requerente antes da votação; ao final declarou-se satisfeito e acompanhou.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:47",
+     "justificativa": "Proclamação por unanimidade; fala individual não identificada.",
+     "confianca": "baixa"
+    }
+   ],
+   "sustentacao_oral": "Joaquim Moreira (Roraima Energia)"
+  },
+  {
+   "id": "3",
+   "ts": "0:37:21",
+   "processo": "48500.000289/2014-xx (número parcial pela legenda)",
+   "interessado": "Cigás / Manaus Energia, Eletronorte e Eletrobras",
+   "assunto": "Fixação do preço regulatório da parcela dos ramais termelétricos do gás natural de Manaus para reembolso pela CCC (R$ 1,5234 por milhão de BTU, ref. out/2018, aplicável de jul/2019 a maio/2025)",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "outorgas de geração (térmica)",
+    "tarifas"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (resolução homologatória)",
+   "resumo_voto": "Relator homologa o preço regulatório de R$ 1,5234/milhão BTU (cenário até maio de 2025), acompanha a Procuradoria quanto à desnecessidade de nova consulta pública; impacto estimado de cerca de R$ 5 milhões mensais na CDE, coberto pelo orçamento de 2019. Dois processos foram anunciados juntos, mas só um é detalhado na legenda.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:45:00",
+     "justificativa": "Homologação do preço de R$ 1,5234 por milhão de BTU; cenário até 2025 por incertezas nas premissas do fluxo de caixa; dispensa de nova consulta pública conforme Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:30",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:32",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:58:56",
+   "processo": "48500.001520/2019-43 (aprox.)",
+   "interessado": "ANEEL / Leilão de Transmissão nº 02/2019",
+   "assunto": "Aprovação do edital do Leilão de Transmissão nº 02/2019 (12 lotes, cerca de R$ 4 bilhões, 12 estados; sessão pública em 19/12/2019 em São Paulo), após o pronunciamento do TCU (Acórdão 2637/2019)",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas)",
+    "institucional/TCU"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator vota por aprovar o edital, objeto, RAPs e anexos técnicos dos 12 lotes; ajustes após análise do TCU (lotes 2, 3, 9 e 10 com RAP revisada; prazo do lote 8 corrigido de 42 para 48 meses); aviso de licitação em 14/11/2019. Apresentação técnica de André Tiburtino (SCT/SRT).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:12:00",
+     "justificativa": "Leu o dispositivo aprovando o edital; destacou ganho de tempo (leilão antecipado em relação ao previsto) e correções após o TCU.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:00",
+     "justificativa": "Elogiou a relatoria e destacou a robustez do modelo de contratos de transmissão (comentário atribuído por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:30",
+     "justificativa": "Concordou com as colocações sobre a maturidade do modelo de leilões de transmissão.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:20:20",
+   "processo": "48500.005171/2019-39 (aprox.)",
+   "interessado": "Energia Sustentável do Brasil, Santo Antônio Energia, CCEE",
+   "assunto": "Abertura de consulta pública sobre as exposições financeiras de energia secundária no Mecanismo de Realocação de Energia (MRE), de 13/11 a 12/12/2019 (30 dias, justificado por prazo inferior a 45 dias)",
+   "tema": [
+    "comercialização (CCEE, MRE)",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovada abertura de consulta pública por unanimidade dos votantes",
+   "resumo_voto": "Relator vota pela abertura de consulta pública para aprimorar o tratamento das exposições de energia secundária (alternativa 3 recomendada pela SRG, alívio até a garantia física flat para quem sazonaliza pela média do MRE), efeitos a partir de jan/2020. Prazo reduzido: ajustado de 29 para 30 dias (até 12/12/2019) por sugestão de Efrain Cruz. Debate: pedido de simular os últimos três anos e avaliar impacto sobre consumidores livres; discussão de simplificar o modelo e das interligações entre submercados.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:20:39",
+     "justificativa": "Justificou o prazo menor pela necessidade de efeitos econômicos a partir de jan/2020 e de a CCEE receber a sazonalização até 19/12.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:28:00",
+     "justificativa": "Defendeu mais simplicidade do modelo (voltar ao conceito físico), pediu rodar simulação dos últimos três anos e sugeriu fechar a consulta em 30 dias, mas não se opôs à abertura.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:00",
+     "justificativa": "Considerou a alternativa 3 mais viável e sugeriu analisar impacto também para consumidores livres; discordância não registrada (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não se envolveu na discussão (chegou durante o item); proclamação por unanimidade dos votantes",
+     "ts": "1:49:12",
+     "justificativa": "Disse que chegara agora e que não se envolveria; destacou que a matéria é aprimoramento pontual e que a discussão estruturante está na agenda regulatória 2020.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:51:20",
+   "processo": "48500.002290/2018-59 (aprox.)",
+   "interessado": "Belo Monte Transmissora de Energia SPE S.A.",
+   "assunto": "Recurso administrativo contra o Auto de Infração nº 2/2019 (SFE), multa total de R$ 6.183.943,86 pela perturbação de 21/03/2018 originada na SE Xingu (blecaute N/NE)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e desprovido, multa mantida, por unanimidade dos votantes",
+   "resumo_voto": "Relatora conhece o recurso (e-mail enviado dentro do prazo, conforme parecer da Procuradoria) e nega provimento: mantém as multas das não conformidades 1, 3, 4, 5 e 6 (inclusive R$ 1.398.749,21 na NC 5), afasta o bis in idem, o reenquadramento, a mudança da base de faturamento e a conversão em advertência. Não conformidade 2 já cancelada na fiscalização.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, nega provimento",
+     "ts": "1:51:35",
+     "justificativa": "Leu o voto: ajuste de proteção de sobrecorrente em 4.000 A abaixo da capacidade nominal e falha do SEP (lógica 3) causaram a perturbação; infrações adequadamente tipificadas e dosimetria dentro dos limites da REN 63.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:28:09",
+     "justificativa": "Elogiou a profundidade do voto e lembrou a gravidade do evento (cerca de 20 mil MW; 99% do Nordeste e 94% do Norte desligados); comentário atribuído por inferência.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:28:13",
+     "justificativa": "Proclamação por unanimidade dos votantes.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:28:13",
+     "justificativa": "Proclamação por unanimidade dos votantes.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:28:13",
+     "justificativa": "Proclamou o resultado por unanimidade dos votantes (atribuição por inferência).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:28:59",
+   "processo": "48500.002292/2018-48 (aprox.)",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Recurso administrativo contra o Auto de Infração nº 3/2019 (SFE), multa de R$ 4.912.267,51, pelo desempenho do ONS diante da perturbação de 21/03/2018 (SE Xingu)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "transmissão",
+    "operação do sistema (ONS)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e provido parcialmente, por unanimidade dos votantes",
+   "resumo_voto": "Relatora conhece o recurso e dá provimento parcial: cancela a não conformidade 2 (mesmo fato gerador da NC 1, evitando bis in idem) e reduz a multa para R$ 4.696.127,74 (0,717% do orçamento anual do ONS em 2018). Apresentação técnica da SFE (Thompson). Mantidas as demais não conformidades.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, dá provimento parcial",
+     "ts": "2:41:00",
+     "justificativa": "NC 1 e NC 2 têm o mesmo fato gerador (verificação de conformidade do projeto básico); mantém a mais gravosa (NC 1) e cancela a NC 2; a discordância do ONS com os Procedimentos de Rede não autoriza o descumprimento.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:50:00",
+     "justificativa": "Concordou que NC 1 e 2 têm o mesmo fato gerador e perguntou sobre a relação entre ajuste de proteção e filosofia de proteção (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:53:30",
+     "justificativa": "Proclamação por unanimidade dos votantes.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:53:30",
+     "justificativa": "Proclamação por unanimidade dos votantes.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:53:30",
+     "justificativa": "Proclamou o resultado por unanimidade dos votantes (atribuição por inferência).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:53:52",
+   "processo": "48500.003619/2017-18 e outros 10 processos",
+   "interessado": "Geradoras eólicas Itaguaçu da Bahia, Ventos de Santa Luzia/Madalena/Vênera, Santo Antônio, São Bento, São João, São Rafael, São Cirilo e Furnas",
+   "assunto": "Pedidos de reconsideração contra despachos de 2018 que aplicaram multa e suspensão do direito de licitar/contratar com a ANEEL",
+   "tema": [
+    "fiscalização e sanções (multa, suspensão)",
+    "recursos administrativos",
+    "outorgas de geração (eólica)"
+   ],
+   "relator": "Rodrigo Limp (relator original); voto-vista de Elisa Bastos",
+   "resultado": "retirado de pauta pela relatora do voto-vista, para retorno na semana seguinte",
+   "resumo_voto": "Elisa Bastos, relatora com voto-vista, retirou o processo de pauta para melhor discussão e o trará na sessão seguinte. Não houve sustentação oral nem votos.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "retira de pauta (voto-vista)",
+     "ts": "2:55:14",
+     "justificativa": "Pediu para retirar o processo de pauta e trazê-lo na semana seguinte para discutir melhor o assunto.",
+     "confianca": "alta"
+    }
+   ],
+   "retirado": true
+  }
+ ],
+ "retirados": [
+  {
+   "id": "7",
+   "motivo": "retirado de pauta antes da sessão (informado pelo secretário-geral)"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado pela relatora do voto-vista, Elisa Bastos"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem separação de falantes: a atribuição de comentários a Sandoval, Efrain e Limp é por inferência; os rótulos de falante do .md (Gentil Nogueira, Ricardo Tili) não se aplicam a 2019 e foram ignorados.",
+  "Votos de quem apenas acompanha derivam da proclamação (confiança baixa); ts aproximados.",
+  "Itens 10 e 3: só três votantes identificáveis (Sandoval, Limp, Efrain); presença de Elisa Bastos e Pepitone nesses itens não confirmada.",
+  "Item 3: foram anunciados dois processos conjuntos, mas só um é detalhado na legenda; o segundo não foi identificado.",
+  "Números de processo aproximados pela legenda; itens do bloco 8 a 31 não detalhados.",
+  "Presença de Elisa Bastos no item 2 não confirmada; consta como presente por ser relatora dos itens seguintes."
+ ]
+}

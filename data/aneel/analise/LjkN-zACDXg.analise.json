@@ -1,0 +1,353 @@
+{
+ "meta": {
+  "video_id": "LjkN-zACDXg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47",
+  "data": "2018-12-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "47ª Reunião Pública Ordinária de 2018, Parte 1 (0:00 a 3:30; pausa para retomar às 14h30). Quórum completo de cinco diretores; primeira reunião de Elisa Bastos.",
+   "Pauta de 23 processos; retirados de pauta os itens 12, 14 e 17; destacados 31, 39 e 55; bloco votado antes dos demais.",
+   "Informes: leilão de transmissão 4/2018 em 20/12 (B3); CP 18/2018 até 31/12.",
+   "Cabeçalhos automáticos de falantes (Sandoval, Ricardo Tili) são inferidos e não confiáveis: Tili não aparece na sessão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:07:00",
+   "processo": "bloco de itens consentidos da pauta (incl. itens 24, 25, 27, 32, 33)",
+   "interessado": "diversos (distribuidoras, entre outros)",
+   "assunto": "Votação em bloco dos itens sem destaque; corrigidas casas decimais dos valores de distribuidoras nos itens 24 e 25 antes da votação.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "vários (bloco)",
+   "resultado": "aprovado por unanimidade (nos itens 32 e 33, 4 votos por impedimento de Sandoval Feitosa)",
+   "unanime": true,
+   "resumo_voto": "Diretores votaram pela aprovação do bloco. Sandoval Feitosa declarou-se impedido nos itens 32 (auto de infração lavrado quando era superintendente) e 33 (assinou despacho como superintendente da SRT). Retirados de pauta os itens 12, 14 e 17; destacados do bloco os itens 31, 39 e 55.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:07:35",
+     "justificativa": "Voto pela aprovação do bloco (atribuição pela ordem de votação e proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:07:37",
+     "justificativa": "Voto pela aprovação do bloco (atribuição pela ordem de votação e proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:07:39",
+     "justificativa": "Voto pela aprovação do bloco (atribuição pela ordem de votação e proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; impedido nos itens 32 e 33 (suspeito/impedido)",
+     "ts": "0:07:50",
+     "justificativa": "Aprova o bloco integral exceto 32 e 33: lavrou o auto de infração do item 32 quando era superintendente (SFR) e assinou despacho no item 33 como superintendente (SRT); declara-se impedido.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:08:20",
+     "justificativa": "Diretor-Geral proclama aprovação do bloco por unanimidade; nos itens 32 e 33 apuraram-se quatro votos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:40",
+   "processo": "48500.xxxxxx/2017-16 (número parcial na legenda)",
+   "interessado": "concessionárias de transmissão (Equatorial Energia, ABRATE); SRM",
+   "assunto": "Resultado da Audiência Pública 31/2018: metodologia de atualização do Banco de Preços de Referência ANEEL para autorização, licitação e revisão de RAP de transmissão.",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator (para consulta à Procuradoria sobre retroatividade e para dar transparência e diálogo); volta no dia 22 segundo a fala",
+   "unanime": false,
+   "resumo_voto": "Sustentações orais da Equatorial (Elídio José Bonfim Coutinho) e da ABRATE (Paulo Mota Henriques e Augusto Francisco da Silva), pedindo divulgação prévia da nota técnica, nova fase de audiência e questionando amostragem e retroatividade. SRM (Felipe) apresentou queda média de cerca de 33% no banco de preços após contribuições e recomendou não abrir nova fase. O relator retirou o processo de pauta para consultar a Procuradoria sobre a segurança jurídica da retroatividade, sem prejudicar a revisão das transmissoras.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira o processo de pauta",
+     "ts": "0:49:52",
+     "justificativa": "Relator: desconforto com redução muito alta e com a retroatividade; retira de pauta para consultar a Procuradoria; homenageia princípios de transparência e diálogo; lembra que a modicidade tarifária não pode ser adiada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:52:28",
+   "processo": "48500.xxxxxx/2017-80 (legenda parcial; processo da AP 41/2017)",
+   "interessado": "concessionárias de transmissão (Cetep/ISA, Copel GT, ABRATE); SRM",
+   "assunto": "Resultado da 3ª fase da Audiência Pública 41/2017: revisão periódica das RAP de transmissão, custos operacionais regulatórios (benchmarking) e investimentos em melhorias de pequeno porte.",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator; retorna no dia 22 segundo a fala; notas técnicas serão divulgadas",
+   "unanime": false,
+   "resumo_voto": "Sustentações da Cetep, da Copel (Paulo Motta) e da ABRATE: a proposta da SRM reduziria a RAP em cerca de R$ 489 milhões, com efeito retroativo, e pedem retirada de pauta e divulgação prévia da nota técnica. Procuradoria (parecer 536/2018) concluiu pela possibilidade de a ANEEL revisar a RAP total e refutou parecer de Marçal Justen Filho. O relator manteve a retirada de pauta, com ampla divulgação das notas técnicas das AP 31 e 41.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira o processo de pauta",
+     "ts": "1:20:06",
+     "justificativa": "Relator mantém a retirada de pauta decidida na véspera; a reunião serviu como oportunidade técnica com os cinco diretores ouvindo; ampla divulgação da nota técnica, sem decisão às escondidas.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:22:01",
+   "processo": "48500.001634/2018-11 (legenda: 48 500 00 16 34 2018 11)",
+   "interessado": "Proinfa; Eletrobrás; CCEE; Abragel; Única Geração de Energia",
+   "assunto": "Resultado da Audiência Pública 53/2018: forma de pagamento dos efeitos da repactuação do risco hidrológico (GSF) das usinas do Proinfa e recálculo dos ajustes financeiros do Proinfa pela CCEE para 2013 a 2015.",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "CDE e encargos setoriais",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: definidas condições dos acertos financeiros (recálculo 2013-2015 e período 2015-2017 não cobrado por liminar da Eletrobrás) e forma de acerto da repactuação do risco hidrológico",
+   "unanime": true,
+   "resumo_voto": "Sustentações orais de Lucas Pereira (Abragel) e Caetano de Carvalho Kramer (Única Geração de Energia): tratamento uniforme para todas as usinas e transparência dos dados da CCEE/Eletrobrás. Relator seguiu a nota técnica 143/2018 SRG com ajustes de redação, limitou o despacho às usinas que repactuaram o risco hidrológico e determinou inclusão dos montantes no PAP 2019.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:48:50",
+     "justificativa": "Relator lê o voto pela publicação do despacho conforme minuta, com ajustes de clareza nos comandos regulatórios.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:10",
+     "justificativa": "Proclamação por unanimidade; falas individuais sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:15",
+     "justificativa": "Proclamação por unanimidade; falas individuais sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:21",
+     "justificativa": "Fala 'também acompanha o relator' sem nome na legenda; atribuído pela ordem e proclamação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:26",
+     "justificativa": "Diretor-Geral proclama a decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:50:02",
+   "processo": "48500.005696/2018 (legenda parcial)",
+   "interessado": "Eletrobrás; CCEE; Abragel; Única Geração de Energia",
+   "assunto": "Homologação das cotas de custeio e de energia do Proinfa para 2019 e Plano Anual do Proinfa (PAP 2019); custeio total em torno de R$ 4,05 bilhões; TUST Proinfa R$ 8,38/MWh (cumulativo) e R$ 8,90/MWh (não cumulativo).",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "deliberação suspensa nesta parte, para a Procuradoria analisar a vigência e eficácia de liminar invocada na sustentação oral; retomada prevista ao longo do dia",
+   "unanime": false,
+   "resumo_voto": "Sustentação de Caetano Kramer (Única Geração): CCEE/Eletrobrás desconsiderariam liminar vigente da Única, por a Eletrobrás ser a representante na CCEE, o que seria desrespeito à ordem judicial. Relator leu o voto pela resolução homologatória e rejeitou o pleito da Abragel de crédito do fator de disponibilidade da Santo Antônio Energia. Após debate, propôs-se suspender a deliberação para que a Procuradoria avalie a liminar; o relator concordou.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, concorda em suspender a deliberação",
+     "ts": "2:24:07",
+     "justificativa": "Relator: não é questão orçamentária e o PAP poderia ser corrigido depois, mas diante da dúvida sobre descumprimento de liminar concorda em suspender e retomar ao longo do dia.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "discute; acompanha a suspensão",
+     "ts": "2:20:00",
+     "justificativa": "Perguntou ao relator sobre efeitos do encaminhamento e da análise jurídica; atribuição aproximada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a suspensão",
+     "ts": "2:25:16",
+     "justificativa": "Diretor-Geral: não há prejuízo em sanar a dúvida; Procuradoria analisará a extensão da liminar; chama o próximo item. Atribuição aproximada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:28:10",
+   "processo": "48500.003793/2018-41",
+   "interessado": "Eletrobrás Termonuclear (Eletronuclear); Abrace; Indústrias Nucleares do Brasil (INB); distribuidoras do SIN",
+   "assunto": "Resultado da Audiência Pública 48/2018: metodologia de cálculo da receita de venda de energia de Angra 1 e 2 (submódulo 6.7 do PRORET) e receita fixa para 2019; periodicidade da revisão passa de 3 para 5 anos.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "unanime": true,
+   "resumo_voto": "Sustentação oral da Eletronuclear (Ronaldo Neto Alcântara): fundo de descomissionamento, ICMS, retroatividade de ajustes e manutenção da revisão trienal. Aprovada a metodologia, receita fixa 2019 de R$ 3.409.340.964,21, tarifa de cerca de R$ 247,47/MWh (alta de 2,8%, abaixo da inflação de 4,05%), com ajuste de receita em 2021 para a base incremental e compatibilização da REN 530/2012 e do submódulo 12.6.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:56:00",
+     "justificativa": "Relator leu o voto pela aprovação da metodologia e da receita fixa de 2019.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:15",
+     "justificativa": "Fala 'acompanha o relator' sem nome na legenda; atribuído pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:18",
+     "justificativa": "Fala 'também acompanha o relator' sem nome; atribuído pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:21",
+     "justificativa": "Fala 'também acompanha o relator' sem nome; atribuído pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:28",
+     "justificativa": "Diretor-Geral proclama aprovação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:57:21",
+   "processo": "48500.005054/2018-94",
+   "interessado": "Centrais Elétricas do Norte do Brasil (Eletronorte); UHE Tucuruí; CCEE; ONS",
+   "assunto": "Pedido de medida cautelar da Eletronorte para suspender o mecanismo de redução de garantia física (MRGF) e recontabilizar 2018 na UHE Tucuruí, após a Portaria MME 178/2017 elevar o índice de disponibilidade de referência de 85,34% para 91,75%.",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "provimento parcial por unanimidade: audiência pública por intercâmbio documental (20/12/2018 a 02/02/2019, 45 dias) para revisar o par. 3 do art. 18 da REN 614/2014 (média móvel de 60 meses na referência), com efeitos imediatos a partir de dez/2018 e recálculo conforme resultado; indeferida a recontabilização retroativa a janeiro de 2018",
+   "unanime": true,
+   "resumo_voto": "Sustentação da Eletronorte (representante de nome incerto na legenda). Procurador-geral: regra de transição só vale para frente. Relator seguiu a SRG (NT 125/2018): transição é aprimoramento metodológico sem erro material, indefere a retroação, mas aplica imediatamente a nova regra, dispensando AIR (baixo impacto).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (provimento parcial)",
+     "ts": "3:28:00",
+     "justificativa": "Relator: perigo na demora presente, mas não cabe suspensão imediata nem retroação a janeiro; propõe efeitos imediatos da regra em consulta a partir de dezembro de 2018.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:24:00",
+     "justificativa": "Comenta que a transição evita rampa irreal para usina com várias máquinas e que a retroação a janeiro não faria sentido; anuncia concordância (atribuição pela ordem das falas).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:16",
+     "justificativa": "Fala 'também acompanha' sem nome; atribuído pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:20",
+     "justificativa": "Fala 'também acompanha' sem nome; atribuído pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (excepcionalmente aceita efeito imediato)",
+     "ts": "3:29:25",
+     "justificativa": "Diretor-Geral proclama por unanimidade; um diretor comentou concordar excepcionalmente com efeitos imediatos antes do fim da audiência (atribuição incerta).",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "12",
+   "observacao": "retirado de pauta (anúncio inicial)"
+  },
+  {
+   "id": "14",
+   "observacao": "retirado de pauta (anúncio inicial)"
+  },
+  {
+   "id": "17",
+   "observacao": "retirado de pauta (anúncio inicial)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números de processo e valores podem estar errados; a numeração dos itens na pauta (1, 2, 5, 6) é inferida pela ordem de chamada e pelos pedidos de sustentação; só os itens 7 e 18 têm número dito explicitamente.",
+  "Votos de quem apenas acompanha o relator foram atribuídos pela ordem de votação e pela proclamação, sem nomes ouvidos; confiança baixa ou media.",
+  "Itens do bloco não são individualizados (vários processos consentidos); Sandoval impedido nos itens 32 e 33.",
+  "Item 6 (PAP/Proinfa 2019): deliberação suspensa nesta parte; resultado final provavelmente na Parte 2 (outro vídeo). Quem propôs a suspensão e quem questionou a liminar não ficou claro; só 3 votos registrados.",
+  "Itens 1 e 2 retirados de pauta: só o relator tem voto registrado; os demais diretores não votaram. Números de processo incompletos; data de retorno (dia 22, janeiro de 2019) incerta.",
+  "Item 18: nome do representante da Eletronorte incerto; autoria de duas falas de elogio ao relator incerta.",
+  "Os itens após a pausa (3:30 em diante) não constam deste vídeo; continuam na Parte 2."
+ ]
+}

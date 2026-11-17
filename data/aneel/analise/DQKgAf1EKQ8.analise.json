@@ -1,0 +1,31 @@
+{
+  "meta": {"video_id": "DQKgAf1EKQ8", "fonte": "legenda automática do YouTube; sem marcação de falantes; ts aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9", "data": "2018-03-27", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral, nome não dito no trecho)",
+    "diretores_presentes": [], "ausentes": [],
+    "observacoes": ["Vídeo curto de retificação da 9ª Reunião Pública Ordinária de 27/03/2018: três ajustes em itens já deliberados em bloco, leitura de um item retirado do bloco (PCH Indaiá) e encerramento.", "Nenhum nome de diretor é pronunciado de forma legível; nenhum voto individual identificável."]
+  },
+  "itens": [
+    {
+      "id": "39", "ts": "0:00:00",
+      "processo": "27100.002363/1985-73", "interessado": "Usina Indaiá Ltda (PCH Indaiá, 944 kW, Chapadão do Sul/MS)",
+      "assunto": "Extinção por decurso de prazo da concessão da PCH Indaiá, com dispensa da reversão dos bens (Lei 12.783/2013); item retirado do bloco para leitura com correções",
+      "tema": ["outorgas de geração (hidrelétrica, PCH)", "extinção de concessão", "regulação normativa"],
+      "relator": "não identificado", "resultado": "aprovado (resolução autorizativa); unanimidade não declarada no trecho",
+      "resumo_voto": "Com a Lei 13.360 a potência de CGH passou a 5 MW, não cabendo prorrogação pelo art. 26 §7º da Lei 9.074; extingue-se a concessão por decurso de prazo, dispensada a reversão, e o empreendimento poderá ser registrado. Resolução autorizativa conforme minuta anexa.",
+      "votos": []
+    },
+    {
+      "id": "retificacoes", "ts": "0:00:00",
+      "processo": "", "interessado": "",
+      "assunto": "Retificações de itens deliberados em bloco: item 1 (limites de DEC e FEC valem para 2019 a 2023, não 2018-2023); item 16 (processo 48500.006210, recálculo dos prêmios de repactuação do risco hidrológico, vigência a partir de 2019, não 2018); item 39 reaberto com versão final",
+      "tema": ["distribuição e qualidade (DEC/FEC)", "risco hidrológico (GSF)", "retificação"],
+      "relator": "não identificado", "resultado": "retificações aprovadas pela diretoria",
+      "resumo_voto": "Erros materiais de datas corrigidos; atos mantidos.",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Trecho apenas de retificação; sem chamada de diretores, sem falas individuais legíveis. Relator do item 39 não identificável (a legenda sugere um diretor Tiago, possivelmente Tiago Correia, mas incerto). Votos não registrados para não inventar.", "Número do processo do item 16 truncado na legenda."]
+}

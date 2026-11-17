@@ -1,0 +1,455 @@
+{
+ "meta": {
+  "video_id": "vMcXrF-GEH0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados (Parte 1, até a pausa do almoço)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32",
+  "data": "2020-09-01",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Júlio César Rezende Ferraz",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 da 32ª Reunião Pública Ordinária de 2020; quórum de cinco diretores; pausa às 12h, retomada às 14h30 (itens restantes, inclusive item 17 com sustentação oral, na parte seguinte).",
+   "Pauta com 39 itens; bloco com os itens 12 a 39; retirados de pauta os itens 10, 11, 13 e 25.",
+   "Comunicados: reunião virtual de 2/9 sobre a metodologia da Agenda Regulatória 2021-22; CP 43/2020 (TAF/TEIF), prazo até 7/9."
+  ]
+ },
+ "itens": [
+  {
+   "id": "ata",
+   "ts": "0:04:05",
+   "processo": "",
+   "interessado": "Diretoria ANEEL",
+   "assunto": "Aprovação da ata da 31ª Reunião Pública Ordinária de 2020",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa (Diretor-Geral)",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Diretores manifestaram aprovação em sequência; DG declarou aprovada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova a ata",
+     "ts": "0:04:45",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova a ata",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova a ata",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova a ata",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova a ata",
+     "ts": "0:04:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "bloco",
+   "ts": "0:05:38",
+   "processo": "vários (itens 12 a 39 da pauta, exceto retirados e item 17)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens remanescentes da pauta (12 a 39), exceto os retirados (10, 11, 13 e 25) e o item 17, destacado para sustentação oral e julgamento após o intervalo",
+   "tema": [
+    "votação em bloco"
+   ],
+   "relator": "Sandoval Feitosa (Diretor-Geral)",
+   "resultado": "aprovado por unanimidade (itens do bloco), com o item 17 destacado",
+   "resumo_voto": "Secretário-Geral informou 39 itens na pauta, 28 em bloco; relatórios, votos e atos disponíveis desde a quinta-feira anterior. Um diretor declarou-se regimentalmente impedido quanto ao item 17 por ter sido o superintendente responsável pela lavratura do auto de infração; DG registrou o impedimento no item 17.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; proclama unanimidade",
+     "ts": "0:07:10",
+     "justificativa": "",
+     "confianca": "alta",
+     "tom": "procedimental"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:07:58",
+   "processo": "48500.004675/2020-75",
+   "interessado": "Equatorial Piauí Distribuidora de Energia S.A.",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar: julgamento concomitante do pedido de reconsideração do Despacho 2.830/2019 (indeferimento de RTE em 2019) com a RTE/reajuste 2020; manutenção temporária das tarifas (Despacho 3.405/2019) após cassação da liminar do TRF-1",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA)",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "deferido parcialmente por unanimidade",
+   "resumo_voto": "Pedidos principais não acolhidos (reconsideração se julga em autos próprios; procuradoria: aplicar de imediato o índice de 2019, com componente financeiro). Voto: aplicar desde 2/9/2020 as tarifas da REH 2.644/2019 (reajuste de 2019, efeito médio -7,16%), levar os componentes financeiros negativos ao próximo processo tarifário e revogar o Despacho 3.405/2019. Relatório fala em decisão do TRF-1 de 3/12/2019 e cassação em 30/7/2020. Sem sustentação oral nesse item.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, defere parcialmente",
+     "ts": "0:28:06",
+     "justificativa": "aplicar já a tarifa homologada (consumidor não deve ser privado de tarifa menor já homologada); diferença tratada como componente financeiro negativo no processo tarifário 2020; revogar o Despacho 3.405/2019",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:32:00",
+     "confianca": "media",
+     "justificativa": "decisão razoável: cumprimento imediato da resolução após cair o impedimento judicial; valores pagos a maior voltam ao consumidor no processo tarifário de novembro"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:32:48",
+   "processo": "48500.007034/2019-39",
+   "interessado": "Equatorial Piauí Distribuidora de Energia S.A. (ex-Cepisa)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 2/9 a 19/10/2020, com audiência pública virtual em 18/9/2020) sobre a proposta de revisão tarifária extraordinária (RTE) 2020",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA)",
+    "regulação normativa (consulta/audiência pública)",
+    "distribuição"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Efeito médio preliminar de +3,50% para o consumidor piauiense (tarifa B1 de R$ 569 para R$ 571); base de remuneração avaliada em cerca de R$ 3,5 bilhões de base bruta e R$ 2,08 bilhões líquida, contra cerca de R$ 600 milhões da última revisão; conta Covid atenua cerca de 12,29%; componente financeiro da decisão judicial atenua cerca de 7%. Apresentações técnicas da SGT/SFF. Prazo da audiência corrigido para 19/10 (17/10 cai em sábado).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, abre consulta pública",
+     "ts": "1:04:47",
+     "justificativa": "conciliação físico-contábil acima de 80%, números confiáveis; abrir CP, com ressalva de que o efeito pode mudar na consulta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:17:00",
+     "confianca": "baixa",
+     "justificativa": "base atual passa de cerca de R$ 600 mi para R$ 3,5 bi, gerando pressão tarifária futura; conta Covid amortece; pouca margem de gestão, cumpre-se o contrato da licitação (comentários identificados com confiança baixa)"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:17:19",
+   "processo": "48500.001753/2019-46",
+   "interessado": "Distribuidoras com contratos prorrogados (Lei 12.783/2013, Decreto 8.461/2015): 25 concessionárias avaliadas; CEB Dis, CEEE-D, Eflul/Urussanga, Cemig-D, Celesc-Dis, Efljc em destaque",
+   "assunto": "Verificação do cumprimento das cláusulas de eficiência na prestação do serviço (DEC/FEC) e na gestão econômico-financeira dos contratos de distribuição prorrogados, ano-base 2018",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC)",
+    "fiscalização e sanções",
+    "tarifas e sustentabilidade econômico-financeira",
+    "concessões prorrogadas"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Todas as 25 concessionárias dentro dos limites de DEC e FEC em 2018; para Cemig-D e Celesc-Dis reconhecida falta de confiabilidade na apuração, aprovação condicionada aos processos fiscalizatórios; Efljc não enviou a correspondência atestando a apuração no prazo. Não cumprimento do critério de eficiência econômico-financeira em 2018 por CEB Dis, CEEE-D e Eflul (conforme voto; nomes de empresas na legenda são incertos). Apresentações técnicas SRD, SFE, SFF e SCT. Procuradoria sem dúvida jurídica.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, reconhece cumprimento/descumprimento conforme dispositivo",
+     "ts": "1:42:30",
+     "justificativa": "gestão articulada entre áreas; avaliação anual das metas de melhoria contínua da prorrogação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "1:49:50",
+     "confianca": "baixa",
+     "justificativa": "destaca coordenação da relatora e articulação das áreas; fiscalização responsiva por monitoramento automatizado (comentários de diretores sem identificação clara)"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:50:14",
+   "processo": "48500.004141/2020-01",
+   "interessado": "CCEE",
+   "assunto": "Resultado da 1ª fase da Consulta Pública 42/2020 e aprovação das regras de comercialização versão 2021 (módulos aplicados a partir de outubro/2020); abertura da 2ª fase da CP 42/2020 (3/9 a 19/10/2020) para as regras a operacionalizar a partir de janeiro/2021; determinação à CCEE sobre alocação de custos no despacho eletroenergético (modelo DESSEM)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (consulta/audiência pública)",
+    "leilões (energia existente)"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "1ª fase recebeu 41 contribuições (cerca de 40% aceitas total ou parcialmente); trata cessão/redução de montantes do 22º leilão de energia existente e MVE. 2ª fase: PLD, exposições, penalidades de energia de reserva, consumo líquido de produtores, inflexibilidade, cotas de energia nuclear, alocação de custos do despacho por restrição elétrica. Procuradoria: Parecer 234/2020 sobre SPEs e encargos.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova regras 2021 e abre 2ª fase",
+     "ts": "2:11:45",
+     "justificativa": "aprimoramento das regras de comercialização; alocação correta de custo de restrições elétricas (encargo versus contrato)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:14:52",
+   "processo": "48500.000367/2019-37",
+   "interessado": "Distribuidoras de energia (ABRADEE)",
+   "assunto": "Resultado da Consulta Pública 24/2019: regulamentação da abertura de processo de caducidade de concessão de distribuição por critérios de qualidade e sustentabilidade econômico-financeira",
+   "tema": [
+    "distribuição e qualidade",
+    "fiscalização e sanções (caducidade)",
+    "regulação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator retirou o processo após reuniões com a ABRADEE e distribuidoras e documento adicional do presidente da associação (Marcos Madureira), para fazer aprimoramentos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "2:16:25",
+     "justificativa": "atender pedido da ABRADEE e fazer aprimoramentos antes de decidir",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:17:11",
+   "processo": "48500.002495/2017; 48500.001742/2016",
+   "interessado": "Fairfax Brasil Seguros Corporativos S.A. (seguradora); SPE MGF Energia Guaianazes Transmissora de Energia Ltda.",
+   "assunto": "Recurso administrativo contra o Despacho SCT 1.721/2017, que executou a garantia de fiel cumprimento (cerca de R$ 5,95 mi, seguro-garantia) do contrato de concessão 16/2013 (Leilão de Transmissão 2/2013, lote), caducado por inexecução",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "garantia de fiel cumprimento"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "recurso conhecido e desprovido; despacho revogado e aplicada multa de cerca de R$ 14,1 milhões; unanimidade",
+   "resumo_voto": "Conhece e nega provimento; de ofício revoga o Despacho SCT 1.721/2017, ratifica os atos instrutórios, aplica multa do edital (10% do investimento) de R$ 14.117.089,18 atualizada pelo IPCA; se paga, devolve a garantia; se não, executa a garantia no valor necessário. Procuradoria (Parecer 132/2020): execução direta sem quantificação do prejuízo ou multa é questionável, bis in idem afastado, prescrição quinquenal não ocorreu. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento e aplica multa",
+     "ts": "2:24:09",
+     "justificativa": "inexecução total da obra comprometeu o serviço público de transmissão; multa de 10% do investimento é proporcional; contraditório respeitado; seguradora não é parte do processo decisório sobre o inadimplemento",
+     "confianca": "alta",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:49:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:49:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:49:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:49:48",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:51:20",
+   "processo": "48500.002432/2020-14",
+   "interessado": "Comercializadoras: Comerc, Delta, Trailer(?), Beta, Atma, Matrix, Máxima, Minerva, Prime Energy, Estima Energia e outras (requerentes); distribuidoras citadas: Celesc, Eletronorte (apoio ao pleito); Copel (conselho de consumidores)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para alterar os efeitos da contabilização do MCSD de energia existente (18º, 20º e 21º leilões de energia existente) e anular reduções de CCEARs feitas por distribuidoras por migração de consumidores, com revogação do Despacho SRM 2.626/2019 (regra de transição do submódulo 8.1)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "leilões (energia existente)",
+    "recursos administrativos",
+    "medida cautelar"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de medida cautelar não acolhido (conhecido e negado) por unanimidade dos votantes",
+   "resumo_voto": "Sustentações orais: ABRACEEL (Celso Bernardo Ramos, por vídeo), Comerc/Capital? (Rafael Gomes da Silva), Conselho de Consumidores da Copel (Ricardo Schmitt, contra a cautelar na defesa do consumidor) e Neoenergia (Rafael Licurgo, contra). Procuradoria (Parecer 168/2020) e relator: não há perigo da demora (contratos previam a redução; perda de receita não comprovada; possível restabelecer montantes se o mérito for procedente); mérito segue na SRM. Um diretor declarou-se impedido (não identificado).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega a cautelar",
+     "ts": "3:36:11",
+     "justificativa": "ausência de perigo da demora e de fumaça do bom direito; cláusulas contratuais previam a redução; mérito será analisado no processo próprio",
+     "confianca": "alta",
+     "tom": "técnico"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação; um dos diretores não relatores se declarou impedido, não identificado)",
+     "ts": "3:37:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação; um dos diretores não relatores se declarou impedido, não identificado)",
+     "ts": "3:37:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação; um dos diretores não relatores se declarou impedido, não identificado)",
+     "ts": "3:37:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação; um dos diretores não relatores se declarou impedido, não identificado)",
+     "ts": "3:37:20",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 10, 11, 13 e 25 da pauta (retirados antes da sessão; conteúdo não identificado na transcrição)",
+  "Item 5 (CP 24/2019, caducidade de distribuidoras) retirado pelo relator Sandoval Feitosa"
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem marcação de falante: votos de seguidores atribuídos pela proclamação do Diretor-Geral, com confiança media/baixa; o texto do voto de cada diretor não identifica o nome.",
+  "Cinco diretores presentes (Sandoval, Júlio Ferraz, Efrain Cruz, Elisa Bastos, André Pepitone); Pepitone identificado pela fala final (aniversário da filha), os demais pelos relatos de relatoria.",
+  "Bloco: um diretor impedido no item 17 (foi o superintendente responsável pelo auto de infração); nome não identificado com segurança (a proclamação cita o nome de forma ininteligível). Item 17 não deliberado nesta parte.",
+  "Item 9: um diretor declarou impedimento (não identificado); por isso os votos de Júlio Ferraz, Elisa Bastos e André Pepitone estão com confiança baixa e um deles não votou.",
+  "Itens 7 e 8 da ordem de julgamento não aparecem nesta parte (provavelmente tratados após a pausa); itens 12 a 39 aprovados em bloco sem detalhamento individual.",
+  "Comentários de diretores nos itens 2 e 3 não puderam ser atribuídos com segurança a quem falou; números, valores e nomes de empresas e áreas (SGT, SFF, SRD) podem estar errados na legenda.",
+  "Sustentações orais do item 9: nomes de representantes e de empresa (Comerc/Capital?) incertos na legenda.",
+  "Item 6: processo 48500.002495/2017 e 48500.001742/2016 conforme legenda aproximada."
+ ]
+}

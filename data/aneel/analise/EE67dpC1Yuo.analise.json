@@ -1,0 +1,387 @@
+{
+ "meta": {
+  "video_id": "EE67dpC1Yuo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; o .md tem apenas um marcador de tempo, os ts foram obtidos em transcricoes/EE67dpC1Yuo.json; ts dos que só acompanham o relator = hora da proclamação (aproximado)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "20",
+  "data": "2021-06-08",
+  "formato": "reunião pública ordinária (transmissão pelo YouTube)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores declarado na abertura; Ricardo Tili (secretário-geral) conduz a leitura da pauta.",
+   "Pauta de 28 itens; itens 9 a 28 em bloco (20 itens), exceto 13 e 16 retirados; ordem dos demais: 1, 2, 4, 3, 5 e 7; sustentação oral no item 5.",
+   "Aprovadas as atas da 19ª reunião ordinária e da 5ª extraordinária (27/05, sem a diretora Elisa).",
+   "Encerrada por volta de 3:30 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:49",
+   "processo": "Itens 9 a 28 da pauta (exceto 13 e 16, retirados)",
+   "interessado": "diversos (processos do bloco; incluindo reembolso de CCC dos sistemas interligados de Rondônia, Energisa Rondônia)",
+   "assunto": "Aprovação em bloco dos itens 9 a 28 da pauta (20 itens, excluídos os itens 13 e 16 retirados de pauta); votos e atos disponibilizados no site desde a quarta-feira anterior",
+   "tema": [
+    "aprovação em bloco",
+    "CDE e encargos setoriais (CCC, sistemas isolados)",
+    "distribuição"
+   ],
+   "relator": "vários (processos do bloco)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proclamada a aprovação por unanimidade dos itens do bloco. Em seguida Efrain Cruz registrou um item do bloco de sua relatoria (reembolso de CCC por sub-rogação de três trechos de interligação em Rondônia, ordem de quase R$ 500 milhões, valores atualizados próximos de R$ 600 milhões segundo a fala) como ação estruturante que substitui geração térmica a diesel por interligação, com menor CCC; Sandoval Feitosa e Hélvio Guerra associaram-se, relatando visita a Rondônia com o Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:52",
+     "confianca": "media",
+     "justificativa": "registrou, após a votação, a importância do reembolso de CCC em Rondônia: interligação desativa térmicas caras e poluentes e favorece a modicidade tarifária; elogiou Energisa Rondônia"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:06:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:07:07",
+     "confianca": "baixa",
+     "justificativa": "proclama aprovação por unanimidade"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:19:49",
+   "processo": "48500.000030/2021-44",
+   "interessado": "ANEEL / Secretaria Executiva de Leilões (SEL)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 46 dias, 10/06 a 26/07/2021) para aprimorar a minuta do edital e anexos do Leilão 8/2021 (Leilão de Energia Nova A-5/2021), sessão pública prevista para 30/09/2021",
+   "tema": [
+    "leilões (geração)",
+    "regulação normativa (consulta pública)",
+    "outorgas de geração",
+    "resíduos sólidos urbanos (RSU)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública sobre edital do A-5/2021 (hidrelétricas, eólicas, solar, térmicas a biomassa, carvão nacional, gás natural e recuperação energética de RSU). Aprimoramentos: ressarcimento pelo vendedor térmico quando exceder a indisponibilidade e tratamento de unidades com operação suspensa; produto novo para RSU, por disponibilidade, 20 anos. Apresentação técnica de André Patrus (SEL). Procuradoria sem contribuições.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:38:04",
+     "justificativa": "consulta pública para levar à sociedade os aprimoramentos do edital e a inclusão do aproveitamento energético de RSU, que traz benefícios ambientais e de saúde pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:40:01",
+     "confianca": "media",
+     "justificativa": "antecipou concordância; destacou o potencial energético do lixo, externalidades positivas, emprego e renda e consórcios de municípios pequenos"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:47:49",
+   "processo": "48500.004632/2020-90 e 48500.000596/2006-76",
+   "interessado": "Força e Luz Urussanga Ltda. (Urussanga, SC)",
+   "assunto": "Abertura de audiência pública (9/06 a 26/07/2021, reunião virtual em 01/07) sobre a 5ª revisão tarifária periódica da Força e Luz Urussanga, a vigorar desde 29/08/2021, e limites de DEC e FEC 2022-2026",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "distribuição (DEC/FEC, qualidade)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (prazo final ajustado de 24 para 26/07/2021 por ser sábado)",
+   "resumo_voto": "Efeito médio preliminar de 9,14% (grupo A 10,05%; grupo B 8,39%; residencial B1 7,37%, na fala técnica de Luiz Carlos Carrazza, SGT). Debate sobre a discrepância tarifária entre pequenas concessionárias e a Celesc (vizinha, residencial 6,56% na proposta) e preocupação do senador Esperidião Amin; energia comprada em leilão em 22/03/2021 a cerca de 60% menos que o supridor Celesc (R$ 329/MWh), efeito só a partir de 2022; ações em três frentes (energia, subsídio, tributos) e menção à CP 23/2021 (submódulo 11.1 do PRORET).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:04:32",
+     "justificativa": "abrir participação social sobre a revisão preliminar; ainda há espaço para reduzir o impacto nas tarifas dos consumidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:23:22",
+     "confianca": "media",
+     "justificativa": "ressaltou que a tarifa de energia da Celesc (R$ 329/MWh) será substituída por energia de leilão ~60% mais barata a partir de 2022 e convidou à contribuição na CP 23/2021"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:05:48",
+     "confianca": "media",
+     "justificativa": "solidarizou-se com a preocupação do senador Esperidião Amin com as pequenas concessionárias; ANEEL não faz distinção entre consumidores e buscará reduzir tarifas dentro das regras"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:29:37",
+   "processo": "48500.000927/2011-04",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Recurso administrativo do ONS contra o auto de infração 2004/2018 (SFF), multa de cerca de R$ 5,24 milhões por gestão inadequada de recursos do projeto SIGA (art. 6º, XI, REN 63/2004)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, prescrição)",
+    "institucional (ONS, projeto SIGA)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: conhecido e parcialmente provido",
+   "resumo_voto": "Cancelada a não conformidade NC-4 e a multa (prescrição da pretensão punitiva, Lei 9.873/99, conforme parecer 321/2019 da Procuradoria). Mantida a determinação D6: devolução de cerca de R$ 70,58 milhões (valores históricos), corrigidos pelo IPCA, por contribuição associativa extraordinária, sem repasse tarifário, no orçamento do ONS do ciclo 2022-2024. Contratada (Accenture) não entregou o projeto.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:59:33",
+     "justificativa": "prescrição cancela a multa da NC-4, mas o ONS recebeu recursos orçamentários e não entregou o SIGA; consumidor não pode arcar, devolução por contribuição associativa extraordinária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:03:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:00",
+     "confianca": "media",
+     "justificativa": "voto bem motivado: cancelar NC-4 por prescrição e determinar a devolução do valor, que não pode recair sobre o consumidor"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:03:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:03:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:04:19",
+   "processo": "48500.001721/2020-75",
+   "interessado": "Agentes do MRE (geradores hidrelétricos); SRM e SRG",
+   "assunto": "Recálculo dos prêmios de risco para repactuação do risco hidrológico (REN 684/2015, art. 4º, §6º), data-base janeiro/2021, para opções feitas em 2021 com vigência a partir de 2022",
+   "tema": [
+    "comercialização (MRE, risco hidrológico, GSF)",
+    "regulação normativa (REN 684/2015)",
+    "outorgas de geração"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade, com ajuste do dispositivo (determinação à SRM e SRG para promover futuras atualizações por despacho, com delegação)",
+   "resumo_voto": "Alterado o anexo I da REN 684/2015 com novos prêmios; produto SP subiu 7,63% (de R$ 24,20 para R$ 26,04/MWh) e os demais produtos em média 7,80%. Relator propôs, com concordância dos diretores, que a atualização anual seja feita por despacho das superintendências com delegação, em vez de resolução normativa. Procuradoria não consultada.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:16:08",
+     "justificativa": "mera atualização com metodologia já conhecida (histórico, IPCA, limites do PLD); simplificar e eliminar burocracia com delegação às áreas técnicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:30",
+     "confianca": "media",
+     "justificativa": "concordou com a proposta de delegação por ser mera aplicação de índice conhecido, em prol da simplificação"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:20:02",
+   "processo": "48500.005170/2018-13",
+   "interessado": "Companhia Hidro Elétrica do São Francisco (Chesf)",
+   "assunto": "Recurso administrativo da Chesf contra o auto de infração 33/2020 (SFE), multa de cerca de R$ 7,96 milhões (0,1075% do faturamento) por não conformidades na energização da LT 500 kV Luiz Gonzaga-Garanhuns II (10/03/2018) e outras",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, dosimetria)",
+    "transmissão (LT 500 kV, procedimentos de rede)",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: conhecido e negado provimento; multa mantida",
+   "resumo_voto": "Sustentação oral de Filipi Dias de Oliveira (Chesf): pediu o cancelamento das NC-1, 5, 6 e 7 e atenuação da dosimetria, alegando ser a maior multa em cinco anos. Procuradoria (parecer 28/2021): conhecer e negar provimento. Relator: aplica-se a REN 63/2004 (tempus regit actum); NC-1 (demora de ~1 hora na energização, priorizando manutenção em Angelim), NC-2/3 (manutenções), NC-4, NC-5 (proteção dupla, sem informar em 300 dias), NC-6 (recomendações do SGR atrasadas) e NC-7 (restrições de capacidade operativa não informadas ao ONS) mantidas; dosimetria motivada e proporcional.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:00:27",
+     "justificativa": "infrações bem caracterizadas; dosimetria motivada e dentro da discricionariedade; não há valor máximo nem ranqueamento de multas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:49:32",
+     "confianca": "media",
+     "justificativa": "com Sandoval, relembrou a revisão dos procedimentos de rede com prazo de transição de 300 dias que a Chesf não cumpriu quanto à NC-5"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:02:11",
+   "processo": "48500.005023/2009-42",
+   "interessado": "Eletrobras Termonuclear S.A. (Eletronuclear), UTN Angra 3 (Angra dos Reis, RJ)",
+   "assunto": "Alteração do cronograma de implantação da UTN Almirante Álvaro Alberto Unidade 3 (Angra 3): atendimento ao Acórdão 4.529/2020 do TCU sobre excludente de responsabilidade no atraso e CER 126/2011",
+   "tema": [
+    "outorgas de geração (nuclear)",
+    "institucional/TCU",
+    "contratos de energia de reserva (CER)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: encaminhar ao TCU e ao MME o voto, a nota técnica 42/2021, o memorando 74/2021 da SRM e o parecer 128/2021, com ajuste de redação sugerido pelo Diretor-Geral",
+   "resumo_voto": "Análise das razões da Eletronuclear: sem indício de excludente nas etapas ordinárias; um indício (exigência do Tesouro de bancos nacionais) sem possibilidade de nexo causal por nunca ter existido cronograma aprovado. Com a Lei 14.120/2021 o CER 126/2011 será rescindido sem ônus quando houver novo contrato, o que afasta responsabilização administrativa; CER nunca gerou efeito financeiro ao consumidor. Procuradoria ratificou. Análise limitada à esfera administrativa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:26:50",
+     "justificativa": "novo marco legal (Lei 14.120/2021) supera a discussão administrativa sobre o CER; envio dos documentos é suficiente para cumprir o acórdão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:28:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:50",
+     "confianca": "media",
+     "justificativa": "concordou: o novo regime jurídico da Lei 14.120 afasta a responsabilização administrativa pelo descumprimento do CER 126/2011"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:28:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:00",
+     "confianca": "media",
+     "justificativa": "pediu mensagem conclusiva no encaminhamento informando que o novo regime da Lei 14.120 afasta a responsabilização administrativa; relator acatou"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 13 e 16 da pauta (retirados antes da sessão; assunto não dito)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nome e número (ex.: Hélvio aparece como Elvis/Elvio; Efrain como Efraim; ONS como INSS/MS; Chesf como Chance/Axé).",
+  "As falas de voto (acompanho o relator) quase nunca trazem o nome; os votos dos não relatores foram atribuídos pela proclamação de unanimidade, com confiança baixa e ts da proclamação.",
+  "Atribuição de falas de discussão a diretores específicos (itens 1, 2, 3, 4, 7) é inferida por contexto; outras falas de discussão no item 2 (Celesc, permissionárias, data do sábado) não foram atribuídas com segurança.",
+  "No item 5, um diretor se ausentou brevemente e voltou antes da votação (pedido de desculpas ao Diretor-Geral); nome não identificado.",
+  "Itens 9 a 28 do bloco não foram detalhados na transmissão; só se conhece a fala de Efrain Cruz sobre reembolso de CCC em Rondônia.",
+  "Número do item 5 (processo) e valores monetários podem estar imprecisos na legenda; id dos itens segue o número da pauta."
+ ]
+}

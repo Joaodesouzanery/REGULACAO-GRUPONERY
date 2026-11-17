@@ -1,0 +1,252 @@
+{
+ "meta": {
+  "video_id": "0w1HhrvY_hA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "24",
+  "data": "2019-07-09",
+  "formato": "presencial/transmissão pública",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rodrigo Limp",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "André Pepitone"
+  ],
+  "ausentes": [
+   "Elisa Bastos (não consta; tempo AP 22 prorrogada a pedido dela)",
+   "Tiago Correia (não presente; item 4 foi inicialmente distribuído a ele)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores declarado na abertura; presidente da sessão identificado por inferência (tratado por «diretor geral» e «doutor André»); o marcador de falante do .md atribui a abertura a Sandoval/Tili, o que parece erro.",
+   "Sessão de 1h44; pauta de 38 itens, bloco dos itens 9 a 38 (exceto 29) aprovado por unanimidade; processos 1, 4, 6 e 7 julgados em ordem de preferência.",
+   "Informes: AP 22/2019 (limites do PLD) prorrogada até 02/08/2019 a pedido da relatora Elisa Bastos; campanha contra queimadas junto às linhas de transmissão; audiência na Câmara sobre ICMS na energia do Amazonas.",
+   "Ata da 23ª reunião aprovada."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 9-38",
+   "ts": "0:04:03",
+   "processo": "(bloco de itens 9 a 38, exceto 29)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens de pauta (9 a 38, exceto item 29 retirado) votado em conjunto, sem leitura individual na transcrição",
+   "tema": [
+    "bloco de itens (deliberação em conjunto)"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Três diretores votam pela aprovação do bloco em sequência; o Diretor-Geral proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama unanimidade",
+     "ts": "0:05:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:30",
+   "processo": "48500.002104/2019-62",
+   "interessado": "Energisa Sul/Sudeste Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual de 2019 da Energisa Sul/Sudeste, a vigorar a partir de 12/07/2019: efeito médio 1,30% (4,10% alta tensão; 0,16% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (homologação do reajuste)",
+   "resumo_voto": "Componentes financeiros de mais de 8% foram compensados pela redução de encargos setoriais (quitação antecipada de empréstimo da CDE energia e fim de recolhimentos) e por bandeiras tarifárias; tarifa B1 acumulou 68% em 10 anos, abaixo do IGP-M e IPCA. Apresentação técnica de Leonardo Araújo Silva (SGT); sem sustentação oral. Homologa também receita de instalações de transmissão de uso exclusivo e repasse mensal de recursos da CDE para custear descontos.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, homologa o reajuste",
+     "ts": "0:24:00",
+     "justificativa": "efeito médio 1,30% por componentes financeiros minimizados por encargos setoriais e bandeiras; tarifa comportada em 10 anos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:26:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:26:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:26:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:26:41",
+   "processo": "48500.000602/2018-90",
+   "interessado": "Odoia Transmissora de Energia S.A. (grafia pela legenda: «oi a», «dóia»)",
+   "assunto": "Pedido de reconsideração com pedido de efeito suspensivo contra o Despacho 1707/2018, que revisou termos de liberação parcial (TLP) de instalações do contrato de concessão 17/2014 (2ª etapa: LT 500 kV Morro do Chapéu II–Sapeaçu e SE 500/230 kV Morro do Chapéu II, com compensador estático)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento ao pedido de reconsideração",
+   "resumo_voto": "Contrato exige entrada conjunta das FTs da mesma etapa; pendência não impeditiva do compensador estático mantém 90% da RAP das demais FTs (REN 454/2011 art. 7 §3, Despacho 2.809/2014, art. 13 da REN 841/2018) até regularização; glosa de cerca de R$ 1,3 milhão (valor incerto na legenda). Rejeita alegações de ofensa ao contraditório (reunião é prerrogativa e foi feita na sua relatoria), de revogação do despacho pela AP 82/2017 e de sinal regulatório distorcido. Alinhado ao Parecer 280 da Procuradoria Federal. Procuradoria se manifestou antes do voto; sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:28:19",
+     "justificativa": "contrato não estabelece independência entre FTs da mesma etapa; pendência do compensador estático mantém 90% da RAP; sinal regulatório contra concentrar esforços nas FTs mais fáceis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator; comenta voto extenso e denso, importância da atuação das transmissoras",
+     "ts": "0:51:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:51:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:52:00",
+   "processo": "48500.002712/2016-24",
+   "interessado": "Associação Brasileira de Geração de Energia Limpa (Abragel)",
+   "assunto": "Requerimento administrativo da Abragel para suspender a exigibilidade do prazo do art. 14 das REN 412/2010 e 673/2015 (apresentação de documentos para outorga de PCH após DRDH e licenciamento ambiental); voto-vista de Sandoval Feitosa",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp (voto-vista: Sandoval Feitosa)",
+   "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento, com o texto do voto-vista",
+   "resumo_voto": "Relator original (Limp, 11ª reunião de 09/04/2019) propôs suspensão cautelar desde 14/09/2016 do prazo de 60 dias, até a revisão da REN 673 (AP 13/2019). Sandoval pediu vista e propôs complemento: suspender também efeitos para agentes com diplomas ambientais válidos obtidos na vigência do DRS-PCH e cujo ato venceu entre 14/09/2016 e a nova norma, com 15 dias para apresentar licença e DRDH, evitando reabertura do eixo a concorrentes sem ressarcimento. Relator original incorporou o complemento. Debate sobre estímulo à fonte (indústria nacional, ausência de leilões, inventário participativo no Rio Pardo-MS).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator original; acompanha o voto-vista (incorpora itens 2 a 4)",
+     "ts": "1:07:09",
+     "justificativa": "o conceito da cautelar é o mesmo; estendê-la aos casos que estariam abrangidos se julgada à época; prazo de 60 dias insuficiente",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: dá parcial provimento com complemento",
+     "ts": "0:53:26",
+     "justificativa": "art. 14 da REN 673 impõe prazo exíguo; agentes em estágio avançado perderiam o DRS-PCH e processos reiniciariam sem ressarcimento; eficiência e economicidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:25:49",
+     "justificativa": "defende desenvolvimento da cadeia nacional de PCHs, inventário participativo e leilões",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o texto do voto-vista; proclama unanimidade",
+     "ts": "1:26:19",
+     "justificativa": "agência deve induzir o desenvolvimento da fonte (cadeia 100% nacional), reduzir barreiras",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:26:40",
+   "processo": "48500.005783/2018-41; 48500.006128/2018-18; 48500.005970/2018-24 (numeração conforme legenda, incerta)",
+   "interessado": "Ômega Geração S.A. e Ômega Desenvolvimento de Energia Ltda. (Lume Trade, em 3D comércio de energia, tratada à parte)",
+   "assunto": "Requerimentos para autorização como agente comercializador de energia elétrica; afastamento do art. 4º, V da REN 678/2015 (nomes empresariais coincidentes) para empresas do mesmo grupo",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: autorizar o registro da Ômega Geração e da Ômega Desenvolvimento como agentes comercializadores",
+   "resumo_voto": "CCEE e SCG recomendaram deferimento; único óbice seria a restrição a nomes empresariais coincidentes, entre empresas do mesmo grupo. Relator vota por deferir, entendendo que a norma não alcança o caso e a legislação (Lei 8.934/94, Código Civil, IN DREI 15/2013) não veda; determina verificar a manutenção das condições antes da expedição dos atos e pede que a SRM instrua revisão do inciso V do art. 4º. Caso da Lume separado por contingenciamento da CCEE, a ser trazido depois. Procurador-Geral defende redução teleológica da norma.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, autoriza",
+     "ts": "1:27:59",
+     "justificativa": "restrição do art. 4º V da REN 678 não se aplica ao caso e a legislação não veda nomes parcialmente coincidentes no mesmo grupo; revisão normativa recomendada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:43:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; concorda com a redução teleológica e com o encaminhamento (fala de apoio, autoria incerta)",
+     "ts": "1:42:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:43:20",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "itens 2, 3, 5 e 8 (retirados de pauta a pedido; numeração incerta na legenda: «235 e 8»)",
+  "item 29 (retirado do bloco)",
+  "itens 23 e 58 citados pelo secretário na legenda (numeração incerta; pauta tinha 38 itens)",
+  "processo da Lume comercializadora (separado do item 7 pelo relator Efrain Cruz por contingenciamento da CCEE)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de empresas, números de processos e valores podem estar errados (ex.: Odoia/«oi a», numeração dos processos do item 7).",
+  "Votos individuais de seguidores quase nunca têm nome na legenda; atribuídos pela proclamação e pela ordem usual; confiança media/baixa e ts aproximados.",
+  "No bloco 9-38 não há detalhamento de cada item na transcrição; registrado como um único item.",
+  "Item 6: o relator original é Rodrigo Limp e o voto-vista é de Sandoval Feitosa; resultado segue o texto do voto-vista conforme proclamação.",
+  "Presidente da sessão (André Pepitone) inferido; na pauta falada o Diretor-Geral não é nomeado na abertura.",
+  "Elisa Bastos e Tiago Correia: ausência inferida do quórum de quatro, sem declaração explícita."
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "meta": {
+  "video_id": "5qQFuXxGSU0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "37",
+  "data": "2021-10-05",
+  "formato": "presencial/transmitida (Parte 1 da 37ª Reunião Pública Ordinária; suspensa para retomar às 17h30)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral); Elisa Bastos presidiu temporariamente (diretora-geral substituta)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta com 63 itens; bloco 28 a 63; retirados de pauta os itens 2,3,4,6,13,15,16,17,18,22,23,25,27,37/38 e 49; sustentação oral de preferência (pedido) nos itens 10, 21, 24 e 43.",
+   "Ordem de julgamento anunciada: bloco; depois 1, 5, 7, 8, 9, 10, 11, 12, 14, 19, 20, 21, 24 e 26.",
+   "Neste vídeo (Parte 1) foram julgados o bloco, 1, 5, 7, 8, 19 e 20; sessão suspensa às 17h30 (fim aprox. 3:47:00). Itens 9-12, 14, 21, 24, 26 provavelmente na Parte 2.",
+   "Ata da 36ª reunião aprovada. Informes: AP 23/2021 (projetos-piloto de tarifas), CP 55/2021 e CP 58/2021."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 28-63",
+   "ts": "0:04:16",
+   "processo": null,
+   "interessado": "vários (itens de bloco da pauta)",
+   "assunto": "Deliberação em bloco dos itens 28 a 63 da pauta, exceto 37/38 e 49 (retirados do bloco); item 51 destacado por pedido de vista",
+   "tema": [
+    "bloco de itens de pauta"
+   ],
+   "relator": "vários",
+   "resultado": "itens do bloco aprovados por unanimidade, exceto item 51 (pedido de vista de Efrain Cruz)",
+   "resumo_voto": "O Diretor-Geral perguntou se havia observação sobre o bloco; houve pedido de vista do item 51; os demais itens foram aprovados por unanimidade dos presentes. Itens individuais do bloco não foram lidos na sessão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco, exceto item 51; pede vista do item 51",
+     "ts": "0:04:20",
+     "justificativa": "pediu vista do item 51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:04:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova todos os itens do bloco (pela proclamação)",
+     "ts": "0:04:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova todos os itens do bloco (pela proclamação)",
+     "ts": "0:04:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "submete o bloco a votação; proclama unanimidade nos demais itens",
+     "ts": "0:04:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "51 (bloco)",
+   "ts": "0:04:20",
+   "processo": null,
+   "interessado": null,
+   "assunto": "Item 51 da pauta (do bloco 28-63): vista solicitada",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista (Efrain Cruz)",
+   "resumo_voto": "Efrain Cruz excetuou o item 51 do bloco e solicitou vista; o Diretor-Geral proclamou a vista.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "0:04:20",
+     "justificativa": "pediu vista do item 51 ao aprovar o restante do bloco",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:28",
+   "processo": "48500.004552/2021-15",
+   "interessado": "SCG/SRM/SRD/SRT; MME; CCEE",
+   "assunto": "Aprovação do edital e anexos do Procedimento Competitivo Simplificado (PCS) nº 1/2021, para contratar energia de reserva (reserva de capacidade) de novos empreendimentos eólicos, solares fotovoltaicos, térmicos (óleo diesel, óleo combustível, biomassa, gás natural) com conexão no submercado Sudeste/Centro-Oeste e Sul, suprimento 2022 a 2025",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "outorgas de geração (eólica, solar, térmica)",
+    "crise hídrica / CREG",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Edital aprovado conforme Resolução CREG 4/2021, MP 1.055/2021 e Portaria MME 24/2021; PGF aprovou a minuta (Nota 66/2021). Relator dispensou leitura da fundamentação por causa da apresentação técnica da SCG (garantia de proposta 2% com mínimo, multa reduzida 50% se desistir após documento simplificado de acesso, penalidade 15%, certame 25/10 e autorizações 5/11). Sessão presidida em parte por Elisa Bastos como diretora-geral substituta.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:25:00",
+     "justificativa": "edital necessário para enfrentar a escassez hídrica, simplificações de prazos e requisitos conforme CREG",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:41:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:41:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator; declara a unanimidade como diretora-geral substituta",
+     "ts": "0:41:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:42:17",
+   "processo": "48500.004407/2021-34",
+   "interessado": "Centrais Elétricas de Pernambuco S.A. (EPESA); UTEs Termomanaus e Pau Ferro I (PE); ONS; CCEE",
+   "assunto": "Análise das informações da EPESA para recomposição temporária do Custo Variável Unitário (CVU) das UTEs Termomanaus e Pau Ferro I, com alocação de recursos conforme 3ª reunião da CREG (5/8/2021)",
+   "tema": [
+    "crise hídrica / CREG",
+    "CDE e encargos setoriais (ESS)",
+    "comercialização (CCEAR, CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "CVU excepcional de R$ 1.338,78/MWh (data-base jul/2021) até 31/12/2021 para ambas as usinas, após diligência do relator reduzir o pedido em 6,72%; incremento pago via encargo de serviços do sistema; sobrestadas cobranças de penalidades; fiscalização SFG/SFF dos valores declarados; EPESA deve enviar relatório técnico com ART em 15 dias.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:44:00",
+     "justificativa": "cumpre determinação da CREG; sua diligência reduziu o CVU em 6,72%, redução de custos relevante na crise",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:07:19",
+     "justificativa": "antes questionou ausência da determinação de fiscalização no voto baixado no SICOR; relator confirmou inclusão",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:07:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:07:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação); presidiu",
+     "ts": "1:07:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:07:48",
+   "processo": null,
+   "interessado": "SPE/ANEEL; EPE (apresentação técnica Douglas Caldas da Silva); ABRADEE/ABESCO ouvidas",
+   "assunto": "Resultado da Consulta Pública 47/2020 e abertura da Chamada de Projeto Prioritário de Eficiência Energética nº 3/2021: eficiência energética em hospitais públicos ou certificados pelo CEBAS",
+   "tema": [
+    "eficiência energética (PEE)",
+    "geração distribuída (MMGD)",
+    "regulação normativa (consulta pública)",
+    "distribuidoras"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovada a abertura da Chamada Pública 3/2021 (investimento a fundo perdido, hospitais públicos ou CEBAS, projetos aprovados pela ANEEL); texto do dispositivo retificado a sugestão de Elisa Bastos. Debate sobre a possibilidade de instalar geração distribuída com recursos do PEE (Hélvio Guerra questionou a conveniência e propôs rever o manual depois). Sustentação por área técnica; sem sustentação oral externa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:50:00",
+     "justificativa": "projeto ajuda a mitigar a crise hídrica e apoia hospitais na pandemia; usa recursos antes acumulados na conta de eficiência energética",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (com ressalva sobre GD)",
+     "ts": "2:05:08",
+     "justificativa": "dúvida quanto ao uso de recursos de eficiência energética para geração distribuída; acompanhou para não criar descompasso entre edital e regra, e propôs avaliar o manual depois",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:05:15",
+     "justificativa": "sugeriu retificação do texto do dispositivo",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:05:20",
+     "justificativa": "defendeu o uso de GD em órgãos públicos para reduzir custeio",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:30",
+     "justificativa": "defendeu o diálogo com ABRADEE/ABESCO e a isonomia da chamada",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:06:33",
+   "processo": "48500.000714/2019-41 (parcial)",
+   "interessado": "distribuidoras de energia elétrica",
+   "assunto": "Resultado da Consulta Pública 69/2020 sobre reavaliação dos submódulos 2.7 e 2.7A do PRORET (compartilhamento de outras receitas no segmento de distribuição); voto-vista de Sandoval Feitosa instaura segunda fase da CP",
+   "tema": [
+    "tarifas e revisão tarifária (outras receitas)",
+    "distribuidoras",
+    "regulação normativa (consulta pública)",
+    "inovação / P&D"
+   ],
+   "relator": "Elisa Bastos (original); voto-vista de Sandoval Feitosa",
+   "resultado": "voto-vista aprovado por unanimidade dos presentes: instaurada a segunda fase da CP 69/2020 (contribuições 7/10 a 22/11/2021); processo retorna à relatora original",
+   "resumo_voto": "Sandoval propôs segunda fase da CP para criar arcabouço de outras receitas de novos arranjos tecnológicos (5% da receita bruta nos primeiros anos, subindo linearmente até 20% no décimo ano) e reduzir de 30% para 15% o compartilhamento de receitas de propriedade intelectual e produtos de P&D. Elisa acompanhou, pediu que as contribuições alimentem a Atividade 125 da agenda regulatória.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencedor (relator do voto-vista)",
+     "ts": "2:06:50",
+     "justificativa": "regulador deve remover barreiras à inovação; hoje distribuidoras tendem a prestar novos serviços por outras empresas do grupo, sem receita compartilhada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora original; acompanha o voto-vista",
+     "ts": "2:51:37",
+     "justificativa": "acompanha o voto-vista e pede uso das contribuições na Atividade 125; processo retorna à sua relatoria por força regimental",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:51:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:51:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "2:52:00",
+     "justificativa": "proclamou a unanimidade dos presentes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:52:56",
+   "processo": "48500.000375/2021-06",
+   "interessado": "diversas concessionárias de transmissão (MG Transmissora, Cemig GT, EDP, Eletrobras CGT Eletrosul, Copel GT, Chesf, Taesa, Interligação Elétrica etc.) e ABRATE",
+   "assunto": "Pedidos de reconsideração (1ª parte, erros materiais) contra a Resolução Homologatória 2.895/2021 que fixou as RAPs do ciclo 2021/2022 das transmissoras",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos (reconsideração)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes: pedidos conhecidos e providos para retificar as RAPs",
+   "resumo_voto": "Corrigidos erros materiais (proporção O&M das prorrogadas, desconto de parcela variável, termos de liberação, parcelas de ajuste, valor da PA de postergação da revisão de 2020, RBL); RAP total passou a ~R$ 32 bi (aumento de 1,41%); ONS deve recontabilizar jul a set/2021; sem reprocessamento tarifário das distribuidoras. Mérito dos demais pontos fica para segunda etapa.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:00:00",
+     "justificativa": "erros materiais identificados pela SGT devem ser corrigidos; impacto tarifário residual (-0,06%) não justifica reprocessar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:21:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:21:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:21:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:21:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "3:22:21",
+   "processo": "48500.000490/2021-72",
+   "interessado": "Consórcio Estreito Energia; Santo Antônio Energia; SPEs SP Futura 1 a 6; Furnas",
+   "assunto": "Pedidos de reconsideração contra a Resolução Homologatória 2.896/2021 (TUST, encargos e tarifa de transporte de Itaipu, ciclo 2021/2022)",
+   "tema": [
+    "transmissão (TUST)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos (reconsideração)",
+    "geração (Itaipu, hidrelétricas)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes: não conhecido o pedido da Furnas e da Santo Antônio (período de transição); demais conforme voto, com retificações",
+   "resumo_voto": "Não conhecidos os pedidos de Furnas e parte da Santo Antônio (tratados em outros processos); não providos Estreito e SP Futura; provido parcialmente Santo Antônio (inclusão de Tabajara em 2029 e devolução de TUST pago a maior); tarifa de transporte de Itaipu alterada para R$ 9.936,12; tarifa de fronteira da SE Porto Alegre 4 corrigida; tarifas gerais mantidas por baixo impacto (~R$ 20,1 mi).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:30:00",
+     "justificativa": "isonomia e metodologia vigente da TUST; baixo impacto tarifário não justifica reprocessamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:46:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:46:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:46:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:00",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "itens 2,3,4,6,13,15,16,17,18,22,23,25,27,37/38,49 da pauta",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta (motivo não dito)",
+   "ts": "0:02:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; só há um marcador de tempo no .md, então os ts foram obtidos por busca na transcrição e são aproximados, especialmente ts de justificativa dos relatores.",
+  "Itens do bloco 28-63 não foram lidos individualmente; item 51 teve vista por Efrain Cruz (atribuição pela fala «com exceção do item 51 que estou solicitando vista» e proclamação «vista do item 51 do diretor Efraim»).",
+  "Item 1: Pepitone não estava no momento da votação (procurado pela mesa); Elisa Bastos assumiu como DG substituta, por isso não há voto de Pepitone; as falas «acompanho» não trazem nome, ordem inferida: baixa confiança.",
+  "Item 7: a fala do relator indica o Diretor-Geral ausente no início, mas Pepitone aparece depois no debate e na votação; voto dele inferido pela proclamação.",
+  "Itens 5, 7, 8, 19 e 20: só 2-3 falas «acompanho» são audíveis; votos de Sandoval/Elisa/Hélvio/Efrain atribuídos pela ordem usual e pela proclamação; nomes incertos (baixa).",
+  "Números de processo parciais (itens 7 e 8 incompletos/incertos; processo do item 8 aproximado); valores e siglas da legenda podem estar errados.",
+  "Item 7: o nome ouvido como «Elvis» foi interpretado como Hélvio Guerra."
+ ]
+}

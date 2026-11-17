@@ -1,0 +1,50 @@
+{
+  "meta": {"video_id": "zj3XIXlxFzA", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "20", "data": "2020-06-09", "formato": "videoconferência (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Diretor-Geral (nome não dito na legenda; proclama o resultado; provavelmente André Pepitone)",
+    "diretores_presentes": ["Júlio César Rezende Ferraz", "Efrain Cruz", "André Pepitone"],
+    "ausentes": ["Sandoval Feitosa (não votou no item 11, ausente da sessão no momento da revotação)"],
+    "observacoes": ["Parte 2 da 20ª Reunião Pública Ordinária de 09/06/2020: retomada com o item 11 (voto-vista) e último processo do dia (item da pauta, recurso Força e Luz de Coronel Vivida x Copel).", "Presença de Elisa Bastos inferida apenas por ter votado antes do pedido de vista no item 11; presença de demais diretores na Parte 2 não confirmada na legenda."]
+  },
+  "itens": [
+    {
+      "id": "11", "ts": "0:00:04",
+      "processo": "48500.002147/2020-81", "interessado": "Azulão Geração de Energia S.A. e Enesa (consórcio Azulão Alto Geração)",
+      "assunto": "Autorização para implantar e explorar, sob regime de autoprodução, a UTE Azulão (Azulão Alto Geração Azul I), município de Silves (AM); potência instalada de 24.150 kW",
+      "tema": ["outorgas de geração (térmica)", "autoprodução", "voto-vista"],
+      "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade dos votantes (Sandoval Feitosa não votou)",
+      "resumo_voto": "Retorno de pedido de vista de Efrain Cruz, que acompanhou o relator: a preocupação era se a usina injetaria energia no sistema ou afetaria o monopólio de distribuição de gás no Amazonas; a assessoria concluiu tratar-se de autoprodução em sistema isolado, sem injeção de energia no sistema, apenas para a planta que explora o gás de Silves. Emitida portaria autorizativa.",
+      "votos": [
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, aprova", "ts": "0:00:04", "justificativa": "voto do relator mantido; ponderações dele afastaram a dúvida sobre injeção de energia no sistema", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "voto-vista: acompanha o relator", "ts": "0:01:05", "justificativa": "assessoria concluiu que é autoprodução, sem injeção de energia no sistema (sistema isolado), afastando o receio quanto ao monopólio do gás no Amazonas", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (voto dado antes da vista)", "ts": "0:02:29", "justificativa": "mencionado que a diretora tinha votado antes do pedido de vista", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (ausente na revotação)", "ts": "0:02:35", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:02:50", "justificativa": "vota por último e proclama a decisão por unanimidade dos votantes", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "12", "ts": "0:04:16",
+      "processo": "48500.001937/2016-35", "interessado": "Força e Luz de Coronel Vivida Ltda. (Forcel) x Copel Distribuição S.A.",
+      "assunto": "Recurso administrativo da Forcel pedindo revisão dos montantes de energia contratados com a Copel-DIS para 2016 após migração de consumidor (fábrica de papel e papelão, ~39-40% do mercado) ao mercado livre; sobrecontratação involuntária e penalidade por energia fora da faixa de tolerância",
+      "tema": ["recursos administrativos", "comercialização (contratos de suprimento)", "distribuidoras (pequeno porte)", "fiscalização e sanções (penalidade contratual)", "PRORET submódulo 11.1", "regulação normativa (consulta pública, AIR)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos votantes: conhecido o recurso; negado o pedido de sobrecontratação involuntária e de anuência a aditamento; penalidade limitada a 25% da parcela B (base 2016); parcelamento em até 48 vezes",
+      "resumo_voto": "Penalidade pelo PRORET 11.1 chegaria a cerca de R$ 7 milhões (~140% da parcela B da Forcel), enquanto o efeito real para a Copel foi de cerca de R$ 450 mil (participação ~0,28% na sobrecontratação de 112%). Responsabilidade concorrente de ambas as partes (nenhuma formalizou o aditivo de redução); por razoabilidade e proporcionalidade, e seguindo precedente Copel x Cocel (limite de 25% da parcela B e 48 parcelas), limita a penalidade a 25% da parcela B de 2016, com atualização e parcelamento em até 48 vezes (Forcel manifesta interesse em 10 dias); SGT considera a decisão no reajuste tarifário anual 2020 da Copel; SRM e SGT instruem consulta pública para incluir disposição no submódulo 11.1 (com AIR e agenda regulatória). Procuradoria sem reparos.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova (nega pedido de sobrecontratação involuntária; limita penalidade a 25% da parcela B; parcelamento em 48x)", "ts": "0:04:42", "justificativa": "proporcionalidade e razoabilidade; penalidade superaria a finalidade incentivadora e causaria desequilíbrio econômico-financeiro; concorrência de culpa de supridora e suprida; agência deve orientar pequenas distribuidoras", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:32:41", "justificativa": "acompanha o voto do diretor Efrain; nome não dito na legenda (provavelmente outro diretor presente)", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:32:45", "justificativa": "Diretor-Geral vota por último e proclama por unanimidade dos votantes", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "A legenda grafa o diretor relator do item 12 e o autor do pedido de vista do item 11 como «Franklin Pereira da Cruz» / «de frango»; interpretado como Efrain Cruz (lista da agência), a partir do sobrenome Pereira da Cruz e do contexto.",
+    "Rótulos de falantes do .md ({Sandoval Feitosa, Ricardo Tili}) são inferência automática e não conferem: Sandoval foi citado como não votante no item 11; quem preside e proclama é o Diretor-Geral (André Pepitone inferido, não nomeado).",
+    "Reunião é a Parte 2 (retomada à tarde); a Parte 1 não está neste arquivo, então lista de presentes é parcial. Presença de Elisa Bastos no item 11 inferida pela menção a voto anterior (nome na legenda: «eliza»).",
+    "No item 12 só duas falas «acompanho» são ouvidas (uma sem nome); a atribuição do primeiro voto de seguidor ficou como «não identificado»; a proclamação diz «por unanimidade dos votantes», sem nomear os demais. Nº de votos não fecha com o de presentes por esse motivo.",
+    "Processo do item 11 lido na legenda como 48.500 0021 47/2000 e 20-81: número normalizado como 48500.002147/2020-81 (incerto). Processo do item 12: legenda lê 48.500 1937/2006 e 1937 63 5000182; normalizado como 48500.001937/2016-35 (incerto; o texto também cita 48 529/2006 para o precedente Copel x Cocel).",
+    "Valores (R$ 7 milhões, R$ 450 mil, 9 GWh, 0,28%, 112%) vêm da legenda automática e podem conter erros.",
+    "Sem sustentação oral nesta parte."
+  ]
+}

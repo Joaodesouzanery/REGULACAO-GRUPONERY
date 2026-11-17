@@ -1,0 +1,488 @@
+{
+ "meta": {
+  "video_id": "iFGsddgqymk",
+  "fonte": "legenda automática do YouTube (texto corrido sem falantes confiáveis); ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31",
+  "data": "2019-08-27",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp",
+   "Efrain Cruz (chegou depois da abertura; presente a partir do item 23)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "31ª Reunião Pública Ordinária de 2019; sessão de cerca de 3h07.",
+   "Itens 8, 9 e 53 retirados de pauta; item 23 destacado do bloco; vista de Sandoval Feitosa nos itens 32 a 37 do bloco.",
+   "Sustentação oral pedida para os itens 1 (Magali Bonetti Mazzuco, EFLUL) e 10; item 6 era voto-vista de Efrain Cruz.",
+   "Itens do bloco (11 a 52) não individualizados na legenda."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:09:23",
+   "processo": "itens 11 a 52 da pauta (processos não individualizados na legenda)",
+   "interessado": "diversos (bloco de itens de pauta, sem leitura individual)",
+   "assunto": "Votação em bloco dos itens 11 a 52 da pauta (item 23 destacado; itens 32 a 37 com vista requerida por Sandoval Feitosa)",
+   "tema": [
+    "votação em bloco",
+    "institucional"
+   ],
+   "relator": "vários (não individualizados)",
+   "resultado": "aprovado por unanimidade, exceto itens 32 a 37 (vista de Sandoval Feitosa)",
+   "resumo_voto": "Itens do bloco aprovados sem leitura; Sandoval Feitosa pediu vista dos itens 32 a 37; o item 23 foi destacado e julgado em separado; o item 53 foi retirado de pauta.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:09:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:09:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco; pede vista dos itens 32 a 37",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama (unanimidade)",
+     "ts": "0:09:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:43",
+   "processo": "48500.002094/2019-65 (número aproximado pela legenda)",
+   "interessado": "Força e Luz Urussanga Ltda. (EFLUL)",
+   "assunto": "Reajuste tarifário anual de 2019 da EFLUL, vigência a partir de 29/08/2019 (efeito médio 0,89%: 5,59% alta tensão, -2,80% baixa tensão); CDE mensal homologada",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição",
+    "Santa Catarina (Urussanga)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste. Houve sustentação oral da empresa (Magali Bonetti Mazzuco) sobre o dilema da compra de energia (cotas compulsórias) e a tarifa alta frente à Celesc; Procuradoria: questão técnica, presunção de legitimidade; o Diretor-Geral chamou a situação de Urussanga e João Cesa de insustentável e pediu tratamento estruturante.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "0:30:00",
+     "confianca": "alta",
+     "justificativa": "aplica o reajuste calculado pela SGT; cita a sustentação oral e pede aprimoramento regulatório"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:32:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:32:58",
+     "confianca": "media",
+     "justificativa": "fala antes da votação que a tarifa de Urussanga e João Cesa, ~50% acima da Celesc vizinha, é situação insustentável que exige tratamento estruturante"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:33:10",
+   "processo": "48500.002099/2019-98 (número aproximado pela legenda)",
+   "interessado": "Força e Luz João Cesa Ltda.",
+   "assunto": "Reajuste tarifário anual de 2019 da João Cesa (efeito médio -1,61%: 4,49% alta tensão, -2,86% baixa tensão); CDE mensal R$ 36.844,45",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição",
+    "Santa Catarina (Siderópolis)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste; menor concessão do país; supridora integral Celesc. Sem sustentação oral nem debate adicional.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "0:44:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:45:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:45:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:45:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:46:19",
+   "processo": "48500.002100/2019-84 (número aproximado pela legenda)",
+   "interessado": "Iguaçu Distribuidora de Energia Elétrica Ltda.",
+   "assunto": "Reajuste tarifário anual de 2019 da Iguaçu Energia (efeito médio 2,34%: 5,48% alta tensão, 0,77% baixa tensão); CDE mensal R$ 911.659,98",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição",
+    "Santa Catarina (Xanxerê)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Homologa o reajuste; sem debate adicional.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "0:56:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:56:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:57:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:57:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:57:33",
+   "processo": "48500.002109/2019-95 (número aproximado pela legenda)",
+   "interessado": "Cooperativa Aliança (Cooperaliança)",
+   "assunto": "Reajuste tarifário anual de 2019 da Cooperaliança (efeito médio 10%: 10,17% alta tensão, 9,89% baixa tensão), com retirada gradual do desconto na tarifa de suprimento (de 41% para ~38%) limitada a 10% de impacto",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição",
+    "cooperativas",
+    "Santa Catarina"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Homologa o reajuste; o relator ressalta que, sem a redução dos descontos legais, o impacto seria ~8%, e que o limite de 10% foi respeitado.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:10:00",
+     "confianca": "alta",
+     "justificativa": "retirada de descontos de energia limitada a 10% de impacto tarifário, conforme regulamentação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:10:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:10:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:10:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:11:11",
+   "processo": "48500.002794/2018-79 (número aproximado pela legenda)",
+   "interessado": "processo normativo ANEEL (SGT); usinas cotistas",
+   "assunto": "Resultado da Audiência Pública 58/2018: aprovação do submódulo 12.2 do PRORET (reajuste da RAG das usinas hidrelétricas em regime de cotas) e do relatório de AIR (norma de baixo impacto)",
+   "tema": [
+    "regulação normativa (resolução, audiência pública, AIR)",
+    "tarifas (RAG usinas cotistas)",
+    "outorgas de geração (hidrelétricas)"
+   ],
+   "relator": "não identificado (legenda não traz o nome; relator disse que o processo lhe foi distribuído em 29/10/2018)",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Consolida em norma os procedimentos de reajuste da RAG das usinas cotistas (GAG O&M, melhorias, ampliação, ENR; encargos de transporte; ajuste por disponibilidade; parcela de ajuste; RAG inicial; taxa de fiscalização e P&D). Duas contribuições (Abrasmo, Pini) aceitas.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (comenta que a aprovação dá transparência, coerência e reprodutibilidade aos reajustes)",
+     "ts": "1:30:10",
+     "confianca": "media",
+     "justificativa": "a regulamentação, embora descreva cálculos já feitos, traz transparência, coerência e reprodutibilidade"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:02",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:32:38",
+   "processo": "48500.006559/2018-76 (número aproximado pela legenda)",
+   "interessado": "Brasil Celulose e/ou Bracell SP Celulose Ltda. (legenda: «Abrasel / Bracell»)",
+   "assunto": "Autorização para implantar e explorar, como produtor independente, a UTE Bracell (381 MW; líquida 371 MW), em Lençóis Paulista (SP), com redução de 50% em TUST/TUSD; item destacado do bloco para complementar a fundamentação (cronograma de implantação)",
+   "tema": [
+    "outorgas de geração (térmica, biomassa)",
+    "transmissão (instalações de interesse restrito)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a UTE (resolução autorizativa) e fixa 50% de desconto em TUST/TUSD; destaque feito só para incluir cronograma na fundamentação (início da operação comercial 01/11/2021).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:38:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:38:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:39:38",
+   "processo": "48500.002891/2018-?? (número aproximado pela legenda)",
+   "interessado": "usinas Salto Curucaca e Tibagi Montante (hidrelétricas ~30 MW, PR); ONS",
+   "assunto": "Procedimentos de Rede (revisão 2019.08): flexibilização de requisitos para usinas hidrelétricas acima de 30 MW na modalidade de despacho; voto-vista de Efrain Cruz propõe excepcionalizar Salto Curucaca (Curucaca Energia/Santa Clara) e Tibagi Montante, mantendo-as na modalidade tipo 2 apesar da potência, classe de operação tipo 3",
+   "tema": [
+    "regulação normativa (procedimentos de rede, ONS)",
+    "outorgas de geração (hidrelétricas)",
+    "despacho centralizado",
+    "voto-vista"
+   ],
+   "relator": "Sandoval Feitosa (relator); voto-vista de Efrain Cruz",
+   "resultado": "aprovado por unanimidade, com a excepcionalização do voto-vista incorporada",
+   "resumo_voto": "Efrain Cruz, após visita técnica às usinas (27 e 28/06/2019) e sustentações orais de agentes, propõe excepcionalizar as duas usinas com base na previsibilidade já definida e na ausência de óbice do ONS. Debate sobre fazer isso neste processo ou em processos apartados; ao final, junção do voto do relator com o dispositivo do voto-vista, sem alterar o texto dos Procedimentos de Rede.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator; aceita a junção com o voto-vista (pela proclamação)",
+     "ts": "2:04:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: excepcionaliza as usinas Salto Curucaca e Tibagi Montante",
+     "ts": "1:39:55",
+     "confianca": "alta",
+     "justificativa": "excepcionalização por razão exclusiva da potência instalada, sem impacto eletroenergético segundo o ONS; segurança do investidor e celeridade processual"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o voto-vista (pela proclamação; antes da vista acompanhara o relator)",
+     "ts": "2:04:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "2:04:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "2:04:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:05:06",
+   "processo": "48500.005556/2017-48 (número aproximado pela legenda)",
+   "interessado": "Energisa Tocantins Distribuidora de Energia S.A.",
+   "assunto": "Requerimento de prorrogação do contrato de concessão 52/1999 (vence em 30/01/2020) por 30 anos: ANEEL reconhece regularidade fiscal, trabalhista, setorial e qualificação jurídica, econômico-financeira e técnica, aprova minuta de termo aditivo e encaminha ao MME; tempestividade fica com o poder concedente",
+   "tema": [
+    "distribuição (prorrogação de concessão)",
+    "institucional/TCU",
+    "Tocantins"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Compete ao MME decidir a prorrogação e a tempestividade (pedido feito com 45 meses de antecedência, contra 60 da Lei 12.783 e 36 do contrato); ANEEL só checa documentos e minuta. Citado o Acórdão TCU 1946/2019; será oficiado MME e TCU no mesmo dia.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "2:34:30",
+     "confianca": "alta",
+     "justificativa": "papel da ANEEL limitado à análise do art. 2º do Decreto 7.805/2012; tempestividade é do poder concedente"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:38:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:38:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:38:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "2:38:58",
+     "confianca": "media",
+     "justificativa": "diz que a agência oficiará ainda hoje o MME e o TCU sobre a deliberação"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:40:09",
+   "processo": "48500.000084/2006-91 e outros 14 (números aproximados pela legenda)",
+   "interessado": "Eletrosul Centrais Elétricas S.A.; Companhia de Geração Térmica de Energia Elétrica (CGT Eletrosul); Eletrobras; SPEs TSLE, Fronteira Oeste, TSBE, Livramento Holding e Paraíso",
+   "assunto": "Anuência à transferência do controle societário de 5 SPEs de transmissão da Eletrosul para a CGT e transferência de titularidade de contratos de concessão de transmissão (10), de geração e autorizações, no contexto da incorporação da Eletrosul pela CGT (reorganização dentro do grupo Eletrobras)",
+   "tema": [
+    "transmissão (transferência de controle/outorgas)",
+    "outorgas de geração",
+    "comercialização/societário",
+    "Eletrobras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Anuência condicionada à efetivação da incorporação em até 120 dias; documentos à SFF em 30 dias. Houve sustentação oral (representante dos requerentes, nome não identificado); preocupação de prazo da assembleia de incorporação (30/08). Procuradoria apoiou com o Parecer referencial 203/2015; discutidos qualificação financeira da CGT, titularidade de Candiota 3 e subsídio CDE.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:52:43",
+     "confianca": "alta",
+     "justificativa": "reorganização dentro do mesmo grupo, ganho de sinergias e créditos tributários; qualificação econômico-financeira passa a existir após a incorporação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:06:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:06:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:06:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:06:07",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Item 8 (retirado de pauta)",
+  "Item 9 (retirado de pauta)",
+  "Item 53 (retirado de pauta do bloco)",
+  "Itens 32 a 37 do bloco (vista de Sandoval Feitosa)"
+ ],
+ "limites_da_analise": [
+  "Legenda sem separação de falantes (rótulo inferido Sandoval/Tili no começo é erro provável; Ricardo Tili não era diretor presente); votos de seguidores atribuídos pela ordem usual e pela proclamação, confiança media/baixa.",
+  "Efrain Cruz não estava na abertura (quatro diretores); o momento exato da chegada não é claro; registrado como presente a partir do item 23; nos itens 1 a 5 e no bloco constam 4 votos.",
+  "Item 5: relator não identificado na legenda; Elisa Bastos comenta favoravelmente mas o relator não é ela.",
+  "Item 6: houve fala contrária a tratar as duas usinas neste processo (preferência por processos apartados), mas a legenda não identifica o autor; decisão final unânime com a excepcionalização.",
+  "Itens 6 e 7: nomes, números de processo e valores da legenda podem estar errados; números de processo aproximados.",
+  "Item 10: sustentação oral e falas de debate sem autor identificado; nomes da Eletrosul/CGT/SPEs transcritos de forma imprecisa.",
+  "Itens do bloco 11 a 52 sem detalhe: só se sabe que foram aprovados exceto 32 a 37.",
+  "Item 23: nome da empresa (Bracell) incerto na legenda."
+ ]
+}

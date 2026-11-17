@@ -1,0 +1,537 @@
+{
+ "meta": {
+  "video_id": "NvfJjY0cb9c",
+  "fonte": "legenda automática do YouTube; sem separação de falantes (só um marcador no .md); ts obtidos do .json da transcrição; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "28ª Reunião Pública Ordinária de 2019 (Parte 2, tarde)",
+  "data": "2019-08-06",
+  "formato": "presencial (sede ANEEL)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (retomada à tarde): itens 12 e 13 da pauta, 1, 5, 6, prorrogações de vista 8, 14, 15 e 16, vista no item 9, deliberação do item 10 e retirada do item 11 (a ordem de pauta foi alterada).",
+   "Encerrada ao final do item 16; Sandoval Feitosa informou que assinou os votos por urgência de publicação. Item 7 foi retirado na Parte 1 (conforme outra análise).",
+   "Itens 12 e 13: rescisões amigáveis de concessões hidrelétricas sem licença prévia (Lei 12.839/2013, art. 4-A da Lei 9.074), com debate sobre o alcance de no que couber.",
+   "Presença dos cinco diretores inferida da Parte 1 da mesma sessão (gm5_lvmqMmo) e das falas desta parte."
+  ]
+ },
+ "itens": [
+  {
+   "id": "12",
+   "ts": "0:00:05",
+   "processo": "48500.005652/2001-19 (número conforme legenda, incerto)",
+   "interessado": "Chupa/Chopim Energia S/A (grafia incerta; UHEs São João e Cachoeirinha, PR)",
+   "assunto": "Pedido de rescisão amigável (art. 4-A da Lei 9.074/95) do contrato de concessão 16/2002 das UHEs São João e Cachoeirinha (municípios de Honório Serpa e Clevelândia, PR): recomendação ao MME",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "rescisão de concessão (art. 4-A Lei 9.074)",
+    "decisão judicial (TRF1 / Abiape)",
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes (recomendar ao MME a rescisão amigável)",
+   "resumo_voto": "Cumprimento de decisão judicial (TRF1; sentença da 16ª Vara Federal/DF que anulou o prazo da Portaria MME 243/2013 e o contou após a apreciação do reequilíbrio) e da Portaria MME 295/2019; pedidos de reequilíbrio e recomposição de prazo já apreciados; recomenda-se a rescisão amigável com extinção da concessão, devolução de garantias, isenção de UBP e ressarcimento de estudos a definir depois e só se úteis à futura licitação. Procuradoria sem parecer próprio, estende o Parecer 266/2019 (item 13). Representante da concessionária dispensou sustentação oral e fez breve manifestação de esclarecimento; houve debate entre diretores sobre o alcance de no que couber (análise de excludentes de responsabilidade e ressarcimento).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (recomendar rescisão amigável)",
+     "ts": "0:16:29",
+     "justificativa": "cumprimento da decisão judicial e da Portaria MME 295/2019; empresa atendeu as condicionantes; ressarcimento de custos só se úteis à nova licitação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:55",
+     "justificativa": "participou do debate sobre a interpretação de no que couber (autoria das falas incerta pela legenda)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "0:32:10",
+     "justificativa": "Diretor-Geral proclama; um diretor não identificado pela legenda disse ter interpretação diferente da lei mas privilegiar o posicionamento da casa",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:32:41",
+   "processo": "48500.005654/2001-70 (conforme legenda)",
+   "interessado": "Consórcio Paiquerê (Votorantim Cimentos, Alcoa Alumínio, DME Energética); UHE Paiquerê (Bom Jesus/RS e Lages/SC)",
+   "assunto": "Pedido de rescisão amigável do contrato de concessão 20/2002 da UHE Paiquerê (art. 4-A da Lei 9.074/95): recomendação ao MME",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "rescisão de concessão (art. 4-A Lei 9.074)",
+    "decisão judicial (TRF1 / Abiape)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Acata o pleito do consórcio, em consonância com a recomendação da SCG e o Parecer 266/2019 da Procuradoria; rescisão amigável com extinção da concessão da UHE Paiquerê nos termos da minuta de despacho. Relatora passou direto ao dispositivo em razão da discussão do item 12.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (recomendar rescisão amigável)",
+     "ts": "0:41:11",
+     "justificativa": "mesmo entendimento do item 12; atende à recomendação da SCG amparada na Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:41:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:41:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:41:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (proclama unanimidade)",
+     "ts": "0:42:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:42:30",
+   "processo": "48500.000027/2019-14",
+   "interessado": "Leilão de Geração 1/2019 (Boa Vista e localidades conectadas, RR); proponentes vencedoras incl. Jaguatirica II, BBF, Baliza, Ibri do Forte de São Joaquim, Paulo Palma, Plan Energia 2, Bonfim, Cantá, Pau Rainha, Santa Luz, Monte Cristo, Cuiabá (grafias incertas)",
+   "assunto": "Homologação do resultado e adjudicação do objeto do Leilão de Geração 1/2019 (suprimento a Boa Vista e localidades conectadas, início 28/06/2021) e emissão das outorgas de autorização das soluções de suprimento",
+   "tema": [
+    "leilões (geração)",
+    "sistema isolado Roraima",
+    "outorgas de geração",
+    "transmissão (interligação Manaus-Boa Vista)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Homologa e adjudica o leilão (cerca de 260 MW de disponibilidade de potência negociados, deságio médio ponderado cerca de 22,7%, investimentos cerca de R$ 1,62 bi, valores conforme legenda); só o produto potência foi contratado, a 2ª fase não ocorreu; emite as autorizações em conjunto, para ganho de eficiência. Um diretor (não identificado) registrou que, sem a interligação, o custo de geração para Roraima seria da ordem de R$ 1,23 bi/ano e, com a interligação, cerca de R$ 1,9 bi/ano pela parcela inflexível (cerca de R$ 800 mi/ano); números incertos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:54:30",
+     "justificativa": "leilão concluído com habilitação plena das cinco proponentes; ganho de eficiência ao emitir outorgas junto com a homologação; solução robusta para Roraima",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "0:57:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:59:15",
+   "processo": "48500.000570/2019-11 (conforme legenda)",
+   "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
+   "assunto": "Projeto piloto (sandbox regulatório) de oferta de autoleitura quando há impedimento de acesso para leitura, para consumidores do Grupo B na área de concessão da Enel SP, com 300 medidores inteligentes na etapa 2",
+   "tema": [
+    "distribuição e qualidade (medição, leitura)",
+    "sandbox regulatório / inovação",
+    "regulação normativa (agenda regulatória, REN 414)",
+    "tarifas e atendimento ao consumidor"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Autoriza o projeto piloto em ambiente de sandbox: etapa 1 (autoleitura via site, app ou URA) e etapa 2 a partir de mar/2021 com 300 medidores inteligentes e análise do comportamento do consumidor; encerra em dez/2020 (conforme legenda) antes de novo regulamento. Apresentação técnica da SRD. Sem remuneração específica de ativos; primeiro sandbox regulatório do setor elétrico brasileiro, segundo o Diretor-Geral. Procuradoria sem manifestação, opina pela presunção de legitimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:20:13",
+     "justificativa": "piloto não é só comodidade à empresa: gera aprendizado para a regulação; leitura continua responsabilidade da distribuidora; antecipa regulamento da autoleitura",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator, elogia",
+     "ts": "1:20:20",
+     "justificativa": "ambiente apropriado à experimentação, regulamentos baseados em fatos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:29",
+     "justificativa": "autoria de comentários elogiosos entre 1:21 e 1:24 não atribuída com segurança",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "1:25:42",
+     "justificativa": "destaca o pioneirismo da ANEEL: primeiro caso de sandbox regulatório no Brasil; já havia compartilhado material com Rodrigo Limp",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:27:00",
+   "processo": "48500.003028/2018-21 (conforme legenda)",
+   "interessado": "ONS; CCEE; SubMódulos dos Procedimentos de Rede (5.x, 9.5, 10.4, 18.2, 20.11, 23.4, 23.5)",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 08/08 a 06/09/2019) para adequar os Procedimentos de Rede à implantação do modelo DESSEM na programação diária da operação do SIN (preço horário)",
+   "tema": [
+    "comercialização (CCEE, PLD, preço horário)",
+    "regulação normativa (audiência pública, procedimentos de rede)",
+    "operação do sistema (ONS, DESSEM)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos diretores presentes (abertura da audiência pública)",
+   "resumo_voto": "Cronograma da Portaria MME 301/2019: DESSEM na programação diária a partir de 01/01/2020 e PLD horário em 01/01/2021. Abre AP de 30 dias; propostas da SRG incluem parametrização do unit commitment e critério de contingência; AIR dispensada (parágrafo único do art. 6 da norma de organização), o que foi questionado em debate por um diretor quanto à forma (portaria do MME como ato superior), sem divergir. Apresentação técnica do especialista em regulação Bruno.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova abertura da audiência pública",
+     "ts": "1:52:00",
+     "justificativa": "prazo exíguo para o início da operação com DESSEM em jan/2020; ONS precisa ter condições de implementar; ajustes normativos possíveis ao longo da audiência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "2:05:05",
+     "justificativa": "Diretor-Geral questionou, segundo a legenda e com autoria incerta, a dispensa de AIR e a base legal (portaria ministerial) antes de acompanhar",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:05:52",
+   "processo": "48500.003992/2018-50 (conforme legenda)",
+   "interessado": "Enel Brasil S/A (UTE Fortaleza)",
+   "assunto": "Prorrogação do prazo do pedido de vista: requerimento com pedido de medida cautelar para suspender a exigibilidade de débitos nas liquidações do mercado de curto prazo associados à ausência de suprimento de gás natural da UTE Fortaleza",
+   "tema": [
+    "comercialização (CCEE, mercado de curto prazo)",
+    "recursos administrativos",
+    "pedido de vista"
+   ],
+   "relator": "Sandoval Feitosa (relator original); voto-vista: Rodrigo Limp",
+   "resultado": "prazo adicional de quatro sessões concedido ao voto-vista, sem objeção",
+   "resumo_voto": "Rodrigo Limp pediu mais quatro sessões para trazer o voto-vista; concedido.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "voto-vista pendente; pede mais quatro sessões",
+     "ts": "2:06:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator original; sem manifestação nesta sessão",
+     "ts": "2:06:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:07:26",
+   "processo": "48500.001989/2019-18 (conforme legenda); processo conexo de multa 48500.005707/2018 sob relatoria de Efrain Cruz",
+   "interessado": "Centrais Elétricas do Norte do Brasil S/A (Eletronorte); contrato de concessão 9/2014 (leilão 7/2013); acionista Eletrobras",
+   "assunto": "Termo de Intimação 3/2019 (SFE): proposta de suspensão temporária de participação em licitações e impedimento de contratar com a ANEEL, por inexecução e caducidade do contrato de concessão 9/2014 (transmissão, Acre)",
+   "tema": [
+    "fiscalização e sanções (suspensão de licitar, caducidade)",
+    "transmissão (outorgas, atraso de obras)",
+    "leilões (transmissão)",
+    "pedido de vista"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Efrain Cruz, segundo a legenda); julgamento adiado",
+   "resumo_voto": "Relatora vota por aplicar a suspensão de um ano (menos que os dois anos máximos, por reconhecer a melhora recente da Eletronorte: índice de pontualidade e 1 de 10 obras atrasada), sem alcançar o acionista controlador Eletrobras (impacto ao setor) e sem alcançar resoluções autorizativas de reforços. Um diretor destacou que é o primeiro caso de suspensão por inadimplemento contratual e que há processos semelhantes de Eletrosul e Chesf sob relatoria de Rodrigo Limp. Procuradoria opina pela legitimidade. Em votação, houve pedido de vista; o nome do diretor foi captado pela legenda como incluir, provavelmente Efraim.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (suspensão de um ano sem atingir a Eletrobras)",
+     "ts": "2:21:15",
+     "justificativa": "caducidade justifica a penalidade, mas reconhece a resposta da empresa e acompanha a SFE em não aplicar a pena máxima",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "2:22:30",
+     "justificativa": "pedido de vista inferido pela fala audível do Diretor-Geral e pelo contexto (também relator do processo de multa conexo)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:22:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "2:22:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:22:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:22:47",
+   "processo": "48500.005776/2014-15 (conforme legenda)",
+   "interessado": "Fotomaç do Brasil Projetos de Energias Renováveis Ltda (contrato de energia de reserva 270/2014, lote Alto Sertão); CCEE",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 1.206/2019, que resolveu o contrato de energia de reserva 270/2014 e determinou à CCEE a aplicação da multa da subcláusula 13.1; voto-vista",
+   "tema": [
+    "recursos administrativos",
+    "leilões (energia de reserva)",
+    "comercialização (CCEE, contratos)",
+    "fiscalização e sanções (multa)"
+   ],
+   "relator": "Elisa Bastos (relatora original); voto-vista: Efrain Cruz",
+   "resultado": "aprovado por unanimidade: conhecido o pedido de reconsideração e, no mérito, negado provimento",
+   "resumo_voto": "Voto-vista de Efrain Cruz mantém integralmente o voto da relatora, sem divergência: conhece e nega provimento; o debate em recursos de reconsideração ficou limitado às questões atreladas às garantias, considerando contratos de energia de reserva semelhantes. Despacho original foi da lavra de Sandoval, segundo a legenda.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator original, conhece e nega provimento",
+     "ts": "2:24:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: acompanha a relatora na integralidade",
+     "ts": "2:24:18",
+     "justificativa": "analisou a resolução de contratos de energia de reserva; nada a acrescentar ao voto da relatora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:25:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:25:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (proclama unanimidade)",
+     "ts": "2:25:09",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:25:56",
+   "processo": "48500.006886/2005-14 (conforme legenda)",
+   "interessado": "Associação Brasileira dos Produtores Independentes de Energia Elétrica (Apine)",
+   "assunto": "Pedido de reconsideração contra o parágrafo 2 do art. 6 da REN 722/2016 (critérios de acesso à rede básica; Decreto 5.597/2005 e 5.598)",
+   "tema": [
+    "transmissão (acesso à rede básica)",
+    "regulação normativa",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta (não deliberado)",
+   "resumo_voto": "Durante o relatório, o diretor interrompeu e disse que retiraria o processo de pauta; motivo não declarado.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "retira de pauta",
+     "ts": "2:27:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:28:20",
+   "processo": "48500.005043/2017-23 (conforme legenda)",
+   "interessado": "Cemig Distribuição S/A",
+   "assunto": "Prorrogação do prazo de pedido de vista: recurso contra o Auto de Infração 18/2018 (indicadores de continuidade DEC/FEC de 2016, coleta e apuração, PRODIST)",
+   "tema": [
+    "fiscalização e sanções (auto de infração)",
+    "distribuição e qualidade (DEC/FEC)",
+    "recursos administrativos",
+    "pedido de vista"
+   ],
+   "relator": "Efrain Cruz (relator original); voto-vista: Elisa Bastos",
+   "resultado": "mais quatro sessões concedidas ao voto-vista, sem objeção",
+   "resumo_voto": "Elisa Bastos solicita prorrogação de quatro sessões; concordância dos diretores.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista pendente; pede mais quatro sessões",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator original; sem manifestação nesta sessão",
+     "ts": "2:29:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:29:07",
+   "processo": "48500.005947/2017-59 (conforme legenda)",
+   "interessado": "Companhia (Amapá/Oiapoque) e Guascor do Brasil Ltda; UTE Oiapoque (AP) e usinas no Acre; sociedade citada como pouca energia (legenda incerta)",
+   "assunto": "Prorrogação do prazo de pedido de vista: requerimento para alterar a fórmula de reajuste da receita de venda em contrato de comercialização de energia nos sistemas isolados (UTE Oiapoque e usinas no Acre)",
+   "tema": [
+    "comercialização (contratos, sistemas isolados)",
+    "tarifas e reajuste",
+    "recursos administrativos",
+    "pedido de vista"
+   ],
+   "relator": "Rodrigo Limp (relator); voto-vista: Efrain Cruz",
+   "resultado": "mais quatro sessões concedidas ao voto-vista, sem objeção",
+   "resumo_voto": "Efrain Cruz pede quatro sessões por ter agenda marcada com os agentes na semana seguinte; concedido.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista pendente; pede mais quatro sessões",
+     "ts": "2:29:53",
+     "justificativa": "agenda marcada para receber os agentes na semana seguinte",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator original; sem manifestação nesta sessão",
+     "ts": "2:30:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:30:43",
+   "processo": "48500.005792/2002-94 (conforme legenda)",
+   "interessado": "Divisa Energia S/A (PCH Divisa, rio Formiga, Campos de Júlio, MT)",
+   "assunto": "Prorrogação do prazo de pedido de vista: recomposição de prazo da autorização da PCH Divisa",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recomposição de prazo",
+    "pedido de vista"
+   ],
+   "relator": "Rodrigo Limp (relator); voto-vista: Efrain Cruz",
+   "resultado": "mais quatro sessões concedidas ao voto-vista, sem objeção",
+   "resumo_voto": "Efrain Cruz pede mais quatro sessões; foi suscitado esclarecimento à SCG, cuja nota técnica complementar ainda estava em análise.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista pendente; pede mais quatro sessões",
+     "ts": "2:30:50",
+     "justificativa": "aguarda complementação da nota técnica da SCG",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator original; sem manifestação nesta sessão",
+     "ts": "2:31:00",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "11",
+   "relator": "Efrain Cruz",
+   "motivo": "retirado de pauta pelo relator durante o relatório, sem motivo declarado",
+   "ts": "2:27:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática, com nomes e números muito deformados (Chopim/Chupa, Enel/eni, Elisa/Luísa Basto, Efrain/Efraim, Limp/Link); números de processo conforme ouvidos, incertos.",
+  "Não há separação de falantes: quem pediu vista no item 9 (Efrain Cruz, a legenda diz incluir) é inferência de confiança media; a autoria de comentários nos itens 5, 6 e 12 não foi atribuída com segurança.",
+  "Votos de seguidores (acompanha) atribuídos pela proclamação de unanimidade; a fala individual de acompanhamento só é identificável em alguns casos; o Diretor-Geral é quem proclama.",
+  "Itens 8, 14, 15 e 16 são apenas prorrogações de vista: por isso há menos de cinco votos; nos itens 9 e 10 os demais diretores constam como não votou (vista) ou acompanham.",
+  "No item 12 um diretor (não identificado) declarou interpretação diferente da lei mas que acompanharia o posicionamento da casa; não atribuído a nome.",
+  "Item 1: os números sobre custo de geração em Roraima foram ditos por diretor não identificado; valores incertos.",
+  "Itens 7 e anteriores (Parte 1) não constam deste vídeo."
+ ]
+}

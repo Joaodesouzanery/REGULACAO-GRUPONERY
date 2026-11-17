@@ -1,0 +1,47 @@
+{
+ "meta": {"video_id": "A18pj2IQ298", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "3ª Reunião Pública Ordinária de 2019", "data": "2019-02-05", "formato": "presencial",
+  "presidente_da_sessao": "Ricardo Tili (Diretor-Geral)",
+  "diretores_presentes": ["Ricardo Tili", "Efrain Cruz", "André Pepitone"],
+  "ausentes": [],
+  "observacoes": ["Quórum declarado de cinco diretores; só três nomes são identificáveis na legenda (Tili, Efrain Cruz, André Pepitone).", "Pauta: itens 1, 3, 4, 5, 9 e 11 retirados pelos relatores; restante votado em bloco por unanimidade; um único processo julgado individualmente (recurso da Amazonense de Transmissão de Energia, relator Efrain Cruz), com um diretor impedido.", "Comunicados: fim do prazo da CP 21/2018 (medição e contabilização na CCEE), 20 anos da CCEE, reunião sobre tarifa binômia com conselhos de consumidores, AP 28/2018 (AIR sobre sistemas de medição, Resolução 414). Ata da 2ª reunião aprovada com ajuste no item 16 pelo diretor Efrain."]
+ },
+ "itens": [
+  {
+   "id": "bloco", "ts": "0:05:20",
+   "processo": "", "interessado": "",
+   "assunto": "Bloco de processos da pauta (exceto itens 4, 5, 9 e 11, retirados), com votos disponibilizados na internet desde quinta-feira; conteúdo dos itens não detalhado na sessão",
+   "tema": ["bloco de itens sem destaque"],
+   "relator": "não identificado", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem destaques nem sustentação oral; Diretor-Geral colhe votos pela aprovação do bloco e proclama aprovação por unanimidade.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco (proclama unanimidade)", "ts": "0:05:32", "confianca": "media"},
+    {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:05:27", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "2", "ts": "0:06:29",
+   "processo": "48500.004408/2016-11", "interessado": "Amazonense de Transmissão de Energia S.A.",
+   "assunto": "Recurso administrativo contra o Despacho SRT 59/2017, que negou isenção de Parcela Variável por Indisponibilidade (PV) por desligamento da LT 500 kV Açailândia-Presidente Dutra em 18/12/2015 (alegado caso fortuito ou força maior: estiagem e poluição nos isoladores)",
+   "tema": ["transmissão (RAP, parcela variável)", "recursos administrativos", "fiscalização e sanções"],
+   "relator": "Efrain Cruz", "resultado": "conhecido e desprovido (mantida a PV), por unanimidade dos votantes, com um diretor impedido",
+   "resumo_voto": "Relator vota por conhecer do recurso (tempestivo) e negar provimento: poluição por estiagem e queimadas é previsível (fortuito interno), houve desligamento similar 18 dias antes, edital e contrato punham o risco ambiental na concessionária, PV não é sanção mas desconto por serviço não prestado; segue SRT e Procuradoria (Parecer 296/2017) e precedente de sua relatoria.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:35:18", "justificativa": "estiagem e poeira nos isoladores são previsíveis e evitáveis com manutenção (lavagem, substituição); edital e contrato alocam o risco de poluição à transmissora; PV é incentivo regulatório, não multa", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:35:51", "justificativa": "voto bem motivado; desligamento similar 18 dias antes, parecer da área técnica e da Procuradoria e edital do leilão 6/2011 reforçam que não há caso fortuito ou força maior", "confianca": "media"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:38:40", "justificativa": "corrobora; medidas de lavagem de isoladores hoje aplicadas mostram que a prevenção era possível", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:39:44", "confianca": "media"},
+    {"diretor": "não identificado", "voto": "suspeito/impedido", "ts": "0:39:28", "justificativa": "declarou-se impedido por ter sido superintendente da SRT quando o Despacho 59/2017 foi publicado", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": ["Itens 1, 3, 4, 5, 9 e 11 da pauta, retirados pelos respectivos relatores (processos não identificados na sessão)"],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa: nomes de diretores quase não aparecem; só Efrain (relator, nomeado), Tili (presidente) e André (citado como «doutor André») identificados.",
+  "O quórum era de cinco diretores; dois não foram identificados por nome. O diretor impedido no item 2 (ex-superintendente da SRT) não foi identificado; o 'volta congelador' da legenda é ininteligível.",
+  "No item 2, falas de acompanhamento não têm nome: atribuição a André Pepitone (confiança media) e a um diretor não identificado é por ordem de fala e pode estar trocada.",
+  "No bloco, os números e relatores dos processos não são ditos; registrados só dois votos audíveis.",
+  "Votos por item não fecham com o número de presentes: faltam nomes de dois diretores nos itens."
+ ]
+}

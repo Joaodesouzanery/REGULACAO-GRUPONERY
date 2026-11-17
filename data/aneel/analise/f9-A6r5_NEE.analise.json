@@ -1,0 +1,338 @@
+{
+ "meta": {
+  "video_id": "f9-A6r5_NEE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "30ª Reunião Pública Ordinária (Parte 2)",
+  "data": "2019-08-20",
+  "formato": "presencial",
+  "presidente_da_sessao": "não identificado com certeza (o procurador trata Rodrigo Limp como diretor-geral substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 da 30ª RPO de 20/08/2019 (sessão da tarde); encerrada ao final do último item (ts ~2:08:35).",
+   "Pauta numerada de forma confusa na legenda; ids sequenciais 1 a 7. O item 6 da pauta foi retirado (ts 0:52:52) e não identificado.",
+   "Todos os 7 itens aprovados por unanimidade; nenhum voto vencido, pedido de vista ou sustentação oral (no item 2 o relator nota ausência do conselho de consumidores)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:07",
+   "processo": "48500.005055/2018-?? e 48500.006447/2017-64",
+   "interessado": "Roraima Energia S/A (ex-Boa Vista Energia); CCEE; sistema isolado de Roraima",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar da Roraima Energia para desobrigação do pagamento dos CCEAR e isenção de sanções, e avaliação do tratamento da sobrecontratação até a interligação ao SIN (LT Manaus-Boa Vista)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "sobrecontratação / distribuidoras",
+    "sistema isolado Roraima",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (cautelar prejudicada/indeferida; provimento parcial do requerimento)",
+   "resumo_voto": "Cautelar indeferida por perda de objeto; parcelamento das penalidades em até 6 vezes (IGP-M + 1% a.m.); cessão compulsória dos CCEARs da Roraima Energia às distribuidoras do SIN proporcionalmente à carga, como sobra involuntária, até a interligação; CCEE recontabiliza 2019. Pedidos de flexibilização do MVE e de acordos bilaterais não analisados. Procurador-geral relatou a revogação da liminar judicial.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (cautelar indeferida; provimento parcial)",
+     "ts": "0:00:07",
+     "justificativa": "situação excepcional por atraso da LT Manaus-Boa Vista, exógena à gestão; cessão dos CCEAR dilui impacto (2ª casa decimal), protege consumidores de Roraima com energia barata (Belo Monte) e preserva MCSD e MVE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:35:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:35:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:35:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:36:48",
+   "processo": "48500.002011/2019-??",
+   "interessado": "Companhia Energética do Maranhão (CEMAR)",
+   "assunto": "Reajuste tarifário anual 2019 da CEMAR, vigência a partir de 28/08/2019, efeito médio -3,82%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologação do reajuste com efeito médio de -3,82% (alta tensão -3,89%; baixa tensão -3,81%), fixação de TUSD e tarifas, receita de DIT de uso exclusivo e repasse mensal de CDE; queda explicada por encargos (CDE/CONTA-ACR) e retirada de financeiros. Sem sustentação oral do conselho de consumidores.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:36:48",
+     "justificativa": "reajuste negativo com fundamentação técnica; agradece equipe da SGT e acompanhamento do diretor Sandoval",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:49:10",
+     "justificativa": "menor reajuste da década e real (diferente do -23% de 2013, revertido); acompanhou o reajuste por conhecer a realidade do Maranhão e do Nordeste",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:52:55",
+   "processo": "48500.002010/2019-??",
+   "interessado": "Força e Luz Coronel Vivida Ltda (FORCEL)",
+   "assunto": "Reajuste tarifário anual 2019 da FORCEL, vigência a partir de 26/08/2019, efeito médio 8,23%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "desoneração tarifária"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 8,23% (alta tensão 9,48%; baixa tensão 7,26%), puxado por componentes financeiros (12,87%) e reversão de pleitos de 2018; CDE mensal homologada em R$ 134.725,70. Relator destaca peso dos tributos (cerca de 33%) e agenda de desoneração tarifária.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:53:15",
+     "justificativa": "melhora frente ao reajuste de ~29% do ano anterior; empresa pequena; tributos pesam na conta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:06:46",
+   "processo": "48500.002105/2019-15",
+   "interessado": "Energisa Paraíba Distribuidora de Energia (EPB)",
+   "assunto": "Reajuste tarifário anual 2019 da EPB, vigência a partir de 28/08/2019, efeito médio -4,27%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio -4,27% (alta tensão -4,40%; baixa tensão -4,23%); queda por encargos setoriais (-5,19%) e retirada de financeiros anteriores (-6,99%), parcialmente compensada por parcela B (+1,84%) e financeiros (+5,32%). Relator reflete sobre volatilidade das tarifas, mantidas dentro de IGP-M/IPCA.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:21:40",
+     "justificativa": "tarifa volta a patamar negativo após alta de ~15% no ano anterior, dentro dos índices inflacionários",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:21:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:21:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:21:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:22:07",
+   "processo": "48500.002860/2019-??",
+   "interessado": "CCEE; agentes do mercado",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, duas partes: 30 dias de 21/08 a 19/09/2019 e 15 dias de 20/09 a 04/10/2019) sobre aprimoramento das Regras de Comercialização versão 2020 e minuta de resolução normativa",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "comercialização (CCEE, PLD, contratos)",
+    "leilões (geração, transmissão, reserva de capacidade)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura audiência pública para propostas da CCEE e da SRM: compatibilização com preço horário, leilão de energia de reserva e existente, MVE, consumo líquido de autoprodutores nos encargos, ajustes de receita de energia de reserva; determina à CCEE proposta sobre caderno de encargos.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "1:22:28",
+     "justificativa": "apenas abertura de audiência pública; ajustes também na resolução normativa, por isso ambas em audiência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:35:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:35:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:35:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:37:02",
+   "processo": "48500.000062/2018-?? (e 2017)",
+   "interessado": "Geradores eólicos; CCEE; ONS",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 22/08 a 20/10/2019) sobre regulamento de procedimentos e critérios para apuração da restrição de operação por constrained-off de usinas eólicas, com suspensão de ressarcimentos a partir de agosto/2019",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre AP de 60 dias; propõe ressarcimento por restrições elétricas acima de gatilho de 14 h/mês e por razões energéticas, valoração pelo PLD, regras por tipo de contrato; determina à CCEE suspender ressarcimentos apurados a partir de agosto de 2019 e à SRG enviar mensalmente os pedidos. Relator registra que a AIR deveria ter a alternativa zero (não regulamentar).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:48:20",
+     "justificativa": "tema a ser discutido na AP; prazo ampliado a 60 dias; alternativa de não regulamentar não deve ser descartada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:54:48",
+   "processo": "48500.003040/2017-?? e outros",
+   "interessado": "Centrais Eólicas Umburanas 2, 3, 4 e 5 (Renova Energia)",
+   "assunto": "Recurso administrativo com pedido de medida cautelar contra cobrança de multa de mora pela SAF sobre multa de 1% do investimento declarado (revogação das outorgas das eólicas Umburanas)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (recurso conhecido e provido)",
+   "resumo_voto": "Recurso conhecido e provido para afastar a multa de mora: pagamento feito dentro do prazo fixado pela SAF; demora de cerca de 6 meses por falha procedimental da administração; Parecer PFE/ANEEL 402 e parecer da PGF afastam mora; Código Civil (mora exige fato imputável ao devedor).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (conhece e dá provimento)",
+     "ts": "2:02:10",
+     "justificativa": "não há mora: pagou no prazo dado pela cobrança; atraso imputável à administração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:14",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "Item 6 da pauta (não identificado na transcrição)",
+   "relator": "não identificado",
+   "motivo": "retirado da pauta, sem motivo declarado",
+   "ts": "0:52:52"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e datas truncados ou distorcidos (campos com ?? incompletos); valores podem estar errados.",
+  "Lista de presentes inferida: os quatro diretores identificados por relatoria/falas (Sandoval Feitosa, Efrain Cruz, Elisa Bastos, Rodrigo Limp). André Pepitone é citado como Diretor-Geral na parte inicial do item 1, mas não se ouve sua participação nesta parte; presença não confirmada e por isso não registrado voto dele. Ricardo Tili aparece só no rótulo de falante inferido e não foi considerado.",
+  "Votos de seguidores baseados na proclamação; falas individuais de acompanhamento sem nome (itens 2, 3, 4, 5) atribuídas com confiança baixa; ts aproximados.",
+  "Item 1: dois diretores elogiam o relator e a SRM (ts 0:33:44 e 0:34:47), sem identificação do falante; não atribuídos.",
+  "Item 6: troca de comentários sobre processos distribuídos e ressarcimento (ts ~1:53) com falante não identificado.",
+  "No item 1 a proclamação diz deferir a cautelar, mas o voto lido a indefere por perda de objeto; registrado conforme o voto do relator (provável erro de legenda).",
+  "ts do voto do relator nos itens 4, 6 e 7 aproximados (posição do dispositivo)."
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "meta": {
+  "video_id": "Oh3yn6wlrIg",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md errados em partes); ts em segundos do vídeo; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12",
+  "data": "2020-04-14",
+  "formato": "videoconferência (4ª reunião virtual, pandemia COVID-19)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Júlio César Rezende Ferraz",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo com cinco diretores.",
+   "Pauta de 25 itens; bloco dos itens 7 a 25 aprovado em votação única; itens retirados por pedido de sustentação oral/preferência (números lidos pela legenda: 12, 13 e 19, e talvez 4/6); item 10 destacado.",
+   "Três reajustes tarifários (Coelba, Enel Ceará, Cosern) com suspensão das tarifas até 30/06/2020 e diferimento de recolhimento da CDE, na linha da semana anterior.",
+   "No encerramento (~2h19), diretores comentam a crise da COVID-19 e medidas para o fluxo de caixa das distribuidoras: Sandoval fala em uso de fundos de P&D, eficiência energética e taxa de fiscalização (~R$ 23 bi em cinco anos); Efrain Cruz, Elisa Bastos e Pepitone destacam respeito aos contratos, modicidade tarifária e atuação colegiada."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:02",
+   "processo": "itens 7 a 25 da pauta (bloco, menos os destacados/retirados)",
+   "interessado": "diversos (itens do bloco não detalhados na transcrição)",
+   "assunto": "Aprovação em bloco dos itens remanescentes da pauta (bloco dos itens 7 a 25), sem destaque",
+   "tema": [
+    "bloco de itens de pauta"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (todos os cinco diretores)",
+   "resumo_voto": "Secretário-geral colhe os votos pela aprovação do bloco; proclamação por unanimidade dos cinco diretores. Itens individuais não são lidos.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:05:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:05:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:05:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:05:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:05:34",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:06:04",
+   "processo": "48500.005978/2016-29",
+   "interessado": "Cabeça de Pato Geração de Energia SPE Ltda. (CGH Cabeça de Pato, 1,6 MW; garantia física 1,09 MWmédios, Portaria MME 91/2017)",
+   "assunto": "Recurso administrativo contra o Despacho SRG 2540/2018, que indeferiu pedido de reconhecimento de erro de procedimento da CCEE no cadastro da garantia física das unidades geradoras UG1 e UG2",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE)",
+    "outorgas de geração (hidrelétrica/CGH)"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "conhecido e desprovido por unanimidade; sustentação oral e manifestação da Procuradoria Federal (opinou pelo não conhecimento e, sucessivamente, desprovimento)",
+   "resumo_voto": "Recebe a petição como autônoma (RN 273/2007, fungibilidade, economia processual) apesar do parecer da PF; no mérito, a portaria MME vigora desde a publicação (11/04/2017) e a CCEE aplicou corretamente o item 36.2 do caderno de medição contábil (RN 719/2016), ponderando a garantia física pela capacidade em operação comercial; nega provimento ao recurso e mantém o Despacho SRG 2540/2018.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:33:05",
+     "confianca": "alta",
+     "justificativa": "petição recebida como autônoma por fungibilidade e economia processual; CCEE correta ao ponderar garantia física pela capacidade em operação comercial; portaria vale desde 11/04/2017"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:33:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:33:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:33:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:33:37",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "advogado da recorrente (vídeo); Procuradoria Federal junto à ANEEL se manifestou"
+  },
+  {
+   "id": "11",
+   "ts": "0:34:30",
+   "processo": "48500.007038/2019 (sufixo não ouvido)",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (Coelba; ~6,1 mi UCs; BA)",
+   "assunto": "Reajuste tarifário anual 2020 da Coelba, vigência a partir de 22/04/2020, com efeito médio de 5% (5,38% AT; 4,85% BT) e suspensão da aplicação das tarifas até 30/06/2020 com diferimento de recolhimento da CDE",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "diferimento tarifário (COVID-19)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste; novas tarifas só a partir de 01/07/2020; reconhece direito da Coelba a R$ 77,9 mi (valor lido, legenda incerta); autoriza dedução de ~R$ 25,97 mi mensais (leitura incerta) na CDE em maio-julho; recomposição em até 5 parcelas a partir de agosto/2020, corrigidas pela Selic.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:58:49",
+     "confianca": "alta",
+     "justificativa": "reajuste de 5%; sensibilidade ao pedido de diferimento da empresa em meio à pandemia; Procuradoria opinou pela aprovação"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:02:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:02:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:02:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação; proclama)",
+     "ts": "1:02:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:05:22",
+   "processo": "48500.007039/2019-61",
+   "interessado": "Companhia Energética do Ceará (Enel Ceará; ~3,7 mi UCs; CE)",
+   "assunto": "Reajuste tarifário anual 2020 da Enel Ceará, efeito médio de 3,94% (3,78% AT; 4,00% BT), tarifas só vigentes a partir de 01/07/2020, com diferimento de recolhimento da CDE (≈R$ 12 mi mensais)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "diferimento tarifário (COVID-19)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade; retificação do dispositivo (competência agosto/2020) feita pela relatora após o item seguinte",
+   "resumo_voto": "Homologa reajuste; suspende aplicação até 30/06/2020; reconhece direito de ~R$ 36,2 mi; dedução na CDE maio-julho; recomposição em 5 parcelas (a relatora retificou depois o texto: competência inicial agosto/2020, e não julho).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:19:43",
+     "confianca": "alta",
+     "justificativa": "mesmo modelo do item da Coelba; efeito 3,94%"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:19:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:20:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:20:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação; proclama)",
+     "ts": "1:20:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:22:10",
+   "processo": "48500.007043/2019-20",
+   "interessado": "Companhia Energética do Rio Grande do Norte (Cosern; ~1,5 mi UCs; RN)",
+   "assunto": "Reajuste tarifário anual 2020 da Cosern, efeito médio de 3,40% (4,72% AT; 2,92% BT), tarifas só vigentes a partir de 01/07/2020, com diferimento de recolhimento da CDE (~R$ 4,7 mi mensais)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "diferimento tarifário (COVID-19)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste; suspende aplicação até 30/06/2020; reconhece direito de ~R$ 14,06 mi; recomposição em até 5 parcelas a partir de agosto/2020 com Selic. Relatora leu 22/04/2019 por engano em um ponto (legenda).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:36:19",
+     "confianca": "alta",
+     "justificativa": "mesmo modelo dos itens anteriores"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação; proclama)",
+     "ts": "1:36:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:39:13",
+   "processo": "48500.000636/2019-65; 48500.000890/2019-33; 48500.000891/2019-16",
+   "interessado": "SRT e demais superintendências (SRM, SGT, SFF, SCT)",
+   "assunto": "Abertura da primeira fase de consulta pública (intercâmbio documental, 16/04 a 15/06/2020, 60 dias) sobre o relatório de AIR de aprimoramento da regulamentação de reforços e melhorias em instalações de transmissão (RN 443/2011), e cancelamento da determinação da Deliberação do item 10 da 5ª RPD de 2014 (consulta de cinco dias úteis ao interessado sobre a nota técnica)",
+   "tema": [
+    "regulação normativa (AIR, consulta pública)",
+    "transmissão (RAP, reforços e melhorias)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Alternativa recomendada: recálculo condicional da RAP após entrada em operação para reforços de grande porte e plano indicativo anual com pagamento da receita após implantação para melhorias de grande porte; revoga a etapa de consulta prévia às transmissoras por ter aumentado o prazo (média 393 dias) e os recursos. Rito: competência de autorização segue com a Diretoria. Apresentação técnica da SRT (Rafael).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova abertura da CP e cancela a determinação de 2014",
+     "ts": "1:44:53",
+     "confianca": "alta",
+     "justificativa": "ineficiência do rito atual: atraso dos reforços e aumento de recursos; competência da Diretoria preservada; relata que o diretor Limp, conhecedor do tema, já havia deixado a agência"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:15:42",
+     "confianca": "baixa",
+     "justificativa": "parabeniza a SRT e o relator; eficiência dos processos de reforços e melhorias"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "2:16:20",
+     "confianca": "baixa",
+     "justificativa": "elogia o trabalho e o relator"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:17:10",
+     "confianca": "baixa",
+     "justificativa": "parabeniza voto e equipe sob coordenação da SRT; concorda com o dispositivo"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:18:01",
+     "confianca": "media",
+     "justificativa": "elogia a equipe da SRT e o relator; proclama"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "12/13/19 (numeração incerta)",
+   "motivo": "retirados do bloco por pedido de sustentação oral ou preferência; não deliberados nesta parte da transcrição"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores em reais e nomes têm erros; processo do item 11 incompleto (lido 48500.007038/2019).",
+  "Identidade do Diretor-Geral: a fala trata André como Diretor-Geral e Sandoval como relator; o rótulo {Sandoval Feitosa, Ricardo Tili} do .md é inferência errada (Tili não está na reunião).",
+  "Votos de quem só acompanha: atribuição por nome é inferida pela ordem usual (relator, demais, Diretor-Geral por último) e pela proclamação; confiança media/baixa; nomes na sequência não ditos.",
+  "Itens do bloco (7-25) não foram lidos e ficam sem detalhe.",
+  "Itens 11 a 13: pagamento CDE e valores aproximados pela legenda.",
+  "A mesma relatora corrigiu o item 12 (competência agosto/2020) após o item 13.",
+  "Item 14: numeração do item da pauta lida como 5/cinco na legenda; usamos 14 como sequência interna."
+ ]
+}

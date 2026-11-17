@@ -1,0 +1,341 @@
+{
+ "meta": {
+  "video_id": "V73Dgae3ScM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "26",
+  "data": "2021-07-20",
+  "formato": "sessão virtual",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "André Pepitone",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)"
+  ],
+  "observacoes": [
+   "Quórum inicial de três diretores; Efrain Cruz entrou aos 0:08:34.",
+   "Pauta de 27 itens; itens 13 e 17 retirados; bloco aprovado sem destaque; itens 8 e 10 e 3 e 4 com sustentação oral; 6 itens avulsos mais o bloco; dois pedidos de vista (itens 4 e 10).",
+   "Secretário-geral: Ricardo Marques Santana da Silva (não é diretor)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:09:11",
+   "processo": "",
+   "interessado": "diversos (itens 5 a 27 da pauta, exceto 8, 10, 13 e 17)",
+   "assunto": "Votação em bloco dos itens da pauta sem destaque (itens 5 a 27, exceto os destacados 8 e 10 e os retirados 13 e 17); processos individuais não identificados na transcrição",
+   "tema": [
+    "votação em bloco",
+    "pauta"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Secretário-geral informou pauta de 27 itens; itens 13 e 17 retirados; sustentação oral e preferência para 3, 4, 8 e 10. Bloco com votos disponíveis desde a quinta-feira anterior; sem observações, aprovado.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:10:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:10:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:10:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama unanimidade dos votantes",
+     "ts": "0:10:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:29",
+   "processo": "48500.000031/2021-99",
+   "interessado": "Superintendência/Secretaria Executiva de Leilões (ANEEL)",
+   "assunto": "Abertura de consulta pública (22/07 a 06/09/2021, por intercâmbio documental) para aprimorar a minuta do edital e anexos dos Leilões de Energia Existente A-1 e A-2 de 2021 (Leilões nº 9 e 10/2021), realização prevista em 3/12/2021",
+   "tema": [
+    "leilões (geração, energia existente)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relatora votou pela instauração da consulta pública; novidade em relação a 2019 é a participação de térmicas a carvão mineral nacional e gás de processo no A-2. Procuradoria opinou pela abertura. Sem sustentação oral; apresentação técnica de Eduardo Barreto (Secretaria Executiva de Leilões).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, vota pela instauração da consulta pública",
+     "ts": "0:19:00",
+     "confianca": "alta",
+     "justificativa": "portaria MME 14/2021 determina os leilões; minuta reproduz a sistemática de 2019; consulta de 46 dias"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:21:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:21:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:21:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:21:54",
+   "processo": "48500.005017/2020-09",
+   "interessado": "Departamento Municipal de Energia de Ijuí (DEMEI), RS",
+   "assunto": "Reajuste tarifário anual de 2021 do DEMEI: homologação do índice (efeito médio 9,58%; 15% alta tensão e 8,26% baixa tensão), vigência a partir de 22/07/2021",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, reajuste anual)",
+    "CDE e encargos setoriais (Conta-Covid)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relator dispensou a leitura da fundamentação por causa da apresentação da SGT (Gustavo Godoy); destacou diálogo com a empresa e o recálculo do Fator X (-4,2%) devolvido ao consumidor, com a concessionária aceitando não diferir essa parcela. Sem sustentação oral. Colegas elogiaram o papel dos conselhos de consumidores.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova homologação",
+     "ts": "0:41:00",
+     "confianca": "alta",
+     "justificativa": "reajuste calculado conforme contrato; não diferir o efeito do Fator X, que é recurso do consumidor"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:47:10",
+   "processo": "48500.005039/2020-60",
+   "interessado": "Nova Palma Energia Ltda., RS",
+   "assunto": "Reajuste tarifário anual de 2021 da Nova Palma Energia (efeito médio 9,55%; 14,19% alta tensão e 8,19% baixa tensão), vigência a partir de 22/07/2021",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, reajuste anual)",
+    "CDE e encargos setoriais",
+    "geração distribuída (MMGD)",
+    "subsídios"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relatora dispensou leitura do relatório; aplicadas reversão da Conta-Covid (-6,69%), créditos de PIS/Cofins, diferimento do saldo de Itaipu e diferimento proposto pela empresa na parcela B. Sustentação oral de Marisa Bozzetto (presidente da Nova Palma), que tratou de MMGD sem regulamentação e subsídios; Procuradoria disse que o tema foge ao escopo do processo.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova homologação",
+     "ts": "0:58:50",
+     "confianca": "alta",
+     "justificativa": "adotadas todas as medidas possíveis para atenuar o índice; alerta para peso de subsídios (CDE) e tributos na tarifa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:04:30",
+   "processo": "48500.002477/2020-36",
+   "interessado": "Usinas hidrelétricas em regime de cotas (Lei 12.783/2013); pedido de sustentação oral do Conselho de Consumidores da Copel",
+   "assunto": "Receita Anual de Geração (RAG) das usinas hidrelétricas em regime de cotas, ciclo 07/2021 a 06/2022 (RAG de R$ 9,75 bilhões, +7,61%; tarifa do regime de cotas de R$ 114,74 para R$ 122,65/MWh)",
+   "tema": [
+    "geração hidrelétrica (regime de cotas)",
+    "tarifas e revisão tarifária (RAG)",
+    "outorgas de geração"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relator propôs indeferir a sustentação oral do Conselho de Consumidores da Copel (não é parte do processo; sem objeção do colegiado). Apresentação técnica de André Neves (SGT). Financeiros incluídos: ajuste de EUSD, retroativos de São Simão, Ok de geração (segunda parcela, antecipando a terceira da Cesp/C3), usina Canastra, consulta pública 2021 sobre Pery.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova homologação",
+     "ts": "1:23:00",
+     "confianca": "alta",
+     "justificativa": "processo ordinário e anual; variação da RAG ficou próxima do IPCA"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:31:28",
+   "processo": "48500.001093/2019-20",
+   "interessado": "Interligação Elétrica Norte e Nordeste S.A. (IENNE); linha de transmissão 500 kV Ribeiro Gonçalves – São João do Piauí C2",
+   "assunto": "Recurso administrativo da IENNE contra despacho SRT 2.719/2019 que negou isenção da Parcela Variável por Indisponibilidade (PVI, cerca de R$ 4 milhões) pelo desligamento da linha em 26/07/2018 (queda da torre 472, alegada sabotagem)",
+   "tema": [
+    "transmissão (PVI, indisponibilidade)",
+    "recursos administrativos",
+    "caso fortuito e força maior"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Efrain Cruz); julgamento suspenso",
+   "resumo_voto": "Sustentação oral de Rafael Janiques (representante da IENNE). Procuradoria (parecer 308) opinou pelo provimento; SRT e área de fiscalização, pelo desprovimento. Relatora votou por conhecer e dar provimento, reconhecendo sabotagem como caso fortuito/força maior e determinando ao ONS apurar a indisponibilidade nos termos do art. 16 da REN 729. Na discussão, diretor (aparentemente o Diretor-Geral) sugeriu encaminhar os autos ao inquérito policial. Efrain Cruz pediu vista para analisar em conjunto com outro processo sobre o mesmo tema.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e dá provimento",
+     "ts": "2:14:57",
+     "confianca": "alta",
+     "justificativa": "Procuradoria considerou verossímil a sabotagem (maçarico artesanal, mesma data do leilão da Cepisa); prova diabólica; período de recomposição ficou dentro da franquia do art. 16 da REN 729"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "2:20:47",
+     "confianca": "alta",
+     "justificativa": "tem outro processo sobre a mesma matéria e quer analisar em conjunto"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "2:20:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:20:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:21:02",
+   "processo": "48500.000614/2021-10",
+   "interessado": "RGE Sul Distribuidora de Energia (grupo CPFL), RS",
+   "assunto": "Requerimento da RGE Sul de franquia adicional no limite do DEC para o plano de substituição massiva de postes de madeira (2021 a 2025), para fins de caducidade (REN 896)",
+   "tema": [
+    "distribuição (qualidade, DEC/FEC)",
+    "fiscalização e sanções (caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Hélvio Guerra); julgamento suspenso",
+   "resumo_voto": "Sustentação oral de André Luiz Gomes da Silva (RGE/CPFL). Procuradoria sem parecer; matéria discricionária e técnico-regulatória. Relatora votou por conhecer e negar provimento: a empresa já cumpre DEC e FEC, flexibilizar seria sinal regulatório inadequado e problema de isonomia; substituição é decisão gerencial. Hélvio e Efrain mostraram sensibilidade ao mérito (substituição massiva melhora a qualidade) mas discordaram da forma ou queriam refletir; Hélvio pediu vista. O Diretor-Geral saiu da sala por um minuto e Efrain presidiu brevemente.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "2:38:34",
+     "confianca": "alta",
+     "justificativa": "empresa cumpre DEC e FEC; flexibilização antecipada daria sinal regulatório inadequado, afetaria isonomia e adiaria a vigência da REN 896; regulação por incentivo foca no resultado"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "2:55:19",
+     "confianca": "alta",
+     "justificativa": "continua com dúvidas; concorda que a forma não é a mais adequada, mas tem sensibilidade para o mérito"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "2:55:19",
+     "confianca": "media",
+     "justificativa": "na discussão defendeu refletir sobre incentivos para a substituição massiva de postes (atribuição por contexto)"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:55:19",
+     "confianca": "media",
+     "justificativa": "na discussão, quem fala sobre a forma inadequada de antecipar flexibilização é provavelmente o DG ou a relatora (incerto)"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "13",
+   "assunto": "retirado de pauta (processo não identificado)"
+  },
+  {
+   "id": "17",
+   "assunto": "retirado de pauta (processo não identificado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática e sem marcadores de falante: nos itens unânimes a atribuição de cada acompanho a Hélvio, Elisa, Efrain e André segue a proclamação e a ordem usual; confiança baixa para Hélvio, Elisa e Efrain, media para o DG.",
+  "Itens do bloco (5 a 27) não identificados individualmente; Efrain Cruz pode ter votado o bloco ou não (entrou aos 0:08:34).",
+  "Nos itens 4 e 10, os votos de quem não pediu vista foram classificados como não votou (vista) por não haver voto expresso; as falas de discussão não têm falante identificado.",
+  "Os minutos dos votos dos relatores são aproximados; números e nomes de processos podem estar errados na legenda (ex.: números de processo reconstruídos).",
+  "Nome Ricardo Tili sugerido pelo marcador de falantes é o secretário-geral (Ricardo Marques), não diretor."
+ ]
+}

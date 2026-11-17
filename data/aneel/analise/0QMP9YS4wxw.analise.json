@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "0QMP9YS4wxw", "fonte": "legenda automática do YouTube; falantes não identificados; vídeo é apenas o bloco de itens 11 a 26 (27 retirado)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "6", "data": "2018-03-06", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Quórum de três diretores declarado na abertura; nomes não são ditos no trecho.", "Aprovada a ata da 5ª reunião.", "Anunciados como retirados de pauta os itens 9, 10 (a legenda diz 169 10) e 27; ordem: bloco 11 a 26, depois itens 1, 2, 4 e 7."]
+  },
+  "itens": [
+    {
+      "id": "11-26", "ts": "0:01:10",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de deliberação dos itens 11 a 26 da pauta (conteúdo dos processos não é dito no trecho)",
+      "tema": ["bloco de itens"],
+      "relator": "não identificado",
+      "resultado": "aprovado em bloco",
+      "unanime": true,
+      "resumo_voto": "Sem pedido de destaque, o bloco foi submetido à votação e aprovado; os três diretores votaram pela aprovação do bloco.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:30", "justificativa": "voto pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:35", "justificativa": "também voto pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:40", "justificativa": "vota pela aprovação dos requerimentos", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "27", "motivo": "retirado de pauta antes da sessão"}],
+  "limites_da_analise": ["Trecho muito curto (≈2 min de conteúdo); nenhum nome de diretor é dito, por isso os votos ficam como não identificado.", "Minutos dos votos aproximados.", "Itens 1, 2, 4, 7 e demais seguem em outros vídeos."]
+}

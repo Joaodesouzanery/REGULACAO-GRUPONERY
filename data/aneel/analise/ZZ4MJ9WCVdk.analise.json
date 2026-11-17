@@ -1,0 +1,329 @@
+{
+ "meta": {
+  "video_id": "ZZ4MJ9WCVdk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "44",
+  "data": "2018-11-27",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Rodrigo Limp"
+  ],
+  "observacoes": [
+   "Abertura às 0:00:14 com quórum de três diretores; quinta cadeira vaga (Elisa Bastos aprovada na CI do Senado no mesmo dia; plenário votava durante a sessão).",
+   "Pauta de 27 itens; retirados da pauta os itens 4, 13 e 18; bloco dos itens 8 a 27 aprovado por unanimidade; sustentações orais nos itens 2, 3 e 6.",
+   "Item 7 (COELBA) retirado pelo relator para diligência da Procuradoria; item 6 foi interrompido por problema técnico e retomado.",
+   "Encerrada às 3:36:42 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:20",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco dos itens 8 a 27 da pauta (retirados do bloco os itens 13 e 18)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado integralmente por unanimidade, sem itens destacados.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:04:30",
+     "justificativa": "Submeteu o bloco à votação; todos votaram pela aprovação dos itens remanescentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:30",
+     "justificativa": "Voto pela aprovação do bloco (fala individual sem nome na legenda).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:30",
+     "justificativa": "Voto pela aprovação do bloco (fala individual sem nome na legenda).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:05:00",
+   "processo": "48500.003698/2018-48",
+   "interessado": "Companhia Energética do Piauí (CEPISA)",
+   "assunto": "Reajuste tarifário anual de 2018 da CEPISA, a vigorar a partir de 2 de dezembro de 2018 (efeito médio de 12,64%: 13,61% alta tensão e 12,40% baixa tensão); sustentação oral do conselho de consumidores (Diego Veríssimo Pedrosa)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade",
+    "leilões (privatização CEPISA/Equatorial)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Rodrigo Limp (voto lido por Sandoval Feitosa)",
+   "resultado": "aprovado por unanimidade (homologação do reajuste de 12,64%)",
+   "resumo_voto": "Homologado o reajuste médio de 12,64% (sem os efeitos do leilão seria 20,64%; desconto de cerca de 8 pontos pela renúncia da Equatorial à flexibilização de custos operacionais e perdas não técnicas); fixadas TUSD/TE, receita das DIT de uso exclusivo, ESS/EER e CDE mensal de R$ 6,87 milhões.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "voto deixado (lido por Sandoval Feitosa)",
+     "ts": "0:29:00",
+     "justificativa": "Relator; voto pela homologação do reajuste de 12,64%; voto lido por Sandoval por ausência do relator na sessão.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (leu o voto)",
+     "ts": "0:29:00",
+     "justificativa": "Leu o voto do relator; o debate reforçou a CVA energia (risco hidrológico/GSF) e o diferimento de R$ 123 milhões de 2017 como causas do índice.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:44:05",
+     "justificativa": "Elogiou a participação do conselho de consumidores; destacou ICMS de cerca de 25% e que a tarifa da CEPISA desde 2008 ficou abaixo de IGP-M e IPCA.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:44:10",
+     "justificativa": "Diretor-Geral; destacou que parcelas A e B dariam reajuste de -0,62% e que o peso vem dos financeiros (CVA energia); proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:44:20",
+   "processo": "48500.004842/2018-63 e 48500.004858/2017-95",
+   "interessado": "Eletrobras Eletronuclear e Enel Distribuição Rio",
+   "assunto": "Tratamento tarifário do contrato de uso do sistema de distribuição (CUSD) entre Eletronuclear e Enel Rio nos pontos de conexão da SE Angra (13,8 kV e 138 kV); cobrança retroativa de cerca de R$ 91 milhões; sustentação oral de Bruno Vidal (Enel Rio)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade",
+    "CDE e encargos setoriais",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplicam-se à Eletronuclear as tarifas de autoprodução da Enel Rio (sem CDE/Proinfa); retroativo de R$ 90,83 milhões (19/04/2014 a 11/07/2018, art. 116 da REN 414), reconhecido na receita de venda da Eletronuclear em 2019, parcelável em até 12 vezes, e revertido como componente financeiro negativo na tarifa da Enel Rio; medida cautelar indeferida por perda de objeto.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:49:00",
+     "justificativa": "Relator; neutralidade para ambas as partes: o ganho de mercado só é reconhecido a partir da assinatura do contrato, e o retroativo vai à modicidade tarifária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:15:30",
+     "justificativa": "Acompanhou o relator (fala individual sem nome na legenda).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:15:35",
+     "justificativa": "Proclamou a decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:16:06",
+   "processo": "48500.003858/2016-97",
+   "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista)",
+   "assunto": "Recurso administrativo contra o Despacho SRT 401/2018 que manteve a parcela variável por indisponibilidade (PVI) de cerca de R$ 2,87 milhões pela queda de torres da LT 440 kV Ilha Solteira-Bauru após abalroamento por barcaça no rio Tietê (2013); sustentação oral de Rodrigo Machado (ISA CTEEP); parecer oral da Procuradoria",
+   "tema": [
+    "recursos administrativos",
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "Efrain Cruz (identificado pela legenda como «da Cruz»)",
+   "resultado": "recurso conhecido e desprovido por unanimidade (mantida a PVI)",
+   "resumo_voto": "Afastada a preliminar de prevenção; franquias da REN 270/2007 contam do evento causador (abalroamento), não do fim do impedimento; a transmissora não provou ficar impedida de atuar nos nove dias; queda de torre é fortuito interno; mantida a PVI de R$ 2.870.062,57. Item iniciado às 1:16, interrompido por problema técnico (inversão de ordem para o item 7) e retomado às 2:19.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega provimento",
+     "ts": "3:09:54",
+     "justificativa": "Relator; conheceu do recurso e negou provimento: a franquia conta do abalroamento e a CTEEP não demonstrou impedimento; precedentes citados (Mariana/PCH Bicas não guarda relação com o caso).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:10:36",
+     "justificativa": "Registrou que a fundamentação do relator é densa e profunda e se associou a ela (atribuição por ordem de votação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:10:45",
+     "justificativa": "Proclamou o recurso conhecido e desprovido por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:20:11",
+   "processo": "48500.002884/2018-60",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (COELBA)",
+   "assunto": "Requerimento da COELBA para chamada pública de energia na modalidade geração distribuída (até 15 MWmed; UTE Sykué, biomassa de capim-elefante, SE Rio Grande 2, região oeste da Bahia) ao amparo do Decreto 5.163/2004",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "comercialização (CCEE, PLD, contratos)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator para diligência da Procuradoria (retorno previsto em cerca de uma semana)",
+   "resumo_voto": "Voto do relator autorizava chamada pública por 2 anos (pedido era 5) com fundamentação técnica obrigatória e determinava fiscalização da COELBA e acompanhamento do reforço da SE Rio Grande 2. Após dúvidas de Pepitone e Efrain sobre competência da ANEEL diante do Decreto 5.163 e preço-teto, o relator retirou o item para ouvir a Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator; retira de pauta",
+     "ts": "2:18:20",
+     "justificativa": "Relator; defendeu que o caso é singular (necessidade elétrica pontual, não lastro) e, diante da dúvida jurídica, retirou o item para nova análise da Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "questiona o mérito (não votou)",
+     "ts": "1:43:30",
+     "justificativa": "Questionou se aprovar fonte renovável acima do mix valida a política pública e se há contraditório e viabilidade do prazo de dois anos; pediu parecer da Procuradoria.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "questiona a competência (não votou)",
+     "ts": "1:50:00",
+     "justificativa": "Perguntou se cabe à ANEEL limitar o chamamento permitido pelo Decreto 5.163 (até 10% do mercado); disse não entrar no mérito, e sim na formalidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:11:00",
+   "processo": "48500.003062/2017-15",
+   "interessado": "ONS / SRG",
+   "assunto": "Abertura de audiência pública por intercâmbio documental (29/11 a 13/12/2018) para revisão dos submódulos 5.5 e 5.6 dos Procedimentos de Rede do ONS (novos patamares de carga)",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (audiência pública instaurada)",
+   "resumo_voto": "Instaurada audiência pública de 15 dias, por intercâmbio documental, para incorporar nos Procedimentos de Rede os novos patamares de carga aprovados pela CPAMP, a valer em janeiro de 2019.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:21:30",
+     "justificativa": "Relator; voto por instaurar a audiência pública conforme a Nota Técnica SRG 121/2018.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:21:43",
+     "justificativa": "Acompanhou o relator (fala individual sem nome na legenda).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:21:48",
+     "justificativa": "Proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "3:22:52",
+   "processo": "48500.004975/2018-30",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA)",
+   "assunto": "Reajuste tarifário anual de 2018 da CEA (aniversário em 30/11/2018); relator propôs medida acautelatória mantendo a tarifa atual por falta de tempo de análise (estimativa preliminar de cerca de 4,60%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz (atribuição por contexto, confiança media)",
+   "resultado": "aprovada por unanimidade medida acautelatória: mantida a tarifa atual da CEA até posterior decisão da diretoria",
+   "resumo_voto": "Nota técnica SGT 253/2018 só consolidada em 21/11/2018; sem tempo hábil para a análise, o relator concedeu cautela (arts. 29 e 45 da Lei 9.784/99) mantendo a tarifa vigente e comprometeu-se a trazer o processo na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (medida acautelatória)",
+     "ts": "3:30:30",
+     "justificativa": "Relator; disse não ser possível analisar o processo na véspera, que o 4,60% é só indicativo e que pretende trazer o caso na próxima reunião.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:36:10",
+     "justificativa": "Perguntou se já houve prorrogação de tarifas antes e pediu data de fechamento para não deixar a decisão em aberto.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:36:20",
+     "justificativa": "Disse que a data de aniversário é 31 e que o relator deve retomar o assunto com urgência; proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta (motivo não dito)"
+  },
+  {
+   "id": "13",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "18",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "7",
+   "motivo": "retirado pelo relator após debate, para diligência da Procuradoria"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda automática rotula a fala inicial como «Sandoval Feitosa, Ricardo Tili»; Ricardo Tili não integrava a diretoria em 2018. Presidiu a sessão André Pepitone (Diretor-Geral, confirmado pelo item 6 e pelas demais reuniões do período).",
+  "Presença inferida: quórum de três, voto do item 2 lido por Sandoval em nome de Rodrigo Limp (relator) e relatorias de Sandoval e Efrain Cruz; Efrain Cruz parece ter participado com falha técnica na transmissão. A ausência de Limp é inferência.",
+  "A legenda chama Efrain Cruz de «Franklin/da Cruz»; atribuição por contexto.",
+  "Falas de quem apenas acompanha não têm nome; votos atribuídos por proclamação e ordem de votação, confiança media. Debates dos itens 2, 7 e 11 atribuídos a diretores por contexto (confiança media/baixa).",
+  "Processos do bloco (itens 8 a 27) não foram detalhados na sessão. Números de processo transcritos da legenda (ex.: 48500.003698/2018-48) podem estar errados.",
+  "Relator do item 11 (CEA) não é nomeado na legenda; atribuído a Efrain Cruz por contexto (fala sobre a sabatina e resposta a Sandoval).",
+  "Minutos de votos de seguidores e de falas no debate são aproximados."
+ ]
+}

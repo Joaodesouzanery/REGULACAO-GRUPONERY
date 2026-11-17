@@ -1,0 +1,376 @@
+{
+ "meta": {
+  "video_id": "65kJfi-By-Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "19",
+  "data": "2019-06-04",
+  "formato": "presencial (plenário)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (missão a serviço)"
+  ],
+  "observacoes": [
+   "19ª Reunião Pública Ordinária de 2019, Parte 1 de 2 (termina com pausa para almoço às 3:09:28; retomada às 14h na parte 2).",
+   "Pauta de 33 itens: bloco de itens sem destaque aprovado por unanimidade; retirados de pauta os itens 5, 6 e 7; ordem de julgamento: 11, 2, 9, 10, 8, 1, 3 e 4.",
+   "Presença do deputado Neri Geller e do secretário-geral da ANA no plenário; ata da 18ª RPO e da 4ª RPE extraordinária aprovadas."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:05:40",
+   "processo": "",
+   "interessado": "vários (itens do bloco, 12 a 33 da pauta)",
+   "assunto": "Julgamento em bloco dos itens da pauta sem destaque, sem pedido de sustentação oral e sem retirada; votos disponibilizados em ato desde a quinta-feira anterior.",
+   "tema": [
+    "institucional/rito de pauta"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "unanime": true,
+   "resumo_voto": "O Diretor-Geral submeteu o bloco, os diretores votaram pela aprovação e ele proclamou a unanimidade. Itens 5, 6 e 7 retirados de pauta; sustentações orais nos itens 2, 8, 9, 10 e 11; ordem de julgamento: bloco, 11, 2, 9, 10, 8, 1, 3 e 4.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:06:36",
+     "justificativa": "Proclamou que a diretoria aprovou o bloco por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:36",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:36",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:06:36",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:07:17",
+   "processo": "48500.001455/2018-75",
+   "interessado": "Energisa Mato Grosso",
+   "assunto": "Enquadramento na sub-rogação da CCC do projeto de interligação ao SIN da localidade de Guariba (Colniza/MT): subestação, LD 34,5 kV de cerca de 150 km e LT 138 kV Aripuanã-Colniza; montante de R$ 57.794.874,38 (data-base dez/2018).",
+   "tema": [
+    "CDE e encargos setoriais (CCC, sub-rogação)",
+    "transmissão e distribuição (interligação de sistema isolado)",
+    "tarifas (desoneração tarifária)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: resolução autorizativa de enquadramento na sub-rogação da CCC",
+   "unanime": true,
+   "resumo_voto": "Limp aprovou o enquadramento com R$ 57,79 milhões (96,3% do orçado pela distribuidora, menor valor por item entre orçamento da Energisa e banco de preços da SFF). A alternativa em 34,5 kV foi considerada de menor custo global (a de 69 kV custaria 58% mais); economia estimada de cerca de R$ 78,9 milhões em 10 anos para a CCC. Sustentações orais: deputado federal Neri Geller (coordenador da bancada de MT) e José Roberto, presidente da Energisa. Procuradoria sem objeção.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:08:00",
+     "justificativa": "Autorizou o enquadramento na sub-rogação da CCC: menor custo global, modicidade tarifária e redução do dispêndio da CCC (cerca de R$ 78 milhões em 10 anos).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:29:43",
+     "justificativa": "Elogiou o voto; lembrou que a CCC é a segunda maior parcela da CDE (cerca de 32%) e que a sub-rogação reduz estruturalmente esses gastos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:30:29",
+     "justificativa": "Elogiou o voto, contou ter visitado a região quando era diretor do grupo Eletrobras, defendeu eliminar geração a óleo diesel e a redução do subsídio da CCC.",
+     "confianca": "media",
+     "tom": "favorável, com relato pessoal"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:35:36",
+     "justificativa": "Parabenizou o relator; destacou a descarbonização, a agenda de desoneração tarifária e que a escolha de 34,5 kV foi bem justificada frente a 69 kV (58% mais cara).",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:39:45",
+   "processo": "48500.006118/2009-83 e outros",
+   "interessado": "Agentes do setor (norma geral)",
+   "assunto": "Resultado da segunda fase da Audiência Pública 77/2011 para aprimoramento da Resolução Normativa 63/2004 (imposição de penalidades a agentes e instalações de energia elétrica).",
+   "tema": [
+    "fiscalização e sanções (RN 63/2004)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "não identificado",
+   "resultado": "mantido o pedido de vista do Diretor-Geral; sem deliberação, retorna na pauta seguinte com o colegiado completo",
+   "unanime": false,
+   "resumo_voto": "O Diretor-Geral, que pedira vista, explicou que a instrução está concluída mas repetiu o motivo da vista (processo estruturante, convém decidir com o colegiado completo, incluindo o diretor Sandoval, ausente) e sinalizou deliberar na terça-feira seguinte.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "pede vista (mantém a vista)",
+     "ts": "0:40:39",
+     "justificativa": "Processo estruturante para o setor; prefere deliberar com o colegiado completo, na próxima reunião.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:41:30",
+     "justificativa": "Sem manifestação registrada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "0:41:30",
+     "justificativa": "Sem manifestação registrada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:41:30",
+     "justificativa": "Sem manifestação registrada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:41:48",
+   "processo": "48500.004240/2015-63 e outros (20 processos)",
+   "interessado": "Centrais eólicas do complexo Alto Sertão III fase B (grupo Renova Energia); AES Tietê (pretensa compradora)",
+   "assunto": "Termos de Intimação 11 a 30/2018 (SFG): proposta de revogação das autorizações de 20 centrais eólicas do complexo Alto Sertão III fase B e análise do plano de transferência de controle (art. 4º-E da Lei 9.074/95) com garantia financeira da AES Tietê.",
+   "tema": [
+    "fiscalização e sanções (revogação de outorga)",
+    "outorgas de geração (eólica)",
+    "leilões (energia de reserva)",
+    "transferência de controle"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: conhecido o plano de transferência, negado no mérito; revogadas as autorizações; SFG instaura procedimento contra a Renova; SCG avalia devolução da garantia",
+   "unanime": true,
+   "resumo_voto": "Efrain concluiu que o plano não demonstra a viabilidade da troca de controle (condições suspensivas, garantia fiança condicionada, sem comprovação de recursos) nem o benefício ao consumidor (contratos de energia de reserva da fase A a cerca de R$ 140-170/MWh contra R$ 90,45 nos leilões de 2018; condicionar à não penalização da fase A). Sustentações orais: Ítalo Tadeu Carvalho Freitas (AES Tietê) e Cristiano Barros (Renova). Procuradoria: legitimidade do ato, conforme Parecer 394/2018. Um diretor sugeriu ajustar o texto do dispositivo sobre a abertura de procedimento de penalidade (suspensão de licitar) para ficar a cargo da instrução da SFG.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega o plano e revoga as outorgas",
+     "ts": "1:29:54",
+     "justificativa": "Plano sem viabilidade nem benefício comprovado ao consumidor; riscos do negócio são das partes, a agência não afasta ritos nem isenta penalidades.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:25:44",
+     "justificativa": "Parabenizou o relator pela qualidade da instrução e reforçou o cuidado com as competências da agência e a falta de vantajosidade ao consumidor.",
+     "confianca": "baixa",
+     "tom": "favorável"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:26:26",
+     "justificativa": "Destacou o esforço do relator e das áreas técnicas; vantajosidade não demonstrada e não se condiciona uma outorga a outro ato.",
+     "confianca": "baixa",
+     "tom": "favorável"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:27:24",
+     "justificativa": "Elogiou a sensibilidade do relator ao retirar de pauta antes; garantias condicionadas e contrato caro frente aos leilões atuais; sugeriu ajuste do dispositivo.",
+     "confianca": "baixa",
+     "tom": "favorável"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:32:15",
+   "processo": "48500.001225/2017-25",
+   "interessado": "Empresa de Energia Cachoeira Caldeirão S.A. (UHE Cachoeira Caldeirão, rio Araguari/AP)",
+   "assunto": "Recurso administrativo: autorização para implantar Sistema Especial de Proteção (SEP) como serviço ancilar, com ressarcimento dos custos (pleito de R$ 6,28 milhões).",
+   "tema": [
+    "recursos administrativos",
+    "serviços ancilares (SEP, RN 697/2015)",
+    "encargos (ESS)",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: provimento parcial; ressarcimento inicial de R$ 5.528.689,08 (ref. mar/2017), em parcela única após operação, valor final por auditoria",
+   "unanime": true,
+   "resumo_voto": "Elisa Bastos acolheu a avaliação da SRG/SCT de valorar o SEP pelo banco de preços de referência da ANEEL (atualizado pela REH 2.514/2019), rejeitando o argumento da requerente de reembolso integral dos custos. Valor final a ser definido após auditoria independente e custeado pelos consumidores via ESS. Sustentação oral: Donato da Silva Filho (EDP).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova parcialmente",
+     "ts": "2:01:30",
+     "justificativa": "Provimento parcial: ressarcimento valorado pelo banco de preços de referência, equilíbrio entre gerador e consumidores.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "2:03:30",
+     "justificativa": "Unanimidade proclamada; um dos diretores elogiou a instrução e o uso do banco de preços atualizado (autoria incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:03:30",
+     "justificativa": "Unanimidade proclamada; um dos diretores elogiou a instrução e o uso do banco de preços atualizado (autoria incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:03:36",
+     "justificativa": "Proclamou a unanimidade; pode ser o autor do comentário elogioso.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:04:20",
+   "processo": "48500.001098/2010-98 e 48500.001097/2010-43",
+   "interessado": "Comodoro Energética S.A. e Presente de Deus Energética S.A. (PCHs no rio Juína/MT; grupo H11 proposto como comprador)",
+   "assunto": "Termos de Intimação 1.076 e 1.077/2017: proposta de revogação das autorizações das PCHs Comodoro e Presente de Deus; plano de transferência de controle societário (art. 4º-E, Lei 9.074/95).",
+   "tema": [
+    "fiscalização e sanções (revogação de outorga)",
+    "outorgas de geração (PCH)",
+    "transferência de controle"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator, para fixar condicionantes ao plano de transferência e dar prazo razoável",
+   "unanime": false,
+   "resumo_voto": "Após as sustentações orais (Yuri Schmidt, advogado, e Antonio Augusto Conte, presidente do grupo H11), Efrain retirou o processo de pauta para dar tratamento análogo ao da Renova, definindo condicionantes (factibilidade e benefício) e prazo; lembrou que garantias precisam estar vigentes e que capacidade econômica não basta.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira de pauta",
+     "ts": "2:28:25",
+     "justificativa": "Coerência com o caso Renova; vai estabelecer condicionantes e prazo antes de levar de volta.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:30:13",
+   "processo": "48500.006287/2018-12",
+   "interessado": "Elektro Redes S.A. (2.655.306 consumidores, 223 municípios de SP e 5 de MS)",
+   "assunto": "Abertura de audiência pública (4/6 a 19/7/2019; sessão presencial em Rio Claro/SP em 14/6) para a revisão tarifária periódica da Elektro e limites de DEC e FEC 2020-2023; vigência a partir de 28/8/2019.",
+   "tema": [
+    "tarifas e revisão tarifária (RTP distribuidoras)",
+    "regulação normativa (audiência pública)",
+    "qualidade (DEC/FEC)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: instaurada a audiência pública",
+   "unanime": true,
+   "resumo_voto": "Efrain apresentou a proposta preliminar com efeito médio indicativo de -8,37% ao consumidor (fim do empréstimo da conta CR, quitação antecipada da CDE-RGR, redução de custos de energia, perdas não técnicas regulatórias de 5,04%). Os demais diretores destacaram a desoneração tarifária, o gás e a abertura já com o local definido.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:01:38",
+     "justificativa": "Instaurar a audiência pública com sessão presencial em Rio Claro.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:55:20",
+     "justificativa": "Comentou o indicativo de redução, os encargos setoriais e a agenda de desoneração tarifária; proclamou a unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "2:59:14",
+     "justificativa": "Um diretor discutiu redução de custos de contratação de energia e térmicas a gás (autoria incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:00:30",
+     "justificativa": "Um diretor cumprimentou o relator pela transparência de já indicar o local da audiência (autoria incerta).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:02:35",
+   "processo": "48500.002703/2015-52",
+   "interessado": "RGE Sul Distribuidora de Energia S.A.",
+   "assunto": "Recurso administrativo contra o Auto de Infração 22/2018 (SFE): multa por descumprimento dos indicadores de continuidade (exercício 2012), reduzida em reconsideração para R$ 7.044.455,81.",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, DEC/FEC)",
+    "qualidade do serviço (compensações ao consumidor)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "interrompido na leitura do voto por pausa para almoço; retomada às 14h (continua na parte 2 do vídeo)",
+   "unanime": false,
+   "resumo_voto": "Relatório e parecer da Procuradoria (conhecer e prover parcialmente, mantendo a multa reduzida na reconsideração). O relator iniciou o voto e foi interrompido pelo Diretor-Geral por questão de ordem, para pausa no almoço, com retomada às 14h para o item 3 e o julgamento do item 4.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator (voto interrompido)",
+     "ts": "3:07:54",
+     "justificativa": "Parabenizou a SFE pela instrução; compensações aos consumidores quando os indicadores não são apurados corretamente (art. 33 da RN 63/2004).",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5, 6 e 7",
+   "motivo": "retirados de pauta antes da sessão (informado pela Secretaria-Geral)"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado pelo relator Efrain Cruz após sustentações orais, para definir condicionantes ao plano de transferência (PCHs Comodoro e Presente de Deus)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nomes e números de processo; números de processo e valores podem estar imprecisos.",
+  "Falantes não identificados na legenda: a atribuição de comentários aos diretores nos itens 9, 10 e 1 é inferida (quem é citado pelos outros e ordem de fala) e tem confiança baixa; item 11 tem atribuição mais firme.",
+  "Relator do item 2 não identificado na legenda; não votaram nos itens 2 por conta do pedido de vista do Diretor-Geral (registro inferido).",
+  "Item 3 inicia nesta parte mas o voto e o resultado estão na parte 2 do vídeo.",
+  "Presença: quórum de quatro diretores (Pepitone, Limp, Efrain, Elisa); Sandoval ausente. A legenda cita Ricardo Tili apenas como falante inferido, sem base.",
+  "Número do item de 5 a 7 e do bloco (12 a 33) inferido da fala da Secretaria-Geral, legenda ambígua."
+ ]
+}

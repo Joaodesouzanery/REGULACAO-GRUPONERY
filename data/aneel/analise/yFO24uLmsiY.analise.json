@@ -1,0 +1,428 @@
+{
+ "meta": {
+  "video_id": "yFO24uLmsiY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "22",
+  "data": "2023-06-27",
+  "formato": "presencial (híbrida)",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto; Sandoval Feitosa ausente em missão institucional)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna (chegou depois da abertura; não votou nos itens 1, 2 e 16)"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (missão institucional)"
+  ],
+  "observacoes": [
+   "22ª Reunião Pública Ordinária de 2023; a legenda diz 23ª no encerramento mas repete 22ª. Data inferida do conteúdo (27/06/2023).",
+   "Pauta de 31 itens; 23 no bloco; retirados 6, 8 e 20; destaques 2 e 16 e depois 18. Ata da 21ª reunião aprovada (Ricardo ausente na anterior; Agnes e Hélvio votaram, Fernando votou ao final).",
+   "Itens 1, 2 e 16 só com 3 diretores (quórum de 3); Fernando Mosna chegou antes da segunda chamada do item de Angra.",
+   "Procurador-Geral Luís Eduardo e secretário-geral Carlos Eduardo presentes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco",
+   "ts": "0:12:30",
+   "processo": "itens 9 a 31 da pauta (bloco), exceto os retirados (6, 8, 20) e os destacados (2, 16, 18)",
+   "interessado": "diversos (não detalhados na sessão)",
+   "assunto": "Aprovação em bloco dos itens remanescentes do bloco da pauta; votos e atos disponibilizados previamente no site",
+   "tema": [
+    "procedimento / votação em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Presidente submeteu os itens do bloco; Ricardo Tili e Agnes da Costa aprovaram; Hélvio Guerra proclamou unanimidade. No encerramento o secretário informou 31 itens em pauta, 23 no bloco, 4 retirados e 3 pedidos de vista prorrogados.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (proclama unanimidade)",
+     "ts": "0:13:04",
+     "confianca": "alta",
+     "justificativa": "declarou que a diretoria decidiu por unanimidade pela aprovação dos itens do bloco"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:12:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:13:01",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:13:39",
+   "processo": "48500.006867/2022 (número conforme legenda, incerto)",
+   "interessado": "Energisa Tocantins Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual de 2023 da Energisa Tocantins, a vigorar a partir de 4 de julho de 2023; efeito médio -0,31% (-0,76% alta tensão, -0,19% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA)",
+    "PIS/Cofins (créditos)",
+    "distribuição"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (homologado o reajuste)",
+   "resumo_voto": "Reajuste negativo graças aos créditos de PIS/Cofins nos componentes financeiros; relator alertou para efeito rebote em 2024 (financeiro negativo de quase 10% deixa de existir). Apresentação técnica de Leonardo (SRT). Procurador Luís Eduardo presente.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (homologa)",
+     "ts": "0:23:20",
+     "confianca": "alta",
+     "justificativa": "destacou reajuste negativo por créditos PIS/Cofins e alertou para efeito rebote em 2024"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:24:43",
+     "confianca": "media",
+     "justificativa": "reforçou o benefício da redução tarifária e o efeito rebote nos anos seguintes; sugeriu dar ciência ao Congresso Nacional"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "0:25:37",
+     "confianca": "alta",
+     "justificativa": "proclamou unanimidade pela homologação"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:26:30",
+   "processo": "48500.006852/2022 e 48500.000765/2023-75 (números conforme legenda, incertos)",
+   "interessado": "Enel Distribuição São Paulo S.A.",
+   "assunto": "Resultado da revisão tarifária periódica da Enel SP a vigorar de 4/7/2023 e limites de DEC e FEC para 2024-2027; efeito médio -2,24% (-6,10% alta tensão, -0,97% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição (DEC/FEC, continuidade)",
+    "PIS/Cofins (créditos e prazo de compensação)",
+    "sustentação oral"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (homologada a RTP)",
+   "resumo_voto": "Sustentações orais: Gilmar Ogawa (Conselho de Consumidores Enel SP: pediu divulgar efeito por classe de consumo e criticou encargos, perdas/furto e concentração de investimentos), Wagner Luiz Ferreira da Silva Júnior (Abradee) e Hugo (Enel SP, nome incerto) pediram limitar o abatimento de PIS/Cofins ao prazo de 5 anos da Receita, retirada de pauta alternativa, e isonomia nos limites DEC/FEC. Procurador Luís Eduardo: prazo de 5 anos é para iniciar compensação; tema segue na CP 5; se a Receita prevalecer, reverter por componente financeiro. Relator manteve o tratamento conservador (projeção) e a neutralidade será apurada no reajuste seguinte. Fator X: componentes Pd 0,014% e T 2,486% (conforme legenda). Apresentação técnica de Gustavo Godoy (SRT).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (homologa)",
+     "ts": "1:24:59",
+     "confianca": "alta",
+     "justificativa": "manteve PIS/Cofins na tarifa por ser projeção; neutralidade apurada no reajuste; pediu apresentar efeito por classe"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:25:59",
+     "confianca": "media",
+     "justificativa": "IPCA x IGPM é cláusula contratual; criticou a falta de diligência em trazer o pleito do PIS/Cofins em tempo e apontou 15 meses até iniciar compensações"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "1:39:49",
+     "confianca": "alta",
+     "justificativa": "consumidor como protagonista; pediu comunicar efeito por classe e conjuntos de DEC; concordou com orientação da Procuradoria sobre PIS/Cofins"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:42:45",
+   "processo": "48500.004515/2019-92",
+   "interessado": "Termelétrica Viana S.A. (UTE Viana)",
+   "assunto": "Pedido de reconsideração contra o Despacho 169/2021 que negou revisão da receita fixa para neutralizar o aumento da TUST da UTE Viana (variação de cerca de mil por cento após fim da estabilização)",
+   "tema": [
+    "transmissão (TUST)",
+    "recursos administrativos",
+    "outorgas de geração (térmica)",
+    "sustentação oral"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (conhecido e negado provimento)",
+   "resumo_voto": "Sustentação oral de Rafael (advogado da Termelétrica Viana; sobrenome incerto) alegou onerosidade excessiva e reajuste de 1000% na TUST. Procurador Luís Eduardo: metodologia aplicada corretamente após reconfiguração da rede. Relator reconheceu desconforto mas manteve o voto: regra posta e estabilização encerrada em 2022 evita custo ao consumidor.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, nega provimento",
+     "ts": "1:58:17",
+     "confianca": "alta",
+     "justificativa": "regra aplicada é a vigente; estabilização por 10 anos foi paga pelo consumidor"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:01:08",
+     "confianca": "media",
+     "justificativa": "sem conforto, mas regras foram debatidas com a sociedade; sistema de transmissão interligado, todos pagam"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "2:02:52",
+     "confianca": "alta",
+     "justificativa": "transmissão é um condomínio; se um deixa de pagar os outros pagam; decisão da agência foi acertada"
+    }
+   ]
+  },
+  {
+   "id": "4 (Angra)",
+   "ts": "2:07:02",
+   "processo": "48500.006815/2022-10 (número conforme legenda)",
+   "interessado": "Eletrobras Termonuclear S.A. (Eletronuclear), Angra 2",
+   "assunto": "Requerimento administrativo da Eletronuclear para reconhecer 366 horas (depois 336 h) de indisponibilidade da pandemia como energia não fornecida isentada de ressarcimento (cerca de R$ 99 milhões, PLD médio 2021); voto-vista",
+   "tema": [
+    "comercialização (CCEE, ressarcimento, PLD)",
+    "outorgas de geração (nuclear)",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por maioria o requerimento da Eletronuclear (voto do relator vencedor; voto-vista da diretora Agnes vencido); determinado à CCEE reprocessar liquidações de 2022 com 336 h",
+   "resumo_voto": "O item foi adiado na primeira chamada (2:07 e 1:40) porque Fernando Mosna não estava presente. Relator Ricardo Tili votou pelo provimento (excludente de responsabilidade reconhecido não pode ser retroagido; Angra é cotista com receita variável). Agnes da Costa apresentou voto-vista pelo não provimento, apoiada em Procuradoria e SRM (regras específicas do módulo da Eletronuclear; assemelha-se a térmicas inflexíveis; consumidor pagaria energia não entregue). Procurador Luís Eduardo opinou que o excludente desobriga as partes.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dá provimento (mantém voto)",
+     "ts": "2:27:00",
+     "confianca": "alta",
+     "justificativa": "Angra é cotista com receita vinculada à energia; excludente já reconhecido"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: nega provimento (vencida)",
+     "ts": "2:09:31",
+     "confianca": "alta",
+     "justificativa": "Eletronuclear equiparada a térmica inflexível; PF e SRM entendem ressarcimento devido; consumidor já pagou por energia não entregue"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (dá provimento)",
+     "ts": "2:28:25",
+     "confianca": "media",
+     "justificativa": "Angra 1 e 2 são ativos únicos sem base comparativa; excludente reconhecido vale também para lastro comercial; penalização de cerca de R$ 99 milhões desproporcional"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama maioria)",
+     "ts": "2:34:31",
+     "confianca": "media",
+     "justificativa": "há reconhecimento de excludente; não se pode retroagir a decisão anterior"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:38:22",
+   "processo": "48100.001087/1996-19",
+   "interessado": "Copel Geração e Transmissão (privatização da Copel): UHE Governador Ney Braga (Segredo) e UHE Governador José Richa (Salto Caxias); alterações na minuta de Foz do Areia",
+   "assunto": "Resultado da Consulta Pública 16/2023: aprovação da minuta do contrato de concessão (30 anos, Decreto 9.271/2018) das UHEs Segredo e Salto Caxias e alterações na minuta de Foz do Areia",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "regulação normativa (consulta pública)",
+    "privatização/desestatização",
+    "contrato de concessão"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "37 contribuições de 7 entidades; suprimida sub-cláusula única da cláusula 2ª (sem previsão de prorrogação), mantida renúncia a indenização por investimentos não amortizados (portarias MME/MF), negada alocação de passivos pré-existentes ao controlador anterior e negado afastamento do MRE para taxas de disponibilidade. Parecer 178/2023 da Procuradoria. Apresentações de Tatiana de Araújo Colares e Mateus Machado Neves (SCE/SGM).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:20:00",
+     "confianca": "alta",
+     "justificativa": "acolhida a análise técnica da SCE e SGM"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "3:22:11",
+     "confianca": "media",
+     "justificativa": "proclamou unanimidade"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:22:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:22:09",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6 (Cermissões)",
+   "ts": "5:34:19",
+   "processo": "48500.009357/2022-62 (número conforme legenda)",
+   "interessado": "Cooperativa de Distribuição e Geração de Energia das Missões (Cermissões) x Exponencial Energia",
+   "assunto": "Recurso administrativo contra o Despacho 3.681/2022 (SRM) que não aprovou o CCVE nº 1/2022 de compra de energia por licitação pública; risco de penalidade por insuficiência de lastro de cerca de R$ 5 milhões; voto-vista",
+   "tema": [
+    "comercialização (CCEE, lastro, PLD)",
+    "recursos administrativos",
+    "permissionárias/cooperativas",
+    "voto-vista"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pelo presidente da sessão (sem votação) para avaliar com Procuradoria e áreas a dosimetria da penalidade",
+   "resumo_voto": "Voto-vista de Hélvio Guerra: conhecer e negar provimento (contrato retroativo a R$ 129,30/MWh em dezembro com PLD no piso; aprovação é ato discricionário), mas sem determinar estudos nem capacitação nem participação de ofício no MCSD ex-post. Agnes da Costa (relatora) acolheu os ajustes. Fernando Mosna e Ricardo Tili ficaram sensíveis ao peso da multa (25% do resultado líquido, cerca de 18% do investimento 2022, 16,8% do EBITDA) e discutiram aprovar o contrato com efeito só para lastro; Procuradoria e área técnica explicaram o rito de impugnação. Hélvio retirou o item.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora: nega provimento (não votou formalmente; item retirado)",
+     "ts": "5:45:32",
+     "confianca": "media",
+     "justificativa": "gostou do voto-vista; sem apego às determinações de estudos; sensível à dosimetria"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: nega provimento (não votou formalmente; item retirado)",
+     "ts": "5:35:42",
+     "confianca": "alta",
+     "justificativa": "aprovação é discricionária; PLD baixo; imperícia da empresa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (item retirado); preocupado com a penalidade",
+     "ts": "5:46:30",
+     "confianca": "media",
+     "justificativa": "pediu tratamento específico para cooperativa para evitar penalidade desproporcional"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (item retirado); sensível à proposta de Fernando",
+     "ts": "5:50:42",
+     "confianca": "media",
+     "justificativa": "receio de precedentes; sugeriu rito próprio ou consulta à Procuradoria"
+    }
+   ]
+  },
+  {
+   "id": "7 (Abradee)",
+   "ts": "6:17:57",
+   "processo": "48500.008300/2022-46 (número conforme legenda)",
+   "interessado": "Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+   "assunto": "Deliberação parcial do pedido de reconsideração contra o Despacho 3.478/2022, com foco na suspensão do prazo de 180 dias para aporte de capital da RN 948/2021 (critério de eficiência econômico-financeira de 2022), recebido como medida cautelar",
+   "tema": [
+    "distribuição (renovação das concessões, RN 948/2021)",
+    "recursos administrativos",
+    "medida cautelar",
+    "fiscalização econômico-financeira"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: concedida a medida cautelar suspendendo o prazo, com alcance para todas as distribuidoras",
+   "resumo_voto": "Fundamentos de fumaça do bom direito (incerteza sobre o valor do aporte) e perigo da demora (prazo de 30 de junho), com precedente da Enel Rio (Despacho 1.475/2023). Procuradoria não emitiu parecer.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, concede a cautelar",
+     "ts": "6:31:19",
+     "confianca": "alta",
+     "justificativa": "prejudicialidade entre o mérito da reconsideração e o valor do aporte; evita aportes sobredimensionados"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama unanimidade)",
+     "ts": "6:33:03",
+     "confianca": "media",
+     "justificativa": "perguntou o alcance; relator confirmou que vale para todas as distribuidoras"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:33:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "6:33:03",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18 (Imetame)",
+   "ts": "6:34:05",
+   "processo": "48500.002767/2020-11 (número conforme legenda)",
+   "interessado": "Imetame Termelétrica Ltda. (UTE, CUST 101/2017)",
+   "assunto": "Pedido de medida cautelar para suspender a cobrança da multa rescisória do CUST 101/2017 (cerca de R$ 4,5 milhões cobrados contra R$ 3,3 milhões alegados), destacado do bloco por Agnes da Costa",
+   "tema": [
+    "transmissão (CUST, multa rescisória)",
+    "medida cautelar",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado parcialmente: cautelar conhecida e provida em parte para suspender só a parte controversa da multa (unanimidade não proclamada)",
+   "resumo_voto": "Agnes questionou o perigo da demora (pagamento parcelado em 12 vezes, novo CUST vigente). Procuradoria (parecer de 2021) admitiu modulação da cláusula penal. Fernando Mosna propôs cautelar parcial, suspendendo apenas o excedente do valor incontroverso (R$ 3,3 milhões); Ricardo Tili aceitou alterar o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, concede cautelar (ajustado para parcial)",
+     "ts": "6:35:40",
+     "confianca": "alta",
+     "justificativa": "cobrar sabendo que o processo segue em trânsito é temerário; acatou a sugestão de Fernando"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "questionou perigo da demora (voto final não explícito)",
+     "ts": "6:36:30",
+     "confianca": "baixa",
+     "justificativa": "parcela variável de transmissão já não reconhece perigo da demora porque compensa em receitas futuras"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "cautelar parcial (sugestão acatada)",
+     "ts": "6:39:37",
+     "confianca": "alta",
+     "justificativa": "suspender só a parte controversa, acima de R$ 3,3 milhões"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator com alterações (proclama)",
+     "ts": "6:43:46",
+     "confianca": "media",
+     "justificativa": "declarou conhecer a cautelar e dar parcial provimento"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6 (Cermissões)",
+   "processo": "48500.009357/2022-62",
+   "motivo": "retirado pelo presidente da sessão após debate sobre dosimetria da penalidade por insuficiência de lastro",
+   "ts": "6:16:03"
+  },
+  {
+   "id": "itens 6, 8 e 20",
+   "motivo": "retirados de pauta antes da sessão (informado pela secretaria-geral)",
+   "ts": "0:12:10"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processo, valores e nomes podem estar errados (marcados como incertos).",
+  "Falantes etiquetados na legenda ({Sandoval, Agnes, ...}) são inferidos e não confiáveis; atribuição dos votos feita pela ordem de votação e pela proclamação do presidente.",
+  "Nomes citados na legenda como Ricardo Chile, Élvio e Fernando mozana foram normalizados para Ricardo Tili, Hélvio Guerra e Fernando Mosna.",
+  "Ludimila Lima aparece como superintendente (SCE), não como diretora.",
+  "Itens do bloco (9 a 31) não foram detalhados na sessão; registrado um único item Bloco.",
+  "Votos de acompanhamento sem fala nominal têm confiança media/baixa e minuto aproximado; item de Angra: atribuição das falas finais entre Fernando e Hélvio é inferida.",
+  "Itens 1, 2 e 16 têm 3 votos (Fernando ausente); demais itens têm 4, exceto o Bloco (3).",
+  "Item da Cermissões retirado; resultado final não ocorreu nesta sessão."
+ ]
+}

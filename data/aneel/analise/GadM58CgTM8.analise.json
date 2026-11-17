@@ -1,0 +1,33 @@
+{
+  "meta": {"video_id": "GadM58CgTM8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª extraordinária de 2023", "data": "2023-06-28", "formato": "presencial e transmissão pelo YouTube",
+    "presidente_da_sessao": "não identificado (diretor que presidiu na ausência de Sandoval Feitosa; cumprimenta Agnes da Costa, Ricardo Tili e Fernando Mosna)",
+    "diretores_presentes": ["Fernando Mosna", "Agnes da Costa", "Ricardo Tili", "presidente da sessão (não identificado)"],
+    "ausentes": ["Sandoval Feitosa (ausência justificada, representação no exterior)"],
+    "observacoes": ["Quórum de quatro diretores; pauta com um único item, sem pedido de sustentação oral.", "Reunião extraordinária convocada com urgência pelo relator (art. 35 da REN 698/2015) para decidir cautelar antes da contabilização da CCEE (resultados em 30/06/2023).", "Presença do procurador-geral substituto Eduardo Estevão, que se manifestou sobre os requisitos da cautelar."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:21:30",
+      "processo": "48500.003350/2023-18", "interessado": "Copel Geração e Transmissão S.A. (Copel GT)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar para retificar metodologia e parâmetros do MCSD 4% (mecanismo de compensação de sobras e déficits) nos CCEARs repactuados pelo Despacho 1395/2019 (4º leilão de energia existente, UHE Governador Bento Munhoz da Rocha Neto/Foz do Areia)",
+      "tema": ["comercialização (CCEE, MCSD, CCEAR)", "recursos administrativos / cautelar", "outorgas de geração (hidrelétrica, risco hidrológico, Lei 13.203/2015)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: cautelar concedida a partir da referência de junho/2023",
+      "resumo_voto": "Relator vê fumaça do bom direito: a redução pelo MCSD 4% superaria o limite de 4% do Decreto 5.163/2004 (13 dos 17 CCEARs reduzidos integralmente). Perigo da demora: perda estimada em cerca de 264 milhões de reais no suprimento de 117 dias (CCEAR a cerca de R$ 246,98/MWh contra PLD mínimo). Reversibilidade: possível recontabilização. Efeitos da cautelar valem a partir da referência de junho/2023; mantém a contabilização de maio/2023; contratos da Copel GT continuam na proporcionalização de eventuais sobras declaradas; processo segue à SGM para análise de mérito. Procurador Eduardo Estevão: juízo sumário, sem opinião formal da procuradoria. Houve esclarecimento de um diretor sobre o item 2 do dispositivo, respondido pelo relator.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, concede a medida cautelar", "ts": "0:28:20", "justificativa": "probabilidade do direito (teto de 4% superado), perigo da demora (perda de receita estimada em cerca de 264 milhões de reais) e reversibilidade da medida", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:22", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:22", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:42:25", "justificativa": "levantou dúvida sobre o item 2 do dispositivo e aceitou o esclarecimento do relator", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes e números podem estar errados (a legenda grafa Lei 3.203/2015, que é a Lei 13.203/2015; processo 48500.003350/2023-18 lido como 48.500 3350 2023 18).",
+    "Quem presidiu a sessão não foi identificado com segurança: o falante cumprimenta Agnes, Ricardo e Fernando, logo é o quarto diretor presente, mas o nome não é dito na legenda; na ausência de Sandoval Feitosa. Não atribuído a ninguém da lista.",
+    "Os dois «acompanho» (0:42:22 e 0:42:25) não têm nome na legenda; atribuição entre Ricardo Tili, Agnes da Costa e o presidente da sessão não pode ser confirmada. Votos de Tili e Agnes registrados pela proclamação de unanimidade, confiança baixa. Quem fez a pergunta sobre o item 2 (0:37:47) também não foi identificado.",
+    "Número de votos fecha com os 4 presentes, um deles com nome não identificado."
+  ]
+}

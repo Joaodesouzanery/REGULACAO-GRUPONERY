@@ -1,0 +1,46 @@
+{
+  "meta": {"video_id": "XsXtFmAaCMc", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md não confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "39", "data": "2019-10-22", "formato": "presencial (parte 2, sessão da tarde)",
+    "presidente_da_sessao": "não identificado (Diretor-Geral; a legenda rotula como Ricardo Tili, o que não é confiável)",
+    "diretores_presentes": ["Elisa Bastos", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da 39ª RPO de 22/10/2019 (vídeo começa na retomada da tarde).", "Abertura: retificação do resultado do item 6 (manhã, processo 48500.000743/2017-21, cooperativas permissionárias): onde se leu audiência pública, entenda-se consulta pública.", "2 itens deliberados, ambos aprovados por unanimidade/proclamação; encerrada em ≈ 1:12:00 do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "4", "ts": "0:01:10",
+      "processo": "48500.006284/2008-71 e 48500.002155/1994", "interessado": "EDP São Paulo Distribuição de Energia S.A.",
+      "assunto": "Resultado da 5ª Revisão Tarifária Periódica da EDP São Paulo, vigência a partir de 23/10/2019, e limites dos indicadores DEC e FEC 2020-2023 (após Audiência Pública 28/2019)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "distribuição e qualidade (DEC/FEC)", "perdas"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio -5,33% para consumidores (-3,53% alta tensão; -6,34% baixa tensão); fator X componente Pd 0,96% e T 0%; limites DEC/FEC 2020-2023; referencial de perdas para reajustes de 2020 a 2022. Pleito da distribuidora de cerca de R$ 20 milhões por inadimplência de consumidor industrial (liminar judicial, 2010-2013) foi indeferido por estar fora da janela de 49 a 60 meses da metodologia (PRORET 2.2), não ter previsão como componente financeiro (4.4) e não haver evidência de desequilíbrio; caberia, se for o caso, revisão extraordinária. Apresentação da SGT sobre os resultados.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "0:21:06", "justificativa": "regra da revisão periódica não reconhece inadimplência pontual; regulação por preço e não por custo; procuradoria concorda", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:23:02", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora (eu também)", "ts": "0:23:05", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:23:07", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:23:51",
+      "processo": "48500.005724/2017-91", "interessado": "agentes de geração hidrelétrica (ABRAGE, ABRAGEL, Votorantim, Enel Green Power e outros; 24 instituições contribuíram)",
+      "assunto": "Resultado da Audiência Pública 9/2018: metodologia de cálculo do Uso de Bem Público (UBP) na prorrogação de concessões e autorizações de geração hidrelétrica (art. 2º da Lei 12.783/2013; Decreto 9.158/2017); aprovação de resolução normativa",
+      "tema": ["regulação normativa (resolução, audiência pública)", "outorgas de geração (hidrelétrica, prorrogação)", "UBP", "institucional/TCU"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade (resolução normativa aprovada)",
+      "resumo_voto": "Metodologia baseada na renda hidráulica dividida 50% consumidor / 50% gerador; preço de referência da energia não contratada no ACR definido pelo CNPE (Leilão 12/2015, R$ 142); redução de 10% da garantia física para o risco hidrológico (90%); piso de 1% e teto pelo PLD mínimo; fator de capacidade 0,55 para usinas sem garantia física; encargos (taxa de fiscalização e conexão em sistemas isolados); UBP calculado sobre 30 anos, cobrado a partir do término da outorga original, sem revisão posterior; reavaliação da norma em 5 anos. Cerca de 20 empreendimentos com outorga vencida ou próxima. Casos concretos (Votorantim, Enel Green Power) remetidos a processos específicos. Parecer PF 28/2019 e Despacho 41/2019 da procuradoria; TCU cientificado.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova a resolução normativa", "ts": "1:06:32", "justificativa": "equilíbrio 50/50 da renda hidráulica; urgência para regulamentar com cerca de 20 empreendimentos vencidos ou a vencer; legislação vigente deve ser observada; casos concretos em processo específico", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "comentários elogiosos ao relator e à metodologia; sem declaração de voto separada (um dos diretores em discussão)", "ts": "1:07:02", "justificativa": "pela proclamação segue o relator; aponta que consumidor não pagaria duplamente e que o regulamento evita prejuízo ao tratar o período desde o vencimento", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (eu também acompanho)", "ts": "1:11:21", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa; a transcrição vira texto corrido sem trocas de falante confiáveis. Apenas as relatorias (Elisa Bastos no item 4, Efrain Cruz no item 5) estão ditas no texto.",
+    "Os demais diretores (incluindo o Diretor-Geral que proclama) não são nomeados na parte 2; votos de acompanhamento ficam como «não identificado» com confiança baixa. Na fala do item 4 aparece «mônica também acompanha», nome inexistente na lista da agência (provável erro de legenda).",
+    "Nº de votos por item não fecha com o nº de presentes porque a lista completa de presentes consta da parte 1 (manhã) do vídeo, não analisada aqui.",
+    "Números de processo e de resoluções vêm da legenda e podem estar errados (ex.: 48500.006284/2008-71 e 48500.002155/1994 lidos como '62 e 84 2008 71' e '21 55 2000 e 1994')."
+  ]
+}

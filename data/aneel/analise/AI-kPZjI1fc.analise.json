@@ -1,0 +1,30 @@
+{
+  "meta": {"video_id": "AI-kPZjI1fc", "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "6ª Extraordinária de 2021", "data": "2021-06-15", "formato": "reunião pública extraordinária",
+    "presidente_da_sessao": "Rodrigo Limp (Diretor-Geral, inferido pela abertura e proclamação)",
+    "diretores_presentes": ["Rodrigo Limp", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Reunião curta, com um único processo na pauta. Demais diretores presentes não são identificáveis na legenda."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:15",
+      "processo": "48500.001755/2021-50", "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE), gestora da CDE; Amazonas Distribuidora de Energia S.A.",
+      "assunto": "Requerimento administrativo da CCEE para alterar o Despacho 1.182/2021: reembolso de custos de combustível (óleo diesel) da UTE Manicoré (AM) diretamente ao supridor de combustíveis, em razão da recuperação judicial da Powertech, concessionária da usina",
+      "tema": ["CDE e encargos setoriais", "CCC / sistemas isolados", "recursos administrativos", "usina termelétrica Manicoré (AM)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: reformado o despacho",
+      "resumo_voto": "Reformar o Despacho 1.182/2021 para determinar que a CCEE, como gestora da CDE, reembolse os custos de combustível da UTE Manicoré diretamente ao supridor, em montante sujeito aos limites regulatórios e mediante documentos fiscais comprobatórios, registrando contabilmente os valores à Amazonas Distribuidora. Sem sustentação oral. Procuradoria sem óbice.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova (reforma o despacho)", "ts": "0:00:35", "justificativa": "decisão anterior previa depósito na conta do supridor; com a Powertech em recuperação judicial, o pagamento direto ao supridor atende o pedido da CCEE, parceira da agência na gestão da CCC; procuradoria sem óbice", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:02:10", "justificativa": "proclamou o resultado por unanimidade", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa. Relator lido como «Efrain Cruz» a partir de «em frente da Cruz».",
+    "Duas falas de «acompanho» sem nome (uma delas «também acompanha o relator»); não foi possível atribuí-las a diretores específicos. Demais diretores presentes não identificados, por isso só há votos de Efrain Cruz e do presidente da sessão (Rodrigo Limp, inferido; confiança baixa).",
+    "Número do processo e códigos da usina (TEP) da legenda podem estar errados."
+  ]
+}

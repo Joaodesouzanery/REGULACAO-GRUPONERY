@@ -1,0 +1,328 @@
+{
+ "meta": {
+  "video_id": "kBKF0M035HE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "41",
+  "data": "2019-11-05",
+  "formato": "presencial, transmitida pelo YouTube",
+  "presidente_da_sessao": "Rodrigo Limp (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "André Pepitone",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 35 itens; itens 3, 5, 6 e 7 retirados de pauta; itens 11 a 35 em bloco.",
+   "Início com instabilidade de sistema; informes sobre workshop Brasil-Alemanha, AP 40/2019 (REN 482) em 07/11 e CP 38/2019 (DEC/FEC)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco 11-35",
+   "ts": "0:04:43",
+   "processo": "itens 11 a 35 da pauta (deliberação em bloco)",
+   "interessado": "",
+   "assunto": "Deliberação em bloco dos itens 11 a 35; sem destaque, sem retirada e sem sustentação oral",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Diretor-Geral proclamou aprovação do bloco por unanimidade dos votantes.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:04:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:04:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:04:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:21",
+   "processo": "48500.001757/2019-24",
+   "interessado": "Ministério de Minas e Energia / CCEE / distribuidoras compradoras",
+   "assunto": "Aprovação dos editais e anexos dos leilões 5 e 6/2019 (A-1 e A-2 de 2019) de energia existente, com suprimento a partir de 2020 e 2021, após AP 35/2019",
+   "tema": [
+    "leilões (geração)",
+    "comercialização"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Preço de R$ 190/MWh para os três produtos (fixado pelo MME); mantido aporte de garantia de proposta pelas distribuidoras; acatada possibilidade de redução de montantes nos contratos por disponibilidade; apresentação técnica da SCG/especialista.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:12:53",
+     "justificativa": "aprova editais e anexos, preços fixados pelo MME, manutenção da garantia de proposta pelas compradoras",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:14:00",
+   "processo": "48500.006162/2017-11",
+   "interessado": "CCEE",
+   "assunto": "Consulta pública (intercâmbio documental, 45 dias) sobre alterações das regras de comercialização (caderno de penalidade de energia) conforme REN 827/2018, penalidade por falha no suprimento de combustível (Res. CNPE 18/2017)",
+   "tema": [
+    "comercialização (CCEE)",
+    "regulação normativa",
+    "térmicas e gás natural"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Penalidade de 10% do valor da energia não suprida para combustíveis líquidos e rampa de 0 a 30% para gás natural; tolerância de 72 horas / 10% do tempo; só eventos estruturais.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação do Diretor-Geral)",
+     "ts": "0:25:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "0:25:17",
+     "justificativa": "instaurar consulta pública por 45 dias para operacionalizar a REN 827",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:26:47",
+   "processo": "48500.004531/2009-62",
+   "interessado": "",
+   "assunto": "Realização de audiência pública (sessão presencial, 14/11/2019) sobre a proposta de Agenda Regulatória 2020/2021",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "institucional"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Nova metodologia da agenda: foco em previsibilidade, bienal deslizante, macrotemas, atividades prioritárias/ordinárias/indicativas; CP 22/2019 teve 51 contribuintes e 479 contribuições, 61% aceitas; agenda com 28 prioritárias, 36 ordinárias e 27 indicativas; aprovação final prevista até 10/12. Rodrigo Limp elogiou a equipe e pediu avaliar formulário eletrônico em todas as consultas.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova",
+     "ts": "0:42:51",
+     "justificativa": "audiência pública presencial em 14/11 para debater a proposta de agenda",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator; elogia a instrução e a previsibilidade",
+     "ts": "0:44:04",
+     "justificativa": "agenda regulatória como instrumento de gestão que gera previsibilidade e transparência",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:45:21",
+   "processo": "48500.001019/2013-20 (parcial na legenda)",
+   "interessado": "Triunfo Participações e Investimentos S.A.",
+   "assunto": "Prorrogação do prazo de pedido de vista no recurso administrativo da Triunfo Participações e Investimentos S.A. contra o Despacho 2422/2018 (SCG) que tornou indisponíveis eixos de PCHs; registro de adequabilidade do sumário executivo com vigência expirada",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração"
+   ],
+   "relator": "não identificado (garbled na legenda)",
+   "resultado": "prorrogação de vista concedida por mais oito sessões (sem objeção)",
+   "resumo_voto": "Aguarda documentação do grupo Triunfo (terras e licenças ambientais); pede mais oito sessões.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: pede mais oito sessões",
+     "ts": "0:45:21",
+     "justificativa": "Aguarda documentação do grupo Triunfo (terras e licenças ambientais); pede mais oito sessões.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:45:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:45:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:45:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:46:52",
+   "processo": "48500.001989/2019-82 (parcial na legenda)",
+   "interessado": "Eletronorte",
+   "assunto": "Prorrogação do prazo de pedido de vista na análise do termo de intimação 3/2019 (SFR) contra a Eletronorte, com proposta de suspensão temporária de licitar e contratar com a ANEEL",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "prorrogação de vista concedida por mais oito sessões (sem objeção)",
+   "resumo_voto": "Processo conexo a outro sob mesma relatoria, a ser deliberado em conjunto; pede mais oito sessões.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: pede mais oito sessões",
+     "ts": "0:46:52",
+     "justificativa": "Processo conexo a outro sob mesma relatoria, a ser deliberado em conjunto; pede mais oito sessões.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:46:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:46:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:46:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:48:07",
+   "processo": "48500.005792/2010-21 (parcial na legenda)",
+   "interessado": "Divisa Energia S.A.",
+   "assunto": "Prorrogação do prazo de pedido de vista no pedido de recomposição de prazo da autorização da PCH Divisa (Divisa Energia S.A., rio Formiga, Campos de Júlio/MT)",
+   "tema": [
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "prorrogação de vista concedida por mais oito sessões (sem objeção)",
+   "resumo_voto": "Em 2019 foi apresentado memorando com informações complementares solicitadas; parecer da Procuradoria pedido; pede mais oito sessões.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: pede mais oito sessões",
+     "ts": "0:48:07",
+     "justificativa": "Em 2019 foi apresentado memorando com informações complementares solicitadas; parecer da Procuradoria pedido; pede mais oito sessões.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:48:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:48:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:48:07",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3, 5, 6, 7",
+   "observacao": "retirados de pauta antes da sessão; assuntos não ditos"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números de processos parcialmente incorretos; números de processo dos itens 8, 9 e 10 e 4 incertos.",
+  "Votos individuais de quem só acompanha foram atribuídos pela proclamação (confiança media/baixa); falas «voto pela aprovação do bloco» sem nome nítido, atribuição na ordem e sem base individual.",
+  "Item 8: relator original ilegível na legenda; interessado Triunfo.",
+  "Itens 8-10: vistas de Efrain Cruz; demais diretores registrados como não votou (vista) por convenção, a mesa apenas colheu ausência de objeção.",
+  "No item 4, a fala de elogio à equipe é de um diretor não identificado na legenda; atribuída com baixa confiança a Rodrigo Limp.",
+  "Ids dos itens seguem a ordem de julgamento e o número da pauta citado quando disponível."
+ ]
+}

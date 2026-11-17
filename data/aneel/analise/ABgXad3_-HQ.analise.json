@@ -1,0 +1,134 @@
+{
+  "meta": {"video_id": "ABgXad3_-HQ", "fonte": "legenda automática do YouTube; falantes inferidos (o marcador do início listava nomes errados como Willamy Frota e Ricardo Tili, que não participaram); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "30", "data": "2021-08-17", "formato": "sessão virtual (Parte 1 do vídeo, até a suspensão para almoço)",
+    "presidente_da_sessao": "Efrain Cruz (Diretor-Geral substituto, pois André Pepitone estava em férias)",
+    "diretores_presentes": ["Efrain Cruz", "Sandoval Feitosa", "Hélvio Guerra"],
+    "ausentes": ["André Pepitone (Diretor-Geral, férias)", "Elisa Bastos (missão na Comissão de Minas e Energia da Câmara, tema bandeiras tarifárias)"],
+    "observacoes": [
+      "Quórum de três diretores na abertura; o presidente disse que haveria quatro mais tarde, mas nesta parte só se ouvem três diretores votando.",
+      "Pauta com 48 itens; bloco de itens aprovado em conjunto (itens 19 a 48, exceto o 35 retirado); ordem de julgamento anunciada pela secretaria: 5, 1, 2, 6, 7, 8, 12, 14, 15, 17, 18, 10, 4, 13 (garbled na legenda). O item 6 foi remanejado a pedido de diretor com voto-vista.",
+      "Esta parte cobre 7 itens individuais (5, 1, 2, 7, 8, 12, 14) mais o bloco; a reunião foi suspensa às 12h25 até 14h30 (≈3:06:30 do vídeo) para retomar à tarde, com apelo de presença total para o julgamento de processos do GSF/RR. O restante da pauta está em outra parte do vídeo.",
+      "No item 5 o diretor Efrain Cruz relatou ter pedido informações à CCEE e que a câmara reagiu com carta pedindo retratação; Hélvio Guerra e Sandoval Feitosa declararam solidariedade. Depois, entre os itens 8 e 12, Efrain Cruz corrigiu a menção feita: a comercializadora em recuperação judicial é a Argon, não a Boven."
+    ]
+  },
+  "itens": [
+    {
+      "id": "5", "ts": "0:05:48",
+      "processo": "48500.003992/2009-66", "interessado": "CCEE e agentes comercializadores (critérios de entrada, manutenção e saída no mercado)",
+      "assunto": "Abertura de consulta pública (30 dias, 18/08 a 17/09/2021, com dispensa de AIR) para aprimorar as REN 414/2010, 545/2013 e 678/2015 quanto a critérios de entrada, manutenção e saída de agentes do mercado de energia",
+      "tema": ["comercialização (CCEE, comercializadoras)", "regulação normativa (consulta pública, dispensa de AIR)", "crise hídrica / segurança do mercado", "fiscalização e sanções"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes (instaurada a consulta pública)",
+      "resumo_voto": "Relator propõe CP curta (30 dias, sem AIR) pela urgência da escassez hídrica e do risco de insolvência de comercializadoras; critérios mais rígidos de entrada (responsável técnico, antecedentes criminais dos sócios, patrimônio líquido, cadeia societária, nomes semelhantes), manutenção (envio anual de balanços, anuência prévia em troca de controle, sanções pela CCEE) e saída (prazos menores, sucessão de dívidas, desligamento compulsório); tomou o sistema financeiro como referência e sugeriu segmentar comercializadoras em tipos 1 e 2 por patrimônio. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova instauração da consulta pública", "ts": "0:17:00", "justificativa": "reforçar a segurança do mercado de energia diante da crise hídrica: seleção mais rigorosa de agentes porque ainda não há chamada de margem semanal; critérios proporcionais ao porte; benchmarking com o sistema financeiro (Res. BCB 4.557/2017) e experiências de Reino Unido, Texas e países nórdicos", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator, com sugestão de deixar em aberto a periodicidade mínima anual de informações financeiras", "ts": "0:50:00", "justificativa": "mercado físico não pode ter operações a descoberto sem lastro (alavancagem de milhares de vezes o patrimônio); defendeu transparência, ponto de medição como critério e periodicidade menor que a anual para detectar risco a tempo; relatou ter pedido informações à CCEE e a reação dos agentes", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:09:40", "justificativa": "solidarizou-se com o diretor Efrain Cruz: pedir informação é competência e dever do regulador; qualquer questionamento atinge toda a diretoria; sistema financeiro como modelo para proteger o mercado físico", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:11:28",
+      "processo": "48500.004616/2020-05", "interessado": "Celesc Distribuição S.A. (Santa Catarina)",
+      "assunto": "Quinta revisão tarifária periódica da Celesc Distribuição, vigência a partir de 22/08/2021, efeito médio de 5,65% (alta tensão 5,34%, baixa tensão 5,83%), limites de DEC e FEC 2022-2026 e referencial de perdas",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "distribuição (DEC/FEC, perdas)", "CDE e encargos setoriais (Conta-covid)", "créditos de PIS/Cofins (exclusão do ICMS)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes (homologado o resultado)",
+      "resumo_voto": "Homologa a RTP com efeito médio de 5,65% (inferior ao IPCA 8,99% e ao IGP-M), Fator X em -0,44%, componente de reversão de R$ 795 milhões em créditos de PIS/Cofins; apresentação técnica da SGT (Marcelo); incorpora transferência de ativos da CGT Eletrosul para a Celesc. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova homologação", "ts": "1:38:00", "justificativa": "dispensou a leitura da fundamentação por ter ouvido a apresentação da SGT; destacou a Celesc como uma das menores tarifas do país, reajuste abaixo da inflação e esforço de mitigação de efeitos ao consumidor", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (antecipou concordância)", "ts": "1:42:45", "justificativa": "revisão tarifária é construção complexa; destacou o acordo alcançado entre Celesc e Eletrosul na transferência de ativos", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:43:05", "justificativa": "elogiou a condução responsável da distribuidora e a qualidade do serviço; proclamou o resultado", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:44:43",
+      "processo": "48500.003852/2021-87", "interessado": "Petrobras / UTE Termoceará (CCEE, ONS)",
+      "assunto": "Operação da UTE Termoceará com óleo diesel e alocação dos custos, em cumprimento à decisão da CREG (3ª reunião, 05/08/2021); CVU fixado em R$ 1.551,12/MWh (data-base junho/2021)",
+      "tema": ["outorgas de geração (térmica, UTE Termoceará)", "comercialização (CCEE, PLD, CCEAR)", "CDE e encargos setoriais (ESS por segurança energética)", "crise hídrica / CREG"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos presentes, com a retirada da delegação à SRG (item 3 do voto)",
+      "resumo_voto": "Fixa o CVU da usina a óleo diesel, reajuste mensal pela CCEE, CVU de contratos mantido como de gás natural na contabilização dos CCEAR para proteger distribuidoras, incremento pago via ESS, sem rateio de inadimplência; após discussão, o relator retirou a delegação à SRG para alterar o CVU, que voltará ao colegiado.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova (com retirada da delegação à SRG)", "ts": "1:48:00", "justificativa": "cumprimento da determinação da CREG com balizas de eficiência regulatória e preço de mercado; proteção dos consumidores das distribuidoras mantendo CVU contratual; acatou sugestão de Sandoval Feitosa", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:03:23", "justificativa": "questionou a delegação à SRG por serem custos de usinas de última instância e valores elevados, sugerindo que alterações voltem ao colegiado; lembrou que defendeu, vencido, que o gás natural da Petrobras fosse tratado como insumo e não regulado pela ANEEL no caso Termofortaleza", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:03:27", "justificativa": "perguntou se o CVU contratual de gás natural seria usado mesmo se o óleo fosse mais barato", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:06:05",
+      "processo": "48500.005018/2020 (número parcial na legenda)", "interessado": "Distribuidoras e consumidores (consolidação de atos normativos, Decreto 10.139/2019)",
+      "assunto": "Abertura da segunda fase da Consulta Pública 18/2021 (19/08 a 03/10/2021, 45 dias) sobre consolidação dos atos normativos de direitos e deveres do consumidor e usuário do serviço de distribuição (inclui compensação por descumprimento de prazo, devolução em dobro, troca de titularidade, ressarcimento de danos, prazos de conexão pela MP 1.040/lei de conversão e transferência de ativos de iluminação pública)",
+      "tema": ["regulação normativa (consulta pública, consolidação, AIR)", "distribuição (direitos do consumidor, qualidade)", "iluminação pública"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes (instaurada a segunda fase da CP 18/2021)",
+      "resumo_voto": "Primeira fase recebeu 2.038 contribuições de 37 agentes (41,5% aceitas total ou parcialmente); nova fase por pedidos de prorrogação; nova metodologia de compensação (parte fixa e variável, aumentos simulados de 7,15%, 9,31% e 14,08% por tipo de prazo); devolução em dobro como regra (STJ, art. 42 CDC); proposta de prazos de conexão em 01/01/2022 (RJ e SP), 2023 (demais capitais) e 2024 (demais municípios); sugere gestão de conteúdo digital.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova abertura da segunda fase", "ts": "2:30:00", "justificativa": "consolidação sem alterar o mérito, com ajuste de legística; compensação mais alta para induzir cumprimento de prazos; prazo de 45 dias legal e regulamentar", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:30:40", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:30:46", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:31:25",
+      "processo": "48500.006063/2020 (número parcial na legenda)", "interessado": "Distribuidoras (Procedimentos de Distribuição, PRODIST)",
+      "assunto": "Abertura de consulta pública (19/08 a 03/10/2021, 45 dias) para a consolidação dos atos normativos do PRODIST (REN 395/2009, 499/2012 e 730/2016 e 18 atos de revisão dos módulos)",
+      "tema": ["regulação normativa (consulta pública, consolidação)", "distribuição (PRODIST)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Consolidação apenas formal (legística), revoga 21 resoluções, impacta módulos 1, 3, 4, 5, 6, 7 e 8; módulo 3 uniformizado com a versão do item 7; sugestão de uso de ferramenta de gestão de conteúdo. Procuradoria sem contribuições.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova abertura da consulta pública", "ts": "2:33:00", "justificativa": "adequar o PRODIST às regras de legística, eliminar contradições e dispositivos tacitamente revogados sem alterar mérito", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:39:49", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:39:54", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:41:59",
+      "processo": "48500.004937/2020 (número parcial na legenda)", "interessado": "CEEE-D (Companhia Estadual de Distribuição de Energia Elétrica, RS)",
+      "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 904/2021 (recolhimento à CDE de saldos não comprometidos de P&D e PEE); decisão: provimento parcial, pagamento em 4 parcelas iguais de setembro a dezembro de 2021, dia 10 de cada mês, com Selic",
+      "tema": ["CDE e encargos setoriais", "recursos administrativos (reconsideração)", "P&D e eficiência energética", "distribuição (situação econômico-financeira da CEEE-D, troca de controle)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos presentes (conhecido e provido em parte)",
+      "resumo_voto": "Flexibiliza o cronograma apenas se todos os pagamentos de 2021 forem feitos no ano, para não prejudicar o orçamento da CDE; condicionado à troca efetiva do controle (efetivada em 08/07). Procuradoria informou mandado de segurança sem liminar.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, dá provimento parcial", "ts": "2:44:00", "justificativa": "princípio da continuidade do serviço público; a CDE precisa dos recursos no exercício; proposta acompanha a SFF e ajuda a concessionária a ajustar a situação econômico-financeira", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:47:40", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:47:49", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "14", "ts": "2:48:32",
+      "processo": "48500.004384/2011 e 48500.003703/2011 (números parciais na legenda)", "interessado": "Enel Green Power (eólicas Modelo 1 e 2, Caicó, Pau Ferro e Pedra do Jerônimo)",
+      "assunto": "Recomposição do prazo da outorga das centrais geradoras eólicas pelo período do excludente de responsabilidade: 153 dias (Modelo 1 e 2) e 159 dias (Caicó, Pau Ferro e Pedra do Jerônimo), à luz do art. 19 da Lei 13.360/2016",
+      "tema": ["outorgas de geração (eólica)", "recursos administrativos", "excludente de responsabilidade / prescrição quinquenal", "coisa julgada administrativa"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes (conhecido e provido)",
+      "resumo_voto": "Afasta coisa julgada administrativa (superada pela Lei 13.360/2016 e pelo Parecer 154/2021 da PFE); pedido tempestivo pela contagem de 5 anos a partir de 17/11/2016 definida no caso da PCH Divisa (6/7/2021, após sucessivos pedidos de vista); processo já passou pelo ex-relator Júlio César Rezende Ferraz e pelo diretor Cristiano Vieira da Silva (substituto).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, dá provimento", "ts": "2:55:00", "justificativa": "o processo não rediscute o excludente, só a consequência no prazo da outorga; a lei devolveu a competência à agência; matéria exaustivamente discutida no caso da PCH Divisa", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:04:38", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "3:04:44", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "bloco", "ts": "0:05:10",
+      "processo": "itens 19 a 48 da pauta, exceto o 35 (retirado)", "interessado": "diversos (votos disponibilizados no site desde a quinta-feira anterior)",
+      "assunto": "Aprovação em bloco dos itens da pauta sem pedido de preferência ou sustentação oral",
+      "tema": ["bloco de itens", "diversos"],
+      "relator": "vários", "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Bloco aprovado em conjunto logo após a aprovação da ata da 29ª reunião; os itens individuais não foram detalhados nesta parte.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:05:22", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:05:26", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco (pela proclamação)", "ts": "0:05:31", "justificativa": "", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "35 — retirado de pauta do bloco", "relator": "não identificado", "motivo": "retirado de pauta (conforme a secretaria-geral)", "ts": "0:04:30"},
+    {"item": "6 — remanejado a pedido de diretor com voto-vista", "relator": "não identificado", "motivo": "adiado para outro ponto da reunião a pedido do diretor com voto-vista (nome ilegível na legenda)", "ts": "2:05:50"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo parciais, nomes distorcidos; o marcador inicial lista Willamy Frota e Ricardo Tili, que não aparecem na reunião (Ricardo Marques é o secretário-geral).",
+    "Presentes inferidos da abertura e das falas: Efrain Cruz (preside, DG substituto), Sandoval Feitosa e Hélvio Guerra; não foi ouvido voto de quarto diretor nesta parte, embora o presidente tenha mencionado que haveria quatro.",
+    "Atribuição dos nomes nas falas de 'acompanho' por ordem de votação e pela proclamação: confiança baixa/média; quem votou primeiro nos itens 7, 8, 12, 14 e 2 não ficou claro; os itens 12 e 14 podem ter ordem invertida.",
+    "No item 8 um diretor parabenizou o relator pela série de consolidações (provavelmente Hélvio ou Efrain); voz não identificada, por isso sem justificativa atribuída.",
+    "Item 6 (voto-vista) e itens 9, 11, 16 (retirados ou sustentação oral, garbled na pauta lida) não identificados com certeza; o item 3 teria sustentação oral segundo a secretaria, mas não foi julgado nesta parte.",
+    "Reunião suspensa às 12h25 (≈3:06:30); itens 15, 17, 18, 10, 4, 13, 6 e o restante da pauta estão em outra parte do vídeo.",
+    "Número de votos fecha com 3 presentes por item (relator + 2)."
+  ]
+}

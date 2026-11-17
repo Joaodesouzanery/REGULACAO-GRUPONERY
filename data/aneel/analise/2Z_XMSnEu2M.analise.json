@@ -1,0 +1,307 @@
+{
+ "meta": {
+  "video_id": "2Z_XMSnEu2M",
+  "fonte": "legenda automática do YouTube; falantes não rotulados na transcrição; ts = tempo do vídeo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "39ª Reunião Pública Ordinária de 2021",
+  "data": "2021-10-19",
+  "formato": "sessão pública virtual",
+  "presidente_da_sessao": "Elisa Bastos (Diretora-Geral substituta)",
+  "diretores_presentes": [
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [
+   "André Pepitone (representação institucional; Diretor-Geral)",
+   "Sandoval Feitosa (ausência justificada)"
+  ],
+  "observacoes": [
+   "Quórum de três diretores.",
+   "Pauta com 25 itens; retirados de pauta antes da sessão os itens 1 a 5, 13, 19 e 22 (itens 1 a 4: reajustes de Enel Goiás, CPFL Piratininga, Enel SP e outra distribuidora; reunião extraordinária prometida antes do aniversário contratual).",
+   "Item 12 teve sustentação oral (Transmissora Capixaba) e foi retirado pelo relator; item 9 teve sustentação oral em vídeo da Enel SP.",
+   "Itens 6 e 7 terminaram sem decisão (vistas de Elisa Bastos e Hélvio Guerra).",
+   "Encerrada em torno de 2:43:10 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:17",
+   "processo": "itens do bloco da pauta (processos não individualizados na transcrição)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens da pauta com votos e atos previamente disponibilizados na internet (sem destaque)",
+   "tema": [
+    "regulação normativa",
+    "itens de bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Elisa Bastos, presidindo, submeteu o bloco, os três diretores presentes aprovaram e ela proclamou a aprovação por unanimidade dos votantes. Itens individuais do bloco não identificáveis na legenda; o item 12 (destacado) saiu do bloco.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco; proclama unanimidade dos votantes",
+     "ts": "0:06:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:06:52",
+   "processo": "48500.004982/2020-56 (número parcial na legenda)",
+   "interessado": "Roraima Energia S.A. (concessão de Boa Vista, RR)",
+   "assunto": "Recurso administrativo da Roraima Energia contra o Despacho SGT nº 2.888/2020, que fixou o fator de corte de perdas regulatórias no reembolso mensal da CCC em 2021; pedido de fator de corte igual a 1 retroativo a março de 2019 por causa da interrupção do fornecimento da Venezuela",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "tarifas e revisão tarifária (distribuidoras)",
+    "recursos administrativos",
+    "sistemas isolados",
+    "Roraima"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de vista da Diretora Elisa Bastos (sem decisão; não houve sustentação oral)",
+   "resumo_voto": "Relator votou por conhecer e indeferir o recurso (a trajetória de perdas e o fator de corte decorrem de lei e regulamento), mas estabeleceu de ofício que, na glosa entre março de 2019 e abril de 2023, se use um CTG de referência emulado (patamar anterior à interrupção da energia da Venezuela), a ser revisto conforme entrem usinas do leilão de sistemas isolados 1/2019. Elisa Bastos questionou a base jurídica (CTG definido em decreto, ofício do MME como apoio); o procurador-geral admitiu insegurança; Hélvio Guerra achou o mérito inquestionável e acompanhou; Elisa pediu vista.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator: conhece, indefere o recurso e determina CTG emulado de ofício",
+     "ts": "0:11:00",
+     "justificativa": "fator de corte decorre de lei/regulamento e não se pode mudar a curva de perdas; porém aplicar a glosa sobre o CTG pós-Venezuela dupla-penaliza uma concessão 100% térmica subsidiada pela CCC; solução é emular o CTG anterior, dentro da competência regulamentar da ANEEL",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:51:14",
+     "justificativa": "considera o mérito sensato e a proposta defensável; disse, como engenheiro, não ver na lei restrição à forma de calcular o custo, embora a procuradoria aponte insegurança",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "0:51:17",
+     "justificativa": "concorda com o mérito, mas teme fragilidade jurídica: o CTG é definido em decreto (art. 3º do Decreto 7.246) e a decisão se apoia em ofício do MME",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:51:27",
+   "processo": "48500.000100/2009-78 (número parcial na legenda)",
+   "interessado": "BBF S.A. / UTE Brasil Biofios (São João da Baliza, RR)",
+   "assunto": "Pedido de revogação da autorização da UTE Brasil Biofios (9,8 MW), não implantada, com energia vendida no Leilão de Sistemas Isolados 2/2010; multa contratual de cerca de R$ 4,5 milhões (base abril/2010) revertida à modicidade tarifária da Roraima Energia; instrução de apuração de penalidades e da garantia de fiel cumprimento",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções",
+    "leilões (sistemas isolados)",
+    "Roraima"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Resolução autorizativa que revoga a autorização da UTE; penalidade contratual de R$ 4.549.1947 (valor truncado pela legenda; ordem de R$ 4,5 milhões) revertida à modicidade tarifária em processo tarifário da Roraima Energia; SFG em 60 dias instrui processo de penalidades por não implantação (Edital 2/2010); SCG em 60 dias abre processo sobre garantia de fiel cumprimento. Elisa e Hélvio criticaram a demora de anos na decisão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:55:00",
+     "justificativa": "usina de 2012/2013 não entregue, processo parado por anos; revogação não exonera obrigações contratuais e editalícias; pede atenção da fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:06:34",
+     "justificativa": "apontou que a demora excessiva em decidir exige mais agilidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "1:06:38",
+     "justificativa": "destacou as dificuldades de suprimento de Roraima e a necessidade de ações para dar agilidade ao processo",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:07:10",
+   "processo": "48500.001810/2021 (número parcial na legenda)",
+   "interessado": "Enel Distribuição São Paulo (parceira Ufinet, parte relacionada)",
+   "assunto": "Projeto-piloto de solução tecnológica para regularizar a saturação de postes em São Paulo: Ufinet instala cerca de 84 km de cabos de fibra óptica (2.707 postes) no ponto de fixação da distribuidora, sem pagar aluguel; excedente de fibras ofertado a prestadoras de telecom; 18 meses de piloto; cabos transferidos à Enel após 60 meses",
+   "tema": [
+    "compartilhamento de infraestrutura (postes)",
+    "distribuição",
+    "regulação normativa (Resolução Conjunta ANEEL/Anatel/ANP nº 4)",
+    "modicidade tarifária",
+    "inovação / projeto-piloto"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Relator aprovou o piloto com condições técnicas (levantamento inicial em até 2 meses e final, relatório à Comissão de Resolução de Conflitos, termo de cooperação com cronograma, proibição de a Ufinet atender usuário final, regras de preço) e flexibilizou a escolha da parceira, que a SMA/áreas técnicas queriam via processo concorrencial; Sustentação oral em vídeo de Yuri de Oliveira Barros (Enel SP). Hélvio e Elisa apoiaram o piloto.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova o projeto-piloto",
+     "ts": "1:28:00",
+     "justificativa": "piloto testa a futura revisão da resolução conjunta; área restrita (0,2% dos postes) justifica escolha de parte relacionada por segurança operacional; discordou das áreas técnicas em pontos de blindagem de receita e escolha do parceiro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:38:16",
+     "justificativa": "totalmente favorável; a desordem dos fios nos postes é risco ao consumidor e o piloto permite testar a nova norma",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "1:38:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:38:44",
+   "processo": "48500.000381/2021-35 (número parcial na legenda)",
+   "interessado": "SCT (cooperativas de eletrificação rural)",
+   "assunto": "Consolidação de atos normativos da pertinência temática cooperativas de eletrificação rural (Decreto 10.139/2019, agenda regulatória 2021/2022, atividade 14): aprovação de audiência pública virtual em 29/10/2021 sobre minuta de resolução normativa",
+   "tema": [
+    "regulação normativa (consolidação de atos, audiência pública)",
+    "cooperativas de eletrificação rural",
+    "agenda regulatória"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Voto por aprovar a audiência pública virtual em 29/10/2021; a consolidação revoga os regulamentos de regularização de cooperativas como permissionárias (efeitos exauridos; 52 regularizadas) e mantém/consolida os de cooperativas autorizadas (três pendentes). Houve apresentação técnica de especialista da SCT.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova audiência pública virtual",
+     "ts": "1:44:00",
+     "justificativa": "consolidação simplifica e dá transparência; audiência para ouvir a sociedade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:52:50",
+     "justificativa": "elogiou o cuidado do relator e o intuito de transparência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "1:52:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:53:30",
+   "processo": "48500.001830/2020 (número parcial na legenda)",
+   "interessado": "Transmissora Capixaba S.A. (grupo Alupar)",
+   "assunto": "Recurso contra o Despacho SCT nº 1.486/2020 (negou exclusão de responsabilidade pelo atraso de 85 dias na entrada em operação comercial da SE Rio Novo do Sul 345/138 kV e LTs); voto do relator em bloco: provimento parcial (não incidir PVA de 13 a 16/09/2019, com termo de liberação de receita; ONS recontabiliza)",
+   "tema": [
+    "transmissão (atraso, parcela variável por atraso)",
+    "recursos administrativos",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator após sustentação oral, para analisar os argumentos",
+   "resumo_voto": "Sustentação oral de Natália (advogada da Transmissora Capixaba) alegou que as solicitações de intervenção foram negadas pelo ONS por restrições sistêmicas (Copa América, desligamentos simultâneos) e pediu exclusão de responsabilidade por 46 dias e cancelamento da PVA (cerca de R$ 2,6 milhões). Procuradoria opinou por provimento parcial. O relator retirou o processo para refletir sobre os elementos novos; volta em reunião futura.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira de pauta",
+     "ts": "2:04:40",
+     "justificativa": "sustentação oral suscitou dúvidas; o julgador não deve decidir pairando em dúvida",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:05:39",
+   "processo": "48500.002422/2021-49 (número parcial na legenda)",
+   "interessado": "Cooperativa de Geração Compartilhada (Coohajá/Cooperativa) e MFB Participações; CGH João do Passo; áreas da RGE e da Copel (RS)",
+   "assunto": "Pedido de reconsideração com medida cautelar contra o Despacho nº 933/2018 (sic): alocar créditos da CGH João do Passo (área da permissionária Copel) em unidades da RGE, exceção à REN 482 até a revisão normativa; voto-vista de Efrain Cruz; relatora original Elisa Bastos",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos (medida cautelar)",
+    "regulação normativa (REN 482, PL 5.829/2019)",
+    "projeto-piloto"
+   ],
+   "relator": "Elisa Bastos (relatora original); Efrain Cruz (voto-vista)",
+   "resultado": "sem decisão: sem quórum de três votos convergentes; pedido de vista de Hélvio Guerra",
+   "resumo_voto": "Efrain, com voto-vista, propôs conhecer e conceder a cautelar como projeto-piloto sob coordenação das partes (texto de consenso do PL 5.829/2019, art. 15; RGE e Copel favoráveis ao arranjo; custos dos requerentes; reversibilidade). Elisa manteve seu voto original (negar), citando pendências técnicas (balanço energético CCEE, tributação, registro, alocação de custos aos demais consumidores). Hélvio simpatizou com pontos do relator, mas pediu vista; com três diretores, sem maioria, não haveria decisão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: conhece e concede a cautelar em regime de projeto-piloto",
+     "ts": "2:08:00",
+     "justificativa": "fato novo do PL 5.829 aprovado na Câmara (467 a 3) com texto de consenso assinado pela ANEEL e MME; reversibilidade; piloto testa arranjos para regulamentar a REN 482",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "mantém o voto original (nega provimento à cautelar; relatora original)",
+     "ts": "2:26:59",
+     "justificativa": "ainda há dúvidas técnicas, tributárias e de alocação de custos para os demais consumidores; pontos devem ser equacionados antes do piloto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "2:42:58",
+     "justificativa": "reconheceu benefícios da GD e o mérito, mas sem quórum de convergência decidiu antecipar pedido de vista; disse ter preocupação com a alocação de custos e riscos",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "Itens 1 a 4 (processos tarifários Enel Goiás, CPFL Piratininga, Enel SP e outra distribuidora)",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta antes da sessão; extraordinária a ser convocada antes do aniversário contratual",
+   "ts": "0:04:53"
+  },
+  {
+   "item": "Itens 5, 13, 19 e 22",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta antes da sessão (motivo não dito)",
+   "ts": "0:04:53"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem rótulo de falante; atribuição dos 'acompanho' pela ordem usual (relator, demais, presidente) e pela proclamação; confiança media/baixa nesses casos.",
+  "Item 6: o 'acompanho' e o 'vou solicitar vistas' ocorrem em sequência sem nome; atribuí o acompanho a Hélvio Guerra e a vista a Elisa Bastos (presidente, quem levantou a questão jurídica); nenhum dos dois é certo.",
+  "Item 7: o pedido de vista é dito na primeira pessoa por quem fala em quórum de três e cita 'diretor Hélvio' como destinatário da vista; atribuído a Hélvio Guerra por ser o único restante. A transcrição lê 'diretor-geral André' e 'Daniel' (provavelmente Elisa/Pepitone).",
+  "Nesta reunião Elisa Bastos preside como Diretora-Geral substituta; a legenda também a chama de 'diretora Eliza'.",
+  "Números de processo, valores (por ex. R$ 4.549.1947 no item 8) e datas estão parciais ou distorcidos pela legenda.",
+  "Os ts dos votos de relator são aproximados (início da leitura do voto); ts exatos apenas onde a proclamação foi localizada.",
+  "Itens do bloco não individualizados; não identificado o que é o item 5 nem os demais itens do bloco.",
+  "Item 10: Hélvio Guerra aparece na legenda como 'Elvis Neves guerra a costa'; Efrain Cruz como 'ephrain Pereira da Cruz'."
+ ]
+}

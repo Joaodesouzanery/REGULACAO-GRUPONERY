@@ -1,0 +1,392 @@
+{
+ "meta": {
+  "video_id": "gDHyRIeGDAY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores e de falas de diretores aproximados; legenda sem marcadores de tempo internos (ts obtidos do JSON de transcrição)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7",
+  "data": "2021-03-09",
+  "formato": "presencial/híbrido (não explicitado)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral, inferido)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "André Pepitone",
+   "Elisa Bastos",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "7ª Reunião Pública Ordinária de 2021, aberta com quórum de cinco diretores; encerramento no minuto 3:35 da transmissão.",
+   "Abertura com homenagem ao Dia Internacional da Mulher (falas dos diretores), informes (audiências e consultas públicas) e vídeo institucional.",
+   "Ata da 6ª reunião aprovada por unanimidade dos votantes (André Pepitone não votou por ausência na 6ª).",
+   "Pauta de 27 processos: bloco de 19 itens (9 a 27), itens 17 e 18 retirados de pauta; sustentação oral nos itens 4, 6 e 14; preferência para 4 e 14. Julgados fora do bloco os itens 2, 4, 5, 3, 6 e 14.",
+   "Itens 1, 7 e 8 não aparecem na gravação (provavelmente no bloco ou fora da transmissão)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 9-27",
+   "ts": "0:32:20",
+   "processo": "",
+   "interessado": "vários (itens 9 a 27, exceto 14, 17 e 18)",
+   "assunto": "Julgamento em bloco dos itens 9 a 27 da pauta (exceto o 14, destacado, e os 17 e 18, retirados); votos e atos disponibilizados no site desde a quinta-feira anterior. O conteúdo dos itens individuais não é mencionado na reunião.",
+   "tema": [
+    "julgamento em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade (todos os itens do bloco)",
+   "resumo_voto": "Bloco colocado em votação; os diretores aprovaram e o Diretor-Geral proclamou a aprovação de todos os itens do bloco.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:32:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:32:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:32:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:32:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:32:52",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:33:17",
+   "processo": "48500.005037/2020-71",
+   "interessado": "Light Serviços de Eletricidade S.A. (área de concessão: Rio de Janeiro)",
+   "assunto": "Reajuste tarifário anual 2021 da Light: homologação das tarifas de energia (TE) e de uso do sistema de distribuição (TUSD), receita de DIT de uso exclusivo e repasse de recursos da CDE; efeito médio 6,75% (alta tensão 11,83%, baixa tensão 4,67%); inclui componente financeiro de crédito de PIS/Cofins (-3,46%, cerca de R$ 374 milhões diferidos) e reversão da conta Covid.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "crédito de PIS/Cofins",
+    "conta Covid"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologação do reajuste anual da Light com efeito médio de 6,75%. Relator destaca o uso do crédito de PIS/Cofins para atenuar a tarifa, a pressão da transmissão e do dólar (Itaipu) na alta tensão e o reajuste menor na baixa tensão que no ano anterior (4,67% contra 5,98%). Sem sustentação oral; procuradoria: aplicação direta da fórmula contratual. Apresentação técnica da SGT (Gustavo Godoy de Lima). Um diretor, não identificado na legenda, elogiou a condução do relator.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:50:04",
+     "confianca": "alta",
+     "justificativa": "efeito médio de 6,75% (baixa tensão 4,67%, menor que no ano anterior); crédito de PIS/Cofins diferido atenua o impacto tarifário"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:07",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:56:46",
+   "processo": "48500.000163/2019-65",
+   "interessado": "ABRATE (sustentação oral: Thiago Soares); ONS; transmissoras",
+   "assunto": "Resultado da Consulta Pública 5/2020 e relatório de AIR 1/2021 sobre aprimoramento dos comandos regulatórios da vida útil regulatória de equipamentos de transmissão; conclusão da CP mantendo a regulamentação vigente (alternativa 1), com monitoramento por indicadores.",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "vida útil regulatória",
+    "ativos totalmente depreciados"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP 5/2020 concluída sem intervenção regulatória: sem risco de colapso da transmissão por envelhecimento, desligamentos forçados em queda, impacto tarifário hipotético de troca total dos ativos depreciados de 2,31%; monitoramento por três indicadores e atuação pontual (inclusive a alternativa 4 ao planejamento setorial) se houver conduta inadequada. Sustentação oral da ABRATE (Thiago Soares) alertou sobre a alternativa 4 (retirada de ativos: reequilíbrio contratual e custos fixos e variáveis de O&M). Sem parecer da procuradoria. Apresentação da SRT (Felipe Souza). Quatro diretores comentaram em apoio ao relator; legenda não permite atribuir cada fala com segurança.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:36:16",
+     "confianca": "alta",
+     "justificativa": "manter a regulamentação vigente: sem risco de colapso da transmissão, desligamentos em queda, troca total teria impacto tarifário de 2,31%; monitoramento dos ativos"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:53:03",
+   "processo": "48500.000027/2020-40",
+   "interessado": "setor elétrico (ONS, agentes de geração, transmissão e distribuição)",
+   "assunto": "Abertura de consulta pública (11/03 a 26/04/2021, 46 dias) sobre o relatório de AIR de segurança cibernética no setor elétrico; determina fiscalização da SFE/SFG nos centros de operação em até 120 dias e recomenda ao ONS documento operativo com critérios de política de segurança.",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "segurança cibernética",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurada a consulta pública; alternativa 3 (regulamentar os itens da política de segurança cibernética) é a de maior potencial segundo a SRT (apresentação de Bruno Mazetto). Relator cita reuniões com a diretoria do ONS e compromisso de antecipar a deliberação final (prevista para o 1º semestre de 2022). Diretores elogiaram o trabalho e citaram ataques recentes (Energisa, Light, Copel). Sem sustentação oral; procuradoria sem questão jurídica controversa nesta etapa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:22:00",
+     "confianca": "alta",
+     "justificativa": "consulta pública sobre AIR de segurança cibernética; fiscalização dos centros de operação em 120 dias; ONS elabora documento operativo"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:17",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:23:35",
+   "processo": "48500.005027/2020-36",
+   "interessado": "Enel Distribuição Rio (Rio de Janeiro); acessante Energisa Nova Friburgo",
+   "assunto": "Reajuste tarifário anual 2021 da Enel Rio: efeito médio 6,02% (alta tensão 10,38%, baixa tensão 4,63%); fixa TUSD e tarifas de energia, receita de DIT de uso exclusivo, encargo de conexão da Energisa Nova Friburgo e repasse da CDE; reversão da conta Covid atenuou o reajuste (cerca de R$ 800 milhões).",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "conta Covid",
+    "distribuidoras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologação do reajuste da Enel Rio com efeito médio de 6,02%; relator destaca o alívio da reversão da conta Covid e a evolução da tarifa B1 (67,3% em 10 anos) frente ao IGPM (107,3%) e IPCA (63,2%). Sem manifestação jurídica (aplicação direta do contrato). Apresentação da SGT (Cristiane Franco). Outro diretor, não identificado na legenda, destacou que a conta Covid atenuou o reajuste em cerca de 14%.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:36:30",
+     "confianca": "alta",
+     "justificativa": "reajuste médio de 6,02% (baixa tensão 4,63%); conta Covid atenuou a tarifa; evolução da tarifa B1 abaixo do IGPM"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:42:24",
+   "processo": "48500.002712/2019-77",
+   "interessado": "CEEE Distribuição (sustentação oral: Lucas Malheiros Nunes); AGERGS (delegada)",
+   "assunto": "Recurso administrativo da CEEE Distribuição contra o Auto de Infração 4/2017 lavrado pela AGERGS (multa por não conformidades na fiscalização dos indicadores de continuidade, ano-base 2014): provimento parcial.",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "distribuição (qualidade, continuidade, DEC/FEC)",
+    "agência estadual conveniada"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (provimento parcial ao recurso)",
+   "resumo_voto": "Conhecido e provido em parte: cancelada a NC 1 (dificuldade à fiscalização não caracterizada), mantidas as NC 4, 6, 8, 9 e 11 e as determinações, reduzida a multa da NC 4, mantida a conversão da multa da NC 11 em advertência (sem abrir contraditório, para não atrasar mais o processo) e reduzido o total para cerca de R$ 6,34 milhões (valor da legenda: 6.340.637,82). A SFE propunha reenquadrar a NC 11 e agravar; a procuradoria (Parecer 47/2020) seguiu essa linha. Sustentação oral da CEEE sobre a NC 11 criticou o agravamento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, voto pelo provimento parcial",
+     "ts": "3:19:55",
+     "confianca": "alta",
+     "justificativa": "NC 1 não configura dificuldade deliberada à fiscalização; mantém conversão da NC 11 em advertência para evitar reformatio in pejus e novo atraso (fato gerador de 2015)"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:24:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:24:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:24:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:24:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:25:18",
+   "processo": "48500.003832/2020-25",
+   "interessado": "CGT Eletrosul (sustentação oral: Ronaldo Becker); ONS",
+   "assunto": "Recurso administrativo da CGT Eletrosul contra o Auto de Infração 35/2020 da SFE (multa de cerca de R$ 318 mil por reenergizar o transformador TF2 da SE Caxias do Sul 6 em 14/04/2019 sem autorização do ONS, não conformidade tipo 3).",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "transmissão (RAP, outorgas, reforços)",
+    "procedimentos de rede (ONS)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (recurso conhecido e desprovido)",
+   "resumo_voto": "Mantida a multa: a gravidade da infração se mede pela ofensividade potencial ao sistema, independentemente de concretização; a sustentação oral (sem risco ao sistema, pedido de conversão em advertência ou reavaliação) não alterou o voto. Sem parecer da procuradoria. Voto dispensado de leitura integral por ter ido ao bloco/site.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "3:32:49",
+     "confianca": "alta",
+     "justificativa": "gravidade pautada na ofensividade potencial ao sistema, independentemente de sua concretização; nenhum argumento novo na sustentação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:34:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:34:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:34:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:34:16",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "17 — retirado de pauta (assunto não mencionado)",
+   "relator": "não identificado",
+   "motivo": "não informado",
+   "ts": "0:31:20"
+  },
+  {
+   "item": "18 — retirado de pauta (assunto não mencionado)",
+   "relator": "não identificado",
+   "motivo": "não informado",
+   "ts": "0:31:20"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; o cabeçalho de falantes do .md lista nomes que não são os da reunião (inferência errada); presentes definidos pelo conteúdo: Sandoval Feitosa, Efrain Cruz, André Pepitone, Elisa Bastos e Hélvio Guerra.",
+  "Presidência: Sandoval Feitosa tratado como Diretor-Geral e presidente (proclama os resultados); no item 14 a legenda traz frase confusa («diretor Sandoval e ... não está na sala») e «unanimidade dos votantes», sugerindo que nem todos votaram; votos desse item de confiança baixa.",
+  "Votos de seguidores atribuídos pela ordem de votação e pela proclamação (todos «acompanha o relator»); a legenda não identifica quem diz cada «acompanho». Nenhuma divergência registrada.",
+  "Nos itens 2, 4, 5 e 3 a legenda não permite atribuir com segurança cada comentário a um diretor, por isso ficam no resumo sem justificativa individual.",
+  "Número do item na pauta deduzido da ordem de julgamento anunciada («2, 4, 5, 3, 6, 14»); itens 17 e 18 sem assunto. O bloco 9-27 não tem detalhamento; número do processo do bloco desconhecido.",
+  "Valores e números de processo da legenda podem estar parcialmente errados (ex.: multa do item 6, numeração dos processos).",
+  "Falas de encerramento citam «2020» por erro de fala; data pelo título: 09/03/2021.",
+  "Minutos dos votos explícitos de seguidores são do trecho de votação; ts de abertura de leitura de voto do relator aproximados."
+ ]
+}

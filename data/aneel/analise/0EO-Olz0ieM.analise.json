@@ -1,0 +1,85 @@
+{
+  "meta": {"video_id": "0EO-Olz0ieM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10ª Extraordinária de 2020", "data": "2020-11-24", "formato": "videoconferência (Parte 1, até a suspensão para almoço)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores declarado na abertura.", "Parte 1 termina com suspensão da sessão por volta das 11h/12h, retomada às 14h31; os demais itens (2 a 8 e 21 do bloco destacado) ficam na Parte 2, fora deste vídeo.", "Item 1 (reajuste tarifário/suspensão da CEA, Amapá) retirado de pauta pelo relator por causa da crise de energia no Amapá; compromisso de voltar rapidamente com redução tarifária média antes de 30/11.", "Pauta com 25 itens; itens 9 a 25 em bloco (exceto o 21, destacado) aprovados por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:06:46",
+      "processo": "itens 9 a 25 da pauta, em bloco (exceto item 21 destacado)", "interessado": "vários",
+      "assunto": "Votação em bloco dos itens 9 a 25 da pauta, com atos e votos previamente disponibilizados na internet",
+      "tema": ["regulação normativa", "votação em bloco"],
+      "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Diretor-Geral submeteu o bloco; cada diretor declarou aprovação e o Diretor-Geral proclamou a unanimidade.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:06:58", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:07:00", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:07:02", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:07:05", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco; proclama unanimidade", "ts": "0:07:14", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:07:40",
+      "processo": "48500.003852/2281-?? (número ilegível na legenda) e 48500.006599/2013-11", "interessado": "Norte Energia S.A. (UHE Belo Monte)",
+      "assunto": "Pedido de reconsideração da Norte Energia contra o despacho 3.067/2018 que autorizou o segundo termo aditivo ao contrato de concessão 1/2010 (UHE Belo Monte); afastamento da subcláusula segunda da cláusula 10ª; fiscalização do atraso nas unidades 16 a 18",
+      "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos", "fiscalização e sanções", "Belo Monte", "GSF"],
+      "relator": "Sandoval Feitosa", "resultado": "pedido de reconsideração conhecido e indeferido por unanimidade; mantido afastamento da subcláusula; instaurada fiscalização",
+      "resumo_voto": "Voto-vista de Efrain Cruz havia sido apresentado antes; o item voltou à pauta porque o fundamento do GSF/MRE deixou de prosperar após conversa com a diretora Elisa Bastos e reuniões técnicas. Efrain passou a acompanhar o relator; Sandoval manteve o voto com convicção e a votação foi reiniciada.",
+      "sustentacao_oral": "nenhuma nesta sessão",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, mantém o voto (indeferir reconsideração)", "ts": "0:09:30", "justificativa": "manteve o voto proferido com convicção inafastável e disse estar feliz com a mudança de posição do diretor que pedira vista", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "voto-vista revisto: acompanha o relator", "ts": "0:09:16", "justificativa": "voltou o processo à pauta porque a tese sobre a subcláusula 10 estava calcada na questão do MRE/GSF, que deixou de prosperar após conversa com a relatora da matéria correlata e reuniões técnicas", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:10:40", "justificativa": "alinhado à visão do relator e do diretor que pedira vista", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:10:50", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:11:04", "justificativa": "convicção no encaminhamento, acompanhando o voto do relator Sandoval", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:11:52",
+      "processo": "48500.005153/2020-91", "interessado": "SEL/SCT (Aneel)",
+      "assunto": "Abertura de consulta pública, por intercâmbio documental (25/11/2020 a 08/01/2021), para aprimorar a minuta do edital do Leilão de Transmissão nº 1/2021: 5 lotes, 524 km de linhas, cerca de 2.570 MVA, cerca de R$ 1 bilhão, obras em AC, RO, MT, TO, SP e RJ",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas, reforços)", "regulação normativa (consulta pública)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaurar consulta pública exclusivamente por intercâmbio documental; leilão previsto até 30/06/2021, contratos até setembro de 2021; edital segue o do leilão 1/2020 sem alterações substanciais. Procuradoria apenas destacou a observância do rito.",
+      "sustentacao_oral": "nenhuma; apresentação da Secretaria Executiva de Leilões (André Tiburtino)",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:23:35", "justificativa": "importância dos investimentos de transmissão e da segurança regulatória", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:26:49", "justificativa": "destacou a importância do leilão (R$ 1 bi, 2 mil empregos, 6 estados) e que o edital repete o do leilão 1/2020", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:55", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:57", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:50", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:27:17",
+      "processo": "48500.007034/2019-39", "interessado": "Equatorial Piauí Distribuidora de Energia S.A.",
+      "assunto": "Resultado da revisão tarifária extraordinária contratual da Equatorial Piauí, vigência a partir de 02/12/2020, após CP 53/2020 e AP 6/2020: efeito médio de 3,48% (7,70% AT; 2,58% BT); uso de 70% da conta Covid e recursos da RGR (MP 998)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "CDE e encargos setoriais", "distribuição", "tarifa social"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa a RTE com efeito médio de 3,48%; parcela B reflete reavaliação completa da base (sem revisão desde 2013); componentes financeiros de -10,21% (conta Covid -8,07%; liminar -6,81%); portaria MME 413 trata dos ativos indenizados pela RGR como obrigações especiais.",
+      "sustentacao_oral": "Mauricio Veloso, presidente da Equatorial Piauí (0:37:45)",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:19:26", "justificativa": "destacou redução tarifária pela conta Covid e MP 998 e a evolução das tarifas abaixo de IGP-M e IPCA em 10 anos", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:23:00", "justificativa": "elogiou o trabalho da Equatorial no Piauí após visita em outubro, citando subestação Esplanada e polo industrial de Teresina", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:32:10", "justificativa": "recomendou que empresas façam apresentações nas revisões tarifárias e parabenizou a equipe", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:32:14", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama unanimidade", "ts": "1:32:17", "justificativa": "destacou a agenda de redução tarifária (conta Covid, MP 998) e a tarifa social, citando ofício circular SFF 9/2020", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "1", "assunto": "Suspensão do reajuste tarifário e prorrogação das tarifas da CEA (Amapá), retirado de pauta pelo relator por causa da crise de energia no Amapá; compromisso de reapresentar antes de 30/11 buscando redução média", "relator": "não identificado (não é Sandoval nem André pelo contexto)"}
+  ],
+  "limites_da_analise": [
+    "Parte 1 da reunião apenas; itens 5 a 8 e 21 (anunciados como destacados) estão na Parte 2.",
+    "Legenda automática sem marcadores de tempo internos; ts obtidos do JSON de transcrição e aproximados.",
+    "Falantes não identificados individualmente; votos de seguidores atribuídos por ordem e proclamação, confiança baixa/média; atribuição das falas de debate do item 4 entre Sandoval, Elisa, Hélvio e André é incerta.",
+    "Nomes do relator do item 1 e número do processo do item 2 ilegíveis na legenda; nome Rogério Feitosa Neto na legenda corresponde a Sandoval Feitosa; Efrain Pereira da Cruz a Efrain Cruz.",
+    "Item 2: a diretora Elisa já havia votado na sessão anterior; voto repetido registrado pela proclamação."
+  ]
+}

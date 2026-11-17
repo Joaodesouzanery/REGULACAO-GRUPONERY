@@ -1,0 +1,32 @@
+{
+  "meta": {"video_id": "UmA9NRHyhNk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "15ª Reunião Pública Extraordinária de 2021", "data": "2021-12-23", "formato": "presencial com participação remota de procurador",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Quórum de três diretores declarado na abertura; único item da pauta (tarifa de repasse de Itaipu para 2022).", "Apresentação técnica da SGT (servidor Denis Jannuzzi, nome conforme legenda) antes do voto."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "processo": "48500.005230/2021-93",
+      "interessado": "Itaipu Binacional / Centrais Elétricas Brasileiras S.A. (Eletrobras); distribuidoras cotistas",
+      "assunto": "Estabelecimento da tarifa de repasse da potência contratada de Itaipu Binacional para 2022, em caráter provisório até deliberação do Conselho de Administração de Itaipu sobre a base orçamentária das despesas de exploração",
+      "tema": ["tarifas e revisão tarifária", "Itaipu", "CDE e encargos setoriais", "comercialização"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Tarifa de repasse provisória de US$ 24,73 por kW/mês para 2022 (redução de 11,89% frente a 2021), com CUSE provisório de US$ 18,97/kW, queda atribuída à redução do serviço da dívida; saldo positivo da conta de comercialização (cerca de US$ 371 milhões) destinado ao bônus e não à tarifa; ajuste posterior após deliberação do Conselho de Itaipu (reunião prevista para 23/02/2022). Procuradoria afirmou que o ato é vinculado. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:12:21", "justificativa": "ato vinculado ao decreto 4.550/2002 e ao submódulo 6.2 do Proret; valor provisório por falta de deliberação do Conselho de Itaipu; corrigiu no voto a referência de reais para dólares", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:35:33", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator, proclama", "ts": "0:35:37", "justificativa": "comentou a redução de 16% do CUSE por menor serviço da dívida e economia de US$ 46 milhões nas despesas de exploração; valor provisório a ser formalizado pelo Conselho de Itaipu", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros de nomes e números (ex.: ano 2002 por 2022, 'Cruze' por CUSE); valores conferidos entre apresentação e voto.",
+    "Voto de André Pepitone sem nome na fala: atribuído pela ordem (relator, demais, Diretor-Geral por último) e pela proclamação por unanimidade; confiança media, ts aproximado.",
+    "Secretário-geral e procurador citados sem nome confiável na legenda."
+  ]
+}

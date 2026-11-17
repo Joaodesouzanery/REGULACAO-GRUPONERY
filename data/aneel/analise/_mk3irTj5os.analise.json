@@ -1,0 +1,299 @@
+{
+ "meta": {
+  "video_id": "_mk3irTj5os",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão Parte 2; só um marcador de tempo no .md, demais ts obtidos de transcricoes/*.json)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29",
+  "data": "2020-08-11",
+  "formato": "videoconferência (reunião pública ordinária, Parte 2 da tarde)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Retomada às 0:01:14 do vídeo; encerrada em 1:29 aproximadamente.",
+   "Itens numerados conforme pauta (8, 9, 10, 11, 17, 19, 22, 30). Quatro retirados de pauta pelo relator (8, 9, 17, 19); dois prazos de vista prorrogados (10, 11); dois deliberados (22, 30), ambos por unanimidade dos votantes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "8",
+   "ts": "0:01:37",
+   "processo": "48500.002725/2019-46",
+   "interessado": "Brasil Emerge Geradora de Energia Ltda.",
+   "assunto": "Recurso administrativo contra despacho da SCG sobre registro de intenção à outorga de autorização da PCH Ricardo Marins; havia pedido de sustentação oral",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator retira o processo de pauta (pediu desculpas aos diretores por o processo ter chegado até o momento da sessão).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "retira de pauta (relator)",
+     "ts": "0:02:10",
+     "justificativa": "Relator retira o processo de pauta (pediu desculpas aos diretores por o processo ter chegado até o momento da sessão).",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:02:54",
+   "processo": "48500.007394/2019-94",
+   "interessado": "Conselho de Consumidores da Cemig Distribuição (e parlamentares)",
+   "assunto": "Pedido de reconsideração contra a resolução homologatória do reajuste tarifário anual 2020 da Cemig Distribuição; dois pedidos de sustentação oral",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relatora solicita a retirada do processo da pauta do dia.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "retira de pauta (relator)",
+     "ts": "0:03:50",
+     "justificativa": "Relatora solicita a retirada do processo da pauta do dia.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:04:09",
+   "processo": "48500.005985/2017",
+   "interessado": "Energia Intensia (centrais eólicas; multas SCG)",
+   "assunto": "Prorrogação do prazo de pedido de vista no pedido de reconsideração com efeito suspensivo contra despachos que aplicaram multa a titulares de centrais eólicas (Garças, Lagoa Seca, Vento do Oeste, Santa Rosa, Ventos de Santo Inácio, São Geraldo, Sebastião etc.)",
+   "tema": [
+    "fiscalização e sanções",
+    "leilões (energia de reserva)",
+    "recursos administrativos",
+    "outorgas de geração (eólica)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "prorrogação de 8 semanas/sessões concedida sem objeção",
+   "resumo_voto": "Efrain, que tinha pedido vista, pede mais oito semanas por ter se afastado por licença paternidade e para deliberar em conjunto com o processo principal (mérito da energia de reserva, possível rescisão de contrato).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede prorrogação do prazo de vista (8 semanas)",
+     "ts": "0:04:15",
+     "justificativa": "licença por auxílio paternidade; julgar conjuntamente com o processo principal sobre energia de reserva",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:06:04",
+   "processo": "48500.005876/2019-56",
+   "interessado": "Interligação Elétrica Tibagi S.A.",
+   "assunto": "Prorrogação do prazo de pedido de vista no requerimento administrativo/medida cautelar sobre solução alternativa do contrato de concessão 26/2017",
+   "tema": [
+    "transmissão (outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "prorrogação de 8 sessões concedida sem objeção",
+   "resumo_voto": "Mesma razão do item anterior (afastamento por licença); informa que a entrada em operação da subestação é a priori em 2021, sem prejuízo.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede prorrogação do prazo de vista (8 sessões)",
+     "ts": "0:06:10",
+     "justificativa": "ausência por licença; prazo de operação da subestação previsto para 2021, sem prejuízo",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:07:19",
+   "processo": "48500.003404/2019-43",
+   "interessado": "Enel Distribuição Goiás",
+   "assunto": "Recurso contra auto de infração AGR (multa por descumprimento dos procedimentos de acesso, Módulo 3 do PRODIST, 2016-2017); NT recomendava provimento parcial (multa de ~R$5,55 mi para ~R$4,12 mi); sustentação oral da Enel Goiás pedindo reenquadramento do grupo 4 para o grupo 1",
+   "tema": [
+    "fiscalização e sanções",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após a sustentação oral (Elísio Coutinho, Enel Goiás), o relator retira o processo e pede reavaliação da SFR sobre os pontos de enquadramento apresentados, dispensando a manifestação da procuradoria.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "retira de pauta (relator)",
+     "ts": "0:20:10",
+     "justificativa": "pede nova avaliação da SFR sobre os pontos levantados pela Enel Goiás (coerência de enquadramento entre autos de infração)",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "0:21:11",
+   "processo": "48500.003809/2017-35",
+   "interessado": "Fernando Junqueira Franco, Jairo Clemente de Oliveira e Nivaldo José Borges (proprietários rurais) x Churrascaria e Lanchonete Auxiliadora Ltda. EPP",
+   "assunto": "Recurso contra despacho da SCG que aprovou estudos de inventário hidrelétrico do rio Moranga e córrego Formiga (sub-bacia 63, MS); sustentação oral de Rafael Machado (recorrentes) alegando erro de sinal na correlação da série de vazões; SCG manteve recomendação de indeferimento",
+   "tema": [
+    "outorgas de geração (inventário hidrelétrico, PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Procuradoria não opinou (questões técnicas). Relator reconhece que alguns erros apontados foram admitidos pela SCG, mas a área técnica entende que não mudam a conclusão; retira de pauta, vai reunir-se com o recorrente e trará o processo rapidamente de volta.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta (relator)",
+     "ts": "0:41:50",
+     "justificativa": "oportunizar manifestação ao recorrente e reavaliar; compromisso de celeridade e volta breve à pauta",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "0:42:31",
+   "processo": "48500.002846/2020-21",
+   "interessado": "Conselho de Consumidores da área de concessão da Energisa Mato Grosso do Sul (CONSEM)",
+   "assunto": "Pedido de reconsideração contra a RN 885/2020 (conta COVID-19; uso da CDE); pedia incluir componentes financeiros negativos nos processos tarifários homologados antes da RN. Sustentação oral de Rosemeire da Costa (presidente do conselho)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária (distribuidoras)",
+    "regulação normativa",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "não conhecido, por unanimidade dos votantes",
+   "resumo_voto": "Pedido não conhecido por ser contra ato normativo de caráter geral e abstrato (art. 43 do anexo da REN 273/2007); regra precedida da CP 35/2020; não há ilegalidade; a não inclusão de processos já homologados é discricionariedade técnica; isonomia preservada, pois todas terão a reversão até o processo tarifário de 2022; reprocessar tarifas já homologadas não era o objetivo do decreto 10.350/2020.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, não conhece do pedido",
+     "ts": "0:55:30",
+     "justificativa": "ato normativo geral e abstrato; sem vício formal; discricionariedade técnica; isonomia mantida (reversão até 2022, remunerada pela Selic)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:01:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:01:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "1:02:05",
+   "processo": "48500.006316/2017-57",
+   "interessado": "Furnas Centrais Elétricas",
+   "assunto": "Pedido de reconsideração contra a Resolução Autorizativa 8.409/2019 (reforços em transmissão: seccionamento da LT 138 kV Rio Verde-Cachoeira Dourada na SE Rio dos Bois, ligada à Enel Goiás) e valores de RAP. Sustentação oral de José Alves de Melo (Furnas) questionando alocação de obras de 138 kV a transmissora e orçamento (telecom, 2º grupo motor-gerador)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento por unanimidade dos votantes; emissão de resolução autorizativa corrigindo erros materiais",
+   "resumo_voto": "Nega provimento (telecom já coberto pelo banco de preços; 2º grupo gerador é conveniência da empresa e contraria os Procedimentos de Rede; quantitativos baseados no banco de preços); corrige por autotutela a RAP (retirada do acréscimo de linhas curtas, ~R$5.793,88), inclui o anexo 2 de prazos (40 meses) e ajusta textos do anexo 1 (proteção em Cachoeira Dourada é da Enel Goiás). Observa que a discussão sobre obras de 138 kV é de planejamento setorial, fora deste julgamento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento (com correção de erros materiais)",
+     "ts": "1:27:22",
+     "justificativa": "ANEEL sem discricionariedade para mudar a destinação de obras consolidadas pelo planejamento; a questão levantada por Furnas deve ser tratada em outra arena; celeridade (seis notas técnicas)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:28:12",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "8 — Recurso administrativo contra despacho da SCG sobre registro de intenção à outorga de autorização da PCH Ricar",
+   "relator": "Efrain Cruz",
+   "motivo": "Relator retira o processo de pauta (pediu desculpas aos diretores por o processo ter chegado até o momento da sessão).",
+   "ts": "0:01:37"
+  },
+  {
+   "item": "9 — Pedido de reconsideração contra a resolução homologatória do reajuste tarifário anual 2020 da Cemig Distribuiç",
+   "relator": "Elisa Bastos",
+   "motivo": "Relatora solicita a retirada do processo da pauta do dia.",
+   "ts": "0:02:54"
+  },
+  {
+   "item": "17 — Recurso contra auto de infração AGR (multa por descumprimento dos procedimentos de acesso, Módulo 3 do PRODIST",
+   "relator": "Júlio César Rezende Ferraz",
+   "motivo": "Após a sustentação oral (Elísio Coutinho, Enel Goiás), o relator retira o processo e pede reavaliação da SFR sobre os pontos de enquadramento apresentados, dispensando a manifestação da procuradoria.",
+   "ts": "0:07:19"
+  },
+  {
+   "item": "19 — Recurso contra despacho da SCG que aprovou estudos de inventário hidrelétrico do rio Moranga e córrego Formiga",
+   "relator": "Sandoval Feitosa",
+   "motivo": "Procuradoria não opinou (questões técnicas). Relator reconhece que alguns erros apontados foram admitidos pela SCG, mas a área técnica entende que não mudam a conclusão; retira de pauta, vai reunir-se",
+   "ts": "0:21:11"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais e nomes distorcidos (ex.: Efrain Cruz transcrito como Ephrain Pereira da Cruz; processos reconstruídos de forma aproximada).",
+  "Diretor-Geral chamado de André nas falas e inferido como André Pepitone; Rodrigo Limp aparece só como ex-relator do item 17 (redistribuído), não presente.",
+  "Presença inferida: relatores e proclamação; Efrain Cruz, Elisa Bastos e Júlio Ferraz falaram como relatores em itens da sessão. Nos itens 22 e 30 as falas «acompanho» não têm nome na legenda; atribuição a Efrain, Elisa e Ferraz por exclusão (confiança baixa, ordem das falas não identificada). No item 30 só duas falas de acompanhamento foram ouvidas antes da proclamação.",
+  "Itens 10 e 11: prorrogação concedida sem objeção do colegiado; votos individuais dos demais diretores não registrados.",
+  "Itens 8 e 9: o pedido de sustentação oral foi anunciado mas não ocorreu pois o relator retirou o processo.",
+  "Proclamação do item 22 diz «maioria... unanimidade dos votantes»; interpretada como unanimidade.",
+  "Nenhum item sigiloso."
+ ]
+}

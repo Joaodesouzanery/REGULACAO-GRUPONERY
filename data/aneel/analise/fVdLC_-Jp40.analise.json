@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "fVdLC_-Jp40", "fonte": "legenda automática do YouTube; falantes não identificados; trecho curto do bloco da pauta", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "4ª reunião pública ordinária de 2018", "data": "2018-02-23", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo é apenas o bloco da pauta (itens 7 a 47); quórum de três diretores declarado na abertura, sem nomes na legenda.", "Aprovadas as atas da 1ª reunião extraordinária e da 3ª ordinária de 2018.", "Retirados de pauta os itens 29, 34 e 46; destacados do bloco os itens 10 e 11."]
+  },
+  "itens": [
+    {
+      "id": "7-47", "ts": "0:00:00",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de itens 7 a 47 da pauta (exceto 10, 11, 29, 34 e 46), deliberado em bloco; correção de erro material no item 33 (autorização de exploração de usina, Planalto Bioenergia, potência líquida 48.700 kW e não 15 mil kW)",
+      "tema": ["outorgas de geração (bioenergia)", "votação em bloco"],
+      "relator": "não identificado",
+      "resultado": "aprovado em bloco (itens remanescentes)",
+      "resumo_voto": "Sem pedido de destaque além dos itens 10 e 11; feita a correção material no item 33 (relatório/dispositivo), o bloco foi aprovado pelos diretores presentes.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:50", "justificativa": "Voto pela aprovação dos itens remanescentes do bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:55", "justificativa": "Voto pela aprovação de todo o bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:00", "justificativa": "Também vota pela aprovação dos itens remanescentes, proclamando aprovado em bloco.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["29", "34", "46"],
+  "limites_da_analise": ["Nomes dos diretores não aparecem na legenda; votos atribuídos como não identificado.", "Timestamps dos votos aproximados.", "Processos individuais do bloco não são citados, só o item 33."]
+}

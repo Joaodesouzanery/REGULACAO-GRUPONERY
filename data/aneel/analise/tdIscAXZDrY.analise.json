@@ -1,0 +1,204 @@
+{
+ "meta": {
+  "video_id": "tdIscAXZDrY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2 da sessão); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "8",
+  "data": "2019-03-19",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 da 8ª Reunião Pública Ordinária de 2019; encerrada ≈ 1:36:00 do vídeo, com solenidade às 17h de assinatura do contrato de concessão da distribuidora de Alagoas (Ceal/Equatorial).",
+   "3 itens deliberados (8, 9, 10) e 1 informe (11); todos unânimes; item 10 com voto-vista de Sandoval Feitosa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "8",
+   "ts": "0:00:16",
+   "processo": "48500.006569/2018 (sufixo ilegível)",
+   "interessado": "Doxo Comercializadora de Energia Ltda (grafia incerta; representante da Horizonte Têxtil, titular da PCH Coronel Américo Teixeira) x CCEE; distribuidora acessada: Cemig Distribuição",
+   "assunto": "Pedido de impugnação com medida cautelar da comercializadora contra decisões da CCEE (CAd 1.019, 1.028 e 1.030) sobre recontabilização 3386 (devolução de ≈ R$ 4,24 mi), emolumentos (≈ R$ 123 mil) e penalidade por insuficiência de lastro (≈ R$ 6,72 mi), com desligamento da CCEE por inadimplência; PCH Coronel Américo Teixeira (5,6 MW, Santana do Riacho/MG), alterações indevidas na relação do TC do sistema de medição",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "recursos administrativos",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento à impugnação e à cautelar; autos encaminhados para instrução do processo de cassação da autorização de comercializadora (competência ajustada na reunião: superintendência de fiscalização econômico-financeira, SFF, em vez da SCG)",
+   "resumo_voto": "Relatora conhece e nega provimento: responsabilidade pelos dados de medição é do agente independentemente de culpa ou dolo; recontabilização evita enriquecimento ilícito em prejuízo da Cemig D (carga majorada em ≈ 25 mil MWh, +178% na geração da usina); emolumentos e penalidade de lastro devidos; parcelamento deve ser pedido à CCEE; cautelar superada. Sem sustentação oral registrada. Após debate sobre qual superintendência instruiria a cassação, a relatora concordou em encaminhar à SFF.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, nega provimento",
+     "ts": "0:00:16",
+     "justificativa": "responsabilidade do agente pela medição (REN 506/2012, procedimentos de comercialização) independe de culpa ou dolo; recontabilização corrige crédito indevido e evita repasse de custo aos consumidores da Cemig D; concordou em enviar a instrução da cassação à SFF",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator, com observação",
+     "ts": "0:38:19",
+     "justificativa": "achou o voto detalhado e motivado; ponderou que o processo de cassação da autorização deveria ser instruído pela área de fiscalização e não pela de concessão (SCG); depois reiterou a SFF",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:39",
+     "justificativa": "debateu a competência para instruir a cassação (SFF x SFG), notando que processos da CCEE são tratados na SFF; proclamou a unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:50:04",
+   "processo": "48500.0033xx/2017 e outros (número parcialmente ilegível)",
+   "interessado": "Distribuidoras designadas: Amazonas Energia, Boa Vista Energia, CEA (Amapá), Ceal, Cepisa, Ceron, Eletroacre; GT Designadas",
+   "assunto": "Avaliação do cumprimento dos planos de prestação temporária do serviço de distribuição pelas distribuidoras designadas, 1º trimestre de 2018 (nota técnica 9/2018 e NT 1/2019 do GT Designadas)",
+   "tema": [
+    "distribuição (qualidade, perdas)",
+    "CDE e encargos setoriais (empréstimos da RGR)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "privatização de distribuidoras"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: advertir a CEA e o governo do Amapá (acionista controlador) quanto a adimplência intrassetorial e perdas; encerrar as atividades do GT para Boa Vista, Cepisa, Ceron e Eletroacre; dispensado o monitoramento do 2º trimestre de 2018 em diante",
+   "resumo_voto": "Recomendações de suspensão de empréstimos da RGR perderam objeto nas distribuidoras já privatizadas (Amazonas, Boa Vista, Cepisa, Ceron, Eletroacre) ou ficaram prejudicadas na CEA por decisão judicial que garante acesso à RGR; advertência à CEA e ao controlador; recomendação de advertência à Ceal cancelada (risco de punição dupla). Sandoval e Efrain destacaram a situação crítica da CEA (dívida > R$ 720 mi, PMSO real ≈ 215% acima do regulatório, inadimplência > R$ 190 mi); o Diretor-Geral sugeriu convocar o acionista controlador, acatado pelo relator.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:50:44",
+     "justificativa": "suspensão perdeu objeto após leilões/contratos; advertência à CEA e ao governo do Amapá para atingir adimplência e trajetória de melhoria nas perdas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:10:32",
+     "justificativa": "parabenizou o relator; advertência adequada pois suspensão de RGR e reajustes prejudicaria o serviço no Amapá; gestão da CEA muito aquém do esperado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:15:14",
+     "justificativa": "associou-se a Sandoval e Rodrigo; reversão urgente da trajetória, repasses da RGR continuam por decisão judicial; chamar o acionista controlador",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator, com sugestão",
+     "ts": "1:15:40",
+     "justificativa": "advertência não é suficiente diante dos números; sugeriu convocar o acionista controlador (União/governo do Amapá); proclamou a unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:17:00",
+   "processo": "48500.003784/2017",
+   "interessado": "Distribuidoras com concessões prorrogadas (Lei 12.783/2013, Decreto 8.461/2015), entre elas CEEE-D, CPFL (várias), Cocel, Eletrocar, Copel, Celesc, CEB, Cemig, CPFL Sul Paulista",
+   "assunto": "Cumprimento das cláusulas dos contratos de concessão de distribuição prorrogados quanto à qualidade (DEC/FEC 2016) e eficiência da gestão econômico-financeira; voto-vista sobre a interpretação do anexo 3 (item 5 do dispositivo)",
+   "tema": [
+    "distribuição (qualidade, perdas)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator, acompanhado pelo voto-vista; reconhecido o cumprimento dos limites de DEC e FEC de 2016 por diversas distribuidoras; Cemig condicionada a processo de fiscalização; não cumprimento pela CPFL Sul Paulista; consolidado que o parâmetro mínimo de sustentabilidade econômico-financeira não integra as condições de prorrogação (cláusula 18ª)",
+   "resumo_voto": "Voto-vista de Sandoval (pedido na 47ª reunião de 2018) concluiu que as condições de prorrogação de eficiência econômico-financeira são as inequações da subcláusula segunda do anexo 3 (trajetória de melhoria), não o requisito mínimo do caput; interpretar diferente exigiria equilíbrio já no 1º ano, contra o art. 1º, par. 4º do Decreto 8.461/2015. Concordou com o relator, que adiantou trazer o ano de 2017 na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova; mantém o voto",
+     "ts": "1:28:10",
+     "justificativa": "reconhece cumprimento dos limites DEC/FEC 2016 e consolida entendimento sobre sustentabilidade mínima; mantém voto após o voto-vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha o relator no mérito",
+     "ts": "1:17:53",
+     "justificativa": "pediu vista para esclarecer a interpretação do anexo 3 (risco de iniciar caducidade); conclui que o entendimento do relator é coerente com o decreto e os contratos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (mantém voto)",
+     "ts": "1:34:12",
+     "justificativa": "registrou a manutenção do voto após o voto-vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:20",
+     "justificativa": "proclamou a unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:35:12",
+   "processo": "48500.001712/2018 (aproximado)",
+   "interessado": "Cálculo do custo de capital (WACC) para geração e transmissão",
+   "assunto": "Informe do Diretor Rodrigo Limp: audiência pública sobre o cálculo da taxa de retorno de geração e transmissão, sessão presencial remarcada de 4 para 10 de abril de 2019, 9h, na sede da ANEEL. Sem deliberação.",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "informe, sem votação",
+   "resumo_voto": "Comunicação de nova data da sessão presencial da audiência pública.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nome: a relatora do item 8 aparece como «Luísa/Lisa»/«Eliza» e foi atribuída a Elisa Bastos (única diretora na composição); a empresa é grafada «Doxo/Doux/Toxo».",
+  "Presença dos cinco diretores inferida da composição em 2019 e das falas; não houve chamada na Parte 2. O marcador de falantes automático (Sandoval, Ricardo Tili) é impreciso; Ricardo Tili não consta na diretoria em 2019 e foi desconsiderado.",
+  "Item 8: a fala iniciada em 0:39:29 («eu também cumprimento a diretora...») não teve autoria clara (Efrain Cruz ou Rodrigo Limp); votos de ambos registrados só pela proclamação, confiança baixa. Atribuição das falas ao Diretor-Geral baseada em tratamento «André».",
+  "Item 9: fala que menciona «diretor Efraim» é de Sandoval; a de Efrain («me associo... Sandoval e Rodrigo») foi inferida pelo contexto; fala sobre convocar o acionista é do Diretor-Geral (ts aproximado). Voto de Elisa só pela proclamação.",
+  "Número do processo do item 9 parcialmente ilegível; item 11 sem número confiável. Itens 9 e 10 contam com cinco votos cada; item 11 sem votos (informe)."
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "meta": {
+  "video_id": "H8nvf7i5QXQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2 da 18ª RPO, tarde de 26/05/2020); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18 (Parte 2)",
+  "data": "2020-05-26",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 18ª Reunião Pública Ordinária; encerrada ao fim do dia (~4:06 do vídeo).",
+   "6 itens deliberados: 1 (Cemig, retirado de pauta com prorrogação de tarifas), 2, 4, 5, 6 e 8; item 14, destacado do bloco por sustentação oral, foi retirado de pauta.",
+   "Rodrigo Limp deixou a diretoria (nomeado secretário de Energia do MME) e não participa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:17",
+   "processo": "48500.007033/2019-94",
+   "interessado": "Cemig Distribuição S.A.",
+   "assunto": "Reajuste tarifário anual de 2020 da Cemig Distribuição (efeito médio proposto 4,27%): retirado de pauta pelo relator e prorrogação das tarifas vigentes (REH 2.550/2019) até 30/06/2020",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidora",
+    "CDE e encargos setoriais",
+    "covid-19",
+    "créditos de PIS/Cofins (exclusão do ICMS)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "relator retirou o item de pauta; por unanimidade, prorrogadas as tarifas vigentes da Cemig até 30/06/2020 (proclamação do Diretor-Geral)",
+   "resumo_voto": "Sustentações orais do deputado federal Weliton Prado (contra reajuste, denúncias sobre DEC/FEC, sobrecontratação e cobrança por média) e do senador Rodrigo Pacheco (crédito de mais de R$ 6 bi de PIS/Cofins/ICMS transitado em julgado, que poderia permitir redução tarifária). Procuradoria: reajuste é cláusula contratual, não há como não aplicar; não se reabrem ciclos encerrados. Relator Efrain Cruz retirou o item para negociar com a Cemig e a Receita a devolução do crédito (R$ 4 bi incontroverso) e propôs prorrogar as tarifas, pois o aniversário é 28/05; Júlio Ferraz perguntou sobre a cota de CDE no período. Colegiado aprovou a prorrogação por ato formal e o item volta em semana seguinte.",
+   "sustentacao_oral": [
+    "Weliton Prado (deputado federal)",
+    "Rodrigo Pacheco (senador)"
+   ],
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira de pauta e propõe prorrogação das tarifas até 30/06",
+     "ts": "0:40:30",
+     "confianca": "alta",
+     "justificativa": "tarifa é cláusula contratual; crédito tributário de PIS/Cofins deve voltar ao consumidor e será tratado em tomada de subsídios; busca solução com Receita e Cemig antes de decidir"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a prorrogação (levantou dúvida sobre a cota de CDE)",
+     "ts": "0:48:45",
+     "confianca": "media",
+     "justificativa": "perguntou se a cota de CDE também seria afetada pela prorrogação até 30/06"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha a prorrogação",
+     "ts": "0:48:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a prorrogação (pela proclamação)",
+     "ts": "0:49:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:49:27",
+     "confianca": "alta",
+     "justificativa": "proclamou prorrogação das tarifas da REH 2.550/2019 até 30/06/2020"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:50:27",
+   "processo": "48500.001785/2020-85",
+   "interessado": "Permissionárias com aniversário em 29/05/2020: CEMIRIM, CERSE, CERPRO, CERP (cooperativas de eletrificação, SP e SE; siglas pela legenda)",
+   "assunto": "Homologação das tarifas de energia e de uso do sistema de distribuição das permissionárias com aniversário em 29/05/2020 (CEMIRIM, CERSE, CERPRO e CERP, SP/SE); diferimento até 30/06 para as de efeito positivo (10%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "permissionárias / cooperativas",
+    "CDE e encargos setoriais",
+    "covid-19",
+    "distribuidora"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeitos médios: negativos para duas permissionárias (cerca de -1,44% e -0,11%) e positivos de 10% (limite da Lei 13.360) para as outras duas; suspensão da aplicação até 30/06/2020 para as de efeito positivo, dedução da cota CDE em maio/junho e recomposição em 11 parcelas corrigidas pela Selic; negado pleito da CEMIRIM sobre descontos por fonte. Apresentação da SGT (André Walter).",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova",
+     "ts": "1:10:30",
+     "confianca": "alta",
+     "justificativa": "homologar resultados, suspender aplicação até 30/06 para as de efeito positivo, deduzir cota CDE e recompor em 11 parcelas"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:11:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:11:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:11:24",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:12:26",
+   "processo": "48500.001279/2020-96",
+   "interessado": "ANEEL (SRG/SGT/SRM) — sistema de bandeiras tarifárias",
+   "assunto": "Suspensão excepcional e temporária da sistemática de acionamento das bandeiras tarifárias (submódulo 6.8 do Proret) e acionamento da Bandeira Verde até 31/12/2020, em razão da pandemia e da Conta-covid (Decreto 10.350/2020); prêmio de risco (Lei 13.203/2015) destinado prioritariamente ao risco hidrológico (REN 684/2015)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "comercialização (CCEE, PLD, contratos)",
+    "CDE e encargos setoriais",
+    "covid-19",
+    "regulação normativa (consulta pública 11/2020)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Queda de carga pela pandemia desarranjou a metodologia (exposição no MCP e energia de reserva ganham peso, GSF cai); simulações da SRG/SRM (Bruno) mostraram cobertura inadequada pela regra atual e que a bandeira verde tende a ser adequada; custos já cobertos pela Conta-covid, evitando cobrança em duplicidade. Mantém cobertura tarifária e estabilidade regulatória; CP 11 retomada depois. Relatoria herdada de Rodrigo Limp (nomeado secretário de Energia do MME).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:48:04",
+     "confianca": "alta",
+     "justificativa": "pandemia torna a metodologia inadequada; bandeira verde até dezembro, alinhada à Conta-covid, sem custo adicional ao consumidor"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:49:30",
+     "confianca": "media",
+     "justificativa": "parabenizou o voto; entendeu que sem a Conta-covid haveria cobrança em duplicidade via bandeira amarela"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:53:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:54:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "1:54:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:55:53",
+   "processo": "48500.003048/2018-01",
+   "interessado": "Chesf (concessionária da CGMossoró 4) e centrais eólicas Famosa I, São Paulo, Pau Brasil e Rosada",
+   "assunto": "Ressarcimento à Chesf pelas instalações de uso exclusivo de centrais de geração (ICG) Mossoró 4, após extinção das outorgas das eólicas; pedido de homologação de aditivos contratuais entre as partes",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "negado provimento ao pedido de homologação dos aditivos; aprovado por unanimidade dos votantes",
+   "resumo_voto": "Valor regulatório de cerca de R$ 15 milhões devido à Chesf nos termos da REN 320/2008; as partes podem acordar a forma de pagamento, mas a ANEEL não pode homologar nem intervir em aditivo ao CCT, e a proposta oneraria novo acessante; ativos passam a amortizados.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, nega provimento",
+     "ts": "2:13:23",
+     "confianca": "alta",
+     "justificativa": "ANEEL não é parte do CCT; proposta das partes seria mais gravosa a terceiro acessante e contraria a REN 320/2008"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:14:00",
+     "confianca": "media",
+     "justificativa": "esclareceu que o pedido é descabido: a ANEEL não é parte do CCT, o valor está definido e as partes acertam livremente a forma de pagamento sem envolver terceiros"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:16:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:16:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "2:16:07",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:16:42",
+   "processo": "48500.002329/2020-52",
+   "interessado": "Comerc Comercializadora de Energia Elétrica Ltda.",
+   "assunto": "Requerimento administrativo da Comerc para flexibilizar, durante a pandemia, requisitos de migração de consumidores ao ACL (adequação do SMF, adesão à CCEE, conta no banco)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "abertura de mercado livre",
+    "recursos administrativos",
+    "covid-19"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e indeferido; por unanimidade (proclamação)",
+   "resumo_voto": "Sustentação oral de Christopher Vlavianos (presidente da Comerc). Relator: a adequação do SMF não pode ser flexibilizada (dupla coleta, segurança da contabilização na CCEE); adesão à CCEE já foi flexibilizada pela câmara; conta bancária é com a instituição financeira; casos concretos devem ir à negociação com a distribuidora, mediação (SMA) e fiscalização (SFE).",
+   "sustentacao_oral": [
+    "Christopher Vlavianos (Comerc)"
+   ],
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, indefere",
+     "ts": "2:46:58",
+     "confianca": "alta",
+     "justificativa": "flexibilização ampla e irrestrita do SMF comprometeria a medição e a CCEE; casos concretos tratados individualmente"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "2:52:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:51:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:51:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:51:57",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:52:26",
+   "processo": "48500.002112/2015-40",
+   "interessado": "Empresa Litorânea de Transmissão de Energia S.A. (ELT) — contrato de concessão 16/2014",
+   "assunto": "Requerimento da ELT de rescisão amigável do contrato de concessão 16/2014 ou, subsidiariamente, redução de escopo (supressão do Litoral Norte, SE Domênico Rangoni) com reequilíbrio econômico-financeiro; indeferido, com prosseguimento do processo punitivo (caducidade) na SFE",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos",
+    "licenciamento ambiental"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "conhecido e negado provimento; por unanimidade dos votantes",
+   "resumo_voto": "Sustentação oral de Márcio Pina (ELT). Relator: o edital atribui ao transmissor o risco do projeto e do licenciamento; EPE/MME mostraram solução viável (torres menores, ajuste de 5 km e nova carta de aproximação de voo), logo não há excludente de responsabilidade; escopo único e indivisível; necessidade premente na região (Elektro, Piratininga); SFE deve prosseguir o processo 48500.004/2018-55 de apuração de falhas e possível caducidade. Havia mandado de segurança exigindo decisão.",
+   "sustentacao_oral": [
+    "Márcio Pina (ELT)"
+   ],
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega provimento",
+     "ts": "4:04:00",
+     "confianca": "alta",
+     "justificativa": "risco do projeto e do licenciamento é da transmissora; solução viável apontada pela EPE; obra premente para a região"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:05:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "4:05:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "4:05:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade dos votantes",
+     "ts": "4:05:23",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "14 (destacado do bloco por pedido de sustentação oral; assunto não citado)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pelo Diretor-Geral)",
+   "ts": "1:11:58"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo dos itens 5, 6 e 8 e siglas das cooperativas do item 2 incertos.",
+  "Votos de seguidores (Sandoval, Efrain, Elisa, Júlio) raramente têm nome na legenda; atribuição pela proclamação e ordem; ts aproximados e confiança baixa/media.",
+  "Item 1: no encaminhamento, quem disse eu volto/acompanho após a pergunta de Júlio e a ordem Júlio, Elisa, Sandoval são inferidas.",
+  "Item 4: o discurso favorável longo de um diretor (parabeniza relator, Conta-covid) pode ser de Elisa ou Júlio; não atribuído. Sandoval atribuído pela fala citando Efrain.",
+  "Item 6: um diretor fez ressalva sobre a REN 1000/748 (SMF) e pediu atenção das superintendências; nome não identificado na legenda (entre Efrain, Elisa e Júlio). Sandoval respondeu como relator.",
+  "Numeração dos itens 3 e 7 da pauta não aparece nesta parte; numeração da pauta do item 4 (bandeiras) inferida.",
+  "Item 2: nomes e valores dos descontos dependem da legenda."
+ ]
+}

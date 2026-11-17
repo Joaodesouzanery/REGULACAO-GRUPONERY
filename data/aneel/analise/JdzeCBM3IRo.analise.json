@@ -1,0 +1,31 @@
+{
+  "meta": {"video_id": "JdzeCBM3IRo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Extraordinária de 2020", "data": "2020-01-14", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa",
+    "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "André Pepitone"],
+    "ausentes": ["Efrain Cruz (férias)", "Rodrigo Limp (viagem a serviço)"],
+    "observacoes": ["Quórum de três diretores declarado na abertura; pauta com um único processo.", "O terceiro diretor presente não é nomeado na legenda; atribuído a André Pepitone por exclusão (Efrain Cruz de férias, Rodrigo Limp em viagem)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:18",
+      "processo": "48500.000151/2020-13", "interessado": "Abradee (Associação Brasileira de Distribuidores de Energia Elétrica)",
+      "assunto": "Pedido de medida cautelar da Abradee para suspender o art. 5º da REN 800/2017 (prazos do recadastramento/revisão cadastral de unidades consumidoras com benefícios tarifários rural, água/esgoto/saneamento, irrigação e aquicultura); instauração de consulta pública de 60 dias sobre prorrogação dos prazos (REN 800, art. 5º, e REN 414, art. 53-X)",
+      "tema": ["recursos administrativos (medida cautelar)", "CDE e encargos setoriais", "tarifas (benefícios tarifários rural)", "regulação normativa (consulta pública)", "distribuição"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes: cautelar concedida e consulta pública instaurada",
+      "resumo_voto": "Relatora conheceu e deu provimento à cautelar (fumus boni iuris e periculum in mora): prazo da REN 800 insuficiente na primeira revisão cadastral; consumidores que perderam o desconto por inexequibilidade do prazo podem ser refaturados; os já notificados e reprovados em visita técnica permanecem sem benefício. Consulta pública de 60 dias (até 16/03/2020) para prorrogar a primeira revisão para 2020-2023, cronograma por distribuidora e ciclos de 5 anos a partir de 2024; AIR dispensada por urgência (NO 40). Sustentação oral da Abrasce (Victor Hugo), contrária à prorrogação e pedindo reforço da fiscalização (indícios de cerca de R$ 70 milhões de subsídio irregular em três distribuidoras); a Procuradoria apontou fumaça do bom direito, sem manifestação conclusiva.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, concede a cautelar e instaura consulta pública", "ts": "0:11:53", "justificativa": "prazo da primeira revisão cadastral mostrou-se insuficiente; risco de descadastramento de quem tem direito ao benefício; mantém exclusão de quem comprovadamente não se enquadra", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:35:02", "justificativa": "quem já se sabe sem direito não deve voltar a receber; distribuidoras podem reclassificar de imediato; casos da Abrasce (Celesc, Cemig, Copel) em fiscalização pela SFR; subsídio rural decorre da atividade, não da localização", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora", "ts": "0:38:18", "justificativa": "parabeniza a relatora; agência segue combatendo subsídios (desoneração tarifária); decisão atinge só consumidores elegíveis com dificuldade documental; exclusão dos inelegíveis segue imediata", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "A legenda não nomeia o terceiro diretor; André Pepitone foi atribuído por exclusão e pela ordem de fala (Sandoval, depois o segundo orador); confiança media.",
+    "Sandoval presidiu a sessão e proclamou o resultado (Diretor-Geral Rodrigo Limp em viagem); ts da proclamação 0:42:30; a fala do segundo orador (0:35:02) foi atribuída a Sandoval porque o seguinte diz associar-se à manifestação do diretor Sandoval.",
+    "Número do processo conforme legenda (48.500 000 151 2020-13); grafias de siglas (Abrasce, SFR, SRD) podem estar erradas."
+  ]
+}

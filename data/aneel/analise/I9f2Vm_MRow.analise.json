@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "I9f2Vm_MRow", "fonte": "legenda automática do YouTube; falantes não identificados; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "30ª Ordinária", "data": "2018-08-21", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Vídeo curto (bloco da pauta, itens 15 a 27). Quórum de três diretores declarado na abertura; ata da 29ª aprovada. Itens 6, 7 e 17 retirados de pauta. Ordem: itens do bloco, depois item 14, depois ordem normal da pauta, exceto o item 1, deliberado ao final."]
+  },
+  "itens": [
+    {
+      "id": "bloco 15-27", "ts": "0:00:00",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de itens da pauta (15 a 27, exceto o 17, retirado de pauta), votados em conjunto, sem destaque; minutas disponíveis no site desde a quinta-feira anterior",
+      "tema": ["bloco de itens sem destaque"],
+      "relator": "não identificado", "resultado": "aprovado por unanimidade (todos aprovados)",
+      "resumo_voto": "Os três diretores presentes votaram pela aprovação dos itens do bloco; o presidente da sessão proclamou todos aprovados.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova os itens do bloco", "ts": "0:00:00", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova integralmente os itens do bloco", "ts": "0:00:00", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova os itens do bloco", "ts": "0:00:00", "justificativa": "", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "17", "motivo": "retirado de pauta"}, {"id": "6", "motivo": "retirado de pauta"}, {"id": "7", "motivo": "retirado de pauta"}],
+  "limites_da_analise": ["Legenda sem nomes de diretores nem números de processos; votos e relatores não atribuíveis a pessoas.", "Itens do bloco não detalhados individualmente."]
+}

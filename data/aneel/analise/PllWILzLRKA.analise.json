@@ -1,0 +1,631 @@
+{
+ "meta": {
+  "video_id": "PllWILzLRKA",
+  "fonte": "legenda automática do YouTube (nomes e números imprecisos); falantes não identificados na maioria das falas; ts do vídeo da Parte 2; marcadores de tempo aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "33",
+  "data": "2019-09-10",
+  "formato": "presencial (Parte 2 da gravação; tarde)",
+  "presidente_da_sessao": "não identificado (mesa cita diretor-geral substituto na Parte 2)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 da 33ª RPO; Parte 1 (wnHUJtJ2fIw) trouxe a abertura e quórum de três diretores, depois cinco (quórum completo anunciado).",
+   "Itens 11 a 18 (DUP de linhas de 34,5 kv na PB e RN) deliberados em bloco, com pedidos de vista da reunião anterior (27/08/2019).",
+   "Encerrada às 3h52 do vídeo (Parte 2)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "4",
+   "ts": "0:00:13",
+   "processo": "48500.004949/2018-10 (numeração da legenda: 48.500 00 49 49 2018)",
+   "interessado": "SFF / SRM (área técnica); segmento de distribuição de energia elétrica",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 11/09 a 10/11/2019, 60 dias) para colher subsídios sobre a atualização do Banco de Preços Referenciais (BPR) da distribuição (submódulo 2.3 do PRORET)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "banco de preços referenciais / base de remuneração"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (audiência pública instaurada)",
+   "resumo_voto": "Atualização do BPR (RN 686/2015, versão 2 do submódulo 2.3) prevista na agenda regulatória; apresentação técnica pela superintendente adjunta da SFF; base de dados e painéis em Power BI abertos à sociedade; 60 dias de audiência por intercâmbio documental.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, vota pela instauração da audiência pública",
+     "ts": "0:02:30",
+     "confianca": "alta",
+     "justificativa": "avanço importante na transparência do banco de preços; plataforma computacional amigável e reprodutível para simular cenários"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:14:10",
+   "processo": "48500.002919/1998-29 (legenda: 48.500 00 29 19/1998)",
+   "interessado": "ONS",
+   "assunto": "Proposta de abertura de audiência pública sobre alterações no Estatuto do Operador Nacional do Sistema Elétrico (ONS)",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "institucional/TCU"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "O relator Efrain Cruz retirou o processo de pauta sem justificar na sessão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "retirou de pauta",
+     "ts": "0:14:35",
+     "confianca": "alta",
+     "justificativa": "retirada de pauta anunciada pelo relator, sem explicação"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:14:40",
+   "processo": "48500.004908/2016-53 (legenda: 48.500 00 49 08 2016)",
+   "interessado": "Energisa Mato Grosso Distribuidora de Energia S.A. (beneficiária da CCC); Eletrobras (ex-gestora da CCC); CCEE (atual gestora)",
+   "assunto": "Fiscalização: reprocessamento mensal dos benefícios reembolsados pela CCC à Energisa MT, 30/07/2009 a 30/04/2017 (valor a reembolsar: R$ 97.949.805,59 a preços de jan/2019)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (proclamado pelo relator)",
+   "resumo_voto": "Fixa o valor a reembolsar pela CCC à Energisa MT em R$ 97,95 milhões (jan/2019); determina à CCEE o reembolso no exercício de 2020 conforme disponibilidade do fundo (correção pelo IPCA); determina à SGT avaliar reprocessar a CVA energia da MT de jan a dez/2016 (custo de geração abaixo do ACR médio, a reverter à modicidade). Relator pediu desconsiderar dois parágrafos com erros da assessoria. Houve debate sobre notas fiscais x medição das PCHs, impacto no orçamento da CDE e outros 17 agentes a fiscalizar.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, vota por fixar o valor e pagar a partir de 2020",
+     "ts": "0:15:00",
+     "confianca": "alta",
+     "justificativa": "valor significativo (R$ 97 mi) não previsto no orçamento da CDE; outros 17 agentes serão fiscalizados; mesmo encaminhamento do caso Amazonas"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10 (número inferido)",
+   "ts": "0:46:38",
+   "processo": "48500.005797/2008-64 (legenda: 48.500 00 57 97/2008 traz 64; ano provavelmente 2018)",
+   "interessado": "SPE (Superintendência de Pesquisa e Desenvolvimento e Eficiência Energética); 38 propostas de empresas; Enel Distribuição Goiás (carta pedindo retificação)",
+   "assunto": "Consolidação da avaliação inicial de 38 propostas do Projeto Estratégico de P&D nº 22 (soluções de mobilidade elétrica eficiente): aprovar 5, aprovar com recomendações 25 e reprovar 8",
+   "tema": [
+    "P&D e eficiência energética",
+    "mobilidade elétrica",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (5 aprovadas, 25 aprovadas com recomendações, 8 reprovadas)",
+   "resumo_voto": "Maior chamada de P&D do ano: R$ 463 milhões aprovados, com contrapartida de R$ 72 milhões (15%, acima dos 10% exigidos). Carta da Enel Goiás pedindo retificação, chegada na véspera, não acatada por não ser isonômica com os outros 7 reprovados; análise remetida à fase recursal. Debate sobre articulação com poder público local e disparidade regional (Sudeste concentra os recursos). Sustentação técnica pelo superintendente da SPE.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (5 aprovadas, 25 com recomendações, 8 reprovadas)",
+     "ts": "1:00:30",
+     "confianca": "alta",
+     "justificativa": "mantém reprovação dos 8 e remete a fase recursal; mobilidade elétrica reduz dependência de combustíveis fósseis"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:10:00",
+     "confianca": "media",
+     "justificativa": "comentou benefícios ambientais e sociais da mobilidade elétrica e a necessidade de articulação com municípios e estados (atribuição pelo comentário seguinte ao 'comentários da diretora Elisa'; fala sem nome na legenda)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:10:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:10:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:13:36",
+   "processo": "48500.002143/2019 (legenda: 48.500 00 24 21 43 de 2019)",
+   "interessado": "Canoas 4 Energia Renovável S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: UHE/eólica Canoas 4 (aerogeradores e subestação norte), Santa Luzia/PB",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "Elisa Bastos (relatora original)",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Votos-vista de Sandoval e outros diretores sobre a DUP; mérito igual nos itens do bloco. Debate no item 11: instalações de interligação entre aerogeradores e subestação coletora integram a central geradora; a DUP só vale da subestação coletora ao ponto de conexão; as outorgas devem ser revistas com esse critério.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: concorda com a relatora, aprova a DUP",
+     "ts": "1:19:15",
+     "confianca": "alta",
+     "justificativa": "DUP devida; propõe aprimoramento: instalações entre aerogeradores e subestação coletora fazem parte da central geradora e não devem constar do sistema de interesse restrito nem justificar DUP"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora original, aprova a DUP",
+     "ts": "1:21:12",
+     "confianca": "media",
+     "justificativa": "a DUP só é devida entre a subestação coletora e o ponto de conexão à rede; trecho aerogeradores-subestação é negociação do empreendedor"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:22:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:22:43",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:23:50",
+   "processo": "48500.002145/2019",
+   "interessado": "Chafariz 2 Energia Renovável S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: eólicas Chafariz 2 (Santa Luzia/PB)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (voto-vista/relatoria; pela proclamação)",
+     "ts": "1:24:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:24:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:24:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:24:31",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:24:40",
+   "processo": "48500.002146/2019",
+   "interessado": "Chafariz 3 Energia Renovável S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: eólicas Chafariz 3 (Santa Luzia/PB)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova a DUP",
+     "ts": "1:25:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:26:10",
+   "processo": "48500.002148/2019",
+   "interessado": "Chafariz 7 Energia Renovável S.A. (a legenda diz Lagoa 4 na proclamação; incerto)",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: eólicas Chafariz 7 (Santa Luzia/PB)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (voto-vista/relatoria; pela proclamação)",
+     "ts": "1:27:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:27:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:27:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:27:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:27:50",
+   "processo": "48500.002149/2019",
+   "interessado": "Lagoa 3 Energia Renovável S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: eólicas Lagoa 3 (variante da linha, Santa Luzia/PB)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova a DUP",
+     "ts": "1:27:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:28:50",
+   "processo": "48500.002150/2019",
+   "interessado": "Lagoa 4 Energia Renovável S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: eólicas Lagoa 4 (Santa Luzia/PB)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (voto-vista/relatoria; pela proclamação)",
+     "ts": "1:30:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:30:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:30:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:30:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:30:20",
+   "processo": "48500.002150/2019 (legenda repete o número do item 16; incerto)",
+   "interessado": "Vila Piauí I Empreendimentos e Participações S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: Vila Piauí I (Serra do Mel/RN, a legenda diz Santa Luzia)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (voto-vista/relatoria; pela proclamação)",
+     "ts": "1:31:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:31:20",
+   "processo": "48500.002642/2019 (legenda: 48.500 00 26 42 de 2019)",
+   "interessado": "Vila Piauí II Empreendimentos e Participações S.A.",
+   "assunto": "Declaração de utilidade pública (DUP) para instituição de servidão administrativa, linha de 34,5 kv: Vila Piauí II (Serra do Mel/RN)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "declaração de utilidade pública / servidão administrativa"
+   ],
+   "relator": "Elisa Bastos (voto-vista)",
+   "resultado": "aprovado por unanimidade (resolução autorizativa); itens 11 a 18 deliberados em bloco, os de vista apreciados na mesma sessão",
+   "resumo_voto": "Mérito idêntico ao item 11 (DUP concedida).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista e relatora, aprova a DUP",
+     "ts": "1:31:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "1:31:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:32:41",
+   "processo": "48500.003071/2018-97 (legenda: 48.500 00 30 71 2018 disto 97)",
+   "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte), recorrente; SFE (fiscalização); perturbação de 21/03/2018 (perda do bipolo 1 do elo CC Xingu-Estreito, isolamento N/NE)",
+   "assunto": "Recurso administrativo da Eletronorte contra o Auto de Infração nº 15/2019 (multa reduzida em reconsideração para R$ 3.990.351,93) por falhas na recomposição após a perturbação de 21/03/2018 (não conformidades 2, 3 e 4); sustentação oral da Eletronorte",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos",
+    "transmissão (RAP, outorgas, reforços)",
+    "perturbações / recomposição do sistema"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (diretor não identificado na legenda); sem deliberação nesta sessão",
+   "resumo_voto": "Relatora vota por conhecer e negar provimento, mantendo a multa de R$ 3.990.351,93: NC2 (falhas operativas em equipamentos em 9 subestações) mantida; NC3 (não preparação tempestiva da SE São Luís 2 e posição indevida do tap) mantida, com dano igual a zero na dosimetria. Sustentação oral por representantes da Eletronorte (Igor Peterson Socorro Alves da Cunha e Jeferson Martins Cury, nomes pela legenda). Um diretor questionou a NC3 (tap sem efeito concreto na recomposição) e, após dois colegas acompanharem a relatora, pediu vista.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, nega provimento ao recurso (mantém multa)",
+     "ts": "1:54:58",
+     "confianca": "alta",
+     "justificativa": "NC2: quantidade e gravidade das falhas de comando e supervisão; NC3: preparação tempestiva é essencial; multa proporcional ao faturamento (0,0225% e 0,029%, teto de 1%)"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha a relatora (um dos diretores, antes da vista)",
+     "ts": "2:05:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha a relatora (segundo diretor, antes da vista)",
+     "ts": "2:05:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "2:06:36",
+     "confianca": "baixa",
+     "justificativa": "dúvidas sobre a NC3 e a dosimetria: o tap foi corrigido antes da ordem de recomposição e não causou dano"
+    }
+   ]
+  },
+  {
+   "id": "22 (número inferido; pauta cita item 1 na legenda)",
+   "ts": "2:06:56",
+   "processo": "48500.001756/2019-80 (legenda: 48.500 00 1756 2019)",
+   "interessado": "SEL (Secretaria Executiva de Leilões); EPE; MME; sustentações: ABEEólica (Sandro Yamamoto), APINE (Gisela Scott), Minas PCH (José Guilherme Nascimento); Procurador-Geral comentou",
+   "assunto": "Aprovação do edital e anexos do Leilão de Geração nº 4/2019 (A-6/2019), energia nova de hídrica, eólica, solar e termelétrica; sazonalização/modulação de contratos por quantidade; garantias e multas contratuais",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "comercialização (CCEE, PLD, contratos)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por maioria no mérito da sazonalização (prevaleceu a divergência de Efrain Cruz: sazonalização dos contratos por quantidade eólica e solar pelo perfil de carga declarada pelo comprador, sem modulação nesta rodada); estudo sobre garantias de proposta dos compradores em 60 dias",
+   "resumo_voto": "Relatora aprova o edital como proposto pela SEL (multa contratual de até 5% do investimento, execução da garantia de fiel cumprimento, retirada do aporte de garantia pelos compradores), mantém a sazonalização pelo perfil de geração (A-6/2018 e A-4/2019) e propõe estudo da SRM sobre sazonalização/modulação em 60 dias. Efrain Cruz apresenta voto divergente: sazonalização e modulação pelo perfil de carga das distribuidoras, para alocar risco no gerador e evitar subsídio cruzado. No debate, outros diretores (nomes não identificados) pesaram falta de massa crítica e a chegada do PLD horário; diretor-geral propôs transição: só a sazonalização agora. Resultado proclamado: sazonalização pelo perfil de carga do comprador e estudo de garantias de proposta; a diretoria encerrou com a divergência de Efrain prevalecendo na sazonalização.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora; vota pelo edital com sazonalização pelo perfil de geração e estudo em 60 dias; vencida na sazonalização (inferido)",
+     "ts": "3:12:39",
+     "confianca": "media",
+     "justificativa": "manter modelo recente dos contratos por quantidade eólico/solar; falta de números quantitativos; propõe estudo; risco hidrológico e atributos distintos das fontes"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "diverge (voto divergente: sazonalização pelo perfil de carga do comprador)",
+     "ts": "3:24:43",
+     "confianca": "alta",
+     "justificativa": "modelo por quantidade com sazonalização pela geração coloca o risco no consumidor; alocar o risco no gerador, evitar subsídios cruzados e dar previsibilidade"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Efrain Cruz na sazonalização, atribuição incerta",
+     "ts": "3:48:58",
+     "confianca": "baixa",
+     "justificativa": "precisamos aprovar o edital; concorda com todos os itens da relatora e acompanha a divergência no ponto trazido por Efrain (atribuição pela ordem de fala, sem nome na legenda)"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a divergência de Efrain Cruz, atribuição incerta",
+     "ts": "3:48:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "3:52:39",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Item 33 da pauta, retirado de pauta pela diretora relatora; encerramento da reunião",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Item retirado de pauta pela relatora, em seguida a reunião foi encerrada.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "assunto": "Alterações no estatuto do ONS (audiência pública)",
+   "por": "Efrain Cruz"
+  },
+  {
+   "id": "33",
+   "assunto": "item 33, retirado pela diretora relatora",
+   "por": "não identificado"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda automática não identifica falantes na Parte 2; atribuições de votos de seguidores usam a proclamação (confiança media/baixa).",
+  "Quinto diretor (quórum de cinco anunciado na Parte 1; possivelmente André Pepitone, DG) não confirmado na Parte 2; por isso não consta como presente nem tem votos.",
+  "Nomes de diretores e de empresas distorcidos pela legenda (ex.: Elisa/Eliza/lisa; Efrain/Efraim/Frain; Rodrigo Limpe); números de processos em formato de legenda.",
+  "Item 22 (leilão A-6/2019): ordem dos votos de Sandoval e Rodrigo Limp e se Elisa Bastos aceitou a divergência no ponto da sazonalização não ficaram claros; resultado pela proclamação.",
+  "Item 21 (Eletronorte): os dois diretores que acompanharam a relatora e o que pediu vista não foram identificados.",
+  "Itens 11 a 18: relatores originais dos itens 12, 14, 16 e 17 e a autoria exata de cada voto-vista não identificadas; mérito idêntico ao item 11.",
+  "Itens 10 e 22: numeração inferida da sequência da pauta (a legenda não a fala com clareza)."
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "meta": {
+  "video_id": "86exZFnxraQ",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante na maior parte; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "6",
+  "data": "2020-03-03",
+  "formato": "presencial (parte 2, sessão da tarde)",
+  "presidente_da_sessao": "Diretor-Geral (André Pepitone, inferido; nome não dito na legenda)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Elisa Bastos",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "6ª Reunião Pública Ordinária de 2020 (a fala inicial diz 2019, erro da legenda), Parte 2; 6 itens deliberados, todos por unanimidade dos votantes.",
+   "Itens numerados na ordem em que aparecem; a legenda cita números de pauta confusos (5, 2, 7)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:18",
+   "processo": "48500.000799/2016-03",
+   "interessado": "AGETOP Empreendimentos e Gestão Ltda.",
+   "assunto": "Recurso administrativo da Agetop contra despacho 1044/2016 da SCG, que indeferiu registro para revisão dos estudos de inventário hidrelétrico do rio Chapecó (trecho entre o canal de fuga da UHE Quebra-Queixo e o remanso da PCH Foz do Chapecozinho, SC); processo retirado de pauta na 3ª RPO (04/02/2020) após sustentação oral da Agetop",
+   "tema": [
+    "outorgas de geração (hidrelétrica, inventário)",
+    "recursos administrativos",
+    "geração (PCH/UHE Saudade, rio Chapecó, SC)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: conhecido e negado provimento ao recurso",
+   "resumo_voto": "Relator conhece e nega provimento: SCG agiu de forma inadequada ao conceder registro de EVTE a terceiro, mas sem prejuízo à Agetop; nota técnica 293/2018 mostra que a AAI da Fatma não inviabiliza a UHE Saudade nem altera a partição de quedas, então não há fato atípico que justifique revisar o inventário de 2007; ICB atualizado da usina próximo ao preço médio do leilão A-4 de 2019; PL estadual 3848/2019 (SC) é mera expectativa; Lei 9.074/95 veda registro de CGH em trecho com interessado ativo. Sustentação oral da Agetop ocorreu na reunião anterior, não nesta.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:03:00",
+     "justificativa": "não há fato atípico nem inviabilidade ambiental que justifique revisar o inventário; falha da SCG não causou prejuízo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:02",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:25:36",
+   "processo": "48500.003634/2017-66",
+   "interessado": "ONS e agentes (contribuições à CP 30/2019); SRT",
+   "assunto": "Resultado da Consulta Pública 30/2019: alterações de baixo impacto nos submódulos 4.1, 4.2, 6.1 a 6.5, 7.2, 7.4, 9.9, 11.8, 13.2 e 15.4 dos Procedimentos de Rede",
+   "tema": [
+    "regulação normativa (consulta pública, Procedimentos de Rede)",
+    "transmissão"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprova a revisão de submódulos dos Procedimentos de Rede (ajustes de prazo, textuais, requisitos menos restritivos); de 60 contribuições, 20 não aceitas por serem de alto impacto; apresentação técnica da SRT (Bruno). Sandoval elogiou o trabalho da SRT sobre os Procedimentos de Rede.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:32:22",
+     "justificativa": "elogiou o trabalho da SRT e do superintendente nos Procedimentos de Rede; atribuição pelo agradecimento do relator a «Sandoval» na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:33:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:32:15",
+     "justificativa": "alterações de evidente baixo impacto, dispensam AIR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:33:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:33:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:34:00",
+   "processo": "48500.004905/2019-62",
+   "interessado": "Cemig Distribuição S.A.",
+   "assunto": "Requerimento da Cemig sobre forma de pagar compensações de continuidade (DIC/FIC/DMIC) a consumidores após reprocessamento dos indicadores de 2016 e 2017 (autos de infração 18/2018 e 1006/2018): devolução simples ou em dobro (art. 113 da REN 414/2010)",
+   "tema": [
+    "distribuição e qualidade (continuidade, DEC/FEC)",
+    "fiscalização e sanções",
+    "tarifas e atendimento ao consumidor"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes: deferido, devolução de forma simples",
+   "resumo_voto": "Defere o pedido da Cemig: compensação equivocada não é faturamento indevido, logo não cabe devolução em dobro (parecer 45/2020 da Procuradoria); multas já pagas (cerca de R$ 12,5 mi em 2016 e R$ 15 mi em 2017) cumpriram o aspecto punitivo; mantidas demais regras do art. 113. Divergia da orientação da SRD/SFE. Duas falas de apoio de diretores não identificados na legenda.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:36:00",
+     "justificativa": "compensação é sinal regulatório, não cobrança indevida; aspecto punitivo já contemplado pelas multas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:03",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:51:01",
+   "processo": "48500.000756/2019-62; 48500.000757/2019-15",
+   "interessado": "Concessionária de transmissão equiparada (Garabi 1 e 2; nome ilegível na legenda: «ns em»/«nilce em»)",
+   "assunto": "Abertura de consulta pública (45 dias, 4/3 a 17/4/2020) sobre o cálculo do reposicionamento da RAP na 2ª revisão periódica da concessionária (resultado preliminar -15,21 por cento nominal)",
+   "tema": [
+    "transmissão (RAP, revisão tarifária periódica)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaura CP de 45 dias; reposicionamento preliminar de -15,21 por cento (cerca de -18,2 por cento em termos reais); base líquida cai cerca de 32 por cento por depreciação; revisão será definitiva se pendências (BRR/fiscalização da SFF, OPEX da CP 26/2019 e CP 41/2017) forem resolvidas até 16/06/2020, senão provisória com parcela de ajuste. Apresentação técnica de Denis (SGT).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:09:46",
+     "justificativa": "abre CP para aprimorar cálculo; pendências tratadas até 16/06/2020 ou por parcela de ajuste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:12:32",
+   "processo": "48500.002907/2010-89",
+   "interessado": "SRG; agentes de geração termelétrica; ONS",
+   "assunto": "Abertura de consulta pública (5/3 a 20/4/2020) sobre revisão da REN 614/2014 (indisponibilidade de unidade geradora, inflexibilidade, GEFOM e geração substituta) e o relatório de AIR 2/2020",
+   "tema": [
+    "regulação normativa (consulta pública, AIR)",
+    "comercialização (PLD, despacho)",
+    "geração distribuída (revogação de capítulo)",
+    "outorgas de geração (térmicas)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes (relator corrigiu o número do AIR para 2/2020)",
+   "resumo_voto": "Instaura CP por intercâmbio documental; propostas: média da declaração futura igual à garantia física, limitar a inflexibilidade apurada à declarada, extinguir crédito de GEFOM com regra transitória de 4 anos para o saldo (cerca de 8 milhões de MWh em ago/2019), manter G-Sub com ajuste textual, revogar capítulo de GD sem medição na CCEE. Apresentação técnica de Patrícia (SRG).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:30:00",
+     "justificativa": "maior compromisso das declarações dos agentes com o planejamento da operação; menos deslocamento hidrelétrico e distorção do PLD",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:32:47",
+   "processo": "48500.001005/2019-18; 48500.004281/2004-48",
+   "interessado": "Centrais Elétricas de Carazinho S.A. (Eletrocar); Libraga Brandão e Cia Ltda.; CCEE; RGE",
+   "assunto": "Pedido da Eletrocar para reembolsar a Libraga pela energia injetada pelas CGHs Colorado e Mata-Cobra (RS) após a venda dos ativos; transferência da concessão das usinas (contrato 108/2000) para a Libraga; alteração para produção independente",
+   "tema": [
+    "outorgas de geração (CGH, transferência de concessão)",
+    "comercialização (CCEE, registro de energia)",
+    "tarifas (impacto tarifário da alienação)",
+    "distribuição"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes: reembolso indeferido; transferência autorizada com efeitos retroativos e regime de produção independente",
+   "resumo_voto": "Indefere o reembolso (sem amparo na Lei 10.848); autoriza por resolução autorizativa a transferência da titularidade com efeito desde a assinatura do contrato de compra e venda (maio/2017) e a mudança para produção independente, com uso de bem público por 5 anos; CCEE recontabiliza a energia em nome da Libraga; determina à SRM, com apoio da SGT, processo específico sobre o impacto tarifário (3,31 por cento na 4ª revisão da Eletrocar) e possíveis ações compensatórias. Um diretor (não identificado) apoiou a análise tarifária.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:55:00",
+     "justificativa": "regulariza a situação fática da alienação; reembolso não tem base legal; impacto tarifário a ser avaliado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:11",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Presença dos cinco diretores (Sandoval Feitosa, Efrain Cruz, Rodrigo Limp, Elisa Bastos, André Pepitone) inferida dos relatores e da composição da diretoria em março/2020; a legenda não traz chamada nominal.",
+  "Votos dos não-relatores vêm da proclamação do Diretor-Geral ('por unanimidade dos votantes') e de falas «acompanho» sem nome; confiança media/baixa e minuto aproximado; nenhuma troca de nomes foi feita sem base.",
+  "No item 3 houve duas falas de apoio ao relator e, no item 6, uma fala sobre análise tarifária de diretores não identificados; não foram atribuídas a ninguém.",
+  "Marcador de falante do cabeçalho do .md ({Sandoval Feitosa, Ricardo Tili}) não é confiável.",
+  "Nome da transmissora do item 4 ilegível na legenda; números e valores podem estar errados.",
+  "Sem sustentação oral nesta parte; a da Agetop (item 1) ocorreu em 04/02/2020.",
+  "Os números 'tempo' dos votos de relatores são estimados."
+ ]
+}

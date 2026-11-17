@@ -1,0 +1,541 @@
+{
+ "meta": {
+  "video_id": "9fB6bwD2GhE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:02:45); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12ª RPO 2019",
+  "data": "2019-04-16",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Rodrigo Limp (em viagem a serviço)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores; Rodrigo Limp em viagem a serviço (relator do item 2, cujo voto foi lido por Sandoval Feitosa).",
+   "Retirados de pauta: item 10 (pauta comum) e item 20 (bloco); item 6 retirado pelo relator Efrain Cruz; item 9 retirado pelo relator Sandoval Feitosa. Item 16 destacado do bloco.",
+   "Sustentações orais nos itens 4 (quatro oradores), 5, 8 e 16; voto-vista no item 11.",
+   "Sessão de cerca de 4h20; encerrada após o item 9."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:23",
+   "processo": "itens do bloco da pauta (números não identificados na legenda)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens com votos disponibilizados previamente; item 16 destacado do bloco para a pauta comum; item 10 (pauta comum) e item 20 (bloco) retirados de pauta",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem debate; o Diretor-Geral colhe os votos e proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:06:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:06:47",
+     "justificativa": "Proclama que a diretoria aprovou o bloco por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:07:02",
+   "processo": "48500.002311/2018-36",
+   "interessado": "Enel Goiás (ex-Celg D); AGR (agência estadual de Goiás)",
+   "assunto": "Recurso administrativo da Enel Goiás contra o auto de infração 1/2018 da AGR (multa por descumprimento dos procedimentos de apuração dos indicadores de tratamento de reclamações; DEC/FEC 2016); multa total de cerca de R$ 1,07 milhão",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição / qualidade e atendimento",
+    "distribuidora Enel Goiás"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "recurso conhecido e desprovido; multa mantida, por unanimidade",
+   "resumo_voto": "Relator conheceu e negou provimento: manteve as não conformidades 1, 2 e 3 e a determinação 1, multa total de R$ 1.067.867,66 (valor conforme legenda, incerto). Sustentação oral da Enel Goiás (Luiz Gazzoni Júnior) pedia reenquadramento da NC3 como advertência, como no caso Light; relator rejeitou (amostragem, rastreabilidade, isonomia não demonstrada).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:32:30",
+     "justificativa": "Mantém a penalidade: infração não é de pequeno potencial ofensivo; amostra representa o todo; falta de rastreabilidade impediu auditoria de 95 protocolos (23,93%); reclamações improcedentes que deviam ser procedentes distorcem o indicador.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:32:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:32:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:32:58",
+     "justificativa": "Preside a sessão como Diretor-Geral, vota por último e proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:33:47",
+   "processo": "48500.000766/2002-54 e 48500.001114/2019-11",
+   "interessado": "SEM Minas PCH Energia Ltda (PCH Costa, Formoso/MG)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra a Resolução Autorizativa 7.625/2019 (revogou a autorização da PCH Costa) e pedido de medida cautelar contra a execução da garantia de registro",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos",
+    "fiscalização e sanções (execução de garantia)",
+    "SEM Minas PCH"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "reconsideração conhecida e desprovida; cautelar declarada prejudicada (perda de objeto); por unanimidade",
+   "resumo_voto": "Relator Efrain Cruz: nega provimento à reconsideração e declara a perda de objeto da cautelar. Sustentação oral do advogado da empresa (Eduardo) defendendo excludente de responsabilidade e que a execução de garantia exige apuração de dano; relator afirma que o contraditório será garantido no processo próprio da SCG e que a discussão cabe naquele rito.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece, nega provimento; cautelar prejudicada",
+     "ts": "0:41:00",
+     "justificativa": "Cautelar perde objeto com o julgamento da reconsideração; processo de execução da garantia correrá na SCG com ampla defesa e contraditório, com recurso possível à diretoria; excludentes já analisadas pelo relator anterior (Rodrigo Limp) sem plausibilidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:25",
+     "justificativa": "Preside a sessão como Diretor-Geral, vota por último e proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:03:35",
+   "processo": "48500.006204/2018-87 e 48500.000047/2019-87",
+   "interessado": "Enel Ceará (ex-Coelce); sustentações: Enel (Luiz Gazzoni), Conselho de Consumidores do Ceará (Antonio Ildo), FIEC (Joaquim Rolim), CIC (Raul Amaral)",
+   "assunto": "Quinta revisão tarifária periódica da Enel Ceará (vigência 22/04/2019; efeito médio 8,22%: 7,87% AT e 8,35% BT) e limites de DEC/FEC 2020-2023",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição / qualidade (DEC/FEC)",
+    "CDE e encargos setoriais (Conta CCR)",
+    "Enel Ceará"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resultado da 5ª RTP da Enel Ceará homologado: efeito médio 8,22% (reduzido de 11,62% da proposta de audiência pela antecipação da Conta CCR, -3,15%, e ajustes). Quatro sustentações orais (Enel pediu considerar adiantamento de risco hidrológico e fator X afetado pelo blecaute de 2018; Conselho e FIEC criticaram risco hidrológico e base de remuneração; CIC criticou contrato bilateral com a CGTF). Relator manteve limites de DEC/FEC e negou mudança do horário intermediário.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:09:00",
+     "justificativa": "Contrato com a CGTF existe desde 2001 e deve ser honrado, revisão exige avaliação específica; risco hidrológico e financeiros decorrem de lei (12.783 e 13.203); perdas não técnicas acima do regulatório; mantém limites de DEC/FEC e o horário intermediário.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:12",
+     "justificativa": "Falas de elogio ao voto e ao Conselho de Consumidores (autor não identificado com segurança).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:17",
+     "justificativa": "Proclama a aprovação por unanimidade dos presentes e lê o dispositivo.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:27:26",
+   "processo": "48500.000900/2009-?? (número incerto na legenda) / 48500.001624/2014",
+   "interessado": "ABRATE (Associação Brasileira das Transmissoras de Energia Elétrica), Eletrobras, Copel GT; sustentação oral: José Mário Miranda (ABRATE)",
+   "assunto": "Pedidos de reconsideração da ABRATE, Eletrobras e Copel GT contra a Resolução Homologatória 2.514/2019 (novos valores do banco de preços de referência da ANEEL para transmissão); foco no prazo de entrega dos laudos de conciliação físico-contábil e avaliação (submódulos 9.1 e 9.2 do PRORET)",
+   "tema": [
+    "transmissão (RAP, banco de preços)",
+    "recursos administrativos",
+    "regulação normativa",
+    "ABRATE, Eletrobras, Copel GT"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "não conhecido (Copel GT, intempestivo) e dado parcial provimento (ABRATE e Eletrobras), por unanimidade",
+   "resumo_voto": "Não conheceu o pedido da Copel GT (intempestivo); deu parcial provimento a ABRATE e Eletrobras apenas quanto ao prazo: 30 dias para consistência das premissas e cálculos e, após aprovação das áreas técnicas, 60 dias para envio definitivo dos relatórios (processos deliberados em 2019). Sustentação oral da ABRATE pedia novo prazo e julgamento do recurso. Na discussão, diretor esclareceu que o total é de 90 dias.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece parcialmente e dá parcial provimento",
+     "ts": "3:01:20",
+     "justificativa": "Banco de preços é peça-chave; tempo exíguo tornou inexequíveis os laudos; não aceita condicionar o prazo ao julgamento dos demais itens; corrige o voto (60 dias, não 30, para o envio definitivo).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:04:25",
+     "justificativa": "Elogia o encaminhamento do prazo (comprometimento com qualidade dos dados) — autoria da fala inferida.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:04:25",
+     "justificativa": "Questiona a redação do dispositivo sobre os 30 dias e a aprovação das áreas técnicas — autoria da fala inferida.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:04:28",
+     "justificativa": "Proclama a decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "3:06:25",
+   "processo": "48500.006209/2018-45",
+   "interessado": "Energisa Sergipe Distribuidora de Energia S.A. (ESE)",
+   "assunto": "Reajuste tarifário anual 2019 da Energisa Sergipe (vigência 22/04/2019; efeito médio 2,80%: 1,85% AT e 3,33% BT)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual)",
+    "CDE e encargos setoriais",
+    "distribuidora Energisa Sergipe"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologado reajuste médio de 2,80% (1,85% AT; 3,33% BT); parcela B atualizada por IGP-M (8,27%) menos fator X (2,55%); componentes financeiros de 5,58%; retirada de CDE/ADE decreto e antecipação da Conta CCR reduziram encargos. Procuradoria sem questão jurídica; apresentação técnica da SGT.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "3:25:33",
+     "justificativa": "Reajuste é aplicação da fórmula contratual; fator X devolve ganhos de eficiência ao consumidor; encargos setoriais com efeito negativo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:59",
+     "justificativa": "Preside a sessão como Diretor-Geral, vota por último e proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "3:27:30",
+   "processo": "48500.000454/2015-61",
+   "interessado": "Centrais Elétricas de Sergipe (CELSE) - UTE Porto de Sergipe I (Barra dos Coqueiros/SE)",
+   "assunto": "Voto-vista do Diretor-Geral: alteração do cronograma de implantação da UTE Porto de Sergipe I (excludente de responsabilidade por greve dos caminhoneiros e dos auditores fiscais da Receita), aditamento do CUST 33/2017 e medida cautelar da CELSE",
+   "tema": [
+    "outorgas de geração (térmica a gás)",
+    "transmissão (CUST)",
+    "leilões (leilão 3/2015, atraso de cronograma)",
+    "recursos administrativos (cautelar)",
+    "CELSE"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade conforme voto do relator (após vista do Diretor-Geral)",
+   "resumo_voto": "Na RPO 11 o relator Sandoval deferiu a alteração; o Diretor-Geral pediu vista por dúvida quanto ao nexo causal, pois a nota técnica 120/2019 da SCG tinha premissas jurídicas não ratificadas pela Procuradoria. Após nova nota técnica (240/2019) e esclarecimentos, o DG acompanha o relator: altera marcos intermediários e operação em teste, mantém a operação comercial em 01/01/2020, autoriza o aditamento do CUST e considera exaurida a cautelar.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, defere a alteração do cronograma",
+     "ts": "3:31:14",
+     "justificativa": "Voto original (RPO 11) mantido: greves como caso fortuito/força maior; data de operação comercial inalterada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "mantém o voto da sessão anterior, acompanha o relator",
+     "ts": "3:35:07",
+     "justificativa": "Já tinha votado na sessão anterior; a legenda registra que mantém o voto.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "mantém o voto da sessão anterior, acompanha o relator",
+     "ts": "3:35:07",
+     "justificativa": "Já tinha votado na sessão anterior; a legenda registra que mantém o voto.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "3:34:30",
+     "justificativa": "Após a vista, reconsidera a dúvida sobre o nexo causal (a SCG confirmou o entendimento) e acompanha o relator; marcos intermediários alterados, operação comercial mantida.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:38:04",
+   "processo": "48500.006262/2018-70",
+   "interessado": "Companhia Energética do Rio Grande do Norte (Cosern)",
+   "assunto": "Reajuste tarifário anual 2019 da Cosern (vigência 22/04/2019; efeito médio 4,73%: 2,81% AT e 5,84% BT)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual)",
+    "CDE e encargos setoriais",
+    "distribuidora Cosern"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologado reajuste médio de 4,73% (2,81% AT; 5,84% BT). Voto do relator Rodrigo Limp, ausente, lido pelo diretor Sandoval Feitosa. Parcela B por IGP-M (8,27%) menos fator X de 0,68%; financeiros de 6,48% (7,24% atenuados a 0,45% nas bandeiras).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "voto deixado (lido por Sandoval Feitosa), relator, aprova",
+     "ts": "3:46:56",
+     "justificativa": "Voto escrito do relator ausente; homologa o reajuste conforme minuta.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "leu o voto do relator; acompanha",
+     "ts": "3:48:20",
+     "justificativa": "Leitura do voto do relator ausente; acompanha.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:30",
+     "justificativa": "Proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:49:13",
+   "processo": "48500.006222/2018-69",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (Coelba)",
+   "assunto": "Reajuste tarifário anual 2019 da Coelba (vigência 22/04/2019; efeito médio 6,22%: 5,09% AT e 6,67% BT)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual)",
+    "CDE e encargos setoriais",
+    "distribuidora Coelba"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologado reajuste médio de 6,22% (5,09% AT; 6,67% BT). Relator (identificado como Efrain Cruz pelo contexto) comenta a queda dos encargos e a calibragem das bandeiras; o Diretor-Geral destaca o conjunto de quatro reajustes em um dígito e a agenda de desoneração tarifária (ICMS).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:59:00",
+     "justificativa": "Resultado fruto do esforço do colegiado pela modicidade tarifária (encargos -4,72%, antecipação da Conta CCR).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:02:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:02:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:02:46",
+     "justificativa": "Associa-se às palavras do relator sobre a desoneração tarifária e proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:03:18",
+   "processo": "48500.002993/2016-11 (número incerto)",
+   "interessado": "Empresas eólicas Cerro Chato IV, V, VI e Serra da Trindade",
+   "assunto": "Recurso administrativo contra o despacho 86/2016 da SGT sobre a taxa de fiscalização (TFSEE) das centrais eólicas Cerro Chato IV, V, VI e Serra da Trindade",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (eólica)",
+    "CDE e encargos setoriais (TFSEE)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "O relator Efrain Cruz retirou o processo de pauta por questões técnicas apontadas pela assessoria que merecem tratamento.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, retira de pauta",
+     "ts": "4:03:48",
+     "justificativa": "Retira o processo por questões técnicas citadas pela assessoria.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "4:04:24",
+   "processo": "48500.001199/2015-73 e 48500.000359/2015-84",
+   "interessado": "Guandalina Construções Eireli (recorrente); grupo Enebras/Nutribras/Da Luz/Agrícola Guerra/Prainha (hierarquizado em 1º lugar); PCH Aparecida (Rio Chapecó, Abelardo Luz/SC)",
+   "assunto": "Recurso (pedido de reconsideração) da Guandalina contra o despacho SCG 2.805/2016 (hierarquizou o grupo Enebras em 1º lugar na PCH Aparecida) e adendo ao recurso",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos",
+    "PCH Aparecida"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "reconsideração conhecida e desprovida; adendo não conhecido por intempestivo; por unanimidade",
+   "resumo_voto": "Relator Sandoval (redistribuído de André Pepitone ao fim do mandato anterior) negou provimento: o projeto básico da Guandalina não atendeu itens do check-list da REN 343/2008 na fase de seleção e hierarquização, sem ofensa à isonomia; adendo intempestivo (parecer 70/2019 da Procuradoria), mas analisado quanto à legalidade e sem ilegalidade quanto aos objetos sociais.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento; não conhece do adendo",
+     "ts": "4:22:30",
+     "justificativa": "Seleção e hierarquização seguem a REN 343/2008; faltaram articulação ambiental, laudo geológico, outros usos da água e estudos energéticos; não há violação da isonomia.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:22:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:22:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:22:47",
+     "justificativa": "Preside a sessão como Diretor-Geral, vota por último e proclama a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "4:23:22",
+   "processo": "48500.005584/2017-51",
+   "interessado": "Usina Hidrelétrica Itaocara S.A.",
+   "assunto": "Requerimento administrativo da UHE Itaocara contra o despacho 1.541/2018 (declarou extinto o pedido de reconsideração contra o despacho 4.008/2017)",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)",
+    "UHE Itaocara"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator (volta no bloco da próxima reunião)",
+   "resumo_voto": "O relator retirou o processo de pauta em função do adiantado da hora e anunciou que o colocará no bloco da próxima reunião pública ordinária, abrindo ao requerente a oportunidade de se fazer presente para discutir o mérito.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "4:23:45",
+     "justificativa": "Retira por causa do adiantado da hora; incluirá no bloco da próxima RPO.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 10 (pauta comum)",
+  "item 20 (bloco)",
+  "item 6",
+  "item 9"
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa; os cabeçalhos de falantes do .md (Gentil Nogueira, Fernando Mosna, Ricardo Tili) estão errados: esses diretores não faziam parte da diretoria em 2019. Atribuição de votos feita pelo contexto e pelas proclamações do Diretor-Geral André Pepitone.",
+  "Os itens do bloco não têm números nem relatores identificáveis na legenda; registrado como item único «bloco».",
+  "Atribuição individual de «acompanho o relator» de Efrain Cruz e Elisa Bastos não é audível na legenda: confiança baixa/média, baseada na proclamação por unanimidade.",
+  "Item 3 (Coelba): relator não nomeado na legenda; identificado como Efrain Cruz pelo contexto (Diretor-Geral dirige-se a ele logo após o voto); confiança média.",
+  "Item 2: 5 votos registrados (4 presentes + voto deixado do relator ausente Rodrigo Limp lido por Sandoval Feitosa).",
+  "Item 11: Efrain Cruz e Elisa Bastos mantêm o voto dado na sessão anterior (RPO 11); fala de manutenção do voto é ambígua na legenda.",
+  "Item 8: números de processo incertos na legenda (48500.000900/2009-?? e 48500.001624/2014); autoria das falas de elogio e esclarecimento durante a discussão inferida.",
+  "Itens 4 e 8: os valores numéricos citados (percentuais, reais) podem conter erros de legenda.",
+  "Nomes dos oradores (Luiz Gazzoni Júnior, Antonio Ildo, Joaquim Rolim, Raul Amaral, José Mário Miranda) conforme legenda; podem estar incorretos.",
+  "Número do processo do item 6 e valores de multa do item 5 incertos."
+ ]
+}

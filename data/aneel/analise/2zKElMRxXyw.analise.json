@@ -1,0 +1,509 @@
+{
+ "meta": {
+  "video_id": "2zKElMRxXyw",
+  "fonte": "legenda automática do YouTube; falantes inferidos e frequentemente trocados; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17ª Reunião Pública Ordinária de 2026",
+  "data": "2026-08-24",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Ludimila Lima"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores. Ludimila Lima retorna como diretora substituta (segunda passagem, após Fernando Mosna encerrar o mandato; a última reunião de Mosna foi a de 11/08/2026).",
+   "Pauta de 29 itens; itens 8 a 29 em bloco; item 8 retirado de pauta; item 16 destacado; sustentações orais nos itens 6, 7 e 16. Ordem: bloco, 2, 3, 4, 1, 5, 6, 7, 16.",
+   "Willamy Frota deixou voto escrito nos itens 5, 6 e 7 (informado pela mesa).",
+   "Comunicados: tomadas de subsídios 18 e 19/2026, CPs 17, 19 e 20/2026, audiências públicas 5 e 6/2026, curso de Fundamentos do Setor Elétrico, sessão solene da CLDF pelos 30 anos da ANEEL, workshop do superEl Niño 2026/2027 (20/08). Aprovadas as atas da 16ª RPO (11/08) e do 14º Circuito Deliberativo (18/08).",
+   "Sessão suspensa para almoço após o item 16 (4:43:39)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:22:34",
+   "processo": "Itens 9 a 29 da pauta, exceto 16 (item 8 retirado); processos individuais não detalhados na fala",
+   "interessado": "vários (não identificados na sessão)",
+   "assunto": "Votação em bloco de 21 itens da pauta (itens 9-15 e 17-29), com votos e atos publicados previamente; item 10 tinha voto de Fernando Mosna e voto-vista de Gentil Nogueira acompanhando; item 13 tinha ato assinado por Ludimila Lima quando superintendente da SFF",
+   "tema": [
+    "itens em bloco",
+    "institucional"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral); Ludimila Lima não votou nos itens 10 e 13",
+   "resumo_voto": "Ludimila Lima aprovou o bloco exceto itens 10 (voto do ex-diretor Mosna) e 13 (ato dela como superintendente da SFF) e registrou que não aprovava a ata anterior por não ter estado presente. Gentil, Willamy, Agnes e o Diretor-Geral aprovaram o bloco. O Diretor-Geral esclareceu que no item 10 havia um só voto (Mosna, com voto-vista de Gentil acompanhando) e proclamou a unanimidade.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco, exceto itens 10 e 13 (não votou: impedida/ato próprio)",
+     "ts": "0:22:34",
+     "justificativa": "Aprovo os demais itens do bloco, exceto o 10 (voto do diretor Mosna) e o 13 (ato emitido por mim enquanto superintendente da SFF).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:23:13",
+     "justificativa": "Eu também aprovo os itens do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova o bloco",
+     "ts": "0:23:17",
+     "justificativa": "Eu também aprovo os itens do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "aprova o bloco",
+     "ts": "0:23:21",
+     "justificativa": "Eu também aprovo os itens do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; proclama unanimidade",
+     "ts": "0:23:21",
+     "justificativa": "Aprova os itens remanescentes e proclama que a diretoria decidiu por unanimidade a aprovação de todos os itens do bloco.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:23:21",
+   "processo": "48500945/2025-16 (número como transcrito)",
+   "interessado": "Energisa Paraíba Distribuidora de Energia S.A. (EPB)",
+   "assunto": "Reajuste tarifário anual 2026 da Energisa Paraíba, vigência a partir de 28/08/2026: efeito médio 5,74% (9,71% alta tensão; 4,85% baixa tensão); repasse da CCEE de R$ 224.582.146,99 pela repactuação da UBP (Lei 15.235/2025)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator dispensou a leitura do relatório e leu o dispositivo: homologar o reajuste (5,74% médio), fixar TE e TUSD, estabelecer a receita das DIT, homologar o valor mensal da CDE repassado pela CCEE e determinar à CCEE repassar R$ 224,58 milhões à distribuidora em até 10 dias (UBP). Sem sustentação oral; Procuradoria sem manifestação.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, aprova",
+     "ts": "0:24:59",
+     "justificativa": "Pede dispensa da leitura da fundamentação e lê o dispositivo de homologação do reajuste.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:17",
+     "justificativa": "Proclamação por unanimidade; fala individual de acompanhamento ouvida mas sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:17",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:17",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:27:17",
+     "justificativa": "Eu também voto com o relator e proclamo que a diretoria decidiu por unanimidade homologar o reajuste.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:29:00",
+   "processo": "4850094/202563 (número como transcrito, incerto)",
+   "interessado": "Equatorial Maranhão Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2026 da Equatorial Maranhão, primeiro após a renovação do contrato: efeito médio 5,76% (8,68% alta; 5,25% baixa tensão); repasse da CCEE de R$ 331.915.123,42 (UBP, Lei 15.235/2025)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatora leu o dispositivo e destacou que o contrato passou a ser reajustado pelo IPCA (antes IGPM), exigindo ponderação pela área técnica, e que sem a repactuação da UBP o reajuste seria da ordem de 12%, reduzido a 5,76%. Sem manifestação da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:29:32",
+     "justificativa": "Lê o dispositivo; sem a repactuação da UBP o reajuste seria da ordem de 12%, agora 5,76%; mudança de IGPM para IPCA após a renovação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "0:32:12",
+     "justificativa": "Eu também acompanho o voto da eminente relatora e proclamo que a diretoria decidiu por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:32:09",
+     "justificativa": "Proclamação por unanimidade; um diretor disse acompanho a relatora sem nome claro.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:32:09",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:32:09",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:34:00",
+   "processo": "48500 01912596 (número como transcrito, incerto)",
+   "interessado": "CEEE (Companhia Estadual de Distribuição de Energia Elétrica, Rio Grande do Sul)",
+   "assunto": "Abertura de consulta pública (26/08 a 09/10/2026; reunião presencial em Porto Alegre em 08/10) sobre a revisão tarifária periódica 2026 da CEEE-D, vigência a partir de 22/11/2026; efeito médio proposto 22,31%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (consulta/audiência pública)",
+    "distribuição e qualidade"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator dispensou o relatório; apresentação técnica do servidor Leonardo de Araújo Silva (STR): efeito médio 22,31% (parcela A 6,35%; B 6,57%; financeiros 9,38%), incluindo recomposição de 50% do diferimento das enchentes de 2024 (4,44%) e aumento da base de capex. Relator votou por instaurar a CP. O Diretor-Geral destacou que o índice ainda não é o final e que a remuneração de capital subiu cerca de 70%.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "0:41:16",
+     "justificativa": "Voto por instaurar consulta pública de 26/08 a 09/10/2026 com reunião presencial em Porto Alegre.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:44:20",
+     "justificativa": "Conclama a sociedade e o conselho de consumidores a analisar a CP; proclama a unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:18",
+     "justificativa": "Duas falas de acompanhamento sem nome; atribuição por ordem de votação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:20",
+     "justificativa": "Idem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:20",
+     "justificativa": "Idem.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:45:01",
+   "processo": "48500 372541 (número como transcrito, incerto; número de pauta 1 inferido)",
+   "interessado": "Força e Luz Coronel Vivida Ltda. (Pacto Energia Distribuição Paraná, Forcel); fornecedor do BES: GET Comercializadora de Energia (Matrix); suprimento: Copel Distribuição",
+   "assunto": "Resultado da revisão tarifária periódica 2026 da Pacto Energia Paraná, vigência a partir de 26/08/2026 (efeito médio 18,33%; 16,52% alta e 19,67% baixa tensão), com inclusão em caráter provisório na base de remuneração do sistema de armazenamento por baterias (BES, cerca de R$ 29,3 milhões; subsídio CDE adicional de R$ 3,7 milhões)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "armazenamento em baterias (BES)",
+    "CDE e encargos setoriais",
+    "base de remuneração regulatória"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade, com ajustes ao dispositivo (resultado e base de remuneração em caráter provisório)",
+   "resumo_voto": "Relatora, seguindo as superintendências, reconheceu o BES de forma excepcional e provisória (vida útil regulatória 16 anos, depreciação 6,25% a.a.), com relatório semestral da concessionária (fev. e ago.). Ludimila Lima propôs reavaliar a base tão logo concluída a fiscalização (SFF e STD), não só na próxima revisão; a relatora acolheu. Gentil Nogueira e Willamy Frota manifestaram desconforto com o planejamento do suprimento/risco à CDE e concordaram com Ludimila. O Diretor-Geral propôs dispositivo adicional para a SFT fiscalizar o suprimento entre Copel Distribuição e Pacto e pediu ofício circular às distribuidoras para apresentarem previamente soluções semelhantes. Resultado foi qualificado como provisório (sugestão da própria Ludimila), mantendo o prazo de reavaliação até a próxima revisão, tão logo concluída a fiscalização.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (com ajustes)",
+     "ts": "1:22:22",
+     "justificativa": "Leu o dispositivo; BES reconhecido de forma excepcional e provisória, preservando reavaliação futura e relatório semestral; acolheu as sugestões de Ludimila e do Diretor-Geral.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora, com ajustes propostos por ela",
+     "ts": "1:51:58",
+     "justificativa": "Preocupada com impacto na CDE (subsídio Lei 14.299); sugeriu reavaliar a base logo após a fiscalização. Idem com os ajustes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora, com os ajustes",
+     "ts": "1:51:58",
+     "justificativa": "Incomodado com a ausência de planejamento adequado do suprimento e a estrutura financeira atípica; concordou com a proposta de Ludimila.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha a relatora, com os ajustes",
+     "ts": "1:51:58",
+     "justificativa": "Parabeniza o voto; considera pertinentes as ponderações de Ludimila quanto ao custo global.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora, com ajustes; proclama",
+     "ts": "1:52:08",
+     "justificativa": "Propôs dispositivo adicional de fiscalização técnica do suprimento Copel/Pacto e ofício circular às distribuidoras; proclamou unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:57:53",
+   "processo": "485002172/2026 77 (número como transcrito, incerto)",
+   "interessado": "STR; CCEE; setor de geração incentivada e MMGD",
+   "assunto": "Abertura de consulta pública (45 dias, 26/08 a 09/10/2026) sobre revisão normativa para o encargo de complemento de recursos (ECR) e o teto da CDE (Lei 15.269/2025, art. 7º), com aplicação provisória da nova estrutura orçamentária para o orçamento 2027 e transferência gradual à CCEE da apuração mensal de subsídios (até julho de 2028)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "regulação normativa (consulta/audiência pública)",
+    "geração distribuída (MMGD)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatora propôs dispensa de AIR (norma de organização 40, hipótese de ato que regulamenta direito ou obrigação definido em norma superior) e CP de 45 dias. Apresentação técnica (André Feio e Cristina Noda, STR): fator ECR ilustrativo de 11,6% para fontes incentivadas e 44% para MMGD no exercício de 2026; revisão do fator a cada três ciclos de faturamento no primeiro ano. Adicionou ao voto delegação à STR para abrir tomada de subsídios de 30 dias no lugar da CP do orçamento da CDE. Gentil e o Diretor-Geral elogiaram a relatora e a STR e destacaram o limite aos subsídios. Willamy deixou voto escrito acompanhando a relatora.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "2:31:15",
+     "justificativa": "Voto por instaurar CP de 45 dias, com aplicação provisória e delegação à STR da tomada de subsídios do orçamento da CDE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "2:42:02",
+     "justificativa": "Parabenizou a relatora e a STR; vê no teto uma limitação ao crescimento dos encargos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "2:46:45",
+     "justificativa": "Destacou governança de dados com a CCEE e o ciclo de racionalização dos subsídios; proclamou unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "voto deixado (acompanha a relatora)",
+     "ts": "2:46:40",
+     "justificativa": "Eu também voto com a relatora; informado que deixou voto escrito acompanhando a relatora.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:45",
+     "justificativa": "Proclamação por unanimidade; sem fala individual identificada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:48:50",
+   "processo": "485006509 (número como transcrito, incerto)",
+   "interessado": "STD; sustentação oral em vídeo de Carlos Augusto Ramos Kishner (Federação Nacional dos Engenheiros, FNE)",
+   "assunto": "Abertura de consulta pública (47 dias, 27/08 a 12/10/2026) para avaliar a necessidade de intervenção regulatória sobre padrões de rede (redes subterrâneas e outras) para aumentar a resiliência da distribuição frente a eventos climáticos",
+   "tema": [
+    "distribuição e qualidade (resiliência, redes subterrâneas)",
+    "regulação normativa (consulta/audiência pública, AIR)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "FNE sustentou que a liberdade da distribuidora para escolher o padrão de rede não é absoluta e pediu manifestação da Procuradoria sobre a cláusula segunda do contrato; Procuradoria disse que se manifesta após a CP. Apresentação do servidor Davi Vidal (STD): AIR com cinco alternativas, a alternativa zero (manter a regulação atual) venceu no AHP com 35%; subterrâneas 4 a 10 vezes o custo da rede convencional. Relator votou pela CP e anunciou que consultará a Procuradoria sobre o ponto da FNE. O Diretor-Geral pediu que a CP avalie critérios multicritério para enterramento (arborização, densidade de carga, cargas essenciais) e financiabilidade, sem comando no voto.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "2:55:44",
+     "justificativa": "Voto pela CP; não há barreira regulatória a qualquer padrão de rede; risco de subsídio cruzado; consultará a Procuradoria sobre a cláusula contratual levantada pela FNE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:12:23",
+     "justificativa": "Não defende enterramento indiscriminado; espera que a CP avalie critérios e formas de financiamento; proclamou unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:15:59",
+     "justificativa": "Fala de acompanhamento sem nome ouvida; atribuição por ordem de votação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "voto deixado (acompanha o relator)",
+     "ts": "3:16:00",
+     "justificativa": "Informado que deixou o voto registrado acompanhando o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:00",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:16:37",
+   "processo": "4850033122472 (número como transcrito, incerto; SEI 48500.9033/2024 citado na proclamação)",
+   "interessado": "Enel Distribuição São Paulo (Enel SP); sustentações orais de Hugo Lamim (Enel) e de Luís Gustavo Pinheiro Volpe (prefeito de Ribeirão Pires e presidente do Consórcio Intermunicipal do Grande ABC)",
+   "assunto": "Requerimento da Enel SP de prova pericial no procedimento de recomendação de caducidade do contrato de concessão 162/2008, após evento climático de dezembro de 2025; decisão apenas sobre a perícia, sem julgar o mérito",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "distribuição e qualidade (eventos climáticos)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: perícia indeferida, instrução encerrada, alegações finais em 10 dias",
+   "resumo_voto": "Relatora indeferiu a perícia por desnecessária (art. 38, §2º, Lei 9.784/1999), com base no memorando SFT 416/2026 e no parecer PF 197/2026; rejeitou a tese de que a ANEEL acumula funções de acusadora e julgadora; encerrou a fase instrutória e intimou a Enel a apresentar alegações finais em 10 dias. A Enel defendeu perito multidisciplinar (meteorologia) e criticou o critério do pico simultâneo; o prefeito pediu cautela quanto à caducidade. O Diretor-Geral reafirmou a competência técnica e a autonomia da agência e citou intervenções e caducidades anteriores. Enel foi cientificada da decisão em plenário.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:45:29",
+     "justificativa": "Prova desnecessária; divergência metodológica não torna perícia indispensável; critica a postura processual da concessionária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "4:12:38",
+     "justificativa": "Parabeniza a relatora; a perícia externa não cabe no âmbito administrativo, a ANEEL tem especialização técnica e ausência de controle hierárquico; proclamou unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "4:24:27",
+     "justificativa": "Proclamação por unanimidade; fala de acompanhamento sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "voto deixado (acompanha a relatora)",
+     "ts": "4:24:28",
+     "justificativa": "Informado que o diretor Willamy deixou o voto registrado acompanhando a relatora.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "4:24:28",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "4:26:57",
+   "processo": "485002 2494/202616 (número como transcrito, incerto)",
+   "interessado": "Telefônica Brasil S.A. e ATOM Geração Distribuída S.A. (requerentes); Neoenergia Distribuição Brasília (NDB); usina UFV Brasília 200 (5 MW, GD)",
+   "assunto": "Pedido de medida cautelar para suspender efeitos de termo de ocorrência e inspeção (TOI) da Neoenergia Brasília e impedir reclassificação de GD1 para GD3 e refaturamento (cerca de R$ 15,5 milhões) da UFV Brasília 200, por troca de inversores",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos (medida cautelar)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Willamy Frota",
+   "resultado": "aprovado por unanimidade (cautelar negada; processo à SMA), com voto divergente de Gentil Nogueira só quanto à fundamentação",
+   "resumo_voto": "Voto do relator (lido por Ludimila Lima): conhecer e negar a cautelar, encaminhando à SMA. Sustentação oral de Ana Clara Toledo Brito (ATOM): a troca de inversores (inclusive por recall) manteve potência nominal e injetada; precedentes de cautelar. Gentil apresentou voto divergente com o mesmo dispositivo: entende haver fumaça do bom direito (Neoenergia não juntou os relatórios de medição), mas não o perigo da demora, pois a reclassificação é reversível. Procuradoria não viu impropriedade jurídica. Diretor-Geral começou a proclamar por maioria e corrigiu para unanimidade; confirmou que o voto vencedor consigna a inexistência de fumaça do bom direito.",
+   "votos": [
+    {
+     "diretor": "Willamy Frota",
+     "voto": "relator, nega a cautelar (voto lido por Ludimila Lima)",
+     "ts": "4:37:37",
+     "justificativa": "Nega provimento por não vislumbrar fumaça do bom direito; encaminha à SMA.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "diverge na fundamentação (existe fumaça do bom direito, ausente perigo da demora); mesmo dispositivo",
+     "ts": "4:39:22",
+     "justificativa": "Existe dúvida razoável entre as partes, mas a reclassificação GD1 para GD3 pode ser revertida e não ficou claro dano irreparável.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator (leu o voto)",
+     "ts": "4:37:37",
+     "justificativa": "Leu o voto do relator Willamy.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:42:28",
+     "justificativa": "Fala de acompanhamento sem nome ouvida; atribuição por ordem de votação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "4:42:31",
+     "justificativa": "Disse que olhou o processo e que há reversibilidade; a área técnica deve decidir em primeira instância; proclama.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Item 8 da pauta (retirado de pauta; processo e relator não identificados na sessão)"
+ ],
+ "limites_da_analise": [
+  "Atribuição de falantes na legenda é inconsistente: o Diretor-Geral é identificado pelo contexto (presidência, proclamações, chamada do secretário-geral), não pelos rótulos; votos de seguidores atribuídos por ordem de votação e proclamação, com confiança baixa.",
+  "Itens do bloco (9-29 exceto 16) não têm processos individuais citados; tratados como um único item.",
+  "Números de processo e de pauta (item 1 inferido pela ordem de julgamento) podem estar errados na legenda; valores e percentuais citados podem conter erro de transcrição (ex.: 16,52% x 16,56% no item 1).",
+  "Conferência de votos: item 16 tem voto divergente só na fundamentação; Willamy Frota votou por escrito nos itens 5 a 7, o que explica a ausência de fala individual dele.",
+  "Ludimila Lima declarou-se impedida nos itens 10 e 13 do bloco; o nome Eduardo na fala de 0:08 provavelmente é erro de legenda."
+ ]
+}

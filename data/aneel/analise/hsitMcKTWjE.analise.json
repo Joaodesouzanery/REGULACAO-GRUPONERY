@@ -1,0 +1,145 @@
+{
+ "meta": {
+  "video_id": "hsitMcKTWjE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "8",
+  "data": "2020-03-17",
+  "formato": "presencial restrito ao colegiado (pandemia de coronavírus; sustentações por vídeo ou na tribuna)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral, identificado pelo cargo; nome não dito na legenda)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "Quórum de três diretores. Efrain Cruz ausente. Rodrigo Limp teve exoneração publicada no DOU no dia (nomeado secretário de Energia Elétrica do MME) e fez despedida; não votou. Indicação de Hélvio Guerra para a vaga anunciada.",
+   "Retirados de pauta os itens 1, 2, 4 a 12, 14 a 17 e 26; bloco aprovado por unanimidade; preferência/destaque para item 3 e item 13.",
+   "Prorrogação por 30 dias (até 22/04/2020) da Consulta Pública 5/2020 (vida útil regulatória de equipamentos de transmissão), a pedido da ABRATE, anunciada pelo relator Sandoval Feitosa e aprovada sem objeções.",
+   "Comunicados: fim da contribuição da CP 4/2020 (revisão tarifária extraordinária Equatorial Alagoas) em 20/03; vídeo educativo sobre corte indevido de energia."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:15:22",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Bloco de itens da 8ª RPO publicados previamente na internet, submetido em conjunto",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não aplicável",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados em conjunto; processos individuais não identificados na legenda.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:16:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:16:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclamação)",
+     "ts": "0:16:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:16:43",
+   "processo": "48500.000396/2019-07",
+   "interessado": "SRM (apresentação técnica de Felipe, SRM)",
+   "assunto": "Resultado da Consulta Pública 23/2019 e aprovação de resolução normativa com novas versões dos submódulos 2.5 e 2.5A do PRORET (metodologia do Fator X, componente de produtividade, para distribuidoras a partir de 2020)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "regulação normativa (resolução, consulta pública)",
+    "Fator X / PRORET"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "PTF recomendada de 0,66% a.a. (vigente 1,53%; CP 1,44%), mediana em vez de média, janela móvel de 6 anos, exclusão das seis distribuidoras designadas, grupos A (estático) e B (dinâmico); benefício estimado aos consumidores de cerca de R$ 253 milhões/ano. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova (emissão de resolução normativa)",
+     "ts": "0:37:00",
+     "confianca": "alta",
+     "justificativa": "aprimoramento da metodologia do Fator X; atualização da PTF e da janela de dados, exclusão das distribuidoras designadas; benefício de cerca de R$ 253 milhões/ano"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:38:29",
+     "confianca": "alta",
+     "justificativa": "aprimoramento importante na metodologia do componente de produtividade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:39:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:39:52",
+   "processo": "48500.007044/2019",
+   "interessado": "Companhia Jaguari de Energia (CPFL Santa Cruz), SP/PR/MG",
+   "assunto": "Reajuste tarifário anual 2020 da CPFL Santa Cruz, a vigorar a partir de 22/03/2020; efeito médio 0,20% (alta tensão 1,14%; baixa tensão -0,32%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, reajuste anual)",
+    "CDE e encargos setoriais",
+    "transmissão (DIT de uso exclusivo)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Homologa o reajuste, fixa TUSD e tarifas de energia, receita das DIT de uso exclusivo e repasse da CDE; destaque do bloco por alteração no teor do voto (correção da data para 22 de março). Apresentação técnica de Otávio (SGT). Relator comentou baixa adesão à tarifa social e pressão do dólar (Itaipu).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (emissão de resolução homologatória)",
+     "ts": "0:54:24",
+     "confianca": "alta",
+     "justificativa": "reajuste de 0,20% em média; destaca baixa participação da tarifa social de baixa renda e pressão cambial de Itaipu; encargos setoriais em queda de 0,89%"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:55:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:14",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17 e 26 retirados de pauta (legenda; lista aproximada)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: falantes do cabeçalho inferido são pouco confiáveis; votantes atribuídos pelo contexto e pela ordem usual.",
+  "Presidente identificado como Diretor-Geral; nome André Pepitone é inferência (cargo em 2020), não dito na legenda.",
+  "Cada item tem 3 votos = 3 presentes (quórum de 3); Rodrigo Limp já exonerado e Efrain Cruz ausente.",
+  "Itens do bloco e seus processos não identificados; item 13 conforme a legenda.",
+  "Minutos de votos de seguidores aproximados."
+ ]
+}

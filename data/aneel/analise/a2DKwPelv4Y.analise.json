@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "video_id": "a2DKwPelv4Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo Ricardo Tili no início é inferência não confiável); ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7",
+  "data": "2019-03-12",
+  "formato": "presencial (Parte 2, sessão da tarde)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral, inferido)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "7ª Reunião Pública Ordinária de 2019, Parte 2; 3 itens deliberados, todos por unanimidade.",
+   "Há outros diretores presentes não identificados na legenda (comentários nos itens 1 e 2); a lista de presentes contém só os identificados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:25",
+   "processo": "48500.006208/2018-65",
+   "interessado": "Light Serviços de Eletricidade S.A. (Light; área de concessão no estado do Rio de Janeiro, 32 municípios)",
+   "assunto": "Reajuste tarifário anual 2019 da Light, a vigorar a partir de 15/03/2019; efeito médio de 11,12% (10,20% alta tensão; 11,52% baixa tensão); CDE mensal de R$ 22.834.607,20",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "distribuição"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (homologação do reajuste)",
+   "resumo_voto": "Relator vota pela resolução homologatória do reajuste tarifário anual da Light, fixa tarifas TUSD e de energia, receita das demais instalações de transmissão de uso exclusivo e repasse mensal de CDE. Houve sustentação oral da Light (representante, citado como Fábio Amorim) pedindo cobertura tarifária antecipada da exposição financeira por diferença de preço entre submercados (cerca de R$ 226 milhões projetados; R$ 107 milhões já conhecidos em jan-mar/2019). O relator reconheceu o mérito mas não incluiu o componente: sem metodologia prevista e por segurança regulatória, a neutralidade se dá ex post (CVA) no ciclo seguinte; tema ficaria sob observação na SGT. Parcela de distribuição responde por 1,39% do reajuste; 5,36% custos de energia, 7,43% financeiros, -2,37% retirada de financeiros anteriores.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (homologa o reajuste)",
+     "ts": "0:30:32",
+     "confianca": "alta",
+     "justificativa": "Mérito do pleito da Light compreendido, mas sem previsão no procedimento para cobertura antecipada; neutralidade ex post via CVA; tratamento futuro se o efeito se confirmar; tarifa acima da inflação no período."
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:40:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:40:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:40:57",
+   "processo": "48500.006122/2017-51",
+   "interessado": "Consórcio São Pedro e Paulo (Krona Gestão em Serviços de Energia Elétrica Ltda., líder, e Êxito Importadora Exportadora, 50% cada); 2º colocado: Consórcio Solar de São Pedro",
+   "assunto": "Recurso administrativo contra o Despacho 1838/2018 da CEL, que inabilitou o consórcio no Leilão de Geração 1/2018 (A-4) por a líder não atender o patrimônio líquido mínimo (item 11.8.2.4 do edital)",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: recurso conhecido e provimento negado (mantida a inabilitação)",
+   "resumo_voto": "Sustentação oral de Paulo Gesteira Costa Filho (advogado do consórcio) pediu habilitação em razão do aporte de R$ 10,5 milhões na Krona, do PL do grupo econômico (R$ 22,5 mi), precedentes (Energy Brasil, Salto Pilão) e art. 31 da Lei 8.666; subsidiariamente, prosseguimento da Êxito isoladamente e afastamento da execução da garantia. Procuradoria opinou pelo improvimento. Relator: PL da Krona de cerca de R$ 300 mil contra R$ 10,5 milhões exigidos; aporte posterior ao último exercício não vale; vinculação ao edital e isonomia; PL de outra empresa do grupo não conta. Execução da garantia será tratada em processo próprio.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega provimento",
+     "ts": "1:04:11",
+     "confianca": "alta",
+     "justificativa": "Vinculação ao instrumento convocatório; aporte extemporâneo não supre o PL mínimo; precedentes citados eram casos distintos; igualdade entre licitantes."
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator, com ressalva sobre precedente Energy Brasil",
+     "ts": "1:06:14",
+     "confianca": "media",
+     "justificativa": "Diferença para o caso Energy Brasil: lá não havia segundo colocado apto; aqui há segundo lugar com preço próximo, e o edital era claro."
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator, complementa",
+     "ts": "1:06:22",
+     "confianca": "media",
+     "justificativa": "CEL elabora editais robustos; flexibilizar comprometeria o caráter competitivo do certame."
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:07:57",
+   "processo": "48500.005695/2018-49",
+   "interessado": "Centrais Elétricas Brasileiras S.A. (Eletrobras); Eletrosul; Vineyard Transmissão de Energia S.A. (linha Bagé 2 - Candiota 2, 230 kV, contrato de concessão 31/2017; SE Candiota 500/230 kV; interligação Brasil-Uruguai, UTE-Uruguai; UTE Pampa Sul)",
+   "assunto": "Pedido de reconsideração/recurso da Eletrobras contra a Resolução Autorizativa 7.530/2018 (acesso da Vineyard à SE Candiota): correção de erro formal (contrato de uso compartilhado é com a Eletrobras, não Eletrosul)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: recurso conhecido e parcialmente provido; nova resolução autorizativa",
+   "resumo_voto": "Recurso tempestivo; acolhido o erro formal: Vineyard e Eletrobras (titular da outorga pela REA 2.280/2010 e detentora da SE Candiota) celebram em 120 dias (contados da nova resolução) o contrato de uso comum; prazo de 120 dias mantido; pedidos de esclarecimento (item 4 do recurso) devem ser dirigidos à SRT. Eletrosul concordou com a Eletrobras. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "1:24:05",
+     "confianca": "alta",
+     "justificativa": "Erro formal na REA 7.530/2018; Eletrobras é a titular legal; prazo de 120 dias razoável; esclarecimentos fora do objeto recorrido vão à SRT."
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:12",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; nomes de empresas e valores podem estar incorretos (ex.: Vineyard, Eletrosul).",
+  "Apenas Efrain Cruz (relator dos itens 1 e 2), Elisa Bastos (relatora do item 3, nome 'a lista basta silva' na legenda) e o Diretor-Geral André Pepitone foram identificados; votos de seguidores atribuídos pela proclamação por unanimidade, sem fala individual identificável; confiança media/baixa.",
+  "Item 1: comentários sobre ICMS, custo de energia e agenda multissetorial feitos por diretor não identificado (provavelmente outro diretor presente, p.ex. Sandoval Feitosa ou Rodrigo Limp); não atribuído. Item 2: dois diretores não identificados fizeram falas (ressalva sobre Energy Brasil e complemento sobre editais da CEL), registrados como não identificado.",
+  "Nº de votos não fecha com o nº real de presentes porque há diretores presentes não identificados.",
+  "Mencionada 'doutora Elisa' no voto anterior sobre Enel (Parte 1 da reunião, fora deste vídeo).",
+  "Item 3: a legenda atribui a apresentação do relatório à relatora; sem sustentação oral registrada."
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "meta": {
+  "video_id": "xGASmxSa3bE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "30ª RPO 2019 (Parte 1)",
+  "data": "2019-08-20",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Sandoval Feitosa",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 do vídeo (até o intervalo de almoço, retorno às 14h30); pauta de 42 itens; bloco dos itens 16 a 42 (exceto 27) aprovado por unanimidade; itens 10 e 15 retirados de pauta antes da sessão.",
+   "Ordem de julgamento anunciada: bloco, depois 5, 9, 11, 14, 1, 2, 3, 6, 4, 7, 8, 12 e 13; nesta parte foram julgados 5, 9, 14, 11 e 1 (os demais, e o item 27, na parte 2).",
+   "Informes: audiências públicas e vídeos institucionais (app ANEEL consumidor; ar-condicionado)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco 16-42",
+   "ts": "0:08:55",
+   "processo": "",
+   "interessado": "diversos (itens do bloco, exceto 27)",
+   "assunto": "Deliberação em bloco dos itens 16 a 42 da pauta (exceto item 27, retirado do bloco a pedido), sem pedido de destaque",
+   "tema": [
+    "bloco de itens",
+    "regulação normativa"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens individuais do bloco não são detalhados na transcrição desta parte; o Diretor-Geral colhe o voto dos diretores pela aprovação do bloco e proclama a unanimidade.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:09:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:09:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:09:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:09:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:09:48",
+   "processo": "",
+   "interessado": "Elektro Redes S/A (processo parcialmente ilegível na legenda)",
+   "assunto": "Resultado da audiência pública 24/2019 e 5ª Revisão Tarifária Periódica da Elektro, com definição dos limites de DEC e FEC 2020-2023; vigência a partir de 27/08/2019",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade (DEC/FEC, perdas)",
+    "CDE e encargos setoriais",
+    "geração distribuída (MMGD)",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -8,32% (alta tensão -2,89%, baixa tensão -11,17%); componente Pd do Fator X 1,04% e T -0,08%; perdas não técnicas regulatórias 5,07%; perdas totais 5,92% sobre energia injetada; financeiros -10,77%. Sustentação oral da Elektro (Fabiano) pediu cinco pontos: alocação das perdas na DIT (acatado, aplicável a contratos antigos), segregação de áreas de risco no Guarujá, cobertura de CDE, perda de receita com mini e microgeração distribuída e mudança no faturamento da iluminação pública (os demais não acatados; GD tratada na relatoria do diretor Rodrigo Limp). SGT apresentou o resultado.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:42:05",
+     "justificativa": "agradece a SGT; concorda com tratamento isonômico das perdas na DIT; perdas não técnicas, CDE e GD tratados em outras frentes (metodologia em revisão, relatoria do diretor Limp); sem tratamento específico para áreas de risco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:47:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:47:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:47:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:47:05",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "Elektro (Fabiano); SGT apresentou o resultado"
+  },
+  {
+   "id": "9",
+   "ts": "0:47:39",
+   "processo": "",
+   "interessado": "Companhia Energética de Pernambuco (Celpe); ARPE (agência estadual)",
+   "assunto": "Recurso administrativo da Celpe contra auto de infração 6/2014 da ARPE (multa por fiscalização da subvenção baixa renda, exercícios 2010 e 2011; multa histórica de cerca de R$ 38,6 mil)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "prescrição intercorrente (Lei 9.873/1999)",
+    "subvenção baixa renda (DMR)",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conheceu e deu provimento ao recurso para reconhecer a prescrição intercorrente e extinguir o processo punitivo sem julgamento de mérito; homologou as diferenças mensais de receita (DMR) de 2010 (cerca de R$ 566,7 mil) e 2011 (cerca de R$ 4,33 milhões), mantendo a devolução ao consumidor; mandou a SRD registrar e a ARPE apurar as causas da prescrição. Sustentação da Celpe (Thiago Moreira) alegou prescrição e nulidade por quórum de dois diretores na ARPE; a Procuradoria concordou com a prescrição mas defendeu a devolução como sanção civil/regulatória não atingida pela prescrição.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (conhece, dá provimento para extinguir o processo punitivo; mantém glosa da DMR)",
+     "ts": "1:11:02",
+     "justificativa": "prescrição intercorrente e nulidade do julgamento da ARPE com dois diretores afastam a multa, mas a DMR é devida ao consumidor para evitar enriquecimento indevido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:59",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:59",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "Celpe (Thiago Moreira); Procuradoria se manifestou"
+  },
+  {
+   "id": "14",
+   "ts": "1:18:00",
+   "processo": "",
+   "interessado": "ABRATE; MG Transmissão S.A.; ONS (processos 48500.0046/2007 etc., números incertos na legenda)",
+   "assunto": "Requerimentos da ABRATE (suspensão da PV por explosões de transformadores de corrente CTH 550 / R6-R7), pedido cautelar da MG Transmissões (subestação Mesquita) e requerimento do ONS para anuência a obras do PMI 2018-2021",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "parcela variável por indisponibilidade (PV)",
+    "fiscalização e sanções",
+    "sustentação oral"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (provimento parcial ao requerimento da ABRATE)",
+   "resumo_voto": "Deu provimento parcial: negou isenção da PV (passada e futura) para eventos de explosão de TCs; negou plano de substituição imposto pela ANEEL e ONS; autorizou que substituições de TCs até a publicação do próximo PMI sejam enquadradas como melhorias sem constar no plano, isentas de PV; negou à MG Transmissão o ressarcimento da PV do desligamento de 15/10/2018 (Mesquita). Sustentação da ABRATE (Mário Miranda Dias) defendeu excludente de responsabilidade; Procuradoria disse que o vício é relação transmissora-fabricante.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova provimento parcial",
+     "ts": "1:53:00",
+     "justificativa": "PV é incentivo econômico sem exigir dolo ou culpa; risco do equipamento é da concessionária; ônus não pode recair sobre o consumidor; flexibiliza apenas substituições até o próximo PMI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:15",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "ABRATE (Mário Miranda Dias); Procuradoria"
+  },
+  {
+   "id": "11",
+   "ts": "1:59:44",
+   "processo": "48500.001032/2018-55 (legenda, incerto)",
+   "interessado": "Itumbiara Transmissora de Energia S/A (State Grid)",
+   "assunto": "Recurso da Itumbiara contra o Despacho 1704/2018 da SRT, que manteve o desconto de PV por atrasos no término de intervenções na SE Cuiabá em 15 e 16/08/2017 (testes investigativos das explosões de TCs)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "parcela variável por indisponibilidade (PV)",
+    "recursos administrativos",
+    "sustentação oral"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (provimento parcial)",
+   "resumo_voto": "Conheceu e deu provimento parcial: desconsiderar no cálculo da PV o intervalo de 18h02 às 23h02 de 16/08/2017 da LT 500 kV Ribeirãozinho-Cuiabá C1 (linha disponível; falha de registro do encerramento), mantendo o desconto nos demais períodos; ONS recalcula e ajusta na apuração subsequente; sem precedente. Sustentação da Itumbiara/State Grid (Fernando Saraiva, Jorge Bauer).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova provimento parcial",
+     "ts": "2:28:58",
+     "justificativa": "testes inéditos justificam atrasos, mas não isenção total; o intervalo em que a linha estava disponível não deve compor a PV; decisão restrita ao caso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:36",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "Itumbiara/State Grid (Fernando Saraiva e Jorge Bauer); Procuradoria"
+  },
+  {
+   "id": "1",
+   "ts": "2:33:19",
+   "processo": "48500.002113/2019-53 (legenda, incerto)",
+   "interessado": "Celesc Distribuição S.A.",
+   "assunto": "Reajuste tarifário anual de 2019 da Celesc Distribuição, vigência a partir de 22/08/2019, com diferimento do efeito financeiro da exposição contratual involuntária de 2014",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "comercialização (CCEE, PLD, contratos)",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -7,80% (alta tensão -5,53%, baixa tensão -9,16%); autorizou o diferimento de quatro quintos do efeito financeiro da exposição contratual de 2014 (acatando parcialmente o pedido de cinco parcelas da Celesc), a ser reanalisado no processo tarifário de 2020, resguardando o consumidor diante da ação judicial. Sustentação da Celesc (Fábio Valentim) pediu diferimento em cinco ciclos; SGT apresentou o resultado.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:07:47",
+     "justificativa": "acata parcialmente o diferimento pedido, preserva estabilidade tarifária e resguarda o consumidor em caso de decisão judicial desfavorável; mecanismo de bandeiras funcionou",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:07:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:07:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:07:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:07:52",
+     "confianca": "media"
+    }
+   ],
+   "sustentacao_oral": "Celesc (Fábio Valentim); SGT apresentou"
+  }
+ ],
+ "retirados": [
+  {
+   "item": "10 e 15 — retirados de pauta antes da sessão",
+   "relator": "n.d.",
+   "motivo": "informado pelo secretário-geral",
+   "ts": "0:08:02"
+  },
+  {
+   "item": "27 — retirado do bloco a pedido",
+   "relator": "n.d.",
+   "motivo": "pedido de retirada do bloco; julgamento não aparece nesta parte",
+   "ts": "0:08:02"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos (ANEEL aparece como daniel/anel/neo); processos ilegíveis foram omitidos ou marcados como incertos.",
+  "Os rótulos de falantes do .md são inferidos e errados (ex.: abertura atribuída a Sandoval/Mosna/Tili; quem preside é o Diretor-Geral André Pepitone).",
+  "Presença: na abertura o DG fala em três diretores com quórum e que Efrain deve chegar; o bloco e os itens mostram quatro votantes além do DG; Elisa Bastos presente por inferência (citada como diretora na mesa), confiança baixa.",
+  "Votos dos não-relatores atribuídos pela proclamação do DG; as falas individuais de comentário (itens 5, 9, 14 e 11) não têm nome na legenda e não foram atribuídas a diretores específicos; ts aproximados.",
+  "Bloco 16-42 tratado como item único porque a legenda não lista os itens individuais.",
+  "Nº de votos por item = 5 presentes, sem impedidos declarados."
+ ]
+}

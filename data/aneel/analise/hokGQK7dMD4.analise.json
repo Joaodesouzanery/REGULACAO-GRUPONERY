@@ -1,0 +1,128 @@
+{
+  "meta": {"video_id": "hokGQK7dMD4", "fonte": "legenda automática do YouTube; falantes inferidos (tags de falante pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21", "data": "2020-06-17", "formato": "videoconferência (reunião virtual, pandemia de covid-19)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Júlio César Rezende Ferraz", "Elisa Bastos", "Efrain Cruz", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura: só três diretores no início (Sandoval, Júlio e Elisa, pelo que se infere); Efrain já presente na aprovação da ata (~0:06:30); André Pepitone entrou depois e teve problemas de conexão nos itens 5 e 9, tendo o voto registrado em ata depois (~1:43:55).",
+      "Pauta com 40 itens; bloco aprovado em votação conjunta (~0:08:46) após retiradas; itens deliberados individualmente: 11, 5, 9, 3, 4 e 14 (ordem dita pelo secretário-geral).",
+      "Comunicados iniciais: prazo da Tomada de Subsídio 01/2020 (RN 666/2015) até dia 22; CP 30/2020 (revisão da RN 443/2011, reforços e melhorias) prorrogada por 10 dias a pedido da Abrate; vídeo educativo sobre incêndios e linhas de transmissão.",
+      "Todos os reajustes tarifários do dia tiveram suspensão da aplicação até 30/06/2020 com diferimento de valores na CDE, por causa da pandemia (Decreto 10.250/2020)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:08:46",
+      "processo": "(vários, bloco de itens sem discussão)", "interessado": "(vários)",
+      "assunto": "Votação em bloco dos itens da pauta não destacados (o bloco foi anunciado com 26 itens, número incerto na legenda); item 17 retirado do bloco pelo relator no momento da votação",
+      "tema": ["votação em bloco", "institucional"],
+      "relator": "diversos", "resultado": "aprovado o bloco (proclamação do Diretor-Geral, ~0:09:20)",
+      "resumo_voto": "O Diretor-Geral submeteu o bloco; diretores votaram pela aprovação. Antes, a pedido do relator, o item 17 foi retirado do bloco por erro de comunicação com a secretaria-geral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco, proclama", "ts": "0:09:20", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "aprova o bloco", "ts": "0:08:50", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:08:55", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:10:10",
+      "processo": "48500.003120/2020 (número parcial/incerto na legenda)", "interessado": "GNA I Geração de Energia S.A. (UTE GNA I, antiga Novo Tempo, cerca de 1.238 MW; 20º LEN, leilão A-5/2014)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar: reconhecimento dos impactos da covid-19 como excludente de responsabilidade no atraso da UTE GNA I, afastamento da vedação a acordos bilaterais/descontratação (Despacho 373/2017) e recomposição de prazo (art. 19 Lei 13.360/2016)",
+      "tema": ["leilões (geração)", "outorgas de geração (térmica)", "comercialização (descontratação, MCSD)", "excludente de responsabilidade / covid-19", "recursos administrativos"],
+      "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade dos votantes: cautelar conhecida e parcialmente provida (revoga a vedação do Despacho 373/2017); mérito do excludente e recomposição do prazo ficam para instrução posterior",
+      "resumo_voto": "Sustentação oral de Guilherme Penteado (GNA I). Procurador-Geral: ainda faltam elementos para o excludente, mas geradores atrasados devem participar de mecanismos de descontratação para mitigar perdas. Relator: cenário mudou (obras ~95% concluídas, sobrecontratação das distribuidoras, mecanismo de descontratação já sem pagamento ao gerador), então permitir a participação beneficia o consumidor; recomposição do prazo (art. 19) e efeito sobre o volume contratado exigem análise técnica específica, fora de cognição sumária.",
+      "votos": [
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, conhece e dá parcial provimento à cautelar", "ts": "0:29:10", "justificativa": "mudança do cenário fático (obras avançadas, sobrecontratação) faz a descontratação atender o interesse público e o consumidor; mérito do excludente e recomposição de prazo ficam para depois", "tom": "técnico, explicativo", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (comentários e perguntas ao relator durante a discussão)", "ts": "0:42:06", "justificativa": "perguntou sobre preço da energia e proteção do consumidor; concordou com a decisão em sede de cautelar como ponderada", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:08", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:42:52",
+      "processo": "48500.007124/2019-20", "interessado": "Energisa Minas Gerais Distribuidora de Energia S.A. (Cataguases/MG)",
+      "assunto": "Reajuste tarifário anual 2020 a vigorar de 22/06/2020: efeito médio 6,41% (5,81% alta tensão; 6,56% baixa tensão); aplicação suspensa até 30/06/2020 com diferimento na CDE",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "covid-19"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes (voto de André Pepitone registrado depois)",
+      "resumo_voto": "Homologa o reajuste de 6,41%; suspende a aplicação das novas tarifas até 30/06/2020 mantendo a RH 2.561/2019; reconhece direito ao valor da receita não arrecadada; autoriza dedução na cota CDE de julho, devolvida em até 5 parcelas corrigidas pela Selic a partir de agosto. Relator destacou que a Parcela B corrigida pelo IPCA (1,88%) no contrato novo, em vez do IGP-M (6,51%), beneficia o consumidor. Apresentação técnica da SGT (Ricardo Martins).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:43:11", "justificativa": "homologa reajuste; suspensão até 30/06 pela pandemia com diferimento na CDE; Parcela B pelo IPCA favorece o consumidor", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator", "ts": "1:07:55", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:07:55", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (após ajuste de áudio)", "ts": "1:08:14", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "voto favorável deixado depois por problema de conexão (registrado em ata)", "ts": "1:44:16", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "9", "ts": "1:09:39",
+      "processo": "48100.001165/1996-12", "interessado": "CEEE-GT / Governo do Estado do Rio Grande do Sul (privatização; UHEs Jacuí, Passo Real, Canastra, Bugres, Ernestina, Capingui, Guarita, Herval, Santa Rosa, Passo do Inferno, Forquilha, Juizinho e Itaúba)",
+      "assunto": "Abertura de consulta pública por intercâmbio documental (18/06 a 17/07/2020, prazo de 30 dias) sobre a minuta de contrato de concessão das usinas após a privatização, nos termos do Decreto 9.271/2018",
+      "tema": ["regulação normativa (consulta pública)", "outorgas de geração (hidrelétrica)", "leilões / privatização"],
+      "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade dos votantes (André Pepitone registrou o voto depois)",
+      "resumo_voto": "Minuta prevê UB (2,5% da receita dos 12 meses anteriores, por cinco anos, a partir do 13º mês), obrigação de ampliar UHE Bugres (de 11.700 kW para 17.620 kW) com diplomas ambientais exigidos pelo Despacho 1.490/2020, e inclusão da UHE Itaúba (exceção dos §5º e 6º do art. 1º do Decreto 9.271). Prazo reduzido a 30 dias pela necessidade de submeter edital ao TCU e realizar o certame ainda em 2020.",
+      "votos": [
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, aprova abertura da consulta", "ts": "1:22:32", "justificativa": "aperfeiçoar a minuta com subsídios externos; prazo de 30 dias por urgência do cronograma da privatização", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator, proclama", "ts": "1:26:52", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:22:44", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:23:09", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (voto registrado depois por problema técnico)", "ts": "1:43:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:27:57",
+      "processo": "48500.007007/2019-89", "interessado": "RGE Sul Distribuidora de Energia S.A.",
+      "assunto": "Reajuste tarifário anual 2020 a vigorar de 19/06/2020: efeito médio 6,09% (6,24% alta tensão; 6,01% baixa tensão); aplicação suspensa até 30/06/2020 com diferimento de cerca de R$ 15 milhões na CDE",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "covid-19"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa o reajuste de 6,09%; suspende a aplicação até 30/06/2020 mantendo a RH 2.557/2019; dedução na cota CDE de julho, restituída em 5 parcelas corrigidas pela Selic a partir de agosto. Apresentação técnica da SGT (Cecília). Número do item inferido pela ordem do secretário-geral (11, 5, 9, 3, 4, 14).",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "1:41:30", "justificativa": "homologa o índice e suspende a aplicação até 30/06 como em todos os processos tarifários do dia", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:45:15", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:45:22", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:45:25", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora, proclama", "ts": "1:45:31", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:46:28",
+      "processo": "48500.007158/2019-98", "interessado": "Energisa Nova Friburgo Distribuidora de Energia S.A. (Nova Friburgo/RJ)",
+      "assunto": "Reajuste tarifário anual 2020 a vigorar de 22/06/2020: efeito médio 2,39% (3,68% alta tensão; 2,11% baixa tensão); aplicação suspensa até 30/06/2020 com diferimento (cerca de R$ 109 mil) na CDE",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "covid-19"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo sorteado originalmente a Rodrigo Limp (fim de mandato) e redistribuído a Elisa Bastos em 23/03/2020. Homologa 2,39%; suspensão até 30/06 mantendo a RH 2.560/2019; dedução na cota CDE e devolução em até 5 parcelas com Selic. Apresentação técnica da SGT (Ricardo Martins).",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "2:03:00", "justificativa": "homologa índice, suspende aplicação até 30/06 e diferimento na CDE", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora", "ts": "2:06:32", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora", "ts": "2:06:38", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora", "ts": "2:06:44", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora, proclama", "ts": "2:06:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "14", "ts": "2:07:53",
+      "processo": "48500.005171/2019-39", "interessado": "Consulta Pública 33/2019 (disposições financeiras da energia secundária)",
+      "assunto": "Prorrogação do prazo de pedido de vista da diretora Elisa Bastos por mais oito sessões; relator original Rodrigo Limp (fim do mandato)",
+      "tema": ["regulação normativa (consulta pública)", "comercialização (energia secundária)", "pedido de vista"],
+      "relator": "Rodrigo Limp (relator original; mandato encerrado)", "resultado": "deferida a prorrogação por mais oito sessões",
+      "resumo_voto": "Elisa Bastos solicitou mais oito sessões para devolver o processo, e o Diretor-Geral deferiu sem objeção; foi o último item da pauta e a reunião foi encerrada.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "pede prorrogação do prazo de vista por oito sessões", "ts": "2:08:20", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "defere a prorrogação", "ts": "2:08:40", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "1, 2, 6, 7, 8, 10, 12, 13, 15", "motivo": "retirados de pauta, conforme leitura do secretário-geral (~0:07:00); numeração incerta na legenda", "ts": "0:07:20"},
+    {"id": "17", "motivo": "retirado do bloco a pedido do relator por erro de comunicação com a secretaria-geral", "ts": "0:09:08"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa; falantes inferidos não confiáveis (aparece Ricardo Tili na etiqueta, mas ele não foi identificado como presente; a sessão tinha cinco diretores: Sandoval Feitosa, Júlio Ferraz, Elisa Bastos, Efrain Cruz e André Pepitone).",
+    "Falas de seguidores sem nome ('eu acompanho', 'também voto com o relator') foram atribuídas por ordem usual de votação e pela proclamação, com confiança baixa; a ordem exata entre Júlio, Elisa, Efrain e André nos itens 3, 4 e 9 é incerta.",
+    "Item 11: proclamação diz 'por unanimidade dos votantes'; só três votos foram identificados (Efrain e André possivelmente não votaram ou não foram ouvidos), então o número de votos não fecha com os cinco presentes.",
+    "Itens 5 e 9: André Pepitone teve problema de conexão e o voto foi registrado depois (ts ~1:43:55 a 1:44:16).",
+    "Bloco: relator, número de itens (26?) e quem votou não ficam claros; itens do bloco não identificados individualmente na transmissão.",
+    "Número do processo do item 11 incerto (legenda: 48.500 003 120/2000 e 0031 22020); número do item 3 (RGE Sul) inferido pela ordem anunciada.",
+    "Valores monetários e percentuais da legenda podem estar errados; foram mantidos só os claramente repetidos."
+  ]
+}

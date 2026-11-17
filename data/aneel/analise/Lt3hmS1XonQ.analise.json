@@ -1,0 +1,115 @@
+{
+  "meta": {"video_id": "Lt3hmS1XonQ", "fonte": "legenda automática do YouTube (sem falantes confiáveis); ts = tempo do vídeo; vídeo cobre só a sessão da manhã (até a suspensão para o almoço, 4:04:30); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "40",
+    "data": "2020-10-27",
+    "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Cristiano Vieira da Silva", "Efrain Cruz"],
+    "ausentes": ["Elisa Bastos (em férias, dita na abertura)"],
+    "observacoes": [
+      "40ª Reunião Pública Ordinária de 2020. Na abertura o Diretor-Geral informa quórum de três diretores, diretora Elisa em férias e diretor Efrain para ingressar ao longo da reunião; Efrain aparece como relator do último item da manhã e raciocina no debate, logo a presença plena dele é certa só a partir do item da Amazonas Energia ou antes (momento da entrada não identificado).",
+      "Sessão suspensa às 4:04:30 do vídeo para almoço, com retomada às 14h30; a parte da tarde (itens com sustentação oral 7, 8 e 9 e demais) NÃO consta deste vídeo.",
+      "Pauta publicada com 37 itens (bloco com 27 itens; legenda confusa quanto aos números). Itens de bloco aprovados por unanimidade dos votantes; sustentações orais pedidas para os itens 1, 4, 6, 7, 8 e 9; preferência para o item 4.",
+      "Itens deliberados neste vídeo: bloco; ata da 39ª reunião; RTE Amazonas Energia (Sandoval, unânime); apuração de ressarcimentos de restrições de eólicas / despacho 2303 (Cristiano Vieira, pedido de vista); impugnação Parnaíba I (Efrain, unânime)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "ata-39",
+      "ts": "0:03:39",
+      "processo": "",
+      "interessado": "",
+      "assunto": "Aprovação da ata da 39ª Reunião Pública Ordinária da Diretoria de 2020 (a ata da reunião extraordinária do dia anterior ficou para a próxima)",
+      "tema": ["institucional"],
+      "relator": "André Pepitone (Diretor-Geral, submete)",
+      "resultado": "ata aprovada; ata da extraordinária de 26/10 adiada para a próxima reunião",
+      "resumo_voto": "Três diretores votaram pela aprovação da ata; a ata da reunião extraordinária anterior não tinha condições de ser votada e ficou para a próxima.",
+      "votos": [
+        {"diretor": "Cristiano Vieira da Silva", "voto": "aprova a ata", "ts": "0:03:55", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova a ata", "ts": "0:04:00", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "aprova a ata (proclama)", "ts": "0:04:03", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "bloco",
+      "ts": "0:06:02",
+      "processo": "",
+      "interessado": "",
+      "assunto": "Itens do bloco (votos, relatórios e atos disponíveis no site desde a quinta anterior), aprovados em conjunto, exceto o item retirado posteriormente",
+      "tema": ["institucional", "bloco de itens"],
+      "relator": "diversos",
+      "resultado": "aprovados por unanimidade dos votantes",
+      "resumo_voto": "Itens do bloco submetidos a julgamento em conjunto; cada diretor aprovou o bloco; o Diretor-Geral proclamou unanimidade dos votantes.",
+      "votos": [
+        {"diretor": "Cristiano Vieira da Silva", "voto": "aprova o bloco", "ts": "0:06:09", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:06:15", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:06:25", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1",
+      "ts": "0:06:41",
+      "processo": "48500.007022/2019-12",
+      "interessado": "Amazonas Energia S.A. (AmE)",
+      "assunto": "Revisão tarifária extraordinária (RTE) contratual da Amazonas Energia, subcláusula segunda da cláusula vigésima do contrato de concessão 1/2019, a vigorar a partir de 1º/11/2020",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "CDE e encargos setoriais", "MP 998/2020 e RGR", "tarifa social (baixa renda)", "ICMS na tarifa", "distribuidora privatizada (Amazonas)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "aprovado por unanimidade: homologada a RTE, efeito médio de 5,31% (7,12% alta tensão; 4,47% baixa tensão)",
+      "resumo_voto": "Relator homologa a RTE com reavaliação completa da base de remuneração, com efeitos da MP 998/2020 (ACR médio menor e indenização por RGR de obras físicas/ativos em curso) e rejeita repassar à tarifa o custo do ICMS por substituição tributária (Decreto estadual 40.1628/2019, ADI 6144 no STF), por falta de diligência da distribuidora; determina valores de CDE a repassar via CCEE. Sustentações orais do deputado federal Marcelo Ramos (a favor do relatório, contra o repasse do ICMS) e do deputado estadual João Luiz (pede adiar o reajuste). Procuradoria-Geral alinhada com o relator quanto ao ICMS. Debate sobre tarifa social e desequilíbrio da concessão; Diretor-Geral ressalva o trade-off do desequilíbrio, mas acompanha.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova a homologação da RTE", "ts": "0:06:41", "justificativa": "reavaliação completa da base e efeitos da MP 998; não repassar o ICMS da substituição tributária porque a distribuidora não demonstrou diligência (sem questionar o Estado nem judicialmente), valor presumido não transparente e inconstitucionalidade apontada pela PGR na ADI 6144", "tom": "técnico, explicativo", "confianca": "alta"},
+        {"diretor": "Cristiano Vieira da Silva", "voto": "acompanha o relator (pela proclamação)", "ts": "2:20:06", "justificativa": "voto de mérito não atribuído com segurança; um dos diretores elogiou o voto e destacou desafios da distribuidora (geração do subsistema Manaus, sobrecontratação, obras de interligação)", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:20:10", "justificativa": "comentários sobre ICMS e tarifa social atribuídos aos diretores sem identificação segura de falante", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama unanimidade", "ts": "2:20:17", "justificativa": "cobrou postura mais ativa da Aneel sobre tarifa social e sobre o ICMS (diligenciar via AGU/empresa) e registrou preocupação com o desequilíbrio da concessão, mas acompanhou a posição do relator e da Procuradoria", "tom": "propositivo, com ressalva", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4",
+      "ts": "2:20:48",
+      "processo": "48500.006218/2017-18",
+      "interessado": "CCEE e geradores eólicos (ressarcimentos por restrição de operação, constrained-off); ABEEólica fez sustentação",
+      "assunto": "Apuração dos ressarcimentos estabelecidos na contratação de energia no ACR e na energia de reserva, relativos a usinas eólicas, suspensos pelo despacho 2.303/2019 (fechamento parcial da AP 34/2019 sobre constrained-off)",
+      "tema": ["geração (eólica)", "comercialização (CCEE, PLD, contratos)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "constrained-off"],
+      "relator": "Cristiano Vieira da Silva",
+      "resultado": "pedido de vista (diretor que pediu não identificado); sem votação de mérito",
+      "resumo_voto": "Relator propõe determinar à CCEE, em 30 dias, a metodologia de apuração da energia não fornecida por restrição elétrica externa e cronograma (parcelável) de apuração, e autorizar a CCEE a retomar a apuração dos ressarcimentos suspensos pelo despacho 2.303/2019, condicionado à aprovação do cronograma pela SRG, até o início do normativo definitivo; mantém os critérios históricos. Cerca de 370 pedidos acumulados e mais de 540 milhões de reais. Sustentação oral de Sandro Yamamoto (ABEEólica), que pede metodologia definida na AP 34 antes de tratar os casos pendentes. Procuradoria sem questão jurídica. Um diretor tem entendimento um pouco diferente e pede vista.",
+      "votos": [
+        {"diretor": "Cristiano Vieira da Silva", "voto": "relator, propõe voto (retomar apuração com metodologia e cronograma da CCEE)", "ts": "2:48:26", "justificativa": "o passivo de mais de 370 pedidos e mais de 540 milhões de reais pode ser tratado de forma automatizada pela CCEE com os critérios históricos, sem criar regra nova", "tom": "técnico", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "2:48:50", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (vista)", "ts": "2:48:50", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "2:48:57", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "6",
+      "ts": "2:49:03",
+      "processo": "48500.005426/2017-00",
+      "interessado": "Parnaíba I Geração de Energia S.A. (UTEs Maranhão IV e V, complexo Parnaíba, grupo Eneva)",
+      "assunto": "Pedido de impugnação, com efeito suspensivo, contra decisão da CCEE sobre penalidades por falta de combustível (novembro/2015 a janeiro/2016), cerca de 12,7 milhões de reais",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "comercialização (CCEE, PLD, contratos)", "recursos administrativos", "outorgas de geração (térmica)"],
+      "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade: impugnação conhecida e, no mérito, negado provimento",
+      "resumo_voto": "Relator conhece o pedido (tempestivo) e nega provimento: o ofício 65 da SRG e o despacho 712/2017 valem só para dez/2014 a out/2015; no TAC 1/2014 a indisponibilidade sem redespacho do gás de Maranhão III para IV e V caracteriza falta de combustível; boletins da ANP, fiscalização de 2016/2018 e estudo da Unifei não provam disponibilidade no período; tempo rege o ato (RN 583/2013). Sustentação oral de Lívia Correia (Parnaíba). Efrain levanta questão de ordem sobre eventual impedimento de Cristiano Vieira por ter sido superintendente da SRG e participado da instrução; Procuradoria-Geral (Luiz Eduardo) entende que só impede se houve decisão; Cristiano esclarece que o ofício foi mero encaminhamento e vota. Um diretor sugere diligência sobre os três meses finais; relator mantém.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "3:04:18", "justificativa": "penalidade por falta de combustível mantida; elementos técnicos apresentados não se referem ao período de nov/2015 a jan/2016 e o TAC deve ser cumprido como pactuado; segurança jurídica traz equilíbrio contratual para os dois lados", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "4:03:50", "justificativa": "antes da votação um diretor sugeriu diligência para a SRG se manifestar sobre os três meses finais (autoria não identificada com segurança); legenda do voto confusa", "confianca": "baixa"},
+        {"diretor": "Cristiano Vieira da Silva", "voto": "acompanha o relator (pela proclamação)", "ts": "4:03:54", "justificativa": "defendeu poder votar: o ofício 65 foi mero encaminhamento, não decisão; argumentou que o TAC deve ser cumprido como pactuado", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama unanimidade", "ts": "4:03:59", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "Itens retirados de pauta anunciados na abertura (a legenda cita itens 11 a 37 e o item 17 retirado posteriormente; números ambíguos)", "relator": "", "motivo": "retirada de pauta citada pelo secretário-geral; detalhes ilegíveis na legenda", "ts": "0:05:00"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo parciais, nomes distorcidos e falantes não identificados no texto; votos individuais de quem apenas acompanha foram atribuídos pela ordem de votação e pela proclamação, com confiança baixa.",
+    "Diretor Cristiano Vieira da Silva não consta da lista do config da agência; nome registrado como dito.",
+    "Quórum inicial de três diretores (Pepitone, Sandoval e Cristiano); Efrain Cruz ingressou ao longo da sessão, momento não identificado; no bloco e na ata registrei apenas três votos.",
+    "Item 4: pediu vista um diretor cujo nome não foi captado pela legenda; os demais constam como não votou (vista) com confiança baixa. Resultado final do item pendente de outro vídeo.",
+    "Item 6: a legenda do voto de Cristiano traz «eu não acompanho o voto» provavelmente por erro de transcrição; a proclamação do Diretor-Geral é por unanimidade, e foi essa a base do registro.",
+    "Vídeo termina na suspensão para o almoço (retomada às 14h30); a tarde, com itens 7, 8 e 9 e outros, não está neste vídeo.",
+    "Numeração dos itens (1, 4, 6) conforme falas do secretário-geral; item 4 é o chamado de «quatro na pauta» e o item 6 «seis da pauta»; números de processo (48500.006218/2017-18 e 48500.005426/2017-00) podem estar com dígitos finais incertos.",
+    "Valores citados (5,31%, 7,12%, 4,47%, 12,7 milhões, 370 pedidos, 540 milhões) conforme a legenda; podem ter erros."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "video_id": "L4WmePHDXPU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Extraordinária de 2018",
+  "data": "2018-12-21",
+  "formato": "presencial",
+  "presidente_da_sessao": "Ricardo Tili (Diretor-Geral)",
+  "diretores_presentes": [
+   "Ricardo Tili",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião extraordinária convocada por três diretores com prazo inferior a 48h; as duas decisões devem voltar à pauta para confirmação nas duas primeiras reuniões ordinárias de 2019.",
+   "Sem pedidos de sustentação oral nem de preferência.",
+   "Procurador (chamado de doutor André na legenda) deu parecer oral no item 1."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:55",
+   "processo": "48500.004245/2012-43",
+   "interessado": "Amazonas Geração e Transmissão de Energia (Amazonas GT); Amazonas Distribuidora; produtores independentes (Companhia Energética Manauara, Geradora de Energia do Amazonas, Ponta Negra, Jaraqui, Tambaqui); CCEE",
+   "assunto": "Requerimento administrativo da Amazonas GT: aprovação da cessão e dos contratos de compra e venda de energia (CCVE/CCVs) e aditamentos entre Amazonas Distribuição, Amazonas GT e PIEs, no processo de desverticalização (REA 6.883/2018)",
+   "tema": [
+    "comercialização (contratos de compra e venda)",
+    "outorgas de geração (térmica, sistema isolado)",
+    "CDE e encargos setoriais (CCC)",
+    "fiscalização"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (conforme proclamação)",
+   "resumo_voto": "Aprova a cessão dos contratos da Amazonas Distribuição para a Amazonas GT e os contratos entre partes relacionadas, mantidos prazo, preço e quantidades originais, observando o art. 21 da Lei 10.848/2004; diferenças entre contratos originais e novos serão fiscalizadas no âmbito da CCC pela SFF com a SRG. Redação do dispositivo ajustada em plenário após sugestão da procuradoria e debate (inclusão do art. 21 e supressão de referência a diferença de preço). Os contratos de gás também suprem a UTE Mauá 3 (20º leilão de energia nova, início em janeiro de 2019).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (com ajustes de redação ao dispositivo)",
+     "ts": "0:01:50",
+     "confianca": "alta",
+     "justificativa": "manter prazo, preço e quantidade originais; fiscalização via CCC das diferenças; observar art. 21 da Lei 10.848"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:00",
+     "confianca": "media",
+     "justificativa": "conduziu a discussão da redação e proclamou o resultado"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:26:40",
+   "processo": "48500.004735/2018-35",
+   "interessado": "São Pedro Transmissora de Energia S.A.",
+   "assunto": "Autorização e estabelecimento da parcela de RAP para reforço (segundo banco de autotransformadores 230/138 kV na SE Rio Grande 2, oeste da Bahia) em instalações de transmissão da São Pedro Transmissora",
+   "tema": [
+    "transmissão (RAP, reforços)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (resolução autorizativa)",
+   "resumo_voto": "Voto do relator Rodrigo Limp lido por Efrain Cruz; reforço emergencial pedido pelo ONS e MME (ofício 394/2018) por sobrecarga no oeste da Bahia (agronegócio); emite resolução autorizativa e fixa a RAP conforme metodologia do submódulo 9.1 do PRORET.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (voto lido por Efrain Cruz)",
+     "ts": "0:30:20",
+     "confianca": "media",
+     "justificativa": "reforço necessário ao suprimento do oeste da Bahia"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (leu o voto)",
+     "ts": "0:31:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:26",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática muito ruim; nomes de diretores quase não aparecem nas falas. Só Ricardo Tili (Diretor-Geral, preside) e Efrain Cruz (relator do item 1) são identificados com segurança.",
+  "Item 2: relator é Rodrigo Limp, cujo voto foi lido por Efrain Cruz; não está claro se Limp estava presente (tratado como ausente fisicamente, voto lido; não confirmado).",
+  "A convocação foi feita por três diretores, mas só há falas atribuíveis a dois; outros diretores (por exemplo Elisa Bastos, Júlio Ferraz, citados em terceira pessoa) podem ter estado presentes e votado; a proclamação diz unanimidade mas sem nomes. Contagem de votos pode estar incompleta.",
+  "Há trechos da fala atribuídos a «Elisa» e «Júlio» (provavelmente Elisa Bastos e Júlio Ferraz na discussão da redação do item 1); não foi possível confirmar quem falou, portanto não registrei votos.",
+  "Minutos dos votos de quem só acompanha são aproximados. Ts de item 1 inicia ~0:55; ts do item 2 baseado em 'próximo item' em 1600s (0:26:40)."
+ ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {"video_id": "emGd28OiWk4", "fonte": "legenda automática do YouTube; falantes inferidos; Parte 2 da 19ª RPO de 2019 (continuação, o início da sessão está em outro vídeo)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "19",
+    "data": "2019-06-04",
+    "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Vídeo é a Parte 2: retoma a leitura do voto do item 3 (recurso da RGE Sul) e delibera o último item da pauta; encerra a 19ª reunião pública ordinária de 2019.", "Demais diretores presentes não são identificáveis nesta parte; lista de presentes consta na Parte 1."]
+  },
+  "itens": [
+    {
+      "id": "3", "ts": "0:00:32",
+      "processo": "48500.002703/2015-52 (número parcial na legenda)", "interessado": "RGE Sul Distribuidora de Energia (legenda: «rj sul»)",
+      "assunto": "Recurso administrativo contra o auto de infração 22/2018 da SFE/SFF (cálculo incorreto de indicadores de continuidade, não pagamento de compensação aos consumidores, expurgos indevidos por situação de emergência e dia crítico); multa de R$ 7.044.455,81 após juízo de reconsideração",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "distribuidoras: qualidade e continuidade (DEC/FEC, compensação)"],
+      "relator": "Efrain Cruz", "resultado": "recurso conhecido e desprovido por unanimidade; mantida a multa de R$ 7.044.455,81",
+      "resumo_voto": "Relator conhece do recurso (tempestivo) e nega provimento: não houve contestação sobre o cálculo dos indicadores; a recorrente reconhece a falha nas compensações e o reprocessamento não elide a infração; expurgos sem ato de autoridade competente não cabem; agrupamento das não conformidades 3 e 4 já acolhido em reconsideração (multa de ~R$ 12 mi para ~R$ 7 mi); sem base para conversão em advertência (art. 8º da REN 63/2004), pois indicadores de continuidade não são de pequeno potencial ofensivo.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:00:55", "justificativa": "a própria recorrente reconhece a conduta; expurgos exigiam ato de autoridade competente; infração de potencial ofensivo não pequeno afasta advertência", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:10:20", "justificativa": "proclama a decisão por unanimidade; na discussão (fala não atribuída com certeza) ressalta que o tema afeta diretamente o consumidor e que a penalidade pecuniária é bem aplicada", "confianca": "media"}
+      ],
+      "sustentacao_oral": "não registrada nesta parte"
+    },
+    {
+      "id": "4", "ts": "0:10:27",
+      "processo": "48500.002293/2016-21", "interessado": "Eólica Cerro Chato IV, V e VI e Eólica Cerro dos Trindade (CSA); legenda com nomes imprecisos",
+      "assunto": "Recurso administrativo contra o despacho 86/2016 da SGT que lançou a Taxa de Fiscalização de Serviços de Energia Elétrica (TFSEE) de 2016 das centrais eólicas, suspensas após evento climático (micro explosão) que destruiu oito aerogeradores",
+      "tema": ["fiscalização e sanções (TFSEE)", "recursos administrativos", "outorgas de geração (eólica)", "CDE e encargos setoriais (taxas)"],
+      "relator": "Efrain Cruz", "resultado": "recurso conhecido e desprovido por unanimidade; mantido o despacho 86/2016-SGT e o lançamento da TFSEE",
+      "resumo_voto": "Relator (processo redistribuído após Pepitone assumir a Diretoria-Geral) segue parecer 72/2019 da Procuradoria: o fato gerador da taxa é o poder de polícia potencial, a base é a potência instalada e a incidência só cessa com a extinção da outorga; excludentes de responsabilidade já transitaram em julgado. Cobrança está suspensa por liminar em mandado de segurança na 1ª Vara Federal do DF; encaminha autos à Procuradoria para avaliar juntada do voto à ação.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:11:09", "justificativa": "a taxa decorre do poder de polícia exercido em potencial e da potência instalada, e a outorga segue válida mesmo com a operação suspensa", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:27:56", "justificativa": "proclama a decisão por unanimidade", "confianca": "media"}
+      ],
+      "sustentacao_oral": "não registrada; houve intervenção de um diretor (não identificado) sobre o parecer da Procuradoria e a revisão do entendimento de 2013, que condicionava a taxa à operação comercial"
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Vídeo é a Parte 2 da sessão; lista de presentes e ausentes não aparece nesta parte. Só são registrados Efrain Cruz (relator) e André Pepitone (Diretor-Geral, proclama). Os demais diretores votaram pela proclamação de unanimidade, mas não são identificáveis nesta parte; nº de votos não fecha com o nº de presentes.",
+    "A frase «a companhia relata também acompanhou o relator» (legenda) sugere que uma diretora citada nominalmente acompanhou o relator, mas o nome está truncado; nome não atribuído.",
+    "Intervenção na discussão do item 4 (revisão de parecer da Procuradoria de 2013) é de um diretor não identificado pela legenda.",
+    "Relator aparece na legenda como «efraim pereira da cruz» (Efrain Cruz); empresas (RGE Sul, Cerro Chato, Cerro dos Trindade), números de processo, valores e datas podem estar errados pela legenda automática.",
+    "O texto menciona que Pepitone foi nomeado Diretor-Geral em 3 de setembro (2018); ts dos votos são aproximados."
+  ]
+}

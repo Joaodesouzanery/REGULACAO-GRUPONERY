@@ -1,0 +1,149 @@
+{
+ "meta": {
+  "video_id": "-MgcEPn0bMg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17ª Reunião Pública Ordinária de 2020 (Parte 2)",
+  "data": "2020-05-19",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte da tarde da reunião de 19/05/2020 (a legenda fala em «2019» por engano). Presentes conforme a Parte 1 da mesma sessão (rO3VsJStQ3E); a Parte 2 não faz chamada.",
+   "Inversão de pauta: item 7 primeiro. Itens 6 e 13 retirados de pauta; item 5 foi o último deliberado. Encerrada ≈ 1:16:54."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:32",
+   "processo": "48500.000441/2019-89",
+   "interessado": "ABSOLAR (Associação Brasileira de Energia Solar Fotovoltaica); distribuidoras do grupo CPFL e Nova Palma Energia (norma GED-15303)",
+   "assunto": "Pedido de medida cautelar da ABSOLAR para suspender exigências técnicas de conexão de micro e minigeração distribuída (seção 3.7 do módulo 3 do PRODIST): relé 59N, dispositivo de seccionamento visível (DSV) e religamento automático acima de 300 kW",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos",
+    "regulação normativa",
+    "fiscalização e sanções",
+    "distribuição (CPFL)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecer e negar provimento à cautelar, por unanimidade",
+   "resumo_voto": "Sustentações orais de Ricardo Vidinich (conselho de consumidores da Copel; pede aguardar a CP 25/2019), de engenheiro da Sinergia Consultoria, de Bárbara Rubim (ABSOLAR) e do advogado Guilherme (Martorelli Advogados). Procuradoria não foi chamada a opinar. Relator negou a cautelar: ausência de fumaça do bom direito (itens 4.4 e 4.6 do PRODIST permitem proteções adicionais justificadas) e de perigo da demora; irregularidades concretas das distribuidoras vão à fiscalização.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento à cautelar",
+     "ts": "0:35:03",
+     "confianca": "alta",
+     "justificativa": "segurança de pessoas e instalações; PRODIST permite proteções adicionais; sem fumus boni iuris nem periculum in mora; casos de abuso devem ir à fiscalização"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:55:40",
+     "confianca": "media"
+    }
+   ],
+   "retirados": [],
+   "sustentacao_oral": [
+    "Ricardo Vidinich (conselho de consumidores da Copel)",
+    "Engenheiro da Sinergia Consultoria",
+    "Bárbara Rubim (ABSOLAR)",
+    "Guilherme (Martorelli Advogados)"
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:56:34",
+   "processo": "48500.000378/2019-17",
+   "interessado": "Concessionárias de transmissão (ABRATE e 62 transmissoras); State Grid (Itatim); Neoenergia",
+   "assunto": "Pedidos de reconsideração contra a REH 2.565/2019 (RAP das transmissoras, ciclo 2019-2020)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecer e dar provimento parcial, por unanimidade",
+   "resumo_voto": "Sem sustentação oral. Acatada a correção da rubrica de antecipação de receita de junho de 2018 e ajustes de encargos de rescisão de CUST; negados melhorias de pequeno porte e pedidos já decididos na REH 2.564; pedido da Neoenergia a ser reavaliado em processo específico. Variação de 0,029% na RAP; alterações entram no reajuste 2020/2021.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "0:57:30",
+     "confianca": "alta",
+     "justificativa": "correção de valores reconhecidos pela SGT; demais pleitos dependem de alteração normativa ou já tinham tratamento"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:16:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:16:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:16:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama unanimidade",
+     "ts": "1:16:30",
+     "confianca": "media"
+    }
+   ],
+   "retirados": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "motivo": "retirado de pauta (anunciado pelo Diretor-Geral)"
+  },
+  {
+   "id": "13",
+   "motivo": "retirado de pauta (anunciado pelo Diretor-Geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem nomes nos votos: a atribuição de quem acompanhou, em ambos os itens, é por exclusão (diretores presentes na Parte 1) e a ordem exata entre Elisa/Efrain/Júlio (item 7) e Sandoval/Efrain/Júlio (item 5) é incerta; confiança baixa.",
+  "No item 7, um diretor não identificado (diz-se relator da REN 482 / CP 25/2019) fez comentário longo, concordando com a negativa da cautelar e defendendo tratar o mérito na 482; não foi atribuído a nome.",
+  "Nomes dos expositores da sustentação (Vidinich, Bárbara Rubim, Guilherme, engenheiro da Sinergia) podem estar errados na legenda.",
+  "Votos por item: 5 = 5 presentes."
+ ]
+}

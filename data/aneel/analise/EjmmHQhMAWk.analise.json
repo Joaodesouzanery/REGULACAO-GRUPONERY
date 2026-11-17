@@ -1,0 +1,394 @@
+{
+ "meta": {
+  "video_id": "EjmmHQhMAWk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "33",
+  "data": "2021-09-08",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "André Pepitone",
+   "Elisa Bastos",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com apenas 3 diretores em sala (quórum); Elisa Bastos e Efrain Cruz entraram depois. Efrain Cruz esteve com áudio só por telefone e sem fala audível; item 8 (de sua relatoria) foi retirado por isso.",
+   "Atas da 8ª RPE (31/8) e da 32ª RPO aprovadas sem objeções no início.",
+   "Pauta de 34 itens (12 a 34 em bloco). Ordem de deliberação: 10, 1, 3, 4, 20, 19.",
+   "Nenhum item concluído com voto individual claro além de 1, 3 e 19; itens 10, 4 e 20 ficaram com vista (Efrain/Elisa/Hélvio respectivamente; Efrain registrou depois voto no item 10)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 12-34",
+   "ts": "0:04:41",
+   "processo": "itens 12 a 34 da pauta (bloco), exceto 19 e 20 destacados",
+   "interessado": "vários (detalhe não lido em sessão)",
+   "assunto": "Votação em bloco dos itens 12 a 34 da pauta (votos e relatórios publicados previamente); itens 19 e 20 destacados para a pauta comum",
+   "tema": [
+    "votação em bloco",
+    "regulação normativa"
+   ],
+   "relator": "vários (o Diretor-Geral cita itens de sua relatoria no bloco)",
+   "resultado": "bloco aprovado (sem destaques além de 19 e 20)",
+   "resumo_voto": "Sandoval Feitosa perguntou se havia observações sobre o bloco; sem comentários, submeteu a votação por aclamação (permaneçam como estão) e declarou aprovado o bloco.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:05:17",
+     "justificativa": "declarou aprovado o bloco dos itens da 33ª reunião",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:05:36",
+   "processo": "48500.004361/2019-39",
+   "interessado": "Transnorte Energia S.A. (TNE; Eletronorte 49% / Alupar 51%); poder concedente MME; União, Funai e Ibama como intervenientes",
+   "assunto": "Proposta de solução alternativa de controvérsia (arbitragem) para viabilização da execução do Contrato de Concessão 003/2012 (LT 500 kV Lechuga-Equador-Boa Vista, interligação Manaus-Boa Vista, Roraima): autorização do termo de compromisso arbitral e termo aditivo com cláusula compromissória",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "arbitragem / solução consensual",
+    "equilíbrio econômico-financeiro de concessão",
+    "licenciamento ambiental / terra indígena Waimiri-Atroari",
+    "Roraima / Sistema Interligado Nacional",
+    "institucional"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Efrain Cruz); sem resultado na sessão",
+   "resumo_voto": "Voto da relatora: autorizar o termo de compromisso arbitral entre ANEEL e Transnorte (com interveniência da União, Funai e Ibama) para submeter ao juízo arbitral o reequilíbrio econômico-financeiro do contrato; convocar a TNE em até 30 dias para assinar termo e aditivo; arquivar o processo punitivo (caducidade) em decorrência da assinatura; criar grupo de trabalho para assessorar a Procuradoria Federal (art. 14 do Decreto 10.025/2019). Escopo: entre RAP de cerca de R$ 329 milhões (jun/2021, 17,5 anos) decidida pela ANEEL e R$ 395 milhões (jan/2019, 27 anos) pleiteada. Sem sustentação oral. Procuradoria (Luiz Eduardo) e procuradora Bárbara Bianca Sena apresentaram o termo. Primeira arbitragem da história da ANEEL.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (autoriza o termo de compromisso arbitral)",
+     "ts": "0:06:11",
+     "justificativa": "vantajosidade analisada pelo MME (nota técnica 1/2021); AGU e Ministro de Minas e Energia autorizaram; arbitragem não altera matriz de risco nem obrigações; Roraima atendida só por térmicas a diesel (900 mil litros/mês)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista); fez perguntas sobre sucumbência e escolha de árbitros",
+     "ts": "1:15:00",
+     "justificativa": "pediu esclarecimento sobre sucumbência e sugeriu que o nome do árbitro da ANEEL passe pelo colegiado; relatora aceitou encaminhar o nome à diretoria",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "1:32:40",
+     "justificativa": "participação na discussão sobre escolha de árbitros não atribuída com certeza",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (provável)",
+     "ts": "1:32:40",
+     "justificativa": "falou longamente a favor: ineditismo, Roraima isolada, defesa nacional, economia de R$ 2 a 4 bilhões estimada pelo MME, administração consensual; a frase «eu acompanho o voto da relatora» antes do pedido de vista não tem nome claro",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista; ao final registra voto acompanhando a relatora",
+     "ts": "1:32:46",
+     "justificativa": "na encerramento (3:13:31) registrou voto de aprovação acompanhando a relatora; áudio só por telefone",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:32:49",
+   "processo": "48500.004615/2020-52 e 48500.002667/2007-5 (legenda parcial)",
+   "interessado": "CEEE-D (Companhia Estadual de Distribuição de Energia Elétrica; controle transferido ao Grupo Equatorial em 2021)",
+   "assunto": "Abertura de consulta pública (9/set a 8/out/2021, audiência virtual em 30/9) para colher subsídios à proposta da revisão tarifária periódica da CEEE-D (vigência 22/11/2021) e aos limites de DEC e FEC 2022-2026",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade (DEC/FEC)",
+    "regulação normativa (consulta/audiência pública)",
+    "CEEE-D / Rio Grande do Sul / Equatorial"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaurar consulta pública com efeito tarifário médio preliminar de 9,52% (grupo A 16,01%; B1 10,40%); parcela A 2,39%, parcela B 4,51%; DEC proposto 9,10 h (2022) a 7,47 h (2026), FEC 6,93 a 5,21. Apresentação técnica de Ana Lúcia (SGT). Voto lido só no dispositivo (publicado desde segunda-feira). Previsão de deliberação final em 16/11/2021.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:54:00",
+     "justificativa": "consulta pública para aprimorar a proposta; efeito médio 9,52%, próximo do IPCA e inferior ao IGP-M",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:54:58",
+     "justificativa": "proclamou aprovação por unanimidade dos votantes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "sem voto audível (áudio)",
+     "ts": "1:54:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:55:46",
+   "processo": "48500.0041xx/2021 (legenda parcial)",
+   "interessado": "Central Energética Palmeiras (CEPASA), UTE Palmeiras de Goiás (Goiás, 175 MW, óleo diesel; CCEAR do leilão A-5/2006)",
+   "assunto": "Composição temporária do custo variável unitário (CVU) da UTE Palmeiras de Goiás e alocação de custos conforme a 3ª reunião da CREG (5/ago/2021), crise hídrica",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "crise hídrica / CREG",
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções (suspensão de cobranças)",
+    "CDE e encargos setoriais (ESS)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "CVU excepcional de R$ 1.475,51/MWh (jul/2021) até 31/12/2021 (consumo específico declarado de cerca de 293 L/MWh com relatório técnico/ART em 15 dias; preço do diesel S-10 da ANP/distribuição R$ 4,315/L; O&M, PIS/Cofins, custo financeiro 0,84% a.m., perdas e P&D reconhecidos); reembolso via ESS; sobrestar desligamento e cobrança de penalidades na CCEE até dez/2021; fiscalização SFG verifica a operação. Procuradoria viu com bons olhos o reequilíbrio excepcional.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "2:15:00",
+     "justificativa": "atender determinação da CREG; recomposição excepcional e temporária, com fiscalização posterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:31:38",
+     "justificativa": "destacou o caráter absolutamente excepcional; não se orgulha de deliberar assim mas a usina é necessária",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:31:50",
+     "justificativa": "reforçou a excepcionalidade e a situação dos reservatórios do Sudeste/Centro-Oeste (21%)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:31:53",
+     "justificativa": "proclamou unanimidade dos votantes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "sem voto audível (áudio)",
+     "ts": "2:31:53",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:32:25",
+   "processo": "48500.000893/2019-98, 48500.000983/2019-05 e 48500.000984/2019-32",
+   "interessado": "SRT (área técnica); ONS; agentes de transmissão e distribuição",
+   "assunto": "Resultado da segunda fase da Consulta Pública 13/2020: consolidação das regras de classificação das instalações de transmissão (módulo 2) e de acesso ao sistema de transmissão (módulo 5), com revisão dos módulos 1 e 3 e do submódulo 9.2 do PRORET",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "acesso e conexão (CUST/CCT)",
+    "consolidação normativa (Decreto 10.139/2019)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Hélvio Guerra); sem resultado na sessão",
+   "resumo_voto": "Voto da relatora: aprovar resolução normativa criando os módulos 2 e 5 das regras dos serviços de transmissão; novos prazos de parecer de acesso; ONS tem 30 dias para propor alteração dos procedimentos de rede. Apresentação técnica de Fernando (SRT). Procuradoria não se manifestou.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (voto lido)",
+     "ts": "2:33:00",
+     "justificativa": "consolidar normas, dar transparência à fila de acesso e reduzir assimetria nos CCT",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "2:55:11",
+     "justificativa": "tem dúvidas pontuais e se compromete a devolver com brevidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:55:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:55:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "2:55:14",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:55:14",
+   "processo": "48500.003655/2018-87 e 48500.004323/2020-10 (legenda parcial)",
+   "interessado": "CPFL Energias Renováveis S.A. (recorrente); Consórcio Saudade (Companhia Energética Entre Rios, Enebras, Múltipla Participações); UHE Saudade, rio Chapecó (SC)",
+   "assunto": "Recurso administrativo da CPFL Renováveis contra o Despacho SCG 2.587/2020 que selecionou o projeto básico do Consórcio Saudade para registro de adequabilidade do projeto básico (DRS-PCH) da UHE Saudade",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos",
+    "inventário hidrelétrico (rio Chapecó)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista (Elisa Bastos); sem resultado na sessão",
+   "resumo_voto": "Voto do relator: conhecer do recurso e negar provimento. Sustentação oral de Cláudio Mesquita (Múltipla Participações / Consórcio Saudade), defendendo a manutenção da decisão (primeiro a protocolar o projeto básico). Procuradoria não se manifestou.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "3:04:06",
+     "justificativa": "aplicação da norma vigente; consórcio foi o primeiro a protocolar o projeto básico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "3:04:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:04:58",
+     "justificativa": "elogiou a sustentação do Cláudio Mesquita, antigo colega na SEM",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "3:04:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "3:04:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:04:58",
+   "processo": "48500.004202/2020-62 (legenda parcial)",
+   "interessado": "Nardini Agroindustrial Ltda., UTE Alternador (Aporé, Goiás)",
+   "assunto": "Recurso administrativo contra o Termo de Intimação 4/2020 da SFG (revogação da outorga da UTE por inviabilidade financeira e ausência de cronograma); voto-vista após deliberação na 27ª RPO",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz (relator original); voto-vista de André Pepitone",
+   "resultado": "aprovado por unanimidade dos votantes nos termos do voto-vista",
+   "resumo_voto": "Voto-vista de André Pepitone: conhecer e dar provimento, arquivar o TI 4/2020, manter a outorga e acolher o novo cronograma, condicionado ao início efetivo das obras em 180 dias, sob pena de novo processo de revogação (divergência parcial em relação ao voto do relator, que não impunha o marco). SFG (Memorando 230/2021) não viu óbice.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto-vista vencedor",
+     "ts": "3:05:11",
+     "justificativa": "acolhe novo cronograma com marco de 180 dias; agente paga encargos de conexão e não há disputa de acesso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator original (voto na 27ª RPO); sem áudio na sessão",
+     "ts": "3:09:00",
+     "justificativa": "Sandoval notou que estava na sala mas sem áudio",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "3:12:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "3:12:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (proclama)",
+     "ts": "3:12:10",
+     "justificativa": "proclamou unanimidade dos votantes",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "11 (retirado de pauta; assunto não lido na sessão)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta pelo Diretor-Geral",
+   "ts": "3:12:37"
+  },
+  {
+   "item": "8 (relatoria de Efrain Cruz; assunto não lido)",
+   "relator": "Efrain Cruz",
+   "motivo": "relator sem áudio na sessão; Diretor-Geral retirou o processo",
+   "ts": "3:12:41"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de diretores distorcidos (Elisa/Eliza, Efraim, Hélvio/Elvis); números de processo parciais.",
+  "Atribuição das falas «acompanho» nos itens 1, 3, 19 e 10 é inferida pela ordem e pelos diretores citados; confiança baixa.",
+  "No item 10 a frase «eu acompanho o voto da relatora» (1:32:40) e o pedido de vista não têm nome claro; atribuí a vista a Efrain pela declaração do Diretor-Geral e o acompanhamento ao Diretor-Geral como provável.",
+  "Os ts de 1:15:00, 1:54:00, 2:15:00, 2:33:00, 3:09:00 e 3:12:00 são aproximados.",
+  "Itens do bloco 12-34 e itens 2, 5, 6, 7, 9 citados pelo secretário não detalhados na transcrição; itens 8 e 11 retirados.",
+  "Efrain Cruz sem voto audível nos itens 1, 3, 4, 20 e 19.",
+  "Contagem de votos por item: 5 presentes; itens 4 e 20 em vista com votos dos demais registrados como «não votou (vista)»."
+ ]
+}

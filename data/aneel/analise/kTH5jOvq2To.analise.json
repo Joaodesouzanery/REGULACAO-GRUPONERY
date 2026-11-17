@@ -1,0 +1,619 @@
+{
+ "meta": {
+  "video_id": "kTH5jOvq2To",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2, sessão da tarde); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47",
+  "data": "2020-12-15",
+  "formato": "videoconferência (47ª Reunião Pública Ordinária, Parte 2)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 47ª RPO de 15/12/2020; encerrada após 6h29 de vídeo (cerca das 22h, pelo contexto 'boa noite').",
+   "Itens deliberados nesta parte: 12 (chamado primeiro), 8, 10, 14 (vista Efrain), 15, 16, 17, 18 (vista do DG mantida para 2 usinas), 19 (prorrogação de vista), 27, 29 e 13 (último).",
+   "Item 13 da pauta foi adiado para o fim da reunião.",
+   "Hélvio Guerra foi homenageado por um sustentante como condutor da diretoria (contexto de fim de ano)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "12",
+   "ts": "0:00:23",
+   "processo": "48500.004563/2014-15",
+   "interessado": "Advocacia Luiz Felipe (recorrente); Companhia de Transmissão de Energia Elétrica Paulista (CETEP) beneficiária da autorização",
+   "assunto": "Pedido de reconsideração da advocacia Luiz Felipe contra a Resolução Autorizativa 9.439/2020, que autorizou a CETEP a implantar reforços em instalações de transmissão (subestações Miguel Reale, Ramon Reberte Filho, Leste, Baixada Santista e Interlagos, SP) e fixou a RAP; item chamado antes da ordem da pauta",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos",
+    "leilões (transmissão)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido; negado provimento, por unanimidade dos votantes",
+   "resumo_voto": "Sandoval conhece do pedido (tempestivo, ao contrário do parecer do procurador-geral, que via falta de interesse processual) e nega provimento: o enquadramento como reforço decorre da REN 443/2011 (transformação adicional e substituição de equipamentos em instalação existente); valor, prazo e complexidade são critérios secundários; o caso de Porto Alegre 4 (revitalização integral da subestação) não é similar; o POTE 2020 e o Ofício 218 do MME deram base ao enquadramento; licitar inverteria a matriz de risco. Sustentação oral de Luiz Felipe Miguel pedindo a licitação das obras junto aos lotes 3, 7 e 8 do Leilão de Transmissão 1/2020 (marcado para 17/12/2020).",
+   "sustentacao_oral": "Luiz Felipe Miguel (advocacia Luiz Felipe)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:12:00",
+     "confianca": "media",
+     "justificativa": "reforço (REN 443/2011) e não licitação: obras em instalação existente, sem serviço de transmissão autônomo; volume de investimento não é critério determinante; Porto Alegre 4 é caso diferente"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:43",
+     "confianca": "media",
+     "justificativa": "na discussão parabenizou o relator e afirmou que Porto Alegre 4 não guarda paralelo (sobrou apenas o terreno, subestação nova)"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:53:49",
+     "confianca": "media",
+     "justificativa": "proclamou por unanimidade dos votantes conhecer e negar provimento"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:54:15",
+   "processo": "48500.002846/2020 (dígitos finais pela legenda)",
+   "interessado": "Distribuidoras de energia elétrica; Conta-covid (decreto 10.350/2020); SRM, SGT, SFF",
+   "assunto": "Aprimoramento da 2ª fase e abertura da 3ª fase da Consulta Pública 35/2020 (intercâmbio documental, 47 dias, 16/12/2020 a 1/2/2021) para regulamentar arts. 6º, 7º e 9º do Decreto 10.350/2020: reequilíbrio econômico-financeiro das distribuidoras pela pandemia de covid-19, sobrecontratação involuntária e rateio dos custos acessórios da Conta-covid",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "CDE e encargos setoriais",
+    "distribuição (qualidade, perdas)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovada a abertura da 3ª fase da CP 35/2020, por unanimidade dos votantes",
+   "resumo_voto": "Elisa abre a 3ª fase porque a 2ª recebeu 22 contribuições, 7 pareceres jurídicos e 3 relatórios técnicos. Propostas em debate: aprimorar o submódulo 2.9 (indicador de desequilíbrio, retirando recursos da Conta-covid e tratando a neutralidade para contratos antigos, sem prazos máximos para pedidos); sobrecontratação involuntária (carga declarada no leilão A-1 de 2019 ou, na falta, previsão da EPE); custos acessórios da Conta-covid alocados só a consumidores e distribuidoras (beneficiários diretos), não a geradores e transmissores; sub-módulo 2.10 (Emiflex) retirado por falta de interesse. Apresentação técnica de equipe da SRM. Procurador-geral Luiz Eduardo informou o parecer 262/2020.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "1:00:36",
+     "confianca": "alta",
+     "justificativa": "necessidade de calibrar a metodologia após as contribuições e de tratar conjuntamente sobrecontratação e custos acessórios (art. 7º do decreto)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:59:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:59:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:59:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "1:59:43",
+     "confianca": "media",
+     "justificativa": "na discussão destacou equilíbrio entre distribuidoras e consumidores e o ambiente de estabilidade regulatória (Conta-covid de R$ 15,3 bi; leilão da CEB)"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:00:37",
+   "processo": "48500.005142/2020 (número ambíguo na legenda)",
+   "interessado": "Amazonas Energia S.A.; Amazonas Geração e Transmissão de Energia S.A. (Amazonas GT); PIEs de Manaus (Cristiano Rocha, Tambaqui, Manauara, Jaraqui, Ponta Negra)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental) sobre alteração dos contratos de compra e venda de energia das usinas dos Produtores Independentes de Energia (PIEs) de Manaus, de quantidade 100% inflexível para disponibilidade com CVU declarado",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "CDE e encargos setoriais (CCC)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a consulta pública por intercâmbio documental, por unanimidade (prazo de contribuições de 16/12/2020 a 8/1/2021, ajustado em plenário)",
+   "resumo_voto": "Sandoval propõe a consulta por considerar a mudança contratual benéfica: reduz a sobrecontratação da Amazonas Energia (141,6% para ~117,5%), a inadimplência com a Amazonas GT e o dispêndio da CCC, mantendo a receita fixa dos PIEs; fixa condições de contorno (custo total não superior ao atual, diferença por conta da Amazonas GT, redução de garantia física pelo MME). Elisa e Hélvio sugeriram prazo menor para decidir já na 1ª reunião de janeiro; o relator mantinha 30 dias, acatou então o encerramento em 8/1/2021 (sexta) e prometeu pautar a decisão final em 19/1/2021. Duas sustentações orais.",
+   "sustentacao_oral": "Evelyn Mendes (Amazonas Energia); Genilson Martins da Silva (Amazonas GT/Eletrobras)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:20:54",
+     "confianca": "alta",
+     "justificativa": "solução ganha-ganha: reduz custo da CCC, sobrecontratação e inadimplência sem alterar a receita dos PIEs; proteger o consumidor de qualquer aumento de custo"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:08",
+     "confianca": "baixa",
+     "justificativa": "na discussão elogiou a solução e propôs avaliar prazo menor para deliberar em janeiro (autoria da fala inferida pelo contexto)"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:10",
+     "confianca": "baixa",
+     "justificativa": "na discussão chamou a proposta de criativa e interessante (autoria inferida)"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:59:20",
+     "confianca": "media",
+     "justificativa": "parabenizou o relator pela solução ganha-ganha para consumidor, geradores e distribuidora"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:59:58",
+   "processo": "48500.006119/2020",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Pedido de medida cautelar da Light para afastar, em 2020, a consequência prevista no 5º termo aditivo ao Contrato de Concessão 1/1996 (cláusula 18ª, subcláusula 1ª, e anexo 3: descumprimento de indicadores econômico-financeiros sob pena de extinção), em razão dos efeitos da pandemia, até o fechamento da CP 35/2020",
+   "tema": [
+    "distribuição (qualidade, perdas)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista do diretor Efrain Cruz; julgamento suspenso",
+   "resumo_voto": "Elisa vota por conhecer e dar provimento à cautelar (fumaça do bom direito e perigo da demora), para afastar a consequência do 5º termo aditivo até o fechamento da CP 35/2020, evitando abrir processo de caducidade antes de definida a metodologia de reequilíbrio. O procurador-geral opinou favoravelmente à concessão. Efrain questionou a fumaça do bom direito e o perigo da demora (a situação da Light vinha de antes da pandemia) e pediu vista; Hélvio discutiu a abordagem a favor do cuidado com a metodologia.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, dá provimento à cautelar",
+     "ts": "3:03:40",
+     "confianca": "alta",
+     "justificativa": "pandemia e atos estatais afetaram os indicadores; metodologia de reequilíbrio ainda em consulta pública; evitar caducidade prematura"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "3:15:54",
+     "confianca": "media",
+     "justificativa": "dúvida sobre a fumaça do bom direito e o perigo da demora, pois os problemas da Light antecedem a pandemia"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:15:46",
+     "confianca": "baixa",
+     "justificativa": "um dos diretores declarou acompanhar a relatora antes da vista, sem nome ouvido"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "3:15:46",
+     "confianca": "baixa",
+     "justificativa": "na discussão apoiou a lógica de aguardar a metodologia do reequilíbrio"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista); proclama a vista",
+     "ts": "3:15:50",
+     "confianca": "media",
+     "justificativa": "concedeu a vista ao diretor Efrain"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "3:15:58",
+   "processo": "48500.004773/2005-57 e 48500.004835/1999-92",
+   "interessado": "Consórcio Risoleta Neves (ex-Candonga; Vale 50% e Aliança Geração 50%) UHE Risoleta Neves (140 MW), Santa Cruz do Escalvado e Rio Doce (MG)",
+   "assunto": "Retomada das condições operativas da UHE Risoleta Neves após o rompimento da barragem de Fundão (2015): prazo de seis meses sob pena de caducidade, relatório de inspeção de segurança especial em 60 dias",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes (prazo de seis meses para retomada, sob pena de caducidade)",
+   "resumo_voto": "Elisa fixa seis meses (a nota técnica de SCG/SFG propunha 180 dias) para retomar a operação, sob pena de abrir caducidade, e 60 dias para o relatório de inspeção de segurança especial, rejeitando o argumento de força maior: a responsabilidade administrativa pela integridade da usina é da concessionária, e a responsabilização civil cabe contra os causadores. A usina segue recebendo receita do MRE por liminar. Sustentação oral do consórcio (Gustavo Magalhães) pediu o não acolhimento do prazo. Procuradoria apoiou o encaminhamento.",
+   "sustentacao_oral": "Gustavo Magalhães (Consórcio Candonga/Risoleta Neves)",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "3:31:08",
+     "confianca": "alta",
+     "justificativa": "concessionária é responsável pela retomada operacional e segurança; excludente de força maior não afasta obrigação contratual; inércia de cinco anos"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:52:30",
+     "confianca": "baixa",
+     "justificativa": "comentou o caso a favor do encaminhamento (autoria inferida)"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora",
+     "ts": "4:00:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "3:58:32",
+     "confianca": "baixa",
+     "justificativa": "declarou acompanhar sem restrição (fala atribuída por contexto: aponta inércia da empresa e a liminar do MRE)"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "4:00:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "4:00:43",
+   "processo": "48500.005703/2018-57",
+   "interessado": "Videolar-Innova S.A. (UTE CGR Nova, 30 MW, autoprodução, Triunfo/RS)",
+   "assunto": "Autorização para a Videolar-Innova explorar a UTE CGR Nova também por meio de filial no mesmo município, para viabilizar o registro na CCEE e contratos CUST/CCT; determinação à SCG de tratar casos similares por despacho",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Hélvio vota por emitir resolução autorizativa que autoriza a exploração por matriz e filial e por determinar à SCG que casos semelhantes sejam registrados por despacho, desonerando a diretoria (item trazido para leitura apenas para fazer essa observação, pois seria de bloco).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "4:02:56",
+     "confianca": "alta",
+     "justificativa": "não há controvérsia; precedente da REA 6.980/2018; simplificação administrativa por despacho"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:07:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:07:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:07:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "4:07:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "4:08:37",
+   "processo": "48500.000434/2017-51 e outro (final 006578/2020 incerto pela legenda)",
+   "interessado": "GNA I Geração de Energia S.A. (UTE GNA I, ~1.338 MW, São João da Barra/RJ)",
+   "assunto": "Alteração do cronograma de implantação da UTE GNA I e reconhecimento de excludente de responsabilidade pelos impactos da covid-19 (Lei 13.360/2016, art. 19): 75 dias de excludente mais até 75 dias de rampa de remobilização; CCEAR com início limitado a 30/5/2021; pagamento do CUST postergado",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "comercialização (CCEE, PLD, contratos)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado parcialmente o pleito da GNA I, por unanimidade",
+   "resumo_voto": "Sandoval reconhece 75 dias de excludente e até 75 dias de rampa de remobilização (total máximo de 150 dias), mais longos que os 120 dias dados à transmissão por tratar-se de usina térmica de grande porte com canteiro confinado; condiciona à garantia de fiel cumprimento e à reflexão nos CCEARs. Destacou a diligência da empresa no MCSD (descontratação de 3 meses). O DG pediu esclarecimentos sobre os 75 dias; a procuradoria citou o parecer 171. Sustentação oral de Guilherme Penteado.",
+   "sustentacao_oral": "Guilherme Penteado (GNA I)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá parcial provimento",
+     "ts": "4:27:17",
+     "confianca": "alta",
+     "justificativa": "nexo causal entre os decretos e a paralisação; diligência da empresa; analogia com os 120 dias da transmissão ajustada para termelétrica"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:03:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:03:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:03:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "5:03:15",
+     "confianca": "media",
+     "justificativa": "fez perguntas sobre a contagem dos 75 dias e da rampa de remobilização e acompanhou"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "5:04:01",
+   "processo": "48500.000237/2017-32 e outros",
+   "interessado": "Aurora Energias Renováveis 2, 3, 4 (e outra titular) para Vale S.A.; usinas fotovoltaicas (UFV) AC 3 a AC 23; empresa que contesta judicialmente quotas da Aurora Energias Renováveis 2",
+   "assunto": "Voto-vista sobre a transferência das autorizações de centrais fotovoltaicas das Aurora Energias Renováveis para a Vale S.A.; processos de uma empresa (Aurora 2, UFV AC 9 e AC 10) sob disputa judicial por quotas societárias",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "institucional/TCU"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada, por unanimidade, a transferência das usinas das Aurora 3, 4 e 5 (15 usinas) para a Vale; mantida a vista do DG para as 2 usinas da Aurora 2 (AC 9 e AC 10)",
+   "resumo_voto": "Voto-vista do DG André Pepitone: separa o exame por empresa titular; com base no poder geral de cautela, na segurança jurídica e na possibilidade de mediação do conflito, não transfere por ora as UFV AC 9 e AC 10 da Aurora 2 e mantém a vista; aprova a transferência das demais. O relator Sandoval (que votara pela transferência de tudo, tratando a disputa societária como questão privada) concordou em dissociar as duas empresas. Houve correção de procedimento ao final.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova a transferência de todas; acompanha o voto-vista quanto à separação",
+     "ts": "5:15:40",
+     "confianca": "media",
+     "justificativa": "disputa societária é de cunho privado; sem decisão judicial impeditiva; aceitou dissociar por celeridade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto-vista parcial: aprova 15 usinas e mantém a vista para 2",
+     "ts": "5:04:52",
+     "confianca": "alta",
+     "justificativa": "poder geral de cautela e segurança jurídica quanto à Aurora 2; mediação do conflito"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e o voto-vista (pela proclamação)",
+     "ts": "5:14:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator e o voto-vista (pela proclamação)",
+     "ts": "5:14:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator e o voto-vista (pela proclamação)",
+     "ts": "5:14:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "5:17:01",
+   "processo": "48500.006740/2014 (final incerto)",
+   "interessado": "São Roque Energética S.A.",
+   "assunto": "Prorrogação do prazo do pedido de vista do pedido de reconsideração com efeito suspensivo da São Roque contra o Despacho 682/2020 (postergação do pagamento de encargos do CUST 15/2016 para após a operação comercial da UHE São Roque); relator original Júlio César Rezende Ferraz",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "prorrogada a vista do diretor Sandoval por mais oito sessões, sem objeção",
+   "resumo_voto": "Sandoval explica que o caso exige aprofundamento e cotejo com outro processo associado; reuniu-se com a parte sem construir proposta e pediu mais oito sessões; o DG proclamou o deferimento por falta de objeção.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede prorrogação da vista (oito sessões)",
+     "ts": "5:18:38",
+     "confianca": "alta",
+     "justificativa": "matéria exige maior aprofundamento e cotejo com processo associado"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a prorrogação (sem objeção); proclama",
+     "ts": "5:18:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "5:18:54",
+   "processo": "48500.003661/2020-34",
+   "interessado": "São Luiz Energia S.A. (PCH São Luís); SRM; produtos de repactuação do risco hidrológico no ACR",
+   "assunto": "Resultado da Consulta Pública 58/2020 para aprimorar a REN 684/2015: exclusão da classe de produtos SPR entre as opções de repactuação do risco hidrológico no ACR; arquivamento do processo",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "leilões (geração, transmissão, reserva de capacidade)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovada a manutenção da exclusão do SPR, por unanimidade dos votantes",
+   "resumo_voto": "Elisa mantém a exclusão do produto SPR (REN 684/2015, redação da REN 894/2020): produto com preço de prêmio mal calibrado, que oferecia maior cobertura por preço menor; lance é responsabilidade do agente; a exclusão vale para todos, não é individual; houve parecer da procuradoria (3626) e a pauta foi publicada com antecedência. Sustentação oral da PCH São Luís pediu que a exclusão valesse só para pedidos futuros.",
+   "sustentacao_oral": "Bruno Figueiredo Menezes (São Luiz Energia S.A.)",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "5:38:40",
+     "confianca": "alta",
+     "justificativa": "produto SPR precificado de forma inadequada, beneficia gerador em detrimento do consumidor; discricionariedade da agência com amparo no parecer da PGF"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:39:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:39:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:39:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "5:39:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "5:40:09",
+   "processo": "48500.000926/2019-17",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Recurso administrativo do ONS contra o Auto de Infração 1/2019 (SFE), que aplicou advertência por não conformidades na fiscalização do ciclo orçamentário 2013/2014 (benefícios aos diretores do ONS sem fixação prévia pela assembleia)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e provido parcialmente, por unanimidade dos votantes (mantida a decisão do Despacho 1480/2019, que já cancelara parte da determinação 10 e a 13)",
+   "resumo_voto": "Elisa conhece do recurso e o acolhe parcialmente, mantendo as demais determinações e a advertência: o art. 73 do regimento do ONS deve ser lido com o art. 12 do estatuto, que exige fixação pela assembleia, e a ratificação em 2019 não retroage ao ciclo 2013/2014. A procuradoria opinou pelo conhecimento e desprovimento (parecer 462/2019). Sustentação oral do ONS alegava perda de objeto.",
+   "sustentacao_oral": "Renan Torres Lucas dos Santos (ONS)",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e dá provimento parcial",
+     "ts": "5:50:30",
+     "confianca": "alta",
+     "justificativa": "benefícios foram pagos antes da fixação pela assembleia; ratificação posterior não retroage"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:51:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:51:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "5:51:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "5:51:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "5:52:03",
+   "processo": "48500.002 11/2015-40 e 48500.002 04/2018-55 (dígitos pela legenda)",
+   "interessado": "Litorânea de Transmissão de Energia S.A. (ELT, Alupar); contrato de concessão 16/2014 (subestações Domênico Rangoni e Manoel da Nóbrega, litoral norte e sul de SP)",
+   "assunto": "Pedido de reconsideração da ELT contra o Despacho 1485/2020 (negou reequilíbrio com redução de objeto e determinou prosseguir o processo punitivo): reconhecimento de excludente de responsabilidade por 74 meses, reequilíbrio integral do contrato 16/2014 com RAP de cerca de R$ 57,5 milhões (nov/2020), novo prazo de 36 meses, termo aditivo até março/2021; arquivamento do TI 1.002/2018 (caducidade)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes; reconsideração com perda de objeto; último item da pauta",
+   "resumo_voto": "Elisa propõe solução consensual: excludente de 74 meses pela inviabilidade ambiental do trecho norte (Domênico Rangoni, indeferimento da LP pela CETESB e restrições da aviação), reequilíbrio integral por unicidade do contrato (relicitação sairia mais cara: RAP 21,5% acima da requerida), aditivo com cláusula de renúncia e encerramento da disputa judicial; suspende a caducidade. Apresentação técnica de Reinaldo (SCT). Procuradoria (parecer 375/2020) apoiou. Item sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "6:22:56",
+     "confianca": "alta",
+     "justificativa": "unicidade do contrato; excludente por inviabilidade ambiental; solução consensual evita relicitação mais cara e encerra litígio"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "6:28:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "6:28:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "6:28:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "6:28:59",
+     "confianca": "media",
+     "justificativa": "na discussão destacou a importância das obras (acompanhou o tema quando estava no MME) e encerrou a 47ª reunião"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, dígitos verificadores, valores e nomes de empresas podem estar errados (itens 10, 13, 17 e 19 com número incerto).",
+  "Quem diz apenas 'acompanho o relator' raramente é nomeado na legenda: votos de seguidores registrados pela proclamação do DG (confiança baixa/media; ordem usual: relator, demais, DG por último) e ts aproximados. Nenhum nome foi trocado sem base, mas a atribuição individual dos 'acompanho' é inferida.",
+  "Na discussão, a autoria das falas é inferida pelo contexto (quem é chamado de Doutor X pelo seguinte); onde incerto, a justificativa foi marcada como inferida.",
+  "Item 14: um diretor disse 'acompanho o voto da relatora' antes de ser concedida a vista ao diretor Efrain; o nome não foi ouvido, então Sandoval e Hélvio constam como 'não votou (vista)' com confiança baixa.",
+  "Item 18: houve confusão de procedimento e correção ao final; votos de Hélvio, Efrain e Elisa inferidos pela proclamação ('por unanimidade' das Aurora 3, 4 e 5).",
+  "Item 19: apenas o pedido de Sandoval e o deferimento foram ouvidos; os demais não se manifestaram em áudio; Júlio César Rezende Ferraz (relator original) não é mais diretor.",
+  "Itens 10 e 17: tempos de voto do relator aproximados; Parte 1 da reunião (manhã, itens 1 a 7, 9, 11 e outros) não faz parte deste vídeo."
+ ]
+}

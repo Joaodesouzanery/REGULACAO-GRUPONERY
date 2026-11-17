@@ -1,0 +1,511 @@
+{
+ "meta": {
+  "video_id": "-xg92UsslyI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "21ª Reunião Pública Ordinária de 2021",
+  "data": "2021-06-15",
+  "formato": "virtual",
+  "presidente_da_sessao": "Efrain Cruz (Diretor-Geral substituto, inferido do contexto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [
+   "André Pepitone"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores; Diretor-Geral André Pepitone ausente por audiência na Comissão de Minas e Energia da Câmara sobre o cenário hidrológico.",
+   "Todos os itens deliberados por unanimidade; nenhuma divergência ou vencido.",
+   "Item 3 interrompido por falha técnica na apresentação e retomado às 1:15:54."
+  ]
+ },
+ "itens": [
+  {
+   "id": "ata+bloco",
+   "ts": "0:03:30",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da 20ª RPO de 2021 e dos itens do bloco (itens 9 a 41, exceto os destacados 18 e 21 e o retirado 17)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ata aprovada sem observações. Pauta com 41 itens; bloco de 32 itens; item 17 retirado de pauta; sustentação oral nos itens 5, 18 e 21; preferência para 5, 18 e 21. Ordem: bloco, 1, 2, 3, 4, 5, 6, 7, 8, 18, 21.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova (proclama)",
+     "ts": "0:04:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova",
+     "ts": "0:04:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova",
+     "ts": "0:04:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova",
+     "ts": "0:04:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:02",
+   "processo": "",
+   "interessado": "Distribuidoras de energia (Abradee ouvida pelo relator); consumidores baixa renda",
+   "assunto": "Prorrogação das medidas emergenciais de preservação do serviço de distribuição na pandemia de covid-19 (REN 928/2021), por 90 dias, até 30/09/2021",
+   "tema": [
+    "regulação normativa",
+    "distribuição e qualidade",
+    "tarifas e consumidores",
+    "institucional"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator propôs prorrogar por 90 dias (e não 120, como sugeriam as áreas técnicas) a vedação de corte para baixa renda e unidades com equipamentos vitais, mantendo o diferimento do pagamento de compensações de DIC/FIC até faturas de 31/12/2021 e o crédito aos consumidores até fatura de 31/03/2022; dispensou consulta pública e AIR pelo poder geral de cautela. Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:25:33",
+     "justificativa": "vedação de corte de energia para vulneráveis com isonomia entre distribuidoras e consumidores; inadimplência da baixa renda estável (cerca de 7%); diferimento das compensações cobre a perda de arrecadação; 90 dias, igual à vigência anterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "justificativa": "parabenizou o voto; tema de grande sensibilidade; Aneel acompanha indicadores e busca equilíbrio com olhar ao consumidor (atribuição da fala por ordem de fala)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "justificativa": "concordou; prorrogação até setembro com reavaliação do cenário (atribuição incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:31:12",
+     "justificativa": "sensibilidade da medida; Aneel guardiã dos contratos (atribuição incerta)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:31:38",
+   "processo": "48500.005040/2020-95",
+   "interessado": "RGE Sul Distribuidora de Energia S.A. (RS); ~2,9 milhões de consumidores",
+   "assunto": "Reajuste tarifário anual de 2021 da RGE Sul, vigência a partir de 19/06/2021: efeito médio 9,95% (alta tensão 10%; baixa tensão 9,93%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "distribuição"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste médio de 9,95% com diferimento de componente financeira (ativo regulatório de R$ 171,6 milhões) e reversão de créditos de PIS/Cofins (R$ 228,8 milhões), ambos atualizados pela Selic; fixa TUSD e tarifas de energia; valor mensal de recursos da CDE. Apresentação técnica da SGT (Francisco). Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:42:44",
+     "justificativa": "homologação do reajuste conforme cálculo da SGT, com mitigação por componentes financeiros e diferimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:45:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:47:00",
+   "processo": "48500.004287/2014-46",
+   "interessado": "Distribuidoras; SRD (Ênio Sales, apresentação técnica)",
+   "assunto": "Resultado da Consulta Pública 41/2020: revisão dos módulos 6 e 10 do PRODIST (BDGD) e primeira versão do manual de instruções da BDGD, com delegação ao superintendente da SRD para alterar o manual",
+   "tema": [
+    "regulação normativa",
+    "distribuição e qualidade"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item iniciado às 0:47, adiado por falha na apresentação técnica e retomado às 1:15:54. Prazo de envio da BDGD vai a 60 dias; separa dispositivos operacionais (manual) dos regulatórios (módulo 10). Metade das contribuições aceita, 25% parcialmente. Sem sustentação oral; Procuradoria sem questão jurídica.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:30:50",
+     "justificativa": "BDGD e SIG regulatório melhoram qualidade das informações para processos tarifários, fiscalização e perdas técnicas; separação normativo/operacional torna ajustes mais ágeis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:31:30",
+     "justificativa": "elogiou a SRD e a importância do geoprocessamento para regular e fiscalizar (atribuição por ordem de fala)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:33:58",
+     "justificativa": "parabenizou; declarou não achar muito oportuno separar conteúdo operacional do normativo no módulo 10, mas antecipou concordância; defendeu o portal da Aneel como hub de dados do setor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:37:28",
+     "justificativa": "destacou a centralização do conhecimento de geoprocessamento e o uso do BDGD em tarifas e fiscalização (atribuição incerta)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:57:23",
+   "processo": "48500.004359/2019-60",
+   "interessado": "Serra Paracatu Transmissora de Energia S.A. (SPTE); Cemig Distribuição; ONS",
+   "assunto": "Recurso administrativo da Serra Paracatu contra despacho da SRT sobre a data de entrada em operação e encargo de conexão retroativo de entradas de linha 138 kV na SE Pirapora 2",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (parcial provimento)",
+   "resumo_voto": "Conhecido e provido em parte: reconhece a quinta entrada de linha em operação desde 07/10/2016, com encargos de conexão devidos pela Cemig até 26/11/2017, sem repasse à tarifa dos consumidores da Cemig; mantém a data de 27/11/2017 para a quarta entrada (falha da transmissora, que teve cinco oportunidades de informar). Procuradoria não se manifestou.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (provimento parcial)",
+     "ts": "1:12:24",
+     "justificativa": "transmissora teve ao menos cinco oportunidades de informar a operação comercial; regularização segue a regra vigente à época (REN 454/2011); a quinta entrada teve termo de liberação parcial desde 2016, com pendência de terceiro, e o custo não vai para a tarifa dos consumidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:14:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:46:10",
+   "processo": "",
+   "interessado": "Abrate (sustentação oral: Caio Cavalcante, representante); transmissoras (Copel GT, Cemig GT, Furnas, Eletrosul, ISA CTEEP, Celg GT e outras); ONS; Ministério de Minas e Energia",
+   "assunto": "Pedidos de reconsideração contra a REH 2724/2020 (RAP de reforços autorizados sem estabelecimento prévio de receita, ciclo 2020/2021)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade (provimento parcial)",
+   "resumo_voto": "Conhecidos e providos em parte: adicionais de RAP passam de 135 para 241 obras (receita de cerca de R$ 10 milhões para quase R$ 14 milhões); determina à SCT instaurar processos específicos para as 12 obras que só não atenderam ao critério 1 (qualidade da informação, motivação do ONS, adequação da obra, motivação de reclassificação após consulta ao MME), com contraditório e ampla defesa. Abrate pediu provimento integral; Procuradoria (parecer 105/2021) criticou o critério 1 como quebra da segurança jurídica.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova (provimento parcial)",
+     "ts": "2:25:40",
+     "justificativa": "critério 1 não viola a segurança jurídica: resoluções autorizativas continuam vigentes e as obras devem ter agregado capacidade ou confiabilidade; apenas 12 obras de mais de 500 esbarram só no critério 1; demais critérios são procedimentais; pedidos sobre melhorias e ativos fora da BRR escapam ao escopo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:26:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:26:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (proclama)",
+     "ts": "2:27:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:28:18",
+   "processo": "48500.004999/2015-46",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Pedido de medida cautelar da Enel SP contra o Despacho 2508/2020 (montantes de exposição e sobrecontratação involuntária 2016 e 2017)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "comercialização",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (cautelar negada)",
+   "resumo_voto": "Cautelar negada: ausentes perigo da demora (dano reparável em reajustes ou revisões, com correção) e fumaça do bom direito (a nota técnica 97/2020 já fez análise individualizada); mérito segue na SRM e SGT. Efeito suspensivo já negado pelo Diretor-Geral em out/2020. Sem sustentação oral nem manifestação da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega a cautelar",
+     "ts": "2:39:41",
+     "justificativa": "requisitos cumulativos não presentes: sem perigo da demora nem verossimilhança; análise de mérito pode inclusive reduzir o montante",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:40:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:40:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:41:20",
+   "processo": "",
+   "interessado": "Furnas Centrais Elétricas S.A. (contrato de concessão 62/2001); Enel Distribuição Rio de Janeiro; ONS; MME/EPE",
+   "assunto": "Autorização de reforços e estabelecimento de RAP para seccionamento de linhas na SE Iriri (plano de outorgas de transmissão, ciclo 2016), com investimento de cerca de R$ 8,87 milhões e RAP de cerca de R$ 1,40 milhão",
+   "tema": [
+    "transmissão",
+    "outorgas e autorizações",
+    "distribuição"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Emitida resolução autorizativa a Furnas, com RAP a preços de jun/2017 e cronograma. Furnas alegava tratar-se de ativos de distribuição e pedia custos de compartilhamento e quantitativos adicionais (canaletas, eletrodutos); pedidos indeferidos, pois o banco de preços é de referência. Relator redistribuído após exoneração do diretor Rodrigo Limp. Mencionou reunião com o prefeito de Casimiro de Abreu sobre obra similar. Sem sustentação oral; Procuradoria sem questão jurídica.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:55:28",
+     "justificativa": "obra priorizada pelo planejamento e necessária ao suprimento da região de Campos; banco de preços não busca reproduzir exatamente o projeto; transferência de ativos é tema posterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:56:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:56:58",
+   "processo": "",
+   "interessado": "Norte Energia; Energia Sustentável do Brasil; Santo Antônio Energia; Abragel",
+   "assunto": "Prorrogação do pedido de vista nos pedidos de reconsideração contra a REN 895/2020 (repactuação do risco hidrológico, Lei 14.052/2020)",
+   "tema": [
+    "comercialização",
+    "outorgas de geração",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "prorrogação de vista aprovada por unanimidade (mais 8 reuniões)",
+   "resumo_voto": "Relator original: Efrain Cruz. Sandoval Feitosa, com vista, informou que o prazo já ultrapassou as 8 sessões e pediu prorrogação por até 8 reuniões, sinalizando que o processo voltará à pauta antes disso. Sem contrária manifestação; aprovado.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista pendente: pede prorrogação do prazo de vista",
+     "ts": "2:57:05",
+     "justificativa": "prazo de vista já ultrapassou 8 sessões ordinárias; pede até 8 reuniões, mas trará antes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator original; concorda com a prorrogação (pela proclamação)",
+     "ts": "2:58:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda com a prorrogação (pela proclamação)",
+     "ts": "2:58:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "concorda com a prorrogação (pela proclamação)",
+     "ts": "2:58:38",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:58:52",
+   "processo": "48500.005025/2020-47",
+   "interessado": "Conselho de Consumidores da Enel Distribuição Ceará (sustentação oral: Raul Amaral); Enel Ceará",
+   "assunto": "Pedido de reconsideração do conselho de consumidores contra a REH 2859/2021 (reajuste tarifário anual 2021 da Enel CE: 8,95%): aproveitamento integral dos créditos de PIS/Cofins pela exclusão do ICMS da base e troca do IGP-M pelo IPCA na Parcela B",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (conhecido, desprovido)",
+   "resumo_voto": "Conhecido e negado provimento. Procuradoria (Luiz Eduardo) não se manifestou, mas defendeu que o IGP-M é cláusula econômica do contrato e que o uso dos créditos exige metodologia em curso (relatoria de Efrain Cruz). Debate: contratos devem ser respeitados; 20% dos créditos definidos na CP 5/2021; a mesa refutou a ilustração da sustentação como insinuação e esclareceu que não se trata de crédito de ICMS e sim de PIS/Cofins. Voto lido sem fundamentação, já disponibilizado no bloco.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "3:17:57",
+     "justificativa": "Aneel já limitou o aumento com oito medidas (créditos, CDE, P&D); contrato prevê IGP-M e o reequilíbrio não se faz por alteração unilateral; Parcela B por metodologia que reduz tarifa se cair o custo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:20:00",
+     "justificativa": "respeito ao contrato (IGP-M), precedente da telefonia em 2003 no STF; Fator X mais sensível à piora da qualidade (atribuição pela ordem de fala)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:24:43",
+     "justificativa": "refutou como presidente da mesa a ilustração da sustentação oral; não existe crédito de ICMS, o tema é PIS/Cofins sob sua relatoria; racional dos 20% (atribuição por contexto)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:27:24",
+     "justificativa": "contratos de concessão devem ser respeitados; solução simplista seria equivocada; pauta de modernização dos conselhos de consumidores",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:32:52",
+   "processo": "",
+   "interessado": "Atena Comercializadora de Energia Elétrica Ltda (sustentação oral: Lucas Cortez Pimentel); CCEE",
+   "assunto": "Impugnação com pedido de efeito suspensivo/medida cautelar da Atena contra decisão da CCEE (TN 1402/2021, cerca de R$ 73 mil por insuficiência de lastro)",
+   "tema": [
+    "comercialização",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade (cautelar negada; mérito à SRM)",
+   "resumo_voto": "Medida cautelar negada e processo encaminhado à SRM para o mérito. A empresa pediu chamamento do feito à ordem, alegando que o efeito suspensivo caberia ao Diretor-Geral (arts. 29 da REN 545/2013 e 47 da REN 273/2007); a Procuradoria rejeitou: a competência é da diretoria colegiada (art. 32 da REN 545). Relatora: sem fumaça do bom direito, pois contratos bilaterais não eximem obrigações no curto prazo; a caução afastaria o perigo da demora.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, nega a cautelar",
+     "ts": "3:43:05",
+     "justificativa": "sem fumaça do bom direito: inadimplemento da contraparte não afasta a obrigação no mercado de curto prazo; possível caucionar valores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:43:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:43:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (proclama)",
+     "ts": "3:43:48",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "17",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; só um marcador de tempo no .md, ts obtidos da transcrição bruta.",
+  "Presidente da sessão inferido: o Diretor-Geral substituto fala em 1ª pessoa como presidente da mesa e saúda Sandoval, Elisa e «Elmo» (provavelmente Hélvio); atribuído a Efrain Cruz por exclusão.",
+  "Votos de quem só diz acompanho: nomes raramente ditos; atribuídos pela proclamação (unanimidade) e ordem de fala; confiança media/baixa. Justificativas de não relatores nos itens 1, 3 e 18 atribuídas por contexto, com incerteza.",
+  "Números de processo dos itens 1, 5, 7, 8 e 21 omitidos por legenda ilegível; os demais podem ter erro de dígitos.",
+  "Itens do bloco (9 a 41) não detalhados na transmissão; item 17 retirado.",
+  "Nome do advogado da Abrate (Caio Cavalcante) e do representante do conselho (Raul Amaral) conforme a legenda."
+ ]
+}

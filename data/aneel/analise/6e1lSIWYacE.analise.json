@@ -1,0 +1,457 @@
+{
+ "meta": {
+  "video_id": "6e1lSIWYacE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados; Parte 1 (manhã)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12",
+  "data": "2021-04-13",
+  "formato": "videoconferência (sessão virtual)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) na abertura; Efrain Cruz como diretor-geral substituto após a saída do DG (incerto)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "12ª Reunião Pública Ordinária de 2021, Parte 1; sessão suspensa às 14h (cerca de 2h17) e retomada na parte 2.",
+   "Pauta com 28 itens; item 16 retirado de pauta; vista no item 19; sustentação oral nos itens 3, 5, 10 e 12; itens 10 e 12 destacados do bloco.",
+   "Deliberados nesta parte: itens 1, 4, 6, 10, 12 e bloco, todos unânimes; retirados 3 e 5; item 2 suspenso."
+  ]
+ },
+ "itens": [
+  {
+   "id": "ata",
+   "ts": "0:05:54",
+   "assunto": "Aprovação da ata da 11ª Reunião Pública Ordinária de 2021",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Ata aprovada; antes, um diretor questionou o registro da ata da 10ª RPO sobre o processo CDE/PCH (não conhecimento dos recursos).",
+   "votos": []
+  },
+  {
+   "id": "bloco",
+   "ts": "0:11:26",
+   "processo": "Itens 7 a 28 da pauta (exceto 10, 12, 16 e 19)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens da pauta (itens 7 a 28), votos e minutas disponibilizados no site desde 08/04; exceto 10 e 12 (destacados), 16 (retirado de pauta) e 19 (vista)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado (itens remanescentes)",
+   "resumo_voto": "Diretor-Geral submeteu o bloco; os diretores aprovaram os itens remanescentes. Item 19 retirado do bloco por pedido de vista de Efrain Cruz (ausência de parecer jurídico sobre PVA).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:11:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova os itens remanescentes; pede vista do item 19",
+     "ts": "0:11:35",
+     "confianca": "media",
+     "justificativa": "vista do item 19 por ausência de parecer jurídico em PVA"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:11:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:11:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:11:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "0:11:35",
+   "assunto": "Item 19 do bloco retirado por pedido de vista",
+   "tema": [
+    "vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista (Efrain Cruz)",
+   "resumo_voto": "Vista pedida por ausência de parecer jurídico em PVA; proclamado pelo Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "0:11:35",
+     "confianca": "media",
+     "justificativa": "por ausência de parecer jurídico em PVA"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:12:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "0:12:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:12:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:12:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:12:52",
+   "processo": "48500.004627/2020 e 48500.006065/2020 (números parciais)",
+   "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 14/04 a 29/05/2021; reunião virtual em 06/05) sobre a proposta de revisão tarifária periódica da Energisa Sul-Sudeste, vigência 12/07/2021, e limites de DEC e FEC 2022-2026",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição, qualidade (DEC/FEC)",
+    "regulação normativa (consulta/audiência pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio preliminar de 9,90% (4,03% AT; 12,13% BT); SGT apresentou a proposta (Cecília Magalhães). Relator informou reunião com a distribuidora em 09/04 para minimizar impacto tarifário. Sem sustentação oral; procuradoria sem manifestação (abertura de CP).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "0:34:57",
+     "confianca": "alta",
+     "justificativa": "propõe CP com efeito médio preliminar de 9,90% e limites DEC/FEC 2022-2026; objetivo de colher subsídios"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:37:10",
+   "interessado": "Brasil Energia Solar (nome incerto) - centrais fotovoltaicas Sertão Solar Barreiras (Barreiras/BA)",
+   "assunto": "Autorização para implantar e explorar, em regime de produção independente, as centrais geradoras fotovoltaicas Sertão Solar Barreiras 15 a 21 (Barreiras/BA); com pedido de sustentação oral",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "geração fotovoltaica"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator retirou para se aprofundar: terceiro agente alega prejuízo (interferência/ocupação de espaço de rede por outorgas que não saem do papel: cerca de mil outorgas vigentes e pouco mais de 200 em construção); traria na próxima reunião pública.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "0:37:33",
+     "confianca": "alta",
+     "justificativa": "terceiro agente alega prejuízo; muitas outorgas de solar sem construção ocupam espaço de outros"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:41:45",
+   "processo": "27100.002945/1999 (número parcial)",
+   "interessado": "Mineração Santa Helena Indústria e Comércio S.A. / Consórcio UHE Guaporé (Tangará Energia, líder)",
+   "assunto": "Alteração do regime de exploração da parcela da Mineração Santa Helena na UHE Guaporé (120 MW; contrato de concessão 15/2000), de autoprodução para produção independente de energia",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "hidrelétrica",
+    "contratos de concessão"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto por resolução autorizativa e segundo termo aditivo ao contrato 15/2000. ANEEL tem competência como gestora do contrato; entendimento consolidado da Procuradoria (pareceres 56/2008 e 288/2020); interessada adimplente; sem sustentação oral. Relator trouxe o item à leitura por se tratar de concessão.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:50:50",
+     "confianca": "alta",
+     "justificativa": "competência da ANEEL para alterar regime de exploração; pareceres da PF; interessada adimplente com encargos"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:52:58",
+   "interessado": "Empresa titular da PCH Claydson (Rio Branco do Ivaí/PR) - nome incerto (legenda)",
+   "assunto": "Requerimento administrativo para reconhecimento de excludente de responsabilidade por descumprimento do cronograma de implantação da PCH Claydson (Rio Branco do Ivaí/PR); com pedido de sustentação oral",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "PCH",
+    "excludente de responsabilidade"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator, que propunha indeferir, retirou porque a empresa não teve tempo de rever sua sustentação oral após ver o voto disponibilizado na véspera.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "retira de pauta",
+     "ts": "0:53:40",
+     "confianca": "alta",
+     "justificativa": "respeito ao rito e à interessada, que preparou a sustentação antes de ver o voto"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:55:20",
+   "processo": "48500.004688/2020 (número parcial); contrato de concessão 33/2017",
+   "interessado": "Linhas de Energia do Sertão Transmissora S.A. (LEST) - AL/PE/SE",
+   "assunto": "Requerimento de reconhecimento de excludente de responsabilidade (força maior, pandemia de covid-19) sobre antecipação de cronograma de entrada em operação comercial de instalações de transmissão (LT Paulo Afonso IV - Luiz Gonzaga e Xingó - Jardim, 500 kV)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "excludente de responsabilidade",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado por unanimidade dos presentes",
+   "resumo_voto": "Nega provimento: antecipação é faculdade e não obrigação contratual; entrada em operação em 23/12/2020, cerca de 14 meses antes da data contratual (11/02/2022); frustração de expectativa está na álea ordinária do empreendedor e o pleito acarretaria receita por serviço não prestado, custeada pela tarifa. Sem sustentação oral; procuradoria sem parecer.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "1:24:30",
+     "confianca": "alta",
+     "justificativa": "antecipação não é obrigação; sem atraso frente ao prazo contratual não há responsabilidade a excluir; custo recairia sobre a tarifa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:26:45",
+   "processo": "48500.004942/2019 (número parcial)",
+   "interessado": "Brilhante Transmissora de Energia S.A. (sustentação oral: Valéria de Souza Rosa)",
+   "assunto": "Recurso administrativo contra o Despacho 1.900/2020 da SCT, que negou homologação das datas de entrada em operação comercial e afastamento do desconto da parcela variável por atraso (PVA)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "parcela variável por atraso (PVA)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e negado provimento, por unanimidade dos presentes",
+   "resumo_voto": "Item destacado do bloco, antes retirado de pauta pelo relator em 16/03 após sustentação oral. Relator mantém o despacho: o arquivamento do processo punitivo pela SFE não é homologação das datas de operação; PVA e sanção são esferas distintas; sem prescrição, pois a cobrança foi tentada em 2016 e barrada por decisões judiciais. Sustentação da empresa invocou segurança jurídica e coerência (parecer PGF 278/2020). Procuradoria apontou prazo de 10 anos (Código Civil) para o período não coincidente.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:52:30",
+     "confianca": "alta",
+     "justificativa": "SFE e SCT tratam de temas distintos; arquivamento punitivo não homologa datas; não há reversão de decisão nem prescrição"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:54:20",
+   "processo": "48500.000754/2019 e 48500.000643/2018 (números parciais)",
+   "interessado": "Eletrobras (CTEEP/Eletronorte/Eletrosul), Integração Transmissora de Energia (Equatorial), Lenne/Linhas e State Grid - sustentação oral: Camila Caetano de Melo (Integração Transmissora)",
+   "assunto": "Pedidos de reconsideração das Resoluções Homologatórias 2.702/2020 e 2.705/2020 (revisão da RAP de reforços e melhorias de contratos de transmissão, ciclo 2018/2019)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "parcela variável",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Conhece todos; nega provimento ao pedido da Integração Transmissora (recálculo retroativo de parcela variável com a RAP definitiva), dá provimento parcial a Eletronorte, Eletrosul, Lenne, Pinheiros e Sul, e provimento a Eletrobras e State Grid. Mudança metodológica exige AIR e consulta pública (Lei 13.848), na agenda regulatória 2021/2022. Procuradoria sem parecer.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e decide conforme voto",
+     "ts": "2:07:50",
+     "confianca": "alta",
+     "justificativa": "recálculo da PV é mudança metodológica de caráter geral; exige AIR e consulta pública"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:10:00",
+   "processo": "48500.000373/2019 (número parcial)",
+   "interessado": "Norte Energia, Energia Sustentável do Brasil, Santo Antônio Energia e Abragel",
+   "assunto": "Pedidos de reconsideração contra a REN 895/2020 (repactuação do risco hidrológico, Lei 14.052/2020); relator original Efrain Cruz, vista de Sandoval Feitosa",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "risco hidrológico (GSF)",
+    "recursos administrativos",
+    "institucional/TCU"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "sessão suspensa antes da deliberação; retorno às 14h (continua na parte 2)",
+   "resumo_voto": "Presidindo, Efrain Cruz informou decisão do TCU na véspera (oitiva da agência em cinco dias; indícios de ilegalidade; sugestão de suspender efeitos da resolução) e propôs suspender a sessão até as 14h, com a presença do Diretor-Geral, que estava em audiência na Câmara sobre a linha Manaus-Boa Vista. Sandoval concordou; Elisa também.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "propõe suspender a sessão até 14h",
+     "ts": "2:12:24",
+     "confianca": "alta",
+     "justificativa": "decisão do TCU e importância do tema; Diretor-Geral ausente na Câmara"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "concorda com a suspensão",
+     "ts": "2:14:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "concorda com a suspensão",
+     "ts": "2:16:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda com a suspensão (pela suspensão proclamada)",
+     "ts": "2:17:28",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "16 - retirado de pauta pela mesa (bloco)",
+   "relator": "não identificado",
+   "motivo": "anunciado na abertura",
+   "ts": "0:07:00"
+  },
+  {
+   "item": "3 - Sertão Solar Barreiras 15 a 21",
+   "relator": "Sandoval Feitosa",
+   "motivo": "aprofundar análise de alegação de interferência de terceiro",
+   "ts": "0:37:33"
+  },
+  {
+   "item": "5 - PCH Claydson (excludente de responsabilidade)",
+   "relator": "Hélvio Guerra",
+   "motivo": "interessada sem tempo de adaptar sustentação oral ao voto",
+   "ts": "0:53:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com forte distorção: números de processo parciais, nomes de empresas incertos (Brasil Energia Solar, titular da PCH Claydson, Brilhante/BTS).",
+  "Presidência incerta: o DG (Pepitone) parece ter saído para audiência na Câmara por volta das 10h; depois o substituto (Efrain Cruz) preside. Nomes de quem diz «acompanho» atribuídos pela proclamação e ordem de votação; confiança media/baixa.",
+  "Pepitone só aparece votando no bloco e no item 19; nos itens 1 a 12 considerado ausente da votação (4 votos por item), sem confirmação.",
+  "Item 10: um diretor não identificado registrou depois (questão de ordem, 1:54) seu voto de aprovação à proposta do relator.",
+  "Item 2: sem votos de mérito nesta parte; ts das concordâncias com a suspensão aproximados.",
+  "A ata da 11ª RPO foi aprovada por unanimidade (0:05:54); registrada como item sem votos individuais."
+ ]
+}

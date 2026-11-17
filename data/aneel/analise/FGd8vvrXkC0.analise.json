@@ -1,0 +1,30 @@
+{
+  "meta": {"video_id": "FGd8vvrXkC0", "fonte": "legenda automática do YouTube; trecho curto (abertura e bloco de processos); falantes não identificados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28", "data": "2018-08-07", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["O material preparado cobre só a abertura e a votação do bloco de itens 24 a 49; não há nomes de diretores na legenda. Dito na abertura: quórum completo, cinco diretores presentes."]
+  },
+  "itens": [
+    {
+      "id": "24-49", "ts": "0:00:40",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de processos (itens 24 a 49), exceto os destacados 31 e 32 e o retirado 36; aprovado em bloco. Um diretor declarou impedimento nos itens 25 (auto de infração 13/2018, decidido por ele quando superintendente), 26 (nota técnica 26/2018) e 32 (memorando 200/2017, quando era superintendente de regulação dos serviços de transmissão), com base no art. 11, inciso II, da Norma de Organização ANEEL 01 (Resolução 273).",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "institucional/impedimento"],
+      "relator": "não identificado",
+      "resultado": "aprovado em bloco (itens remanescentes)",
+      "unanime": null,
+      "resumo_voto": "Os diretores votaram pela aprovação dos itens remanescentes do bloco; um deles ressalvou impedimento nos itens 25, 26 e 32. A legenda não permite atribuir falas a nomes.",
+      "votos": []
+    }
+  ],
+  "retirados": ["Itens 16, 18, 20, 21, 22 e 36 retirados de pauta", "Itens 31 e 32 destacados do bloco por sustentações orais"],
+  "limites_da_analise": [
+    "Reunião curta no material: só abertura e bloco; deliberações individuais (itens 1 a 19, 31 e 32) não constam do texto.",
+    "Legenda não traz nomes de diretores; nenhum voto individual foi atribuído (votos vazio) para não inventar. Em 2018 a diretoria incluía nomes da lista (ex.: Romeu Rufino, André Pepitone, Tiago Correia, Efrain Cruz), mas sem confirmação no texto.",
+    "Número da reunião ambíguo: título diz 28ª, fala diz 38ª (e ata da 37ª); adotado 28 do título.",
+    "Quem declarou impedimento nos itens 25, 26 e 32 não foi identificado."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "fC_o9t1frgU", "fonte": "legenda automática do YouTube (trecho curto, só abertura e votação do bloco); sem falantes identificados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5", "data": "2018-02-27", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["5ª Reunião Pública Ordinária de 27/02/2018; quórum de três diretores declarado na abertura.", "Vídeo contém só a abertura, a ata da 4ª reunião aprovada e a votação em bloco dos itens 14 a 31; itens 5, 13 e 21 retirados de pauta; itens 14 e 15 destacados do bloco por pedido de sustentação oral."]
+  },
+  "itens": [
+    {
+      "id": "14-31 (bloco)", "ts": "0:01:30",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 14 a 31 da pauta, exceto 14 e 15 (destacados para sustentação oral) e 21 (retirado de pauta)",
+      "tema": ["regulação normativa"],
+      "relator": "não identificado", "resultado": "aprovado (votação em bloco; três votos pela aprovação ouvidos)",
+      "resumo_voto": "Minutas disponíveis na internet desde 22/02; sem novos destaques, bloco submetido à votação e aprovado pelos três diretores presentes.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:30", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:35", "justificativa": "voto pela aprovação de todo o bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:40", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["5", "13", "21"],
+  "limites_da_analise": ["Nomes dos diretores não aparecem na legenda; todos registrados como não identificado.", "Timestamps dos votos aproximados (transcrição sem marcadores internos).", "Itens 14 e 15 e demais itens individuais (6, 7, 8) não constam do trecho; a nova ordem de pauta é citada de forma confusa pela legenda."]
+}

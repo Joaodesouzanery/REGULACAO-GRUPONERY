@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "zrv6oksHLZ4", "fonte": "legenda automática do YouTube; trecho de 38 s; falantes inferidos não confiáveis", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "35", "data": "2018-09-25", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": [],
+    "ausentes": ["Sandoval Feitosa (em viagem a serviço, segundo a legenda; incerto)"],
+    "observacoes": ["Vídeo curto (38 s): abertura da 35ª Reunião Pública Ordinária e aprovação da ata da 34ª reunião. Sem informes. Quórum de três diretores declarado. Sem deliberação sobre processos neste vídeo."]
+  },
+  "itens": [
+    {
+      "id": "ata-34", "ts": "0:00:21",
+      "processo": "", "interessado": "Diretoria da ANEEL",
+      "assunto": "Aprovação da ata da 34ª Reunião Pública Ordinária",
+      "tema": ["institucional"],
+      "relator": "não identificado", "resultado": "aprovada (ata da reunião anterior aprovada, com um ajuste a ser feito)",
+      "resumo_voto": "Quem presidia submeteu a ata à votação dos três diretores presentes e declarou aprovada a ata, com um ajuste.",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "O rótulo de falante {Sandoval Feitosa} no .md é inferência automática e contradiz a fala (o diretor Sandoval estaria em viagem); presidente da sessão não identificado.",
+    "Os três diretores presentes não são nomeados no trecho; nenhum voto individual registrado.",
+    "Legenda automática: «neo» = ANEEL; «korum» = quórum; «liberar» provavelmente é outra palavra."
+  ]
+}

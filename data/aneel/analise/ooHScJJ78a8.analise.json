@@ -1,0 +1,23 @@
+{
+  "meta": {"video_id": "ooHScJJ78a8", "fonte": "legenda automática do YouTube; falantes não identificados; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "37", "data": "2018-10-09", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Trecho de abertura (Bloco 7 à 37): quórum de três diretores, um quarto a caminho; ata da 36ª aprovada; itens do bloco aprovados por unanimidade; informes institucionais. O vídeo termina quando o secretário vai anunciar o primeiro processo da pauta: não há deliberação individual de processos neste arquivo."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:00:05",
+      "processo": "", "interessado": "",
+      "assunto": "Aprovação em bloco dos processos do bloco da 37ª RPO (itens 3, 6 e 8 retirados de pauta; itens 19 e 20 destacados para a pauta normal; 37 processos inscritos)",
+      "tema": ["regulação normativa", "institucional"],
+      "relator": "não identificado", "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Diretor-Geral submeteu o bloco à votação; os diretores presentes votaram pela aprovação e proclamou-se aprovação por unanimidade dos processos remanescentes do bloco.",
+      "votos": []
+    }
+  ],
+  "retirados": ["Itens 3, 6 e 8 do bloco retirados de pauta (a legenda diz 3 3 6 e 8)", "Itens 19 e 20 destacados do bloco para a pauta normal"],
+  "limites_da_analise": ["Legenda automática sem nomes dos diretores; nenhum voto individual atribuído por falta de base.", "Arquivo cobre só a abertura e informes (≈ 4 mil caracteres); sem processos deliberados individualmente.", "Informes: reuniões com associações do setor (10 e 11/10), workshop na ENAP, AP 41/2018 fase 3 (BRR/outras receitas) até 11/10; AP 64/2017, AP 41/2018 (procedimentos de rede) e AP 42/2018 (agrupamento RGE Sul e Rio Grande Energia, grupo CPFL) encerram em 15/10."]
+}

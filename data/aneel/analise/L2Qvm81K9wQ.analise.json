@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "L2Qvm81K9wQ", "fonte": "legenda automática do YouTube; falantes inferidos; Parte 2 da 13ª RPO de 23/04/2019", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "13", "data": "2019-04-23", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 (tarde): retomada do debate do item 1 (edital do Leilão 1/2019, suprimento a Boa Vista e localidades conectadas), único item da parte; é o último da pauta.", "Presença de representantes da embaixada da França registrada na abertura.", "Demais diretores não são identificados por nome na legenda; só o Diretor-Geral é identificado com segurança."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:16",
+      "processo": "", "interessado": "Distribuidora única do sistema isolado de Boa Vista (Roraima); sustentação oral anterior (parte 1) de Pedro, da Casa dos Ventos",
+      "assunto": "Aprovação do edital e anexos do Leilão 1/2019, leilão para suprimento a Boa Vista e localidades conectadas, com início de suprimento em 28/06/2021 (continuação do debate)",
+      "tema": ["leilões (geração, reserva de capacidade)", "CDE e encargos setoriais (CCC)", "comercialização (contratos, garantias, CCEE)"],
+      "relator": "não identificado",
+      "resultado": "aprovado por unanimidade",
+      "unanime": true,
+      "resumo_voto": "O relator, após reuniões com procuradoria e áreas técnicas, incorporou proposta levantada no debate: aplicar o art. 29, par. 1º da REN 801/2017, com reembolso da CCC (cerca de 80% da receita, parcela acima do valor médio) pago diretamente aos geradores/vendedores, via CCEE, sem passar pela distribuidora; a distribuidora presta garantia só dos cerca de 20% restantes. Argumentou menor risco, menor custo de garantia, lances menores e benefício tarifário. Workshop no MME em 8 de maio. Edital a ser publicado no DOU na segunda-feira.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama: por unanimidade, aprova o edital e anexos)", "ts": "0:05:00", "justificativa": "Diz «em votação, acompanhada também voto, o relator também voto com o relator» e proclama a aprovação por unanimidade; segundo a legenda, o relato incorporou proposta levantada por diretor no debate.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com muitos erros; nomes de diretores (ex.: «diretor franklin», «diretor andré») incertos; não atribuídos a ninguém da lista.", "Relator não identificado; os demais diretores presentes não são nomeados, por isso só o voto do Diretor-Geral foi registrado (nº de votos menor que o de presentes reais).", "Não há número de processo na transcrição desta parte; ts do voto de Sandoval aproximado.", "Sustentação oral de Pedro (Casa dos Ventos) ocorreu na parte 1, fora desta transcrição."]
+}

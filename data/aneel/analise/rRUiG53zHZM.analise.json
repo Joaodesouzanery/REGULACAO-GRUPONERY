@@ -1,0 +1,372 @@
+{
+ "meta": {
+  "video_id": "rRUiG53zHZM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18",
+  "data": "2021-05-25",
+  "formato": "presencial/híbrido (diretores na sala e remotos), Parte 2 (tarde)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "18ª Reunião Pública Ordinária de 25/05/2021, parte da tarde; encerrada pelo presidente da sessão ao fim (cerca de 4h34).",
+   "Itens 1 a 5: cinco diretores. No item 6 o Diretor-Geral e Sandoval Feitosa não estavam na sala (a legenda diz que o presidente era «o substituto do substituto»); item 7 sem registro claro.",
+   "Retirados de pauta ao final: item 22 (relator Efrain Cruz) e item 13 (Elisa Bastos).",
+   "Antes do encerramento, aviso do relator sobre o banco de preços referenciais da distribuição (Anexo 4 do módulo 2.3 do PRORET/PROINFRA) e a AP 36/2019 convertida na CP 33/2020; sem deliberação."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:34",
+   "processo": "48500.005011/2020-23",
+   "interessado": "Cemig Distribuição S.A. (Minas Gerais); sustentações orais do Senador Rodrigo Pacheco (presidente do Senado), do deputado federal Weliton Prado e do deputado estadual Elismar Prado",
+   "assunto": "Reajuste tarifário anual de 2021 da Cemig Distribuição, vigência a partir de 28/05/2021",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição (Cemig, MG)",
+    "CDE e encargos setoriais (conta Covid)",
+    "créditos tributários PIS/Cofins (ICMS na base)",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: homologado o reajuste, efeito médio 1,28% (alta tensão 2,14%, baixa tensão 0,89%, residencial B1 0%)",
+   "resumo_voto": "Relator homologa o reajuste anual da Cemig com efeito médio de 1,28% e efeito zero para o subgrupo B1 (residencial, cerca de 7,2 milhões de consumidores), graças ao uso de cerca de R$ 1,573 bilhão de créditos de PIS/Cofins (já habilitados na Receita), saldo da conta Covid e reperfilamento da RBSE; sem eles o efeito passaria de 12%. Fixa TUSD/TE e receitas de transmissão DIT e valor mensal da CDE. Parlamentares pediram uso dos créditos e, em parte, rejeição de qualquer reajuste; o deputado Weliton Prado criticou a Cemig (lucro, investimentos, DEC/FEC). Apresentação técnica de Ricardo Martins (SGT).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (homologa o reajuste)",
+     "ts": "1:10:56",
+     "confianca": "alta",
+     "justificativa": "uso dos créditos tributários de PIS/Cofins para zerar o reajuste do residencial B1 e atenuar a tarifa em Minas Gerais, em alinhamento com a Cemig e o pedido dos parlamentares"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:08",
+     "confianca": "baixa",
+     "justificativa": "parabeniza o relator; destaca o PIS/Cofins como a ação que mais reduziu tarifas no ano e comenta a Medida Provisória em tramitação no Senado"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:12",
+     "confianca": "baixa",
+     "justificativa": "destaca o empenho do relator e dos parlamentares mineiros pela modicidade; comenta a parcela B e as PCHs na MP"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama por unanimidade",
+     "ts": "1:43:00",
+     "confianca": "media",
+     "justificativa": "registra que Minas foi pioneira no uso dos créditos tributários, agora em R$ 1,573 bi; reajuste residencial B1 mantido a zero; regulação respeitando contratos"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:43:20",
+   "processo": "48500.005171/2019-39 e 48500.001273/2019 (números pela legenda)",
+   "interessado": "CCEE; APINE (Associação Brasileira dos Produtores Independentes de Energia Elétrica) pediu urgência",
+   "assunto": "Abertura de consulta pública, por intercâmbio documental, de 26/05 a 25/06/2021, sobre as regras e procedimentos de comercialização adequados às REN 898 e 899/2020 (energia secundária e sazonalização da garantia física no MRE)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "MRE / energia secundária / garantia física"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública restrita a verificar a aderência das propostas da CCEE às REN 898 e 899/2020 (sem rediscutir o mérito); prazo reduzido de 45 para 30 dias pela urgência e relevância, pois geradores com direito ao alívio de exposições financeiras ainda não o exercem sem as regras aprovadas.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova a abertura da consulta (30 dias)",
+     "ts": "1:55:19",
+     "confianca": "alta",
+     "justificativa": "aderência das regras da CCEE às REN 898/899; urgência justifica 30 dias"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:56:40",
+     "confianca": "media",
+     "justificativa": "registra problema de conexão no sistema ao votar"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama por unanimidade",
+     "ts": "1:56:48",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:56:57",
+   "processo": "48500.004773/2005-57 e 48500.004835/1979-92",
+   "interessado": "Consórcio Candonga (UHE Risoleta Neves; Samarco/Fundação Renova no TAC)",
+   "assunto": "Pedido de reconsideração do Consórcio Candonga contra o Despacho 3.556/2020 (prazo de seis meses para retomada das condições operativas da UHE Risoleta Neves, sob pena de caducidade)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos",
+    "rompimento da barragem de Fundão"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Relator nega provimento: a ANEEL gere o contrato de concessão e a responsabilidade pela segurança operacional e estrutural da barragem é do concessionário, independentemente de quem causou o dano (Samarco/Renova pelo TAC); a ANEEL não tem competência sobre manejo de rejeitos. Prazos já dilatados: relatório de inspeção de segurança especial (RISE) em 02/07/2021 e segunda etapa 180 dias após a retomada. Se for inviável a geração, a extinção da concessão se impõe. O consórcio pedira retirada de pauta na véspera; sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "1:57:30",
+     "confianca": "alta",
+     "justificativa": "a responsabilidade pelo ativo e pela segurança é do concessionário; ANEEL gere o contrato; manejo de rejeitos está no TAC"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:17:50",
+     "confianca": "baixa",
+     "justificativa": "voto da diretora Elisa em caso anterior é citado pelo relator como base do entendimento"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama por unanimidade",
+     "ts": "2:17:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:18:06",
+   "processo": "48500.004686/2019 (número pela legenda)",
+   "interessado": "Ourilândia do Norte Transmissora de Energia (ONTE/«Onte»); Vale S.A. (sustentação oral por advogado da Vale, nome incerto na legenda)",
+   "assunto": "Parcela adicional de RAP para adequações e O&M de ativos de transmissão transferidos pela Vale (SE Mineração Onça Puma) à Ourilândia do Norte Transmissora e autorização para adequações",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos",
+    "consumidor livre / rede básica",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "parcialmente provido por unanimidade dos votantes; com determinação de parecer da fiscalização (SFE) em seis meses",
+   "resumo_voto": "Dá parcial provimento: reconhece RAP de O&M desde 21/06/2018 (cerca de R$ 11,5 milhões até 30/06/2021, pagos em 2021-2022) e atribui à rede básica as perdas dos ativos; nega RAP para correção e reparo (oscilografia, supervisão e controle, telecomunicação/cabo OPGW, isolamento/para-raios, proteção de barras 230 kV), pois são obrigação da Vale conforme REA 1.506/2008, com prazo de 24 meses para a transmissora; nega a segregação do sistema de telecomunicação; defere RAP para medição e faturamento, serviço auxiliar e proteção da LT 230 kV. A pedido do Diretor-Geral, inclui prazo de seis meses para a SFE emitir parecer sobre o real estado dos ativos transferidos. A Vale sustentou ser indevida a imputação de custos (sem exigência regulatória e com caráter punitivo).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá parcial provimento",
+     "ts": "3:33:20",
+     "confianca": "alta",
+     "justificativa": "responsabilidade da Vale pela manutenção dos ativos até a transferência; consumidor da rede básica paga O&M efetivamente prestada pela transmissora"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator, com sugestão aprovada (parecer da fiscalização em seis meses)",
+     "ts": "3:35:09",
+     "confianca": "alta",
+     "justificativa": "questiona a lógica da pendência não impeditiva e o incentivo à Vale; propõe determinar à SFE avaliar o estado real dos ativos; proclama o resultado"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:03:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:03:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "4:04:00",
+     "confianca": "baixa",
+     "justificativa": "fez perguntas ao relator sobre a transferência, o incentivo e a responsabilidade da Vale"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "4:06:44",
+   "processo": "48500.001672/2020-61",
+   "interessado": "MS5 Energia Ltda. (legenda) e Energisa Amazonas Transmissora de Energia S.A.; Amazonas GT",
+   "assunto": "Receitas anuais permitidas (RAP) de transmissão, ciclo 2020/2021: cancelamento de RAP da SE Porto Alegre 4 e de instalações da Amazonas GT (01/04 a 31/07/2021) e pagamento de R$ 1.005.426,50 (valor pela legenda) até 30/06/2021",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Retirado do bloco por pedido de vista de Efrain Cruz; ele próprio sugeriu o retorno em mesa, pelo risco de perder o ciclo tarifário (alerta da SGT), declarando concordar com a relatora. Relatora dispensou o relatório e leu o dispositivo.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "4:08:00",
+     "confianca": "alta",
+     "justificativa": "emissão de resolução homologatória das RAP do ciclo 2020/2021"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (havia pedido vista e a retoma em mesa)",
+     "ts": "4:06:44",
+     "confianca": "alta",
+     "justificativa": "prazo de publicação da RAP no ciclo; concorda com o voto da relatora"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:11:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:11:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama por unanimidade",
+     "ts": "4:12:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:13:28",
+   "processo": "48500.001811/2020-56 (número pela legenda)",
+   "interessado": "ABRADEE (Associação Brasileira de Distribuidores de Energia Elétrica)",
+   "assunto": "Pedido de medida cautelar da ABRADEE contra a REN 888/2020 sobre base de cálculo do EUSD na violação de prazos pelas distribuidoras para iluminação pública e carga para ressarcimento de danos elétricos",
+   "tema": [
+    "distribuição (iluminação pública, REN 414/888)",
+    "recursos administrativos (cautelar)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "negado provimento por unanimidade dos diretores presentes",
+   "resumo_voto": "Nega a cautelar: a petição não demonstra fumaça do bom direito nem perigo da demora (art. 45 da Lei 9.784/99); a REN 888 teve tomada de subsídios, consulta pública com 587 contribuições e a compensação segue o consumo; mudança deve ocorrer no rito ordinário (ARR, agenda regulatória). Procurador Eduardo Estevam: sem parecer, citou os requisitos da cautelar. Sessão presidida por outro diretor, pois o Diretor-Geral e Sandoval se ausentaram.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "4:29:10",
+     "confianca": "alta",
+     "justificativa": "ausência de fumaça do bom direito e de perigo da demora; alteração só no rito ordinário"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:29:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (presidindo, proclama)",
+     "ts": "4:30:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "4:31:09",
+   "processo": "48500.006221/2014-91",
+   "interessado": "Potiguares Geração de Energia S.A. (parques eólicos Ventos União 1 a 10)",
+   "assunto": "Prorrogação por mais oito sessões do prazo do voto-vista da diretora Elisa Bastos no recurso contra o Despacho 2.964/2017 da SRM (energia não fornecida/contabilização no MRE ou mercado)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "recursos administrativos",
+    "pedido de vista"
+   ],
+   "relator": "Sandoval Feitosa (relator original)",
+   "resultado": "prorrogação do voto-vista autorizada por até 8 sessões",
+   "resumo_voto": "Apenas prorrogação do prazo da vista, sem discussão de mérito.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista pendente (autora da vista; pede prorrogação)",
+     "ts": "4:31:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "de acordo com a prorrogação",
+     "ts": "4:32:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "de acordo com a prorrogação (declara autorizada)",
+     "ts": "4:32:30",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "22",
+   "relator": "Efrain Cruz",
+   "observacao": "retirado de pauta (anunciado em 4:30:50), processo não identificado na legenda"
+  },
+  {
+   "id": "13",
+   "relator": "Elisa Bastos",
+   "observacao": "retirado de pauta (anunciado em 4:30:50), processo não identificado na legenda"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processos, valores e nomes (advogado da Vale, procuradores, superintendentes) podem estar errados.",
+  "Quem disse cada «acompanho» nos itens unânimes foi atribuído pela proclamação e pela ordem usual, com confiança baixa; os nomes dos votantes nos itens 1 a 4 não foram identificados com certeza pela legenda.",
+  "Item 1: a identificação de quem fez cada comentário (MP do Senado, PCHs, bandeiras) é incerta; a legenda mistura falantes.",
+  "Item 4: DG pediu e o relator acatou a determinação de parecer da SFE em seis meses; não há ts exato para os votos de seguidores.",
+  "Item 6: quem presidia e quem votou, entre Elisa Bastos e Efrain Cruz, é inferido; o Diretor-Geral e Sandoval estavam ausentes da sala.",
+  "Item 7: só houve duas manifestações «de acordo» na legenda; os votos foram atribuídos com confiança baixa.",
+  "Parte 1 da reunião (manhã) não incluída."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "RDGQbIYpSeE", "fonte": "legenda automática do YouTube; falantes não identificados; trecho curto (bloco dos itens 12 a 39)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3", "data": "2018-02-06", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Vídeo é o bloco dos itens 12 a 39 da 3ª Reunião Pública Ordinária de 2018; o trecho transcrito tem cerca de 1.700 caracteres e termina na chamada do item seguinte.", "Quórum de três diretores informado na abertura; nomes não ditos na legenda.", "Item 18 retirado de pauta; itens 20 e 39 destacados do bloco por sustentações orais (deliberados em separado, fora deste trecho)."]
+  },
+  "itens": [
+    {
+      "id": "12-39 (bloco)", "ts": "0:01:30",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 12 a 39 da pauta, exceto o 18 (retirado) e os 20 e 39 (destacados para sustentação oral); minutas de votos e atos disponíveis no site desde 01/02/2018",
+      "tema": ["votação em bloco", "institucional"],
+      "relator": "não identificado", "resultado": "aprovado em bloco (itens remanescentes), pelos três diretores presentes",
+      "resumo_voto": "Presidente da sessão submeteu o bloco; três falas consecutivas de voto pela aprovação dos itens remanescentes. Sem conteúdo individual de cada processo no trecho.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:40", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:45", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:01:50", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "18", "motivo": "retirado de pauta (anunciado pelo secretário)"}
+  ],
+  "limites_da_analise": ["Nomes dos diretores não aparecem na legenda deste trecho; todos registrados como não identificado.", "Itens 20 e 39 (sustentações orais) e itens 1, 2, 4, 5, 8 e 10 não estão neste vídeo/trecho.", "Minutos dos votos aproximados; trecho sem marcadores de tempo intermediários."]
+}

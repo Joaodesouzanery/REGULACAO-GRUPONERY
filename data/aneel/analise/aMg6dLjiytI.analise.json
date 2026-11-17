@@ -1,0 +1,276 @@
+{
+ "meta": {
+  "video_id": "aMg6dLjiytI",
+  "fonte": "legenda automática do YouTube (Parte 2); falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "38",
+  "data": "2019-10-15",
+  "formato": "presencial",
+  "presidente_da_sessao": "Ricardo Tili (Diretor-Geral)",
+  "diretores_presentes": [
+   "Ricardo Tili",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "38ª Reunião Pública Ordinária; este é o vídeo da Parte 2 (retomada); chamada inicial está na Parte 1, não disponível.",
+   "Quórum inferido (5 diretores) pelos nomes citados e pelo empate no item 12; sem confirmação da chamada."
+  ]
+ },
+ "itens": [
+  {
+   "id": "11",
+   "ts": "0:00:48",
+   "processo": "(não identificado)",
+   "interessado": "não identificado",
+   "assunto": "Item 11 da pauta retirado pelo diretor relator (anunciado na retomada da sessão)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado pelo relator antes do julgamento.",
+   "votos": []
+  },
+  {
+   "id": "(pauta 1)",
+   "ts": "0:01:06",
+   "processo": "48500.002087/2009-63",
+   "interessado": "Companhia de Eletricidade do Acre (Eletroacre / Energisa Eletroacre)",
+   "assunto": "Proposta de abertura de consulta pública para colher subsídios ao aprimoramento da proposta de revisão tarifária extraordinária 2019 da Eletroacre, a vigorar a partir de 13/12/2019; Eletroacre pediu RTE em substituição ao reajuste, com avaliação completa da base de remuneração regulatória",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "unanimidade: indeferido o pedido de revisão tarifária extraordinária",
+   "resumo_voto": "Relatora entende, como no caso da Ceron julgado antes, que a falta de entrega da base de dados geográficos da distribuidora (BDG) impediu validar a base de remuneração; vota por conhecer e indeferir o pedido de RTE em substituição ao reajuste de 2019.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, indefere o pedido de revisão tarifária extraordinária",
+     "ts": "0:11:00",
+     "justificativa": "ausência da BDG e inviabilidade de validar a base de remuneração, mesmo encaminhamento do caso Ceron",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:12:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:12:45",
+   "processo": "48500.004161/2017-14",
+   "interessado": "Paranaíba Transmissora de Energia S.A.",
+   "assunto": "Pedido de reconsideração contra o Despacho 4210/2017 (que negou provimento ao requerimento de reequilíbrio econômico-financeiro do contrato de concessão 7/2003); voto-vista com empate",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos",
+    "reequilíbrio econômico-financeiro"
+   ],
+   "relator": "Efrain Cruz (relator original; voto-vista de Rodrigo Limp)",
+   "resultado": "por maioria (desempate do Diretor-Geral): conhecido e provido parcialmente, com parcela de ajuste na RAP no próximo processo tarifário, R$ 2.445.749,48 a preços de junho/2019",
+   "resumo_voto": "Processo empatado após relator e voto-vista; Diretor-Geral decide. Entende que não foi imprecisão de estudo (risco do empreendedor), mas fato superveniente: resolução autorizativa da ANEEL de reforço alterou o ponto de conexão do empreendimento sem comunicação como fato relevante após o leilão; cita o parecer 189/2019 da Procuradoria; prevalece a segurança jurídica.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator original (vencido)",
+     "ts": "0:13:00",
+     "justificativa": "posição do relator original inferida pela proclamação e pelo empate; voto não lido neste trecho",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "voto-vista vencedor: conhecer e prover parcialmente",
+     "ts": "0:13:00",
+     "justificativa": "voto-vista citado pela mesa e acompanhado pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não identificado (lado do empate não dito)",
+     "ts": "0:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não identificado (lado do empate não dito)",
+     "ts": "0:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "desempata: acompanha o voto-vista de Rodrigo Limp",
+     "ts": "0:17:51",
+     "justificativa": "fato superveniente (ato da ANEEL alterou a conexão sem comunicação), segurança jurídica, transparência e correta alocação de custos; imprecisões de estudo são risco do empreendedor, mas aqui é fato superveniente reconhecido pela Procuradoria",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "(pauta 4)",
+   "ts": "0:18:46",
+   "processo": "48500.002085/2009-74",
+   "interessado": "Companhia Energética do Piauí (Cepisa / Equatorial Piauí)",
+   "assunto": "Proposta de abertura de consulta pública para revisão tarifária extraordinária 2019 da Cepisa, a vigorar de 2/12/2019, com avaliação completa da base de remuneração regulatória; sustentação oral de Fabiano Brito (Cepisa)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "sustentação oral"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "unanimidade: indeferido o pedido de revisão tarifária extraordinária",
+   "resumo_voto": "Sustentação oral da empresa pediu seguimento com consulta pública, subsidiariamente adiamento da data para o início de 2020 ou retirada de pauta. Relator: BDG apresentada, mas conciliação físico-contábil de apenas 8,7%, laudo inconsistente, fiscalização inexequível no prazo; não cabe arbitrar a base na RTE; Procuradoria (parecer 428) entende que a empresa pode pedir nova RTE para substituir o reajuste de 2020. Vota por conhecer e indeferir.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, indefere o pedido de RTE",
+     "ts": "0:32:00",
+     "justificativa": "baixa aderência entre laudo e BDG (8,7%), inconsistências e inviabilidade de fiscalizar no prazo; ônus de apresentar informações é da concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:45:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:45:39",
+   "processo": "(não identificado)",
+   "interessado": "não identificado",
+   "assunto": "Item 13 retirado de pauta",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Anunciado como retirado de pauta.",
+   "votos": []
+  },
+  {
+   "id": "(pauta 5)",
+   "ts": "0:45:47",
+   "processo": "48500.002115/2019-42",
+   "interessado": "CEB Distribuição S.A. (Distrito Federal)",
+   "assunto": "Reajuste tarifário anual 2019 da CEB Distribuição, a vigorar de 22/10/2019: efeito médio -6,79% (alta tensão -6,52%; baixa tensão -6,91%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "distribuição"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "unanimidade: homologado o reajuste, efeito médio -6,79%",
+   "resumo_voto": "Redução puxada pelo fim do pagamento da conta CCC/Conta-ACR (quitação antecipada, -5,92 p.p. em encargos) e bandeiras; tarifa residencial passa da 26ª para a 41ª posição no ranking. Sandoval Feitosa destacou a baixa adesão à tarifa social no DF e a necessidade de campanha; descontratação antecipada de térmicas a óleo em estudo.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, homologa o reajuste",
+     "ts": "0:53:59",
+     "justificativa": "redução de 6,79%, efeito da quitação antecipada da Conta-ACR e das bandeiras",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:56:29",
+     "justificativa": "destacou baixa adesão à tarifa social (cerca de 8 mil consumidores) e cobrou intensificação de campanhas pela CEB",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:00:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:00:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:00:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:01:40",
+   "processo": "(não identificado)",
+   "interessado": "não identificado",
+   "assunto": "Item 7 retirado pelo relator (informado no encerramento)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Informado no encerramento como retirado.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  "Item 11",
+  "Item 13",
+  "Item 7"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números podem estar errados (ex.: Eletroacre, Cepisa, números de processos).",
+  "Chamada de presença na Parte 1; presentes inferidos.",
+  "Item 12: a legenda não revela quem votou com o relator original e quem com o voto-vista antes do desempate; Elisa Bastos e Sandoval Feitosa registrados como não identificados; texto cita relator original Efrain Cruz e voto-vista Rodrigo Limp.",
+  "Votos de seguidores nos itens unânimes vêm da proclamação; falas individuais de acompanho sem nome na legenda; confiança media.",
+  "Números de processo e ts de abertura dos itens (pauta 1, 4, 5) são aproximados; numeração de pauta inferida.",
+  "No item CEB, o ts 0:56:29 refere-se à fala sobre tarifa social atribuída a Sandoval pela menção 'comentário do Sandoval' de colega logo depois."
+ ]
+}

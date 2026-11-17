@@ -1,0 +1,395 @@
+{
+ "meta": {
+  "video_id": "DSW6_hGH0PQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "40",
+  "data": "2018-10-30",
+  "formato": "presencial (sede da ANEEL), Parte 1",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "40ª Reunião Pública Ordinária; quórum declarado de quatro diretores; Parte 1 vai até a interrupção às 12h, com retomada às 14h30 (Parte 2 em outro vídeo).",
+   "Informes iniciais: fim das contribuições da AP 40/2018 (plano de universalização rural da Eletrobras Distribuição Piauí), CP 16/2018 prorrogada por 30 dias com a Anatel, 21 anos da Anatel, AP 44/2018 (agenda regulatória 2019-2020); aprovada a ata da 39ª reunião.",
+   "Pauta de 27 itens; ordem de julgamento com inversão (item 2 após o 3); itens 20 e 27 retirados, 12 e 15 destacados do bloco.",
+   "Item 18 (Enel/CGTF) com vista de Efrain Cruz."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:47",
+   "processo": "itens do bloco (pauta de 27 itens; números não ditos individualmente)",
+   "interessado": "vários",
+   "assunto": "Votação em bloco dos itens remanescentes da pauta; ajuste de redação no item 11 (prazo de duração dos processos punitivos na agência estadual passa a ser tratado no convênio de cooperação ANEEL-ARP, excluído o contrato de metas); itens 20 e 27 retirados do bloco e de pauta; itens 12 e 15 destacados para a pauta normal",
+   "tema": [
+    "regulação normativa",
+    "fiscalização e sanções (agências estaduais conveniadas)",
+    "institucional"
+   ],
+   "relator": "vários (não identificados)",
+   "resultado": "aprovado por unanimidade (itens remanescentes do bloco)",
+   "resumo_voto": "Diretor-Geral submeteu o bloco; cada diretor votou pela aprovação dos itens remanescentes e o Diretor-Geral proclamou a unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco, proclama unanimidade",
+     "ts": "0:05:01",
+     "justificativa": "proclamou a aprovação por unanimidade de todos os itens do bloco",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:05:58",
+   "processo": "48500.005449/2018-97 (número parcial pela legenda)",
+   "interessado": "JMM Transmissora de Energia Elétrica S.A. (contrato de concessão 5/2015; ONS)",
+   "assunto": "Pedido de medida cautelar para afastar a aplicação de descontos de RAP (parcela variável por atraso, PVA) por atraso na entrada em operação de instalações de transmissão (BA/PI)",
+   "tema": [
+    "transmissão (RAP, parcela variável por atraso)",
+    "recursos administrativos / medida cautelar",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "conhecido; mérito da cautelar negado (indeferida) por unanimidade; processo encaminhado à SCT para decisão do mérito",
+   "resumo_voto": "Relator viu fumaça do bom direito em análise perfunctória, mas não o perigo da demora: desconto era de 0,6% da RAP (cerca de R$ 1,05 mi de R$ 4 mi lançados, ~2,4% do recebível anual, parcelado em 18 meses e reversível). Precedentes citados pela empresa não são análogos. Diretoria debateu que a PVA não tem natureza de penalidade (sinal regulatório/componente de remuneração) e que o contraditório se dá na análise das excludentes pela SCT. Houve sustentação oral de Valéria de Souza Rosa (JMM).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega a cautelar; encaminha à SCT",
+     "ts": "0:06:37",
+     "justificativa": "falta o perigo da demora (0,6% da RAP, desconto reversível); precedentes não análogos; mérito e excludentes (licenciamento ambiental) à SCT",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:43:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "0:43:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:43:51",
+     "justificativa": "proclamou unanimidade: conhecer, negar a cautelar e enviar à SCT, observando que a SCT tem sido célere",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:44:27",
+   "processo": "48500.005366/2018-06 (número parcial pela legenda)",
+   "interessado": "CCEE (proposta de regras); sustentação oral de associação de comercializadores (Abraceel, grafada Abrasel/Brasilcel pela legenda)",
+   "assunto": "Abertura de audiência pública para colher subsídios sobre as regras de comercialização do mecanismo de venda de excedentes (MVE) das distribuidoras (REN 824/2018)",
+   "tema": [
+    "comercialização (CCEE, mecanismo de venda de excedentes)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: audiência pública por intercâmbio documental de 31/10 a 16/11/2018",
+   "resumo_voto": "Relator dispensou a leitura do voto após exposição técnica da SRM (Pedro Elias); propôs prazo até 23/11, reduzido para 16/11 por sugestão de Rodrigo Limp para viabilizar o MVE ainda em 2018. Ponto central em debate: quem arca com o risco de lastro de energia especial (proposta da SRM: distribuidora). Associação pediu no máximo 20 dias de contribuições.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova audiência pública (31/10 a 16/11)",
+     "ts": "0:57:20",
+     "justificativa": "prazo reduzido de 24 para 17 dias para realizar o MVE em 2018; ponto de risco de lastro vai à consulta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha, com sugestão do prazo até 16/11",
+     "ts": "0:58:30",
+     "justificativa": "sugeriu encurtar o prazo para dia 16/11 dada a complexidade menor e o fim do ano corrido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:03:11",
+     "justificativa": "proclamou unanimidade da instauração da audiência pública de 31/10 a 16/11/2018",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:03:35",
+   "processo": "48500.003992/2018-50 (número parcial pela legenda)",
+   "interessado": "Enel Brasil S.A. (CGTF - Central Geradora Termelétrica Fortaleza; Enel Distribuição Ceará; Petrobras)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para suspender exigibilidade de débitos no mercado de curto prazo associados à falta de gás natural à UTE CGTF, suspensão do contrato CGTF-Enel Ceará e cessão de sobrecontratação entre distribuidoras do grupo",
+   "tema": [
+    "comercialização (CCEE, mercado de curto prazo, exposição involuntária)",
+    "outorgas de geração (térmica a gás, PPT)",
+    "tarifas (impacto ao consumidor do Ceará)",
+    "recursos administrativos / cautelar"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista (Efrain Cruz); sem resultado na sessão",
+   "resumo_voto": "Relator: sem sigilo; cautelar prejudicada pela liminar judicial (26/10/2018 restabeleceu o gás); ANEEL não tem competência sobre a Petrobras (ANP/CADE); não há força maior; suspensão do contrato elevaria custo ao consumidor cearense (simulações da SGT); cessão entre distribuidoras do mesmo grupo daria poder de mercado. Voto: conhecer e não deferir. Houve sustentação oral de Ana Paula Pacheco (Enel Brasil). Efrain Cruz pediu vista por dúvida sobre a competência da agência.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e indefere o requerimento",
+     "ts": "1:44:49",
+     "justificativa": "sem competência sobre a Petrobras; liminar esvaziou a cautelar; risco de repassar custo ao consumidor do Ceará; cessão intragrupo daria poder de mercado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "1:57:15",
+     "justificativa": "não convencido da questão das competências da agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "1:57:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "1:57:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:57:20",
+   "processo": "48500.001858/2018-14 (número parcial pela legenda)",
+   "interessado": "Companhia Energética de Pernambuco (Celpe); auto de infração 3/2015 da ARPE",
+   "assunto": "Recurso administrativo da Celpe contra auto de infração da ARPE (multa histórica de cerca de R$ 4,9 mi por descumprimento de normas de qualidade do serviço de distribuição, exercício 2014)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, agência estadual)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: provimento parcial; multa reduzida para R$ 1.673.079,50; não conformidades 18, 19 e 20 sobrestadas para julgamento posterior",
+   "resumo_voto": "Com sustentação oral da Celpe (multa desproporcional, 834 dias entre decisões, atualização Selic). Relator acatou justificativas da NC 1 (reduzindo a multa), cancelou NC 10, 11, 12, 21 e 22 (plano de manutenção/execução parcial não prova serviço inadequado), manteve NC 3, 7, 16 e 23 e sobrestou 18, 19 e 20 (iluminação, aterramento, vazamentos) por exigir motivação mais fundamentada. Citou iniciativa de melhorar a governança com agências estaduais.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá provimento parcial",
+     "ts": "2:32:00",
+     "justificativa": "redução por abrangência na NC 1; cancela NCs 10, 11, 12, 21, 22; mantém demais; sobresta 18, 19 e 20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:32:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "2:32:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "2:32:44",
+     "justificativa": "concordou com as melhores práticas exigíveis da distribuidora; proclamou unanimidade e pendência das NCs 18, 19 e 20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:33:23",
+   "processo": "48500.004964/2018-50 (número parcial pela legenda)",
+   "interessado": "Grupo Energisa (Ceron, Eletroacre); Amazonas Energia e Boa Vista Energia (cedentes); CCEE",
+   "assunto": "Proposta de pagamento dos débitos da Ceron (Eletrobras Distribuição Rondônia) na CCEE e pedido de MCSD específico para as distribuidoras da Energisa",
+   "tema": [
+    "comercialização (CCEE, MCSD, inadimplência)",
+    "distribuição (distribuidoras designadas, Ceron, Eletroacre)",
+    "fiscalização e sanções (parcelamento de penalidades)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: provimento parcial quanto aos débitos (parcelamento de penalidades em até 6 vezes com IGPM e 1% a.m.; parcelamento de MCP e MCSD é competência do conselho da CCEE); negado o MCSD específico do grupo, com cessão de CCEARs de Boa Vista e Amazonas Energia para a Ceron em 2018; Ceron e Eletroacre podem participar de mecanismos de contratação desde que quitem ou negociem inadimplência",
+   "resumo_voto": "Mesma lógica do caso Enel: troca de contratos intragrupo daria poder de mercado; solução alternativa para a subcontratação da Ceron em 2018 via cessão de 32,55 MWmédios da Amazonas Energia e remanescente da Boa Vista. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "3:05:00",
+     "justificativa": "créditos de MCP são privados e vão à CCEE; penalidades são regulatórias (parcelamento em 6x); MCSD intragrupo nega; solução alternativa por cessão entre designadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:05:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "3:05:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:05:41",
+     "justificativa": "proclamou aprovação por unanimidade dos votantes nos termos do voto do relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:06:32",
+   "processo": "48500.004978/2018-73 (número parcial pela legenda)",
+   "interessado": "Amazonas Distribuidora de Energia S.A. (Amazonas Energia, designada)",
+   "assunto": "Reajuste tarifário anual 2018 da Amazonas Energia, a vigorar a partir de 1º/11/2018: efeito médio de 14,89% (11,78% AT; 16,78% BT)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual, componentes financeiros)",
+    "CDE e encargos setoriais (CCC)",
+    "distribuidoras designadas",
+    "transmissão (RAP)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: resolução homologatória do reajuste",
+   "resumo_voto": "Parcela A 77,72% (compra de energia +7,34 pp, encargos +1,06%, transmissão -4,94% por retirada de passivo financeiro da Amazonas GT); componentes financeiros com 11,60% (GSF; sem bandeiras por liminar); R$ 84,8 mi de sobrecontratação/exposição ago/2017-jul/2018 a reembolsar pela CCC em 2019; inadimplência setorial tratada em processo de acompanhamento das designadas.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, homologa o reajuste",
+     "ts": "3:21:30",
+     "justificativa": "tarifa cresceu 112% em dez anos contra IGPM/IPCA ~75%; financeiros pesam por ausência das bandeiras (liminar); transmissão cai por retirada de passivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:22:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:22:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:22:07",
+     "justificativa": "proclamou aprovação por unanimidade da homologação do reajuste",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:22:28",
+   "processo": "48500.004934/2018 (demais dígitos não captados) e conexos",
+   "interessado": "ABRATE (Associação Brasileira das Empresas de Transmissão de Energia Elétrica); ATE III; Vila do Conde Transmissora; Taesa",
+   "assunto": "Pedido de medida cautelar para suspender a parcela variável por indisponibilidade (PVI) decorrente de explosões de transformadores de corrente (TCs) de 500 kV",
+   "tema": [
+    "transmissão (PVI, explosões de TC)",
+    "recursos administrativos / medida cautelar",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: não conhecido por perda de objeto o pedido da ATE III (linha Marabá-Itacaiúnas c2, TVI já descontada); conhecido parcialmente o da ABRATE com suspensão da PVI até 30/11/2018 (Tucuruí-Vila do Conde c3, 2016/2017, e Serra da Mesa-Serra da Mesa 2, 10/03/2017); despacho 680/2018 ajustado para encerrar a suspensão em 30/11/2018",
+   "resumo_voto": "Relator seguiu a jurisprudência da diretoria (despachos 3035, 3747/2017, 390, 460 e 680/2018), limitou a suspensão aos eventos ainda não descontados e a 30/11/2018 (fim do GT de vida útil dos TCs do CMSE/ONS/MME) e negou suspensão para eventos futuros. Debate: um diretor questionou o nexo de causalidade entre o contrato do concessionário e o do fabricante e o risco de abrir precedentes; outros ressaltaram a preocupação sistêmica e a estabilidade regulatória; prazo de 30/11 aceito como data fatal, com aplicação automática pelo ONS depois. Representante da ABRATE complementou.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, não conhece (ATE III) e conhece parcialmente (ABRATE)",
+     "ts": "3:35:00",
+     "justificativa": "jurisprudência da diretoria; eventos ainda sem desconto; suspensão só até 30/11/2018, sem efeito para eventos futuros; mérito segue em outro processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:49:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:49:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:49:55",
+     "justificativa": "proclamou unanimidade e os termos do dispositivo do relator",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "20 — retirado do bloco e de pauta (assunto não dito)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta pela secretaria antes da votação do bloco",
+   "ts": "0:04:00"
+  },
+  {
+   "item": "27 — retirado do bloco e de pauta (assunto não dito)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta pela secretaria antes da votação do bloco",
+   "ts": "0:04:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem marcadores de falante além do início: atribuição de votos feita pela ordem usual (relator, demais diretores, Diretor-Geral por último) e pela proclamação; votos de seguidores com confiança media/baixa e ts aproximados.",
+  "Números de processo parciais ou com dígitos verificadores incertos pela legenda; nomes de entidades distorcidos (Abraceel aparece como Abrasel/Brasilcel; Neoenergia/Energisa).",
+  "Diretoria presente deduzida (quórum de quatro): André Pepitone, Sandoval Feitosa, Efrain Cruz e Rodrigo Limp; ausente não identificado (Tiago Correia é citado só em precedente).",
+  "No item 3 a proclamação diz por unanimidade dos votantes; não ficou claro se algum diretor deixou de votar.",
+  "Nos itens 15, 18 e 9 as falas de debate não têm nome claro; atribuídas ao colegiado em geral. No item 9 quem levanta dúvidas sobre o nexo de causalidade não foi identificado.",
+  "Bloco: itens individuais não ditos; só 11, 12 e 15 e os retirados 20 e 27 são mencionados; Parte 2 (pós 14h30) não coberta."
+ ]
+}

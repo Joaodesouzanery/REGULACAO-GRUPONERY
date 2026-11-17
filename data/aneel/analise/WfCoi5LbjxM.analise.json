@@ -1,0 +1,149 @@
+{
+  "meta": {"video_id": "WfCoi5LbjxM", "fonte": "legenda automática do YouTube; falantes inferidos pelo pipeline são pouco confiáveis (rótulos Mosna/Tili ignorados); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21", "data": "2019-06-18", "formato": "presencial (transmitida pela internet)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+    "diretores_presentes": ["Sandoval Feitosa", "Rodrigo Limp", "Efrain Cruz", "Elisa Bastos (chegou durante o item 1, após a votação do bloco)"],
+    "ausentes": ["André Pepitone (Diretor-Geral titular; ausência inferida pelo fato de Sandoval presidir como substituto, não declarada na legenda)"],
+    "observacoes": ["Abertura às 0:00:35; quórum de três diretores no início (Sandoval, Limp, Efrain); Elisa chegou antes do início do item 1 (cumprimentada em 0:08:35).", "Pauta de 28 itens; deliberação em bloco (exceto item 21, retirado do bloco); sustentação oral nos itens 1 (Conselho de Consumidores da Copel) e 11 (São Roque Energética); preferência para itens 6, 7 e 11.", "Encerrada às 3:08:30 do vídeo (aprox. 3h08)."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:04:20",
+      "processo": "(não identificados na legenda)", "interessado": "vários",
+      "assunto": "Deliberação em bloco dos processos da pauta com votos e atos disponibilizados desde a quinta-feira anterior, exceto o item 21 (retirado do bloco/pauta)",
+      "tema": ["institucional / pauta em bloco"],
+      "relator": "vários", "resultado": "aprovado por unanimidade (proclamação)",
+      "resumo_voto": "Proclamação do Diretor-Geral substituto: por unanimidade, aprovados os processos do bloco, com exceção do item 21.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "aprova o bloco", "ts": "0:05:00", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:05:02", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco (preside, proclama)", "ts": "0:05:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:05:30",
+      "processo": "48500.001062/2018-11 (número aproximado pela legenda)", "interessado": "Copel Distribuição S.A. (Paraná)",
+      "assunto": "Reajuste tarifário anual de 2019 da Copel Distribuição, a vigorar a partir de 24/06/2019: efeito médio 3,41% (4,32% alta tensão; 2,92% baixa tensão)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "distribuição"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologação do reajuste, fixação das TUSD/TE, receita das DIT de uso exclusivo e valor mensal de recursos da CDE (R$ 51,2 milhões) para custear descontos. Sustentação oral do presidente do Conselho de Consumidores da Copel (Ricardo Vidinich): questionou risco hidrológico, térmicas caras, usinas depreciadas, taxa de fiscalização contingenciada, ICMS. Apresentação técnica da SGT (especialista Cristiane). O relator pediu apoio dos conselhos de consumidores à pauta de desoneração tarifária (tributos ~33% da tarifa, ICMS ~26%).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova o reajuste", "ts": "0:38:00", "justificativa": "aplicação da metodologia aprovada; defende desoneração tarifária (ICMS) e atenção a térmicas caras e à contratação de fontes mais baratas", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:47:50", "justificativa": "comentou sobre PCHs/hidráulicas e térmicas caras e papel do poder concedente (atribuição de fala inferida)", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:47:50", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:47:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:48:09",
+      "processo": "48500.000303/2006 (número aproximado pela legenda)", "interessado": "São Roque Energética S.A. (UHE São Roque, Vargem e São José do Cerrito, SC)",
+      "assunto": "Pagamento do encargo de Uso de Bem Público (UBP) da UHE São Roque no período jul/2016 a dez/2017; pedido de extinção da cobrança",
+      "tema": ["outorgas de geração (hidrelétrica)", "fiscalização e sanções", "comercialização (CCEAR, MCSD)", "recursos administrativos"],
+      "relator": "Sandoval Feitosa", "resultado": "indeferido o pedido de extinção da cobrança do UBP (jul/2016 a dez/2017); unanimidade não verbalizada na proclamação",
+      "resumo_voto": "Empresa (sustentação oral) alegou que o marco do UBP (operação comercial ou início da entrega de energia) não ocorreu porque os CCEAR foram reduzidos e depois rescindidos via MCSD. Procuradoria (parecer 142/2019 e anteriores) manteve que o UBP é devido no período em que os contratos estavam vigentes. Relator indeferiu extinção da cobrança, mantendo procedimentos de cobrança em curso (valor histórico ~R$ 1,03 milhão). Debate sobre o termo inicial da cobrança, clareza contratual, coerência com a decisão sobre taxa de fiscalização, e o efeito do MCSD; o relator disse que reabrir a questão de suspensão da cobrança exigiria retirar o processo por reformatio in pejus.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, indefere o pedido de extinção da cobrança", "ts": "1:03:00", "justificativa": "alinhado ao entendimento da SCG e da Procuradoria: contratos vigentes no período; transferência de controle não afasta obrigação anterior", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "1:30:40", "justificativa": "voto traz razoabilidade, privilegia o MCSD e guarda coerência com o precedente da taxa de fiscalização (atribuição da fala inferida)", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:30:40", "justificativa": "questionou a Procuradoria sobre o efeito da rescisão na cobrança e a coerência com a decisão da taxa de fiscalização (atribuição da fala inferida)", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:30:40", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:31:02",
+      "processo": "48500.004221/2016-18 e 48500.005692/2016-43", "interessado": "Central Eólica Famosa I S.A.",
+      "assunto": "Pedido de reconsideração contra o Despacho 846/2018 (multa de 5% do investimento declarado à EPE, execução da garantia de fiel cumprimento e suspensão de 2 anos do direito de licitar), por inexecução total da usina eólica Famosa I (22,5 MW, Tibau/RN, 4º LER 2011)",
+      "tema": ["fiscalização e sanções (multa, garantia, suspensão)", "leilões (energia de reserva)", "outorgas de geração (eólica)", "recursos administrativos"],
+      "relator": "Rodrigo Limp (voto-vista de Elisa Bastos)", "resultado": "aprovado por unanimidade: conhecido e negado provimento, mantido o Despacho 846/2018",
+      "resumo_voto": "Voto-vista de Elisa Bastos acompanhou o relator: recuperação judicial do fornecedor de aerogeradores (WPS) não é excludente; usina por conta e risco do empreendedor; empresa não logrou descontratar no mecanismo competitivo (bastava elevar o prêmio); preservar reputação da ANEEL como leiloeiro; dosimetria (5%, metade do máximo de 10%) coerente com precedentes (Catanduva, Cataventos Paracuru, outro caso de 2019); Parecer PF 249/2018 dispensa prova de prejuízo para execução da garantia.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "relator, nega provimento (mantém multa e suspensão)", "ts": "1:31:30", "justificativa": "mesmo voto original apresentado na 5ª RPO de 19/02/2019, sem alteração", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "voto-vista: acompanha o relator, com argumentos adicionais", "ts": "1:31:37", "justificativa": "reputação da ANEEL como leiloeiro, dosimetria coerente com a jurisprudência e Parecer PF 249/2018", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:52:49", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:52:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "1:53:17",
+      "processo": "48500.003019/2017-18 e outros", "interessado": "Geradoras eólicas Ventos de Santa Luiza, Santa Madalena, Santa Maria, Santo Antônio, São Bento, São João, São Rafael, São Silo, Itaguaçu da Bahia, e Furnas Centrais Elétricas",
+      "assunto": "Pedido de reconsideração com efeito suspensivo contra os Despachos 1.281 a 1.830/2018 (multas e suspensão de contratar/licitar); pedido de prazo adicional para o voto-vista",
+      "tema": ["fiscalização e sanções", "outorgas de geração (eólica)", "recursos administrativos", "leilões"],
+      "relator": "não identificado na legenda", "resultado": "aprovada a postergação da apresentação do voto-vista por até oito sessões",
+      "resumo_voto": "A diretora com o voto-vista (Elisa Bastos) informou que na semana anterior os agentes protocolaram fatos novos e solicitou prazo para avaliá-los; previu trazer o processo até o fim de julho, sem usar as oito sessões. Aprovado.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "pede prazo adicional para voto-vista (até oito sessões)", "ts": "1:54:26", "justificativa": "novos fatos protocolados na semana anterior", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova a postergação (proclama)", "ts": "1:55:30", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "aprova a postergação (pela proclamação)", "ts": "1:55:30", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "aprova a postergação (pela proclamação)", "ts": "1:55:30", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:55:38",
+      "processo": "48500.006211/2018-89", "interessado": "Energisa Nova Friburgo Distribuidora de Energia S.A. (RJ)",
+      "assunto": "Reajuste tarifário anual de 2019, a vigorar a partir de 22/06/2019: efeito médio 9,26% (9,48% alta; 9,21% baixa tensão)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "distribuição"],
+      "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologação do reajuste, TUSD/TE e recursos da CDE. Apresentação da SGT: custo de energia da supridora (Enel Rio, perdas elevadas) pesa na tarifa; encargos -1,25%, componentes financeiros 6,79%; tarifa B1 sobe da 21ª para a 7ª posição.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "relator, aprova o reajuste", "ts": "2:04:30", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (preside, proclama)", "ts": "2:05:16", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:05:20", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:05:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:05:35",
+      "processo": "48500.006212/2018-32", "interessado": "Energisa Minas Gerais Distribuidora de Energia S.A.",
+      "assunto": "Reajuste tarifário anual de 2019, a vigorar a partir de 22/06/2019: efeito médio 6,73% (7,41% alta; 6,55% baixa tensão); inclui homologação da tarifa de energia da geração distribuída (Geradora Zona da Mata)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "CDE e encargos setoriais", "geração distribuída"],
+      "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Componentes financeiros 8,63%; liquidação antecipada da CCC e fim de CDE-decreto reduzem encargos (-2,41%); variação da tarifa nos últimos 10 anos (47,9%) bem abaixo dos índices de inflação.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "relator, aprova o reajuste", "ts": "2:13:30", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (preside, proclama)", "ts": "2:14:35", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:14:40", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:14:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:15:07",
+      "processo": "48500.002891/2018 (número aproximado pela legenda)", "interessado": "ONS / usinas hidrelétricas acima de 30 MW (UHEs Tibagi e Curucaca fizeram sustentação oral)",
+      "assunto": "Prorrogação do prazo de pedido de vista no resultado da Audiência Pública 41/2018: revisão do Submódulo 2.7 dos Procedimentos de Rede (flexibilização da modalidade de operação de UHEs e requisitos para modalidade tipo 2)",
+      "tema": ["regulação normativa (audiência pública, Procedimentos de Rede)", "outorgas de geração (hidrelétrica)", "recursos administrativos"],
+      "relator": "Sandoval Feitosa (voto-vista de Efrain Cruz pendente)", "resultado": "aprovada a postergação do voto-vista por até oito sessões",
+      "resumo_voto": "Efrain Cruz havia pedido vista na 4ª reunião do ano; informou visita técnica nas usinas Tibagi e Curucaca (25 a 28/06) e pediu até oito sessões, comprometendo-se a não usar todo o prazo; citou segurança jurídica, previsibilidade e vinculação ao edital.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "pede prazo adicional para voto-vista (até oito sessões)", "ts": "2:16:00", "justificativa": "avaliar detalhes das propostas e visitar usinas afetadas; segurança jurídica e previsibilidade", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova a postergação (proclama)", "ts": "2:17:23", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "aprova a postergação (pela proclamação)", "ts": "2:17:23", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "aprova a postergação (pela proclamação)", "ts": "2:17:23", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:17:40",
+      "processo": "48500.006254/2018-64 (número aproximado pela legenda)", "interessado": "SGT e SRM (distribuidoras de energia, consumidores, Light)",
+      "assunto": "Abertura de audiência pública (intercâmbio documental, 45 dias, de 21/06 a 04/08/2019) para aprimorar o Módulo 4 e o Submódulo 6.1 do PRORET: CVA, sobrecontratação, exposição ao mercado de curto prazo, risco hidrológico no PMIX, glosa de perdas, mecanismo de venda de excedentes",
+      "tema": ["regulação normativa (audiência pública, AIR, PRORET)", "tarifas e revisão tarifária (CVA, componentes financeiros)", "comercialização (mercado de curto prazo, MVE)", "distribuição"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relatora destacou AIR 1/2019, nota técnica 73 e complementar 113, previsão de AIR ex post em quatro anos (módulos 3 e 4 em conjunto) e monitoramento mensal dos componentes financeiros; manteve a regra de sazonalização da glosa de perdas (contra pleito da Light); proposta de incluir risco hidrológico no PMIX para sobrecontratação voluntária e glosa de perdas. Sandoval comentou que a ANEEL busca o valor exato de cobertura, sem onerar consumidores nem sufocar distribuidoras.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova a audiência pública", "ts": "2:18:30", "justificativa": "aprimoramento de metodologia com base em AIR, consolidação de normas supervenientes e correção de incentivos", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (preside, proclama)", "ts": "3:07:11", "justificativa": "importância da parcela A na tarifa; cobertura exata, nem excessiva nem insuficiente", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:07:10", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:07:10", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "21", "assunto": "Item retirado do bloco e de pauta (assunto não identificado)"},
+    {"id": "8, 9, 10, 12, 13", "assunto": "Itens citados na abertura como retirados de pauta (legenda confusa; não confirmado quais e por quê)"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática e falantes inferidos errados (rótulos Fernando Mosna e Ricardo Tili não correspondem a diretores presentes em 2019; ignorados). Presentes: Sandoval Feitosa, Rodrigo Limp, Efrain Cruz e Elisa Bastos (a legenda grafa Luísa/Eliza Basto Silva e Franklin/Efraim).",
+    "André Pepitone (Diretor-Geral) não aparece; ausência inferida pelo exercício de Sandoval como DG substituto, não declarada.",
+    "Itens do bloco e os processos do bloco não identificados na legenda; números de processo dos itens 1, 11, 4 e 5 aproximados pela legenda; item 7 sem relator identificado.",
+    "Votos de seguidores baseados na proclamação; falas de comentário nos itens 1 e 11 sem atribuição segura (confiança baixa). No item 11 a proclamação diz apenas decidiu indeferir, sem dizer por unanimidade.",
+    "Ordem de itens segue a ordem de julgamento fixada pela presidência (1, 11, 6, 7, 2, 3, 4, 5); os ids correspondem aos números de pauta ditos pelo secretário.",
+    "Interlocutores externos citados: Ricardo Vidinich (Conselho de Consumidores da Copel), procurador-geral Luiz Eduardo (PF/ANEEL), advogada da São Roque."
+  ]
+}

@@ -1,0 +1,471 @@
+{
+ "meta": {
+  "video_id": "tnSPvVE2nTM",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante do .md não confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46",
+  "data": "2018-12-11",
+  "formato": "presencial (Parte 1 do vídeo)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [
+   "Elisa Bastos (posse às 15h do mesmo dia, não participou desta parte)"
+  ],
+  "observacoes": [
+   "46ª Reunião Pública Ordinária de 2018; quórum de quatro diretores declarado na abertura.",
+   "Pauta de 38 itens: itens 14 a 38 em bloco aprovados por unanimidade; itens 5, 8 e 10 retirados; sustentação oral nos itens 11 e 13; preferência para itens 2, 3 e 11.",
+   "Ordem de julgamento anunciada: 11, 1, 4, 6, 7, 9, 12, 13, 3 e 2; na prática o item 1 foi chamado primeiro por questão técnica.",
+   "Esta Parte 1 termina com a suspensão da reunião às 4:16:03 (pedido de vista de Rodrigo Limp no item 13) para retomar às 17h; itens 3 e 2 ficam para a Parte 2.",
+   "Abertura: informes sobre posse de Elisa Bastos, contrato de concessão de Roraima com a Oliveira Energia, 3ª Semana da Energia da Olade (Montevidéu); homenagem a André Pepitone entre as 100 personalidades influentes do setor."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 14-38",
+   "ts": "0:05:29",
+   "processo": "itens 14 a 38 da pauta (em bloco; processos não detalhados na reunião)",
+   "interessado": "vários",
+   "assunto": "Aprovação em bloco dos itens 14 a 38 da pauta da 46ª RPO, sem itens destacados nem retirados do bloco; votos e atos disponibilizados desde a quinta-feira anterior",
+   "tema": [
+    "bloco de itens de pauta"
+   ],
+   "relator": "vários (não declarados)",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Todos os diretores votam pela aprovação integral dos itens do bloco; o Diretor-Geral proclama a unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:05:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:05:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:05:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:05:41",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:06:12",
+   "processo": "48500.004975/2018-30",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA) - distribuidora, cerca de 205 mil unidades consumidoras",
+   "assunto": "Reajuste tarifário anual de 2018 da CEA, a vigorar a partir da publicação da resolução (a tarifa vinha mantida desde 30/11/2018 por medida cautelar da RPO 44)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidora CEA / Amapá",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Homologa reajuste com efeito médio de 4,60% (2,22% alta tensão; 5,35% baixa tensão); fixa tarifas TUSD/TE; CDE uso mensal R$ 180.234 a ser repassado pela CCEE; difere como componente financeiro do processo de 2019 (atualizado pela Selic) a receita não auferida entre 30/11/2018 e a publicação; posterga para o próximo processo tarifário a validação dos processos de 2013 e 2014 (UHE Coaracy Nunes) até a conclusão da fiscalização do reprocessamento da CCC.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:22:54",
+     "justificativa": "reajuste coerente com a regulação; destaca CVA em processamento de energia e tarifa residencial acima de IGPM/IPCA em 10 anos; aguardar fiscalização da CCC 2009-2016 para ajustes da CVA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:27",
+     "confianca": "media",
+     "justificativa": "sem fala individual registrada; acompanha conforme proclamação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:28:35",
+   "processo": "48500.004106/2018-13 (legenda: 48.500 41 06/2018)",
+   "interessado": "Companhia de Energias Renováveis (CER; grafia da legenda: «Sé/Ser») - parques eólicos Laranjeiras 3 e Laranjeiras 9 (BA); sustentação oral de Franciele Bobinotti",
+   "assunto": "Recurso administrativo contra o Despacho SRT 1873/2018, que indeferiu a implantação em caráter provisório de arranjo em barra simples no setor de 230 kV da SE Laranjeiras (conexão dos parques eólicos Laranjeiras 3 e 9), em desacordo com o submódulo 2.3 dos Procedimentos de Rede rev. 2016.12",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos",
+    "regulação normativa (procedimentos de rede)",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado (proclamação do Diretor-Geral; unanimidade não dita expressamente)",
+   "unanime": null,
+   "resumo_voto": "Conhece do recurso e dá provimento para autorizar em caráter provisório a operação da SE Laranjeiras 230 kV em barra simples, com prazo de 12 meses a contar da ciência da decisão para adaptar-se ao arranjo de barra principal e transferência com evolução para barra dupla com disjuntor simples a quatro chaves; no debate foi consignado que, havendo novo acessante, a evolução para barra dupla é responsabilidade da CER e os custos de compartilhamento são do novo acessante.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:46:03",
+     "justificativa": "segurança regulatória e jurídica; contratação anterior à mudança do procedimento (rev. 2016.12); isonomia com precedentes EDP Renováveis e Chesf; subestação de uso exclusivo; OPS/ONS sem óbice técnico; obras adiantadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:15",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável; houve debate de dúvidas sobre o arranjo definitivo e a contagem dos 12 meses, sem divergência registrada"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:08:01",
+   "processo": "48500.002884/2018-60",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (Coelba); São Pedro Transmissora de Energia; usina termelétrica a biomassa (nome da legenda incerto)",
+   "assunto": "Requerimento da Coelba para realizar chamada pública de contratação de energia na modalidade geração distribuída (art. 15 do Decreto 5.163/2004; Portaria MME 65/2018) para a região oeste da Bahia; item retirado de pauta na RPO 44 para consulta à Procuradoria (Parecer 532/2018)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "comercialização (CCEE, PLD, contratos)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "distribuidora Coelba / oeste da Bahia"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Autoriza a Coelba a realizar chamada pública de GD por 2 anos, prorrogável por igual período, com fundamentação técnica e econômica obrigatória (fonte, ponto de entrega, prazo); determina processos de fiscalização da SFF para apurar responsabilidades da Coelba no atendimento da região oeste da Bahia, acompanhar ações da Coelba e a implantação do reforço (2º transformador SE Rio Grande 2) pela São Pedro Transmissora; impacto estimado de +1,29% na tarifa da Coelba.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:38:31",
+     "justificativa": "ANEEL pode e deve analisar tecnicamente a chamada pública (parecer da PF); solução paliativa por prazo limitado até o 2º transformador da SE Rio Grande 2; risco de corte de carga; impacto tarifário de 1,29%; Coelba teria postergado investimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:08",
+     "confianca": "baixa",
+     "justificativa": "elogiado por colega como tendo destacado a missão da agência e o impacto tarifário; proclamou o resultado (atribuição da fala pela legenda, confiança baixa)"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:08",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:53",
+     "confianca": "baixa",
+     "justificativa": "elogiou o voto; levantou dúvida sobre prorrogação (igual período x a critério da distribuidora); na RPO 44 havia questionado competência da ANEEL para autorizar chamada pública já prevista no decreto (atribuição pela legenda, confiança baixa)"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:50:32",
+   "processo": "48500.000297/2018-36",
+   "interessado": "Eletrobras / distribuidoras do SIN; Itaipu, Angra 1 e Angra 2; apresentação técnica de Fabiana Faria (SRG/SGT)",
+   "assunto": "Resultado da Audiência Pública 33/2018: submódulo 12.6 dos Procedimentos de Regulação Tarifária (Proret), metodologia de cotas-partes de Itaipu e Angra 1 e 2",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "comercialização (CCEE, PLD, contratos)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Aprova o submódulo 12.6 do Proret (cotas-partes de Itaipu e Angra 1 e 2), revoga a REN 331/2008 e altera a REN 530/2012 retirando o que trata de Angra; 19 contribuições de 6 interessados (9 aceitas ou parcialmente aceitas, cerca de 47%); cotas-partes publicadas até 30/11 com antecedência de 8 anos e regra de contingência se a Eletrobras não enviar dados.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:00:26",
+     "justificativa": "processo maduro; dispensou leitura do voto após a apresentação técnica; aprova a minuta de resolução normativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:02:34",
+   "processo": "48500.002309/2018-67",
+   "interessado": "SRD; distribuidoras (medição e leitura); apresentação técnica da SRD (Davi, nome parcial na legenda)",
+   "assunto": "Abertura da 2ª fase da Audiência Pública 28/2018 (intercâmbio documental de 13/12/2018 a 11/02/2019, 60 dias) para a revisão do módulo 5 do Prodist e dos dispositivos de medição e leitura da REN 414/2010; processo redistribuído a Sandoval após fim do mandato de Tiago Correia",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição (qualidade, medição, leitura, impedimento de acesso)",
+    "consumidor"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Instaura a segunda fase da AP 28/2018 por intercâmbio documental, 60 dias, para colher subsídios sobre a nova redação do módulo 5 do Prodist e da REN 414/2010 (autoleitura ampliada ao grupo B, fim do faturamento pelo mínimo no impedimento de acesso, requisitos de medição iguais para livre e cativo, acúmulo de faturas de baixo valor).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:14:06",
+     "justificativa": "regulamenta práticas existentes (autoleitura, acúmulo de fatura de baixo consumo); incentivo à distribuidora no impedimento de acesso (ajuste só por 3 meses); simplificação dos textos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação; 'acompanho relator' dito na mesa)",
+     "ts": "2:21:17",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação; 'acompanho relator' dito na mesa)",
+     "ts": "2:16:00",
+     "confianca": "baixa",
+     "justificativa": "comentou a modelagem de AIR da agência e elogiou a delimitação do tema (fala atribuída por contexto)"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação; 'acompanho relator' dito na mesa)",
+     "ts": "2:21:17",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:22:00",
+   "processo": "48500.003259/2003-04 (legenda: 32 59/200304)",
+   "interessado": "Centrais Elétricas do Pará (Celpa); EDP (UHE São Manoel, gleba São Benedito); MME",
+   "assunto": "Abertura de audiência pública (14/12/2018 a 28/01/2019, 45 dias, intercâmbio documental) sobre a revisão do plano de universalização rural da Celpa",
+   "tema": [
+    "distribuição (universalização rural, Luz para Todos)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "unanime": true,
+   "resumo_voto": "Instaura a AP por 45 dias para subsidiar a revisão do plano de universalização rural da Celpa: meta proposta pela SRD de 64.616 ligações por rede convencional em 2019 a 2022; para 39 municípios com sistemas de geração, ano limite provisório de 2020 e cadastro até 30/06/2020; pedidos de prazo maior da Celpa (Marajó, Baixo Tocantins, Calha Norte) a serem apresentados na audiência.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:32:05",
+     "justificativa": "reconhece dificuldades logísticas da região norte; abre audiência para a sociedade do Pará se manifestar; postergação do ano limite não prejudica quem antecipa investimento (Res. 414)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:39",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:39",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:39",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:33:13",
+   "processo": "48500.003131/2017-91 e outros",
+   "interessado": "Chesf (Companhia Hidro Elétrica do São Francisco); contratos de concessão de transmissão 05/2007, 15/2012, 18/2011 e 19/2011; MME",
+   "assunto": "Pedidos de reconsideração da Chesf contra os Despachos 4279, 4280, 4281 e 4282/2017, que encaminharam ao MME proposta de caducidade de quatro contratos de concessão de transmissão (licenciamento ambiental, incapacidade econômico-financeira, ausência de plano de recuperação de cronograma)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos",
+    "licenciamento ambiental"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "reconsideração conhecida e negada; mantida a proposta de caducidade ao MME (unanimidade proclamada)",
+   "unanime": true,
+   "resumo_voto": "Conhece dos pedidos e nega provimento, mantendo na íntegra os despachos; risco de licenciamento é da concessionária conforme editais; contratos de 2007 com atraso superior a 8 anos; Chesf não apresentou plano de recuperação nem demonstrou garantias financeiras; relevância sistêmica atestada por ONS e EPE; sem quebra de isonomia com a Transnorte; execução das garantias em processo próprio (48500.006470/2017).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:54:52",
+     "justificativa": "descumprimento: prazos muito além do razoável, risco de licenciamento é da transmissora, falta de plano de recuperação, incapacidade financeira, importância sistêmica; nova licitação é a alternativa mais eficaz",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:25",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável; comentário de acompanhamento da gestão de contratos atribuído a um diretor sem identificação clara"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:25",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável; comentário de acompanhamento da gestão de contratos atribuído a um diretor sem identificação clara"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:25",
+     "confianca": "media",
+     "justificativa": "sem fala individual identificável; comentário de acompanhamento da gestão de contratos atribuído a um diretor sem identificação clara"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:57:12",
+   "processo": "48500.003992/2018-50",
+   "interessado": "Enel Brasil (CGTF - Central Geradora Termelétrica Fortaleza); Enel Distribuição Ceará (Coelce); Petrobras; CCEE; consumidores. Menção a inquérito do Cade e MS na 2ª Vara Federal do DF",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar da Enel Brasil para suspender a exigibilidade de débitos no MCP associados à falta de gás natural na CGTF (PPT), restabelecer o suprimento pela Petrobras e suspender o contrato com a Coelce; voto-vista de Efrain Cruz; novo pedido de vista de Rodrigo Limp",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "Programa Prioritário de Termeletricidade (PPT) / gás natural",
+    "recursos administrativos",
+    "institucional/competência ANEEL x ANP"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista de Rodrigo Limp; suspensa a reunião para retomar às 17h (julgamento não concluído nesta parte)",
+   "unanime": null,
+   "resumo_voto": "Relator original (Sandoval) votou antes pelo indeferimento por dúvida sobre a competência originária da ANEEL para determinar à Petrobras o restabelecimento do gás. Voto-vista de Efrain Cruz: em cautelar, CGTF deve recolher imediatamente a parte incontroversa (R$ 95 milhões de R$ 321 milhões inadimplidos até o CVU), Petrobras deve restabelecer o suprimento no âmbito do PPT pelo preço da Portaria 234/2002, envio de cópias à ANP, TCU, MPF, Cade e MME. Procurador-geral registrou não identificar competência da ANEEL para determinar o fornecimento e que a Petrobras não foi ouvida. Rodrigo Limp pediu vista ao final.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator; mantém o voto original (indeferimento)",
+     "ts": "3:34:18",
+     "justificativa": "dúvida sobre a competência originária da ANEEL para determinar à Petrobras o restabelecimento do fornecimento; questão contratual entre as empresas; Petrobras sujeita à regulação da ANP e ao MME; sugeriu dissociar cautelar e mérito; reafirmou o voto original na votação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: conhece e determina em cautelar (recolhimento do incontroverso, restabelecimento do gás pela Petrobras, cópias a ANP, TCU, MPF, Cade e MME)",
+     "ts": "3:06:17",
+     "justificativa": "ANEEL é guardiã dos contratos e da modicidade; PPT é política pública federal; resolução unilateral da Petrobras é nula; ANEEL tem competência (art. 3º, VII e IX da Lei 9.427/96); decidir em cautelar não prejudica o mérito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "pede vista",
+     "ts": "4:16:03",
+     "justificativa": "concorda com o mérito do PPT e com o voto-vista nos pontos de inadimplência e envio a órgãos, mas quer consulta formal à Procuradoria sobre a competência e sobre julgar só a cautelar; fala atribuída por contexto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "3:39:02",
+     "justificativa": "Diretor-Geral conduziu o debate; citado por colegas como defensor de que o PPT é política pública federal; fala sobre a experiência como coordenador do PPT em 2000 atribuída a ele por contexto (baixa confiança)",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "5",
+   "relator": "não declarado",
+   "motivo": "retirado de pauta (motivo não dito na leitura da ordem)",
+   "ts": "0:04:24"
+  },
+  {
+   "item": "8",
+   "relator": "não declarado",
+   "motivo": "retirado de pauta (motivo não dito)",
+   "ts": "0:04:24"
+  },
+  {
+   "item": "10",
+   "relator": "não declarado",
+   "motivo": "retirado de pauta (motivo não dito)",
+   "ts": "0:04:24"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com nomes e números distorcidos; números de processo reconstruídos da legenda podem estar parcialmente errados.",
+  "Rótulos de falante do .md (ex.: Gentil Nogueira, Ricardo Tili) não correspondem aos presentes; presentes inferidos da fala: André Pepitone (DG), Sandoval Feitosa, Efrain Cruz e Rodrigo Limp (relator no item 12).",
+  "Votos de seguidores foram atribuídos pela proclamação do Diretor-Geral; sem fala individual ouvida, confiança media; ts aproximados.",
+  "Atribuição de falas em debate (itens 4, 7 e 13) a Rodrigo Limp, André Pepitone e Sandoval Feitosa é por contexto, confiança baixa em alguns pontos; quem exatamente fez certas falas não ficou claro.",
+  "Item 11: resultado proclamado como aprovado do dispositivo, sem a palavra unanimidade; item 13 não teve resultado final (vista).",
+  "Itens retirados 5, 8 e 10 e os itens do bloco 14 a 38 não têm detalhes na transcrição; ts de retirados é aproximado.",
+  "Itens 3 e 2 (e a retomada às 17h) estão na Parte 2 do vídeo, fora desta análise.",
+  "Nome de ex-diretores citados em item 7 e 12 (Tiago Correia; ex-relator do item 12, grafia incerta) não votam.",
+  "Ts de itens estimado a partir do texto cumulativo da legenda."
+ ]
+}

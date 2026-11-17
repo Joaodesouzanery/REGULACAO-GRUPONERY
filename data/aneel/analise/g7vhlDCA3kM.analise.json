@@ -1,0 +1,25 @@
+{
+  "meta": {"video_id": "g7vhlDCA3kM", "fonte": "legenda automática do YouTube; transcrição curta e truncada (cerca de 1,6 mil caracteres)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10", "data": "2018-04-03", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo é o bloco da pauta, itens 7 a 37, da 10ª Reunião Pública Ordinária. Abertura com quórum de três diretores; ata da 9ª reunião aprovada sem observações.", "Informado: nenhum processo retirado de pauta; item 18 destacado do bloco; sustentação oral prevista para os itens 1, 2, 3 e 18; ordem: bloco, depois itens 11, 12, 13, 18 e 6.", "A transcrição termina na votação do bloco, sem nomes de diretores nem proclamação final."]
+  },
+  "itens": [
+    {
+      "id": "7-37", "ts": "0:02:30",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de processos da pauta (itens 7 a 37, exceto o item 18 destacado; a legenda cita também o item 8 como exceção, incerto), submetido a votação em bloco",
+      "tema": ["regulação normativa"],
+      "relator": "não identificado", "resultado": "aprovado (votos pela aprovação do bloco; proclamação final não aparece na transcrição)",
+      "resumo_voto": "Nenhum destaque adicional pedido pelos diretores; os diretores votaram pela aprovação dos itens remanescentes do bloco. Conteúdo individual dos processos não consta da transcrição.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:30", "justificativa": "votação do bloco sem destaques", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição truncada: sem nomes de diretores, relatores ou números de processo; votos atribuídos como «não identificado».", "Quórum de três diretores informado na abertura, mas nomes não ditos; diretores_presentes vazio.", "Item 18 foi destacado do bloco e não aparece deliberado neste trecho; contradição na legenda sobre o item 8.", "Minuto aproximado."]
+}

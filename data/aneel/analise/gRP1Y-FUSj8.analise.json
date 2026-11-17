@@ -1,0 +1,548 @@
+{
+ "meta": {
+  "video_id": "gRP1Y-FUSj8",
+  "fonte": "legenda automática do YouTube; sem marcadores intermediários no .md (ts obtidos de transcricoes/gRP1Y-FUSj8.json); falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "3",
+  "data": "2021-02-02",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "3ª Reunião Pública Ordinária de 2021; pauta de 32 itens, itens 11 a 32 em bloco; itens 3, 6, 9 e 23 retirados de pauta.",
+   "Encerrada ~4:10:20 do vídeo; sessão com pausa para almoço.",
+   "Item 10 (PCH Divisa) terminou com pedido de vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "ata",
+   "ts": "0:03:21",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da 2ª Reunião Pública Ordinária de 2021",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "Aprovada",
+   "resumo_voto": "Ata aprovada pelos diretores; Sandoval Feitosa registrou aprovação após falha de áudio.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova a ata",
+     "ts": "0:04:20",
+     "justificativa": "Declarou aprovação após problema de internet/microfone.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova a ata",
+     "ts": "0:03:50",
+     "justificativa": "Aprovação verbal ouvida de forma incompleta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova a ata",
+     "ts": "0:04:00",
+     "justificativa": "Aprovação verbal ouvida de forma incompleta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova a ata",
+     "ts": "0:03:40",
+     "justificativa": "Aprovação verbal (primeira a manifestar).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova a ata (proclama)",
+     "ts": "0:04:33",
+     "justificativa": "Presidiu e declarou a ata aprovada.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "ref-CP13",
+   "ts": "0:05:10",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Referendo da prorrogação do prazo da Consulta Pública 13/2021 (classificação das instalações e condições de acesso e conexão ao sistema de transmissão) de 01/02 para 17/02/2021",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "transmissão"
+   ],
+   "relator": "",
+   "resultado": "Informe/referendo da prorrogação",
+   "resumo_voto": "Informado que a prorrogação foi aprovada com a consulta aberta e que bastava o referendo; sem votação nominal individual.",
+   "votos": [],
+   "unanime": null
+  },
+  {
+   "id": "bloco",
+   "ts": "0:06:16",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Itens em bloco da pauta (itens 11 a 32, exceto retirados 3, 6, 9 e 23); itens 3, 6, 9 e 23 retirados de pauta",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "",
+   "resultado": "Aprovados em bloco",
+   "resumo_voto": "Pauta com 32 itens; itens 11 a 32 em bloco. Votação em bloco: todos aprovaram; Diretor-Geral proclamou a aprovação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "justificativa": "Aprovou o bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:07:22",
+     "justificativa": "Aprovou o bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:07:25",
+     "justificativa": "Aprovou o bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:07:30",
+     "justificativa": "Aprovou os itens remanescentes do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:07:33",
+     "justificativa": "Proclamou a aprovação.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "1",
+   "ts": "0:07:49",
+   "processo": "48500.004623/2020-07 e 48500.004778/2020-35 (numeração conforme legenda)",
+   "interessado": "Energisa Borborema Distribuidora de Energia S.A. (Paraíba)",
+   "assunto": "Resultado da 5ª Revisão Tarifária Periódica da Energisa Borborema, a vigorar de 04/02/2021, e limites de DEC e FEC para 2022-2025, após CP 65/2020 e audiência pública. Efeito médio 5,21% (8,61% alta tensão; 4,06% baixa tensão).",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "distribuição e qualidade (DEC/FEC)",
+    "transmissão (custo)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade, com inclusão no dispositivo dos limites de DEC e FEC",
+   "resumo_voto": "Relator aprova o resultado da RTP com efeito médio de 5,21% e comenta o peso de encargos setoriais, transmissão (RAP de R$ 27,6 bi para R$ 34,99 bi) e geração. Procuradoria viu presunção de legitimidade. Debate: Efrain Cruz e outros defendem PCH/CGH e geração distribuída como alternativa; André Pepitone defende a MP 998.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:28:20",
+     "justificativa": "Aprovou o resultado da 5ª RTP (5,21% médio; 8,61% AT; 4,06% BT), fixou tarifas, componentes financeiros, Fator X, perdas sem trajetória e acrescentou limites de DEC e FEC.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:01:15",
+     "justificativa": "Acompanhou o relator (falas de comentário não atribuíveis com certeza).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:01:12",
+     "justificativa": "Concordou com o relator; defendeu PCHs e CGHs próximas à carga e geração distribuída para modicidade tarifária (inferido do trecho: «agora faz parte desse colegiado»... referindo-se a Hélvio Guerra ex-MME).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:01:18",
+     "justificativa": "Acompanhou o relator; tema de planejamento e relação com o MME (atribuição da fala incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:01:29",
+     "justificativa": "Comentou escalada tarifária (transmissão, IGP-M 23,5%, geração) e a MP 998; proclamou a aprovação por unanimidade.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true,
+   "sustentacao_oral": []
+  },
+  {
+   "id": "2",
+   "ts": "1:02:02",
+   "processo": "48500.004982/2020-56 (legenda)",
+   "interessado": "Consumidores; ABRACE; FIESP; distribuidoras; CCEE",
+   "assunto": "Resultado da CP 72/2020 (orçamento e cotas anuais da CDE 2021) e adequação dos submódulos 7.1 e 7.2 do PRORET para criar componentes tarifários do encargo CDE Covid (conta-Covid); cota provisória da CDE para fevereiro/2021 (R$ 1,903 bi)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)",
+    "sustentação oral",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "Aprovado por unanimidade: alteração dos submódulos 7.1 e 7.2 do PRORET e cota provisória de fevereiro (cerca de R$ 1,903 bi)",
+   "resumo_voto": "Relator traz proposta de cota provisória para fevereiro enquanto a MP 998 não é votada e altera o PRORET para criar componentes tarifários do encargo CDE Covid. Sustentações orais da ABRACE (Paulo Pedrosa e Felipe Soares) e da FIESP (Lucas Fernandes) questionaram base legal do encargo CDE Covid com a caducidade da MP 950. Procuradoria: ato jurídico perfeito, legitimidade presumida.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:46:50",
+     "justificativa": "Votou pela alteração dos submódulos 7.1 e 7.2 do PRORET e pela cota provisória de fevereiro/2021.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "justificativa": "Concordou com o relator; destacou que a desoneração do subsídio rural reduz o orçamento da CDE.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:47:45",
+     "justificativa": "Acompanhou; elogiada pelo relator como condutora da conta-Covid.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:50",
+     "justificativa": "Acompanhou o relator (pela proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:47:58",
+     "justificativa": "Proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true,
+   "sustentacao_oral": [
+    "Paulo Pedrosa e Felipe Soares (ABRACE)",
+    "Lucas Fernandes (FIESP)"
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:48:52",
+   "processo": "48500.005022/2019-59 (legenda; incerto)",
+   "interessado": "Grupo Eletrobras; Furnas; usinas hidrelétricas cotistas (Lei 12.783/2013)",
+   "assunto": "Resultado da CP 43/2019: revisão do padrão de qualidade do serviço de geração de usinas hidrelétricas cotistas (REN 541/2013); referência de TEIFA e IP (contrato de concessão x garantia física do MME)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "outorgas de geração (hidrelétrica)",
+    "voto-vista"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade: acompanhar o relator e determinar que a SRG inclua na próxima agenda regulatória cronograma para estudos de novos índices de referência",
+   "resumo_voto": "Voto-vista de Hélvio Guerra acompanha o relator (usar o valor do contrato de concessão; manter limite de 10% para usinas não despachadas centralizadamente) e acrescenta determinação à SRG sobre agenda regulatória. Relator acolheu o acréscimo.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha o relator com acréscimo",
+     "ts": "2:07:20",
+     "justificativa": "Pediu vista em 17/11/2020; defende a referência do contrato de concessão por segurança jurídica e propõe estudo de novos índices TEIFA/IP.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, mantém o voto e acompanha o voto-vista",
+     "ts": "2:11:55",
+     "justificativa": "Manteve o voto e acolheu o acréscimo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:12:00",
+     "justificativa": "Acompanhou o voto-vista (proclamação de unanimidade).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:12:00",
+     "justificativa": "Acompanhou o voto-vista (proclamação de unanimidade).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (proclama)",
+     "ts": "2:12:02",
+     "justificativa": "Registrou ressalva sobre Furnas (dados) e proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "5",
+   "ts": "2:12:36",
+   "processo": "48500.006218/2017-10 (legenda)",
+   "interessado": "Usinas eólicas (apuração de ressarcimento, contratação regulada e energia de reserva); decisão judicial do TRF",
+   "assunto": "Apuração de ressarcimento na contratação de energia no ambiente regulado e de reserva relativo a usinas eólicas (suspensa pelo Despacho 1303/2019); CP 34/2019; voto-vista de Efrain Cruz propõe devolver o processo para novo sorteio de relator",
+   "tema": [
+    "comercialização (contratos, ressarcimento)",
+    "geração eólica",
+    "voto-vista",
+    "regulação normativa"
+   ],
+   "relator": "Cristiano Vieira da Silva (ex-diretor substituto, fora da lista); voto-vista de Efrain Cruz",
+   "resultado": "Por maioria: acolhido o voto-vista de Efrain Cruz (devolver para novo sorteio e tratar na norma); vencido o voto do relator original Cristiano Vieira da Silva (ausente do colegiado)",
+   "resumo_voto": "Cristiano propunha retomar apuração com metodologia da CCEE em 30 dias; Efrain, em vista, defende resolver tudo na norma, com decisão do TRF dando 60 dias. Hélvio Guerra não votou (ocupa a cadeira do relator original).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista (vencedor): devolver para sorteio",
+     "ts": "2:13:20",
+     "justificativa": "Fato novo (TRF) torna prejudicial a vista; processo deve ser sorteado para elaborar norma e depois ratear.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:27:30",
+     "justificativa": "Disse que ressarcimento depende de regra; melhor tratar tudo no âmbito da norma.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:27:20",
+     "justificativa": "Pela norma já na mesa e prudência quanto a expectativa.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (impedido: substitui a cadeira do relator original)",
+     "ts": "2:26:13",
+     "justificativa": "Entendeu não ter direito a voto porque ocupa a cadeira sucessora; voto do relator original permanece.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (proclama)",
+     "ts": "2:27:40",
+     "justificativa": "Proclamou o resultado por maioria.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": false,
+   "sustentacao_oral": []
+  },
+  {
+   "id": "7",
+   "ts": "2:28:43",
+   "processo": "48500.000587/2018-61 (legenda)",
+   "interessado": "Celesc Distribuição; Interligação Elétrica Biguaçu (grupo ISA CTEEP)",
+   "assunto": "Recurso da Celesc contra o Despacho SCT 1702/2020 sobre CCT (contrato de conexão às instalações de transmissão) da SE Ratones/LT Biguaçu-Ratones (Lote 1, leilão 2/2018). Acordo entre as partes: início de operação em 30/04/2022",
+   "tema": [
+    "transmissão (outorgas, reforços)",
+    "recursos administrativos",
+    "mediação"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade: perda de objeto do recurso (art. 52 da Lei 9.784/99) e retificação de ofício da data do Despacho SCT 1702/2020 de 03/10/2021 para 30/04/2022",
+   "resumo_voto": "Relator declara a perda de objeto por acordo entre as partes e destaca a mediação da ANEEL (232 controvérsias, solução em 192 casos). Diretores elogiaram a mediação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:45:40",
+     "justificativa": "Votou pela perda de objeto e retificação da data; destacou eficiência da mediação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:46:28",
+     "justificativa": "Acompanhou o relator (ordem de fala não identificável).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:46:30",
+     "justificativa": "Reforçou a importância da mediação (atribuição incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:46:32",
+     "justificativa": "Acompanhou o relator (pela proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:46:37",
+     "justificativa": "Elogiou a mediação; proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true,
+   "sustentacao_oral": []
+  },
+  {
+   "id": "10",
+   "ts": "2:47:59",
+   "processo": "48500.005792/2012-94 (legenda; incerto)",
+   "interessado": "Divisa Energias S.A. (PCH Divisa, rio Formiga, Campos de Júlio-MT); ABRASEL (requerimento correlato)",
+   "assunto": "Recomposição do prazo da autorização da PCH Divisa (art. 19 da Lei 13.360/2016) e prescrição do pedido; voto-vista de Efrain Cruz propõe recomposição de 2.103 dias e modulação da prescrição (5 anos a partir de 17/11/2016 para quem entrou em operação antes da lei)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "voto-vista",
+    "recursos administrativos",
+    "sustentação oral"
+   ],
+   "relator": "Rodrigo Limp (voto original 1.258 dias, ex-diretor); voto-vista de Efrain Cruz",
+   "resultado": "Sem decisão: pedido de vista de Elisa Bastos; sessão pausada",
+   "resumo_voto": "Divisa (Rodrigo Quintana) defendeu aplicação do Parecer 180/2018 e recomposição integral. Procuradoria reiterou prescrição a partir da operação comercial. Efrain Cruz apresentou voto-vista, debate sobre quem pode votar. Hélvio votou só na prescrição. Elisa pediu vista.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: recomposição de 2.103 dias e modulação da prescrição",
+     "ts": "3:20:00",
+     "justificativa": "Prescrição de 5 anos a partir de 17/11/2016 para operação anterior à lei; Parecer 452 para posteriores; acompanha coisa julgada.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator do voto-vista apenas na prescrição; não votou no mérito do prazo",
+     "ts": "3:53:04",
+     "justificativa": "Votou somente na questão da prescrição, acompanhando o voto-vista; no demais manteve o voto de Rodrigo Limp inalterado/ não votou.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "3:53:11",
+     "justificativa": "Pediu vista; em votação anterior acompanhara Rodrigo Limp.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:53:11",
+     "justificativa": "Em deliberação anterior acompanhara Efrain Cruz; sem novo voto na sessão.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "3:53:11",
+     "justificativa": "Em deliberação anterior não votou; levantou dúvidas sobre competência de modulação.",
+     "confianca": "baixa"
+    }
+   ],
+   "unanime": null,
+   "sustentacao_oral": [
+    "Rodrigo Quintana Fernandes (Divisa Energia S.A.)"
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "3:53:56",
+   "processo": "48500.001552/2020-82 (legenda)",
+   "interessado": "Prefeitura Municipal de Nova Andradina (MS); Energisa Mato Grosso do Sul",
+   "assunto": "Recurso contra o Despacho SMA 1098/2020 que julgou improcedente a devolução em dobro de valores faturados a maior (reclassificação de unidades consumidoras para iluminação pública)",
+   "tema": [
+    "recursos administrativos",
+    "distribuição e qualidade",
+    "consumidor"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Por unanimidade dos votantes: conhecer do recurso e dar provimento parcial para manter devolução simples e aplicar prazo prescricional do Despacho 18/2019 (contagem a partir de 28/02/2020); houve fala do relator reformulando para negar provimento (ver duvidas)",
+   "resumo_voto": "Procuradoria: engano justificável e boa-fé objetiva afastam a devolução em dobro; prazo de 10 anos do Despacho 18/2019. Relator mantém devolução simples.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "4:09:10",
+     "justificativa": "Devolução simples; prazo prescricional do Despacho 18/2019 contado a partir de 28/02/2020.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:09:30",
+     "justificativa": "Acompanhou o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "4:09:35",
+     "justificativa": "Acompanhou o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "4:09:38",
+     "justificativa": "Acompanhou o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "4:09:44",
+     "justificativa": "Proclamou a decisão.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true,
+   "sustentacao_oral": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3, 6, 9 e 23",
+   "motivo": "Retirados de pauta (anunciado na abertura, ~0:07:00)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números de processo e valores podem estar errados; numeração dos processos conforme legenda.",
+  "Presidência inferida: André Pepitone como Diretor-Geral (tratado por Doutor André pelos demais; proclamações); abertura não nomeia.",
+  "Votos de quem apenas acompanha o relator vêm da proclamação; falas individuais mal separadas pela legenda; atribuição de comentários a Efrain Cruz/Hélvio Guerra/Elisa Bastos é inferida.",
+  "Cristiano Vieira da Silva e Rodrigo Limp (ex-diretores) aparecem como relatores originais nos itens 5 e 10; Cristiano fora da lista canônica.",
+  "Item 8: proclamação diz dar provimento parcial, mas o relator reformulou na leitura para negar provimento; incerto.",
+  "Item 10: votos anteriores (2018-2020) de Elisa, Sandoval e André descritos pelos diretores; não houve voto novo nesta sessão exceto Hélvio (prescrição).",
+  "Itens do bloco (11 a 32) não detalhados."
+ ]
+}

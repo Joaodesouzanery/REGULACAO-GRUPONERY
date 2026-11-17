@@ -1,0 +1,310 @@
+{
+ "meta": {
+  "video_id": "HRjrpk-dhJc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1 (1ª Reunião Pública Ordinária de 2021)",
+  "data": "2021-01-19",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "André Pepitone (Diretor-Geral, férias)",
+   "Efrain Cruz (férias)"
+  ],
+  "observacoes": [
+   "Sessão com 3 diretores aptos a deliberar; encerrada por volta de 3:13:43 do vídeo.",
+   "Pauta de 33 itens (bloco), com itens 3 e 16 retirados; sustentações orais no item 2 (Manaus).",
+   "Antes da pauta: aprovação de atas (47ª ordinária e 14ª/15ª extraordinárias de 2020) e comunicado final sobre prorrogação da CP 62/2020."
+  ]
+ },
+ "itens": [
+  {
+   "id": "extrapauta-CP75",
+   "ts": "0:23:54",
+   "processo": "Consulta Pública 75/2020",
+   "interessado": "ANEEL (SRM); proposta do diretor Efrain Cruz (em férias)",
+   "assunto": "Postergação do prazo de contribuições da CP 75/2020 (AIR do aprimoramento da liquidação financeira dos encargos de uso do sistema de transmissão) de 25/01 para 08/02/2021",
+   "tema": [
+    "regulação normativa (consulta/audiência pública)",
+    "transmissão (encargos de uso, TUST)"
+   ],
+   "relator": "Efrain Cruz (proponente, ausente)",
+   "resultado": "aprovado (concordância dos presentes; prazo ampliado até 08/02/2021)",
+   "resumo_voto": "A pedido de Efrain Cruz, o Diretor-Geral substituto propôs ampliar em duas semanas o prazo da CP 75/2020 e, havendo concordância dos diretores, declarou ampliado o período até 08/02/2021.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "propõe e declara ampliado o prazo",
+     "ts": "0:23:54",
+     "justificativa": "a pedido do diretor Efrain Cruz, mais duas semanas de contribuições",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda (tácito)",
+     "ts": "0:24:30",
+     "justificativa": "sem manifestação individual audível; concordância pela declaração da presidência",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "concorda (tácito)",
+     "ts": "0:24:30",
+     "justificativa": "sem manifestação individual audível; concordância pela declaração da presidência",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "bloco",
+   "ts": "0:26:40",
+   "processo": "Itens em bloco (pauta de 33 itens; processos individuais não identificados na legenda)",
+   "interessado": "diversos (inclui recurso da Energisa Mato Grosso contra auto de infração lavrado pela AGERGS-delegada, item 10 do bloco)",
+   "assunto": "Votação em bloco dos itens da pauta (votos disponibilizados previamente), exceto o item 12 (vista); retificação no item 10 (prazo de cumprimento de 30 para 90 dias após decisão administrativa irrecorrível)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (auto de infração)",
+    "distribuição (Energisa MT)"
+   ],
+   "relator": "vários (itens de bloco)",
+   "resultado": "aprovado o bloco com a retificação do item 10 (item 12 excluído por vista)",
+   "resumo_voto": "Elisa Bastos retificou o item 10 (Energisa MT) elevando o prazo de 30 para 90 dias; o Diretor-Geral substituto manteve o item no bloco por ser ajuste de data. Hélvio e Elisa aprovaram o bloco; Sandoval aprovou os demais itens e pediu vista do item 12. A votação foi repetida/ratificada para corrigir a ordem de votos.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:28:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (com retificação do item 10, de sua autoria)",
+     "ts": "0:28:59",
+     "justificativa": "retificação de prazo de 30 para 90 dias, ajuste de datas sem necessidade de destaque",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os demais itens do bloco; pede vista do item 12",
+     "ts": "0:29:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "bloco-12",
+   "ts": "0:26:40",
+   "processo": "Item 12 do bloco (não identificado na legenda)",
+   "interessado": "não identificado",
+   "assunto": "Item 12 do bloco, objeto de pedido de vista do diretor Sandoval Feitosa",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista (Sandoval Feitosa); retirado da votação do bloco",
+   "resumo_voto": "Sandoval solicitou vista antes de o relator votar; após discussão sobre a ordem de votação (Hélvio, Elisa e Sandoval), registrou-se que Hélvio e Elisa teriam votado pela aprovação do item e Sandoval ficou com a vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "0:26:40",
+     "justificativa": "pediu vista do item 12 e votou pela aprovação dos demais itens do bloco; esclareceu a ordem de votação em 0:45:06-0:49:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova (antes da vista, conforme debate sobre a ordem)",
+     "ts": "0:47:50",
+     "justificativa": "identificado pela discussão sobre a ordem de votação; legenda confusa",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova (antes da vista, conforme debate sobre a ordem)",
+     "ts": "0:48:00",
+     "justificativa": "identificado pela discussão sobre a ordem de votação; legenda confusa",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:29:26",
+   "processo": "48500.003673/2011-78",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (Coelba)",
+   "assunto": "Revisão do plano de universalização rural da Coelba (2017-2021, REH 2.285/2017): proposta de consulta pública por intercâmbio documental sobre prorrogação do ano limite de universalização de 2021 para 2022 (Luz Para Todos; pandemia)",
+   "tema": [
+    "universalização (Luz Para Todos)",
+    "distribuição (Coelba, Bahia)",
+    "regulação normativa (consulta pública)",
+    "tarifas e qualidade (distribuidoras)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: instaurar consulta pública por intercâmbio documental (25/01 a 45 dias) sobre a prorrogação",
+   "resumo_voto": "Pandemia (chuvas, restrições, falta de materiais) justificou parcialmente o pleito: meta de 2020 redefinida para 16 mil ligações, resto distribuído entre 2021 e 2022; municípios com menos de 200 ligações mantêm o prazo original; consulta pública, com prazo ajustado para 45 dias por observação do Diretor-Geral substituto. Procuradoria não se manifestou (sem questão jurídica controversa).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova instauração de consulta pública",
+     "ts": "0:30:30",
+     "justificativa": "fato superveniente (pandemia) diferencia do caso de 2019 em que o pedido foi indeferido; critério de menos de 200 ligações já usado no caso Equatorial; acatou prazo de 45 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (com observações)",
+     "ts": "0:43:00",
+     "justificativa": "observou prazo de 30 dias contra 45 legais da lei geral das agências e sugeriu envolver a fiscalização nos processos de prorrogação de universalização",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:13",
+     "justificativa": "unanimidade proclamada; sem fala individual identificada",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:49:23",
+   "processo": "48500.005142/2020-19",
+   "interessado": "Amazonas Geração e Transmissão de Energia (Amazonas GT); produtores independentes de Manaus; Amazonas Energia",
+   "assunto": "Resultado da Consulta Pública 77/2020 sobre alteração dos contratos de compra e venda de energia (CCVE) e de suprimento dos PIEs de Manaus (de 100% inflexível por quantidade para disponibilidade, CVU definido)",
+   "tema": [
+    "comercialização (contratos, CCEE)",
+    "geração térmica (Manaus, PIEs)",
+    "CDE e encargos (sub-rogação da CCC)",
+    "distribuição (Amazonas Energia, sobrecontratação)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos diretores presentes: indeferida a proposta da Amazonas GT; partes podem enviar em até 60 dias minutas de aditivos com condições mínimas; envio à SMA para mediação administrativa",
+   "resumo_voto": "Proposta da Amazonas GT indeferida por falta de consenso; ANEEL nunca propôs alteração unilateral, qualquer aditivo depende de concordância expressa das partes. Condições mínimas: disponibilidade da parcela flexível, penalidade/ressarcimento, custos totais não superiores ao contrato vigente, majoração por conta da Amazonas GT sem repasse a consumidores, redução da sobrecontratação e garantia física pelo MME, equilíbrio econômico-financeiro e inflexibilidade compatível com contrato de gás. Mediação via SMA. Sustentações orais: Guilherme Baggio (Abrajet), Rafael d'Ávila (Gera Amazonas e Rio Amazonas Energia) e Joaquim Moreira (Amazonas Energia, que pediu mediação).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (indefere a proposta; condições mínimas; mediação pela SMA)",
+     "ts": "1:25:59",
+     "justificativa": "respeito aos contratos é cláusula pétrea; tempo da CP foi curto; benefícios potenciais relevantes, mas sem convergência; mediação administrativa para facilitar consenso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:02:29",
+     "justificativa": "respeito aos contratos, sem alteração unilateral; mediação como última tentativa de acordo; solidariedade ao povo do Amazonas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:04:28",
+     "justificativa": "reforçou que não houve alteração unilateral, que a CP buscava premissas para negociação, que Sandoval tinha razão sobre o prazo de 45 dias e que a SMA deve colaborar; PIEs devem participar da solução",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:16:22",
+   "processo": "48500.000327/2018-12 e outros",
+   "interessado": "Brígida Solar SPE Ltda. e Brígida 2 Solar SPE Ltda. (UFV Brígida e UFV Brígida 2, 31,5 MW cada, São José do Belmonte-PE)",
+   "assunto": "Pedido de reconhecimento de excludente de responsabilidade e alteração do cronograma de implantação e suprimento (CCEAR, Leilão A-4/2017), por pandemia e financiamento",
+   "tema": [
+    "outorgas de geração (solar fotovoltaica)",
+    "fiscalização (excludente de responsabilidade, cronograma)",
+    "leilões (CCEAR)",
+    "comercialização"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos diretores presentes: provimento parcial, excludente de 120 dias, início de suprimento adiado para 01/05/2021 e outorgas estendidas por 120 dias (até 12/10/2053)",
+   "resumo_voto": "Pedido de até 736/180 dias reduzido a 120 dias por atraso no fornecimento de equipamentos (painel de média tensão, Siemens/WEG) por efeito da pandemia, com nexo de causalidade; atraso no CCG e dificuldade de financiamento não são excludente (risco do empreendedor); decretos estaduais contados a partir de 01/04/2020 (68 dias), sem soma ao período; sem empilhamento de dias; marcos descumpridos serão acompanhados pela SFG. Procuradoria opinou pelo reconhecimento parcial nos termos da análise técnica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova provimento parcial (120 dias)",
+     "ts": "2:20:04",
+     "justificativa": "nexo de causalidade só comprovado para o atraso de equipamentos; financiamento e CCG são risco do agente; recomposição da outorga pelo mesmo período",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:49:43",
+     "justificativa": "registrou que não há repercussão no post e que apenas 120 dias, vinculados à pandemia, foram reconhecidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:50:43",
+     "justificativa": "proclamação por unanimidade dos presentes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:52:31",
+   "processo": "48500.000133/2019-90",
+   "interessado": "Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil (CGT Eletrosul)",
+   "assunto": "Recurso administrativo contra a Resolução Autorizativa 8.795/2020 (reforços em instalações de transmissão e RAP correspondente; subestações Foz do Chapecó, Caxias, Sarandi, Maringá, Guaíra e Cascavel Oeste)",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos diretores presentes: provimento parcial do recurso, RAP alterada",
+   "resumo_voto": "Recurso tempestivo; acolhidos alguns pedidos (proteção alternada de falha de disjuntor, módulo de infraestrutura geral em Guaíra e Cascavel Oeste, quantitativos, retificadores e baterias); demais rejeitados por já estarem no banco de preços ou nos procedimentos de rede; RAP passou de cerca de R$ 32,09 milhões para cerca de R$ 33,15 milhões (valores de jun/2019, números da legenda incertos). Procuradoria não se manifestou (matéria técnica).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova provimento parcial",
+     "ts": "2:55:17",
+     "justificativa": "SCT confirmou parte dos itens; periculosidade, depreciação e custos ambientais já considerados no banco de preços",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:11:53",
+     "justificativa": "'acompanho a proposta de voto do relator' e proclamou unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:11:59",
+     "justificativa": "unanimidade proclamada; sem fala individual identificada",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "itens 3 e 16 da pauta (numeração do secretário-geral; processos não identificados na legenda)",
+   "relator": "não identificado",
+   "motivo": "retirados da pauta (motivo não dito)",
+   "ts": "0:25:37"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos; processos 48500.003673/2011-78, 48500.005142/2020-19, 48500.000327/2018-12 e 48500.000133/2019-90 reconstruídos da fala.",
+  "O bloco tem 33 itens não detalhados na legenda; apenas o item 10 (Energisa MT) e o item 12 (vista de Sandoval) são citados.",
+  "No item 12 do bloco, o voto de Hélvio e Elisa pela aprovação é inferido da discussão sobre a ordem de votação (confiança baixa).",
+  "Atribuição de falas nos itens 1 e 2 inferida pelo conteúdo e por referências cruzadas (Sandoval nas observações do item 1; Hélvio nas falas de 2:02:29 e 2:10:45 do item 2, Elisa em 2:04:28).",
+  "Sem fala individual de Elisa no item 1 e 5: voto pela proclamação.",
+  "Concordância com a postergação da CP 75 é tácita (declaração da presidência).",
+  "Atas aprovadas e comunicado final sobre a CP 62/2020 não foram tratados como itens."
+ ]
+}

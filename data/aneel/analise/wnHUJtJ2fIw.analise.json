@@ -1,0 +1,90 @@
+{
+  "meta": {"video_id": "wnHUJtJ2fIw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08:32); ts de votos de seguidores aproximados; vídeo 'Parte 1' termina na suspensão para o almoço (~3:17)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "33", "data": "2019-09-10", "formato": "presencial (sede da ANEEL)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Rodrigo Limp"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura às 0:08:32 com quórum de 3 diretores; segundo a mesa, o quórum completo de 5 diretores se formou logo depois.",
+      "Pauta de 36 itens; itens 5 e 20 retirados de pauta; item 1 destacado; sustentação oral pedida para os itens 1, 7, 8, 10 e 21; voto-vista nos itens 8, 11, 12, 14, 16, 17 e 18; bloco dos itens 19 a 36 (exceto 21 e 20) aprovado por unanimidade.",
+      "Ordem de julgamento informada pela mesa (legenda confusa): 10, 7, 8, 4, 6, 9, 11 a 18 e 21. O item 10 foi chamado primeiro mas houve problema para baixar o arquivo no sistema e se passou ao item 7; o item 10 voltou depois.",
+      "Deliberados nesta parte do vídeo: bloco, item 7 (Energisa MT / Salto do Ouro), item 10 (Transnorte Energia) e item 8 (Paranaíba Transmissora, voto-vista, sem maioria). Item 4 foi chamado e a sessão suspensa, retomando às 14h.",
+      "Informes da presidência: vídeo da série de economia de energia (geladeira), consulta pública 22/2019 (S-MAPA), audiências na Câmara, lançamento do projeto PV (OCDE) pelo diretor Rodrigo Limp; correção de erro material no voto do item 16 da 32ª reunião (auto de infração da Light, 30% e não 15%); ata da 32ª aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "Bloco", "ts": "0:15:39",
+      "processo": "itens 19 a 36 da pauta (exceto 20 e 21)", "interessado": "diversos (não detalhados no vídeo)",
+      "assunto": "Aprovação em bloco dos itens 19 a 36 da pauta da 33ª reunião pública ordinária, sem discussão individual",
+      "tema": ["regulação normativa", "institucional"],
+      "relator": "não aplicável (bloco)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mesa submeteu o bloco à votação; os diretores votaram pela aprovação e a presidência proclamou a unanimidade. Itens do bloco não são identificados na legenda.",
+      "votos": [
+        {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:16:00", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:16:05", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:16:10", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:16:12", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "aprova o bloco", "ts": "0:16:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "0:17:43",
+      "processo": "48500.002963/20xx (número incerto na legenda: 48.500 00 29 63 bar 2006)", "interessado": "Energisa Mato Grosso (distribuidora) e Salto do Ouro Energética (PCH Salto, 15,9 MW)",
+      "assunto": "Recursos administrativos contra o Despacho 1.626/2018 da SRM, que negou aprovação ao 2º termo aditivo do contrato de geração distribuída CGD/VPM 11/2006 (redução a zero do montante contratado de 1/8/2017 a 31/12/2019)",
+      "tema": ["comercialização", "recursos administrativos", "geração distribuída", "tarifas e revisão tarifária", "neutralidade tarifária"],
+      "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade — recursos conhecidos e providos em parte",
+      "resumo_voto": "Aprova o 2º termo aditivo e determina à SRM calcular a compensação tarifária para o consumidor da Energisa MT: pela Resolução 711/2016 aplicada subsidiariamente de 1/8/2017 a 15/8/2018 (regra do PMIX) e pela lógica do mecanismo de venda de excedentes (REN 824/2018) de 16/8/2018 a 31/12/2019 (preço do contrato versus PLD). Houve sustentação oral de Camila Alves Fontes (Salto do Ouro) e Frederico (Energisa MT), alegando ato jurídico perfeito e irretroatividade da REN 783/2017. O relator rejeitou a tese de que a ANEEL só registra o aditivo: há dever de aferir impacto aos consumidores cativos; o preço do contrato (cerca de R$ 154/MWh) era inferior ao custo médio da distribuidora (R$ 198/MWh), mas a neutralização tarifária afasta o prejuízo. Salto do Ouro não assinou o termo de repactuação do risco hidrológico.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "relator, conhece e dá provimento parcial", "ts": "1:00:33", "justificativa": "ANEEL tem dever de avaliar impacto nas tarifas, mas o pleito é viável se a redução for neutra para o consumidor; coerência com precedentes (pareceres da procuradoria, despachos anteriores) e segurança jurídica", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:02", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:04", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:06", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "1:08:05",
+      "processo": "48500.004312/2019-39", "interessado": "Transnorte Energia S.A. (TNE; Alupar 51% e Eletronorte 49%) — LT 500 kV Manaus-Boa Vista",
+      "assunto": "Requerimento administrativo de reequilíbrio econômico-financeiro do contrato de concessão de transmissão 3/2012 (leilão 4/2011, lote A), por atraso no licenciamento ambiental (Ibama, Funai, terra indígena Waimiri-Atroari) e decisões judiciais",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "reequilíbrio econômico-financeiro", "licenciamento ambiental", "interligação de Roraima ao SIN"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade — reequilíbrio concedido nos termos do voto",
+      "resumo_voto": "Reconhece excludente de responsabilidade pelo atraso no licenciamento (mais de 7 anos), mas nega os custos adicionais pleiteados (alteamento de torres, cabos, exigências ambientais, que eram riscos do concessionário ou previsíveis, regulação por preço e não por custo). Recompõe a RAP mantendo as premissas do edital e ampliando o prazo de implantação para 126 meses (36 meses a partir do termo aditivo): RAP de reequilíbrio de cerca de R$ 267 milhões (jan/2019, atualizada para a assinatura em 31/10/2019) e, somada à RAP do compensador estático de Boa Vista, total de cerca de R$ 275 milhões; autoriza termo aditivo com assinatura até 31/10/2019. A TNE pedia RAP de cerca de R$ 395 milhões. Sustentação oral da advogada Márcio Pina (legenda: tribuno do tomate; representante da empresa). O relator unificou os itens do dispositivo durante a discussão após dúvida sobre os valores 267 e 275 milhões.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, concede o reequilíbrio com nova RAP", "ts": "1:50:00", "justificativa": "o atraso não é imputável à concessionária, mas o modelo é de serviço pelo preço: não se reconhece custo adicional previsível ou de risco do licitante; mantém-se as premissas do edital", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:53:37", "justificativa": "compartilha o entendimento do relator: a RAP não deve ser calculada por custos incorridos, o que feriria o modelo concorrencial; preserva a credibilidade dos certames e traz benefícios a Roraima e a todos os consumidores (fim do subsídio à geração térmica a diesel)", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "1:55:16", "justificativa": "associa-se às palavras de Elisa e parabeniza o relator; atraso de 4 anos sobre o prazo de 2015 não é risco ordinário do transmissor", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:56:33", "justificativa": "antecipa concordância; destaca a envoltória do edital, a interligação da única capital fora do SIN e o projeto Arco Norte", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "2:10:06", "justificativa": "reforça a importância da obra, a necessidade de manter o contrato e que a ANEEL interpreta o edital sem liberdade total; regulação por preço, sem análise de custos", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:11:00",
+      "processo": "48500.004161/2017-14", "interessado": "Paranaíba Transmissora de Energia S.A. (consórcio State Grid, Copel e Furnas) — subestação Pirapora 2",
+      "assunto": "Pedido de reconsideração contra o Despacho 4.210/2017 (que negou reequilíbrio econômico-financeiro do contrato de concessão 7/2013, leilão 7/2012), por custos adicionais de entrada de linha em Pirapora 2 em razão da REA 3.743/2012 (segundo banco de autotransformadores da Serra Paracatu Transmissora no mesmo vão)",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "reequilíbrio econômico-financeiro", "leilões (transmissão)"],
+      "relator": "Efrain Cruz (relator original); voto-vista de Rodrigo Limp", "resultado": "sem maioria — julgamento adiado para quando o diretor-geral estiver presente",
+      "resumo_voto": "Relator original (Efrain Cruz, 34ª reunião de 2018): conhecer e negar provimento (nota técnica SCT 392/2018). Voto-vista de Rodrigo Limp: conhece e dá provimento parcial; a REA 3.743/2012 (emitida logo após o edital, sem comunicação como fato relevante e coincidindo com o vão de entrada de linha) interferiu no processo competitivo; ressarcimento do capex de R$ 2.445.749,48 (jun/2019, RAP de cerca de R$ 260 mil, ~1,8% da RAP) por parcela de ajuste na próxima revisão da RAP, nos termos da NT SCT 437/2019. Sustentação oral de João Batista Guimarães pela transmissora (que pedia R$ 5,85 milhões). Debate longo e divergente (vão não é reservado; regulação por preço; publicidade da REA no DOU; dever de comunicação). Mesa registrou que não houve maioria e o processo foi deixado para outra ocasião.",
+      "votos": [
+        {"diretor": "Rodrigo Limp", "voto": "voto-vista: conhece e dá provimento parcial (ressarcimento de R$ 2,45 milhões via parcela de ajuste)", "ts": "2:40:48", "justificativa": "ato da agência após o edital, sem comunicação de fato relevante, impediu a precificação adequada; procuradoria (parecer 189/2019) reconhece a interferência; não é regulação por custo porque o valor reconhecido é cerca da metade do pedido", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "relator original: mantém o voto, nega provimento", "ts": "2:43:55", "justificativa": "o que faz lei entre as partes é o edital e o contrato; o vão é apenas indicativo e a gestão da obra é do empreendedor; a REA foi publicada no DOU antes do leilão; reconhecer parte dos custos seria regular por custo", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator original (nega provimento)", "ts": "2:41:14", "justificativa": "o edital é claro sobre a responsabilidade da transmissora pelas obras de entrada de linha; compartilhamento de subestações e mudanças de layout são riscos do negócio", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista (dá provimento parcial)", "ts": "2:56:22", "justificativa": "houve interferência da agência no processo competitivo; discorda de que outra autorização pudesse vir a qualquer tempo; o custo reconhecido é inferior ao pedido, logo não é regulação por custo", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (sem voto registrado; mesa declarou ausência de maioria)", "ts": "3:16:33", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "5", "ts": "0:14:20", "motivo": "retirado de pauta (anunciado pela secretaria-geral)"},
+    {"id": "20", "ts": "0:14:20", "motivo": "retirado de pauta e do bloco"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa: números de processo, valores (RAP de 267 e 275 milhões, datas) e nomes podem estar errados; processo do item 7 não identificado com segurança.",
+    "A legenda não identifica quem fala em cada comentário. Atribuição de falas e votos nos itens 7, 10 e 8 foi feita pela proclamação da mesa e pelo conteúdo (referências cruzadas entre diretores); votos de seguidores têm ts aproximado e confiança media ou baixa.",
+    "Item 8: a legenda registra que não houve maioria e que o processo seria deliberado quando o diretor-geral estivesse presente, o que sugere que André Pepitone não votou (ausência momentânea ou outro motivo). O placar provável é 2x2 (Efrain Cruz e Elisa Bastos pelo voto do relator original; Rodrigo Limp e Sandoval Feitosa pelo voto-vista); a atribuição de Elisa Bastos e de Sandoval Feitosa é inferida do teor das falas, não de votos explícitos. Pepitone aparece conduzindo a sessão nos itens anteriores.",
+    "Item 10: a sustentação oral foi feita por representante da Transnorte cujo nome aparece como Márcio Pina na legenda (tratado como ex-procurador-geral da ANEEL); não é diretor.",
+    "A pauta tem 36 itens; só bloco, 7, 10 e 8 foram deliberados nesta parte (vídeo termina na suspensão para o almoço, com item 4 recém chamado). Os demais itens estão em outra parte da gravação.",
+    "Item Bloco: composição exata dos itens do bloco não consta na legenda (19 a 36, exceto 20 e 21)."
+  ]
+}

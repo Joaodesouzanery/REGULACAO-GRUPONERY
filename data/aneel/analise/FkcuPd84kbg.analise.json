@@ -1,0 +1,359 @@
+{
+ "meta": {
+  "video_id": "FkcuPd84kbg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:52); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29",
+  "data": "2023-08-15",
+  "formato": "presencial com participação remota de Fernando Mosna",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "André Pepitone (citado como ex-diretor-geral; não presente)"
+  ],
+  "observacoes": [
+   "Pauta de 49 itens (6 a 49 em bloco); retirados 9, 12, 15, 16, 17, 22, 23, 24; sustentação oral nos itens 4 e 26; ordem: bloco, 1, 2, 3, 4, 26.",
+   "Durante a sessão ocorreu apagão nas regiões Norte e Nordeste; o Diretor-Geral deu informes e encerrou cedo para reunião no MME.",
+   "Item 5 (relator Sandoval) retirado ao final.",
+   "Pedido de sustentação oral no item 2 (vista) não acatado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 6-49",
+   "ts": "0:58:31",
+   "processo": "vários (itens em bloco 6 a 49, votos disponibilizados previamente)",
+   "interessado": "diversos",
+   "assunto": "Itens em bloco da pauta (6 a 49), exceto os retirados 9, 12, 15, 16, 17, 22, 23 e 24; no item 11 o relator acrescentou prazo de 90 dias ao estudo determinado às áreas técnicas, para acompanhamento da auditoria interna",
+   "tema": [
+    "bloco de itens",
+    "ANEEL – deliberações diversas"
+   ],
+   "relator": "vários (não identificados na legenda)",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Sandoval Feitosa submeteu o bloco; três diretores disseram aprovar; proclamado por unanimidade. Conteúdo individual dos itens do bloco não consta da transcrição.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "1:01:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "1:01:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "1:01:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco (remoto)",
+     "ts": "1:01:36",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:01:55",
+   "processo": "48500.006886/2022-12 e 48500.001274/2023-14",
+   "interessado": "Equatorial Pará Distribuidora de Energia S.A. (Pará)",
+   "assunto": "Revisão tarifária periódica (5ª RTP) da Equatorial Pará, vigência a partir de 7/8/2023, e limites de DEC e FEC 2024-2027, após CP 14/2023; voto-vista do Diretor-Geral",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade (DEC/FEC)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna (voto condutor); voto-vista: Sandoval Feitosa",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Sandoval Feitosa; relator Fernando Mosna vencido",
+   "resumo_voto": "Voto-vista de Sandoval: efeito médio de 11,07% (alta tensão 15,79%, baixa tensão 9,89%); reconhece ativo regulatório de 270 milhões revertido em 2024 (parcelamento da reversão do diferimento de 2022, a pedido da distribuidora) e coeficiente de transição 0,85 para o grupo B; fator X (T 3,14 e Pd 0,99). Fernando Mosna (relator) questionou preclusão do pleito da empresa, falta de análise técnica prospectiva conforme recomendação do TCU sobre diferimentos e o coeficiente 0,85 contra a posição da área técnica. Acolhida sugestão de Ricardo Tili: tarifa retroativa a 7/8/2023, com aplicação da tarifa anterior no período sem cobertura. Houve fala do deputado federal Anderson Pinto (apelo por alívio ao consumidor paraense). Debate com superintendentes de gestão tarifária e representante da concessionária.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencedor (mantém o voto-vista)",
+     "ts": "2:43:50",
+     "justificativa": "tarifa do Pará é a maior do país (baixa tensão acima de R$ 1000/MWh); desigualdade regional; reversão parcial do diferimento viável por projeção de IGP-M, fator X e menor despacho térmico; coeficiente 0,85 é discricionariedade do colegiado",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, vencido (mantém o voto condutor)",
+     "ts": "2:43:45",
+     "justificativa": "preclusão do pedido da Equatorial após o pedido de vista; ausência de análise técnica exigida pela recomendação do TCU sobre diferimento; fator 0,85 contrariava a área técnica",
+     "tom": "tecnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não identificado (maioria; lado não dito)",
+     "ts": "2:43:55",
+     "justificativa": "no debate: diferimento é instrumento neutro, preocupação com bola de neve e volatilidade; sugeriu fator de transição próximo a 0,95 em vez de 0,85",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não identificado (maioria; lado não dito)",
+     "ts": "2:43:55",
+     "justificativa": "no debate: elogiou a abordagem do voto-vista sobre distorções regionais; questionou se o coeficiente interfere na política da lei de CDE",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não identificado (maioria; lado não dito)",
+     "ts": "2:43:55",
+     "justificativa": "no debate: preocupação com diferimento como bola de neve; sugeriu incluir no voto o período sem tarifa",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:47:18",
+   "processo": "48500.006840/2022-95",
+   "interessado": "Celesc Distribuição S.A. (Santa Catarina)",
+   "assunto": "Reajuste tarifário anual 2023 da Celesc Distribuição, vigência a partir de 22/8/2023; efeito médio 2,30%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Efeito médio 2,30% (alta tensão -0,81%, baixa tensão 4,11%); antecipação da reversão do bônus de Itaipu a pedido da Celesc; créditos de PIS/Cofins; homologa tarifas TE e TUSD. Apresentação técnica da STR (Leonardo de Araújo da Silva).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, homologa",
+     "ts": "3:00:00",
+     "justificativa": "aprovação do reajuste conforme nota técnica da STR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:03:04",
+   "processo": "48500.005710/2016-97",
+   "interessado": "Centrais Elétricas de Pernambuco S.A. (EPESA) – UTEs Pau Ferro e Termomanaus",
+   "assunto": "Pedido de reconsideração: alteração do CVU das usinas e da receita fixa (ICMS, taxa de fiscalização, PIS/Cofins/Cide)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "recursos administrativos",
+    "comercialização (CVU, contratos CCEAR)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos diretores presentes (conhece e dá provimento em parte, afastando efeitos de PIS/Cofins e Cide)",
+   "resumo_voto": "Conhece e dá provimento ao pedido para alterar CVU considerando a variação de ICMS (lei estadual 15.616/2015 de Pernambuco) e a receita fixa considerando a redução da taxa de fiscalização (Lei 12.783/2013), com retroação máxima de 10 anos; afasta efeitos de PIS/Cofins e Cide; SGM calcula e aprova os valores e termos aditivos. Parecer PFE 159/2023. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "3:05:00",
+     "justificativa": "tributos PIS/Cofins e Cide não são suportados pela usina; ICMS e taxa de fiscalização devem ser considerados; decisão conceitual antes dos cálculos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:33:15",
+     "justificativa": "dúvida levantada sobre dever de envio de dados pelos agentes; sem divergência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:33:20",
+     "justificativa": "citou processo análogo de sua relatoria (Baixada Fluminense)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:33:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:33:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:34:32",
+   "processo": "48500.000814/2023-4",
+   "interessado": "Linhares Geração S.A. (UTE Luiz Oscar Rodrigues de Melo)",
+   "assunto": "Recurso administrativo contra o Despacho 3.670/2022 (SRG) sobre classificação como falha de combustível da parada programada de 29/8 a 13/9/2021",
+   "tema": [
+    "fiscalização e sanções (multa por falta de combustível)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por maioria: conhece e dá provimento (isenta como falha de combustível)",
+   "resumo_voto": "Sustentação oral de Rafael d'Ávila (Linhares). Relator: usina operava havia 138 semanas, todas as térmicas despachadas pelo CMSE na crise hídrica de 2021; não cabia exigir novo contrato de gás; decisão restrita ao caso concreto, sem precedente. Estimativa de penalidade em torno de R$ 9 milhões. Agnes da Costa e Sandoval levantaram preocupação com precedente e proteção do consumidor.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "4:25:00",
+     "justificativa": "combustível havia (oferta firme da Petrobras); manutenção necessária e concomitante à da Rota 1; sinal regulatório não podia ser seguido naquele contexto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (vota contra)",
+     "ts": "4:25:59",
+     "justificativa": "na discussão: risco de precedente e de o consumidor ficar sem ressarcimento; atribuição do voto contrário pela ordem de votação, voz não identificada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não identificado (um dos dois votos: contra / acompanha a área técnica)",
+     "ts": "4:26:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não identificado (um dos dois votos: contra / acompanha a área técnica)",
+     "ts": "4:26:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "4:26:08",
+     "justificativa": "na discussão: filosoficamente sem sentido obrigar compra de combustível para parada programada",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "4:40:31",
+   "processo": "não identificado",
+   "interessado": "não identificado",
+   "assunto": "Item 5 retirado de pauta pelo relator em razão do encerramento da reunião (reunião no MME às 14h sobre o apagão)",
+   "tema": [
+    "retirado de pauta"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Sem deliberação.",
+   "votos": []
+  },
+  {
+   "id": "26",
+   "ts": "4:26:54",
+   "processo": "48500.004970/2021-11",
+   "interessado": "Cooperativa de Eletrificação de Braço do Norte (Cebranorte)",
+   "assunto": "Pedido de reconsideração contra a REH 3.124/2022 (reajuste tarifário 2022): alegada dupla cobrança de encargos (ESS e EER) após migração parcial ao mercado livre",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "comercialização (mercado livre)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos diretores presentes: conhece e nega provimento",
+   "resumo_voto": "Sustentação oral de Caio José de Oliveira Alves (Cebranorte). Procuradoria (parecer 193/2023) e área técnica: aplicado o módulo 8.5 do Proret, sem duplicidade; tema já decidido no reajuste 2021 (despacho 1751/2022); a permissionária já reduziu a exposição com a contratação da Celesc.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "4:39:00",
+     "justificativa": "sem cobrança duplicada; aplicação estrita do Proret; acompanha PFE e área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "4:39:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "9, 12, 15, 16, 17, 22, 23, 24",
+   "motivo": "retirados de pauta (anunciado na abertura)"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado em razão do encerramento da reunião"
+  }
+ ],
+ "limites_da_analise": [
+  "Data 2023-08-15 inferida do contexto (reunião pública na terça-feira após 10/8 e antes de 16/8); a legenda não diz o dia explicitamente.",
+  "Numeração dos itens inferida da ordem anunciada (2 1 3 4 5 26); item 2 = Equatorial Pará (vista), item 1 = Celesc.",
+  "Legenda sem separação de falantes: no item 2 (maioria) e no item 4 só há proclamação por maioria; lados de Agnes, Hélvio e Ricardo (item 2) e de Ricardo e Mosna (item 4) não identificáveis; Agnes no item 4 atribuída ao voto contrário por inferência, confiança baixa.",
+  "Itens do bloco 6-49 não detalhados na transcrição; relatores individuais desconhecidos.",
+  "Item 3: número do processo e valores lidos da legenda; item 4: número de processo incerto (48500.000814/2023-4).",
+  "Nome citado como diretora Élvio = Hélvio Guerra; Fernando Ferreira da Silva e outras variações na legenda = Fernando Mosna; Ricardo Chile/til = Ricardo Tili; superintendente Camila (STR) e Leonardo de Araújo da Silva não são diretores."
+ ]
+}

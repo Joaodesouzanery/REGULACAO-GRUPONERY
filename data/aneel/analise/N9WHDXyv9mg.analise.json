@@ -1,0 +1,243 @@
+{
+ "meta": {
+  "video_id": "N9WHDXyv9mg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18",
+  "data": "2019-05-28",
+  "formato": "presencial/transmitida (Parte 1, sessão da manhã)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [
+   "André Pepitone (Diretor-Geral, em Madri/Lisboa)",
+   "Efrain Cruz (em Madri/Lisboa)"
+  ],
+  "observacoes": [
+   "Quórum de 3 diretores. Pauta com 32 itens; bloco dos itens 8 a 32 (exceto 10 destacado e 28 retirado) aprovado em bloco sem leitura individual; itens 4 e 28 retirados de pauta.",
+   "Ordem de julgamento: 5, 7, 10, 13, 6 e 2; item 2 foi deixado para a sessão da tarde (14h30), com o item 6 anunciado como parte da tarde na fala final, mas o item 6 foi deliberado nesta Parte 1 conforme o áudio; itens restantes constam da Parte 2.",
+   "Informes iniciais do Diretor-Geral substituto: agenda institucional, AP 16/2019 (RAP Amazonas GT), decisão de não realizar sessão presencial em Parauapebas na RTP da Celpa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "5",
+   "ts": "0:08:34",
+   "processo": "48500.004793/2018-69",
+   "interessado": "Eólicas do Sul e Complexo Eólico Campos Neutrais (33 centrais eólicas, SPEs com Eletrobras como principal acionista)",
+   "assunto": "Recurso administrativo contra o Despacho SRM 2141/2018, que negou considerar o PLD médio do 1º trimestre de 2017 (em vez do PLD médio do ano) no cálculo do ressarcimento por energia não entregue (leilões A-5 de 2011 e 2013, MCSD)",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "leilões (geração)",
+    "recursos administrativos",
+    "geração eólica"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e desprovido por unanimidade dos diretores presentes; determinada à Secretaria-Geral a avaliação da adequação da REN 273/2007 à Lei 9.784 quanto à notificação pessoal",
+   "resumo_voto": "Sustentação oral da representante das empresas (10 min): PLD apenas de jan-mar/2017, subsidiariamente média ponderada. Procuradoria (Parecer 197/2019): conhecer e negar, sem vício de competência. Relatora: despacho tem competência (Portarias 3925/2016 e REN 720), regra de ressarcimento é cláusula do edital/CCR; contratos seguiram vigentes até jan/2018, usinas entregaram menos que o contratado antes de abril/2017; PLD anual mantido por vinculação ao instrumento convocatório e segurança jurídica.",
+   "sustentacao_oral": "representante das empresas recorrentes (advogada, nome ouvido como Camila)",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhecer e negar provimento",
+     "ts": "0:55:14",
+     "justificativa": "contrato e edital permanecem válidos; sem vício de competência ou motivação; vinculação ao instrumento convocatório; segurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:56:30",
+     "justificativa": "comentário atribuído por inferência: posição da procuradoria e da relatora bem embasadas, aplicação direta do contrato; tema discutido na prévia do dia anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora; proclama por unanimidade",
+     "ts": "0:57:33",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:59:09",
+   "processo": "48500.007246/2006-49 (e 48500.002707/2018)",
+   "interessado": "Hidrelétrica Morro Grande Ltda. (PCH Morro Grande, 9,8 MW, rio Turvo, Muitos Capões/RS)",
+   "assunto": "Requerimento com pedido cautelar de excludente de responsabilidade por atraso na PCH Morro Grande (indeferimento da licença de instalação pela FEPAM), resolução dos CCR do leilão A-5 de 2013 e recomposição do prazo de outorga",
+   "tema": [
+    "outorgas de geração (hidrelétrica, PCH)",
+    "leilões (geração)",
+    "licenciamento ambiental",
+    "excludente de responsabilidade"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "requerimentos indeferidos por unanimidade (excludente, recomposição do prazo e alteração de cronograma); outorga mantida; cautelar encerrada",
+   "resumo_voto": "Sustentação oral de dois representantes (risco regulatório ambiental, teoria da imprevisão). Procuradoria: risco do licenciamento é do empreendedor (produtor independente). Relator: sem nexo de causalidade exclusivo com ato do poder público, um dos motivos do indeferimento decorreu de pendências do próprio empreendedor; sem excludente não há resolução dos CCR nem recomposição; retorno retroativo das obrigações a maio/2018 (cerca de 73% dos contratos, pois 27% foram reduzidos pela REN 711/2016); manter a outorga por interesse público e acompanhar o licenciamento (LI emitida em jan/2019). Relator reconheceu que antes acatara a cautelar com dúvidas, depois sanadas na instrução.",
+   "sustentacao_oral": "Rafael José Teixeira Machado e Maximiliano Gomes (pela requerente)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, indefere",
+     "ts": "1:20:48",
+     "justificativa": "risco ambiental é do empreendedor; ausência de nexo de causalidade com ato do poder público; manutenção da outorga atende ao interesse público",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:30",
+     "justificativa": "houve um comentário de diretor reforçando que o risco ambiental é do empreendedor e a divisão de competências; autoria não identificada com certeza",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:30",
+     "justificativa": "idem; comentário de diretor sobre risco ambiental do empreendedor (autoria incerta)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:37:26",
+   "processo": "48500.004577/2017-32",
+   "interessado": "Companhia estadual de distribuição de energia (RS); legenda registra «CRB/CEEE», provavelmente CEEE-D",
+   "assunto": "Recurso administrativo contra o Auto de Infração 07/2016 da AGERGS (multa por descumprimento dos indicadores de continuidade DEC/FEC de 2013, não conformidades 7, 9 e outra)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição (continuidade, qualidade)",
+    "recursos administrativos",
+    "situação econômico-financeira da distribuidora"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e parcialmente provido por unanimidade: cancelada uma não conformidade, outra convertida em advertência, multa da NC 9 reduzida para cerca de R$ 1,22 milhão e total de cerca de R$ 1,23 milhão",
+   "resumo_voto": "Item de bloco, com sustentação oral da distribuidora: reconheceu falha humana na extração de dados, pediu reclassificar NC 7 e 9 como pequeno potencial ofensivo (advertência) ou converter a multa em investimento (15 chaves telecomandadas); alegou grave situação financeira. Procuradoria (Parecer 93/2019) sugeria reenquadramento e não vê fundamento em pequeno potencial ofensivo só por correção de conduta. Relator manteve parcialmente a multa; dispositivo ajustado para explicitar o valor da multa da NC 9. Diretor comentou que o Plano de Resultados foi encerrado por não surtir efeito e que conversão em investimento é pelo rito do TAC (REN 338/2008, revogada), inaplicável.",
+   "sustentacao_oral": "representante da distribuidora recorrente (nome não identificado)",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e dá parcial provimento",
+     "ts": "1:52:10",
+     "justificativa": "falha reconhecida e corrigida justifica reduzir; mantém multas das demais não conformidades",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:28",
+     "justificativa": "parabenizou a sustentação e disse não ter sugestão de alteração ao voto (atribuição por inferência)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator, com sugestão de explicitar o valor no dispositivo",
+     "ts": "1:54:08",
+     "justificativa": "Plano de Resultados encerrado por falta de efeito; fatos de 2013 e multa tem de produzir efeito no menor prazo; conversão em investimento não cabe (REN 338/2008 revogada); parcelamento é questão a discutir de forma ampla (atribuição por inferência)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:00:08",
+   "processo": "48500.001502/2019-21",
+   "interessado": "MME / ANEEL (Leilão de geração 3/2019, A-4 de 2019)",
+   "assunto": "Aprovação do edital e anexos do Leilão A-4 de 2019 (hidrelétrica, eólica, solar fotovoltaica e termelétrica a biomassa; suprimento a partir de 1/1/2020) após a Audiência Pública 12/2019",
+   "tema": [
+    "leilões (geração)",
+    "transmissão (margem de escoamento, superação de curto-circuito)",
+    "comercialização (CCEE, contratos por quantidade)",
+    "outorgas de geração (eólica, solar, hidrelétrica, biomassa)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "edital aprovado por unanimidade",
+   "resumo_voto": "Preços iniciais e de referência definidos pelo MME (ex.: custo marginal de R$ 311/MWh). Relator manteve sazonalização pelo perfil de geração para eólica e solar, contrariando a EPE (flat); manteve a margem de escoamento com possibilidade de troca de disjuntores (risco do gerador) conforme diretrizes do MME, e não acatou ampliar a outros equipamentos. Elisa Bastos registrou ressalva de que a flexibilização do curto-circuito incentiva tomador de risco e que a Portaria 444 deve ser revista via consulta pública; o relator concordou em retomar o tema no A-6.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:16:19",
+     "justificativa": "sazonalidade pela curva de geração mitiga risco e reduz preço; risco de escoamento permanece com o gerador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator, com ressalva sobre flexibilização do curto-circuito",
+     "ts": "2:16:58",
+     "justificativa": "quanto ao curto-circuito, ao invés de mitigar riscos incentiva participação de tomador de risco; seguir diretrizes do MME por ora e discutir via consulta pública",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:21:31",
+     "justificativa": "sem fala individual identificada",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:22:14",
+   "processo": "48500.004659/2014-34",
+   "interessado": "ANEEL (SRM/SRG)",
+   "assunto": "Abertura de audiência pública para aprimorar a metodologia de definição dos limites máximo e mínimo do PLD (PLD máximo horário R$ 1.669,93 e estrutural R$ 540,68; mínimo pelo maior entre TEO Itaipu e TEO), com fase única em duas partes e dispensa da 2ª fase do art. 5º da REN 798/2017",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (consulta/audiência pública, AIR, agenda regulatória)",
+    "preço horário"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovada por unanimidade a abertura da AP em duas partes (1ª: 29/5 a 28/6/2019, sessão presencial só em Brasília em 19/6; 2ª: 3 a 18/7/2019)",
+   "resumo_voto": "Apresentação técnica da SRM/SRG com duas propostas de compatibilização (gatilho de 720 horas ou PLD estrutural coexistindo com o horário) e AIR 4/2019. Procuradoria: abertura prevista na Lei 9.427, tema técnico. Em discussão, Sandoval sugeriu eliminar a sessão presencial em São Paulo (já houve workshop na FIESP) e manter só Brasília com transmissão pela internet; a relatora aceitou.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova abertura da AP",
+     "ts": "3:32:00",
+     "justificativa": "processo fluido; primeira etapa formal; dois PLD máximos e piso por custo incremental (sem custos fixos)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha a relatora; elogia o processo",
+     "ts": "3:32:56",
+     "justificativa": "equilíbrio entre sinal de preço e mitigação de risco sistêmico (distribuidoras com 90% da exposição ao curto prazo); duas propostas preliminarmente atendem (atribuição por inferência)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora, sugere sessão presencial só em Brasília; proclama por unanimidade",
+     "ts": "3:38:16",
+     "justificativa": "propôs só Brasília com transmissão ao vivo, já realizado workshop em SP",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "28",
+   "motivo": "retirado de pauta (bloco)"
+  }
+ ],
+ "limites_da_analise": [
+  "Itens 8 a 32 aprovados em bloco: sem detalhamento na transcrição, não itemizados nem votados individualmente.",
+  "Tags de falantes inferidos pela legenda (Mosna, Tili) estão errados; presentes conforme abertura: Sandoval Feitosa, Elisa Bastos, Rodrigo Limp.",
+  "Voto dos seguidores atribuído pela ordem usual e pela proclamação; comentários sem nome (itens 5, 7, 10) atribuídos a Rodrigo Limp ou Elisa Bastos por inferência, confiança media ou baixa.",
+  "Item 10: nome da distribuidora incerto na legenda (CRB/CEEE/CGD); valores de multa são aproximados e podem estar errados.",
+  "Numeração do item 6 inferida pela ordem de julgamento anunciada (5, 7, 10, 13, 6, 2); a legenda diz «item 3». Verificar se o item 2 e o fim da tarde estão na Parte 2.",
+  "Item 6: no encerramento da manhã o presidente cita itens 2 e 6 para a tarde, mas o conteúdo do item 6 aparece nesta parte; possível confusão de legenda ou ordem alterada."
+ ]
+}

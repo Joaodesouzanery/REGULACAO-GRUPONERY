@@ -1,0 +1,338 @@
+{
+ "meta": {
+  "video_id": "ELBTnzyQuCY",
+  "fonte": "legenda automática do YouTube (Parte 1; .md sem marcadores internos, ts reconstruídos da transcrição JSON); falantes não confiáveis; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "39",
+  "data": "2018-10-23",
+  "formato": "presencial (sede da ANEEL)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 da 39ª Reunião Pública Ordinária; encerra no intervalo (retomada às 14h30). Itens 3, 5, 6, 7 e 8 ficam para a Parte 2.",
+   "Abertura menciona quórum para a atualidade de quatro diretores; Tiago Correia só é citado em terceira pessoa (não presente).",
+   "Ordem de julgamento: bloco 11-34, 9, 18, 4, 10, 1, 2; sustentações orais nos itens 4, 9, 10 e 18.",
+   "Item 18 foi destacado e retirado do bloco para julgamento individual.",
+   "Diretor-Geral informa que o edital do leilão 04/2018 (20/12/2018) será deliberado na reunião do dia 30/10."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 11-34",
+   "ts": "0:03:14",
+   "processo": "",
+   "interessado": "diversos (itens em bloco)",
+   "assunto": "Votação em bloco dos itens 11 a 34 da pauta (exceto o item 18, destacado e retirado do bloco), sem destaques",
+   "tema": [
+    "regulação normativa",
+    "itens em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Secretário informa destaques e sustentações orais (itens 4, 9, 10, 18) e nova ordem: 9, 18, 4, 10, 1, 2, 3, 5, 6, 7, 8. Diretores votam pela aprovação integral do bloco e o Diretor-Geral proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:03:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:04:00",
+   "processo": "48500.001987/2016-10",
+   "interessado": "Eletrosul Centrais Elétricas S.A. (Eletrobras)",
+   "assunto": "Pedido de reconsideração da Eletrosul contra o Despacho 2.194/2018 (recomendação ao MME de declaração de caducidade do contrato de concessão de transmissão 001/2015, lote A do Leilão 004/2014: linhas de 525 kV e 230 kV e subestações no Rio Grande do Sul, região de Porto Alegre, investimento estimado de R$ 4,1 bilhões)",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "transmissão (outorgas, leilão 004/2014)",
+    "recursos administrativos",
+    "institucional/TCU"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de reconsideração não acolhido, por unanimidade; mantida a recomendação de caducidade ao MME",
+   "resumo_voto": "Relator vota por conhecer (tempestivo) e negar o pedido: a decisão de caducidade decorre da Resolução Autorizativa 7.303/2018, não impugnada (preclusão); plano de transferência é indissociável do sucessor (Shanghai Electric desistiu em 21/09/2018) e exigiria novo plano; entre nova licitação no leilão de 20/12/2018 e novo plano incerto (mín. 6 meses mais 48 meses de obra), prevalece a nova licitação. Sustentação oral da Eletrosul (Gilberto, presidente) pedia substituir a SPE da Shanghai pela Brasil Sul Transmissora. Acréscimo ao dispositivo por sugestão em plenário: a SCT avaliará incluir no edital dispositivo que permita ao vencedor aproveitar licenças e terrenos já obtidos pela Eletrosul.",
+   "sustentacao_oral": "Gilberto, representante/presidente da Eletrosul (10 minutos); Procuradoria Federal opinou pela impossibilidade de aproveitar o plano para outro agente",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, não acolhe o pedido de reconsideração",
+     "ts": "1:16:18",
+     "confianca": "alta",
+     "justificativa": "a não impugnação da Resolução Autorizativa 7.303/2018 gera preclusão; análise de viabilidade do plano é indissociável do sucessor; nova licitação em 20/12/2018 é a alternativa de maior factibilidade e menor prazo; critica ausência de ação do acionista controlador (Eletrobras)"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:17:04",
+     "confianca": "media",
+     "justificativa": "concorda com o voto; a ANEEL foi diligente e estendeu prazos; sem alternativa dada a iminência do leilão e a incerteza de novo plano"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:18:34",
+     "confianca": "media",
+     "justificativa": "esforço da agência foi grande, falha foi empresarial; interesse público (Rio Grande do Sul, escoamento de geração); lote dividido em quatro no leilão; antecipa avaliar cláusula de reconhecimento de custos no edital de 30/10"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação); propõe incluir no dispositivo avaliação de ressarcimento da Eletrosul no edital",
+     "ts": "1:33:30",
+     "confianca": "media",
+     "justificativa": "interesse público e leilão de 20/12; sugere dispositivo para aproveitar licenças já obtidas; penalidades seguem rito próprio com ampla defesa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:43:21",
+   "processo": "48500.005240/2018-23",
+   "interessado": "PCH Jauru SPE S.A. (PCH Estivadinho 3, rio Jauru, Reserva do Cabaçal, MT)",
+   "assunto": "Pedido de medida cautelar para suspender obrigações do Contrato de Energia de Reserva CER 430/2016 e da Portaria MME 198/2017 (impossibilidade de iniciar obras por licenciamento ambiental)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "leilões (energia de reserva)",
+    "recursos administrativos (cautelar)",
+    "licenciamento ambiental"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "cautelar conhecida e negada, por unanimidade; processo enviado à SCG para análise de excludente de responsabilidade",
+   "resumo_voto": "Relator reconhece a verossimilhança das alegações (licenciamento conturbado, decisões judiciais), mas não há perigo da demora: início do suprimento só em 01/03/2021 conforme o contrato; mérito (excludente de responsabilidade) vai à SCG. Sustentação oral do advogado da PCH Jauru pediu reverter o entendimento sobre o perigo da demora, citando cautelares em casos de outras PCH.",
+   "sustentacao_oral": "Advogado da PCH Jauru (prenome Rodrigo, pela legenda), 10 minutos",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega a cautelar",
+     "ts": "2:03:28",
+     "confianca": "alta",
+     "justificativa": "presente a fumaça do bom direito, mas ausente o perigo da demora (suprimento só em 2021); mérito instruído pela área técnica"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:06:34",
+   "processo": "48500.005381/2017-65",
+   "interessado": "CCEE; ABRADEE (sustentação); distribuidoras e consumidores livres",
+   "assunto": "Resultado da Audiência Pública 64/2017 (2ª fase): alteração das regras de cálculo do montante mantido na Conta de Energia de Reserva (CONER) para devolver excedentes aos agentes que recolheram a conta; altera a REN 337/2008 e as regras de comercialização",
+   "tema": [
+    "CDE e encargos setoriais (CONER, energia de reserva)",
+    "comercialização (CCEE)",
+    "regulação normativa (audiência pública)",
+    "tarifas"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (minuta de resolução normativa alterando a REN 337/2008 e regras de comercialização)",
+   "resumo_voto": "Relator acolhe extinção da receita retida e redução do multiplicador de 2 para 1 na estimativa de pagamentos futuros, mantém fundo de garantia de 50% e autoriza a CCEE a cobrar excepcionalmente encargo fora do cronograma se houver déficit; CCEE opera por mecanismo auxiliar de cálculo a partir da liquidação em curso. Com a regra vigente seria restituído cerca de 1/3 do saldo (aprox. R$ 300 milhões de cerca de R$ 1 bilhão). Outros diretores destacam o formalismo regulatório, a retirada da previsão de cerca de 75% na tarifa das distribuidoras e o potencial de redução tarifária (estimativa de 1,8%).",
+   "sustentacao_oral": "Representante da ABRADEE (10 minutos): defende cenário 3 e fundo de garantia reduzido para 5%",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova a minuta",
+     "ts": "2:25:59",
+     "confianca": "alta",
+     "justificativa": "regra vigente deve ser respeitada, mas é possível aprimorar sem abrir mão da segurança para pagar geradores; devolver excedentes alivia estresse financeiro dos agentes"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:33:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:33:46",
+   "processo": "48500.001764/2018-45",
+   "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte) e União",
+   "assunto": "Caducidade do contrato de concessão de transmissão 09/2014 (lote N do Leilão 07/2013: LT Rio Branco-Feijó e Feijó-Cruzeiro do Sul, AC, subestações associadas), operação comercial prevista para 29/01/2017",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "transmissão (outorgas, leilão 07/2013)",
+    "licenciamento ambiental / terra indígena",
+    "institucional/TCU"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: encaminhar ao MME proposta de caducidade e abrir processo para execução da garantia de fiel cumprimento",
+   "resumo_voto": "Relator: Eletronorte descumpriu o prazo, não regularizou a falha nem apresentou plano de recuperação do cronograma; traçado escolhido pela empresa pela terra indígena (diverso do de referência do edital) e escolha de fornecedores são risco do concessionário; não cabe reequilíbrio nem sobrestamento; implantação só em 30/10/2020 (atraso de cerca de 1.370 dias); custo da geração térmica no Acre de cerca de R$ 172 milhões/ano. Não houve pedido de plano de transferência de controle. Sustentação oral da Eletronorte pediu abertura para renegociar antes da caducidade; TCU vetou o TAC com o consórcio contratado.",
+   "sustentacao_oral": "Representante da Eletronorte (Luiz Fernando, pela legenda), 10 minutos",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, encaminha ao MME a caducidade e determina execução da garantia",
+     "ts": "3:05:24",
+     "confianca": "alta",
+     "justificativa": "descumprimento da cláusula segunda; risco de licenciamento é do concessionário; manter o lote prolongaria o atraso e o custo da geração térmica"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "3:17:04",
+   "processo": "48500.004721/2018",
+   "interessado": "Permissionárias cooperativas (Cetril, cooperativa de Anitápolis e uma terceira, nomes pela legenda); supridoras CPFL Piratininga, Elektro e Eletronorte",
+   "assunto": "Homologação das tarifas de energia (TE) e de uso do sistema de distribuição (TUSD) das permissionárias com aniversário em 30/10/2018; fixação de tarifas de suprimento e cotas CDE e Proinfa",
+   "tema": [
+    "tarifas e revisão tarifária (permissionárias)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de cerca de 10% (cooperativa de Anitápolis) e 12,95% (Cetril); fixa tarifas de suprimento e cotas anuais da CDE e Proinfa e homologa repasses de recursos da CDE pela CCEE para os descontos retirados na estrutura tarifária.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova as resoluções homologatórias",
+     "ts": "3:22:31",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:23:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:23:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:23:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:24:03",
+   "processo": "48500.005098/2018-14",
+   "interessado": "Amazonas Distribuidora de Energia S.A. (Amazonas Energia)",
+   "assunto": "Enquadramento na sub-rogação dos benefícios do rateio da CCC para o projeto de interligação de Parintins (AM) ao SIN, limitado a cerca de R$ 41,478 milhões",
+   "tema": [
+    "CDE e encargos setoriais (CCC, sub-rogação)",
+    "transmissão (interligação Parintins)",
+    "distribuição (sistemas isolados)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Orçamento da distribuidora (cerca de R$ 41 milhões) inferior ao banco de preços da ANEEL (R$ 55 milhões; R$ 99 milhões com adicionais amazônicos); aprovação condicionada a licitação com pagamento direto da CCC à contratada; payback de cerca de cinco meses frente a R$ 114 milhões de diesel (2017); vinculado ao lote do Leilão 04/2018 (20/12/2018). Debate sobre se o permissivo da REN 748/2016 vale após privatização (distribuidora deixa de ser designada).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova o enquadramento",
+     "ts": "3:35:03",
+     "confianca": "alta",
+     "justificativa": "economia relevante na CCC, valores são tetos sujeitos a fiscalização a posteriori; obra se paga em cerca de cinco meses"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, empresas e valores parciais ou distorcidos (processos reconstruídos da fala; sufixos incertos).",
+  "Falas de discussão sem nome dito: atribuição individual impossível; votos dos não relatores baseados na proclamação (confiança media/baixa); no item 9 Rodrigo Limp e Sandoval Feitosa são identificados pelo conteúdo e menções.",
+  "Presença: 4 diretores deduzidos da saudação da sustentação oral e da votação; Tiago Correia não presente, a confirmar em ata.",
+  "O .md original não tem marcadores de tempo internos; ts obtidos da transcrição bruta (aprox.).",
+  "Itens 11 a 34 votados em bloco sem identificação individual dos processos."
+ ]
+}

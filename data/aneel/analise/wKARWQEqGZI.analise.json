@@ -1,0 +1,402 @@
+{
+ "meta": {
+  "video_id": "wKARWQEqGZI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "44",
+  "data": "2019-11-26",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp",
+   "André Pepitone",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura declara quórum de cinco diretores (Sandoval Feitosa, Elisa Bastos, Rodrigo Limp, André Pepitone, Efrain Cruz); lista inferida pelo quadro da diretoria em 2019, pois a legenda não chama os nomes.",
+   "Elisa Bastos não compareceu ao item 8 (compromisso/entrevista); presença de Efrain Cruz no fim não confirmada, pois seu voto no item 1 foi lido por André Pepitone.",
+   "Pauta de 30 itens; itens 4, 5 e 7 retirados a pedido; itens 11 a 30 em bloco; ordem: bloco, 9, 12, 20, 10, 3, 6, 8, 1 (item 1 por último).",
+   "Abertura com extenso debate sobre geração distribuída (revisão da REN 482/2012, AP 25/2019 prorrogada até 30/12/2019; relator Rodrigo Limp): diretores falam em segurança jurídica, portabilidade, cenários 1 a 5, prazo de transição até 2030; sugestão de rever a proposta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 11-30",
+   "ts": "0:27:19",
+   "processo": "",
+   "interessado": "diversos (itens 11 a 30 da pauta, atos e votos publicados previamente)",
+   "assunto": "Votação em bloco dos itens 11 a 30 da pauta (exceto os destacados 12 e 20, julgados separadamente)",
+   "tema": [
+    "bloco de itens (sem detalhe na transmissão)"
+   ],
+   "relator": "vários (não identificados)",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Sem leitura individual na transmissão; Sandoval Feitosa propôs o bloco, e proclamou aprovação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "propõe e proclama aprovação do bloco",
+     "ts": "0:28:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:28:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:28:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:28:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:28:08",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:28:19",
+   "processo": "48500.003619/2017-18 e outros (número pela legenda)",
+   "interessado": "Centrais geradoras eólicas Itaguaçu da Bahia e demais SPEs (Ventos de Santa Luiza, Santa Madalena, Santa Marcelina, Santa Vera, Santo Antônio, São Bento, São João, São Rafael, São Cirilo), Furnas (49%), Casa dos Ventos, fundo de investimento (consórcio do leilão 10/2013); EPE",
+   "assunto": "Pedido de reconsideração das SPEs eólicas e de Furnas contra os despachos 1820 e 1830/2018 (multa de 1% do investimento declarado à EPE e suspensão de contratar/licitar por um ano), após revogação das outorgas e rescisão dos contratos no MCSD",
+   "tema": [
+    "fiscalização e sanções (multa, suspensão de licitar)",
+    "outorgas de geração (eólica)",
+    "leilões (geração)",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Rodrigo Limp (relator original); voto-vista de Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes, nos termos do voto-vista: conhece; nega provimento às SPEs (mantém multa total de R$ 960,7 mil, 1% do investimento por usina, e suspensão de um ano); dá provimento a Furnas, afastando da controladora a suspensão",
+   "resumo_voto": "Voto-vista de Elisa Bastos: dosimetria coerente com a jurisprudência da agência (multa atenuada de 5% para 1% e suspensão de 2 para 1 ano, porque houve descontratação no MCSD; aplicação do parecer 319 da Procuradoria); contudo, estender a suspensão a Furnas, controladora minoritária (49%) sem poder de decisão isolado (governança compartilhada, sociedade obrigatória por edital), não configura abuso de direito para desconsiderar a personalidade jurídica; critério do número de empreendimentos para escolher a controladora seria frágil, pois o objeto do leilão é contratação de energia. Relator original acompanhou o voto-vista. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator original; acompanha o voto-vista (mantém penalidade e retira suspensão do controlador)",
+     "ts": "0:58:30",
+     "confianca": "alta",
+     "justificativa": "confortável em acompanhar a diretora no voto-vista: mantém penalidade às SPEs e retira a suspensão da controladora Furnas, que não decidia sozinha"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista vencedor: nega provimento às SPEs, dá provimento a Furnas",
+     "ts": "0:30:30",
+     "confianca": "alta",
+     "justificativa": "multa de 1% e suspensão de um ano coerentes com a jurisprudência; Furnas, com 49% e governança compartilhada, não deve ser alcançada pela suspensão"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "0:56:03",
+     "confianca": "media",
+     "justificativa": "comentou que a matéria exige métrica para dosimetria e que a penalização do controlador é discutível; pediu a manifestação do relator original"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:00:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:00:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:01:10",
+   "processo": "48500.005793/2019-67",
+   "interessado": "Companhia Energética do Piauí (Cepisa, Equatorial Energia Piauí); sustentação oral de Cristiano (superintendente da Cepisa)",
+   "assunto": "Reajuste tarifário anual 2019 da Cepisa, vigência a partir de 2/12/2019, efeito médio de -7,16%; indeferimento anterior da revisão tarifária extraordinária (RTE) pedida pela empresa (recurso pendente)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual)",
+    "distribuidoras",
+    "recursos administrativos",
+    "privatização/Eletrobras"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Homologa reajuste de -7,16% (alta e baixa tensão) com tarifas fixadas e CDE repassada; parcela A -6,32%, B +1,44%, financeiros +11,95 (entra) e -14,22 (retirada de componente de antecipação da CCR); mantém o rito (aniversário em 2/12) porque não houve atendimento dos requisitos da RTE e não há tempo; direito à RTE até o 3º ano preservado; recurso será apreciado depois, SFF/SFR fiscalizarão ativos a partir do dia 9. A Cepisa pediu na sustentação manter as tarifas vigentes até solução da RTE. Dois diretores não identificados pela legenda comentaram em apoio ao rito (recurso em análise do relator; direito à RTE até o 3º ano; deliberação anterior unânime por falta de segurança sobre os ativos).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (homologa o reajuste)",
+     "ts": "1:38:20",
+     "confianca": "alta",
+     "justificativa": "manter o rito do reajuste; sem requisitos nem tempo para RTE; tarifa cai para o consumidor"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:39:10",
+   "processo": "48500.005021/2008-44",
+   "interessado": "Energisa Mato Grosso (recorrente); consumidor (reclamante); sustentação oral de Frederico (coordenador jurídico da Energisa MT)",
+   "assunto": "Recurso administrativo contra o despacho 1.222/2019 da SMA sobre data de depreciação e ressarcimento por incorporação de rede particular, com alegação de prescrição de 3 anos (STJ, Súmula 547)",
+   "tema": [
+    "recursos administrativos",
+    "distribuição (incorporação de rede particular)",
+    "prescrição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "retirado de pauta pela relatora após a sustentação oral, para análise mais detalhada",
+   "resumo_voto": "Após a sustentação (termo inicial da prescrição: 180 dias após a efetiva incorporação em 9/2/2014, logo prescrito; Procuradoria opinou por conhecer e negar provimento), a relatora retirou o item.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, retira de pauta",
+     "ts": "1:51:08",
+     "confianca": "alta",
+     "justificativa": "analisar de forma mais detalhada e trazer em seguida"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:51:12",
+   "processo": "48500.003456/2016-92",
+   "interessado": "Chesf (UHE Paulo Afonso 4 e Apolônio Sales)",
+   "assunto": "Alteração dos coeficientes de distribuição da compensação financeira pela utilização de recursos hídricos (CFURH) das usinas Paulo Afonso 4 e Apolônio Sales",
+   "tema": [
+    "CFURH / compensação financeira",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "retirado de pauta pelo relator; volta na reunião de 3/12/2019",
+   "resumo_voto": "Havia pedido de sustentação oral; o relator não teve tempo de informar-se com a secretaria e retirou o item.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, retira de pauta",
+     "ts": "1:51:40",
+     "confianca": "alta",
+     "justificativa": "não teve tempo de se informar sobre a sustentação oral; incluirá na reunião de 3/12"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:52:09",
+   "processo": "48500.000643/2018-86",
+   "interessado": "concessionárias de transmissão licitadas com revisão em 2018 e 2019",
+   "assunto": "Abertura de consulta pública por intercâmbio documental (28/11/2019 a 13/1/2020) sobre a revisão da RAP dos reforços e melhorias e avaliação de outras receitas para modicidade tarifária",
+   "tema": [
+    "transmissão (RAP, reforços e melhorias)",
+    "regulação normativa (consulta pública)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Resultados preliminares: reposicionamento real de cerca de +1,28% (revisão 2018, ~R$ 800 mil) e -13,38% (2019, ~R$ 31 mi), cerca de -11% no conjunto com WACC provisório; outras receitas de R$ 8,2 milhões para modicidade; inconsistências nos laudos (VNR, valoração mista) a tratar na consulta; apresentação técnica de Denis Januzzi (SGT).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:15:30",
+     "confianca": "alta",
+     "justificativa": "evitar novas revisões provisórias; inconsistências serão tratadas na consulta pública"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:16:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:16:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:16:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:16:43",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:17:19",
+   "processo": "48500.001091/2018-23",
+   "interessado": "concessionárias de transmissão (Abrat), ONS, SFR, SRT",
+   "assunto": "Resultado da Audiência Pública 61/2018: resolução normativa sobre georreferenciamento (especialização) das instalações de transmissão e criação da base de dados BIT, com alteração do anexo da REN 669/2015 e do submódulo 2.2 dos Procedimentos de Rede",
+   "tema": [
+    "transmissão (base de dados, georreferenciamento)",
+    "regulação normativa (resolução, audiência pública, AIR)",
+    "fiscalização (aplicativo GT, queimadas)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Aprova a norma: dados enviados somente pelas transmissoras ao ONS, com prazos escalonados (1 ano para o sistema; 1a3m, 1a6m e 1a9m para os envios), atualização anual até 31/3; descumprimento como pendência não impeditiva com desconto de receita; precisão planimétrica flexibilizada para 5 m e altimétrica 10 m nos carregamentos até 2023; delegação à SRT e SGI/SFG para ajustes dos procedimentos de rede. 344 contribuições (36% aproveitadas).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:41:00",
+     "confianca": "alta",
+     "justificativa": "base única de informações simplifica e reduz erros; delegação desburocratiza"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:30",
+     "confianca": "alta",
+     "justificativa": "elogiou o pioneirismo do aplicativo GT na fiscalização e o georreferenciamento como informação básica da rede (autoria do comentário atribuída a Sandoval por inferência; outro diretor não identificado também elogiou a norma)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:57",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:48:17",
+   "processo": "48500.003071/2018-97",
+   "interessado": "Eletronorte (Centrais Elétricas do Norte do Brasil)",
+   "assunto": "Recurso contra auto de infração 15/2019 da SFR (multa) por perturbação de 21/3/2018 originada na perda do bipolo 1 do elo CCAT Xingu-Estreito",
+   "tema": [
+    "fiscalização e sanções (auto de infração, multa)",
+    "transmissão (perturbação)",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Elisa Bastos (voto-vista de Sandoval Feitosa)",
+   "resultado": "retirado de pauta pelo Diretor-Geral, por ausência da relatora, para trazer o voto-vista na presença dela",
+   "resumo_voto": "Sandoval Feitosa, autor do voto-vista, retirou o processo porque a relatora Elisa Bastos teve compromisso (entrevista) e não pôde comparecer.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista; retira de pauta (relatora ausente)",
+     "ts": "2:49:00",
+     "confianca": "media",
+     "justificativa": "melhor trazer o voto-vista na presença da diretora relatora"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:49:30",
+   "processo": "48500.002116/2019-97 (legenda)",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA); sustentação oral de Pedro de Menezes Reis (procurador da CEA)",
+   "assunto": "Reajuste tarifário anual 2019 da CEA, vigência a partir de 30/11/2019, efeito médio de -6,13% (alta -9,3%; baixa -5,17%)",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual)",
+    "distribuidoras",
+    "CDE e encargos setoriais",
+    "sistemas isolados"
+   ],
+   "relator": "Efrain Cruz (voto lido por André Pepitone)",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Homologa reajuste de -6,13%; componentes financeiros de -8,60%; reconhece o efeito da liminar suspensa (até 2/5/2019) como componente financeiro e não refaturamento; não acata, por ora, o pleito de R$ 46 milhões (renegociação da dívida com a Eletronorte, quitada em parcelas), determinando fiscalização e avaliação para o próximo processo; determina a SGT a revisar 2013-2014 e a energia de cotas de Coaracy Nunes, com tratamento conjunto da fiscalização da CCC; apresentação técnica de André Feio.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (voto lido por André Pepitone)",
+     "ts": "3:16:35",
+     "confianca": "media",
+     "justificativa": "reconhecer a receita não auferida no período da liminar via componente financeiro; não premiar inadimplência sem apuração; fiscalizar valores e Coaracy Nunes"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "leu o voto do relator; acompanha",
+     "ts": "3:16:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:20",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 4, 5 e 7 retirados da pauta a pedido (sem detalhes na transmissão)",
+  "Item 20 (Energisa MT, recurso, relatora Elisa Bastos) retirado após sustentação oral",
+  "Item 10 (Chesf, CFURH, relator Rodrigo Limp) retirado, volta em 3/12/2019",
+  "Item 8 (Eletronorte, auto de infração, relatora Elisa Bastos, voto-vista de Sandoval Feitosa) retirado por ausência da relatora"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números de processo e valores podem estar errados (números de processo são leitura da legenda).",
+  "Presentes inferidos como os cinco diretores de 2019; votos de seguidores atribuídos pela proclamação de unanimidade dos votantes, com confiança baixa; ts aproximados.",
+  "Itens 12 e 6: comentários de diretores não identificados pela legenda; atribuição a Sandoval no item 6 é inferência.",
+  "Item 1: voto do relator Efrain Cruz lido por Pepitone; Elisa Bastos fora da votação (provável ausência), 4 votos registrados em vez de 5.",
+  "Item 9: ts do voto-vista (0:30:30) e do relator (0:58:30) aproximados; Sandoval fez comentário de reflexão e o voto individual de cada seguidor não é audível.",
+  "Itens do bloco 11 a 30 não detalhados na transmissão; itens 4, 5, 7 sem informação.",
+  "Numeração de itens (ex.: item 12 para Cepisa, item 1 para CEA) deduzida da ordem de julgamento anunciada."
+ ]
+}

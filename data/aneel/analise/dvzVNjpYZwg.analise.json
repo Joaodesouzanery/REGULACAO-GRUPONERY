@@ -1,0 +1,424 @@
+{
+ "meta": {
+  "video_id": "dvzVNjpYZwg",
+  "fonte": "legenda automática do YouTube; falantes inferidos errados (cabeçalho cita Sandoval Feitosa e Ricardo Tili); ts = tempo do vídeo; ts de votos de seguidores aproximados (proclamação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47",
+  "data": "2019-12-17",
+  "formato": "presencial (Parte 2 da 47ª Reunião Pública Ordinária, retomada após intervalo)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Vídeo é a Parte 2: começa na retomada da tarde (~0:09:00); itens da manhã não estão neste vídeo.",
+   "8 itens deliberados, todos por unanimidade dos votantes.",
+   "Inversões de pauta no início (item 13 da sequência 47) e a pedido do relator (item 89).",
+   "Encerrada ~2:25:59; última reunião pública de 2019."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:09:25",
+   "processo": "48500.003779/2005 (dígito verificador incerto na legenda)",
+   "interessado": "Energisa Mato Grosso (EMT) e Gazel Centrais Elétricas (Gazel)",
+   "assunto": "Recurso administrativo contra o Despacho 1.610/2018 da SRM, que negou aprovação do 5º termo aditivo ao contrato de compra e venda de energia (anterior a 2003) entre EMT e Gazel (PCH Salto Corgão, 18,4 MWmédios)",
+   "tema": [
+    "comercialização (contratos, termo aditivo, descontratação)",
+    "recursos administrativos",
+    "repactuação do risco hidrológico",
+    "tarifas (impacto ao consumidor)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e desprovido, mantido o Despacho 1.610/2018; CCEE deve adotar providências de recontabilização; por unanimidade dos votantes",
+   "resumo_voto": "Rejeitada a preliminar da PGF sobre erro na distribuição por sorteio (juiz natural): procedimento regular. RN 783/2017 aplicável; a ANEEL tem competência para analisar o mérito dos aditivos. A repactuação do risco hidrológico (termo 39/2016) é condição impeditiva do aditivo, pois o gerador não pode descontratar do ACR após transferir o risco ao consumidor; custo de mais de R$ 26 milhões ao ACR em jul/2017-jul/2019 e impacto de cerca de R$ 40 milhões para consumidores da EMT (SGT). Neutralidade tarifária (usada no caso Alto Jauru) descartada porque lá não houve repactuação. Sem sustentação oral registrada. Houve comentário de um diretor (autoria não identificada) sobre a recorrência de pedidos de descontratação e a necessidade de analisá-los em bloco, e ressalva quanto ao juiz natural, mas acompanhando o voto.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "0:34:55",
+     "justificativa": "aditivo inviável pela prévia repactuação do risco hidrológico; prejuízo aos consumidores da EMT e do ACR; competência da ANEEL para controlar contratos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:38:08",
+   "processo": "48500.002331/2015-64 (legenda)",
+   "interessado": "Norte Brasil Transmissora de Energia (NBT)",
+   "assunto": "Medida cautelar em requerimento administrativo da NBT para afastar a parcela variável por indisponibilidade (PVI, cerca de R$ 30 milhões) por desligamento da LT 600 kV Coletora Porto Velho-Araraquara 2 em 29-30/04/2016",
+   "tema": [
+    "transmissão (parcela variável, indisponibilidade)",
+    "recursos administrativos",
+    "medida cautelar"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "medida cautelar negada, mantida a PVI; autos à SRT para julgamento em primeira instância; por unanimidade dos votantes",
+   "resumo_voto": "Sustentação oral da procuradora da NBT (Ticiane Moraes Franco, 10 min): preclusão (apuração em 2019 de evento de abril/2016, RN 277), definição da data de energização com carga (carência de seis meses ligada ao Bipolo 2 de Madeira) e pedido de suspensão. Relator: o próprio mecanismo da PV já mitiga o periculum in mora; os requisitos da cautelar não se caracterizam; a concessionária recebe RAP desde a disponibilização e sujeita-se aos descontos de qualidade; prazo da apuração é impróprio. Mantido o voto.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:53:44",
+     "justificativa": "periculum in mora afastado pela própria norma da PV; excepcionalidade não demonstrada; prazo de apuração é impróprio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:55:00",
+   "processo": "48500.000374/2019-39 (legenda)",
+   "interessado": "SRG / ANEEL (mecanismo de realocação de energia, MRE)",
+   "assunto": "Abertura de consulta pública (19/12/2019 a 17/02/2020) para aprimorar o MRE quanto aos expurgos de indisponibilidade do Anexo 1 da REN 614/2014 (usinas hidrelétricas despachadas centralizadamente)",
+   "tema": [
+    "comercialização (MRE, garantia física)",
+    "regulação normativa (consulta pública)",
+    "geração hidrelétrica"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "consulta pública instaurada, por unanimidade",
+   "resumo_voto": "Apresentação técnica da SRG; alternativas: manter o Anexo 1 ou não aplicar às hidrelétricas os itens expurgáveis não hidrológicos (mantido o ligado ao regime hidrológico). Expurgos mudam a alocação de energia entre participantes do MRE (cobertor curto). Comentários de dois diretores (autoria não identificada) apoiando as ações de reequilíbrio do MRE.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:04:50",
+     "justificativa": "consulta pública de 60 dias para aprimorar o MRE quanto aos expurgos de indisponibilidade; riscos não hidrológicos são assumidos individualmente (Decreto 2.655/98)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:07:22",
+   "processo": "48500.005415/2019-83 (legenda)",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS); contribuição de EDP Energias do Brasil",
+   "assunto": "Resultado da CP 36/2019: afastamento excepcional e provisório do item 4.1.1.1 a 3 do Submódulo 13.2 dos Procedimentos de Rede para transferir o SRDA/SLDA do prédio de Furnas (Botafogo, RJ) para Florianópolis",
+   "tema": [
+    "regulação normativa (Procedimentos de Rede)",
+    "operação do sistema (ONS)",
+    "consulta pública"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovada, de forma excepcional e provisória, a solução do ONS; por unanimidade dos votantes",
+   "resumo_voto": "Furnas desocupa o prédio em fevereiro de 2020; 63 agentes precisam migrar canais; única contribuição (EDP) pede ressarcimento de custos, rejeitada por serem inerentes à operação. Solução de menor custo global e mesma confiabilidade técnica.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:13:47",
+     "justificativa": "solução de menor custo global e mesma confiabilidade; custos de migração inerentes aos agentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:14:46",
+   "processo": "48500.003752/2019-83 (legenda)",
+   "interessado": "SRG / ONS (redução e limitação de geração, constrained-off)",
+   "assunto": "Abertura da primeira fase de consulta pública (19/12/2019 a 17/02/2020) sobre critérios operativos para redução ou limitação de geração de usinas despachadas centralizadamente",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "operação do sistema (corte de geração, eólicas)",
+    "comercialização (efeitos comerciais, encargos)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "primeira fase da consulta pública instaurada (segunda fase de 45 dias prevista), por unanimidade",
+   "resumo_voto": "Proposta da NT 119/2019 e relatório do ONS: critério econômico para escolher conjuntos de usinas a reduzir, rateando efeitos comerciais entre elas, em vez de recair só sobre eólicas. Um diretor (autoria não identificada) fez pergunta de esclarecimento, respondida pela área técnica.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:31:01",
+     "justificativa": "racionalidade econômica na redução de geração e distribuição dos efeitos comerciais entre as usinas do conjunto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:34:38",
+   "processo": "48500.001989/2019 (legenda incerta)",
+   "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte)",
+   "assunto": "Termo de Intimação 3/2019 da SFE: suspensão temporária de participação em licitações e impedimento de contratar com a ANEEL após caducidade do contrato de concessão 4/2019 (voto-vista)",
+   "tema": [
+    "fiscalização e sanções (suspensão de licitar, caducidade)",
+    "transmissão",
+    "voto-vista"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "prevaleceu o voto-vista de Efrain Cruz: suspensão de 12 meses contados da recomendação de caducidade; por unanimidade dos votantes",
+   "resumo_voto": "Relatora propusera um ano de suspensão (SFE concordava); Efrain pediu vista na 28ª reunião. Voto-vista mantém um ano, mas fixa início na recomendação da ANEEL ao MME (despacho 2.436/2018), logo vencida em 23/10/2019. A relatora acompanhou o voto-vista. Debate sobre redesenhar o rito para julgar caducidade e penalidade juntas, com a Procuradoria. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:48:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora; muda o voto e acompanha o voto-vista",
+     "ts": "1:40:00",
+     "justificativa": "o voto-vista levantou ponto que não analisara: a caducidade já impede a Eletronorte de participar de leilões por força dos editais; análise caso a caso; sugere unificar caducidade e penalidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista vencedor: aplicar suspensão de 12 meses contados da recomendação de caducidade (despacho 2.436, de 23/10/2018)",
+     "ts": "1:35:16",
+     "justificativa": "dosimetria de um ano mantida, mas a vigência deve partir da recomendação de caducidade, pois os editais de transmissão já impedem a participação desde então; senão ultrapassaria o limite legal de dois anos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:48:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (pela proclamação)",
+     "ts": "1:48:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:51:41",
+   "processo": "48500.005102/2012-59 (legenda)",
+   "interessado": "SRG / concessionárias de usinas hidrelétricas em regime de cotas (Lei 12.783/2013)",
+   "assunto": "Abertura de consulta pública por intercâmbio documental (19/12/2019 a 17/02/2020) para revisão da REN 541/2013, padrão de qualidade do serviço de geração das usinas cotistas",
+   "tema": [
+    "regulação normativa (consulta pública, agenda regulatória)",
+    "outorgas de geração (hidrelétricas em cotas)",
+    "qualidade do serviço de geração"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "consulta pública por intercâmbio documental instaurada, por unanimidade",
+   "resumo_voto": "Apresentação da SRG: revisar parâmetros de ajuste por indisponibilidade (usinas despachadas e não despachadas centralizadamente), pois resultados atuais premiavam usinas de desempenho histórico baixo; eliminar limite de 10% na variação. Item invertido na pauta a pedido do relator.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:05:00",
+     "justificativa": "consulta de 60 dias para rever referências de qualidade das usinas cotistas e deliberar em 2020",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:06:52",
+   "processo": "48500.005262/2017-31 (legenda)",
+   "interessado": "Usina Fotovoltaica Ganhar (UFV Ganhar, nome incerto na legenda)",
+   "assunto": "Requerimento administrativo contra o Despacho 1.399/2018, que não conheceu pedido de reconsideração contra o Despacho 993/2018 (revogação da outorga, leilão de energia de reserva 08/2014); plano de transferência de controle",
+   "tema": [
+    "outorgas de geração (solar fotovoltaica, revogação)",
+    "leilões (energia de reserva)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "requerimento indeferido, plano de transferência de controle não aprovado, mantida a revogação; por unanimidade dos votantes",
+   "resumo_voto": "Não houve plano de transferência formal antes do julgamento definitivo (3/5/2018); mesmo analisando o plano novo, a SFG concluiu não haver vantajosidade: energia a R$ 287/MWh atualizada contra R$ 118/MWh do último leilão e energia de reserva sem necessidade; propostas de nov/2019 já previstas no contrato ou sem amparo legal. Precedentes invocados não são similares. Um diretor (autoria não identificada) elogiou o voto.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:24:17",
+     "justificativa": "plano de transferência não demonstra benefício ao serviço (art. 46, par. 2, Lei 9.074); contrato de energia de reserva custoso e sem necessidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:00",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processo e dígitos verificadores são aproximados.",
+  "Composição da diretoria em 17/12/2019 inferida (André Pepitone DG, Elisa Bastos, Efrain Cruz, Rodrigo Limp, Sandoval Feitosa); chamada nominal não ouvida; ausência não confirmada.",
+  "Votos dos acompanhantes atribuídos pela proclamação do Diretor-Geral; falas individuais de acompanhamento sem nome na legenda, confiança media; ts aproximado.",
+  "Comentários de diretores durante a discussão (itens 1, 3, 5, 6, 8) sem autoria identificável com segurança; não atribuídos a diretor.",
+  "Item 1: um diretor discordou do ponto inicial do juiz natural mas acompanhou; autoria incerta.",
+  "Item 6: voto da relatora Elisa Bastos (muda para o voto-vista) ouvido em ~1:40; dispositivo precisa de ajuste, pois a penalidade já estaria vencida em out/2019 (discussão registrada)."
+ ]
+}

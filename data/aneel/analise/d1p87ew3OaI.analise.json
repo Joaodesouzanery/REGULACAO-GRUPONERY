@@ -1,0 +1,70 @@
+{
+  "meta": {"video_id": "d1p87ew3OaI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2", "data": "2021-01-26", "formato": "videoconferência (parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da 2ª Reunião Pública Ordinária de 2021 (retomada à tarde); a parte da manhã não está neste arquivo.", "Chamada inicial não consta; Elisa Bastos, André Pepitone e Sandoval Feitosa são identificados por fala ou menção. Há outros diretores falando (item 1 e item 3) cujo nome não é audível na legenda.", "4 itens: 3 deliberados (todos por unanimidade dos votantes) e 1 prorrogação de prazo de voto-vista.", "Encerrada a reunião ao fim do item 4 (cerca de 1:59:34)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:47",
+      "processo": "48500.004725/2015 (número aproximado pela legenda)", "interessado": "Raízen Shell Biogás S.A. (SP Raízen Biogás Ltda.)",
+      "assunto": "Alteração do cronograma de implantação da UTE Biogás Bonfim (Guariba/SP, 20,893 MW, 7 unidades geradoras, leilão A-5 2016) com pedido de excludente de responsabilidade",
+      "tema": ["outorgas de geração (térmica a biogás)", "leilões (A-5 2016)", "fiscalização e sanções", "geração: excludente de responsabilidade"],
+      "relator": "Elisa Bastos", "resultado": "indeferido por unanimidade dos votantes",
+      "resumo_voto": "Indeferiu o pedido: a empresa alegou 225 dias por dificuldades técnicas com biodigestores e 261 dias por impactos da pandemia na importação de peças. Dificuldades técnicas são risco gerenciável do empreendedor; sobre a pandemia não há nexo de causalidade, pois a montagem eletromecânica já iniciou atrasada (abril de 2019, previsto 1/7/2017) e o cronograma já estava atrasado antes de 2020. Seis das sete unidades estavam em operação comercial; a última previa operação até 30/4/2021. Procuradoria não emitiu parecer específico.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, indefere", "ts": "0:01:06", "justificativa": "não comprovado nexo de causalidade nem ausência de responsabilidade do agente; atraso decorre de planejamento, gestão e projeto, riscos do empreendedor", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora (comenta que visitou a usina e que a tecnologia de economia circular é promissora)", "ts": "0:16:00", "justificativa": "o risco de dominar a tecnologia é próprio da empresa que participou do leilão; não há nexo causal com a pandemia", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:18:00", "justificativa": "o argumento de dificuldade técnica é risco de gestão do empreendedor; a pandemia não tem nexo, o cronograma já estava atrasado antes", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (pela proclamação, por unanimidade)", "ts": "0:20:55", "justificativa": "proclamou o resultado por unanimidade dos votantes", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:21:15",
+      "processo": "48500.004149/2002-85 (número aproximado pela legenda)", "interessado": "Confluência Energias S.A. (PCH Confluência, Prudentópolis e Turvo/PR)",
+      "assunto": "Alteração do cronograma de implantação da PCH Confluência com pedido de excludente de responsabilidade por demora do Incra em liberar áreas (cessão de uso, assentamento Marrecas); recomposição do prazo da outorga e deslocamento dos CCEARs (leilão A-5 2015)",
+      "tema": ["outorgas de geração (PCH)", "leilões (A-5 2015)", "fiscalização e sanções (auto de infração 77/2017)", "geração: excludente de responsabilidade", "licenciamento ambiental / Incra"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes, em parcial provimento ao pleito",
+      "resumo_voto": "Reconheceu excludente de responsabilidade de 908 dias (20/12/2017 a 15/6/2020, termo de cessão de uso com o Incra), com nexo de causalidade demonstrado e mitigação pela empresa (redução bilateral de CCEARs e MCSD). Período anterior a 20/12/2017 já fora imputado à empresa no auto de infração. Desloca o início do suprimento dos CCEARs para 27/6/2022 e reflete o período no prazo final; aprova o cronograma da coluna B do quadro 3 (e não o sugerido pelas áreas técnicas); recompõe a outorga em 908 dias (até 11/8/2045, na legenda); condicionado à garantia de fiel cumprimento do edital 13/2015. Atraso entre 27/6/2022 e 30/6/2023 não será penalizado, além disso sim. Sustentação oral de Guilherme Baggio (Confluência Energia); procurador Luiz Eduardo sem parecer específico.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, parcial provimento", "ts": "0:37:15", "justificativa": "entraves do Incra não imputáveis ao empreendedor, que manteve contato constante, propôs alternativas e mitigou danos; cronograma deve refletir exatamente os 908 dias", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator, após pedir esclarecimento sobre a diferença entre a recomendação técnica e o voto e sugerir fixar as datas no dispositivo (relator acatou)", "ts": "0:59:00", "justificativa": "dúvida sobre o parágrafo 46 e a diferença do cronograma; pediu que as datas fixas constassem do voto", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:08:45",
+      "processo": "48500.001703/2015, 48500.002995/2015 e 48500.002794/2015", "interessado": "Salgueiro 1, 2 e 3 Energias Renováveis S.A. (Complexo Solar Salgueiro, Terra Nova/PE, 30 MW cada, leilão A-4 2017)",
+      "assunto": "Alteração do cronograma de implantação e excludente de responsabilidade por impactos da covid-19 nas centrais fotovoltaicas Solar Salgueiro 1, 2 e 3",
+      "tema": ["outorgas de geração (solar fotovoltaica)", "leilões (A-4 2017)", "geração: excludente de responsabilidade (covid-19)", "recursos administrativos / mandado de segurança"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes, em parcial provimento ao pleito",
+      "resumo_voto": "Reconheceu 21 dias de excludente por paralisação da obra (1/5/2020, data de início das obras civis no cronograma, a 22/5/2020; empresa pedia 60) mais 25 dias de rampa de remobilização (pedido 30), total 46 dias. Operação em teste passa de 1/12/2020 para 16/1/2021 e operação comercial de 1/1/2021 para 16/2/2021; início dos CCEARs deslocado até 16/2/2021; prazo final dos CCEARs e das outorgas acrescido em 46 dias; condicionado à garantia de fiel cumprimento do edital 4/2017; se entrarem em operação antes de 16/2/2021 a SCG/SFG ajustam a vigência. Não houve prova de mitigação por descontratação, mas a empresa foi considerada diligente. Sustentação oral de Ana Clara Toledo Brito (empresas Salgueiro); a empresa defendia 60+30 dias e criticou o sinal regulatório negativo para obras antecipadas. Havia mandado de segurança, com determinação de deliberar com prioridade.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, parcial provimento", "ts": "1:30:00", "justificativa": "nexo de causalidade só a partir da data prevista para início das obras civis; antecipação de cronograma é estratégia do empreendedor; obras de transmissão de interesse restrito não tiveram nexo, pois estavam adiantadas cerca de 20%", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (comenta a extensão também do contrato de comercialização, conforme Lei 13.360/2016)", "ts": "1:55:00", "justificativa": "reconhece 21 dias da pandemia mais 25 dias da rampa; destaca a prática de estender também o CCEAR", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:58:19",
+      "processo": "48500.006221/2014-91", "interessado": "Ventos Potiguar Geradores de Energia S.A. (parques eólicos União dos Ventos 1 a 10)",
+      "assunto": "Prorrogação do prazo de voto-vista: recurso administrativo contra o despacho 2.964/2017 da SRM, que negou a contabilização de energia não fornecida por construção própria da central geradora",
+      "tema": ["recursos administrativos", "comercialização (CCEE)", "outorgas de geração (eólica)"],
+      "relator": "Sandoval Feitosa (relator do voto-vista: Elisa Bastos)", "resultado": "prorrogação do prazo de vista por oito sessões, sem objeção",
+      "resumo_voto": "Elisa Bastos solicitou mais oito sessões para avaliar o processo com mais cuidado e trazer para deliberação; sem objeção, concedido. Último processo da pauta.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "voto-vista: pede prorrogação do prazo por oito sessões", "ts": "1:59:00", "justificativa": "avaliar o processo com mais cuidado", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "relator; defere a prorrogação, sem objeção", "ts": "1:59:15", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas (Raízen, Confluência, 'César' = empresa titular), números de processo e valores podem estar errados; números de processo foram reconstruídos e marcados quando incertos.",
+    "Chamada inicial ausente (parte 2 da reunião): só Sandoval Feitosa, Elisa Bastos e André Pepitone são identificados com segurança. Votantes citados como 'unanimidade dos votantes' sem nome audível foram registrados como não identificado, com confiança baixa. Nº de votos por item não fecha com os presentes reais, pois outros diretores presentes não são identificáveis.",
+    "Itens 1 e 3: os oradores intermediários não têm o nome dito na legenda; ts dos votos de seguidores aproximados.",
+    "Numeração dos itens (1 a 4) é ordem de aparição nesta parte, pois os números de pauta falados na legenda estão truncados.",
+    "A parte da manhã (Parte 1) não consta neste arquivo."
+  ]
+}

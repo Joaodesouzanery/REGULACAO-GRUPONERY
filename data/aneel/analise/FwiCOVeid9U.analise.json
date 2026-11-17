@@ -1,0 +1,34 @@
+{
+  "meta": {"video_id": "FwiCOVeid9U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "12ª Extraordinária de 2020", "data": "2020-11-30", "formato": "videoconferência (noturna)",
+    "presidente_da_sessao": "Ricardo Tili (Diretor-Geral)",
+    "diretores_presentes": ["Ricardo Tili", "Efrain Cruz", "André Pepitone", "diretor não identificado (quarto presente)"],
+    "ausentes": [],
+    "observacoes": ["Tili declara quatro diretores presentes (quórum). Sessão extraordinária com um único processo: reativação das bandeiras tarifárias, com bandeira vermelha patamar 2 para dezembro de 2020.", "Procurador-geral (Estevam) informou que não houve consulta jurídica e que a matéria é técnico-regulatória."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:18:29",
+      "processo": "48500.000279/2020-96", "interessado": "Superintendências de Regulação dos Serviços de Distribuição e de Regulação Econômica; ONS",
+      "assunto": "Proposta de reativação da sistemática de acionamento das bandeiras tarifárias (submódulo 6.8 do PRORET): revogação do Despacho 1.511/2020 e retomada a partir de 1º/12/2020",
+      "tema": ["tarifas e revisão tarifária (bandeiras)", "comercialização (PLD)", "regulação normativa"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade — revogado o Despacho 1.511/2020; bandeiras reativadas desde 1º/12/2020 (parametrização da REH 2.551/2019); bandeira vermelha patamar 2 em dezembro",
+      "resumo_voto": "Despacho 1.511/2020 suspendera as bandeiras (bandeira verde até 31/12) por causa da pandemia. Com a recuperação da carga, PLD no teto, afluências ruins, despacho térmico e importação da Argentina e do Uruguai (carta do ONS de 25/11; notas técnicas 125 e 128/2020), propõe revogar o despacho e reativar o mecanismo; CMO médio de 744 R$/MWh na primeira semana de dezembro.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, revoga o despacho e reativa as bandeiras", "ts": "0:18:29", "justificativa": "condições hidroenergéticas adversas, PLD no teto, recuperação da carga e necessidade de sinal de preço ao consumidor", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (elogia o voto)", "ts": "0:19:30", "justificativa": "reservatórios baixos, térmicas ligadas e PLD no máximo; bandeira vermelha sinaliza o custo da geração e incentiva evitar desperdício", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:25:22", "justificativa": "falou antes da votação (provável a fala que corrobora: ONS é o responsável pela análise de suprimento; agência suspendeu na pandemia e agora reativa)", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:25:28", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa (nome do relator aparece como «esfrain Pereira da Cruz»; ONS como «INSS»).",
+    "Quarto diretor presente não foi identificado: Tili diz haver quatro diretores, mas só Tili, Efrain Cruz e André Pepitone são claramente identificados. A atribuição das falas de discussão e de um dos votos «acompanho» ao quarto diretor é incerta; o segundo orador da discussão (que se dirige a «Doutor André») pode ser Tili ou o quarto diretor.",
+    "Os três votos seguidores (25:22 a 25:28) são curtos e sem nome na legenda; atribuição pela proclamação de unanimidade e pela ordem de votação (Diretor-Geral por último).",
+    "Número do processo conforme a legenda (48.500 00 279/2000 e 20 traço 96): reconstruído como 48500.000279/2020-96, incerto.",
+    "Número de votos (4) = presentes (4), mas um nome não identificado."
+  ]
+}

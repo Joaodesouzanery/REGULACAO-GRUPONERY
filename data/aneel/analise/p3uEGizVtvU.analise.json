@@ -1,0 +1,64 @@
+{
+  "meta": {"video_id": "p3uEGizVtvU", "fonte": "legenda automática do YouTube (Parte 2 da reunião); falantes inferidos; ts = tempo do vídeo desta parte; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "14ª Ordinária (Parte 2)", "data": "2021-04-27", "formato": "não identificado",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 (sessão da tarde) da 14ª reunião pública ordinária de 27/04/2021; a Parte 1 não está neste arquivo.", "2 itens deliberados (reembolso de combustível UTE Manicoré; orçamento CDE 2021), 1 prorrogação de pedido de vista (item 17) e 1 item retirado (item 12) citado.", "O cabeçalho do .md infere Sandoval Feitosa e Ricardo Tili como falantes, mas o texto não os mostra votando; as proclamações indicam 4 votantes."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:23",
+      "processo": "48500.001755/2021", "interessado": "Power Tech Engenharia, Serviços e Locações de Geradores de Energia, Máquinas e Equipamentos S.A. (recuperação judicial); Amazonas Energia; CCEE",
+      "assunto": "Requerimento administrativo da Power Tech para reembolso do custo de aquisição de combustível da UTE Manicoré (AM), leilão 2/2016 sistemas isolados, lote B3",
+      "tema": ["CDE e encargos setoriais (CCC, sistemas isolados)", "outorgas de geração (térmica)", "comercialização (CCEE)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Determina que a CCEE, como gestora da CDE, reembolse o custo do combustível da UTE Manicoré diretamente ao supridor de combustíveis; valores contabilizados como reembolso à beneficiária Amazonas Energia; SRG/SFG avaliam em até 120 dias o fluxo de pagamentos do contrato de comercialização no sistema isolado e propõem regularização definitiva. Procuradoria não emitiu parecer formal, mas se declarou favorável. Apresentação técnica da SRG (Gabriel Barja citado) com precedente UTE Oiapoque (2016) e Resolução 801/2017.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:19:09", "justificativa": "continuidade do serviço público: estoque de combustível por terminar, recuperação judicial da Power Tech impede repasse direto a ela, Amazonas Energia deixou de usar a faculdade da Resolução 801/2017", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:20:39", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:20:41", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:20:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:21:10",
+      "processo": "48500.004982/2020-36", "interessado": "CCEE; ABRACE (sustentação oral: Felipe Soares e Natália Moura de Oliveira)",
+      "assunto": "Resultado da Consulta Pública 72/2020: orçamento anual e cotas da CDE 2021 (CDE uso, cotas anuais e mensais das distribuidoras, TUSTs e restituição da Copel por carvão mineral/UTE Figueira)",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária", "regulação normativa (consulta pública)", "transmissão (TUST)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Aprova orçamento CDE 2021 de cerca de R$ 23,9 bilhões (valor exato incerto na legenda), cota CDE uso de cerca de R$ 19,6 bilhões, 2,6% menor que a de 2020; fixa cotas das distribuidoras de maio a dezembro e tarifas de transmissão (TUST) de jan a dez; determina à CCEE cobrar da Copel valores de carvão mineral reembolsados e não consumidos (UTE Figueira). Relator aceitou incluir no voto ajuste para efeitos da lei publicada no dia (Celpa e CEA, ~R$ 200 mi). Apresentação técnica da SGT (André Fayol). Procuradoria sem contribuição jurídica.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:53:36", "justificativa": "redução da cota por efeito da MP 998/Lei 14.120 (R$ 2,2 bi de P&D/eficiência) apesar do aumento da política pública; aceita ajuste de redação para Celpa/CEA", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator, com sugestão de incluir no voto os efeitos da lei publicada no dia (Celpa e CEA)", "ts": "0:55:50", "justificativa": "elogia a apresentação da SGT; pontos de atenção (novos beneficiários) não estavam na MP original e devem ser considerados no orçamento", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:12:19", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "1:12:24", "justificativa": "destaca queda de 2,6% da cota ao consumidor e elogia a relatoria de Elisa Bastos sobre o P&D (MP 998)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "17", "ts": "1:13:18",
+      "processo": "48500.002268/2016-47", "interessado": "Recorrente da CGH Generoso",
+      "assunto": "Prorrogação do prazo de pedido de vista em recurso administrativo com efeito suspensivo contra despacho SCG que revogou o registro da CGH Generoso",
+      "tema": ["recursos administrativos", "outorgas de geração (hidrelétrica, CGH)", "fiscalização e sanções"],
+      "relator": "Efrain Cruz", "resultado": "prorrogação da vista por oito sessões deferida; sem objeção",
+      "resumo_voto": "Elisa Bastos solicitou mais oito sessões para analisar processo complexo com interações com órgão ambiental e de recursos hídricos; DG consultou o colegiado; sem objeção.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "pede prorrogação de vista por oito sessões", "ts": "1:13:36", "justificativa": "processo extremamente complexo, envolve outras instituições", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "relator original; não se opõe", "ts": "1:14:40", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "defere a prorrogação (proclama)", "ts": "1:14:50", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "12", "ts": "1:13:10", "assunto": "Item 12 retirado de pauta (informado pela mesa; detalhes não ouvidos)"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática; nomes e valores podem estar errados (ex.: Efrain grafado Ephrain/Efraim; Hélvio como Élvio/Relva).",
+    "Atribuição de quem diz 'acompanho' nos itens 1 e 2 é por ordem (relator, demais, Diretor-Geral por último), confiança baixa/média; a mesa não cita nomes na votação.",
+    "Quinto diretor possível: o cabeçalho infere Sandoval Feitosa e Ricardo Tili como falantes, mas não há voto atribuível a eles; as proclamações são compatíveis com 4 votantes.",
+    "Duas falas de elogio ao relator e à diretora Elisa no item 2 não têm falante identificado; atribuídas ao Diretor-Geral só a de proclamação.",
+    "Item 17: quem disse 'estou de acordo' (1:14:47) não está claro. Número do item retirado e detalhes do outro item retirado da pauta ('fora da pauta' perto de 0:21) não foram ouvidos.",
+    "Parte 1 desta reunião não consta deste arquivo; número do processo do item 1 e valores do orçamento CDE são aproximados."
+  ]
+}

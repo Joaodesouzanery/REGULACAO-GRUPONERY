@@ -1,0 +1,303 @@
+{
+ "meta": {
+  "video_id": "uwDp3yGxEfk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; a legenda tem apenas um marcador de tempo no .md, ts obtidos de data/aneel/transcricoes/uwDp3yGxEfk.json; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31 (Parte 2, sessão da tarde)",
+  "data": "2020-08-25",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "31ª Reunião Pública Ordinária, Parte 2 (retomada à tarde); a parte da manhã é outro vídeo.",
+   "5 itens: 4 aberturas de consulta pública/reajuste e 1 pedido de prorrogação de prazo de voto-vista; mais 1 item retirado de pauta (último da pauta, relator ausente da sala).",
+   "Efrain Cruz teve a imagem congelada durante o item 2 e voltou a falar depois.",
+   "Encerrada às ~2h38 do vídeo, com a fala do Diretor-Geral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:17",
+   "processo": "48500.007048/2016 (número lido pela legenda, incerto)",
+   "interessado": "Urussanga Empresa Força e Luz Ltda (distribuidora, Urussanga/SC)",
+   "assunto": "Reajuste tarifário anual 2020 da Urussanga, a vigorar a partir de 29/08/2020; efeito médio de 0,06% (0,12% alta tensão e 0,02% baixa tensão); homologação do valor mensal de recursos da CDE para os descontos da estrutura tarifária",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "CDE e encargos setoriais",
+    "comercialização (cotas compulsórias de Itaipu e Angra)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "resumo_voto": "Relator homologa o reajuste de efeito médio 0,06%: parcela A pesa 76,7% dos custos; encargos com efeito de 2,11% (CDE 2020 +3,16%, fim da CCC -0,49%); transmissão 4,20%; energia 1,4%; parcela B 0,53% (IPCA 2,31% menos fator X 0,73%); financeiros -2,83%, incluindo diferimento de R$ 400 mil pedido pela empresa e valores da conta Covid. Comenta o pleito da empresa sobre cotas compulsórias de Itaipu e Angra (sair do suprimento da Celesc e fazer chamada pública) e diz que a SGT reconhece distorções na metodologia, que exige revisão por SGT e SRM em processo já distribuído a ele.",
+   "sustentacao_oral": [
+    "Michele Antônio de Almeida (representante da Urussanga/EFLUL): pede adequação da regra das cotas compulsórias de Itaipu e Angra para concessionárias com mercado inferior a 500 GWh"
+   ],
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, homologa o reajuste",
+     "ts": "0:12:51",
+     "justificativa": "metodologia atual de cotas compulsórias gera distorção (cálculo com oito anos de antecedência sobre mercado cativo que migrou ao livre); pedido da empresa será avaliado em processo próprio",
+     "confianca": "alta",
+     "tom": "técnico"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:24:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:25:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "0:25:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:25:45",
+   "processo": "48500.007022/2019-12",
+   "interessado": "Amazonas Energia (distribuidora, Amazonas)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 26/08 a 09/10/2020, reunião virtual em 18/09) sobre a proposta de revisão tarifária extraordinária contratual da Amazonas Energia (contrato de concessão 11/2019, cláusula vigésima, subcláusula segunda), com avaliação completa da base de remuneração, a vigorar em 01/11/2020; efeito médio preliminar 8,5%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "CDE e encargos setoriais",
+    "consulta/audiência pública",
+    "privatização/desestatização de distribuidoras (conta Covid)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a abertura da consulta pública (proclamação sem a palavra unanimidade; votos de acompanhamento ouvidos)",
+   "resumo_voto": "Efeito médio preliminar de 8,5% (8,9% alta e 8,32% baixa tensão): parcela B com +17,4% pela reavaliação da base (remuneração de capital passa de base 10 vezes maior, 97% remunerada pelo WACC), financeiros -12,5% (conta Covid -10,6% e diferimentos pedidos pela empresa). Sem a conta Covid (10,45%) e o diferimento (9,54%) o reajuste seria de 28,5%. Cronograma: audiência em 18/09, fim de contribuições em 09/10, homologação em 27/10/2020. Relator responde às propostas do deputado: encargos, igualar CR médio, interligação de sistemas isolados e uso de sobra da conta Covid dependem de política pública, do MME e do Legislativo, e a ANEEL discute desoneração tarifária com o MME.",
+   "sustentacao_oral": [
+    "Deputado federal Marcelo Ramos (pede discussão ampla de encargos e subsídios, igualar o preço médio ao do Brasil, incentivo à interligação de sistemas isolados e recursos para diferir o aumento)",
+    "Representante da Amazonas Energia (diretor-presidente, citado como Tarcísio): relata investimentos e anuncia estudo de diferimento"
+   ],
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, vota pela abertura da consulta pública",
+     "ts": "1:16:44",
+     "justificativa": "revisão extraordinária prevista em contrato, pedida com antecedência de um ano; conta Covid e diferimento atenuam o impacto; medidas do governo federal serão refletidas na consulta",
+     "tom": "técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "1:27:00",
+     "justificativa": "comentou que medidas do governo federal sobre tarifas serão refletidas de imediato na consulta; citou a conta Covid e a aprovação de medida sobre o valor da energia de Itaipu no mesmo dia",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:28:03",
+   "processo": "48500.0070?8/2019-23 (número incerto na legenda)",
+   "interessado": "Roraima Energia (distribuidora, Roraima)",
+   "assunto": "Abertura de consulta pública (26/08 a 09/10/2020, audiência virtual em 24/09) sobre a proposta de revisão tarifária extraordinária contratual da Roraima Energia (contrato de concessão 4/2018) com avaliação completa da base de remuneração, a vigorar em 01/11/2020; efeito médio preliminar 6,46%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição",
+    "consulta/audiência pública",
+    "privatização/desestatização de distribuidoras (conta Covid)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovada por unanimidade dos votantes a abertura da consulta pública",
+   "resumo_voto": "Efeito médio 6,46% (11,36% alta e 5,25% baixa tensão): parcela B com +14,28% (remuneração de capital +7,92%, cota de reintegração +4,19%), financeiros -11,09% (conta Covid -10,68%, diferimento 2,71%). Base de remuneração provisória de cerca de R$ 1,16 bi bruta e R$ 773 mi líquida, em fiscalização pela SFF. Base completa sustentada no parecer 129 da Procuradoria (caso Equatorial Alagoas); desde 2013 não houve revisão. Relatora dispensou leitura longa e foi ao dispositivo.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, vota pela abertura da consulta pública",
+     "ts": "1:28:35",
+     "justificativa": "revisão prevista no contrato de concessão, com avaliação completa da base pedida pela concessionária; segue o parecer da Procuradoria (caso Alagoas)",
+     "tom": "técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:09:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:09:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:09:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama o resultado",
+     "ts": "2:09:30",
+     "justificativa": "repete que medidas do governo federal em preparo serão refletidas de imediato na consulta, como no caso da Amazonas",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:09:53",
+   "processo": "48500.007047/2019 e 48500.003086/2020 (números incertos na legenda)",
+   "interessado": "Demei / DMED Distribuição S.A. (Poços de Caldas/MG)",
+   "assunto": "Abertura de consulta pública (26/08 a 09/10/2020, reunião virtual em 17/09) sobre a proposta de revisão tarifária periódica da DMED Distribuição, a vigorar em 22/11/2020, e definição dos limites de DEC e FEC para 2021-2025; efeito médio preliminar 7,53%",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade (DEC/FEC)",
+    "CDE e encargos setoriais",
+    "consulta/audiência pública"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada por unanimidade dos votantes a abertura da consulta pública",
+   "resumo_voto": "Efeito médio 7,53% (7,47% alta e 7,50% baixa tensão, conforme legenda): parcela A com encargos 3,76% (CDE 3,91%), transmissão 3,98% e energia 6,18% (Itaipu 4,52% por alta do dólar); parcela B +2,8%; financeiros 5,32% com conta Covid -12,12%. Sem a conta Covid o efeito seria de cerca de 19,6%. Relator nota que a DMED fica abaixo dos limites de DEC/FEC em cerca de metade dos indicadores, tema a tratar em processo de relatoria dele sobre limites. Sem sustentação oral nem comentário da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, vota pela abertura da consulta pública",
+     "ts": "2:27:30",
+     "justificativa": "metodologia da revisão periódica; consulta por 45 dias; destaca desempenho de DEC e FEC como indicador principal de qualidade",
+     "tom": "técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:35:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:35:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:35:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "2:35:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:36:19",
+   "processo": "48500.004578/2018-61",
+   "interessado": "Mata de Santa Genebra Transmissão S.A. (requerimento administrativo sobre deslocamento do cronograma de instalações de transmissão)",
+   "assunto": "Pedido do relator de prorrogação de prazo (mais oito sessões) para concluir o voto-vista no processo do requerimento administrativo da Mata de Santa Genebra Transmissão",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "prorrogação de oito sessões concedida sem objeção",
+   "resumo_voto": "Efrain Cruz informa que trará o voto-vista e pede mais oito sessões para instruir o processo; o Diretor-Geral registra que não havendo objeção fica concedido o prazo.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, pede prorrogação de oito sessões para o voto-vista",
+     "ts": "2:36:30",
+     "justificativa": "precisa de mais oito sessões para instruir o processo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "sem objeção; concede a prorrogação",
+     "ts": "2:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "sem objeção (inferido do silêncio)",
+     "ts": "2:36:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "sem objeção (inferido do silêncio)",
+     "ts": "2:36:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "sem objeção (inferido do silêncio)",
+     "ts": "2:36:50",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "14 (provável)",
+   "ts": "2:37:45",
+   "assunto": "último item da pauta, relatório de diretor que não estava na sala (nome e processo não identificáveis na legenda)",
+   "motivo": "relator ausente da sala; Diretor-Geral retirou de pauta para o relator trazer na próxima sessão"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda muito ruidosa: números de processo, nomes de empresas (Urussanga, DMED/Demei) e valores podem estar errados; números de processo marcados como incertos.",
+  "Votos de acompanhamento: nos itens 1 a 4 a legenda traz as falas sem nome; atribuição por exclusão (todos os presentes não relatores) e pela proclamação; confiança baixa e ordem dos nomes dos ts não confiável.",
+  "Itens 3 e 4: proclamação diz por unanimidade dos votantes; presentes não relatores e DG contados como votantes; nos itens 3 e 4 só duas ou três falas de acompanhamento foram captadas.",
+  "Item 2: proclamação sem a palavra unanimidade; não há voto divergente ouvido.",
+  "Item 1: o nome do relator foi lido como Santo Antônio na legenda; confirmado Sandoval Feitosa pelo voto de acompanhamento do diretor Sandoval.",
+  "Item 5: não há votação formal; votos dos demais inferidos da ausência de objeção.",
+  "Item retirado: relator não identificável."
+ ]
+}

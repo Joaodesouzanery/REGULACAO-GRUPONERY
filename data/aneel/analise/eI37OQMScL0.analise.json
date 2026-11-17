@@ -1,0 +1,253 @@
+{
+ "meta": {
+  "video_id": "eI37OQMScL0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17",
+  "data": "2023-05-23",
+  "formato": "presencial (sede da ANEEL, Brasília), transmitida pelo YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Hélvio Guerra",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores declarado na abertura (Sandoval, Ricardo, Fernando, Agnes e Hélvio).",
+   "Pauta de 31 itens publicada em 18/05/2023; itens 4 a 31 em bloco; retirados de pauta os itens 18 e 26 (pedido de sustentação oral); no resumo final o Diretor-Geral fala em quatro retirados.",
+   "Ordem de julgamento: bloco; Cemig (revisão tarifária); Equatorial Alagoas (reajuste); Elektro (abertura de consulta pública).",
+   "Resumo final do Diretor-Geral: duas aberturas de consulta pública, três processos tarifários, oito recursos/pedidos de reconsideração, um pedido de efeito suspensivo, três declarações de utilidade pública e quatro pedidos de prorrogação (conforme dito).",
+   "Encerrada ≈ 3:38 de vídeo. Informes iniciais: sistema de protocolo digital (SPD), audiências públicas, prêmio ASC 2022."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco (itens 4 a 31)",
+   "ts": "1:07:32",
+   "processo": "vários (itens do bloco, votos disponibilizados previamente no site)",
+   "interessado": "diversos (recursos administrativos, pedidos de reconsideração, declarações de utilidade pública, prorrogações etc., conforme resumo final)",
+   "assunto": "Votação em bloco dos itens 4 a 31 da pauta, exceto os retirados (18 e 26); itens individuais não enunciados no áudio",
+   "tema": [
+    "recursos administrativos",
+    "declaração de utilidade pública",
+    "fiscalização e sanções",
+    "bloco"
+   ],
+   "relator": "vários (não enunciados)",
+   "resultado": "aprovado por unanimidade (proclamação do Diretor-Geral)",
+   "resumo_voto": "Diretor-Geral submete os itens do bloco, declara aprovação dos itens remanescentes e proclama aprovação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:08:35",
+   "processo": "48500.006874/2022-80 e 48500.009381/2022 (número parcial pela legenda)",
+   "interessado": "Cemig Distribuição S.A. (Minas Gerais)",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Cemig Distribuição, a vigorar a partir de 28/05/2023 (efeito médio 13,27%; 8,94% alta tensão e 15,55% baixa tensão), e limites de DEC e FEC para 2024 a 2028, após a Consulta Pública 6/2023",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuição e qualidade (DEC/FEC)",
+    "CDE e encargos setoriais",
+    "geração distribuída (MMGD)",
+    "sustentação oral"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (proclamação do Diretor-Geral sem menção a unanimidade)",
+   "resumo_voto": "Homologa a revisão (efeito médio 13,27%), fixa tarifas, componente T do Fator X em 0,18%, limites de DEC/FEC 2024-2028 e perdas regulatórias. Efeito reflete sobretudo a retirada de financeiros do ano anterior (cerca de 10,1 pontos, ligados à devolução de créditos de PIS/Cofins, com R$ 1,266 bilhão devolvido nesta revisão, zerando o saldo). Ajuste de parcela B pela MMGD (0,68%). Sustentações orais: dep. Wellington Prado, Eric Nilson (conselho de consumidores), vereadores e outros de Minas Gerais, contra o reajuste. Procurador-geral e Diretor-Geral esclarecem limites da competência da ANEEL; o deputado anuncia que recorrerá.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:21:47",
+     "justificativa": "transparência e participação (audiência em Belo Horizonte); crédito PIS/Cofins esgotado na revisão; fiscalização da Cemig e plano de continuidade 2023-2026 com início em junho; ofício 96 público",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:54",
+     "justificativa": "na discussão pediu esclarecer a retirada dos financeiros (10%), DEC/FEC em municípios e a planilha do deputado; explicou com a analogia da taxa extra de condomínio",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:54",
+     "justificativa": "disse que não pediria vista para não prejudicar consumidores e a concessionária (tarifa vencia em 28/05); colocou-se à disposição em eventual pedido de reconsideração",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:54",
+     "justificativa": "na discussão sustentou que o efeito prático é a devolução estrutural do PIS/Cofins e que a parcela B tem efeito pequeno",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:59:56",
+     "justificativa": "Diretor-Geral vota por último e proclama a aprovação",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:00:55",
+   "processo": "48500.006854/2022-17 (número parcial pela legenda)",
+   "interessado": "Equatorial Alagoas Distribuidora de Energia S.A. (Maceió, AL)",
+   "assunto": "Reajuste tarifário anual 2023 da Equatorial Alagoas, vigência a partir de 28/05/2023 (efeito médio 17,59%; 24,19% alta tensão e 15,05% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "geração distribuída (MMGD)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa tarifas, fixa tarifas de energia e de uso do sistema de distribuição, receita das DIT e repasse mensal da CDE. Processo antes retirado de pauta (pleito de parcela B por MMGD) e com tarifas prorrogadas duas vezes (15 e 10 dias). Sem devolução de PIS/Cofins. Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:18:47",
+     "justificativa": "Diretor-Geral vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:18:41",
+     "justificativa": "relator, homologa as novas tarifas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:19:20",
+   "processo": "48500.006879/2022-11 e 48500.001752/2023-18 (números parciais pela legenda)",
+   "interessado": "Elektro Redes S.A. (SP/MS)",
+   "assunto": "Abertura de consulta pública (25/05 a 10/07/2023, audiência presencial em 07/06 em Rio Claro/SP) sobre a revisão tarifária periódica 2023 da Elektro, a vigorar em 27/08/2023, e limites de DEC/FEC para 2024 a 2027 (efeito médio proposto 7,94%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição e qualidade (DEC/FEC)",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado (proclamação do Diretor-Geral)",
+   "resumo_voto": "Instaura a consulta pública para colher subsídios sobre a proposta de revisão; apresentação técnica da STR; deliberação final prevista para 22/08/2023. Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:36:14",
+     "justificativa": "Diretor-Geral vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:36:00",
+     "justificativa": "relator, instaura a consulta pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:10",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "18 — retirado de pauta a pedido de sustentação oral (conforme secretário-geral)",
+   "relator": "não identificado",
+   "motivo": "pedido de sustentação oral",
+   "ts": "1:07:32"
+  },
+  {
+   "item": "26 — retirado de pauta a pedido de sustentação oral (conforme secretário-geral)",
+   "relator": "não identificado",
+   "motivo": "pedido de sustentação oral",
+   "ts": "1:07:32"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números de processo distorcidos (ex.: relator Fernando Mosna aparece como Morza/mortas).",
+  "Itens 4 a 31 do bloco não são enunciados no áudio; registrado como um único item agregado.",
+  "Item 1: apenas um «acompanho o relator» é audível antes do Diretor-Geral e não se identifica quem falou; votos de Hélvio Guerra, Agnes da Costa e Ricardo Tili atribuídos pela proclamação (confiança baixa). Atribuição das falas na discussão a Hélvio, Agnes e Ricardo é inferida pelo contexto.",
+  "Itens 2 e 3: só se ouve um «acompanho» antes da proclamação; demais votos pela proclamação.",
+  "Item 1: a proclamação não diz «por unanimidade» nem registra divergência.",
+  "O resumo final cita quatro retirados e quatro pedidos de prorrogação/vista; só os itens 18 e 26 foram nomeados."
+ ]
+}

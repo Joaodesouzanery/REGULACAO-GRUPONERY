@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "mRGH-SclUYI", "fonte": "legenda automática do YouTube; sem rótulos de falante; ts aproximados (trecho de ~2 mil caracteres)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "23ª RPO 2018", "data": "2018-07-03", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Vídeo cobre apenas a abertura e a votação do bloco dos itens 12 a 31; título: Itens 12 a 31 da 23ª Reunião Pública Ordinária de 03/07/2018.", "Quadro completo de cinco diretores informado na abertura; apenas André Pepitone é citado (parabenizado pela recondução publicada no DOU); os demais não são nomeados na legenda.", "Atas da 5ª RPE e da 22ª RPO aprovadas.", "Secretário informou retirada de pauta do item 8 e a ordem: bloco (12 a 31), depois itens 2, 10 e 7 (com sustentação oral) e 13."]
+  },
+  "itens": [
+    {
+      "id": "12 a 31", "ts": "0:01:50",
+      "processo": "itens 12 a 31 da pauta (bloco)", "interessado": "diversos",
+      "assunto": "Votação em bloco dos itens 12 a 31 da pauta, sem destaques",
+      "tema": ["institucional"],
+      "relator": "diversos", "resultado": "aprovado (bloco, sem destaque; unanimidade não proclamada de forma audível)",
+      "resumo_voto": "Sem pedido de destaque, os itens foram votados em bloco e aprovados; um diretor não identificado excetuou o item 12 por ter participado de instrução anterior.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco (presidente da mesa submete à votação)", "ts": "0:01:55", "justificativa": "Submete o bloco a votação e vota pela aprovação.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco, exceto item 12 (impedido)", "ts": "0:02:00", "justificativa": "Não vota o item 12 porque participou de instrução anterior.", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:02:05", "justificativa": "Também vota pela aprovação dos itens do bloco.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Item 8 retirado de pauta (anunciado pelo secretário)"],
+  "limites_da_analise": ["Legenda sem identificação de falantes: votos do bloco atribuídos a diretores não identificados; não foi possível associar nomes, e nº de votos (3) não fecha com os 5 diretores presentes.", "Trecho só cobre o bloco; itens 2, 10, 7 e 13 não aparecem neste vídeo.", "Legenda cita recondução de André (diretor, possivelmente Pepitone) e menciona «daniel» (provável erro); nome mantido apenas como André Pepitone."]
+}
