@@ -7,7 +7,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 2 | 0 | 0 |
 | 2026 | workshop | 1 | 0 | 0 |
 | 2026 | diretoria | 13 | 13 | 0 |
-| 2025 | diretoria | 24 | 11 | 0 |
+| 2025 | diretoria | 24 | 23 | 0 |
 | 2025 | audiencia | 4 | 0 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 0 | 0 |
@@ -47,5 +47,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-08-22 · 940ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de ago · `MHgAG8hWo78`
 - 2025-08-05 · 939ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de ago · `Pl2JETTgxr4`
 - 2025-07-19 · 938ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de jul · `gyroY1H9tGE`
+- 2025-07-01 · 937ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 30 de jun · `13Pb9Ej3noQ`
+- 2025-06-17 · 936ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de jun · `pr4t0uxZzB0`
+- 2025-05-27 · 935ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 26 de mai · `UetDEIfEeSc`
+- 2025-05-14 · 934ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 13 de mai · `MRpLwphPLLE`
+- 2025-04-23 · 933ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de abr · `s8acteXHNyg`
+- 2025-04-05 · 932ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de abr · `S3dK4U716jY`
+- 2025-04-01 · 931ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 31 de mar · `1Zn3yZXZE9I`
+- 2025-03-18 · 930ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de mar · `j8q3NKhKStU`
+- 2025-03-11 · 929ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 10 de mar · `T42Wi0v5UuQ`
+- 2025-02-18 · 928ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de fev · `7uHiz0X-jYY`
+- 2025-02-05 · 927ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de fev · `YoKkUr4L-ms`
+- 2025-01-31 · 926ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 30 de jan · `GWb8wSUPW6c`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
