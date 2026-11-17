@@ -1,65 +1,263 @@
 [
- {"video_id": "eL8PPNzpJEY", "item_id": "3", "relator": "Rodrigo Limp", "resultado_tipo": "aprovado",
+ {
+  "video_id": "eL8PPNzpJEY",
+  "item_id": "3",
+  "relator": "Rodrigo Limp",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Rodrigo Limp": {"cat": "relator", "ts": "1:43:00", "evidencia": "proinfa diretor relator rodrigo limpe ... voto pela abertura de audiência pública"},
-   "André Pepitone": {"cat": "acompanha", "ts": "1:56:42", "evidencia": "proclamada a diretoria ... por unanimidade decidiu pela abertura de audiência pública (votos individuais na legenda não identificam o orador)"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "1:56:38", "evidencia": "em votação companhia relatou também acompanhar ... por unanimidade"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "1:56:38", "evidencia": "em votação companhia relatou também acompanhar ... por unanimidade"}
-  }},
- {"video_id": "eL8PPNzpJEY", "item_id": "bloco", "relator": "indeterminado (bloco de vários relatores)", "resultado_tipo": "aprovado",
+   "Rodrigo Limp": {
+    "cat": "relator",
+    "ts": "1:43:00",
+    "evidencia": "proinfa diretor relator rodrigo limpe ... voto pela abertura de audiência pública"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "1:56:42",
+    "evidencia": "proclamada a diretoria ... por unanimidade decidiu pela abertura de audiência pública (votos individuais na legenda não identificam o orador)"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "1:56:38",
+    "evidencia": "em votação companhia relatou também acompanhar ... por unanimidade"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "1:56:38",
+    "evidencia": "em votação companhia relatou também acompanhar ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "eL8PPNzpJEY",
+  "item_id": "bloco",
+  "relator": "indeterminado (bloco de vários relatores)",
+  "resultado_tipo": "unanim",
   "votos": {
-   "André Pepitone": {"cat": "acompanha", "ts": "0:04:25", "evidencia": "voto pela aprovação integral do bloco ... aprovou por unanimidade"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "0:04:25", "evidencia": "a prova bloco também voto pela aprovação ... aprovou por unanimidade"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "0:04:25", "evidencia": "também vota pela aprovação integral do bloco ... por unanimidade"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "0:04:25", "evidencia": "aprovou por unanimidade (falas não nominadas na legenda)"}
-  }},
- {"video_id": "eL8PPNzpJEY", "item_id": "4", "relator": "André Pepitone", "resultado_tipo": "aprovado",
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "0:04:25",
+    "evidencia": "voto pela aprovação integral do bloco ... aprovou por unanimidade"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "0:04:25",
+    "evidencia": "a prova bloco também voto pela aprovação ... aprovou por unanimidade"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "0:04:25",
+    "evidencia": "também vota pela aprovação integral do bloco ... por unanimidade"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "0:04:25",
+    "evidencia": "aprovou por unanimidade (falas não nominadas na legenda)"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "eL8PPNzpJEY",
+  "item_id": "4",
+  "relator": "André Pepitone",
+  "resultado_tipo": "unanim",
   "votos": {
-   "André Pepitone": {"cat": "relator", "ts": "1:57:58", "evidencia": "diretor relator com o voto-vista andré pepitone ... solicito aos senhores diretores uma extensão de mais oito sessões"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "1:59:45", "evidencia": "primeiro agradecer a andré pepitone ... concorda com a extensão de prazo (orador provável, não nomeado na legenda)"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "2:01:18", "evidencia": "não havendo [dis]cordância ... diretor rodrigo ... está estendido o prazo"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "2:01:18", "evidencia": "não havendo [dis]cordância ... está estendido o prazo (concordância tácita)"}
-  }},
- {"video_id": "ELBTnzyQuCY", "item_id": "2", "relator": "Sandoval Feitosa", "resultado_tipo": "aprovado",
+   "André Pepitone": {
+    "cat": "relator",
+    "ts": "1:57:58",
+    "evidencia": "diretor relator com o voto-vista andré pepitone ... solicito aos senhores diretores uma extensão de mais oito sessões"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "1:59:45",
+    "evidencia": "primeiro agradecer a andré pepitone ... concorda com a extensão de prazo (orador provável, não nomeado na legenda)"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "2:01:18",
+    "evidencia": "não havendo [dis]cordância ... diretor rodrigo ... está estendido o prazo"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "2:01:18",
+    "evidencia": "não havendo [dis]cordância ... está estendido o prazo (concordância tácita)"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "ELBTnzyQuCY",
+  "item_id": "2",
+  "relator": "Sandoval Feitosa",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Sandoval Feitosa": {"cat": "relator", "ts": "3:24:47", "evidencia": "diretor relator sandoval de araújo ... voto por aprovar na forma da minuta"},
-   "André Pepitone": {"cat": "acompanha", "ts": "3:47:51", "evidencia": "também acompanhou o relator e proclama que a diretoria ... por unanimidade decidiu aprovar"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "3:47:44", "evidencia": "em votação a companhia relatou também voto o relator ... por unanimidade"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "3:47:44", "evidencia": "também voto o relator ... por unanimidade"}
-  }},
- {"video_id": "ELBTnzyQuCY", "item_id": "bloco 11-34", "relator": "indeterminado (bloco de vários relatores)", "resultado_tipo": "aprovado",
+   "Sandoval Feitosa": {
+    "cat": "relator",
+    "ts": "3:24:47",
+    "evidencia": "diretor relator sandoval de araújo ... voto por aprovar na forma da minuta"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "3:47:51",
+    "evidencia": "também acompanhou o relator e proclama que a diretoria ... por unanimidade decidiu aprovar"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "3:47:44",
+    "evidencia": "em votação a companhia relatou também voto o relator ... por unanimidade"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "3:47:44",
+    "evidencia": "também voto o relator ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "ELBTnzyQuCY",
+  "item_id": "bloco 11-34",
+  "relator": "indeterminado (bloco de vários relatores)",
+  "resultado_tipo": "unanim",
   "votos": {
-   "André Pepitone": {"cat": "acompanha", "ts": "0:03:49", "evidencia": "proclama que a diretoria da aneel aprovou por unanimidade os itens 11 a 34"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "0:03:42", "evidencia": "voto pela aprovação dos itens do bloco ... por unanimidade"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "0:03:44", "evidencia": "voto pela aprovação integral dos itens do bloco ... por unanimidade"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "0:03:47", "evidencia": "também vota pela aprovação do bloco ... por unanimidade"}
-  }},
- {"video_id": "ELBTnzyQuCY", "item_id": "9", "relator": "Efrain Cruz", "resultado_tipo": "negado",
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "0:03:49",
+    "evidencia": "proclama que a diretoria da aneel aprovou por unanimidade os itens 11 a 34"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "0:03:42",
+    "evidencia": "voto pela aprovação dos itens do bloco ... por unanimidade"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "0:03:44",
+    "evidencia": "voto pela aprovação integral dos itens do bloco ... por unanimidade"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "0:03:47",
+    "evidencia": "também vota pela aprovação do bloco ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "ELBTnzyQuCY",
+  "item_id": "9",
+  "relator": "Efrain Cruz",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Efrain Cruz": {"cat": "relator", "ts": "1:16:33", "evidencia": "voto por não acolher o pedido de reconsideração interposto por eletrosul"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "1:17:54", "evidencia": "já demonstrando concordância com o voto do diretor efraim"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "1:42:10", "evidencia": "a exemplo do diretor limpe parabenizar o diretor efraim ... acompanha o relator ... por unanimidade decidiu não [acolher]"},
-   "André Pepitone": {"cat": "acompanha", "ts": "1:42:14", "evidencia": "acompanha o relator e proclama que a diretoria ... por unanimidade decidiu não"}
-  }},
- {"video_id": "TaiFOPNoRRY", "item_id": "1", "relator": "Rodrigo Limp", "resultado_tipo": "aprovado",
+   "Efrain Cruz": {
+    "cat": "relator",
+    "ts": "1:16:33",
+    "evidencia": "voto por não acolher o pedido de reconsideração interposto por eletrosul"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "1:17:54",
+    "evidencia": "já demonstrando concordância com o voto do diretor efraim"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "1:42:10",
+    "evidencia": "a exemplo do diretor limpe parabenizar o diretor efraim ... acompanha o relator ... por unanimidade decidiu não [acolher]"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "1:42:14",
+    "evidencia": "acompanha o relator e proclama que a diretoria ... por unanimidade decidiu não"
+   }
+  },
+  "resultado_tipo_original": "negado"
+ },
+ {
+  "video_id": "TaiFOPNoRRY",
+  "item_id": "1",
+  "relator": "Rodrigo Limp",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Rodrigo Limp": {"cat": "relator", "ts": "2:06:33", "evidencia": "de acordo com a proposta do rodrigo limp relator da matéria (retirado e depois retomado na mesma sessão)"},
-   "André Pepitone": {"cat": "acompanha", "ts": "2:07:01", "evidencia": "propomos que a diretoria por unanimidade decidiu aprovar o resultado definitivo da quarta revisão"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "2:06:56", "evidencia": "o relator também acompanhou o relator ... por unanimidade"},
-   "Elisa Bastos": {"cat": "acompanha", "ts": "2:06:56", "evidencia": "também acompanhou o relator ... por unanimidade"}
-  }},
- {"video_id": "TaiFOPNoRRY", "item_id": "3", "relator": "Efrain Cruz", "resultado_tipo": "aprovado",
+   "Rodrigo Limp": {
+    "cat": "relator",
+    "ts": "2:06:33",
+    "evidencia": "de acordo com a proposta do rodrigo limp relator da matéria (retirado e depois retomado na mesma sessão)"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "2:07:01",
+    "evidencia": "propomos que a diretoria por unanimidade decidiu aprovar o resultado definitivo da quarta revisão"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "2:06:56",
+    "evidencia": "o relator também acompanhou o relator ... por unanimidade"
+   },
+   "Elisa Bastos": {
+    "cat": "acompanha",
+    "ts": "2:06:56",
+    "evidencia": "também acompanhou o relator ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "TaiFOPNoRRY",
+  "item_id": "3",
+  "relator": "Efrain Cruz",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Efrain Cruz": {"cat": "relator", "ts": "2:49:57", "evidencia": "diretor relator efraim pereira da cruz"},
-   "André Pepitone": {"cat": "acompanha", "ts": "3:42:56", "evidencia": "também vota com o relator e proclama que a diretoria do anel por unanimidade decidiu"},
-   "Elisa Bastos": {"cat": "acompanha", "ts": "3:42:51", "evidencia": "acompanhe o voto do relator ... por unanimidade"},
-   "Rodrigo Limp": {"cat": "acompanha", "ts": "3:42:51", "evidencia": "acompanhe o voto do relator ... por unanimidade"}
-  }},
- {"video_id": "TaiFOPNoRRY", "item_id": "4", "relator": "Rodrigo Limp", "resultado_tipo": "aprovado",
+   "Efrain Cruz": {
+    "cat": "relator",
+    "ts": "2:49:57",
+    "evidencia": "diretor relator efraim pereira da cruz"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "3:42:56",
+    "evidencia": "também vota com o relator e proclama que a diretoria do anel por unanimidade decidiu"
+   },
+   "Elisa Bastos": {
+    "cat": "acompanha",
+    "ts": "3:42:51",
+    "evidencia": "acompanhe o voto do relator ... por unanimidade"
+   },
+   "Rodrigo Limp": {
+    "cat": "acompanha",
+    "ts": "3:42:51",
+    "evidencia": "acompanhe o voto do relator ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "TaiFOPNoRRY",
+  "item_id": "4",
+  "relator": "Rodrigo Limp",
+  "resultado_tipo": "unanim",
   "votos": {
-   "Rodrigo Limp": {"cat": "relator", "ts": "0:05:48", "evidencia": "diretor relator rodrigo ... o relator proferiu seu voto"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "1:31:07", "evidencia": "pedido de vista feito pelo diretor efrain (1:00:31); voto-vista em mesa ... encaminha acompanhando o diretor relator"},
-   "Elisa Bastos": {"cat": "acompanha", "ts": "1:31:19", "evidencia": "voto diretora elisa então temos três votos favoráveis"},
-   "André Pepitone": {"cat": "acompanha", "ts": "1:31:25", "evidencia": "agora vem para minha votação então acompanho o relator ... por unanimidade"}
-  }}
+   "Rodrigo Limp": {
+    "cat": "relator",
+    "ts": "0:05:48",
+    "evidencia": "diretor relator rodrigo ... o relator proferiu seu voto"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "1:31:07",
+    "evidencia": "pedido de vista feito pelo diretor efrain (1:00:31); voto-vista em mesa ... encaminha acompanhando o diretor relator"
+   },
+   "Elisa Bastos": {
+    "cat": "acompanha",
+    "ts": "1:31:19",
+    "evidencia": "voto diretora elisa então temos três votos favoráveis"
+   },
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "1:31:25",
+    "evidencia": "agora vem para minha votação então acompanho o relator ... por unanimidade"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ }
 ]

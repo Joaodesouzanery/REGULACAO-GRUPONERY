@@ -1,77 +1,285 @@
 [
- {"video_id": "Bz_hBtibTTo", "item_id": "bloco", "relator": "nao_se_aplica (bloco)", "resultado_tipo": "aprovado",
+ {
+  "video_id": "Bz_hBtibTTo",
+  "item_id": "bloco",
+  "relator": "nao_se_aplica (bloco)",
+  "resultado_tipo": "unanim",
   "obs": "Bloco aprovado por unanimidade; um diretor (aparentemente Hélvio) pediu vista do item 32 e aprovou o restante. As vozes não são identificáveis individualmente, mas a proclamação foi de unanimidade.",
   "votos": {
-   "André Pepitone": {"cat": "acompanha", "ts": "0:06:07", "evidencia": "proclamo que a diretoria do anel aprovou por unanimidade os itens do bloco"},
-   "Efrain Cruz": {"cat": "acompanha", "ts": "0:06:00", "evidencia": "Eu também a provas ... itens remanescentes do bloco (unanimidade)"},
-   "Elisa Bastos": {"cat": "acompanha", "ts": "0:06:00", "evidencia": "Eu também a prova os itens remanescentes do bloco (unanimidade)"},
-   "Hélvio Guerra": {"cat": "acompanha", "ts": "0:05:27", "evidencia": "o doutor Hélvio ... eu vou pedir Vista Júpiter 32 e aprovo restante do bloco"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "0:06:05", "evidencia": "Eu também aprovo os itens do bloco"}
-  }},
- {"video_id": "Bz_hBtibTTo", "item_id": "11", "relator": "Sandoval Feitosa", "resultado_tipo": "negado",
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "0:06:07",
+    "evidencia": "proclamo que a diretoria do anel aprovou por unanimidade os itens do bloco"
+   },
+   "Efrain Cruz": {
+    "cat": "acompanha",
+    "ts": "0:06:00",
+    "evidencia": "Eu também a provas ... itens remanescentes do bloco (unanimidade)"
+   },
+   "Elisa Bastos": {
+    "cat": "acompanha",
+    "ts": "0:06:00",
+    "evidencia": "Eu também a prova os itens remanescentes do bloco (unanimidade)"
+   },
+   "Hélvio Guerra": {
+    "cat": "acompanha",
+    "ts": "0:05:27",
+    "evidencia": "o doutor Hélvio ... eu vou pedir Vista Júpiter 32 e aprovo restante do bloco"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "0:06:05",
+    "evidencia": "Eu também aprovo os itens do bloco"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "Bz_hBtibTTo",
+  "item_id": "11",
+  "relator": "Sandoval Feitosa",
+  "resultado_tipo": "unanim",
   "obs": "Negado provimento por 'unanimidade dos votantes'. Há três vozes de voto além do relator, então provavelmente um diretor estava ausente; não dá para identificar quem foi pela legenda. Hélvio (citado como 'doutor Eva/Elvis') comentou a favor do voto.",
   "votos": {
-   "André Pepitone": {"cat": "acompanha", "ts": "2:44:38", "evidencia": "e assim proclama que a diretoria do anel por unanimidade dos votantes decidiu negar provimento"},
-   "Efrain Cruz": {"cat": "nao_votou", "ts": "2:44:41", "evidencia": "indeterminado: as vozes 'eu acompanho o voto do relator Eu também...' não têm nome"},
-   "Elisa Bastos": {"cat": "nao_votou", "ts": "2:44:41", "evidencia": "indeterminado: 'acompanhe vó dela' sem identificação; possível ausência ('unanimidade dos votantes')"},
-   "Hélvio Guerra": {"cat": "acompanha", "ts": "2:39:11", "evidencia": "jurisprudência ... como muito bem fez o diretor Sandoval (concordância; voto não nomeado)"},
-   "Sandoval Feitosa": {"cat": "relator", "ts": "1:51:11", "evidencia": "diretor-relator Sandoval de Araújo Feitosa Neto"}
-  }},
- {"video_id": "Bz_hBtibTTo", "item_id": "3", "relator": "Hélvio Guerra", "resultado_tipo": "negado",
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "2:44:38",
+    "evidencia": "e assim proclama que a diretoria do anel por unanimidade dos votantes decidiu negar provimento"
+   },
+   "Efrain Cruz": {
+    "cat": "nao_votou",
+    "ts": "2:44:41",
+    "evidencia": "indeterminado: as vozes 'eu acompanho o voto do relator Eu também...' não têm nome"
+   },
+   "Elisa Bastos": {
+    "cat": "nao_votou",
+    "ts": "2:44:41",
+    "evidencia": "indeterminado: 'acompanhe vó dela' sem identificação; possível ausência ('unanimidade dos votantes')"
+   },
+   "Hélvio Guerra": {
+    "cat": "acompanha",
+    "ts": "2:39:11",
+    "evidencia": "jurisprudência ... como muito bem fez o diretor Sandoval (concordância; voto não nomeado)"
+   },
+   "Sandoval Feitosa": {
+    "cat": "relator",
+    "ts": "1:51:11",
+    "evidencia": "diretor-relator Sandoval de Araújo Feitosa Neto"
+   }
+  },
+  "resultado_tipo_original": "negado"
+ },
+ {
+  "video_id": "Bz_hBtibTTo",
+  "item_id": "3",
+  "relator": "Hélvio Guerra",
+  "resultado_tipo": "unanim",
   "obs": "Recurso conhecido e com provimento negado por 'unanimidade dos votantes'. Só duas falas de voto mais a proclamação, e as vozes não têm nome.",
   "votos": {
-   "André Pepitone": {"cat": "acompanha", "ts": "0:47:41", "evidencia": "proclame que a diretoria do anel por unanimidade votantes decidiu conhecer ... negar-lhe provimento"},
-   "Efrain Cruz": {"cat": "nao_votou", "ts": "0:47:35", "evidencia": "indeterminado: 'acompanha o voto do eminente relator' sem nome"},
-   "Elisa Bastos": {"cat": "nao_votou", "ts": "0:47:39", "evidencia": "indeterminado: 'Eu também acompanho o voto do diretor Elvis' sem nome"},
-   "Hélvio Guerra": {"cat": "relator", "ts": "0:27:20", "evidencia": "diretor-relator Elvis Neves"},
-   "Sandoval Feitosa": {"cat": "nao_votou", "ts": "0:47:35", "evidencia": "indeterminado: vozes não identificadas"}
-  }},
- {"video_id": "FwdI7J21BHQ", "item_id": "8", "relator": "Hélvio Guerra", "resultado_tipo": "negado",
+   "André Pepitone": {
+    "cat": "acompanha",
+    "ts": "0:47:41",
+    "evidencia": "proclame que a diretoria do anel por unanimidade votantes decidiu conhecer ... negar-lhe provimento"
+   },
+   "Efrain Cruz": {
+    "cat": "nao_votou",
+    "ts": "0:47:35",
+    "evidencia": "indeterminado: 'acompanha o voto do eminente relator' sem nome"
+   },
+   "Elisa Bastos": {
+    "cat": "nao_votou",
+    "ts": "0:47:39",
+    "evidencia": "indeterminado: 'Eu também acompanho o voto do diretor Elvis' sem nome"
+   },
+   "Hélvio Guerra": {
+    "cat": "relator",
+    "ts": "0:27:20",
+    "evidencia": "diretor-relator Elvis Neves"
+   },
+   "Sandoval Feitosa": {
+    "cat": "nao_votou",
+    "ts": "0:47:35",
+    "evidencia": "indeterminado: vozes não identificadas"
+   }
+  },
+  "resultado_tipo_original": "negado"
+ },
+ {
+  "video_id": "FwdI7J21BHQ",
+  "item_id": "8",
+  "relator": "Hélvio Guerra",
+  "resultado_tipo": "unanim",
   "obs": "Unanimidade dos presentes acompanhando o relator. O voto propõe conhecer o recurso e manter a multa; o resultado_tipo foi inferido do teor do voto.",
   "votos": {
-   "Hélvio Guerra": {"cat": "relator", "ts": "2:19:17", "evidencia": "diretor relator elv Neves"},
-   "Ricardo Tili": {"cat": "acompanha", "ts": "2:31:22", "evidencia": "acompanho o voto do relator pelos ... fundamentos"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "2:31:30", "evidencia": "eu também Acompanho a proposta de voto do relator e proclamo ... unanimidade dos diretores presentes"}
-  }},
- {"video_id": "FwdI7J21BHQ", "item_id": "10", "relator": "Efrain Cruz (voto-vista Hélvio Guerra)", "resultado_tipo": "aprovado",
+   "Hélvio Guerra": {
+    "cat": "relator",
+    "ts": "2:19:17",
+    "evidencia": "diretor relator elv Neves"
+   },
+   "Ricardo Tili": {
+    "cat": "acompanha",
+    "ts": "2:31:22",
+    "evidencia": "acompanho o voto do relator pelos ... fundamentos"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "2:31:30",
+    "evidencia": "eu também Acompanho a proposta de voto do relator e proclamo ... unanimidade dos diretores presentes"
+   }
+  },
+  "resultado_tipo_original": "negado"
+ },
+ {
+  "video_id": "FwdI7J21BHQ",
+  "item_id": "10",
+  "relator": "Efrain Cruz (voto-vista Hélvio Guerra)",
+  "resultado_tipo": "maioria",
   "obs": "O voto-vista de Hélvio acompanha parcialmente o relator Efrain e reduz a multa para 5%. Por maioria, a diretoria 'decidiu acompanhar parcialmente o voto do diretor Efraim' nos termos do voto-vista. Tili e Sandoval votaram com o voto-vista. Pela convenção, isso é divergência parcial do relator original.",
   "votos": {
-   "Hélvio Guerra": {"cat": "diverge", "ts": "2:14:05", "evidencia": "acompanho parcialmente o voto do ... proponho a redução para 5%"},
-   "Ricardo Tili": {"cat": "diverge", "ts": "2:18:14", "evidencia": "eu falei que eu voto com o relator Eu voto com voto vista"},
-   "Sandoval Feitosa": {"cat": "diverge", "ts": "2:16:31", "evidencia": "Acompanho a proposta de voto do relator e proclamo ... por maioria decidiu acompanhar parcialmente o voto do diretor Efraim"}
-  }},
- {"video_id": "FwdI7J21BHQ", "item_id": "12", "relator": "Ricardo Tili", "resultado_tipo": "aprovado",
+   "Hélvio Guerra": {
+    "cat": "diverge",
+    "ts": "2:14:05",
+    "evidencia": "acompanho parcialmente o voto do ... proponho a redução para 5%"
+   },
+   "Ricardo Tili": {
+    "cat": "diverge",
+    "ts": "2:18:14",
+    "evidencia": "eu falei que eu voto com o relator Eu voto com voto vista"
+   },
+   "Sandoval Feitosa": {
+    "cat": "diverge",
+    "ts": "2:16:31",
+    "evidencia": "Acompanho a proposta de voto do relator e proclamo ... por maioria decidiu acompanhar parcialmente o voto do diretor Efraim"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "FwdI7J21BHQ",
+  "item_id": "12",
+  "relator": "Ricardo Tili",
+  "resultado_tipo": "unanim",
   "obs": "A votação vinha de sessão anterior e estava empatada, faltando só o voto de Sandoval, que desempatou com o relator ('por maioria'). O voto anterior de Hélvio não é dito neste trecho.",
   "votos": {
-   "Hélvio Guerra": {"cat": "nao_votou", "ts": "2:33:23", "evidencia": "indeterminado: 'tava empatado em votação faltando apenas o voto do Sandoval'; o lado de Hélvio não aparece"},
-   "Ricardo Tili": {"cat": "relator", "ts": "2:33:18", "evidencia": "relator Ricardo lavorato ti"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "2:37:02", "evidencia": "voto acompanhando a proposta do relator Ricardo Tile e proclamo ... por maioria"}
-  }},
- {"video_id": "rmkEJPFufso", "item_id": "7", "relator": "Fernando Mosna", "resultado_tipo": "vista",
+   "Hélvio Guerra": {
+    "cat": "nao_votou",
+    "ts": "2:33:23",
+    "evidencia": "indeterminado: 'tava empatado em votação faltando apenas o voto do Sandoval'; o lado de Hélvio não aparece"
+   },
+   "Ricardo Tili": {
+    "cat": "relator",
+    "ts": "2:33:18",
+    "evidencia": "relator Ricardo lavorato ti"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "2:37:02",
+    "evidencia": "voto acompanhando a proposta do relator Ricardo Tile e proclamo ... por maioria"
+   }
+  },
+  "resultado_tipo_original": "aprovado"
+ },
+ {
+  "video_id": "rmkEJPFufso",
+  "item_id": "7",
+  "relator": "Fernando Mosna",
+  "resultado_tipo": "vista",
   "obs": "Ao abrir a votação, a diretora Agnes pediu vista e os demais processos foram retirados de pauta. Ninguém votou.",
   "votos": {
-   "Agnes da Costa": {"cat": "vista", "ts": "6:22:37", "evidencia": "eu vou pedir vistas e solicitação de vistas da diretora Agnes"},
-   "Fernando Mosna": {"cat": "relator", "ts": "5:15:57", "evidencia": "relator Fernando Luiz mozna Ferreira da"},
-   "Hélvio Guerra": {"cat": "nao_votou", "ts": "6:22:31", "evidencia": "vista antes da votação"},
-   "Ricardo Tili": {"cat": "nao_votou", "ts": "6:22:31", "evidencia": "vista antes da votação"},
-   "Sandoval Feitosa": {"cat": "nao_votou", "ts": "6:22:31", "evidencia": "eu vou abrir aqui para votação o voto do diretor Fernando (vista em seguida)"}
-  }},
- {"video_id": "rmkEJPFufso", "item_id": "23", "relator": "Hélvio Guerra", "resultado_tipo": "negado",
+   "Agnes da Costa": {
+    "cat": "vista",
+    "ts": "6:22:37",
+    "evidencia": "eu vou pedir vistas e solicitação de vistas da diretora Agnes"
+   },
+   "Fernando Mosna": {
+    "cat": "relator",
+    "ts": "5:15:57",
+    "evidencia": "relator Fernando Luiz mozna Ferreira da"
+   },
+   "Hélvio Guerra": {
+    "cat": "nao_votou",
+    "ts": "6:22:31",
+    "evidencia": "vista antes da votação"
+   },
+   "Ricardo Tili": {
+    "cat": "nao_votou",
+    "ts": "6:22:31",
+    "evidencia": "vista antes da votação"
+   },
+   "Sandoval Feitosa": {
+    "cat": "nao_votou",
+    "ts": "6:22:31",
+    "evidencia": "eu vou abrir aqui para votação o voto do diretor Fernando (vista em seguida)"
+   }
+  }
+ },
+ {
+  "video_id": "rmkEJPFufso",
+  "item_id": "23",
+  "relator": "Hélvio Guerra",
+  "resultado_tipo": "unanim",
   "obs": "Indeferido por unanimidade, com quatro falas de voto além do relator. As falas individuais não têm nome, mas a proclamação de unanimidade cobre todos.",
   "votos": {
-   "Agnes da Costa": {"cat": "acompanha", "ts": "2:15:44", "evidencia": "Eu voto com relator Eu também voto com relator (unanimidade)"},
-   "Fernando Mosna": {"cat": "acompanha", "ts": "2:15:46", "evidencia": "também V do relator (unanimidade)"},
-   "Hélvio Guerra": {"cat": "relator", "ts": "1:54:07", "evidencia": "diretor relator elv Neves guerra"},
-   "Ricardo Tili": {"cat": "acompanha", "ts": "2:15:44", "evidencia": "Eu também voto com relator (unanimidade)"},
-   "Sandoval Feitosa": {"cat": "acompanha", "ts": "2:15:49", "evidencia": "Eu também Acompanho a proposta do eminente relator e proclamo ... por unanimidade indeferir"}
-  }},
- {"video_id": "rmkEJPFufso", "item_id": "14", "relator": "Agnes da Costa", "resultado_tipo": "vista",
+   "Agnes da Costa": {
+    "cat": "acompanha",
+    "ts": "2:15:44",
+    "evidencia": "Eu voto com relator Eu também voto com relator (unanimidade)"
+   },
+   "Fernando Mosna": {
+    "cat": "acompanha",
+    "ts": "2:15:46",
+    "evidencia": "também V do relator (unanimidade)"
+   },
+   "Hélvio Guerra": {
+    "cat": "relator",
+    "ts": "1:54:07",
+    "evidencia": "diretor relator elv Neves guerra"
+   },
+   "Ricardo Tili": {
+    "cat": "acompanha",
+    "ts": "2:15:44",
+    "evidencia": "Eu também voto com relator (unanimidade)"
+   },
+   "Sandoval Feitosa": {
+    "cat": "acompanha",
+    "ts": "2:15:49",
+    "evidencia": "Eu também Acompanho a proposta do eminente relator e proclamo ... por unanimidade indeferir"
+   }
+  },
+  "resultado_tipo_original": "negado"
+ },
+ {
+  "video_id": "rmkEJPFufso",
+  "item_id": "14",
+  "relator": "Agnes da Costa",
+  "resultado_tipo": "vista",
   "obs": "O voto de Agnes foi submetido à votação e o diretor Fernando pediu vista. Os outros não votaram.",
   "votos": {
-   "Agnes da Costa": {"cat": "relator", "ts": "1:06:45", "evidencia": "diretora relatora Agnes Maria"},
-   "Fernando Mosna": {"cat": "vista", "ts": "1:53:36", "evidencia": "eu peço Vista ... vistas concedidas ao diretor Fernando"},
-   "Hélvio Guerra": {"cat": "nao_votou", "ts": "1:53:31", "evidencia": "vista antes da votação"},
-   "Ricardo Tili": {"cat": "nao_votou", "ts": "1:53:31", "evidencia": "vista antes da votação"},
-   "Sandoval Feitosa": {"cat": "nao_votou", "ts": "1:53:31", "evidencia": "vou submeter a o voto da diretora Agnes para votação (vista em seguida)"}
-  }}
+   "Agnes da Costa": {
+    "cat": "relator",
+    "ts": "1:06:45",
+    "evidencia": "diretora relatora Agnes Maria"
+   },
+   "Fernando Mosna": {
+    "cat": "vista",
+    "ts": "1:53:36",
+    "evidencia": "eu peço Vista ... vistas concedidas ao diretor Fernando"
+   },
+   "Hélvio Guerra": {
+    "cat": "nao_votou",
+    "ts": "1:53:31",
+    "evidencia": "vista antes da votação"
+   },
+   "Ricardo Tili": {
+    "cat": "nao_votou",
+    "ts": "1:53:31",
+    "evidencia": "vista antes da votação"
+   },
+   "Sandoval Feitosa": {
+    "cat": "nao_votou",
+    "ts": "1:53:31",
+    "evidencia": "vou submeter a o voto da diretora Agnes para votação (vista em seguida)"
+   }
+  }
+ }
 ]
