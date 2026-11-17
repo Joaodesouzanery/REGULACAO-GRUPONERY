@@ -1,0 +1,36 @@
+{
+  "meta": {"video_id": "lawmUsSFsCQ", "fonte": "legenda automática do YouTube; transcrição preparada cobre só ~4 min iniciais (86 segmentos, termina em [Música])", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "20", "data": "2018-06-12", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa",
+    "diretores_presentes": ["Sandoval Feitosa"],
+    "ausentes": [],
+    "observacoes": ["Quórum completo com cinco diretores, segundo a abertura; só Sandoval Feitosa é identificado na legenda.", "Vídeo/transcrição truncado: termina logo após a votação em bloco dos itens 11 a 21 (exceto 17, destacado). Não há deliberação individual nem sustentações."]
+  },
+  "itens": [
+    {
+      "id": "11", "ts": "0:03:30",
+      "processo": "", "interessado": "",
+      "assunto": "Item 11 da pauta, votado dentro do bloco de itens 11 a 21 (autos de infração; assunto detalhado não consta da legenda)",
+      "tema": ["fiscalização e sanções"],
+      "relator": "não identificado", "resultado": "aprovado por maioria (um diretor impedido por ter participado da instrução em primeira instância)",
+      "resumo_voto": "Um diretor declarou impedimento no item 11 por ter participado da instrução em primeira instância com emissão de autos de infração; os demais aprovaram. Nome do impedido não é claro na legenda.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova (pela proclamação, aprovado por maioria em função do impedimento de um diretor)", "ts": "0:03:40", "justificativa": "Sandoval anuncia que o item 11 foi aprovado por maioria em função do impedimento de um diretor.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "12 a 16, 18 a 21 (bloco)", "ts": "0:03:20",
+      "processo": "", "interessado": "",
+      "assunto": "Bloco de itens 11 a 21, exceto 17 (destacado); itens do bloco não detalhados na legenda",
+      "tema": ["não identificado"],
+      "relator": "não identificado", "resultado": "aprovado em bloco",
+      "resumo_voto": "Votação em bloco com aprovação dos diretores; item 17 destacado para deliberação posterior.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:03:40", "justificativa": "Conduz a votação do bloco; indicação de que todos votaram pela aprovação.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição cobre apenas ~4 minutos; itens 17, 5, 9, 10 e 3 (com sustentação oral prevista) não aparecem.", "Apenas Sandoval Feitosa é nomeado; os outros quatro diretores e o impedido no item 11 não são identificáveis na legenda (aparece «diretor joão», não confirmado).", "Itens do bloco não individualizados; votos dos demais diretores não registrados por falta de base."]
+}

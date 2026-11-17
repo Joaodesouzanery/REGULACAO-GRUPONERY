@@ -1,0 +1,222 @@
+{
+ "meta": {
+  "video_id": "d8JDsICD8B8",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "27ª RPO 2019",
+  "data": "2019-07-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "não identificado com certeza (presidência em exercício; provavelmente Tiago Correia)",
+  "diretores_presentes": [
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Tiago Correia"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)",
+   "Rodrigo Limp (férias)"
+  ],
+  "observacoes": [
+   "Quórum de três diretores; pauta com 26 itens; item 10 retirado a pedido; itens 7 e 26 em bloco; ordem de julgamento 3, 4, 1, 5, 6 (item 2 retirado).",
+   "Itens 1 e 6 retirados de pauta pelo relator Efrain Cruz.",
+   "Encerrada em 2:28:53 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:08",
+   "processo": "itens 7 e 26 da pauta (exceto item 10)",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens sem destaque (votos e atos disponibilizados desde a quinta-feira anterior); item 10 retirado de pauta a pedido",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem debate; presidência proclamou unanimidade.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:03:08",
+     "justificativa": "Aprovação do bloco sem manifestação individual na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:03:08",
+     "justificativa": "Aprovação do bloco sem manifestação individual na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tiago Correia",
+     "voto": "aprova o bloco",
+     "ts": "0:03:10",
+     "justificativa": "Presidência submeteu o bloco a votação e proclamou unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:03:18",
+   "processo": "48500.002880/2015-65",
+   "interessado": "Centrais Elétricas do Pará (Celpa)",
+   "assunto": "Recurso administrativo da Celpa contra auto de infração 46/2017 (SFE) que aplicou advertência e multa por falhas na apuração dos indicadores de continuidade (DEC/FEC, PRODIST módulo 8), cálculo de compensações e informações em fatura; determinações em 180 dias",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição e qualidade (DEC/FEC, compensações)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: recurso conhecido e provido parcialmente (multa total reduzida de cerca de R$ 3,213 milhões para cerca de R$ 3,210 milhões; mantidas advertência e determinações em 180 dias)",
+   "resumo_voto": "Relator afastou a não conformidade NC1 por insignificância (cerca de 380 consumidores em base de mais de 2 milhões), manteve NC2 a NC5 e as determinações; não considerou vantagem auferida na dosimetria, divergindo da procuradoria. Sem sustentação oral registrada.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, dá provimento parcial",
+     "ts": "0:04:30",
+     "justificativa": "Conhece do recurso, provimento parcial: recalcula a multa total, mantém advertência e determinações DT1 a DT3 em 180 dias; afasta NC1 por insignificância e discorda da procuradoria sobre vantagem auferida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:36:00",
+     "justificativa": "Enfatizou que erro em indicadores de continuidade nunca é de pequeno potencial ofensivo (pacote de qualidade pago na tarifa); acompanhou o relator. Atribuição do falante inferida por eliminação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tiago Correia",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:02",
+     "justificativa": "Votou por último e proclamou unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:37:38",
+   "processo": "48500.005262/2017-11",
+   "interessado": "Interligação Elétrica Itapura S.A. (SETEP, controlador)",
+   "assunto": "Recurso administrativo contra o ofício 487/2018-SCT que negou antecipar de janeiro de 2020 para agosto de 2019 a operação comercial do compensador estático de reativos de 440 kV na SE Bauru (contrato de concessão 42/2017, lote 25 do leilão 5/2017)",
+   "tema": [
+    "transmissão (outorgas, antecipação de entrada em operação)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: recurso conhecido e provido para autorizar a antecipação da operação comercial para agosto de 2019",
+   "resumo_voto": "Relatora conheceu o recurso contra ofício de caráter decisório (parecer da PGE sobre ofícios decisórios) e deu provimento, pois ONS e MME, inicialmente contrários, passaram a ver importância para flexibilidade operativa (atraso de ativos como Mata de Santa Genebra) e SCT e SFE retificaram. Diretores registraram necessidade de comprovar benefício ao consumidor e de o MME apresentar estudos.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, dá provimento",
+     "ts": "0:38:30",
+     "justificativa": "Conhece e dá provimento: autoriza antecipação para agosto de 2019 diante de fatos novos do ONS, MME, SCT e SFE.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "1:00:00",
+     "justificativa": "Parabenizou a relatora; destacou preocupação com impacto tarifário de novas obras de transmissão e que a antecipação só vale se houver vantagem comprovada ao consumidor; acompanhou. Atribuição do falante inferida por eliminação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tiago Correia",
+     "voto": "acompanha a relatora",
+     "ts": "1:01:55",
+     "justificativa": "Registrou a ausência de Rodrigo Limp (especialista em transmissão) e acompanhou a relatora; proclamou unanimidade.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:02:45",
+   "processo": "48500.006285/2018-15 (e 48500.001752/2009-... DEC/FEC, em apartado)",
+   "interessado": "EDP Espírito Santo Centrais Elétricas S.A.",
+   "assunto": "Revisão tarifária periódica da EDP Espírito Santo (efeito médio negativo de 4,84%) e definição dos limites de DEC/FEC 2020 a 2022, após audiência pública 17/2019",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "distribuição e qualidade (DEC/FEC)",
+    "perdas não técnicas",
+    "sobrecontratação"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator (para julgar junto com o processo de DEC/FEC na semana seguinte, antes da vigência em 7 de agosto)",
+   "resumo_voto": "Houve sustentação oral da EDP (Donato) pedindo sobrecontratação de 2018 como voluntária, inclusão da parcela de ganho compartilhado do MVE e ajuste da trajetória de perdas não técnicas ao ciclo de 3 anos; apresentação técnica da SGT. Relator retirou o processo para estudar os pontos; não houve votação.",
+   "votos": []
+  },
+  {
+   "id": "5",
+   "ts": "1:31:56",
+   "processo": "48500.005449/2018-97",
+   "interessado": "Transmissora José Maria de Macedo de Eletricidade S/A (JMM)",
+   "assunto": "Recurso administrativo com pedido de medida cautelar contra o despacho 529/2019-SCT que negou afastar descontos na RAP por parcela variável por atraso (PVA) na entrada em operação de instalações do contrato 5/2015 (LT Gilbués II-Gentio do Ouro II etc., lote do leilão 7/2014); alegação de atraso do IBAMA no licenciamento",
+   "tema": [
+    "transmissão (RAP, parcela variável por atraso)",
+    "recursos administrativos",
+    "licenciamento ambiental / excludente de responsabilidade"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: recurso conhecido e não provido; mantidos os descontos de PVA",
+   "resumo_voto": "Relatora: PVA é mecanismo de incentivo à eficiência, não penalidade; IBAMA cumpriu o prazo global do licenciamento (558 de 567 dias); JMM pediu a licença de operação só em 6/2/2018, sem nexo de causalidade. Sustentação oral da procuradora da JMM (Valéria de Souza Rosa) pedindo provimento ou ao menos reconhecer 74 dias do IBAMA como excludente. Procuradoria da ANEEL se manifestou contra a excludente.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, nega provimento",
+     "ts": "1:33:00",
+     "justificativa": "Conhece e nega provimento: PVA não é pena, prazos intermediários do IBAMA não geram nexo causal, JMM demorou a solicitar a licença de operação.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "2:25:00",
+     "justificativa": "Criticou o argumento de evitar judicialização como pressão sobre a agência; elogiou o voto; acompanhou. Atribuição do falante inferida por eliminação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tiago Correia",
+     "voto": "acompanha a relatora",
+     "ts": "2:26:55",
+     "justificativa": "Destacou que PVA é incentivo regulatório e que excludente exige nexo de causalidade; votou por último e proclamou unanimidade. Atribuição inferida.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:27:52",
+   "processo": "48500.002130/2019-89",
+   "interessado": "Cepisa / Eletrobras Distribuição Piauí",
+   "assunto": "Pedido de medida cautelar para suspender a parcela de eficiência de sobrecontratação do MUST 2018 nos pontos de conexão Boa Esperança, Ribeiro Gonçalves, Teresina e Teresina III",
+   "tema": [
+    "tarifas (MUST, transmissão)",
+    "recursos administrativos (medida cautelar)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator (objeto prejudicado)",
+   "resumo_voto": "Relator retirou o processo de pauta informando que o objeto restou prejudicado, conforme área técnica.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  "item 2 (retirado, assunto não identificado)",
+  "item 10 (a pedido, retirado do bloco)",
+  "item 1 (EDP ES, retirado pelo relator)",
+  "item 6 (CEPISA, retirado pelo relator, prejudicado)"
+ ],
+ "limites_da_analise": [
+  "A legenda diz que Rodrigo Limp e Sandoval estão de férias; a terceira cadeira presente foi atribuída a Tiago Correia por eliminação (lista do config), com baixa confiança; quem presidiu e votou por último não é dito pelo nome.",
+  "Os diretores que votam depois do relator são atribuídos por eliminação e pela ordem relator, demais, presidência; as falas sem nome têm confiança baixa e ts aproximado.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados; no item 1 o número do processo de DEC/FEC não está claro.",
+  "Itens do bloco (7 a 26 exceto 10) não são detalhados na transcrição; item 2 foi retirado a pedido de sustentação oral/preferência (assunto não identificado)."
+ ]
+}

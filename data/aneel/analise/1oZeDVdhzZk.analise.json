@@ -1,0 +1,766 @@
+{
+ "meta": {
+  "video_id": "1oZeDVdhzZk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "23",
+  "data": "2020-06-30",
+  "formato": "videoconferência (teletrabalho, pandemia)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Júlio César Rezende Ferraz",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 do vídeo (0:01 a 3:24): termina na pausa para almoço, retomada às 14:30; itens da tarde estão na Parte 2.",
+   "Pauta com 49 itens; bloco de 21 itens; retirados de pauta 12, 15, 23, 24, 27 e 38 (22 retirado depois); sustentações orais pedidas para itens 3, 6 a 14, 18 e 25; preferência para 18 e 25.",
+   "Quórum de 5 diretores; aprovadas as atas da 22ª ordinária e da 5ª extraordinária (com ajustes de Júlio Ferraz)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:18:51",
+   "processo": "",
+   "interessado": "diversos (itens 28 a 49 da pauta, exceto 38 retirado e 29 destacado)",
+   "assunto": "Deliberação em bloco dos itens remanescentes da pauta (bloco de 21 itens, 28 a 49); itens não detalhados na leitura",
+   "tema": [
+    "bloco de itens de pauta"
+   ],
+   "relator": "",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Secretário-geral submeteu o bloco; os diretores votaram pela aprovação; Diretor-Geral proclamou unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:20:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:20:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:21:28",
+   "processo": "48500.000753/2019-29",
+   "interessado": "CEEE-GT (Companhia Estadual de Geração e Transmissão de Energia Elétrica), contrato 55/2001",
+   "assunto": "Resultado da Consulta Pública 17/2020: revisão periódica da RAP 2018 da CEEE-GT (contrato 55/2001, prorrogado pela Lei 12.783/2013), com reposicionamento provisório de cerca de 15,7%; fiscalização da base de remuneração pendente, SFF com 60 dias para finalizar",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Elisa Bastos). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:40:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:28:17",
+     "justificativa": "homologação provisória até a fiscalização da base de remuneração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:21:28",
+   "processo": "48500.000745/2019-82",
+   "interessado": "Furnas Centrais Elétricas (contrato 62/2001)",
+   "assunto": "Resultado da Consulta Pública 18/2020: revisão periódica da RAP 2018 de Furnas, reposicionamento de 3,07% e parcela de ajuste de revisão",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Júlio César Rezende Ferraz). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:40:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova",
+     "ts": "1:31:12",
+     "justificativa": "homologa reposicionamento de 3,07% e parcela de ajuste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:21:28",
+   "processo": "48500.000752/2019-84",
+   "interessado": "CELG Geração e Transmissão (CELG-GT), contrato 63/2001",
+   "assunto": "Resultado da Consulta Pública 19/2020: revisão periódica da RAP 2018 da CELG-GT, reposicionamento de cerca de 15,6% e parcela de ajuste diluída em três ciclos",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Elisa Bastos). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:40:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:30:04",
+     "justificativa": "homologação do reposicionamento e da parcela de ajuste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:21:28",
+   "processo": "48500.000751/2019-30",
+   "interessado": "Cemig Geração e Transmissão (Cemig GT), contrato 6/1997",
+   "assunto": "Resultado da Consulta Pública 20/2020: revisão periódica da RAP 2018 da Cemig GT, reposicionamento de cerca de 9,13% e parcela de ajuste",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Efrain Cruz). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:40:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:20:33",
+     "justificativa": "homologação; resultado reflete banco de preços, REN 880 (custos operacionais) e custo de capital (REN 874)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:21:28",
+   "processo": "48500.000747/2019-71",
+   "interessado": "Eletronorte (Centrais Elétricas do Norte do Brasil), contrato 58/2001",
+   "assunto": "Resultado da Consulta Pública 21/2020: revisão periódica provisória da RAP 2018 da Eletronorte (reposicionamento de cerca de 18,4%), com determinação à SFF de finalizar em 60 dias a fiscalização da base de remuneração",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Efrain Cruz). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:22:39",
+     "justificativa": "homologação provisória; SFF finaliza fiscalização em 60 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:21:28",
+   "processo": "48500.000748/2019-16",
+   "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista), contrato 59/2001",
+   "assunto": "Resultado da Consulta Pública 22/2020: revisão periódica da RAP 2018 da ISA CTEEP, reposicionamento de cerca de 9,75%",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Efrain Cruz). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:24:54",
+     "justificativa": "homologação do resultado da revisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:21:28",
+   "processo": "48500.000749/2019-61",
+   "interessado": "Copel Geração e Transmissão (Copel GT), contrato 60/2001",
+   "assunto": "Resultado da Consulta Pública 23/2020: revisão periódica da RAP 2018 da Copel GT, reposicionamento de cerca de 10,16%",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Efrain Cruz). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:26:45",
+     "justificativa": "homologação do resultado da revisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:21:28",
+   "processo": "48500.000746/2019",
+   "interessado": "Eletrosul Centrais Elétricas, contrato 57/2001",
+   "assunto": "Resultado da Consulta Pública 24/2020: revisão periódica da RAP 2018 da Eletrosul, reposicionamento de cerca de 7,28%; houve sustentação oral da Eletrosul contra a metodologia de custos operacionais da REN 880/2020",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Sandoval Feitosa). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares. Sustentações orais: Eletrosul (Vitor Sarmento de Mello, item 13) e Abradee (Tiago Aragão Soares, itens 6 a 14), esta sobre remuneração do componente financeiro da RBSE entre 2017 e 2020 e estabilização do custo de capital.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:32:33",
+     "justificativa": "aprova o reposicionamento; refuta a ilegalidade alegada pela Eletrosul",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:55:30",
+     "confianca": "media",
+     "justificativa": "rebateu a alegação de ilegalidade: a revisão cobre toda a parcela, sem margem blindada (parecer da Procuradoria na AP 41/2017)"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:35:35",
+     "confianca": "media",
+     "justificativa": "regulação é por preço e não por custo; contrato prevê revisão de todos os componentes; sem ilegalidade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:21:28",
+   "processo": "48500.000750/2019-95",
+   "interessado": "Chesf (Companhia Hidro Elétrica do São Francisco), contrato 61/2001",
+   "assunto": "Resultado da Consulta Pública 25/2020: revisão periódica provisória da RAP 2018 da Chesf (reposicionamento de cerca de 19,65%), com 60 dias para a SFF finalizar a fiscalização da base de remuneração",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras prorrogadas (Lei 12.783)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (votação em bloco dos itens 6 a 14)",
+   "resumo_voto": "Votação conjunta dos itens 6 a 14; unanimidade proclamada nos termos do dispositivo de voto do relator (Sandoval Feitosa). Relatório comum por Efrain Cruz e apresentação técnica da SGT (Dennis Jannuzzi). Parcela de ajuste elevada pela incorporação do parâmetro K (custo de capital próprio, Portaria MME 120/2016) após cassação de liminares. Sustentações orais: Eletrosul (Vitor Sarmento de Mello, item 13) e Abradee (Tiago Aragão Soares, itens 6 a 14), esta sobre remuneração do componente financeiro da RBSE entre 2017 e 2020 e estabilização do custo de capital.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:33:33",
+     "justificativa": "aprovação provisória até fiscalização da base",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:39:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:44:55",
+   "processo": "48500.000978/2019",
+   "interessado": "Light Transmissão (Light Energia S.A.), contrato 32/2018",
+   "assunto": "Resultado da Consulta Pública 16/2020 e homologação da revisão periódica 2020 da RAP da Light Energia (transmissão); reposicionamento de cerca de -7,99% nominal",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras desverticalizadas"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 5 e 29 apresentados em conjunto (apresentação técnica de Aline Moura, SGT); Procuradoria sem óbice jurídico; relatora votou pela homologação; Diretor-Geral proclamou unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:54:21",
+     "justificativa": "homologa o resultado da revisão periódica 2020 da RAP, a vigorar de 1º/7/2020",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "1:44:55",
+   "processo": "48500.000976/2020",
+   "interessado": "Fluente Transmissão de Energia Elétrica",
+   "assunto": "Resultado da Consulta Pública 15/2020 e homologação da revisão periódica 2020 da RAP da Fluente Transmissão (destacado da pauta pela relatora para julgamento conjunto com o item 5); reposicionamento de cerca de -6,99% nominal",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "revisão periódica da RAP de transmissoras desverticalizadas"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 5 e 29 apresentados em conjunto (apresentação técnica de Aline Moura, SGT); Procuradoria sem óbice jurídico; relatora votou pela homologação; Diretor-Geral proclamou unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:54:55",
+     "justificativa": "homologa o resultado da revisão periódica 2020 da RAP, a vigorar de 1º/7/2020",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:55:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:56:34",
+   "processo": "48500.004581/2019-62",
+   "interessado": "ANEEL (agenda regulatória)",
+   "assunto": "Revisão da Agenda Regulatória 2020/2021; prorrogação até 31/12/2021 dos mandatos dos conselheiros dos Conselhos de Consumidores; alteração da portaria do Plano de Gestão Anual 2020",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "institucional/TCU"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Agenda passa de 110 para 138 atividades (33 inclusões, 5 exclusões, 54 com cronograma alterado) por causa da pandemia e das atividades de consolidação de atos normativos (Decreto 10.139/2019). Procuradoria sem manifestação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:13:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:13:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:13:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "2:13:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova",
+     "ts": "2:12:38",
+     "justificativa": "previsibilidade e transparência da agenda; revisão envolveu 12 unidades e foi impactada pela pandemia e pelo decreto de consolidação",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:14:34",
+   "processo": "48500.007152/2019-11",
+   "interessado": "Enel Distribuição São Paulo (ex-Eletropaulo)",
+   "assunto": "Reajuste tarifário anual 2020 da Enel SP (efeito médio 4,23%; 6% alta tensão e 3,58% baixa tensão), com antecipação de componente financeiro negativo de cerca de R$ 1,29 bilhão da Conta-covid",
+   "tema": [
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "distribuição",
+    "CDE e encargos setoriais",
+    "Conta-covid"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem a antecipação da Conta-covid o efeito médio seria de 12,22%. Sustentação oral da Enel (representante não identificado) defendendo o uso integral da conta para amortecer tarifas; Procuradoria sem ressalvas; apresentação técnica da SGT (Leonardo de Araújo).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "2:43:32",
+     "justificativa": "destaca o benefício da Conta-covid: reajuste 56% menor na alta tensão e 69% menor na baixa tensão frente ao cenário sem antecipação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:44:51",
+     "justificativa": "ressalta que a conta já amortece tarifas, graças ao dispositivo incluído em seu voto na REN 885",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "2:46:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:46:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:47:19",
+   "processo": "48500.006738/2019-94",
+   "interessado": "Energisa Tocantins Distribuidora de Energia",
+   "assunto": "Quinta revisão tarifária periódica da Energisa Tocantins (efeito médio 7,17%; 1,79% alta tensão, 8,54% baixa tensão), limites de DEC e FEC 2021-2025, perdas e Fator X; resultado da Consulta Pública 31/2020",
+   "tema": [
+    "tarifas e revisão tarifária (RTP/RTA, bandeiras)",
+    "distribuição",
+    "qualidade (DEC/FEC)",
+    "baixa renda"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica da SGT (Otávio). Procuradoria sem ressalvas. Sandoval Feitosa comentou a subestimativa de consumidores de baixa renda (Enel SP cerca de 7% contra cerca de 2,5 milhões no cadastro NIS; Tocantins cerca de 26%) e a distância entre limites e valores apurados de FEC. Efrain Cruz lamentou que a Energisa Tocantins não tenha pedido a inclusão de financeiro negativo da Conta-covid.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:13:45",
+     "justificativa": "homologa a revisão e lamenta a não adesão da Energisa Tocantins à antecipação da Conta-covid",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (comentário sobre baixa renda e limites de FEC)",
+     "ts": "3:16:33",
+     "justificativa": "defende maior efetividade da política de baixa renda e discussão dos limites de continuidade (FEC) na consulta pública em curso",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:23:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "3:23:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:23:15",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "12",
+  "15",
+  "22",
+  "23",
+  "24",
+  "27",
+  "38"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, valores e números de processo podem estar errados; sufixo do processo do item 13 e ano do item 29 incertos.",
+  "Voto de seguidores atribuído pela proclamação do Diretor-Geral; a ordem individual das falas de acompanhamento não é identificável (confiança baixa/media); no item 26 as falas finais estão confusas.",
+  "Itens do bloco (28 a 49) não listados individualmente na parte 1; registrados como um único item.",
+  "Representante da Enel SP na sustentação oral não identificado.",
+  "Itens 18 e 25 (sustentação oral) e demais itens da tarde estão fora desta parte 1."
+ ]
+}

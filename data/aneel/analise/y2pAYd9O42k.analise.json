@@ -1,0 +1,35 @@
+{
+ "meta": {"video_id": "y2pAYd9O42k", "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "3ª RPE 2019 (Parte 2)",
+  "data": "2019-04-29",
+  "formato": "presencial",
+  "presidente_da_sessao": "não identificado",
+  "diretores_presentes": ["Elisa Bastos"],
+  "ausentes": [],
+  "observacoes": ["Parte 2: retomada após suspensão; pauta com único item (alteração do preço inicial do edital do leilão de sistemas isolados de Boa Vista). Demais diretores presentes não são nomeados na legenda."]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:07",
+   "processo": "Edital de Leilão nº 12/2019 (suprimento de Boa Vista e localidades conectadas)",
+   "interessado": "Ministério de Minas e Energia / Boa Vista (sistemas isolados)",
+   "assunto": "Alteração do parâmetro de preço inicial do edital do leilão 12/2019 (Boa Vista e localidades conectadas) e do aviso de convocação",
+   "tema": ["leilões (sistemas isolados, preço máximo)", "regulação normativa"],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Superada a dúvida levantada na parte 1 sobre quem define o preço máximo: o ofício 376/2019 assinado pelo ministro Bento Albuquerque e a Portaria MME 67/2018, que delega ao secretário-executivo a definição dos preços máximos com base em estudos da EPE, dão base dupla. Matéria posta em votação; aprovada.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:03:00", "justificativa": "Na parte 1 levantou a questão do ato do ministro; a legenda diz que ela acompanhou o relator, mas o trecho é confuso.", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "proclama aprovação por unanimidade", "ts": "0:03:10", "justificativa": "Presidente da sessão proclamou aprovação por unanimidade e encerrou a reunião.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda sem nomes dos diretores além de «diretora lisa» (interpretada como Elisa Bastos); relator e presidente da sessão não identificáveis.",
+  "Número de presentes não fecha com número de votos: só os votos citados foram registrados.",
+  "Parte 1 da reunião não está neste arquivo; debate anterior só recapitulado."
+ ]
+}

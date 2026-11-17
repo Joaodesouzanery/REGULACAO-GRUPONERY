@@ -1,0 +1,333 @@
+{
+ "meta": {
+  "video_id": "Y3IlWCPiJf4",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda são pouco confiáveis (nomes distorcidos); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "36",
+  "data": "2021-09-28",
+  "formato": "híbrida (parte presencial na sede, parte por videoconferência)",
+  "presidente_da_sessao": "André Pepitone (conduziu como diretor-geral em exercício; Elisa Bastos aparece como diretora-geral substituta em trechos da sessão, incerto)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Elisa Bastos",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra"
+  ],
+  "observacoes": [
+   "36ª Reunião Pública Ordinária de 2021. Pauta de 69 itens: bloco dos itens 12 a 69 (exceto 15 e 32), itens 3 a 8 retirados de pauta, itens 9, 69, 10, 11, 1, 15 e 32 com preferência/sustentação oral.",
+   "Quórum de três diretores (Pepitone, Elisa, Efrain); Hélvio Guerra e Sandoval Feitosa não presentes (relatores dos itens 2 e 11, votos lidos por colegas).",
+   "Itens deliberados com resultado: bloco, 2, 32, 1 e 9 (todos unânimes); item 69 e item 11 com pedido de vista; item 10 retirado pelo relator; item 15 retirado de pauta.",
+   "Informes iniciais: audiências públicas da Câmara, AP 24/2021 (revisão tarifária CHESF/CHESP, legenda ambígua), leilão A-5 de 30/09 com 1.694 projetos, assinatura dos contratos do leilão de transmissão 1/2021."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:09:20",
+   "processo": "itens 12 a 69 da pauta, exceto os destacados 15 e 32 (ver itens individuais e retirados)",
+   "interessado": "diversos (não detalhados na sessão)",
+   "assunto": "Deliberação em bloco dos itens 12 a 69 da pauta da 36ª RPO (votos e pareceres disponíveis no site desde a quinta-feira anterior); sem destaques; itens 69 e 32 tirados do bloco para julgamento individual e item 15 retirado de pauta",
+   "tema": [
+    "deliberação em bloco",
+    "institucional"
+   ],
+   "relator": "vários (não detalhados)",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Bloco aprovado sem manifestação contrária; conteúdo dos itens não é lido na sessão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:09:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:09:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco; proclama",
+     "ts": "0:09:55",
+     "confianca": "media",
+     "justificativa": "proclamou a aprovação por unanimidade dos votantes"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:10:21",
+   "processo": "48500.005055/2020-50 (nº lido na legenda com erros)",
+   "interessado": "permissionárias cooperativas de distribuição (19 supridas pela Celesc e 2 pela Elektro; ex.: Coopermila, Cerbranorte, Cooperaliança etc., nomes distorcidos)",
+   "assunto": "Reajuste tarifário anual das permissionárias de distribuição com aniversário em setembro de 2021 (efeitos médios, tarifas de suprimento, cotas CDE/Proinfa, repasses de recursos da CDE para descontos tarifários e baixa densidade de carga)",
+   "tema": [
+    "tarifas e revisão tarifária (permissionárias, reajuste anual)",
+    "CDE e encargos setoriais",
+    "distribuição"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Homologa efeitos médios (faixa de cerca de -17,7% a +17,3%), fixa tarifas de suprimento e cotas CDE/Proinfa e homologa repasses da CDE para custear descontos tarifários e baixa densidade de carga. Voto lido por Elisa Bastos na ausência do relator; apresentação técnica da especialista Cecília Magalhães Francisco (sustentação técnica da área, não de interessado). Destaques: sete permissionárias migraram para o mercado livre; Cerbranorte questionou duplicidade de encargos, rejeitado pela área técnica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto deixado (lido por Elisa Bastos); relator, aprova",
+     "ts": "0:10:50",
+     "confianca": "media",
+     "justificativa": "aprova os efeitos médios e demais homologações conforme minutas"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (leu o voto)",
+     "ts": "0:27:44",
+     "confianca": "media",
+     "justificativa": "elogiou a apresentação da área técnica; processo sem destaques adicionais"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:27:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:27:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "69",
+   "ts": "0:29:13",
+   "processo": "48500.002828/2021-21",
+   "interessado": "Silvânia Transmissora de Energia S.A. (grupo State Grid; contrato de concessão 10/2021, leilão 1/2020, Lote 1); ABRATE como associação",
+   "assunto": "Aditamento do contrato de concessão 10/2021 para incluir o segundo banco de reatores de barra 500 kV (3x50 Mvar) na subestação Silvânia",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "aditamento contratual",
+    "segurança jurídica",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de vista (Elisa Bastos); sem resultado na sessão",
+   "resumo_voto": "Relator vota por aprovar o aditamento do contrato (art. 65 da Lei 8.666 e cláusula contratual que admite acréscimo de até 25%), mantendo o entendimento da SCT, em vez de autorização de reforço. Sustentações orais: Silvânia (com o advogado Marçal Justen Filho) e ABRATE (Thiago Soares); pedido de sustentação da Borborema Transmissão indeferido por não ser parte. Elisa Bastos divergiu (autorização de reforço, segurança jurídica) e pediu vista. Procuradoria não foi consultada especificamente.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova o aditamento",
+     "ts": "1:00:30",
+     "confianca": "alta",
+     "justificativa": "área técnica e cláusula contratual permitem acréscimo; aditivo evita pagar o preço cheio de reforço, favorece a modicidade tarifária; obra ainda não existe, não cria insegurança nos leilões"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "diverge do relator; pede vista",
+     "ts": "1:08:07",
+     "confianca": "alta",
+     "justificativa": "preocupação com segurança jurídica nos leilões e risco de elevar lances futuros; defende autorização de reforço pelas regras vigentes; ausência de previsão expressa de aplicar a Lei 8.666 ao caso"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "1:08:10",
+     "confianca": "baixa",
+     "justificativa": "presidia/conduzia a sessão; processo suspenso por vista"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "1:08:20",
+   "processo": "48500.003615/2015-78",
+   "interessado": "Roraima Energia S.A. (usinas Monte Cristo, Senador Arnon Afonso Farias de Melo, Floresta, Distrito 1, Distrito 2, Novo Paraíso; Boa Vista/RR)",
+   "assunto": "Pedido de medida cautelar para estender os efeitos do Despacho 3.096/2019 (consumo específico de combustível 0,283 l/kWh no lugar do anexo 1 da REN 801/2017) até o julgamento do mérito, com reprocessamento pela CCEE do reembolso da CCC desde julho/2021",
+   "tema": [
+    "recursos administrativos (medida cautelar)",
+    "CDE e encargos setoriais (CCC, sistemas isolados)",
+    "distribuição",
+    "outorgas de geração (termelétricas, Roraima)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Concede cautelar: persistem os elementos que motivaram o Despacho 3.096 (sistema isolado não interligado, parque do leilão 1/2019 não entrou em operação); risco de glosa de cerca de 28 milhões em agosto/2021 frente a parcela B mensal de cerca de 17 milhões; determina à CCEE reprocessar desde julho/2021 e encaminha à SRG a análise de mérito. Procuradoria (Luiz Eduardo) se manifestou favoravelmente à cautelar.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (concede cautelar)",
+     "ts": "1:23:00",
+     "confianca": "alta",
+     "justificativa": "fumaça do bom direito e perigo da demora; glosa iminente de cerca de 28 milhões"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "1:23:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "1:23:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:23:45",
+   "processo": "48500.004018/2021-87",
+   "interessado": "Aneel/CCEE; leilão 11/2021 (reserva de capacidade 2021, térmicas); apresentação de André Patrus (SEL)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 20 dias, 29/09 a 19/10/2021) sobre a minuta de edital do Leilão de Reserva de Capacidade 2021 (potência e energia associada, fonte termelétrica, contratos de 15 anos)",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "regulação normativa (consulta pública)",
+    "comercialização (CCEE, ambiente livre)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaura consulta pública; leilão previsto para 21/12/2021 com produtos energia e potência, 132 projetos cadastrados (mais de 50 GW), novidades: participação de consumidores livres, autoprodutores e comercializadores no produto energia e CRCAP. Aprovação definitiva do edital prevista para 16/11/2021. Efrain Cruz abriu a fala com homenagem pessoal ao aniversário da esposa.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:41:40",
+     "confianca": "alta",
+     "justificativa": "consulta de 20 dias para receber contribuições da sociedade sobre nova modalidade de leilão"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:43:45",
+     "confianca": "media",
+     "justificativa": "destacou a nova modalidade (potência e energia, 15 anos) e elogiou a condução"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:43:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:44:50",
+   "processo": "48500.001610/2014-20 e outros (complexo eólico Alto Sertão 3 Fase A; lista de processos na legenda)",
+   "interessado": "Renova Energia S.A. (em recuperação judicial; Bahia; usinas Abril, Acácia, Angico, Folha da Serra, Jabuticaba, Jacarandá do Cerrado, Taboquinha, Tábua, Vaqueta, Mulungu, Pau-Santo, Quina e outras)",
+   "assunto": "Recurso administrativo contra os termos de intimação 25 a 50/2019 da SFG (proposta de revogação das autorizações por atraso de cronograma)",
+   "tema": [
+    "fiscalização e sanções (revogação de outorga, multa de edital)",
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "leilões de energia de reserva (LER 2013/2014)",
+    "recuperação judicial",
+    "sustentação oral"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "recurso provido por unanimidade dos presentes",
+   "resumo_voto": "Conhece e dá provimento: arquiva os termos de intimação (fiscalização presencial de set/2021 constatou retomada das obras, cerca de 820 a 850 pessoas, previsão de 167 MW em operação em 2021 e total de cerca de 430 MW até abril/2022); afasta a resolução contratual (inciso IV da subcláusula 12.1) para Mulungu, Pau-Santo e Quina, com apoio do MME; afasta suspensão de licitar; manda SFG reavaliar multas dos editais e SCG avaliar as garantias. Sustentação oral de Marcelo (diretor-presidente da Renova, sobrenome incerto na legenda). Procuradoria: recuperação judicial não impede processos punitivos.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, dá provimento",
+     "ts": "2:25:00",
+     "confianca": "alta",
+     "justificativa": "fato novo da fiscalização afasta a revogação; interesse público em agregar cerca de 432 MW ao SIN; resolução contratual seria desproporcional"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:26:15",
+     "confianca": "baixa",
+     "justificativa": "comentou que o relator traz sensibilidade ao contexto; encaminhamento sensato"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:26:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:45:34",
+   "processo": "48500.004306/2021-63 (parcial na legenda)",
+   "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista); litoral de São Paulo",
+   "assunto": "Autorização de reforço (banco de baterias de 30 MW / 60 MWh na SE Registro 138 kV) e estabelecimento da parcela adicional de RAP (investimento máximo cerca de 144 milhões)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "armazenamento / baterias",
+    "planejamento (MME, 3ª emissão do PDE)"
+   ],
+   "relator": "Sandoval Feitosa (voto lido por Efrain Cruz)",
+   "resultado": "pedido de vista (Efrain Cruz); sem resultado na sessão",
+   "resumo_voto": "Voto do relator autoriza o banco de baterias como solução de planejamento de mínimo custo global para o verão 2022/23, com RAP e cronograma conforme anexos; empate técnico com transformadores defasadores; vida útil regulatória 17 anos. Ao concluir a leitura, Efrain Cruz pediu vista por dúvida surgida; era o último item da pauta e a sessão foi encerrada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto deixado (lido por Efrain Cruz); relator, aprova",
+     "ts": "2:52:00",
+     "confianca": "media",
+     "justificativa": "autorização inédita de solução de baterias de mínimo custo, atendimento emergencial do litoral sul de SP"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "2:53:18",
+     "confianca": "alta",
+     "justificativa": "dúvida surgida ao ler o voto"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "2:53:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:53:25",
+     "confianca": "baixa",
+     "justificativa": "pode ter saído da sessão (queda de conexão registrada no item 10)"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3 a 8 — retirados de pauta (conteúdo não detalhado na sessão)",
+   "relator": "não informado",
+   "motivo": "anunciado pelo secretário-geral na abertura (legenda confusa quanto ao motivo)",
+   "ts": "0:08:20"
+  },
+  {
+   "item": "15 — destacado do bloco e retirado de pauta (conteúdo não informado)",
+   "relator": "não informado",
+   "motivo": "retirado de pauta, anunciado antes do item 32",
+   "ts": "1:08:20"
+  },
+  {
+   "item": "10 — requerimento de excludente de responsabilidade (pandemia) da Coremas 3 Geração de Energia S.A., UFV Coremas 3 (proc. 48500.000314/2017-54; leilão LER 9/2015), voto do relator indeferia o excludente e afastava a cláusula resolutiva 12.1",
+   "relator": "Efrain Cruz",
+   "motivo": "relator retirou de pauta após ponderação (Elisa Bastos/observação sobre nexo causal da pandemia) para análise mais acurada da excludente",
+   "ts": "2:44:58"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática de baixa qualidade: o cabeçalho de falantes inferidos (Sandoval, Gentil, Mosna, Hélvio, Tili) não corresponde à realidade da sessão e foi desconsiderado; os diretores foram identificados pelo conteúdo das falas (Efrain Cruz, Elisa Bastos, André Pepitone).",
+  "Presidência incerta: André Pepitone proclama os resultados dos itens 2, 32 e 1, mas Elisa Bastos é tratada como diretora-geral substituta em outros trechos (itens 9 e 11); queda de conexão de Pepitone e de Efrain Cruz registrada durante a sessão.",
+  "Ausência de Hélvio Guerra e Sandoval Feitosa inferida pelo fato de os votos dos itens 2 e 11 terem sido lidos por colegas; não foi dita a razão da ausência.",
+  "Votos de seguidores (Elisa, Efrain, Pepitone) em geral sem nome na legenda; atribuição pela ordem de votação e pela proclamação, confiança média ou baixa; no item 9 a ordem entre Pepitone e Elisa é incerta.",
+  "O bloco dos itens 12 a 69 não é detalhado: não se sabe quais processos o compõem; item 15 e itens 3 a 8 sem identificação.",
+  "Itens 69 e 11: após o pedido de vista, os demais diretores não votaram; ts aproximados; números de processo, valores e nomes de empresas e usinas com erros da legenda."
+ ]
+}

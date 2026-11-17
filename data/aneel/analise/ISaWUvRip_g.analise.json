@@ -1,0 +1,325 @@
+{
+ "meta": {
+  "video_id": "ISaWUvRip_g",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária 2021 (parte 2)",
+  "data": "2021-03-30",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 da sessão, retomada após o almoço; sustentações orais ocorreram na parte 1.",
+   "Ricardo (provável Ricardo Tili) aparece como quem lê os itens/secretaria; não votou e não é tratado como diretor presente.",
+   "Efeito suspensivo do item 1 foi decidido monocraticamente pelo Diretor-Geral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:01",
+   "processo": "processo citado como 48500.373/2019 (número incerto pela legenda)",
+   "interessado": "Norte Energia (UHE Belo Monte), Furnas, Abragel, Santo Antônio Energia (UHE Santo Antônio), Energia Sustentável do Brasil (UHE Jirau), Abrapch (CGHs/PCHs); sustentações orais na parte 1 da sessão; nesta parte falou o Procurador-Geral",
+   "assunto": "Pedidos de reconsideração contra a Resolução Normativa 895/2020 (compensação do MRE por efeitos de antecipação de garantia física das usinas estruturantes e de restrições de transmissão, Lei 14.052/2020): admissibilidade (ato normativo geral e abstrato, art. 43 da REN 273), vertimento turbinável de Belo Monte, garantia física das estruturantes, retroação a 2012-2014 (energia não repactuada, Lei 13.203/2015) e CGHs",
+   "tema": [
+    "recursos administrativos",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "comercialização (CCEE, PLD, contratos)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "por maioria, vencidos a diretora Elisa Bastos e o Diretor-Geral André Pepitone (que não conheciam dos recursos): recursos conhecidos; alterado o §8º do art. 6º da REN 895 (para o período anterior ao termo de repactuação, considera-se energia não repactuada a garantia física da usina); determinado que SRG/SRM/SCG, coordenadas, com a CCEE, mensurem os efeitos sobre as CGHs participantes do MRE. Pontos do voto sobre vertimento turbinável de Belo Monte e garantia física das estruturantes foram retirados pelo relator para a semana seguinte.",
+   "resumo_voto": "Relator Efrain Cruz leu voto de cerca de 1h30: conhecer os pedidos (norma de efeitos concretos, autotutela), ajustar §2º do art. 3º e §5º do art. 4º (garantia física original das estruturantes), reescrever o §8º do art. 6º (energia anterior a jan/2015 é não repactuada, acolhendo Furnas e Abragel), e determinar levantamento do efeito sobre as CGHs. Após debate retirou os dois primeiros pontos e manteve a retroação e o comando sobre CGHs. Procurador-Geral Luiz Eduardo se manifestou no início (parecer 358/2020 e admissibilidade).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece; altera o §8º do art. 6º e determina estudo das CGHs",
+     "ts": "1:22:31",
+     "justificativa": "Entende que a REN 895 tem efeitos concretos (situações já ocorridas), logo cabe recurso e, de todo modo, a autotutela; defende que a lei fala em parcela de energia não repactuada, e energia anterior a 2015 nunca foi repactuada, portanto passível de compensação (Furnas, Abragel); CGHs sofreram os efeitos e a agência deve mensurar. Retirou os pontos de vertimento turbinável e garantia física após ponderações de Sandoval e Elisa.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (retroação 2012-2014 e CGHs)",
+     "ts": "1:26:44",
+     "justificativa": "Concorda plenamente com o relator quanto às CGHs e à leitura da lei sobre a retroação (a lei não restringe o período); cita respeito à Procuradoria mas discorda da interpretação; pediu esclarecimento sobre a alteração do §5º do art. 4º. Depois retirou a expressão erro dirigida à interpretação anterior (2:18:19).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "vencida: não conhece dos recursos; diverge do mérito",
+     "ts": "1:32:40",
+     "justificativa": "Relatora original da REN 895 (aprovada por unanimidade); tem dúvida sobre ser norma não geral e abstrata e entende que os recursos não deveriam ser conhecidos. No mérito discorda: a mudança de cálculo da garantia física criaria energia fictícia no MRE; o art. 2º-B restringe a retroação às parcelas não repactuadas; reabertura poderia elevar compensações a mais de 20 bilhões de reais e atrasar a solução; mercado já quita débitos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "vencido: não conhece dos recursos (Diretor-Geral)",
+     "ts": "1:50:30",
+     "justificativa": "Exerceu o efeito suspensivo monocrático; sustenta que a REN 895 é ato de caráter geral e abstrato (art. 43 da REN 273), então recurso não deveria ser conhecido, sem prejuízo da revisão de ofício (Lei 9.784, art. 63 §2º); discorda da retroação por isonomia e por serem instrumentos legais distintos (2015 foi transferência de risco com prêmio e renúncia; 2020, reparação); acha o ajuste de texto da transmissão objetivo e concorda com o comando sobre CGHs.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:06:04",
+     "justificativa": "Reconhece a admissibilidade como questão a ser cotejada (efeitos concretos); apoia a solução para CGHs; entende que o período 2012-2015 não foi repactuado e a lei não traz marco temporal; defende, quanto à garantia física, considerar a original das estruturantes; ponderou que o vertimento turbinável só pode ser dimensionado quando a transmissão estiver completa (2023, com antecipação possível para dez/2021), o que levou o relator a retirar o ponto.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:33:09",
+   "processo": "48500.000917/2021-32",
+   "interessado": "Agentes do MRE (extensão de outorga, Lei 13.203/2015 art. 2-D); pedido de sustentação oral informado",
+   "assunto": "Homologação dos prazos de extensão das outorgas das usinas do MRE e dos valores apurados (art. 2º-D da Lei 13.203/2015), em atendimento ao §9º do art. 6º da REN 895/2020",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator Hélvio Guerra (prazo de 30 dias da REN 895 considerado impróprio; cálculos podem mudar após a decisão do item anterior); declaração consignada em ata",
+   "resumo_voto": "Relator inscreveu o processo por causa do limite de 30 dias da REN 895, mas, diante da decisão do item anterior, considerou prematuro e gerador de insegurança homologar prazos que podem ser alterados; retirou o processo.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "retira o processo de pauta",
+     "ts": "2:33:51",
+     "justificativa": "Prazo de 30 dias da REN 895 é impróprio; homologar sem caráter definitivo geraria insegurança aos agentes que assinariam aditivos de concessão.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:39:16",
+   "processo": "48500.005035/2019-10",
+   "interessado": "Neoenergia (controladora de Neoenergia Guanabara Transmissão e Neoenergia Itabapoana Transmissão), contratos de concessão 2 e 3/2019 (Leilão de Transmissão 4/2018)",
+   "assunto": "Requerimento para antecipar a data de necessidade dos contratos de concessão 2 e 3/2019 de 1º/1/2023 para 1º/1/2022 (instalações de 500 kV, SE Campos 2; vedada a integração não simultânea das duas)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "leilões (geração, transmissão, reserva de capacidade)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: antecipada a data de necessidade para 1º/1/2022, vedada a integração não simultânea das instalações dos dois contratos; ajuste de redação (comissionamento da primeira unidade da UTE Porto de Açu 3 previsto para 30/3/2022, não 2020)",
+   "resumo_voto": "Item retirado de bloco anterior por observação da diretora Elisa sobre a discussão da SE Campos 2; relator reavaliou, com anuência do MME/SPDE, ONS e EPE, benefícios sistêmicos (fluxo no RJ, térmicas, segurança no RJ e ES) e voto por despacho aprovando a antecipação.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:40:26",
+     "justificativa": "Antecipação ancorada em análise da SCT/SRT, aval do planejamento (SPDE/MME), ONS e EPE, benefícios sistêmicos e entrada simultânea das duas instalações; resolve o ponto levantado por Elisa na discussão anterior.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:54:46",
+     "justificativa": "Autora do destaque que levou à retirada do item do bloco; a proposta agora vem ancorada na análise técnica e no aval do planejamento.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:54:50",
+     "justificativa": "Voto individual não identificado com certeza; unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:54:54",
+     "justificativa": "Voto individual não identificado com certeza; unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:55:00",
+     "justificativa": "Diretor-Geral proclamou a unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:56:07",
+   "processo": "48500.002188/2017 e 48500.002189/2017 (números incertos pela legenda)",
+   "interessado": "Aurora Energias Renováveis; Vale S.A.",
+   "assunto": "Prorrogação do prazo de vista: transferência das autorizações das centrais fotovoltaicas (S9 e S10) detidas pela Aurora Energias Renováveis para a Vale S.A.",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Sandoval Feitosa (relator original; vista de André Pepitone)",
+   "resultado": "deferida a prorrogação do prazo de vista por mais 8 sessões, sem objeção",
+   "resumo_voto": "Pedido de prorrogação de vista lido em bloco com os dois outros; deferido sem objeção.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "autor do pedido de vista; prorrogação deferida",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:56:50",
+   "processo": "48500.006701/2011-14 (número incerto pela legenda)",
+   "interessado": "São Roque Energética (UHE São Roque)",
+   "assunto": "Prorrogação do prazo de vista: pedido de reconsideração com efeito suspensivo de São Roque Energética contra despacho que postergou o pagamento de encargos do CUST 15/2016 (ciclo 2016-2017) até a operação comercial da UHE São Roque",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Júlio César Rezende Ferraz (relator original; vista de Sandoval Feitosa)",
+   "resultado": "deferida a prorrogação do prazo de vista por mais 8 sessões, sem objeção",
+   "resumo_voto": "Pedido de prorrogação de vista lido em bloco com os dois outros; deferido sem objeção.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "autor do pedido de vista; prorrogação deferida",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:57:40",
+   "processo": "48500.000021/2014-? (número incerto pela legenda)",
+   "interessado": "Geradora potiguar (parques eólicos, nome incerto pela legenda)",
+   "assunto": "Prorrogação do prazo de vista: recurso de Fontes Potiguares Geradora de Energia (nome incerto) contra despacho da SRM sobre contabilização de energia não fornecida pelo poste de eólicas",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Sandoval Feitosa (relator original; vista de Elisa Bastos)",
+   "resultado": "deferida a prorrogação do prazo de vista por mais 8 sessões, sem objeção",
+   "resumo_voto": "Pedido de prorrogação de vista lido em bloco com os dois outros; deferido sem objeção.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "autor do pedido de vista; prorrogação deferida",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "concorda com a prorrogação do prazo de vista",
+     "ts": "2:58:52",
+     "justificativa": "Sem objeção; prorrogação por 8 sessões proclamada pelo Diretor-Geral.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 2: processo 48500.000917/2021-32 (homologação dos prazos de extensão MRE), retirado pelo relator Hélvio Guerra",
+  "item 1 (partes): vertimento turbinável de Belo Monte e garantia física das estruturantes, retirados pelo relator Efrain Cruz para a semana seguinte",
+  "item 17 (número incerto): retirado pela diretora Elisa Bastos conforme aviso lido às 2:38"
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa: atribuição de falantes inferida pelo conteúdo e pela ordem de fala; no item 1 a ordem foi Efrain Cruz, Hélvio Guerra, Elisa Bastos, André Pepitone, Sandoval Feitosa.",
+  "Voto individual do item 1 na votação (2:31) não tem nome na legenda; Hélvio Guerra e Sandoval Feitosa foram atribuídos como acompanhando o relator pela proclamação (vencidos Elisa e Diretor-Geral) com confiança média.",
+  "Sandoval Feitosa no item 1: posição sobre conhecimento do recurso inferida, não dita com clareza.",
+  "No item 3 os quatro votos de acompanhamento não têm nomes na legenda; atribuídos pela proclamação de unanimidade, confiança baixa.",
+  "Itens 4 a 6: votos atribuídos pela proclamação sem objeção; números de processo e nomes de interessados incertos.",
+  "Item 1: números de processo e valores (ex.: mais de 20 bilhões de reais) vêm da legenda e podem estar errados; outros recursos (Norte Energia, Santo Antônio, ESBR, Abrapch) não foram votados separadamente na legenda.",
+  "Elisa Bastos retirou o item 17 (número incerto) segundo aviso da mesa; não analisado.",
+  "Nome Júlio César Rezende Ferraz consta da lista do config."
+ ]
+}

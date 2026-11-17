@@ -1,0 +1,302 @@
+{
+ "meta": {
+  "video_id": "-kS36Ljgo2Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:47); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "19ª Reunião Pública Ordinária de 2023",
+  "data": "2023-06-06",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Agnes da Costa (missão institucional no exterior)"
+  ],
+  "observacoes": [
+   "Abertura com quórum de três diretores (Sandoval, Hélvio, Ricardo); Fernando Mosna se juntou ao longo da sessão (relator do item 2 às 2:34; participa do item 3).",
+   "Pauta de 31 itens (5 a 31 em bloco); retirados os itens 14 e 15; sustentação oral nos itens 2 e 9 (9 destacado do bloco). Ordem: bloco, 1, 9, 4, 2, 3.",
+   "Itens 2, 3 e 4: Hélvio Guerra não aparece votando nos itens 2 e 3 (provavelmente se retirou após pedir vista no 4).",
+   "Resumo do secretário: 28 itens no bloco, 16 declarações de utilidade pública, um pedido de vista, uma prorrogação de vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "ata",
+   "ts": "0:56:39",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da 18ª Reunião Pública Ordinária de 2023 (30/05/2023)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovada",
+   "resumo_voto": "Ata aprovada pela presidência sem objeções dos presentes.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (proclama)",
+     "ts": "0:57:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova",
+     "ts": "0:57:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova",
+     "ts": "0:57:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "bloco 5-31",
+   "ts": "0:58:36",
+   "processo": "",
+   "interessado": "vários",
+   "assunto": "Itens 5 a 31 em bloco (votos disponibilizados previamente; itens 14 e 15 retirados). Pelo resumo final: declarações de utilidade pública (16), recursos/reconsiderações e outros",
+   "tema": [
+    "declaração de utilidade pública",
+    "recursos administrativos",
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Bloco submetido pelo Diretor-Geral; dois «aprovo» ouvidos e proclamação de unanimidade dos presentes. Item 9 foi destacado do bloco a pedido do relator.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova",
+     "ts": "0:58:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova",
+     "ts": "0:58:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (proclama)",
+     "ts": "0:58:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:59:35",
+   "processo": "48500.008476/2022-06",
+   "interessado": "STE / área de P&D (ANEEL)",
+   "assunto": "Abertura de consulta pública (7/6 a 24/7/2023) para a Chamada de Projeto de P&D Estratégico nº 23/2023, Hidrogênio renovável no contexto do setor elétrico brasileiro; processo retirado de pauta duas reuniões antes e reapresentado",
+   "tema": [
+    "P&D / chamada estratégica",
+    "hidrogênio renovável",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator reavaliou o processo após contribuições dos colegas; manteve o escopo em hidrogênio renovável (Lei 9.991 exige envolvimento do setor elétrico; hidrogênio de baixo carbono por reforma de metano ou captura de carbono ficaria fora; consulta sobre energia nuclear em andamento na PFE); adotou nomenclatura da AIE; piloto/equipamentos e regionalização entram como critérios de análise, sem percentuais. Apresentação técnica do servidor Lucas (P&D).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova a abertura da consulta",
+     "ts": "1:26:38",
+     "justificativa": "manter escopo em hidrogênio renovável por limite legal da Lei 9.991 (P&D do setor elétrico); critérios de piloto e regionalização na análise dos projetos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:31:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:31:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:32:37",
+   "processo": "48500.004232/2018 e 48500.004235/2018",
+   "interessado": "Coremas 1, 2 e 3 Geração de Energia (SPE) x Coremas 4 a 8; recorrentes: Coremas 1 a 3",
+   "assunto": "Recursos administrativos de Coremas 1, 2 e 3 contra despachos 579, 1355 e 1415/2022 (SFG) que liberaram operação em teste e comercial das UFV Coremas 4 a 8; pedido de cautelar; compartilhamento de instalações e ressarcimento",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (solar)",
+    "fiscalização e sanções",
+    "transmissão (compartilhamento de instalações)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento; Coremas 4 a 8 ressarcem em até 60 dias (valor do parecer técnico) ou acordo na SFT; SFT instaura processo de fiscalização",
+   "resumo_voto": "Item destacado do bloco pelo relator, que alterou o dispositivo B (pagamento no valor do parecer técnico das credoras juntado ao processo, 60 dias, substituível por acordo) e, após debate com Ricardo Tili e o Diretor-Geral, trocou no C «processo punitivo» por «processo de fiscalização para apurar eventual descumprimento regulatório». Sustentação oral de André (representante de Coremas 1 a 3) pediu não tornar público o laudo da mediação; relator recusou.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento (com ajustes ao dispositivo)",
+     "ts": "1:33:30",
+     "justificativa": "negar suspensão da operação; valor passa a ser o do laudo; fiscalização para apurar uso das instalações sem pagamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator com as alterações",
+     "ts": "2:03:06",
+     "justificativa": "questionou se haveria fiscalização caso houvesse acordo; aceitou a redação final",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:03:11",
+     "justificativa": "não cabe suspender operação comercial por dívida privada; fiscalização responsiva",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:05:22",
+   "processo": "48500.001153/2018-05",
+   "interessado": "Transmissora Paraíso de Energia S.A. (TPE)",
+   "assunto": "Pedido de reconsideração da TPE contra o despacho 1525/2022 (negou alteração do anexo da REA 6.942/2018, declaração de utilidade pública; determinou retirada de instalações da SE Governador Valadares 6); voto-vista",
+   "tema": [
+    "transmissão (LT 500/230 kV, SE Governador Valadares 6)",
+    "recursos administrativos",
+    "declaração de utilidade pública",
+    "leilões (lote 7, leilão 1/2023)"
+   ],
+   "relator": "não identificado",
+   "resultado": "nova vista concedida a Hélvio Guerra; julgamento não concluído",
+   "resumo_voto": "Voto-vista do Diretor-Geral: conhecer e dar provimento parcial, mantendo a negativa de alteração da DUP mas revogando os itens 2 e 3 do despacho (desmobilização), pelas consequências práticas (art. 20 da LINDB): 13 circuitos na SE, risco ao lote 7 do leilão 1/2023, custo estimado de cerca de 60 milhões de reais, 91 por cento de acordos fundiários, discussão judicial só sobre indenização. Relator original votou provimento integral; Ricardo Tili, em vista anterior, votou negar integralmente.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: provimento parcial",
+     "ts": "2:33:19",
+     "justificativa": "consequências práticas da desmobilização para o sistema, o leilão e a segurança jurídica; caso indenizatório, não regulatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém seu voto (nega integralmente)",
+     "ts": "2:33:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "mantém seu voto (relator original: provimento integral)",
+     "ts": "2:33:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "2:33:46",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:34:00",
+   "processo": "48500.005491/2012-12",
+   "interessado": "São Roque Energética S.A.",
+   "assunto": "Requerimento administrativo com pedido de cautelar contra o despacho 1002/2023 (não conheceu efeito suspensivo por intempestividade) em recurso à multa editalícia do despacho SFG 764/2023 (R$ 560.560,71 por atraso na UHE São Roque)",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos presentes: conhecer e dar provimento à cautelar, afastando a multa até o trânsito em julgado do recurso",
+   "resumo_voto": "Sustentação oral de Alice de Oliveira Soares (São Roque): prazo de 10 dias (REN 273) e prática consolidada da agência. Procurador-Geral concordou com o prazo de 10 dias. Relator aplicou o precedente Sol Maior (fumaça do bom direito, perigo da demora, reversibilidade) e registrou que a harmonização com a REN 846 está em estudo (processo 48500.001037/2023-45).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento à cautelar",
+     "ts": "2:36:00",
+     "justificativa": "tempestividade pelo prazo de 10 dias da REN 273; precedente Sol Maior; medida reversível",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:56:51",
+     "justificativa": "preocupação com mudanças de entendimento sem norma rígida (comentário de diretor não identificado com certeza)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:56:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:57:43",
+   "processo": "48500.006373/2019-06 e outros",
+   "interessado": "Riacho da Serra Energia S.A. (UFV Altitude 1 a 15 e Riacho da Serra 4 a 8)",
+   "assunto": "Pedido de reconsideração contra o despacho 1435/2022 (indeferiu alteração de cronogramas por inexistir excludente de responsabilidade, art. 19 da Lei 13.360/2016); decisão judicial na 6ª Vara Federal do DF com prazo até 20/06/2023",
+   "tema": [
+    "outorgas de geração (solar, ACL)",
+    "recursos administrativos",
+    "CUST/CUSD e encargos de uso",
+    "regulação normativa (CP 15, anistia)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes: conhecer e negar provimento; PGF notifica o juízo",
+   "resumo_voto": "Relator negou: gerador do ACL não tem direito a postergar cronograma sem excludente; atrasos do licenciamento, alterações técnicas e contratação tardia são risco do empreendedor; sem nexo causal com o Ibama; obras praticamente sem avanço (consulta ao RAPEL em 2/6). Fernando Mosna pediu esclarecimento técnico sobre o andamento das obras e ligou o caso à CP 15 (fechamento, regularização).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, nega provimento",
+     "ts": "3:18:53",
+     "justificativa": "sem excludente de responsabilidade; risco do negócio; obras não iniciadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:26:05",
+     "justificativa": "concorda integralmente; caso mostra que só rescisão sem multa pode não reduzir a judicialização, defende contemplar regularização na CP 15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:26:08",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "itens 14 e 15 (retirados de pauta, assunto não dito)"
+ ],
+ "limites_da_analise": [
+  "Data 2023-06-06 inferida da fala (reunião 19ª após ata de 30/05/2023; pauta publicada em 1/6; informes citam 7 e 9 de junho como futuros).",
+  "Legenda automática sem marcadores de falante: votos de quem só diz acompanho atribuídos por ordem de votação e contexto; confiança baixa/media.",
+  "Item 4: relator original não identificado (legenda ilegível: Francisco Bassi Almeida); as três falas finais (mantenho meu voto / também mantive / pedir vista) atribuídas com baixa confiança; resumo do secretário fala em pedido de vista do Diretor-Geral, mas a proclamação concede a vista a Hélvio Guerra.",
+  "Item 1: quem comentou o voto (disse não ter estado na reunião anterior) não foi identificado; Mosna pode ter estado presente.",
+  "Bloco: processos individuais do bloco (5 a 31) não detalhados; contagem de 31 vs 32 itens e 28 no bloco diverge entre falas.",
+  "Número de votos nos itens 2 e 3 igual a 3 por haver apenas três manifestações; Hélvio ausente nesses itens por inferência."
+ ]
+}

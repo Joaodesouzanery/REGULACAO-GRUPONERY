@@ -1,0 +1,48 @@
+{
+ "meta": {"video_id": "3hkkMkBHIFU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "28", "data": "2021-08-06", "formato": "videoconferência (parte 2; sessão iniciada na terça 03/08/2021, suspensa e retomada na sexta)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": ["Sandoval Feitosa", "Efrain Cruz", "Hélvio Guerra", "Elisa Bastos"],
+  "ausentes": ["André Pepitone"],
+  "observacoes": ["28ª Reunião Pública Ordinária; Diretor-Geral André Pepitone ausente (viagem a serviço), Sandoval Feitosa preside.", "Itens 2 e 5 e bloco já deliberados na terça-feira (EDP reajuste e homologação parcial do GSF; não constam desta parte). Retirados de pauta os itens 4, 6, 7, 8 e 9.", "Nesta parte: item 1 (edital do Leilão 2/2021) e item 3 (reajuste Equatorial Pará)."]
+ },
+ "itens": [
+  {
+   "id": "1", "ts": "0:03:43",
+   "processo": "48500.000032/2021-33", "interessado": "ANEEL / SEL / SCT (leilão de transmissão)",
+   "assunto": "Aprovação da minuta do edital do Leilão nº 2/2021-ANEEL (transmissão), consolidada após as Consultas Públicas 19 e 24/2021; 5 lotes (AP, BA, MG, PR, SP); sessão pública em 17/12/2021 na B3",
+   "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas, reforços)", "regulação normativa (consulta pública)", "institucional/TCU"],
+   "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o edital, objeto, RAPs e anexos técnicos dos cinco lotes; encaminha ao TCU (IN 81/2018); autoriza visitas às instalações até 06/12/2021; determina que concessionárias facilitem o acesso. Sem pedido de sustentação oral. Apresentação técnica da SEL (gerente executivo adjunto): investimento previsto de R$ 2,7 bilhões; inclusão do lote 5 (Macapá) e retirada de subestação do lote do Paraná; garantia de fiel cumprimento escalonada (limite de 10%, Lei 8.666 art. 56); prévia autorização da ANEEL para antecipação de operação comercial de partes relacionadas.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:20:43", "justificativa": "solução estrutural para o Amapá; garantias para dar segurança à execução e reduzir transferências e execuções de garantia; lamenta mais de R$ 1 bilhão em garantias a executar que poderiam atenuar tarifas", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:23:06", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:23:10", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:23:18", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3", "ts": "0:24:43",
+   "processo": "48500.005032/2020-49", "interessado": "Equatorial Pará Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual de 2021 da Equatorial Pará, vigência a partir de 07/08/2021; efeito médio 9,01% (10,28% alta tensão, 8,68% baixa tensão)",
+   "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "CDE e encargos setoriais", "conta-covid"],
+   "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste, fixa TUSD e tarifas de energia, estabelece a receita das DIT de uso exclusivo e homologa o repasse mensal da CDE via CCEE. Sustentação oral: não registrada; houve apresentação técnica da SGT (Charles Rocha). Compensação de R$ 623 milhões de créditos de PIS/Cofins (cerca de 67% dos créditos habilitados) foi essencial para o nível do reajuste; parcela B puxada pelo IGP-M de 33,75%.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:37:53", "justificativa": "reajuste só possível pelos esforços da ANEEL e da concessionária (uso dos créditos de PIS/Cofins de R$ 623 milhões); parcela B de 34,5% da tarifa com IGP-M alto", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:40:10", "justificativa": "parabeniza o relator pela condução e negociação com a concessionária; números altos, mas bem menores do que se aplicaria", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:40:28", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:40:30", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": ["Itens 4, 6, 7, 8 e 9 da pauta retirados (anunciado pelo secretário-geral; assuntos não ditos)"],
+ "limites_da_analise": [
+  "Legenda automática muito ruim na abertura: a frase sobre ausências parece citar Hélvio Guerra e Elisa Bastos, mas ambos participam depois (Sandoval passa a palavra a eles e Hélvio é relator do item 3); tratados como presentes. Ausente: André Pepitone (viagem a serviço).",
+  "Item 1: duas falas anónimas «acompanho o voto do relator» antes da proclamação; atribuídas a Hélvio Guerra e Elisa Bastos por exclusão e pela ordem usual, confiança baixa. Número do processo e da consulta públicas conforme legenda (pode haver erros).",
+  "Item 3: quem elogiou o relator e votou antes do presidente aparece sem nome; atribuído a Efrain Cruz por referência a si mesmo na fala; confiança baixa; voto de Elisa Bastos inferido da proclamação.",
+  "Itens 2 e 5 e bloco deliberados na terça-feira (parte 1 do vídeo), fora desta transcrição.",
+  "Ano do edital e datas na legenda aparecem trocados (2001/2020 por 2021); corrigidos pelo contexto."
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "meta": {
+  "video_id": "GS-WxldGMm0",
+  "fonte": "legenda automática do YouTube; falantes inferidos (cabeçalho do .md erra os falantes); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "44",
+  "data": "2020-11-24",
+  "formato": "reunião pública ordinária (videoconferência)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "André Pepitone"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura: quorum de cinco diretores; aprovadas as atas da 42ª e da 43ª reuniões.",
+   "Pauta de 43 itens; itens 15 a 43 em bloco (votos disponibilizados previamente), muitos retirados; deliberados em separado os itens 2, 4, 6, 12, 13, 14 e 28.",
+   "Reajuste da SENHA/tarifa pautado para a reunião extraordinária seguinte (fala de Sandoval Feitosa, ininteligível na legenda).",
+   "Encerrada ~1:36:05 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:40",
+   "processo": "itens 15 a 43 (exceto os retirados)",
+   "interessado": "vários",
+   "assunto": "Votação em bloco dos itens sem destaque nem sustentação oral (itens não detalhados na legenda)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Secretário-geral informou que votos já estavam disponíveis; o item 28 foi destacado; Diretor-Geral proclamou o bloco aprovado por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:06:09",
+   "processo": "48500.004983/2020-03",
+   "interessado": "Secretaria Executiva de Leilões (SEL) / sistemas isolados (AC, AM, PA, RO, RR)",
+   "assunto": "Abertura de consulta pública sobre a proposta de edital do Leilão 3/2021 (Leilão para Suprimento aos Sistemas Isolados de 2021): 23 localidades, 5 lotes, sessão prevista em março de 2021",
+   "tema": [
+    "leilões (geração, sistemas isolados)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: consulta pública de 26/11/2020 a 11/01/2021 (proclamação corrigida por André Pepitone em 0:28:28 após erro de datas)",
+   "resumo_voto": "Elisa Bastos vota por abrir a consulta pública (45 dias) conforme art. 9 par. 2 da Lei 13.848/2019; apresentação técnica da SEL (Igor); Procuradoria informou que só será consultada na consolidação do edital. Diretores destacaram complementaridade com o Mais Luz para a Amazônia e o precedente do leilão de Boa Vista.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova abertura da consulta pública",
+     "ts": "0:07:37",
+     "justificativa": "colher subsídios para aprimorar o edital; prazo mínimo de 45 dias; sistemática de dois estágios adequada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:26:40",
+     "justificativa": "a contratação centralizada complementa o Mais Luz para a Amazônia; espera contribuições do mercado",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:26:40",
+     "justificativa": "espera soluções híbridas/renováveis do mercado; destaca a confiabilidade dos sistemas isolados",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:26:38",
+     "justificativa": "leilão de Boa Vista como paradigma; soluções em vez de fontes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora; proclama por unanimidade",
+     "ts": "0:26:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:27:22",
+   "processo": "48500.003681/2017-18",
+   "interessado": "Companhia de Petróleo e Energia (COPEN); contraparte Eneva Comercializadora; CCEE",
+   "assunto": "Cumprimento de decisão judicial: pedido de reconsideração da COPEN contra decisão do Conselho de Administração da CCEE (921ª reunião) sobre desligamento por descumprimento de obrigação",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: não conhecer do pedido de reconsideração (intempestivo)",
+   "resumo_voto": "Despacho 679/2018 foi publicado em 07/03/2018 e o pedido só veio em 19/02/2019, mais de 10 meses após o prazo; mesmo assim analisou o mérito: não cabe à ANEEL afastar atos da arbitragem; SRM (NT 135/2020) confirmou que a CCEE agiu conforme a regulamentação. Procuradoria: presunção de legitimidade; prazo judicial de 15 dias sendo cumprido.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, não conhece (intempestivo)",
+     "ts": "0:29:20",
+     "justificativa": "intempestividade (art. 63, I, Lei 9.784 e RN 273/2007); no mérito, decisão da CCEE conforme a regulamentação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:46:20",
+   "processo": "48500.005682/2020-03",
+   "interessado": "CCEE",
+   "assunto": "Homologação dos custos administrativos, financeiros e tributários (CAFT) da CCEE na gestão das contas setoriais para 2021 e 2022 e suplementação do CAFT 2020 da conta Bandeiras Tarifárias",
+   "tema": [
+    "CDE e encargos setoriais",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (homologação; aprovação definitiva condicionada a fiscalização da SFF)",
+   "resumo_voto": "Homologa estimativas de CAFT 2021/2022 (energia de reserva, cotas de garantia física, Angra 1 e 2, conta Bandeiras) e suplementação de 2020 (rubrica projetos, déficit estimado de ~R$ 394 mil); itens de CDE, RGR e CCC seguem para o orçamento da SFF. Procuradoria sem questão jurídica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, homologa",
+     "ts": "0:57:37",
+     "justificativa": "valores pertinentes segundo SFF e SGT; aprovação definitiva condicionada a fiscalização específica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:57:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:58:47",
+   "processo": "00000.095894/2007-65",
+   "interessado": "Novelis do Brasil Ltda. (UHE Brecha, Guaraciaba/MG)",
+   "assunto": "Prorrogação da concessão da UHE Brecha (pedido principal: 30 anos pela Lei 12.783; alternativo: nova autorização de 35 anos como PCH); parecer da SCG e da Procuradoria pelo indeferimento",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "prorrogação de concessão"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "retirado de pauta pela relatora após sustentação oral e manifestação da Procuradoria, para avaliação mais aprofundada",
+   "resumo_voto": "Sustentação oral de Eduardo Rodrigues Evangelista (Novelis) pediu prorrogação ou nova autorização; Procurador Eduardo Ramalho reforçou parecer 63/2019: cláusula de prorrogação é regulamentar, aplica-se a lei nova, e outorga direta violaria o caráter competitivo. Sem voto de mérito.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, retira de pauta",
+     "ts": "1:24:57",
+     "justificativa": "avaliação mais aprofundada do caso",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:25:08",
+   "processo": "48500.003987/2000-62",
+   "interessado": "Cooperativa de Eletrificação Rural da Região de Palmital (SER-PAU), SP",
+   "assunto": "Prorrogação por 20 anos, a partir de 09/07/2015, da autorização da cooperativa (Res. Autorizativa 2.139/2009); determinação à SCT para apresentar em 90 dias a situação atualizada das cooperativas autorizadas",
+   "tema": [
+    "distribuição (cooperativa de eletrificação rural)",
+    "outorgas e autorizações"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Documentação conforme a regulamentação, sem objeção das superintendências; relator critica o longo intervalo entre o vencimento e o pedido e manda a SCT atualizar o monitoramento das autorizações. Procuradoria: presunção de legitimidade.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova prorrogação",
+     "ts": "1:32:56",
+     "justificativa": "requisitos da RN 12/2002 cumpridos; SCT deve otimizar monitoramento das autorizações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:33:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:33:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:33:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:33:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:34:50",
+   "processo": "48500.002268/2016-47",
+   "interessado": "Recorrente da CGH Generoso (registro revogado pelo Despacho 1.172/2019 da SCG)",
+   "assunto": "Recurso administrativo com pedido de efeito suspensivo contra despacho que revogou o registro da CGH Generoso; pedido de prorrogação do prazo de vista",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (CGH)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "prazo de vista prorrogado por oito sessões (deferido sem objeção); sem deliberação de mérito",
+   "resumo_voto": "Efrain Cruz trouxe o processo para pedir mais oito sessões; a diretora que pediu vista (Elisa Bastos, relatora do voto-vista) pediu oito sessões para avaliação do tema; deferido pelo Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista (prorrogação de oito sessões)",
+     "ts": "1:35:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator; não votou (vista)",
+     "ts": "1:35:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "defere a prorrogação de oito sessões",
+     "ts": "1:35:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:35:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "1:35:53",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "28",
+   "processo": "não identificado na legenda",
+   "assunto": "Item destacado do bloco, retirado de pauta pelo relator porque a CCEE recebeu liminar que impede a cobrança de penalidade de agente (nome ininteligível)",
+   "ts": "1:34:13",
+   "relator": "não identificado"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática; cabeçalho do .md lista falantes errados: quem presidiu foi André Pepitone (Diretor-Geral, citado como tal na sustentação oral).",
+  "Votos individuais de quem apenas acompanha atribuídos pela proclamação; ordem das falas de 'acompanho' no item 2 e demais não permite nomear quem disse o quê (confiança media/baixa).",
+  "Atribuição das falas do item 2: Sandoval (0:19:30), Efrain (a partir de ~0:20:30, endereçado por Hélvio), Hélvio (0:22:59), por inferência.",
+  "Item bloco: itens 15 a 43 não identificados na legenda; item 28 relator não identificado e nome da empresa ininteligível.",
+  "Item 14: papéis de Sandoval e Hélvio (não votaram) inferidos; Elisa Bastos foi a diretora de vista.",
+  "Número do processo do item 2 e do item 12 transcritos da legenda, podem conter erro.",
+  "Item 12 transcrição cita Fernando/Efraim com grafia variada; Eduardo Ramalho é o procurador."
+ ]
+}

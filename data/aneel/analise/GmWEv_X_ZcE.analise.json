@@ -1,0 +1,310 @@
+{
+ "meta": {
+  "video_id": "GmWEv_X_ZcE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "2",
+  "data": "2021-01-26",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "2ª Reunião Pública Ordinária de 2021, Parte 1 (até a pausa para almoço, retorno às 14h30).",
+   "Homenagem à servidora Anízia Damasceno (SGT), falecida na virada do ano.",
+   "Pauta de 51 itens: bloco 11 a 51; retirados 4, 6 e 13; sustentação oral nos itens 1, 7, 8 e 17; ordem: bloco, 17, 1, 2, 3, 5, 7, 8, 9, 10. Itens 7, 8, 9 e 10 ficam para a Parte 2 (outro vídeo).",
+   "Ata da 1ª reunião aprovada por todos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco 11-51",
+   "ts": "0:31:47",
+   "processo": "itens 11 a 51 (bloco; votos disponibilizados previamente)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 11 a 51 da pauta (itens remanescentes, após retirada do item 13 e destaques), sem destaque",
+   "tema": [
+    "itens de bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado (bloco)",
+   "resumo_voto": "Os quatro diretores presentes aprovaram o bloco; o Diretor-Geral proclamou a aprovação. Retirados de pauta: itens 4, 6 e 13.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:31:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:32:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:32:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:32:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:32:22",
+   "processo": "48500.000341/2019-61",
+   "interessado": "Paranaíba Transmissora de Energia S.A. (PTE)",
+   "assunto": "Pedido de reconsideração/recurso da Paranaíba Transmissora contra o Despacho SRT 3.335/2019, que indeferiu isenção da parcela variável por indisponibilidade (PVI) pelo desligamento da LT 500 kV Barreiras II - Rio das Éguas C1 (14/01/2019); sustentação oral da empresa (Fagner) e manifestação da Procuradoria",
+   "tema": [
+    "transmissão (PVI, indisponibilidade)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "não conhecido por intempestividade; por unanimidade dos votantes",
+   "resumo_voto": "Recurso protocolado em 14/12/2020, mais de 12 meses após o fim do prazo legal (12/12/2019; art. 59 da Lei 9.784, 10 dias, prazo legal que a ANEEL não pode alterar). Cinco precedentes de dilação citados pela empresa tratam de instrução processual, não de recurso. Não há ilegalidade a rever de ofício. Procuradoria: patente intempestividade; eventual revisão futura pelo art. 65 da Lei 9.784 se houver sentença transitada em julgado reconhecendo ato criminoso. Empresa alegava sabotagem/vandalismo como caso fortuito ou força maior.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, não conhece (intempestivo)",
+     "ts": "0:47:00",
+     "confianca": "media",
+     "justificativa": "recurso apresentado mais de um ano após o prazo legal de 10 dias, que a ANEEL não pode alterar; sem ilegalidade para revisão de ofício; PVI é incentivo regulatório, não sanção"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:55:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:55:55",
+   "processo": "48500.004515/2019-92",
+   "interessado": "Termelétrica Viana S.A. (UTE Viana, ES)",
+   "assunto": "Requerimento administrativo da Termelétrica Viana para revisão da receita fixa a fim de neutralizar o aumento da TUST (cerca de 976% após fim da estabilização de 10 anos); alegação de onerosidade excessiva e cláusula 7.11 do CCEAR; sustentação oral de Rafael d'Ávila (empresa) e manifestação da Procuradoria",
+   "tema": [
+    "transmissão (TUST estabilizada)",
+    "outorgas de geração (térmica)",
+    "comercialização (CCEAR, reequilíbrio)",
+    "tarifas"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido; no mérito negado provimento; por unanimidade dos votantes",
+   "resumo_voto": "Onerosidade excessiva não configurada: falta fato imprevisível/extraordinário (sinal locacional e regras da TUST eram conhecidos; PDE 2027) e vantagem extrema aos consumidores (estabilização onerou consumidores em cerca de 45 milhões). Cláusula 7.11 cobre tributos e encargos legais, não alteração de tarifa (precedente UTE Maracanaú, 2017). Análise adicional da assessoria: custo de transmissão de 9,2% da receita fixa em média de cinco usinas comparáveis versus 10,4% da Viana. A empresa não contribuiu nas audiências públicas das regras.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:13:36",
+     "confianca": "alta",
+     "justificativa": "onerosidade excessiva exige fato imprevisível e vantagem extrema, ausentes; cláusula 7.11 não alcança variação de TUST; custo de transmissão compatível com usinas comparáveis"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (concordância expressa)",
+     "ts": "1:39:49",
+     "confianca": "media",
+     "justificativa": "1000% parece extraordinário só pelo percentual, mas em valores absolutos não; agente deve prever cenários em contratos longos; estabilização de 10 anos implica alteração certa no 11º ano"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:40",
+     "confianca": "media",
+     "justificativa": "percentual impressiona mas deve ser lido com cuidado; afasta imprevisibilidade (planos de expansão); custo/receita adequado; sugere discutir revisão da REN 559 na agenda regulatória"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:48:16",
+     "confianca": "media",
+     "justificativa": "estatística exige narrativa; estabilização por 10 anos beneficiou a empresa e depois aplica-se a regra geral; valores compatíveis com outras usinas do leilão"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:53:58",
+   "processo": "48500.004227/2019-38",
+   "interessado": "Light Serviços de Eletricidade S.A. e Enel Distribuição Rio S.A.",
+   "assunto": "Verificação do cumprimento das cláusulas de eficiência na prestação do serviço de distribuição e na gestão econômico-financeira dos contratos de concessão (Light e Enel Rio), ano-base 2018",
+   "tema": [
+    "distribuição (DEC/FEC, qualidade)",
+    "fiscalização (caducidade, critérios de eficiência)",
+    "Light",
+    "Enel Rio"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado com ajuste no dispositivo; por unanimidade dos votantes",
+   "resumo_voto": "Relator votou por reconhecer cumprimento da eficiência técnica por Enel Rio e Light, reconhecer o cumprimento da eficiência econômico-financeira da Light (aporte de R$ 1,832 bilhão em jul/2019, 198 dias após o exercício, considerado tempestivo pela Procuradoria, parecer 270) e ressalvar que fiscalização pode alterar resultados. Após debate (o Diretor-Geral e outros ponderaram aguardar a fiscalização do DEC/FEC 2018 da Light, já com o diretor Efrain), o dispositivo foi ajustado nos termos do caso Cemig: reconhecimento do cumprimento por Enel Rio; reconhecimento da falta de confiabilidade dos indicadores DEC/FEC da Light, condicionando aprovação ao resultado da fiscalização; cumprimento da eficiência econômico-financeira da Light; e ressalva sobre resultado da fiscalização.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (com ajuste de dispositivo)",
+     "ts": "2:24:22",
+     "confianca": "alta",
+     "justificativa": "aporte bilionário computado no indicador de 2018 é juridicamente amparado e reflete o esforço da empresa; aceita condicionar a parte técnica ao resultado da fiscalização"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:25:30",
+     "confianca": "baixa",
+     "justificativa": "elogia o bom senso do voto; atribuição do falante incerta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:48:37",
+     "confianca": "media",
+     "justificativa": "levantou a dúvida sobre os indicadores DEC/FEC e propôs alinhar ao caso Cemig; atribuição do falante incerta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:50:28",
+   "processo": "48500.006187/2020-01",
+   "interessado": "CCEE",
+   "assunto": "Abertura de consulta pública (45 dias, intercâmbio documental) para aprimorar o submódulo 1.1 (Adesão à CCEE) dos Procedimentos de Comercialização: diferimento de habilitação técnica de geradores no ACL, representação de ativos por filiais e comprovação de adimplência do consumidor cativo migrante",
+   "tema": [
+    "comercialização (CCEE, adesão)",
+    "regulação normativa (consulta pública)",
+    "exportação de energia Argentina/Uruguai"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada abertura de consulta pública de 45 dias; por unanimidade dos votantes",
+   "resumo_voto": "Alterações de baixo impacto, dispensadas de AIR (art. 6º, par. único, REN 798/2017). Procuradoria não se manifestou por ser fase de abertura de consulta. Cautelar anterior aprovada por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova abertura da consulta",
+     "ts": "2:55:26",
+     "confianca": "alta",
+     "justificativa": "propostas da CCEE e da SRM trazem transparência e participação; baixo impacto regulatório"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:01:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:01:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:01:36",
+   "processo": "48500.000009/2016-08",
+   "interessado": "Global Energia Elétrica S.A. (PCH Barueri; Energisa Mato Grosso)",
+   "assunto": "Pedido de reconsideração da Global contra o Despacho 3.460/2019 (reequilíbrio econômico-financeiro do CCVE 1712/2001, encargos CDE/CCC, transferência onerosa de linhas de transmissão e distrato); sem sustentação oral",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCVE, reequilíbrio)",
+    "outorgas de geração (PCH)",
+    "CDE e encargos setoriais",
+    "distribuição (Energisa MT)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido; no mérito negado provimento; por unanimidade dos votantes",
+   "resumo_voto": "Pedido tempestivo, mas sem argumentos novos: encargos (CDE, EUSD) já existiam à assinatura do contrato em 2001, preço livremente pactuado; reequilíbrio já decidido (Despachos 2.239/2010, 2.515/2015, 3.068/2015) e coisa julgada administrativa; perda de objeto quanto à transferência das linhas (cessão onerosa de 2017), restando divergência de valores entre as partes; mudança de regime para PIE não extingue o CCVE; mediação pela SMA continua possível. Parecer 479/2017 e 140/2020 da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "3:02:08",
+     "confianca": "alta",
+     "justificativa": "encargos já existiam ao contrato; pleitos repetidos já decididos; mudança de regime não extingue o contrato de compra e venda"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:27:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:27:32",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta (motivo não dito)"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado de pauta (motivo não dito)"
+  },
+  {
+   "id": "13",
+   "motivo": "retirado de pauta (motivo não dito)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; nomes, números e valores podem estar errados.",
+  "Presença inferida: André Pepitone preside (DG); Sandoval Feitosa, Hélvio Guerra e Elisa Bastos participam. O rótulo de falante «Ricardo Tili» do .md não se confirma (inferência automática; ninguém com esse nome é mencionado). Efrain Cruz é citado como ausente (item 2: «não está aqui conosco»).",
+  "Quase todos os votos de seguidores vêm da proclamação do Diretor-Geral e da ordem usual (relator, demais, DG por último); a ordem entre Sandoval, Hélvio e Elisa nos votos individuais é incerta (confiança baixa); o último a votar é o Diretor-Geral, que proclama.",
+  "Item 2: atribuição das falas de debate (Hélvio, Elisa, André) incerta; apenas duas falas «acompanho» audíveis, os votos de três diretores não-relatores foram registrados com base na proclamação por unanimidade.",
+  "Numeração dos itens inferida da ordem de julgamento anunciada (17, 1, 2, 3, 5); números de processo transcritos da legenda, sujeitos a erro.",
+  "Itens 7, 8, 9 e 10 não constam neste vídeo (Parte 1 termina na pausa para almoço)."
+ ]
+}

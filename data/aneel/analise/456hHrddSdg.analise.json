@@ -1,0 +1,57 @@
+{
+  "meta": {"video_id": "456hHrddSdg", "fonte": "legenda automática do YouTube; falantes inferidos (pouco confiáveis); ts = tempo do vídeo; Parte 2 da 29ª RPO", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "29", "data": "2021-08-10", "formato": "reunião pública ordinária (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": ["Elisa Bastos", "Efrain Cruz", "André Pepitone", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Vídeo é a Parte 2: retomada da sessão após intervalo; a Parte 1 não consta da base.", "Itens apregoados: 7, 9 e 20 (item 8 retirado de pauta, sem identificar relator/processo). Dois itens retirados pelos relatores após sustentação ou dúvida; só o item 20 foi deliberado (unânime)."]
+  },
+  "itens": [
+    {
+      "id": "7", "ts": "0:00:49",
+      "processo": "48500.001875/2017-71 e 48500.003810/2012-55", "interessado": "São Bartolomeu Geradora de Energia Renovável S.A.",
+      "assunto": "Requerimento de reconhecimento de excludente de responsabilidade pelo descumprimento do cronograma de implantação da PCH Tamboril (15,8 MW, Cristalina/GO; Leilão de Energia de Reserva 3/2016)",
+      "tema": ["outorgas de geração (PCH)", "fiscalização e sanções", "leilões (reserva)", "recursos administrativos"],
+      "relator": "não identificado", "resultado": "retirado de pauta pelo relator após sustentação oral",
+      "resumo_voto": "Houve sustentação oral de Ricardo Tomás de Aquino (São Bartolomeu), que pediu 124 dias adicionais de excludente (divergência Exército x prefeitura sobre alvará de explosivos, restrições de covid a equipe, licença de supressão vegetal e cruzamento de rodovia) além de 107 dias já reconhecidos. Procuradoria opinou ser possível afastar a rescisão do CER. O relator retirou o processo para avaliar com mais detalhe os pontos novos.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "relator, retira de pauta", "ts": "0:18:20", "justificativa": "quer avaliar mais detidamente dois dos pontos novos levantados na sustentação (divergência entre órgãos públicos e impedimento de deslocamento por covid)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "9", "ts": "0:18:40",
+      "processo": "48500.004694/1998-81", "interessado": "Delta Geração de Energia Investimentos e Participações Ltda. (UTE William Arjona, Campo Grande/MS)",
+      "assunto": "Registro de óleo diesel como combustível alternativo da UTE William Arjona (alteração de ofício da Resolução Autorizativa 9.983/2021)",
+      "tema": ["outorgas de geração (térmica)", "regulação normativa"],
+      "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Relator votou por autorizar o registro e determinar novo requerimento de homologação do CVU. Após questionamento sobre a SCG ter concluído de ofício, sem envolver a SRG, retirou o processo para ouvir SRG e SRF sobre competência.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, voto pela aprovação; depois retira de pauta", "ts": "0:26:26", "justificativa": "retirou para análise da SRG e SRF sobre a competência de alterar de ofício, dado o CVU alto da usina", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (questionou o relator e o processo foi retirado)", "ts": "0:24:35", "justificativa": "perguntou por que a SRG não participou da nota técnica da SCG; atribuição do falante incerta", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (ponderação; processo retirado)", "ts": "0:25:30", "justificativa": "ponderou que a alteração de ofício passou despercebida na contextualização; atribuição incerta", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "20", "ts": "0:26:51",
+      "processo": "48500.003017/2014-62 e outros três", "interessado": "Eólica Pindaí 1 e 2 Geração de Energia Ltda. (centrais Ingá/Inhambu 2 e Corrupião 2, Pindaí/BA)",
+      "assunto": "Pedido de reconhecimento da pandemia de covid-19 como excludente de responsabilidade para postergar o início dos CUST (contratos de uso do sistema de transmissão)",
+      "tema": ["transmissão", "outorgas de geração (eólica)", "recursos administrativos", "tarifas e encargos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade — conhecido; mérito: negado provimento",
+      "resumo_voto": "Sustentação oral de Ricardo Tomás de Aquino. Relatora: REN 666/2015 permite postergar até 31/03 antes do ciclo tarifário; CUSTs assinados em abril/2020 já com a pandemia conhecida, logo risco previsível, sem caso fortuito ou força maior. Negou provimento.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, nega provimento", "ts": "0:32:30", "justificativa": "prazo da REN 666/2015 esgotado; interessado renunciou à faculdade ao assinar CUST; pandemia previsível, sem fato novo na sustentação", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:36:24", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:36:27", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora (e proclama por unanimidade)", "ts": "0:36:33", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Item 7 (PCH Tamboril, São Bartolomeu), retirado pelo relator", "Item 8 (retirado de pauta, sem detalhes na Parte 2)", "Item 9 (UTE William Arjona), retirado pelo relator"],
+  "limites_da_analise": [
+    "Parte 2 apenas: chamada inicial de presença está na Parte 1 (ausente da base); diretores presentes inferidos das falas, podem faltar Diretor-Geral e outros.",
+    "Legenda sem identificação de falantes: relator do item 7 não identificado; no item 20 os três votos de acompanhamento e o proclamador não puderam ser atribuídos a nomes (o último provavelmente é o Diretor-Geral).",
+    "No item 9 as falas de André Pepitone e Hélvio Guerra foram atribuídas pela legenda («Doutor André, Doutor Hélvio»); confiança baixa.",
+    "Nomes de empresas e usinas da legenda podem estar errados (Inhambu/Ingá, Corrupião); números de processo aproximados."
+  ]
+}

@@ -1,0 +1,346 @@
+{
+ "meta": {
+  "video_id": "MAnl2-5Ro88",
+  "fonte": "legenda automática do YouTube; falantes inferidos; legenda com um único marcador no topo, ts obtidos da transcrição bruta; sessão começa ~0:15",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "42",
+  "data": "2021-11-09",
+  "formato": "reunião pública ordinária (híbrida/videoconferência)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [
+   "Elisa Bastos"
+  ],
+  "observacoes": [
+   "Elisa Bastos em representação institucional (abertura).",
+   "Pauta de 32 itens (11 a 32 em bloco); retirados de pauta os itens 3, 5 e 6; ordem: bloco, 10, 9, 8, 1, 2, 7, 4.",
+   "7 deliberações (bloco + 6 itens), todas unânimes; item 4 adiado por deslocamento de diretores, reinserido na próxima reunião em bloco.",
+   "Aprovadas as atas da 43ª ordinária e da extraordinária anterior (sic)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Bloco 11-32",
+   "ts": "0:20:01",
+   "processo": "(itens 11 a 32 em bloco)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 11 a 32 da pauta (votos disponibilizados na publicação da pauta); sem destaques",
+   "tema": [
+    "itens em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Sem pedido de destaque; três diretores responderam aprovo e o Diretor-Geral proclamou a aprovação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:20:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:20:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:20:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:20:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:20:26",
+   "processo": "48500.006242/2021-44 (número parcial pela legenda)",
+   "interessado": "São Roque Energética S.A. (UHE São Roque; Brunópolis, Curitibanos, Frei Rogério, Vargem e São José do Cerrito/SC)",
+   "assunto": "Declaração de utilidade pública para fins de desapropriação de áreas necessárias à implantação da UHE São Roque (SC)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "desapropriação / utilidade pública",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (minuta de resolução em favor da São Roque)",
+   "resumo_voto": "Havia pedido de vista de André Pepitone; ele informa que as tratativas sobre o texto da resolução com o relator, a procuradoria e a presidência do Ibama foram concluídas com êxito, e acompanha o relator.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (voto não audível na legenda)",
+     "ts": "0:20:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:21:05",
+     "confianca": "media",
+     "justificativa": "vista encerrada após tratativas com relator, procuradoria e Ibama concluídas com êxito"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (confirma proposta inicial)",
+     "ts": "0:22:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (já havia votado, segundo a mesa)",
+     "ts": "0:22:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:23:08",
+   "processo": "48500.003001/2021 e outros (5 processos; números parciais pela legenda)",
+   "interessado": "Paraíso Transmissora; KF Bahia, KF Amazonas, KF Santa Catarina e KF MTP Transmissora (contratos de concessão 2/2015, 6/2019, 9/2019, 5/2020 e 12/2020; AM, PA, MT, MS, BA, SC)",
+   "assunto": "Apuração de falhas e transgressões: proposta ao MME de declaração de caducidade de 5 contratos de concessão de transmissão (investimento estimado em R$ 1,4 bi) e instrução de sanções pela SFE",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (caducidade)",
+    "leilões (transmissão 1/2022)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: encaminhar ao MME proposta de caducidade (art. 38 Lei 8.987/95) e determinar à SFE as sanções contratuais e administrativas cabíveis",
+   "resumo_voto": "Empresas inertes, sem resposta aos termos de intimação nem plano de recuperação de cronograma; atrasos de marcos, falta de informações ao ONS, estudos não pagos, ausência de demonstrativos contábeis. Procuradoria (Luiz Eduardo) opinou pelo encaminhamento ao MME. Celeridade para incluir lotes no leilão de transmissão 1/2022 (30/06/2022); precedente do lote Eletrosul 2018. Presente o superintendente de fiscalização.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, propõe caducidade",
+     "ts": "0:28:47",
+     "confianca": "alta",
+     "justificativa": "empresas inertes; interesse público; reincluir lotes no leilão de junho de 2022; precedente Eletrosul 2018"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:51:30",
+     "confianca": "media",
+     "justificativa": "parabeniza a celeridade; recorda o caso Eletrosul (foi relator do recurso de reconsideração); cita prejuízos à intercambialidade e à segurança energética"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:51:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:51:41",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:52:24",
+   "processo": "48500.003242/2018-88",
+   "interessado": "Amazonas Energia S.A.; Eletrobras (gestora da CCC)",
+   "assunto": "Fiscalização e aferição de créditos de combustível não reembolsados pela CCC à Amazonas Energia por exigências de eficiência econômica e energética (maio/2016 a jun/2017), conforme Lei 14.182/2021 (desestatização da Eletrobras); informar ao Ministério da Economia valor histórico de R$ 1,978 bi (R$ 2,786 bi atualizado pelo IPCA de jul/2021)",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "fiscalização",
+    "desestatização Eletrobras"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Somados R$ 620,26 mi apurados nas competências restantes ao valor do despacho 798/2019 (R$ 1,357 bi). Eletrobras concordou; a Amazonas Energia alegou que parte deveria ser destinada a ela, sem memória de cálculo; relator vê que é determinação legal, sem discricionariedade. André Pepitone comenta que a decisão ajuda a resolver problema financeiro da empresa.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:53:00",
+     "confianca": "alta",
+     "justificativa": "a Lei 14.182 inclui os créditos no cálculo do valor adicionado à concessão; sem discricionariedade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pergunta e comenta; proclama)",
+     "ts": "1:12:00",
+     "confianca": "media",
+     "justificativa": "decisão ajuda a enfrentar o problema financeiro da distribuidora"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:11:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:11:49",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:12:51",
+   "processo": "48500.001671/2021-16",
+   "interessado": "Distribuidoras elegíveis (13) e Eletrobras; Itaipu Binacional",
+   "assunto": "Repasse do saldo da conta de comercialização de Itaipu (R$ 978 mi de 2020 mais US$ 100 mi de cooperação de Itaipu Binacional) para modicidade tarifária, diferimento nos termos do Decreto 10.665/2021",
+   "tema": [
+    "tarifas e revisão tarifária (diferimento Itaipu)",
+    "CDE e encargos setoriais",
+    "comercialização"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Alocação conforme tabela 3 do voto; recursos já disponíveis transferidos em parcela única em até 5 dias úteis da resolução homologatória; US$ 50 mi restantes por despacho em até 10 dias úteis após comunicação da Eletrobras; recomposição à conta com Selic a partir dos processos tarifários de 2023, em 12 parcelas; reversão do financeiro em 2022 e 2023. Apresentação técnica da SGT (Otávio Henrique, Galeazzi). Um diretor (não identificado com segurança) situa o tema nas oito medidas administrativas de 2021 contra a escalada tarifária.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:34:30",
+     "confianca": "alta",
+     "justificativa": "modicidade tarifária; aplicação do decreto; metodologia de alocação da área técnica"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:37:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:37:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:37:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:38:14",
+   "processo": "48500.001387/2021-31 (parcial)",
+   "interessado": "ANEEL (Agenda Regulatória 2022/2023)",
+   "assunto": "Abertura de audiência pública (19/11/2021) sobre a proposta de Agenda Regulatória ANEEL 2022-2023",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "institucional"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Tomada de subsídios (1 a 29/09/2021) recebeu 518 contribuições de 37 participantes; agenda com 96 atividades (29 prioritárias; 79% remanescentes da agenda anterior), apresentada pelo chefe de gabinete Rodrigo Coelho; Lei 13.848/2019; ano 2022 determinativo, 2023 indicativo; deliberação prevista em 07/12/2021. Três diretores elogiaram o trabalho e destacaram previsibilidade, transparência e diálogo.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova audiência pública",
+     "ts": "1:49:00",
+     "confianca": "alta",
+     "justificativa": "boa prática e obrigação legal (Lei 13.848/2019); instrumento de planejamento, transparência e previsibilidade"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:09:55",
+     "confianca": "media",
+     "justificativa": "fala longa (17 anos na agência) sobre previsibilidade, transparência e diálogo; cita serviços ancilares"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:10:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:10:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:10:34",
+   "processo": "48500.004846/2020-66",
+   "interessado": "Light Serviços de Eletricidade S.A. (contrato de concessão 1/1996; RJ)",
+   "assunto": "Celebração de termo aditivo ao contrato de concessão 1/1996: ajusta a trajetória de DEC (2022 passa a 8,70 h) e FEC (conforme tabela 5, FEC 2018 em 6,67) incorporando 0,83 h de tempo morto, e reinsere a cláusula de prorrogação (art. 4º Lei 9.074/95; erro material)",
+   "tema": [
+    "distribuição (qualidade DEC/FEC)",
+    "contratos de concessão (termo aditivo)",
+    "prorrogação de concessão"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes, com ajuste: alteração da tabela vale só para apurar o cumprimento de metas para fins de caducidade; sem devolução de compensações já pagas; relator ajusta a redação em 24 h",
+   "resumo_voto": "Correção dos indicadores da Light por determinação da diretoria (recurso do AI 13/2017); acolhe trajetória proposta pela Light com reparo no FEC de 2018; procuradoria (parecer 64) confirmou a reinclusão da cláusula de prorrogação. Debate entre os diretores sobre retroatividade e indenizações aos consumidores; consenso de que a mudança não retroage. Na proclamação o DG falou em sétimo e corrigiu para sexto termo aditivo.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova termo aditivo",
+     "ts": "2:12:00",
+     "confianca": "alta",
+     "justificativa": "aplicar o 0,83 h de tempo morto mantendo a trajetória pactuada em 2018; cláusula de prorrogação foi omitida por erro material"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:59:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:59:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama; levanta a questão da retroatividade)",
+     "ts": "2:59:47",
+     "confianca": "media",
+     "justificativa": "propõe que a tabela valha só para caducidade e que não haja devolução de compensações"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "4 — processo não identificado na legenda (relator Sandoval Feitosa)",
+   "relator": "Sandoval Feitosa",
+   "motivo": "deslocamento de diretores ao fim da sessão (meio-dia); reinserido na próxima reunião pública, na pauta do bloco",
+   "ts": "3:02:20"
+  },
+  {
+   "item": "Itens 3, 5 e 6 da pauta",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta antes da sessão",
+   "ts": "0:19:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruim: nomes (Hélvio como Vinícius/Elvis), números de processo e valores distorcidos; processos parciais.",
+  "A abertura fala em quórum de três diretores, mas quatro participaram (André, Sandoval, Efrain e Hélvio); Ricardo Tili aparece nos falantes inferidos, mas não é diretor em 2021 (ruído).",
+  "Votos dos seguidores atribuídos pela ordem e proclamação do DG; ts aproximados e confiança baixa quando a fala não traz nome; ordem entre Efrain, Hélvio e Sandoval não confirmada.",
+  "Item 9: segunda fala (cinco contratos, gestão da concessão) de diretor não identificado; item 1 e item 2: falas de elogio de diretores sem nome seguro e não atribuídas.",
+  "No item 8, os ts de André e demais são estimados; o voto de Hélvio como relator não aparece lido na legenda.",
+  "Itens do bloco 11-32 sem detalhe disponível."
+ ]
+}

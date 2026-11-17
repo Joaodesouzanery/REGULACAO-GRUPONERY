@@ -1,0 +1,141 @@
+{
+  "meta": {"video_id": "fdjpZtxi_eo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:04:54); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "36", "data": "2019-10-01", "formato": "presencial (sede da ANEEL, Brasília)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "36ª Reunião Pública Ordinária de 2019. O Diretor-Geral abre dizendo que há três diretores presentes, aptos a deliberar (quórum). Os nomes dos outros dois são inferidos: Elisa Bastos (relatora, tratada como doutora Elisa/diretora) e Ricardo Tili (aparece como falante no cabeçalho do trecho de abertura). Efrain Cruz e Rodrigo Limp são citados como relatores de outros processos, não como presentes.",
+      "Pauta publicada com 24 itens; bloco de itens aprovado sem destaque; pedidos de preferência para os itens 2 e 3; sustentação oral no item 2 (PLD). O item 4 foi retirado de pauta (sem detalhe do processo).",
+      "Os 7 itens individuais abaixo foram deliberados por unanimidade. Os números de pauta são os ditos pela mesa quando audíveis (2, 3, 5, 7); os demais ficaram incertos na legenda e levam identificador descritivo.",
+      "Encerrada por volta de 3:36:55 do vídeo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:08:20",
+      "processo": "itens do bloco (não detalhados na legenda)", "interessado": "diversos",
+      "assunto": "Aprovação em bloco dos itens da pauta sem destaque, conforme atos e votos publicados com antecedência",
+      "tema": ["institucional"],
+      "relator": "diversos",
+      "resultado": "Aprovado o bloco por unanimidade (proclamação do Diretor-Geral)",
+      "resumo_voto": "Os três diretores votaram pela aprovação de todos os itens do bloco; o Diretor-Geral proclamou a decisão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco (proclama)", "ts": "0:08:33", "justificativa": "Proclamou que a ANEEL decidiu pela aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:08:20", "justificativa": "Voto pela aprovação do bloco (falas individuais sem nome na legenda).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:08:26", "justificativa": "Voto pela aprovação dos itens do bloco (falas individuais sem nome na legenda).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:08:51",
+      "processo": "48500.004659/2014-34", "interessado": "ANEEL / setor elétrico (consumidores, agentes do mercado de curto prazo); sustentação oral de Ricardo Vidinich, presidente do conselho de consumidores da Copel",
+      "assunto": "Resultado da Audiência Pública 22/2019: metodologia dos limites máximo e mínimo do PLD (preço de liquidação das diferenças), com PLD máximo estrutural, PLD máximo horário, PLD mínimo e compatibilização entre os limites",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "tarifas e revisão tarifária"],
+      "relator": "Elisa Bastos",
+      "resultado": "Aprovado por unanimidade: PLD mínimo (a partir de 1/1/2020) = maior valor entre o custo incremental de Itaipu e a TEO; PLD máximo estrutural de R$ 556,58/MWh e PLD máximo horário de R$ 1.141,85/MWh (preços de setembro/2019), atualizados pelo IPCA; operação sombra em 2020 e vigência plena do horário em 2021; AIR/ARR em 2020 e reavaliação em 2023/2024",
+      "resumo_voto": "A relatora adotou dois tetos (estrutural pelo percentil 95 do excedente do produtor e horário pela média ponderada do CVU das térmicas a diesel), mínimo mantendo a lógica Itaipu/TEO, ajuste uniforme das 24 horas e avaliação de resultado regulatório. Sustentação oral do conselho de consumidores da Copel pediu retirar o PLD horário; a Procuradoria disse que a questão é discricionária e não jurídica; a relatora e a equipe técnica (apresentação de Felipe) rebateram que o preço horário já foi definido pelo setor/MME. Os demais elogiaram o trabalho e votaram com a relatora.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "0:46:00", "justificativa": "Defendeu que a regra atual não é imutável por previsibilidade, que a metodologia do mínimo e dos tetos é mais coerente tecnicamente, que o PLD horário foi escolha do setor com data para começar em 1/1/2021 e que seja feito AIR do teto horário em 2020; agradeceu às áreas.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:06:50", "justificativa": "Reforçou os elogios ao conselho de consumidores e à relatora; considerou prudente já fixar os limites para a operação sombra, dando previsibilidade e permitindo aprimoramentos ao longo do ano.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:09:37", "justificativa": "Destacou a participação do conselho de consumidores (incentivou a vinda) e parabenizou a relatora; como Diretor-Geral colheu os votos e proclamou a decisão por unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:10:30",
+      "processo": "48500.000396/2019", "interessado": "Distribuidoras de energia elétrica (contratos de concessão)",
+      "assunto": "Abertura de consulta pública (intercâmbio documental, 45 dias, de 3/10 a 16/11/2019) sobre revisão da metodologia de cálculo do Fator X, componente Pd (ganhos de produtividade), a aplicar às distribuidoras a partir de 2020; submódulos 2.5 e 2.5A do PRORET",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "geração distribuída (MMGD)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"],
+      "relator": "Elisa Bastos",
+      "resultado": "Aprovada por unanimidade a alternativa 3 do AIR 8/2019 e abertura da consulta pública; excluído o parâmetro de micro e minigeração distribuída da equação",
+      "resumo_voto": "A relatora propôs manter a PTF e diferenciar só pela variação vertical de mercado, janela 2003-2018, mediana da média geométrica (1,445% a.a. segundo a legenda), com Pd dinâmico para o grupo B; não acolheu a variável de geração distribuída agora, remetendo à próxima revisão do Fator X e ao resultado da AP 1/2019 (sob relatoria de Rodrigo Limp). Apresentação técnica de Lucas (SRM) com estimativa de ganho a compartilhar de cerca de R$ 319 milhões. Sem sustentação oral; Procuradoria sem parecer formal, opinou pela abertura. Registrou-se que é a primeira consulta pública sob a lei das agências (13.848).",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "1:10:53", "justificativa": "Excluiu a variável de GD por falta de evidência de impacto na produtividade e dependência da revisão do sistema de compensação, remetendo à próxima revisão do Fator X.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:40:20", "justificativa": "Observou que o tema é relevante para os consumidores e parabenizou a exposição técnica e a relatora.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:41:09", "justificativa": "Registrou que é a primeira consulta pública após a lei das agências e que 45 dias é o prazo mínimo legal; proclamou a decisão por unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "leilao-A-4-2019", "ts": "1:42:32",
+      "processo": "48500.001502/2019-61", "interessado": "Vendedores habilitados (10 agentes, 15 empreendimentos) no Leilão de Geração 3/2019 (A-4)",
+      "assunto": "Homologação do resultado e adjudicação do objeto do Leilão de Geração 3/2019 (A-4/2019), energia de novos empreendimentos (hidrelétrica, eólica, solar fotovoltaica, biomassa) com suprimento a partir de 1/1/2020; deságio médio de cerca de 45%",
+      "tema": ["leilões (geração, transmissão, reserva de capacidade)", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Homologado o resultado e adjudicado o objeto por unanimidade",
+      "resumo_voto": "Leilão realizado em 28/6/2019: 15 empreendimentos (6 solares, 3 eólicos, 5 PCHs, 1 termelétrica a bagaço de cana), 10 vendedores, preço médio de R$ 140,34/MWh e deságio médio de 45,03% (legenda). Comissão especial de licitação habilitou todos; sem recurso; Procuradoria sem pedido de parecer, concordou com a homologação.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:43:02", "justificativa": "Votou por homologar e adjudicar, pois todos os vendedores atenderam aos requisitos de habilitação e estavam adimplentes com obrigações intrassetoriais.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:50:01", "justificativa": "Acompanhou o relator (fala sem nome na legenda; ordem de votação).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:50:01", "justificativa": "Acompanhou o relator (fala sem nome na legenda; ordem de votação).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "catanduva-reconsideracao", "ts": "1:50:24",
+      "processo": "48500.003752/2014-21 e 48500.003755/2014-65", "interessado": "Central Eólica Catanduva 1 S.A. e Central Eólica Catanduva 2 S.A. (grupo Nesa; usinas de 30 MW em Jandaíra/RN; Leilão de energia nova 2013)",
+      "assunto": "Pedido de reconsideração contra as Resoluções Autorizativas 6.789 e 6.790/2017, que revogaram as outorgas das eólicas Catanduva 1 e 2; pedidos alternativos de transferência de controle societário e de TAC",
+      "tema": ["outorgas de geração (eólica, solar, hidrelétrica, térmica)", "recursos administrativos", "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Conhecido e, no mérito, negado provimento por unanimidade; mantida a revogação das outorgas, rescindidos os CCEAR, CCEE a aplicar multa rescisória e cobrar valores devidos",
+      "resumo_voto": "O relator apontou que passados anos do leilão nada foi construído, que a requerente apresentou ao menos quatro propostas de transferência de controle sem plano concreto, e que não há vantajosidade (preços contratados cerca do dobro dos leilões recentes e sobrecontratação das distribuidoras). Determinou também proposta de regulamentação do art. 4-C/46 da Lei 9.074 sobre transferência de controle. Procuradoria: conhecer e negar provimento. Processo antes retirado de pauta (29ª RPO) para reunião presencial.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega provimento)", "ts": "1:51:10", "justificativa": "Entendeu que o regulador deve agir de forma firme e objetiva, sem manter projetos sem viabilidade técnica ou financeira; transferência só se comprovada efetividade e vantajosidade para o consumidor, o que não houve.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:22:30", "justificativa": "Acompanhou o relator (fala sem nome na legenda; ordem de votação).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:22:30", "justificativa": "Acompanhou o relator (fala sem nome na legenda; ordem de votação).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:23:55",
+      "processo": "48500.005985/2017", "interessado": "Nova Ventos de Santa Rosa, de São Geraldo, de Santo Inácio e de São Sebastião Energias Renováveis S.A. (grupo Nesa); decisão da CCEE (reunião 957)",
+      "assunto": "Pedidos de impugnação com pedido de efeito suspensivo contra decisão da CCEE que determinou o desligamento compulsório das empresas em razão da revogação de suas autorizações como produtoras independentes",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "recursos administrativos", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Conhecidos e, no mérito, negado provimento por unanimidade; desligamento da CCEE mantido",
+      "resumo_voto": "O relator superou a falha formal (não indicação dos dispositivos violados) em favor da verdade real, e entendeu que o desligamento é consequência obrigatória da revogação das outorgas (arts. 2 e 3 da REN 545/2013), já confirmada na reunião anterior. Processo redistribuído ao relator em 3/9/2018 (assunção do cargo de DG por André Pepitone, conforme legenda). Procuradoria: parecer 659/2017 pelo não provimento. Houve pedido de inversão de pauta entre os itens 6 e 7.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega provimento)", "ts": "2:28:37", "justificativa": "Desligamento do agente da CCEE se impõe pela extinção das outorgas; matérias de fato e de direito já discutidas na ANEEL.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:34:55", "justificativa": "Acompanhou o relator (fala sem nome na legenda).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:34:55", "justificativa": "Acompanhou o relator (fala sem nome na legenda).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:35:32",
+      "processo": "48500.001149/2019-10", "interessado": "Transmissora de Energia Sul Brasil S.A. (TESB), contrato de concessão 1/2011, Leilão 8/2010, linhas 230 kV Restinga, Viamão 3 e Porto Alegre 13 (RS)",
+      "assunto": "Recurso administrativo contra o Despacho 966/2019 da SCT, que indeferiu a conformidade do projeto básico em circuito duplo (4,2 km) em vez de dois circuitos simples previstos no edital",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "leilões (geração, transmissão, reserva de capacidade)"],
+      "relator": "Elisa Bastos",
+      "resultado": "Conhecido e negado provimento por unanimidade; TESB obrigada a refazer cerca de 5 km em circuito simples e apresentar projeto básico e cronograma em 30 dias",
+      "resumo_voto": "A relatora entendeu que não há prova de negativa de licenciamento para circuitos simples, que a alteração unilateral quebra a isonomia do leilão e a confiabilidade planejada, que a proposta de reforço em rede de distribuidora de terceiros não tem amparo legal (art. 4 da Lei 9.074) e que o caso difere do da Xingu Rio, trazido tempestivamente. Fiscalização paralela (PA 48500.006250/2018) sob relatoria de Efrain Cruz. Procuradoria: presunção de legitimidade do ato.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova (nega provimento)", "ts": "2:36:05", "justificativa": "A pendência é reversível (poucos km) e acolher o pleito causaria prejuízo ao processo licitatório e aos consumidores; empresa não ficaria em desequilíbrio por cumprir o contrato.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:14:25", "justificativa": "Acompanhou a relatora (fala sem nome na legenda).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:14:30", "justificativa": "Acompanhou a relatora e proclamou a decisão por unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "sancoes-ceara-2-4", "ts": "3:15:25",
+      "processo": "48500.004848/2016-79 e outros (oito processos)", "interessado": "Titulares das eólicas dos complexos Ceará 2 e Ceará 4 (Araras, Garças, Lagoa Seca, Vento do Oeste, Ventos de Santa Rosa, Santo Inácio, São Geraldo, São Sebastião), controladas pela Energipe; leilões de energia de reserva 3/2009 e 3/2011",
+      "assunto": "Aplicação de sanções administrativas e execução de garantias de fiel cumprimento após a revogação das outorgas por atraso na implantação",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "leilões (geração, transmissão, reserva de capacidade)", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Aprovado por unanimidade: multa de 5% do investimento declarado à EPE (total histórico de cerca de R$ 50,38 milhões), suspensão por dois anos do direito de contratar ou licitar com a ANEEL (restrita às SPEs), execução da garantia para quitar a multa e determinação de estudo em 180 dias sobre dosimetria do alcance da suspensão",
+      "resumo_voto": "O relator seguiu a dosimetria da SCG (metade do máximo, sem declaração de inidoneidade por ausência de má-fé, coerente com precedentes como o voto de Elisa Bastos em 18/6/2019) e não estendeu a pena aos controladores diretos por falta de abuso de direito, mas determinou estudo sobre a eficácia da suspensão, incluindo SFE, SCG, SEL e, por retificação dele em plenário, SFR e SCT (casos de transmissão). Procuradoria: presunção de legitimidade.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "3:15:57", "justificativa": "Entendeu que a SCG aplicou a dosimetria adequada e que a suspensão só para as SPEs pode ter pouca eficácia, exigindo estudo; retificou para incluir SFR e SCT.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "3:35:42", "justificativa": "Parabenizou o voto do relator e disse que o estudo trará parâmetros mais sólidos de dosimetria.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:36:00", "justificativa": "Reforçou as palavras da diretora e a importância de incluir SFR e SCT, pois casos análogos ocorrem na transmissão.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "4", "assunto": "Item 4 da pauta retirado antes da sessão (anunciado pelo secretário-geral); processo não identificado na legenda."}
+  ],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros de números, siglas e nomes; valores de PLD (R$ 556,58 e R$ 1.141,85 por MWh) e número de processos conferidos com a leitura do dispositivo, mas podem conter erros.",
+    "Presença: o Diretor-Geral diz que há três diretores; Sandoval Feitosa (preside), Elisa Bastos (relatora, chamada de doutora Elisa) e Ricardo Tili (cabeçalho do falante na abertura) foram inferidos. O nome do terceiro diretor não é dito expressamente na abertura; atribuição de falas a Ricardo Tili é inferida pela ordem (relator, demais diretores, DG por último).",
+    "Os votos individuais de acompanhamento sem nome na legenda foram atribuídos pela proclamação por unanimidade e pela ordem de votação; confiança baixa nos itens leilão, Catanduva, 7, bloco; minuto aproximado.",
+    "Números de pauta incertos para os itens do leilão A-4 e de Catanduva (a legenda da ordem de julgamento está truncada: 23, 15, 6 e 7); item 7 e item 5 foram ditos pela mesa.",
+    "O processo de Catanduva foi anunciado como seis processos, mas só dois números foram legíveis (48500.003752/2014-21 e 48500.003755/2014-65). Número do processo do Fator X incompleto (dígitos finais ilegíveis).",
+    "Na descrição histórica do item 7 a legenda cita a assunção do cargo de Diretor-Geral por André Pepitone, o que provavelmente é erro (referia-se à redistribuição por troca na relatoria); não usado como fato.",
+    "Itens do bloco não foram detalhados na transmissão; sem sigilo nem trechos inaudíveis relevantes."
+  ]
+}

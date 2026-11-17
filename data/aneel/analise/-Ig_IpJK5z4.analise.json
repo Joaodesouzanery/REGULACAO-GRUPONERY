@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "video_id": "-Ig_IpJK5z4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; Parte 2 da 46ª RPO; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46",
+  "data": "2018-12-11",
+  "formato": "presencial",
+  "presidente_da_sessao": "Ricardo Tili",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (turno da tarde) da 46ª Reunião Pública Ordinária; a Parte 1 tem os demais itens.",
+   "Sandoval cita a posse da diretora Elisa Bastos no dia; não há voto dela nesta parte.",
+   "Dois itens deliberados (2 e 3) e retificação do item 12."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2",
+   "ts": "0:02:37",
+   "processo": "48500.004971/2018-51",
+   "interessado": "Centrais Elétricas de Rondônia S.A. (Ceron / Energisa Rondônia)",
+   "assunto": "Reajuste tarifário anual de 2018 da Ceron, a vigorar a partir de 13/12/2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "distribuidoras designadas / desestatização"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste médio de 25,34% (27,12% alta tensão; 24,75% baixa tensão) após diferimento de R$ 70 milhões em componentes financeiros pedido pela Energisa; desconto do deságio do leilão (redução de 1,81 p.p.); CDE mensal repassada pela CCEE à distribuidora. Apresentação técnica da SGT. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:20:26",
+     "confianca": "alta",
+     "justificativa": "reajuste elevado mas bem justificado: componentes financeiros (CVA de energia, risco hidrológico, não aplicação da conta bandeiras até 2017) e tarifa abaixo da inflação em dez anos; diferimento de R$ 70 milhões reduz o índice"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:26:50",
+     "confianca": "media",
+     "justificativa": "destacou que o índice é elevado mas inferior à inflação na janela de dez anos; elogiou a apresentação didática da SGT"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:26:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:26:55",
+     "confianca": "media",
+     "justificativa": "ao final proclamou a decisão como Diretor-Geral da sessão"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:27:27",
+   "processo": "48500.004967/2018-93",
+   "interessado": "Grupo Energisa S.A. / Companhia de Eletricidade do Acre (Eletroacre)",
+   "assunto": "Pedido de medida cautelar do Grupo Energisa para reconhecimento de adimplência da Eletroacre e reajuste tarifário anual de 2018 da Eletroacre, a vigorar a partir de 13/12/2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "recursos administrativos",
+    "distribuidoras designadas / desestatização"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (cautelar indeferida por perda de objeto; reajuste homologado)",
+   "resumo_voto": "Cautelar indeferida por perda de objeto, pois a Eletroacre quitou os débitos do cadastro de inadimplentes (cerca de R$ 170 milhões segundo a fala do diretor) em dois dias úteis; homologado reajuste médio de 21,29% (28,04% alta tensão; 19,82% baixa tensão). Apresentação técnica da SGT. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, indefere cautelar e homologa reajuste",
+     "ts": "0:40:00",
+     "confianca": "alta",
+     "justificativa": "perda de objeto pela quitação dos débitos; destacou benefício do leilão (redução de 3,42 p.p.) e esforço da Energisa e das superintendências"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:43:00",
+     "confianca": "media",
+     "justificativa": "apontou como fatores o custo de aquisição de energia (quotas de garantia física, contratos bilaterais do sistema isolado) e financeiros do período hidrológico adverso; tarifa residencial abaixo da inflação em dez anos"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:43:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:43:13",
+     "confianca": "media",
+     "justificativa": "proclamou o resultado por unanimidade"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:44:11",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Retificação de apuração do item 12 (pedido de reconsideração; julgado na Parte 1): Sandoval Feitosa impedido por ter atuado no caso como superintendente; apuram-se três votos",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "resultado mantido; votos apurados: Rodrigo Limp, Efrain Cruz e Ricardo Tili",
+   "resumo_voto": "Item deliberado na Parte 1 (objeto e interessado não aparecem nesta parte); aqui só se registra o impedimento de Sandoval Feitosa e a contagem de três votos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "0:44:11",
+     "confianca": "media",
+     "justificativa": "impedido por ter participado dos atos como superintendente"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, voto computado",
+     "ts": "0:44:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto computado",
+     "ts": "0:44:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto computado",
+     "ts": "0:44:44",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com erros de nomes (Rodrigo Limp aparece como limpe/limpa; Efrain como frain).",
+  "Presidente da sessão inferido como Ricardo Tili (fala de encerramento e voto no item 12); cargo de Diretor-Geral não confirmado no texto.",
+  "Presença de Elisa Bastos nas votações não confirmada; no item 12 apuraram-se só três votos.",
+  "Votos de Efrain Cruz e Tili nos itens 2 e 3 inferidos da proclamação por unanimidade; ts aproximados.",
+  "Itens 2 e 3: nº de votos igual ao dos quatro diretores identificados como presentes.",
+  "Item 12: processo e interessado desconhecidos nesta parte; atribuição de votos pela fala (Rodrigo, Efrain e o presidente)."
+ ]
+}

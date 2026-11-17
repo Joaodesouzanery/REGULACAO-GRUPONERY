@@ -1,0 +1,357 @@
+{
+ "meta": {
+  "video_id": "Zen2AH1gcgQ",
+  "fonte": "legenda automática do YouTube; falantes do cabeçalho do .md não são confiáveis (inferidos); ts = tempo do vídeo; Parte 1 da reunião (interrompida às 12h para almoço)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "42ª RPO 2020",
+  "data": "2020-11-10",
+  "formato": "videoconferência/presencial misto (pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [
+   "Elisa Bastos (férias)"
+  ],
+  "observacoes": [
+   "Parte 1 de reunião maior; encerra em almoço, retomada às 14h30; itens 6, 7, 8, 20, 22 e demais da ordem de julgamento ficam para a Parte 2.",
+   "Pauta com 29 itens; itens 19 a 29 em bloco (com destaques 20, 22 e 29); retirados 10, 12, 15 e 18; sustentação oral solicitada para itens 7, 20, 22 e 29.",
+   "Pedido de sustentação oral no item 22 (regra geral de autorizações de produtor independente) indeferido por não ser parte; Procuradoria opinou pelo indeferimento.",
+   "Atas da 41ª RPO e da 9ª reunião extraordinária aprovadas por unanimidade.",
+   "Abertura com comunicados e comentário sobre o apagão do Amapá (3/11/2020); aniversário do diretor Sandoval Feitosa.",
+   "Ordem de julgamento: bloco, 29, 1, 2, 4 (inversão), 3 e 5."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:13:11",
+   "processo": "itens 19 a 28 da pauta (bloco, sem destaque) e demais itens do bloco",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos disponibilizados previamente); itens 10, 12, 15 e 18 retirados de pauta; destaques para os itens 20, 22 e 29",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade dos votantes",
+   "resumo_voto": "Bloco aprovado sem debate; Diretor-Geral proclamou unanimidade dos votantes.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova",
+     "ts": "0:13:32",
+     "justificativa": "Proclama aprovação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova",
+     "ts": "0:13:21",
+     "justificativa": "Aprovação do bloco; manifestações individuais curtas não atribuíveis pela legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova",
+     "ts": "0:13:21",
+     "justificativa": "Aprovação do bloco; manifestações individuais curtas não atribuíveis pela legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova",
+     "ts": "0:13:21",
+     "justificativa": "Aprovação do bloco; manifestações individuais curtas não atribuíveis pela legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "0:13:50",
+   "processo": "48500.004563/2020-14",
+   "interessado": "Companhia Paulista de Transmissão de Energia Elétrica (CTEEP, Isa Cteep); sustentação oral de Luiz Felipe Miguel (advocacia, em nome de interessada em leilão de transmissão)",
+   "assunto": "Autorização e estabelecimento de parcela de RAP referente a reforços em instalações de transmissão (subestações Miguel Reale, Ramon Reberte e Leste, São Paulo), contrato de concessão 059/2001",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "leilões (geração, transmissão, reserva de capacidade)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes: resolução autorizativa com reforços com receita prévia (anexo 1, parcelas de RAP conforme anexo 2) e sem receita prévia (anexo 3); sustentação oral rejeitada no mérito",
+   "resumo_voto": "Relator rejeitou o pedido da sustentação oral de suspender o processo e licitar as obras junto ao lote 3 do leilão 1/2020: tratam-se de reforços em instalações existentes, sem função de serviço independente, conforme nota técnica 644/2020 e análise do TCU; receita adicional de cerca de R$ 24 milhões. Procuradoria também considerou a situação claramente de reforço.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:33:00",
+     "justificativa": "Reforços (transformadores e disjuntores) não poderiam ser licitados à parte; instalações existentes; licitação é a regra, mas a análise técnica, do MME/EPE e do TCU confirmam caso típico de autorização; vida útil não é vida regulatória.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:38:15",
+     "justificativa": "Itens são típicos de autorização; sem aderência com o caso Porto Alegre 4; segunda análise do TCU não pode paralisar o processo, pois o controle é a posteriori (atribuição da fala por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "0:39:30",
+     "justificativa": "Associa-se às colocações do colega: regra é a licitação, mas caso excepcional bem fundamentado vai para autorização (atribuição da fala por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "justificativa": "Acompanha o relator e proclama unanimidade dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:41:28",
+   "processo": "48500.005842/2019-58; 48500.005843/2019-13; 48500.005844/2019-51; 48500.005845/2019-03 (e conexos)",
+   "interessado": "Ourilândia do Norte Transmissora de Energia S.A. e Chimarrão Transmissora de Energia S.A.",
+   "assunto": "Recursos administrativos contra o Despacho 1404/2020 da SCT sobre valores de ressarcimento dos relatórios R2, R3 e R4 do estudo de atendimento elétrico à região metropolitana de Porto Alegre (R1), a incluir no leilão de transmissão 1/2020",
+   "tema": [
+    "recursos administrativos",
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes: recursos conhecidos e providos, novos valores de ressarcimento, SCT recalcula demais valores",
+   "resumo_voto": "Processo havia sido retirado de pauta na RPO anterior (dúvida sobre afetar a revisão da REN 594). Relator confirmou que o voto não menciona nem vincula a REN 594 e propôs que a EPE elabore esses relatórios no futuro, articulando-se com o MME. Dá provimento aos recursos e fixa novos valores (tabelas 1 a 7).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:42:00",
+     "justificativa": "Sem vinculação à REN 594; defende que a EPE passe a elaborar os relatórios R2 a R4 e que a agência articule isso com o MME.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:55:36",
+     "justificativa": "Relator da revisão da REN 594: esclarece que o voto não antecipa decisão e que a norma dividirá custos fixos e variáveis; concorda com levar a EPE o tema (atribuição por conteúdo).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "0:55:41",
+     "justificativa": "Associa-se à fala do diretor Sandoval sobre a EPE ser o local mais adequado dos estudos (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:55:46",
+     "justificativa": "Acompanha e proclama unanimidade dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:57:23",
+   "processo": "48500.004272/2020-37",
+   "interessado": "Companhia Estadual de Geração e Transmissão de Energia Elétrica (CEEE-GT)",
+   "assunto": "Redução unilateral de escopo e reequilíbrio econômico-financeiro do contrato de concessão 055/2001, em razão da licitação da subestação Porto Alegre 4 (lote 5 do leilão 1/2020); manifestação da CEEE-GT sobre as notas técnicas 544/2020 e 629/2020",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes: indeferidos pedidos de nulidade e sobrestamento; deferimento parcial de pedidos técnicos (cálculo de O&M pelo submódulo 9.1, laudo complementar, participação no leilão); termo aditivo de redução unilateral e reequilíbrio antes da adjudicação",
+   "resumo_voto": "Relator rejeita nulidade por violação ao devido processo, motivação, legalidade, isonomia e segurança jurídica; licitação é a regra para revitalização completa de subestação e modicidade tarifária; ressarcimento do valor não depreciado (cerca de R$ 10,95 milhões) e redução de receita de cerca de R$ 9,76 milhões; CEEE-GT poderá participar do leilão. Procuradoria apoiou a possibilidade jurídica da redução (pareceres 484/2019 e 337/2020).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:05:53",
+     "justificativa": "Licitação é o caminho para modicidade tarifária; contrato respeitado com reequilíbrio; contraditório e ampla defesa observados.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:45:27",
+     "justificativa": "Elogia o voto e a possibilidade de a CEEE-GT participar do leilão em igualdade; caso sem relação com o item 29 (atribuição das falas por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:45:30",
+     "justificativa": "Acompanha o relator; atribuição individual da fala incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:45:36",
+     "justificativa": "Casa respeita contratos; pauta de redução de tarifas desde 2018 (atribuição por inferência); proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:46:52",
+   "processo": "48500.004623/2020-04; 48500.004778/2020-35",
+   "interessado": "Energisa Borborema Distribuidora de Energia S.A. (Paraíba, Campina Grande)",
+   "assunto": "Abertura de consulta pública (11/11 a 28/12/2020; audiência pública virtual em 3/12/2020) sobre a proposta da 5ª revisão tarifária periódica a vigorar de 4/2/2021 e limites de DEC e FEC para 2022 a 2025",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: abertura de consulta e audiência pública",
+   "resumo_voto": "Efeito médio preliminar de 3,45% (12,29% alta tensão; 0,43% baixa tensão); sem a Conta-covid seria 6,53%. Concessão com custos operacionais eficientes e indicadores de qualidade melhores que os limites; tarifa residencial de cerca de R$ 497,65 para R$ 498,62/MWh, a mais barata do país segundo a exposição. Apresentação técnica da SGT (especialista Ana Lúcia).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:47:15",
+     "justificativa": "Concessão eficiente, boa qualidade e tarifa estável; corrigiu datas da consulta (até 28/12) e da audiência (3/12).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:11:19",
+     "justificativa": "Acompanha o relator (pela proclamação); fala individual não atribuível.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "2:11:22",
+     "justificativa": "Acompanha o relator (pela proclamação); fala individual não atribuível.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:09:09",
+     "justificativa": "Destaca a Conta-covid (75% usado, 25% guardado para 2021) e a tarifa residencial estabilizada; proclama unanimidade em 2:11:27.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:12:12",
+   "processo": "48500.005211/2019-42",
+   "interessado": "Edital do leilão de transmissão 1/2020; Amazonas GT e CEEE-GT citadas",
+   "assunto": "Aprovação final do edital do leilão de transmissão 1/2020 (11 lotes, 9 estados) após pronunciamento do TCU (Acórdão 2881/2020); leilão em 17/12/2020 na B3",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Ajustes de RAP máxima nos lotes, regra de transferência de controle (vedada antes da operação comercial, salvo desestatização), possibilidade de participação da CEEE-GT, comprovação de patrimônio por controladora para subsidiária integral (Amazonas GT), critérios de participação e garantias. Recurso da Amazonas GT contra ofício da SCEL não conhecido por falta de interesse processual. Investimento estimado de R$ 7,4 bilhões e 1.958 km de linhas.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:14:05",
+     "justificativa": "Edital consolidado; veda mercado de papéis e permite participação de CEEE-GT e Amazonas GT via controladora.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:50:18",
+     "justificativa": "Elogia o voto: evita aventureiros e comprova capacidade de entrega (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "2:50:26",
+     "justificativa": "Acompanha o relator; atribuição individual incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:50:32",
+     "justificativa": "Destaca leilão como contribuição à retomada econômica, confiança do investidor e vedação de transferência de controle antes da operação; proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:51:23",
+   "processo": "48500.001825/2018-74",
+   "interessado": "Setor elétrico (CCEE, ONS)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 10 dias, 11 a 20/11/2020) para adequação formal da REN 843/2019 ao preço horário a partir de 1/1/2021 (Portaria MME 301/2019); dispensa de AIR",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Ajuste meramente formal: horários limites e protocolos de contingência de publicação do CMO e PLD remetidos aos procedimentos de rede do ONS e regras da CCEE; revisão mais ampla fica na agenda regulatória de 2021. Apresentação técnica de Patrícia (SRG).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:52:20",
+     "justificativa": "Apenas harmonização formal com a portaria; consulta expedita.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:05:56",
+     "justificativa": "Acompanha o relator (pela proclamação); fala individual não atribuível.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "3:06:01",
+     "justificativa": "Elogia a importância de harmonizar a REN 843 com o preço horário (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:06:04",
+     "justificativa": "Acompanha e proclama unanimidade dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 10",
+  "item 12",
+  "item 15",
+  "item 18"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números imprecisos (processos, valores em reais e prazos podem estar errados).",
+  "Quarto diretor presente atribuído a Rodrigo Limp por exclusão (quatro de cinco diretores; Elisa Bastos de férias; Pepitone, Sandoval e Efrain identificados); o nome não é dito de modo claro e há menção legendada a «Cristiano/Christian», não identificada; atribuição individual de falas de comentário e de «acompanho» é inferida, confiança baixa.",
+  "Votos individuais do bloco não são lidos; 4 votos por item conforme a proclamação (relator + 3).",
+  "Ordem de votação: relator, outros diretores e Diretor-Geral por último; atribuição de cada «acompanho» entre Sandoval, Limp e Efrain não certa.",
+  "Itens do bloco (19 a 28) sem número de processo na legenda; item 22 e sustentações orais dos itens 7 e 20 ocorrem na Parte 2.",
+  "Ordem numérica dos itens 1 a 5 inferida da sequência (item 4 Borborema foi chamado antes do item 3 por inversão)."
+ ]
+}

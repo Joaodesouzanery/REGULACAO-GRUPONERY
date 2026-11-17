@@ -1,0 +1,435 @@
+{
+ "meta": {
+  "video_id": "fUhyu6iDKjk",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante; ts = tempo do vídeo; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "22",
+  "data": "2019-06-25",
+  "formato": "reunião pública ordinária, parte 1 (manhã; suspensa às 3:49:56 para almoço, retorno às 14h30)",
+  "presidente_da_sessao": "Ricardo Tili (Diretor-Geral substituto; inferido pela fala «falta só o ricardo»)",
+  "diretores_presentes": [
+   "Ricardo Tili",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "A abertura diz haver três diretores aptos a deliberar, mas quatro atuam na sessão (Tili, Sandoval, Limp, Efrain); incerto.",
+   "Pauta de 45 itens; retirados os itens 7 e 13; sustentações orais e preferências para itens 12, 14, 5 e 15 (legenda confusa); ordem: bloco, 12, 14, 10, Cocel, 6, 11, 8, 2.",
+   "Itens restantes da pauta (29, 15, 3, 4, 5, 16 e outros) ficam para a Parte 2 do vídeo, fora deste arquivo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:10:24",
+   "processo": "itens do bloco (pauta de 45 itens; bloco de itens sem destaque, nº exatos mal captados na legenda)",
+   "interessado": "vários",
+   "assunto": "Deliberação em bloco dos processos sem pedido de destaque, sustentação oral ou retirada",
+   "tema": [
+    "pauta em bloco",
+    "regulação normativa",
+    "outorgas de geração",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "vários (não detalhados)",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "O Diretor-Geral substituto votou pela aprovação dos itens do bloco e proclamou unanimidade; processos individuais do bloco não são lidos nem identificados.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens do bloco e proclama unanimidade",
+     "ts": "0:10:26",
+     "justificativa": "proclamou que a diretoria colegiada aprovou por unanimidade os processos do bloco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha (pela proclamação de unanimidade)",
+     "ts": "0:10:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha (pela proclamação de unanimidade)",
+     "ts": "0:10:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação de unanimidade)",
+     "ts": "0:10:36",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:10:51",
+   "processo": "48500.004469/2018-87 (número conforme legenda)",
+   "interessado": "Agetop Empreendimentos de Gestão Ltda. e Paulo Vítor Azevedo Viana (recorrentes); Celulose Irani S.A. (interessada contrária)",
+   "assunto": "Recurso administrativo contra o Despacho 2.064/2018 (SCG) que admitiu outras solicitações de registro de intenção à outorga (DRI-PCH) para a PCH Salto Santo Cristo Rei, rio Irani (Ponte Serrada e Irani/SC)",
+   "tema": [
+    "outorgas de geração (PCH, hidrelétrica)",
+    "recursos administrativos",
+    "DRI-PCH / inventário hidrelétrico (REN 673/2015, arts. 6º e 7º)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "conhecido e negado provimento ao recurso, por unanimidade (pela proclamação)",
+   "resumo_voto": "Relator adotou interpretação teleológica e princípio da competição: o eixo, embora de inventário aprovado antes da REN 673, nunca fora disponibilizado à competição por haver concessão vigente, logo aplica-se o art. 7º (abertura de prazo a outros interessados); precedentes dos recorrentes (Curucaca/Rancho Grande, Chopim) são casos distintos; endossou SCG e Procuradoria (Parecer 39/2019, que revisou o Parecer 228/2017). Sustentação oral de Pedro Carlos Sales Pithan Filho (Celulose Irani), que defendeu a leitura literal... conforme registrado na fala; o Procurador-Geral comentou a revisão de entendimento.",
+   "sustentacao_oral": [
+    "Pedro Carlos Sales Pithan Filho (empresa; relato sobre o recurso)"
+   ],
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:35:23",
+     "justificativa": "conhecer e negar provimento; interpretação teleológica e princípio licitatório; caso diverso dos precedentes; REN 673 em revisão (AP 13/2019) para esclarecer o texto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:37:37",
+   "processo": "48500.001156/2015-98 (conforme legenda)",
+   "interessado": "Energética Águas da Pedra S.A. (EAPSA); Empresa Brasileira de Transmissão de Energia (EBTE); UHE Dardanelos (rio Aripuanã, MT); Energisa MT; mineradora Dardanelos",
+   "assunto": "Requerimento administrativo (pedido de esclarecimento tratado como recurso) contra o Despacho 3.557/2017, que negou provimento a recurso contra o Despacho 1.903/2017 (SRT) sobre transferência sem ônus das instalações de transmissão de interesse restrito da UHE Dardanelos à EBTE e incorporação à rede básica (REN 722/2016)",
+   "tema": [
+    "transmissão (instalações de interesse restrito, rede básica)",
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "não conhecido o requerimento (esfera administrativa exaurida), por unanimidade (a legenda da proclamação sai como «conhecer», mas o voto lido foi «não conhecer»)",
+   "resumo_voto": "Relator votou por não conhecer: decisão de segunda instância já exauriu a esfera administrativa (art. 43 da norma de organização, Res. 273/2007); o fato novo (pedido de conexão da mineradora ao barramento de 230 kV) deve ir a processo novo na SRT. Procuradoria: sem ilegalidade, negar provimento ou não conhecer. Sustentação oral da empresa (Alberto da Silva) pedindo a transferência por fato novo.",
+   "sustentacao_oral": [
+    "Alberto da Silva (Energética Águas da Pedra)"
+   ],
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:03:00",
+     "justificativa": "não conhecer: esfera administrativa exaurida; fato novo vai a processo novo na SRT",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:07:29",
+   "processo": "48500.003618/2017-73 (conforme legenda)",
+   "interessado": "ONS, transmissoras e geradoras; SRT, SRG, SFE, SFG",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 45 dias, 26/06 a 09/08/2019) para revisão dos requisitos do regime de operação das instalações de transmissão e geração (teleassistência) nos Procedimentos de Rede (submódulos 2.7, 10.14, 3.2, 15.6 e 15.12), com AIR 3/2019",
+   "tema": [
+    "transmissão (teleassistência, procedimentos de rede)",
+    "regulação normativa (audiência pública, AIR)",
+    "operação do sistema (ONS)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a abertura da audiência pública, por unanimidade",
+   "resumo_voto": "Relator destacou modernização tecnológica e incentivos regulatórios sem impor tecnologia (escolha continua com os agentes); universo de 39 instalações tipo 1, 45 tipo 2 e 65 tipo 3 de mais de 900; 79% das instalações já têm teleassistência. Apresentação técnica de Benedito Cruz Gomes (SRT). Colegas parabenizaram e ressaltaram a segurança operativa e o incentivo à fibra (OPGW).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:30:27",
+     "justificativa": "instaurar a audiência pública com base na AIR 3/2019; liberdade de escolha tecnológica com incentivos regulatórios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:41",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "sem número dito (reajuste Cocel)",
+   "ts": "1:36:16",
+   "processo": "48500.006213/2018-78 (conforme legenda, incerto)",
+   "interessado": "Companhia Campolarguense de Energia (Cocel), Campo Largo/PR, cerca de 50 mil unidades consumidoras",
+   "assunto": "Reajuste tarifário anual de 2019 da Cocel, vigência a partir de 29/06/2019",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste anual, distribuidora)",
+    "comercialização (mudança de suprimento, chamada pública)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -4,56% (alta tensão -0,71%, baixa tensão -6,60%), por troca do suprimento da Copel por chamada pública e cotas (Itaipu, Angra), com novos riscos (hidrológico, SSR); CDE mensal de R$ 511.465,25 a repassar pela CCEE. Relator elogiou a gestão da Cocel; um diretor perguntou à SGT sobre capacitação de permissionárias para análise de risco em mudanças de suprimento.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:53:58",
+     "justificativa": "homologar resultado final das tarifas da Cocel com efeito médio de -4,56%",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:57:47",
+   "processo": "48500.005249/2016-32 (conforme legenda)",
+   "interessado": "CCEE (Câmara de Comercialização de Energia Elétrica)",
+   "assunto": "Requerimento da CCEE de complementação orçamentária e de postergação em seis meses do projeto Cadeia de Sistemas para os leilões do ACR (despacho 2.038/2017)",
+   "tema": [
+    "leilões (ACR, sistemas da CCEE)",
+    "comercialização (CCEE)",
+    "institucional"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar a postergação do prazo e o ressarcimento adicional de R$ 2.920.037,00 por rateio entre agentes dos leilões de energia nova e existente, validar uso da reserva de contingência (R$ 1.608.793,98), reconhecendo inclusive a parcela ligada ao desempenho dos desenvolvedores, que as superintendências recomendavam negar. A data final proclamada na legenda sai como 31/01/2022, mas o voto lido diz 31/01/2020.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:13:00",
+     "justificativa": "aprovar integralmente o requerimento da CCEE, dada a relevância do sistema para a segurança dos leilões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:14:30",
+   "processo": "48500.001106/2014-20 (conforme legenda)",
+   "interessado": "Centrais Elétricas Brasileiras S.A. (Eletrobras), gestora da CCC",
+   "assunto": "Recurso administrativo da Eletrobras contra o Auto de Infração 25/2017 (SFF) por gestão inadequada da Conta de Consumo de Combustíveis Fósseis (CCC), em fiscalização de 2014",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "CDE e encargos setoriais (CCC)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento, com reenquadramento da penalidade e multa elevada, por unanimidade",
+   "resumo_voto": "Relator (que recebeu o processo por redistribuição após o fim do mandato de André Pepitone da Nóbrega) negou provimento, alterou o enquadramento do art. 6º, inc. II, para o art. 7º, inc. XVI da REN 63/2004 e elevou a multa de R$ 25.860.933,12 para R$ 51.721.866,24 (reformatio in pejus, após nova oportunidade de manifestação da Eletrobras, conforme parecer 298/2018 da Procuradoria). A Eletrobras não fez sustentação oral. Um colega comentou que a multa salta aos olhos, mas considerou-a razoável frente aos cerca de R$ 4 bilhões geridos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:50:14",
+     "justificativa": "negar provimento e reenquadrar, com base na Lei 9.784/99 art. 64 e parecer da Procuradoria; multa dobrada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:55:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:55:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:55:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:55:30",
+   "processo": "48500.005394/2018-15 (conforme legenda)",
+   "interessado": "Concessionárias de transmissão; Abrat, Abdib e AES Brasil (contribuições à AP 14/2019)",
+   "assunto": "Resultado da Audiência Pública 14/2019 e revogação da REN 709/2016 (atividades operacionais e holding por concessionárias de transmissão)",
+   "tema": [
+    "transmissão (concessionárias, leilões)",
+    "regulação normativa (revogação, estoque regulatório)",
+    "leilões (competitividade)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (revogação da REN 709/2016)",
+   "resumo_voto": "Segregação de funções já prevista nos manuais contábeis; a norma restringia competitividade nos leilões de transmissão e vinha sendo afastada caso a caso; Abrat e Abdib favoráveis à revogação; revogação reduz estoque regulatório. Um diretor comentou que 7 dos processos da pauta tratam de transmissão.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "3:02:50",
+     "justificativa": "revogar a REN 709/2016 conforme minuta, por competitividade e redundância regulatória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:41",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:03:56",
+   "processo": "48500.002152/2019-51 (conforme legenda)",
+   "interessado": "CCEE e Amazonas Energia S.A.; MP 855/2018 (RGR)",
+   "assunto": "Homologação do termo de compromisso entre CCEE e Amazonas Energia para repasse de recursos da RGR (até R$ 3 bi na MP; cerca de R$ 1,8 bi em 60 parcelas), após caducidade da MP 855/2018",
+   "tema": [
+    "CDE e encargos setoriais (CCC, RGR)",
+    "institucional (medida provisória, segurança jurídica)",
+    "outorgas e transferência de controle (distribuição, Amazonas Energia)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "sem deliberação por falta de maioria qualificada; relator trará o processo em reunião futura com quórum completo",
+   "resumo_voto": "Relator, com parecer 247/2019 da Procuradoria, votou por homologar o termo (situação jurídica constituída na vigência da MP, art. 62 par. 11 da CF), determinar retroatividade da primeira parcela a abril de 2019 e fiscalização pela SFF; no debate concordou em suprimir o inciso 2 (retroatividade). Efrain Cruz divergiu: a cláusula oitava subordina a vigência à homologação, condição suspensiva (CC art. 125), logo não há ato jurídico perfeito antes da perda de eficácia da MP (citou decisões do STF). O Procurador-Geral sustentou o parecer.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova homologação (aceita suprimir o item 2)",
+     "ts": "3:04:19",
+     "justificativa": "homologação como controle de legalidade de ato celebrado na vigência da MP",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "diverge; vota pela improcedência da homologação",
+     "ts": "3:21:41",
+     "justificativa": "cláusula oitava suspende a vigência até a homologação; sem ato jurídico perfeito durante a MP; ato precisaria ser concluído dentro da vigência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (provável)",
+     "ts": "3:33:11",
+     "justificativa": "negócio firmado na vigência da MP, embora sem efeitos antes da homologação",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não esclarecido",
+     "ts": "3:41:50",
+     "justificativa": "comentou a questão da retroatividade e propôs submeter à votação sem o item 2; voto final não identificável",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "7",
+   "observacao": "retirado de pauta (conforme secretário-geral)"
+  },
+  {
+   "id": "13",
+   "observacao": "retirado de pauta (conforme secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem falantes: votos de quem só acompanha vêm da proclamação do presidente, confiança media/baixa.",
+  "Nomes: Rodrigo Limp e Ricardo Tili vêm da legenda («rodrigo limpe/limpo», «ricardo»); Efrain Cruz como «efraim pereira da cruz»; a legenda também chama Efrain de «franco/flamengo».",
+  "Presidente da sessão (Diretor-Geral substituto) inferido como Ricardo Tili; não é dito o nome do titular ausente.",
+  "Item 2: sem maioria qualificada; voto de Ricardo Tili e de Rodrigo Limp não são claros; número de votos fecha em 4 mas a distribuição é incerta.",
+  "Item 14: proclamação na legenda diz «conhecer», contradiz o voto lido «não conhecer»; adotado não conhecer.",
+  "Item 6: data final inconsistente na legenda (2020 no voto, 2022 na proclamação).",
+  "Números de processo vêm da legenda e podem estar errados; item da Cocel sem número dito.",
+  "Itens do bloco não identificados individualmente; parte 2 do vídeo não analisada aqui."
+ ]
+}

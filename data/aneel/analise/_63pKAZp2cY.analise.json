@@ -1,0 +1,247 @@
+{
+ "meta": {
+  "video_id": "_63pKAZp2cY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "6ª Reunião Pública Ordinária de 2022",
+  "data": "2022-02-22",
+  "formato": "presencial (miniauditório da ANEEL) com transmissão no YouTube",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Elisa Bastos (férias)"
+  ],
+  "observacoes": [
+   "Quórum de 4 diretores. Pauta com 46 itens (itens 19 a 46 em bloco); bloco aprovado por unanimidade dos votantes, com exclusão dos itens 10 e 22 do bloco.",
+   "Ordem de julgamento: bloco, depois itens 1, 4, 5, 7 e 16. Deliberados de fato: 7 (negado), 4 (provimento parcial); itens 1 e 5 retirados de pauta pelo relator; item 16 retirado.",
+   "Presidência identificada pela fala de abertura e pelas proclamações (Pepitone); o cabeçalho de falantes inferidos do .md lista Gentil Nogueira, que não aparece na sessão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "Ata",
+   "ts": "0:01:30",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da 5ª Reunião Pública Ordinária (15/02/2022)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada (sem objeção)",
+   "resumo_voto": "Presidente perguntou se todos concordavam e declarou aprovada.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova a ata",
+     "ts": "0:01:40",
+     "justificativa": "proclamou aprovada",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Bloco",
+   "ts": "0:02:40",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Itens 19 a 46 da pauta, votados em bloco (itens 10 e 22 excluídos do bloco)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Presidente submeteu o bloco; cada diretor declarou aprovar; proclamação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:02:49",
+     "justificativa": "submeteu e proclamou unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:02:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:02:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:02:56",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:03:26",
+   "processo": "48500.000562/2029 (número da legenda, incerto)",
+   "interessado": "Absolar e ABSOLAR/ASCATEC (sustentações); usinas solares fotovoltaicas Apodi/Pipa (Apodi Energia SPE) entre as requerentes",
+   "assunto": "Requerimentos administrativos de reconhecimento de restrição de operação por constrained-off em centrais geradoras fotovoltaicas (cerca de 120 pedidos; prazo judicial de 90 dias a partir de 19/01/2022)",
+   "tema": [
+    "comercialização (constrained-off, ressarcimento)",
+    "outorgas de geração (solar fotovoltaica)",
+    "decisão judicial (agravo de instrumento)",
+    "sustentação oral"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator (a pedido de parecer da Procuradoria Federal)",
+   "resumo_voto": "Sustentações orais de Pedro Henrique Maciel Fonseca (Absolar) e de Camila Alves (representante de associação/empresa, grafia incerta) defenderam o direito pela Lei 10.848 e REN 755/2016. Procurador-geral Eduardo Ramalho comentou que a Procuradoria não foi ouvida e o prazo judicial. Sandoval esclareceu o histórico dos pedidos e, por conforto de instrução completa e sem pedido cautelar, retirou o processo para ouvir a Procuradoria Federal; prazo judicial vai até 19/04/2022.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "0:28:38",
+     "justificativa": "prefere instrução completa e parecer da PF; sem perigo da demora, pois eventual direito pode ser contabilizado depois",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:30:10",
+   "processo": "48500.000089/2021",
+   "interessado": "Guaraciaba Transmissora de Energia S.A. (Copel GT 49% e State Grid 51%)",
+   "assunto": "Requerimento de revisão da RAP do contrato de concessão 13/2012 por revogação da alíquota zero de IOF sobre financiamento do BNDES (Decreto 8.511/2015)",
+   "tema": [
+    "transmissão (RAP, reequilíbrio econômico-financeiro)",
+    "IOF/financiamento BNDES",
+    "sustentação oral",
+    "procuradoria"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento; unanimidade dos votantes",
+   "resumo_voto": "Relator negou: contrato de financiamento (20/05/2019) foi assinado após o Decreto (31/08/2015), sem imprevisibilidade; estrutura de capital é risco gerenciável do concessionário; IOF não incide sobre a RAP. Sustentação oral de Yuri (Guaraciaba) pediu o reequilíbrio; Procuradoria citou tese do caso Belo Monte e parecer anterior (no mesmo sentido do voto).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "0:54:52",
+     "justificativa": "contrato de financiamento posterior ao Decreto; escolha gerencial de estrutura de capital; sem desequilíbrio demonstrado; IOF não incide na RAP",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:55:30",
+     "justificativa": "financiamento assinado 4 anos após o decreto; é escolha do concessionário; concorda com o voto",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:58:32",
+     "justificativa": "contratos devem ser respeitados; empresa aceitou condições com o BNDES; cita precedente da concessão Cantareira",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:58:36",
+     "justificativa": "proclamou unanimidade dos votantes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:58:50",
+   "processo": "48500.001002/2021 (número da legenda, incerto)",
+   "interessado": "Enel Distribuição Ceará",
+   "assunto": "Recurso administrativo contra auto de infração 10/2021 (SFE) com multa por níveis críticos de indicadores de continuidade (DEC/FEC) em conjuntos elétricos; voto-vista de André Pepitone",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição (continuidade DEC/FEC)",
+    "recursos administrativos",
+    "voto-vista",
+    "dosimetria (REN 846)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido; provimento parcial; multa reduzida para R$ 26.509.528,72 (0,5% da ROL de jul/2020 a maio/2021); unanimidade dos votantes",
+   "resumo_voto": "Relator havia proposto provimento parcial reduzindo a multa por ajuste de dosimetria (redução da gravidade em vez de atenuante). Pepitone, em vista, concordou com o mérito e com o resultado, mas sugeriu consignar em ata que o art. 24 da REN 846 é exaustivo quanto a atenuantes e que SFE/SFG e SRD aprimorem o procedimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, provimento parcial (voto original em 23/11)",
+     "ts": "0:59:30",
+     "justificativa": "concordou com o mérito da fiscalização; reduz multa a R$ 26,5 milhões",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "1:00:40",
+     "justificativa": "acompanha o resultado; recomenda registro em ata sobre art. 24 da REN 846 e aprimoramento entre fiscalização e regulação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:02:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (já havia votado antes da vista; mantém voto)",
+     "ts": "1:02:58",
+     "justificativa": "mantém o voto original acompanhando o relator",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:03:20",
+   "processo": "48500.000347/2020-08 (número da legenda, incerto)",
+   "interessado": "Energética Suape II S.A.",
+   "assunto": "Recurso contra despacho SRM 146/2020 que negou adequar a alocação da energia da UTE Suape II gerada acima da potência vendida no leilão (aumento de potência após o leilão; garantia física revista em 2016)",
+   "tema": [
+    "comercialização (alocação de energia, garantia física)",
+    "outorgas de geração (termelétrica)",
+    "recursos administrativos",
+    "leilões"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator para analisar manifestação nova da recorrente (reinclusão em reunião futura)",
+   "resumo_voto": "Relator expôs histórico (redistribuição após saída do diretor Rodrigo Limp, parecer da PF de 17/01/2022). Procurador-geral Eduardo Ramalho manifestou-se por conhecer e negar provimento. Sandoval retirou o processo porque a interessada protocolou documento na véspera questionando o parecer.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "1:13:05",
+     "justificativa": "analisar os pontos trazidos pela recorrente sobre o parecer da Procuradoria antes de julgar",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Item 16 (retirado de pauta; a legenda indica pedido de sustentação oral para os itens 16 e 17, incerto)",
+  "Itens 10 e 22 (excluídos do bloco)",
+  "Item 1 (retirado pelo relator Sandoval Feitosa)",
+  "Item 5 (retirado pelo relator Sandoval Feitosa)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processo e valores a confirmar.",
+  "Itens de pauta 2, 3, 6, 8 a 9 etc. citados de forma ininteligível no início (retirados antes da sessão), não identificados.",
+  "Bloco de itens 19 a 46: votos individuais não identificáveis pela legenda (confiança baixa; resultado pela proclamação).",
+  "Item 7: atribuição das falas entre Tili e Hélvio é incerta (confiança baixa); a legenda grafa Hélvio e Tili de forma distorcida (diretor flaring = Tili provável).",
+  "Item 4: o voto-vista de Pepitone foi lido na sessão anterior ou nesta; quem declarou ter votado antes da vista é incerto; ts aproximados.",
+  "Itens 4 e 5: Pepitone presidia e proclama; nº de votos = 4 presentes."
+ ]
+}
