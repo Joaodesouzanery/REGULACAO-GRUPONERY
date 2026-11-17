@@ -1,0 +1,62 @@
+{
+ "meta": {"video_id": "WJc9Wmg_IoA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:40); ts de votos de quem acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "3ª Reunião Pública Ordinária de 2023",
+  "data": "2023-02-07",
+  "formato": "presencial, com a diretora Agnes da Costa por videoconferência",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa"],
+  "ausentes": ["Fernando Mosna"],
+  "observacoes": [
+   "Quórum de quatro diretores; Agnes da Costa participou remotamente. Fernando Mosna ausente, mas o Diretor-Geral registrou sua concordância com o voto do relator no item 1.",
+   "Pauta com 33 itens: 5 a 33 em bloco; item 4 retirado de pauta antes da sessão; itens 1, 2 e 3 com sustentação oral.",
+   "Item 1 (regulamentação da Lei 14.300, MMGD) teve cerca de 22 sustentações orais e ocupou a maior parte da sessão (~0:47 a ~8:25).",
+   "Item 3 (segurança de barragens) retirado de pauta pelo relator Hélvio Guerra após pedidos das associações (Abragel, Apine, Abrage) e do procurador-geral.",
+   "Encerramento por volta das 18h."
+  ]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:45:56", "processo": "itens 5 a 33 (bloco)", "interessado": "diversos", "assunto": "Aprovação em bloco dos itens 5 a 33 da pauta, com retificação material nos parágrafos 16 e 17 do voto do item 16 (operação comercial de todas as unidades geradoras da usina)", "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovados todos os itens do bloco", "resumo_voto": "Todos os diretores presentes aprovaram o bloco; um diretor fez retificação material no item 16.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:46:30", "justificativa": "Proclama a aprovação de todos os itens do bloco.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:46:20", "justificativa": "Me manifesto pela aprovação de todos os itens do bloco.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:46:06", "justificativa": "Aprova todos os itens; atribuição da fala com retificação do item 16 incerta.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:46:25", "justificativa": "Eu também aprovo o bloco.", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:47:27", "processo": "48500.004924/2022-51 (legenda incerta)", "interessado": "consumidores e agentes de micro e minigeração distribuída; INEL (Instituto Nacional de Energia Limpa); ABGD, Absolar, Abrace, Frente Nacional dos Consumidores, Equatorial, Enel, entre outros", "assunto": "Resultado da Consulta Pública 51/2022: aprimoramento dos regulamentos de micro e minigeração distribuída em função da Lei 14.300/2022 e do art. 1º da Lei 14.120/2021; requerimento administrativo com pedido cautelar do INEL", "tema": ["geração distribuída (MMGD)", "regulação normativa (resolução, consulta pública)"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: conhecer e negar provimento ao requerimento do INEL; aprovar resolução homologatória e resolução normativa de adequação à Lei 14.300; determinações à SRD em 180 dias (rastreabilidade de módulos fotovoltaicos, publicidade de entendimentos sobre divisão de centrais geradoras e, por sugestão de Agnes da Costa, avaliar comandos para o art. 28 da Lei 14.300)", "resumo_voto": "Relator leu apenas os acréscimos ao relatório (já lido na reunião anterior); cerca de 22 sustentações orais (entre outros Carlos Evangelista da ABGD, Paulo Pedrosa da Abrace, Beatriz Freire da Frente Nacional dos Consumidores, Bárbara Rubim, Ricardo Brandão, representantes de Equatorial e Enel). Relator acolheu algumas contribuições (ex.: armazenamento, cobrança no grupo B só após instalação de medidor com apuração de demanda) e manteve o restante; acatou sugestão de Agnes da Costa sobre o art. 28.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "8:24:02", "justificativa": "Nega provimento ao requerimento do INEL e aprova as resoluções de adequação à Lei 14.300; acolheu parte das contribuições e a sugestão da diretora Agnes.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "8:24:05", "justificativa": "Eu acompanho brilhante voto do relator (atribuição pela ordem de votação).", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "8:24:05", "justificativa": "Acompanha (pela proclamação de unanimidade); sua sugestão sobre o art. 28 foi incorporada.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "8:24:10", "justificativa": "Eu também acompanho o brilhante voto do eminente relator diretor Hélvio; proclama unanimidade.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "voto deixado (lido por Sandoval Feitosa)", "ts": "8:24:20", "justificativa": "Ausente; o Diretor-Geral registrou sua concordância com o voto do relator, facultada ratificação em 48 horas por causa da complementação de Agnes.", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "8:27:30", "processo": "48500.004390/2022-04 (legenda incerta)", "interessado": "distribuidoras e consumidores (CDE)", "assunto": "Resultado da Consulta Pública 50/2022: alteração dos submódulos 5.2, 7.1, 7.2 e 7.3 do PRORET que regulamentam os aspectos econômicos da Lei 14.300/2022", "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)", "CDE e encargos setoriais"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade, com determinação à SGT para avaliar até o fim do ano a segregação das cotas da CDE nos componentes tarifários (art. 10, §2º, Decreto 9.022/2017)", "resumo_voto": "Relatora propôs alterar os submódulos com vigência a partir da publicação (impacto no orçamento da CDE 2023) e determinar à SGT avaliar segregar as cotas da CDE; o Diretor-Geral sugeriu prazo até o final do ano, incorporado.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "8:27:30", "justificativa": "Alterar os submódulos do PRORET conforme minutas e determinar à SGT avaliar a segregação das cotas da CDE.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "8:49:47", "justificativa": "Acompanho o voto da relatora (pela proclamação de unanimidade; atribuição aproximada).", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "8:49:47", "justificativa": "Acompanho o voto da relatora (pela proclamação de unanimidade; atribuição aproximada).", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "8:49:50", "justificativa": "Sugeriu prazo até o fim do ano para a SGT; declara unanimidade.", "confianca": "alta"}
+   ]},
+  {"id": "3", "ts": "8:51:18", "processo": "48500.002920/2015-42 (legenda incerta)", "interessado": "geradoras hidrelétricas; Abragel (Charles Lenzi, Isabela), Apine, Abrage (Milena Fagundes, Gilberto José)", "assunto": "Resultado da Consulta Pública 82/2021: revisão da REN 696/2015 (critérios e ações de segurança de barragens) em função da Lei 14.066/2020", "tema": ["regulação normativa (resolução, consulta pública)", "fiscalização e sanções (multa)", "outorgas de geração (hidrelétrica)"], "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator", "resumo_voto": "Após sustentações orais das associações pedindo retirada de pauta para análise de parecer jurídico sobre penalidades e regra de transição (pedido reforçado pelo procurador-geral), o relator defendeu multas duras por envolver segurança de vidas (citou Brumadinho), mas retirou o processo de pauta.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "9:41:19", "justificativa": "Considerando essa unanimidade eu vou acompanhar a unanimidade e vou retirar o processo da pauta; ressaltou que multa em segurança de barragens precisa ser muito dura para proteger pessoas.", "tom": "ponderado", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (retirado de pauta)", "ts": "9:41:30", "justificativa": "Registra a retirada; observa que fixação de penalidades por lei/decreto e não por resolução da agência é estranha.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (retirado de pauta)", "ts": "9:41:19", "justificativa": "Item retirado antes da votação.", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "não votou (retirado de pauta)", "ts": "9:41:19", "justificativa": "Item retirado antes da votação.", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [
+  {"id": "4", "motivo": "retirado de pauta antes da sessão (anunciado pela Secretaria-Geral); assunto não lido"},
+  {"id": "3", "motivo": "retirado de pauta pelo relator Hélvio Guerra após sustentações orais"}
+ ],
+ "limites_da_analise": [
+  "Data inferida (pauta publicada na quinta anterior, audiência pública em Cuiabá na quinta 9/2/2023 anunciada como futura); confirmar 07/02/2023.",
+  "Números de processo vindos da legenda automática; podem conter erros.",
+  "Bloco: a fala que aprova e retifica o item 16 não tem falante claro; votos de Hélvio e Ricardo atribuídos pela sequência.",
+  "Itens 1 e 2: falas de 'acompanho' sem nome; atribuição pela ordem usual e pela proclamação de unanimidade.",
+  "Fernando Mosna ausente; concordância com o item 1 registrada pelo Diretor-Geral, com direito de ratificar em 48 h.",
+  "Conteúdo dos itens 5 a 33 do bloco não foi lido na sessão.",
+  "Transcrição longa (~9h40); o conteúdo das sustentações orais do item 1 foi resumido."
+ ]
+}
