@@ -11,17 +11,23 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, 
 for k, u in enumerate(dict.fromkeys(x["url"] for x in L), 1):
     aid = re.sub(r"[^\w-]", "_", u.rstrip("/").split("/")[-1])[:120]
     dest = f"data/auditoria_mandatos/dou/{aid}.txt"
-    if os.path.exists(dest) and os.path.getsize(dest) > 200: continue
+    if os.path.exists(dest) and os.path.getsize(dest) > 400: continue
     r = subprocess.run(["curl", "-sL", "--max-time", "40", "--retry", "3", "-A", UA, u], capture_output=True, text=True)
     h = r.stdout
     m = re.search(r'<div class="texto-dou">(.*?)</div>\s*</div>', h, re.S) or re.search(r'class="texto-dou"[^>]*>(.*?)<div class="(?:informacao|rodape)', h, re.S)
     corpo = m.group(1) if m else ""
     meta = " | ".join(html.unescape(x) for x in re.findall(r'class="(?:publicado-dou-data|secao-dou|edicao-dou-data|orgao-dou-data)"[^>]*>(.*?)<', h))
     txt = html.unescape(re.sub(r"<[^>]+>", " ", corpo)); txt = re.sub(r"[ \t]+", " ", re.sub(r"\n\s*\n+", "\n", txt)).strip()
-    ok = bool(txt)
+    if not txt:  # layout diferente/limite: pega o corpo do artigo e guarda o HTML bruto para conferência
+        m2 = re.search(r'<article[^>]*>(.*?)</article>', h, re.S) or re.search(r'(?:identifica|dou-paragraph)[^>]*>(.*)', h, re.S)
+        txt = html.unescape(re.sub(r"<[^>]+>", " ", m2.group(1))) if m2 else ""
+        txt = re.sub(r"\s+", " ", txt).strip()[:6000]
+        os.makedirs("data/auditoria_mandatos/dou/raw", exist_ok=True); open(f"data/auditoria_mandatos/dou/raw/{aid}.html", "w").write(h)
+        time.sleep(8)
+    ok = len(txt) > 150
     open(dest, "w").write(f"URL: {u}\nCONSULTA: {datetime.datetime.now():%Y-%m-%d %H:%M}\nPUBLICACAO: {meta}\n\n{txt}\n")
     idx[u] = {"arquivo": dest, "status": "ok" if ok else f"sem texto (http? {len(h)} bytes)", "consulta": datetime.date.today().isoformat()}
     print(f"[{k}] {'ok ' if ok else 'ERRO'} {aid}")
     json.dump(idx, open(IDX, "w"), ensure_ascii=False, indent=1)
-    time.sleep(2)
+    time.sleep(5)
 print("pronto:", sum(1 for v in idx.values() if v["status"] == "ok"), "de", len(idx), "atos com texto")
