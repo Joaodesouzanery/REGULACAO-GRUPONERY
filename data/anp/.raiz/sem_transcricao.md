@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **314** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 18; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **302** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 6; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -157,30 +157,18 @@ Total: **314** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2021-06-16 · audiencia · Audiência Pública nº 4/2021 · https://www.youtube.com/watch?v=f0X6dQEBCNo · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-15 · workshop · Seminário Técnico da 17ª Rodada de Licitações de Blocos · https://www.youtube.com/watch?v=Xzd3HILtR74 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-02 · audiencia · Audiência Pública nº 6/2021 - Dia 02 de Junho de 2021 · https://www.youtube.com/watch?v=u1p6brpMayw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-21 · diretoria · Reunião de Diretoria Colegiada nº 1049 - 21 de maio de 2021 · https://www.youtube.com/watch?v=SMmf1CFrvhQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-13 · diretoria · Reunião de Diretoria Colegiada nº 1048 - 13 de maio de 2021 · https://www.youtube.com/watch?v=mMmEgVJZK-g · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-07 · workshop · 3º Workshop sobre o Modelo Conceitual do Mercado de Gás - 07/05/2021 · https://www.youtube.com/watch?v=MTDe9oj9oO0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-06 · diretoria · Reunião de Diretoria Colegiada nº 1047 - 06 de maio de 2021 · https://www.youtube.com/watch?v=77vHdLYEB40 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-05 · audiencia · Audiência Pública nº 3/2021 - Dia 05 de Maio de 2021 · https://www.youtube.com/watch?v=iEAFtGB8K00 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-04 · workshop · Workshop de Conteúdo Local - 04/05 · https://www.youtube.com/watch?v=oV7_xVX0Ysk · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-03 · workshop · Workshop de Conteúdo Local - 03/05 · https://www.youtube.com/watch?v=7kte9XSfhUQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-29 · diretoria · Reunião de Diretoria Colegiada nº 1046 - 29 de abril de 2021 · https://www.youtube.com/watch?v=YKNuQNx0gL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-28 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 28/04 · https://www.youtube.com/watch?v=bB2JSDhkNFw · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-27 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 27/04 · https://www.youtube.com/watch?v=ldq0xRJoMi4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-22 · diretoria · Reunião de Diretoria Colegiada nº 1045 - 22 de abril de 2021 · https://www.youtube.com/watch?v=yBgh2M4PZJA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-15 · diretoria · Reunião de Diretoria Colegiada nº 1044 - 15 de abril de 2021 · https://www.youtube.com/watch?v=nL3Em1uCHio · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-08 · diretoria · Reunião de Diretoria Colegiada nº 1043 - 08 de abril de 2021 · https://www.youtube.com/watch?v=gNXdklmZe5U · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-07 · workshop · Workshop - Cessão de contratos · https://www.youtube.com/watch?v=bztZa7EpQEE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-06 · workshop · Seminário de Avaliação do Mercado de Combustíveis 2021 · https://www.youtube.com/watch?v=Rogr4KB755U · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-31 · audiencia · Audiência Pública nº 01/2021 – dia 31 de março de 2021 · https://www.youtube.com/watch?v=z6XNWJrL2ys · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-26 · audiencia · Audiência Pública nº 02/2021 – dia 26 de março de 2021 · https://www.youtube.com/watch?v=QyfYbDy7niA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-25 · diretoria · Reunião de Diretoria Colegiada nº 1042 - 25 de março de 2021 · https://www.youtube.com/watch?v=MP3y9ug-Otk · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-19 · workshop · Workshop Fiscalização e o Direito do Consumidor no Mercado de Combustíveis · https://www.youtube.com/watch?v=7LoPnbuPSc4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-18 · diretoria · Reunião de Diretoria Colegiada nº 1041 - 18 de março de 2021 · https://www.youtube.com/watch?v=TimR2T-RAao · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-11 · diretoria · Reunião de Diretoria Colegiada nº 1040 - 11 de março de 2021 · https://www.youtube.com/watch?v=SZoz6tng1PE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-04 · diretoria · Reunião de Diretoria Colegiada nº 1039 - 04 de março de 2021 · https://www.youtube.com/watch?v=5DDaB4vKTz0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-03 · audiencia · Audiência Pública ANP n° 19/2020 – dia 03 de março de 2021 · https://www.youtube.com/watch?v=vA8t_pPx-wU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-25 · diretoria · Reunião de Diretoria Colegiada nº 1038 - 25 de fevereiro de 2021 · https://www.youtube.com/watch?v=i_optd_Wl5M · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-23 · workshop · Workshop sobre a Revisão da Resolução Conjunta ANP/Inmetro n° 1/2013 · https://www.youtube.com/watch?v=pLueKv6Ee3A · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-12 · audiencia · Audiência Pública ANP n° 22/2020 – dia 12 de fevereiro de 2021 · https://www.youtube.com/watch?v=AKox7ZWFoQE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-11 · diretoria · Reunião de Diretoria Colegiada nº 1037 - 11 de fevereiro de 2021 · https://www.youtube.com/watch?v=bzwFKhXZkAk · **ainda não baixado (rodar a coleta no Mac)**

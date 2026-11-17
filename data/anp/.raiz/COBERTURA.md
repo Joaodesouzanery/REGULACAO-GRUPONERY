@@ -23,7 +23,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 34 | 34 | 0 |
 | 2022 | audiencia | 25 | 0 | 0 |
 | 2021 | workshop | 20 | 0 | 0 |
-| 2021 | diretoria | 46 | 28 | 0 |
+| 2021 | diretoria | 46 | 40 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
 | 2020 | workshop | 10 | 0 | 0 |
 | 2020 | diretoria | 26 | 0 | 0 |
@@ -171,6 +171,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-06-10 · Reunião de Diretoria Colegiada nº 1051 - 10 de junho de 2021 · `0u56dH7EHN0`
 - 2021-05-27 · Reunião de Diretoria Colegiada nº 1050 - 27 de maio de 2021 · `ZK4oYxuNegM`
 - 2021-05-24 · Reunião de Diretoria Colegiada nº 984 - 11 de julho de 2019 · `_GkEFhtg_mI`
+- 2021-05-21 · Reunião de Diretoria Colegiada nº 1049 - 21 de maio de 2021 · `SMmf1CFrvhQ`
+- 2021-05-13 · Reunião de Diretoria Colegiada nº 1048 - 13 de maio de 2021 · `mMmEgVJZK-g`
+- 2021-05-06 · Reunião de Diretoria Colegiada nº 1047 - 06 de maio de 2021 · `77vHdLYEB40`
+- 2021-04-29 · Reunião de Diretoria Colegiada nº 1046 - 29 de abril de 2021 · `YKNuQNx0gL4`
+- 2021-04-22 · Reunião de Diretoria Colegiada nº 1045 - 22 de abril de 2021 · `yBgh2M4PZJA`
+- 2021-04-15 · Reunião de Diretoria Colegiada nº 1044 - 15 de abril de 2021 · `nL3Em1uCHio`
+- 2021-04-08 · Reunião de Diretoria Colegiada nº 1043 - 08 de abril de 2021 · `gNXdklmZe5U`
+- 2021-03-25 · Reunião de Diretoria Colegiada nº 1042 - 25 de março de 2021 · `MP3y9ug-Otk`
+- 2021-03-18 · Reunião de Diretoria Colegiada nº 1041 - 18 de março de 2021 · `TimR2T-RAao`
+- 2021-03-11 · Reunião de Diretoria Colegiada nº 1040 - 11 de março de 2021 · `SZoz6tng1PE`
+- 2021-03-04 · Reunião de Diretoria Colegiada nº 1039 - 04 de março de 2021 · `5DDaB4vKTz0`
+- 2021-02-25 · Reunião de Diretoria Colegiada nº 1038 - 25 de fevereiro de 2021 · `i_optd_Wl5M`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
