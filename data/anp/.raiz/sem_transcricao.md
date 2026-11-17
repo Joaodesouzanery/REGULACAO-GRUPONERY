@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **218** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 6; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **206** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 9; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -11,27 +11,15 @@ Total: **218** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2026-09-29 · workshop · 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Ga · https://www.youtube.com/watch?v=lClsffpLdMc · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-27 · workshop · 1º Workshop sobre a Revisão da Resolução ANP nº 915/2023 · https://www.youtube.com/watch?v=uF6oFxWoiVs · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-21 · workshop · Workshop Dinamização da Fase de Exploração · https://www.youtube.com/watch?v=lwPUyYOcOG8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-28 · audiencia · Audiência Pública nº 05/2026 · https://www.youtube.com/watch?v=eNPmNXhf8LU · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-27 · workshop · Workshop Novo Modelo de Licitações de E&P da ANP: Parceria com a B3 · https://www.youtube.com/watch?v=aBDtUBdSpgw · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-16 · audiencia · Audiência Pública nº 01/2026 · https://www.youtube.com/watch?v=kRWhLC6aAS8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
-- 2026-03-31 · audiencia · Audiência Pública nº 17/2025 · https://www.youtube.com/watch?v=FjChxu4-g0Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-16 · workshop · 1° Workshop ABPIP + ANP 2026 - Especificações e Qualidade do Gás Natural: entend · https://www.youtube.com/watch?v=KNJSy1RGrkA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-03-10 · workshop · 1º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Ga · https://www.youtube.com/watch?v=Kry65wW7DTM · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-03-03 · audiencia · Audiência Pública nº 16/2025 · https://www.youtube.com/watch?v=Mc-k1i3wMRk · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-22 · audiencia · Audiência Pública nº 15/2025 · https://www.youtube.com/watch?v=Aw45oyuMRHY · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-01-12 · audiencia · Audiência Pública nº 13/2025 · https://www.youtube.com/watch?v=AMwlAKZmjgA · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-12 · workshop · Seminário da Oferta Permanente de Concessão 2025 · https://www.youtube.com/watch?v=pDUgJFHjdfk · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-12-12 · workshop · Open Acreage of Concession Seminar 2025 · https://www.youtube.com/watch?v=6Cp16nqFqYQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-06 · audiencia · Audiência Pública nº 11/2025 · https://www.youtube.com/watch?v=mwSxUo93KFw · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-02 · audiencia · Audiência Pública nº 14/2025 · https://www.youtube.com/watch?v=XWoEwTJIGng · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-28 · workshop · IX Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrestre · https://www.youtube.com/watch?v=vA5ulvQWWzc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-18 · audiencia · Audiência Pública nº 10/2025 · https://www.youtube.com/watch?v=OCyUEgpIS40 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-29 · workshop · Seminário Técnico de Avaliação Geoeconômica "Polígono do Pré-Sal sob a ótica da  · https://www.youtube.com/watch?v=ulQuBmE9_t4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-23 · workshop · 1° Workshop sobre a Revisão da Resolução ANP n° 759/2018 · https://www.youtube.com/watch?v=f9nY2DKu7g8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-16 · audiencia · Audiência Pública nº 05/2025 - 2ª Sessão · https://www.youtube.com/watch?v=L2To8-9z3z0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-15 · audiencia · Audiência Pública nº 06/2025 · https://www.youtube.com/watch?v=LwPTpE_QloQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-09 · audiencia · Audiência Pública nº 09/2025 · https://www.youtube.com/watch?v=88RuoxEMDBw · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-09 · audiencia · Audiência Pública nº 05/2025 - 1ª Sessão  · https://www.youtube.com/watch?v=Vco_RSmeW08 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-02 · audiencia · Audiência Pública nº 02/2025 · https://www.youtube.com/watch?v=XtmLNWPe7y0 · **ainda não baixado (rodar a coleta no Mac)**
