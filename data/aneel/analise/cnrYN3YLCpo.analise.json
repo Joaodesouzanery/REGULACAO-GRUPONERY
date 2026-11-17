@@ -1,0 +1,457 @@
+{
+ "meta": {
+  "video_id": "cnrYN3YLCpo",
+  "fonte": "legenda automática do YouTube; .md sem marcação de falantes por trecho; ts = tempo do vídeo; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "19ª Reunião Pública Ordinária de 2024",
+  "data": "2024-06-04",
+  "formato": "presencial (transmitida no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores; Procurador-Geral Raul Pereira Lisboa; secretário-geral Daniel Dana.",
+   "Pauta com 43 itens; itens 6 a 43 em bloco; destacados 7, 10, 19 e 21; retirados 9, 11, 12, 13, 23 e 32; item 4 retirado a pedido do relator.",
+   "Referências ao fim do mandato do diretor Hélvio Guerra na semana anterior.",
+   "Item 19 (Aurora) teve pedido de vista de Ricardo Tili.",
+   "Encerrada após o item 21 (cerca de 5h14 de vídeo)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:48",
+   "processo": "itens 6 a 43 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da pauta (6 a 43), exceto os destacados 7, 10, 19 e 21 e os retirados 9, 11, 12, 13, 23 e 32",
+   "tema": [
+    "institucional/pauta em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Votos e atos disponibilizados previamente; os quatro diretores aprovam os itens remanescentes do bloco.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:09:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:09:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:09:35",
+   "processo": "48500.005498/2021-25",
+   "interessado": "Energias de Gaspar SPE Ltda. e Rovema Energia S.A. (controladora) — UTE RTG 100201, Gaspar/SC (PCS 2021)",
+   "assunto": "Recurso administrativo contra o Despacho 3.346/2022 da SFG que aplicou multa editalícia (patamar máximo) por descumprimento do cronograma de implantação da UTE RTG 100201 (Procedimento Competitivo Simplificado 2021) e suspensão de 1 ano para licitar/contratar",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos",
+    "PCS 2021"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento; mantida multa e aplicada suspensão temporária de 1 ano a Energias de Gaspar e Rovema",
+   "resumo_voto": "Sustentação oral de André de Sá Braga (Gaspar/Rovema) alegou nulidade absoluta (rescisão motivada pela antieconomicidade apontada pelo TCU, não pela inexecução). Procurador-Geral Raul Lisboa: sem nexo causal, combustível era risco do empreendedor. Relator acrescentou oralmente ao voto: não há nulidade absoluta, não é fato novo (inovação recursal), venire contra factum proprium (empresa participou da solução consensual no TCU); guerra na Ucrânia começou 4 meses depois do certame; sem contrato de gás. Houve atrito sobre a fala do advogado após o voto (relator pediu respeito ao Regimento; DG explicou a prática de debate). DG questionou o critério de 1 ano (térmicas/solares) x 2 anos (eólicas/hidrelétricas) da área técnica (superintendente explicou).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "0:55:55",
+     "justificativa": "sem excludente: não houve implantação nem contrato de gás; dosimetria objetiva e isonômica do edital do PCS; nulidade alegada não procede (inovação recursal, venire contra factum proprium)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:46",
+     "confianca": "baixa",
+     "justificativa": "elogiou o voto e os esclarecimentos sobre a nulidade; considera contraditório o comportamento do agente (fala atribuída por inferência)"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "1:12:20",
+     "confianca": "media",
+     "justificativa": "concorda com a instrução; em caso de contrato de gás descumprido por guerra global teria sensibilidade especial, mas não é o caso"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:13:18",
+   "processo": "48500.005498/2021-25",
+   "interessado": "Energias de Gaspar SPE Ltda. — UTE RTG 100201, Gaspar/SC",
+   "assunto": "Termo de Intimação 25/2022 da SFG: revogação da autorização da UTE RTG 100201 por atraso na implantação",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (térmica)",
+    "PCS 2021"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: revogada a autorização da UTE RTG 100201",
+   "resumo_voto": "Sustentação do item 1 vale para os itens 2 e 3. Cronograma totalmente descumprido, obras paralisadas desde maio/2022, excludente já indeferida em duas instâncias; revogação com base no art. 18, I, da REN 846 e item 16.4 do edital; relator acrescenta ao voto os mesmos argumentos sobre nulidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, vota pela revogação",
+     "ts": "1:27:51",
+     "justificativa": "inviabilidade do empreendimento e descumprimento do cronograma; excludente já negada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "1:28:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:29:21",
+   "processo": "48500.007796/2022-31",
+   "interessado": "Rovema Energia S.A. (UTE RTG 100201, UFV Machadinho, UFV Buritis); CCEE",
+   "assunto": "Pedido de reconsideração contra o Despacho 3.253/2022 que negou impugnação ao desligamento da Rovema da CCEE (reuniões 1273 e 1282 do CAd da CCEE) por inadimplência",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "recursos administrativos",
+    "PCS 2021"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Único argumento (pendência da excludente) perdeu objeto após Despacho 543/2023; procurador acrescentou que reconsideração não tem efeito suspensivo automático. Relator junta argumentos sobre nulidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "1:36:58",
+     "justificativa": "esvaziamento do fundamento; não houve impugnação de irregularidade na decisão da CCEE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "1:39:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:40:01",
+   "processo": "48500.016664/2024-67 e 48500.002429/2023-2x",
+   "interessado": "ABRATE (Associação Brasileira das Empresas de Transmissão de Energia Elétrica); ABDIB citada",
+   "assunto": "Medida cautelar e recurso contra o Despacho 1.709/2023 da STD sobre encargos rescisórios de CUST inadimplidos (corrida do ouro, Lei 14.120) e seu desconto na RAP das transmissoras (ciclo 2024/2025)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos",
+    "regulação normativa (agenda regulatória)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: cautelar extinta por perda de objeto; recurso parcialmente provido — encargos rescisórios só compõem a RAP após análise de máximo esforço de cobrança, a partir do ciclo 2025/2026; STD propõe metodologia (prazo de 150 dias citado); inclusão na agenda regulatória da avaliação do Módulo 5 (ONS como gestor da execução das garantias)",
+   "resumo_voto": "Sustentação de Thiago Aragão Soares e Rafael (ABRATE): inadimplência de R$ 824 mi + 415 mi potenciais, fato do príncipe, pedido de não desconto da PA. Procurador: cláusula penal compensatória, pode ser receita, risco não pode virar risco de mercado. Relator: inadimplência quintuplicou (0,05% para 0,25% da RAP), transmissoras pouco diligentes na cobrança; dar parcial provimento condicionado a máximo esforço. DG: transmissoras têm assento no conselho do ONS e devem cobrar. Mosna: concorda, mas discorda de tratar como receita da transmissora (enriquecimento sem causa). Agnes: solução de meio-termo; propôs dispositivo de agenda regulatória, incorporado pelo relator; DG sugeriu prazo para a metodologia.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:58:15",
+     "justificativa": "risco passou de ordinário a extraordinário, mas transmissoras precisam demonstrar máximo esforço de cobrança antes de compor a RAP",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:04:55",
+     "confianca": "baixa",
+     "justificativa": "solução de meio-termo; propôs incluir na agenda regulatória o ONS como gestor da execução das garantias (incorporado)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:04:55",
+     "confianca": "baixa",
+     "justificativa": "acompanha o encaminhamento, mas registra discordância de classificar encargos rescisórios como receita da transmissora"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "3:05:05",
+     "confianca": "media",
+     "justificativa": "concorda; ressalta papel do conselho do ONS e pediu marco temporal para a metodologia"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:08:43",
+   "processo": "48500.008792/2022-70",
+   "interessado": "Energisa Mato Grosso Distribuidora de Energia S.A. (EMT); AGER-MT",
+   "assunto": "Recurso contra o Despacho 7.660/2022 da AGER-MT que aplicou redutor tarifário na próxima RTP por descumprimento de metas de universalização 2017-2018",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções",
+    "universalização",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento; STR aplica o redutor no próximo processo tarifário",
+   "resumo_voto": "Sustentação de Frederico (Energisa MT): pedia expurgo de 619 pedidos de fim de ano e 190 ligações registradas no ano seguinte e atenuante da REN 950. Relator foi direto ao dispositivo: pontos já avaliados pela AGER e no voto, sem fato novo.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, nega provimento",
+     "ts": "3:20:15",
+     "justificativa": "argumentos já apreciados, sem fato novo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:21:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:21:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "3:21:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "3:21:48",
+   "processo": "48500.000773/2023-86",
+   "interessado": "Equatorial Piauí Distribuidora de Energia S.A.",
+   "assunto": "Recurso contra o Despacho 3.680/2023 da SFT que aplicou redução dos níveis tarifários por descumprimento das metas de universalização 2020-2022 (REH 3003/2021 x REH 3172/2023)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "fiscalização e sanções",
+    "universalização",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento, mantida integralmente a redução tarifária",
+   "resumo_voto": "Sustentação de Larissa Piccolo (Equatorial PI): repactuação/revogação das metas afastaria a sanção (impacto citado ~R$ 68 mi, 5,44% da Parcela B). Procuradoria: metas de 2020-2022 permanecem exigíveis. Relator: resoluções homologatórias com objetos distintos; revogação não elimina metas passadas. Tili levantou dúvida sobre efeito da revogação; Agnes corroborou o relator; DG concordou e compartilhou a preocupação técnica com a prática de revogar.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "3:33:54",
+     "justificativa": "metas de 2020-2022 válidas e exigíveis; REH 3172 trata de 2023-2025",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:24",
+     "confianca": "baixa",
+     "justificativa": "mesmo com revogação expressa faria a mesma leitura: o compromisso fiscalizado não foi cumprido"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator ('fui convencido')",
+     "ts": "3:45:30",
+     "confianca": "media",
+     "justificativa": "tinha dúvida se a revogação da resolução homologatória eliminaria a meta; declarou-se convencido"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "3:45:35",
+     "confianca": "media",
+     "justificativa": "concorda; aplicar resolução superveniente seria retroatividade, embora questione a técnica de revogação"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:46:10",
+   "processo": "48500.003072/2020-56 e outros",
+   "interessado": "Aurora Energias Renováveis 6, 9, 10, 11, 12, 13, 14 e 15 — UFVs Aurora 54 a 70 (Minas Gerais)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.104/2023 que negou alteração dos cronogramas de implantação das UFVs Aurora 54 a 70 (excludente por mora do IPHAN no licenciamento da linha de interesse restrito)",
+   "tema": [
+    "outorgas de geração (solar)",
+    "fiscalização e sanções (excludente de responsabilidade)",
+    "licenciamento ambiental",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista do diretor Ricardo Tili (julgamento suspenso)",
+   "resumo_voto": "Sustentação de Vittor Souza Sampaio (Aurora): IPHAN levou ~335 dias além do prazo de 90 dias; diligências comprovadas. Relatora: rejeita pandemia; reconhece 238 dias de excludente pela mora do IPHAN para UFVs 54 a 63; UFVs 64 a 70 pendentes (processo conexo de desistência da anistia, REN 1065). Mosna questionou nexo causal, caminho crítico e ausência de nota técnica e parecer, mas adiantou concordância. DG: atraso desproporcional (90 x ~400 dias); demais marcos e CUST mantidos. Tili pediu vista para análise da área técnica e da procuradoria.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, dá parcial provimento (238 dias de excludente para UFVs Aurora 54 a 63)",
+     "ts": "4:12:50",
+     "justificativa": "mora desproporcional do IPHAN; nexo de causalidade e linha de interesse restrito no caminho crítico; agente diligente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (antes da vista)",
+     "ts": "4:46:35",
+     "justificativa": "tinha dúvidas sobre caminho crítico e falta de nota técnica/parecer, mas adiantou concordância",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "4:46:40",
+     "justificativa": "dúvida; quer análise da área técnica e da procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "4:46:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "4:46:35",
+   "processo": "48500.001576/2023-84",
+   "interessado": "Tradener Ltda. (comercializadora); CCEE",
+   "assunto": "Pedido de reconsideração contra o Despacho 738/2024 que indeferiu impugnação a penalidades da CCEE por insuficiência de lastro (TNs CCEE 9909/2022 e 9925/2022, 1316ª reunião do CAd), decorrentes da recontabilização do Despacho 3.122/2020",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Sustentação de Flávio (Tradener): multas de cerca de R$ 3 mi, sem nexo causal (descontratação excessiva das distribuidoras e reprocessamento tardio da CCEE). Relator: recontabilização decorreu de pleito da própria Tradener; apuração objetiva; precedente Minerva. DG citou jurisprudência reiterada.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "5:02:01",
+     "justificativa": "argumentos já enfrentados; agente assumiu efeitos do próprio pedido; lastro é pilar do modelo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:13:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:13:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama (unanimidade)",
+     "ts": "5:13:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta a pedido do relator"
+  },
+  {
+   "id": "9",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "11",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "12",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "13",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "23",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "32",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda não identifica quem fala; nas votações há três falas sem nome ('voto com o relator', 'acompanho', 'também acompanho... e proclamo'); atribuição pela ordem usual (demais diretores e o DG por último), confiança baixa para Agnes/Tili/Mosna como seguidores e média para o DG.",
+  "No item 10 a fala 'fui convencido' foi atribuída a Ricardo Tili por ter sido ele quem levantou a dúvida (inferência).",
+  "No item 19, o voto 'com a relatora' antes da vista foi atribuído a Fernando Mosna (havia adiantado concordância); inferência.",
+  "Falas de debate atribuídas por contexto (vocativos 'diretor Ricardo', 'diretor Mosna', 'diretora Agnes'); a fala de elogio no item 1 foi atribuída a Agnes por inferência.",
+  "Números de processos, valores e nomes de advogados (André de Sá Braga, Thiago Aragão Soares, Rafael, Frederico, Larissa Piccolo, Vittor Souza Sampaio, Flávio) vêm da legenda automática e podem estar errados; segundo processo do item 5 incompleto.",
+  "Itens de bloco (6 a 43) não detalhados individualmente."
+ ]
+}

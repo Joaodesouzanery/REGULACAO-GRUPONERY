@@ -2,57 +2,57 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Presidente: vaga desde 04/11/2026 (ex-titular Carlos Baigorri); próximo mandato até 04/11/2031; substitutos Alexandre Freire (presidente) e Nilo Pasquali (conselheiro)",
-   "ato": "Portaria de Pessoal nº 1.048, de 23/10/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado tem só o cabeçalho (142 caracteres); o ato não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-1.048-de-23-de-outubro-de-2026-740384729"
+   "iris": "Presidente vago desde 04/11/2026 (ex-titular Carlos Baigorri; próximo mandato até 04/11/2031); substitutos: Alexandre Freire (presidente substituto) e Nilo Pasquali (conselheiro substituto)",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-1.048-de-23-de-outubro-de-2026-740384729",
+   "ato": "Portaria de Pessoal nº 1.048, de 23/10/2026 (Conselho Diretor da Anatel)",
+   "detalhe": "O ato só convoca Nilo Pasquali como Conselheiro Substituto a partir de 05/11/2026 (o IRIS diz vaga desde 04/11, o que é coerente com o início no dia 5). O ato não trata da vacância da presidência, do fim do mandato de Baigorri, do próximo mandato até 2031 nem de Freire como presidente substituto (isso está na Portaria 1.077, a nota de rodapé).",
+   "trecho": "Art. 1º Convocar Nilo Pasquali para exercer o encargo de Conselheiro Substituto, no Conselho Diretor da Anatel, a partir de 5 de novembro de 2026."
   },
   {
    "linha": "2",
-   "iris": "Alexandre Reis Siqueira Freire, conselheiro (presidente substituto), titular de 08/12/2022 a 04/11/2027",
-   "ato": "Decreto de 29/11/2022",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado tem só o cabeçalho (123 caracteres); o ato não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/decreto-de-29-de-novembro-de-2022-446942644"
+   "iris": "Alexandre Reis Siqueira Freire, Conselheiro (Presidente substituto), 08/12/2022 a 04/11/2027, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-29-de-novembro-de-2022-446942644",
+   "ato": "Decreto de 29/11/2022 (DOU 30/11/2022, edição extra B)",
+   "detalhe": "Nome, cargo de membro do Conselho Diretor e mandato até 04/11/2027 conferem; a vaga é a do término do mandato de Emmanoel Campelo. O início em 08/12/2022 (posse) não está no decreto, que é de 29/11/2022. A função de presidente substituto não está neste ato (vem da Portaria 1.133/2025, ratificada pela 1.077/2026).",
+   "trecho": "ALEXANDRE REIS SIQUEIRA FREIRE, para exercer o cargo de membro do Conselho Diretor da Agência Nacional de Telecomunicações - ANATEL, com mandato até 4 de novembro de 2027, na vaga decorrente do término do mandato de Emmanoel Campelo de Souza Pereira."
   },
   {
    "linha": "3",
-   "iris": "Octavio Penna Pieranti, conselheiro titular de 01/09/2025 a 04/11/2028",
-   "ato": "Decretos de 28/08/2025 (DOU de 29/08/2025, Seção 2)",
-   "trecho": "NOMEAR   OCTAVIO PENNA PIERANTI, para exercer o cargo de membro do Conselho Diretor da Agência Nacional de Telecomunicações - Anatel, na vaga decorrente do término do mandato de Moisés Queiroz Moreira.",
-   "resultado": "confere",
-   "detalhe": "Nome e cargo conferem. O decreto não traz prazo do mandato nem data de posse: o início (01/09/2025) e o fim (04/11/2028) não podem ser checados por este texto. A vaga é a de Moisés Queiroz Moreira.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651712128"
+   "iris": "Octavio Penna Pieranti, Conselheiro, 01/09/2025 a 04/11/2028, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651712128",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025), segundo decreto",
+   "detalhe": "Nome e cargo conferem. O decreto não fixa o prazo do mandato (não há «até 04/11/2028») nem a data de início de 01/09/2025 (posse); diz só que é na vaga do término do mandato de Moisés Queiroz Moreira.",
+   "trecho": "OCTAVIO PENNA PIERANTI, para exercer o cargo de membro do Conselho Diretor da Agência Nacional de Telecomunicações - Anatel, na vaga decorrente do término do mandato de Moisés Queiroz Moreira."
   },
   {
    "linha": "4",
-   "iris": "Edson Victor Eugenio de Holanda, conselheiro titular de 01/09/2025 a 04/11/2029",
-   "ato": "Decretos de 28/08/2025 (DOU de 29/08/2025, Seção 2)",
-   "trecho": "NOMEAR   EDSON VICTOR EUGENIO DE HOLANDA, para exercer o cargo de membro do Conselho Diretor da Agência Nacional de Telecomunicações - Anatel, na vaga decorrente do término do mandato de Artur Coimbra de Oliveira.",
-   "resultado": "confere",
-   "detalhe": "Nome e cargo conferem. O decreto não traz prazo do mandato nem data de posse: o início (01/09/2025) e o fim (04/11/2029) não podem ser checados por este texto. A vaga é a de Artur Coimbra de Oliveira.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651712128"
+   "iris": "Edson Victor Eugenio de Holanda, Conselheiro, 01/09/2025 a 04/11/2029, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651712128",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025), primeiro decreto",
+   "detalhe": "Nome e cargo conferem. O decreto não fixa o prazo do mandato (não há «até 04/11/2029») nem a data de início de 01/09/2025; diz só que é na vaga do término do mandato de Artur Coimbra de Oliveira.",
+   "trecho": "EDSON VICTOR EUGENIO DE HOLANDA, para exercer o cargo de membro do Conselho Diretor da Agência Nacional de Telecomunicações - Anatel, na vaga decorrente do término do mandato de Artur Coimbra de Oliveira."
   },
   {
    "linha": "5",
-   "iris": "5º assento: vaga desde 04/11/2025 (ex-titular Vicente Aquino); próximo mandato até 04/11/2030; substituta Suzana Silva Rodrigues desde 01/09/2026",
-   "ato": "Portaria de Pessoal nº 846, de 31/08/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado tem só o cabeçalho (139 caracteres); o ato não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-846-de-31-de-agosto-de-2026-729346535"
+   "iris": "5º assento vago desde 04/11/2025 (ex-titular Vicente Aquino; próximo mandato até 04/11/2030); substituta Suzana Silva Rodrigues desde 01/09/2026",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-846-de-31-de-agosto-de-2026-729346535",
+   "ato": "Portaria de Pessoal nº 846, de 31/08/2026 (DOU 01/09/2026)",
+   "detalhe": "Confere a convocação de Suzana Silva Rodrigues como Conselheira Substituta a partir de 01/09/2026. O ato não menciona a vaga de Vicente Aquino, a data da vacância (04/11/2025) nem o fim do próximo mandato (2030).",
+   "trecho": "Art. 1º Convocar SUZANA SILVA RODRIGUES para exercer o encargo de Conselheira Substituta, no Conselho Diretor da Anatel, a partir de 1º de setembro de 2026."
   },
   {
-   "linha": "rodapé",
-   "iris": "Nota de rodapé, sem conteúdo do IRIS extraído",
-   "ato": "Portaria de Pessoal nº 1.077, de 29/10/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado tem só o cabeçalho (142 caracteres); o ato não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-1.077-de-29-de-outubro-de-2026-741249639"
+   "linha": "nota de rodapé",
+   "iris": "(nota de rodapé, sem campos no IRIS)",
+   "resultado": "confere",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-1.077-de-29-de-outubro-de-2026-741249639",
+   "ato": "Portaria de Pessoal nº 1.077, de 29/10/2026 (Presidente da Anatel)",
+   "detalhe": "Ratifica Alexandre Freire como Presidente Substituto, interino a partir de 05/11/2026 até a posse de novo Presidente. Isso sustenta o «presidente substituto» das linhas 1 e 2.",
+   "trecho": "Ratificar a designação do Conselheiro ALEXANDRE REIS SIQUEIRA FREIRE como Presidente Substituto, realizada por meio da Portaria de Pessoal nº 1.133, de 28 de outubro de 2025 (SEI nº 14641896), para exercer interinamente as funções presidenciais, a partir de 5 de novembro de 2026, até a investidura de novo Presidente."
   }
  ],
  "ag": "ANATEL"

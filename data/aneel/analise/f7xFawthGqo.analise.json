@@ -1,0 +1,416 @@
+{
+ "meta": {
+  "video_id": "f7xFawthGqo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "21ª Reunião Pública Ordinária de 2024 (Parte 2)",
+  "data": "2024-06-18",
+  "formato": "presencial com participação remota",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 21ª RPO; colegiado com apenas quatro diretores.",
+   "Ricardo Tili presente no início (relator do item 2), depois ausente: deixou votos consignados nos itens 8, 39 e 13; nos itens 10-12 não há menção a voto dele (quórum de três).",
+   "Encerrada às ~4:08:43 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:11",
+   "processo": "48500.004297/2015-62",
+   "interessado": "SPE Cherobim Energia (CPFL Renováveis) — PCH Lúcia Cherobim, Lapa/PR",
+   "assunto": "Recurso contra Despacho 4.244/2023 (SCE) que reconheceu 175 dias de excludente de responsabilidade; pede mais 198 dias pela demora do IAT na ASV durante a pandemia. Sustentação oral de Rodolfo Colin (empresa); Procuradoria (Parecer 50/2024) favorável aos 198 dias.",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos",
+    "excludente de responsabilidade",
+    "licenciamento ambiental"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Agnes da Costa); sem deliberação",
+   "resumo_voto": "Relator conhece e nega provimento: atraso no IAT decorreu de complementações formais, não da vistoria por drone/pandemia; diverge da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "0:25:00",
+     "justificativa": "Não há documento do IAT invalidando a vistoria por drone; demora decorreu de dois pedidos de complementação; instruído o processo em jan/2021, IAT levou 46 dias.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "0:44:33",
+     "justificativa": "Dúvida se a ANEEL estaria entrando no mérito do licenciamento; inclinada a reconhecer excludente parcial do período da pandemia, calculado pela SCE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:44:40",
+     "justificativa": "Fez perguntas sobre licenciamento sucessivo IAT/Ibama; concedeu a vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "0:44:40",
+     "justificativa": "Sem manifestação registrada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:55:25",
+   "processo": "48500.005329/2023-57",
+   "interessado": "Intec Empreendimentos EIRELI (consórcio Gênesis)",
+   "assunto": "Recurso contra Despacho 3.930/2023 (Secretaria de Leilões) que aplicou multa (item 13.3 do edital) e outras penalidades no Leilão de Transmissão 1/2023. Inversão de pauta; sustentação oral de Fernando Marcelo Fernandes; Procuradoria (Parecer 76/2024) pelo não conhecimento.",
+   "tema": [
+    "leilões (transmissão)",
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "não conhecido por intempestividade, por unanimidade",
+   "resumo_voto": "Recurso interposto 133 dias após o prazo; sem nulidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não conhece",
+     "ts": "1:05:00",
+     "justificativa": "Acompanha Procuradoria e área técnica: intempestividade; não identifica nulidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:13:59",
+     "justificativa": "Sem fala própria identificada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:14:01",
+     "justificativa": "Atribuição pela ordem de votação; incerto.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:05",
+     "justificativa": "Criticou a conduta do consórcio no leilão (respostas lacônicas e desrespeitosas), lembrou envio à PF; recurso fora do prazo, sem análise de mérito.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:14:59",
+   "processo": "48500.005926/2023",
+   "interessado": "Copel Distribuição S.A.",
+   "assunto": "Reajuste tarifário anual 2024 da Copel (vigência 24/06/2024), retomado após vista em mesa de Agnes da Costa: efeito médio 0% (+0,05% AT, -0,03% BT), passivo regulatório de R$ 452 milhões, determinação à STR de regulamentar em 180 dias diferimentos (Acórdão TCU 1376/2022, item 9.3) e casos semelhantes só após a regulamentação.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "institucional/TCU"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (solução de consenso)",
+   "resumo_voto": "Relator acatou as sugestões de Agnes (itens F e G do dispositivo) para evitar impasse num colegiado de quatro diretores.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (com ajustes da diretora Agnes)",
+     "ts": "1:20:30",
+     "justificativa": "Acatou as sugestões; registrou discordância do item G (entende que é discricionário analisar caso a caso), mas aceitou pelo bem do colegiado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista incorporado; acompanha o relator",
+     "ts": "1:27:20",
+     "justificativa": "Inclinava-se a homologar o resultado da área técnica; preocupação em abrir precedente de diferimento sem regulamento; propôs consenso para evitar Copel sem tarifa.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:27:25",
+     "justificativa": "Inclinado inicialmente ao voto do relator; contribuiu para o consenso.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclamou)",
+     "ts": "1:27:30",
+     "justificativa": "Defendeu regra prévia para não decidir ad hoc; colegiado com apenas quatro diretores.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:28:15",
+   "processo": "48500.001719/2023-58",
+   "interessado": "Cassilândia Solar Participações S.A. (UFVs Cassilândia 1 a 6)",
+   "assunto": "Recurso contra Despacho 147/2024 (SCE) no mecanismo de anistia da REN 1.065/2023; empresa desistiu da renúncia judicial após o despacho.",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (CUST/EUST)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento por unanimidade; cópia à Corregedoria",
+   "resumo_voto": "Adesão irrevogável; desistência da renúncia fere lealdade processual; envio à Corregedoria para apurar conduta.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "1:59:00",
+     "justificativa": "Concorda com Procuradoria e AGU: conduta oportunista, ato atentatório à dignidade da Justiça; Corregedoria por cautela.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:58",
+     "justificativa": "Elogiou fundamentação; tem caso parecido.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto deixado (lido por Sandoval Feitosa / secretário-geral)",
+     "ts": "2:08:12",
+     "justificativa": "Acompanha o relator, voto consignado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclamou)",
+     "ts": "2:08:20",
+     "justificativa": "Questionou se é ilegalidade ou oportunismo processual; satisfeito com resposta da Procuradoria.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "2:09:01",
+   "processo": "48500.001643/2024-41",
+   "interessado": "Russas Energia Solar SPE Ltda. (UFVs Russas/Moreira 1 a 4)",
+   "assunto": "Medida cautelar para postergar o início dos CUST 11 a 14/2023 para maio/2026. Sustentação oral de William Fontes Mendes.",
+   "tema": [
+    "transmissão (CUST)",
+    "outorgas de geração (solar)",
+    "medida cautelar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "cautelar negada por unanimidade",
+   "resumo_voto": "Sem fumaça do bom direito: decisão de primeira instância (Despacho STD 1.280/2024) e regra do prazo de 31 de março.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega",
+     "ts": "2:20:00",
+     "justificativa": "Regras de transmissão vigentes e conhecidas; segurança jurídica; possível aprimoramento normativo futuro.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:36:38",
+     "justificativa": "A data de março existe por causa do cálculo das receitas das transmissoras.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto deixado (lido por Sandoval Feitosa)",
+     "ts": "2:36:45",
+     "justificativa": "Voto consignado acompanhando.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclamou)",
+     "ts": "2:36:42",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:36:58",
+   "processo": "48500.006531/2022-15",
+   "interessado": "Usina Chavantes S.A. x Amazonas Energia S.A.",
+   "assunto": "Anuência à resolução dos CCSI do lote 2 do Leilão 3/2021 (sistemas isolados: Anamã, Anori, Caapiranga, Codajás, Novo Remanso), julgado em conjunto com itens 11 e 12.",
+   "tema": [
+    "comercialização (contratos, sistemas isolados)",
+    "leilões (geração)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "provido por unanimidade, sem penalidade da cláusula 12ª",
+   "resumo_voto": "Resolução amigável dado que o MME incluiu as localidades no leilão de 2024; não caracterizada inadimplência da Amazonas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto ajustado)",
+     "ts": "3:10:00",
+     "justificativa": "Resolução amigável dos CCSI, multa editalícia de cerca de R$ 6,3 milhões e revogação das outorgas; acatou a suspensão de 1 ano por consenso, embora entendesse ser dupla punição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (novo voto)",
+     "ts": "3:53:44",
+     "justificativa": "Preocupação com Novo Remanso (sem solução se o leilão der vazio); cogitou pedir vista, mas cedeu em prol do consenso; defendeu a suspensão de contratar como moralizante.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "divergência parcial incorporada; acompanha o relator",
+     "ts": "3:53:46",
+     "justificativa": "Propôs suspensão de 1 ano do direito de contratar com a ANEEL para não premiar a ineficiência e evitar que o agente participe do próximo leilão; relator incorporou.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:36:58",
+   "processo": "48500.005248/2021-95",
+   "interessado": "Usina Chavantes S.A.",
+   "assunto": "Termos de intimação 26 a 30/2022 (SFG): revogação das autorizações das UTEs Anamã, Anori, Caapiranga, Codajás e Novo Remanso.",
+   "tema": [
+    "fiscalização e sanções (revogação de outorga)",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "autorizações revogadas por unanimidade",
+   "resumo_voto": "Desatendimento dos cronogramas e inviabilidade da implantação.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto ajustado)",
+     "ts": "3:10:00",
+     "justificativa": "Resolução amigável dos CCSI, multa editalícia de cerca de R$ 6,3 milhões e revogação das outorgas; acatou a suspensão de 1 ano por consenso, embora entendesse ser dupla punição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (novo voto)",
+     "ts": "3:53:44",
+     "justificativa": "Preocupação com Novo Remanso (sem solução se o leilão der vazio); cogitou pedir vista, mas cedeu em prol do consenso; defendeu a suspensão de contratar como moralizante.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "divergência parcial incorporada; acompanha o relator",
+     "ts": "3:53:46",
+     "justificativa": "Propôs suspensão de 1 ano do direito de contratar com a ANEEL para não premiar a ineficiência e evitar que o agente participe do próximo leilão; relator incorporou.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:36:58",
+   "processo": "48500.003283/2023-31",
+   "interessado": "Usina Chavantes S.A.",
+   "assunto": "TIPs 31 a 35/2022 (SFG): descumprimento do cronograma das UTEs; multa editalícia e suspensão de contratar.",
+   "tema": [
+    "fiscalização e sanções (multa editalícia, suspensão)",
+    "leilões (geração)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "multa editalícia de cerca de R$ 6,3 milhões (7% do investimento) e suspensão de 1 ano do direito de contratar ou licitar com a ANEEL (incluída por proposta de Sandoval), por unanimidade",
+   "resumo_voto": "Relator inicialmente afastava a suspensão como atenuante; alterou o voto após divergência de Sandoval apoiada por Agnes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto ajustado)",
+     "ts": "3:10:00",
+     "justificativa": "Resolução amigável dos CCSI, multa editalícia de cerca de R$ 6,3 milhões e revogação das outorgas; acatou a suspensão de 1 ano por consenso, embora entendesse ser dupla punição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (novo voto)",
+     "ts": "3:53:44",
+     "justificativa": "Preocupação com Novo Remanso (sem solução se o leilão der vazio); cogitou pedir vista, mas cedeu em prol do consenso; defendeu a suspensão de contratar como moralizante.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "divergência parcial incorporada; acompanha o relator",
+     "ts": "3:53:46",
+     "justificativa": "Propôs suspensão de 1 ano do direito de contratar com a ANEEL para não premiar a ineficiência e evitar que o agente participe do próximo leilão; relator incorporou.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "3:55:16",
+   "processo": "48500.000169/2024-79",
+   "interessado": "São Francisco Energia S.A. (UTEs Apoena e Guarani, Camaçari/BA)",
+   "assunto": "Medida cautelar para suspender cobrança pelo ONS e transmissoras de encargos rescisórios (cerca de R$ 77 milhões) dos CUST encerrados com o fim antecipado das outorgas em 31/12/2023.",
+   "tema": [
+    "transmissão (CUST/EUST)",
+    "outorgas de geração (térmica)",
+    "medida cautelar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "cautelar concedida por unanimidade",
+   "resumo_voto": "Fumaça do bom direito (exceção do fim da outorga no Módulo 5), perigo da demora e reversibilidade; áreas técnicas devem tratar dos CUST em futuras antecipações de outorga.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, concede",
+     "ts": "4:00:00",
+     "justificativa": "Fim do prazo da outorga foi atingido pela antecipação; risco de agentes anteciparem outorga só para fugir de encargos deve ser combatido.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "justificativa": "Participou remotamente sem câmera; cautela com pedidos cautelares sem pedido principal.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto deixado (lido por Sandoval Feitosa)",
+     "ts": "4:08:00",
+     "justificativa": "Voto consignado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclamou)",
+     "ts": "4:07:55",
+     "justificativa": "Alertou para o uso de cautelares para furar fila nas áreas técnicas.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Itens 10, 11 e 12 julgados em conjunto; Ricardo Tili sem voto registrado neles (ausente, sem voto consignado mencionado): 3 votos para 4 diretores.",
+  "Item 7: ordem de presença no início incerta (Agnes admitiu estar ausente parte do tempo); Tili sem fala.",
+  "Item 18: falas de «acompanho» sem nome; atribuição a Agnes/Tili pela ordem usual, confiança baixa.",
+  "Números de processos e nomes (Cherobim, Russas, Caapiranga) vêm da legenda automática.",
+  "Item 2 é retomada de vista em mesa da Parte 1."
+ ]
+}

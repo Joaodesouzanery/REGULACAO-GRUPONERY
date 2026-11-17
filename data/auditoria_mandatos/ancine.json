@@ -2,39 +2,37 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Diretor-Presidente vago desde 19/10/2026 (ex-titular Alex Braga Muniz); próximo mandato até 19/10/2031; substituta Patrícia Barcelos (interina)",
-   "ato": "Portaria nº 190-E, de 3/11/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo baixado com 131 bytes, sem o conteúdo do ato",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-n-190-e-de-3-de-novembro-de-2026-741916699"
+   "iris": "Diretor-Presidente vago desde 19/10/2026 (ex-titular Alex Braga Muniz); fim do próximo mandato 19/10/2031; substituta Patrícia Barcelos (interina)",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-n-190-e-de-3-de-novembro-de-2026-741916699",
+   "ato": "Portaria nº 190-E, de 3/11/2026 (DOU 05/11/2026, Seção 2)",
+   "detalhe": "O ato é uma nomeação de assessora (Barbara Malta Rabello), não trata da vaga. Só confirma, pela assinatura, que Patrícia Barcelos atua como Diretora-Presidente interina. A data em que a vaga abriu (19/10/2026) é confirmada indiretamente pelo decreto de 21/07/2021 (mandato de Alex Braga Muniz até 19/10/2026). O fim do próximo mandato (2031) não aparece em nenhum dos dois atos.",
+   "trecho": "A DIRETORA-PRESIDENTE INTERINA DA AGÊNCIA NACIONAL DO CINEMA - ANCINE, [...] resolve: Art. 1º Nomear Barbara Malta Rabello [...] PATRICIA BARCELOS"
   },
   {
    "linha": "2",
-   "iris": "Paulo Xavier Alcoforado, Diretor (mandato-tampão), de 31/10/2023 a 24/06/2027",
-   "ato": "Decreto de 30/10/2023",
-   "trecho": "",
+   "iris": "Paulo Xavier Alcoforado, Diretor (mandato-tampão), 31/10/2023 a 24/06/2027",
    "resultado": "sem texto do ato",
-   "detalhe": "Arquivo baixado com 122 bytes, sem o conteúdo do ato",
-   "url": "https://www.in.gov.br/web/dou/-/decreto-de-30-de-outubro-de-2023-519799800"
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-30-de-outubro-de-2023-519799800",
+   "ato": "Decreto de 30/10/2023",
+   "detalhe": "O .txt não tem o corpo do ato. O raw/.html é uma página de erro da Azion (bloqueio da CDN), não a mensagem «Não foi possível encontrar a página solicitada». Por isso não dá para dizer que o link não abre. É preciso baixar de novo."
   },
   {
    "linha": "3",
-   "iris": "Patrícia Barcelos, Diretora (Diretora-Presidente interina), de 05/09/2025 a 30/09/2029",
-   "ato": "Decreto de 1/9/2025",
-   "trecho": "",
+   "iris": "Patrícia Barcelos, Diretora (Diretora-Presidente interina), 05/09/2025 a 30/09/2029",
    "resultado": "sem texto do ato",
-   "detalhe": "Arquivo baixado com 122 bytes, sem o conteúdo do ato",
-   "url": "https://www.in.gov.br/web/dou/-/decreto-de-1-de-setembro-de-2025-652492955"
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-1-de-setembro-de-2025-652492955",
+   "ato": "Decreto de 1/9/2025",
+   "detalhe": "O raw/.html é uma página de erro da Azion, sem texto do ato. É preciso baixar de novo."
   },
   {
    "linha": "4",
-   "iris": "4ª Diretoria vaga desde 14/05/2026 (ex-titular Vinicius Clay); próximo mandato até 14/05/2031; substituto Leandro de Sousa Mendes",
-   "ato": "Decretos de 21/7/2021",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo baixado com 121 bytes, sem o conteúdo do ato",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-21-de-julho-de-2021-333497812"
+   "iris": "4ª Diretoria vaga desde 14/05/2026 (ex-titular Vinicius Clay); fim do próximo mandato 14/05/2031; substituto Leandro de Sousa Mendes",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-21-de-julho-de-2021-333497812",
+   "ato": "Decretos de 21/07/2021 (DOU 22/07/2021, Seção 2)",
+   "detalhe": "O ato confirma que Vinicius Clay Araujo Gomes foi nomeado Diretor com mandato até 14/05/2026, na vaga de Alex Braga Muniz. Isso bate com a vaga desde 14/05/2026. O ato não traz o fim do próximo mandato (2031) nem o substituto Leandro de Sousa Mendes. O mesmo ato traz Alex Braga Muniz como Diretor-Presidente de 20/10/2021 a 19/10/2026, o que confirma a data da vaga da linha 1.",
+   "trecho": "NOMEAR VINICIUS CLAY ARAUJO GOMES, para exercer o cargo de Diretor da Agência Nacional do Cinema - ANCINE, com mandato até 14 de maio de 2026, na vaga decorrente do término do mandato de Alex Braga Muniz."
   }
  ],
  "ag": "ANCINE"

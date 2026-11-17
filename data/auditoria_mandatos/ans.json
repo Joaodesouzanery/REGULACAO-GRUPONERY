@@ -2,57 +2,57 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Wadih Nemer Damous Filho, Diretor-Presidente, titular, 02/09/2025 a 22/12/2029",
-   "ato": "Decretos de 28 de agosto de 2025 (DOU)",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo .txt com 122 caracteres: ato não baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651770818"
+   "iris": "Wadih Nemer Damous Filho, Diretor-Presidente, início 2025-09-02, fim 2029-12-22, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651770818",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025, Seção 2)",
+   "detalhe": "Nome e cargo conferem. O ato não traz a data de fim do mandato (2029-12-22) nem a data de início/posse (2025-09-02). Informa a vaga: término do mandato de Paulo Roberto Vanderlei Rebello Filho.",
+   "trecho": "NOMEAR WADIH NEMER DAMOUS FILHO, para exercer o cargo de Diretor-Presidente da Agência Nacional de Saúde Suplementar - ANS, na vaga decorrente do término do mandato de Paulo Roberto Vanderlei Rebello Filho."
   },
   {
    "linha": "2",
-   "iris": "Lenise Barcellos de Mello Secchin, Diretora (DIPRO), titular, 02/09/2025 a 25/05/2030",
-   "ato": "Decretos de 28 de agosto de 2025 (DOU)",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo .txt com 122 caracteres: ato não baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651770818"
+   "iris": "Lenise Barcellos de Mello Secchin, Diretora (DIPRO), início 2025-09-02, fim 2030-05-25, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651770818",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025, Seção 2)",
+   "detalhe": "Nome e cargo de Diretora conferem. O ato não indica a diretoria (DIPRO), nem fim do mandato (2030-05-25) nem início/posse. Vaga: término do mandato de Alexandre Fioranelli (cujo mandato ia até 25/05/2025 pelo decreto de 2022, coerente com o fim 2030-05-25).",
+   "trecho": "NOMEAR LENISE BARCELLOS DE MELLO SECCHIN, para exercer o cargo de Diretora da Agência Nacional de Saúde Suplementar - ANS, na vaga decorrente do término do mandato de Alexandre Fioranelli."
   },
   {
    "linha": "3",
-   "iris": "DIGES vaga desde 07/09/2025; próximo mandato até 07/09/2030; Carla de Figueiredo Soares como 1ª substituta",
-   "ato": "Portaria de Pessoal ANS nº 249, de 3 de setembro de 2026 (DOU 04/09/2026)",
-   "trecho": "Convocar a servidora CARLA DE FIGUEIREDO SOARES [...] Substituta do Cargo de Diretor - CCE 1.17, na vaga decorrente do término do mandato do Senhor MAURICIO NUNES DA SILVA, ocorrido em 07 de setembro de 2025. Art. 2º Designar a servidora como responsável pela Diretoria de Normas e Habilitação das Operadoras - DIOPE",
+   "iris": "DIGES vaga desde 2025-09-07; próximo mandato até 2030-09-07; substituta Carla de Figueiredo Soares (1ª substituta)",
    "resultado": "diverge",
-   "detalhe": "Data da vaga (07/09/2025) e nome da substituta conferem, mas o ato designa Carla como responsável pela DIOPE, não pela DIGES. O ato não diz «1ª substituta» e nomeia o ex-titular (Mauricio Nunes da Silva), que o IRIS omite. O fim do próximo mandato não consta do ato.",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ans-n-249-de-3-de-setembro-de-2026-730118219"
+   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ans-n-249-de-3-de-setembro-de-2026-730118219",
+   "ato": "Portaria de Pessoal ANS nº 249, de 03/09/2026 (DOU 04/09/2026)",
+   "detalhe": "Data da vaga (07/09/2025) e a substituta Carla conferem; ex-titular é Mauricio Nunes da Silva (IRIS deixa em branco). Diverge na diretoria: o ato designa Carla responsável pela DIOPE, não pela DIGES. Efeitos a contar de 03/09/2026. A condição de 1ª substituta vem do Decreto de 02/09/2026, não deste ato.",
+   "trecho": "Convocar a servidora CARLA DE FIGUEIREDO SOARES ... para exercer o encargo de Substituta do Cargo de Diretor - CCE 1.17, na vaga decorrente do término do mandato do Senhor MAURICIO NUNES DA SILVA, ocorrido em 07 de setembro de 2025. Art. 2º Designar a servidora como responsável pela Diretoria de Normas e Habilitação das Operadoras - DIOPE"
   },
   {
    "linha": "4",
-   "iris": "DIOPE vaga desde 26/08/2026; ex-titular Jorge Aquino Lopes; próximo mandato até 26/08/2031; Carla de Figueiredo Soares interina",
-   "ato": "Decretos de 25 de abril de 2022 (DOU)",
-   "trecho": "JORGE ANTÔNIO AQUINO LOPES, para exercer o cargo de Diretor da Agência Nacional de Saúde Suplementar - ANS, com mandato até 26 de agosto de 2026, na vaga decorrente do término do mandato de Rogério Scarabel Barbosa.",
-   "resultado": "confere",
-   "detalhe": "Ex-titular (Jorge Antônio Aquino Lopes) e fim do mandato (26/08/2026) conferem. O decreto não cita diretoria (DIOPE), substituta nem o próximo mandato. Esses dados não podem ser verificados por este ato.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394914132"
+   "iris": "DIOPE vaga desde 2026-08-26; ex-titular Jorge Aquino Lopes; próximo mandato até 2031-08-26; substituta Carla de Figueiredo Soares (interina)",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394914132",
+   "ato": "Decretos de 25/04/2022 (DOU 25/04/2022, Seção 2 Extra B)",
+   "detalhe": "O ato confirma o mandato de Jorge Antônio Aquino Lopes até 26/08/2026 (logo a vaga a partir dessa data), mas não indica a diretoria (DIOPE), nem a substituta. Na Portaria 249/2026 Carla aparece como «Substituta» responsável pela DIOPE, porém na vaga de Mauricio Nunes da Silva, não como «interina» na vaga de Jorge.",
+   "trecho": "NOMEAR JORGE ANTÔNIO AQUINO LOPES, para exercer o cargo de Diretor da Agência Nacional de Saúde Suplementar - ANS, com mandato até 26 de agosto de 2026, na vaga decorrente do término do mandato de Rogério Scarabel Barbosa."
   },
   {
    "linha": "5",
-   "iris": "DIFIS vaga desde 24/09/2026; ex-titular Eliane Medeiros; próximo mandato até 24/09/2031; Celina Maria Ferro de Oliveira interina",
-   "ato": "Portaria de Pessoal ANS nº 273, de 25 de setembro de 2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo .txt com 145 caracteres, só cabeçalho: ato não baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ans-n-273-de-25-de-setembro-de-2026-734892745"
+   "iris": "DIFIS vaga desde 2026-09-24; ex-titular Eliane Medeiros; próximo mandato até 2031-09-24; substituta Celina Maria Ferro de Oliveira (interina)",
+   "resultado": "confere",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ans-n-273-de-25-de-setembro-de-2026-734892745",
+   "ato": "Portaria de Pessoal ANS nº 273, de 25/09/2026 (DOU 28/09/2026)",
+   "detalhe": "Confere: diretoria DIFIS, ex-titular Eliane Aparecida de Castro Medeiros, término em 24/09/2026, Celina como Interina, efeitos a partir de 25/09/2026. Fim do próximo mandato (2031-09-24) não consta do ato.",
+   "trecho": "Convocar a servidora CELINA MARIA FERRO DE OLIVEIRA ... para exercer o encargo de Interina do Cargo de Diretor - CCE 1.17, na vaga decorrente do término do mandato da Senhora ELIANE APARECIDA DE CASTRO MEDEIROS, ocorrido em 24 de setembro de 2026. Art. 2º Designar a servidora como responsável pela Diretoria de Fiscalização - DIFIS"
   },
   {
-   "linha": "rodapé",
-   "iris": "Nota de rodapé (sem dados estruturados)",
-   "ato": "Decretos de 2 de setembro de 2026 (DOU)",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "Arquivo .txt com 123 caracteres: ato não baixado. A Portaria ANS 249/2026 cita esse decreto como o que aprovou a lista de substituição (DOU nº 167, de 03/09/2026, Seção 2, p. 2).",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-2-de-setembro-de-2026-729917235"
+   "linha": "nota de rodapé",
+   "iris": "(rodapé; sem dados) lista de substituição",
+   "resultado": "confere",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-2-de-setembro-de-2026-729917235",
+   "ato": "Decretos de 02/09/2026 (DOU 03/09/2026, Seção 2)",
+   "detalhe": "Lista de substituição da ANS: Carla de Figueiredo Soares (1ª), Francisco José D'Ângelo Pinto (2º), Celina Maria Ferro de Oliveira (3ª). Coerente com «1ª substituta» atribuída a Carla na linha 3.",
+   "trecho": "DESIGNAR CARLA DE FIGUEIREDO SOARES, servidora da Agência Nacional de Saúde Suplementar - ANS, para compor a lista de substituição da Diretoria Colegiada da referida agência, como primeira substituta."
   }
  ],
  "ag": "ANS"

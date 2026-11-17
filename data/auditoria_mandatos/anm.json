@@ -2,49 +2,57 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Mauro Henrique Moreira Sousa, Diretor-Geral, titular, 05/12/2022 a 04/12/2026",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt tem só o cabeçalho (121 bytes, publicação vazia), então o ato não foi baixado e não há como conferir.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048"
+   "iris": "Mauro Henrique Moreira Sousa, Diretor-Geral, 2022-12-05 a 2026-12-04, titular",
+   "resultado": "confere",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048",
+   "ato": "Decretos de 25/04/2022 (DOU 25/04/2022, Extra B)",
+   "detalhe": "Nome, cargo de Diretor-Geral, início em 5/12/2022 e fim em 4/12/2026 conferem. O ato também diz que é a vaga de Victor Hugo Froner Bicca (o IRIS não informa).",
+   "trecho": "NOMEAR , a partir de 5 de dezembro de 2022, MAURO HENRIQUE MOREIRA SOUSA, para exercer o cargo de Diretor-Geral da Agência Nacional de Mineração - ANM, com mandato até 4 de dezembro de 2026, na vaga decorrente do término do mandato de Victor Hugo Froner Bicca."
   },
   {
    "linha": "2",
-   "iris": "Caio Mário Trivellato Seabra Filho, Diretor (afastado judicialmente desde set/2025), titular, 27/12/2023 a 04/12/2026",
-   "ato": "Decreto de 26/12/2023 (DOU 27/12/2023, Seção 2)",
-   "trecho": "CAIO MÁRIO TRIVELLATO SEABRA FILHO, para exercer o cargo de Diretor da Agência Nacional de Mineração - ANM, com mandato até 4 de dezembro de 2026, na vaga decorrente do término do mandato de Ronaldo Jorge da Silva Lima.",
-   "resultado": "confere",
-   "detalhe": "Nome, cargo e fim do mandato (04/12/2026) conferem. O início de 27/12/2023 que o IRIS dá é a data de publicação; a posse não consta do ato. O ato não diz nada sobre o afastamento judicial de set/2025. A vaga é a de Ronaldo Jorge da Silva Lima.",
-   "url": "https://www.in.gov.br/web/dou/-/decreto-de-26-de-dezembro-de-2023-533498882"
+   "iris": "Caio Mário Trivellato Seabra Filho, Diretor (afastado judicialmente desde set/2025), 2023-12-27 a 2026-12-04, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-26-de-dezembro-de-2023-533498882",
+   "ato": "Decreto de 26/12/2023 (DOU 27/12/2023)",
+   "detalhe": "Nome, cargo, fim em 4/12/2026 e início (data da publicação, 27/12/2023) conferem. O afastamento judicial desde set/2025 não está neste ato. O ato diz que é a vaga de Ronaldo Jorge da Silva Lima.",
+   "trecho": "NOMEAR CAIO MÁRIO TRIVELLATO SEABRA FILHO, para exercer o cargo de Diretor da Agência Nacional de Mineração - ANM, com mandato até 4 de dezembro de 2026, na vaga decorrente do término do mandato de Ronaldo Jorge da Silva Lima."
   },
   {
    "linha": "3",
-   "iris": "José Fernando de Mendonça Gomes Júnior, Diretor, titular, 01/09/2025 a 04/12/2028",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt tem só o cabeçalho (121 bytes), então o ato não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/decreto-de-28-de-agosto-de-2025-651712105"
+   "iris": "José Fernando de Mendonça Gomes Júnior, Diretor, 2025-09-01 a 2028-12-04, titular",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-28-de-agosto-de-2025-651712105",
+   "ato": "Decreto de 28/08/2025 (DOU 29/08/2025)",
+   "detalhe": "Nome e cargo conferem. O ato não diz quando o mandato termina (o IRIS diz 4/12/2028) e não diz a data da posse (o IRIS diz 1/9/2025). O ato diz que é a vaga de Guilherme Santana Lopes Gomes.",
+   "trecho": "NOMEAR JOSÉ FERNANDO DE MENDONÇA GOMES JÚNIOR, para exercer o cargo de Diretor da Agência Nacional de Mineração - ANM, na vaga decorrente do término do mandato de Guilherme Santana Lopes Gomes."
   },
   {
    "linha": "4",
-   "iris": "Diretoria vaga desde 04/12/2025 (ex-titular Roger Romão Cabral); próximo mandato até 04/12/2029; substituto Luiz Paniago Neves",
-   "resultado": "sem texto do ato",
-   "detalhe": "O link aponta para os decretos de 25/04/2022, que não foram baixados (só o cabeçalho). Observação: a designação de Luiz Paniago Neves como primeiro substituto aparece em outro ato, os Decretos de 30/01/2025 (ver linha 5).",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048"
+   "iris": "Vaga desde 2025-12-04 (antes de Roger Romão Cabral), próximo mandato até 2029-12-04, substituto Luiz Paniago Neves",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048",
+   "ato": "Decretos de 25/04/2022 (DOU 25/04/2022, Extra B)",
+   "detalhe": "O ato mostra que o mandato de Roger Romão Cabral terminava em 4/12/2025, o que bate com a vaga desde 4/12/2025. Não estão neste ato: o fim do próximo mandato (2029) e o substituto Luiz Paniago Neves. Paniago aparece como primeiro substituto nos Decretos de 30/01/2025.",
+   "trecho": "NOMEAR ROGER ROMÃO CABRAL, para exercer o cargo de Diretor da Agência Nacional de Mineração - ANM, com mandato até 4 de dezembro de 2025, na vaga decorrente do término do mandato de Debora Toci Puccini."
   },
   {
    "linha": "5",
-   "iris": "Diretoria vaga desde 04/12/2025 (ex-titular Tasso Mendonça Junior); próximo mandato até 04/12/2029; substituto Fábio Fernando Borges",
-   "ato": "Decretos de 30/01/2025 (DOU 31/01/2025, Seção 2)",
-   "trecho": "DESIGNAR FÁBIO FERNANDO BORGES, servidor da Agência Nacional de Mineração - ANM, para compor a lista de substituição da Diretoria Colegiada da referida agência, como terceiro substituto.",
-   "resultado": "confere",
-   "detalhe": "Confere só a parte do substituto: Fábio Fernando Borges está na lista de substituição, como terceiro substituto. O ato não fala da vaga de Tasso Mendonça Junior, da data da vaga (04/12/2025) nem do fim do próximo mandato (04/12/2029), e não liga o substituto a essa cadeira. O mesmo ato designa Luiz Paniago Neves (1º substituto) e Cláudio Roberto Freire (2º substituto) e dispensa Caio Mário Trivellato Seabra Filho como 1º substituto a partir de 27/12/2023.",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-30-de-janeiro-de-2025-610203719"
+   "iris": "Vaga desde 2025-12-04 (antes de Tasso Mendonça Junior), próximo mandato até 2029-12-04, substituto Fábio Fernando Borges",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-30-de-janeiro-de-2025-610203719",
+   "ato": "Decretos de 30/01/2025 (DOU 31/01/2025)",
+   "detalhe": "O ato nomeia Fábio Fernando Borges para a lista de substituição, como terceiro substituto. Na mesma data, Luiz Paniago Neves foi nomeado primeiro substituto e Cláudio Roberto Freire segundo. O ato não fala de Tasso, do fim do mandato dele nem do próximo mandato (2029). O fim em 4/12/2025 está nos Decretos de 25/04/2022 (recondução de Tasso). O ato não liga o substituto a uma vaga específica.",
+   "trecho": "DESIGNAR FÁBIO FERNANDO BORGES, servidor da Agência Nacional de Mineração - ANM, para compor a lista de substituição da Diretoria Colegiada da referida agência, como terceiro substituto."
   },
   {
-   "linha": "rodapé",
-   "iris": "Nota de rodapé (o IRIS não traz conteúdo estruturado)",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt tem só o cabeçalho (98 bytes), então o despacho não foi baixado.",
-   "url": "https://www.in.gov.br/web/dou/-/despacho-723534419"
+   "linha": "nota de rodapé",
+   "iris": "(nota de rodapé, sem dados de linha)",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/despacho-723534419",
+   "ato": "Despacho, Relação nº 82/2026 (DOU 05/08/2026), assinado por Mauro Henrique Moreira Sousa, Diretor-Geral",
+   "detalhe": "O despacho não é um ato de nomeação nem de afastamento. Ele anula o Voto GG/ANM nº 470 porque o diretor Caio estava legalmente impedido (art. 18 da Lei 9.784). Não confirma o afastamento judicial desde set/2025. Mostra que Mauro ainda assinava como Diretor-Geral em ago/2026. O texto da nota do IRIS não está na base, então só deu para conferir em parte.",
+   "trecho": "DECLARAR, DE OFÍCIO, A NULIDADE do Voto GG/ANM nº 470, deliberado na 58ª Reunião Ordinária Pública, em razão do impedimento legal do Diretor Caio Mario Trivellato Seabra Filho, nos termos do art. 18 da Lei nº 9.784, de 1999"
   }
  ],
  "ag": "ANM"

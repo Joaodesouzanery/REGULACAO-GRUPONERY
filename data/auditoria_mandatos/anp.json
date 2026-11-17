@@ -2,48 +2,48 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Artur Watt Neto, Diretor-Geral titular, 29/08/2025 a 22/12/2029",
-   "resultado": "sem texto do ato",
-   "ato": "Decretos de 28 de agosto de 2025",
-   "trecho": "",
-   "detalhe": "arquivo .txt com 122 bytes, só cabeçalho; ato não baixado",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651764125"
+   "iris": "Artur Watt Neto, Diretor-Geral, titular, 29/08/2025 a 22/12/2029",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651764125",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025, Seção 2)",
+   "detalhe": "Nome, cargo (Diretor-Geral) e data conferem (decreto de 28/08, publicado em 29/08/2025). O ato não fixa o fim do mandato (22/12/2029 não está no ato); só diz vaga decorrente do término do mandato de Rodolfo Henrique de Saboia.",
+   "trecho": "NOMEAR ARTUR WATT NETO, para exercer o cargo de Diretor-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP, na vaga decorrente do término do mandato de Rodolfo Henrique de Saboia."
   },
   {
    "linha": "2",
-   "iris": "Pietro Adamo Sampaio Mendes, Diretor titular, 29/08/2025 a 22/12/2028",
-   "resultado": "sem texto do ato",
-   "ato": "Decretos de 28 de agosto de 2025",
-   "trecho": "",
-   "detalhe": "arquivo .txt com 122 bytes; ato não baixado",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651764125"
+   "iris": "Pietro Adamo Sampaio Mendes, Diretor, titular, 29/08/2025 a 22/12/2028",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651764125",
+   "ato": "Decretos de 28/08/2025 (DOU 29/08/2025, Seção 2)",
+   "detalhe": "Nome, cargo e data conferem. O ato não traz o fim do mandato (22/12/2028 não está no ato); vaga decorrente do término do mandato de Cláudio Jorge Martins de Souza (cujo mandato ia até 21/12/2023, conforme decreto de 18/04/2022).",
+   "trecho": "NOMEAR PIETRO ADAMO SAMPAIO MENDES, para exercer o cargo de Diretor da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP, na vaga decorrente do término do mandato de Cláudio Jorge Martins de Souza."
   },
   {
    "linha": "3",
    "iris": "Symone Christine de Santana Araújo, Diretora (recondução), 18/04/2022 a 27/03/2027",
-   "resultado": "sem texto do ato",
-   "ato": "Decretos de 18 de abril de 2022",
-   "trecho": "",
-   "detalhe": "arquivo .txt com 121 bytes; ato não baixado",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-18-de-abril-de-2022-393860187"
+   "resultado": "confere",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-18-de-abril-de-2022-393860187",
+   "ato": "Decretos de 18/04/2022 (DOU 18/04/2022, Seção 2 Extra A)",
+   "detalhe": "Recondução, cargo, data do ato (18/04/2022) e mandato até 27/03/2027 conferem. Grafia no ato: ARAUJO sem acento.",
+   "trecho": "RECONDUZIR SYMONE CHRISTINE DE SANTANA ARAUJO ao cargo de Diretora da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP, com mandato até 27 de março de 2027."
   },
   {
    "linha": "4",
-   "iris": "Diretoria vaga desde 10/10/2026 (ex-titular Daniel Maia Vieira); próximo mandato até 10/10/2031; substituto Julio Cesar Candia Nishida desde 13/10/2026",
-   "resultado": "sem texto do ato",
-   "ato": "Portaria ANP nº 378, de 6 de outubro de 2026",
-   "trecho": "",
-   "detalhe": "arquivo .txt com 132 bytes; ato não baixado",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-anp-n-378-de-6-de-outubro-de-2026-736966171"
+   "iris": "Vaga desde 10/10/2026 (ex-titular Daniel Maia Vieira); substituto Julio Cesar Candia Nishida desde 13/10/2026; próximo mandato até 10/10/2031",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-anp-n-378-de-6-de-outubro-de-2026-736966171",
+   "ato": "Portaria ANP nº 378, de 06/10/2026 (DOU 07/10/2026)",
+   "detalhe": "Substituto e data de início (13/10/2026) conferem; encerramento do mandato em 10/10/2026 confere (e bate com o decreto de 18/04/2022: mandato até 10/10/2026). O fim do próximo mandato (10/10/2031) não está no ato. A portaria grafa o nome invertido: «Daniel Vieira Maia» (o decreto de nomeação diz Daniel Maia Vieira).",
+   "trecho": "Art. 1º Convocar JULIO CESAR CANDIA NISHIDA, matrícula SIAPE nº 20668198, para exercer o encargo de Diretor Substituto, a partir de 13 de outubro de 2026, na vaga decorrente do encerramento do mandato do sr. Daniel Vieira Maia, que ocorrerá em 10 de outubro de 2026."
   },
   {
    "linha": "5",
-   "iris": "Diretoria vaga desde 09/11/2026 (ex-titular Fernando Moura Alves); próximo mandato até 09/11/2031; substituta Amanda Duarte Gondim desde 10/11/2026",
-   "resultado": "sem texto do ato",
-   "ato": "Portaria ANP nº 387, de 4 de novembro de 2026",
-   "trecho": "",
-   "detalhe": "arquivo .txt com 133 bytes; ato não baixado",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-anp-n-387-de-4-de-novembro-de-2026-741870062"
+   "iris": "Vaga desde 09/11/2026 (ex-titular Fernando Moura Alves); substituta Amanda Duarte Gondim desde 10/11/2026; próximo mandato até 09/11/2031",
+   "resultado": "confere em parte",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-anp-n-387-de-4-de-novembro-de-2026-741870062",
+   "ato": "Portaria ANP nº 387, de 04/11/2026 (DOU 05/11/2026)",
+   "detalhe": "Substituta, início em 10/11/2026 e fim do mandato do ex-titular em 09/11/2026 conferem (nome completo no ato: Fernando Wandscheer de Moura Alves; decreto de 18/04/2022 também diz mandato até 9/11/2026). O fim do próximo mandato (09/11/2031) não está no ato.",
+   "trecho": "Art. 1º Convocar AMANDA DUARTE GONDIM, matrícula SIAPE nº 2140818, para exercer o encargo de Diretora Substituta, a partir de 10 de novembro de 2026, na vaga decorrente do encerramento do mandato do sr. Fernando Wandscheer de Moura Alves, que ocorrerá em 09 de novembro de 2026."
   }
  ],
  "ag": "ANP"

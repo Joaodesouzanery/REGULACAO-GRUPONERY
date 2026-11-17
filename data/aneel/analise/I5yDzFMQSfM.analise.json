@@ -1,0 +1,314 @@
+{
+ "meta": {
+  "video_id": "I5yDzFMQSfM",
+  "fonte": "legenda automática YouTube",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "21ª Reunião Pública Ordinária 2024 (Parte 1)",
+  "data": "2024-06-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": "Pauta de 60 itens; itens 14-60 em bloco. Parte 1 (manhã); sessão retomada às 14h30 em outro vídeo (itens 7 a 13, 18 e 39 não constam aqui). Ata da 20ª RPO aprovada; comunicados sobre a campanha de valorização das carreiras."
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:00",
+   "processo": "itens 14 a 60 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Julgamento dos itens de bloco (14 a 60), com destaques dos itens 18 e 39 e ressalvas aos itens 33 e 40",
+   "tema": [
+    "recursos administrativos",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "diversos",
+   "resultado": "Aprovados os itens remanescentes do bloco; item 33 com pedido de vista; um diretor divergiu nos itens 33 (perdas não técnicas, acompanhando o relator do recurso só nos itens 1 e 2) e 40 (indeferir cautelar e enviar à CCEE)",
+   "resumo_voto": "Todos aprovam os remanescentes do bloco. Um diretor não identificado ressalva o item 33 (indefere novo nível regulatório de perdas não técnicas, coerente com seu voto condutor no reajuste da distribuidora) e o item 40 (indefere medida cautelar por ausência de fumaça do bom direito e perigo da demora). Outro diretor não identificado pede vista do item 33. O Diretor-Geral aprova e proclama.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco e proclama",
+     "ts": "0:09:10",
+     "justificativa": "Vota por último e proclama a aprovação do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco (ressalvas dos itens 33/40 ou vista do item 33 sem atribuição segura)",
+     "ts": "0:08:30",
+     "justificativa": "Falantes das ressalvas não identificados pela legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco (ressalvas sem atribuição segura)",
+     "ts": "0:08:50",
+     "justificativa": "Falantes não identificados.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens remanescentes do bloco (ressalvas sem atribuição segura)",
+     "ts": "0:08:50",
+     "justificativa": "Falantes não identificados.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:09:31",
+   "processo": "48500.000591/2023-57",
+   "interessado": "RGE Sul Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2024 da RGE Sul (vigência 19/06/2024), com pedido da distribuidora de prorrogação por até 2 meses devido à calamidade no Rio Grande do Sul",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "Aprovado por unanimidade: prorrogada a vigência das tarifas da REH 3.206/2023 de 19/06 a 18/08/2024",
+   "resumo_voto": "Acatamento parcial do pleito: apenas postergar por 2 meses a vigência das novas tarifas, por precaução e razoabilidade diante da calamidade; pleito de atualização pela Selic do diferimento a ser avaliado depois no comitê de crise.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "0:20:00",
+     "justificativa": "Calamidade no RS; a própria distribuidora pediu a prorrogação; princípios da precaução e razoabilidade; acúmulo de valores a ser tratado no reajuste efetivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:31:44",
+     "justificativa": "Corrigiu durante o debate que se prorroga a tarifa, não um diferimento.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:31:46",
+     "justificativa": "Fala «acompanho» sem nome; atribuição pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:31:48",
+     "justificativa": "Ressaltou que diferimentos sem critério só adiam o problema (apontamento do TCU) e que o tema será rediscutido em até 2 meses.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:32:23",
+   "processo": "48500.000588/2023-45 (número incerto)",
+   "interessado": "Copel Distribuição S.A.",
+   "assunto": "Reajuste tarifário anual 2024 da Copel DIS (vigência 24/06/2024), com proposta do relator de mecanismo de ajuste: componente financeiro positivo de R$ 452 milhões formando ativo regulatório do consumidor (efeito médio 0%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "Pedido de vista em mesa da diretora Agnes da Costa; deliberação suspensa",
+   "resumo_voto": "Relator propõe efeito médio 0% em vez de -3,29%, guardando R$ 452 mi corrigidos pela Selic para atenuar altas previstas em 2025 (~7,5%) e 2026 (revisão, fim dos créditos PIS/Cofins), e determinações à STR sobre gestão tarifária e incorporação anual de investimentos à base. Sustentação técnica pela assessoria (Francisco Faé). Sandoval vê inovação sem previsão contratual; Agnes questiona termo equalização, falta de análise da área técnica e recomendação do TCU (Acórdão 1376/2022); Mosna apoia, sugerindo trocar estabilização por previsibilidade tarifária no item I do §60.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova o reajuste com componente financeiro positivo (ativo regulatório)",
+     "ts": "1:00:00",
+     "justificativa": "Agir com precaução numa janela de reajuste negativo para evitar sobressaltos futuros; nega ser inovação além de olhar o futuro; aceitou ajuste sugerido por Mosna.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "1:31:04",
+     "justificativa": "Quer refletir sobre os dispositivos; lamenta ausência de análise da área técnica; cautela em tratar no caso concreto tema que exigiria norma.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "1:31:04",
+     "justificativa": "No debate, apoiou a proposta como conduta proativa de previsibilidade tarifária.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:31:04",
+     "justificativa": "No debate, apontou que a proposta inova sem previsão no contrato de concessão.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:31:20",
+   "processo": "48500.004294/2022-58 (anunciado também como 48500.004801/2023-34)",
+   "interessado": "Energisa MS, Copel DIS, Light, Cemig",
+   "assunto": "Avaliação dos projetos da 2ª chamada pública de sandboxes tarifários e criação do ambiente regulatório experimental",
+   "tema": [
+    "regulação normativa",
+    "tarifas e revisão tarifária",
+    "inovação (sandbox)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Aprovado por unanimidade: autorizados sandboxes 15 (Energisa MS), 18 (Copel multipartes) e 19 (Copel veículos elétricos); Light não aprovada nesta chamada, facultada nova apresentação após fase de diagnóstico; Cemig não autorizada",
+   "resumo_voto": "Relator diverge da área técnica só quanto à Light: não aprovar de forma condicionada; projeto pode ser reapresentado fora da chamada (REN 966), observado o fim do projeto de governança em nov/2027. Apresentação técnica da superintendente Camila (STR).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:10:00",
+     "justificativa": "Aprovação condicionada da Light seria indesejável; faltam amostra, custos e programa de benefícios.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:22:40",
+     "justificativa": "Pediu esclarecimento sobre o prazo de 5 anos do projeto de governança.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:22:44",
+     "justificativa": "Fala sem nome; atribuição pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:22:46",
+     "justificativa": "Concordou com a visão conservadora sobre a Light; destacou veículos elétricos e transição energética.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:25:10",
+   "processo": "48500.001357/2024-86",
+   "interessado": "EDP Espírito Santo Distribuidora de Energia S.A. (projeto cooperado das distribuidoras)",
+   "assunto": "Realização da edição 2024 da Olimpíada Nacional de Eficiência Energética (ONEE) no âmbito do PEE",
+   "tema": [
+    "eficiência energética",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Aprovado por unanimidade",
+   "resumo_voto": "Aprovada a proposta da EDP ES; orçamento de cerca de R$ 5,4 milhões, estimativa de 191 mil alunos. Apresentação técnica do servidor Douglas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:40:00",
+     "justificativa": "Valor módico para potencial educativo grande; primeira edição formal.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "justificativa": "Elogiou; citou interesse internacional pela Olimpíada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:45:42",
+     "justificativa": "Fala sem nome; atribuição pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:45:45",
+     "justificativa": "Chamou o projeto de transformador.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:46:02",
+   "processo": "48500.000590/2023-61",
+   "interessado": "Goiás Transmissão de Energia S.A. (SE Pirineus; seccionamento LT 345 kV Samambaia-Bandeirantes C2, de Furnas)",
+   "assunto": "Recurso administrativo contra o Despacho 2.348/2023 da STD, que indeferiu a emissão de Termo de Liberação de Receita (TLR) para a SE Pirineus",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "Recurso conhecido e negado por unanimidade",
+   "resumo_voto": "Sustentação oral de Caio Figueiredo Cavalcante (Goiás Transmissão) alegando pendência sistêmica por negativas do ONS. Relatora: o seccionamento era obrigação da própria transmissora (pendência impeditiva própria); intervenção era de implantação, não de integração; risco da obra é da concessionária. Apresentação técnica de Fernando Junqueira (STD).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "3:15:00",
+     "justificativa": "Pendência impeditiva própria; 41 dias de desligamento no fim de ano foi escolha da transmissora; sem nexo de causalidade com o ONS.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "3:20:48",
+     "justificativa": "Fala sem nome; atribuição pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:20:50",
+     "justificativa": "Fala sem nome; atribuição pela ordem.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto deixado (lido por Agnes da Costa)",
+     "ts": "3:20:52",
+     "justificativa": "Sandoval deixou voto acompanhando a relatora.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "27",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "36",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "9",
+   "motivo": "retirado de pauta a pedido do relator"
+  }
+ ],
+ "limites_da_analise": [
+  "Só 1 marcador de tempo no .md; ts obtidos no .json da legenda, aproximados (votos de relator com ts estimado).",
+  "Bloco: autor das ressalvas dos itens 33 e 40 e autor do pedido de vista do item 33 não identificados pela legenda; o Diretor-Geral também citou por engano a «19ª reunião».",
+  "Votos «acompanho» sem nome atribuídos pela ordem usual (confiança baixa).",
+  "Item 2: número do processo dito de forma confusa; item 4: dois números de processo citados (pregão e dispositivo).",
+  "Item 6: Sandoval aparentemente ausente no momento, deixou voto; não está claro quem proclamou.",
+  "Itens 7, 8, 10-13, 18 e 39 previstos para a sessão; não deliberados neste vídeo (Parte 2)."
+ ]
+}

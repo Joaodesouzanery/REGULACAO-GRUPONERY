@@ -2,48 +2,48 @@
  "linhas": [
   {
    "linha": "1",
-   "iris": "Diretor-Presidente vago desde 15/01/2026 (ex-titular Veronica Sánchez); fim do próximo mandato 15/01/2031; substituta interina Cristiane Collet Battiston",
+   "iris": "Diretor-Presidente vago desde 15/01/2026 (ex-titular Veronica Sánchez); próximo mandato até 15/01/2031; Cristiane Collet Battiston interina",
+   "resultado": "link do IRIS não abre",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-ana-n-421-de-10-de-setembro-de-2026-731445049",
    "ato": "Portaria ANA nº 421, de 10/09/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado só tem o cabeçalho (131 caracteres); o índice registra «sem texto»",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-ana-n-421-de-10-de-setembro-de-2026-731445049"
+   "detalhe": "O .txt veio sem corpo. O raw HTML diz «Não foi possível encontrar a página solicitada» e mostra «ERROR 502 Bad Gateway», então a falha pode ser temporária. Vale tentar de novo.",
+   "trecho": ""
   },
   {
    "linha": "2",
-   "iris": "Leonardo Góes Silva, Diretor titular, de 09/09/2025 a 15/01/2029",
+   "iris": "Leonardo Góes Silva, Diretor, início 09/09/2025, fim 15/01/2029, titular",
+   "resultado": "link do IRIS não abre",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613",
    "ato": "Decretos de 28/08/2025",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado só tem o cabeçalho (119 caracteres)",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613"
+   "detalhe": "O .txt veio sem corpo. O raw HTML diz «Não foi possível encontrar a página solicitada» (ERROR 502 Bad Gateway), então a falha pode ser temporária.",
+   "trecho": ""
   },
   {
    "linha": "3",
-   "iris": "Larissa Oliveira Rêgo, Diretora titular, de 01/09/2025 a 17/07/2029",
+   "iris": "Larissa Oliveira Rêgo, Diretora, início 01/09/2025, fim 17/07/2029, titular",
+   "resultado": "link do IRIS não abre",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613",
    "ato": "Decretos de 28/08/2025",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado só tem o cabeçalho (119 caracteres)",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613"
+   "detalhe": "Mesmo ato da linha 2. O raw HTML diz «Não foi possível encontrar a página solicitada» (502).",
+   "trecho": ""
   },
   {
    "linha": "4",
-   "iris": "Cristiane Collet Battiston, Diretora titular (Diretora-Presidente interina), de 02/09/2025 a 15/01/2030",
+   "iris": "Cristiane Collet Battiston, Diretora (Diretora-Presidente interina), início 02/09/2025, fim 15/01/2030, titular",
+   "resultado": "link do IRIS não abre",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613",
    "ato": "Decretos de 28/08/2025",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado só tem o cabeçalho (119 caracteres)",
-   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651727613"
+   "detalhe": "Mesmo ato da linha 2. O raw HTML diz «Não foi possível encontrar a página solicitada» (502).",
+   "trecho": ""
   },
   {
    "linha": "5",
-   "iris": "Diretoria vaga desde 05/07/2026 (ex-titular Ana Carolina Argolo Nascimento de Castro); fim do próximo mandato 05/07/2031; substituta interina Ana Paula Fioreze (de 06/07/2026 a 01/01/2027)",
+   "iris": "Diretoria vaga desde 05/07/2026 (ex-titular Ana Carolina Argolo Nascimento de Castro); próximo mandato até 05/07/2031; Ana Paula Fioreze interina de 06/07/2026 a 01/01/2027",
+   "resultado": "link do IRIS não abre",
+   "url": "https://www.in.gov.br/web/dou/-/portaria-ana-n-270-de-30-de-junho-de-2026-716670286",
    "ato": "Portaria ANA nº 270, de 30/06/2026",
-   "trecho": "",
-   "resultado": "sem texto do ato",
-   "detalhe": "O .txt baixado só tem o cabeçalho (128 caracteres)",
-   "url": "https://www.in.gov.br/web/dou/-/portaria-ana-n-270-de-30-de-junho-de-2026-716670286"
+   "detalhe": "O .txt veio sem corpo. O raw HTML é a página de erro do Azion: «Não foi possível encontrar a página solicitada», ERROR 502 Bad Gateway.",
+   "trecho": ""
   }
  ],
  "ag": "ANA"
