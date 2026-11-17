@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **362** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 20; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **350** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 8; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -111,33 +111,21 @@ Total: **362** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2022-08-19 · audiencia · Audiência Pública nº 14/2022 · https://www.youtube.com/watch?v=5tPZZmLRuHQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-17 · audiencia · Audiência Pública nº 15/2022 · https://www.youtube.com/watch?v=xNUPUygRpcU · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-15 · audiencia · Audiência Pública nº 11/2022 - Segunda Sessão · https://www.youtube.com/watch?v=ZqJK2XxHU3E · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-14 · diretoria · Reunião de Diretoria Colegiada nº 1095 - 14 de julho de 2022 · https://www.youtube.com/watch?v=BdMo7kf33Tg · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-13 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=2iz3SAsVYJc · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=AwHqCQch9ws · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=WexzpV3CL_0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-12 · audiencia · Audiência Pública nº 16/2022 · https://www.youtube.com/watch?v=b0VjxVJ6RTc · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-08 · audiencia · Audiência Pública nº 12/2022 · https://www.youtube.com/watch?v=FHid7xpPZEs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-07 · diretoria · Reunião de Diretoria Colegiada nº 1094 - 07 de julho de 2022 · https://www.youtube.com/watch?v=9eH_kyTDUbM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-06 · audiencia · Audiência Pública nº 11/2022 - Primeira Sessão · https://www.youtube.com/watch?v=s56xy_4nXdQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-30 · diretoria · Reunião de Diretoria Colegiada nº 1093 - 30 de junho de 2022 · https://www.youtube.com/watch?v=SYSQIglktc0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-29 · audiencia · Audiência Pública nº 10/2022 · https://www.youtube.com/watch?v=lJ43Dh2V4zM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-28 · workshop · Seminário para aprimoramento dos instrumentos regulatórios relativos à Participa · https://www.youtube.com/watch?v=aw1YkWQbpbY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-22 · workshop · 2º Seminário Instrumentos de Divulgação de Informações sobre Exploração de Petró · https://www.youtube.com/watch?v=3bXP1Oj3wdg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-15 · diretoria · Reunião de Diretoria Colegiada nº 1092 - 15 de junho  de 2022 · https://www.youtube.com/watch?v=cJ33ETVeZUY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-02 · diretoria · Reunião de Diretoria Colegiada nº 1091 - 02 de junho  de 2022 · https://www.youtube.com/watch?v=qO9P5aFJAho · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-26 · diretoria · Reunião de Diretoria Colegiada nº 1090 - 26 de maio de 2022 · https://www.youtube.com/watch?v=loiuFRTWF94 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-19 · diretoria · Reunião de Diretoria Colegiada nº 1089 - 19 de maio de 2022 · https://www.youtube.com/watch?v=O6LCs9JD9B8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-16 · audiencia · Audiência Pública nº 9/2022 · https://www.youtube.com/watch?v=MgwELeTjRd0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-13 · audiencia · Audiência Pública nº 8/2022 · https://www.youtube.com/watch?v=yJlarY9-EUA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-12 · diretoria · Reunião de Diretoria Colegiada nº 1088 - 12 de maio de 2022 · https://www.youtube.com/watch?v=HIPHOC8xLtg · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-29 · audiencia · Audiência Pública nº 6/2022 · https://www.youtube.com/watch?v=ZasKnFHHQy0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-28 · diretoria · Reunião de Diretoria Colegiada nº 1087 - 28 de abril de 2022 · https://www.youtube.com/watch?v=q4uA95JjH1E · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-14 · diretoria · Reunião de Diretoria Colegiada nº 1086 - 14 de abril de 2022 · https://www.youtube.com/watch?v=RF9J2G1v_Mg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-08 · diretoria · Reunião de Diretoria Colegiada nº 1085 - 8 de abril de 2022 · https://www.youtube.com/watch?v=YKbQF1H8cRM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-08 · audiencia · Audiência Pública nº 4/2022 · https://www.youtube.com/watch?v=4-fXD489oGQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-06 · audiencia · Audiência Pública nº 2/2022 · https://www.youtube.com/watch?v=2l1l8pucHp4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-05 · audiencia · Audiência Pública nº 1/2022 · https://www.youtube.com/watch?v=mEc49-_QEQs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-31 · diretoria · Reunião de Diretoria Colegiada nº 1084 - 31 de março de 2022 · https://www.youtube.com/watch?v=fr5_mAXZihs · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-25 · audiencia · Audiência Pública nº 05/2022 · https://www.youtube.com/watch?v=btKmAraX-6s · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-24 · diretoria · Reunião de Diretoria Colegiada nº 1083 - 24 de março de 2022 · https://www.youtube.com/watch?v=4V3ci7ToFTU · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-23 · audiencia · Audiência Pública nº 03/2022 · https://www.youtube.com/watch?v=GgGoLYvPEUA · **ainda não baixado (rodar a coleta no Mac)**
