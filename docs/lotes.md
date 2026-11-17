@@ -13,3 +13,4 @@ Script do workflow: `docs/lotes/analise-lote-aneel.js`. Fila completa de 16/11: 
 
 - 17/11/2026 · lote 5 concluído (150/150 válidas, 875 itens, 3.650 votos). Lote 6 lançado: run wf_4cf76a3b-7e4, task whq63j35e, 150 reuniões (lista em scratchpad lote6.json; retomar com resumeFromRunId).
 - 17/11/2026 · lote 6 concluído (150/150, 667 itens, 2.801 votos). Lote 7 lançado: run wf_5be5043c-0da, task wgkzm4ao7, 150 das 210 restantes (as 60 finais vão no lote 8).
+- 17/11/2026 · lote 7 (Opus) pausado pelo usuário com ~38 prontas. A partir daqui o padrão é **Sonnet** (model: sonnet no script). Lote 8: run wf_8848ffa5-bec, task w0o2am2q3, 150 reuniões; restam 22 para o lote 9.
