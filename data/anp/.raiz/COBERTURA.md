@@ -26,9 +26,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 46 | 46 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
 | 2020 | workshop | 10 | 0 | 0 |
-| 2020 | diretoria | 26 | 18 | 0 |
+| 2020 | diretoria | 26 | 26 | 0 |
 | 2020 | audiencia | 18 | 0 | 0 |
-| 2019 | diretoria | 42 | 0 | 0 |
+| 2019 | diretoria | 42 | 4 | 0 |
 | 2015 | audiencia | 1 | 0 | 0 |
 | 2013 | audiencia | 1 | 0 | 0 |
 | 2011 | diretoria | 1 | 0 | 0 |
@@ -207,6 +207,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-07-16 · Reunião de Diretoria Colegiada nº 1017 - 16 de Julho de 2020 · `jmgOStFCWTA`
 - 2020-07-02 · Reunião de Diretoria Colegiada nº 1016 - 02 de Julho de 2020 · `g1Id-UgZpSs`
 - 2020-06-18 · Reunião de Diretoria Colegiada nº 1015 - 18 de Junho de 2020 · `k-pYKnuWK4M`
+- 2020-05-28 · Reunião de Diretoria Colegiada nº 1014 - 28 de maio de 2020 · `j4s1JZY-LgU`
+- 2020-05-14 · Reunião de Diretoria Colegiada nº 1013 - 14 de maio de 2020 · `2HBNbKJd8CU`
+- 2020-03-12 · Reunião de Diretoria Colegiada nº 1012 - 12 de março de 2020 · `DyVMgQ6axV0`
+- 2020-03-05 · Reunião de Diretoria Colegiada nº 1011 - 05 de março de 2020 · `VyPg-CpUmac`
+- 2020-02-20 · Reunião de Diretoria Colegiada nº 1010 - 20 de fevereiro de 2020 · `3hn_srQ5KM4`
+- 2020-02-11 · Reunião de Diretoria Colegiada nº 1009 - 11 de fevereiro de 2020 · `DLGv9MQed5M`
+- 2020-01-30 · Reunião de Diretoria Colegiada nº 1008 - 30 de janeiro de 2020 · `9Qe_PkqJDPc`
+- 2020-01-16 · Reunião de Diretoria Colegiada nº 1007 - 16 de janeiro de 2020 · `XXQY7wxNHac`
+- 2019-12-19 · Reunião de Diretoria Colegiada nº 1006 - 19 de dezembro de 2019 · `GFroxcTN6yo`
+- 2019-12-12 · Reunião de Diretoria Colegiada nº 1005 - 12 de dezembro de 2019 · `8kpKKICQT2w`
+- 2019-12-05 · Reunião de Diretoria Colegiada nº 1004 - 05 de dezembro de 2019 · `fc3t-ZV29vo`
+- 2019-11-28 · Reunião de Diretoria Colegiada nº 1003 - 28 de novembro de 2019 · `91LMHVUJrWg`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
