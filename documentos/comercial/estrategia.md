@@ -31,6 +31,14 @@ Documento interno do Grupo Nery (17/11/2026). As bases são `concorrentes.md`, `
 4. **Eventos do setor:** palestras com dados da diretoria.
 5. **Prospecção direta:** cadência de e-mails com a prévia completa.
 
+**Alavancas extras para volume:**
+- **Piloto pago curto** (ver `precos.md`): reduz o risco de decisão do cliente e encurta o ciclo de venda.
+- **Alerta pré-pauta grátis por 1 mês** para quem tem item em pauta: mostra valor no momento em que o assunto é urgente.
+- **Indicação:** 1 mês de desconto para quem indicar um contrato fechado; comissão para escritórios parceiros.
+- **Webinars por setor** (portos, energia, rodovias, mineração) com dados públicos agregados, captando inscritos para a cadência.
+- **Lista das 20 maiores por setor** com prévia completa, renovada a cada trimestre.
+- **Novo produto em estudo:** acompanhamento de obrigações regulatórias da própria empresa (`produto_compliance_regulatorio.md`), que aumenta o ticket por cliente.
+
 **Funil e metas mensais (ponto de partida):**
 
 | Etapa | Meta/mês | Conversão esperada |

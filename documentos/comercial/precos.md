@@ -19,6 +19,12 @@ Documento interno de referência (17/11/2026), em reais. Entregamos **inteligên
 - **Lançamento:** os 2 primeiros clientes recebem o Inteligência pelo preço do Monitor no 1º ano, em troca de um caso anônimo.
 - **Reajuste:** IPCA anual. **Pagamento:** mensal.
 
+### Piloto pago curto (porta de entrada, modelo «bootcamp»)
+- **Duração:** 1 a 2 semanas, com **3 processos reais do cliente** e a diretoria que vai julgá-los.
+- **Entrega:** raio-X dos 3 processos, mapa de votos de cada diretor nos temas deles, precedentes com link no minuto, agenda prevista e uma reunião de devolutiva com a diretoria jurídica/regulatória.
+- **Preço:** R$ 25 mil a R$ 40 mil, **100% abatido** do 1º mês se o contrato anual for assinado em até 30 dias.
+- **Critério de conversão combinado antes:** o cliente diz no início o que precisa ver (por exemplo, «antecipar a pauta», «saber quem relata», «argumentos de cada diretor»). Na devolutiva, conferimos item a item.
+
 ## 2. Produtos avulsos
 | Produto | Unidade | Preço | Prazo |
 |---|---|---|---|

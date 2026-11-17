@@ -1,0 +1,41 @@
+{
+  "meta": {"video_id": "VlmkVTRNpok", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9ª Reunião Pública Ordinária de 2020", "data": "2020-03-24", "formato": "virtual (primeira reunião virtual da diretoria, pandemia de coronavírus)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Sandoval Feitosa", "Efrain Cruz", "Júlio (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": ["Primeira reunião virtual da diretoria da ANEEL; abertura com fala sobre o coronavírus.", "Pauta com 43 processos; retirados os itens 1 a 4; bloco = itens 3 a 43 (conforme o secretário); único destaque: item 8, com sustentação oral por vídeo.", "Diretor substituto Júlio (superintendente da casa) estreia no colegiado.", "Ata da 8ª RPO aprovada.", "Anunciada a 3ª Reunião Pública Extraordinária às 16h sobre medidas do coronavírus (REN 414)."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:06:46", "processo": "itens em bloco (pauta)", "interessado": "diversos",
+      "assunto": "Aprovação em bloco dos itens da pauta sem destaque", "tema": ["regulação normativa", "fiscalização e sanções"],
+      "relator": "diversos", "resultado": "aprovado em bloco",
+      "resumo_voto": "Bloco aprovado; Sandoval Feitosa impedido nos itens 7 e 8 (autos de infração lavrados quando era superintendente da SFE).",
+      "votos": [
+        {"diretor": "Júlio (diretor substituto)", "voto": "aprova o bloco", "ts": "0:07:40", "justificativa": "aprovo bloco", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:07:45", "justificativa": "aprova bloco (diretora não nomeada na fala; atribuição pela ordem)", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco, impedido nos itens 7 e 8", "ts": "0:07:50", "justificativa": "autos de infração lavrados quando era superintendente da SFE", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:08:30", "justificativa": "fala inaudível na legenda; pela proclamação", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:09:15", "justificativa": "vota pela aprovação de todo o bloco e proclama", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:09:42", "processo": "48500.003397/2017-33", "interessado": "CEB Distribuição S.A. (distribuidora)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 15/2018-SFE (multa por classificação incorreta de reclamações como improcedentes; indicadores DER/FER)",
+      "tema": ["fiscalização e sanções", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "conhecido e não provido; mantida a multa reduzida no juízo de reconsideração (de cerca de R$ 156 mil para cerca de R$ 86 mil, Despacho 1.252/2018), por unanimidade dos votantes (Sandoval impedido)",
+      "resumo_voto": "Sustentação oral por vídeo de César Dutra Munhoz (CEB) pedindo conversão em advertência, gravidade zero e reenquadramento. Relatora acompanha SFE e Procuradoria: infração não é de pequeno potencial ofensivo, enquadramento adequado, gravidade de 25% mantida, sanções irrecorríveis contam.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, nega provimento", "ts": "0:26:14", "justificativa": "não se compreende a prática da infração como de pequeno potencial ofensivo; mantém multa do juízo de reconsideração", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:35:20", "justificativa": "também concordo; a superintendência reavaliou na medida do possível a argumentação da CEB (atribuição pela ordem)", "confianca": "baixa"},
+        {"diretor": "Júlio (diretor substituto)", "voto": "acompanha o relator", "ts": "0:35:50", "justificativa": "eu acompanho o voto da diretora relatora", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "suspeito/impedido", "ts": "0:36:06", "justificativa": "foi o superintendente que lavrou o auto de infração", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:36:20", "justificativa": "acompanho o voto da diretora relatora", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["itens/processos 1, 2, 3 e 4 retirados de pauta (conforme o secretário-geral; legenda confusa)"],
+  "limites_da_analise": ["Diretores fora da lista do config (composição de 2020): André Pepitone (DG), Elisa Bastos, Efrain Cruz e o diretor substituto Júlio (sobrenome não captado). Nomes inferidos; legenda automática.", "Abertura fala em quórum de quatro diretores; com Júlio, cinco votos aparecem; votos de Efrain Cruz no bloco e no item 8 atribuídos pela ordem, sem nome na fala.", "Itens do bloco não detalhados individualmente; legenda cita o secretário dizendo que o bloco abrange itens 3 a 43, embora 1 a 4 retirados (inconsistência da legenda).", "Valores da multa aproximados (legenda errou números)."]
+}

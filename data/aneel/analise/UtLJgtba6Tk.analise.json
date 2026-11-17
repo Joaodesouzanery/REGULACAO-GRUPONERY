@@ -1,0 +1,53 @@
+{
+  "meta": {"video_id": "UtLJgtba6Tk", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md não confiáveis para 2020); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "42ª Reunião Pública Ordinária de 2020 (Parte 2, tarde)", "data": "2020-11-10", "formato": "presencial (retomada da RPO presencial após a pandemia)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Cristiano Vieira da Silva (diretor substituto)"],
+    "ausentes": ["Elisa Bastos (não presente; deixou vídeo de homenagem)"],
+    "observacoes": ["Parte 2 (tarde) da 42ª RPO; itens 6 a 9 da pauta.", "Item 7 retirado de pauta.", "Última sessão de Cristiano Vieira da Silva como diretor substituto; homenagem no encerramento; anunciada a posse de Hélvio Guerra em 12/11/2020.", "Itens 6 e 9 unânimes; item 8 foi prorrogação de prazo de vista deferida sem objeção."]
+  },
+  "itens": [
+    {"id": "6", "ts": "0:00:20", "processo": "48500.004786/2020", "interessado": "ANEEL (Diretoria-Geral)",
+     "assunto": "Abertura de audiência pública para colher subsídios à proposta de Agenda Regulatória 2021/2022 (119 atividades, 34 prioritárias); incluída no voto, por ajuste oral, atividade sobre comunicação de ocorrência grave e indisponibilidade prolongada de instalações de transmissão (episódio do Amapá).",
+     "tema": ["regulação normativa (agenda regulatória, audiência pública)", "transmissão"],
+     "relator": "André Pepitone", "resultado": "aprovado por unanimidade: audiência pública em sessão presencial em 19/11/2020",
+     "resumo_voto": "Relator ajusta o voto para incluir na agenda a regulamentação da comunicação de ocorrência grave na transmissão (Amapá) e vota pela audiência pública; Sandoval e Efrain elogiam a agenda como instrumento de previsibilidade.",
+     "votos": [
+      {"diretor": "André Pepitone", "voto": "relator, aprova", "ts": "0:03:18", "justificativa": "Agenda regulatória é boa prática e obrigação legal (Lei 13.848/2019); 690 contribuições na tomada de subsídios 9/2020; inclui tema de ocorrência grave na transmissão após o Amapá.", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:23:08", "justificativa": "Comentou que a agenda permite articulação interinstitucional (EPE, MME, CCEE) e acompanhamento pelo mercado.", "confianca": "media"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:23:08", "justificativa": "Agenda regulatória é o mecanismo mais eficaz de previsibilidade e diálogo com a sociedade.", "confianca": "media"},
+      {"diretor": "Cristiano Vieira da Silva", "voto": "acompanha o relator", "ts": "0:23:08", "justificativa": "«acompanho o relator também» (pela proclamação de unanimidade).", "confianca": "baixa"}
+     ]},
+    {"id": "7", "ts": "0:23:40", "processo": "", "interessado": "", "assunto": "Item 7 retirado de pauta (assunto não lido).", "tema": [], "relator": "não identificado", "resultado": "retirado de pauta", "resumo_voto": "", "votos": []},
+    {"id": "8", "ts": "0:23:45", "processo": "48500.003805/2010 e 48500.006599/2013", "interessado": "Norte Energia S.A. (UHE Belo Monte)",
+     "assunto": "Prorrogação do prazo de pedido de vista sobre pedido de reconsideração da Norte Energia contra o Despacho 3.1067/2018 (segundo termo aditivo ao contrato de concessão 1/2010-MME, UHE Belo Monte).",
+     "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos", "comercialização (GSF)"],
+     "relator": "Sandoval Feitosa", "resultado": "prorrogação da vista por oito sessões deferida sem objeção",
+     "resumo_voto": "Efrain Cruz, autor da vista, pede prorrogação: aguarda o resultado da audiência pública do GSF (relatoria Elisa Bastos) e sinaliza que deve acompanhar o voto do relator Sandoval.",
+     "votos": [
+      {"diretor": "Efrain Cruz", "voto": "pede prorrogação do prazo de vista", "ts": "0:24:30", "justificativa": "Tese divergente perdeu objeto com a solução do GSF (PL 3975); aguarda Elisa fechar a audiência pública e deve acompanhar o relator Sandoval.", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "sem objeção", "ts": "0:25:54", "justificativa": "Sem objeção à prorrogação (pela proclamação).", "confianca": "media"},
+      {"diretor": "Cristiano Vieira da Silva", "voto": "sem objeção", "ts": "0:25:54", "justificativa": "Sem objeção à prorrogação (pela proclamação).", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "sem objeção (defere)", "ts": "0:25:54", "justificativa": "«não havendo objeção [...] deferida a oito sessões».", "confianca": "alta"}
+     ]},
+    {"id": "9", "ts": "0:26:10", "processo": "48500.005356/2020", "interessado": "Ampla Energia e Serviços S.A. (Enel RJ); Furnas Centrais Elétricas",
+     "assunto": "Requerimento administrativo com pedido de medida cautelar da Enel RJ para expurgar dos indicadores DEC/FEC as interrupções de 02/10/2020 causadas por Furnas (SE Rocha Leão). Sustentação oral de Robson Alves (Enel Rio).",
+     "tema": ["distribuição e qualidade (DEC/FEC, expurgo)", "recursos administrativos (cautelar)"],
+     "relator": "Cristiano Vieira da Silva", "resultado": "cautelar indeferida por unanimidade; processo enviado à SRD para mérito em primeira instância",
+     "resumo_voto": "Sem fumus boni iuris: o PRODIST não prevê expurgo de evento externo; exceção à regra só após análise de mérito pela SRD; periculum in mora dispensado.",
+     "votos": [
+      {"diretor": "Cristiano Vieira da Silva", "voto": "relator, aprova (indefere a cautelar)", "ts": "0:38:56", "justificativa": "Regra do PRODIST módulo 8 é clara e não prevê o expurgo pedido; ausente a fumaça do bom direito; mérito cabe à SRD.", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:44:43", "justificativa": "Cautelar não é o instrumento; mérito na área técnica; interrupção já sentida pelos consumidores; regulamento de expurgo em revisão na sua relatoria.", "confianca": "media"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:44:43", "justificativa": "Afastar via cautelar não é o caminho; voto prestigia o consumidor e a qualidade (DEC/FEC).", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:44:50", "justificativa": "Matéria sensível; consumidor deve ser compensado; regulamento próprio em revisão; Brasil precisa evoluir de ~12 h de interrupção média.", "confianca": "alta"}
+     ]}
+  ],
+  "retirados": ["Item 7 (assunto não lido na transcrição)"],
+  "limites_da_analise": [
+    "Diretores de 2020 fora da lista do config (André Pepitone, Efrain Cruz, Cristiano Vieira da Silva substituto, Elisa Bastos) registrados como ditos; rótulos de falantes do .md (Gentil, Hélvio, Tili) não correspondem a 2020 e foram ignorados.",
+    "Números de processo vêm da legenda automática e podem estar errados (item 6 lido como 48500.0047 86/2008 e 47/86 2020; item 9 como 0053 56 2020).",
+    "Votos de seguidores pela ordem e proclamação de unanimidade; falas «acompanho» sem nome; ts aproximados.",
+    "Início do item 9 e ts do item 7/8 estimados; Elisa Bastos considerada ausente (só vídeo gravado)."
+  ]
+}

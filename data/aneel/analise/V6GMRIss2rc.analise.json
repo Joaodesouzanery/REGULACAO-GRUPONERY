@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "V6GMRIss2rc", "fonte": "legenda automática do YouTube; falantes inferidos; trecho curto (só o bloco)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "16", "data": "2018-05-15", "formato": "presencial",
+    "presidente_da_sessao": "Diretor-Geral (nome não dito)",
+    "diretores_presentes": ["Diretor-Geral (não identificado)", "André (diretor, nome como dito)", "terceiro diretor (não identificado)"],
+    "ausentes": [],
+    "observacoes": ["Vídeo cobre só a abertura e a votação em bloco dos itens 18 a 42 (exceto 20, destacado) da 16ª Reunião Pública Ordinária de 2018.", "Quórum mínimo de três diretores; sessão à tarde por causa da sabatina de dois futuros diretores no Senado.", "Itens 10, 11, 12, 13, 14 e 16 retirados de pauta; sustentações orais anunciadas nos itens 5 e 20 (fora deste vídeo).", "Aprovada a ata da 14ª reunião."]
+  },
+  "itens": [
+    {
+      "id": "18-42 (bloco, exceto 20)", "ts": "0:00:00",
+      "processo": "bloco; item 39: 48500.00xx12/95 (número incerto)", "interessado": "diversos; item 39: permissionária (sigla incerta, CMM?)",
+      "assunto": "Votação em bloco dos itens 18 a 42, exceto o 20; retificação no item 39 (regularização da prestação de serviço público por permissionária: ajuste da Parcela B de R$ 20.762.686,93 para R$ 20.864.680,39 na fundamentação)",
+      "tema": ["tarifas e revisão tarifária", "regulação normativa"],
+      "relator": "diversos (item 39: diretor André)",
+      "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Bloco aprovado com a retificação do item 39 explicada pelo diretor André; item 20 destacado.",
+      "votos": [
+        {"diretor": "André (diretor, nome como dito)", "voto": "relator (item 39), aprova o bloco", "ts": "0:00:00", "justificativa": "Ajuste apenas na fundamentação do item 39 (valor da Parcela B), validado pela permissionária.", "confianca": "media"},
+        {"diretor": "Diretor-Geral (não identificado)", "voto": "aprova", "ts": "0:00:00", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "terceiro diretor (não identificado)", "voto": "aprova", "ts": "0:00:00", "justificativa": "também voto pela aprovação do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["10", "11", "12", "13", "14", "16"],
+  "limites_da_analise": ["Reunião de 2018: nenhum diretor da lista do config (2022+) identificado; nomes como ditos ou não identificados (provavelmente André Pepitone; DG à época provavelmente Romeu Rufino — não confirmado).", "Transcrição sem marcadores de tempo internos: todos os ts = 0:00:00 aproximados.", "Número do processo e sigla da permissionária do item 39 incertos (legenda automática).", "Atribuição dos três votos do bloco à ordem de fala é incerta."]
+}

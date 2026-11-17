@@ -1,0 +1,436 @@
+{
+ "meta": {
+  "video_id": "bM5AL4ZTjTI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados a partir de data/transcricoes",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária de 2020",
+  "data": "2020-05-12",
+  "formato": "virtual (videoconferência)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores; sessão virtual pela pandemia; encerrada por volta de 3:45:52 do vídeo.",
+   "Pauta com 31 itens; retirados 2, 12, 19 e 22; sustentação oral nos itens 4 e 7; preferência no item 5.",
+   "Júlio Ferraz caiu da conexão no item da Miracema e votou depois; Sandoval Feitosa caiu no item da ABRADEE.",
+   "Rodrigo Limp citado como ex-diretor exonerado (Secretário de Energia do MME)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:17",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens 6 a 31 (exceto retirados 12, 19 e 22 e destacados 7 e 10), com decisão e atos disponibilizados previamente",
+   "tema": [
+    "institucional/bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade; item 18 com pedido de vista de Sandoval Feitosa",
+   "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; Sandoval Feitosa pede vista do item 18 e aprova os demais.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; pede vista do item 18",
+     "ts": "0:06:47",
+     "justificativa": "Solicita vistas do item 18 do bloco e aprova os itens remanescentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:06:30",
+     "justificativa": "Aprovação do bloco (fala sem nome; pela proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:30",
+     "justificativa": "Aprovação do bloco (fala sem nome; pela proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:30",
+     "justificativa": "Aprovação do bloco (fala sem nome; pela proclamação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:07:30",
+     "justificativa": "Proclama aprovação por unanimidade, considerando a vista do item 18.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:06:47",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 18 do bloco (assunto não lido na sessão)",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista de Sandoval Feitosa",
+   "resumo_voto": "Retirado do bloco por pedido de vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "0:06:47",
+     "justificativa": "Solicita vistas do item 18 do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:07:48",
+   "processo": "48500.004329/2019-53",
+   "interessado": "Miracema Transmissora de Energia Elétrica S.A. (transmissora; LT 500 kV Miracema-Lajeado C2, LT 230 kV Lajeado-Palmas, Tocantins)",
+   "assunto": "Recurso administrativo contra o Despacho SCT 2.900/2019, que negou a antecipação da entrada em operação comercial de parte das instalações do contrato de concessão 17/2016 (Leilão 13/2015, lote P)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento por unanimidade (voto de Júlio Ferraz colhido depois por queda de conexão)",
+   "resumo_voto": "Contrato condicionava antecipação e a parcela de 41,25% da RAP ao atendimento de Palmas pelo circuito 230 kV; a empresa inverteu a sequência priorizando o circuito 2 em 500 kV, que beneficia o gerador de Lajeado mas não a finalidade do contrato; sem compatibilização com a acessante Energisa Tocantins. Processo saiu do bloco por destaque do relator.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:36:30",
+     "justificativa": "Antecipação violaria a 8ª subcláusula da cláusula 5ª e a 10ª da 6ª do contrato 17/2016; finalidade precípua é o atendimento a Palmas; não houve acordo com a Energisa Tocantins.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:37:20",
+     "justificativa": "Cláusulas de antecipação são definidas pela vantajosidade para o sistema e consumidores; deve-se prezar pelo cumprimento das condições contratuais e editalícias (comentário atribuído por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:38:45",
+     "justificativa": "Acompanha o relator (chamada nominal da diretora Elisa).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (voto colhido após reconexão)",
+     "ts": "0:40:53",
+     "justificativa": "Estava com problema de conexão; ao voltar diz acompanhar o voto do diretor-relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:40:28",
+     "justificativa": "Concluiu a votação deixando aberta a manifestação de Júlio Ferraz; proclamou unanimidade dos votantes e depois do colegiado.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:41:19",
+   "processo": "48500.005363/2018 (número incerto na legenda)",
+   "interessado": "ABRADEE (associação de distribuidoras)",
+   "assunto": "Pedido de reconsideração/recurso contra a REH 2.590/2019, que homologou os tempos de consumo diário para faturamento de iluminação pública e vias internas de condomínios (REN 854/2019, art. 24 da REN 414)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e negado provimento por unanimidade dos votantes (Sandoval Feitosa sem conexão)",
+   "resumo_voto": "Sustentação oral da ABRADEE (Marcos Aurélio Madureira da Silva), pedindo ativo financeiro por fato do príncipe. Relatora: risco de alterar o tempo já existia na REN 414; Parcela B não tem neutralidade; desequilíbrio deve ser discutido em processo próprio por distribuidora (RTE); criar ativo em recurso violaria exigência de audiência pública. Procurador Eduardo: parecer 544, conhecimento por aspecto formal e não provimento.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "1:26:14",
+     "justificativa": "Mantém tempos da REH 2.590; frustração de receita não prova desequilíbrio; caminho é processo próprio/RTE; pleito já negado na AP 56 sem fato novo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora",
+     "ts": "1:26:47",
+     "justificativa": "Acompanha o voto da diretora relatora (fala sem nome; atribuição pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "1:26:50",
+     "justificativa": "Também acompanha o voto da diretora relatora (fala sem nome; atribuição pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (queda de conexão)",
+     "ts": "1:27:08",
+     "justificativa": "Fora da sala/caído; mesa registra prerrogativa de votar depois na sessão; não há registro posterior.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:27:15",
+     "justificativa": "Vota com a relatora e proclama decisão unânime dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:28:06",
+   "processo": "48500.002495/2020-59",
+   "interessado": "usuários do sistema de transmissão (geradores e consumidores); ABRAGET; ONS",
+   "assunto": "Impactos da pandemia de Covid-19 no início de execução dos CUST: prorrogação da janela para pedidos de postergação",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "Covid-19",
+    "regulação normativa"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prazo para pedir ao ONS postergação de início de CUST estendido de 31/3 para 29/5/2020; termos aditivos até 8/6/2020; para geradores, efeitos condicionados à alteração da outorga até o 20º dia do mês de início (afasta, nessa condição, o limite do art. 5º §3º da REN 666). Sustentação oral de Henrique (escritório de advocacia) pedindo afastar o art. 5º §3º; relator incorporou complemento da NT 47 da SRT.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova",
+     "ts": "1:42:05",
+     "justificativa": "Medida excepcional pela pandemia; ajusta cronogramas e dá provisionamento mais realista ao ciclo 2020/2021 sem afetar receita das transmissoras.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:47:10",
+     "justificativa": "Em discussão destaca que a medida reduz risco de inadimplência e preserva contratos e arrecadação das transmissoras (fala atribuída por inferência ao Diretor-Geral).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:05",
+     "justificativa": "Mesa refere que a doutora Elisa já fez o voto dela; fala própria não clara.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:05",
+     "justificativa": "Unanimidade proclamada; fala individual não identificada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:47:05",
+     "justificativa": "Acompanha o voto do relator Júlio Ferraz (atribuição incerta).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:48:38",
+   "processo": "48500.002289/2003-21 (número incerto)",
+   "interessado": "Corredeiras Energética S.A. (controladora Brennand Energia); PCH Corredeira, rio Jauru/Juba?, Barra do Bugres-MT",
+   "assunto": "Recurso contra o Despacho SCG 2.422/2018, que tornou disponível o eixo da PCH Corredeira por expiração do DRS-PCH e registrou comportamento para fins de novas outorgas (art. 15 da REN 673)",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido; negado provimento quanto ao item 3 (mantido juízo de reconsideração da SCG que não registra o comportamento) e perda de objeto quanto ao item 1; unanimidade dos votantes",
+   "resumo_voto": "DRS-PCH expira de pleno direito em 3 anos (parecer 276 da Procuradoria); empresa aceita perda do eixo por inviabilidade (lavra de calcário); SCG reconheceu diligência e não registrou comportamento especulativo. Sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece; nega provimento e declara perda de objeto",
+     "ts": "2:09:30",
+     "justificativa": "Preclusão temporal do DRS-PCH; concorda com juízo de reconsideração da SCG quanto ao art. 15.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora",
+     "ts": "2:10:24",
+     "justificativa": "Critica modelo regulatório punitivo para PCH com capital privado e sem leilões; pede revisitar a REN 673; 'não cabe mais aquele conceito de reserva de mercado' (atribuição por inferência: depois citado como diretor Efrain).",
+     "confianca": "media",
+     "tom": "crítico ao modelo regulatório"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "2:21:08",
+     "justificativa": "Associa-se à visão de desburocratizar e quebrar barreiras; revisão da norma (relatoria de Elisa) deve incorporar isso.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora",
+     "ts": "2:20:52",
+     "justificativa": "Fala de acompanhamento sem nome (atribuição incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não identificado",
+     "ts": "2:20:52",
+     "justificativa": "Proclamação fala em unanimidade dos votantes e só três falas de acompanhamento são ouvidas; possível ausência por conexão.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1 (número incerto)",
+   "ts": "2:21:55",
+   "processo": "48500.005211/2019-42",
+   "interessado": "SCT/SEL; Amazonas GT; Eletrobras/Eletronorte (contribuições)",
+   "assunto": "Reabertura (2ª fase) da Consulta Pública 46/2019 sobre o edital do Leilão de Transmissão 1/2020, ampliado para 15 lotes em 11 estados (≈R$ 10,15 bi; 3.690 km de LT)",
+   "tema": [
+    "leilões (geração, transmissão, reserva de capacidade)",
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP por intercâmbio documental de 14/5 a 29/6/2020 (45 dias); leilão suspenso pela Portaria MME 134/2020, atos apenas preparatórios; incluídos compensadores síncronos da UTE Presidente Médici e pleito da Eletronorte sobre habilitação. Apresentação técnica de André Tiburtino (SEL).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:58:29",
+     "justificativa": "Adiantar ritos formais para permitir leilão em dezembro caso o MME decida; ≈22 mil empregos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:03:44",
+     "justificativa": "Destaca investimentos de R$ 10,15 bi e 21,3 mil empregos diretos na retomada econômica.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:34",
+     "justificativa": "Fala de acompanhamento sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:34",
+     "justificativa": "Pela proclamação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:34",
+     "justificativa": "Pela proclamação.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:04:30",
+   "processo": "48500.000028/2020-94; 48500.000088/2020-15; 48500.000969/2020-28",
+   "interessado": "Copel GT, Copel Distribuição, Copel Telecom",
+   "assunto": "Transferência de cabos para-raios OPGW e torres de comunicação da Copel Telecom para Copel DIS/GT, contratos de cessão recíproca de fibras (swap), cessão de espaço em torres e contratos com partes relacionadas (data center/TI e SCM)",
+   "tema": [
+    "distribuição",
+    "transmissão (RAP, outorgas, reforços)",
+    "contratos entre partes relacionadas",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado (anuências concedidas)",
+   "resumo_voto": "Anuência às transferências (como doação, sem efeito tarifário), afastando regra de captura dos submódulos 2.7 e 9.1 do PRORET só para os ativos transferidos; contratos por 20 anos sem renovação automática; anuência prévia a contratos de data center/TI e SCM. Apresentações técnicas da SCT e da SFF.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:42:57",
+     "justificativa": "Afastamento de regras só vale para o período e montantes transferidos; renovação deve seguir regulamento vigente à época.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:44:40",
+     "justificativa": "Parabeniza relator e áreas técnicas pela instrução complexa e célere.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:44:35",
+     "justificativa": "Fala sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:44:35",
+     "justificativa": "Fala sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:44:35",
+     "justificativa": "Só três falas de voto ouvidas além do relator; atribuição incerta.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2"
+  },
+  {
+   "id": "12"
+  },
+  {
+   "id": "19"
+  },
+  {
+   "id": "22"
+  }
+ ],
+ "limites_da_analise": [
+  "Diretores André Pepitone, Elisa Bastos, Efrain Cruz e Júlio César Rezende Ferraz não constam da lista do config da ANEEL (composição atual); nomes registrados como ditos na sessão (2020).",
+  "Numeração dos itens incerta: Miracema provavelmente item 10 (destacado do bloco); item do leilão sem número dito (registrado como 1, incerto).",
+  "Falas de 'acompanho' quase sempre sem nome; atribuições por ordem e chamada da mesa, confiança baixa.",
+  "Item 3 (Corredeira): só três falas de acompanhamento e proclamação 'por unanimidade dos votantes'; não se sabe quem não votou (provavelmente Sandoval, sem conexão).",
+  "Item 5 (Copel): proclamação sem dizer 'unanimidade'; três falas de voto além do relator.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "Item 18 do bloco: assunto não lido."
+ ]
+}

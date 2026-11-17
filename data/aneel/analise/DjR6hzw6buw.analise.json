@@ -1,0 +1,49 @@
+{
+  "meta": {"video_id": "DjR6hzw6buw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Reunião Pública Ordinária de 2022 (parte 2, vespertina)", "data": "2022-03-15", "formato": "presencial (plenário), com participação possivelmente remota no fim",
+    "presidente_da_sessao": "não identificado com segurança (Sandoval Feitosa ou Hélvio Guerra; no fim há menção a 'diretor-geral substituto')",
+    "diretores_presentes": ["Efraim Pereira da Cruz (fora da lista do config)", "Sandoval Feitosa", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Continuação vespertina da 8ª RPO; pela manhã houve reunião extraordinária que aprovou a conta escassez hídrica (empréstimo).", "Dois itens, ambos relatados por Efraim Pereira da Cruz e aprovados sem divergência: RTP 2022 da Light e RTA 2022 da Enel Distribuição Rio.", "Debate central: uso dos créditos de PIS/Cofins (exclusão do ICMS da base) para mitigar tarifas em vez do diferimento/empréstimo da conta escassez hídrica.", "No fim o relator corrigiu o dispositivo do voto da Light (AT 12,89%, BT 15,53%)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:01",
+      "processo": "48500.003571/2021-24 e 48500.004727/2021-94 (números da legenda, incertos)",
+      "interessado": "Light Serviços de Eletricidade S.A. (distribuidora, RJ); sustentações orais de Emerson (Light) e José Alves (Furnas)",
+      "assunto": "Resultado da revisão tarifária periódica 2022 da Light, vigência 15/03/2022, e limites de DEC/FEC 2023-2027, após Consulta Pública 77/2021",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "créditos PIS/Cofins", "perdas não técnicas", "qualidade (DEC/FEC)", "conta escassez hídrica"],
+      "relator": "Efraim Pereira da Cruz",
+      "resultado": "aprovado (sem divergência; dois diretores declararam acompanhar)",
+      "resumo_voto": "Efeito médio 14,68% (AT 12,89% após correção; BT 15,53%); perdas não técnicas ponto de partida 40,93% e meta 37,40%; uso de cerca de R$ 1,05 bi de créditos de PIS/Cofins já compensados e não acatado o pedido de diferimento via empréstimo da conta escassez hídrica, por haver dinheiro do consumidor no caixa da distribuidora; Fator X componente T -0,67%.",
+      "votos": [
+        {"diretor": "Efraim Pereira da Cruz", "voto": "relator, aprova", "ts": "0:51:40", "justificativa": "não faz sentido tomar empréstimo pago pelo consumidor se a Light tem créditos de PIS/Cofins do consumidor em caixa; busca equilíbrio entre capacidade de pagamento e sustentabilidade da concessão", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:26:57", "justificativa": "questionou a diferença entre a proposta da Light (R$ 780 mi) e a do relator; considerou não fazer sentido falar em empréstimo havendo recurso em caixa", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (com ponderações)", "ts": "1:26:57", "justificativa": "registrou que é o 19º processo com PIS/Cofins tratado caso a caso, sem regra prévia, o que traz fragilidade; nos casos anteriores o valor foi acordado com a empresa e aqui se retira da distribuidora a opção pelo empréstimo", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:27:41",
+      "processo": "48500.004947/2021-18 (número da legenda, incerto)",
+      "interessado": "Enel Distribuição Rio (distribuidora, RJ); sustentações orais de Fabiano Silveira (FAMERJ) e Manoel Teixeira (Conselho de Consumidores da Enel Rio)",
+      "assunto": "Reajuste tarifário anual 2022 da Enel Distribuição Rio, vigência 15/03/2022",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "créditos PIS/Cofins", "conta escassez hídrica", "P&D e eficiência energética", "conselho de consumidores"],
+      "relator": "Efraim Pereira da Cruz",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Efeito médio 16,86% (AT 15,38%; BT 17,39%); mantido diferimento de cerca de R$ 110 mi da conta escassez hídrica e usados os créditos de PIS/Cofins já compensados mais 50% do projetado para 12 meses (cerca de R$ 232 mi), sem convergência com a distribuidora; Enel Rio passa ao 1º lugar no ranking da tarifa B1.",
+      "votos": [
+        {"diretor": "Efraim Pereira da Cruz", "voto": "relator, aprova", "ts": "2:18:38", "justificativa": "sem uso adicional de créditos o reajuste ficaria perto de 20%; flexibilizou seu critério e usou 50% dos créditos projetados, o que também incentiva a Enel a se creditar mais rápido", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:26:41", "justificativa": "proposta inovadora mas razoável, alocação equilibrada de custos e riscos; convidou os conselhos de consumidores para reunião e destacou atenção a P&D e eficiência energética", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:26:45", "justificativa": "", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Relator Efraim Pereira da Cruz não consta da lista de diretores do config da ANEEL; nome registrado como dito.",
+    "Quem presidiu e proclamou não está claro: no item 2 Manoel Teixeira diz que Sandoval teve que se ausentar no momento; no fim há 'diretor-geral substituto' e alguém com dificuldade de acesso proclama; atribuição dos 'acompanho' sem nome (Hélvio x Sandoval) inferida, confiança media/baixa.",
+    "Números de processo, percentuais e valores vêm da legenda automática e podem conter erros.",
+    "Vídeo é a parte 2; itens da manhã não estão aqui."
+  ]
+}

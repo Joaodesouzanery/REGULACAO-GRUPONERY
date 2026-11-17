@@ -1,0 +1,361 @@
+{
+ "meta": {
+  "video_id": "ELhvYoNDirw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "41ª Reunião Pública Ordinária de 2021",
+  "data": "2021-11-03",
+  "formato": "presencial/híbrida (miniauditório ANEEL)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Elisa Bastos (não identificada na sessão; incerto)"
+  ],
+  "observacoes": [
+   "Abertura com três diretores; um quarto (Efrain Cruz, inferido) juntou-se durante a reunião; no item 2 votaram três.",
+   "Pauta com 34 itens; itens 1, 11 e 12 retirados; bloco = itens 8 a 34 com destaque do item 9.",
+   "Sustentações orais nos itens 4 (ISA CTEEP) e 5 (Engie).",
+   "Item 9 (relator Sandoval Feitosa, destaque do bloco, com sustentação oral) retirado pelo próprio relator por falta de tempo; volta na próxima reunião."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 8 a 34, exceto 9, 11 e 12)",
+   "ts": "0:07:10",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos disponibilizados previamente)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Bloco aprovado sem observações.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:07:34",
+     "justificativa": "Aprovação em bloco sem destaque.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:07:34",
+     "justificativa": "Aprovação em bloco sem destaque.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:07:34",
+     "justificativa": "Aprovação em bloco sem destaque.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:07:34",
+     "justificativa": "Aprovação em bloco sem destaque.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:07:58",
+   "processo": "48500.005022/2021-32 (número incerto na legenda)",
+   "interessado": "SRG / CCEE",
+   "assunto": "Consolidação de normas do tema sistemas isolados (Decreto 10.139/2019): abertura de consulta pública por intercâmbio documental de 4/11 a 20/12/2021; nome alterado para consolidação sobre aplicação da CDE para geração de energia elétrica (REN 801/2017 e REN 447/2011)",
+   "tema": [
+    "regulação normativa (consulta pública, consolidação)",
+    "CDE e encargos setoriais",
+    "sistemas isolados"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (consulta pública aberta; nome da consolidação alterado)",
+   "resumo_voto": "Sem inovação normativa (dispensa AIR); como a REN 801 trata também do reembolso de carvão mineral nacional no SIN, a consolidação deve chamar-se aplicação da CDE para geração de energia elétrica. Procuradoria pela aprovação.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:18:00",
+     "justificativa": "Abertura de CP; consolidação sem mudança de mérito; renomear para aplicação da CDE para geração.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:20:47",
+     "justificativa": "Acompanho a proposta do ilustre relator.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:20:55",
+     "justificativa": "Comentou que a nomenclatura mais abrangente é adequada; vota e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:21:30",
+   "processo": "48500.005794/2017-40 (número incerto)",
+   "interessado": "SPE (Superintendência de Pesquisa e Desenvolvimento e Eficiência Energética); setor elétrico",
+   "assunto": "Abertura de consulta pública (formulário eletrônico, 5/11 a 20/12/2021, audiência pública híbrida em 16/12/2021) sobre minutas de REN e procedimentos do novo Programa de Pesquisa, Desenvolvimento e Inovação (PROPDI)",
+   "tema": [
+    "regulação normativa (consulta/audiência pública)",
+    "P&D e inovação"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Novo modelo 3P (estratégia, portfólio, programas e projetos), plano estratégico quadrienal, escala TRL, novos instrumentos (startups, FIP, modelo Embrapii, sandbox); só ~10,9% dos investimentos nas fases finais da cadeia de inovação. Debate sobre o modelo Embrapii.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:05:00",
+     "justificativa": "Foco em resultados práticos e produtos no mercado; inovação para deslocar a fronteira de eficiência das distribuidoras.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:35:16",
+     "justificativa": "Questionou o modelo Embrapii (se haveria repasse e voz da ANEEL no projeto); pediu convite à Embrapii durante a CP; acompanha por ser apenas abertura de consulta.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:35:25",
+     "justificativa": "Fala longa sobre P&D que fica só na pesquisa, assimetrias do setor, medo de glosa fora das chamadas estratégicas; acompanha (atribuição por ordem de fala, sem nome dito).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:35:30",
+     "justificativa": "Citou o CITENEL 2017 e o foco em inovação; Embrapii é mais uma possibilidade; proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:35:50",
+   "processo": "48500.000232/2019-71 (número incerto)",
+   "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista)",
+   "assunto": "Recurso administrativo contra Auto de Infração 26/2019 da SFE (multa de cerca de R$ 7,846 milhões) por perturbações de 11/01/2019 (SE Sul, LT 88 kV Sul-Bandeirantes C3/C4, 310 MW) e 31/01/2019 (SE Leste 345 kV, explosão de TC, 1.209 MW, área da Enel SP)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "recurso conhecido e negado por unanimidade dos votantes; multa mantida",
+   "resumo_voto": "Falha de manutenção (mau contato na cablagem, vazamento de óleo no TC desde 2017) caracteriza o art. 6º, XV da REN 63/2004; dosimetria mantida, divergindo da Procuradoria, que propunha 0% em abrangência (anularia a multa). Sustentação oral: Rafael (advogado da ISA CTEEP).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "2:17:33",
+     "justificativa": "Falha dupla de disjuntor e proteção; TC com vazamento desde 2017; abrangência zero anularia a multa; precedentes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:21:30",
+     "justificativa": "Comentário sobre cerca de 1 milhão de clientes afetados na zona leste de SP e ABC e caráter pedagógico; acompanha também quanto à abrangência (falante atribuído por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:21:33",
+     "justificativa": "Acompanho o voto do relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:21:40",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:22:14",
+   "processo": "48500.006218/2017-10 (número incerto)",
+   "interessado": "Engie Brasil Energia S.A.",
+   "assunto": "Pedido de reconsideração contra a REN 927/2021 (ressarcimento de constrained-off de usinas eólicas): regra de transição, razão energética, ACL no passado, cálculo do montante frustrado e franquia de 78 horas",
+   "tema": [
+    "regulação normativa",
+    "outorgas de geração (eólica)",
+    "comercialização (encargos de serviço do sistema)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido não conhecido, por unanimidade dos votantes",
+   "resumo_voto": "Não cabe recurso contra ato normativo geral e abstrato (art. 43 da NORG 1, REN 273/2007); de ofício, não há ilegalidade: pontos já debatidos na AP 34/2019 e no voto condutor. Sustentação oral: Dianne (nome incerto), representante da Engie.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, não conhece",
+     "ts": "2:58:48",
+     "justificativa": "Norma geral e abstrata; argumentos já enfrentados; razão energética e confiabilidade são risco ordinário do gerador.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:00:30",
+     "justificativa": "O segmento eólico busca isentar-se de todo risco da operação; matéria já bem enfrentada; antecipa concordância.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:03:11",
+     "justificativa": "Voto não ouvido individualmente; proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:03:20",
+     "justificativa": "Acompanho o voto do relator e proclamo.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "3:03:37",
+   "processo": "48500.000320/2021-51 (número incerto)",
+   "interessado": "Ampla Energia e Serviços S.A. (Enel Rio)",
+   "assunto": "Medida cautelar para estender os efeitos do Despacho 953/2021 (suspensão de indicadores econômico-financeiros do contrato de concessão 5/1996) até a decisão do pedido de reequilíbrio econômico-financeiro, e não só até o fim da CP 35/2020",
+   "tema": [
+    "tarifas e equilíbrio econômico-financeiro (distribuidoras)",
+    "covid-19",
+    "medida cautelar"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "cautelar conhecida e provida por unanimidade dos votantes",
+   "resumo_voto": "Fumaça do bom direito (pedido específico de reequilíbrio por pandemia e Lei estadual RJ 8.769/2020 que proibiu cortes) e perigo da demora (risco de caducidade); pedido de mudar prazo da cláusula 13ª sem urgência.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, dá provimento",
+     "ts": "3:12:30",
+     "justificativa": "CP 35 não abarca a especificidade da Enel Rio; cautelar até julgamento do reequilíbrio.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:19:37",
+     "justificativa": "Pediu esclarecimento sobre a diferença em relação ao Despacho 953; condições que levaram à cautelar persistem.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:19:40",
+     "justificativa": "Acrescenta efeitos da escassez hídrica no caixa das distribuidoras (atribuição por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:19:45",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:21:53",
+   "processo": "48500.005251/2017 (número incerto)",
+   "interessado": "Aliança Geração de Energia S.A.",
+   "assunto": "Medida cautelar sobre o valor do UBP (uso do bem público) devido no período de extensão de outorga da repactuação do risco hidrológico (Lei 14.052/2020; REH 2.919/2021)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "GSF / repactuação do risco hidrológico",
+    "medida cautelar"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "requerimento conhecido; cautelar negada e mérito indeferido, por unanimidade dos votantes",
+   "resumo_voto": "Sem fumaça do bom direito: Lei 13.203/2015 não dá discricionariedade para alterar o UBP; margem líquida regulatória serve só para calcular a extensão; contrato manda pagar UBP enquanto explorar o aproveitamento.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega",
+     "ts": "3:32:10",
+     "justificativa": "UBP do contrato continua devido no período de extensão.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:32:37",
+     "justificativa": "Acompanho o voto do Dr. Hélvio.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:32:45",
+     "justificativa": "Voto ouvido sem nome claro.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:32:50",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "1",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "11",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "12",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "9",
+   "motivo": "retirado pelo relator Sandoval Feitosa por horário; retorna na próxima reunião"
+  }
+ ],
+ "limites_da_analise": [
+  "André Pepitone (Diretor-Geral) e Efrain Cruz não constam da lista de diretores do config da ANEEL (composição de 2021); nomes registrados como ditos/inferidos.",
+  "Presença de Efrain Cruz inferida (citado como Doutor Efraim no item 3); falas e votos atribuídos a ele por ordem de fala, confiança baixa.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "Nome da representante da Engie e do advogado da ISA CTEEP incertos.",
+  "Bloco: votos individuais pouco audíveis; atribuídos a todos os presentes pela proclamação."
+ ]
+}

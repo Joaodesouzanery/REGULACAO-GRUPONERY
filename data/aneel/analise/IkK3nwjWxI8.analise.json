@@ -1,0 +1,30 @@
+{
+  "meta": {"video_id": "IkK3nwjWxI8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Extraordinária de 2019", "data": "2019-04-02", "formato": "presencial",
+    "presidente_da_sessao": "Diretor-Geral (nome não dito na legenda; provavelmente André Pepitone, fora da lista do config)",
+    "diretores_presentes": ["Elisa Bastos Silva (relatora; nome fora da lista do config)", "Diretor-Geral (não identificado)", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Quórum declarado de quatro diretores.", "Item único: abertura de audiência pública da 5ª revisão tarifária periódica da Enel Distribuição São Paulo (Eletropaulo) e limites DEC/FEC 2020-2023.", "Apresentação técnica da SGT (Marcelo). Diretor-Geral comentou acordo com bancos (antecipação da Conta-ACR, -5,11%), subsídios e peso do ICMS (~35% da tarifa), com ranking de ICMS por MWh entre estados."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:55",
+      "processo": "48500.006286/2018-60; 48500.001334/2019-12",
+      "interessado": "Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distribuição São Paulo)",
+      "assunto": "Abertura de audiência pública (4/4 a 17/5/2019, sessão presencial em São Paulo em 17/4/2019) para a 5ª revisão tarifária periódica da Enel SP, vigência a partir de 4/7/2019, e limites de DEC e FEC para 2020-2023",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "distribuição e qualidade (DEC/FEC)", "regulação normativa (audiência pública)"],
+      "relator": "Elisa Bastos Silva",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio preliminar de cerca de 6,32%, puxado pelos componentes financeiros (CVA de energia, GSF); antecipação da Conta-ACR retira 5,11%. Proposta de DEC de 7,4 a 7,1 e FEC de 5,1 a 4,9 para 2020-2023. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Elisa Bastos Silva", "voto": "relator, aprova", "ts": "0:19:20", "justificativa": "instaurar audiência pública para colher subsídios sobre a 5ª RTP da Enel SP e limites DEC/FEC 2020-2023", "confianca": "alta"},
+        {"diretor": "Diretor-Geral (não identificado)", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:13", "justificativa": "destacou o esforço da ANEEL para desonerar a tarifa (acordo com bancos) e defendeu discutir o ICMS; notou melhora de DEC/FEC da empresa em 2018", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:13", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:13", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Composição de 2019 não consta da lista de diretores do config (ANEEL): relatora transcrita como «eles abaixo silva»/«doutora eliza», interpretada como Elisa Bastos Silva; Diretor-Geral não nomeado na legenda.", "Dois outros diretores do quórum de quatro não são nomeados; votos inferidos da proclamação por unanimidade.", "Números da legenda automática (percentuais, processos) podem conter erros."]
+}

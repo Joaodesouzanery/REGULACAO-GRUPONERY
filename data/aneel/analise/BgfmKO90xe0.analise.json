@@ -1,0 +1,313 @@
+{
+ "meta": {
+  "video_id": "BgfmKO90xe0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts pela transcrição json; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25ª Reunião Pública Ordinária de 2019 (Parte 1)",
+  "data": "2019-07-16",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Colegiado completo (cinco diretores). Pauta com 22 itens; bloco itens 3 a 22.",
+   "Retirados de pauta: itens 2, 10, 11 e 15.",
+   "Ordem anunciada após o bloco: 14, 4, 5, 6, 17, 12, 13, 8, 9; esta parte 1 cobre 14, 12, 4 e 5 e termina na pausa para almoço (14h30).",
+   "Item 12 (Bom Retiro) teve longo debate sobre judicialização e acusações do representante da Bom Retiro contra servidores; registro em ata com prazo de 15 dias."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 3 a 22, exceto 14 e 15)",
+   "ts": "0:03:30",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Deliberação em bloco dos itens 3 a 22 (ressalvados o item 14, destacado para sustentação oral, e o 15, retirado); item 18 (pedido de reconsideração com efeito suspensivo de projeto de energias renováveis contra despacho que determinou à CCEE aplicar multa no contrato de energia de reserva, relatora Elisa Bastos) teve pedido de vista",
+   "tema": [
+    "deliberação em bloco",
+    "comercialização (CCEE, energia de reserva)",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade; item 18 com pedido de vista",
+   "resumo_voto": "Todos votaram pela aprovação do bloco; um diretor pediu vista do item 18 e votou pelos demais itens.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista (item 18); aprova demais itens do bloco",
+     "ts": "0:03:47",
+     "justificativa": "«vou solicitar vista do item 18 relatório da doutora [Elisa] Bastos»; o Diretor-Geral registra «pedido de vista do diretor franklin» (legenda), provável Efrain",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:00",
+     "justificativa": "voto pela aprovação do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:00",
+     "justificativa": "voto pela aprovação do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:04:00",
+     "justificativa": "voto pela aprovação do bloco (relatora do item 18)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:04:16",
+     "justificativa": "«também vota pela aprovação de todo o bloco»; demais itens aprovados por unanimidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:04:50",
+   "processo": "48500.002357/2018-55 (legenda incerta)",
+   "interessado": "Transmissora Sul Brasileira de Energia (TSBE; legenda: «sobrasse»)",
+   "assunto": "Recurso administrativo contra auto de infração da SFE (multa ≈ R$ 242,7 mil) por descumprimento do cronograma e conformidade técnica de obras de transmissão (SE Viamão 3, contrato de concessão 1/2011); sustentação oral de Roberto Bezerra Machado (empresa) sobre base de cálculo (faturamento real × estimado)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Mantida NC1 (ausência de IHM na sala de comando da SE Viamão 3) e dosimetria; base de cálculo no faturamento estimado (~R$ 29 mi) porque só ~8% do contrato entrou em operação — usar o faturamento real beneficiaria a empresa pelo próprio atraso; Procuradoria no mesmo sentido.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:50",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade (Diretor-Geral vota por último e proclama)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:28:11",
+     "justificativa": "conhecer e negar provimento; IHM é requisito essencial; usar faturamento real (≈R$ 3,17 mi) beneficiaria a concessionária pelo problema que causou, contra o propósito educativo da pena",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:50",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:50",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:50",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:29:20",
+   "processo": "27101.000463/1989-40 (legenda incerta)",
+   "interessado": "Energias Complementares do Brasil (EC Brasil) × Bom Retiro Energia Ltda.",
+   "assunto": "Pedido de reconsideração e requerimento administrativo da EC Brasil contra a REA 6.080/2016 (outorga da PCH/UHE Bom Retiro, rio Taquari, Bom Retiro do Sul/RS); cumprimento de decisão judicial (1ª Vara Federal de Lajeado, 20/05/2019) que mandou invalidar a REA; sustentações orais de Leonel Preto (Bom Retiro) e José Guilherme (EC Brasil)",
+   "tema": [
+    "outorgas de geração (hidrelétrica, PCH)",
+    "cumprimento de decisão judicial",
+    "recursos administrativos",
+    "judicialização"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: anuladas REA 6.080/2016 e 6.156/2016 e despachos 3.865, 3.866 e 3.946/2017; perda de objeto do pedido da EC Brasil; item 1 do despacho 2.722/2016 provisoriamente sem efeito; 15 dias para as empresas se manifestarem sobre manter despacho 3.080/2012, anular 3.200/2012 e inativar registro da Bom Retiro; consulta à CGU; registro em ata de prazo de 15 dias para o representante da Bom Retiro comprovar as alegações contra servidores",
+   "resumo_voto": "Relator cumpre a decisão judicial e restitui o estado anterior (dois registros); inventário de 43 MW da EC Brasil sem vício; indícios de nulidade do registro da EC Brasil e de inativação do registro da Bom Retiro (projeto de 30 MW não atende ao aproveitamento ótimo), com contraditório prévio; critica a judicialização excessiva; dispôs-se a tentar mediação no prazo.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:22:51",
+     "justificativa": "foi relator do caso em 2013–2016; lamenta 30 anos de disputa e a judicialização; apela às partes por acordo com negociadores; repudia, como presidente, as ilações da sustentação oral contra servidores e pede que se apresentem fatos",
+     "tom": "firme",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:48:01",
+     "justificativa": "questionou abrir novo prazo de contraditório (entendia já exercido, cabendo recurso da decisão); depois retirou a objeção para permitir tentativa de mediação nos 15 dias; apoiou registrar em ata para preservar a reputação da agência",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:15:51",
+     "justificativa": "cumprir a decisão judicial anulando a REA 6.080 e atos decorrentes; abrir contraditório de 15 dias; «a judicialização excessiva» gera insegurança aos investimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:36:20",
+     "justificativa": "propõe registrar em ata e abrir prazo de 15 dias para o representante da Bom Retiro apresentar provas das acusações (art. 143 da Lei 8.112 por analogia) e sugere tentativa de mediação pela SMA no prazo",
+     "tom": "firme",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:20:36",
+     "justificativa": "defende ambiente de mediação mais efetivo para evitar judicialização; decisão judicial não definiu o estado anterior; encaminhamento do relator adequado; ratifica anulação dos despachos 3.865, 3.866 e 3.946",
+     "tom": "técnico",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:02:06",
+   "processo": "48500.002098/2019-43 (legenda incerta)",
+   "interessado": "Muxfeldt Marin & Cia. Ltda. (Mux Energia), Tapejara e Ibiaçá/RS",
+   "assunto": "Reajuste tarifário anual 2019 da Mux Energia, a partir de 22/07/2019: efeito médio -5,46% (AT -4,34%, BT -6,24%); apresentação técnica da SGT",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologado reajuste com efeito médio -5,46%; fixadas TUSD/TE e repasse mensal da CDE; queda por encargos (quitação da Conta-ACR) e saída de financeiros.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:13:41",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade (Diretor-Geral vota por último e proclama)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:12:40",
+     "justificativa": "elogia a saída da supridora via chamada pública (contrato bilateral com Copel GT desde 2017) como exemplo para distribuidoras com mercado menor que 500 GWh",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:13:41",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:13:41",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "3:12:00",
+     "justificativa": "homologar reajuste com efeito médio de -5,46%",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:14:28",
+   "processo": "48500.002010/2019-29 (legenda incerta)",
+   "interessado": "Hidroelétrica Panambi S.A. (Hidropan), Panambi e Condor/RS",
+   "assunto": "Reajuste tarifário anual 2019 da Hidropan, a partir de 22/07/2019: efeito médio 7,25% (AT 10,47%, BT 5,51%); apresentação técnica da SGT",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologado reajuste de 7,25%; alta pela compra de energia da supridora (RGE, +4,95%) e CDE-Uso; fixadas TUSD/TE, receita de DIT e CDE mensal de ≈R$ 145,2 mil.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade (Diretor-Geral vota por último e proclama)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:24:20",
+     "justificativa": "homologar reajuste de 7,25%; empresa permanece suprida após tentativa frustrada de compra em CCEAR por disponibilidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2"
+  },
+  {
+   "id": "10"
+  },
+  {
+   "id": "11"
+  },
+  {
+   "id": "15"
+  }
+ ],
+ "limites_da_analise": [
+  "Diretores da sessão de 2019 fora da lista do config (só Sandoval Feitosa consta): André Pepitone, Rodrigo Limp, Efrain Cruz, Elisa Bastos registrados como ditos na sessão.",
+  "Pedido de vista do item 18: a legenda diz «diretor franklin»; atribuído a Efrain Cruz com confiança baixa.",
+  "Votos de quem só «acompanha» são atribuídos pela proclamação unânime; ts aproximados.",
+  "No item 12, a atribuição das falas de debate (Elisa, Pepitone, Efrain, Sandoval) é inferida de referências cruzadas («proposta do diretor Efraim», «diretor Sandoval esse recurso», «diretora Elisa ... mediação»); confiança media/baixa.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "Parte 1 apenas: itens 6, 17, 13, 8, 9 ficam para a parte 2 (outro vídeo)."
+ ]
+}
