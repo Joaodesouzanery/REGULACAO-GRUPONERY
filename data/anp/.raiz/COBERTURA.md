@@ -28,7 +28,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | workshop | 10 | 0 | 0 |
 | 2020 | diretoria | 26 | 26 | 0 |
 | 2020 | audiencia | 18 | 0 | 0 |
-| 2019 | diretoria | 42 | 16 | 0 |
+| 2019 | diretoria | 42 | 28 | 0 |
 | 2015 | audiencia | 1 | 0 | 0 |
 | 2013 | audiencia | 1 | 0 | 0 |
 | 2011 | diretoria | 1 | 0 | 0 |
@@ -231,6 +231,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-09-05 · Reunião de Diretoria Colegiada nº991 - 5 de setembro de 2019 · `kFGc0GzznpM`
 - 2019-08-31 · Reunião de Diretoria Colegiada nº 990 - 29 de agosto de 2019 · `4TfbcPrkv-k`
 - 2019-08-16 · Reunião de Diretoria Colegiada nº989 - 16 de agosto de 2019 · `KRynXtRpqJQ`
+- 2019-08-06 · Reunião de Diretoria Colegiada Nº 988 - 06 de agosto de 2019 · `VVp1UP0azpM`
+- 2019-08-01 · Reunião de diretoria colegiada Nº 987 -01 de Agosto de 2019 · `UdLuPjpMYVA`
+- 2019-07-25 · Reunião de Diretoria Colegiada nº 986 - 25 de julho de 2019 · `wQIItmusoQ0`
+- 2019-07-18 · Reunião de Diretoria Colegiada nº 985 - 18 de julho de 2019 · `kqBlnCKdkt4`
+- 2019-07-04 · Reunião de Diretoria Colegiada nº 983 - 4 de julho de 2019 · `8LFAkRz2sVg`
+- 2019-06-27 · Reunião de Diretoria Colegiada nº 982 - 27 de junho de 2019 · `Hc7MLJvx_QQ`
+- 2019-06-19 · Reunião de Diretoria nº 981 - 19 de junho de 2019 · `DF0W8t18aCo`
+- 2019-06-12 · Reunião de Diretoria Colegiada nº 980 - 12 de Junho de 2019 · `zS_ACzZNrRM`
+- 2019-06-05 · Reunião de Diretoria Colegiada nº 979 - 05 de junho de 2019 · `hJttBicCCEY`
+- 2019-05-30 · Reunião de Diretoria Colegiada nº 978 - 30 de maio de 2019 · `HZF3-e3gE5o`
+- 2019-05-22 · Reunião de Diretoria Colegiada nº 977 - 22 de maio de 2019 · `MnTO8kOmUbM`
+- 2019-05-16 · Reunião de Diretoria Colegiada nº 976 - 16 de maio de 2019 · `0Emxzryzbs8`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`

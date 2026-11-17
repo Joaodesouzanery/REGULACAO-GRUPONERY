@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **254** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 26; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **242** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 14; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -207,18 +207,6 @@ Total: **254** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2020-08-20 · workshop · Workshop GNL - 20/08/2020 · https://www.youtube.com/watch?v=635fg7K0hoU · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-14 · diretoria · Reunião de Diretoria Colegiada nº 1001 - 14 de novembro de 2019 · https://www.youtube.com/watch?v=qbhOOaE5Oms · **legenda desativada/inexistente no YouTube**
 - 2019-10-03 · diretoria · Reunião de Diretoria Colegiada nº 995 - 3 de outubro de 2019 · https://www.youtube.com/watch?v=23mvoaoHrK4 · **legenda desativada/inexistente no YouTube**
-- 2019-08-06 · diretoria · Reunião de Diretoria Colegiada Nº 988 - 06 de agosto de 2019 · https://www.youtube.com/watch?v=VVp1UP0azpM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-01 · diretoria · Reunião de diretoria colegiada Nº 987 -01 de Agosto de 2019 · https://www.youtube.com/watch?v=UdLuPjpMYVA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-25 · diretoria · Reunião de Diretoria Colegiada nº 986 - 25 de julho de 2019 · https://www.youtube.com/watch?v=wQIItmusoQ0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-18 · diretoria · Reunião de Diretoria Colegiada nº 985 - 18 de julho de 2019 · https://www.youtube.com/watch?v=kqBlnCKdkt4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-04 · diretoria · Reunião de Diretoria Colegiada nº 983 - 4 de julho de 2019 · https://www.youtube.com/watch?v=8LFAkRz2sVg · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-27 · diretoria · Reunião de Diretoria Colegiada nº 982 - 27 de junho de 2019 · https://www.youtube.com/watch?v=Hc7MLJvx_QQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-19 · diretoria · Reunião de Diretoria nº 981 - 19 de junho de 2019 · https://www.youtube.com/watch?v=DF0W8t18aCo · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-12 · diretoria · Reunião de Diretoria Colegiada nº 980 - 12 de Junho de 2019 · https://www.youtube.com/watch?v=zS_ACzZNrRM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-05 · diretoria · Reunião de Diretoria Colegiada nº 979 - 05 de junho de 2019 · https://www.youtube.com/watch?v=hJttBicCCEY · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-30 · diretoria · Reunião de Diretoria Colegiada nº 978 - 30 de maio de 2019 · https://www.youtube.com/watch?v=HZF3-e3gE5o · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-22 · diretoria · Reunião de Diretoria Colegiada nº 977 - 22 de maio de 2019 · https://www.youtube.com/watch?v=MnTO8kOmUbM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-16 · diretoria · Reunião de Diretoria Colegiada nº 976 - 16 de maio de 2019 · https://www.youtube.com/watch?v=0Emxzryzbs8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-05-02 · diretoria · Reunião de Diretoria Colegiada  nº 975 - 2 de Maio de 2019 · https://www.youtube.com/watch?v=FAcHgP_ZgD8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-25 · diretoria · Reunião de Diretoria Colegiada nº 974 - 25 de abril de 2019 · https://www.youtube.com/watch?v=Ks7tOYei1Cc · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-18 · diretoria · Reunião de Diretoria Colegiada nº 973 - 18 de abril de 2019 · https://www.youtube.com/watch?v=XglbPSf202Q · **ainda não baixado (rodar a coleta no Mac)**
