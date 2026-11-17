@@ -6,8 +6,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 |---|---|---|---|---|
 | sem data | diretoria | 2 | 0 | 0 |
 | 2026 | workshop | 1 | 0 | 0 |
-| 2026 | diretoria | 13 | 12 | 0 |
-| 2025 | diretoria | 24 | 0 | 0 |
+| 2026 | diretoria | 13 | 13 | 0 |
+| 2025 | diretoria | 24 | 11 | 0 |
 | 2025 | audiencia | 4 | 0 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 0 | 0 |
@@ -26,6 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-11-04 · 961st Ordinary Deliberative Meeting of the Collegiate Board - November · `V_jsHW6IK1Q`
 - 2026-09-30 · 960th Ordinary Deliberative Meeting of the Collegiate Board - Septembe · `e6eUchf_azg`
 - 2026-09-14 · 959ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 15 de set · `Bj0EjBM2tx8`
+- 2026-08-26 · 958th Ordinary Deliberative Meeting of the Collegiate Board - August 2 · `pMo2ibxCs-w`
 - 2026-08-12 · 957th Ordinary Deliberative Meeting of the Collegiate Board - August 1 · `QqOv-F1QYf8`
 - 2026-08-11 · 956th Ordinary Deliberative Meeting of the Collegiate Board - July 28, · `_jr3rZh-IeE`
 - 2026-06-26 · 955th Ordinary Deliberative Meeting of the Collegiate Board - June 25, · `RuXIZqXS0bo`
@@ -35,5 +36,16 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-03-18 · 951ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de mar · `VK_YR49ZrRg`
 - 2026-03-04 · 950ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 3 de març · `XVJhZlQ-vWk`
 - 2026-02-03 · 949ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 2 de feve · `sC-eqj7brM0`
+- 2025-12-17 · 948ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de dez · `o0n3erXV6vU`
+- 2025-12-02 · 947ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 1º de dez · `8nlf1pZ5GBs`
+- 2025-11-19 · 946ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de nov · `F7NPcPvumEs`
+- 2025-11-04 · 945ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 3 de nove · `I0vKzkJ_VRE`
+- 2025-10-14 · 944th Ordinary Deliberative Meeting of the Board of Directors - Octobe · `AamB5yKqaag`
+- 2025-09-30 · 943ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de set · `ISHKUuUBMso`
+- 2025-09-17 · 942ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de set · `YF8BsTotEdc`
+- 2025-09-02 · 941ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 01 de set · `JpKEePIwC_U`
+- 2025-08-22 · 940ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de ago · `MHgAG8hWo78`
+- 2025-08-05 · 939ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de ago · `Pl2JETTgxr4`
+- 2025-07-19 · 938ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de jul · `gyroY1H9tGE`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).

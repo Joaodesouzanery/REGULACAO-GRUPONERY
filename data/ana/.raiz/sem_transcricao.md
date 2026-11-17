@@ -2,23 +2,11 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **178** · sem /diretoria: 2; 2026/workshop: 1; 2026/diretoria: 1; 2025/diretoria: 24; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 29; 2024/audiencia: 4; 2023/diretoria: 36; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
+Total: **166** · sem /diretoria: 2; 2026/workshop: 1; 2025/diretoria: 13; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 29; 2024/audiencia: 4; 2023/diretoria: 36; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
 
 - 2026-09-02 · workshop · Workshop Dam Screening Tool (USACE) - (02/09/2026). · https://www.youtube.com/watch?v=8HvGvQInCPY · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-08-26 · diretoria · 958th Ordinary Deliberative Meeting of the Collegiate Board - August 25, 2026 · https://www.youtube.com/watch?v=pMo2ibxCs-w · **bloqueio temporário do YouTube (tentar de novo)**
-- 2025-12-17 · diretoria · 948ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de dezembro de 2 · https://www.youtube.com/watch?v=o0n3erXV6vU · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-02 · diretoria · 947ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 1º de dezembro de 2 · https://www.youtube.com/watch?v=8nlf1pZ5GBs · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-19 · diretoria · 946ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de novembro de 2 · https://www.youtube.com/watch?v=F7NPcPvumEs · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-04 · diretoria · 945ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 3 de novembro de 20 · https://www.youtube.com/watch?v=I0vKzkJ_VRE · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-14 · diretoria · 944th Ordinary Deliberative Meeting of the Board of Directors - October 13, 2025 · https://www.youtube.com/watch?v=AamB5yKqaag · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-30 · diretoria · 943ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de setembro de 2 · https://www.youtube.com/watch?v=ISHKUuUBMso · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-25 · audiencia · AUDIÊNCIA PÚBLICA 04/2025 · https://www.youtube.com/watch?v=PUz4CMKyHBo · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-20 · audiencia · Public Hearing No. 003/2025 · https://www.youtube.com/watch?v=zw519ispNEI · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-17 · diretoria · 942ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de setembro de 2 · https://www.youtube.com/watch?v=YF8BsTotEdc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-02 · diretoria · 941ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 01 de setembro de 2 · https://www.youtube.com/watch?v=JpKEePIwC_U · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-08-22 · diretoria · 940ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de agosto de 202 · https://www.youtube.com/watch?v=MHgAG8hWo78 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-08-05 · diretoria · 939ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de agosto de 202 · https://www.youtube.com/watch?v=Pl2JETTgxr4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-07-19 · diretoria · 938ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de julho de 2025 · https://www.youtube.com/watch?v=gyroY1H9tGE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-03 · audiencia · Public Hearing 02/2025 - Reference Standard for Tariff Structure and Social Tari · https://www.youtube.com/watch?v=EgrIul9jpKQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-07-01 · diretoria · 937ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 30 de junho de 2025 · https://www.youtube.com/watch?v=13Pb9Ej3noQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-06-17 · diretoria · 936ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de junho de 2025 · https://www.youtube.com/watch?v=pr4t0uxZzB0 · **ainda não baixado (rodar a coleta no Mac)**
