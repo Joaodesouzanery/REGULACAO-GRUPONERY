@@ -1,0 +1,350 @@
+{
+ "meta": {
+  "video_id": "A5gwnqzWGoE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4",
+  "data": "2024-02-20",
+  "formato": "presencial (auditório da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores; DG cita diretor Hélvio, Fernando e Agnes (menciona 'diretor Ricardo' por engano e corrige).",
+   "Ata da 3ª RPO aprovada.",
+   "Pauta com 41 itens; item 3 retirado de pauta; 17 e 21 destacados do bloco.",
+   "Cinco itens deliberados fora do bloco; quatro unânimes e o item 5 por maioria (proclamação) com voto-vista vencedor."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:09:36",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 6 a 41 (exceto 17 e 21, destacados), votos previamente publicados",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; DG proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:40",
+     "justificativa": "Aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:40",
+     "justificativa": "Aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:09:40",
+     "justificativa": "Aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:09:40",
+     "justificativa": "Aprovação dos itens do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:02",
+   "processo": "48500.001560/2023-71",
+   "interessado": "Secretaria de Leilões/SCE; sustentação oral de Cobra Brasil (UFV Panorama, PI)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão 1/2024 (15 lotes, RAPs e anexos técnicos), consolidado após análise do TCU; sessão pública em 28/03/2024 na B3",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o edital com ajustes do TCU (fim da exigência de auditor independente para não obrigados, adaptação do art. 90 da Lei 14.133). Sustentação oral da Cobra Brasil pediu ajuste do traçado do lote 13 (LT 500 kV Ribeiro Gonçalves) que interfere na UFV Panorama; área técnica disse que o traçado é referencial.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:06:40",
+     "justificativa": "Perguntou se o agente adquiriu área sabendo da subestação; apontou risco de confiabilidade do circuito duplo; considerou que o momento do leilão é o adequado para o licitante precificar o contorno.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:36:31",
+     "justificativa": "Edital atende ao TCU; traçado é referencial e solução de engenharia cabe ao vencedor.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:30",
+     "justificativa": "Questionou por que o traçado referencial passa sobre usina já outorgada (UFV Panorama), prevendo litígio de indenização na ANEEL; pediu solução para casos recorrentes, mas acompanhou.",
+     "tom": "crítico/questionador",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:30",
+     "justificativa": "Separou ilhamento (regra ADS) de traçado referencial; com obra em 16% e sem painéis no trecho, o vencedor escolhe a solução; sugeriu construção jurídica para outorgas anteriores à norma de ADS.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:07:38",
+   "processo": "48500.000254/2024-07",
+   "interessado": "Secretaria de Leilões/SCE",
+   "assunto": "Abertura de consulta pública (23/02 a 08/04/2024) para o edital do Leilão de Transmissão 2/2024 (5 lotes, inclui licitação de concessão em fim de vigência, Decreto 11.314/2022)",
+   "tema": [
+    "leilões (transmissão)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública por intercâmbio documental; investimento estimado em R$ 4 bi; DG comenta que licitar concessões de transmissão em fim de vigência é mais seguro.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:15",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:15",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:23:08",
+     "justificativa": "Alternativa técnica atende ao interesse público; demanda da concessionária atual do lote 4 pode ser discutida na consulta.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:15",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:27:32",
+   "processo": "48500.008590/2022-28",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Recurso contra auto de infração 10/2019 da ARSESP (multa por atendimento a consumidores após desligamentos da LT Sul–Bandeirantes, ressarcimento de danos e descumprimento de determinação)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Mantém a decisão da ARSESP em juízo de reconsideração (multa de cerca de R$ 12 milhões segundo a apresentação técnica).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:56:00",
+     "justificativa": "Levantou dúvida se o descumprimento de determinação da fiscalização poderia ser multado antes de a Diretoria ratificá-la; considerou sanada pela prática sob a REN 63 e pela REN 846; sugeriu orientação às superintendências.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:54",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:54",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:41:06",
+     "justificativa": "Distribuidora levou cerca de 72 h para identificar danos; reanalisou só 16 dos mais de 400 pedidos; tutela do consumidor; acompanha SFT e Procuradoria.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:56:36",
+   "processo": "48500.000372/2016-9; 48500.000371/2018-1; 48500.001490/2013-8",
+   "interessado": "Valença Energia Ltda. (EOLs Barro Vermelho, Flor da Terra e Floresta)",
+   "assunto": "Recurso contra Despacho SCE 2060/2023 que indeferiu outorgas de autorização das eólicas por falta de garantia de fiel cumprimento até 02/03/2022 (desconto TUST/TUSD da Lei 14.120)",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "tarifas (desconto TUST/TUSD)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "recurso conhecido e não provido, por maioria (nos termos do voto-vista de Hélvio Guerra)",
+   "resumo_voto": "Voto-vista de Hélvio Guerra nega provimento; relator original Fernando Mosna reformula e acompanha. Proclamação diz 'por maioria' após troca confusa sobre manter o voto condutor original.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor: nega provimento",
+     "ts": "2:10:52",
+     "justificativa": "Garantia de fiel cumprimento não foi protocolada até 02/03/2022 (prazo da Lei 14.120); REN 1071 não ressuscita direito a desconto; desconto é pago pelos demais usuários; pleito subsidiário deve ser novo pedido à SCE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator original; reformula e acompanha o voto-vista",
+     "ts": "2:11:19",
+     "justificativa": "Tinha votado (dez/2023) por dar provimento com base no informalismo moderado e na REN 1071; reformulou para acompanhar integralmente o voto-vista.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:13:07",
+     "justificativa": "Alinha-se ao entendimento do diretor Hélvio.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (proclama)",
+     "ts": "2:13:20",
+     "justificativa": "Normatização da época exigia documentação integral; norma posterior não retroage.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "2:14:11",
+   "processo": "48500.004436/2023-68",
+   "interessado": "Lavínia Moraes de Almeida Nogueira Junqueira x EDP Transmissão SP-MG",
+   "assunto": "Pedido de medida cautelar para suspender a REA 14.883/2023 (DUP de estradas de acesso à LT Estreito–Cachoeira Paulista C1 e C2, Delfim Moreira/MG, Piquete e Guaratinguetá/SP)",
+   "tema": [
+    "transmissão",
+    "DUP/servidão administrativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "cautelar indeferida por unanimidade; autos à SCE para mérito",
+   "resumo_voto": "Sem fumaça do bom direito nem perigo da demora (perigo reverso: sem acesso não há manutenção). Sustentações orais de Guilherme Silveira Coelho (proprietária) e Alan Álvares Raposa (EDP).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:44:10",
+     "justificativa": "Acessos devem ser mantidos pela transmissora; é temerário a ANEEL intervir em cautelar; escolha do acesso é competência do operador; já havia negado efeito suspensivo em out/2023.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:01",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:34:07",
+     "justificativa": "DUP é intervenção grave, mas o interesse público de manter a linha prevalece na cautelar; mérito fica com a SCE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:01",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:45:19",
+   "processo": "48100.000854/1997-63",
+   "interessado": "Engie Brasil Energia (UHE Ponte de Pedra, MS/MT)",
+   "assunto": "Recomposição do prazo de outorga da UHE Ponte de Pedra (Lei 13.360/2016): pedido de 414 dias",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recomposição de prazo/excludente de responsabilidade"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "parcial provimento por unanimidade (112 dias; outorga até 21/01/2035; CCEE recalcula extensão do GSF)",
+   "resumo_voto": "Reconhece só os 112 dias de mora na licença; nega os 302 dias do desmoronamento do túnel de fuga (risco do concessionário, projeto básico inadequado). Sustentação oral de Ugo Leonardo Araújo Leite (Engie).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "3:06:15",
+     "justificativa": "Concessionário responde pela qualidade de seus contratados; voto em linha com as deliberações anteriores.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:05:51",
+     "justificativa": "Elogiou a fundamentação; risco do empreendedor.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:04:55",
+     "justificativa": "Voto de 2008 da diretora Joísa não reconheceu força maior; projeto e construção por conta e risco do concessionário (contrato 77/1999).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:08:32",
+     "justificativa": "Unanimidade proclamada pelo Diretor-Geral; fala individual sem nome na legenda.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral; assunto não lido)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números de processos podem estar errados (ex.: Valença/'valen', Engie/'end').",
+  "Falas 'acompanho' não trazem nome; atribuição pela proclamação unânime (confiança media).",
+  "Item 5: proclamação 'por maioria' após discussão confusa sobre manter o voto condutor original de Fernando Mosna (provimento) dado em dez/2023; não está claro quem seria vencido, pois Fernando reformulou e acompanhou o voto-vista.",
+  "Ludimila citada é superintendente (SCE), não diretora nesta sessão.",
+  "Itens do bloco (6–41) não detalhados individualmente; relator não identificado."
+ ]
+}

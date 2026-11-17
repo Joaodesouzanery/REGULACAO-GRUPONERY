@@ -1,0 +1,272 @@
+{
+ "meta": {
+  "video_id": "HJP2bW50mT4",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17ª RPO 2024 (Parte 2)",
+  "data": "2024-05-21",
+  "formato": "híbrido (Agnes da Costa remota)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde/noite) da 17ª RPO; a sessão foi suspensa após o item 10 e continuaria no dia seguinte às 9 h (demais itens adiados).",
+   "Última reunião de Hélvio Guerra, em fim de mandato.",
+   "Três itens terminaram com pedido de vista de Agnes da Costa (14, 11 e 10) e um com vista atribuída ao Diretor-Geral (5)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:28",
+   "processo": "48500.005470/2018-92",
+   "interessado": "ONS; transmissoras (ABRATE) e distribuidoras (ABRADEE); usuários do sistema de transmissão",
+   "assunto": "Resultado da 2ª fase da Consulta Pública 75/2020: aprimoramento da liquidação financeira dos encargos de uso do sistema de transmissão (EUST), com voto-vista da diretora Agnes",
+   "tema": [
+    "transmissão (EUST, liquidação financeira)",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Hélvio Guerra (relatora do voto-vista: Agnes da Costa)",
+   "resultado": "retirado de pauta após as sustentações orais, a pedido da diretora Agnes (conexão ruim), para a semana seguinte",
+   "resumo_voto": "Lido o relatório do voto-vista e ouvidas quatro sustentações orais (ABRADEE, entre outras, e ABRATE); sem votação nesta sessão.",
+   "votos": []
+  },
+  {
+   "id": "5",
+   "ts": "0:31:46",
+   "processo": "48500.000598/2019-41 (dispositivo cita 48500.004920/2010-51)",
+   "interessado": "distribuidoras de energia (Light citada; seis sustentações orais)",
+   "assunto": "2ª fase da Consulta Pública 62/2020: revisão da metodologia de custos operacionais regulatórios (submódulos 2.2 e 2.2A do PRORET)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, custos operacionais)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista (atribuído a Sandoval Feitosa) após três votos acompanhando o relator",
+   "resumo_voto": "Relator vota por aprovar o aprimoramento do submódulo 2.2 (custos operacionais) e delegar à SGT a atualização anual da base de dados por tomada de subsídios.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:29:03",
+     "justificativa": "Aprova a nova metodologia de custos operacionais e delega à SGT a atualização anual da base de dados; dispensa leitura de parte do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:43:28",
+     "justificativa": "«Eu voto com o relator» (fala sem nome; atribuição pela ordem). Em debate disse que o processo evoluiu bastante e que são escolhas diante dos elementos da consulta pública.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:43:30",
+     "justificativa": "«Eu também voto com relator» (fala sem nome; atribuição pela ordem de votação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:43:33",
+     "justificativa": "«Eu também voto com o relator» (fala sem nome; atribuição pela ordem de votação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "2:43:38",
+     "justificativa": "«eu como disse tem alguns pontos que gostaria de aprofundar, solicito vistas deste processo»; antes disse que a metodologia está próxima de ser concluída mas alguns temas mereceriam maior aprofundamento.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:43:40",
+   "processo": "48500.005979/2023-0 (número incerto na legenda)",
+   "interessado": "Enel Distribuição Rio (pedido de reconsideração)",
+   "assunto": "Pedido de reconsideração da Enel Distribuição Rio contra a resolução homologatória do reajuste tarifário anual de 2024",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "retirado de pauta pelo relator (voto não pronto)",
+   "resumo_voto": "Sem deliberação.",
+   "votos": []
+  },
+  {
+   "id": "14",
+   "ts": "2:44:49",
+   "processo": "48500.002860/2019-19 (número incerto na legenda)",
+   "interessado": "Energisa Rondônia (ex-Ceron), distribuidora",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.827/2019 que indeferiu a revisão tarifária extraordinária (em substituição ao reajuste de 2019); houve sustentação oral da distribuidora e manifestação do Procurador-Geral",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTE)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista de Agnes da Costa logo após o voto do relator",
+   "resumo_voto": "Relator vota por conhecer e dar provimento ao pedido (valor de cerca de R$ 245 milhões, dez/2023, segundo a legenda) e instaurar consulta pública de 23/5 a 7/7/2024 sobre a forma de repasse, seguindo o precedente do voto de Ricardo Tili no caso Energisa Acre.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, dá provimento",
+     "ts": "3:22:28",
+     "justificativa": "Entende situação semelhante ao caso Energisa Acre; dá provimento e instaura consulta pública para definir o repasse dos valores.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "3:30:55",
+     "justificativa": "Pede vista na abertura da votação; vista concedida pelo Diretor-Geral.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:28:30",
+     "justificativa": "Não votou; em debate discordou da tese: o edital trazia incentivo claro, a empresa não foi eficiente no prazo da BDGD, e o repasse elevaria a tarifa de Rondônia em cerca de 10%.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "3:30:55",
+     "justificativa": "Não votou antes da vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "3:30:55",
+     "justificativa": "Não votou antes da vista.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "3:31:05",
+   "processo": "48500.007520/2019-84 (número incerto na legenda)",
+   "interessado": "ABIAPE, ABRACE, ESBR e Norte Energia (recorrentes); transmissoras com concessões prorrogadas (CTEEP, Copel GT, Celg GT, Furnas, CGT Eletrosul, Eletronorte, Cemig GT, Chesf)",
+   "assunto": "RBSE: pedidos de reconsideração contra a REH 2.846/2021 (reposicionamento da RAP das transmissoras prorrogadas pela Lei 12.783/2013); sustentações orais conjuntas dos itens 10 e 11",
+   "tema": [
+    "transmissão (RAP, RBSE)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Agnes da Costa; Hélvio Guerra consignou voto acompanhando o relator",
+   "resumo_voto": "Relator: conhece em parte e dá provimento parcial (correção do fluxo de caixa antecipado na amortização a partir de 2017/18; Ke incorporado até 2017 e dois fluxos para a receita em controvérsia, até 2025 e 2028; correção de ofício do WACC); tema de cerca de R$ 11,6 bilhões segundo debate.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento parcial",
+     "ts": "5:55:00",
+     "justificativa": "Vota pelo provimento parcial dos pedidos de reconsideração com novo fluxo de pagamento da RBSE; defendeu desfecho do tema que se arrasta há anos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (voto consignado antes da vista)",
+     "ts": "6:02:18",
+     "justificativa": "Em fim de mandato, pede registro em ata de que acompanha o voto de Fernando Mosna, idêntico ao seu voto no item 10. Houve debate regimental com Sandoval, Tili e Fernando sobre o momento de consignar voto (art. 24).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "6:02:10",
+     "justificativa": "Pede vista ao abrir a votação; participava remotamente (3 h da manhã no seu fuso).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "6:02:10",
+     "justificativa": "Não votou; disse que o tema se arrasta há 10 anos e precisa de ponto final com urgência antes do ciclo tarifário da transmissão (atribuição desta fala incerta).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "6:02:10",
+     "justificativa": "Não votou; no debate disse ainda não ter certeza do seu voto e defendeu seguir a ordem regimental de votação (atribuição inferida).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "6:05:08",
+   "processo": "48500.007490/2019-61 e conexos (oito processos, números incertos)",
+   "interessado": "ABIAPE, ABRACE, ESBR e Norte Energia (recorrentes); CEEE GT, Copel GT, Furnas, CGT Eletrosul, Eletronorte, CTEEP, Cemig GT e Chesf",
+   "assunto": "RBSE: pedidos de reconsideração contra as REH 2.845 e 2.847 a 2.853/2021 (reposicionamento da RAP); sem novas sustentações orais",
+   "tema": [
+    "transmissão (RAP, RBSE)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista de Agnes da Costa; reunião suspensa até o dia seguinte às 9 h",
+   "resumo_voto": "Relator leu só o dispositivo, com fundamentação idêntica ao voto de Fernando Mosna no item 11: não conhece a capitalização mensal; dá provimento à correção da amortização antecipada a partir de 2017/18 e ao Ke até 2017 com dois fluxos (2025 e 2028); corrige de ofício o WACC; aprova as minutas de REH.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, dá provimento parcial",
+     "ts": "6:09:14",
+     "justificativa": "Mesmo voto do item 11, ajustado às empresas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "6:12:10",
+     "justificativa": "Pede vista ao abrir a votação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "6:12:10",
+     "justificativa": "Não votou antes da vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "6:12:10",
+     "justificativa": "Não votou antes da vista; é relator do item 11, de mesmo teor.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "6:12:10",
+     "justificativa": "Não votou antes da vista.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Item 7 (EUST, CP 75/2020): retirado após sustentações, a pedido de Agnes da Costa",
+  "Item 12 (Enel Distribuição Rio): retirado pelo relator Fernando Mosna"
+ ],
+ "limites_da_analise": [
+  "O rótulo de falantes do .md inclui Gentil Nogueira, que não integrava a diretoria em maio/2024; considerados presentes Sandoval, Agnes, Hélvio, Fernando Mosna e Ricardo Tili (Hélvio é chamado como relator).",
+  "Item 5: os três «voto com o relator» não têm nome; atribuição a Agnes, Fernando e Tili é inferida; o pedido de vista foi atribuído a Sandoval porque o autor retoma («como disse») a fala sobre temas que mereciam aprofundamento e logo chama o próximo item, mas não há nome dito.",
+  "Itens 11/14: atribuição das falas de debate a Sandoval e Tili é inferida pelo conteúdo; ts do voto do relator do item 11 é aproximado.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados."
+ ]
+}

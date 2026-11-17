@@ -1,0 +1,71 @@
+{
+  "meta": {"video_id": "1b3nrNU6tcY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "17ª Reunião Pública Ordinária de 2024 (Parte 4)", "data": "2024-05-22", "formato": "presencial/híbrida (Parte 4 da sessão, tarde/noite do 2º dia)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Agnes da Costa"],
+    "observacoes": [
+      "Retomada da 17ª RPO após a leitura do voto-vista de Fernando Mosna (feita na parte anterior) sobre compartilhamento de postes; última reunião de Hélvio Guerra antes do fim do mandato.",
+      "Agnes da Costa não aparece votando; no item de postes se diz que, com empate, o processo aguardaria a diretora Agnes, e no item 13 se fala em dois a dois aguardando voto; tratada como ausente (inferência).",
+      "Hélvio Guerra leu (≈2:30:45) a redação final do dispositivo do processo da manhã sobre sobrecontratação involuntária decorrente de MMGD (arts. 21 e 24 da Lei 14.300/2022), incorporando propostas de Fernando Mosna, e retificou as perdas de 2027-28 na revisão tarifária da Amazonas Energia (legenda: 8,03...% em vez de 7,92...%; valores incertos).",
+      "Retirados de pauta: itens 27, 13 (Hélvio Guerra; processo com vista e placar 2 a 2, faltando seu voto), 25 e 35; Mosna e Tili retiraram processos de bloco. Sessão suspensa ≈19h30 para continuar no dia seguinte às 9h (item 17, Light, e bloco de Hélvio Guerra).",
+      "Atrito no item de postes entre Sandoval Feitosa e Fernando Mosna (cobrança de contato visual; Mosna diz que não precisa motivar pedido de vista)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "postes-vista", "ts": "0:00:04",
+      "processo": "não identificado na legenda", "interessado": "Distribuidoras (Abradee), operadoras de telecom (Abrint), Anatel",
+      "assunto": "Resolução conjunta ANEEL/Anatel sobre compartilhamento de postes (regularização de cabos, ocupação dos pontos de fixação; poderá x deverá retirar cabos irregulares) — continuação após voto-vista",
+      "tema": ["regulação normativa", "distribuição", "compartilhamento de infraestrutura"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Novo pedido de vista de Ricardo Tili; sem deliberação. Votos na mesa: Hélvio Guerra (original, igual ao aprovado pela Anatel) e Fernando Mosna (voto-vista).",
+      "resumo_voto": "Mosna (voto-vista) amplia prazo de identificação de 90 dias, mínimo de 8 pontos de fixação para telecom e faculta à distribuidora cortar cabos irregulares, com custo refletido depois no preço regulado; Hélvio mantém voto original, alinhado ao aprovado pela Anatel, atribuindo responsabilidade às distribuidoras.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, mantém voto original", "ts": "0:18:39", "justificativa": "Resolução é conjunta e a Anatel já aprovou texto igual ao seu voto; mudar exigiria nova rodada de convergência; distribuidoras têm parte da responsabilidade pelo caos nos postes e já deram mostra de que não têm condições de conduzir o processo.", "tom": "cordial, reconhece trabalho do voto-vista", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: diverge do relator", "ts": "0:00:22", "justificativa": "Regra de 2014 já põe a regularização a cargo das teles e não é cumprida; distribuidoras já arcam com retirada de toneladas de cabos; propõe faculdade de corte e tratamento do custo no preço de referência; ideias conversadas com o presidente da Anatel (Baigorri).", "tom": "tenso com o Diretor-Geral", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "0:23:27", "justificativa": "Perguntou se, votando com Hélvio, o processo ficaria aguardando a diretora Agnes; em seguida pediu vista.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:22:22", "justificativa": "Questionou Mosna sobre contradição entre parágrafos 61 e 117 (custo de retirada repassado ao preço do ponto) e manifestou dúvida sobre a convergência com a Anatel; uma fala sem nome diz «eu vou votar com o diretor Fernando», possivelmente dele (falante incerto).", "tom": "atrito com Mosna", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "9", "ts": "0:23:40",
+      "processo": "48500.0052??/2020 (número incerto na legenda)", "interessado": "Abradee (recorrente); Energisa (terceira interessada); Absolar, Consórcio Solar Trienergy",
+      "assunto": "Recurso administrativo da Abradee contra o Despacho STD 3.438/2023 (entendimento regulatório de ouvidoria sobre o art. 83 da REN 1.000/2021: cancelamento de orçamentos de conexão de MMGD após a REN 1.059/2023, inversão de fluxo)",
+      "tema": ["geração distribuída (MMGD)", "recursos administrativos", "distribuição", "fiscalização"],
+      "relator": "Ricardo Tili",
+      "resultado": "Unânime: recurso conhecido e não provido; mantido integralmente o Despacho 3.438/2023.",
+      "resumo_voto": "Orçamento de conexão é oferta vinculante (art. 427 CC, art. 30 CDC, art. 83 §5º REN 1.000); não pode ser cancelado unilateralmente após emissão; REN 1.059 não retroage; aplicável o CDC por hipossuficiência técnica do consumidor-gerador; diverge do Parecer 38/2024 da Procuradoria. Sustentações: Bárbara Rubim (Absolar), Rafael Janiques (Trienergy), Lucas (Energisa), Ricardo Brandão (Abradee).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "1:13:26", "justificativa": "Orçamento de conexão é proposta/oferta vinculante e direito expectativo; descabe aceitação tácita; STD agiu dentro da competência delegada; conduta da distribuidora foi orquestrada e merece punição exemplar.", "tom": "enfático («assombroso»)", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:30:12", "justificativa": "Descumprimento de decisão do regulador é descaso; pede fiscalização das demais distribuidoras. Atribuição da fala «eu voto com o relator» pela ordem de votação.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:30:12", "justificativa": "Já antecipara concordância; Energisa usa a agência como escudo em juízo; questionou acordos e parte relacionada (re)Energisa.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama unanimidade)", "ts": "2:30:15", "justificativa": "Tende a seguir área técnica e Procuradoria, mas pelo princípio da especialidade a norma da ANEEL (art. 83 §5º) impede cancelamento unilateral; ressalva técnica sobre penetração de MMGD na rede de Mato Grosso.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "15", "ts": "2:34:19",
+      "processo": "48500.006837/2022 (dígito final incerto)", "interessado": "Diamante Geração de Energia Ltda. (Complexo Termelétrico Jorge Lacerda, Capivari de Baixo/SC)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3.711/2022: reembolso pela CDE do custo do carvão mineral nacional para energia exportada (Argentina/Uruguai)",
+      "tema": ["CDE e encargos setoriais", "recursos administrativos", "outorgas de geração (térmica)", "comercialização"],
+      "relator": "Fernando Mosna",
+      "resultado": "Por maioria, provido: reconhecido o direito ao reembolso independentemente da forma de comercialização e do local de consumo, inclusive para futuras operações e contratos; vencido Sandoval Feitosa.",
+      "resumo_voto": "Com base no parecer de Tércio Sampaio Ferraz Jr., a Lei 10.438 (art. 13, V) e o Decreto 9.022 exigem só geração no SIN com carvão nacional; vedada redução teleológica restritiva; diverge da Procuradoria (Parecer 372/2022). Sustentação oral de Valéria Rosa (Diamante).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá provimento", "ts": "3:16:05", "justificativa": "Lei não vincula o local de consumo; benefício de fomento vincula a administração; boa-fé e vedação ao comportamento contraditório; portaria MME 68/2023 não trouxe restrição; efeitos até 31/12/2024 (depois vira contrato de reserva).", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:32:49", "justificativa": "Sempre defendeu a mesma tese quando relator da primeira decisão: a lei não distingue mercado nacional ou internacional.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:32:55", "justificativa": "Acompanha; antes lembrou que a restrição prevista em nota técnica do MME não se concretizou.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido (diverge do relator)", "ts": "3:33:10", "justificativa": "Acompanha a manifestação da área técnica e da Procuradoria; Procuradoria e SGM não reexaminaram após a portaria do MME.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 27", "item 13 (Hélvio Guerra; vista com placar 2 a 2)", "item 25", "item 35", "item 17 (Light) e itens de bloco adiados para o dia seguinte"],
+  "limites_da_analise": [
+    "Legenda automática sem identificação de falantes; votos de quem só diz «acompanho» atribuídos pela ordem de votação e pela proclamação (confiança média).",
+    "Número do item e do processo de postes não ditos nesta parte; números de processo dos itens 9 e 15 truncados na legenda.",
+    "No item de postes não está claro quem disse «eu vou votar com o diretor Fernando» (possivelmente Sandoval Feitosa); registrado como não votou (vista).",
+    "Ausência de Agnes da Costa inferida (não vota nem fala nesta parte).",
+    "Nomes de advogados e números (GW, percentuais, quantidade de orçamentos) podem estar errados na legenda."
+  ]
+}

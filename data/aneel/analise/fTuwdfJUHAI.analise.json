@@ -1,0 +1,44 @@
+{
+ "meta": {"video_id": "fTuwdfJUHAI", "fonte": "legenda automática do YouTube; transcrição em bloco único (falantes não separados); ts = tempo do vídeo via transcricoes/fTuwdfJUHAI.json; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária de 2024 (Parte 2)", "data": "2024-05-14", "formato": "híbrido (Diretor-Geral remoto)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra"],
+  "ausentes": ["Ricardo Tili"],
+  "observacoes": ["Retomada da reunião após queda do sistema/transmissão (agradecimento ao Serpro e à SGI).", "Ricardo Tili citado como em férias; não se ouve voto dele. Hélvio Guerra em fim de mandato (impedido de participar de sorteios a menos de 45 dias do fim).", "Item 7 (flexibilizações no Rio Grande do Sul) aprovado por unanimidade; item 6 (CP 20/2023, fim dos descontos TUST/TUSD) com pedido de vista de Agnes da Costa ao final da sessão.", "Por proposta do Diretor-Geral, a reunião foi suspensa após o item 6 e retomada no dia seguinte às 9h com a pauta normal."]
+ },
+ "itens": [
+  {
+   "id": "7", "ts": "0:02:02",
+   "processo": "48500.00189?/2024-34 (número incerto na legenda)",
+   "interessado": "distribuidoras do Rio Grande do Sul (CEEE Equatorial, RGE/CPFL, permissionárias Certel, Certaja e cooperativas); ABRADEE, ABRADEMP, Infracoop, AGERGS",
+   "assunto": "Resolução normativa de flexibilização das regras de prestação do serviço público de distribuição de energia elétrica em razão da calamidade pública no Rio Grande do Sul (enchentes de abril/maio de 2024)",
+   "tema": ["distribuição e qualidade do serviço", "regulação normativa (dispensa de consulta pública e AIR por urgência)", "CDE e encargos setoriais", "tarifa social", "eventos climáticos extremos / resiliência"],
+   "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN temporária: reconhece a calamidade como caso fortuito/força maior; veda suspensão de fornecimento e cobranças por 90 dias nos municípios em decreto e 30 dias nos demais; suspensão (não encerramento) de contratos de unidades destruídas sem cobrança; flexibiliza leitura (15 a 47 dias), entrega de fatura e prazos administrativos; dispensa anuência prévia para compartilhamento de recursos no grupo econômico; suspende por três competências encargos (CDE Uso, CDE GD, CDE Covid, Proinfa, TFSEE), cerca de R$ 757 milhões; dispensa CP e AIR por urgência, com ARR em até 180 dias após relatório final. Sustentação oral de Cristiano Logrado (CEEE Equatorial); apresentações de Jaqueline (SFT) e Pedro Lombardi (STD).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:07:10", "justificativa": "urgência da calamidade justifica flexibilizações imediatas sem consulta pública nem AIR; demais pleitos que exigem análise de mérito ficam para processos específicos", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:32:03", "justificativa": "na discussão elogiou o trabalho; citou ser relator do processo de uso de recursos do PEE e cobrou nota técnica da superintendência", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "1:32:05", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "1:32:09", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "6", "ts": "1:32:30",
+   "processo": "48500.001367/2016-61 (número incerto na legenda)",
+   "interessado": "geradores de fontes incentivadas (eólica, solar, PCH); associações do setor (11 sustentações orais, entre elas ABRAGEL, ABEEólica, ABSOLAR); ONS",
+   "assunto": "Resultado da Consulta Pública 20/2023: revisão da REN 1.031/2022 e das regras de comercialização pelo fim dos descontos na TUST/TUSD de fontes incentivadas (art. 4º da Lei 14.120/2021); natureza das condições de 12 e 48 meses e cobrança de EUST pelo ONS",
+   "tema": ["tarifas (TUST/TUSD, descontos de fontes incentivadas)", "outorgas de geração (eólica, solar, PCH)", "comercialização (regras de comercialização, CCEE)", "regulação normativa (resultado de consulta pública)", "fiscalização (ONS)"],
+   "relator": "Hélvio Guerra", "resultado": "pedido de vista (Agnes da Costa); deliberação suspensa",
+   "resumo_voto": "Relator diverge da área técnica e da Procuradoria: o desconto nasce com a outorga e o prazo de 48 meses é condição resolutiva (regime de transição); propõe ajustar outorgas emitidas sem condição de prazo e determinar à SFT processo de fiscalização sobre a conduta do ONS na cobrança de EUST; acompanha área técnica no sentido de não caber excludente de responsabilidade (item 108). Procuradoria sustenta que os requisitos legais são pressuposto de aquisição do direito.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova (voto lido)", "ts": "3:54:56", "justificativa": "lei trouxe novo regime de transição; desconto vale desde a outorga e se perde se não houver operação comercial em 48 meses (condição resolutiva); estabilidade e credibilidade do regulador após o 'dia do perdão'", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (vista); manifestou concordância com o relator", "ts": "4:04:33", "justificativa": "histórico CP 33, PLS 232 e MP 998 mostra transição; condição procedimental (12 meses) e condição resolutiva (48 meses)", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "4:32:48", "justificativa": "ainda sem plena convicção se a leitura da lei é resolutiva ou suspensiva; argumentos da Procuradoria e da área técnica fortes; preocupação com segurança jurídica", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "4:07:31", "justificativa": "dúvida sobre até que ponto a segurança jurídica permite contrariar dispositivo legal; observou que outorgas desde 2021 trazem a condição; a decisão da REN 1.065 não vincula o mérito, remetido à CP 20", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Transcrição em bloco único: falantes não são identificados; atribuição de falas por contexto e ordem de votação.", "Item 7: as três falas de acompanhamento ('voto com a relatora', 'acompanho', 'também acompanho e proclamo') foram atribuídas pela ordem usual (Mosna, Hélvio, Sandoval); só a do Diretor-Geral é certa pela proclamação.", "Item 6: a fala às ~4:25:45 ('o limite de interpretação é o texto da Norma'), contrária à leitura do relator, não tem falante identificado (provavelmente Agnes da Costa); não registrada como voto.", "Números de processo incertos na legenda.", "Ricardo Tili: citado como em férias e mencionado por engano pelo Diretor-Geral; tratado como ausente.", "Sustentantes do item 6 não todos identificados por nome."]
+}

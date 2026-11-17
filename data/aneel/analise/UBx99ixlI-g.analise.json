@@ -1,0 +1,73 @@
+{
+  "meta": {"video_id": "UBx99ixlI-g", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "11ª Reunião Pública Ordinária de 2024",
+    "data": "2024-04-09",
+    "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+    "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa", "Agnes da Costa"],
+    "observacoes": [
+      "Ausências justificadas do Diretor-Geral Sandoval Feitosa e da diretora Agnes da Costa; quórum de três diretores. Procurador-Geral substituto Eduardo Ramalho; secretário-geral Daniel Danna.",
+      "Pauta com 28 itens; itens 4 a 28 em bloco; item 10 destacado do bloco; itens 3, 4 e 5 retirados de pauta; sustentação oral nos itens 2 e 10.",
+      "Item 1 (governança da CCE, CP 5/2024): longo debate entre o relator Ricardo Tili e Fernando Mosna (regra de transição, mandato de 2 ou 4 anos, CAFT e 0,2%, não coincidência de mandatos, requisitos de diretoria); Fernando Mosna pediu vista.",
+      "Item 2: multa de cerca de R$ 165,8 milhões à Enel Distribuição São Paulo (evento climático de 3/11/2023) mantida por unanimidade.",
+      "Item 10 (UFVs Boa Hora 4, 5 e 6): retirado de pauta pelo relator Hélvio Guerra após sustentação oral."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:15", "processo": "itens 4 a 28 (exceto 10 e retirados)", "interessado": "diversos",
+      "assunto": "Itens do bloco da 11ª RPO de 2024 (votos e atos publicados previamente com a pauta)",
+      "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Os três diretores presentes aprovaram os itens remanescentes do bloco; um diretor tentou pedir vista do item 5, mas foi lembrado de que havia sido retirado de pauta.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:07:17", "justificativa": "Aprova os itens remanescentes do bloco.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:07:19", "justificativa": "Aprova o bloco (fala sobre vista do item 5, já retirado).", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:07:34", "justificativa": "Também aprova o bloco e proclama a unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:07:53", "processo": "48500.001002/2024-15 (aprox.)", "interessado": "CCEE; agentes de mercado (Abraceel e outros contribuintes)",
+      "assunto": "Resultado da Consulta Pública 5/2024: regulamentação do Decreto 11.835/2023 sobre a nova governança da CCEE (alteração da REN 957/2021, REN 1.009/2022 e regras/procedimentos de comercialização)",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"],
+      "relator": "Ricardo Tili", "resultado": "pedido de vista de Fernando Mosna (deliberação suspensa)",
+      "resumo_voto": "Relator vota por alterar a REN 957/2021 e a REN 1.009/2022 e aprovar os módulos de regras e procedimentos; discorda da Procuradoria sobre a transição (aplica-se o estatuto vigente, mandato de 4 anos) e acompanha a leitura de que o 0,2% remunera gestão e estudos, separado do CAFT; remete cotas de gênero/raça, comitê de pessoas e não acúmulo de presidências ao estatuto; acata sugestão de Mosna sobre não coincidência de mandatos. Mosna diverge em vários pontos e pede vista.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:36:54", "justificativa": "Aprova a nova convenção de comercialização; transição pelo estatuto vigente; 0,2% como remuneração distinta do CAFT; boas práticas ESG e diversidade a serem tratadas no estatuto; mantém o voto e acata a sugestão sobre não coincidência de mandatos.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "2:31:20", "justificativa": "Defendia limitar remuneração do CAD e vedar acúmulo de presidente do conselho com diretor-presidente já na convenção; entende que o estatuto perdeu validade e mandatos devem ser de 2 anos; segue a Conjur/MME de que o 0,2% é teto incluindo CAFT; requisito de experiência no setor elétrico, não só no campo da CCEE.", "tom": "divergente, técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "2:31:20", "justificativa": "No debate tendeu a concordar com o relator, mas apontou contradição em aplicar parte do decreto e manter mandato de 4 anos; concordou com Mosna sobre requisito de experiência no setor elétrico; concedeu a vista.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:31:45", "processo": "48500.006591/2023-1x (aprox.)", "interessado": "Enel Distribuição São Paulo",
+      "assunto": "Recurso administrativo contra o Auto de Infração 2/2024 da SFT: multa por falta de diligência no restabelecimento do fornecimento após o evento climático de 3/11/2023",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "recursos administrativos", "distribuição"],
+      "relator": "Ricardo Tili", "resultado": "recurso conhecido e não provido por unanimidade; mantida multa de cerca de R$ 165,8 milhões (0,9528% da receita operacional líquida)",
+      "resumo_voto": "Sustentação oral de Fabiano Brito (Enel SP) pedindo reenquadramento e revisão da abrangência na dosimetria; apresentação técnica da SFT. Relator rejeita nulidade e no mérito nega provimento. Hélvio Guerra critica o argumento de rede centenária e a ênfase nas árvores caídas: o que se julga é o tempo de recomposição.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "3:07:51", "justificativa": "Preliminares de nulidade são meritórias e não há vício de legalidade; nega provimento e mantém a multa.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:11:53", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:11:55", "justificativa": "Quem assumiu a concessão conhecia a rede; não está em discussão a intensidade dos ventos, mas a capacidade de recompor o fornecimento.", "tom": "crítico à distribuidora", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "10", "ts": "3:13:20", "processo": "48500.004267/2021, 48500.004268/2021-49 e 48500.004269/2021-93 (aprox.)", "interessado": "Boa Hora 4, 5 e 6 Geradora de Energia Solar S.A. (UFVs em Tacaimbó-PE)",
+      "assunto": "Recurso contra o Despacho 376/2024 (SFT/SCE) que indeferiu excludente de responsabilidade e alteração de cronograma das UFVs Boa Hora 4, 5 e 6 (questão fundiária: ação judicial do arrendante)",
+      "tema": ["outorgas de geração (eólica, solar, hidrelétrica, térmica)", "recursos administrativos", "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"],
+      "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator após sustentação oral",
+      "resumo_voto": "Sustentação oral de André Fabian (empresas) alegando vício de competência e fato de terceiro; Procurador Eduardo Ramalho concorda com o voto do relator. Relator rebate (risco do empreendedor), mas reconhece divergência entre o pedido e o dispositivo e retira o processo para ajuste e reunião com a empresa.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "3:30:50", "justificativa": "Questão fundiária é risco do empreendedor, mas o pedido difere do deliberado; retira para ajustar o dispositivo e ouvir a empresa.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["itens 3, 4 e 5 (retirados de pauta antes da sessão)", "item 10 (retirado pelo relator Hélvio Guerra durante a sessão)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo aproximados (sufixos incertos); nomes 'Boora' interpretado como Boa Hora e 'Taim Bó' como Tacaimbó (PE) por inferência.",
+    "Bloco: a ordem das duas primeiras falas de aprovação (Tili e Mosna) não é identificada pela legenda; atribuição pela fala sobre vista do item 5, confiança media.",
+    "Item 2: as falas 'acompanho o relator' não têm nome na legenda; Mosna atribuído pela ordem (Hélvio presidia e votou por último ao proclamar).",
+    "Item 10: apenas o relator registrado (retirada de pauta, sem votação dos demais).",
+    "Item 1: sem deliberação final; votos de Hélvio Guerra não proferidos."
+  ]
+}

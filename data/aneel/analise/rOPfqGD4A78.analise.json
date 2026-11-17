@@ -1,0 +1,57 @@
+{
+  "meta": {"video_id": "rOPfqGD4A78", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Reunião Pública Ordinária de 2024 (Parte 2)",
+    "data": "2024-03-19",
+    "formato": "presencial (transmissão)",
+    "presidente_da_sessao": "Hélvio Guerra (decano, presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": [
+      "Parte 2 da sessão (tarde): itens 20 e 22 deliberados.",
+      "Ao final, o secretário-geral informou que o item 3, sob pedido de vista em mesa do diretor Sandoval Feitosa, foi convertido em pedido de vista tradicional.",
+      "Após a pauta, Hélvio Guerra retomou a revisão tarifária da Enel Rio (decidida antes, com empate e voto divergente de Agnes da Costa, que passa a redatora): sem objeção dos presentes, nova tarifa vale a partir de 20/03 (publicação do ato) e a diferença de 15 a 19/03 vira componente financeiro no próximo reajuste; Agnes disse que trará o dispositivo nesse sentido. Registrado como observação, não como item novo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "20", "ts": "0:00:19",
+      "processo": "48500.004872/2023-34 (número incerto na legenda)",
+      "interessado": "Energy Assets do Brasil Ltda. (UTE Coari, Coari/AM; compradora Amazonas GT)",
+      "assunto": "Pedido de reconsideração contra o Despacho 4.465/2023, que indeferiu excludentes de responsabilidade pelo descumprimento do cronograma de implantação da UTE Coari (sistema isolado; ausência do CCG pela Amazonas GT)",
+      "tema": ["fiscalização e sanções (cronograma, excludente de responsabilidade)", "outorgas de geração (térmica)", "recursos administrativos", "sistemas isolados"],
+      "relator": "Hélvio Guerra",
+      "resultado": "negado provimento por maioria; determinada à SFT apuração da conduta da Amazonas GT pela falta das garantias do CCESI 1/2017",
+      "resumo_voto": "Sustentação oral de Daniel Ribeiro do Vale (Energy Assets) e manifestação do procurador Raul pela procedência parcial (segurança jurídica, decisão de 2019). Relator: a usina operou em teste e comercialmente recebendo pelo contrato mesmo sem CCG, logo não há nexo causal; o atraso decorreu do prolongamento dos testes, responsabilidade do agente.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento", "ts": "0:25:52", "justificativa": "se a UTE recebeu pelo contrato sem CCG, não pode alegar suspensão de eficácia para afastar o cronograma; atraso por testes, sem nexo causal; não revoga a decisão de 2019", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:33:36", "justificativa": "falas «voto com o relator» sem nome; atribuição por exclusão", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:33:37", "justificativa": "falas «voto com o relator» sem nome; atribuição por exclusão", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "diverge, nos termos do parecer da procuradoria (vencido)", "ts": "0:33:38", "justificativa": "decisão da diretoria de 2019, transitada em julgado, reconheceu o CCG como condição de eficácia do contrato; exigir nexo causal agora contrariaria essa decisão", "tom": "dúvida reiterada, respeitosa", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "22", "ts": "0:34:50",
+      "processo": "48500.005448/2022-29",
+      "interessado": "Neoenergia Lagoa dos Patos Transmissão de Energia S.A. (transmissora; contrato de concessão 14/2019, leilão 4/2018)",
+      "assunto": "Requerimento de excludente de responsabilidade e redução de escopo do contrato quanto à LT 525 kV Capivari do Sul – Siderópolis 2, após o Ibama rejeitar o traçado proposto e indicar alternativa pelo litoral",
+      "tema": ["transmissão (outorgas, licenciamento ambiental)", "fiscalização e sanções (excludente de responsabilidade)", "leilões (transmissão)"],
+      "relator": "Fernando Mosna",
+      "resultado": "negado provimento por unanimidade",
+      "resumo_voto": "Sustentação oral de Márcio Pina Marques (Neoenergia), com pedido de cautelar subsidiário; procurador Raul pela improcedência (parecer 363/2023); apresentação técnica da especialista Taciana (SCE). Relator: estudos do edital são referenciais, traçado e licenciamento são risco da transmissora, não há inviabilidade declarada (alternativa 3 em análise no Ibama); reequilíbrio só após operação comercial; cautelar perde objeto.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "1:10:26", "justificativa": "contrato não define traçado; licenciamento é risco exclusivo da transmissora; sem inviabilidade declarada pelo Ibama", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação), com registro", "ts": "1:17:04", "justificativa": "registrou que não vê sentido em relatório referencial (R3) no edital se não serve de referência; ANEEL revê RAP para menos mas não para mais", "tom": "crítico ao modelo, sem divergir", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:17:06", "justificativa": "a palavra referência é ruim; cenário serve à RAP-teto e o risco de traçado e licenciamento é do agente", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:17:10", "justificativa": "elogiou a apresentação técnica; concorda que as referências dos relatórios precisam ser repensadas", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Sandoval Feitosa ausente na Parte 2; sessão presidida por Hélvio Guerra.",
+    "Item 20: os votos «voto com o relator», «também voto com o relator» e a divergência não têm nome na legenda; a divergência foi atribuída a Ricardo Tili pela dúvida reiterada na discussão (estilo e argumento coincidentes), confiança baixa; os dois que acompanham (Agnes da Costa e Fernando Mosna) são atribuição por exclusão.",
+    "Item 22: falas de comentário atribuídas por citação («diretor Ricardo traz»); ordem dos três «acompanho» incerta.",
+    "Números de processo e nomes (Coari, CCESI, Taciana) vêm da legenda automática e podem conter erros."
+  ]
+}

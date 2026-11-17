@@ -1,0 +1,88 @@
+{
+  "meta": {"video_id": "umiYb_HRGyE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "14ª Reunião Pública Ordinária de 2024", "data": "2024-04-30", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa"],
+    "ausentes": ["Fernando Mosna (férias)"],
+    "observacoes": [
+      "Quórum de quatro diretores; Fernando Mosna ausente justificadamente (férias).",
+      "Ata da 13ª RPO aprovada com retificação pedida por Hélvio Guerra no valor da penalidade à transmissora (legenda: São João Transmissora).",
+      "Pauta com 30 itens; itens 7 a 30 em bloco; destaque do item 16; retirados de pauta os itens 4, 11 e 14 antes da sessão.",
+      "Hélvio Guerra, sem voz (resfriado), retirou de pauta os seus quatro processos restantes (itens 2, 5, 6 e 16), comprometendo-se a trazê-los na reunião seguinte.",
+      "Item 3 (acórdão TCU 2353/2023, descontos TUST/TUSD de fontes incentivadas) teve debate intenso: Ricardo Tili discordou da linha da relatora e pediu vista.",
+      "Comunicados: bandeira verde para maio de 2024; tomada de subsídio 7/2024 (TUST/TUSDg 2024/2025); congresso CONFIA de fiscais."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:09:58", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 7 a 30 da pauta deliberados em bloco (votos disponibilizados previamente), exceto item 16 (destacado) e item 8 (vista)",
+      "tema": ["bloco de itens"], "relator": "diversos",
+      "resultado": "aprovados por unanimidade os itens remanescentes do bloco; item 8 com pedido de vista de Ricardo Tili",
+      "resumo_voto": "Diretores aprovaram os itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:10:03", "justificativa": "«eu aprovo os itens remanescentes do bloco» (falante sem nome; atribuído por ordem)", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco, exceto item 8 (pede vista)", "ts": "0:10:08", "justificativa": "«eu aprovo os itens do bloco com exceção do item oito que eu vou pedir Vista»; mesa confirma «o diretor Ricardo pediu vistas»", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:10:20", "justificativa": "«diretor Élvio ... eu aprovo o bloco»", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes e proclama", "ts": "0:10:40", "justificativa": "proclama aprovação por unanimidade dos itens remanescentes", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:10:08", "processo": "", "interessado": "não identificado",
+      "assunto": "Item 8 do bloco (assunto não lido na sessão)", "tema": ["bloco de itens"], "relator": "não identificado",
+      "resultado": "pedido de vista de Ricardo Tili",
+      "resumo_voto": "Retirado do bloco por pedido de vista.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "0:10:08", "justificativa": "pediu vista do item 8 ao votar o bloco", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "0:10:08", "justificativa": "", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "0:10:08", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:10:08", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:11:10", "processo": "48500.005815/2023-75", "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.",
+      "assunto": "Resultado da revisão tarifária periódica de 2024 da Equatorial Alagoas, a vigorar a partir de 3/5/2024, após a Consulta Pública 1/2024; efeito médio de -3,49%",
+      "tema": ["tarifas e revisão tarifária", "distribuição", "perdas não técnicas", "CDE e encargos setoriais"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a RTP 2024 da Equatorial Alagoas (efeito médio -3,49%), fixa TUSD/TE, recursos da CDE, receita das DIT, postos tarifários, componente T do Fator X em 1,733% e referencial de perdas 2024-2028; nega trajetória diferenciada de perdas não técnicas pedida pela distribuidora (precedente Energisa Rondônia não se aplica). Sustentações orais: Tibúrcio Valeriano Dantas Gurgel (Equatorial Alagoas) e Carlindo Lins Pereira Filho (Conselho de Consumidores). Apresentação técnica da STR.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:56:10", "justificativa": "não cabe tratamento distinto ao Proret: motivação do caso Energisa Rondônia inexiste para a Equatorial Alagoas; diferença real x regulatório já caiu para 3,4 p.p., demonstrando factibilidade da trajetória", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:13:51", "justificativa": "no debate: «o modelo tarifário Brasileiro hoje é socialmente injusto»; sugere fator de qualidade na tarifa dentro da mesma área de concessão e transição energética justa", "tom": "engajado, crítica ao modelo tarifário", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:13:53", "justificativa": "voto de acompanhamento sem fala nominada (pela proclamação unânime)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:13:54", "justificativa": "destacou resultados da privatização (DEC de 63 para ~16 horas), cotas crescentes de CDE no Norte/Nordeste dependentes de mudança legislativa e benefício do sinal locacional para Alagoas", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:15:50", "processo": "48500.007320/2022-08", "interessado": "ABEEólica, ABSOLAR, Elera/Enel/AES/Neoenergia/EDF, Cobra/Lightsource/ContourGlobal/Statkraft/Canadian Solar, Ventos de Santa Tarcila (Casa dos Ventos)",
+      "assunto": "Atendimento aos acórdãos TCU 2353/2023 e 129/2024 (Plenário) sobre descontos na TUST/TUSD para fontes incentivadas (fracionamento de usinas acima de 300 MW): plano de ação, consulta pública, outorgas condicionadas e justificativa para manter descontos já concedidos",
+      "tema": ["institucional/TCU", "CDE e encargos setoriais", "outorgas de geração (eólica, solar)", "regulação normativa (consulta pública)"],
+      "relator": "Agnes da Costa",
+      "resultado": "pedido de vista de Ricardo Tili; deliberação adiada",
+      "resumo_voto": "Relatora vota por abrir consulta pública de 45 dias sobre critérios do desconto, justificar a manutenção dos descontos já outorgados (NT 499 e parecer 57/2024 da PF), determinar campanha de fiscalização das outorgas, aprovar outorgas condicionadas e exigir termos declaratórios até 10/5/2024 sob pena de indeferimento. Sustentações orais: Élbia Gannoum (ABEEólica), Carlos Dornelas (ABSOLAR), Solange David, Vitória Monteiro de São Leão, Pedro Marcelo (Casa dos Ventos).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (consulta pública + justificativa de manutenção dos descontos)", "ts": "1:16:28", "justificativa": "decisão do TCU não deve retroagir sobre outorgas concedidas sob a interpretação anterior (segurança jurídica, confiança legítima, boa-fé); determinações do TCU são cogentes, logo é preciso aperfeiçoar a norma para o futuro", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "3:51:24", "justificativa": "vê contradição em sustentar que os atos estão corretos e mudar a norma por ordem do TCU; ou não abrir CP e contestar, ou, se rever, «cautelarmente suspender todos os descontos em vigor»; discorda do parecer da Procuradoria de que o TCU apontou só lacuna regulatória", "tom": "divergente, firme", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "3:51:24", "justificativa": "no debate defendeu a segurança jurídica e o art. 24 da LINDB para não rever o passado («prefiro ser conservador garantindo a segurança para investidores»)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "3:51:28", "justificativa": "no debate apoiou a linha da relatora; lembrou que a ANEEL não recorreu, só embargou; concede vista", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "4", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "11", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "14", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "2", "motivo": "retirado pelo relator Hélvio Guerra (sem voz), a voltar na próxima reunião"},
+    {"id": "5", "motivo": "retirado pelo relator Hélvio Guerra (sem voz)"},
+    {"id": "6", "motivo": "retirado pelo relator Hélvio Guerra (sem voz)"},
+    {"id": "16", "motivo": "destacado do bloco; retirado pelo relator Hélvio Guerra (sem voz)"}
+  ],
+  "limites_da_analise": [
+    "Bloco: a primeira fala «eu aprovo os itens remanescentes do bloco» não tem nome; atribuída a Agnes da Costa por exclusão (confiança baixa).",
+    "Item 8: assunto e relator não lidos na sessão.",
+    "Item 1: os dois acompanhamentos antes do Diretor-Geral não têm nome; atribuídos a Ricardo Tili e Agnes da Costa pela ordem e pela proclamação unânime (ordem entre eles incerta).",
+    "Assuntos dos itens 2, 5, 6 e 16 não foram lidos; a atribuição dos quatro a Hélvio Guerra vem da fala dele («eu sou relator de todos eles») e da ordem anunciada.",
+    "Nomes e números vêm de legenda automática (ex.: processo do item 1 e valores podem conter erros)."
+  ]
+}

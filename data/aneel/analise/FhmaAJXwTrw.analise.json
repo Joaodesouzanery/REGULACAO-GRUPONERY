@@ -1,0 +1,66 @@
+{
+  "meta": {"video_id": "FhmaAJXwTrw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Ordinária de 2024 (Parte 1, manhã)", "data": "2024-02-06", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili", "Agnes da Costa"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum completo de cinco diretores; ata da 2ª RPO de 2024 aprovada.",
+      "Pauta com 48 itens; itens 5 a 48 em bloco; destacados do bloco 9, 17, 26, 31 e 35; retirados de pauta 13 e 28; ordem: bloco, itens 2, 3, 4, 1, 9, 17, 26, 31 e 35.",
+      "Esta parte 1 cobre o bloco, o item 2 (julgamento suspenso) e o item 3; a sessão foi suspensa às 12h30 para retomada às 14h30 (itens 1, 4 e seguintes na parte 2), com inversão para julgar o item 1 antes do item 4.",
+      "Item 2 (Enel SP, multa de ~R$ 95 milhões): debate de quase 3 horas; conflito entre o Diretor-Geral (voto-vista) e o relator Fernando Mosna, que tentou pedir vista do voto-vista; julgamento suspenso para tratamento interno."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:09:25", "processo": "itens 5 a 48 (exceto destacados e retirados)", "interessado": "diversos",
+      "assunto": "Itens de bloco da 3ª RPO de 2024 (votos e atos disponibilizados previamente)",
+      "tema": ["institucional/TCU"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado por unanimidade, proclamado pelo Diretor-Geral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco (proclama)", "ts": "0:09:30", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:30", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:30", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:30", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:10:24", "processo": "48500.007202/2022-84 (número da legenda, incerto)", "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 12/2022 (SFE): multa de ~R$ 95,9 milhões (0,52% da ROL) por violação dos limites de DEC/FEC em 2021 agravada pelo descumprimento do plano de resultados; voto-vista do Diretor-Geral",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "distribuição e qualidade (DEC/FEC)"],
+      "relator": "Fernando Mosna", "resultado": "julgamento suspenso (sem proclamação); relator tentou pedir vista do voto-vista, questão de ordem levada para tratamento interno",
+      "resumo_voto": "Relator havia proposto afastar a reincidência específica e aplicar atenuante de 25% (multa ~R$ 53 mi). Voto-vista de Sandoval: reincidência específica configurada (decisão definitiva da ARSESP em 14/09/2021 e nova infração em 31/12/2021), sem atenuante, mantida a multa integral de ~R$ 95,9 mi, superado o entendimento do Despacho 546/2022 (abrandamento por melhoria posterior); retirou o parágrafo 54 (fixação de tese). Relator incorporou só a conclusão (multa integral) sem a fundamentação e depois pediu vista; DG negou, houve debate regimental e o item foi suspenso.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator; incorpora a conclusão do voto-vista (multa integral, reincidência específica) sem a fundamentação e sem a fixação de tese; depois pede vista do voto-vista (negada pelo DG)", "ts": "1:31:41", "justificativa": "discorda de chamar de erro a instrução técnica, do argumento do parecer da AGU e do parágrafo 46; quer aprofundar a instrução e ver parecer jurídico", "tom": "confrontador", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: nega provimento, mantém multa integral, supera o Despacho 546/2022 (retira o parágrafo 54)", "ts": "0:22:05", "justificativa": "reincidência específica configurada; atenuantes/agravantes só os da REN 846/2019; retroatividade benéfica não se aplica (parecer AGU)", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista (votou antes do relator, depois reconhecido como fora de ordem)", "ts": "2:39:49", "justificativa": "prefere aplicar só o que está na norma; sugeriu trocar a tese por determinação", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (suspenso); manifestou no mérito negar provimento e manter a multa, discordando do parágrafo 54", "ts": "1:46:55", "justificativa": "voto escrito juntado: falhas da Enel SP no evento de 3/11/2023 (comunicação com consumidores e autoridades) afastam atenuante por melhoria; criticou a demora de 94 dias da fiscalização", "tom": "crítico à concessionária e à fiscalização", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (suspenso); concorda com sanear o precedente do Despacho 546 e defendeu ouvir área técnica e procuradoria e o direito do relator de pedir vista/retirar de pauta", "ts": "1:32:22", "justificativa": "havia levantado a reincidência na reunião anterior; mudança de entendimento exige motivação nos autos; caso omisso deve ir ao colegiado (art. 36)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "3:02:51", "processo": "48500.001772/2020-53 (número da legenda, incerto)", "interessado": "Enel Distribuição Rio (Enel RJ)",
+      "assunto": "Recurso contra o Auto de Infração 29/2020 (SFE): multa de ~R$ 17,01 milhões por violação de indicadores de continuidade (DEC/FEC) em 2019 após descumprimento de planos de resultados, dosimetria pela REN 63/2004",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "distribuição e qualidade (DEC/FEC)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: conhecer e negar provimento, mantida a multa",
+      "resumo_voto": "Procuradoria (parecer 300/2022) e apresentação técnica da SFT; relator acompanhou integralmente a área técnica. Sem sustentação oral registrada. DG e Hélvio comentaram a demora (cerca de 1.200 dias e três relatores).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "3:15:51", "justificativa": "processo sob a REN 63/2004; acompanha a área técnica, sem influência do debate do caso Enel SP", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:20:26", "justificativa": "crítica à demora na decisão", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:20:28", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:20:30", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama)", "ts": "3:20:38", "justificativa": "antecipou concordância; destacou a importância da celeridade das sanções", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["13", "28"],
+  "limites_da_analise": [
+    "Parte 1 da reunião (manhã): itens 1, 4, 9, 17, 26, 31 e 35 estão na parte 2.",
+    "Itens do bloco não individualizados (votos previamente disponibilizados).",
+    "No item 2, a frase «Eu voto com voto Vista retirado 54» foi atribuída a Agnes da Costa porque depois se diz que ela votou antes do relator; atribuição inferida.",
+    "No item 3, as falas «voto com o relator»/«acompanho» não têm nome; ordem atribuída por inferência (Hélvio, Ricardo, Agnes, DG por último).",
+    "Números de processo e valores vêm da legenda automática e podem estar errados."
+  ]
+}

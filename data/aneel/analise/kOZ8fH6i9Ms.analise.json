@@ -1,0 +1,363 @@
+{
+ "meta": {
+  "video_id": "kOZ8fH6i9Ms",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "3",
+  "data": "2024-02-06",
+  "formato": "presencial (parte 2, tarde/noite)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 da 3ª Reunião Pública Ordinária de 2024; reaberta à tarde e encerrada à noite.",
+   "Sandoval pediu vista do item 4 (TUST/RBSE).",
+   "Item 1 (Minha Casa Minha Vida) aprovado por maioria após suspensão de ~15 min; vencido Fernando Mosna.",
+   "Item 2 (Enel SP) retomado da manhã; Sandoval retirou o voto-vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "4",
+   "ts": "0:00:15",
+   "processo": "48500.000394/2022-13",
+   "interessado": "CPFL Energias Renováveis, Elera Renováveis (complexos Alto Sertão I e Renascença), Energia Sustentável do Brasil (UHE Jirau), Eneva (UTE Porto do Itaqui, UTE Maranhão IV), Ecoenergia, Furnas",
+   "assunto": "Pedidos de reconsideração contra a REH 3.066/2022 (TUST ciclo 2022-2023): componente financeiro da RBSE para geradores com TUST estabilizada (REN 267/2007), regra de transição da Eneva, passivo de EUST da EOL Campo dos Ventos 2, período de estabilização da Ecoenergia; sustentações orais de Camila Alves de Moraes (Elera) e Natália Mouro de Oliveira (Abrace)",
+   "tema": [
+    "tarifas e revisão tarifária (TUST)",
+    "transmissão (RBSE)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa após voto do relator e de dois acompanhamentos; julgamento suspenso",
+   "resumo_voto": "Relator: perda de objeto (Furnas, ESBR Barra 761); provimento à CPFL Renováveis (passivo ~R$1,2 mi); não conhecer Ecoenergia (intempestivo); negar provimento a ESBR e Elera quanto ao financeiro da RBSE (estabilização só protegia durante o decênio); provimento parcial à Eneva (TUST ciclo 2 de transição para UTE Porto do Itaqui, extensível à UHE Foz do Chapecó; negado para UTE Maranhão IV); STR calcular EUST compensatórios.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (nega RBSE a ESBR/Elera; provimento parcial à Eneva)",
+     "ts": "1:59:23",
+     "justificativa": "A TUST estabilizada protegia o gerador só durante o decênio; findo o período, o gerador arca com os custos vigentes como qualquer usuário; Porto do Itaqui tinha direito adquirido aos dois ciclos de transição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (antes da vista; atribuição incerta)",
+     "ts": "2:04:22",
+     "justificativa": "Fala sem nome: «Eu voto com o relator» / «eu acompanho voto relator»; só duas falas de acompanhamento audíveis para três diretores.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (antes da vista; atribuição incerta)",
+     "ts": "2:04:24",
+     "justificativa": "Fala sem nome; atribuição pela ordem usual de votação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista) — incerto",
+     "ts": "2:04:27",
+     "justificativa": "Só duas falas de acompanhamento antes do pedido de vista; não é possível saber qual dos três não votou.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "2:04:27",
+     "justificativa": "Dúvidas sobre o ponto trazido na sustentação oral (financeiro da RBSE para geradores estabilizados); «precisa uma certa ousadia para pedir vista de um voto de 164 itens».",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:05:55",
+   "processo": "48500.003729/2023-28",
+   "interessado": "STD/STR; sustentações: Movimento Solar Livre (Everton Martins), INEL (Múcio Acerbi), Abradee (Lucas Malheiros Nunes), Absolar (Bárbara Rubim)",
+   "assunto": "Abertura de consulta pública para regulamentar o programa Minha Casa Minha Vida (Lei 14.620/2023) na REN 1.000 e outras providências, incl. art. 73 (inversão de fluxo em MMGD) e cobrança de faturas em atraso (art. 343)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "regulação normativa (consulta pública, AIR)",
+    "consumidor"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovada por maioria a abertura de CP (intercâmbio documental, ~8 a 23/02/2024) restrita ao Minha Casa Minha Vida e aos dispositivos da REN 1.059 sobre inversão de fluxo; vencido Fernando Mosna (e quem o acompanhou)",
+   "resumo_voto": "Relatora propôs CP de 15 dias com ~60 aprimoramentos, não aprovar a proposta do art. 343 (AIR em 30 dias) e nova redação do §7º do art. 73 (afastar análise de inversão de fluxo para zero grid e microgeração gratuita salvo violação do Módulo 8 do Prodist). Hélvio Guerra apresentou voto divergente (CP só para MCMV, fiscalização pela SFT); após suspensão de ~15 min, a relatora convergiu para CP só de MCMV + inversão de fluxo. Fernando Mosna manteve voto com despacho cautelar obrigando distribuidoras a atender MMGD até 50 kW (modelo Cemig).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova (com ajustes após convergência)",
+     "ts": "5:54:41",
+     "justificativa": "Urgência do Minha Casa Minha Vida; não se pode pular a consulta pública para mudar mérito; enforcement é questão de fiscalização.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge (voto com despacho regulatório cautelar sobre inversão de fluxo) — vencido",
+     "ts": "5:57:14",
+     "justificativa": "Distribuidoras apresentam «simulacro de estudo»; GD estaria sendo delegada à autorregulação das distribuidoras; precedentes de aplicação cautelar na abertura de CP (CP 20/2017, 70/2017, 34/2019).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a divergência de Fernando Mosna — vencido (atribuição incerta)",
+     "ts": "5:57:14",
+     "justificativa": "Fala sem nome «Eu voto com o voto do Fernando»; Tili criticou o item 3 do voto (consignar FAQ é inócuo; distribuidoras, ex. Energisa MT, recusam cumprir despacho).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (após convergência)",
+     "ts": "5:57:18",
+     "justificativa": "«Eu voto com a diretora Agnes com as alterações que ela propôs»; antes defendera CP só para MCMV, por falta de AIR/ARR e estabilidade regulatória da REN 1.059.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "5:57:22",
+     "justificativa": "Urgência do Minha Casa Minha Vida; favorável a padrão mínimo de estudo de inversão de fluxo.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "6:00:28",
+   "processo": "",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Recurso administrativo contra o Auto de Infração 12/2022 (DEC/FEC 2021 e descumprimento de plano de resultados); retomada do item da manhã com voto-vista do Diretor-Geral",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "distribuidoras"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unanimidade: conhecer e negar provimento, mantida a multa de cerca de R$ 95,8 milhões",
+   "resumo_voto": "Sandoval retirou seu voto-vista e acompanhou a conclusão do relator (reincidência específica); Fernando manteve fundamentação própria.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "6:03:20",
+     "justificativa": "Concorda com a manutenção da multa e o tratamento da reincidência, mas não com parte da fundamentação do voto-vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:03:22",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:03:24",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:03:26",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (retira voto-vista) e proclama",
+     "ts": "6:03:32",
+     "justificativa": "Abre mão do voto-vista porque o resultado útil é o mesmo.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "6:05:23",
+   "processo": "48500.001126/2023-91",
+   "interessado": "Mineração Taboca S.A. (UHE Pitinga)",
+   "assunto": "Recurso contra o AI 7/2023 da SFG (segurança de barragem, multa ~R$ 507,9 mil); sustentação oral de Sibele de Andrade Pacheco",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "segurança de barragens",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unanimidade: não conhecer por intempestividade e manter a multa",
+   "resumo_voto": "Notificação eletrônica com recibo de leitura é válida (REN 1.04x/2022); recurso fora do prazo; problemas de barragem persistentes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "6:17:08",
+     "justificativa": "Recibo registrado comprova a ciência em 27/04/2023; recurso intempestivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:17:10",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:17:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:17:14",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:17:16",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "6:17:53",
+   "processo": "48500.003526/2019-55",
+   "interessado": "Impasa Agroindustrial S.A. (UTE Impasa Mutum)",
+   "assunto": "Recurso contra o Despacho 4.188/2023 da SCE: ampliação de 26,5 MW sem direito ao desconto de 50% na TUST/TUSD (Lei 14.120/2021); sustentação oral de Ana Beatriz Dias",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "CDE e encargos setoriais (desconto TUST/TUSD)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Documentação incompleta (outorga de recursos hídricos e licença ambiental) até 02/03/2022; excludente de responsabilidade não demonstrada.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "6:27:21",
+     "justificativa": "A lei exige documentação completa na data; não houve excludente de responsabilidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:27:23",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:27:25",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:27:27",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:27:29",
+     "justificativa": "Observou que também faltava a outorga de recursos hídricos.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "6:28:16",
+   "processo": "48500.006431/2022-99",
+   "interessado": "Santo Antônio Energia S.A. (UHE Santo Antônio); CCEE",
+   "assunto": "Impugnação de decisão da CCEE (127ª reunião) que zerou a garantia física das UGs 45 a 50 de 13/01 a 15/02/2017 após o Ofício 42/2017; sustentação oral de Alberto de Punho Novo Júnior; apresentação da SGM (Alessandro Cantarino)",
+   "tema": [
+    "comercialização (CCEE, MRE, garantia física)",
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Portaria MME 94/2013 condicionava a garantia física à operação na cota 71,3 autorizada pelo Ibama; CCEE agiu conforme a portaria; ANEEL não tem competência para fixar garantia física.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "6:53:33",
+     "justificativa": "Acolhe a análise da SGM: a CCEE seguiu a Portaria 94/2013.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:53:35",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:53:37",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:53:39",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:53:41",
+     "justificativa": "Energia injetada segue a regra do MRE; encaminhamento correto.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "31",
+   "motivo": "retirado de pauta a pedido do relator (não identificado)"
+  },
+  {
+   "id": "35",
+   "motivo": "retirado de pauta pelo relator (não identificado)"
+  },
+  {
+   "id": "?",
+   "motivo": "Ricardo Tili retirou de pauta, a pedido da Abradee, recurso da Abradee contra despacho da STD sobre cancelamentos de orçamentos da Energisa MT (art. 83/73 REN 1.000); nº do item não dito"
+  }
+ ],
+ "limites_da_analise": [
+  "Só um marcador de tempo no .md; ts obtidos do .json da legenda, aproximados.",
+  "Item 4: só duas falas de acompanhamento antes da vista para três diretores (Agnes, Tili, Hélvio); atribuição dos votos de baixa confiança.",
+  "Item 1: a fala «Eu voto com o voto do Fernando» não tem nome; atribuída a Ricardo Tili pelo alinhamento nos debates (baixa confiança). Fernando não declarou voto na votação; vencido pela proclamação.",
+  "Hélvio Guerra não aparece no cabeçalho de falantes, mas relata o item 17 e vota no item 1.",
+  "Número do processo do item 2 (Enel SP) não lido nesta parte.",
+  "Valores e números de processo podem estar errados (legenda automática)."
+ ]
+}

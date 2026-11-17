@@ -1,0 +1,77 @@
+{
+  "meta": {"video_id": "5yAru8_ZUWA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "13ª RPO 2024 (Parte 1)", "data": "2024-04-23", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili", "Hélvio Guerra"],
+    "ausentes": ["Fernando Mosna"],
+    "observacoes": ["Abertura: quórum de três diretores; Ricardo Tili momentaneamente ausente, Fernando Mosna de férias (legenda: 'está em Fas'), Hélvio Guerra se juntou ao longo da reunião.", "Aprovadas as atas da 1ª RPE (15/04/2024) e da 12ª RPO (16/04/2024).", "Pauta com 40 itens; itens 12 a 40 em bloco; retirados os itens 15 e 20; sustentação oral nos itens 4, 5, 9, 10 e 21.", "Esta é a Parte 1: termina na pausa para almoço às 12h24; itens 9, 10, 3, 4, 11, 25 (destacado) ficaram para a parte seguinte."]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:07:14", "processo": "", "interessado": "diversos", "assunto": "Itens de bloco 12 a 40 (exceto retirados 15 e 20)", "tema": ["institucional/TCU"], "relator": "diversos",
+     "resultado": "aprovados os itens do bloco, exceto item 16 (pedido de vista) e item 25 (destacado)",
+     "resumo_voto": "Uma diretora (Agnes da Costa, inferida) aprova o bloco, mas vota contra o item 16 (multa editalícia, parecer 5/2024 da PF/ANEEL), contra dispositivo do item 24 (PCH, inciso III do art. 18) e contra o item 25 (propõe excludente de 105 dias para UFV, atraso de licença). Outro diretor pede vista do item 16 e destaque do item 25.",
+     "votos": [
+       {"diretor": "Agnes da Costa", "voto": "aprova o bloco, diverge nos itens 16, 24 (dispositivo) e 25", "ts": "0:07:31", "justificativa": "Item 16: parecer da PF revisou entendimento sobre multa editalícia; item 24: comando normativo sinaliza valorização de projetos de PCH, caso com mais de 20 anos de instrução; item 25: reconhecer 105 dias de excludente por atraso do órgão ambiental na licença de instalação.", "confianca": "media"},
+       {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:08:57", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:09:01", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; pede vista do item 16 e destaque do item 25", "ts": "0:09:40", "justificativa": "Ficou confuso com o encaminhamento do item 25 (voto-vista de Hélvio Guerra com Ricardo Tili relator); proclama aprovação do bloco.", "confianca": "baixa"}
+     ]},
+    {"id": "8", "ts": "0:10:10", "processo": "", "interessado": "transmissoras (não identificado)", "assunto": "Item 8 (em fase de votação; efeitos antes da revisão da receita das transmissoras)", "tema": ["transmissão (RAP, outorgas, reforços)"], "relator": "não identificado",
+     "resultado": "pedido de vista", "resumo_voto": "Diretor que estava fora na semana anterior pede vista; outro diretor havia aberto divergência e juntado voto escrito; voto de Hélvio Guerra já consta.",
+     "votos": [
+       {"diretor": "não identificado", "voto": "pede vista", "ts": "0:10:10", "justificativa": "Estava fora na semana passada e não teve tempo de avaliar; compromete-se a trazer rapidamente, antes da revisão da receita das transmissoras.", "confianca": "baixa"}
+     ]},
+    {"id": "1", "ts": "0:11:29", "processo": "48500.000591/2020 (legenda incerta)", "interessado": "Neoenergia Pernambuco (Celpe)", "assunto": "Reajuste tarifário anual 2024 da Neoenergia Pernambuco, efeito médio -2,69% (AT -2,85%, BT -2,63%), vigência 29/04/2024", "tema": ["tarifas e revisão tarifária"], "relator": "Agnes da Costa",
+     "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa reajuste; fim do contrato com a Termopernambuco (14/05) reduz custo; determina STR/SMA/STD avaliar até 16/05/2024 a apuração do indicador FER no componente Q do Fator X.",
+     "votos": [
+       {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:25:00", "justificativa": "Homologa índice com efeito médio -2,69% e determina avaliação do indicador FER.", "confianca": "alta"},
+       {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:28:11", "justificativa": "", "confianca": "media"},
+       {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:28:12", "justificativa": "", "confianca": "media"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:28:15", "justificativa": "Destaca fim dos contratos térmicos do programa de 2001 (Termopernambuco), redução da parcela B e da tarifa locacional; contratos devem ser cumpridos.", "confianca": "alta"}
+     ]},
+    {"id": "5", "ts": "0:29:08", "processo": "48500.002651/2022-43", "interessado": "transmissoras; sustentação oral: Thiago Aragão Soares (Abrate) e Kléber Davi (Eletrobras)", "assunto": "Resultado parcial da CP 31/2023: revisão dos submódulos 9.1 e 9.2 do PRORET (revisão periódica da RAP de transmissoras), prioridade 2 da 3ª etapa", "tema": ["transmissão (RAP, outorgas, reforços)", "regulação normativa"], "relator": "Agnes da Costa",
+     "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova revisão dos submódulos 9.1/9.2; não altera agora a metodologia da anuidade de melhorias de pequeno porte nem cria anuidade para reforços (pleito Abrate/Eletrobras); inclui o tema na agenda regulatória 2025-2026 com efeitos prospectivos.",
+     "votos": [
+       {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:13:00", "justificativa": "Mudança metodológica fora do escopo da CP 31; boa prática é aprimoramento prospectivo; tema vai à agenda regulatória 25/26.", "confianca": "alta"},
+       {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:19:42", "justificativa": "Banco de preços precisa de revisão e estudo de metodologia; agradece incorporação do seu voto-vista anterior.", "confianca": "media"},
+       {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:19:44", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:19:48", "justificativa": "Aceitar plano de investimento declarado violaria a assimetria de informação; antecipar fluxo de caixa sem razoabilidade.", "confianca": "alta"}
+     ]},
+    {"id": "2", "ts": "1:20:52", "processo": "48500.007747/2022-06", "interessado": "transmissoras prorrogadas (Lei 12.783/2013)", "assunto": "Abertura de consulta pública (30 dias, 24/04 a 23/05/2024) para revisão da RAP das transmissoras prorrogadas, data de revisão 01/07/2023; reposicionamento preliminar de -17,35%", "tema": ["transmissão (RAP, outorgas, reforços)", "regulação normativa"], "relator": "Agnes da Costa",
+     "resultado": "aprovado por unanimidade", "resumo_voto": "Instaura CP de 30 dias (prazo reduzido justificado pela má qualidade dos dados das transmissoras e pelo prazo).",
+     "votos": [
+       {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:55:00", "justificativa": "Prazo de 30 dias excepcional por atraso e inconsistência dos dados das transmissoras.", "confianca": "alta"},
+       {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:01:50", "justificativa": "Elogia automação; incomoda ainda o uso de planilhas Excel.", "confianca": "media"},
+       {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:01:52", "justificativa": "Complexidade não justifica manter processo em planilhas.", "confianca": "media"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:01:54", "justificativa": "Dois movimentos favoráveis ao consumidor: -1,5 bi econômico e ~1,9 bi de ativos depreciados.", "confianca": "alta"}
+     ]},
+    {"id": "21", "ts": "2:02:51", "processo": "48500.004858/2021-71", "interessado": "Central Eólica Babilônia 1 a 5; sustentação oral: Bianca Wolf", "assunto": "Pedido de reconsideração contra o Despacho 2939/2022 (ressarcimento de constrained-off de eólicas com garantia física no ACL)", "tema": ["recursos administrativos", "outorgas de geração (eólica)", "comercialização"], "relator": "Ricardo Tili",
+     "resultado": "conhecido e negado provimento, por unanimidade", "resumo_voto": "Relator segue SGM: art. 19 da REN 1030 já trata eventos anteriores a 01/10/2021 para contratos de reserva; não houve retroatividade da norma.",
+     "votos": [
+       {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "2:20:30", "justificativa": "Não houve retroatividade da norma; situação ACR já apurada pela CCEE.", "confianca": "alta"},
+       {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:20:57", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:21:01", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:21:05", "justificativa": "", "confianca": "media"}
+     ]},
+    {"id": "6", "ts": "2:21:31", "processo": "48500.005677/2022-43", "interessado": "CCEE; comercializadores varejistas", "assunto": "Abertura da 2ª fase da CP 28/2023 (regras e procedimentos de comercialização varejista; módulo simplificado; open energy)", "tema": ["comercialização (CCEE, PLD, contratos)", "regulação normativa"], "relator": "Ricardo Tili",
+     "resultado": "aprovado por unanimidade", "resumo_voto": "Instaura CP de 45 dias (24/04 a 07/06/2024).",
+     "votos": [
+       {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:42:00", "justificativa": "Abertura de mercado já é sucesso (19 mil pedidos de migração); defende open energy e simplificação com segurança.", "confianca": "alta"},
+       {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:54:14", "justificativa": "Questionou risco de perda de precisão de dados com a simplificação da medição.", "confianca": "media"},
+       {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:54:15", "justificativa": "", "confianca": "baixa"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:54:17", "justificativa": "Consumidores varejistas serão representados de forma agregada pelo comercializador.", "confianca": "alta"}
+     ]},
+    {"id": "7", "ts": "2:55:14", "processo": "48500.007441/2022-41", "interessado": "São João Transmissora de Energia S.A.", "assunto": "Recurso contra Auto de Infração 6/2023 (multa por serviço inadequado na LT São João do Piauí-Gilbués II; redutor de 25% na dosimetria da NC1)", "tema": ["fiscalização e sanções", "transmissão (RAP, outorgas, reforços)"], "relator": "Hélvio Guerra",
+     "resultado": "por maioria, negado provimento e reformado o AI (retirado redutor de 25% da NC1, multa da NC1 ~R$ 292.366,8, valores de abril/2023); vencido o voto-vista de Ricardo Tili",
+     "resumo_voto": "Ricardo Tili (voto-vista) propunha nulidade de ofício do AI e lavratura de novo AI pela SFT; Hélvio Guerra mantém reforma com contraditório já oportunizado; procurador entende possível a reforma (art. 64 da Lei 9.784).",
+     "votos": [
+       {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento e reforma o AI", "ts": "3:05:25", "justificativa": "Despacho 546/2022 era entendimento do colegiado; vício sanado com contraditório; anular exigiria rever outros casos e arrisca prescrição.", "confianca": "alta"},
+       {"diretor": "Ricardo Tili", "voto": "voto-vista: diverge, nulidade de ofício do AI (vencido)", "ts": "3:04:44", "justificativa": "Redutor sem previsão na REN 846 é vício de legalidade; reformar o AI exigiria reabrir prazo ao agente.", "confianca": "alta"},
+       {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:21:41", "justificativa": "Preocupação com prescrição e retrabalho; efeito prático o mesmo.", "confianca": "media"},
+       {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:21:57", "justificativa": "Princípio do aproveitamento dos atos; contraditório oportunizado (corrige-se após dizer 'voto-vista').", "confianca": "alta"}
+     ]}
+  ],
+  "retirados": ["15", "20"],
+  "limites_da_analise": ["Parte 1 da 13ª RPO; itens 9, 10, 3, 4, 11 e 25 estão em outro vídeo.", "Bloco: atribuição dos votos por inferência (divergências de quem formulou entendimento atribuídas a Agnes da Costa; pedido de vista do 16 e destaque do 25 incertos quanto ao autor).", "Item 8: autor do pedido de vista e relator não identificados.", "Votos 'acompanho' sem nome atribuídos pela ordem usual; confiança baixa/média.", "Número do processo do item 1 incerto na legenda; ts dos votos de relatores aproximados."]
+}
