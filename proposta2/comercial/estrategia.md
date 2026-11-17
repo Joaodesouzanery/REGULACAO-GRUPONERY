@@ -9,14 +9,14 @@ Documento interno do Grupo Nery (17/11/2026). As bases são `concorrentes.md`, `
   - Consultorias de risco político: Arko, Prospectiva, BMJ, Patri, todas qualitativas.
   - Lá fora: Politico Pro, cerca de US$ 5 mil por vertical/ano e até US$ 75 mil no nicho FDA; Regology, cerca de US$ 20 mil por usuário/ano (valores de terceiros, ver fontes).
 - **O que ninguém faz:** base voto a voto por diretor de agência brasileira, fala literal com o minuto do vídeo, previsão com teste no passado, diretoria por cadeira com vacância nas 12 agências, qualidade auditada.
-- **Posicionamento:** «analytics de decisores regulatórios». Não competimos com monitoramento: somos a camada que diz **como a diretoria vai decidir e por quê**. Monitoramento é barato e commodity; decisão antecipada com prova é cara.
+- **Posicionamento:** **«inteligência de decisão regulatória»**, no estilo Palantir: integramos num só lugar os dados públicos sobre quem decide (votos, falas no minuto, prazos, mandatos, pautas, precedentes) para apoiar a estratégia do cliente. Não prometemos prever a decisão; mostramos evidência e sinais de risco. Monitoramento de texto é commodity; inteligência integrada com prova é cara.
 
 ## 2. Como cobrar caro
-1. **Vender resultado, não acesso.** O preço é uma fração do valor evitado: meses de vista e custo de capital, horas de escritório, risco precificado. Use os cálculos de `exemplos_de_valor.md`.
+1. **Vender inteligência e evidência, não acesso nem promessa.** O preço é uma fração do valor evitado: meses de vista e custo de capital, horas de escritório, risco precificado. Use os cálculos de `exemplos_de_valor.md`.
 2. **Entrega personalizada (premium).** Documentos feitos para a empresa, com a marca dela, e não um painel genérico. Quando houver dashboard, ele entra como bônus do pacote, não como produto principal.
 3. **Prova verificável.** Cada afirmação tem o link no minuto, o que convence jurídico e compliance. A taxa de conferência cega publicada sustenta a confiança.
 4. **Escassez real.** Poucos clientes por setor e por agência, sem atender concorrentes diretos no mesmo processo. Isso justifica o ticket e protege a confidencialidade.
-5. **Âncora alta, entrada fácil.** Mostrar o pacote Corporativo (R$ 24 mil/mês) e vender o Completo (R$ 9,8 mil/mês), com piloto de 3 meses a 30% de desconto.
+5. **Âncora alta, entrada clara.** Mostrar o Estratégico (R$ 85 mil/mês) e vender o Inteligência (R$ 38 mil/mês), com piloto de 3 meses a 20% de desconto (`precos.md`).
 
 ## 3. Como chegar a muitos clientes
 **Prova:**
@@ -35,12 +35,12 @@ Documento interno do Grupo Nery (17/11/2026). As bases são `concorrentes.md`, `
 
 | Etapa | Meta/mês | Conversão esperada |
 |---|---|---|
-| Prévias completas enviadas | 30 | — |
-| Reuniões de 20 min | 9 | 30% |
-| Pilotos fechados | 3 | 33% |
-| Contratos anuais | 2 | 70% dos pilotos |
+| Prévias completas enviadas (prospects A) | 15 | — |
+| Reuniões com diretoria jurídica/regulatória | 5 | 33% |
+| Pilotos fechados | 1 a 2 | 30% |
+| Contratos anuais | 1 | 70% dos pilotos |
 
-Com 2 contratos novos por mês no pacote Completo, a receita recorrente chega a cerca de R$ 235 mil/mês em 12 meses (24 × R$ 9,8 mil). Com parceiros, metade dessa receita é dividida, mas o volume tende a ser maior.
+Com o ticket alto, a meta é menor e mais qualificada: 1 contrato novo por mês no Inteligência leva a receita recorrente a cerca de R$ 456 mil/mês em 12 meses (12 × R$ 38 mil). Com parceiros, metade é dividida, mas o volume tende a ser maior.
 
 **Escala operacional:**
 - A produção mensal é quase toda automatizada: coleta no Mac, análise em lote, pacote mensal com um comando.
@@ -63,18 +63,18 @@ Com 2 contratos novos por mês no pacote Completo, a receita recorrente chega a 
 ## 5. Parceria com a Circle: preço e como a Circle ganha
 **Quatro formas de ganho para a Circle:**
 1. **Revenda (padrão):** a Circle vende e atende a relação; o Grupo Nery produz. **50% para cada lado** sobre o preço praticado, com piso nesta tabela de preços.
-2. **Indicação:** a Circle só indica e o Grupo Nery vende e atende. **20% do 1º ano** para a Circle.
+2. **Indicação:** a Circle só indica e o Grupo Nery vende e atende. **15% do 1º ano** para a Circle.
 3. **Co-branding «Circle em parceria com Grupo Nery»:** os documentos levam as duas marcas. A Circle pode embutir o pacote nos projetos de consultoria regulatória que já vende, como um adicional de valor.
 4. **Upsell de consultoria:** o que os documentos revelam (vista provável, divergência, troca de relator) gera trabalho de consultoria e advocacia para a Circle. Ela ganha horas de projeto, além da comissão.
 
-**Exemplo com o pacote Completo a R$ 9.800/mês (revenda):**
+**Exemplo com o pacote Inteligência a R$ 38.000/mês (revenda):**
 
 | | Circle | Grupo Nery |
 |---|---|---|
-| Receita mensal | R$ 4.900 | R$ 4.900 |
-| Custo estimado | relação comercial e atendimento | ~8 h de revisão + infraestrutura (~R$ 1.500) |
-| Margem estimada | ~R$ 4.900 + consultoria derivada | ~R$ 3.400 |
-| 10 clientes | R$ 49 mil/mês + projetos | R$ 34 mil/mês |
+| Receita mensal | R$ 19.000 | R$ 19.000 |
+| Custo estimado | relação comercial e atendimento | analista (~20 h/mês) + infraestrutura (~R$ 6 mil) |
+| Margem estimada | ~R$ 19 mil + consultoria derivada | ~R$ 13 mil |
+| 10 clientes | R$ 190 mil/mês + projetos | R$ 130 mil/mês |
 
 **Regras para evitar conflito:**
 - registro do cliente: quem trouxe primeiro, com 12 meses de vínculo;

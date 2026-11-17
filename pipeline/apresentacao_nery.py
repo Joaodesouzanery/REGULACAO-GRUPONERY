@@ -27,7 +27,7 @@ T = lambda s, t, c: d.tecnica(s, t, c, "nery").replace(">NERY ·", ">Grupo Nery 
 d.NOME_AG["nery"] = "Grupo Nery"
 
 S = []
-S.append(d.capa(K["portos"]["capa"], "50% 55%", "Inteligência regulatória", "Grupo Nery", "Como as agências reguladoras decidem, antes de decidirem sobre você",
+S.append(d.capa(K["portos"]["capa"], "50% 55%", "Inteligência regulatória", "Grupo Nery", "Inteligência de decisão regulatória: todos os dados sobre quem decide, num só lugar",
                 "Diretorias de agências reguladoras federais acompanhadas voto a voto, com a fala e o minuto exato de cada sessão.",
                 [(f"{dec:,}".replace(",", "."), "decisões de diretoria mapeadas desde 2018"), ("12", "agências federais acompanhadas"), (vagas, "cadeiras sem titular hoje, monitoradas"), ("4", "documentos por mês para cada cliente")]))
 SEC = [("O problema", "decisões de milhões, cinco votos"), ("O que fazemos", "monitorar, analisar, antecipar"), ("Serviços", "o que entregamos e para quem"), ("Agências", "onde atuamos e o que vem"), ("Valor", "exemplos de economia e eficiência"), ("Como trabalhar conosco", "formatos, prévia e contato")]
@@ -43,14 +43,14 @@ S.append(T("01 · O problema", "Por que a decisão regulatória ainda é surpres
     foto=K["portos"]["divisores"][1], h_foto="auto")))
 
 # 02 o que fazemos
-S.append(d.divisor(2, SEC[1][0], "Organizamos como cada diretoria decide: quem vota o quê, com quais argumentos, em quanto tempo, e o que deve vir a seguir.", K["mineracao"]["divisores"][0]))
+S.append(d.divisor(2, SEC[1][0], "Integramos votos, falas, prazos, mandatos, pautas e precedentes num só lugar, para apoiar a estratégia regulatória do cliente.", K["mineracao"]["divisores"][0]))
 S.append(T("02 · O que fazemos", "Monitorar, analisar, antecipar", d.lista_tripla([
     ("Monitorar", ["Agenda e pautas das diretorias", "Resultado de cada reunião", "Mandatos, vagas e substitutos", "Processos do cliente, sessão a sessão"]),
     ("Analisar", ["Voto de cada diretor, tema por tema", "Argumentos e falas, com o minuto exato", "Prazo de decisão por tipo de processo", "Casos semelhantes e mudanças de entendimento"]),
-    ("Antecipar", ["Alerta antes de cada reunião", "Estimativa de placar, sempre identificada como estimativa", "Prazo provável do processo", "Riscos e próximos passos"])])
+    ("Antecipar", ["Alerta antes de cada reunião", "Sinais de risco: divergência, vista, troca de relator", "Prazo provável do processo", "Riscos e próximos passos"])])
     + '<div style="height:.2in"></div>' + d.whitepaper("Princípios", [
         ("Prova em cada afirmação", "<p>Toda conclusão traz a reunião, o item, o trecho literal e o link do vídeo oficial no minuto exato. O cliente clica e confere.</p>"),
-        ("Estimativa é estimativa", "<p>Previsões vêm com o tamanho da amostra e o teste no passado. Nunca vendemos certeza.</p>"),
+        ("Dados que apoiam a estratégia", "<p>Estimativas aparecem como mais um sinal, com o tamanho da amostra e o teste no passado. Quem decide a estratégia é o cliente, com a evidência na mão.</p>"),
         ("Só fontes públicas, dados do cliente protegidos", "<p>Usamos informação pública da agência. O que o cliente nos informa fica sob confidencialidade e LGPD.</p>")], foto=K["rodovias"]["capa"], h_foto="auto")))
 
 # 03 serviços

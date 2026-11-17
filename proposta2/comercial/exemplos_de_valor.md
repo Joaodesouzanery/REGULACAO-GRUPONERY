@@ -28,7 +28,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Faixa:**
   - conservadora: R$ 10 mil/mês (só horas internas);
   - otimista: R$ 10 mil + uma vista evitada por ano num processo de R$ 50 milhões (R$ 2 milhões ÷ 12 ≈ R$ 167 mil/mês).
-- **Preço de referência:** entre 10% e 30% da faixa conservadora, ou seja, R$ 1,5 mil a R$ 3 mil/mês no piloto. A âncora é o custo de um parecer avulso.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir em 3 meses:** quantos eventos o pacote antecipou (vista, retirada, troca de relator) e horas internas registradas antes e depois.
 
 ### 2. Alerta pré-pauta
@@ -41,7 +41,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Faixa:**
   - conservadora: R$ 200 mil por vista evitada, com a premissa de evitar 1 vista a cada 10 alertas;
   - otimista: R$ 2 milhões.
-- **Preço de referência:** R$ 1,5 mil a R$ 5 mil por reunião acompanhada.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** vistas e retiradas nos itens da empresa antes e depois do serviço.
 
 ### 3. Perfil de diretoria (por tema)
@@ -49,7 +49,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** horas de preparação poupadas, mais a chance maior de decidir na primeira sessão.
 - **Cálculo:** 15 h de pesquisa em vídeos e atas × R$ 600 = **R$ 9 mil por tema**. Somando 10% de chance de evitar uma vista num pleito de R$ 5 milhões (0,1 × R$ 200 mil = R$ 20 mil), chega a **R$ 29 mil**.
 - **Faixa:** de R$ 9 mil (conservadora) a R$ 29 mil (otimista).
-- **Preço de referência:** R$ 3 mil a R$ 8 mil por perfil.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** horas de pesquisa poupadas, declaradas pelo escritório ou pelo jurídico.
 
 ### 4. Due diligence regulatória (M&A, financiamento)
@@ -57,7 +57,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** variação no valor do ativo pela taxa de desconto.
 - **Cálculo:** ±0,5 ponto percentual na taxa de desconto de um ativo de R$ 1 bilhão com duration de 10 anos muda o valor em cerca de **R$ 45 a 50 milhões**. Basta que a diligência mude a percepção de risco em 0,1 ponto (cerca de **R$ 9 milhões**) para se pagar muitas vezes.
 - **Faixa:** de R$ 1 milhão (uma condição contratual renegociada) a R$ 9 milhões.
-- **Preço de referência:** R$ 30 mil a R$ 120 mil por ativo, conforme o número de agências e o histórico.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** itens de risco identificados que entraram no contrato (preço, garantias, condições precedentes).
 
 ### 5. Precedentes e casos semelhantes
@@ -65,7 +65,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** horas de associado poupadas.
 - **Cálculo:** 15 a 25 h × R$ 600 = **R$ 9 mil a R$ 15 mil por caso**.
 - **Faixa:** de R$ 9 mil (conservadora) a R$ 15 mil (otimista).
-- **Preço de referência:** R$ 2 mil a R$ 4 mil por caso, ou um pacote de 10 casos.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** horas registradas pelo escritório antes e depois.
 
 ### 6. Mandatos e vacância (12 agências)
@@ -73,7 +73,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** decisões de calendário mais acertadas: pedir pauta antes ou depois da troca.
 - **Cálculo:** pautar um processo antes da saída de um diretor favorável, num pleito de R$ 5 milhões, com 20% de chance de mudar o resultado = **R$ 1 milhão** de valor esperado.
 - **Faixa:** de R$ 100 mil a R$ 1 milhão por decisão de calendário.
-- **Preço de referência:** incluído no pacote, ou R$ 800 a R$ 1,5 mil/mês avulso.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** decisões de calendário tomadas com base no boletim.
 
 ### 7. Relatório setorial (associações)
@@ -81,7 +81,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** retenção ou captação de associados e horas da equipe técnica.
 - **Cálculo:** 1 associado retido (anuidade de R$ 60 mil) + 60 h de técnico × R$ 300 = **R$ 78 mil por trimestre**.
 - **Faixa:** de R$ 18 mil (só as horas) a R$ 78 mil.
-- **Preço de referência:** R$ 12 mil a R$ 25 mil por relatório trimestral.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** downloads e uso pelos associados; menções na agenda da associação.
 
 ### 8. Preparação de sustentação oral
@@ -89,7 +89,7 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Métrica:** decisão na primeira sessão, mais as horas de preparação.
 - **Cálculo:** 10 h × R$ 900 (sócio) = R$ 9 mil, mais 15% de chance de evitar uma vista num pleito de R$ 20 milhões (0,15 × R$ 800 mil = R$ 120 mil). Total esperado: **cerca de R$ 129 mil**.
 - **Faixa:** de R$ 9 mil a R$ 129 mil.
-- **Preço de referência:** R$ 5 mil a R$ 12 mil por sustentação.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 - **Como medir:** resultado na primeira sessão, sim ou não, e feedback do sustentante.
 
 ---
@@ -100,27 +100,27 @@ Leitura: quando um processo **não** sai na primeira sessão (vista, retirada, d
 - **Problema:** grupos com rodovia, porto e energia não sabem onde concentrar o esforço regulatório.
 - **Métrica:** realocação da equipe e do orçamento de escritórios.
 - **Cálculo:** realocar 20% de um orçamento jurídico regulatório de R$ 3 milhões/ano para onde o risco é maior gera **R$ 600 mil** de eficiência alocativa.
-- **Preço de referência:** R$ 20 mil a R$ 40 mil por estudo anual.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 
 ### 10. Monitor de troca de diretoria com efeito no placar
 - **Problema:** saber antes da posse como o novo diretor deve votar nos temas da empresa.
 - **Cálculo:** é o item 6 aplicado a todas as agências do cliente. Para um grupo com 5 processos relevantes em pauta por ano, **R$ 500 mil a R$ 5 milhões** de valor esperado.
-- **Preço de referência:** um adicional de R$ 1 mil a R$ 2 mil/mês por agência.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 
 ### 11. Risco regulatório de carteira (fundos e bancos)
 - **Problema:** a carteira de infraestrutura tem risco regulatório sem medida comparável.
 - **Cálculo:** 0,1 ponto de taxa em R$ 5 bilhões de carteira equivale a cerca de **R$ 45 milhões** de valor.
-- **Preço de referência:** R$ 15 mil a R$ 40 mil/mês, conforme o tamanho da carteira.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 
 ### 12. Índice de previsibilidade regulatória
 - **Problema:** não existe métrica pública de previsibilidade por agência.
 - **Valor:** autoridade de marca e conteúdo de imprensa, mais a venda do relatório anual completo.
-- **Preço de referência:** gratuito na versão resumida (marketing); R$ 15 mil a R$ 30 mil pelo relatório completo.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 
 ### 13. Mapa de pessoas (quem relata o quê, superintendentes, trajetórias)
 - **Problema:** saber quem instrui e quem decide cada tema dentro da agência.
 - **Cálculo:** 20 h de levantamento por agência × R$ 250 = **R$ 5 mil**, atualizado todo mês.
-- **Preço de referência:** incluído no pacote, ou R$ 3 mil por agência por ano.
+- **Preço de referência:** ver `precos.md` (tabela de 17/11/2026: pacotes de R$ 18 mil a R$ 85 mil/mês e avulsos).
 
 ---
 

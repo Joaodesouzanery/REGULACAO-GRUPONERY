@@ -19,7 +19,7 @@ Como cada diretor vota em cada tema, com a fala e o minuto da sessão.
 Apoio: Precedentes, padrões e mudanças de entendimento.
 
 **Card 5: antecipar**
-Alerta antes da reunião, estimativa de placar e prazo provável do processo.
+Alerta antes da reunião, sinais de risco e prazo típico de processos semelhantes.
 Apoio: Sempre identificado como estimativa, com a amostra.
 
 **Card 6: para empresas reguladas**
@@ -43,7 +43,7 @@ Apoio: Sempre identificado como estimativa, com a amostra.
 → Conteúdo exclusivo para associados
 
 **Card 10: chamada**
-A decisão regulatória não precisa ser surpresa.
+Inteligência de decisão regulatória: dados, evidência e contexto para a sua estratégia.
 Peça uma prévia gratuita da diretoria que decide os temas da sua empresa.
 Apoio: Grupo Nery · inteligência regulatória.
 

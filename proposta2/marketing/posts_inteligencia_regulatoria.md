@@ -4,11 +4,11 @@ Dois carrosséis de até 10 cards, para Instagram e LinkedIn. Não citam cliente
 
 ---
 
-## Post 1 — «A decisão regulatória deixou de ser surpresa»
+## Post 1 — «Todos os dados sobre quem decide, num só lugar»
 *Foco: o produto, a inovação e os benefícios.*
 
 **Card 1 (capa, foto de porto ao entardecer)**
-A decisão da agência reguladora não precisa mais ser surpresa.
+Todos os dados sobre quem decide na agência reguladora, num só lugar.
 Apoio: Inteligência regulatória, por Grupo Nery em parceria com Circle.
 
 **Card 2 (o problema)**
@@ -28,7 +28,7 @@ Alerta antes de cada reunião: os itens que interessam à sua empresa, quem rela
 Apoio: Você chega preparado, não surpreso.
 
 **Card 6 (inovação 3: estimativa honesta)**
-Estimativa de placar e de chance de unanimidade, com o histórico de cada diretor e o teste no passado.
+Sinais de risco (divergência, vista, troca de relator) e histórico de placar, com o histórico de cada diretor e o teste no passado.
 Apoio: Estimativa, não promessa. E dizemos qual é o tamanho da amostra.
 
 **Card 7 (os 4 documentos)**

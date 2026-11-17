@@ -1,44 +1,43 @@
-# Preços: pacotes fechados e tabela por produto (Grupo Nery)
+# Preços: pacotes e tabela por produto (Grupo Nery)
 
-Documento interno de referência, em reais e por mês salvo indicação. Os preços seguem a lógica de cobrar uma **fração do valor conservador gerado** (ver `exemplos_de_valor.md`) e ficam acima de monitoramento simples, que é commodity, porque entregamos voto a voto, fala no minuto, prazo comparado e diretoria por cadeira, algo que não encontramos nos concorrentes pesquisados (`concorrentes.md`).
+Documento interno de referência (17/11/2026), em reais. Entregamos **inteligência de decisão regulatória**: dados integrados sobre quem decide (votos, falas no minuto, prazos, mandatos, pautas, precedentes), em documentos analíticos feitos para cada cliente. Não é monitoramento de texto nem assinatura de software.
 
-## 1. Pacotes fechados (recomendado para a venda)
-| Pacote | O que inclui | Preço mensal (contrato anual) | Soma avulsa equivalente | Valor conservador gerado (estimativa) |
-|---|---|---|---|---|
-| **Essencial** | 1 agência · relatório da empresa trimestral · boletim mensal com alerta pré-pauta · até 3 perguntas/mês | **R$ 4.900** | R$ 7.500 | R$ 10 mil/mês (horas internas) + vistas evitadas |
-| **Completo** | 1 agência · os 5 documentos todo mês (relatório, boletim, raio-X, agenda e comparativa, 8 blocos) · 5 perguntas/mês · 1 perfil de diretoria por trimestre · alerta de cada reunião | **R$ 9.800** | R$ 15.500 | R$ 10 mil/mês + R$ 200 mil a R$ 2 milhões por vista evitada |
-| **Corporativo** | até 3 agências · tudo do Completo · due diligence de 1 ativo por ano · relatório setorial trimestral · comparativo entre agências · atendimento prioritário | **R$ 24.000** | R$ 38.000 | R$ 30 mil/mês + risco precificado em ativos |
+**Por que o preço é alto:**
+1. **É consultoria analítica personalizada**, com analista e revisão humana, e não um SaaS genérico.
+2. **Referência de mercado:** inteligência regulatória de nicho custa de US$ 20 mil a US$ 75 mil por ano por usuário ou vertical lá fora (`concorrentes.md`). Nenhum fornecedor brasileiro entrega voto a voto de diretor com prova no minuto.
+3. **O valor se mede em meses e milhões.** Um processo que não sai na 1ª sessão fica, na mediana, cerca de 4 meses a mais na diretoria (ANTT 112, ANTAQ 125 e ANM 139 dias). Num pleito de R$ 50 milhões, cada mês custa cerca de R$ 500 mil de capital (`exemplos_de_valor.md`).
 
-- **Piloto de 3 meses:** 30% de desconto (Essencial R$ 3.430; Completo R$ 6.860), convertido em anual no fim.
-- **Primeiros 2 clientes:** pacote Completo pelo preço do Essencial no 1º ano (decisão de lançamento), em troca de autorização para usar o caso de forma anônima.
-- **Agência adicional:** +60% do preço do pacote por agência a mais.
-- **Reajuste:** IPCA anual. **Pagamento:** mensal, boleto ou PIX.
-
-## 2. Tabela por produto (avulso)
-| Produto | Unidade | Preço de referência | Prazo de entrega |
+## 1. Pacotes (contrato anual, valor mensal)
+| Pacote | Escopo | Mensal | Anual |
 |---|---|---|---|
-| Relatório da empresa (1 agência) | por edição | R$ 6.500 | 7 dias úteis |
-| Boletim mensal do cliente (alerta + perguntas + o mês na agência) | por mês | R$ 3.500 | até o dia 5 |
-| Alerta pré-pauta | por reunião | R$ 1.500 a R$ 5.000 | 48 h após a pauta |
-| Raio-X dos processos | por mês | R$ 3.000 | até o dia 5 |
-| Agenda e inteligência comparativa | por mês | R$ 2.500 | até o dia 5 |
-| Monitoramento em 8 blocos (até 3 processos) | por mês | R$ 3.500 | até o dia 5 |
-| Perfil de diretoria (por tema) | por perfil | R$ 3.000 a R$ 8.000 | 5 dias úteis |
-| Precedentes e casos semelhantes | por caso | R$ 2.000 a R$ 4.000 | 3 dias úteis |
-| Preparação de sustentação oral | por sustentação | R$ 5.000 a R$ 12.000 | 5 dias úteis |
-| Due diligence regulatória | por ativo | R$ 30.000 a R$ 120.000 | 15 a 30 dias |
-| Relatório setorial | por relatório | R$ 12.000 a R$ 25.000 | 15 dias |
-| Mandatos e vacância (12 agências) | por mês | R$ 800 a R$ 1.500 | até o dia 1 |
-| Consulta avulsa (1 pergunta com evidência) | por pergunta | R$ 1.200 | 2 dias úteis |
-| Comparativo entre agências | por estudo | R$ 20.000 a R$ 40.000 | 20 dias |
-| Risco regulatório de carteira (fundos/bancos) | por mês | R$ 15.000 a R$ 40.000 | mensal |
+| **Monitor** | 1 agência · boletim mensal com alerta antes de cada reunião · panorama da diretoria e mandatos · até 3 consultas/mês | **R$ 18.000** | R$ 216 mil |
+| **Inteligência** (recomendado) | 1 agência · os 5 documentos todo mês (relatório da empresa, boletim, raio-X dos processos, agenda e comparativa, 8 blocos) · consultas sem limite (uso razoável) · perfil de diretoria por tema · 1 briefing de sustentação por trimestre · painel (dashboard) da empresa | **R$ 38.000** | R$ 456 mil |
+| **Estratégico** | até 3 agências · tudo do Inteligência · due diligence regulatória de 1 ativo/ano · relatório setorial trimestral · comparativo entre agências · analista dedicado e reunião mensal com a diretoria do cliente | **R$ 85.000** | R$ 1,02 milhão |
 
-## 3. Como apresentar
-1. Mostre o **valor** antes do preço: um caso do setor do cliente em `exemplos_de_valor.md` ou `casos_detalhados.md`.
-2. Ofereça os **3 pacotes**, com o Completo no meio como recomendado. A tabela avulsa entra só como anexo, para quem quer uma consulta.
-3. Compare com o custo atual do cliente: horas internas, pareceres avulsos, uma vista de meses.
-4. Feche o piloto de 3 meses com meta medida: eventos antecipados e horas poupadas.
+- **Piloto:** 3 meses com 20% de desconto, com metas medidas (eventos antecipados, horas poupadas).
+- **Agência adicional:** +50% por agência a mais nos pacotes Monitor e Inteligência.
+- **Lançamento:** os 2 primeiros clientes recebem o Inteligência pelo preço do Monitor no 1º ano, em troca de um caso anônimo.
+- **Reajuste:** IPCA anual. **Pagamento:** mensal.
+
+## 2. Produtos avulsos
+| Produto | Unidade | Preço | Prazo |
+|---|---|---|---|
+| Due diligence regulatória (M&A, financiamento) | por ativo | R$ 120 mil a R$ 400 mil | 15 a 30 dias |
+| Briefing de sustentação oral (argumentos e objeções de cada diretor) | por sustentação | R$ 25 mil a R$ 60 mil | 5 dias úteis |
+| Relatório setorial (associações, entidades) | por relatório | R$ 60 mil a R$ 150 mil | 15 a 20 dias |
+| Perfil de diretoria (um tema, todos os diretores) | por perfil | R$ 20 mil a R$ 40 mil | 5 dias úteis |
+| Precedentes e casos semelhantes | por caso | R$ 12 mil a R$ 25 mil | 3 dias úteis |
+| Comparativo entre agências | por estudo | R$ 80 mil a R$ 150 mil | 20 dias |
+| Risco regulatório de carteira (fundos, bancos) | por mês | R$ 60 mil a R$ 150 mil | mensal |
+| Consulta avulsa (uma pergunta com evidência) | por pergunta | R$ 8 mil | 2 dias úteis |
+
+## 3. Como o preço se justifica (resumo)
+| Pacote | Custo anual | Valor conservador gerado em 1 ano |
+|---|---|---|
+| Monitor | R$ 216 mil | 1 pedido de vista evitado num pleito de R$ 20 milhões ≈ R$ 800 mil; mais horas internas (≈ R$ 120 mil) |
+| Inteligência | R$ 456 mil | 1 vista evitada num pleito de R$ 50 milhões ≈ R$ 2 milhões; mais 200 h de escritório (≈ R$ 120 mil) e pesquisas de precedentes |
+| Estratégico | R$ 1,02 milhão | risco de um ativo de R$ 1 bilhão precificado com 0,1 ponto a menos de incerteza ≈ R$ 9 milhões |
 
 ## 4. Divisão com parceiros (ver `estrategia.md`)
-- **Revenda:** 50% para o parceiro, 50% para o Grupo Nery, sobre o preço praticado (nunca abaixo desta tabela sem acordo).
-- **Indicação sem atendimento:** 20% do 1º ano para quem indicou.
+- **Revenda:** 50% para o parceiro e 50% para o Grupo Nery, sobre o preço praticado (piso nesta tabela).
+- **Indicação sem atendimento:** 15% do 1º ano.
