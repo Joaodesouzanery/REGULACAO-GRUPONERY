@@ -10,3 +10,5 @@ Script do workflow: `docs/lotes/analise-lote-aneel.js`. Fila completa de 16/11: 
 | 17/11/2026 | ANEEL | 5 | 150 (`docs/lotes/aneel_lote5.json`, inclui os não gravados do lote 4) | wf_642a8778-40b | rodando |
 
 **Atas da ANEEL:** o site das atas (www2.aneel.gov.br) responde com desafio anti-robô (Cloudflare). Não contornamos. Qualidade da ANEEL melhora pelas regras de proclamação no prompt (desde o lote 4) e por amostra de atas baixada à mão para conferência.
+
+- 17/11/2026 · lote 5 concluído (150/150 válidas, 875 itens, 3.650 votos). Lote 6 lançado: run wf_4cf76a3b-7e4, task whq63j35e, 150 reuniões (lista em scratchpad lote6.json; retomar com resumeFromRunId).
