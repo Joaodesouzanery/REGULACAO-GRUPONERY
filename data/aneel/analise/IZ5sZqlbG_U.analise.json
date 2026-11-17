@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "video_id": "IZ5sZqlbG_U",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "22ª RPO 2020 (Parte 3)",
+  "data": "2020-06-25",
+  "formato": "virtual",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Vídeo é a parte 3 (tarde), retomada da 22ª RPO, itens 4 (Copel) e 2 (Cocel, último da pauta); diretores além de Sandoval e Efrain não são identificáveis na legenda."
+  ]
+ },
+ "itens": [
+  {
+   "id": "4",
+   "ts": "0:00:37",
+   "processo": "48500.007042/2019 (número conforme legenda: 48.500 7042 de 2019)",
+   "interessado": "Copel Distribuição S.A. (Paraná); sustentação oral do presidente do Conselho de Consumidores da Copel (nome incerto na legenda)",
+   "assunto": "Reajuste tarifário anual 2020 da Copel Distribuição, vigência a partir de 24/06/2020; efeito médio 0,41% (alta tensão 1,13%, baixa tensão 0,015%); primeiro caso com Conta-covid (componente financeiro negativo da CVA em processamento)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais (Conta-covid)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (homologação do reajuste, conforme proclamação)",
+   "resumo_voto": "Relator vota por resolução homologatória com efeito médio de 0,41%, fixa tarifas de uso e de energia e homologa o valor mensal de recursos da CDE a ser repassado pela CCEE. Houve sustentação oral do Conselho de Consumidores (críticas a risco hidrológico, térmicas caras, GAG melhorias, fator X; elogio à Conta-covid) e apresentação da SGT. Procuradoria sem manifestação.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:30:54",
+     "justificativa": "Vota pela homologação do reajuste com efeito médio de 0,41%; destaca a Copel como primeiro caso de uso da Conta-covid.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:32:27",
+     "justificativa": "Registra que é o primeiro processo em que a Conta-covid apresenta resultado efetivo, amortecendo a tarifa; acompanha o relator (nome não identificável pela legenda).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:34:31",
+     "justificativa": "Acompanha o relator (fala sem nome na legenda).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:34:41",
+     "justificativa": "Diretor-Geral; proclama a aprovação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:35:29",
+   "processo": "48500.007037/2019 (número conforme legenda)",
+   "interessado": "Companhia Campo-larguense de Energia (Cocel), Campo Largo/PR",
+   "assunto": "Reajuste tarifário anual 2020 da Cocel, vigência a partir de 29/06/2020; efeito médio 0,58% (alta tensão -0,50%, baixa tensão 1,16%); ativo regulatório de neutralidade das perdas da rede básica",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais (Conta-covid)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (homologação do reajuste, conforme proclamação)",
+   "resumo_voto": "Relator vota pela homologação do reajuste (0,58%), fixa tarifas, aprova previsão anual de ESS e energia de reserva, homologa recursos da CDE e determina reconhecer como ativo regulatório o valor de cerca de R$ 1,05 milhão corrigido pela Selic. Sem sustentação oral; Procuradoria sem manifestação. Sem a Conta-covid a tarifa subiria 4,11%.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:49:08",
+     "justificativa": "Vota pela homologação do reajuste da Cocel e pelo ativo regulatório das perdas da rede básica.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:51:58",
+     "justificativa": "Destaca que consumidores da Cocel também se beneficiam da Conta-covid; acompanha o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:52:21",
+     "justificativa": "Acompanha o relator, com problema de sistema na fala.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:29",
+     "justificativa": "Diretor-Geral; proclama a aprovação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática sem nomes dos demais diretores presentes; votos deles registrados como não identificado, confiança baixa; nº de votos pode não fechar com o nº de presentes.",
+  "Rótulo {Ricardo Tili} nos falantes inferidos não confirmado no texto; não usado.",
+  "Numeração dos itens segue a fala (item 4 da pauta e item 2 da pauta); minutos aproximados (ts reais: item Copel 0:00:37, voto relator ~0:30:54, proclamação ~0:34:41; Cocel ~0:35:29, voto ~0:49:08, proclamação ~0:52:29).",
+  "Nome do presidente do Conselho de Consumidores da Copel incerto; números de processo e valores conforme legenda."
+ ]
+}
