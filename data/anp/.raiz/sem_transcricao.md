@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **338** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 42; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **326** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 30; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -139,27 +139,15 @@ Total: **338** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2021-12-08 · audiencia · Audiência Pública nº 24/2021 · https://www.youtube.com/watch?v=oUKXFgcpcwM · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-26 · audiencia · Audiência Pública nº 17/2021 · https://www.youtube.com/watch?v=JfmoE18EjRs · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-22 · audiencia · Audiência Pública nº 16/2021 · https://www.youtube.com/watch?v=tCbSnIVzbd8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-18 · diretoria · Reunião de Diretoria Colegiada nº 1071 - 18 de novembro de 2021 · https://www.youtube.com/watch?v=QV7AESOsoI8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-11 · diretoria · Reunião de Diretoria Colegiada nº 1070 - 11 de novembro de 2021 · https://www.youtube.com/watch?v=SQNpk4DZF3Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-09 · audiencia · Audiência Pública nº 20/2021 · https://www.youtube.com/watch?v=jCBefDl9e9w · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-08 · audiencia · Audiência Pública nº 14/2021 · https://www.youtube.com/watch?v=tPr-OV-DKOs · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-04 · diretoria · Reunião de Diretoria Colegiada nº 1069 - 04 de novembro de 2021 · https://www.youtube.com/watch?v=b_hrJS3KXB8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-29 · audiencia · Audiência Pública nº 18/2021 · https://www.youtube.com/watch?v=FxKL_WZ87v8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-28 · diretoria · Reunião de Diretoria Colegiada nº 1068 - 28 de outubro de 2021 · https://www.youtube.com/watch?v=tbvDmykoHdw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-21 · diretoria · Reunião de Diretoria Colegiada nº 1067 - 21 de outubro de 2021 · https://www.youtube.com/watch?v=_GS4CV-QzGY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-20 · workshop · Seminário Ambiental e Jurídico-Fiscal da Segunda Rodada dos Volumes Excedentes d · https://www.youtube.com/watch?v=O8d0ZeffZvU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-18 · audiencia · Audiência Pública nº 13/2021 · https://www.youtube.com/watch?v=a0mrWCtDxQs · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-15 · workshop · Workshop Projeto Biodiesel · https://www.youtube.com/watch?v=QRCazdxAgh0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-08 · audiencia · Audiência Pública nº 12/2021 · https://www.youtube.com/watch?v=HtfOKZKa9RM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-06 · diretoria · Reunião de Diretoria Colegiada nº 1066 - 06 de outubro de 2021 · https://www.youtube.com/watch?v=LmFS4t9Rm24 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-30 · diretoria · Reunião de Diretoria Colegiada nº 1065 - 30 de setembro de 2021 · https://www.youtube.com/watch?v=sxVnJMdQQF0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-23 · diretoria · Reunião de Diretoria Colegiada nº 1064 - 23 de setembro de 2021 · https://www.youtube.com/watch?v=_gVjfFKA2G4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-16 · diretoria · Reunião de Diretoria Colegiada nº 1063 - 16 de setembro de 2021 · https://www.youtube.com/watch?v=3-MrwRaQ3gU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-02 · diretoria · Reunião de Diretoria Colegiada nº 1062 - 02 de setembro de 2021 · https://www.youtube.com/watch?v=IkCv4HjwLx4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-30 · audiencia · Audiência Pública nº 9/2021 · https://www.youtube.com/watch?v=LutMj9HEpYw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-26 · diretoria · Reunião de Diretoria Colegiada nº 1061 - 26 de agosto de 2021 · https://www.youtube.com/watch?v=gMiQqZjBRS0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · workshop · Workshop Técnico sobre potencial petrolífero dos blocos exploratórios na Oferta  · https://www.youtube.com/watch?v=KMqEKJv_JpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-12 · diretoria · Reunião de Diretoria Colegiada nº 1060 - 12 de agosto de 2021 · https://www.youtube.com/watch?v=KXm5uoAx0Wc · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-11 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 63 - 11 de agosto de 2021 · https://www.youtube.com/watch?v=lYtlcdGW7Io · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-09 · workshop · Seminário Ambiental e Jurídico-Fiscal da 17ª Rodada de Licitações · https://www.youtube.com/watch?v=AJbjM0EJvIM · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-05 · diretoria · Reunião de Diretoria Colegiada nº 1059 - 5 de agosto de 2021 · https://www.youtube.com/watch?v=nBQjJr0hvVI · **ainda não baixado (rodar a coleta no Mac)**
