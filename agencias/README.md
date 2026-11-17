@@ -15,3 +15,13 @@ Cada pasta é a vitrine de uma agência: reuniões por ano, diretores, temas, ma
 Outros quadros: [vacância das 12 agências](../docs/vacancia_12_agencias.md) · [transparência](../docs/transparencia_agencias.md) · [completude](../COMPLETUDE.md).
 
 ANEEL: as cópias de transcrição e o banco compactado não vão ao GitHub (tamanho); ficam em `data/aneel/` e se reconstroem com `05_indexar.py`.
+
+## Documentos públicos por agência
+Panorama da diretoria (números, temas, quem decide, cadeiras, prazos, transparência), só com dado público: `agencias/<ag>/documentos/panorama_<ag>.pdf`. Gerar: `python3 pipeline/documentos_agencia.py <ag>`. Documentos de empresa ficam em `clientes/` (fora do GitHub).
+
+| Agência | Panorama |
+|---|---|
+| ANTT | [panorama_antt.pdf](antt/documentos/panorama_antt.pdf) |
+| ANTAQ | [panorama_antaq.pdf](antaq/documentos/panorama_antaq.pdf) |
+| ANM | [panorama_anm.pdf](anm/documentos/panorama_anm.pdf) |
+| ANEEL | [panorama_aneel.pdf](aneel/documentos/panorama_aneel.pdf) |
