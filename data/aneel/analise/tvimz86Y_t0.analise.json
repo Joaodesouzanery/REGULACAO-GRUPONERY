@@ -1,0 +1,56 @@
+{
+ "meta": {"video_id": "tvimz86Y_t0", "fonte": "legenda automática do YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "1ª Reunião Pública Extraordinária de 2024",
+  "data": "2024-04-15",
+  "formato": "extraordinária",
+  "presidente_da_sessao": "Sandoval Feitosa",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+  "ausentes": [],
+  "observacoes": "Quórum completo. Pauta com dois itens, sem sustentação oral. Procurador-Geral e secretário-geral Daniel Dana presentes. Sessão encerrada por volta das 20h."
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:35",
+   "processo": "48500.000100/2024-1 (número conforme legenda)",
+   "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE)",
+   "assunto": "Resultado da Consulta Pública nº 5/2024: regulamentação do Decreto 11.835/2023, que altera a governança da CCEE (conselho de administração, regra de transição e não coincidência de mandatos, remuneração da CCEE por gestão de contas, alteração das REN 957/2021 e 1009/2022, módulos 11, 18 e 20 das regras de comercialização e submódulos 1.3 e 7.1 dos procedimentos de comercialização). Voto-vista do diretor Fernando Mosna.",
+   "tema": ["comercialização (CCEE)", "regulação normativa (resolução, consulta pública)"],
+   "relator": "Ricardo Tili",
+   "resultado": "Aprovado por unanimidade nos termos do voto condutor do diretor Ricardo Tili, que incorporou o voto-vista do diretor Fernando Mosna (exceto o teto de remuneração de conselheiro, retirado). Proclamação inicial por maioria quanto à regra de transição foi corrigida para unanimidade após esclarecimento de que a diretora Agnes divergia só na fundamentação.",
+   "resumo_voto": "Altera REN 957/2021 e 1009/2022, revisa módulos das regras e procedimentos de comercialização; regra de transição com mandato de 4 anos para conselheiros eleitos até 30/04/2024; conselheiro atual não pode optar por permanecer como conselheiro (segue entendimento da procuradoria).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova (voto condutor, incorporando o voto-vista)", "ts": "2:18:15", "justificativa": "Voto único submetido após incorporar as propostas do voto-vista, salvo a limitação da remuneração de conselheiro.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "voto-vista incorporado ao voto do relator; acompanha", "ts": "2:18:15", "justificativa": "Defendeu competência da ANEEL para regular a transição e não coincidência de mandatos; retirou o teto de 20% para remuneração de conselheiro por já haver previsão orçamentária aprovada.", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (com fundamentação diversa)", "ts": "2:18:30", "justificativa": "Discorda de a ANEEL fixar regra de transição (entende que caberia ao estatuto vigente, art. 15-B), mas o efeito é o mesmo (mandato de 4 anos); registrará motivação à parte.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:20:09", "justificativa": "'Eu voto com o relator' após ser chamado pela mesa.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:20:17", "justificativa": "Inicialmente disse acompanhar a dissidência da diretora Agnes; reproclamou por unanimidade após esclarecimento.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:25:16",
+   "processo": "48500.000826/2024-4 (número conforme legenda)",
+   "interessado": "Solar Energy Gestão de Projetos Solares Ltda. (geradora; UFVs Morro Preto 1 a 40, Piauí)",
+   "assunto": "Pedido de medida cautelar para suspender a exigência de depósito de garantia financeira (art. 11, §4º, REN 1065) referente às centrais fotovoltaicas Morro Preto 1 a 40; ofício do Governo do Piauí apoiando a reconsideração.",
+   "tema": ["outorgas de geração (solar)", "transmissão (acesso, margem de escoamento)", "recursos administrativos"],
+   "relator": "Fernando Mosna",
+   "resultado": "Pedido de vista; deliberação não concluída.",
+   "resumo_voto": "Relator entende não caber regra de transição como pedida: a interessada foi beneficiada pela margem extraordinária, antes só tinha expectativa de direito; regras de exceção são temporárias (indeferimento da cautelar, conforme leitura do voto).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, nega a cautelar", "ts": "2:25:30", "justificativa": "Interessada não foi prejudicada pelo novo regramento, e sim beneficiada pela margem extraordinária; não cabe transição nem questionar a regra no processo.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:56:06", "justificativa": "Fala sem nome identificado; atribuição pela ordem.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:56:09", "justificativa": "Fala sem nome identificado; atribuição pela ordem. Comentou risco ao agente por decisão judicial que destina a margem a outro agente (falante incerto).", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:56:10", "justificativa": "Fala sem nome identificado; atribuição pela ordem.", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "2:56:11", "justificativa": "'Solicito vistas do referido processo', seguido imediatamente do encerramento da sessão pela presidência.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática em bloco único; minutos obtidos do .json de transcrição.",
+  "Item 2: três falas 'acompanho/voto com o relator' sem nome; atribuição a Hélvio, Ricardo e Agnes é inferida (confiança baixa). Pedido de vista atribuído a Sandoval porque a mesma voz encerra a sessão logo em seguida; não confirmado. Comentários sobre risco judicial antes da votação de falante não identificado.",
+  "Números de processo e nome da interessada (Sol/Solá Energy) podem estar errados na legenda."
+ ]
+}

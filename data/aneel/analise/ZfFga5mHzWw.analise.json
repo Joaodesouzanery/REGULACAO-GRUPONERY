@@ -1,0 +1,75 @@
+{
+ "meta": {"video_id": "ZfFga5mHzWw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2024 (Parte 2)", "data": "2024-03-12", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili", "Hélvio Guerra"],
+  "ausentes": ["Fernando Mosna"],
+  "observacoes": [
+   "Parte 2 (tarde) da 7ª RPO; pauta invertida: item 5 (Ducoco), retomada do item 1 (Light, suspenso pela manhã), item da Enel Rio.",
+   "Enel Rio: empate 2 a 2 sobre a trajetória de perdas não técnicas proposta pelo relator; processo sobrestado aguardando o voto de Fernando Mosna; registrada em ata a prorrogação da tarifa vigente.",
+   "Último item da pauta (item 4) não foi deliberado por falta de quórum (Agnes da Costa e Sandoval Feitosa precisaram sair para compromissos externos)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "5", "ts": "0:00:40",
+   "processo": "48500.007242/2024 (número incerto na legenda)", "interessado": "Ducoco Produtos Alimentícios S.A. (comercializadora)",
+   "assunto": "Pedido de medida cautelar para afastar a classificação como comercializadora tipo 2 pela CCE (limite de 30 MW médios, REN 1.011/2022) por falta de balanço patrimonial auditado",
+   "tema": ["comercialização (CCEE, PLD, contratos)", "recursos administrativos", "medida cautelar"],
+   "relator": "Ricardo Tili", "resultado": "cautelar parcialmente concedida por unanimidade",
+   "resumo_voto": "Presentes fumus boni iuris e periculum in mora; CCE não aplica limite do tipo 2 até 31/05/2024, quando a empresa deve apresentar balanço 2023 auditado; acatada sugestão de Hélvio Guerra para a empresa apresentar à CCE seus contratos de compra e venda; acatada sugestão de Sandoval Feitosa para SGM e SFF, em 180 dias, proporem competências para a CCE julgar casos desse tipo.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova (parcial provimento)", "ts": "0:00:40", "justificativa": "empresa atende o próprio grupo, não opera alavancada; auditoria do balanço concluída em maio/2024; medida reversível", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:35:40", "justificativa": "sugeriu exigir apresentação dos contratos à CCE; caso de R$ 145 mostra necessidade de avaliar o que realmente gera risco ao mercado", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:35:43", "justificativa": "a própria diretoria, ao adiar a regra para dezembro, criou o problema do balanço auditado", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclamou)", "ts": "0:35:45", "justificativa": "propôs determinação para ampliar competências da CCE em casos corriqueiros", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:37:50",
+   "processo": "48500.005920/2023 (número incerto na legenda)", "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Reajuste tarifário anual 2024 da Light (retomada após suspensão pela manhã)",
+   "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "PIS/Cofins"],
+   "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade; efeito médio 3,54% (AT 2,45%, BT 4,05%)",
+   "resumo_voto": "Relatora ajustou o voto retirando a parte controversa do crédito de PIS/Cofins (a partir de agosto), a ser tratada na CP 5, por precaução diante da situação da concessionária.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova (voto ajustado)", "ts": "0:38:30", "justificativa": "convergência: tema do PIS/Cofins será enfrentado na CP 5 com parecer da procuradoria", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "0:43:46", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:43:49", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (proclamou)", "ts": "0:43:50", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "Enel Rio", "ts": "0:44:40",
+   "processo": "48500.000979/2023 (número incerto na legenda)", "interessado": "Ampla Energia e Serviços S.A. (Enel Distribuição Rio de Janeiro)",
+   "assunto": "Reajuste tarifário anual 2024 da Enel Rio; relator propõe trajetória de perdas não técnicas no máximo discricionário do Proret (sub. 2.6A, 5.5), como sinalizado para a Light",
+   "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "perdas não técnicas / áreas de risco"],
+   "relator": "Ricardo Tili", "resultado": "empate 2 a 2; processo sobrestado aguardando voto de Fernando Mosna; tarifa vigente prorrogada (registro em ata)",
+   "resumo_voto": "Sustentações orais: Ezequiel Siqueira da Conceição (Conselho de Consumidores) e Hugo Lamim (Enel Rio). Área técnica (STR, Ricardo Martins) propôs 3,45% mantendo a trajetória da RTP 2023 (~76%). Relator divergiu da área técnica e propôs o máximo (80%), alegando dificuldade equivalente à Light; impacto estimado ~0,3 p.p. Sandoval apontou que a Enel passaria a ter a 2ª maior tarifa do país.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova com trajetória de perdas no máximo do Proret", "ts": "1:21:56", "justificativa": "áreas de concessão da Light e da Enel Rio têm dificuldade equivalente; a ponderação dentro do Proret é discricionária da diretoria; não usar só o CEP", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "diverge (vota com a área técnica nesse ponto)", "ts": "2:12:11", "justificativa": "critério alternativo frágil; dizer apenas que as áreas são iguais não basta", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:12:51", "justificativa": "difícil afirmar que uma área é mais problemática; CEP não pode ser usado sem crítica", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "diverge (acompanha a instrução da unidade técnica)", "ts": "2:13:02", "justificativa": "análises ainda provisórias (NT 181 e RTE da Light não julgadas); Enel teria a 2ª maior tarifa do país; histórico de perdas da Light é cerca do dobro", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "4", "ts": "2:15:40",
+   "processo": "48500... (não lido)", "interessado": "não identificado",
+   "assunto": "Último item da ordem do dia (com sustentação oral), não deliberado por falta de quórum",
+   "tema": ["institucional"],
+   "relator": "Hélvio Guerra", "resultado": "não deliberado (falta de quórum)",
+   "resumo_voto": "Item apregoado e interrompido; Agnes e Sandoval tiveram de sair (despacho com ministro sobre leilão de transmissão e Senado).",
+   "votos": []
+  }
+ ],
+ "retirados": ["Item 4: não deliberado por falta de quórum"],
+ "limites_da_analise": [
+  "O .md tem um único marcador de tempo; ts obtidos pela transcrição JSON, aproximados.",
+  "Atribuição dos votos «acompanho» sem nome feita pela ordem usual (relator, demais diretores, Diretor-Geral por último); confiança media.",
+  "Enel Rio: o primeiro voto («Eu voto contra esse item... prefiro votar com área técnica») foi atribuído a Agnes da Costa pelo conteúdo e ordem; o segundo («vou acompanhar o voto do diretor Ricardo») a Hélvio Guerra; incerto.",
+  "Relator do item 4 inferido (Sandoval agradece ao diretor Hélvio pela compreensão); incerto.",
+  "Números de processo e nome Ducoco vêm da legenda automática e podem estar errados."
+ ]
+}

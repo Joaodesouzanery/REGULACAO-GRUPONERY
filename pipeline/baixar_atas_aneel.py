@@ -2,6 +2,8 @@
 As atas trazem o voto de cada diretor e corrigem a atribuição de quem só disse «acompanho» no vídeo (meta: votos ≥ 94% na conferência cega).
 Uso (Mac):  cd ~/REGULACAO-GRUPONERY && git pull && python3 pipeline/baixar_atas_aneel.py && git add data/aneel/atas && git commit -m "atas ANEEL" && git push
 Saída: data/aneel/atas/listagem*.html (páginas da lista), data/aneel/atas/pdf/*.pdf e data/aneel/atas/indice_bruto.json (url, título, arquivo, status)."""
+"""NOTA 17/11/2026: www2.aneel.gov.br responde com desafio anti-robô (Cloudflare «Just a moment...»). Não contornamos esse tipo de proteção.
+Alternativas: baixar à mão pelo navegador uma amostra de atas (para a conferência) e salvar em data/aneel/atas/pdf/; ou usar as regras de proclamação do prompt da ANEEL."""
 import os, re, json, time, html, subprocess, urllib.parse, datetime
 BASE = "https://www2.aneel.gov.br/aplicacoes_liferay/ata_diretoria/ata.cfm"
 OUT = "data/aneel/atas"; os.makedirs(f"{OUT}/pdf", exist_ok=True)
@@ -14,6 +16,8 @@ links = {}
 for k, u in enumerate(paginas):
     h = get(u).decode("latin-1", "ignore")
     if len(h) < 500: continue
+    if "Just a moment" in h[:3000] or "challenges.cloudflare.com" in h:
+        print("Página protegida por desafio anti-robô (Cloudflare). Não contornamos: baixe as atas à mão pelo navegador e salve em data/aneel/atas/pdf/."); break
     open(f"{OUT}/listagem_{k:02d}.html", "w").write(h)
     for href, txt in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', h, re.S | re.I):
         t = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", txt))).strip()

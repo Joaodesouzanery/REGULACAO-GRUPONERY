@@ -1,0 +1,346 @@
+{
+ "meta": {
+  "video_id": "YJ4sIItD6jQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "9ª RPO 2024 (parte 2)",
+  "data": "2024-03-26",
+  "formato": "presencial/transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Segunda parte da 9ª Reunião Pública Ordinária de 2024; secretário substituto e secretária-geral adjunta Renata.",
+   "Item da CEA (Amapá) suspenso às 3:01, retomado às 4:19 e decidido por maioria às 5:06, vencido o voto-vista do Diretor-Geral.",
+   "Duas vistas: Hélvio Guerra (RTE covid) e Ricardo Tili (Parnaíba).",
+   "Homenagem a Davi (secretário) por volta de 0:54."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:20",
+   "processo": "48500.006391/2022-85",
+   "interessado": "Neoenergia Bahia, Neoenergia Pernambuco, Neoenergia Rio Grande do Norte, Neoenergia Brasília, Light e Copel (distribuidoras); sustentação oral de Lucas Malheiros Nunes (Abradee)",
+   "assunto": "Revisão tarifária extraordinária (RTE) das distribuidoras em decorrência da pandemia de covid-19 (submódulo 2.10 do Proret)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTE)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de vista de Hélvio Guerra (deliberação suspensa)",
+   "resumo_voto": "Relator vota por conhecer os pedidos de RTE e, no mérito, indeferi-los (conta covid tratou os desequilíbrios). Abradee pediu retirada de pauta para reanálise técnica; área técnica (Camila) disse não haver fato novo. Dois diretores acompanharam o relator; Hélvio Guerra pediu vista.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (conhece e indefere os pedidos de RTE)",
+     "ts": "0:35:47",
+     "justificativa": "Desequilíbrios tratados com a conta covid; área técnica sem fato novo após a sustentação oral.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:52:58",
+     "justificativa": "«Eu voto com o relator» (falante não nomeado; atribuído pela ordem usual)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:52:59",
+     "justificativa": "«Eu também acompanho o relator» (falante não nomeado; atribuído pela ordem usual)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "0:53:01",
+     "justificativa": "«eu vou pedir vistas esse processo»; mesa: «vistas concedidas para o diretor Hélvio». Antes, questionou se cabe à ANEEL avaliar as condicionantes da RTE; disse que vai até 21 de maio no mandato e quer segurança para votar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:53:01",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:53:10",
+   "processo": "48500.006872/2022-91",
+   "interessado": "Companhia de Eletricidade do Amapá (CEA Equatorial)",
+   "assunto": "Resultado da revisão tarifária extraordinária da CEA (contrato de concessão 1/2021), a vigorar a partir de 13/12/2023 (CP 35/2023); voto-vista do Diretor-Geral; julgamento suspenso às 3:01 e retomado às 4:19",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTE)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria nos termos do voto do relator (reformulado): RTE com efeito médio de 0% a partir de 13/04/2024, diferimento integral com ativo regulatório para o RTA 2024 e item G (STR quantificar o ativo e recalcular após medida provisória, com ratificação da diretoria); vencido o voto-vista do Diretor-Geral (prorrogação das tarifas por 60 dias)",
+   "resumo_voto": "Sandoval leu voto-vista propondo prorrogar as tarifas vigentes por 60 dias à espera de medida provisória para atenuar o impacto tarifário no Amapá. Fernando Mosna reformulou o voto (art. 24 §6 da REN 698): diferimento integral (efeito 0%) com ativo regulatório corrigido pela Selic, citando precedente da Boa Vista Energia 2017, e criticou os 104 dias sem tarifa após o pedido de vista e o contato da Equatorial só com o Diretor-Geral. Hélvio Guerra sugeriu acrescentar determinação para a STR recalcular o ativo após a MP, incorporada como item G. Resultado por maioria.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto reformulado: diferimento integral, efeito 0%, ativo regulatório)",
+     "ts": "1:22:40",
+     "justificativa": "CEA sem tarifa válida há 104 dias por causa do pedido de vista; diferimento de ofício com base no precedente Boa Vista 2017; contrato de concessão estaria sendo descumprido.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencido (prorrogação das tarifas por 60 dias)",
+     "ts": "5:06:29",
+     "justificativa": "Aguardar medida provisória; prorrogar 60 dias; questionou o quantum do diferimento (17,5%) e citou lucro do grupo Equatorial. «eu mantenho o meu voto por óbvio».",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista (vencido)",
+     "ts": "5:06:40",
+     "justificativa": "«Eu voto com voto vista» (falante não nomeado; atribuído pela ordem usual Agnes, Ricardo, Hélvio)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "5:06:42",
+     "justificativa": "«Eu voto com relator» (falante não nomeado; em dez/2023 já havia votado com o relator, segundo o relatório do voto-vista)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "5:06:44",
+     "justificativa": "«Eu também voto com relator»; propôs o item G incorporado ao voto do relator; em dez/2023 já havia votado com o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:01:35",
+   "processo": "48500.008172/2023-78",
+   "interessado": "Parnaíba Transmissora de Energia; sustentação oral de representantes da empresa (João, advogado)",
+   "assunto": "Recurso administrativo contra o Despacho 1.900/2023 da SFT, que negou retificação dos termos de liberação parcial (TLPs) emitidos pelo ONS (licença de operação)",
+   "tema": [
+    "transmissão (RAP, TLP)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Ricardo Tili (deliberação suspensa)",
+   "resumo_voto": "Relatora vota por conhecer e negar provimento: não é possível dissociar a operação da instalação de uma licença de operação válida. Um diretor acompanhou, citando experiência na área técnica; Ricardo Tili pediu vista. Item antecipado na pauta a pedido (horário de voo).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (conhecer e negar provimento)",
+     "ts": "3:19:30",
+     "justificativa": "Operação depende de licença de operação válida; segue a instrução técnica.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:21:13",
+     "justificativa": "«eu acompanho a relatora»; disse não dissociar operação de licença válida, lembrando ligação do Ibama quando atuava na área técnica (falante não nomeado; pode ser Hélvio Guerra)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "3:21:20",
+     "justificativa": "mesa: «vistas concedidas para o diretor Ricardo Tili»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "3:21:20",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:21:20",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:21:52",
+   "processo": "48500.003302/2018-3 e 48500.006572/2014-79",
+   "interessado": "UTE GNA I Geração de Energia (UTE GNA 1, 1.238 MW); sustentação oral de Guilherme Penteado",
+   "assunto": "Requerimento administrativo para afastar a responsabilidade da UTE GNA I pelas restrições de operação/escoamento previstas no Despacho 3.502/2017",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: conhecer e, no mérito, negar provimento",
+   "resumo_voto": "Responsabilidade da GNA vinculada às obras indicadas no parecer de acesso, ainda pendentes (sistema 500 kV); Procuradoria (Raul) e área técnica (Patrícia) se manifestaram.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (negar provimento)",
+     "ts": "3:53:40",
+     "justificativa": "Obras citadas no parecer de acesso e ratificadas pelo ONS; a responsabilidade permanece.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:55",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:54:15",
+   "processo": "48500.008282/2024-39",
+   "interessado": "Neoenergia Lagoa dos Patos Transmissão de Energia; sustentação oral de Márcio Pina",
+   "assunto": "Pedido de medida cautelar para suspender o desconto de parcela variável por atraso (PVA) do contrato de concessão 14/2019 (LT 525 kV Capivari do Sul–Siderópolis 2)",
+   "tema": [
+    "transmissão (PVA)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: não conhecer da cautelar (perda de objeto, mérito decidido na 8ª RPO de 19/03/2024)",
+   "resumo_voto": "Não conhecimento por perda do objeto (art. 63, IV, Lei 9.784 e art. 43, VI, REN 273/2007).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (não conhecer)",
+     "ts": "4:08:30",
+     "justificativa": "Perda do objeto após decisão de mérito na 8ª RPO.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:09:28",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:09:28",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:09:28",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:09:28",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:10:08",
+   "processo": "48500.003944/2022-13",
+   "interessado": "CPFL Energias Renováveis e centrais eólicas (Alvorada, Candiba, Guanambi, Guirapá, Igaporã etc.), ESBR, Furnas, Ecoenergia, Elera Renováveis",
+   "assunto": "Pedidos de reconsideração contra a resolução que fixou a TUST do ciclo 2022-2023; voto-vista de Hélvio Guerra",
+   "tema": [
+    "tarifas (TUST)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime nos termos do voto do relator: perda de objeto (ESBR, Furnas), não conhecer (Ecoenergia), conhecer e negar provimento (ESBR, Elera) e demais itens",
+   "resumo_voto": "Hélvio Guerra apresentou voto-vista acompanhando integralmente o relator; Agnes, Fernando e Ricardo já haviam votado antes da vista.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "4:17:35",
+     "justificativa": "Voto já proferido antes da vista (citado pelo Diretor-Geral).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (voto anterior à vista)",
+     "ts": "4:17:35",
+     "justificativa": "Citado pelo Diretor-Geral: «já tivemos o voto da diretora Agnes»",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto anterior à vista)",
+     "ts": "4:17:35",
+     "justificativa": "Citado pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "4:16:48",
+     "justificativa": "«acompanhar na íntegra o voto proferido pelo diretor relator»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:17:40",
+     "justificativa": "«Eu também acompanho o voto do diretor relator» e proclama",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo podem estar errados (ex.: GNA 48500.003302/2018-3).",
+  "Item 1: os dois «acompanho» antes da vista não têm nome; atribuídos a Agnes e Fernando pela ordem usual (confiança baixa).",
+  "Item 2: os votos individuais de Agnes (voto-vista) e Tili/Hélvio (relator) foram atribuídos pela ordem usual; só é certo o placar 3x2 e o voto de Sandoval vencido.",
+  "Item 3: o diretor que acompanhou a relatora citando experiência na área técnica não foi nomeado; atribuído a Fernando com confiança baixa (pode ser Hélvio Guerra).",
+  "Itens 4 e 5: votos dos seguidores pela proclamação de unanimidade, com ts aproximados."
+ ]
+}

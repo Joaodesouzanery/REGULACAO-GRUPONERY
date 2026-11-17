@@ -1,0 +1,140 @@
+{
+  "meta": {"video_id": "Az4KANd4osI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "6ª RPO 2024 (Parte 2)", "data": "2024-03-05", "formato": "presencial/híbrida (continuação da sessão, parte 2)",
+    "presidente_da_sessao": "Hélvio Guerra (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": [
+      "Parte 2 da 6ª Reunião Pública Ordinária de 05/03/2024; secretária-geral adjunta Renata; procurador-geral Raul.",
+      "Hélvio Guerra conduz e proclama todos os resultados e no encerramento agradece a diretora Agnes e os diretores Ricardo e Fernando; Sandoval Feitosa não aparece (tratado como ausente).",
+      "Ludimila citada na sessão é a superintendente da área técnica (SCE), não diretora.",
+      "Releitura do dispositivo do item 7 (New Wave Comercializadora, comercializador varejista, flexibilização do art. 11 §6º da REN 1.011/2022), deliberado por unanimidade na parte 1 (≈0:08).",
+      "Ao final (≈2:45) um diretor corrige o dispositivo do seu voto divergente no item 21 (Oeste de Canoas Petróleo e Gás, despachos 4559/2023 e 168/2024), deliberado na parte 1.",
+      "Encerramento ≈2:46."
+    ]
+  },
+  "itens": [
+    {
+      "id": "6", "ts": "0:00:15",
+      "processo": "48500.000727/2022, 48500.007271/2022 e 48500.007268/2022 (números da legenda, incertos)",
+      "interessado": "UFV Lar do Sol 4, 5 e 6 S.A. (geradoras fotovoltaicas, Pirapora-MG)",
+      "assunto": "Recursos contra autos de infração 33 a 35/2022 da antiga SFG (multa por atraso no cronograma de implantação de UFVs em Pirapora-MG); voto-vista de Hélvio Guerra",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "outorgas de geração (solar)", "recursos administrativos"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unanimidade: conhecer e negar provimento, mantendo os autos de infração e a multa.",
+      "resumo_voto": "Voto-vista de Hélvio Guerra acompanha o relator após reunião com as interessadas: sem nexo causal entre pandemia e atraso (transitado em julgado); ausência de dano já considerada na dosimetria; atraso afeta planejamento e segurança energética mesmo no ACL; prazo de 54 meses da REN 1.038 vedado a quem tem CUST; anistia da REN 1.065 foi excepcional. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (mantém o voto)", "ts": "0:07:30", "justificativa": "Manteve o voto de negar provimento (registrado pelo presidente).", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista: acompanha o relator", "ts": "0:00:45", "justificativa": "Pandemia sem nexo causal; ausência de dano já na dosimetria; atraso afeta planejamento e segurança energética; anistia da REN 1065 não se estende.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:07:26", "justificativa": "Uma das falas: «Eu não votei originalmente, então eu voto com o relator»; não se sabe qual dos dois disse.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:07:28", "justificativa": "«voto com relator» (atribuição entre Agnes e Ricardo incerta).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:11:07",
+      "processo": "48500.001273/2023-61 (legenda)",
+      "interessado": "Gralha Azul Transmissora de Energia S.A. (SE Guarapuava Oeste, PR; lote 1 do leilão de transmissão 02/2017)",
+      "assunto": "Recurso contra Despacho 1.339/2023 da SFT que negou retificação de termos de liberação do ONS (reator com perdas acima do Procedimento de Rede)",
+      "tema": ["transmissão (RAP, termos de liberação)", "recursos administrativos", "fiscalização e sanções (parcela variável)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Provimento parcial. Itens 1 e 2 (novo projeto básico em 60 dias e troca dos reatores em 12 meses) por unanimidade; itens 3 e 4 (isenção de PV no desligamento e recomposição tarifária da diferença TLP/operação definitiva) por maioria, com um diretor contrário.",
+      "resumo_voto": "Sustentação oral de Rômulo Muniz (empresa): substação como um todo é mais eficiente que o exigido; troca do reator traz risco e sucata; pediu reunião ANEEL-ONS. Relator: cumpra-se o Procedimento de Rede; precedente da relatoria de Agnes tinha previsão em edital, este não.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova provimento parcial", "ts": "0:20:30", "justificativa": "Regra dos Procedimentos de Rede deve ser cumprida; não há previsão em edital como no precedente; isenta PV no desligamento e recompõe receita.", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:22:36", "justificativa": "«Eu voto com o relator».", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:22:38", "justificativa": "«Eu também voto com o relator».", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "diverge parcialmente (vencido nos itens 3 e 4)", "ts": "0:22:40", "justificativa": "Acompanha o item 1 (e 2) e vota contra os itens 3 e 4 (isenção de PV e recomposição tarifária); sem justificativa falada.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "13", "ts": "0:25:09",
+      "processo": "48500.005520/2020 (legenda, incerto)",
+      "interessado": "Construnível Execuções Ltda. (PCH Nova Usina da Serra, Rio Santana, MS)",
+      "assunto": "Recurso contra Despacho 2.699/2022 da antiga SCG que não registrou a adequabilidade do sumário executivo do DRS-PCH (redução de 12,2 para 6 MW; aproveitamento ótimo)",
+      "tema": ["outorgas de geração (hidrelétrica, PCH)", "recursos administrativos", "fiscalização e sanções (corregedoria, informação falsa)"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unanimidade: conhecer e negar provimento; encaminhar cópia dos autos à Corregedoria da ANEEL para apurar a conduta da empresa.",
+      "resumo_voto": "Sustentação oral de Cláudio Girard (empresa): área de proteção ambiental, inviabilidade declarada pelo IMASUL, pedido de reinventário e de não instauração de sanção. Procuradoria: indícios de burla ao aproveitamento ótimo para viabilizar CGH (Flamboyant). Relator: pedidos alheios ao recurso; privilegiar CGH fere o interesse público; corregedoria apura, sem penalidade imediata.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:50:00", "justificativa": "Redução de potência sem justificativa técnica, ambiental ou econômica; aproveitamento ótimo é interesse público; indícios de informação falsa vão à Corregedoria.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:58:50", "justificativa": "Perguntou a relação entre a decisão técnica e as supostas informações falsas; satisfeito com a superintendente; aproveitamento ótimo está na lei e trata de bens da União.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:58:45", "justificativa": "Fala «eu voto com o relator» / «acompanho» sem nome.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:58:47", "justificativa": "Fala «acompanho o voto do relator» sem nome.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "18", "ts": "0:59:41",
+      "processo": "48500.006875/2022 (legenda)",
+      "interessado": "CPFL Paulista (distribuidora) e Conselho de Consumidores da CPFL Paulista",
+      "assunto": "Pedidos de reconsideração contra a REH 3.183/2023 (revisão tarifária periódica 2023 da CPFL Paulista)",
+      "tema": ["tarifas e revisão tarifária (RTP)", "geração distribuída (MMGD)", "recursos administrativos"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Unanimidade: negar o pedido do Conselho de Consumidores; provimento parcial à CPFL (financeiro de PIS/Cofins de cerca de R$ 8 milhões e correção das perdas não técnicas da energia de inversão de cerca de R$ 700 mil, atualizados pela Selic, e retificação da tabela 10).",
+      "resumo_voto": "Sustentação oral de Márcio Roberto (CPFL): GD degrada o reconhecimento das perdas não técnicas; pediu base no mercado medido. Relator concorda que a metodologia precisa ser revista (Tomada de Subsídios 28 em fase final, irá a consulta pública), mas não altera fora desse processo, como em Energisa, Enel Rio, EDP e CPFL Piratininga.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova provimento parcial", "ts": "1:10:00", "justificativa": "Perdas não técnicas com GD em discussão na TS 28; isonomia com outras distribuidoras; acata só PIS/Cofins e energia de inversão.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:18:04", "justificativa": "Uma das falas «voto com o relator»/«acompanho»; um diretor registra que acompanhava de outra sala.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "1:18:06", "justificativa": "«Eu também voto com o relator» (atribuição incerta).", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:18:08", "justificativa": "«eu acompanho o voto do relator» (atribuição incerta).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "20", "ts": "1:20:11",
+      "processo": "48500.000487/2019-34 (legenda)",
+      "interessado": "Energy Assets do Brasil Ltda. (grupo Siemens Energy; UTE Coari, Coari-AM, sistema isolado)",
+      "assunto": "Pedido de reconsideração contra Despacho 4.465/2023 que negou excludentes de responsabilidade (atraso do CCG pela distribuidora e outros) no cronograma da UTE Coari",
+      "tema": ["outorgas de geração (térmica, sistema isolado)", "fiscalização e sanções (excludente de responsabilidade, cronograma)", "recursos administrativos"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Retirado de pauta pelo relator, para voltar na próxima reunião.",
+      "resumo_voto": "Sustentação oral de Daniel (Energy Assets): CCG é condição de eficácia do CCESI, já reconhecido em 2019. Procuradoria (Parecer 125/2023) opinou por deferimento parcial (coisa julgada administrativa da 9ª RPO de 2019, 264 dias). Relator propunha negar por falta de nexo causal; após dúvida de um diretor sobre o parecer e esclarecimento da superintendente Ludimila, retirou o processo.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "1:46:04", "justificativa": "O voto não abordou a decisão de 2019 e o pedido de 2021; vai esclarecer e trazer na próxima reunião.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (retirado de pauta)", "ts": "1:46:04", "justificativa": "", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "não votou (retirado de pauta)", "ts": "1:46:04", "justificativa": "", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (retirado de pauta)", "ts": "1:46:04", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5 (retificação)", "ts": "1:46:33",
+      "processo": "48500.004787/2023-79 (legenda)",
+      "interessado": "Setor elétrico (bandeiras tarifárias)",
+      "assunto": "Retificação do dispositivo do item 5 (bandeiras tarifárias, votado na parte 1): incluir emissão de REN que aprova o submódulo 6.8 do PRORET com geração fora da ordem de mérito, além da REH das faixas e adicionais a partir de 1º/04/2024",
+      "tema": ["tarifas e revisão tarifária (bandeiras)", "regulação normativa (resolução)"],
+      "relator": "Fernando Mosna",
+      "resultado": "Ajuste aceito sem objeção e sem nova votação; o presidente reproclamou o dispositivo após um diretor pedir a formalidade.",
+      "resumo_voto": "Fernando Mosna notou que faltou a emissão da resolução normativa; Hélvio Guerra releu o dispositivo integral para manter o rito.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, retifica o dispositivo", "ts": "1:46:33", "justificativa": "Faltou referência à necessidade de emitir resolução normativa.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha (proclama a retificação)", "ts": "1:48:30", "justificativa": "Relê o dispositivo para manter a formalidade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha (sem objeção, pela proclamação)", "ts": "1:48:00", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha (sem objeção, pela proclamação)", "ts": "1:48:00", "justificativa": "Presidente relê o dispositivo «para deixar o diretor Ricardo um pouco mais tranquilo».", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "27", "ts": "1:50:24",
+      "processo": "48500.000185/2024-23 (legenda)",
+      "interessado": "Dom Pedro I Transmissora de Energia SPE e Enel Distribuição Ceará (SE Crato 2 230/69 kV)",
+      "assunto": "Faseamento nas fronteiras entre a Dom Pedro I Transmissora e a Enel Ceará: responsabilidade e custos da correção da sequência de fases",
+      "tema": ["transmissão (RAP, faseamento)", "distribuição", "fiscalização e sanções"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unanimidade com dispositivo ajustado: Dom Pedro I executa a solução de faseamento definida com o ONS, com ônus integral da Enel Ceará sem repasse à tarifa; garantir RAP a partir da data-limite contratual se cumpridas as condições não vinculadas ao faseamento; Enel ressarce os custos sem repasse; SFT fiscaliza (retirada a delegação a SCE/STD).",
+      "resumo_voto": "Sustentações orais de Hugo Lamim (Enel Ceará: distribuidora passiva, fases definidas pela Chesf, ata de agosto/2022) e Carlos Clementino Moreira Filho (Dom Pedro I: projeto aprovado, quer RAP em 20/03). Relator: demora de cerca de 2 anos da Enel em informar; ONS define a solução. Debate sobre delegação, RAP sem operação e unifilar do CCT levou à nova redação.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (com ajustes)", "ts": "2:00:00", "justificativa": "Responsabilidade da Enel pela demora em informar a característica da rede; ônus sem repasse à tarifa; transmissora não pode ser penalizada.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:42:57", "justificativa": "Concordou no mérito; questionou a delegação a SCE/STD e o termo «disponibilização»; sugeriu trocar por fiscalização.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:42:53", "justificativa": "Questionou o prazo, a RAP sem operação (consumidor não deve pagar) e o unifilar do CCT com o faseamento.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:42:55", "justificativa": "Um diretor adiantou «acompanho o voto» (≈2:17); atribuição incerta.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["20 (UTE Coari, Energy Assets do Brasil) retirado de pauta pelo relator Hélvio Guerra"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes (Lar do Sol, Construnível, Coari) podem estar errados.",
+    "As falas de voto («voto com o relator», «acompanho») não trazem nome; atribuição de Agnes/Ricardo/Fernando nos itens unânimes vem da proclamação (confiança média).",
+    "Item 11: um diretor não identificado votou contra os itens 3 e 4; os outros dois acompanharam. Por isso os três votos ficam como «não identificado».",
+    "Item 20: o diretor que levantou a dúvida sobre o parecer da Procuradoria não foi identificado.",
+    "Sandoval Feitosa tratado como ausente por não ser citado nem saudado; o presidente da sessão é inferido como Hélvio Guerra pelas falas.",
+    "O item 7 (releitura) e a correção do item 21 são da parte 1 e não entram como itens deliberados aqui."
+  ]
+}

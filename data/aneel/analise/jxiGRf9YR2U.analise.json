@@ -1,0 +1,379 @@
+{
+ "meta": {
+  "video_id": "jxiGRf9YR2U",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª RPO 2024",
+  "data": "2024-04-02",
+  "formato": "presencial",
+  "presidente_da_sessao": "Hélvio Guerra (DG em exercício/decano) até o item 6; Sandoval Feitosa a partir daí",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com 3 diretores (Hélvio, Agnes, Tili); Sandoval e Mosna chegaram depois (momento exato não identificado).",
+   "Retirados de pauta na abertura: itens 5, 12 e 21; item 18 retirado depois.",
+   "Desabafo de Hélvio Guerra (~3:10–3:24) contra manifestação pública de Sandoval sobre decisão colegiada 3 a 2 ('caso' acompanhado do voto de Mosna); Mosna e Sandoval falam de colegialidade.",
+   "Hélvio encerra mandato em 24/5/2024."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:07:38",
+   "processo": "itens 7 a 30 (exceto 14 destacado e 12, 21 retirados)",
+   "interessado": "diversos",
+   "assunto": "Votação dos itens de bloco (votos e atos publicados com a pauta)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "Aprovados por unanimidade, exceto o dispositivo 2 do item 18 (Agnes contra; sem três votos convergentes, ficou suspenso para a chegada de Fernando Mosna e Sandoval Feitosa; depois o item 18 foi retirado de pauta por Sandoval)",
+   "resumo_voto": "Com três diretores presentes, o bloco foi aprovado; Agnes votou contra o item 2 do dispositivo do item 18.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco, diverge do item 2 do dispositivo do item 18",
+     "ts": "0:08:14",
+     "justificativa": "Art. 57-B da REN 875/2020 (incluído pela REN 1070) não se aplica: o agente não apresentou o pedido no prazo de 60 dias da publicação da norma.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:08:40",
+     "justificativa": "Presidindo a sessão como decano/DG em exercício; aprova o bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:08:40",
+     "justificativa": "Aprova o bloco (fala sem nome na legenda).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:09:51",
+   "processo": "48500.006212/2017-10",
+   "interessado": "ABEEólica (Associação Brasileira de Energia Eólica); sustentação também da CPFL Energias Renováveis",
+   "assunto": "Pedido de reconsideração contra o Despacho 3.080/2021 (regra de comercialização de energia não fornecida por constrained-off de eólicas com CCEAR por disponibilidade e CER; Proinfa, reclassificação de eventos passados, acrônimo ENF_DT)",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE, constrained-off)",
+    "outorgas de geração (eólica)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Unânime: conhecer e negar provimento",
+   "resumo_voto": "Sustentações orais de Rodolfo (CPFL Renováveis), Francisco Carlos da Silva Júnior e Camila (ABEEólica); PF/ANEEL (Raul Lisboa) pelo não provimento. Relator: a regra só automatizou prática consagrada (só restrições elétricas, só CCEAR/CER, sem Proinfa); não houve retroação.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:03:00",
+     "justificativa": "Conhece e nega provimento; Proinfa nunca foi abrangido; não há retroação da REN 927; comenta que eólicas do Proinfa recebem cerca de R$ 750/MWh.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:03:55",
+     "justificativa": "Voto bem fundamentado e exaustivo; destaca tratar-se de recurso sobre norma geral.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:58",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:04:00",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:04:35",
+   "processo": "48500.003722/2013-78",
+   "interessado": "ANEEL (AID, SFT, SMA, SGA); agências estaduais conveniadas",
+   "assunto": "Abertura de consulta pública (45 dias, 3/4 a 17/5/2024) para aprimorar a REN 914/2021 (descentralização de atividades a agências estaduais) e redistribuição do processo pelo fim do mandato do relator em 24/5/2024",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "institucional"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Unânime: instaurar consulta pública e redistribuir o processo",
+   "resumo_voto": "Apresentação da área técnica (Reiner); debate com Mosna, Tili e Agnes sobre valores de referência e critério de descentralização.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:54:30",
+     "justificativa": "Instaurar CP de 45 dias; redistribuição imediata pelo término do mandato em 24/5/2024.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:45",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:45",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:45",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:56:43",
+   "processo": "48500.005972/2023-91",
+   "interessado": "Energisa Mato Grosso",
+   "assunto": "Reajuste tarifário anual 2024 da Energisa MT (vigência 8/4/2024; efeito médio -4,40%: AT -5,61%, BT -3,90%)",
+   "tema": [
+    "tarifas e revisão tarifária (RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Unânime: homologar o reajuste",
+   "resumo_voto": "Relator expõe componentes (encargos, transmissão, reversão de créditos de PIS/Cofins).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:06:40",
+     "justificativa": "Homologa RTA, fixa TUSD/TE, receita de DIT e repasse mensal da CDE.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:55",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:55",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:55",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:07:40",
+   "processo": "48500.005976/2023",
+   "interessado": "Energisa Mato Grosso do Sul",
+   "assunto": "Reajuste tarifário anual 2024 da Energisa MS (vigência 8/4/2024; efeito médio -1,61%: AT -3,65%, BT -0,84%)",
+   "tema": [
+    "tarifas e revisão tarifária (RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Unânime: homologar o reajuste",
+   "resumo_voto": "Relator lê nota técnica; sem debate.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:18:55",
+     "justificativa": "Homologa RTA e demais disposições.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:03",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:03",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:19:03",
+     "justificativa": "Acompanhou o relator; fala individual sem nome na legenda.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:19:56",
+   "processo": "48500.003391/2020-61",
+   "interessado": "Amazonas Energia; Eletronorte (sustentação oral)",
+   "assunto": "Ressarcimento via CCC/CDE dos custos da geração emergencial da Amazonas Energia em Iranduba e Manacapuru (20/7 a 16/10/2019)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "distribuição (Amazonas Energia)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Pedido de vista de Fernando Mosna",
+   "resumo_voto": "Relator vota por determinar à CCEE o ressarcimento à Amazonas Energia, em parcelas mensais pelo IPCA no orçamento da CDE 2024. Sandoval assume a presidência e questiona se, pela inadimplência com a Eletronorte (Cadin, confissão de dívida), a ANEEL estaria escolhendo credor; PF diz não haver preferência. Tili manifesta preocupação com a prestação do serviço no Amazonas.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:59:00",
+     "justificativa": "Ressarcimento devido a quem suportou os custos; gestão do patrimônio cabe à empresa.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:06:25",
+     "justificativa": "Uma fala «voto com o relator» antes da vista; atribuição por ordem, incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "3:06:27",
+     "justificativa": "Vista concedida ao diretor Fernando Mosna (proclamação da mesa).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "3:06:27",
+     "justificativa": "Sem voto ouvido antes da vista.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:06:27",
+     "justificativa": "Presidindo; vota por último.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "3:06:48",
+   "processo": "item 18 do bloco",
+   "interessado": "não identificado",
+   "assunto": "Item do bloco com dispositivo 2 sem três votos convergentes; retirado de pauta pelo relator para avaliar o ponto levantado por Agnes",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Retirado de pauta (volta na próxima reunião)",
+   "resumo_voto": "Sandoval retira o item para melhor avaliar observação da diretora Agnes.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "3:06:48",
+     "justificativa": "Fará consultas sobre o ponto trazido por Agnes.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:24:33",
+   "processo": "48500.004816/2018-35; 48500.004815/2018-91; 48500.004814/2018-46",
+   "interessado": "Francisco Sá 1, 2 e 3 Energias Renováveis S.A. (UFV Francisco Sá 1 a 3, MG); sustentação oral de Henrique Silva Reis",
+   "assunto": "Recursos contra multas (Despachos SFG 3.648, 3.649 e 3.650/2022) por atraso na implantação das UFVs, cláusula 17 do edital do leilão 1/2018",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "outorgas de geração (solar)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Pedido de vista (após dois votos acompanhando o relator)",
+   "resumo_voto": "Relator segue precedente recente decidido por 3 a 2 e aplica multa a cada empresa, prazo de 20 dias e execução/devolução da garantia. Antes, Mosna e Sandoval prestam solidariedade a Hélvio após seu desabafo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:47:30",
+     "justificativa": "Mantém convicção; segue precedente do colegiado (3 a 2).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:48:15",
+     "justificativa": "Uma das duas falas «acompanho»; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:48:18",
+     "justificativa": "Uma das duas falas «acompanho»; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não identificado",
+     "ts": "3:48:20",
+     "justificativa": "Não foi possível atribuir fala.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "3:48:22",
+     "justificativa": "Vista para considerar o «novel despacho»; o mesmo falante encerra a sessão, por isso atribuído ao presidente.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5",
+  "12",
+  "21",
+  "18"
+ ],
+ "limites_da_analise": [
+  "Votos de quem só diz «acompanho» sem nome: atribuídos por ordem/proclamação, confiança media/baixa.",
+  "Não está claro se Sandoval e Mosna já estavam presentes nos itens 4 e 3; no item 4 ouvem-se 3 falas de voto; Sandoval omitido dos votos dos itens 4, 3, 1, 2 por não haver evidência de voto (pode estar presente).",
+  "Item 14: vista atribuída a Sandoval com confiança baixa; uma das falas não identificada.",
+  "Números de processos e valores vêm da legenda automática e podem estar errados (ex.: multa 181.427)."
+ ]
+}

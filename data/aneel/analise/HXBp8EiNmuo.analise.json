@@ -1,0 +1,93 @@
+{
+  "meta": {"video_id": "HXBp8EiNmuo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "13ª Reunião Pública Ordinária de 2024 (Parte 2, tarde)", "data": "2024-04-23", "formato": "presencial (sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (não cumprimentado nas sustentações da tarde; votos anteriores dele em itens com vista são considerados mantidos)"],
+    "observacoes": [
+      "Continuação da 13ª RPO de 2024 (período da tarde).",
+      "Item 11 (Oliveira Energia, UTE Monte Cristo Sucuba): voto-vista de Hélvio Guerra vencedor; relator original Ricardo Tili retirou o voto e aderiu; decisão por maioria pois o voto anterior de Fernando Mosna (com o voto original do relator) foi mantido.",
+      "Item 4 (CP 31/2022, sobrecontratação involuntária por MMGD) retirado de pauta pelo relator Hélvio Guerra após sustentações orais e manifestação da procuradoria.",
+      "Item 25 (UFVs Dunamis 1 a 4) destacado do bloco: por maioria com o relator Ricardo Tili, vencidos Agnes da Costa e Sandoval Feitosa.",
+      "Item 10 (Energisa Acre, RTE 2019): pedido de vista de Agnes da Costa; item 9 (Energisa Rondônia, relator Hélvio Guerra) retirado de pauta. Sessão encerrada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "11", "ts": "0:00:16",
+      "processo": "48500.005054/2019-75 e 48500.002108/2020-84", "interessado": "Oliveira Energia Geração e Serviços (geradora, sistema isolado de Roraima)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1595/2022 que negou excludente de responsabilidade pelo atraso da UTE Monte Cristo Sucuba (Boa Vista/RR, leilão 1/2019 de sistemas isolados); pedido subsidiário de reconhecer o atendimento do CCESI pela UTE Monte Cristo",
+      "tema": ["outorgas de geração (térmica)", "fiscalização e sanções", "recursos administrativos", "sistemas isolados"],
+      "relator": "Ricardo Tili (voto-vista: Hélvio Guerra)", "resultado": "por maioria, conhecer e negar provimento ao pedido de reconsideração (nos termos do voto-vista de Hélvio Guerra)",
+      "resumo_voto": "Voto-vista: sem nexo causal entre o prolongamento do contrato da UTE Monte Cristo e o atraso da Sucuba; falta de diligência; outros atrasos alheios ao fato; vedação contratual/editalícia de atender o CCESI 1/2019 por usina não habilitada pela EPE; indisponibilidade das máquinas da Monte Cristo apurada pela SFF/SFT.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor: conhecer e negar provimento", "ts": "0:05:09", "justificativa": "Não há liame entre a postergação da UTE Monte Cristo e o atraso da Sucuba; escolha operacional do empreendedor; impossibilidade contratual de atender o CCESI nº 1 por outra UTE; indisponibilidade das máquinas.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "relator original; retirou o voto e acompanha o voto-vista", "ts": "0:18:58", "justificativa": "Após reler o voto-vista, retirou o próprio voto e acompanhou integralmente o voto de Hélvio Guerra.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "0:20:55", "justificativa": "Adere ao voto-vista; destaca a impossibilidade contratual de atendimento do CCESI por outra usina, ponto que tinha levantado.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista", "ts": "0:22:27", "justificativa": "Argumentos do voto-vista mais claros e contundentes; responsabilidade do gerador, que poderia negociar com a distribuidora do mesmo grupo.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "vencido (voto anterior mantido, com o voto original do relator)", "ts": "0:22:00", "justificativa": "Ausente na tarde; secretário registra que o voto anterior de Fernando Mosna acompanhava o voto original de Ricardo Tili e foi mantido, daí a decisão por maioria.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:22:37",
+      "processo": "48500.003282/2021 (número incerto na legenda)", "interessado": "CCEE; agentes de geração (Abragel, Abraget, Anace, Apine, Aliança Geração, Chesf, EDP, Enel, Petrobras, Norte Energia)",
+      "assunto": "Resultado da Consulta Pública 28/2021: alteração das regras de comercialização sobre caracterização e alocação dos custos de deslocamento hidráulico motivado por geração termelétrica inflexível (Despacho 3572/2019)",
+      "tema": ["comercialização (CCEE, regras de comercialização)", "regulação normativa", "encargos setoriais"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade (resolução normativa atualizando regras de comercialização)",
+      "resumo_voto": "Apresentação técnica da SGM (Otávio); rejeita tese de retroatividade da Enel; marco do PMO de abril/2020; deslocamento por inflexibilidade tratado no caderno de encargos, com formulação algébrica final pela CCEE.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:28:00", "justificativa": "Fechamento da CP 28/2021 e aprovação dos cadernos de regras e procedimentos de comercialização entregues pela CCEE.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:47:09", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:47:12", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:47:15", "justificativa": "Processo identifica quem causa o deslocamento hidráulico e aloca o custo de forma proporcional.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:47:52",
+      "processo": "48500.004292/2022-69", "interessado": "Abradee (distribuidoras), Neoenergia",
+      "assunto": "Resultado da Consulta Pública 31/2022: regulamentação dos arts. 21 e 24 da Lei 14.300/2022 (sobrecontratação involuntária por MMGD e chamadas públicas de compra de excedentes)",
+      "tema": ["geração distribuída (MMGD)", "comercialização (contratação das distribuidoras)", "regulação normativa"],
+      "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Sustentações orais de Ricardo Brandão (Abradee) e André Ramon Silva Martins (Neoenergia) pelo reconhecimento do estoque de MMGD anterior à lei; procuradora Bárbara (PF/ANEEL) apresentou o Parecer 343/2023 (risco de mercado da distribuidora, irretroatividade). Relator retirou de pauta para reavaliar a premissa de risco de mercado como preliminar.",
+      "votos": []
+    },
+    {
+      "id": "25", "ts": "1:37:44",
+      "processo": "48500.001739/2021-67 e conexos (números incertos)", "interessado": "UFVs Dunamis 1 a 4 (Santana do Matos/RN)",
+      "assunto": "Alteração do cronograma de implantação das centrais fotovoltaicas Dunamis 1 a 4 e pedido subsidiário de pagamento proporcional do EUST",
+      "tema": ["outorgas de geração (solar)", "transmissão (EUST)", "fiscalização e sanções"],
+      "relator": "Ricardo Tili (voto-vista: Hélvio Guerra)", "resultado": "por maioria, indeferir alteração de cronograma e pedido subsidiário; vencidos Agnes da Costa e Sandoval Feitosa",
+      "resumo_voto": "Item destacado do bloco; inexistência de excludente de responsabilidade (art. 19 da Lei 13.360/2016); indeferido pagamento proporcional do EUST.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, indefere", "ts": "1:38:30", "justificativa": "", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista acompanhando o relator", "ts": "1:38:30", "justificativa": "", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (voto já dado no bloco)", "ts": "1:39:00", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "vencido", "ts": "1:38:00", "justificativa": "Observação/divergência apresentada na votação do bloco (conteúdo não detalhado nesta parte).", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido (acompanha o voto da diretora Agnes)", "ts": "1:38:00", "justificativa": "Pediu destaque do bloco para avaliar a sugestão de Agnes e decidiu acompanhá-la.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "1:41:15",
+      "processo": "48500.002087/2019 (número incerto)", "interessado": "Energisa Acre (antiga Eletroacre), distribuidora",
+      "assunto": "Pedido de reconsideração contra o Despacho 2829/2019, que indeferiu a revisão tarifária extraordinária (base completa) em substituição ao reajuste de 2019",
+      "tema": ["tarifas e revisão tarifária (RTE)", "recursos administrativos", "distribuidoras privatizadas da Eletrobras"],
+      "relator": "Ricardo Tili", "resultado": "pedido de vista de Agnes da Costa",
+      "resumo_voto": "Relator: dar provimento, revogar o Despacho 2829/2019 e abrir consulta pública de 45 dias (efeito estimado de cerca de R$ 37 milhões nominais). Sustentação oral de Fernando César Maia (Energisa). Procuradoria: sem efeitos retroativos se mantida a decisão. Debate intenso: Sandoval defende a decisão de 2019; Hélvio vê 'mão pesada', mas reconhece a complexidade. Item 9 (Energisa Rondônia, relator Hélvio) retirado de pauta.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, dá provimento", "ts": "2:10:00", "justificativa": "Rigor excessivo da diretoria em 2019 na abertura da consulta pública; a BDGD foi conciliada cerca de 3 meses depois; a RTE de base completa era atrativo central do leilão; a ANEEL deveria pôr fim aos processos da privatização.", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:05:09", "justificativa": "Questiona o voto (parágrafo 28 concorda com a negativa de 2019) e o Parecer 67/2020; prazo de 3 anos já dava flexibilidade; quer ouvir o processo de Rondônia.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "3:08:01", "justificativa": "No debate defendeu a decisão de 2019: sem conciliação físico-contábil não havia certeza dos ativos; calcular tarifa com ativos não fiscalizados seria temerário.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "3:08:01", "justificativa": "No debate deu certa razão ao relator sobre 'mão pesada', mas viu dificuldade em abrir consulta com base sofrível; casos Acre e Rondônia devem convergir.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["4 (CP 31/2022 MMGD, relator Hélvio Guerra)", "9 (Energisa Rondônia, RTE 2019, relator Hélvio Guerra)"],
+  "limites_da_analise": [
+    "Parte 2 (tarde) da 13ª RPO; itens 1 a 8, 2 e o bloco foram deliberados na parte da manhã (outro vídeo).",
+    "Presença de Fernando Mosna na tarde não confirmada; inferida ausência pelos cumprimentos das sustentações; seus votos nos itens 11 e 25 vêm de manifestação anterior citada na sessão.",
+    "Item 25: falante que pede destaque e acompanha Agnes atribuído a Sandoval Feitosa pela proclamação (vencidos Agnes e Sandoval); o voto-vista de Hélvio acompanhava o relator segundo o diálogo.",
+    "Item 11: atribuição de 'adiro ao voto vista' a Agnes da Costa é inferida (confiança media).",
+    "Números de processo truncados/incertos pela legenda automática; nome do relator aparece como 'Ricardo Lavorato Tili'."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+ "meta": {"video_id": "xEJBkH7P27I", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária de 2024 (Parte 3)",
+  "data": "2024-05-15",
+  "formato": "presencial/híbrida (continuação da sessão iniciada em 14/05/2024)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); após sua saída, Hélvio Guerra conduziu a sessão",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Hélvio Guerra", "Fernando Mosna"],
+  "ausentes": ["Ricardo Tili"],
+  "observacoes": [
+   "Itens 29 e 30 retirados de pauta a pedido do relator; item 28 retirado a pedido da diretora relatora; item 18 (Energias de Gaspar) retirado pelo relator Fernando Mosna a pedido do advogado, com retorno anunciado para a reunião seguinte.",
+   "Item 4 (CP 31/2022, sobrecontratação involuntária e venda de excedentes de MMGD) retirado de pauta pelo relator Hélvio Guerra após as sustentações orais.",
+   "Sandoval Feitosa ausentou-se na parte final; item 17 retirado em respeito ao destaque dele; itens 3 e 5 transferidos para a próxima reunião por falta de quórum após as 13h.",
+   "Hélvio Guerra mencionou o término do seu mandato em 24/05/2024; a próxima terça seria sua última reunião ordinária.",
+   "Encerramento da 16ª reunião pública ordinária em ~4:01:16."
+  ]
+ },
+ "itens": [
+  {"id": "1", "ts": "0:08:27", "processo": "48500.002542/2024-07", "interessado": "SCE/SEL; sustentações: ABRATE (Taís Matei e Braz Campanholo) e GESEL/UFRJ (Roberto Brandão)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2024 (RAPs e anexos técnicos), consolidado após a CP 4/2024; inclui ativo de concessão vincenda em 2025 (contrato 20/2008, antigo lote 4 incorporado ao sublote 1A) pelo Decreto 11.314/2022",
+   "tema": ["leilões", "transmissão (RAP, outorgas)"],
+   "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade; envio ao TCU; redistribuição do processo por fim do mandato do relator",
+   "resumo_voto": "Relator manteve o lote da concessão vincenda (não haveria justificativa para não licitar e a concessão vence antes do próximo leilão); retirou melhorias de grande porte e o termo 'como construído'; aprovar edital, enviar ao TCU, visitas até 12/09/2024 e redistribuir o processo.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:06:07", "justificativa": "Decreto 11.314 estabelece a licitação como regra; regulamentação dificilmente sairá antes do fim da concessão; caso servirá de experiência.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:21:58", "justificativa": "Voto com o relator (fala sem identificação do falante).", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "1:21:58", "justificativa": "Voto com o relator (fala sem identificação do falante).", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:22:00", "justificativa": "Licitação não inova tanto (precedentes); considerou conveniente manter o lote 4; proclamou a unanimidade.", "confianca": "alta"}
+   ]},
+  {"id": "2", "ts": "1:25:11", "processo": "48500.006391/2022-85", "interessado": "Distribuidoras Neoenergia Coelba, Neoenergia Pernambuco, Neoenergia Brasília, Light e Copel; sustentação: ABRADEE (Ricardo Brandão) e outra",
+   "assunto": "Revisão tarifária extraordinária (RTE) das distribuidoras em decorrência da pandemia de covid-19 (submódulo 2.10 do PRORET); voto-vista",
+   "tema": ["tarifas e revisão tarifária (RTE)", "recursos administrativos"],
+   "relator": "Ricardo Tili", "resultado": "não concluído: novo pedido de vista de Sandoval Feitosa",
+   "resumo_voto": "Voto-vista de Hélvio Guerra acompanha o relator: conhecer dos pedidos e, no mérito, indeferi-los, revogando o submódulo 2.10 do PRORET; Agnes mantém o voto; Fernando já tinha voto assentado; Sandoval pediu vista.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, indefere os pedidos (voto proferido em sessão anterior)", "ts": "1:25:11", "justificativa": "Voto anterior citado por Hélvio Guerra; não houve desequilíbrio severo que justificasse a RTE.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "voto-vista: acompanha o relator", "ts": "1:45:54", "justificativa": "Pandemia imprevisível, mas a análise de severidade (fluxo de caixa antes/depois) não mostrou desequilíbrio que justifique RTE; nem houve pedido de RTE à época.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (mantém voto anterior)", "ts": "2:00:50", "justificativa": "'Mantenho'.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (voto assentado em sessão anterior)", "ts": "2:00:40", "justificativa": "Ausente no momento, mas com voto já assentado, segundo a mesa.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "2:00:50", "justificativa": "Questionou se o critério de severidade é objetivo e se o IGP-M foi considerado; pediu vista.", "confianca": "alta"}
+   ]},
+  {"id": "4", "ts": "2:00:58", "processo": "48500.004292/2022-69", "interessado": "Distribuidoras e associações do setor de GD (ABRADEE, ABSOLAR e outras em sustentação oral)",
+   "assunto": "Resultado da CP 31/2022: regulamentação dos arts. 21 e 24 da Lei 14.300/2022 (sobrecontratação involuntária e venda de excedentes de MMGD)",
+   "tema": ["geração distribuída (MMGD)", "regulação normativa (consulta pública)"],
+   "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator após as sustentações orais",
+   "resumo_voto": "Relator retirou o processo para examinar pontos trazidos nas sustentações (simultaneidade, conflito de interesse); retorno na próxima reunião.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "2:44:36", "justificativa": "Pontos novos das sustentações (ABSOLAR sobre simultaneidade) não tinham sido tratados.", "confianca": "alta"}
+   ]},
+  {"id": "34", "ts": "2:46:08", "processo": "48500.001326/2024-2", "interessado": "TYR Energia S.A. e J. Badin S.A. (consumidor na área da Light); sustentação: Débora (TYR)",
+   "assunto": "Requerimento cautelar para migração da J. Badin ao mercado livre com enquadramento da unidade consumidora no subgrupo tarifário AS (atendimento subterrâneo)",
+   "tema": ["comercialização (mercado livre)", "tarifas", "recursos administrativos"],
+   "relator": "Fernando Mosna", "resultado": "unânime: cautelar negada; processo à STD para decisão de mérito em 90 dias; SMA avaliará prazos e procedimentos da Light",
+   "resumo_voto": "Ausente o periculum in mora, nega a cautelar; acréscimo após sustentação: análise de mérito em primeira instância em 90 dias.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, nega a cautelar", "ts": "3:00:00", "justificativa": "Ausente requisito autorizador da cautelar; contradições da distribuidora justificam avaliação da SMA e prazo de 90 dias.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:07:59", "justificativa": "Prazo de 90 dias razoável; comportamento da distribuidora chama atenção; não é caso de cautelar.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:08:00", "justificativa": "Acompanhou e declarou a unanimidade (conduzindo a sessão).", "confianca": "media"}
+   ]},
+  {"id": "11", "ts": "3:11:16", "processo": "48500.008787/2022-67", "interessado": "Energisa Mato Grosso do Sul (sustentação: Fabrício Ferreira Neves)",
+   "assunto": "Enquadramento da Energisa MS como beneficiária da CCC para reembolso do atendimento a unidades consumidoras no Pantanal Sul-Mato-Grossense",
+   "tema": ["CDE e encargos setoriais (CCC)", "recursos administrativos"],
+   "relator": "Hélvio Guerra", "resultado": "pedido de vista de Agnes da Costa",
+   "resumo_voto": "Relator indefere: a região não foi tratada como sistema isolado com acompanhamento do MME e licitação da geração, requisitos para reembolso da CCC.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, indefere", "ts": "3:34:00", "justificativa": "Sem acompanhamento do MME e licitação prévia da geração não cabe reembolso pela CCC.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:35:32", "justificativa": "Achou o voto impecável, mas quer parecer da Procuradoria para consolidar a convicção jurídica sobre sistemas isolados.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (vista)", "ts": "3:36:34", "justificativa": "Sem observações.", "confianca": "media"}
+   ]},
+  {"id": "27", "ts": "3:36:50", "processo": "48500.000185/2024-2", "interessado": "Enel Distribuição Ceará; Dom Pedro I Transmissora de Energia SPE (representante falou por 2 minutos)",
+   "assunto": "Pedido de reconsideração contra o Despacho 654/2024 (solução de faseamento na SE Prata 2 230/69 kV com ônus da Enel CE, RAP da transmissora, ressarcimento)",
+   "tema": ["transmissão", "recursos administrativos"],
+   "relator": "Hélvio Guerra", "resultado": "pedido de vista de Agnes da Costa",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, revogando o item 1 do despacho (custo do faseamento já definido para a distribuidora).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, dá parcial provimento", "ts": "3:55:25", "justificativa": "O processo trata só do faseamento; consequências posteriores em outros processos.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:59:28", "justificativa": "Entender o pleito da transmissora de manter a ação conjunta com o ONS.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (vista)", "ts": "3:59:28", "justificativa": "", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": ["18 (Energias de Gaspar, multa UTE; relator Fernando Mosna; a pedido do advogado)", "4 (CP 31/2022 MMGD; relator Hélvio Guerra)", "17 (destaque de Sandoval Feitosa, ausente)", "28 (a pedido da relatora)", "29 e 30 (a pedido do relator)", "3 e 5 (transferidos para a próxima reunião)"],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de pessoas externas incertos (ex.: 'Moa' = Mosna; Débora 'ioman').",
+  "Item 1: as falas 'voto com relator' não identificam o falante; atribuídas a Agnes da Costa e Fernando Mosna pela proclamação de unanimidade.",
+  "Item 2: Ricardo Tili é o relator com voto proferido em sessão anterior; não há indício de sua presença nesta parte; Fernando Mosna estava ausente no momento mas com voto assentado.",
+  "Itens 34, 11 e 27: Sandoval Feitosa ausente; Hélvio Guerra conduziu. No 34 votaram 3 diretores.",
+  "Itens 25 e 36 citados na abertura não foram deliberados nesta parte (transcrição confusa sobre o que foi retirado junto com o 18).",
+  "Alguns ts de relatores (item 34, item 11) aproximados."
+ ]
+}

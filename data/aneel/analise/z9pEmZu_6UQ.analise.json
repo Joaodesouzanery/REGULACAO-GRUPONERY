@@ -1,0 +1,75 @@
+{
+ "meta": {"video_id": "z9pEmZu_6UQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2024 (Parte 1)",
+  "data": "2024-03-12",
+  "formato": "presencial (auditório) com transmissão no YouTube",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto) até ~1:25; depois Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Sandoval Feitosa (chegou durante o item 3, ~1:25)"],
+  "ausentes": ["Fernando Mosna (em viagem ao exterior representando a ANEEL)"],
+  "observacoes": [
+   "Abertura por Hélvio Guerra com quórum de 3 diretores; Sandoval Feitosa atrasado por voo, assumiu a presidência ~1:25:55.",
+   "Pauta com 42 itens; itens 7 a 42 em bloco; destacados do bloco 16, 22, 28 e 34; retirados de pauta 6, 7, 17, 20 e 26; sustentação oral nos itens 1, 2, 16, 28 e 34.",
+   "Bloco aprovado por Hélvio, Ricardo e Agnes; Ricardo Tili registrou alteração no dispositivo do item 23 (perda de objeto; acompanhamento pela SFT e SGA do 2º termo de autocomposição).",
+   "Item 1 (reajuste da Light) discutido sem votação nesta parte: Ricardo Tili anunciou voto divergente sobre a projeção de créditos de PIS/Cofins; sessão suspensa para o almoço às ~12h37 com retorno às 14h (Parte 2 em outro vídeo).",
+   "Itens 2, 4, 5 e 6 não deliberados neste vídeo."
+  ]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:08:15", "processo": "itens 7 a 42 (exceto destaques e retirados)", "interessado": "diversos", "assunto": "Itens de bloco com votos e atos disponibilizados previamente", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados", "resumo_voto": "Itens remanescentes do bloco aprovados; destaque do item 22 pedido pelo Diretor-Geral Sandoval.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:08:40", "justificativa": "Submete e aprova os itens remanescentes do bloco.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:08:46", "justificativa": "Aprova os itens remanescentes do bloco.", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:08:51", "justificativa": "Aprova os itens do bloco.", "confianca": "media"}
+   ]},
+  {"id": "16", "ts": "0:09:11", "processo": "48500.006882/2022-26 e 48500.000388/2023-?", "interessado": "Conselho de Consumidores da Enel Distribuição Ceará (Conerge) e Enel Distribuição Ceará (distribuidora)", "assunto": "Pedidos de reconsideração contra a REH 3185/2023 (revisão tarifária periódica 2023 da Enel Ceará); sustentação oral de Hugo Lamim (Enel Ceará) pedindo neutralidade dos efeitos da MMGD em parcela B, custos operacionais e perdas não técnicas", "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (dos presentes)", "resumo_voto": "Conhecer; negar provimento ao pedido do Conerge e dar parcial provimento ao da Enel Ceará (valor a ser pago pela acessante Votorantim e componente financeiro negativo em favor da modicidade); atendimento parcial de pleito do Conerge sobre recursos para ações do conselho 2023-2027. Tese de MMGD em perdas não técnicas aguarda a TS 28/2022.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, conhece e dá parcial provimento", "ts": "0:21:05", "justificativa": "Pleito sobre GD é justo, mas a Diretoria já firmou entendimento de aguardar a conclusão da tomada de subsídios; vê insistência com intuito de procrastinação em tese já sedimentada.", "tom": "crítico às distribuidoras", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:33:44", "justificativa": "Perdas não técnicas e custos operacionais dependem de aperfeiçoamento regulatório em curso; é preciso métrica regulatória e tratar todos iguais.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:33:46", "justificativa": "Rebate a sustentação: inadmissível dizer que a ANEEL é parcial ou não busca o equilíbrio; regulação exige tempo de maturação; ANEEL regulamentou a GD conforme a lei; defende tratamento diferente para perdas não técnicas em áreas de risco, a ser estudado na TS.", "tom": "enfático", "confianca": "media"}
+   ]},
+  {"id": "28", "ts": "0:36:41", "processo": "48500.003526/2019-55", "interessado": "Impasa Agroindustrial S.A. (UTE Impasa Mutum, MT)", "assunto": "Requerimento contra o Despacho 328/2024 que negou recurso sobre o desconto de 50% na TUST/TUSD para unidade geradora de 26,5 MW (ampliação), por falta de licença ambiental e outorga de recursos hídricos no protocolo; sustentação oral de Ana Beatriz Dias Souza", "tema": ["outorgas de geração (térmica)", "TUST/TUSD desconto", "recursos administrativos"], "relator": "Hélvio Guerra", "resultado": "não conhecido, por unanimidade", "resumo_voto": "Não conhecer: trata-se de reconsideração de recurso já deliberado; argumentos da sustentação já analisados.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, não conhece", "ts": "0:48:28", "justificativa": "Recurso já deliberado pela Diretoria, da qual foi relator; não cabe reanálise do mérito.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:49:40", "justificativa": "Vota com o relator.", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:49:42", "justificativa": "Acompanha o voto do relator.", "confianca": "media"}
+   ]},
+  {"id": "34", "ts": "0:50:15", "processo": "48100.004?/1994-86 (número incerto)", "interessado": "Rio Novo Energias Renováveis Ltda. (PCH Melo, Rio Preto/MG)", "assunto": "Prorrogação do prazo da outorga de concessão da PCH Melo e pedido de conversão em autorização; sustentação oral de Humberto Negrão; Procuradoria (Nota 2/2024) entende que a ANEEL não tem competência para converter", "tema": ["outorgas de geração (hidrelétrica/PCH)", "prorrogação de concessão"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade", "resumo_voto": "Recomendar ao MME a prorrogação (art. 2º da Lei 12.783/2013); recomendar que o MME avalie a alteração do regime de concessão para autorização; informar o UBP (~R$ 68 mil, maio/2023).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova recomendação ao MME", "ts": "0:59:45", "justificativa": "Concorda com área técnica e Procuradoria: converter em autorização seria revogar a concessão, o que não cabe à ANEEL.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:00:31", "justificativa": "Vota com o relator.", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:00:32", "justificativa": "Acompanha e proclama.", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "1:01:18", "processo": "48500.007476/2022-06", "interessado": "STE / agentes do PDI", "assunto": "Resultado da CP 18/2023 e aprovação da Chamada de PDI Estratégico 23/2024 «Hidrogênio no contexto do setor elétrico brasileiro» (modalidades peças e componentes e planta piloto 1–10 MW; fontes de baixo carbono)", "tema": ["P&D / inovação", "hidrogênio", "regulação normativa"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Aprovar a chamada nos termos da minuta; receitas, alienação, descomissionamento e doação de ativos seguem a regulamentação vigente no momento do evento.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:20:57", "justificativa": "Destaca maturação da CP e a regra de captura de receitas pela regulamentação vigente; Brasil com ~85% renovável tem oportunidade no hidrogênio.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:36:36", "justificativa": "Elogia acolhimento das contribuições, evita trancamento tecnológico, foco em deployment, alinhado ao Programa Nacional do Hidrogênio.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:36:36", "justificativa": "Parabeniza a STE; inovação via descarbonização (cita visita a planta de hidrogênio em Barcelona).", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:36:39", "justificativa": "Chamada estratégica dá diretriz a projetos antes dispersos; destaca Nordeste e grande demanda de energia de plantas de hidrogênio; proclama.", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "1:37:04", "processo": "48500.005920/2023-?1", "interessado": "Light Serviços de Eletricidade S.A. (distribuidora); Abradee", "assunto": "Reajuste tarifário anual 2024 da Light (efeito médio -0,06%); sustentações de Emerson Rubim (Light: projeção de créditos PIS/Cofins limitada a agosto/2024) e Ricardo Brandão (Abradee: MMGD nas perdas não técnicas)", "tema": ["tarifas e revisão tarifária", "PIS/Cofins", "geração distribuída (MMGD)"], "relator": "Agnes da Costa", "resultado": "não deliberado nesta parte (suspenso para o almoço; continua na Parte 2)", "resumo_voto": "Relatora propõe homologar o reajuste com projeção de 12 meses de compensação de créditos PIS/Cofins (MP 1202/2023 e Portaria MF 14/2024) e negar pleitos de MMGD e UTE Norte Fluminense; Ricardo Tili e Hélvio Guerra defendem projeção conservadora até agosto/2024 (impacto ~3,5%).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, voto lido (sem votação nesta parte)", "ts": "2:41:01", "justificativa": "Segue áreas técnicas: MP fixa compensação em no mínimo 5 anos; isonomia com processo de 2023; valores ajustáveis nos processos seguintes.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "anuncia voto divergente (sem votação nesta parte)", "ts": "3:00:19", "justificativa": "Dúvida razoável sobre o prazo de 5 anos; reajuste perto de zero dá espaço para ser conservador e evitar desequilíbrio da distribuidora; concorda com relatora quanto à Norte Fluminense.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "apoia a posição de Ricardo Tili (sem votação nesta parte)", "ts": "2:58:00", "justificativa": "Prefere ser conservador para não desequilibrar a concessão; não é razoável contar com futura RTE.", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou nesta parte", "ts": "3:14:20", "justificativa": "Diz-se confortável com qualquer encaminhamento; propõe suspender para buscar convergência no almoço.", "confianca": "media"}
+   ]},
+  {"id": "22", "ts": "3:17:04", "processo": "48500.000960/2021-06", "interessado": "Predileta Alimentos Ltda. (UTE Predileta, biomassa)", "assunto": "Pedido de reconsideração contra o Despacho 1826/2022 que declarou a UTE inapta a atender CCEARs do 23º Leilão de Energia Nova a partir de 01/01/2021 (modalidade tipo 3 em vez de 2A; DAPR com pendências impeditivas até maio)", "tema": ["comercialização (CCEE, CCEAR)", "outorgas de geração (térmica)", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "negado por maioria, vencido o relator Ricardo Tili", "resumo_voto": "Conhecer e negar provimento, mantendo o não reconhecimento do cumprimento dos CCEARs a partir de 01/01/2021; destaque do DG; preocupação com precedente para usina com pendência impeditiva que recebeu receita fixa e PLD.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "vencido (relator, dava provimento)", "ts": "3:20:56", "justificativa": "Erro meramente formal de cadastro; usina gerava no período; sem prejuízo ao sistema; mandava a CCEE recontabilizar o CCEAR.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "diverge do relator (nega provimento)", "ts": "3:31:08", "justificativa": "Vota contra, no sentido de indeferir e manter o entendimento anterior; disse ter ficado confusa sobre quem deu causa.", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "diverge do relator (nega provimento)", "ts": "3:31:46", "justificativa": "Usina com DAPR com pendências impeditivas recebeu como se honrasse o CCEAR; abrir exceção seria precedente perigoso.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "diverge do relator (nega provimento)", "ts": "3:32:02", "justificativa": "Também vê risco de precedente; proclama por maioria.", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["6", "7", "17", "20", "26"],
+ "limites_da_analise": [
+  "Vídeo é a Parte 1 (manhã); item 1 (Light) e itens 2, 4, 5 e 6 seguem na Parte 2.",
+  "Legenda automática sem identificação de falante; 'Ricardo lavorato/laborato/tutinho' interpretado como Ricardo Tili; 'Neves guerra/elv' como Hélvio Guerra.",
+  "Item 22: falas de voto sem nome; atribuição a Agnes (primeira, 'voto contra') e Hélvio (penúltimo, 'não acompanho') inferida pela ordem e pelo contexto; Sandoval proclamou por maioria.",
+  "Item 34: ordem de quem disse 'voto com o relator' e 'também acompanho' incerta entre Agnes e Hélvio.",
+  "Item 1: ts da manifestação de Hélvio aproximado.",
+  "Números de processos parcialmente ilegíveis na legenda (itens 16, 34, 1).",
+  "Fernando Mosna ausente: não vota."
+ ]
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "8y0jiDFeuts", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "17ª Reunião Pública Ordinária de 2024 (Parte 3)",
+    "data": "2024-05-22",
+    "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 3 da 17ª RPO (continuação); última reunião ordinária do diretor Hélvio Guerra, segundo as falas.",
+      "Item 6 (Lei 14.300, sobrecontratação involuntária por MMGD) aprovado por maioria; Sandoval Feitosa vencido no mérito (estoque de MMGD anterior à lei), acompanhando as determinações de instrução apartada.",
+      "Item 8 (compartilhamento de postes, voto-vista de Fernando Mosna) teve sustentações orais e leitura do voto-vista; a votação ficou para depois do intervalo (15h30), fora deste vídeo.",
+      "Anunciados itens retirados de pauta: 4, 7, 12, 22, 24, 26, 28, 29, 36, 37, 38 e 44 (22, 26, 28, 29 e 44 por Ricardo Tili; 38 por Fernando Mosna)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "6", "ts": "0:00:09",
+      "processo": "48500.004292/2022-69",
+      "interessado": "distribuidoras (Abradee, Neoenergia); Absolar; consumidores com MMGD",
+      "assunto": "Resultado da Consulta Pública 31/2022: regulamentação dos arts. 21 e 24 da Lei 14.300/2022 (sobrecontratação involuntária das distribuidoras por MMGD e chamadas públicas para compra de excedentes)",
+      "tema": ["geração distribuída (MMGD)", "comercialização (CCEE, contratos)", "regulação normativa (resolução, consulta pública)", "tarifas e revisão tarifária"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por maioria: resolução normativa aprovada nos termos do relator (reconhece o estoque de MMGD anterior à lei, condicionado ao máximo esforço; marco inicial 2022; inclui perdas da rede básica); por unanimidade, instruções apartadas (STR/SFF em 180 dias sobre involuntariedade por partes relacionadas; simultaneidade incluída na ARR da agenda regulatória; item sobre comercialização a redigir). Sandoval Feitosa vencido no mérito.",
+      "resumo_voto": "Sustentações orais: Ricardo Brandão (Abradee), Fabiano Rosa Carvalho (Neoenergia), Bárbara Rubim (Absolar); manifestação do Procurador-Geral. O relator divergiu do parecer 343 da Procuradoria e da área técnica, admitindo o estoque de MMGD pré-lei condicionado ao máximo esforço; incorporou sugestões da Absolar (estudo da simultaneidade) e proposta de Fernando Mosna (instrução técnica em vez de estudo).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:38:31", "justificativa": "Lei 14.300 abrangeu as instalações anteriores; a retroatividade mínima só define o marco inicial (2022); reconhecimento condicionado ao máximo esforço; afasta a premissa de risco de mercado do parecer.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:43:21", "justificativa": "Propôs trocar o estudo do item 2 por instrução técnica com sorteio de relator, acatada pelo relator; registrou que afasta o fundamento de risco de mercado do parecer.", "tom": "conciliatório («postura conciliatória»)", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:43:21", "justificativa": "Defendeu manter o item 2: conduta de parte relacionada que induz MMGD seria anticompetitiva e não deveria ser reconhecida como involuntária.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido (no mérito); acompanha as instruções apartadas", "ts": "2:43:28", "justificativa": "Mantém as conclusões da nota técnica e do parecer 343 da Procuradoria (sem estoque de MMGD anterior à lei); acompanha as determinações de instrução apartada.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:45:35",
+      "processo": "48500.003090/2018-13",
+      "interessado": "distribuidoras (Abradee); Abrint; Conexis Brasil Digital; associação de provedores do DF",
+      "assunto": "Aprimoramentos da regulamentação de compartilhamento de infraestrutura (postes) entre distribuição de energia e telecomunicações após a CP 73/2021 (resolução conjunta ANEEL/Anatel), voto-vista",
+      "tema": ["regulação normativa (resolução, consulta pública)", "distribuição", "compartilhamento de postes"],
+      "relator": "Hélvio Guerra",
+      "resultado": "não deliberado neste vídeo: lido o voto-vista de Fernando Mosna; votação após o intervalo (fora deste vídeo)",
+      "resumo_voto": "Sustentações: Ran Duarte (Abrint), Bruno Cavalcante Angelin Mendes (Conexis), Lucas Malheiros Nunes (Abradee); o representante da associação do DF não se manifestou. Voto-vista propõe aprovar a resolução conjunta (cessão do direito de exploração facultativa, termo de compromisso das distribuidoras em 210 dias, identificação em 240 dias, volumetria mínima de pontos de fixação, preço de referência R$ 5,44), segunda fase da CP 73/2021 sobre preço regulado e determinação a SFT/STD (90 dias) sobre a sistemática de avaliação.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator (voto proferido na 39ª RPO de 2023)", "ts": "2:45:35", "justificativa": "Voto original previa cessão obrigatória do direito de exploração em certos casos; não reapresentado neste vídeo.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: aprova com alterações", "ts": "3:23:35", "justificativa": "Cessão do direito de exploração passa a ser possibilidade com processo administrativo de avaliação de desempenho; prazos mais elásticos; segunda fase da CP para preço regulado.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (votação adiada após intervalo)", "ts": "4:41:52", "justificativa": "Votação não ocorreu neste vídeo.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (votação adiada após intervalo)", "ts": "4:41:52", "justificativa": "Votação não ocorreu neste vídeo.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["4", "7", "12", "22", "24", "26", "28", "29", "36", "37", "38", "44"],
+  "limites_da_analise": [
+    "Legenda automática: nomes e números podem estar errados (ex.: processo do item 8 lido como 48500 00 3090 2018 13).",
+    "Item 6: as duas falas «Eu voto com o relator / Eu também voto com relator» não têm nome; atribuídas a Fernando Mosna e Ricardo Tili pela composição presente e pela proclamação «por maioria» (Sandoval vencido). Ordem entre eles incerta.",
+    "Agnes da Costa aparece no cabeçalho de falantes inferidos, mas não é citada nem cumprimentada (as sustentações cumprimentam Sandoval, Hélvio, Mosna e Tili); presença não confirmada, não incluída.",
+    "Item 8 continua em outra parte da reunião (votação após 15h30); resultado não está neste vídeo.",
+    "Há só um marcador de tempo no .md; ts obtidos do JSON da transcrição por busca de frases, aproximados."
+  ]
+}

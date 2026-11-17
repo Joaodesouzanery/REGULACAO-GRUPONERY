@@ -1,0 +1,53 @@
+{
+  "meta": {"video_id": "J1wtEuBoYXk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "16ª Reunião Pública Ordinária de 2024 (Parte 1)", "data": "2024-05-14", "formato": "presencial com transmissão (transmissão interrompida por falha na fibra ótica com o Serpro)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); após a queda da conexão dele, a condução passou a Hélvio Guerra",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra"],
+    "ausentes": ["Ricardo Tili"],
+    "observacoes": [
+      "Ricardo Tili ausente justificadamente (férias).",
+      "Pauta com 58 itens; itens 9 a 58 em bloco; destacados 11, 17, 18, 25, 27, 28, 29, 30, 34 e 36; retirados 26 e 28 (conforme a legenda). Ordem definida: bloco, 8, 7, 1, 2, 3, 4, 5, 6 e destacados.",
+      "Hélvio Guerra pediu que o item da CP 20 (item 6) fosse deliberado no início da tarde, porque o voto só foi disponibilizado pela manhã.",
+      "Comunicados: CPs 9, 10 e 11 de 2024; gabinete de crise sobre as enchentes no Rio Grande do Sul (UHE Dona Francisca, barragem 14 de Julho); um ano da reestruturação da ANEEL; guias de PDI e workshop da ABRADEE sobre DEC/FEC. Aprovada a ata da 14ª reunião.",
+      "Durante a discussão do item 8 a transmissão e a rede caíram; Sandoval Feitosa perdeu a conexão e deixou voto. Reunião suspensa até 14h30; esta parte 1 cobre só o bloco e o item 8."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:14:54", "processo": "itens 9 a 58 (exceto destacados e retirados)", "interessado": "diversos",
+      "assunto": "Itens de bloco da 16ª reunião pública ordinária de 2024 (votos e atos divulgados previamente)",
+      "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; o Diretor-Geral proclama a aprovação por unanimidade.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:14:54", "justificativa": "Aprova os itens remanescentes do bloco (pela proclamação; fala individual sem nome).", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:14:58", "justificativa": "Aprova o bloco (pela proclamação; fala individual sem nome).", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:15:00", "justificativa": "Aprova o bloco (pela proclamação; fala individual sem nome).", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:15:07", "justificativa": "Também aprovo os itens remanescentes da pauta do bloco e proclama a unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:15:25", "processo": "48500.001390/2024-1 (número incerto na legenda)",
+      "interessado": "geradores eólicos e solares com desconto na TUST/TUSD (sustentações: Francisco Carlos da Silva Júnior, ABEEólica; Pedro Dietrich, Ventos de Santa Tarcila / Casa dos Ventos)",
+      "assunto": "Aplicação do art. 1º da MP 1.212/2024: prorrogação por 36 meses do prazo de entrada em operação para manter o desconto nas tarifas de uso da rede (§1º-C do art. 26 da Lei 9.427/1996); termo de adesão e garantia de fiel cumprimento",
+      "tema": ["tarifas (desconto TUST/TUSD)", "outorgas de geração (eólica, solar)", "regulação normativa"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade, com ajustes: inclusão de «por mais 36 meses» no despacho e no dispositivo, remissão ao inciso VI do §1º-L no termo e fixação do entendimento sobre potência instalada",
+      "resumo_voto": "Despacho aprova minuta de termo de adesão; pedidos até 10/06/2024, termo em 45 dias e garantia de fiel cumprimento (5% do valor estimado) até 09/07/2024; prorrogação emitida pela SCE; dispensa de AIR. Corrigido o erro material apontado pela ABEEólica (perda do direito à prorrogação, não ao desconto). Por sugestão de Hélvio Guerra e Fernando Mosna, ficou fixado que a execução da garantia por potência só ocorre se a potência instalada diferir da do ato de outorga vigente.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:15:25", "justificativa": "Mera aplicação dos comandos da MP 1.212, sem inovação regulatória; dispensa de AIR para preservar os prazos; acolheu os ajustes da discussão.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "1:36:18", "justificativa": "Eu voto com a relatora. Antes, levantou dúvida sobre execução da garantia quando se instala potência acima da outorgada e pediu que o entendimento ficasse claro no voto.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:36:22", "justificativa": "Também acompanho o voto da relatora. Sugeriu incluir «por mais 36 meses» no despacho e reproduzir as hipóteses de execução da garantia no termo de adesão.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido por Hélvio Guerra)", "ts": "1:36:30", "justificativa": "Perdeu a conexão; deixou voto concordando com os ajustes. Na discussão, destacou que a publicidade é a regra e que os subsídios às renováveis pesam na tarifa do consumidor.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["26", "28"],
+  "limites_da_analise": [
+    "Parte 1 da reunião: os itens 7, 1 a 6 e os destacados ficaram para depois da suspensão (outro vídeo).",
+    "No bloco, as falas de aprovação não têm nome; a ordem Agnes, Fernando, Hélvio é inferida (confiança media); só o voto final do Diretor-Geral é identificado.",
+    "No item 8, quem conduz a votação após a queda de Sandoval parece ser Hélvio Guerra (inferência pelo contexto); as falas «voto com a relatora» e «também acompanho» foram atribuídas a Hélvio e Fernando por inferência.",
+    "Ludmila que fala do púlpito sobre potência instalada foi tratada como área técnica, não como diretora votante (em maio/2024 não integrava o colegiado).",
+    "O item 28 aparece tanto entre destacados quanto entre retirados na legenda; número de processo do item 8 incerto."
+  ]
+}

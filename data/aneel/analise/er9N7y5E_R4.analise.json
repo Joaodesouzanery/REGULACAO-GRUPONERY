@@ -1,0 +1,56 @@
+{
+ "meta": {"video_id": "er9N7y5E_R4", "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "2ª Reunião Pública Ordinária de 2024", "data": "2024-01-30", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": ["Quórum completo de cinco diretores; procurador-geral Raul Pereira Lisboa presente.", "Pauta com 45 itens; itens 6 a 45 em bloco (item 15 destacado); itens 17 e 31 retirados; item 3 retirado a pedido da relatora ao final.", "Longo debate de ordem no item 2 sobre quem fica como relator/voto condutor quando o relator incorpora voto-vista; Sandoval propôs consulta formal à Procuradoria e Secretaria-Geral para tratar em reunião administrativa/Regimento.", "Hélvio Guerra informou que seu mandato termina em maio de 2024.", "Item 5 (Coremas) decidido por maioria, vencido Hélvio Guerra; item 15 (Lar do Sol) com pedido de vista de Hélvio Guerra."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:08:10", "processo": "itens 6 a 45 (exceto 15, 17 e 31)", "interessado": "diversos", "assunto": "Itens remanescentes do bloco (votos disponibilizados previamente)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Bloco aprovado sem discussão.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:08:20", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:08:20", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:08:20", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:08:20", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:08:25", "confianca": "alta"}]},
+  {"id": "1", "ts": "0:08:44", "processo": "48500.005815/2023-75", "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.", "assunto": "Abertura de consulta pública (1/2 a 18/3/2024, audiência presencial em Maceió em 29/2/2024) sobre a revisão tarifária periódica da Equatorial Alagoas a vigorar a partir de 3/5/2024; efeito médio proposto de 0,93% (-3,34% AT; 2,67% BT)", "tema": ["tarifas e revisão tarifária", "regulação normativa"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Apresentação técnica da servidora Cecília; retirada das flexibilizações contratuais de custos operacionais e perdas não técnicas pós-privatização; perdas não técnicas de 15,86% com trajetória até 11,01%.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova abertura da consulta pública", "ts": "0:24:30", "justificativa": "colher subsídios para a RTP da Equatorial Alagoas", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:25:28", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:25:30", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:25:32", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:25:35", "confianca": "alta"}]},
+  {"id": "2", "ts": "0:26:24", "processo": "48500.002651/2022-43", "interessado": "transmissoras (ABRATE)", "assunto": "Resultado (conclusão parcial) da Consulta Pública 31/2023: revisão dos submódulos 9.1 e 9.2 do PRORET (revisão periódica da RAP das transmissoras); voto-vista mantém a metodologia atual de atualização dos serviços do banco de preços de referência (em vez do IPCA), inclui estudo do banco de preços na agenda regulatória (AR 2024-21) e prorroga para 10/3/2024 a entrega dos relatórios de conciliação físico-contábil", "tema": ["transmissão", "tarifas e revisão tarifária", "regulação normativa", "voto-vista"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade (voto da relatora alterado incorporando o voto-vista de Hélvio Guerra)", "resumo_voto": "Sustentação oral de Thiago Aragão Soares (ABRATE) contra o IPCA. Voto-vista de Hélvio Guerra acompanha a relatora em JOA (mediana), base de anuidade e VOC, mas mantém a cesta de índices para serviços (impacto de cerca de 110 milhões frente a redução de RAP de cerca de 1,84 bilhão). Agnes incorporou o voto-vista, acrescentando que o banco de preços seja desejavelmente atualizado de forma automatizada; permaneceu relatora.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, altera voto para incorporar o voto-vista", "ts": "1:36:30", "justificativa": "IPCA era usado em 90% dos contratos e na distribuição, mas aceita não ser preciosista por 110 milhões e preservar estabilidade regulatória; pede automatização do banco de preços", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "voto-vista, acompanha o voto alterado da relatora", "ts": "1:38:19", "justificativa": "IPCA não garante aderência aos custos de serviços (FIPE e FGV/IBRE); postergar a revisão seria pior ao consumidor; estudar índice para próximo ciclo", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o voto alterado da relatora", "ts": "1:38:10", "justificativa": "levantou questão de ordem sobre quem é o voto condutor", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o voto alterado da relatora", "ts": "1:38:15", "justificativa": "defendeu que voto-vista condutor passa a conduzir o processo", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto condutor alterado e proclama", "ts": "1:38:30", "confianca": "alta"}]},
+  {"id": "4", "ts": "1:41:38", "processo": "48500.004192/2023", "interessado": "ONS, CCEE, Copel GT", "assunto": "Abertura de consulta pública (intercâmbio documental, 1/2 a 18/3/2024) sobre alterações dos Procedimentos de Rede (ONS) e Regras/Procedimentos de Comercialização (CCEE) decorrentes da REN 1.062/2023 (serviço ancilar de suporte de reativos por outras fontes)", "tema": ["regulação normativa", "comercialização", "transmissão"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade", "resumo_voto": "Apresentação técnica do servidor Mateus (SGM).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura da consulta pública", "ts": "1:52:34", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:53:10", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:53:12", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:53:14", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:53:16", "confianca": "alta"}]},
+  {"id": "5", "ts": "1:54:10", "processo": "48500.004232/2020-84; 48500.004235/2020", "interessado": "Coremas I, II e III Geração de Energia SPE S.A.; Coremas IV a VIII", "assunto": "Requerimento administrativo contra o Despacho 1.638/2023 (compartilhamento de instalações); juntada de parecer elaborado em mediação", "tema": ["recursos administrativos", "outorgas de geração", "voto-vista"], "relator": "Hélvio Guerra", "resultado": "por maioria, vencido Hélvio Guerra: não conhecido o pedido; de ofício, nulidade parcial do Despacho 1.638/2023 quanto à apresentação do parecer sigiloso da mediação (art. 30 da Lei 13.140/2015); ressarcimento em 60 dias mantido", "resumo_voto": "Processo já em votação, faltando o voto do Diretor-Geral. Voto-vista de Fernando Mosna prevaleceu.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "vencido (relator mantém voto)", "ts": "1:55:59", "justificativa": "procurador anterior entendeu que o parecer da mediação podia ser divulgado; na dúvida mantém o voto", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "voto-vista vencedor", "ts": "1:54:30", "justificativa": "não conhecer do pedido; parecer de mediação é sigiloso", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "altera voto para acompanhar o voto-vista", "ts": "1:55:38", "justificativa": "sensibilizada pela análise jurídica da Procuradoria", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista", "ts": "1:59:51", "justificativa": "pediu reabertura da votação após fala do procurador sobre NDA na mediação (Consenso/TCU)", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista e proclama", "ts": "1:57:00", "justificativa": "potencial ilegalidade apontada pela Procuradoria; autotutela de ofício", "confianca": "alta"}]},
+  {"id": "15", "ts": "2:01:55", "processo": "48500.007270/2022-51; 48500.007271/2022-03; 48500.007268/2022-81", "interessado": "UFV Lar do Sol 4, 5 e 6 S.A. (Pirapora/MG)", "assunto": "Recursos contra autos de infração 33 a 35/2022 da SFG (multa por atraso na implantação das UFVs Lar do Sol); pedido de conversão em advertência por baixa ofensividade", "tema": ["fiscalização e sanções", "outorgas de geração", "recursos administrativos"], "relator": "Fernando Mosna", "resultado": "pedido de vista de Hélvio Guerra", "resumo_voto": "Sustentação oral de Renan Torres Lucas dos Santos (empresas). Relator nega provimento e mantém multas; atraso de cerca de 4 meses segundo a fiscalização.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "2:12:41", "justificativa": "não caracterizada baixa ofensividade para converter multa em advertência", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "2:14:50", "justificativa": "questionou se o atraso ficou abaixo dos 54 meses da REN 1.038", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "2:14:45", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "2:14:45", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "2:14:55", "confianca": "baixa"}]}
+ ],
+ "retirados": [{"id": "3", "ts": "2:15:24", "motivo": "retirado a pedido da diretora relatora ao final da reunião"}, {"id": "17", "motivo": "retirado da pauta"}, {"id": "31", "motivo": "retirado da pauta"}],
+ "limites_da_analise": ["Transcrição em bloco único sem separação de falantes; votos de seguidores atribuídos pela ordem usual e pela proclamação.", "Item 2: as falas de acompanhamento não têm nome; atribuição de Ricardo Tili e Fernando Mosna é incerta (confiança baixa).", "Item 15: antes do pedido de vista um diretor não identificado disse «acompanho o voto do relator»; registrado como não votou para os demais.", "Item 5: votos anteriores foram dados em reunião passada; a quem pertence cada voto antes desta sessão é inferido da fala da mesa.", "Números de processo e valores vêm da legenda automática e podem estar errados."]
+}
