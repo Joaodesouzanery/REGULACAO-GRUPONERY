@@ -1,0 +1,109 @@
+{
+  "meta": {"video_id": "mq424Glv1YM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28ª Reunião Pública Ordinária de 2024", "data": "2024-08-06", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) na abertura, bloco e item 2; depois Agnes da Costa conduz a sessão",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Pauta com 22 itens; itens 9 a 22 em bloco (item 12 destacado); itens 3 e 6 retirados de pauta; sustentações orais nos itens 1, 4, 8 e 12.",
+      "Fernando Mosna chegou ao longo da reunião; ata da 27ª RPO aprovada após sua chegada (Sandoval estava ausente naquela reunião).",
+      "Após o item 2 Sandoval Feitosa não aparece mais nas votações; Agnes da Costa passa a presidir (o representante do Conselho de Consumidores a chama de presidente da sessão).",
+      "Item 7 não deliberado: pendente de apresentação de voto do Diretor-Geral Sandoval.",
+      "Ricardo Tili registrou correção de erro material no item 15 do bloco (meta de ligações e índice de não cumprimento).",
+      "Subprocurador-geral Eduardo Estevão; secretário-geral Daniel Danna."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (9 a 22, exceto 12)", "ts": "0:05:00", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 9 a 22 (exceto o 12, destacado), com votos disponibilizados previamente",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados sem discussão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "0:05:06", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco", "ts": "0:05:08", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens do bloco", "ts": "0:05:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:05:33", "processo": "48500.005974/2023-70", "interessado": "EDP Espírito Santo Distribuição de Energia S.A. (distribuidora)",
+      "assunto": "Reajuste tarifário anual da EDP Espírito Santo a vigorar a partir de 7/8/2024 (efeito médio -2,96%; AT -6,05%; BT -1,82%)",
+      "tema": ["tarifas e revisão tarifária", "distribuidoras"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa tarifas TE/TUSD, receita das DIT de uso exclusivo e repasse mensal da CCEE para subsídios; redução puxada por encargos (CDE covid), transmissão e financeiros. Procuradoria opinou pela aplicação do reajuste.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:16:27", "justificativa": "reajuste calculado conforme a nota técnica 118/2024-STR; efeito médio negativo de 2,96%", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:18:38", "justificativa": "processo tranquilo, sinalização bastante favorável de redução; destaca encargos, transmissão e financeiros negativos", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:18:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:20:59", "processo": "48500.009367/2022-06", "interessado": "Roraima Energia, ONS, CCEE; geradoras do leilão de Boa Vista 2019 (Oliveira Energia, Azulão Geração/Eneva - UTE Jaguatirica II, SPEs da Ox Participações, BBF Baliza)",
+      "assunto": "Definição da energia requerida e penalidade por indisponibilidade nos CCESI do sistema isolado de Roraima (leilão de suprimento a Boa Vista 2019)",
+      "tema": ["sistemas isolados", "comercialização (contratos)", "CDE e encargos setoriais (CCC)", "fiscalização e sanções"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sustentações orais de Guilherme Berejiklian (Oliveira Energia) e Luz Ângela Molina Gutierres (Azulão Geração). Relator acompanha parcialmente a área técnica: energia requerida inclui potência disponível necessária e indisponibilidades até o compromisso de entrega, mas limitada à carga do sistema Roraima a cada apuração; calculada por usina, sem abater inflexibilidade de terceiros; restrições operativas da tecnologia são indisponibilidade do gerador; entrega e penalidade apuradas no ponto de conexão, com perdas médias proporcionais; reprocessamento extraordinário por Roraima Energia, ONS e CCEE.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (concordância parcial com a área técnica)", "ts": "0:46:18", "justificativa": "acrescenta a carga demandada do sistema Roraima como limitador da energia requerida; rejeita pleitos da Oliveira (só ordem de despacho) e da Eneva (abater energia inflexível)", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:10:54", "justificativa": "voto ponderado; metodologia de perdas razoável; dá clareza e serve de sinal para as diretrizes do novo leilão de sistemas isolados no ministério", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:10:56", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:12:51", "processo": "48500.004630/2022-62", "interessado": "Artemis/RT1 Z2 (transmissora, grafia incerta) e Heineken Brasil Bebidas (consumidor livre, UC Caxias-MA)",
+      "assunto": "Voto-vista: recursos contra o Despacho 39/2022-SRT sobre ressarcimento à transmissora pela solução provisória de suprimento à Heineken durante o seccionamento da LT 230 kV Peritoró-Coelho Neto para a SE Caxias II",
+      "tema": ["transmissão", "recursos administrativos", "consumidor livre"], "relator": "Hélvio Guerra (relator original); voto-vista Fernando Mosna", "resultado": "aprovado por maioria (voto-vista de Fernando Mosna; vencido o voto do relator original Hélvio Guerra, proferido na 17ª RPO de 21/5/2024)",
+      "resumo_voto": "Hélvio Guerra votara por negar provimento à transmissora e dar parcial provimento à Heineken, revogando o reconhecimento do direito ao ressarcimento. Mosna diverge: conexão via tap foi escolha do consumidor, que assume riscos; relação não meramente bilateral pela intervenção da ANEEL/ONS; aplica venire contra factum proprium e vedação ao enriquecimento sem causa; dá parcial provimento à transmissora e determina que o ONS lance em AVD/AVC o ressarcimento validado pela SFF (cerca de R$ 5,1 milhões com encargos, valor incerto na legenda); mantém o indeferimento da perda de RAP por atraso de 50 dias.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: diverge do relator original, dá parcial provimento à transmissora", "ts": "1:16:31", "justificativa": "consumidor escolheu conexão via tap e assumiu os riscos; venire contra factum proprium e vedação ao enriquecimento sem causa; ANEEL pode impor o ressarcimento", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "1:40:54", "justificativa": "voto ponderado; adequado usar valor já fiscalizado pela SFF e cobrar via avisos de crédito/débito da apuração mensal", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista", "ts": "1:40:56", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "vencido (voto proferido na 17ª RPO como relator original)", "ts": "1:41:05", "justificativa": "negava provimento à transmissora e dava parcial provimento à Heineken, revogando o item 1 do despacho", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:43:35", "processo": "48500.005929/2023-35", "interessado": "Equatorial Pará Distribuidora de Energia S.A. (distribuidora); Conselho de Consumidores do Pará",
+      "assunto": "Reajuste tarifário anual da Equatorial Pará a vigorar a partir de 7/8/2024 (efeito médio -3,56%; AT -7,24%; BT -2,66%)",
+      "tema": ["tarifas e revisão tarifária", "distribuidoras", "universalização"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sustentação oral de Carlindo Lins Pereira Filho (Conselho de Consumidores do Pará), que critica contingenciamento da TFSEE e perdas não técnicas. Apresentação técnica de Gustavo Godói (STR). Inclui penalidade por descumprimento de metas de universalização rural (-0,36%) e reversão de diferimento de R$ 270 milhões; determina que STR e SFT avaliem em 180 dias a aplicação do financeiro de universalização quando a decisão ocorre após a RTP.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:11:44", "justificativa": "homologa reajuste com efeito médio de -3,56% e determina estudo sobre cálculo do financeiro por descumprimento de metas de universalização", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:13:09", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:13:11", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:14:39", "processo": "48500.000177/2023-34 e 48500.000272/2019-46", "interessado": "Marins Participações Ltda. (recorrente); MSUL (titular do DRI-PCH)",
+      "assunto": "Recurso contra o Despacho 1429/2023-SCE que negou à Marins o DRI-PCH em Timbó Grande (SC) e prorrogou o DRI da MSUL",
+      "tema": ["outorgas de geração (PCH)", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "recurso conhecido e não provido, por unanimidade",
+      "resumo_voto": "Sustentação oral de Gabriel Oliveira Costa (Marins), alegando inércia da MSUL no acesso às terras. Procuradoria (parecer 125/2024) opinou pelo não provimento: autorização de acesso de 120 dias deve rebater no prazo do DRI. Relator: sustentação sem fato novo; mantém o despacho.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, conhece e nega provimento", "ts": "2:22:57", "justificativa": "sustentação não trouxe fato novo; matéria já apreciada pela área técnica e pela procuradoria", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:23:25", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:23:27", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:23:41", "processo": "48500.004232/2020-84 e 48500.004235/2020-18", "interessado": "SPEs Coremas I a III Geração de Energia (requerentes); SPEs Coremas IV a VIII (grupo Rio Alto) (UFVs na Paraíba)",
+      "assunto": "Medida cautelar para cumprimento do Despacho 274/2024 (ressarcimento pelo compartilhamento de instalações de interesse restrito)",
+      "tema": ["recursos administrativos (cautelar)", "outorgas de geração (solar)", "transmissão (acesso)", "fiscalização e sanções"], "relator": "Fernando Mosna", "resultado": "cautelar concedida por unanimidade",
+      "resumo_voto": "Sustentação oral de André Elstein (Coremas). Relator vê fumus boni iuris (descumprimento do item 5.1.2 do Módulo 5 das Regras de Transmissão e do Despacho 274) e periculum in mora (debêntures de cerca de R$ 807 milhões do controlador vencendo em 7/8/2024; depósito judicial não feito); invoca por analogia o contempt of court. Determina pagamento em 48 horas, sob pena de desconexão elétrica das usinas pelo ONS, prazo improrrogável.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, concede a cautelar", "ts": "2:45:22", "justificativa": "preservar a autoridade da decisão da agência; conduta grave e contraditória das devedoras; medida reversível", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:01:21", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:01:23", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "3", "motivo": "retirado de pauta"},
+    {"id": "6", "motivo": "retirado de pauta"},
+    {"id": "7", "motivo": "não deliberado: pendente de apresentação de voto pelo Diretor-Geral Sandoval Feitosa"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas (Artemis/RT1 Z2, MSUL, Marins), números de processo e valores podem estar errados.",
+    "Atribuição dos votos de acompanhamento inferida: Sandoval deixa de votar após o item 2 e não se diz explicitamente quem votou nos itens 4 a 8; atribuídos aos dois diretores presentes além do relator.",
+    "No item 1 o representante do Conselho disse que Ricardo Tili havia se ausentado; os dois votos de acompanhamento foram atribuídos a Mosna e Tili com confiança baixa.",
+    "No item 5 o voto vencido de Hélvio Guerra foi proferido na 17ª RPO (21/5/2024), não nesta sessão; incluído para registrar a maioria.",
+    "ts dos votos de quem só acompanha são aproximados."
+  ]
+}

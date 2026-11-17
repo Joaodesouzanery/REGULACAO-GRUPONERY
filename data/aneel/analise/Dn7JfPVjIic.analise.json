@@ -1,0 +1,68 @@
+{
+  "meta": {"video_id": "Dn7JfPVjIic", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:46:48); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "42ª RPO 2024", "data": "2024-11-12", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (substituindo o Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": ["Sandoval Feitosa ausente (férias); quórum de três diretores; sessão presidida por Agnes da Costa.", "Pauta com 42 itens; item 1 retirado de pauta; itens 5 a 42 em bloco; ordem de deliberação: bloco, 3, 2 e 4.", "Um diretor declarou suspeição nos itens 21 e 22 do bloco, que ficaram pendentes do voto do Diretor-Geral.", "Item 2 teve vista de mesa de Agnes da Costa antes do almoço e foi concluído às 14h por unanimidade.", "Item 4: Agnes da Costa divergiu do prazo de 90 dias para aporte de capital (defendeu 180 dias) e pediu vista; processo volta na reunião seguinte com o Diretor-Geral."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:53:13", "processo": "itens 5 a 42 (bloco)", "interessado": "diversos",
+      "assunto": "Itens de bloco (5 a 42), votos disponibilizados previamente com a pauta",
+      "tema": ["institucional"], "relator": "diversos",
+      "resultado": "aprovados por unanimidade, exceto itens 21 e 22 (suspeição de um diretor; pendentes do voto do Diretor-Geral)",
+      "resumo_voto": "Aprovação em bloco; suspeição declarada nos itens 21 e 22.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:53:13", "justificativa": "Submete e aprova os itens do bloco, proclamando a aprovação dos remanescentes.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:53:20", "justificativa": "Aprova o bloco (não é claro na legenda qual diretor declarou suspeição nos itens 21 e 22).", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:53:20", "justificativa": "Aprova o bloco (não é claro na legenda qual diretor declarou suspeição nos itens 21 e 22).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:54:07", "processo": "48500.002288/2024-28 e 48500.006650/2023-59 (números da legenda, incertos)",
+      "interessado": "distribuidoras e transmissoras; sustentação oral de Lucas Malheiros Nunes (ABRADEE)",
+      "assunto": "Abertura de consulta pública sobre aprimoramentos regulatórios para resiliência das redes de distribuição e transmissão a eventos climáticos extremos (manejo vegetal, planos de contingência, comunicação com consumidores e poder público, cessão emergencial de recursos, compensação ao consumidor, tipificação de infrações) e canal dedicado aos poderes públicos (Decreto 12.068/2024, art. 4º, XXV)",
+      "tema": ["regulação normativa (consulta pública)", "distribuição", "transmissão", "eventos climáticos extremos", "fiscalização e sanções"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade: instaurar consulta pública por intercâmbio documental de 30 dias (13/11 a 12/12/2024)",
+      "resumo_voto": "Relatora leu o voto integral; ABRADEE pediu divisão da consulta em fases. Fernando Mosna sugeriu ampliar o escopo da CP (valor da compensação, redução da franquia de 24 h para consumidores urbanos, compensação progressiva, citando ação civil pública da AGU); relatora acolheu como reflexão para a CP.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:17:30", "justificativa": "Resiliência é adaptação, não resignação; informar o consumidor deve ser tão prioritário quanto restabelecer o serviço; discorda de distribuidoras que veem a comunicação como atrapalho na crise.", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora, com sugestões para a consulta pública", "ts": "3:05:01", "justificativa": "Propõe colher contribuições sobre valor fixo/progressivo da compensação e franquia menor que 24 h, para a agência não parecer complacente com as distribuidoras.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "3:05:06", "justificativa": "Acompanha sem comentários registrados.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "3:05:59", "processo": "48500.000100/2024-?? (legenda incompleta)",
+      "interessado": "CCEE (Câmara de Comercialização de Energia Elétrica)",
+      "assunto": "Regulamentação decorrente do Decreto 11.835/2023 (governança da CCEE): homologação do novo estatuto social da CCEE",
+      "tema": ["comercialização (CCEE)", "regulação normativa"],
+      "relator": "Ricardo Tili",
+      "resultado": "unânime: não homologar o estatuto social da CCEE de 3/6/2024 por ilegalidades; CCEE deve apresentar novo estatuto; revogar o art. 37 da REN 1.087/2024 e a expressão 'não coincidentes' do art. 16 da REN 957/2021",
+      "resumo_voto": "Relator divergiu da área técnica (que propunha homologação parcial) e da procuradoria (parecer 255/2024, sobre não coincidência de mandatos); considerou a CCEE imprudente por não atender decreto, nota técnica e ofício. Agnes pediu vista de mesa e, retomado às 14h, acompanhou.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, não homologa o estatuto", "ts": "3:46:30", "justificativa": "Grau de ilegalidade (representação de consumidores, critérios de idoneidade ligados a atividade política, mandato) impede homologação parcial; decreto fixa mandato de 2 anos e retirou a não coincidência.", "tom": "crítico à CCEE", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:47:05", "justificativa": "Acompanha sem justificativa registrada.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista de mesa; depois acompanha o relator", "ts": "5:48:27", "justificativa": "Não entra no mérito das ilegalidades, mas considera mais limpa a solução proposta pelo relator.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "5:49:32", "processo": "48500.000830/2022-46 (legenda, incerto)",
+      "interessado": "ABRADEE (sustentação oral de Ricardo Brandão) e Neoenergia Distribuição Brasília (sustentação oral de Fabiano da Rosa Carvalho)",
+      "assunto": "Pedido de reconsideração da ABRADEE contra o Despacho 3.478/2022 e requerimentos sobre critério de eficiência de gestão econômico-financeira das distribuidoras (ano 2023), inclusive da Neoenergia Brasília; revogação de cautelares e prazo para aporte de capital",
+      "tema": ["fiscalização e sanções (critérios de eficiência, caducidade)", "distribuição", "recursos administrativos"],
+      "relator": "Fernando Mosna",
+      "resultado": "pedido de vista de Agnes da Costa (divergência sobre o prazo de aporte de capital: 90 dias do relator x 180 dias); volta na reunião seguinte",
+      "resumo_voto": "Relator: parcial provimento à ABRADEE (neutralidade da exclusão do ICMS da base do PIS/Cofins no cálculo a partir de 2022), indefere os demais pleitos, revoga as cautelares (Despachos 2.076/2023 e 1.883/2024) e dá 90 dias para aportes. Ricardo Tili acompanha; Agnes acompanha exceto o último item (180 dias) e, diante do impasse sobre efeitos do empate, pede vista.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento; prazo de 90 dias para aporte", "ts": "7:00:00", "justificativa": "90 dias é razoável, embora desafiador; prazo mais longo pode inviabilizar a análise ligada à prorrogação das concessões (Decreto 12.068) e ao contrato previsto para 2025.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "7:02:59", "justificativa": "Acompanha; sem comentário adicional.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "diverge parcialmente (180 dias no último item) e pede vista", "ts": "7:03:06", "justificativa": "Normas e precedentes (Light, Enel Rio) usam 180 dias para aportes vultosos; questiona por que o processo de 2022 só veio agora sob pressa da prorrogação.", "tom": "crítico", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "1", "motivo": "retirado de pauta (assunto não lido na sessão)"}],
+  "limites_da_analise": ["Legenda automática: números de processo e nomes podem estar errados.", "Não fica claro qual diretor declarou suspeição nos itens 21 e 22 do bloco.", "No item 3 os dois votos de acompanhamento não identificam o falante; atribuição de Fernando Mosna e Ricardo Tili inferida pelo debate.", "ts dos votos de relator aproximados (leitura longa)."]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {"video_id": "uz86LqeSd9U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "29ª Reunião Pública Ordinária de 2024", "data": "2024-08-13", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": [
+      "Sandoval Feitosa ausente (anunciado como a caminho, não aparece na sessão); quórum de três diretores.",
+      "Antes da pauta, Fernando Mosna criticou notificação judicial do grupo Equatorial contra a diretora de associação Bárbara Rubim («espécie de bullying corporativo»), citou procedimento do MP do Piauí sobre faturamento e anunciou audiência pública sobre faturamento das distribuidoras do grupo Equatorial em 29/08/2024; Ricardo Tili apoiou e recomendou que a fiscalização oficie o MP-PI pedindo cópia dos autos; Agnes da Costa apoiou e questionou o rito formal (procuradoria: art. 10 da Lei 13.848).",
+      "Ata da 28ª RPO (06/08/2024) aprovada.",
+      "Pauta com 26 itens; itens 5 a 26 em bloco (item 7 destacado); retirados de pauta os itens 2 e 14 (há um terceiro item retirado inaudível).",
+      "Itens 3 e 4 ficaram pendentes do voto do Diretor-Geral (sem três votos convergentes)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "5-26 (bloco)", "ts": "0:19:20", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 5 a 26 da pauta deliberados em bloco (exceto o item 7, destacado)", "tema": ["bloco"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade", "resumo_voto": "Votos e atos disponibilizados previamente com a pauta.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:19:28", "justificativa": "Aprovo os itens remanescentes do bloco.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:19:30", "justificativa": "Também aprova o bloco.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:19:32", "justificativa": "Também aprova os itens remanescentes do bloco.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:19:39", "processo": "48500.000591/2023-57", "interessado": "RGE Sul Distribuidora de Energia",
+      "assunto": "Reajuste tarifário anual 2024 da RGE Sul, vigente a partir de 19/08/2024, com diferimento de cerca de R$ 1,23 bilhão (eventos climáticos no Rio Grande do Sul) e efeito médio de 0%",
+      "tema": ["tarifas e revisão tarifária", "distribuidoras", "calamidade Rio Grande do Sul"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade (resolução homologatória; efeito médio 0%, +0,16% AT e -0,06% BT)",
+      "resumo_voto": "Homologa o reajuste com diferimento proposto pela RGE conforme metodologia da CP 15/2024 (despacho 2133/2024); recomposição prevista em 2026 e 2027, a ser reavaliada em cada processo tarifário; conselho de consumidores não se opôs. Apresentação técnica de Thiago Roberto (STR).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "0:37:05", "justificativa": "Diferimento segue metodologia da CP 15/2024; recomposição em 2026/2027 avaliada a cada processo tarifário.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:37:55", "justificativa": "Voto com a relatora.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:37:57", "justificativa": "Acompanho o voto da relatora.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:38:45", "processo": "48500.004277/2015-62", "interessado": "SPS Cherobim Energia (PCH Lúcia Cherobim, Lapa/PR)",
+      "assunto": "Recurso administrativo contra o despacho 4244/2023 (SCG) que reconheceu 175 dias de excludente de responsabilidade no atraso da PCH Lúcia Cherobim; pede mais 199 dias (atraso na autorização de supressão vegetal no IAT/Ibama)",
+      "tema": ["outorgas de geração", "PCH", "recursos administrativos", "excludente de responsabilidade"],
+      "relator": "Fernando Mosna", "resultado": "não deliberado: 2 votos (Agnes da Costa e Ricardo Tili) por dar parcial provimento (176 dias) contra 1 (relator, negar provimento); aguarda voto do Diretor-Geral",
+      "resumo_voto": "Voto-vista de Ricardo Tili acompanha o voto-vista de Agnes da Costa (23/07/2024): reconhecer 176 dias adicionais (23/03/2020 a 15/09/2020, decreto estadual que impediu vistorias presenciais do IAT), refletindo no prazo da outorga (até 16/01/2055), CCEARs e início da operação comercial (16/12/2024); nega trâmite no Ibama e perda de janela hidrológica.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento (mantém voto)", "ts": "0:50:47", "justificativa": "Mantém o entendimento do voto apresentado em 18/06/2024 pelas razões discutidas na reunião anterior.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: parcial provimento (176 dias), mantido", "ts": "0:50:53", "justificativa": "Voto-vista da reunião de 23/07/2024; registra que os votos dela e de Tili convergem.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "voto-vista: acompanha o voto-vista de Agnes da Costa (parcial provimento, 176 dias)", "ts": "0:41:36", "justificativa": "Decreto estadual inviabilizou vistorias presenciais do IAT, impactando a emissão da ASV; quanto ao Ibama e à janela hidrológica, alinha-se ao relator.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:52:17", "processo": "", "interessado": "",
+      "assunto": "Item 4 da pauta, pendente do voto do Diretor-Geral (empate ou falta de três votos convergentes); não apreciado",
+      "tema": ["pendente de quórum"], "relator": "não identificado", "resultado": "não deliberado; aguarda voto do Diretor-Geral",
+      "resumo_voto": "", "votos": []
+    },
+    {
+      "id": "7", "ts": "0:52:50", "processo": "48500.003665/2022-84", "interessado": "Diamante Geração de Energia (Complexo Termelétrico Jorge Lacerda)",
+      "assunto": "Recursos contra os despachos 1051/2023 e 739/2024 (SGM) que aprovaram o CVU do Complexo Termelétrico Jorge Lacerda em carga plena e reduzida; questiona uso da REN 1016 (preço médio anual do diesel ANP) para o combustível secundário",
+      "tema": ["comercialização", "CVU", "térmica a carvão", "recursos administrativos"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista de Fernando Mosna",
+      "resumo_voto": "Relatora nega provimento: critério regulatório da REN 1016 (reembolso CCC/CDE) é aplicável e evita assimetria de informação; o mesmo critério da REN 1093 para térmicas merchant. Sustentação oral de Valéria de Souza Rosa (Diamante); procuradoria pelo não provimento. Mosna questionou a variação efetiva do custo do diesel antes de pedir vista.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, nega provimento", "ts": "1:13:49", "justificativa": "Regra discutida com a sociedade (reembolso de combustível secundário) aplicável a térmicas com diesel como combustível secundário; preserva a agência da assimetria de informação.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "1:19:03", "justificativa": "Questionou se o voto considerou a variação efetiva do custo do diesel, fora da gestão do empreendedor.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:19:03", "justificativa": "Deliberação suspensa pelo pedido de vista.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["item 2", "item 14", "um terceiro item retirado (número inaudível na legenda)"],
+  "limites_da_analise": [
+    "Legenda automática; números de processo podem estar errados (item 7 transcrito como 48500 0036 65 2022 84).",
+    "Item 4: número de processo e assunto não lidos na sessão.",
+    "No item 3 a fala de Mosna sobre o placar está confusa na legenda ('somos dois v diferente'); resultado inferido pela fala de Tili e da presidente.",
+    "Conteúdo do bloco (itens 5-26) não lido na sessão."
+  ]
+}

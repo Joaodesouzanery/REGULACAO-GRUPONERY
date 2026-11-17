@@ -1,0 +1,266 @@
+{
+ "meta": {
+  "video_id": "tXK9fRz8vcU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts calculados a partir da transcrição JSON; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "35ª Reunião Pública Ordinária de 2024",
+  "data": "2024-09-24",
+  "formato": "presencial (sede da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Gentil Nogueira (não citado; quórum de quatro diretores; colegiado com vaga, ver empate no item 4)"
+  ],
+  "observacoes": [
+   "Aprovada a ata da 34ª RPO; pauta com 42 itens, 5 a 42 em bloco, itens 13 e 19 retirados.",
+   "Comunicados: leilão de transmissão 2/2024 em 27/09 (783 km de linhas), tomada de subsídios 11/2024 sobre modernização tarifária, reuniões com investidores e com distribuidoras sobre planos de contingência para o verão.",
+   "Item 4 terminou empatado 2x2 na cautelar; a Secretaria-Geral citou outros processos pendentes por empate aguardando novo diretor.",
+   "Encerrada por volta de 2:21:43 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 5 a 42)",
+   "ts": "0:07:50",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 5 a 42 (votos e atos disponibilizados previamente com a pauta; nenhum destaque; itens 13 e 19 retirados de pauta)",
+   "tema": [
+    "institucional / pauta em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Diretores aprovam os itens do bloco sem discussão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:22",
+   "processo": "48500.002269/2024-81 (número parcial pela legenda)",
+   "interessado": "CCEE; distribuidoras; consumidores do ACR",
+   "assunto": "Resultado da Consulta Pública 20/2024: regulamentação das cotas extraordinárias dos recebíveis da CDE cedidos (antecipação dos recebíveis da Eletrobras, MP 1.212/2024, Portaria Interministerial MME/MF 1/2024) e fluxo de destinação de recursos da CDE para quitação das contas Covid e Escassez Hídrica; alteração do submódulo 5.2 do PRORET",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova resolução normativa alterando o submódulo 5.2 do PRORET após a CP 20/2024; competência da ANEEL limitada a fixar cotas extraordinárias em caso de inadimplência da Eletrobras, rateadas pelo mercado cativo; efeitos tarifários da quitação antecipada ficam para processo específico. Apresentação técnica de Felipe Moraes (STR). Fernando Mosna questionou onde está demonstrado o benefício ao consumidor da securitização.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:30:35",
+     "confianca": "alta",
+     "justificativa": "emissão de REN alterando o submódulo 5.2 do PRORET após a CP 20/2024; prazo apertado para viabilizar a operação da CCE e preservar a política pública"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:34:45",
+     "confianca": "media",
+     "justificativa": "acompanha, mas questiona a ausência de demonstração do benefício ao consumidor da securitização (calculado pela CCE e atestado pelo MME); defende que a ANEEL analise em detalhe a vantajosidade no processo específico de efeitos tarifários, já que a CCE é regulada"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:34:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:34:48",
+     "confianca": "media",
+     "justificativa": "proclama o resultado e elogia a condução rápida pela área técnica"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:35:22",
+   "processo": "48500.002241/2024-44 (número parcial pela legenda)",
+   "interessado": "Light Serviços de Eletricidade S.A. (distribuidora)",
+   "assunto": "Sandbox tarifário da Light: modalidade de faturamento fixo associada a mecanismos de incentivos não tarifários (2ª chamada de sandbox tarifários, reenvio após decisão de 18/06/2024); piloto na Baixada Fluminense e zona oeste, áreas de perdas e inadimplência",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "inovação / sandbox tarifário",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza o sandbox, aprova resolução autorizativa com ambiente regulatório experimental, delega à STR publicar as tarifas experimentais, determina acompanhamento pelo projeto de governança (Despacho 1.291/2022) e prestação de informações pela Light. Apresentação técnica de Diego (STR); pendências da avaliação anterior sanadas, Conselho de Consumidores favorável.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:47:00",
+     "confianca": "alta",
+     "justificativa": "pendências da avaliação inicial atendidas (diagnóstico, amostra, custos, prazo de 36 meses compatível com relatório final até 01/07/2027); atraso não compromete o programa de sandbox"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:05",
+     "confianca": "media",
+     "justificativa": "perguntou se a aprovação tardia comprometeria o programa; vê o projeto como o mais amplo desde 2018 e relevante para modernizar a tarifa de baixa tensão"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:51:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:52:35",
+   "processo": "48500.004373/2021-88 (número parcial pela legenda)",
+   "interessado": "CCEE; consumidores livres e autoprodutores; sustentação oral de Vitor Ioca (Abrace) e Daniel Pina (associação de autoprodutores, sigla ouvida como «abap/biap»)",
+   "assunto": "Resultado da 2ª fase da Consulta Pública 61/2021: regulamentação da contratação de reserva de capacidade na forma de potência (Decreto 10.707/2021): rateio e cobrança do encargo ERCAP, CONCAP, COPC, fundo de garantia; urgência pela antecipação do suprimento da UTE Termopernambuco em outubro/2024",
+   "tema": [
+    "CDE e encargos setoriais",
+    "leilões (reserva de capacidade)",
+    "comercialização (CCEE)",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (proclamado «por maioria», mas todos os presentes acompanharam o relator)",
+   "resumo_voto": "Adota a opção 2 da NT 164/2024-SGM (rateio com base no consumo líquido horário), sem os ajustes pedidos pela Abrace (que preferia a opção 3 ou opção 2 ajustada para autoprodutores); aprova REN alterando as RENs 957/2021 e outra de 2022, modelo do COPC e instaura 3ª fase da CP 61/2021 por 15 dias para regras de comercialização, com aplicação imediata provisória pela CCEE; ARR em até 2 anos.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:30:51",
+     "confianca": "alta",
+     "justificativa": "acompanha integralmente a instrução técnica (opção 2) sem ajustes; urgência pedida por MME e ONS; previsão de ARR em até 2 anos para verificar o modelo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:35:59",
+     "confianca": "media",
+     "justificativa": "opção 2 tem melhor aderência aos objetivos; destaca urgência para antecipar a UTE Termopernambuco; tema pode ser aprimorado depois"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:36:01",
+     "confianca": "media",
+     "justificativa": "acompanha por ser a norma mais segura de implementar com urgência; lamenta que as associações tenham enviado ponderações na véspera (por WhatsApp) quando houve oportunidade antes"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:36:01",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:37:19",
+   "processo": "48500.001270/2024 (número parcial pela legenda)",
+   "interessado": "Kai Solar Power Ltda. (nome incerto: «cai/camai/k+ solar»; minigeração) x RGE Sul Distribuidora de Energia S.A.; sustentação oral de Igor Sales",
+   "assunto": "Pedido de medida cautelar para que a RGE emita orçamentos de conexão de 7 usinas solares de minigeração (32,5 MW, Uruguaiana e Barra do Quaraí-RS) rejeitados como divisão de central geradora, com enquadramento como GD1",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos / cautelar",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "empate 2x2 no item 1 (cautelar): sem decisão por ausência de maioria, aguardando recomposição do colegiado; item 2 (envio à SMA e STD para análise de mérito) aprovado por unanimidade",
+   "resumo_voto": "Relator concede cautelar: fumaça do bom direito (RGE não demonstrou critérios; proprietários, matrículas, áreas e subestações diferentes) e perigo da demora (arrendamentos), medida reversível pelo art. 655 da REN 1.059. Agnes abre divergência; Sandoval acompanha a divergência. Secretaria informou que há outros processos pendentes por empate.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, concede a cautelar",
+     "ts": "1:50:00",
+     "confianca": "alta",
+     "justificativa": "fumaça do bom direito e perigo da demora presentes; 14 meses de tratativas demonstram boa-fé; ANEEL não abre mão da competência delegada à distribuidora; medida reversível com devolução de créditos (art. 655 da REN 1.059)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge: nega a cautelar",
+     "ts": "2:06:18",
+     "confianca": "alta",
+     "justificativa": "norma atribui à distribuidora identificar divisão irregular; não há pedido principal analisado pela área técnica; não vê urgência, pois a cautelar veio mais de 14 meses após as reprovações; perigo da demora reverso; acompanha o envio ao mérito"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:18:38",
+     "confianca": "media",
+     "justificativa": "concorda com a concessão; defendeu que o processo siga para análise de mérito apesar do empate"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência",
+     "ts": "2:18:40",
+     "confianca": "media",
+     "justificativa": "pedido direto à diretoria após 14 meses, sem análise aprofundada das áreas técnicas, em tema relevante (enquadramento GD1); acompanha o envio ao mérito"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "13",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:07:40"
+  },
+  {
+   "item": "19",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:07:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais; nome da interessada do item 4 incerto (Kai/Camai Solar Power) e sigla da segunda associação no item 3 incerta (Abiape?).",
+  "Votos de seguidores ditos em sequência sem nome; atribuição pela ordem habitual e pelo contexto; ts aproximados; Ricardo Tili com confiança baixa nos itens 1 a 3.",
+  "Item 3 proclamado «por maioria» embora as três falas registradas acompanhem o relator; provável lapso, não há divergência na transcrição.",
+  "Gentil Nogueira consta na lista de falantes inferidos do cabeçalho, mas não é citado nem vota; considerado ausente."
+ ]
+}

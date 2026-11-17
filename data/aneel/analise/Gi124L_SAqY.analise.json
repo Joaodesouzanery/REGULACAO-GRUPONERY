@@ -1,0 +1,110 @@
+{
+  "meta": {"video_id": "Gi124L_SAqY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "45", "data": "2024-12-03", "formato": "presencial (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (saiu antes; antecipou votos)"],
+    "observacoes": [
+      "Parte 2 da 45ª Reunião Pública Ordinária (tarde), com quórum reduzido de três diretores.",
+      "Na abertura, Agnes da Costa comunicou a prorrogação do prazo de contribuições da CP 32/2024 (resiliência de redes) até 19/12/2024, acolhendo parcialmente pedido de associação (7 dias em vez de 15); comunicação, sem deliberação.",
+      "Item 4 retirado de pauta para a próxima reunião por inversão de pauta; item 21 retirado de pauta pelo relator Ricardo Tili após dúvida sobre aplicação retroativa da suspensão de 24 meses (art. 10-A da REN 875, incluído pela REN 1070/2023).",
+      "Item 7 (UHE Sobragi) teve pedido de vista após dois votos com o relator.",
+      "Encerrada por volta de 2:47:04 do vídeo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:03:36",
+      "processo": "48500.006212/2023-83", "interessado": "ONS (Operador Nacional do Sistema Elétrico); SRG/SGM e STD",
+      "assunto": "Resultado da Consulta Pública 7/2024: regulamentação do pedido de impugnação de decisões do ONS (apuração de indisponibilidade de geração e transmissão, parcelas variáveis e parcelas de ineficiência por ultrapassagem)",
+      "tema": ["regulação normativa", "ONS", "transmissão", "recursos administrativos"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta de REN que regulamenta o pedido de impugnação de atos do ONS, espelhada no rito já existente da CCEE; mantidos 10 dias corridos (não úteis, como pediu o ONS) e envio automático à ANEEL quando não houver retratação; 90 dias para procedimento de rede e 180 dias para vigência; ajuste de redação de 'interposição' para 'apresentação' do pedido. Sustentação oral de Naira Mamed Bezerra (ONS).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:24:47", "justificativa": "Padronizar com a CCEE: 10 dias corridos são suficientes e evitam confusão; números do ONS sobre volume de contestações não foram trazidos na consulta pública; ajustes podem vir depois no procedimento de rede.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:36:32", "justificativa": "Disse não ver óbice a dias úteis por causa de feriados, mas acompanhou; tratou da nomenclatura (impugnação não é recurso).", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:36:32", "justificativa": "Considera a proposta um ganho de governança do ONS, alinhando processos decisórios de CCEE e ONS; prefere manter 10 dias corridos para evitar confusão entre as duas impugnações.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:36:53",
+      "processo": "48500.002435/2024-6", "interessado": "CCEE; SGM",
+      "assunto": "Resultado da Consulta Pública 25/2024: Regras de Comercialização de Energia Elétrica versão 2025 (leilões de energia nova e de reserva, penalidade por insuficiência de lastro, exclusão da figura de APTA, nova metodologia do CVU estrutural)",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "regulação normativa"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova as regras versão 2025 a partir de janeiro de 2025 e determina que o primeiro reajuste do CVU estrutural com a nova metodologia (preços futuros de combustíveis) ocorra no PMO subsequente ao início da vigência (PMO de fevereiro de 2025).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:48:12", "justificativa": "Dinamismo das regras de comercialização; apresentação técnica da SGM; CVU estrutural só a partir do PMO seguinte pela complexidade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:49:46", "justificativa": "Sem comentários; apresentação considerada clara.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:49:46", "justificativa": "Parabenizou a SGM pela instrução; esclareceu a data do primeiro reajuste do CVU estrutural.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "26", "ts": "0:51:21",
+      "processo": "48500.003682/2024-73", "interessado": "Concessão Metroviária do Rio de Janeiro (MetrôRio) x Light Serviços de Eletricidade",
+      "assunto": "Pedido de medida cautelar do MetrôRio para que a Light assuma manutenção e operação das linhas de transmissão 128 e 129 (subestação Frei Caneca, cabos subterrâneos sob vias públicas)",
+      "tema": ["distribuição", "recursos administrativos", "medida cautelar", "incorporação de redes particulares"],
+      "relator": "Agnes da Costa", "resultado": "cautelar negada por unanimidade; processo encaminhado à STD (e não à SMA) para análise de mérito",
+      "resumo_voto": "Conhece e nega a cautelar: sem fumaça do bom direito clara (dúvidas sobre se é rede particular, traçado, outros usuários, propriedade da RioTrilhos) nem perigo da demora (situação de cerca de 48 anos). Por sugestão da sustentação oral (André, MetrôRio), encaminhamento mudado da SMA para a STD.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, nega a cautelar", "ts": "1:06:49", "justificativa": "Não enxerga de cara a fumaça do bom direito nem dano irreparável, já que o metrô opera as linhas há quase meio século; aceitou remeter à STD.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:12:59", "justificativa": "Em sede de cautelar não dá para decidir; é preciso analisar onde está o ponto de conexão e se é linha de uso exclusivo.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:12:59", "justificativa": "Não se pode em cautelar transferir linhas de 138 kV de consumidor para distribuidora; ativo antigo e crítico para o transporte de massa; ressalvou que parece não fazer sentido linha que cruza vias públicas ficar com consumidor.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:13:40",
+      "processo": "48500.005979/2023-0", "interessado": "Enel Distribuição Rio",
+      "assunto": "Pedido de reconsideração da Enel Rio contra a REH 3.312/2024 (reajuste tarifário anual 2024), com voto-vista sobre o nível regulatório de perdas não técnicas",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "perdas não técnicas", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "provido parcialmente por maioria (vencido Ricardo Tili): reconhece componente financeiro e ajuste do IPCA/VPB de 0,092% no processo de 2025; indefere revisão dos referenciais de perdas não técnicas da RTP 2023",
+      "resumo_voto": "Voto-vista de Sandoval Feitosa acompanha a divergência de Agnes da Costa: perdas não técnicas só podem ser revistas na revisão tarifária (contrato e PRORET 2.6A); não houve consulta pública para mudar a metodologia; RTE da Light, usada como paradigma, foi negada na 41ª RPO. Fernando Mosna (ausente) deixou manifestação incorporando essa alteração ao seu voto.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, provimento parcial (incorporou a divergência sobre perdas)", "ts": "1:33:00", "justificativa": "Ausente; deixou manifestação incorporando a alteração do item três proposta por Agnes e ratificada no voto-vista.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: acompanha a divergência de Agnes da Costa", "ts": "1:30:55", "justificativa": "Segurança regulatória: o contrato de concessão e o PRORET só permitem definir perdas não técnicas nas revisões tarifárias; a RTP 2023 foi homologada como definitiva e a revisão da metodologia não ocorreu.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto (mesmo sentido do voto-vista)", "ts": "1:35:12", "justificativa": "Vota no mesmo sentido trazido pelo voto-vista.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "diverge (vencido)", "ts": "1:35:20", "justificativa": "Mantém o voto dado no reajuste: a discricionariedade prevista no PRORET poderia ser usada de forma mais flexível para as perdas da Enel Rio; casos da Light e da Enel Rio são diferentes.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "21", "ts": "1:37:28",
+      "processo": "48500.003509/2021-32 (e apensos 48500.005907/2016-26, 48500.005161/2020-37, 48500.008652/2008-43)", "interessado": "Agrícola Sete Campos Ltda.; denunciante RPE",
+      "assunto": "Recurso contra o Despacho 3.111/2024 da SCG, que revogou o inventário hidrelétrico do Ribeirão do Salto e os DRI/DRS das PCHs Ribeirão do Salto e Eixo 2, com proibição de novos registros por 24 meses",
+      "tema": ["outorgas de geração (PCH)", "recursos administrativos", "fiscalização e sanções"],
+      "relator": "Ricardo Tili", "resultado": "retirado de pauta pelo relator após a discussão",
+      "resumo_voto": "Relator leu voto por conhecer e negar provimento (vícios insanáveis no levantamento topográfico do rio); a recorrente (sustentação de Isabela Ramagem Lima) alegou aplicação retroativa de sanção. Sandoval Feitosa questionou se a suspensão de 24 meses (art. 10-A, incluído em 2023) poderia valer para conduta anterior; relator retirou o processo para trazer depois.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, nega provimento (voto lido) e retira de pauta", "ts": "1:53:11", "justificativa": "Revogação fundada em vícios insanáveis e autotutela; diante da dúvida sobre a retroatividade da suspensão de 24 meses, retirou o processo de pauta.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "sem voto (questionou a retroatividade da suspensão)", "ts": "1:55:00", "justificativa": "Não discute a revogação, mas pergunta se a penalidade criada por norma de 2023 pode ser aplicada a conduta anterior.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "sem voto (processo retirado)", "ts": "2:01:08", "justificativa": "Não se manifestou de forma identificável.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:03:29",
+      "processo": "27100.003974/1988-14", "interessado": "Companhia Brasileira de Alumínio (CBA)",
+      "assunto": "Prorrogação da concessão da UHE Sobragi (60 MW, autoprodução, Simão Pereira e Belmiro Braga/MG); controvérsia sobre regime aplicável: cotas (Lei 12.783/2013) ou art. 4º §2º da Lei 9.074/1995",
+      "tema": ["outorgas de geração (hidrelétrica)", "prorrogação de concessão"],
+      "relator": "Fernando Mosna", "resultado": "pedido de vista de Sandoval Feitosa após dois votos com o relator",
+      "resumo_voto": "Voto do relator (lido por Ricardo Tili): recomendar ao MME o indeferimento do pedido de prorrogação e incluir a UHE Sobragi no rol de usinas a licitar, porque a CBA não aceitou as condições do art. 1º da Lei 12.783 (cotas). Sustentação oral de Camila Alves de Moraes (CBA); procuradoria citou o caso UHE Jauru.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, recomenda indeferir e licitar (voto lido por Ricardo Tili)", "ts": "2:38:12", "justificativa": "Segue a SCG e os pareceres da procuradoria: o §8º do art. 1º da Lei 12.783 alcança autoprodução, e a CBA não aceitou expressamente as condições.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:44:47", "justificativa": "Concorda com a SCG e a procuradoria sobre o §8º; no caso Jauru, sob sua relatoria, houve aceitação das cotas.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:44:47", "justificativa": "Perguntou sobre o precedente Jauru, ainda não julgado.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "2:44:52", "justificativa": "É o primeiro caso, e o caso de referência (Jauru) ainda não foi julgado; sugere julgar os dois juntos.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "4", "ts": "1:37:13", "motivo": "retirado de pauta por inversão de pauta, para a próxima reunião (falante e assunto não identificados com segurança)"},
+    {"id": "21", "ts": "2:01:08", "motivo": "retirado pelo relator Ricardo Tili após a discussão (ver itens)"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes podem estar errados (ex.: valor do componente financeiro da Enel Rio, omitido).",
+    "Atribuição de falantes inferida: nas votações dos itens 1, 2, 26 e 7 a ordem 'eu voto com o relator / também acompanho' foi atribuída por contexto; confiança media/baixa.",
+    "'Ludmila' no item 21 aparece como servidora/superintendente da SCG respondendo a perguntas, não como diretora votante; não foi registrada como diretora.",
+    "Gentil Nogueira não aparece na sessão; o cabeçalho do .md lista falantes de forma genérica.",
+    "No item 3, o voto de Fernando Mosna (ausente) foi registrado conforme a manifestação relatada em sessão.",
+    "Itens 4, 21 e 7 ficaram sem deliberação final nesta sessão."
+  ]
+}

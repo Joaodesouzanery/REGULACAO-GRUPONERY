@@ -1,0 +1,85 @@
+{
+  "meta": {"video_id": "0YT2fUpwTyE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "32ª RPO 2024", "data": "2024-09-03", "formato": "presencial (sala plenária)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (missão institucional fora do Brasil; voto do item 2 lido por Ricardo Tili)"],
+    "observacoes": [
+      "Quórum de três diretores; há uma cadeira vaga na diretoria (o Diretor-Geral menciona a nomeação pendente de diretor).",
+      "Aprovação da ata da 31ª RPO suspensa no início para dúvida de Agnes da Costa sobre as datas da rescisão do CCEAR da UTE Termoceará (processo em que ela foi vencida, voto original de Hélvio Guerra); Agnes também retificou erro material na decisão da 30ª RPO sobre a SPE Querubim Energia (fim de suprimento em 17/12/2054). Ao final a ata foi registrada nos termos discutidos, aguardando o recurso com pedido de efeito suspensivo.",
+      "Bloco (itens 4 a 19) aprovado por unanimidade, sem destaques nem sustentações orais.",
+      "Itens 1 e 2 (MP 1232/2024, Amazonas Energia) abriram consultas públicas por unanimidade.",
+      "Item 3 (PCHs, Lei 14.120/2021): decididas por unanimidade Alto Sucuriú (indeferida) e Poço Fundo, Eng. José Gelásio da Rocha e Rondonópolis (deferidas); na PCH Cazuza Ferreira, empate 2 a 2 (Tili e Mosna x Agnes e Sandoval), pendente."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:16:08", "processo": "itens 4 a 19 da pauta", "interessado": "diversos",
+      "assunto": "Itens de bloco da 32ª RPO (votos e atos publicados com a pauta)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Sem itens destacados ou sustentação oral; aprovados em bloco.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:16:20", "justificativa": "Proclamou aprovação unânime do bloco.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:16:10", "justificativa": "«eu aprovo os itens do bloco» (falante inferido).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:16:12", "justificativa": "«Eu também aprovo o bloco» (falante inferido).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:16:27", "processo": "48500.004171/2019-86", "interessado": "Amazonas Energia S.A. (distribuidora); pretensos controladores Futura Venture Capital Participações e FIP Milão; atual controlador Oliveira Energia",
+      "assunto": "Abertura de consulta pública sobre as condições para a transferência do controle societário da Amazonas Energia (art. 2º da MP 1232/2024), com flexibilizações regulatórias (perdas não técnicas, receitas irrecuperáveis, custos operacionais, fator X, fator de corte da CCC) e plano de ação",
+      "tema": ["tarifas e revisão tarifária (distribuidoras)", "CDE e encargos setoriais (CCC)", "regulação normativa (consulta pública)", "fiscalização e sanções (caducidade)"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade: consulta pública por intercâmbio documental de 10 dias (4 a 13/09/2024)",
+      "resumo_voto": "Relator abre CP de 10 dias pela urgência (fim das flexibilizações em setembro) e consulta a Procuradoria sobre hipótese de não conversão da MP; apresentação de três superintendências (SFF, STR, SRM: Camila, Maria Luísa, Ludmila) apontou que o pretenso controlador não demonstrou capacidade técnica em distribuição e propôs flexibilização de custos operacionais sem melhoria de desempenho. Sem sustentação oral; Procuradoria não se manifestou nesta fase.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:51:40", "justificativa": "Transparência e participação social exigidas pela MP 1232 e pelo Decreto 12.150/2024; notória perda de sustentabilidade econômico-financeira da distribuidora; prazo curto pela excepcionalidade e urgência.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:05:33", "justificativa": "Agradece a análise robusta das equipes e aguarda o retorno da sociedade para fundamentar a decisão futura.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:05:40", "justificativa": "Elogia o trabalho diante da assimetria de informações (só um grupo interessado); preocupa a qualificação técnica do novo controlador e pede plano de ação robusto e soluções inovadoras para o Amazonas.", "tom": "elogioso, preocupado com capacidade técnica", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:06:10", "processo": "48500.002952/2024-77", "interessado": "Amazonas Energia; Amazonas GT/Eletronorte; PIEs de Manaus (UTEs Ponta Negra, Manauara, Jaraqui, Tambaqui, Cristiano Rocha) e UTE Aparecida; CCEE",
+      "assunto": "Abertura de consulta pública para conversão dos contratos originais (CCEAR/CCVEE) em contratos de energia de reserva (CER), art. 1º da MP 1232/2024",
+      "tema": ["comercialização (CCEE, contratos)", "CDE e encargos setoriais (CCC, CONER)", "outorgas de geração (térmica)", "regulação normativa (consulta pública)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: consulta pública por intercâmbio documental de 8 dias (4 a 11/09/2024)",
+      "resumo_voto": "Voto do relator ausente lido por Ricardo Tili; Procuradoria (Parecer 140/2024) entende efeitos retroativos a 13/06/2024 e manutenção do reembolso pela CCC acima do ACR médio; voto justifica o descumprimento do prazo de 45 dias da MP pela complexidade, déficit de servidores e necessidade de consulta pública. Apresentação da SGM (Otávio).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (leu o voto de Fernando Mosna)", "ts": "1:39:17", "justificativa": "Leu o voto do relator ausente; elogia a sobrecarga e o esforço da SGM e da SFF.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:39:20", "justificativa": "Elogia a fundamentação robusta e o trabalho coordenado com a CCEE.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:39:22", "justificativa": "A conversão implica custos na CCC e na CDE; por isso exige escrutínio público.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3.1", "ts": "1:39:52", "processo": "27101.000484/1989-91; 48500.000970/2007-78; 48500.006237/2001-16; 48500.006256/2001-52; 48500.006280/2001-37 (números conforme legenda)", "interessado": "titulares das PCHs Poço Fundo, Eng. José Gelásio da Rocha, Rondonópolis e Alto Sucuriú",
+      "assunto": "Ajuste dos prazos de outorga de PCHs (art. 26, §12, Lei 9.427/96, pela Lei 14.120/2021): indeferir Alto Sucuriú e deferir Poço Fundo, Eng. José Gelásio da Rocha e Rondonópolis (voto-vista)",
+      "tema": ["outorgas de geração (hidrelétrica, PCH)"],
+      "relator": "Ricardo Tili", "resultado": "decidido por unanimidade, separado do caso Cazuza Ferreira",
+      "resumo_voto": "Retorno de vista de Agnes da Costa (pedida na 24ª RPO, 09/07/2024, item destacado a pedido da Ônix Geração). Advogado pediu da tribuna que os processos sem divergência fossem deliberados separadamente; colegiado aceitou.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:02:30", "justificativa": "«nos exatos termos» do seu voto.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: acompanha o relator nesta parte", "ts": "2:02:35", "justificativa": "Ratifica a argumentação do relator para indeferir Alto Sucuriú e deferir as outras três.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:02:50", "justificativa": "Proclamou a decisão unânime para as quatro PCHs.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.2", "ts": "1:40:47", "processo": "processo da PCH Cazuza Ferreira (um dos cinco do item 3)", "interessado": "Cazuza Ferreira Energética S.A. / Ônix Geração de Energia S.A.",
+      "assunto": "Ajuste do prazo de outorga da PCH Cazuza Ferreira (Lei 14.120/2021): requisito de outorga de 30 anos após prorrogação pela REA 4.482/2013",
+      "tema": ["outorgas de geração (hidrelétrica, PCH)", "recursos administrativos"],
+      "relator": "Ricardo Tili", "resultado": "empate 2 a 2 (Tili e Mosna deferem; Agnes e Sandoval indeferem); sem decisão, aguarda novo diretor",
+      "resumo_voto": "Fernando Mosna já havia votado com o relator na 24ª RPO. Agnes diverge: a outorga foi prorrogada por 17 anos e 10 meses pela REA 4.482/2013 (ato jurídico perfeito) e passou a ter cerca de 39 anos e 6 meses, não cumprindo o requisito de 30 anos; Tili mantém que houve sobreposição de prazos. Sandoval acompanha a divergência.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova o ajuste (mantém o voto)", "ts": "1:54:15", "justificativa": "Entende que houve sobreposição de outorgas e que a outorga manteve 30 anos, contados da entrada em operação comercial.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: diverge, indefere o ajuste", "ts": "1:40:47", "justificativa": "Não há antinomia entre os §§7º e 12; mas a prorrogação pela REA 4.482/2013 deu à outorga cerca de 39 anos e 6 meses, logo não atende ao requisito de outorga de exatos 30 anos; senão haveria dois termos finais (2031 e 2046).", "tom": "técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge, acompanha Agnes da Costa", "ts": "2:03:23", "justificativa": "«eu vou acompanhar a divergência da diretora Agnes»; liga o empate à necessidade de nomear o diretor que falta.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: números de processo e nomes de usinas/pessoas podem estar errados (ex.: Ricardo 'Tile/lavorato/tutil' = Ricardo Tili; 'Elvio' = Hélvio Guerra).",
+    "Falantes do cabeçalho do .md são inferidos e incluem diretores ausentes (Gentil Nogueira, Ludimila Lima); presentes considerados conforme a abertura: Sandoval, Agnes e Ricardo Tili.",
+    "Ordem e autoria dos votos de adesão ('eu também...') inferidas; ts aproximados.",
+    "No item 3.2 o resultado de empate é inferência das falas (Mosna votou antes; Sandoval acompanha a divergência para aguardar novo diretor); a proclamação formal não é explícita.",
+    "Ludmila citada no item 1 é superintendente, não a diretora Ludimila Lima."
+  ]
+}

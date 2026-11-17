@@ -1,0 +1,470 @@
+{
+ "meta": {
+  "video_id": "eLVLEmlZ-6k",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "43",
+  "data": "2024-11-19",
+  "formato": "presencial com Agnes da Costa remota",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "43ª RPO de 2024; pauta de 54 itens (6 a 54 em bloco); destacados 6, 10 e 28; item 3 retirado.",
+   "Ordem: bloco, 2, 1, 10 (antecipado), 5, 28, 4, 6.",
+   "Dois empates sem decisão: itens 9, 11, 15 a 19 e 30 do bloco e itens 2 e 3 do dispositivo do item 1.",
+   "Ata da 42ª RPO aprovada; Sandoval Feitosa não a subscreveu por ausência.",
+   "Ricardo Tili prorrogou a CP 23/2024 e Agnes da Costa a CP do orçamento do ONS até 25/11."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:33:40",
+   "processo": "itens 6 a 54 da pauta (bloco), exceto destacados 6, 10 e 28",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos e atos disponibilizados previamente)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, com exceção dos itens 9, 11, 15 a 19 e 30 (sem maioria) e com registro dos itens 25 e 26",
+   "resumo_voto": "Bloco aprovado; Fernando Mosna declarou suspeição em itens do grupo Ambar e deixou de votar no item 21 (voto já proferido pelo ex-diretor Efrain Cruz).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco, exceto 9, 11, 15 a 19 e 30",
+     "ts": "0:33:50",
+     "justificativa": "Aprova os itens remanescentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco; suspeição em 11, 15, 16, 17, 18, 19 e 30; não vota no item 21",
+     "ts": "0:34:30",
+     "justificativa": "Suspeição nos itens do grupo Ambar (17 e 18 retificados às 2:24:38); no item 21 o ex-diretor Efrain Cruz já havia votado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:35:00",
+     "justificativa": "Aprova os itens remanescentes, com as ressalvas dos itens 9, 11, 15 a 19 e 30.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:36:30",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9, 11, 15 a 19 e 30 (bloco)",
+   "ts": "0:33:50",
+   "processo": "",
+   "interessado": "Barra Bonita Óleo e Gás (item 9); comercializadoras do grupo Ambar (11, 15 a 19, 30)",
+   "assunto": "Extinção de processos sancionadores após termos de autocomposição",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa (inferido: único voto do relator)",
+   "resultado": "sem decisão (1 voto do relator x 2 divergentes; Fernando Mosna suspeito)",
+   "resumo_voto": "Agnes da Costa diverge para não declarar extintos os processos porque a quitação prevista nos termos de autocomposição (cláusula 4.3 no item 9; 2.3.7 nos demais) não ocorreu ou não está registrada nos autos; Ricardo Tili acompanha a divergência.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge: não declarar extintos os processos",
+     "ts": "0:33:50",
+     "justificativa": "A quitação de que trata o termo de autocomposição não aconteceu ou não está registrada nos autos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeição (não vota)",
+     "ts": "0:34:30",
+     "justificativa": "Declara suspeição nos itens 11, 15 a 19 e 30; no item 9 não há registro claro.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a divergência de Agnes da Costa",
+     "ts": "0:35:10",
+     "justificativa": "Acompanha a divergência.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator (voto pela extinção, inferido)",
+     "ts": "0:36:30",
+     "justificativa": "Contagem proclamada: um voto do relator e dois divergentes, sem decisão.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25 e 26 (bloco)",
+   "ts": "0:35:20",
+   "processo": "",
+   "interessado": "comercializadoras do grupo Ambar (intimação)",
+   "assunto": "Análise de intimação de comercializadoras do grupo Ambar",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado (voto de Ricardo Tili completou o quórum; Fernando Mosna suspeito)",
+   "resumo_voto": "Restava apenas o voto de Ricardo Tili, que acompanhou o relator.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:35:20",
+     "justificativa": "Completa os três votos necessários, dada a suspeição de Fernando Mosna.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeição (não vota)",
+     "ts": "0:34:30",
+     "justificativa": "Suspeição nos processos do grupo Ambar.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:37:18",
+   "processo": "48500.003394/2022",
+   "interessado": "Chesf, Eletronorte (Eletrobras) e Ômega/Assuruá 4 e 5 (hoje Serena)",
+   "assunto": "Pedidos de reconsideração contra a REH 3.066/2022 (TUST ciclo 2022-2023): estabilização da TUST por 10 ciclos nos termos da revogada REN 559/2013",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: não conhecer o pedido da Ômega/Serena (intempestivo); conhecer e negar provimento aos de Chesf e Eletronorte",
+   "resumo_voto": "Sustentações orais de João Paulo Gusmão (Serena) e Maiara Gasparoto Tonin (Chesf/Eletronorte); apresentação técnica de Mateus de Oliveira Ferreira (STR), impacto estimado de cerca de R$ 3 bilhões em 10 ciclos ao consumo. A regra aplicável é a vigente no início do ciclo (REN 1.024/2022); havia mera expectativa de direito. Ricardo Tili questionou efeitos sobre agentes que não recorreram (Furnas); relator respondeu que a decisão se limita aos recorrentes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:43:30",
+     "justificativa": "Argumentos sem fundamento técnico ou jurídico para alterar a REH 3.066; REN 559 não confere direito adquirido para ciclos futuros após revogada; artigo 20 da LINDB citado de forma truncada na sustentação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:44:05",
+     "justificativa": "Elogia o voto; estabilização dependeria de homologação sob a regra vigente; tema escrutinado duas vezes pela Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:44:09",
+     "justificativa": "Após questionar se a decisão alcançaria Furnas e outros agentes que não recorreram.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:44:12",
+     "justificativa": "Concorda, inclusive com a limitação ao caso concreto dos recorrentes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:46:04",
+   "processo": "48500.000372/2024",
+   "interessado": "Nebras do Brasil Investments, Ecoenergia Participações, Neoenergia, Serveng Energias Renováveis, ABEEólica",
+   "assunto": "Suspensão/flexibilização do prazo da REN 1.080/2023 para declarar participação no mecanismo de alocação de energia do ACL para o ACR em 2024",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "Deferir Nebras e indeferir Serveng e ABEEólica: unânime; deferir Ecoenergia e Neoenergia: empate 2x2, sem decisão",
+   "resumo_voto": "Sustentação oral de Valéria Rosa (Nebras). Relator propôs flexibilizar a regra no primeiro ano para os três agentes que abriram chamado na CCEE. Fernando Mosna divergiu nos itens 2 e 3 do dispositivo: Ecoenergia e Neoenergia declararam já conhecendo o PLD de janeiro, abrindo margem de arbitragem; Nebras declarou antes de conhecer o PLD.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (deferir Nebras, Ecoenergia e Neoenergia; indeferir Serveng e ABEEólica); mantém o voto",
+     "ts": "2:21:25",
+     "justificativa": "Prazo exíguo da CCEE (cronograma antes da publicação da norma), ausência de transição (LINDB arts. 20 e 23); agentes diligentes que declararam devem ser aceitos; reabrir prazo premiaria inertes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge parcialmente: acompanha nos itens 1 e 4, não acompanha nos itens 2 e 3 (Ecoenergia e Neoenergia)",
+     "ts": "2:16:11",
+     "justificativa": "Imperatividade da regra: aceitar declaração intempestiva feita após conhecer o PLD de janeiro permitiria arbitragem.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência de Fernando Mosna",
+     "ts": "2:20:20",
+     "justificativa": "O objetivo da norma era acabar com a arbitragem; Nebras declarou antes de conhecer o PLD.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Fernando Mosna",
+     "ts": "2:21:21",
+     "justificativa": "Inicialmente elogiou a razoabilidade do voto do relator; na votação acompanhou a divergência, gerando empate nos itens 2 e 3.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:23:29",
+   "processo": "48500.005137/2023",
+   "interessado": "Cobra Brasil Serviços, Comunicação e Energia (UFVs Belmonte, PE)",
+   "assunto": "Recursos contra autos de infração 1 a 10/2023 da ARPE (multa por descumprimento do cronograma de implantação das UFVs Belmonte)",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração (solar)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: conhecer e negar provimento",
+   "resumo_voto": "Item antecipado por pedido da representante (gestante). Sustentações de José Carlos (Cobra) e Poliana Cristina Venâncio Souza alegando covid, licenciamento e ausência de dano; Procuradoria (parecer 372/2023) pelo improvimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:42:40",
+     "justificativa": "Conhecer os recursos e negar provimento (fundamentação do voto disponibilizado, não lida).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:42:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:43:02",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:43:07",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:43:47",
+   "processo": "48500.004491/2022",
+   "interessado": "Gralha Azul Transmissão de Energia (Paraná)",
+   "assunto": "Reequilíbrio econômico-financeiro do contrato de concessão 1/2018 (covid, decisões judiciais, aumento de insumos; pedido subsidiário por analogia à REA 8.926/2020)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "unânime: indeferir o requerimento e os pleitos alternativos e subsidiários",
+   "resumo_voto": "Sustentação de Valéria Rosa; apresentação técnica de Taísa (SCE): todas as instalações entraram antes da data contratual; antecipação é faculdade, não obrigação. Sobrecusto não demonstra desequilíbrio da concessão.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:25:00",
+     "justificativa": "Não demonstrado o desequilíbrio da concessão; modelo remunera o serviço, não o custo; REA 8.926 não recompôs prazo de outorga.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:26:07",
+     "justificativa": "Frustração de expectativa de antecipação não pode ser reconhecida como receita; confiança mútua nos leilões de transmissão.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:26:09",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:26:12",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "5:46:03",
+   "processo": "48500.002804/2024",
+   "interessado": "Neoenergia Rio Formoso Transmissão de Energia (oeste da Bahia)",
+   "assunto": "Reequilíbrio econômico-financeiro do contrato de concessão 9/2020 (antecipação frustrada por licenciamento e covid; pedido de RAP +25,63%)",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "unânime: conhecer e negar provimento",
+   "resumo_voto": "Sustentação de Gustavo Assis de Oliveira (Neoenergia). Relatora: autorização de antecipação não reconhece necessidade; risco do negócio é da transmissora.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "6:02:00",
+     "justificativa": "Antecipação autorizada por conta e risco do agente; custos da covid fora do banco de preços são risco do negócio.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "6:02:57",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "6:03:04",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "6:03:04",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "6:03:27",
+   "processo": "48500.001497/2020 e conexos",
+   "interessado": "Aurora Energias Renováveis 6, 9 a 15 (UFVs Aurora 54 a 70, Arinos-MG)",
+   "assunto": "Pedido de reconsideração contra o despacho 2.104/2023 (alteração de cronograma; mora do IPHAN) — voto-vista",
+   "tema": [
+    "outorgas de geração (solar)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Agnes da Costa (voto-vista Ricardo Tili)",
+   "resultado": "unânime pelo voto-vista: indeferir quanto às UFVs Aurora 54 a 63 e declarar extinto por perda de objeto quanto às Aurora 64 a 70",
+   "resumo_voto": "Na 19ª RPO (4/7/2024) Agnes da Costa propôs reconhecer 238 dias de excludente por mora do IPHAN; Ricardo Tili pediu vista. Voto-vista: sem nexo causal (nenhum contrato, obra ou comercialização); Aurora 64 a 70 revogadas por adesão à anistia da REN 1.065. Agnes aderiu ao voto-vista.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: indeferir (Aurora 54 a 63) e extinguir (64 a 70)",
+     "ts": "6:40:00",
+     "justificativa": "Mora do IPHAN não está no caminho crítico; sem nexo causal; agente inerte; reconhecer fragilizaria a análise de excludentes e seria anti-isonômico frente à REN 1.065.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, reformula e acompanha o voto-vista",
+     "ts": "6:45:00",
+     "justificativa": "Muda o entendimento: superada a etapa do IPHAN, o agente não adotou providências, logo não era caminho crítico.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "6:48:00",
+     "justificativa": "Análise exauriente; agente permaneceu inerte.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "6:48:23",
+     "justificativa": "Manifesta concordância com o voto de Ricardo Tili.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "6:50:15",
+   "processo": "48500.005883/2023",
+   "interessado": "DME Distribuição (Poços de Caldas-MG); Conselho de Consumidores",
+   "assunto": "Reajuste tarifário anual da DMED a partir de 22/11/2024 (efeito médio -16,71%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "unânime: homologar reajuste com efeito médio de -16,71% (AT -21,10%; BT valor incerto)",
+   "resumo_voto": "Sustentação de Arlene Nogueira (Conselho de Consumidores) pedindo diferir componente financeiro de -5,6% para a revisão de 2025. Relator e Ricardo Tili lembram compromisso da diretoria (caso Copel) de aguardar proposta da área de tarifas sobre diferimentos; por isso não acolhem.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "7:08:00",
+     "justificativa": "Não pode diferir por compromisso da diretoria; pessoalmente teria diferido todo o -16,7% para evitar efeito serrote.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "7:14:21",
+     "justificativa": "Lamenta não poder divergir por causa do compromisso; defende previsibilidade tarifária, como no caso Copel.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:14:24",
+     "justificativa": "Rito para diferimentos deve ser institucionalizado ouvindo conselhos de consumidores.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:14:27",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3",
+   "motivo": "retirado de pauta (assunto não enunciado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processos e percentuais podem estar errados (ex.: BT -3,95% ou -13,95% no item 6).",
+  "Relator dos itens 9, 11, 15 a 19 e 30 do bloco inferido como Sandoval Feitosa pela contagem proclamada; ordem de falas no bloco inferida.",
+  "Relator dos itens 25 e 26 não identificado.",
+  "Encerramento diz '23ª reunião' por erro de legenda/fala; título indica 43ª.",
+  "Marcadores de tempo do .md são esparsos; ts obtidos do .json da transcrição, aproximados para seguidores.",
+  "Nomes fora da lista: Efrain Cruz (ex-diretor), Romeu Rufino (ex-diretor citado)."
+ ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": {"video_id": "b1sbw4sFpnM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:30:23); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "33ª RPO 2024", "data": "2024-09-11", "formato": "presencial (auditório) com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (missão institucional, ausência justificada)"],
+    "observacoes": ["Quórum de três diretores.", "Pauta com 39 itens; itens 2 a 39 em bloco; item 7 retirado de pauta; sustentações orais nos itens 1, 6 e 8.", "Bloco aprovado por unanimidade, com ressalva do item 2 (voto-vista de Agnes da Costa em processo relatado pelo ex-diretor Hélvio Guerra sobre apuração de encargos): empate, retorna quando Fernando Mosna voltar.", "Item 6 (Energisa MS, CCC) retirado de pauta pela relatora do voto-vista após sustentação oral.", "Sandoval Feitosa comentou reportagem da Reuters sobre renegociação de contratos de energia no Paquistão e o peso de subsídios e custos fixos na tarifa."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:38:11", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 2 a 39 deliberados em bloco (votos disponibilizados previamente)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade, exceto item 2 (destacado)",
+      "resumo_voto": "Diretores aprovam os itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:38:11", "justificativa": "Aprova os itens remanescentes do bloco com ressalva do item 2.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:38:13", "justificativa": "Aprova e alerta que o item 2 tem dois votos (relator e vista) e precisa ser destacado.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:38:11", "justificativa": "Aprova os itens do bloco.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:38:24", "processo": "", "interessado": "",
+      "assunto": "Processo com voto do relator Hélvio Guerra e voto-vista de Agnes da Costa sobre apuração de encargos (apuração central)",
+      "tema": ["CDE e encargos setoriais"], "relator": "Hélvio Guerra", "resultado": "empate; retorna à pauta com o voto de Fernando Mosna",
+      "resumo_voto": "Ricardo Tili acompanha o relator Hélvio Guerra; o voto-vista de Agnes da Costa é acompanhado por outro diretor, gerando empate.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (Hélvio Guerra)", "ts": "0:38:24", "justificativa": "Eu voto acompanhando o relator Dr. Hélvio.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista", "ts": "0:38:38", "justificativa": "Mantém seu voto-vista.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista de Agnes da Costa", "ts": "0:38:38", "justificativa": "Fala 'acompanhando o voto vista da diretora Agnes'; atribuição inferida pelo empate declarado.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:39:48", "processo": "48500.002600/2024-64",
+      "interessado": "ONS; CCEE; Abrace (sustentações orais: Tatiane Cortes, ONS; Vitor, Abrace)",
+      "assunto": "Operacionalização do sandbox regulatório do programa de resposta da demanda (produto disponibilidade, REA 12.600/2022): minuta de edital do 1º mecanismo competitivo, rotina operacional e regras de comercialização provisórias; prorrogação do sandbox",
+      "tema": ["regulação normativa", "comercialização (CCEE)", "resposta da demanda"], "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minutas de edital, rotina operacional e regras provisórias e prorroga o sandbox; rejeita pedido da Abrace de limitar penalidade a 100% da receita fixa e de trocar a base exponencial; mantém teto de 110%.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "1:20:20", "justificativa": "Mantém penalidade com teto de 110% da receita fixa: agente vencedor que não entrega deixa o sistema em situação pior; penalidade também ajuda a revelação de preços.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:29:18", "justificativa": "Acompanho o voto da relatora.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:29:21", "justificativa": "Acompanha parabenizando a condução; destaca uso do produto por quantidade (27 de 31 dias em agosto) e urgência do atendimento à ponta.", "tom": "elogioso", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:29:55", "processo": "48500.000878/2022-67",
+      "interessado": "Energisa Mato Grosso do Sul (sustentação oral: Rodrigo Santana)",
+      "assunto": "Requerimento de enquadramento da EMS como beneficiária da CCC (atendimento por SIGFI no Pantanal)",
+      "tema": ["CDE e encargos setoriais", "recursos administrativos"], "relator": "Hélvio Guerra (voto-vista: Agnes da Costa)",
+      "resultado": "retirado de pauta",
+      "resumo_voto": "Após a sustentação, Agnes da Costa (voto-vista, que acompanharia o entendimento de Hélvio Guerra) retira o processo de pauta para ouvir o Conselho de Consumidores, que não conseguiu comparecer.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "retira de pauta", "ts": "1:38:38", "justificativa": "Retira para considerar os pontos da Energisa e atender o conselho de consumidores que não conseguiu voo para sustentar.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "1:38:57", "processo": "48500.003190/1999-43",
+      "interessado": "Companhia Energética Itumirim (sustentação oral: Daniel Augusto Ribeiro)",
+      "assunto": "Recomposição do prazo de outorga da UHE Itumirim (contrato de concessão 53/2000) e ressarcimento de custos de novo licenciamento ambiental",
+      "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos"], "relator": "Agnes da Costa",
+      "resultado": "negado provimento aos dois pedidos, por unanimidade",
+      "resumo_voto": "Lei 12.839/2013 e Portaria MME 243/2013 preveem rescisão amigável, não reequilíbrio; empresa ficou inerte no licenciamento, rompendo nexo causal; cláusula 5ª do contrato afasta ressarcimento de novos estudos.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova (nega provimento)", "ts": "1:47:11", "justificativa": "Inexistem excludentes de responsabilidade (art. 19 da Lei 13.360/2016); interessada permaneceu inerte sem diligência na retomada do licenciamento.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:48:36", "justificativa": "Eu voto com a relatora; registra que processo judicial e administrativo são independentes.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:48:38", "justificativa": "Eu também voto com a relatora.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["7 (retirado de pauta antes da sessão)", "6 (retirado pela relatora do voto-vista)"],
+  "limites_da_analise": ["Transcrição em um só bloco; minutos obtidos do JSON da legenda, aproximados.", "Item 2: número de processo e quem acompanhou qual voto são incertos; empate inferido da fala do Diretor-Geral.", "Ordem de fala no bloco (Agnes x Sandoval x Ricardo) inferida.", "Números de processo dos itens 1, 6 e 8 lidos da legenda automática.", "Hélvio Guerra já não integrava a diretoria; seu voto consta como relator anterior."]
+}

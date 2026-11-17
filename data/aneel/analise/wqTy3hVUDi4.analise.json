@@ -1,0 +1,52 @@
+{
+  "meta": {"video_id": "wqTy3hVUDi4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:25:51); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "44ª Reunião Pública Ordinária de 2024", "data": "2024-11-27", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Agnes da Costa (férias, ausência justificada)"],
+    "observacoes": ["Quórum mínimo de três diretores.", "Comunicados: Olimpíada Nacional de Eficiência Energética, audiência na Câmara sobre servidores das agências, CP 27/2022 (aditivo de prorrogação das concessões de distribuição), G20, novos contratos de geração da Copel (Salto Caxias, Foz do Areia, Segredo).", "Ata da 43ª RPO aprovada.", "Pauta com 23 itens; itens 6 a 23 em bloco aprovados por unanimidade; itens 2, 4 e 5 retirados; sem sustentação oral.", "Item 1 (bônus de Itaipu) foi suspenso, a sessão interrompida por 30 minutos e retomada; relator acolheu proposta de Fernando Mosna de creditar o bônus em janeiro de 2025 em vez de dezembro de 2024."]
+  },
+  "itens": [
+    {
+      "id": "bloco (6 a 23)", "ts": "0:38:15", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 6 a 23 deliberados em bloco (votos disponibilizados previamente; nenhum destaque)",
+      "tema": ["bloco de itens"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado sem discussão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:38:21", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:38:27", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:38:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:38:53", "processo": "48500.007732/2007-09",
+      "interessado": "ENBPar; distribuidoras do SIN; Celesc Distribuição; consumidores residenciais e rurais",
+      "assunto": "Definição da tarifa bônus de Itaipu e dos valores de repasse da ENBPar às distribuidoras do SIN (rateio do saldo positivo da conta de comercialização de Itaipu de 2023, cerca de R$ 1,3 bilhão, a ~78 milhões de unidades consumidoras com consumo inferior a 350 kWh)",
+      "tema": ["tarifas e revisão tarifária", "bônus de Itaipu", "CDE e encargos setoriais", "comercialização"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade, com ajuste: crédito nas faturas emitidas de 1 a 31 de janeiro de 2025",
+      "resumo_voto": "Relator propôs crédito em dezembro de 2024; Fernando Mosna citou estudo do BTG sobre efeito na inflação (queda de 0,6 p.p. em dezembro e alta equivalente em janeiro) e no arcabouço fiscal e propôs suspender a discussão; após pausa, procuradoria disse ser possível flexibilizar o PRORET com justificativa; Mosna propôs janeiro de 2025 por benefício ao consumidor e dificuldade operacional; Sandoval destacou reajuste médio de 0,44% em 2024 e prazo operacional de ~60 dias; relator incorporou a mudança.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (ajustado para janeiro de 2025)", "ts": "0:59:40", "justificativa": "aprova cálculos da tarifa bônus e repasses da ENBPar; após debate, não se opõe a mudar o voto para crédito de 1 a 31 de janeiro de 2025, dando mais prazo às distribuidoras; PRORET já fora flexibilizado por fiscalização da base de dados e consulta do MME (Rio Grande do Sul)", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (após propor o adiamento para janeiro de 2025, acolhido)", "ts": "2:39:47", "justificativa": "pagamento em dezembro reduziria o IPCA de 2024 e elevaria o de janeiro de 2025, com efeitos no arcabouço fiscal; regra é do PRORET e pode ser flexibilizada motivadamente; em janeiro o consumidor sentiria alívio no início do ano e as distribuidoras conseguiriam operacionalizar", "tom": "argumentativo, propositivo", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator diante dos ajustes", "ts": "2:39:42", "justificativa": "questionou se o prazo era legal ou regulamentar; destacou que a ANEEL não calcula tarifas por perspectiva de inflação, reajuste médio de 0,44% em 2024 e necessidade operacional de cerca de 60 dias", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:17:31", "processo": "48500.002490/2025-0 (número incerto)",
+      "interessado": "ANEEL (sociedade)",
+      "assunto": "Aprovação da Agenda Regulatória da ANEEL para o biênio 2025-2026 (17 atividades em 2025, 11 em 2026) e publicação do cronograma referencial/painel no site",
+      "tema": ["regulação normativa", "agenda regulatória"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Após tomada de subsídios 12/2024 e audiência pública 4/2024 (37 contribuições), aprova a agenda; apresentação pela chefe de gabinete Elvira; destaque ao novo painel de acompanhamento.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:19:00", "justificativa": "agenda traça o norte da atuação regulatória; incorpora contribuições da audiência pública; painel dá transparência", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:27:25", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:27:27", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["2", "4", "5"],
+  "limites_da_analise": ["Itens do bloco (6 a 23) não são enunciados individualmente na transmissão; registrados como um único item.", "Não se distingue com certeza qual diretor disse cada voto de acompanhamento nos itens 3 e bloco (ordem inferida).", "Número do processo do item 3 mal transcrito pela legenda.", "Valores do bônus citados pela legenda são aproximados (ex.: R$ 1,35 bilhão total)."]
+}

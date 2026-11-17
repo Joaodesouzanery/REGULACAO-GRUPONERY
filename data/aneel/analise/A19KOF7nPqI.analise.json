@@ -1,0 +1,72 @@
+{
+ "meta": {"video_id": "A19KOF7nPqI", "fonte": "legenda automática do YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "32ª Reunião Pública Ordinária de 2024",
+  "data": "2024-09-04",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+  "ausentes": ["Fernando Mosna"],
+  "observacoes": "Quórum de três diretores; Fernando Mosna ausente em missão institucional no exterior (seu voto no item 2 foi lido por Ricardo Tili). Pauta com 19 itens; itens 4 a 19 em bloco, aprovados por unanimidade. Aprovação da ata da 31ª reunião inicialmente sustada por dúvida da diretora Agnes sobre datas da rescisão do CCEAR da UTE Termoceará (decisão por maioria com voto do ex-diretor Hélvio Guerra); ao final, ata registrada nos termos discutidos; Agnes também corrigiu erro material sobre excludente de 176 dias da SPE Querubim Energia (fim de suprimento 17/12/2054)."
+ },
+ "itens": [
+  {
+   "id": "bloco", "ts": "0:33:40", "processo": "", "interessado": "", "assunto": "Itens 4 a 19 da pauta (bloco)", "tema": ["bloco"], "relator": "não identificado",
+   "resultado": "aprovados por unanimidade", "resumo_voto": "Itens de bloco aprovados sem destaque.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:33:40", "justificativa": "", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:33:42", "justificativa": "", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:33:44", "justificativa": "", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:34:00", "processo": "48500.004171/2019-86 (legenda incerta)", "interessado": "Amazonas Energia (distribuidora)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 10 dias, 4 a 13/09/2024) para condições da transferência do controle societário da Amazonas Energia, art. 2º da MP 1.232/2024",
+   "tema": ["distribuição (concessão, transferência de controle)", "regulação normativa (consulta pública)", "Amazonas Energia", "MP 1232/2024"],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: instaurada consulta pública de 4 a 13/09/2024",
+   "resumo_voto": "Relator analisa o plano de transferência de controle (redução da dívida, conversão de dívida em capital, flexibilizações regulatórias) e propõe incluir no termo aditivo compromisso de aporte de capital; consulta à Procuradoria em paralelo. Procuradoria não se manifestou nesta fase. Sem sustentação oral de terceiros.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:14:07", "justificativa": "Plano de transferência deve recuperar a sustentabilidade econômico-financeira com menor impacto tarifário; dúvidas a esclarecer na consulta pública.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:23:04", "justificativa": "Elogiou a análise robusta das equipes e aguarda contribuições da sociedade.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:23:06", "justificativa": "Elogiou a condução do relator e das superintendências; abertura de consulta é fase simplificada.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2", "ts": "1:23:42", "processo": "48500.002095/2024-77 (legenda incerta)", "interessado": "Produtores independentes de energia do Amazonas; CCEE",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 8 dias, 4 a 11/09/2024) para conversão dos contratos originais (CCVE dos PIEs do Amazonas) em contratos de energia de reserva, art. 1º da MP 1.232/2024",
+   "tema": ["comercialização (contratos, energia de reserva)", "CDE e encargos setoriais (CCC)", "regulação normativa (consulta pública)", "MP 1232/2024"],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: instaurada consulta pública de 4 a 11/09/2024",
+   "resumo_voto": "Voto do relator ausente lido por Ricardo Tili. Conversão mantém condições do CCEAR com adequações para energia de reserva; custos recaem na CCC/CDE, por isso exigem escrutínio público (Sandoval).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova (voto lido por Ricardo Tili; diretor ausente)", "ts": "1:51:49", "justificativa": "Urgência da MP 1.232/2024; colher subsídios para as minutas dos contratos de energia de reserva.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:56:46", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:56:48", "justificativa": "Agradeceu às equipes e ao relator pela fundamentação robusta.", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:56:50", "justificativa": "Custos na CCC/CDE exigem transparência e consulta pública.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3", "ts": "1:57:22", "processo": "48500.000097/2007-78; 48500.006237/2001-16; 48500.006256/2001-52; 48500.006280/2001-37 e outro (legenda incerta)", "interessado": "PCHs Poço Fundo, Eng. José Gelásio da Rocha, Rondonópolis, Alto Sucuriú e Cazuza Ferreira",
+   "assunto": "Ajuste dos prazos de outorga de pequenas centrais hidrelétricas (art. 26, §12, Lei 9.427/1996, Lei 14.120/2021); retorno de voto-vista",
+   "tema": ["outorgas de geração (hidrelétrica, PCH)", "prorrogação de outorga"],
+   "relator": "Ricardo Tili",
+   "resultado": "Dispositivos separados: por unanimidade indeferido o ajuste da PCH Alto Sucuriú e aprovado o ajuste de Poço Fundo, Eng. José Gelásio da Rocha e Rondonópolis. PCH Cazuza Ferreira: Sandoval acompanhou a divergência de Agnes (indeferir), contra Tili e o voto anterior de Mosna (deferir); resultado final não proclamado com clareza (aparente empate 2x2, aguardando novo diretor).",
+   "resumo_voto": "Agnes pediu vista na 24ª ROD (09/07/2024) e diverge só quanto à PCH Cazuza Ferreira: a outorga, já prorrogada por 17 anos pela REA 4.482/2013, não tinha exatos 30 anos no momento da decisão. Tili mantém que houve sobreposição de prazos e 30 anos contados da operação comercial. Interessado pediu, do púlpito, que os demais quatro processos fossem decididos mesmo com impasse em Cazuza Ferreira.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, mantém voto: deferir Cazuza Ferreira e as demais (exceto Alto Sucuriú)", "ts": "2:12:00", "justificativa": "Houve sobreposição de prazos; a outorga teve ao final os 30 anos exigidos.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "voto-vista: diverge parcialmente, indefere Cazuza Ferreira; acompanha nas demais", "ts": "1:58:17", "justificativa": "Outorga válida no momento da decisão não contempla exatos 30 anos de horizonte; já ganhara 17 anos pela REA 4.482/2013.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (voto proferido na 24ª reunião, antes da vista)", "ts": "2:13:30", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha nas demais PCHs; diverge com Agnes em Cazuza Ferreira", "ts": "2:20:56", "justificativa": "Acompanha a divergência para que haja mais um voto e o tema aguarde o diretor a ser nomeado; caso difícil.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de usinas/empresas incertos (ex.: Querubim, Cazuza Ferreira, Alto Sucuriú).",
+  "Ordem de quem disse 'voto com relator' nos itens 1 e 2 inferida; minutos aproximados.",
+  "Item 3: resultado para a PCH Cazuza Ferreira não ficou claro na proclamação (aparente empate 2x2 com o voto anterior de Fernando Mosna).",
+  "Discussão da ata (UTE Termoceará, voto vencido de Agnes, voto do ex-diretor Hélvio Guerra) registrada só em observacoes; não é item deliberado nesta pauta.",
+  "Itens 4 a 19 (bloco) sem detalhamento na transcrição."
+ ]
+}

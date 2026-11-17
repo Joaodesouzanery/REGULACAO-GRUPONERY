@@ -1,0 +1,123 @@
+{
+  "meta": {"video_id": "WCXtTuoWY2s", "fonte": "legenda automática do YouTube; falantes inferidos; transcrição sem marcadores intermediários: ts obtidos por busca de frase em transcricoes/WCXtTuoWY2s.json; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "46ª RPO 2024 (Parte 1)", "data": "2024-12-10", "formato": "presencial/híbrida",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de quatro diretores (uma cadeira vaga desde a saída de Hélvio Guerra em maio/2024); última RPO de 2024; pauta com 87 itens (20 a 87 em bloco).",
+      "Parte 1 vai até a pausa do almoço (≈3h18); itens 12, 10, 34, 8, 5, 47, 19, 13, 14, 9, 15, 16, 32, 35, 45, 64 e 79 ficaram para a parte 2 (outro vídeo).",
+      "Retirados de pauta: itens 11, 44 e 60; item 18 retirado pelo relator Fernando Mosna (prejudicado pela decisão do item 17).",
+      "Agnes da Costa informou o rito do Termo de Intimação 49/2024 contra a Enel Distribuição São Paulo (processo sigiloso; plano de recuperação apresentado em 21/11/2024).",
+      "Ata da 45ª RPO aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:20:44", "processo": "itens 20 a 87 (bloco)", "interessado": "diversos",
+      "assunto": "Aprovação dos itens de bloco (votos disponibilizados com a pauta); destacados 32, 34, 35, 47 e 79; item 64 destacado para o fim da pauta",
+      "tema": ["institucional", "fiscalização e sanções"], "relator": "diversos", "resultado": "aprovado o bloco",
+      "resumo_voto": "Bloco aprovado. Agnes registrou voto divergente no item 64 (aplicar a multa editalícia do TIP 28/2022 à UTE Jaguatirica 2, Roraima, sem conversão em advertência), mas o Diretor-Geral destacou o 64 para o fim da pauta. No item 54 (PCH, relator diretor substituto Giácomo Almeida, excludente de responsabilidade) os diretores acompanharam o voto já proferido.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco; diverge no item 64", "ts": "0:21:00", "justificativa": "Item 64: multa editalícia deve ser aplicada; atraso da UTE Jaguatirica 2 prejudica o suprimento de Roraima e a modicidade (custo CCC); discorda da conversão em advertência.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco; no item 54 acompanha o voto", "ts": "0:24:00", "justificativa": "Aprovou itens remanescentes do bloco.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:24:00", "justificativa": "Aprovou itens remanescentes do bloco.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; destaca item 64; no item 54 acompanha o relator", "ts": "0:28:01", "justificativa": "No 54 acompanha o relator Giácomo Almeida e indefere excludente adicional de responsabilidade pelo atraso da PCH.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:28:28", "processo": "48500.006300/2023-92", "interessado": "Companhia de Eletricidade do Amapá (CEA Equatorial)",
+      "assunto": "Reajuste tarifário anual 2024 da CEA, vigência a partir de 13/12/2024 (efeito médio 13,70%: AT 15,56%, BT 13,28%)",
+      "tema": ["tarifas e revisão tarifária"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa as novas tarifas da CEA; reajuste reflete reajuste nulo de 2023 (ativo regulatório) e mitigação por recursos de P&D/PEE e Conta Amazônia Legal. Apresentação técnica de Cecília Magalhães (STR).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:44:30", "justificativa": "Distribuidora em forte investimento pós-privatização; reajuste de 2023 foi nulo e os efeitos se compensam no tempo.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:45:43", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:45:45", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:45:47", "justificativa": "Proclamou o resultado.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:46:36", "processo": "48500.006391/2022-85", "interessado": "Neoenergia Coelba, Neoenergia Brasília, Light, Neoenergia Cosern, Neoenergia Pernambuco, Copel",
+      "assunto": "Revisão tarifária extraordinária por efeitos da pandemia de covid-19 (submódulo 2.10 do PRORET) — voto-vista do Diretor-Geral",
+      "tema": ["tarifas e revisão tarifária", "regulação normativa"], "relator": "Ricardo Tili", "resultado": "aprovado por maioria (Hélvio Guerra votara antes no processo): instaurar consulta pública única por intercâmbio documental de 12/12/2024 a 27/01/2025",
+      "resumo_voto": "Voto-vista de Sandoval propõe consulta pública sobre os pedidos de RTE; o relator Ricardo Tili, que seguira a área técnica (efeito sem desequilíbrio), mudou o voto e aderiu ao voto-vista.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: instaurar consulta pública", "ts": "0:47:30", "justificativa": "A metodologia da ANEEL foi muito conservadora (reequilíbrio limitado a 2020, só perda de produtividade e receitas irrecuperáveis); valores reduzidos não por baixa severidade do evento; ouvir a sociedade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "1:02:00", "justificativa": "Critério da agência privilegiou olhar financeiro em detrimento do econômico; a conta covid tratou do financeiro; a CP deve discutir outras métricas além do fluxo de caixa.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "relator; muda o voto e acompanha o voto-vista", "ts": "1:01:52", "justificativa": "Convencido pelos argumentos de Sandoval e Agnes; abertura de CP permite à sociedade contribuir.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o voto-vista", "ts": "1:02:04", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:04:46", "processo": "48500.000375/2019-83", "interessado": "geradores (ONS, CCEE, ABRAGE citada)",
+      "assunto": "Resultado da 2ª fase da CP 45/2019 e abertura da 3ª fase: critérios operativos para redução/limitação de geração (curtailment) no SIN",
+      "tema": ["regulação normativa", "comercialização", "outorgas de geração"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: 3ª fase da CP 45/2019 por 60 dias",
+      "resumo_voto": "Abre 3ª fase com minuta da NT 240/2024-SGM (rateio por garantia física entre hidrelétricas com vertimento turbinável, eólicas e solares; cortes elétricos alocados primeiro a usinas com restrição no parecer de acesso). Relatora sugere discutir na CP agrupamento alternativo (UHEs com reservatório e termelétricas acima da inflexibilidade contratual) e teto/atualização do parecer de acesso; prazo de 60 dias. Apresentação de Patrícia (SGM).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:30:00", "justificativa": "Inflexibilidade produtiva é o que agrava o corte; reservatórios são parte da solução; prazo de 60 dias pela complexidade e período festivo.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:54:50", "justificativa": "Precisa haver coordenação/hierarquização do crescimento de renováveis subsidiadas; rever outorgas com restrição de integração; leis da física acima dos arranjos financeiros.", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:54:53", "justificativa": "Trata só do aspecto operativo; defende diálogo em 2025 com agentes sobre constrained-off (decisão do TRF1) para evitar judicialização longa.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:54:55", "justificativa": "Problema deve ser tratado de forma estrutural; distribuidoras já injetam excedente na rede de transmissão sem despacho do ONS.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:55:45", "processo": "48500.003426/2024-96", "interessado": "ENBPar / Itaipu Binacional; MME",
+      "assunto": "Tarifa de repasse da potência contratada de Itaipu para 2025",
+      "tema": ["tarifas e revisão tarifária", "comercialização"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: prorrogação provisória de US$ 17,66/kW.mês de 01/01 a 31/03/2025 e ofícios ao MME e ENBPar (45 dias)",
+      "resumo_voto": "Manter a tarifa conforme acordo Brasil-Paraguai exigiria recursos adicionais (saldo negativo da conta de Itaipu); relator prorrogou até 28/02, ajustado para 31/03 por sugestão de Sandoval.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (ajustado)", "ts": "2:05:00", "justificativa": "Aparente derrapada do MME na calibração; ANEEL precisa de comando afirmativo do poder concedente e da ENBPar (alteração do Decreto 11.027 ou aporte) para não onerar o consumidor.", "tom": "crítico ao MME", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:21:51", "justificativa": "Sugeriu estender a prorrogação até 31/03/2025 (prazo de 15 dias restante seria exíguo); acolhido.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:21:53", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:21:55", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:23:24", "processo": "48500.003427/2024-31", "interessado": "Eletronuclear (Angra 1 e 2)",
+      "assunto": "Receita fixa de Angra 1 e 2 a partir de 01/01/2025 (redução de cerca de 14%)",
+      "tema": ["tarifas e revisão tarifária", "outorgas de geração"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova resolução homologatória da receita fixa e delega à STR atualizar pelo IPCA de novembro/2024. Valores da legenda incertos.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "2:24:00", "justificativa": "Voto disponibilizado previamente; leitura só do dispositivo.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:27:03", "justificativa": "Destacou a redução da receita fixa repassada ao consumidor.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:27:05", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:27:07", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "17", "ts": "2:28:16", "processo": "48500.002024/2020-41 e 48500.002035/2020-21", "interessado": "Transmissora Acre SPE",
+      "assunto": "Implantação da LT 230 kV Feijó–Cruzeiro do Sul (contrato de concessão 11/2020) às margens da BR-364 atravessando terra indígena, conforme LI Ibama 1465/2023",
+      "tema": ["transmissão", "fiscalização e sanções"], "relator": "Ricardo Tili", "resultado": "aprovado por maioria: flexibilização do contrato, termo aditivo em 90 dias, sem desconto de RAP nem processo punitivo",
+      "resumo_voto": "Processo empatado desde maio (vista de Agnes) sem quinto diretor; relator renunciou ao desconto de RAP (caiu de R$ 8,33 mi para R$ 760 mil) e ao processo punitivo para convergir com o voto-vista, dada a energização prevista para 16/12/2024 e custo de diesel de cerca de R$ 20 mi/mês à CDE.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (dispositivo ajustado)", "ts": "2:30:00", "justificativa": "Transige no dispositivo pela colegialidade e benefício ao consumidor e ao meio ambiente; mantém a fundamentação do voto de 28/05/2024.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha com fundamentos próprios", "ts": "2:48:36", "justificativa": "Dispositivo igual ao do seu voto-vista, mas fundamentação diferente sobre a diligência do agente.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: mantém voto por indeferir o pleito (vencido)", "ts": "2:48:38", "justificativa": "Mantém voto anterior pelo indeferimento; elogiou o relator por transigir na ideia. Atribuição do falante inferida.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:48:45", "justificativa": "Precariedade do colegiado sem quinto diretor exigiu arranjo; empates deveriam constar da pauta.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:50:49", "processo": "48500.005677/2022-43", "interessado": "CCEE; comercializadores varejistas (sustentação oral de Alexandre Lopes, Abraceel)",
+      "assunto": "Resultado da 2ª fase da CP 28/2023: regras e procedimentos de comercialização varejista (abertura do mercado do grupo A)",
+      "tema": ["comercialização", "regulação normativa"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova REN que altera RENs 957, 1000 e 1011 e submódulos 1.5, 1.6, 1.8 e 8.1 dos Procedimentos de Comercialização (modelo simplificado, preço de referência comparável, transparência da CCEE). Apresentação de Acácio (área técnica).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "3:15:30", "justificativa": "A primeira fase já gerou aumento exponencial da migração; tema de open energy segue em outro processo.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:16:24", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:16:26", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:17:00", "justificativa": "Proclamou o resultado.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["11", "44", "60", "18 (prejudicado; decisão monocrática de perda de objeto por Fernando Mosna)"],
+  "limites_da_analise": [
+    "Vídeo é só a Parte 1 (manhã); demais itens na Parte 2.",
+    "Transcrição sem marcadores de tempo intermediários; ts aproximados por busca de frase.",
+    "Ordem dos votos de quem só acompanha inferida; no item 17 a atribuição do voto divergente a Fernando Mosna é inferida (pode ser outro diretor).",
+    "Item 1: decisão por maioria por causa de voto anterior de Hélvio Guerra (ex-diretor), cujo teor não aparece.",
+    "Diretor substituto Giácomo Almeida (item 54 do bloco) não consta da lista de diretores.",
+    "Números de processos, valores e nomes vêm da legenda automática e podem conter erros."
+  ]
+}

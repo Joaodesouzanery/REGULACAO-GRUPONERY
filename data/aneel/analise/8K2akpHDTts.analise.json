@@ -1,0 +1,104 @@
+{
+  "meta": {"video_id": "8K2akpHDTts", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:20); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "39ª RPO 2024", "data": "2024-10-22", "formato": "presencial (reunião pública ordinária)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Agnes da Costa"],
+    "observacoes": [
+      "Quórum mínimo de três diretores; Agnes da Costa ausente (inicialmente dito férias, retificado: consulta médica com o filho).",
+      "Ata da 38ª RPO não aprovada por falta de quórum (Sandoval estava de férias na anterior); volta na próxima reunião.",
+      "Informes: termo de intimação à Enel São Paulo (descumprimento do plano de contingência, evento de 11/10/2024), início do processo de avaliação de recomendação de caducidade; processo de resiliência a eventos climáticos distribuído a Agnes da Costa; aprovação de 19 estudos de inventário hidrelétrico.",
+      "Pauta com 50 itens; itens 6 a 50 em bloco; retirados 25, 38, 40 e 42; item 10 retirado a pedido do relator; destaque do item 27 não concedido.",
+      "Todos os itens de mérito (1 a 5) relatados por Fernando Mosna.",
+      "Item 5 (Casa dos Ventos) sem deliberação: 2 votos a 1 (Sandoval vencido na posição, mas faltam três votos convergentes); aguarda voto de Agnes da Costa.",
+      "Sandoval Feitosa reiterou críticas a contingenciamento orçamentário e falta de pessoal na fiscalização (nove fiscais para toda a distribuição)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:32:35", "processo": "itens 6 a 50 (exceto retirados)", "interessado": "diversos",
+      "assunto": "Itens de bloco (6 a 50) com votos disponibilizados previamente",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado sem discussão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:32:35", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:32:36", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:32:37", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:32:56", "processo": "48500.002174/2024-88", "interessado": "Secretaria Executiva de Leilões; MME",
+      "assunto": "Aprovação dos editais dos Leilões 3, 4 e 5/2024 (energia existente A-1, A-2 e A-3 de 2024), após a Consulta Pública 16/2024; sessão em 6/12/2024",
+      "tema": ["leilões (geração)", "comercialização (CCEAR)", "regulação normativa"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta do edital e anexos e publica aviso de licitação; lote reduzido de 1 para 0,1 MW médio; apresentação técnica da secretaria de leilões (servidor Igor).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:43:02", "justificativa": "minutas adequadas segundo a Procuradoria; diretrizes da Portaria Normativa MME 84/2024", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:44:49", "justificativa": "cumprimentou a secretaria de leilões; ANEEL cumpre obrigações apesar de falta de pessoal e restrição orçamentária", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:44:53", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:45:10", "processo": "48500.001390/2024-14", "interessado": "geradores renováveis abrangidos pela MP 1212/2024; ABEEólica; INEL",
+      "assunto": "Aplicação da MP 1212/2024 e Portaria MME 79/2024: prazo de implantação das usinas com prorrogação do desconto na TUST/TUSD e postergação de CUST",
+      "tema": ["outorgas de geração (eólica, solar)", "tarifas (desconto TUST/TUSD)", "transmissão (CUST)", "regulação normativa (consulta pública)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Altera para 90 meses o prazo de implantação das usinas do anexo (exceto as que venderam no ACR) e abre consulta pública de 15 dias (24/10 a 8/11/2024) sobre postergação onerosa do CUST por mais de 12 meses. Sustentações orais: Natália da Silva Caldeira (ABEEólica, pediu retirada de pauta ou consulta pública) e Renata Régis dos Santos (INEL).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova com abertura de consulta pública", "ts": "1:29:52", "justificativa": "acolhe área técnica sobre 90 meses; proposta da STD serve como primeiro passo para debate, sem antecipar juízo de valor", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:39:43", "justificativa": "reserva de rede de transmissão tem de ser onerosa; critica setor que pede cumprimento intransigente de contratos quando convém e revisão quando não convém", "tom": "crítico ao setor", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:39:44", "justificativa": "lembrou que o encargo acumulado e a multa rescisória do CUST devem ser discutidos na consulta", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:40:35", "processo": "48500.001412/2024-27", "interessado": "Diamante Geração de Energia (Complexo Termelétrico Jorge Lacerda)",
+      "assunto": "Homologação do preço do carvão mineral nacional para o Complexo Jorge Lacerda (Lei 14.299/2022, Portaria MME 768/2024, contrato de energia de reserva)",
+      "tema": ["outorgas de geração (térmica a carvão)", "CDE e encargos setoriais", "comercialização (energia de reserva)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa R$ 406,38/t (ano-base 2023; legenda registra '46,38', valor incerto) em vez dos cerca de R$ 484/t pedidos pela Diamante; recomenda ao MME IPCA como índice de reajuste; preço pode ser revisto se a ANM enviar novas informações antes da assinatura do contrato.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:57:30", "justificativa": "sem suporte técnico para o preço do estudo da Diamante; valor reembolsado pela CDE avaliado pela ANM e é a média dos contratos vigentes", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:01:37", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:01:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:02:28", "processo": "48500.006364/2023-93", "interessado": "Ampla Energia e Serviços S.A. (Enel Rio)",
+      "assunto": "Recurso contra o Auto de Infração 6/2024 da SFT (multa de cerca de R$ 54 milhões, 0,86% da ROL) pelo restabelecimento lento após o evento climático de 18/11/2023",
+      "tema": ["fiscalização e sanções (multa)", "recursos administrativos", "distribuição (eventos climáticos)"],
+      "relator": "Fernando Mosna", "resultado": "recurso conhecido e não provido, por unanimidade",
+      "resumo_voto": "Mantém tipificação da SFT (art. 12, V, REN 846, grupo 4) e a vantagem auferida, divergindo do Parecer 139/2024 da Procuradoria (que propunha art. 11, XIII, e zerar a vantagem); o subprocurador Eduardo registrou ressalva pessoal favorável à área técnica. Apresentação da SFT (Thompson).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "2:22:07", "justificativa": "princípio da especialidade: tipo mais específico e grave do art. 12, V; vantagem auferida por não contratar equipes suficientes", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:38:13", "justificativa": "gravidade nacional como no caso Enel SP que relatou; criticou a Procuradoria por criar divergência que pode ser usada judicialmente (multa de 165 milhões suspensa)", "tom": "crítico à Procuradoria", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:38:15", "justificativa": "elogiou fiscalização; denunciou contingenciamento, apenas nove fiscais para toda a distribuição e retenção da taxa de fiscalização", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:38:45", "processo": "48500.000886/2023-81", "interessado": "Casa dos Ventos (EOL Ventos de Santo Antônio 1 e Ventos de Santa Luzia 11 a 16); Parnaíba Geração e Comercialização",
+      "assunto": "Pedidos de reconsideração contra a REH 3217/2023 (TUST ciclo 2023-2024): prazo de estabilização da TUSDg aplicada como TUST após migração para a rede básica",
+      "tema": ["tarifas (TUST/TUSDg)", "transmissão", "leilões (energia nova A-3/A-4 2021)", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "não deliberado: 2 votos pelo provimento (Mosna, Tili) e 1 contra (Sandoval); faltam três votos convergentes, aguarda voto de Agnes da Costa",
+      "resumo_voto": "Relator, divergindo da STR e da Procuradoria (Parecer 312/2023), dá provimento: estabilização por todo o prazo da outorga (lacuna normativa, irretroatividade da REN 1024/2022, confiança legítima); perda de objeto do pedido da Parnaíba. Sustentação oral de Pedro Marcelo (Casa dos Ventos).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá provimento", "ts": "3:58:02", "justificativa": "norma silente e respostas vagas da ANEEL geraram expectativa legítima; não se aplica retroativamente a REN 1024/2022; não se pode presumir má-fé", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "4:11:45", "justificativa": "se a regra não proíbe, não se pode criar restrição no caso concreto nem presumir oportunismo", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge: nega provimento, acompanhando nota técnica e Procuradoria", "ts": "4:11:47", "justificativa": "admitiria tutelar só a energia vendida no leilão; ampliação de capacidade em mais de 10 vezes com tarifa cerca de cinco vezes menor contraria o sinal locacional; não estava expressamente permitido", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "10", "motivo": "retirado de pauta a pedido do diretor relator (havia pedido de sustentação oral e destaque do bloco)"},
+    {"id": "25", "motivo": "retirado de pauta"},
+    {"id": "38", "motivo": "retirado de pauta"},
+    {"id": "40", "motivo": "retirado de pauta"},
+    {"id": "42", "motivo": "retirado de pauta"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores (ex.: preço do carvão '46,38' provavelmente R$ 406,38/t) e nomes (Thompson, Pedro Marcelo, Paola Bembom) podem estar errados.",
+    "Transcrição sem divisão de falantes: autoria dos votos de seguidores inferida pela ordem (Sandoval, Ricardo) e ts aproximados.",
+    "Conteúdo dos itens 6 a 50 do bloco não lido em sessão.",
+    "Relator do item 10 não identificado com certeza (provavelmente Fernando Mosna)."
+  ]
+}

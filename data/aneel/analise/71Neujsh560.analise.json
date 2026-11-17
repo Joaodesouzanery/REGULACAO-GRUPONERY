@@ -1,0 +1,428 @@
+{
+ "meta": {
+  "video_id": "71Neujsh560",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:24:51); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1ª RPO 2025",
+  "data": "2025-01-21",
+  "formato": "presencial (auditório) com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Ludimila Lima (ausência justificada)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores; Ludimila Lima ausente por motivos pessoais.",
+   "Pauta com 91 itens; bloco 22 a 91; retirados os itens 2 a 18, 20, 21, 26, 27 e 42.",
+   "Atas da 46ª RPO e da 4ª REX de 2024 aprovadas.",
+   "Item 19: divergência de Agnes da Costa e pedido de vista.",
+   "Coletiva de imprensa ao final (Amazonas Energia, renovação das concessões de distribuição, cortes de geração, bandeiras, Enel SP)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:46:31",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 22 a 91 (exceto destacados 29, 32, 47, 52, 53 e 59) aprovados em conjunto",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados; 59 destacado pelo Diretor-Geral após ajuste de dispositivo por Ricardo Tili.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:46:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:46:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:46:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:46:42",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:47:09",
+   "processo": "48500.000382/2024",
+   "interessado": "Secretaria de Leilões / SRG",
+   "assunto": "Abertura de consulta pública (22/01 a 10/03/2025) sobre minuta de edital e anexos do Leilão 1/2025 de suprimento aos sistemas isolados (3 lotes, AM e PA, 11 localidades, mínimo de 22% renovável, CCEE interveniente)",
+   "tema": [
+    "leilões (sistemas isolados)",
+    "regulação normativa (consulta pública)",
+    "CDE e encargos setoriais (CCC)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública instaurada; apresentação de Renato Braga (Secretaria de Leilões). Debate sobre conversão de penalidade em investimento e prazo de implantação de 2,5 anos, encaminhado para a consulta.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:04:35",
+     "justificativa": "diretrizes da Portaria MME; inovações do edital a debater na consulta pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:28:02",
+     "confianca": "media",
+     "justificativa": "concorda com a conversão de multa em investimento mas teme ganho de performance do agente com dinheiro do consumidor (regra 70/30); sentiu falta de localidades não construídas do leilão de 2021 e de proteção dos ativos",
+     "tom": "preocupação construtiva"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:28:02",
+     "confianca": "media",
+     "justificativa": "preocupação com o prazo de implantação de 2,5 anos: histórico médio de 1.432 dias de implantação nos leilões de 2014 a 2021; risco de incentivo a lances arrojados"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:28:02",
+     "confianca": "alta",
+     "justificativa": "perguntou se a conversão de penalidade em investimento é discricionária e se cabe por analogia a arbitragem; vê risco de lance agressivo seguido de pedido de conversão financiado pelo consumidor"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:28:56",
+   "processo": "48500.005055/2019",
+   "interessado": "Azulão Geração de Energia S.A. (UTE Jaguatirica II, Boa Vista/RR)",
+   "assunto": "Termo de Intimação de Penalidade editalícia (TIP 28/2022) por atraso na implantação da UTE Jaguatirica II (Leilão 1/2019 sistemas isolados); pedido de conversão da multa em advertência",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "sistemas isolados",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de vista (Diretor-Geral, provável); julgamento suspenso",
+   "resumo_voto": "Relator aplica a NT 10/2022 da SFG (atraso da 1ª UG: 10 dias, multa de cerca de R$ 256 a 286 mil) e converte em advertência por baixa ofensividade; Agnes mantém divergência (concorda com os 10 dias, mas não com a baixa ofensividade); sem sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dá provimento: converte multa editalícia em advertência",
+     "ts": "1:54:28",
+     "justificativa": "critério da NT 10 (atraso da primeira UG, 10 dias, dentro da tolerância de 60 dias); área técnica mudou critério ao longo da instrução; Roraima tinha outras usinas, sem falta de suprimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge parcialmente (mantém multa, sem conversão em advertência)",
+     "ts": "2:06:58",
+     "justificativa": "acompanha os 10 dias, mas o atraso não é de baixa ofensividade: usina maior do leilão, prejuízo à modicidade e à CCC, manteve geração emergencial cara e atrasou o plano de substituição do parque de Roraima",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência (atribuição incerta)",
+     "ts": "2:09:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "2:09:30",
+     "justificativa": "antes, defendeu que o edital remete penalidades à REN 846 (especialidade) e que a usina responde por cerca de 2/3 da carga de Roraima",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:09:37",
+   "processo": "48500.000812/2023",
+   "interessado": "ISA CTEEP / ISA Energia (transmissora)",
+   "assunto": "Recurso contra Despacho 560/2023 (STD) que negou afastar PVI pelos desligamentos da SE Jupiá e LTs 440 kV Ilha Solteira-Três Irmãos e Bauru-Araraquara (9, 15 e 23/10/2021) por ventos fortes",
+   "tema": [
+    "transmissão (PVI)",
+    "recursos administrativos",
+    "eventos climáticos / caso fortuito"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sustentação oral de Rafael Janques (ISA Energia). Ventos fortes, mesmo acima do projeto, não caracterizam força maior sem magnitude de desastre natural (NT 104/2024 STD).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:24:48",
+     "justificativa": "chuvas e ventos fortes são corriqueiros; força maior exige evento indiscutível, semelhante a desastre natural; projeto mais conservador evitaria danos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:26",
+     "confianca": "alta",
+     "justificativa": "alinha-se ao relator; norma de franquias está na agenda regulatória para revisão com histórico de eventos climáticos"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:28:00",
+   "processo": "48500.004982/2024 e 48500.001390/2024",
+   "interessado": "Companhia Bom Sucesso de Eletricidade (PCH Espraiado, Timbó Grande e Irineópolis/SC)",
+   "assunto": "Recurso contra Despacho 2269/2024 (SCE) que negou prorrogação de prazo para desconto na TUST/TUSD (MP 1.212/2024) por falta de garantia de fiel cumprimento",
+   "tema": [
+    "tarifas (desconto TUST/TUSD)",
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sustentação oral de Luís Henrique Moreira. A garantia invocada fora devolvida em 2023; não houve aporte de nova garantia nos termos da MP; sem vício de legalidade.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:43:00",
+     "justificativa": "garantia de fiel cumprimento indicada já havia sido devolvida em 2023; vigência deveria ir até 28/06/2027",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:44:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:44:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:44:14",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "2:45:13",
+   "processo": "48500.003945/2024",
+   "interessado": "Brasil Fortescue Sustainable Industries (hidrogênio verde, Pecém/CE)",
+   "assunto": "Pedido de medida cautelar para suspender análises de pareceres de acesso no ONS desde ago/2024 de consumidores ultraeletrointensivos (hidrogênio verde/amônia)",
+   "tema": [
+    "transmissão (acesso à rede básica)",
+    "hidrogênio verde",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "cautelar indeferida por unanimidade",
+   "resumo_voto": "Sustentação oral de Vítor Sarmento de Melo. Tema em discussão na CP 23; ausência de probabilidade do direito; suspensão retroativa prejudicaria outros acessantes.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:01:30",
+     "justificativa": "sem fumaça do bom direito; regras em consulta pública 23; retroagir a agosto de 2024 frustraria direitos de quem já obteve parecer",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:06:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:06:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:03:55",
+     "confianca": "alta",
+     "justificativa": "a cautelar privilegiaria um grupo de agentes; a fila de acesso tem que andar"
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "ts": "3:06:39",
+   "processo": "48500.004562/2020",
+   "interessado": "Gerdau S.A.",
+   "assunto": "Impugnação de decisão da CCEE (reunião 1136) sobre recontabilização de alocação de geração própria (AGP, contratos C3E/Dona Francisca) de jan/2019 a jan/2020",
+   "tema": [
+    "comercialização (CCEE, recontabilização)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sustentação oral de Thiago Sandoval Furtado. Entendimento já sedimentado no caso anterior da Gerdau (dez/2024, relator Mosna) e no Parecer 90/2024 da PF: recontabilização não supre falha de registro; CCEE deve descontar AGP concedida de out/2019 a jan/2020 e devolver emolumentos.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:18:30",
+     "justificativa": "caso semelhante já decidido pela diretoria; recontabilização não substitui registro de contrato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:19:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "53",
+   "ts": "3:20:22",
+   "processo": "48500.000536/2023",
+   "interessado": "Companhia Siderúrgica Nacional (CSN)",
+   "assunto": "Impugnação de deliberação da CCEE (reunião 1350) sobre multa e glosa de alocação de geração própria (autoprodução por equiparação, UHEs Igarapava e Itá) em 2022",
+   "tema": [
+    "comercialização (CCEE, autoprodução)",
+    "CDE e encargos setoriais",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sustentação oral de David Waltenberg (nome incerto). CPC não se aplica; recontabilização não substitui registro; a agência não pode ser backoffice regulatório dos agentes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:39:21",
+     "justificativa": "tema pacificado; regras e prazos regulatórios devem ser observados, sob pena de a agência virar backoffice regulatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:42:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:42:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:40:34",
+     "confianca": "alta",
+     "justificativa": "grandes consumidores eletrointensivos devem observar prazos e procedimentos"
+    }
+   ]
+  },
+  {
+   "id": "59",
+   "ts": "3:42:45",
+   "processo": "27100.016661/1990",
+   "interessado": "Consórcio Jauru (Ibitu Energética S.A. e Cinco Estrelas Agropecuária)",
+   "assunto": "Recomendação ao MME da prorrogação da concessão da UHE Jauru (MT), condicionada a certidão de adimplência, e pedido à EPE de cálculo de indenização de bens reversíveis",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "prorrogação de concessão"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Destacado do bloco pelo Diretor-Geral após o relator incluir no dispositivo a condição de adimplência (multa inscrita no Cadin).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:43:30",
+     "justificativa": "débito setorial pendente (auto de infração de 2020) deve estar quitado para prorrogar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:46:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:46:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:46:00",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2 a 18",
+  "20",
+  "21",
+  "26",
+  "27",
+  "42"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de processos, valores e pessoas podem estar errados.",
+  "Item 19: a frase «eu acompanho a divergência tá eu peço vistas» não separa falantes; atribuímos o acompanhamento a Fernando Mosna e a vista a Sandoval Feitosa, ambos incertos.",
+  "Ordem dos votos de quem só acompanha inferida; ts aproximados.",
+  "Itens de bloco 22 a 91 não detalhados (votos disponibilizados só na pauta).",
+  "Advogado do item 53 citado como David Antônio Monteiro e como Dr. Valberg/Volberg: nome incerto."
+ ]
+}

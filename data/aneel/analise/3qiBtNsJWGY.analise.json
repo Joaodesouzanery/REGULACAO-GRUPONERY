@@ -1,0 +1,89 @@
+{
+  "meta": {"video_id": "3qiBtNsJWGY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "36ª RPO 2024", "data": "2024-10-01", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores (uma cadeira vaga), o que gerou empates na 2ª Reunião Pública Extraordinária de 27/09/2024.", "Antes da pauta, o Diretor-Geral levou à ratificação os resultados da 2ª RPE (art. 35 do regimento, REN 698): longo debate sobre se empate é decisão ratificável; Ricardo Tili e Fernando Mosna entenderam que não havia decisão a ratificar; o Procurador-Geral opinou pela ratificação voto a voto.", "Na ratificação do processo Amazonas Energia (MP 1232), Sandoval Feitosa alterou seu voto e formou maioria de 3 a 1 para aprovar a transferência de controle nos termos da Nota Técnica 188/2024 (flexibilizações da ordem de R$ 8 bilhões), com prazo de 24 horas e renúncia expressa a direitos e ao processo judicial; o item sobre cumprimento da decisão judicial (plano da empresa) permaneceu empatado.", "Bloco com itens 2 a 33 (retirados 5, 9 e 12) aprovado; item 14 por maioria, com voto contrário de Ricardo Tili.", "Comunicados: bandeira vermelha patamar 2 em outubro; Leilão de Transmissão 2/2024 com deságio médio de 48,89%; 10 anos do CEG; tarifa social."]
+  },
+  "itens": [
+    {
+      "id": "R-2RPE-2", "ts": "0:10:15", "processo": "", "interessado": "",
+      "assunto": "Ratificação do resultado da 2ª RPE/2024 (27/09/2024), item 2: conversão de contratos de energia térmica (resultado empatado 2 a 2)",
+      "tema": ["institucional/regimento", "outorgas de geração (térmica)", "comercialização"],
+      "relator": "não identificado",
+      "resultado": "Empate mantido: Agnes da Costa e Sandoval Feitosa ratificaram seus votos; Ricardo Tili e Fernando Mosna entenderam não haver decisão a ratificar. Registro em ata dos entendimentos.",
+      "unanime": false,
+      "resumo_voto": "Debate regimental (art. 35, parágrafo único, REN 698) sobre ratificar empate; procurador-geral opinou que a ratificação é voto a voto.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "ratifica seu voto (empate é resultado e deve ser ratificado)", "ts": "0:40:30", "justificativa": "Regimento manda ratificar até a 2ª RPO; urgência pelo vencimento da MP; empate é resultado e deve ser confirmado.", "tom": "firme", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "ratifica seu voto", "ts": "0:39:56", "justificativa": "«eu ratifico o meu voto»; defendeu que sem ratificação a RPE parece não ter existido.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "não ratifica: entende não haver decisão", "ts": "0:40:14", "justificativa": "Não tendo havido decisão por ausência de maioria regimental, não há como cumprir o dispositivo que manda ratificar a decisão.", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não ratifica: entende não haver decisão; pede que conste em pauta", "ts": "0:40:40", "justificativa": "Empate não é decisão; a ratificação deveria constar da pauta para dar publicidade e permitir sustentação oral dos interessados.", "tom": "enfático", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "R-2RPE-1", "ts": "0:41:30", "processo": "", "interessado": "Amazonas Energia; Futura Venture Capital Participações; FIP Infraestrutura Milão; Âmbar/Oliveira Energia",
+      "assunto": "Ratificação do resultado da 2ª RPE/2024, item 1: cumprimento de decisão judicial e resultado da Consulta Pública 21/2024 sobre o plano de transferência de controle societário da Amazonas Energia (MP 1232/2024)",
+      "tema": ["distribuição", "tarifas e revisão tarifária", "regulação normativa (consulta pública)", "institucional/judicial"],
+      "relator": "Ricardo Tili",
+      "resultado": "Item b aprovado por maioria (3 a 1): aprovar o plano de transferência nos estritos termos da Nota Técnica 188/2024, facultada a assinatura do aditivo em 24 horas, com renúncia expressa a direitos preexistentes (§9º da MP 1232) e ao processo judicial. Item a (plano da empresa / cumprimento da decisão judicial) permanece empatado 2 a 2, sem decisão.",
+      "unanime": false,
+      "resumo_voto": "Relator indefere o plano proposto pela empresa e aprova transferência nos termos da NT 188 (flexibilizações da ordem de R$ 8 bilhões), com base na decisão de 2ª instância; Agnes diverge para cumprir decisão judicial de 1ª instância e parecer de força executória (proposta de 26-27/09).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, ratifica: indefere o plano da empresa e aprova transferência nos termos da NT 188", "ts": "0:42:00", "justificativa": "Decisão do desembargador no agravo suspende partes da MP; considerou contraditório o voto do DG aprovar dois planos; pediu renúncia à ação judicial como condição, que foi incorporada.", "tom": "crítico", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "diverge: ratifica voto de cumprir a decisão judicial nos termos do parecer de força executória (proposta de 26/09 complementada em 27/09)", "ts": "0:41:51", "justificativa": "«eu ratifico o meu voto pela mesma razão»; cumpre a decisão de 1ª instância com as flexibilizações mais benéficas ao consumidor.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (aprovação nos termos da NT 188); vencido no ponto de que o voto do DG era contraditório", "ts": "0:41:54", "justificativa": "Pede registro dos mesmos argumentos do item anterior; criticou o «Frankenstein regulatório» de aprovar o plano de R$ 14-16 bi e o de R$ 8 bi; ficou confortável com a renúncia ao processo judicial.", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "altera o voto: acompanha o relator no item b (fechamento da CP / NT 188) e Agnes no item a (cumprimento da decisão judicial)", "ts": "0:42:48", "justificativa": "Com base no parecer de força executória da AGU, não se sente seguro em deixar de cumprir a decisão judicial, mas quer oferecer saída administrativa antes do vencimento da MP (10/10); propõe renúncia nos termos do §9º da MP 1232.", "tom": "conciliador", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "bloco", "ts": "1:43:00", "processo": "", "interessado": "",
+      "assunto": "Itens de bloco 2 a 33 da 36ª RPO (retirados de pauta os itens 5, 9 e 12), exceto item 14",
+      "tema": ["bloco"],
+      "relator": "vários",
+      "resultado": "Aprovados por unanimidade",
+      "unanime": true,
+      "resumo_voto": "Sem destaque nem sustentação oral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "1:44:20", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "1:43:05", "justificativa": "", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "1:43:08", "justificativa": "", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco, exceto item 14", "ts": "1:43:13", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "14", "ts": "1:43:15", "processo": "", "interessado": "usina (não identificada)",
+      "assunto": "Item 14 de bloco: flexibilização contratual de usina em entrada em operação (proposta da diretora Agnes)",
+      "tema": ["outorgas de geração", "contratos"],
+      "relator": "Agnes da Costa",
+      "resultado": "Aprovado por maioria (3 a 1), vencido Ricardo Tili",
+      "unanime": false,
+      "resumo_voto": "Relatora propõe flexibilização no contrato.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "1:44:00", "justificativa": "Apresentou a proposta.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "diverge (vencido)", "ts": "1:43:18", "justificativa": "Flexibilização só fez sentido para usinas já em operação comercial; a usina está entrando em operação; já se manifestou várias vezes no mesmo sentido.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:43:08", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:44:20", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:44:40", "processo": "48500.004063/2022-44", "interessado": "unidades consumidoras com acesso à rede básica (data centers, hidrogênio verde); ONS; MME",
+      "assunto": "Abertura de consulta pública sobre requisições de acesso à rede básica por unidades consumidoras (garantias financeiras no CUST, minuta do módulo 5 das regras de transmissão)",
+      "tema": ["transmissão", "regulação normativa (consulta pública)"],
+      "relator": "Ricardo Tili",
+      "resultado": "Aprovado por unanimidade: consulta pública por intercâmbio documental, prazo ajustado para terminar em 18/11/2024",
+      "unanime": true,
+      "resumo_voto": "Garantia financeira para parecer de acesso e assinatura do CUST, limitação à postergação da data de início, autorização da ANEEL após o CUST; apresentação técnica de Fernando Magalhães (STD).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:07:21", "justificativa": "Grandes cargas (data centers, hidrogênio) podem reservar rede indevidamente; a agência se antecipa; prazo ajustado para não terminar em feriado.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:09:44", "justificativa": "Elogiou a proposta: hoje não há instrumento financeiro para cobrar obrigações dos consumidores livres que demandam expansão.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:09:48", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:10:00", "justificativa": "", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["5", "9", "12"],
+  "limites_da_analise": ["Itens de bloco 2-33 não lidos individualmente; assunto do item 14 inferido apenas da fala de Ricardo Tili.", "Relator do item 2 da 2ª RPE (térmicas) não identificado com segurança.", "A legenda chama o relator do item 1 de «Ricardo lavorato tutine»; mapeado para Ricardo Tili.", "Ordem e autoria das falas no debate da ratificação inferidas; ts de seguidores aproximados.", "Número do processo do item 1 conforme legenda (48500.004063/2022-44 / 00463); confirmar."]
+}

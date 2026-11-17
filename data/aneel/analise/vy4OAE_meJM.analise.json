@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "vy4OAE_meJM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:25); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "37ª Reunião Pública Ordinária de 2024", "data": "2024-10-09", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores.", "Pauta com 40 itens, todos de bloco; item 5 retirado de pauta; item 15 destacado por pedido de sustentação oral.", "Ata da 36ª reunião (1/10/2024) aprovada.", "Informes: tomada de subsídio do Mais Luz para a Amazônia (CEA e Equatorial Maranhão), CP 61/2021 reserva de capacidade, TS 16/2024 conselhos de consumidores, CP 18/2024 TUST; Olimpíada Nacional de Eficiência Energética com recorde de inscrições; Fernando Mosna registrou o papel de Agnes da Costa na regulamentação da olimpíada."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:35:04", "processo": "", "interessado": "diversos",
+      "assunto": "Itens do bloco (pauta de 40 itens, exceto item 5 retirado e item 15 destacado), votos disponibilizados previamente",
+      "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados sem discussão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "0:35:07", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha", "ts": "0:35:08", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens remanescentes do bloco", "ts": "0:35:09", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens remanescentes do bloco", "ts": "0:35:10", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "15", "ts": "0:35:31", "processo": "48500.000165/2024-64",
+      "interessado": "Novo Estado Transmissora de Energia S.A. (transmissora, grupo citado como Eng na legenda)",
+      "assunto": "Requerimento administrativo de recomposição do equilíbrio econômico-financeiro do contrato de concessão de transmissão nº 3/2018 por custos extraordinários da pandemia de covid-19",
+      "tema": ["transmissão (RAP, contratos de concessão)", "equilíbrio econômico-financeiro", "recursos administrativos", "pandemia"],
+      "relator": "Agnes da Costa", "resultado": "negado provimento por unanimidade",
+      "resumo_voto": "Sustentação oral de Valéria de Souza Rosa (Novo Estado): antecipação a pedido do poder público, crise das EPCistas, pleito de cerca de 90 milhões atualizados ou prorrogação do prazo. Área técnica: pandemia seria excludente com recomposição de prazo (Lei 13.360); empreendimento adiantado, receita contratada não desequilibrada. Relatora conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, conhece e nega provimento", "ts": "0:49:45", "justificativa": "lê só o dispositivo: conhecer e, no mérito, negar provimento ao requerimento de reequilíbrio", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:52:30", "justificativa": "antes pediu esclarecimento da superintendência sobre o efeito da pandemia no contrato", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:52:32", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:52:35", "justificativa": "questionou a área técnica sobre o marco temporal: com antecipação da operação, excludente não se aplica", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["item 5 (sem detalhes na transcrição)"],
+  "limites_da_analise": ["Ricardo Tili inferido de «diretor Ricardo» na abertura.", "Ordem de quem falou nos votos do bloco e do item 15 não identificável na legenda; atribuição de ts aproximada.", "Quem pediu esclarecimento à área técnica no item 15 é inferido (Fernando Mosna/Sandoval Feitosa); confiança média.", "Conteúdo dos 38 itens de bloco não é lido na sessão."]
+}

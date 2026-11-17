@@ -1,0 +1,337 @@
+{
+ "meta": {
+  "video_id": "YkGKFphChQo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "41ª RPO 2024",
+  "data": "2024-11-05",
+  "formato": "presencial/híbrida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores (uma vaga na diretoria).",
+   "Pauta com 54 itens; bloco 3-54 aprovado; destacados 28, 48, 52, 53; retirados 6, 8, 14, 29.",
+   "Debate sobre prorrogação de vistas: questão de ordem de Mosna indeferida pelo DG, que se comprometeu a trazer revisão pontual do Regimento sobre celeridade."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:16:30",
+   "processo": "itens 3 a 54 (bloco), exceto destacados e retirados",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 41ª RPO (votos disponibilizados com a pauta); errata no item 7 (onde se lia aplicar a penalidade, leia-se manter a penalidade aplicada pela SFF em 1ª instância)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado; destacados 28, 48, 52 e 53; retirados 6, 8, 14 e 29.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco (com errata no item 7)",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:17:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:17:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:18:01",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:18:49",
+   "processo": "48500.001262/2023-05",
+   "interessado": "Light Serviços de Eletricidade S.A. (distribuidora, RJ)",
+   "assunto": "Revisão tarifária extraordinária (RTE) da Light para reavaliação dos limites regulatórios de perdas não técnicas da RTP 2022, após Consulta Pública 45/2023. Sustentação oral: Emerson Caçador Rubim (Light). Apresentação técnica da STR (Luiz Carlos). Procuradoria: parecer 53/2024 pela inadmissibilidade; despacho 607/2024 do procurador-geral admitindo exame como direito de petição, sem retroação.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA)",
+    "perdas não técnicas",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e, no mérito, negar provimento ao pedido de RTE",
+   "resumo_voto": "Sem distorção regulatória na RTP 2022; metodologia aplicada conforme PRORET; queda de mercado BT não justifica revisão; alterar parâmetros fora da RTP comprometeria segurança jurídica; mantidos os percentuais do ciclo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:03:06",
+     "confianca": "alta",
+     "justificativa": "nega provimento; segue STR e despacho 459: sem distorção regulatória, sem amparo para alterar perdas fora da RTP"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:14:45",
+     "confianca": "media",
+     "justificativa": "debate público ajudou a refletir; preservação da segurança jurídica e estabilidade dos processos tarifários; alterar dados da Light afetaria benchmark de outras distribuidoras"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:14:39",
+     "confianca": "media",
+     "justificativa": "processo tarifário tem rito próprio; empresa não recorreu na RTP; discorda do procurador-geral sobre direito de petição em processo tarifário; perdas: 6,7% da energia furtada no Brasil, problema multidisciplinar"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:14:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:15:11",
+   "processo": "48500.002991/2024-36",
+   "interessado": "Permissionárias Cerbranorte, Certaja, Certel e Coprel (cooperativas de distribuição)",
+   "assunto": "Autorização de sandbox tarifário «Estratégias para o mercado livre de energia» (comportamento do consumidor de baixa tensão frente à abertura do mercado; 3.150 unidades, opt-in). Apresentação técnica da STR (Gabriel de Jesus Azevedo Barja).",
+   "tema": [
+    "tarifas e revisão tarifária (sandbox tarifário)",
+    "comercialização (abertura de mercado)",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza o projeto, aprova resolução autorizativa, delega à STR publicar as tarifas experimentais e determina prestação periódica de informações ao projeto de governança.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:30:56",
+     "confianca": "alta",
+     "justificativa": "projeto de baixo custo, sem recurso tarifário, recomendado pela STR e pelo comitê de governança (nota 7,75)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:35:52",
+     "confianca": "media",
+     "justificativa": "pequenas distribuidoras próximas do consumidor; tema atual da abertura do mercado ao grupo B"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:35:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:35:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "1:37:42",
+   "processo": "48500.001574/2024-76",
+   "interessado": "Cantareira Transmissora de Energia S.A. (grupo Celeo)",
+   "assunto": "Requerimento de recomposição do equilíbrio econômico-financeiro do contrato de concessão 19/2014 (RAP adicional) por desvio de ~14 km de traçado causado por lei municipal de São João da Boa Vista. Sustentação oral: Ana Carolina Calil (Cantareira), que pediu também envio à Procuradoria. Sem manifestação da Procuradoria.",
+   "tema": [
+    "transmissão (RAP, equilíbrio econômico-financeiro)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Lei municipal integra o licenciamento ambiental, risco do empreendedor; não há desequilíbrio a recompor.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:50:28",
+     "confianca": "alta",
+     "justificativa": "lei municipal no âmbito do licenciamento ambiental é risco do concessionário"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:56:40",
+     "confianca": "media",
+     "justificativa": "RAP de leilão é blindada salvo excepcionalidades; não lembra de caso de revisão de RAP de leilão; licenciamento é risco do empreendedor; concorda que risco total integral não é cabível"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator, com ressalva de tese",
+     "ts": "1:54:18",
+     "confianca": "alta",
+     "justificativa": "no caso não houve desequilíbrio, mas discorda da tese de risco total do empreendedor: Lei 13.360 exige análise de excludentes; trará caso na semana seguinte",
+     "tom": "divergência de fundamento, cordial"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:56:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "48",
+   "ts": "1:57:43",
+   "processo": "48500.002898/2018-83",
+   "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, Macaé-RJ)",
+   "assunto": "Prorrogação do prazo de pedido de vista (Sandoval Feitosa) em requerimento de excludente de responsabilidade e alteração de cronograma da UTE Marlim Azul; destaque de Fernando Mosna com questão de ordem para limitar a uma prorrogação de vista.",
+   "tema": [
+    "institucional (pedido de vista, Regimento)",
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções (excludente de responsabilidade)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "prorrogação aprovada por unanimidade; questão de ordem indeferida pelo Diretor-Geral, com compromisso de revisão pontual do Regimento sobre celeridade processual",
+   "resumo_voto": "Na pauta, 14 de 54 itens eram prorrogações de vista; 30 processos em vista na agência (14 Sandoval, 9 Agnes, 5 Tili, 2 Mosna). DG indeferiu a questão de ordem e prometeu revisão do Regimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista (autor da vista), vota pela prorrogação",
+     "ts": "2:34:17",
+     "confianca": "alta",
+     "justificativa": "vista para examinar aplicação de noções do ACL a empreendimentos do ACR; parecer da procuradoria só saiu em set/2024; prorrogação de oito sessões suficiente para este caso"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (prorrogação), após questão de ordem indeferida",
+     "ts": "2:34:17",
+     "confianca": "media",
+     "justificativa": "destacou o item: propôs questão de ordem para permitir uma única prorrogação de vista (máx. 16 reuniões), citando fala do AGU Jorge Messias sobre processos 2-3 anos em vista; deu-se por satisfeito com compromisso de revisão pontual do Regimento"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "vota pela prorrogação, entendendo-a como a primeira",
+     "ts": "2:34:17",
+     "confianca": "media",
+     "justificativa": "apoiou a questão de ordem (16 sessões razoável, como no Judiciário/STF); voto pela prorrogação considerando-a primeira prorrogação; reavaliará caso a caso nas próximas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "vota pela prorrogação",
+     "ts": "2:34:17",
+     "confianca": "baixa",
+     "justificativa": "discordou de tratar o tema por questão de ordem: prazo razoável depende do tamanho do processo; tema para reunião administrativa/Regimento"
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "ts": "1:57:43",
+   "processo": "não identificado (RBSE)",
+   "interessado": "transmissoras (RBSE); citadas cartas da Abrate e outros",
+   "assunto": "Prorrogação do prazo de pedido de vista (Agnes da Costa) em processo da RBSE; destaque de Fernando Mosna, discutido em conjunto com o item 48.",
+   "tema": [
+    "institucional (pedido de vista)",
+    "transmissão (RBSE)"
+   ],
+   "relator": "não identificado",
+   "resultado": "prorrogação aprovada por unanimidade",
+   "resumo_voto": "Agnes justificou 5 meses de vista: prioridades (Rio Grande do Sul, revisões de transmissoras), novas cartas e parecer de Marçal Justen Filho apresentado em 4/11.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista (autora), vota pela prorrogação",
+     "ts": "2:34:40",
+     "confianca": "media",
+     "justificativa": "processo complexo; recebeu parecer novo em 4/11; 16 semanas não seriam suficientes; tema deve ir à reunião administrativa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vota pela prorrogação",
+     "ts": "2:34:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (prorrogação)",
+     "ts": "2:35:19",
+     "confianca": "baixa",
+     "justificativa": "mesma questão de ordem do item 48"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "vota pela prorrogação, como primeira prorrogação",
+     "ts": "2:34:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "53",
+   "ts": "1:57:43",
+   "processo": "não identificado (RBSE)",
+   "interessado": "transmissoras (RBSE)",
+   "assunto": "Prorrogação do prazo de pedido de vista (Agnes da Costa) em processo da RBSE; mesmo destaque e discussão do item 52.",
+   "tema": [
+    "institucional (pedido de vista)",
+    "transmissão (RBSE)"
+   ],
+   "relator": "não identificado",
+   "resultado": "prorrogação aprovada por unanimidade",
+   "resumo_voto": "Idem item 52.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista (autora), vota pela prorrogação",
+     "ts": "2:34:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vota pela prorrogação",
+     "ts": "2:34:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (prorrogação)",
+     "ts": "2:35:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "vota pela prorrogação, como primeira prorrogação",
+     "ts": "2:34:40",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "6",
+  "8",
+  "14",
+  "29"
+ ],
+ "limites_da_analise": [
+  "Data: cabeçalho indica 2024-11-06, mas o DG diz «quarta-feira dia 6 de novembro amanhã» e «ontem dia 4 de novembro»; usada 2024-11-05.",
+  "Números de processo transcritos da legenda automática; podem conter erros. Processos dos itens 52 e 53 (RBSE) não enunciados.",
+  "Nos itens 48/52/53 as três prorrogações foram votadas em conjunto; atribuição de quem disse cada «voto pela prorrogação» é inferida; Mosna não declarou voto explícito, mas o resultado foi proclamado unânime.",
+  "Votos de quem só acompanha têm ts aproximado; ordem de fala inferida.",
+  "Nomes de cooperativas (Cerbranorte, Certaja) corrigidos de forma provável da legenda."
+ ]
+}

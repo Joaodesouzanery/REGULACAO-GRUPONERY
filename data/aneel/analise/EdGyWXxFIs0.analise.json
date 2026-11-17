@@ -1,0 +1,57 @@
+{
+  "meta": {"video_id": "EdGyWXxFIs0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:19); ts de votos aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Extraordinária de 2024", "data": "2024-09-27", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Reunião extraordinária convocada às pressas por decisão judicial (Justiça Federal do Amazonas, prazo de 48 horas até 16h45 de 27/09/2024) sobre a Amazonas Energia, no contexto da MP 1232/2024.",
+      "Pauta com 2 itens; o item 2 (conversão de contratos em CER) foi chamado primeiro, teve vista em mesa da diretora Agnes da Costa e voltou ao fim da sessão.",
+      "Ambos os itens terminaram empatados 2 x 2 (Fernando Mosna e Ricardo Tili de um lado; Agnes da Costa e Sandoval Feitosa de outro): o Diretor-Geral declarou que não houve decisão em nenhum dos dois.",
+      "Sandoval Feitosa informou que a não decisão terá de ser ratificada na reunião pública ordinária seguinte (prazo de convocação inferior a 48 h) e que comunicaria a juíza federal do impasse.",
+      "No intervalo, o Diretor-Geral comentou o 2º leilão de transmissão de 2024 (relator Fernando Mosna): 3 lotes arrematados (Eng Brasil, Taesa, Cox Brasil), deságio médio de cerca de 48,89%."
+    ]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:19:06",
+      "processo": "48500.002095/2024-77",
+      "interessado": "Amazonas GT / Eletronorte / Amazonas Energia; produtores independentes (PIEs) de Manaus; UTE Aparecida; Cigás e Petrobras (contrato de gás); CCEE",
+      "assunto": "Resultado da Consulta Pública 22/2024: conversão, a critério da parte vendedora, dos contratos de compra e venda de energia dos agentes do art. 4º-C da Lei 12.111/2009 lastreados em térmicas com transporte de gás reembolsável pela CCC em contratos de energia de reserva (CER), nos termos da MP 1232/2024",
+      "tema": ["CDE e encargos setoriais (CCC)", "comercialização (CCEE, contratos)", "regulação normativa (consulta pública)", "Amazonas Energia / MP 1232"],
+      "relator": "Fernando Mosna",
+      "resultado": "sem decisão (empate 2 x 2), após vista em mesa",
+      "resumo_voto": "Relator aprova as minutas de CER divergindo da área técnica e da procuradoria em três pontos: só os CCVEs dos PIEs (excluída a UTE Aparecida, que tem CCEAR), exigência de termo de anuência da Cigás e da Petrobras como condição de eficácia, e vigência a partir da assinatura (não retroativa à MP). Agnes pediu vista em mesa para ouvir a procuradoria, que entendeu que a MP abrange também CCEAR e dispensa anuência de terceiros; Agnes então votou com a área técnica. Empate; sem decisão.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (mantém o voto)", "ts": "0:19:30", "justificativa": "UTE Aparecida fora do escopo da MP por ter CCEAR; contribuição da Cigás acolhida, exigindo anuência da Cigás e da Petrobras; CER vigente da assinatura; prazo de 45 dias da MP seria impossível", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista em mesa; depois diverge (vota com a área técnica)", "ts": "1:58:05", "justificativa": "queria manifestação da procuradoria sobre os pontos não tratados em parecer; após ouvi-la, segue área técnica e procuradoria (inclui Aparecida, sem anuência de terceiros, retroatividade)", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "4:42:26", "justificativa": "falante inferido", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge (vota em linha com a área técnica, com Agnes)", "ts": "4:42:30", "justificativa": "declara que não há convergência sobre vigência e anuência nas minutas, logo não há decisão", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:59:13",
+      "processo": "48500.004172/2019-86",
+      "interessado": "Amazonas Energia (distribuidora); pretensos controladores Futura Venture Capital Participações e FIP Infraestrutura Milão; Justiça Federal do Amazonas",
+      "assunto": "Decisão judicial (1ª Vara Federal do Amazonas) e resultado da Consulta Pública 21/2024: plano de transferência do controle societário da Amazonas Energia nos termos do art. 2º da MP 1232/2024",
+      "tema": ["distribuição (transferência de controle, sustentabilidade econômico-financeira)", "tarifas e flexibilizações regulatórias", "CDE e encargos setoriais (CCC)", "regulação normativa (consulta pública)", "institucional/judicialização"],
+      "relator": "Ricardo Tili",
+      "resultado": "sem decisão (empate 2 x 2)",
+      "resumo_voto": "Relator indefere o plano de transferência (não atende à MP 1232, conforme notas técnicas 167 e 188 e parecer 210 da procuradoria) e não acata o parecer de força executória, entendendo que decisão do desembargador afasta a mora; encerra a CP 21/2024. Agnes abre divergência: cumprir a decisão judicial aprovando o plano nos termos da proposta da proponente de 26/09 complementada em 27/09 (mais favorável ao consumidor) e não encerrar a CP 21/2024. Empate; o Diretor-Geral declarou que não havia o que proclamar.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, indefere o plano de transferência", "ts": "2:00:00", "justificativa": "plano não atende aos requisitos da MP 1232 (equacionamento da dívida, sustentabilidade econômico-financeira); decisão judicial precária retira o juízo de conveniência da ANEEL; nova proposta não foi analisada", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "diverge: aprova o plano conforme proposta de 26-27/09 e não encerra a CP 21/2024", "ts": "3:57:57", "justificativa": "sem ato judicial que suspenda a ordem, não cabe à agência rever decisão judicial; cumpre-a com a proposta mais favorável ao consumidor; expressa profundo desacordo com a intervenção judicial", "tom": "desconforto declarado («sabor amargo»; «extremamente desrespeitada»)", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "4:31:00", "justificativa": "entende, com o relator, que a decisão do desembargador tem efeito suspensivo; falante inferido", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência de Agnes da Costa", "ts": "4:31:12", "justificativa": "parecer de força executória opina pelo cumprimento da decisão da 1ª Vara; nova proposta aparentemente melhor, embora não analisada pelas áreas técnicas", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: números de processo (48500.002095/2024-77 e 48500.004172/2019-86), nomes de empresas (Futura Venture, FIP Milão, Cox Brasil) e valores podem conter erros.",
+    "Diretores presentes inferidos pelo placar 2 x 2; Gentil Nogueira e Ludimila Lima não aparecem votando (o cabeçalho do .md lista nomes do config, não a presença real).",
+    "Atribuição de falantes nos votos finais é inferida: «Eu voto com o relator» (4:31:00, item 1) atribuído a Fernando Mosna e «eu acompanho o voto do relator» (4:42:26, item 2) a Ricardo Tili.",
+    "Agnes da Costa, ao ler o voto, diz «27 de agosto» para a data da reunião; a data correta é 27/09/2024."
+  ]
+}

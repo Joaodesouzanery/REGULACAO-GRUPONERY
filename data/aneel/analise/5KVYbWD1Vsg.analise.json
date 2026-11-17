@@ -1,0 +1,39 @@
+{
+  "meta": {"video_id": "5KVYbWD1Vsg", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "37ª Reunião Pública Ordinária de 2024", "data": "2024-10-08", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores; o quarto diretor não é nomeado na legenda.", "Pauta com 40 itens, todos de bloco; item 5 retirado de pauta; item 15 destacado para sustentação oral.", "Ata da 36ª RPO (01/10/2024) aprovada.", "Informes: Olimpíada Nacional de Eficiência Energética com mais de 255 mil inscritos; Fernando Mosna registra a regulamentação conduzida por Agnes."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:09:47", "processo": "", "interessado": "diversos",
+      "assunto": "Itens remanescentes do bloco da 37ª RPO de 2024 (pauta de 40 itens, exceto o 5, retirado, e o 15, destacado)",
+      "tema": ["bloco de pauta"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens de bloco aprovados sem discussão.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "0:09:49", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha", "ts": "0:09:52", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova", "ts": "0:09:55", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova", "ts": "0:09:58", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "15", "ts": "0:10:20", "processo": "48500.000165/2024-64", "interessado": "Novo Estado Transmissora de Energia S.A. (transmissora)",
+      "assunto": "Requerimento administrativo de recomposição do equilíbrio econômico-financeiro do contrato de concessão 3/2018 por custos extraordinários atribuídos à pandemia (pleito de cerca de 90 milhões atualizados, ou prorrogação do prazo da concessão)",
+      "tema": ["transmissão", "recursos administrativos", "equilíbrio econômico-financeiro"],
+      "relator": "Agnes da Costa", "resultado": "negado provimento, por unanimidade",
+      "resumo_voto": "Sustentação oral de Valéria de Souza Rosa (Novo Estado). Área técnica: pandemia poderia ser excludente de responsabilidade só por recomposição de prazo (Lei 13.360); empreendimento entrou antes do prazo e a receita contratada não está desequilibrada. Voto: conhecer e negar provimento.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, conhece e nega provimento", "ts": "0:24:25", "justificativa": "segue a instrução técnica: contrato equilibrado; receita contratada não depende só do capex", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:27:20", "justificativa": "pediu esclarecimento da Superintendência sobre o argumento da pandemia antes de votar", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:27:25", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:27:30", "justificativa": "proclamou o resultado", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["item 5 (não identificado na legenda)"],
+  "limites_da_analise": ["Quarto diretor presente não nomeado na legenda; atribuição de votos de seguidores por ordem é incerta.", "Quem pediu esclarecimento à área técnica no item 15 é inferido (Fernando Mosna); a legenda não nomeia.", "Número do processo e valores vêm da legenda automática."]
+}

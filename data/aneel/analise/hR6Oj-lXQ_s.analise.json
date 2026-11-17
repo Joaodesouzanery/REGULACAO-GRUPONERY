@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "hR6Oj-lXQ_s", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "31", "data": "2024-08-27", "formato": "presencial (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 2 da 31ª Reunião Pública Ordinária de 2024; houve inversão de pauta (item 2 deliberado antes do item C/3).",
+      "Item da Amazonas Energia (MP 1232): relator Ricardo Tili fez longo desabafo sobre ação judicial da distribuidora (distribuição quatro vezes em minutos, pedido de decisão monocrática do DG, alegação de inércia da ANEEL); procurador Raul relatou pedido de litigância de má-fé. Aprovado por unanimidade com ajustes de Sandoval (comprovação via CCEE) e Agnes (retirar «prazo indeterminado»).",
+      "Item UTE TermoCeará (Petrobras): voto-vista de Agnes da Costa pela insubsistência do voto do ex-diretor Hélvio Guerra e arquivamento; preliminar de fato novo rejeitada; no mérito prevaleceu por maioria o voto do relator Hélvio Guerra (rescisão do CCEAR e multa), com Fernando Mosna e Ricardo Tili; vencidos Agnes da Costa e Sandoval Feitosa."
+    ]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:01:19",
+      "processo": "48500.002098/2024-19 (número incerto)",
+      "interessado": "Amazonas Energia (distribuidora); CCEE; Eletronorte",
+      "assunto": "Flexibilização temporária de parâmetros de eficiência para fins de reembolso da CCC (MP 1232/2024): custos operacionais flexibilizados e afastamento do fator de corte de perdas",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária", "fiscalização e sanções"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade, com ajustes: homologar custos operacionais flexibilizados (parcela mensal de cerca de R$ 39 milhões) via CCC por 120 dias a partir de 26/05/2024 ou até transferência do controle; CCEE desconsidera fator de corte de perdas e parâmetros de eficiência por 120 dias desde a competência de abril/2024, condicionado à comprovação de pagamento das notas fiscais de compra de energia (considerando o Despacho 3418/2023); suspender o fator de corte nos termos da legislação vigente a partir de junho/2024; flexibilizações constarão de eventual ato de intervenção.",
+      "unanime": true,
+      "resumo_voto": "Relator homologa repasse e condiciona reembolsos à comprovação de pagamento; critica a ação judicial da Amazonas Energia. Sandoval pede que a comprovação seja feita na CCEE (com relatório à fiscalização); Agnes pede trocar «prazo indeterminado» por «nos termos da legislação vigente». Ajustes incorporados.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:44:30", "justificativa": "Aplicação objetiva da MP 1232; reembolso tem natureza de ressarcimento e só deve ocorrer com prova de pagamento, para evitar má destinação de recursos setoriais; defende a ANEEL contra alegação de inércia (processo 22 dias com o relator).", "tom": "enfático, em tom de desabafo (inferência)", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (com ajuste no item 2)", "ts": "1:02:16", "justificativa": "Histórico da concessão do Amazonas; decisão colegiada, não monocrática; comprovação dos pagamentos deve ser checada pela CCEE, gestora dos encargos.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (com ajuste no item 3)", "ts": "1:02:14", "justificativa": "Retirar «por prazo indeterminado»: MP vale 120 dias; usar «nos termos da legislação vigente».", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:02:16", "justificativa": "Sem manifestação de mérito registrada.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3 (C)", "ts": "1:02:45",
+      "processo": "48500.003395/2007-72 (número incerto)",
+      "interessado": "Petrobras (UTE TermoCeará, 220 MW); distribuidoras compradoras; CCEE; ONS",
+      "assunto": "Descumprimento de cláusulas dos CCEAR pela UTE TermoCeará (indisponibilidade): rescisão contratual e multa rescisória; voto-vista",
+      "tema": ["fiscalização e sanções", "comercialização (CCEE, contratos)", "outorgas de geração (térmica)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Preliminar: colegiado entendeu não haver fato novo, mantendo o voto do relator. Mérito: por maioria, rescisão dos CCEAR (encerramento em 31/10/2023), multa rescisória da subcláusula 11.1, efeitos na CCEE a partir de 01/11/2023 e reversão da multa à modicidade tarifária. Vencidos Agnes da Costa e Sandoval Feitosa.",
+      "unanime": false,
+      "resumo_voto": "Voto-vista de Agnes da Costa: declarar insubsistente o voto do ex-diretor Hélvio Guerra (fato novo: melhora de desempenho atestada pela SFT e ONS) e arquivar a rescisão por conveniência e oportunidade (contrato termina 31/12/2024, período seco, confiabilidade). Fernando Mosna e Ricardo Tili divergem: não há fato novo e o contrato deve ser cumprido.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova rescisão e multa (voto proferido na 36ª RPO de 03/10/2023, subsistente)", "ts": "1:03:30", "justificativa": "Indisponibilidade por três anos consecutivos caracteriza a cláusula 10 do CCEAR; rescisão evita ônus aos usuários; interessada não trouxe elementos de recuperação.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: insubsistência do voto do relator e arquivamento; vencida", "ts": "1:17:43", "justificativa": "Desempenho recente melhorou (SFT maio/2024, ONS julho/2024); rescisão a 4 meses do fim do contrato, no período seco, reduziria confiabilidade e exigiria cálculo de CVU; tratamento isonômico com a UTE Bahia I, rescindida sem multa.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge do voto-vista; não há fato novo; acompanha o relator", "ts": "2:08:31", "justificativa": "Desempenho posterior é «curiosidade», não fato novo; a usina recebeu receita fixa sem estar disponível (inclusive sem combustível em 2018 e 2021); plano de resultado descumprido (56,4% contra meta de 85,1%); sente-se vinculado ao contrato. Analogia com atleta olímpico.", "tom": "argumentativo, detalhado (inferência)", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (não há fato novo)", "ts": "2:08:33", "justificativa": "Argumento de melhora já constava da carta da Petrobras de 27/09/2023 e foi apreciado pelo relator; fato é pretérito, a fotografia preenche os requisitos objetivos de rescisão; voto do relator deve ser respeitado.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista (manter os contratos); vencido", "ts": "2:08:35", "justificativa": "Acompanha Agnes no mérito para manter os contratos; na preliminar declarou inexistência de fato novo (ts aproximado 2:08:16); defendeu que a decisão sobre fato novo é do colegiado.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: números de processo e valores podem estar errados (valor mensal citado como R$ 39.643.386,86 na leitura e «aproximado de R$ 39 milhões» na proclamação).",
+    "Só há um marcador de tempo no .md; ts obtidos do .json da transcrição; ts de quem só acompanha são aproximados.",
+    "Atribuição dos votos na preliminar de fato novo (três manifestações seguidas: Fernando, e provavelmente Ricardo Tili e Sandoval Feitosa) e no mérito é inferida pela ordem das falas.",
+    "Hélvio Guerra já não era diretor; seu voto de 03/10/2023 foi mantido como subsistente. Gentil Nogueira aparece na lista de falantes inferidos do cabeçalho, mas é citado apenas como ex-superintendente (secretário no MME), não como diretor presente.",
+    "Parte 1 da 31ª RPO (manhã) está em outro vídeo; o item A/1 não aparece aqui."
+  ]
+}

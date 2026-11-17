@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "zoLJ6OGj0eE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Reunião Pública Extraordinária de 2024",
+    "data": "2024-09-27",
+    "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Reunião extraordinária convocada por força de decisão judicial da 1ª Vara Federal do Amazonas (prazo de 48 horas) sobre a Amazonas Energia; dois itens, sem pedido de sustentação oral.",
+      "Ordem: item 2 (conversão de contratos em CER, MP 1232/2024) foi chamado primeiro; Agnes da Costa pediu vista em mesa; depois item 1 (transferência de controle da Amazonas Energia); retorno ao item 2 no fim.",
+      "Nos dois itens houve empate 2 x 2 (Ricardo Tili e Fernando Mosna de um lado; Agnes da Costa e Sandoval Feitosa do outro) e o Diretor-Geral declarou que não houve decisão; disse que a não decisão teria de ser ratificada na reunião ordinária seguinte e que comunicaria a juíza federal.",
+      "No encerramento o Diretor-Geral comentou o 2º leilão de transmissão de 2024 realizado no mesmo dia (relator Fernando Mosna; três lotes arrematados).",
+      "Encerrada por volta de 4:26:13 do vídeo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:01:55",
+      "processo": "48500.002095/2024-77",
+      "interessado": "Eletronorte (parte vendedora); Amazonas Energia; CCEE; produtores independentes (UTEs Jaraqui, Tambaqui, Cristiano Rocha, Manauara, Ponta Negra) e UTE Aparecida",
+      "assunto": "Resultado da Consulta Pública 22/2024: conversão, a critério da parte vendedora, de contratos de compra e venda de energia de agentes do art. 4º-C da Lei 12.111/2009 lastreados em térmicas com gasoduto reembolsável pela CCC em contratos de energia de reserva (CER), conforme a MP 1232/2024",
+      "tema": ["CDE e encargos setoriais (CCC)", "comercialização (CCEE, contratos)", "regulação normativa (consulta pública)"],
+      "relator": "Fernando Mosna",
+      "resultado": "sem decisão (empate 2 x 2); antes houve pedido de vista em mesa de Agnes da Costa",
+      "resumo_voto": "Relator acompanha quase integralmente a área técnica, mas diverge em três pontos: aprova as minutas de CER só para os cinco CCVEs (UTEs Jaraqui, Tambaqui, Cristiano Rocha, Manauara e Ponta Negra), não converte o CCEAR da UTE Aparecida, fixa a eficácia do CER do primeiro período na data de assinatura (não retroativa a junho) e condiciona a eficácia à anuência de Petrobras/companhia de gás. Agnes pediu vista em mesa para ouvir a Procuradoria, que entendeu que a MP abrange também CCEARs e dispensa anuência de terceiros; Agnes votou com a área técnica e Sandoval a acompanhou.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (minutas de CER só para os 5 CCVEs; não converte UTE Aparecida; eficácia na assinatura; anuência como condição)", "ts": "1:11:38", "justificativa": "Interpretação autêntica e finalística da MP 1232: o objetivo era reduzir a sobrecontratação convertendo os cinco CCVEs; converter Aparecida poderia deixar a distribuidora subcontratada; não consultou a Procuradoria pela exiguidade do prazo. Manteve o voto após a vista.", "tom": "técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista (em mesa); depois diverge: vota conforme a área técnica", "ts": "1:39:06", "justificativa": "Reclamou de só conhecer os pontos divergentes na sessão; pediu manifestação da Procuradoria sobre os pontos não analisados; vota com a área técnica (inclui Aparecida, retroatividade, sem condição de anuência).", "tom": "crítico ao procedimento", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "4:23:21", "justificativa": "Na retomada, diretor diz 'eu acompanho o voto do relator'; falante inferido por exclusão (empate 2 x 2).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge: acompanha Agnes da Costa (área técnica)", "ts": "4:23:40", "justificativa": "Declara não haver decisão por falta de convergência sobre a abrangência das usinas, a data de vigência do CER e a anuência.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:40:58",
+      "processo": "48500.000417/2019-86",
+      "interessado": "Amazonas Energia; Oliveira Energia; Futura Venture Capital Participações; FIP Milão (pretensos controladores)",
+      "assunto": "Decisão judicial (1ª Vara Federal do Amazonas) e resultado da Consulta Pública 21/2024: plano de transferência do controle societário da Amazonas Energia nos termos do art. 2º da MP 1232/2024",
+      "tema": ["institucional/judicialização", "distribuição (transferência de controle, caducidade)", "CDE e encargos setoriais (CCC)", "regulação normativa (consulta pública)"],
+      "relator": "Ricardo Tili",
+      "resultado": "sem decisão (empate 2 x 2)",
+      "resumo_voto": "Relator, apoiado na nota técnica 188 e no parecer 210 e entendendo prevalecer o efeito suspensivo do TRF1, indefere o plano apresentado (não atende a MP 1232) e aprova o plano nos estritos termos da área técnica, facultando assinatura do aditivo em 24 horas. Agnes abriu divergência para cumprir a decisão judicial (parecer de força executória) aprovando a proposta mais vantajosa apresentada pela proponente em 26/27 de setembro e sem encerrar a CP 21/2024; Sandoval a acompanhou; Fernando acompanhou o relator.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, indefere o plano da proponente e aprova o plano nos termos da área técnica", "ts": "2:58:37", "justificativa": "Plano não cumpre os contornos legais da MP 1232; decisão do TRF1 afasta a mora; cumprir a decisão da 1ª Vara exigiria endereçar reversibilidade e 15 anos sem fiscalização; empresa deveria desistir da ação.", "tom": "enfático em defesa da autoridade regulatória", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "4:12:00", "justificativa": "Concorda integralmente com a linha do relator (decisão do TRF1); critica a empresa por alterar a proposta várias vezes e não ver como aprovar em horas proposta não analisada.", "tom": "crítico ao agente", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "diverge (voto divergente): cumprir a decisão judicial aprovando a proposta de 26/09 complementada em 27/09 e não encerrar a CP 21/2024", "ts": "3:38:55", "justificativa": "Não cabe à agência rever decisão judicial; entre as propostas, a nova é mais vantajosa (aporte de capital firme, ônus à CCC 1,79 bi menor); expressa desacordo com a intervenção judicial; mantém a CP aberta caso a decisão caia.", "tom": "desconfortável com a decisão judicial", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge: acompanha o voto divergente de Agnes da Costa", "ts": "4:12:10", "justificativa": "Considera legítima a interpretação de cumprir a decisão com o parecer de força executória; preocupa-se com a possibilidade de ficar sem operador de distribuição no Amazonas.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Transcrição sem marcadores de tempo intermediários no .md; ts obtidos do .json da legenda por busca de frases; ts dos votos de quem acompanha são aproximados.",
+    "Na votação final dos dois itens os falantes não se identificam claramente; atribuição de Ricardo Tili e Fernando Mosna como 'acompanha o relator' feita por contexto (empate 2 x 2 declarado e menções 'no voto que eu tô acompanhando o diretor Ricardo').",
+    "O cabeçalho lista Gentil Nogueira e Ludimila Lima entre os falantes, mas não há votos deles; 'Ludmila' é citada como servidora/superintendente. Considerados não votantes.",
+    "Números de processo, valores (bilhões) e nomes de empresas vêm de legenda automática e podem conter erros."
+  ]
+}

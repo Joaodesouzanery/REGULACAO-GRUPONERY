@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "OCalvLarh-Y", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "22ª Reunião Pública Ordinária de 2024", "data": "2024-06-25", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (substituindo o Diretor-Geral)",
+  "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": ["Sandoval Feitosa (férias)"],
+  "observacoes": ["Quórum de três diretores; Procurador-Geral Raul Lisboa e Secretário-Geral Daniel Dana.", "Pauta com 22 itens; itens 3 a 22 em bloco, item 5 destacado; retirados de pauta os itens 10, 16 e 20.", "Sustentações orais nos itens 1 (Eletrobras) e 5 (Mantiqueira Transmissora).", "Todas as deliberações por unanimidade.", "Antes do voto do item 1, servidor da STR leu mensagem da campanha de valorização das agências reguladoras (mesa de negociação com o MGI em 11/07/2024)."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:03:44", "processo": "", "interessado": "diversos", "assunto": "Itens 3 a 22 da pauta em bloco (exceto item 5 destacado e itens 10, 16 e 20 retirados)", "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Votos e atos disponibilizados previamente com a pauta; aprovados em bloco.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:03:57", "justificativa": "Aprova os itens do bloco.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:03:57", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:03:57", "justificativa": "Aprova os itens do bloco.", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:04:26", "processo": "48500.?/2022-23 (número incerto na legenda)", "interessado": "transmissoras (sustentação oral de Rafael Tasque Carvalho, Eletrobras)", "assunto": "Resultado da Consulta Pública 31/2023: revisão dos submódulos 9.1 e 9.2 do PRORET (revisão periódica da RAP das transmissoras), custos operacionais regulatórios das transmissoras prorrogadas (Lei 12.783/2013)", "tema": ["transmissão (RAP)", "tarifas e revisão tarifária", "regulação normativa (consulta pública)", "custos operacionais / benchmarking"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Emite resolução normativa aprovando a revisão dos submódulos 9.1 e 9.2; condenações trabalhistas excluídas tanto do cálculo da eficiência quanto da base de aplicação, alinhado à distribuição (CP 62/2020); eficiência de referência pela mediana (84,62%); trajetória limitada a 5% ao ano; efeito estimado de -2,15% na RAP (cerca de R$ 361 milhões). Rediscussão das condenações só após segregação no Manual de Contabilidade do Setor Elétrico. Eletrobras pediu apurar e reconhecer condenações (cerca de R$ 180 milhões no seu caso); pleito não acolhido.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:22:00", "justificativa": "Se o custo procede deve ser aplicado integralmente, caso contrário desconsiderado; coerência entre transmissão e distribuição; regulação deve incentivar cumprimento da legislação trabalhista; contabilização mistura principal, juros e multas.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:53:28", "justificativa": "Reconhecer custos de ações trabalhistas sinalizaria incentivo ao não pagamento de direito trabalhista; manter o mesmo entendimento usado para as distribuidoras.", "tom": "concordante, com comentário sobre a sustentação oral", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:54:31", "justificativa": "Vota com a relatora.", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "0:55:04", "processo": "48500.008300/2022-46", "interessado": "ABRADEE (distribuidoras); citada Enel Rio", "assunto": "Pedidos de medida cautelar da ABRADEE: suspensão da REN 948/2021 quanto ao critério de eficiência econômico-financeira de 2023 e das cláusulas contratuais correspondentes (prazo de aporte de capital) até decisão de mérito", "tema": ["distribuição", "recursos administrativos (cautelar)", "sustentabilidade econômico-financeira das concessões", "fiscalização (caducidade)"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade (cautelar concedida)", "resumo_voto": "Concede cautelar suspendendo o prazo de aporte de capital (apuração de 2022 e 2023) até o mérito do pedido de reconsideração ao Despacho 3478/2022 e da cautelar do Despacho 1475/2023 (Enel Rio); encaminha o requerimento à SFF para mérito. Fundamento: incerteza sobre o valor do aporte (fumaça do bom direito) e risco de aportes sobredimensionados (perigo da demora).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:56:00", "justificativa": "Prejudicialidade entre o mérito da reconsideração e o valor do aporte; evitar aportes que possam se mostrar sobredimensionados.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:29:00", "justificativa": "Alinha-se, mas considera perigoso o argumento da ABRADEE de aplicar a resolução posterior em lugar das cláusulas contratuais (pacta sunt servanda); relaciona com o caso Enel Rio, de sua relatoria, e com os novos contratos de concessão flexíveis.", "tom": "concordante com ressalva de mérito", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:29:30", "justificativa": "Vota com o relator.", "confianca": "media"}
+   ]},
+  {"id": "5", "ts": "1:31:40", "processo": "48500.008763/2022-?? (dígitos incertos)", "interessado": "Mantiqueira Transmissora de Energia S.A. (sustentação oral de Vítor Sarmento de Melo)", "assunto": "Recurso contra o Despacho SRT 91/2023 que manteve a negativa do ONS de emitir Termos de Liberação de Receita (TLR) para funções de transmissão do contrato de concessão 5/2016 (seccionamentos pendentes)", "tema": ["transmissão (RAP, TLR)", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "recurso conhecido e não provido, por unanimidade", "resumo_voto": "Seccionamentos não implantados são pendência impeditiva própria da transmissora, não sistêmica; segue precedente do Despacho 1819/2024; riscos de obra alocados à transmissora. A recorrente alegava que o contrato prevê entrada em operação independente das demais instalações.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento", "ts": "1:45:00", "justificativa": "Pendência impeditiva própria caracterizada objetivamente; caracterização sistêmica irrelevante; gestão da obra é obrigação do empreendedor.", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:54:05", "justificativa": "Vota com a relatora.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:54:05", "justificativa": "Acompanha o voto da relatora.", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": ["item 10", "item 16", "item 20"],
+ "limites_da_analise": ["Legenda automática; transcrição sem marcadores de tempo intermediários; ts de votos aproximados via busca no .json.", "Número do processo do item 1 e dígitos finais do item 5 incertos na legenda.", "Atribuição dos votos de seguidores (Tili/Mosna) inferida pela ordem das falas; no item 5 a ordem não é clara.", "Itens do bloco (3 a 22) não detalhados na transmissão."]
+}

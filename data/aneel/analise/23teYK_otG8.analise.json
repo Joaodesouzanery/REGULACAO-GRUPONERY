@@ -1,0 +1,75 @@
+{
+  "meta": {"video_id": "23teYK_otG8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "25", "data": "2024-07-16", "formato": "presencial (parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); na parte final Agnes da Costa conduz como diretora-geral substituta",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da 25ª Reunião Pública Ordinária; pauta invertida, começando pelo item 9.", "Sandoval Feitosa deixa a sessão após o item dos recursos das permissionárias (outro compromisso); declarou acompanhar o reajuste da Eletrocar/Demei; o item 6 (São Martinho) fica pendente do voto dele.", "Item 9 (Petrobras, UTE Nova Piratininga): Sandoval pede vista. Item 4 (Minha Casa Minha Vida) retirado de pauta pela relatora Agnes."]
+  },
+  "itens": [
+    {"id": "9", "ts": "0:00:17", "processo": "48500.007803/2022-02 (número incerto)", "interessado": "Petrobras (UTE Nova Piratininga)",
+     "assunto": "Fiscalização dos custos incorridos pela Petrobras na UTE Nova Piratininga entre 31/07 e 20/12/2021 (Despacho 1199/2022)",
+     "tema": ["fiscalização e sanções", "outorgas de geração (térmica)", "CDE e encargos setoriais"], "relator": "Ricardo Tili",
+     "resultado": "pedido de vista de Sandoval Feitosa; deliberação suspensa",
+     "resumo_voto": "Relator propôs aplicar a norma recém-aprovada; Fernando Mosna e Agnes da Costa votaram (em sessão anterior) pela glosa dos custos não comprovados. Sandoval pede vista para que a Petrobras apresente metodologia mínima de aferição dos custos até a semana seguinte.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "0:04:48", "justificativa": "Custos não comprovados deveriam ser glosados, mas não reconhecer custos de combustível e transporte de uma térmica não parece adequado; resiste a aplicar retroativamente norma aprovada hoje; pede que Petrobras e áreas técnicas tragam proposta mínima factível.", "confianca": "alta"},
+      {"diretor": "Ricardo Tili", "voto": "relator, aprova (proposta alternativa; voto em sessão anterior, não acompanhado)", "ts": "0:00:17", "justificativa": "Segundo Sandoval, propôs implementar a norma aprovada para aferir os custos.", "confianca": "media"},
+      {"diretor": "Fernando Mosna", "voto": "diverge (voto em sessão anterior): glosa dos custos não comprovados", "ts": "0:04:30", "justificativa": "Relatado por Sandoval: custos não comprovados devem ser glosados.", "confianca": "media"},
+      {"diretor": "Agnes da Costa", "voto": "diverge (voto em sessão anterior): glosa dos custos não comprovados", "ts": "0:04:30", "justificativa": "Relatado por Sandoval: mesmo entendimento de Fernando Mosna.", "confianca": "media"}
+     ]},
+    {"id": "4", "ts": "0:05:30", "processo": "48500.003729/2023-28 (número incerto)", "interessado": "Programa Minha Casa Minha Vida",
+     "assunto": "Resultado parcial da Consulta Pública 3/2024 sobre regulamentação do Programa Minha Casa Minha Vida (Lei 14.620/2023)",
+     "tema": ["regulação normativa"], "relator": "Agnes da Costa",
+     "resultado": "retirado de pauta pela relatora",
+     "resumo_voto": "Voltou à pauta faltando o voto de Sandoval; relatora retira para construir proposta técnica de convergência sobre a inversão de fluxo, a partir de contribuição de Fernando Mosna.",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "retira de pauta", "ts": "0:06:03", "justificativa": "O ponto de maior divergência é a inversão de fluxo; busca proposta técnica que permita convergência.", "confianca": "alta"}
+     ]},
+    {"id": "5", "ts": "0:06:09", "processo": "48500.000380/2017-24", "interessado": "Infracoop e permissionárias (Ceriluz, Certel, Coopernorte, Cooperluz e outras; nomes incertos)",
+     "assunto": "Recursos administrativos contra o Despacho STR 760/2024, que fixou os limites de Parcela B (teto) das permissionárias para 2024",
+     "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)", "CDE e encargos setoriais", "recursos administrativos"], "relator": "Fernando Mosna",
+     "resultado": "unânime: conhecer e dar provimento; STR recalcula Parcela B teto 2024 considerando energia compensada só a partir de jan/2023; revisão do submódulo 8.4 do PRORET na agenda regulatória",
+     "resumo_voto": "Sustentação oral de Tainá (OCB/Infracoop) e vídeo de Diego Bof (consultoria). Relator discorda da área técnica: estimar mercado compensado de 2022 contraria o PRORET 8.4 e a Lei 14.300; investimento não é critério da Parcela B das permissionárias; impacto de cerca de R$ 81 milhões (5,36%) nas 52 permissionárias.",
+     "votos": [
+      {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:58:00", "justificativa": "Ônus da redução de mercado foi suportado pelas permissionárias desde 2016; benefício do custeio pela CDE deve ir a elas; ajuste da STR quebra a correspondência com a Parcela B de 2023 e vincula indevidamente a investimento.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:26:53", "justificativa": "Questionou a leitura do art. 22 e o efeito sobre a CDE; tende a concordar pela parte formal: a norma não previu a adaptação.", "confianca": "media"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:26:55", "justificativa": "Pontos que poderiam ser interpretados de outra forma diante da ausência de comando legal explícito; acompanha parte da motivação.", "confianca": "media"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:26:58", "justificativa": "Acompanha e proclama o resultado.", "confianca": "alta"}
+     ]},
+    {"id": "6", "ts": "1:27:49", "processo": "48500.000621/2021-11; 48500.004099/2006-1 (números incertos)", "interessado": "São Martinho S.A. (UTE Boa Vista e UTE São Martinho Boa Vista)",
+     "assunto": "Pedido de reconsideração contra o Despacho 1622/2022 (interligação elétrica entre as UTEs Boa Vista e São Martinho Boa Vista)",
+     "tema": ["outorgas de geração (térmica)", "comercialização (CCEE)", "recursos administrativos", "transmissão"], "relator": "Ricardo Tili",
+     "resultado": "pendente: relator dá provimento parcial, Agnes nega provimento, Fernando acompanha o relator; aguarda voto de Sandoval Feitosa na próxima reunião",
+     "resumo_voto": "Sustentação oral de Ana Beatriz de Souza (São Martinho). Relator: revogar itens 1.d e 1.f e reformar 1.e para que só a energia injetada na rede conte para o limite de 30 MW do desconto na TUST/TUSD (precedente Despacho 2163/2013).",
+     "votos": [
+      {"diretor": "Ricardo Tili", "voto": "relator, aprova (provimento parcial)", "ts": "1:50:00", "justificativa": "Linha de interesse restrito apenas conecta usinas para abastecer caldeira compartilhada; energia deve ser medida na fronteira; não cabe rateio de perdas da rede básica; aplica precedente do próprio grupo.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "diverge: conhece e nega provimento, mantendo itens 1.e e 1.f do Despacho 1622/2022", "ts": "2:04:08", "justificativa": "Precedentes mais recentes (2018, 2021, 2022) seguem a área técnica; sem medição entre as usinas não se sabe se uma se beneficia da conexão da outra; preocupação com fracionamento para o limite do desconto.", "confianca": "alta"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:04:29", "justificativa": "Eu voto com o relator.", "confianca": "media"}
+     ]},
+    {"id": "2", "ts": "2:04:42", "processo": "48500.005917/2023-91 (número incerto)", "interessado": "Eletrocar, Demei, Nova Palma, Hidropan, Mux Energia",
+     "assunto": "Reajuste tarifário anual de distribuidoras de menor porte (retorno do item após Eletrocar e Demei retirarem pleito sobre outras receitas)",
+     "tema": ["tarifas e revisão tarifária", "distribuição"], "relator": "não identificado",
+     "resultado": "unânime: homologa reajustes a partir de 22/07/2024 (Eletrocar -8,24%; Demei -6,76%) e prorroga tarifas da Mux Energia até 20/08/2024",
+     "resumo_voto": "Com a retirada do pleito pelas distribuidoras, o relator acompanha integralmente a área técnica. Sandoval, ausente, havia sinalizado acompanhar (4 votos).",
+     "votos": [
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:08:40", "justificativa": "Acompanha o voto do relator.", "confianca": "media"},
+      {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:08:42", "justificativa": "Acompanha o voto do relator.", "confianca": "baixa"},
+      {"diretor": "Fernando Mosna", "voto": "relator, aprova (provável relator)", "ts": "2:04:42", "justificativa": "Voto acompanha integralmente a instrução técnica após retirada do pleito.", "confianca": "baixa"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (sinalizado antes de sair)", "ts": "2:09:00", "justificativa": "Em outro compromisso; registrado que acompanha o entendimento.", "confianca": "media"}
+     ]},
+    {"id": "16", "ts": "2:10:12", "processo": "48500.005756/2021-73; 48500.004819/1999-36", "interessado": "Usina Bazan S.A. e Usina Bela Vista S.A.",
+     "assunto": "Pedido de reconsideração contra o Despacho 1539/2024 (indeferiu adequação dos atos de outorga das UTEs Bela Vista e Bazan como novas usinas e alteração de cronograma)",
+     "tema": ["outorgas de geração (térmica)", "leilões", "recursos administrativos"], "relator": "Ricardo Tili",
+     "resultado": "unânime: conhecer e negar provimento",
+     "resumo_voto": "Sustentação oral de Ana Beatriz de Souza. Sem fatos novos; risco do empreendedor que participou do leilão como ampliação; vedação no edital e contrato; manifestação anterior da procuradoria pela impossibilidade jurídica.",
+     "votos": [
+      {"diretor": "Ricardo Tili", "voto": "relator, aprova (nega provimento)", "ts": "2:17:00", "justificativa": "Não foram apresentados fatos novos; leilão vedava tratar como energia nova; ao fim da outorga a usina deverá pedir nova outorga, sujeita a perder desconto.", "confianca": "alta"},
+      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:20:52", "justificativa": "Eu voto com o relator.", "confianca": "media"},
+      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:20:54", "justificativa": "Eu voto com o relator.", "confianca": "media"}
+     ]}
+  ],
+  "retirados": ["Item 4 (Consulta Pública 3/2024, Minha Casa Minha Vida), retirado pela relatora Agnes da Costa"],
+  "limites_da_analise": ["Transcrição com um só marcador de tempo; ts obtidos do JSON da legenda, aproximados para votos de seguidores.", "Números de processo e nomes de cooperativas vêm da legenda automática e podem estar errados.", "Item 2: relator não identificado com segurança (provavelmente Fernando Mosna, que lê o voto com Agnes presidindo); atribuição de quem acompanha é inferida.", "Item 5 chamado 'item C' na legenda (provavelmente item 5).", "Item 9: votos de Ricardo, Fernando e Agnes foram dados em sessão anterior; aqui só relatados por Sandoval.", "Item 6 sem resultado: depende do voto de Sandoval."]
+}

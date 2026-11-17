@@ -1,0 +1,83 @@
+{
+  "meta": {"video_id": "RyoDhRqXh3A", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "45ª Reunião Pública Ordinária de 2024 (Parte 1)", "data": "2024-12-03", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores. Pauta com 52 itens; itens 8 a 52 em bloco; destacados do bloco os itens 21 e 26; retirados de pauta os itens 15, 32 e 33; sustentação oral pedida para os itens 1, 7, 21 e 26. Ordem: bloco, 6, 5, 1, 2, 3, 4, 7, 21, 26.", "Aprovada a ata da 44ª RPO, com registro de que a diretora Agnes estava ausente naquela reunião.", "Comunicados do Diretor-Geral: bandeira verde em dezembro, audiências na Câmara (Enel SP; conta de luz cara), programa Desenrola (PGF), olimpíada de eficiência energética, visita da Moody's, 27 anos da ANEEL.", "Reunião interrompida por volta de 11h20 (vídeo 2:04) porque Sandoval Feitosa e Fernando Mosna precisavam se ausentar; retorno previsto para as 14h (Parte 2 em outro vídeo). O item 1 foi apenas apregoado."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:17:07", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 8 a 52 deliberados em bloco (exceto 21 e 26, destacados, e 15, 32 e 33, retirados).",
+      "tema": ["diversos"], "relator": "diversos",
+      "resultado": "Aprovados por unanimidade, exceto o item 18 (aprovado por maioria, com divergência de Sandoval Feitosa) e o item 10 (vista).",
+      "resumo_voto": "Diretores aprovaram o bloco; ressalvas registradas nos itens 18 e 10.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco, exceto o item 18", "ts": "0:18:09", "justificativa": "Diverge no item 18 (ver item próprio).", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:17:09", "justificativa": "Aprovação dos itens do bloco.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:17:09", "justificativa": "Aprovação dos itens do bloco.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:17:09", "justificativa": "Aprovação dos itens do bloco.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "18", "ts": "0:17:09", "processo": "", "interessado": "PCH São João I (empreendedor não identificado)",
+      "assunto": "Recurso administrativo contra o despacho 4383/2023 da SFT que aplicou multa editalícia (leilão 1/2016) por atraso na entrada em operação comercial da PCH São João I.",
+      "tema": ["fiscalização e sanções (multa editalícia)", "outorgas de geração (PCH)", "recursos administrativos"],
+      "relator": "não identificado",
+      "resultado": "Aprovado por maioria o voto do relator (multa editalícia mantida); vencido Sandoval Feitosa, que anunciou voto-vista divergente por escrito.",
+      "resumo_voto": "Relator manteve a multa editalícia com base no precedente da PCH Manuel Alves. Sandoval: obras atrasadas mas em andamento; pela vinculação ao edital (Lei 8.666, art. 41) e pela especialidade, cabe a multa administrativa da REN 63/2004 e não a multa editalícia da cláusula 16 do edital; conhecer e negar provimento ao recurso, mas de ofício desconstituir o despacho 4383/2023 e determinar que a SFT instaure processo punitivo.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "diverge (vencido)", "ts": "0:18:09", "justificativa": "Pareceres recentes da Procuradoria recomendam desconstituir a multa editalícia e aplicar multa administrativa; o caso Manuel Alves não é precedente porque essa cláusula não foi debatida.", "tom": "técnico-jurídico", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:17:09", "justificativa": "Vota com o relator em respeito à decisão já transitada em julgado do colegiado em caso similar (parágrafo 42 do voto), que aplicou multa editalícia por maioria.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "10", "ts": "0:17:44", "processo": "", "interessado": "não identificado",
+      "assunto": "Pedido de excludente de responsabilidade de 907 dias (detalhes não lidos na sessão).",
+      "tema": ["outorgas de geração", "recursos administrativos"],
+      "relator": "Agnes da Costa", "resultado": "Pedido de vista.",
+      "resumo_voto": "Diretor pediu vista porque há nota técnica e parecer de abril negando o pleito e parecer de outubro reconhecendo-o.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "pede vista", "ts": "0:17:44", "justificativa": "Nota técnica e parecer de abril negam o pleito, parecer de outubro reconhece; 907 dias de excludente exigem análise aprofundada.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "6", "ts": "0:22:41", "processo": "48500.000028/2020-58 (número incerto)", "interessado": "Azulão Geração de Energia S.A. (UTE Jaguatirica II, Roraima)",
+      "assunto": "Pedido de reconsideração contra o despacho 3722/2023 (excludente de responsabilidade de 38 dias; negados alteração do cronograma, postergação do CCESI e recomposição do prazo de outorga). Voto-vista de Sandoval Feitosa.",
+      "tema": ["outorgas de geração (térmica)", "recursos administrativos", "sistemas isolados", "excludente de responsabilidade"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unânime: conhecer e dar parcial provimento, reconhecendo o blackout de 9 dias em Roraima como excludente e postergando em 9 dias o cronograma da UTE Jaguatirica II e o início do suprimento do CCESI (com correção sugerida por Ricardo Tili: contrato do sistema isolado, não CCEAR).",
+      "resumo_voto": "Mesmo dispositivo com fundamentos distintos: o relator usou o RAPEEL como cronograma realístico; Sandoval (voto-vista) disse que o RAPEEL não é cronograma e que a análise deve ser feita marco a marco do cronograma regulatório. Agnes, que antes negava provimento, passou a acompanhar com base no fundamento de Sandoval. Procuradoria: basta convergência no dispositivo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:57:22", "justificativa": "Nove dias de excludente; o parecer 150/2023 e a nota jurídica 27/2024 admitem o RAPEEL como elemento da realidade fática; propôs voto médio limitado ao dispositivo.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: acompanha a conclusão com fundamentos distintos", "ts": "0:23:37", "justificativa": "RAPEEL não é cronograma; no ACR a análise de nexo causal deve ser marco a marco; o blackout após o início da operação em teste afetou o marco de operação comercial.", "tom": "técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o dispositivo com o fundamento do voto-vista", "ts": "1:20:27", "justificativa": "Antes divergia por preocupação com os marcos do cronograma; o voto de Sandoval supera essa preocupação; pediu registro em ata.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:22:00", "justificativa": "Já havia acompanhado o relator; questão de ordem: o contrato é CCESI e não CCEAR; criticou trazer discussão de outro processo (UTE Marlim Azul).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:23:30", "processo": "48500.000830/2022-46 (número incerto)", "interessado": "ABRADEE; Neoenergia Distribuição Brasília; distribuidoras (Energisa Acre e Rondônia citadas)",
+      "assunto": "Pedido de reconsideração da ABRADEE contra o despacho 3478/2022 e requerimentos sobre os critérios de eficiência na gestão econômico-financeira das distribuidoras (ano de 2023); prazo para aportes de capital. Voto-vista de Agnes da Costa.",
+      "tema": ["distribuição (sustentabilidade econômico-financeira)", "recursos administrativos", "regulação normativa (REN 948/2021)"],
+      "relator": "Fernando Mosna",
+      "resultado": "Não concluído: o relator incorporou o prazo de 180 dias contados de 12/11/2024 proposto por Agnes; na fase de votação Ricardo Tili pediu vista.",
+      "resumo_voto": "Agnes acompanhou os itens 1 a C do relator e propôs 180 dias para os aportes, em vez de 90 (contrato, REN 948 e precedentes Light e Enel Rio); parecer da Procuradoria: a cláusula é de desempenho, mas valem os critérios contratuais no período de transição; ressalva sobre retroatividade.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (incorporando os 180 dias)", "ts": "1:47:39", "justificativa": "Contar 180 dias a partir de 12/11 é razoável e permite conciliação.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: acompanha o relator com prazo de 180 dias", "ts": "1:25:50", "justificativa": "O prazo de 180 dias está no contrato, na REN 948 e nos precedentes; levantar recursos bilionários exige tempo; respeitar a transição contratual.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:02:56", "justificativa": "Estabilidade regulatória: vale o contrato no período de transição e depois a REN 948; não escolher casuisticamente a regra mais favorável.", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "1:57:38", "justificativa": "Questionou a contagem retroativa do prazo (preferia 158 dias daqui para frente); tem dúvidas depois de receber agentes e estudar o processo.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "2:03:02", "processo": "48500.000621/2023-83 (número incerto)", "interessado": "não identificado",
+      "assunto": "Resultado da Consulta Pública 7/2024 (aprimoramento da regulação; tema não concluído na leitura). Apenas apregoado antes da interrupção.",
+      "tema": ["regulação normativa (consulta pública)"], "relator": "não identificado",
+      "resultado": "Não deliberado nesta parte; reunião interrompida.", "resumo_voto": "", "votos": []
+    }
+  ],
+  "retirados": ["15", "32", "33"],
+  "limites_da_analise": ["Legenda automática: números de processo e nomes de empresas incertos.", "No bloco não é possível saber com certeza quem fez cada fala: a ressalva do item 18 (acompanha o relator por respeito ao precedente) e o pedido de vista do item 10 ficaram como 'não identificado'; o relator do item 18 também não foi identificado.", "Ludimila (área técnica) responde a uma pergunta no item 6; não é diretora votante nesta sessão.", "Itens 2, 3, 4, 7, 21 e 26 e o restante do item 1 ficaram para a Parte 2 (outro vídeo)."]
+}

@@ -1,0 +1,102 @@
+{
+  "meta": {"video_id": "98fX2CP7x-Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27ª Reunião Pública Ordinária de 2024", "data": "2024-07-30", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa (missão institucional, ausência justificada)"],
+    "observacoes": [
+      "Quórum de três diretores; procurador-geral Raul Pereira Lisboa; secretário-geral Daniel Danna.",
+      "Pauta com 18 itens; itens 5 a 18 em bloco; item 7 destacado do bloco; itens 8 e 13 retirados de pauta; sustentação oral nos itens 3 e 7.",
+      "Informes: projeto de eficiência energética para população atingida pelas enchentes no RS (Equatorial/CEEE); fim da Tomada de Subsídios 8/2024; paralisação dos servidores das agências em 31/07 e 01/08/2024.",
+      "Comunicado de Fernando Mosna: o MME (Ofício 184/2024) recomendou retirar o lote 2 (Rio Grande do Sul) do Leilão de Transmissão 2/2024, previsto para 27/09/2024 na B3.",
+      "Ata da 26ª RPO aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:05:20", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 5 a 18 em bloco (exceto 7, destacado, e 8 e 13, retirados); item 5: consulta pública do Plano Anual de Aplicação de Recursos do PROCEL (PAR Procel 2024) com prazo ajustado para 45 dias",
+      "tema": ["regulação normativa", "bloco de itens"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Agnes da Costa informou que alterou seu voto no item 5 para prazo de 45 dias (art. 9º §2º da Lei 13.848/2019), após conversa com o MME. Bloco aprovado.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:06:05", "justificativa": "Aprova os itens remanescentes do bloco; ajustou item 5 para 45 dias de consulta.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:06:08", "justificativa": "Eu também aprovo o bloco.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:06:10", "justificativa": "Eu também aprovo o bloco.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:06:26", "processo": "48500.006172/2023-51",
+      "interessado": "cooperativas permissionárias de distribuição do RS (Certel, Coprel, Creluz, Certaja, Creral, Celetro e outras; nomes pela legenda)",
+      "assunto": "Reajuste tarifário anual 2024 (TE e TUSD) das permissionárias com aniversário em 30/07/2024; prorrogação das tarifas da Certel até 29/09/2024",
+      "tema": ["tarifas e revisão tarifária", "distribuição", "cooperativas", "eventos climáticos RS"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa resultados do reajuste (efeitos médios por permissionária), fixa TUSD/TE, tarifas de suprimento, receita de DIT, cotas CDE e Proinfa; prorroga tarifas da Certel por pedido da cooperativa (eventos climáticos de maio/2024).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:12:42", "justificativa": "Reajuste conforme Proret módulo 8 e NT 115/2024 STR; Certel tratada à parte por pedido de prorrogação.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:15:23", "justificativa": "Após confirmar que a Certel teve só prorrogação, acompanha.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:15:26", "justificativa": "Eu também acompanho o voto do relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:16:53", "processo": "48500.002353/2024-15",
+      "interessado": "Companhia de Eletricidade do Amapá (CEA Equatorial)",
+      "assunto": "Recálculo do ativo regulatório reconhecido na RTE 2023 da CEA Equatorial em função da MP 1212/2024 (recursos P&D/PEE e CDAL)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "distribuição", "Amapá"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ratifica o ativo regulatório para o reajuste 2024, mantendo a RTE 2023 com efeito 0% até 12/12/2024: ativo positivo de cerca de R$ 251,8 milhões (dez/2023), menos passivos de cerca de R$ 40 milhões (P&D/PEE) e R$ 224,3 milhões (CDAL, Portaria MME 793). Relator critica efeitos do pedido de vista de Sandoval Feitosa na RTE e destaca previsibilidade para consumidores do Amapá.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:03:00", "justificativa": "Manter 0% até 12/12/2024 dá previsibilidade; mudança poderia repetir comoção social; MP 1212 já operacional; encontro de contas no pior cenário de R$ 47,1 milhões.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:05:31", "justificativa": "Acompanha; ao proclamar destaca que a decisão assegura a efetividade da MP 1212 e reverte P&D/PEE e CDAL à modicidade tarifária no Amapá.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:05:34", "justificativa": "Eu também acompanho o voto do relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:08:10", "processo": "48500.000028/2020-58",
+      "interessado": "Azulão Geração de Energia S.A. (UTE Jaguatirica II, Boa Vista/RR, sistema isolado)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3722/2023 (38 dias de excludente para a UG3); pede 87 dias de excludente de responsabilidade (backfeed, blackout em Roraima, restrições de teste do ONS) e alteração do cronograma e do CCESI",
+      "tema": ["outorgas de geração", "recursos administrativos", "excludente de responsabilidade", "sistemas isolados"],
+      "relator": "Fernando Mosna", "resultado": "parcial provimento (9 dias de excludente pelo blackout), por maioria, aparentemente vencida Agnes da Costa; proclamação não captada na legenda",
+      "resumo_voto": "Sustentação oral de Lucas de Almeida Ribeiro (Azulão/Eneva). Relator diverge da procuradoria e das áreas técnicas e usa o cronograma realista do RAPEEL (Parecer 150/2023, caso UTE Marlim Azul; REN 1071/2023): reconhece nexo causal, mas só o blackout de 14 a 23/10/2021 é imprevisível; backfeed e restrições do ONS são risco do negócio. Posterga cronograma e CCESI em 9 dias.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento (9 dias)", "ts": "1:47:00", "justificativa": "Cronograma do RAPEEL mostra a evolução realista; blackout de 9 dias é imprevisível e está no caminho crítico; demais eventos são técnicos e típicos do negócio.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:55:21", "justificativa": "Antes perguntou ao procurador sobre a aparente contradição entre os Pareceres 170 e 150; vota com o relator.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "diverge: conhece e nega provimento", "ts": "1:55:29", "justificativa": "Não ficou comprovado nexo de causalidade com o cronograma regulatório da outorga; preocupa usar o RAPEEL, informado unilateralmente pelo agente, e decidir antes do caso Marlim Azul; falta análise do caminho crítico.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:55:54", "processo": "48500.002338/2024-77",
+      "interessado": "Energisa Mato Grosso Distribuidora de Energia S.A. (subestação Sorriso/MT)",
+      "assunto": "Mudança do horário de ponta e dois grupos horários de irrigação, com ampliação do horário reservado, em caráter emergencial até a solução definitiva na rede básica da SE Sorriso",
+      "tema": ["tarifas e revisão tarifária", "distribuição e qualidade", "irrigação/agronegócio"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (deferimento parcial)",
+      "resumo_voto": "Autoriza, mediante acordo com os consumidores, postos de ponta diferenciados para irrigantes da SE Sorriso até as obras (quarto transformador, dez/2025) ou a próxima revisão tarifária; benefício tarifário voluntário (art. 196 da REN 1000); desconto adicional não pode ser custeado por tarifa nem CDE (Lei 10.438, art. 25).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (deferimento parcial)", "ts": "2:08:50", "justificativa": "Medida reduz cerca de 9,7 MW no horário reservado e alivia a subestação; vedação legal ao custeio pela tarifa ou CDE; adesão do consumidor é opcional.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:09:08", "justificativa": "Eu voto com o relator.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:09:11", "justificativa": "Eu voto com o relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:10:14", "processo": "48500.001142/2018-17",
+      "interessado": "Equatorial Pará Distribuidora de Energia S.A. (antiga Celpa)",
+      "assunto": "Recurso contra certificado de descumprimento do TAC 24/2024 lavrado pela SFE, com multa",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "TAC", "distribuição"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade (recurso negado)",
+      "resumo_voto": "Sustentação oral de Larissa Sinopoli (Equatorial) pedindo cancelamento ou redução por adimplemento substancial. A procuradoria (Parecer 215/2023) opinou por parcial provimento para reduzir a multa. O relator, mesmo assim, nega provimento e mantém multa de cerca de R$ 9,29 milhões (dez/2019), atualizada pela Selic.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "2:26:32", "justificativa": "Vai direto ao dispositivo; razões no voto publicado: mantém a multa do certificado de descumprimento do TAC.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:27:28", "justificativa": "Eu acompanho o voto do relator.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:27:31", "justificativa": "Eu também acompanho o voto do relator.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Item 8 (retirado de pauta)", "Item 13 (retirado de pauta)"],
+  "limites_da_analise": [
+    "Legenda automática: nomes de cooperativas, números de processo e valores podem estar errados.",
+    "Item 3: a legenda não registra a proclamação; os votos de Tili (acompanha) e Agnes (diverge, nega provimento) foram atribuídos por inferência a partir do diálogo ('obrigada', preocupação com o RAPEEL); confiança baixa.",
+    "Os itens do bloco (5 a 18) não são detalhados na sessão, exceto o ajuste do item 5.",
+    "Minutos dos votos de quem acompanha são aproximados."
+  ]
+}

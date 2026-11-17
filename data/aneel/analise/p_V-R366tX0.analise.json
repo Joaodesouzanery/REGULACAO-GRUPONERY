@@ -1,0 +1,690 @@
+{
+ "meta": {
+  "video_id": "p_V-R366tX0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:14); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "3ª RPO 2025",
+  "data": "2025-02-04",
+  "formato": "presencial (plenário), transmitida no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Posse do novo procurador-geral Eduardo Estevão Ferreira Ramalho, saudado por todos; Mosna e Tili registram que não foram consultados sobre a indicação.",
+   "Primeira reunião com duas diretoras (Agnes da Costa e Ludimila Lima, substituta); Agnes chegou durante o item 1.",
+   "Ata da 2ª RPO de 28/01/2025 aprovada. Pauta com 62 itens; retirados 4, 5, 26, 27, 28 e 35.",
+   "Pausa após o item 7 (retorno às 15h) e falha de som; o início do item 14 não está na gravação.",
+   "Único item com placar 3x2: item 7 (cautelar da Serena sobre constrained-off), vencidos Mosna e Tili; item 16 por maioria, vencido Sandoval."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:37:25",
+   "processo": "itens 9 a 62 (bloco), exceto destacados 14, 16, 22, 23 e retirados 4, 5, 26, 27, 28, 35",
+   "interessado": "diversos (inclui Azulão Geração de Energia no item 13)",
+   "assunto": "Votação em bloco dos itens 9 a 62; item 13: recurso da Azulão Geração contra o AI 4/2023-SFG (multa de cerca de R$ 4,76 milhões).",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "diversos",
+   "resultado": "Itens remanescentes do bloco aprovados; no item 13, negado provimento ao recurso da Azulão, mantida a multa; impedimentos e suspeição registrados em ata.",
+   "resumo_voto": "Ludimila Lima declara-se impedida nos itens 17 e 18 (recursos contra decisão sua como superintendente); Fernando Mosna declara suspeição no item 15. Votos de Agnes da Costa foram lidos pelo secretário-geral.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco; item 13: conhece e nega provimento; impedida nos itens 17 e 18",
+     "ts": "0:37:57",
+     "justificativa": "Impedida nos itens 17 e 18 por se tratar de recurso contra decisão exarada por ela na superintendência; aprova os demais.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco (voto lido pelo secretário-geral); item 13: conhece e nega provimento",
+     "ts": "0:38:20",
+     "justificativa": "Votos deixados consignados com o secretário-geral; no item 13 mantém a multa aplicada pela SFG.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco; suspeição no item 15",
+     "ts": "0:40:04",
+     "justificativa": "Explica retiradas de pauta dos itens 4, 5 e 26 (pedidos da Abeeólica, fato novo e problema de saúde de advogado) e destaca o item 60 por discordar da duração das prorrogações de vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; item 13: conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "Mantém integralmente a multa do AI 4/2023; antecipa voto pelo provimento no item 16 com base na Nota Jurídica 10/2024 da Procuradoria.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco (manifestação não captada)",
+     "ts": "0:41:30",
+     "justificativa": "Voto no bloco não identificado na legenda; resultado proclamado como aprovado.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:43:47",
+   "processo": "48500.003322/2024-81",
+   "interessado": "Neoenergia Pernambuco (Celpe), distribuidora",
+   "assunto": "Abertura de consulta pública para a revisão tarifária periódica 2025 da Neoenergia Pernambuco (efeito médio proposto de -3,18%).",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Aprovado por unanimidade: CP de 5/2 a 21/3/2025, com reunião presencial em Recife em 12/3/2025; tarifas a partir de 29/4/2025.",
+   "resumo_voto": "Relator lembra a volatilidade tarifária da concessionária desde 2021 e sugere que a regra de diferimento em elaboração (relatoria de Ludimila Lima) possa considerar o caso. Sandoval comenta o sinal locacional reduzindo tarifas de transmissão no Nordeste.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:58:00",
+     "justificativa": "Instaura CP; aponta oscilação de reajustes (+18,98% em 2022, -2,69% em 2024) e vê oportunidade de aplicar regra de diferimento.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:00:07",
+     "justificativa": "Acompanha (chegou durante a leitura do item).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:00:10",
+     "justificativa": "Acompanha sem comentários.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:00:12",
+     "justificativa": "Acompanha sem comentários.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:00:15",
+     "justificativa": "Reforça que a diretoria definiu tratar decréscimos por regra geral; destaca efeito do sinal locacional nas tarifas do Nordeste.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:01:11",
+   "processo": "48500.000385/2022-14",
+   "interessado": "Distribuidoras; sustentação oral de Ricardo Brandão Silva (Abradee)",
+   "assunto": "Resultado da 1ª fase e abertura da 2ª fase da CP 8/2024: minuta de REN para aumentar a satisfação do consumidor com a distribuição (novo componente S de satisfação no Fator X, IASC com maior peso).",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "distribuição e qualidade",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "Aprovado por unanimidade: 2ª fase da CP 8/2024 por 47 dias (6/2 a 25/3/2025).",
+   "resumo_voto": "Abradee pediu 90 dias, memória de cálculo e análise conjunta de incentivos, criticando viés punitivo e subjetividade do IASC. Relator informa que a planilha de cálculo será disponibilizada e mantém 47 dias.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:40:00",
+     "justificativa": "Defende dar mais peso à percepção do consumidor; planilha com memória de cálculo será publicada com a CP; prazo de 47 dias razoável.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:42:25",
+     "justificativa": "Comenta que a discussão sobre como medir a satisfação é oportuna e que não se pretende critério punitivo.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:42:28",
+     "justificativa": "Acompanha sem comentários.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:42:30",
+     "justificativa": "Acompanha sem comentários.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:42:32",
+     "justificativa": "Afirma ser inconcebível o desacoplamento entre a percepção do consumidor e o serviço; distribuidoras devem se organizar; prestar serviço público é profissão de fé.",
+     "confianca": "media",
+     "tom": "enfático"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:43:09",
+   "processo": "48500.000229/2023-2 (número incompleto na legenda)",
+   "interessado": "Transmissoras (pleito Abdib/Abrate)",
+   "assunto": "Abertura de CP sobre metodologia para análise do máximo esforço das transmissoras na cobrança de encargos rescisórios dos CUST.",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Aprovado por unanimidade: CP por 15 dias a partir de 5/2/2025.",
+   "resumo_voto": "Prazo abreviado de 15 dias justificado pela aplicação ao ciclo tarifário 2025-2026 (início em 1º de julho). Relator não faz juízo de valor antes das contribuições.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:58:30",
+     "justificativa": "Prazo abreviado para permitir aplicação ao novo ciclo da TUST; aguarda contribuições antes de juízo de mérito.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:59:37",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:59:39",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:59:41",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:59:43",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:00:32",
+   "processo": "48500.003426/2024-96",
+   "interessado": "ENBPar; Ministério de Minas e Energia",
+   "assunto": "Pedido da ENBPar de prorrogação por 45 dias do prazo do Despacho 3746/2024 para propor medidas que mantenham a tarifa de repasse de Itaipu (17,66 US$/kW.mês) sem impacto ao consumidor.",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "comercialização (CCEE, PLD, contratos)",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Aprovado por unanimidade: concedidos excepcionalmente 15 dias (não 45); reenvio de ofício a MME e ENBPar; ratificada a tarifa provisória até 31/3/2025.",
+   "resumo_voto": "Relator critica a falta de resposta do MME e a fundamentação genérica da ENBPar; sem solução concreta, repasse de cerca de US$ 120 milhões (quase 6% da tarifa de repasse) ao consumidor. Sandoval anuncia reunião com MME e ENBPar.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (concede 15 dias, não 45)",
+     "ts": "2:38:00",
+     "justificativa": "MME não respondeu ao Ofício 327/2024; pedido da ENBPar só alega complexidade; não há complexidade técnica, mas decisão a tomar; exige solução concreta (minuta de decreto na Casa Civil ou aporte de Itaipu).",
+     "confianca": "alta",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:47:37",
+     "justificativa": "Questionou se o prazo até 31/3 basta para calcular nova tarifa; aceitou a resposta.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:47:40",
+     "justificativa": "Perguntou o que se espera como medida concreta em 15 dias; preocupação de não ultrapassar 31 de março.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:47:42",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:47:45",
+     "justificativa": "Se em 15 dias vier algo concreto será avaliado; pedirá reunião com MME e ENBPar.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:49:28",
+   "processo": "48500.000145/2022-09",
+   "interessado": "Serena Geração S.A. (complexos eólicos Gentil do Ouro 1, Laranjeiras, Santa Vitória do Palmar, Paulino Neves); sustentação oral de Thiago (advogado da Serena)",
+   "assunto": "Medida cautelar contra imputação de cortes de geração (constrained-off) por confiabilidade e razão energética, pedindo reclassificação como indisponibilidade externa (ônus alegado acima de R$ 35 milhões).",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Por maioria (3 a 2), conhecido e negado o pedido cautelar; processo encaminhado à SGM para análise de mérito. Vencidos o relator e Ricardo Tili.",
+   "resumo_voto": "Relator propunha provimento parcial: ONS classificar as restrições da Serena como indisponibilidade externa até o mérito, negar compensação do passado e revisar a REN 1030/2022 em 90 dias. Ludimila Lima inaugurou divergência, seguida por Agnes da Costa e Sandoval Feitosa.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, vencido (dá parcial provimento à cautelar)",
+     "ts": "4:05:00",
+     "justificativa": "Empreendimentos com DAPRD e parecer de acesso sem restrição deveriam ter precedência; paradoxal aplicar corte por razão energética a energia de reserva, disponibilidade e autoprodução; consulta pública não resolve o passado; SGM arquivou pleitos sem análise.",
+     "confianca": "alta",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "diverge: conhece e nega a cautelar, envia à SGM para mérito",
+     "ts": "4:17:22",
+     "justificativa": "Vê inconformismo com a REN 1030; tema em discussão na CP 45/2019 (3ª fase); não cabe antecipar mérito em cautelar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência",
+     "ts": "4:17:39",
+     "justificativa": "Antes argumentou que a CP 45, de sua relatoria, já trata dos critérios DAPRD/DAPRT e pareceres; cautelar anteciparia julgamento e favoreceria um agente.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (vencido)",
+     "ts": "4:17:42",
+     "justificativa": "Vê mérito em dar prioridade a quem tem autorização definitiva e concorda quanto à energia de reserva e à disponibilidade; discordou do tratamento do autoprodutor.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência",
+     "ts": "4:17:45",
+     "justificativa": "Discordância integral: cautelar não pode firmar tese; há ação judicial com suspensão no STJ; parecer de acesso não garante ausência de cortes; ONS não deve avaliar contratos; consumidor pagaria; mudar a norma exige ARR/AIR.",
+     "confianca": "alta",
+     "tom": "crítico"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "6:30:31",
+   "processo": "48500.006462/2022 (número incompleto na legenda)",
+   "interessado": "Furnas/Eletrobras (transmissão: LT Serra da Mesa-Gurupi, SE Ibiúna, LT Barreto-Poços de Caldas); sustentações orais de Guilherme Bajo (Eletrobras) e Geraldo Luiz Pontelo (Abrate)",
+   "assunto": "Recurso de Furnas contra o AI 8/2023-SFE por descumprimento de plano de resultados (desligamentos de transmissão); discussão do redutor discricionário e da atenuante por melhora posterior.",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "transmissão (RAP, outorgas, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "Unânime: parcial provimento (abrangência 2,89% em vez de 3,21%), mas agravada a multa com a retirada do redutor; multa de cerca de R$ 17 milhões; revogado o Despacho 2291/2023.",
+   "resumo_voto": "Relator segue entendimento já firmado pela diretoria (caso Enel SP) de não aplicar atenuante por melhora após o prazo do plano de resultados; propostas da Abrate são tema normativo. Início do item não está na gravação (pausa/falha de som).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "6:50:00",
+     "justificativa": "Plano de resultados já é uma concessão em vez de punir direto; melhora só veio depois do prazo; propostas da Abrate cabem em processo normativo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "6:54:28",
+     "justificativa": "Perguntou se o plano previa atenuação por melhora; a área técnica respondeu que não.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "6:54:30",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:54:32",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:54:35",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "6:56:41",
+   "processo": "48500.001875/2017-71",
+   "interessado": "São Bartolomeu Geradora de Energia Renovável S.A. (PCH Tamboril); sustentação oral de Flávio Ribeiro Bétega",
+   "assunto": "Recurso contra o Despacho 2728/2023-SFT: multa editalícia por atraso na implantação da PCH Tamboril; discussão sobre aplicar sanção regulatória (REN 846) conforme Nota Jurídica 10/2024 da Procuradoria.",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "Por maioria, negado provimento; mantida a multa editalícia (valor na legenda incerto, cerca de R$ 394 mil). Vencido Sandoval Feitosa.",
+   "resumo_voto": "Procuradoria mantém o entendimento da Nota 10/2024, já superado pela diretoria em casos anteriores (precedentes Manuel Alves e São João). Sandoval divergiu pela nulidade do TIP e nova apuração pela REN 846.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "7:11:30",
+     "justificativa": "Mantém multa editalícia conforme precedentes da diretoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "7:12:10",
+     "justificativa": "Acompanha (atribuição pela ordem; legenda não identifica).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "7:12:12",
+     "justificativa": "Acompanha (atribuição pela ordem; legenda não identifica).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "7:12:14",
+     "justificativa": "Só dois votos de acompanhamento audíveis; voto inferido pelo resultado por maioria.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (vencido): dá provimento",
+     "ts": "7:12:16",
+     "justificativa": "Segue a Nota Jurídica 10/2024: desconstitui o TIP 1/2020 e o Despacho 2728/2023 e determina nova apuração pela cláusula do edital do leilão 3/2016 sob o regime da REN 846/2019.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "7:14:10",
+   "processo": "48500.003589/2023-98",
+   "interessado": "Aliança Geração de Energia S.A. (UHE Risoleta Neves); CCEE; sustentação oral de Renan Torres Lucas dos Santos",
+   "assunto": "Impugnação de decisão da CCEE (reunião 1333) que manteve penalidade por insuficiência de lastro de janeiro de 2017, decorrente de efeito retroativo do Despacho 437/2017 (suspensão da operação comercial após o acidente da Samarco).",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "Unânime: conhecido e negado provimento à impugnação.",
+   "resumo_voto": "Defesa invocou proposta da própria CCEE de afastar a penalidade em atos retroativos do poder público. Relatora foi direto ao dispositivo.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "7:26:50",
+     "justificativa": "Lê apenas o dispositivo; mantém a penalidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a relatora",
+     "ts": "7:27:00",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "7:27:03",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "7:27:05",
+     "justificativa": "Voto não distinto na legenda; inferido pela unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "7:27:07",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "7:27:45",
+   "processo": "48500.000480/2025-88 (número incerto na legenda)",
+   "interessado": "PCH Mantovilis SPE S.A.; CCEE; sustentação oral de Rodrigo Quintana Fernandes",
+   "assunto": "Pedido de efeito suspensivo à impugnação de decisão da CCEE (reunião 1434) sobre penalidade por insuficiência de lastro de energia de reserva em 2022 (CER 416/2016).",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Unânime: conhecido e negado o efeito suspensivo.",
+   "resumo_voto": "Relator, em respeito à colegialidade, aplica a decisão da 2ª RPO/2025 (Despacho 207/2025) que negou o excludente de responsabilidade; sem receio de prejuízo de difícil reparação e sem caução (art. 43 da REN 957).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "7:45:30",
+     "justificativa": "Pela colegialidade (art. 7º da Lei 13.848), após o indeferimento do excludente; ausentes os requisitos do art. 43 da REN 957, inclusive caução.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:45:55",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "7:45:58",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "7:46:00",
+     "justificativa": "Voto não distinto na legenda; inferido pela unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:46:02",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "7:46:32",
+   "processo": "48500.000853/2024-12",
+   "interessado": "Serena Desenvolvimento de Energia S.A. e Ômega Desenvolvimento de Energia S.A.",
+   "assunto": "Pedidos de reconsideração contra o Despacho 3414/2024 (manteve o TI 76/2024-SFF, revogou a outorga da Ômega e mandou a SFF avaliar processo punitivo).",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Unânime: pedidos não conhecidos (ato de mero expediente, art. 43, V da REN 273/2007) e arquivamento de ofício do processo.",
+   "resumo_voto": "Relator alterou o dispositivo publicado no bloco, de conhecer e negar para não conhecer, por sinalização das assessorias.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não conhece",
+     "ts": "7:51:00",
+     "justificativa": "Determinar à SFF verificar instauração de processo punitivo é ato de mero expediente, irrecorrível.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:51:52",
+     "justificativa": "Voto não distinto na legenda; inferido pela unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "7:51:52",
+     "justificativa": "Acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "7:51:55",
+     "justificativa": "Voto não distinto na legenda; inferido pela unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:51:57",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "60",
+   "ts": "7:52:46",
+   "processo": "48500.002898/2018-83",
+   "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, Macaé-RJ)",
+   "assunto": "Prorrogação por mais oito sessões do pedido de vista de Sandoval Feitosa sobre excludente de responsabilidade no cronograma da UTE Marlim Azul.",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "Unânime: aprovada a prorrogação da vista por mais oito sessões.",
+   "resumo_voto": "Mosna destacou o item e depois retirou o destaque, registrando que o processo está sob vista há 1 ano e 4 meses, mais do que o tempo de mandato que ele tinha quando votou. Sandoval diz que os processos sob vista retornarão com a chegada de Ludimila Lima.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova a prorrogação, com registro crítico",
+     "ts": "7:53:00",
+     "justificativa": "Registra resignação com vistas longas: o processo está sob vista desde a 3ª RPO de out/2023.",
+     "confianca": "alta",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede a prorrogação da vista (vistor) e aprova",
+     "ts": "7:56:10",
+     "justificativa": "Processo voltará dentro das oito sessões; alinhando os processos sob vista com Ludimila Lima.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova a prorrogação",
+     "ts": "7:56:13",
+     "justificativa": "Aprova.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova a prorrogação",
+     "ts": "7:56:15",
+     "justificativa": "Aprova.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova a prorrogação",
+     "ts": "7:56:10",
+     "justificativa": "Voto individual não distinto; resultado unânime.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado por Fernando Mosna: pedido da Abeeólica com questionamentos econômicos"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado por Fernando Mosna: alegado fato novo (posse do procurador-geral)"
+  },
+  {
+   "id": "26",
+   "motivo": "retirado por Fernando Mosna: problema de saúde do advogado do interessado (consórcio, nome incerto)"
+  },
+  {
+   "id": "27",
+   "motivo": "retirado (motivo não informado)"
+  },
+  {
+   "id": "28",
+   "motivo": "retirado (motivo não informado)"
+  },
+  {
+   "id": "35",
+   "motivo": "retirado (motivo não informado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores incertos (p.ex. itens 2, 8 e 14; multa do item 16 lida como 34.201 e 394.21).",
+  "Item 14 numerado por inferência: a ordem anunciada era 1,3,2,6,7,8,14,16,22,23; o item de Furnas foi julgado antes do 16 e o 8 (Mantovilis) depois do 23.",
+  "Em vários itens nem todos os votos de acompanhamento estão audíveis; esses foram inferidos pelo resultado (unanimidade/maioria), com confiança baixa.",
+  "No item 7, atribuição de 'acompanho a divergência' a Agnes e 'acompanho o relator' a Tili pela ordem de fala e pelas posições no debate (confiança média).",
+  "Bloco: voto de Ricardo Tili não captado; conteúdo detalhado dos itens 9 a 62 não lido em sessão.",
+  "Advogado da Serena (item 7) identificado só como 'Thiago'; nomes de empresas (Mantovilis, Azulão, Risoleta Neves) conforme legenda."
+ ]
+}

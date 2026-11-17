@@ -1,0 +1,264 @@
+{
+ "meta": {
+  "video_id": "tD7gQNBw9xA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "38",
+  "data": "2024-10-15",
+  "formato": "híbrido (DG e Agnes no escritório regional da Anatel em São Paulo; Fernando remoto)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Ricardo Tili (férias)"
+  ],
+  "observacoes": [
+   "38ª Reunião Pública Ordinária de 2024; quórum de três diretores.",
+   "Informes sobre o temporal de 11/10/2024 em São Paulo (2,1 milhões de consumidores da Enel SP sem energia) e abertura de apuração de falhas com eventual recomendação de caducidade.",
+   "Pauta de 28 itens; itens 3-28 em bloco; destacados 9, 12 e 14 com sustentação oral; ordem: bloco, 1, 2, 14, 12, 9.",
+   "Todos os itens unânimes; Fernando Mosna questionou a agenda regulatória como conservadora."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:10:49",
+   "processo": "itens 3 a 28 (exceto 9, 12, 14 e um retirado)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da pauta (votos e atos disponibilizados previamente)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados sem discussão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova itens do bloco",
+     "ts": "0:10:49",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova itens do bloco",
+     "ts": "0:10:54",
+     "justificativa": "Também aprova os itens remanescentes do bloco.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova itens do bloco",
+     "ts": "0:10:54",
+     "justificativa": "Também aprova os itens remanescentes do bloco.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:12:28",
+   "processo": "48500.002900/2024-50",
+   "interessado": "ANEEL (agenda regulatória)",
+   "assunto": "Análise das contribuições da Tomada de Subsídios 12/2024 e abertura de audiência pública (virtual, 23/10/2024) sobre a minuta da agenda regulatória 2025-2026, lista das demais atividades regulatórias e avaliações de resultado regulatório (ARR)",
+   "tema": [
+    "regulação normativa (agenda regulatória, audiência pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Publicação do relatório de análise de contribuições da TS 12/2024 e abertura de AP; apresentação técnica da chefe de gabinete (Elvira). Fernando Mosna questionou se a agenda não seria conservadora (18 de 24 itens repetidos da agenda 2024-2025) e sugeriu antecipar monitoramento do mercado (pós-quebra de comercializadora), resiliência a eventos climáticos extremos e constrained-off de hidrelétricas; Sandoval e Agnes atribuíram o adiamento às políticas públicas não planejadas (MPs, Amazonas Energia, Rio Grande do Sul).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:34:30",
+     "justificativa": "Agenda equilibra o essencial à modernização regulatória com a capacidade de cumpri-la; atrasos devidos a políticas públicas urgentes do governo federal.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:36:10",
+     "justificativa": "Lembrou que a agenda 2024-2025 foi retificada por demandas urgentes de políticas públicas e do Rio Grande do Sul.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:36:10",
+     "justificativa": "Questionou se a agenda não seria conservadora (75% repetida) e pediu mais ousadia no fechamento: monitoramento do mercado, resiliência a eventos climáticos extremos e constrained-off de hidrelétricas para 2025.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:36:51",
+   "processo": "48500.002080/2024-34",
+   "interessado": "distribuidoras com concessões vencendo entre 2025 e 2031 (19 concessionárias; EDP ES, Light, Ampla etc.); sustentação oral de Ricardo Brandão (Abradee)",
+   "assunto": "Abertura de consulta pública sobre a minuta de termo aditivo aos contratos de concessão de distribuição para prorrogação das concessões (Decreto 12.068/2024 e Lei 9.074/1995)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)",
+    "regulação normativa (consulta pública)",
+    "concessões de distribuição (prorrogação)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública por 47 dias (16/10 a 2/12/2024), aprovação final prevista até o fim do 1º bimestre de 2025. Minuta trata de resiliência a eventos climáticos, consulta ao usuário, alocação de riscos, flexibilidade do regime econômico, caducidade por 2 anos de descumprimento, renúncia a ações judiciais e recolhimento de multas. Procuradoria: manifestação apenas formal.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "1:45:51",
+     "justificativa": "Contrato de 30 anos precisa ser moderno e flexível; pede participação dos consumidores na CP.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:55:37",
+     "justificativa": "Elogiou o trabalho; defendeu pôr em discussão como condição de renovação a renúncia das distribuidoras a todas as demandas judiciais com o Estado e o recolhimento de multas judicializadas (recursos da CDE).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:55:40",
+     "justificativa": "Também aprova o voto da relatora (sem comentários registrados).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:56:15",
+   "processo": "48500.006876/2022-79",
+   "interessado": "CPFL Piratininga e Conselho de Consumidores da CPFL Piratininga; sustentação oral de Márcio Roberto (CPFL Piratininga)",
+   "assunto": "Pedidos de reconsideração contra a REH 3.277/2023 (revisão tarifária periódica 2023 da CPFL Piratininga): perdas não técnicas/áreas de severa restrição operativa (Baixada Santista), perdas técnicas, receitas irrecuperáveis, componentes financeiros, encargos de ativos de medição",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento por unanimidade (não conhecido quanto a ativos de medição)",
+   "resumo_voto": "Conhece do pedido do conselho de consumidores e nega provimento; conhece dos pedidos da CPFL Piratininga sobre perdas técnicas, perdas não técnicas, receitas irrecuperáveis e componentes financeiros e nega provimento; não conhece quanto a encargos de ativos de medição (esfera administrativa exaurida, Despacho 1.200/2022). Procuradoria: questão técnica, sem óbice jurídico.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "2:07:53",
+     "justificativa": "Leu apenas o dispositivo; voto disponibilizado no bloco.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "2:08:30",
+     "justificativa": "Não havendo discussão, vota com a relatora.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:08:30",
+     "justificativa": "Acompanha o voto da relatora.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:09:35",
+   "processo": "48500.001450/2019-47",
+   "interessado": "Transmissora Aliança de Energia Elétrica (Taesa), contrato de concessão 12/2019; sustentação oral de Vitor Sarmento de Melo (Taesa)",
+   "assunto": "Recurso contra o Despacho 2.007/2024 da SCE que negou RAP complementar pela conversão do arranjo de barramentos da SE Cerro Chato (BPT para BD4), custo alegado de R$ 46 milhões",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "leilões (transmissão)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "A conversão constava expressamente do objeto do contrato; eventual divergência com o anexo técnico deveria ter sido questionada na fase do edital. Procuradoria concordou: não há fato superveniente que justifique RAP adicional.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "2:25:05",
+     "justificativa": "Leu o dispositivo; conversão prevista e precificada no leilão.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:40",
+     "justificativa": "Acompanha a Procuradoria: o momento para questionar seria a discussão dos termos do edital.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:45",
+     "justificativa": "Acompanha o relator.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:26:40",
+   "processo": "48500.003943/2017-36 e 48500.004872/2019-34 (números incertos)",
+   "interessado": "Energy Assets do Brasil Ltda. (UTE Coari, sistema isolado, Amazonas); sustentação oral de Rafael Janiques",
+   "assunto": "Recurso contra o Despacho 2.559/2022 (SFF/SFG) que instruiu a CCEE a adotar regra para o custo total de geração (CTG) das térmicas que atenderam Coari durante a implantação da UTE Coari (operação em teste remunerada só pelo combustível; glosa alegada de cerca de R$ 27 milhões)",
+   "tema": [
+    "fiscalização e sanções",
+    "CDE e encargos setoriais (CCC, sistemas isolados)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Na operação em teste o custo variável (combustível) é reembolsado; receita fixa não é devida antes da operação comercial, conforme contrato. Procuradoria concordou com o voto.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "2:41:19",
+     "justificativa": "Leu o dispositivo; voto disponibilizado no bloco.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "2:42:10",
+     "justificativa": "Elogiou a exposição do subprocurador e antecipou concordância com o voto da relatora.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "2:42:15",
+     "justificativa": "Acompanha o voto da relatora.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "não identificado",
+   "motivo": "Secretário informa que um item foi retirado de pauta; número ininteligível na legenda."
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda, votos de quem acompanha aproximados e ordem de quem disse «eu voto»/«eu também» inferida.",
+  "Números de processo e nomes (Elvira, Ricardo Brandão, Márcio Roberto, Vitor Sarmento de Melo, Rafael Janiques, Eduardo Estevão) vêm da legenda automática e podem conter erros.",
+  "Itens do bloco não detalhados individualmente; item retirado não identificado."
+ ]
+}

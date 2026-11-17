@@ -1,0 +1,500 @@
+{
+ "meta": {
+  "video_id": "OmKQFBnGDBU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46ª RPO 2024 (Parte 2, sessão da tarde)",
+  "data": "2024-12-10",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Diretoria com quatro membros e uma cadeira vaga: dois empates registrados (CP 28/2024 nesta sessão; outro citado no encerramento) aguardam o quinto diretor.",
+   "Item 5 (hidrogênio): Mosna e Tili votaram contra; Sandoval pediu vista.",
+   "Item 15 (Eldorado): voto-vista de Sandoval; questão de ordem sem maioria; retirado de pauta para parecer da PF.",
+   "Item 16 (Coremas): decidido por maioria, Mosna vencido.",
+   "Encerramento por cansaço (última RPO de 2024): itens 79, 64 e outros (32, 45, 35, 13 e 14) não deliberados; houve aprovação verbal de prorrogação de prazo do item 13."
+  ]
+ },
+ "itens": [
+  {
+   "id": "12",
+   "ts": "0:01:26",
+   "processo": "48500.003300/2022-50 (legenda)",
+   "interessado": "ABEEólica e ABSOLAR (recorrentes); ONS; Abiape",
+   "assunto": "Recurso administrativo contra o Despacho 1318/2024 da STD que revisou os submódulos 7.3, 7.4, 7.13 e 7.15 dos Procedimentos de Rede (antecipação de exigências de SEP/CEP, modelos de simulação e relatório de comissionamento para DAPR-T/DAPR-P a partir de 1/1/2025)",
+   "tema": [
+    "transmissão (procedimentos de rede, ONS)",
+    "outorgas de geração (eólica, solar)",
+    "recursos administrativos",
+    "regulação normativa (AIR)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: parcial provimento nos termos do Despacho 3164/2024 e retificação para que o ONS forneça os requisitos funcionais dos SEP com antecedência mínima de 180 dias da primeira sincronização",
+   "resumo_voto": "Sustentações orais: Natália da Silva Caldeira (ABEEólica), Isabela Carneiro (ABSOLAR), Paulo André (Abiape) e Mauro Pereira Muniz (ONS); apresentação técnica de Benedito (STD). Relatora acompanha o Despacho 3164 (flexibilização dos modelos por etapas), acata proposta do ONS sobre prazo de 180 dias para o SEP, nega nulidade, AIR e transição de 5 anos: não há obrigação nova, só antecipação; pendências de DAPR subiram de 1.380 para 2.554; segurança do sistema após a perturbação de 15/08/2023 acima de interesses individuais; dispensa de AIR por urgência (REN 941, art. 7º).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:05:20",
+     "justificativa": "exigências já existiam desde a outorga; antecipação dá sinal regulatório contra comportamento procrastinador; urgência para segurança do SIN",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:18:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "1:18:18",
+     "justificativa": "comentário: sugeriu refletir sobre sinal econômico (adicional na TUST) para geradores que ficam anos com DAPR provisória, a título de reflexão, sem incluir no voto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:18:18",
+     "justificativa": "comentário: perplexidade com associações defendendo que dados essenciais só sejam entregues na DAPR-D; agentes não cumpriram obrigações no evento de 2023 e depois pedem ressarcimento",
+     "tom": "crítico às associações",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "1:19:11",
+   "processo": "48500.000176/2023-42",
+   "interessado": "Engie Brasil Energia S.A. (complexo eólico Campo Largo)",
+   "assunto": "Recurso administrativo e pedido de cautelar contra o Despacho 786/2023 da SRM (penalidade por insuficiência de lastro no primeiro ano de operação de usinas do complexo eólico Campo Largo)",
+   "tema": [
+    "comercialização (CCEE, lastro)",
+    "fiscalização e sanções (penalidade)",
+    "recursos administrativos",
+    "outorgas de geração (eólica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento, mantendo o Despacho 786/2023; perda de objeto da cautelar",
+   "resumo_voto": "Sustentação oral de Leandro César Xavier de Carvalho (Engie) alegando erro na regra de declaração de garantia física e penalidade desproporcional (cerca de R$ 9,8 milhões, segundo a legenda). Relator pulou a fundamentação (voto disponível) e leu só o dispositivo.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:30:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:30:16",
+     "justificativa": "mantém integralmente o Despacho 786/2023 (fundamentação não lida em sessão)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:30:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:30:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "CP39",
+   "ts": "1:31:18",
+   "processo": "48500.004206/2023 (número incerto na legenda)",
+   "interessado": "SGM/SCE/STD/STE; ABSOLAR",
+   "assunto": "Resultado da 1ª fase da Consulta Pública 39/2023 e abertura da 2ª fase sobre regulamentação do armazenamento de energia elétrica, incluindo usinas hidrelétricas reversíveis",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "armazenamento de energia",
+    "transmissão",
+    "tarifas (TUST/TUSD)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: 2ª fase da CP 39/2023 por 50 dias (12/12/2024 a 30/01/2025) e determinação à STD de incluir armazenamento na transmissão, distribuição e consumo na agenda regulatória 2025-2026",
+   "resumo_voto": "Sustentação de Isabela Carneiro (ABSOLAR) pedindo 60 dias; relator concedeu 50. Apresentação técnica de Alexandre (SGM): 817 contribuições; MUST com redução até 15%, tarifa pelo maior EUST evitando dupla cobrança, outorga de armazenador autônomo como PIE, empilhamento de receitas. Relator citou P&D com Energisa Tocantins e P&D sobre armazenamento como ativo de transmissão.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:16:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:16:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:10:23",
+     "justificativa": "armazenamento é a nova fronteira do setor; necessidade de regulamentar uso na transmissão e distribuição",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:16:17",
+     "confianca": "media",
+     "justificativa": "comentário: armazenamento associado à MMGD já previsto na Lei 14.300 e na REN 1000; potencial como alternativa à expansão de redes"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:17:01",
+   "processo": "48500.004476/2022-06 (legenda)",
+   "interessado": "10 empresas proponentes (Cemig, Eletronorte, Furnas, Petrobras, grupos Neoenergia/Eneva e outros, conforme a legenda)",
+   "assunto": "Avaliação inicial de propostas de projetos de PDI da Chamada Estratégica 23/2024 «Hidrogênio no contexto do setor elétrico brasileiro» (13 de 24 propostas recomendadas, cerca de R$ 1,49 bilhão)",
+   "tema": [
+    "P&D (PDI)",
+    "hidrogênio",
+    "institucional (competência ANEEL x ANP)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "não decidido: pedido de vista do Diretor-Geral Sandoval Feitosa após Fernando Mosna e Ricardo Tili votarem por não aprovar",
+   "resumo_voto": "Relatora (processo herdado de Hélvio Guerra) propôs aprovar 13 propostas e abriu diligência de 10 dias para as outras 11. Apresentação técnica de Lucas (STE). Mosna objetou: a Lei 14.948/2024 deu à ANP a regulação do hidrogênio; R$ 1,1 bilhão de PDI pago pelo consumidor de energia sem benefício direto (aço verde, margarina, refinaria); preferiria armazenamento.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova avaliação inicial de 13 propostas",
+     "ts": "2:50:58",
+     "justificativa": "propostas atenderam o edital; consumidor do futuro com eletrificação; inovação em missões; levantar custo do hidrogênio verde no Brasil (LCOH ~US$ 4,53/kg)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge: não aprova nenhum projeto",
+     "ts": "3:29:41",
+     "justificativa": "regulação do hidrogênio passou à ANP pela Lei 14.948/2024; não se sente confortável de pôr R$ 1,1 bilhão na conta do consumidor de energia sem benefício direto",
+     "tom": "crítico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "diverge: não aprova nenhum dos projetos",
+     "ts": "3:29:41",
+     "justificativa": "acompanha a preocupação de Mosna; antes questionou a falta de dispositivo sobre as 11 propostas em diligência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "3:30:05",
+     "justificativa": "achou drástico não aprovar; vai reavaliar para endereçar as preocupações de Fernando e Ricardo; defendeu que fontes eólica e solar passem a pagar P&D",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "3:30:36",
+   "processo": "48500.000993/2019-23 (legenda)",
+   "interessado": "Gerdau S.A.; CCEE",
+   "assunto": "Impugnação contra decisão do Conselho de Administração da CCEE (reunião 1035) que indeferiu a recontabilização 3449 da alocação de geração própria (repasse indireto, UHE Dona Francisca) de 2017",
+   "tema": [
+    "comercialização (CCEE, recontabilização)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: negar provimento; determinar à CCEE o desconto da energia alocada indevidamente em 2018 (Aços Anhanguera e Gerdau Pinda, jan-nov, a partir de jan/2025) e a devolução dos emolumentos; inciso III suprimido",
+   "resumo_voto": "Sustentação de Thiago Sandoval Furtado (Gerdau): equívoco de número de contrato, não omissão; prazo de 3 meses inaplicável à AGP anual; 2018 decaído. Procurador-Geral Raul: recontabilização não serve para registrar contratos fora do prazo. Relator pulou fundamentação e suprimiu o inciso III.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:45:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:43:41",
+     "justificativa": "recontabilização não pode suprir registro fora do prazo (alinhado à PF)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:45:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:45:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:46:12",
+   "processo": "27100.000974/1988 (legenda)",
+   "interessado": "Companhia Brasileira de Alumínio (CBA) – UHE Sobragi (Simão Pereira e Belmiro Braga/MG)",
+   "assunto": "Prorrogação do prazo de outorga da UHE Sobragi – voto-vista do Diretor-Geral",
+   "tema": [
+    "outorgas de geração (hidrelétrica, prorrogação, Lei 12.783)",
+    "voto-vista"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: recomendar ao MME o indeferimento da prorrogação e incluir a UHE Sobragi no rol de usinas a licitar",
+   "resumo_voto": "Voto do relator proferido na 45ª RPO; vista de Sandoval, que pediu parecer à PF (Parecer 274 de 09/12/2024): usina enquadra-se no § do art. 1º da Lei 12.783 (regime de cotas). Ricardo explicou que não trouxe o caso da UHE Jauru (aceitou cotas, aguarda cálculo da RAG).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator (voto na 45ª RPO), acompanha",
+     "ts": "3:52:32",
+     "justificativa": "voto proferido na reunião anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha integralmente o relator e proclama",
+     "ts": "3:47:54",
+     "justificativa": "parecer 274/2024 da PF confirma o enquadramento da usina no regime da Lei 12.783",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:52:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator pelas razões do voto-vista",
+     "ts": "3:52:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "CP28",
+   "ts": "3:53:06",
+   "processo": "48500.001390/2024-14",
+   "interessado": "ABEEólica; geradores enquadrados na MP 1212/2024",
+   "assunto": "Resultado da Consulta Pública 28/2024: postergação do início dos CUST por mais de 12 meses para empreendimentos da MP 1212/2024",
+   "tema": [
+    "transmissão (acesso, CUST, EUST)",
+    "CDE e encargos (desconto no fio)",
+    "regulação normativa (consulta pública)",
+    "outorgas de geração (eólica, solar)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "empate 2 x 2, sem resultado proclamado; aguarda o quinto diretor",
+   "resumo_voto": "Sustentação de Natália da Silva Caldeira (ABEEólica). Relator, contra a STD, propôs postergação única e não onerosa de até 36 meses do início dos CUST não iniciados (a partir de 1/1/2025), sem GPC para CUST anteriores à REN 1069/2023 e com GPC para posteriores; prazo até 31/12/2024 para pedir ao ONS. Agnes abriu divergência pela regra do Módulo 5 das Regras de Transmissão sem tratamento diferenciado.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, possibilita postergação de até 36 meses",
+     "ts": "4:35:01",
+     "justificativa": "MP 1212 e Portaria MME 79 mandam operacionalizar plenamente o benefício; outorga e ponto de conexão são indissociáveis; direito adquirido para CUST anteriores à REN 1069",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge: manter mecanismos do Módulo 5 das Regras de Transmissão sem tratamento diferenciado",
+     "ts": "4:52:58",
+     "justificativa": "MP visava a falta de transmissão e o desconto; postergar CUST afeta outros agentes que pagam pela transmissão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "4:53:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Agnes",
+     "ts": "4:53:18",
+     "justificativa": "MP 1212 não trouxe comando objetivo para postergar CUST; reserva de rede escassa sem contrapartida; usinas já tiveram tratamento especial",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "4:53:59",
+   "processo": "48500.000432/2017-62 e 48500.004686/2015-98 (legenda)",
+   "interessado": "Eldorado Brasil Celulose S.A. – UTE Onça Pintada (MS); AGEMS",
+   "assunto": "Pedido de reconsideração contra o Despacho 3404/2022 (excludente parcial de responsabilidade por atraso) e aplicação de multa editalícia (TIP 1/2020) – voto-vista do Diretor-Geral",
+   "tema": [
+    "fiscalização e sanções (multa editalícia x regulamentar)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos",
+    "voto-vista",
+    "questão de ordem"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pelo Diretor-Geral após questão de ordem sem maioria (insubsistência do voto do ex-diretor Hélvio Guerra); pedirá parecer à PF",
+   "resumo_voto": "Voto-vista de Sandoval: declarar insubsistente o voto de Hélvio Guerra (34ª RPO/2023) por fato novo (Parecer 5/2024 da PF), negar a reconsideração, desconstituir o TIP e mandar a SFT instaurar processo pela REN 846. Ricardo levantou questão de ordem: parecer não é fato novo; o Procurador-Geral Raul concordou. Votação da preliminar: Agnes e Ricardo pela subsistência; Mosna declarou suspeição; sem maioria de três.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, mantém o voto; na preliminar vota pela não insubsistência do voto de Hélvio Guerra",
+     "ts": "5:16:14",
+     "justificativa": "alinha-se à PF: parecer não é fato novo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: insubsistência do voto anterior, nega reconsideração, desconstitui TIP e aplica regime da REN 846; retira de pauta",
+     "ts": "5:00:20",
+     "justificativa": "ex-diretor não conheceu o novo parecer da PF; princípio da especialidade: pena editalícia só se a obra não for implantada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "declara suspeição",
+     "ts": "5:16:20",
+     "justificativa": "suspeição alcança também a questão de ordem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "na preliminar, acompanha Agnes: parecer não é fato novo, mantém o voto de Hélvio Guerra",
+     "ts": "5:16:33",
+     "justificativa": "parecer é opinativo e não pode tornar um voto insubsistente; risco de precedente",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "5:22:56",
+   "processo": "48500.000320/2024-11 (legenda)",
+   "interessado": "CCEE; distribuidoras e transmissoras (cotas da CDE)",
+   "assunto": "Abertura de consulta pública sobre o orçamento anual da CDE 2025 (cerca de R$ 40,6 bilhões; CDE Uso R$ 36,5 bilhões) e homologação de cotas mensais provisórias",
+   "tema": [
+    "CDE e encargos setoriais",
+    "regulação normativa (consulta pública)",
+    "tarifas"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: CP por intercâmbio documental de 45 dias (11/12/2024 a 24/01/2025) e cotas provisórias da CDE Uso a partir de jan/2025",
+   "resumo_voto": "Relator leu só o encaminhamento; Sandoval perguntou ao técnico André (STR) sobre o aumento (fim do aporte da Eletrobras, descontos de fontes incentivadas, Luz para Todos com alta de cerca de 58%).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "5:32:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "5:26:38",
+     "justificativa": "números da CDE lamentavelmente cada vez mais expressivos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "5:32:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:32:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "5:33:47",
+   "processo": "48500.004232/2020-84 e 48500.004235/2020-18 (legenda)",
+   "interessado": "SPEs Coremas 4 a 8 (recorrentes) e Coremas 1 a 3; ONS",
+   "assunto": "Pedido de reconsideração contra o Despacho 2284/2024 (cautelar que mandou Coremas 4 a 8 ressarcirem Coremas 1 a 3 em 48 horas pelo compartilhamento de instalações, sob pena de desconexão)",
+   "tema": [
+    "transmissão (compartilhamento de instalações)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria (3 x 1): não conhecer do recurso por intempestivo; Fernando Mosna vencido",
+   "resumo_voto": "Sustentação de André Edelstein (Coremas 1). PF (Raul): depósito judicial de cerca de R$ 4,5 milhões esvazia a cautelar. Relatora propôs não conhecer e declarar cumprido o item 1 do despacho; retirou esse inciso após objeção de Ricardo. Mosna sustentou abuso de direito e propôs remeter à CCEE o desligamento e mandar a SFT fiscalizar Coremas 4 a 8 e o ONS (REN 846, art. 11, XXI).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, não conhece do recurso (intempestivo); retira o inciso que declarava cumprido o despacho",
+     "ts": "5:53:22",
+     "justificativa": "recurso intempestivo sem vício de legalidade; seguiu parecer da PF",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge: além da intempestividade, remeter à CCEE o desligamento de Coremas 4 a 8 e determinar à SFT fiscalização de Coremas 4 a 8 e do ONS",
+     "ts": "6:17:22",
+     "justificativa": "decisão da ANEEL descumprida; depósito judicial não é pagamento; abuso de direito (CC art. 187)",
+     "tom": "enfático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora apenas no item da intempestividade",
+     "ts": "6:18:04",
+     "justificativa": "recurso intempestivo sem ilegalidade não permite outras determinações nesse processo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (item 1) e proclama",
+     "ts": "6:18:08",
+     "justificativa": "não se sente seguro de avançar como propôs Mosna sem avaliar impactos",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "15",
+   "motivo": "retirado de pauta pelo Diretor-Geral após questão de ordem sem maioria"
+  },
+  {
+   "id": "79",
+   "motivo": "retirado pelo relator (férias)"
+  },
+  {
+   "id": "64",
+   "motivo": "retirado no encerramento"
+  },
+  {
+   "id": "13",
+   "motivo": "não deliberado no mérito; aprovada verbalmente prorrogação de prazo"
+  },
+  {
+   "id": "14",
+   "motivo": "anunciado para o final, não deliberado"
+  }
+ ],
+ "limites_da_analise": [
+  "Arquivo de leitura sem marcadores intermediários; ts obtidos por busca na transcrição JSON.",
+  "Cabeçalho do .md lista Gentil Nogueira e Willamy Frota, mas eles não falam nesta sessão; em dez/2024 a diretoria tinha quatro membros (Sandoval, Agnes, Mosna, Tili). Os dois foram excluídos dos presentes.",
+  "Ordem de quem disse cada «acompanho» nas votações em bloco não é identificada pela legenda; atribuição pelo padrão (Diretor-Geral proclama por último), confiança média.",
+  "Números de processo e alguns nomes (empresas, sustentantes) vêm da legenda automática e podem estar errados; o número do item da CP 39 (armazenamento) e da CP 28 não foi dito claramente.",
+  "Item 15: Hélvio Guerra votou em 2023 (34ª RPO), não nesta sessão; não registrado como voto."
+ ]
+}

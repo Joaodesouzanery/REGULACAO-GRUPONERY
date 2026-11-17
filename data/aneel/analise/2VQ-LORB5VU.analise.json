@@ -1,0 +1,97 @@
+{
+  "meta": {"video_id": "2VQ-LORB5VU", "fonte": "legenda automática do YouTube; falantes inferidos pela ordem das falas; ts = tempo do vídeo (sessão começa ~0:13); ts de quem só acompanha é aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "40ª Reunião Pública Ordinária de 2024", "data": "2024-10-30", "formato": "presencial (sede da ANEEL) com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores (uma cadeira vaga, aguardando indicação do MME e sabatina).", "Aprovadas as atas da 39ª e da 38ª reuniões ordinárias (a 38ª não havia sido aprovada por falta de quórum).", "Pauta com 38 itens; itens 4 a 38 em bloco; destacados 7 e 13 (com sustentação oral); retirado o item 20.", "Itens 6 e 17 do bloco, item 3 e itens 3 a 5 do dispositivo do item 1 ficaram sem deliberação por empate 2 a 2, aguardando o quinto diretor.", "Item 13: pedido de vista da diretora Agnes da Costa.", "Encerrada por volta de 12h10."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:24:37", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 4 a 38 em bloco (exceto 7 e 13 destacados e 20 retirado); correção material no item 18 (município de Sobral/CE em vez de Eusébio/CE)",
+      "tema": ["bloco de itens"], "relator": "diversos",
+      "resultado": "aprovados por unanimidade, exceto itens 6 e 17, que ficaram sem deliberação por empate 2 a 2",
+      "resumo_voto": "Fernando Mosna abriu divergência nos itens 6 e 17; Ricardo Tili (inferido) o acompanhou; Agnes da Costa e Sandoval Feitosa aprovaram o bloco.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco (relatora do item 6)", "ts": "0:24:50", "justificativa": "Aprova os itens remanescentes; corrige o dispositivo do item 18 (falante inferido).", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "diverge nos itens 6 e 17; acompanha os demais", "ts": "0:25:44", "justificativa": "Item 6 (recurso de distribuidora contra auto de infração de agência estadual, NC01 por não envio de informações sobre data center): discorda do cancelamento da não conformidade e mantém a multa da agência estadual (cerca de R$ 29 milhões, em vez de cerca de R$ 25 milhões da relatora); interesse público e eficiência, efeito pedagógico. Item 17 (efeito suspensivo, Timo Comercializadora x CCEE, desligamento por atraso de contribuição associativa paga no dia seguinte): caso análogo a Eletronorte e Santo Antônio Energia, dá provimento.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o bloco e a divergência de Fernando Mosna nos itens 6 e 17", "ts": "0:31:21", "justificativa": "Acompanha os votos divergentes do diretor Fernando (falante inferido).", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:31:39", "justificativa": "Proclama itens 6 e 17 sem deliberação por falta de maioria.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:32:07", "processo": "48500.002682/2024-66", "interessado": "CCEE; MME; distribuidoras; consumidores",
+      "assunto": "Abertura de consulta pública sobre os efeitos tarifários da quitação antecipada das contas Covid e Escassez Hídrica (MP 1.212/2024, antecipação de recebíveis da CDE/Eletrobras)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "regulação normativa", "fiscalização e sanções", "institucional/TCU"],
+      "relator": "Fernando Mosna",
+      "resultado": "itens 1 e 2 aprovados por unanimidade (consulta pública de 45 dias, 30/10 a 13/12/2024, e fiscalização da CCEE); itens 3 a 5 (envio à CGU, Congresso e TCU sobre o despacho do secretário de energia do MME) sem maioria, aguardando o quinto diretor",
+      "resumo_voto": "Relator aponta queda do benefício ao consumidor de cerca de R$ 510 milhões homologados pelo MME para cerca de R$ 46,5 milhões, waiver fee de cerca de R$ 285 milhões aos bancos, 53 distribuidoras com VPL negativo (CEMIG a mais prejudicada); propõe fiscalização da CCEE e envio à CGU, Congresso e TCU por possível erro grosseiro. Apresentação técnica da STR (Felipe Augusto Cardoso de Moraes). Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:13:00", "justificativa": "Benefício ao consumidor homologado (R$ 510 mi) cerca de 11 vezes maior que o final (R$ 46,5 mi); waiver fee seis vezes maior que o benefício; consumidor usado como justificativa de operação em que bancos foram os principais ganhadores; nega antecipar juízo de valor e invoca dever de ofício para evitar prevaricação.", "tom": "crítico ao MME e à CCEE", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator nos itens 1 e 2; não acompanha os itens 3 a 5", "ts": "2:08:07", "justificativa": "Ainda não tem juízo formado sobre as demais determinações nesta fase de abertura de consulta pública (falante inferido).", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha integralmente o relator", "ts": "2:08:20", "justificativa": "Acompanha integralmente o voto do relator (atribuição inferida pela ordem e pelo resultado de empate).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator nos itens 1 e 2; não acompanha os itens 3 a 5", "ts": "2:08:30", "justificativa": "Pelas mesmas razões da diretora Agnes; antes comentou que o voto antecipa conclusões antes de fiscalização formal, mas elogiou a fundamentação e lembrou a experiência da ANEEL nas contas ACR, Covid e Escassez.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:11:52", "processo": "48500.0020?/2024", "interessado": "ONS",
+      "assunto": "Abertura de consulta pública sobre a proposta orçamentária trienal do ONS para 2025-2027 (cerca de R$ 3,38 bilhões)",
+      "tema": ["regulação normativa", "transmissão", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade: consulta pública por intercâmbio documental de 21 dias (31/10 a 21/11/2024)",
+      "resumo_voto": "Apresentação da SFF: crescimento de 32% sobre o realizado no ciclo anterior (pessoal, TI e reforma do prédio do CNOS); prazo reduzido para aprovar até o fim de 2024. Relatora destaca transparência, críticas às ações judiciais do ONS contra glosas e propõe prazo de um ano para a SFF especificar funcionalidades do sistema de orçamentação.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:30:00", "justificativa": "Consulta pública essencial para que quem custeia (EUST, 97%) escrutine os custos; ações judiciais do ONS contra glosas vão na contramão da governança; reconhece complexidade do ONS e necessidade de TI e reforma do CNOS.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:45:16", "justificativa": "Acompanha a relatora.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:45:18", "justificativa": "Acompanha a relatora.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:45:20", "justificativa": "Acompanha a diretora Agnes e proclama.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:46:04", "processo": "48500.000886/2023-81", "interessado": "Parnaíba Geração e Comercialização de Energia S.A. e eólicas Ventos de São Canuto IV, São Guilherme, São Jeremias, São Julião, São Raimundo, São Roberto e São Galdino",
+      "assunto": "Pedido de reconsideração contra a REH 3.217/2023 (TUST do ciclo 2023-2024); retomada de votação",
+      "tema": ["tarifas e revisão tarifária", "transmissão", "recursos administrativos"],
+      "relator": "Fernando Mosna",
+      "resultado": "sem resultado: empate 2 a 2, aguardando o quinto diretor",
+      "resumo_voto": "Em fase de votação de reunião anterior: Mosna e Tili já haviam votado; Sandoval Feitosa divergiu; Agnes da Costa acompanha a divergência em linha com o despacho 651/2024 da Procuradoria.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator (voto proferido em reunião anterior)", "ts": "2:46:04", "justificativa": "Mérito não lido nesta sessão.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (voto proferido em reunião anterior)", "ts": "2:46:04", "justificativa": "Registrado pelo secretário.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge (voto proferido em reunião anterior)", "ts": "2:46:04", "justificativa": "Registrado pelo secretário como voto divergente.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "diverge (acompanha a dissidência)", "ts": "2:47:38", "justificativa": "Em linha com o despacho 651/2024 da Procuradoria da ANEEL.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:48:03", "processo": "48500.002190/2024-71", "interessado": "Energisa Sergipe (distribuidora); AGRESE",
+      "assunto": "Recurso contra auto de infração 2/2023 da agência estadual de Sergipe: multa por não enviar informações/documentos (dados CDE 2016-2017)",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "CDE e encargos setoriais"],
+      "relator": "Fernando Mosna",
+      "resultado": "unânime: conhecer e negar provimento",
+      "resumo_voto": "Sustentação oral de Eduardo Licurgo Leite pela Energisa Sergipe (tecnologia da época, pedidos de prorrogação, demora da própria agência, pandemia; única distribuidora punida). Procuradoria não se manifestou. Relator leu só o dispositivo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega provimento)", "ts": "2:59:51", "justificativa": "Leu apenas o dispositivo; voto já disponibilizado no bloco.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:00:00", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:00:02", "justificativa": "Acompanha o relator.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:00:05", "justificativa": "Acompanha o eminente relator e proclama.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "13", "ts": "3:00:50", "processo": "48500.004104/2017", "interessado": "Sol Maior Geradora de Energia S.A. (usina solar de 5 MW no Tocantins; LER 8/2015)",
+      "assunto": "Pedido de reconsideração contra o despacho 2.400/2020: multa editalícia por atraso na entrada em operação comercial",
+      "tema": ["fiscalização e sanções", "leilões", "outorgas de geração", "recursos administrativos"],
+      "relator": "Ricardo Tili",
+      "resultado": "pedido de vista de Agnes da Costa",
+      "resumo_voto": "Sustentação oral de Henrique Silva Reis (Sol Maior): edital previa multa da REN 63; dupla penalização; Procuradoria mudou entendimento (parecer 5/2024) a favor da desconstituição, mas registrou que a diretoria não o acompanhou. Relator nega provimento, mantém a multa editalícia e revoga a cautelar (despacho 1.812/2021).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "3:11:00", "justificativa": "Diretoria já sedimentou entendimento (caso Manuel Alves) pela aplicação da multa editalícia, conforme parecer anterior da Procuradoria.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:11:53", "justificativa": "Vista concedida.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "não votou (vista)", "ts": "3:11:53", "justificativa": "Votação suspensa pelo pedido de vista.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "3:11:53", "justificativa": "Concede a vista.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["item 20 (retirado de pauta; assunto não informado)"],
+  "limites_da_analise": ["Legenda automática; o .md tem um único marcador de tempo e os falantes não são identificados por fala: votos dos itens bloco, 1, 2 e 7 foram atribuídos pela ordem das falas e pelo resultado proclamado.", "Item 1: a fala 'acompanho integral o voto do relator' foi atribuída a Ricardo Tili por dedução (empate 2 a 2 nos itens 3 a 5); confiança baixa.", "Itens 6 e 17 do bloco: assuntos/interessados reconstruídos só pela fala de divergência; nomes de empresas incertos (C3D? Timo Comercializadora).", "Número do processo do item 2 incompleto na legenda.", "Relator do item 13 dito 'Ricardo Lavorato' = Ricardo Tili.", "Valores monetários sujeitos a erro da legenda."]
+}

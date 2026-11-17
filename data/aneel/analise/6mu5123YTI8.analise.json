@@ -1,0 +1,108 @@
+{
+  "meta": {"video_id": "6mu5123YTI8", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "25ª Reunião Pública Ordinária de 2024 (Parte 1)",
+    "data": "2024-07-16",
+    "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["cadeira vaga (quinta diretoria aguardando indicação do MME)"],
+    "observacoes": [
+      "Quórum de quatro diretores; o Diretor-Geral registra que falta o quinto diretor e apela ao MME pela indicação.",
+      "Ata da 24ª RPO aprovada com ressalva do Diretor-Geral (não esteve presente).",
+      "Pauta de 37 itens; itens 11 a 37 em bloco (item 16 destacado); item 10 retirado de pauta; ordem: bloco, 1, 2, 3, 8, 7, 5, 6, 4, 9 e 16. Esta Parte 1 cobre bloco e itens 1, 2, 3, 8 e 7; a sessão foi suspensa para almoço às 14h30.",
+      "Item 2: empate 2 a 2 sobre DEMEI e Eletrocar (exclusão de receita de compartilhamento de postes não recebida da Oi, em recuperação judicial); só Nova Palma, Hidropan e prorrogação da Muxfeldt foram deliberadas; DEMEI e Eletrocar ficaram sem decisão até haver quinto diretor ou novo pleito.",
+      "Item 7 (Dunamis): decidido por maioria; só o voto do Diretor-Geral aparece no vídeo; os demais votos teriam sido colhidos antes."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:03:50", "processo": "itens 11 a 37 (exceto 16)", "interessado": "diversos",
+      "assunto": "Itens de bloco da 25ª RPO 2024, com retificação de erro material no item 19 (RAP da transmissora Montes Claros: primeiro, não segundo, banco de reatores de barra 500 kV)",
+      "tema": ["transmissão (RAP, reforços)", "diversos"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Votos e atos disponibilizados com a pauta; diretores aprovam os itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco com retificação do item 19", "ts": "0:04:15", "justificativa": "erro material na denominação da instalação da Montes Claros, retificado na publicação de 15/07", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "aprova", "ts": "0:04:58", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova", "ts": "0:05:00", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova", "ts": "0:05:03", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova e proclama", "ts": "0:05:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:05:28", "processo": "48500.002174/2024-88", "interessado": "Secretaria de Leilões (SEL)",
+      "assunto": "Abertura de consulta pública (17/07 a 02/09/2024) para aprimorar edital dos leilões de energia existente A-1, A-2 e A-3 de 2024 (Leilões 3, 4 e 5/2024)",
+      "tema": ["leilões (geração)", "regulação normativa (consulta pública)", "comercialização"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilões em 06/12/2024 na plataforma da CCEE, produtos por quantidade de 2 anos; novidade: A-3 sem indexação (preço travado); inclusão de títulos de capitalização como garantia de proposta por imposição da Lei 14.770/2023. Apresentação técnica de Igor (SEL).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura da consulta pública", "ts": "0:11:19", "justificativa": "aprimorar minuta de edital e anexos dos leilões A-1, A-2 e A-3 de 2024", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:15:26", "justificativa": "destacou a inovação do A-3 e a atualização com títulos de capitalização", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:15:28", "justificativa": "destacou o leilão sem indexação, com preço travado, como sinal importante", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:15:30", "justificativa": "perguntou a origem dos títulos de capitalização (imposição legal); elogiou a antecedência para 45 dias de consulta", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:16:11", "processo": "48500.005917/2023-91", "interessado": "DEMEI (Ijuí), Hidropan, Eletrocar (Carazinho), Nova Palma Energia, Muxfeldt Marin (Mux Energia) — permissionárias do RS",
+      "assunto": "Reajuste tarifário anual 2024 de cinco permissionárias gaúchas, com pleito de DEMEI e Eletrocar para excluir da base de outras receitas a receita de compartilhamento de postes faturada e não recebida da Oi (em recuperação judicial)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "distribuição", "CDE e encargos setoriais"],
+      "relator": "Fernando Mosna",
+      "resultado": "parcial: aprovados por unanimidade os reajustes de Nova Palma (+8,30%) e Hidropan (-1,17%) e a prorrogação das tarifas da Mux Energia até 20/08/2024; DEMEI e Eletrocar sem decisão por empate 2 a 2 (relator e Ricardo Tili a favor de acolher o pleito; Agnes da Costa e Sandoval Feitosa pela instrução técnica)",
+      "resumo_voto": "Relator acolheu o pleito por caso concreto (distribuidora com mercado inferior a 700 GWh/ano, devedor em recuperação judicial, processo tarifário, valor relevante frente à parcela B: R$ 768 mil DEMEI e R$ 960 mil Eletrocar), para evitar enriquecimento sem causa do consumidor; efeitos -6,35% DEMEI e -7,69% Eletrocar (área técnica: -6,76% e -8,24%). Longa discussão sobre risco de precedente, transferência do risco de faturamento ao consumidor, redação no dispositivo e prorrogação de ofício da tarifa em caso de empate (STR e Procuradoria favoráveis; relator e Ricardo Tili contrários). Diretor-Geral não propôs a prorrogação ao final; relator disse que as empresas podem retirar o pleito ou pedir prorrogação até 22/07.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova com acolhimento do pleito de DEMEI e Eletrocar", "ts": "0:33:19", "justificativa": "regra do PRORET usa o faturado; repassar 60% de receita não recebida desde 2019/2022 gera enriquecimento sem causa do consumidor às custas de permissionária pequena; balizas: processo tarifário, porte inferior a 700 GWh/ano, devedor em recuperação judicial, peso na parcela B; aceitou incluir novo parágrafo de fundamentação circunscrevendo o caso, não no dispositivo", "tom": "argumentativo, firme", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "diverge parcialmente: aprova Nova Palma, Hidropan e prorrogação da Mux; para DEMEI e Eletrocar segue a área técnica", "ts": "1:20:15", "justificativa": "flexibilizar transfere ao consumidor o risco de faturamento de atividade acessória prestada a agente de fora do setor; valores baseados em ofício da empresa; risco de precedente com agentes em recuperação judicial; só aceitaria se a delimitação constasse do dispositivo", "tom": "insegura com a flexibilização no caso concreto", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:20:48", "justificativa": "contra colocar a delimitação no dispositivo (basta a fundamentação); contrário a prorrogar tarifa de ofício, pois adiaria redução tarifária ao consumidor", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência de Agnes da Costa (aprova Nova Palma, Hidropan e prorrogação da Mux; mantém instrução técnica para DEMEI e Eletrocar) e proclama", "ts": "1:46:42", "justificativa": "embora ache a proposta coerente, preocupa-o o espalhamento da decisão (Oi em recuperação judicial em todo o país; geradores em recuperação judicial); cogitou prorrogar a tarifa de DEMEI e Eletrocar pelo impasse por falta do quinto diretor", "tom": "preocupado com precedentes", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:50:06", "processo": "48500.004732/2024-88; 48500.005332/2024-91; 48500.005631/2023-13 (números parciais na legenda)", "interessado": "concessionárias de transmissão; ONS; usuários do SIN",
+      "assunto": "RAP das transmissoras, TUST, tarifa de transporte de Itaipu, encargos e TUSDg de referência (88 e 138 kV) para o ciclo 2024/2025",
+      "tema": ["transmissão (RAP)", "tarifas (TUST, TUSDg)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "RAP total cai de R$ 48,7 bi para R$ 47,4 bi (-2,7%), efeito médio estimado -0,74% nas tarifas finais; 379 contratos; TUST em transição locacional (80% nacional / 20% regional); determina à SFF, com a SCE, cobrar informações pendentes da CTEEP (4 despachos). Apresentação técnica de Mateus (STR).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "2:08:03", "justificativa": "acompanha integralmente a área técnica", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:15:07", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:15:09", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:15:05", "justificativa": "elogiou a revisão das transmissoras que reduziu a RAP; comparou subsídios (cerca de R$ 40 bi) ao custo de uma rede de transmissão do tamanho da europeia; cobrou da fiscalização as informações da CTEEP", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:18:29", "processo": "48500.000141/2023 (número parcial)", "interessado": "Enel Distribuição Rio (Enel RJ); sustentação oral de Paulo Félix Gabardo (consultoria, pela Enel Rio)",
+      "assunto": "Requerimento administrativo da Enel Rio sobre o cálculo do aporte de capital para cumprir o critério de eficiência econômico-financeira (anexo 3 do 6º termo aditivo do contrato 5/1996) em 2021 e 2022",
+      "tema": ["distribuição", "fiscalização econômico-financeira", "recursos administrativos", "contratos de concessão"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade (parcial provimento)",
+      "resumo_voto": "Rejeita o aporte como reforço do LAJIDA (insuficiência de caixa); por isonomia com a Light, admite aporte destinado à redução da dívida líquida, desde que LAJIDA maior que QRR; aportes de 2022 e 2023 (e até 180 dias após a apuração) valem para 2021 e 2022; SFF instrui processo específico para apurar valores. Procuradoria (parecer de João Alfredo Baetas) acompanha a SFF.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, dá parcial provimento", "ts": "3:15:42", "justificativa": "aporte para tapar buraco de caixa permitiria endividamento crescente e contraria a trajetória de melhoria contínua do Decreto 8.461/2015; aporte deve reduzir dívida líquida", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "3:20:23", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "3:20:25", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "3:20:19", "justificativa": "resumiu como réplica da decisão do caso Light", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "3:22:54", "processo": "48500.001739/2021-67; 48500.001740/2021-91; 48500.001741/2021-36; 48500.00..32/2021-81 (parciais)", "interessado": "Dunamis Projetos de Energia Fotovoltaica SPE S.A. (UFVs Dunamis 1 a 4)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1.258/2024 (alteração de cronogramas das UFVs Dunamis 1 a 4)",
+      "tema": ["outorgas de geração (solar)", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "conhecido e negado provimento, por maioria",
+      "resumo_voto": "Votação já estava em curso; só falta o voto do Diretor-Geral, que acompanha o relator. Fundamentos e voto divergente não aparecem neste vídeo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "3:22:54", "justificativa": "voto proferido antes; não exibido neste vídeo", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:23:43", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "10", "relator": "não identificado", "motivo": "retirado de pauta (motivo não dito)", "ts": "0:03:30"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo parciais, nomes de empresas distorcidos (ex.: mux/muxfeldt, demei, Cetep=CTEEP).",
+    "Falantes não identificados na transcrição; atribuições inferidas pelo contexto. No bloco, quem retificou o item 19 não está claro.",
+    "Item 2: a atribuição de Ricardo Tili ao lado do relator e de Sandoval ao lado de Agnes foi inferida (Sandoval declara acompanhar a divergência de Agnes; o placar foi 2 a 2).",
+    "Item 7: decidido por maioria, mas os votos de Agnes da Costa e Ricardo Tili e quem divergiu não aparecem neste vídeo (provavelmente em sessão anterior).",
+    "Itens 5, 6, 4, 9 e 16 ficaram para a Parte 2 (vídeo distinto)."
+  ]
+}

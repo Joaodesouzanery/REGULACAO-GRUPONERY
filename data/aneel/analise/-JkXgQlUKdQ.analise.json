@@ -1,0 +1,112 @@
+{
+  "meta": {"video_id": "-JkXgQlUKdQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "24", "data": "2024-07-09", "formato": "presencial (Parte 2 da 24ª Reunião Pública Ordinária)",
+    "presidente_da_sessao": "Agnes da Costa (conduz a sessão como diretora-geral substituta, inferido)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa", "Gentil Nogueira"],
+    "observacoes": [
+      "Parte 2 (tarde) da 24ª RPO de 09/07/2024; ordem alterada: itens 8, 3, 21, 18, 6 e 7. Encerramento citando 11 itens na leitura no dia, mais 2 excluídos.",
+      "Colegiado com apenas três diretores votantes (fala de 'um diretor faltante' e de diretor de férias); Hélvio Guerra já é citado como ex-diretor.",
+      "Item 3 (Minha Casa Minha Vida / inversão de fluxo): três votos diferentes (Agnes, Mosna, Tili), sem três votos convergentes; sem deliberação, volta à próxima reunião.",
+      "Item 21 (prazos de outorga de PCHs): Mosna acompanha o relator Tili; Agnes pede vista.",
+      "Item 18 (Enel Ceará x Dom Pedro I): voto-vista de Agnes acompanhado por todos os presentes; resultado proclamado 'por maioria' porque o voto do relator original Hélvio Guerra (proferido em reunião anterior) ficou vencido."
+    ]
+  },
+  "itens": [
+    {
+      "id": "8", "ts": "0:00:14",
+      "processo": "48500.000682/2022", "interessado": "Companhia de Eletricidade do Amapá (CEA / Equatorial)",
+      "assunto": "Recurso administrativo da CEA contra o Despacho 3.452/2022 (SFF) que determinou recolhimento à CDE de diferenças do saldo não comprometido de P&D e eficiência energética (jan/2013 a ago/2020)",
+      "tema": ["recursos administrativos", "CDE e encargos setoriais", "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"],
+      "relator": "Ricardo Tili",
+      "resultado": "Unânime: recurso conhecido e parcialmente provido; STR deve incluir no recálculo do ativo regulatório da CEA (art. 14 da REH 3.313/2024) o valor de cerca de R$ 40 milhões a preços de ago/2020, corrigido pela Selic (em vez de componente financeiro negativo no próximo processo tarifário).",
+      "resumo_voto": "Voto-vista de Agnes da Costa modulou o voto do relator (MP 1.212/2024 e Portaria MME 75/2024: recursos revertidos à modicidade tarifária via processo tarifário; Procuradoria no mesmo sentido). O relator incorporou a sugestão ao seu voto.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (incorpora a sugestão do voto-vista)", "ts": "0:25:46", "justificativa": "Não há efeito prático diferente: a diferença é só de ajuste; incorpora a sugestão da diretora Agnes ao voto.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: provimento parcial com valor no recálculo do ativo regulatório; acompanha o relator após incorporação", "ts": "0:01:00", "justificativa": "Decisão da RTE de 2023 do Amapá já previa que a STR quantificasse o ativo regulatório com os recursos das MPs e submetesse à diretoria; MP 1.212 e Portaria 75 não dão discricionariedade à ANEEL.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:25:53", "justificativa": "Entendimento semelhante ao da diretora Agnes: na RTE do Amapá (aprovada por 3 a 2) ficou consignado o ativo regulatório a ser recalculado com o ingresso dos recursos das MPs.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:26:35",
+      "processo": "48500.003729/2023", "interessado": "Distribuidoras, setor solar (INEL, ABSOLAR, Solarno Energia), ABRADEE, Ministério das Cidades",
+      "assunto": "Resultado parcial da Consulta Pública 3/2024: regulamentação do Minha Casa Minha Vida (Lei 14.620/2023 e Decreto 12.084/2024) na REN 1.000; tema inversão de fluxo (art. 73 da REN 1.000) adiado pela relatora",
+      "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "geração distribuída (MMGD)", "inversão de fluxo", "distribuição"],
+      "relator": "Agnes da Costa",
+      "resultado": "Sem deliberação: três votos distintos, sem três votos convergentes; processo volta à próxima reunião.",
+      "resumo_voto": "Sustentações orais: Renata (INEL), Bárbara Rubim (ABSOLAR), Luisa Melcop (Solarno Energia SPE), Ricardo Brandão (ABRADEE); apresentação de Daniel Bego (STD). Relatora propõe só a parte do Minha Casa Minha Vida (distribuidora custeia a infraestrutura até a unidade habitacional, desconto de 50% no custo de disponibilidade para CadÚnico, venda de excedente a órgãos públicos) e adia inversão de fluxo; aceitou retirar o inciso 'outras informações julgadas necessárias' do §4º do art. 486-A. Mosna diverge propondo dispensa da análise de inversão de fluxo para MMGD até 12,5 kW e gratuidades do MCMV. Tili fica num voto intermediário.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova minuta só do Minha Casa Minha Vida", "ts": "1:36:02", "justificativa": "Inversão de fluxo ainda não amadurecida, propostas sem convergência e reuniões com agentes; prioriza a política pública do MCMV após o Decreto 12.084/2024. Diz sentir-se desrespeitada pela proposta trazida sem discussão prévia.", "tom": "defensivo", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: inclui dispositivos da abertura da CP sobre inversão de fluxo (gratuidades do MCMV) e afasta a análise de inversão de fluxo para microgeração do grupo B até 12,5 kW com orçamento em 30 dias", "ts": "2:33:00", "justificativa": "Tema regulatório arrastado há mais de um ano; 12,5 kW zera o consumo médio B3 e cobre ~92% das GDs; restrito ao autoconsumo local (rooftop); também pediu explicitar as faixas do MCMV.", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "diverge parcialmente: acompanha Mosna nas inclusões do MCMV e gratuidades, mas não na dispensa até 12,5 kW", "ts": "2:33:48", "justificativa": "Precisa estudar a métrica de 12,5 kW (consumo x potência); ANEEL está perdendo protagonismo e o Congresso pode regular antes (PL até 75 kW); critica custeio do MCMV via tarifa.", "tom": "crítico", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "21", "ts": "2:36:20",
+      "processo": "48500.000970/2007 e outros (PCHs)", "interessado": "Ônix Geração de Energia (PCH Alto Sucuriú); Cazuza Ferreira Energética; demais PCHs",
+      "assunto": "Ajuste dos prazos de outorga das PCHs Cazuza Ferreira, Poço Fundo, Engenheiro José Gelásio da Rocha, Rondonópolis e Alto Sucuriú (Lei 14.120/2021, §12 do art. 26 da Lei 9.427)",
+      "tema": ["outorgas de geração (eólica, solar, hidrelétrica, térmica)", "PCH"],
+      "relator": "Ricardo Tili",
+      "resultado": "Não concluído: Agnes da Costa pediu vista.",
+      "resumo_voto": "Sustentação oral de representante da Ônix (penalidade de 2008 por atraso não deveria impedir o deslocamento). Procuradoria: Cazuza Ferreira não faz jus (antinomia com §7º). Relator indefere Alto Sucuriú (penalidade por atraso) e aprova as demais, inclusive Cazuza Ferreira (até 17/03/2046), divergindo da Procuradoria.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (indefere Alto Sucuriú, defere as demais)", "ts": "3:01:23", "justificativa": "Requisitos legais objetivos; não cabe à ANEEL criar corte temporal para penalidades; §7º e §12 tratam de situações distintas, sem antinomia.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:04:27", "justificativa": "Sem justificativa própria.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:04:30", "justificativa": "Dúvida sobre a resolução autorizativa de 2013 que já prorrogou a Cazuza Ferreira por 17 anos e 10 meses e o requisito de outorga de 30 anos.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "18", "ts": "3:04:43",
+      "processo": "48500.000185/2024", "interessado": "Enel Distribuição Ceará; Dom Pedro I Transmissora de Energia SPE; ONS",
+      "assunto": "Pedido de reconsideração da Enel Ceará contra o Despacho 654/2024 sobre a solução de faseamento na SE Crato 2 230/69 kV (ônus à distribuidora, RAP e ressarcimento da transmissora)",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "distribuição"],
+      "relator": "Hélvio Guerra (relator original); Agnes da Costa (voto-vista)",
+      "resultado": "Por maioria: conhecido e parcialmente provido; item 1 do despacho passa a determinar que a Enel Ceará execute a solução de faseamento definida com o ONS, com ônus integral e sem repasse à tarifa; demais itens mantidos. Voto do relator original (revogar o item 1) vencido.",
+      "resumo_voto": "Sustentações orais: Hugo Lamim (Enel Ceará) e Carlos Clementino Moreira Filho (Dom Pedro I). Voto-vista: mera revogação do item 1 deixaria lacuna sobre quem executa; mantém RAP condicionada e ressarcimento de custos comprovadamente ligados ao faseamento.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: provimento parcial alterando o item 1", "ts": "3:32:01", "justificativa": "Revogar o item 1 retiraria a obrigação sem dizer quem executa; ONS considera a intervenção na rede de distribuição viável e de menor custo.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista", "ts": "3:32:39", "justificativa": "Sem justificativa própria; perguntou o que mudava em relação ao voto do relator.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o voto-vista", "ts": "3:32:41", "justificativa": "Sem justificativa própria.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "vencido (voto proferido em reunião anterior: revogar o item 1)", "ts": "3:32:53", "justificativa": "Propôs revogar o item 1 do despacho, acatando a solução pela rede de distribuição.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "6", "ts": "3:34:23",
+      "processo": "48500.000551/2021", "interessado": "Energias de Buritis 1 SPE Ltda. (UFV Buritis)",
+      "assunto": "Recurso contra o Despacho 3.345/2022 (SFG): multa editalícia por atraso no cronograma da UFV Buritis (PCS 1/2021)",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "recursos administrativos", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unânime: recurso conhecido e não provido; mantida multa de cerca de R$ 1,0 milhão (3,19% do investimento); prazo de 20 dias; execução da garantia se não pago.",
+      "resumo_voto": "Excludente já negada (Despacho 531/2023); dosimetria objetiva; atenuante de 10% mantida; PCS exige rigor especial (Procuradoria). 47 dias de atraso.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "3:42:31", "justificativa": "Dosimetria com critérios objetivos e isonômicos; PCS é caso especialíssimo a merecer máximo rigor.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:44:42", "justificativa": "Sem justificativa própria.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:44:45", "justificativa": "Sem justificativa própria.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "3:46:02",
+      "processo": "48500.000553/2021", "interessado": "Energias de Machadinho 1 SPE Ltda. (UFV Machadinho)",
+      "assunto": "Recurso contra o Despacho 3.347/2022 (SFG): multa editalícia por atraso no cronograma da UFV Machadinho (PCS 1/2021)",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "recursos administrativos", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unânime: recurso parcialmente provido; multa recalculada pelo item de atraso injustificado (não inexecução), cerca de R$ 1,69 milhão (4,5% do investimento).",
+      "resumo_voto": "101 dias de atraso; área técnica refez a dosimetria com limites de atraso (2,5% a 5%); atenuantes mantidas.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, dá provimento parcial", "ts": "3:53:25", "justificativa": "Houve mora, não inexecução da outorga; recorrente tem razão nesse ponto; demais critérios objetivos mantidos.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:55:10", "justificativa": "Sem justificativa própria.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:55:12", "justificativa": "Sem justificativa própria.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Apenas a Parte 2 da 24ª RPO; itens da manhã estão em outro vídeo.",
+    "Falantes não identificados na legenda: atribuição de quem diz 'voto com o relator' e da presidência (Agnes) é inferida.",
+    "Ausência de Sandoval Feitosa e Gentil Nogueira inferida do contexto (três votantes); motivo não declarado.",
+    "Numeração do item 18 inferida da ordem anunciada (8, 3, 21, 18, 6, 7).",
+    "Valores e números de processo/despacho vêm da legenda automática e podem estar errados (ex.: multas, 4.28.0 19,20).",
+    "Voto de Hélvio Guerra no item 18 não foi proferido nesta sessão; registrado como vencido conforme a proclamação 'por maioria'."
+  ]
+}

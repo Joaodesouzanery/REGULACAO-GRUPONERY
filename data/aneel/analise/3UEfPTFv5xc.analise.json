@@ -1,0 +1,107 @@
+{
+  "meta": {"video_id": "3UEfPTFv5xc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:18:46); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "23ª Reunião Pública Ordinária de 2024", "data": "2024-07-03", "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa (missão internacional)"],
+    "observacoes": [
+      "Quórum de três diretores. Pauta com 27 itens; itens 9 a 27 em bloco; retirados de pauta os itens 4, 7, 14, 17, 20 e 26.",
+      "Sustentações orais nos itens 1 e 2 (Sinagências, fala única), 5 (Electro Redes) e 6 (Dunamis).",
+      "Item 6 (Dunamis): relator Mosna nega a reconsideração, Ricardo Tili mantém voto de primeira instância pelo deferimento parcial (105 dias de excludente), Agnes acompanha o relator; sem quórum mínimo, o item volta na próxima reunião.",
+      "Item 3 (RS): após questionamento de Ricardo Tili e manifestação da Procuradoria, a relatora converteu a proposta em abertura de consulta pública curta (3 a 12/07/2024)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:25:20", "processo": "", "interessado": "",
+      "assunto": "Itens de bloco (9 a 27, exceto os retirados 14, 17, 20 e 26) com votos disponibilizados previamente",
+      "tema": ["bloco de itens"], "relator": "vários", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Os três diretores aprovam os itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:25:30", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:25:33", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:25:36", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:25:43", "processo": "48500.002096/2024", "interessado": "Abradee e RGE Sul; distribuidoras e permissionárias do Rio Grande do Sul",
+      "assunto": "Medidas para mitigação de impacto tarifário aos consumidores de distribuidoras do RS: cálculo excepcional (análogo à CVA, atualização pela Selic) de recomposição de prorrogações e diferimentos tarifários após os eventos climáticos extremos",
+      "tema": ["tarifas e revisão tarifária", "Rio Grande do Sul / calamidade", "regulação normativa (consulta pública)"],
+      "relator": "Agnes da Costa", "resultado": "aprovada por unanimidade a abertura de consulta pública por intercâmbio documental de 3 a 12/07/2024",
+      "resumo_voto": "Relatora propôs aprovar o pleito conforme NT 97/2024-STR (neutralidade, Selic, sem spread); após Ricardo Tili questionar o caráter normativo e a falta de consulta pública e a Procuradoria opinar pela consulta (Lei 13.848), o dispositivo passou a ser abertura de consulta pública curta.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova abertura de consulta pública (ajustado em plenário)", "ts": "0:49:12", "justificativa": "proposta da STR traz maior neutralidade entre consumidores e distribuidoras; aceita consulta pública curta para não inviabilizar o reajuste da RGE em agosto", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora (após propor consulta pública)", "ts": "1:01:25", "justificativa": "regra tem caráter normativo; prudência exige consulta pública, ainda que curta, para cumprir a lei e ouvir a sociedade; questionou alcance a distribuidoras não afetadas", "tom": "colaborativo", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:01:25", "justificativa": "de acordo com a ponderação de fazer consulta pública mais breve", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:02:00", "processo": "48500.005956/2023", "interessado": "Enel Distribuição São Paulo (Eletropaulo); sustentação oral de Iandra Ribeiro Torres (Sinagências)",
+      "assunto": "Reajuste tarifário anual 2024 da Enel SP a partir de 4/7/2024, com uso da TUST do ciclo 2023-24 (afastamento temporário dos submódulos 3.3/3.3A do Proret); efeito médio -2,43%",
+      "tema": ["tarifas e revisão tarifária (RTA)", "distribuição", "institucional (falta de servidores, movimento Valoriza Regulação)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sinagências pediu adiamento de 15 dias por falta de servidores e TUST não definida; relator rejeitou: respeito à data contratual (segurança jurídica) e efeito negativo para o consumidor. Componente judicial (cabos Eletropaulo) suspenso por decisão judicial.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:29:54", "justificativa": "votar na data de aniversário garante segurança jurídica e respeito ao contrato; reajuste médio negativo, sem prejuízo ao consumidor", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:33:46", "justificativa": "calculou que a diferença da TUST definitiva teria impacto de cerca de 0,05%, não significativo; elogiou a área técnica", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:33:50", "justificativa": "obrigação fiduciária com o contrato de concessão; preservar a data de aniversário", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:35:05", "processo": "48500.005981/2023", "interessado": "Energisa Tocantins (ETO)",
+      "assunto": "Reajuste tarifário anual 2024 da Energisa Tocantins a partir de 4/7/2024, com TUST do ciclo 2023-24; efeito médio +8,95%",
+      "tema": ["tarifas e revisão tarifária (RTA)", "distribuição"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mesma solução excepcional da TUST vigente; alta puxada pela retirada de financeiros (créditos de PIS/Cofins devolvidos no ano anterior).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:50:30", "justificativa": "preservar o cumprimento do contrato com as melhores informações disponíveis; relatou o subdimensionamento da STR", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:53:10", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:53:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:55:23", "processo": "48500.004386/2022", "interessado": "Electro Redes (Neoenergia Elektro); sustentação oral de Rafael Licurgo Leite",
+      "assunto": "Recurso administrativo contra o Auto de Infração 16/2022 (SFE): multa por violação de DEC/FEC em 2021 após descumprimento do plano de resultados",
+      "tema": ["fiscalização e sanções (multa)", "recursos administrativos", "qualidade da distribuição"],
+      "relator": "Agnes da Costa", "resultado": "recurso conhecido e negado por unanimidade; multa mantida (cerca de R$ 22,47 milhões)",
+      "resumo_voto": "Afastado o redutor de 25% pelo novo entendimento do Despacho 340/2024 (processo ainda não encerrado); rejeitadas a insignificância, a fórmula do contrato de concessão e a revisão da dosimetria.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, conhece e nega provimento", "ts": "2:31:00", "justificativa": "metas do plano de resultados não atendidas; melhorias posteriores ao período fiscalizado; novo entendimento aplicável a recurso pendente; Lei 9.427 prevalece sobre a cláusula contratual", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:33:18", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:33:20", "justificativa": "pediu ajuste do dispositivo para deixar explícito 'nego provimento'", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "2:34:09", "processo": "48500.001739/2021, 001740/2021, 001741/2021 e 001742/2021", "interessado": "Dunamis Projetos de Energia Fotovoltaica SPE S.A. (UFVs Dunamis 1 a 4, RN); sustentação oral de Luísa Melcop",
+      "assunto": "Pedido de reconsideração do Despacho 1258/2024: excludente de responsabilidade de 105 dias por atraso do IDEMA na licença de instalação e alteração de cronograma",
+      "tema": ["outorgas de geração (solar)", "recursos administrativos", "excludente de responsabilidade / licenciamento ambiental"],
+      "relator": "Fernando Mosna", "resultado": "sem deliberação: 2 votos pelo indeferimento contra 1 pelo deferimento parcial, sem quórum mínimo; retorna na próxima reunião",
+      "resumo_voto": "Relator: sem nexo causal, 194 dias entre as autorizações e o início das obras são risco do empreendedor. Tili manteve voto vencido de primeira instância.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "2:58:26", "justificativa": "ausência de nexo de causalidade; empresa permaneceu inativa e não demonstrou diligência; etapas pós-licença são risco do negócio", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "diverge: deferimento parcial (105 dias de excludente)", "ts": "2:58:52", "justificativa": "mantém voto de primeira instância: atraso comprovado do IDEMA de 105 dias, reconhecido pelo próprio órgão ambiental", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:59:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:59:56", "processo": "48500.000061/2018 (número incerto)", "interessado": "Ampla Energia e Serviços S.A. (Enel Rio)",
+      "assunto": "Medida cautelar para refinanciamento de contratos de mútuo com partes relacionadas (Enel Brasil), negado pela SFF por sustentabilidade econômico-financeira",
+      "tema": ["recursos administrativos (cautelar)", "sustentabilidade econômico-financeira da distribuidora", "partes relacionadas"],
+      "relator": "Fernando Mosna", "resultado": "cautelar parcialmente concedida por unanimidade: prorrogação temporária apenas do mútuo Enel Brasil 55 (vencimento 7/7/2024) até decisão final",
+      "resumo_voto": "Fumaça do bom direito (requisitos do módulo 5 da REN 948, sem aumento de dívida) e perigo da demora (vencimento antecipado de outros contratos); medida reversível e conservadora.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, concede parcialmente a cautelar", "ts": "3:20:20", "justificativa": "refinanciamento não aumenta a dívida; questões de sustentabilidade podem ser tratadas no plano de resultados; negar agora poderia agravar a situação da Enel Rio", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:21:00", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:21:02", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["4", "7", "14", "17", "20", "26"],
+  "limites_da_analise": [
+    "Legenda automática; números de processo e valores podem estar errados (item 8 em especial).",
+    "Ordem de quem disse 'voto com o relator/relatora' entre Mosna e Tili inferida; ts aproximados.",
+    "Itens de bloco (9 a 27) não detalhados na transmissão.",
+    "Gentil Nogueira não citado na abertura; registrado só Sandoval como ausente."
+  ]
+}

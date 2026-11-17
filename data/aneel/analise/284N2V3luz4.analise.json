@@ -1,0 +1,54 @@
+{
+ "meta": {"video_id": "284N2V3luz4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:18:44); ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "4ª Reunião Pública Extraordinária de 2024",
+  "data": "2024-12-19",
+  "formato": "híbrido (Agnes da Costa e Ricardo Tili remotos)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+  "ausentes": ["Fernando Mosna"],
+  "observacoes": ["36 processos inscritos, três na pauta de leitura; item 2 retirado de pauta; demais em bloco aprovado sem destaques.", "Fernando Mosna ausente (férias); seu voto no processo da Energisa foi lido por Ricardo Tili.", "Diretoria com apenas três diretores em exercício, segundo as falas.", "Procurador-Geral Raul Pereira Lisboa; Secretário-Geral Daniel Dana."]
+ },
+ "itens": [
+  {
+   "id": "bloco", "ts": "0:21:43", "processo": "", "interessado": "diversos",
+   "assunto": "Itens do bloco (processos de simples deliberação, sem pedido de destaque)",
+   "tema": ["institucional/TCU"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Sandoval Feitosa registrou que, apesar do número elevado de processos, eram de simples deliberação e não houve destaque; bloco aprovado por unanimidade.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:21:30", "justificativa": "processos de simples deliberação, pautados para dar celeridade às partes; sem destaque", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:21:40", "justificativa": "aprovo os itens do bloco", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:21:43", "justificativa": "aprova o bloco", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:22:41", "processo": "48500.002002/2024-57", "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Resultado da Consulta Pública 30/2024 e aprovação do orçamento do ONS para o ciclo jan/2025 a dez/2027",
+   "tema": ["transmissão (encargos)", "CDE e encargos setoriais", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "institucional"],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade, com glosa de pessoal (orçamento de cerca de R$ 3,355 bilhões) e determinações (estudo de salários de admissão de trainees, pesquisa salarial completa, benchmarking internacional, programa nodal, painel orçamentário, estudo de regulação por incentivos pela SRG, rubricas não gerenciáveis)",
+   "resumo_voto": "Sustentação oral de Márcio Kennedy de Almeida (ONS) e apresentação técnica da SFF (Elisaldo Batista). A relatora propôs inicialmente não aplicar a glosa de cerca de R$ 24 milhões em pessoal (ONS a 101,7% da mediana, em convergência) e limitar a aprovação prévia do Conselho de Administração a remanejamentos da carteira de projetos; propôs estudo de regulação por incentivos. Ricardo Tili discordou da não aplicação da glosa (terceiro ciclo sem cumprir a meta; sinal da ANEEL), mas aceitou a flexibilização do Conselho. Sandoval Feitosa concordou com Tili sobre a glosa. A relatora alterou o voto para aplicar a glosa; aprovado por unanimidade.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova (alterou o voto para aplicar a glosa)", "ts": "1:30:07", "justificativa": "propôs não glosar pessoal por o ONS estar a 101,7% da mediana, mas «talvez dois ciclos ... de transição já seja o suficiente»; alterou o voto para considerar a glosa; propôs estudo de regulação por incentivos diante da assimetria de informação", "tom": "conciliador", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora (após divergir da não aplicação da glosa, acolhida pela relatora)", "ts": "1:30:25", "justificativa": "«eu não concordo com a não aplicação da glosa»; não glosar seria desincentivo à melhoria contínua, terceiro ciclo sem cumprir a meta; via com bons olhos maior participação do Conselho do ONS, mas acompanhou a flexibilização; sugeriu incluir previsão de despacho eólico e solar no estudo de incentivos", "tom": "firme", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:30:29", "justificativa": "concordou com Ricardo Tili sobre aplicar a glosa como sinal; defendeu maior participação do Conselho de Administração do ONS; sugeriu indicadores de incentivo (restrições, desligamentos, despacho térmico, ESS)", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3", "ts": "1:33:50", "processo": "48500.003185/2024-85", "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A.; contestação de SPE São José das Borboletas e Serradinho Terra",
+   "assunto": "Declaração de utilidade pública (DUP) para servidão administrativa da linha de distribuição 138 kV Cetep-Catanduva 3 (circuito duplo, ~5,9 km), Catanduva/SP",
+   "tema": ["outorgas e DUP (distribuição)", "recursos administrativos"],
+   "relator": "Fernando Mosna (voto lido por Ricardo Tili)",
+   "resultado": "aprovado por unanimidade (DUP emitida; requerimento dos proprietários julgado improcedente)",
+   "resumo_voto": "Sustentação oral de André (sobrenome incerto), pelos proprietários, alegando vícios processuais (julgamento em extraordinária, ausência do relator) e de mérito (traçado sobre loteamento, menor custo global), com pedido subsidiário de mediação. A Procuradoria não viu nulidade. Tili afirmou urgência por problema de carga e obra atrasada e leu o voto de Mosna: obrigações do art. 10 da REN 919 não são requisito para DUP; indenização cabe às partes ou ao Judiciário. Sandoval rejeitou a mediação imposta (exige vontade das partes).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova (ausente; voto lido por Ricardo Tili)", "ts": "1:48:53", "justificativa": "documentação conforme a REN 919; interesse público configurado; não cabe à ANEEL fixar indenização", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:01:16", "justificativa": "distribuidora tem competência legal para definir traçado; loteamento sem aprovação; mediação depende da vontade das partes", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:01:18", "justificativa": "sem comentários", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:01:20", "justificativa": "regimento permite outro diretor ler o voto; urgência por demanda de carga e obra atrasada", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": ["Item 2 da pauta (não identificado na transcrição)"],
+ "limites_da_analise": ["Itens do bloco não foram apregoados individualmente; registrados como um único item.", "Fernando Mosna estava ausente; incluído como relator do item 3 com voto lido por Ricardo Tili.", "Ordem dos votos de Sandoval e Tili no item 1 e de Agnes e Tili no item 3 inferida; ts aproximados.", "Valores e números de processo vêm da legenda automática (ex.: 3,355 bi; processo 3185 citado também como 31885).", "Nome do advogado dos proprietários (André Fabi...) incerto."]
+}

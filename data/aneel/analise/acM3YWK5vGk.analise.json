@@ -1,0 +1,49 @@
+{
+  "meta": {"video_id": "acM3YWK5vGk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "44ª Reunião Pública Ordinária de 2024 (Parte 1)", "data": "2024-11-26", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": ["Agnes da Costa"],
+    "observacoes": ["Quórum mínimo de três diretores; Agnes da Costa ausente (férias).", "Pauta com 23 itens; itens 6 a 23 em bloco, sem destaques; itens 2, 4 e 5 retirados de pauta; sem sustentação oral.", "Item 1 (bônus de Itaipu) teve voto do relator lido, mas a deliberação foi suspensa a pedido de Fernando Mosna para ouvir procuradoria e área técnica; retomada prevista após intervalo (Parte 2).", "Ata da 43ª reunião ordinária aprovada.", "Reunião suspensa por 30 minutos ao final deste vídeo."]
+  },
+  "itens": [
+    {
+      "id": "bloco 6-23", "ts": "0:12:38", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 6 a 23 da pauta, julgados em bloco (votos e atos publicados previamente)",
+      "tema": ["bloco"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado sem destaques.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:12:38", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:12:40", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:12:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:13:02", "processo": "48500.007732/2007 (número incerto na legenda)", "interessado": "ENBPar; distribuidoras do SIN; consumidores residenciais e rurais",
+      "assunto": "Definição da tarifa bônus de Itaipu e dos valores de repasse da ENBPar às distribuidoras do SIN (rateio do saldo positivo da Conta Itaipu de 2023, cerca de R$ 1,3 bilhão, crédito nas faturas de dezembro de 2024)",
+      "tema": ["tarifas e revisão tarifária", "bônus de Itaipu", "CDE e encargos setoriais"],
+      "relator": "Ricardo Tili", "resultado": "deliberação suspensa (retomada prevista na sequência da reunião)",
+      "resumo_voto": "Relator vota por aprovar a tarifa bônus e os repasses (crédito médio ~R$ 16,66 para ~78 milhões de unidades), créditos nas faturas de dezembro/2024, atualização pela ENBPar e repasse à Celesc. Fernando Mosna traz estudo do BTG sobre efeito na inflação e no arcabouço fiscal e questiona se o pagamento poderia ir para 2025; Sandoval pergunta se há obrigação legal de concluir em 2024 (área técnica: regra do PRORET, não da lei/decreto). Por sugestão de Mosna, a deliberação foi suspensa.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:33:53", "justificativa": "cumprimento da lei, decreto e PRORET; devolução ao consumidor ainda em 2024 (desconto ~19% na conta de dezembro); MME pediu cumprimento da lei; cita efeito de redução do IPCA", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "propõe suspender a deliberação", "ts": "0:35:51", "justificativa": "cita estudo do BTG Pactual: pagamento em dezembro reduziria IPCA de 2024 em ~0,60 p.p. e elevaria o de janeiro/2025, com impacto no limite de gastos do arcabouço fiscal; questiona se o governo (Fazenda) avaliou pagamento em 2025; sugere suspender para ouvir procuradoria e área técnica", "tom": "questionador", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a suspensão", "ts": "0:51:17", "justificativa": "questionou se há obrigação legal de concluir em 2024; prazo é regra do PRORET, flexibilizável motivadamente", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:51:42", "processo": "48500.002490/2024 (número incerto na legenda)", "interessado": "ANEEL",
+      "assunto": "Aprovação da Agenda Regulatória da ANEEL para o biênio 2025-2026 (após Tomada de Subsídios 12/2024 e Audiência Pública 4/2024)",
+      "tema": ["regulação normativa", "agenda regulatória"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a agenda (17 atividades em 2025 e 11 em 2026) e a publicação no site de cronograma referencial de atividades regulatórias, AIR e ARR; apresentação de Elvira (chefe de gabinete).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:51:50", "justificativa": "agenda traça o norte da regulamentação; contribuições da audiência pública incorporadas; novo painel de acompanhamento dá transparência", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:01:35", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:01:40", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["2", "4", "5"],
+  "limites_da_analise": ["Parte 1 da reunião; item 1 continua na Parte 2.", "Números de processo vindos da legenda automática, incertos.", "Ordem e autoria dos votos de seguidores (bloco e item 3) inferidas; quem disse 'eu voto com o relator' e 'acompanho' não está claro.", "Conteúdo dos itens 6 a 23 do bloco não lido em sessão."]
+}

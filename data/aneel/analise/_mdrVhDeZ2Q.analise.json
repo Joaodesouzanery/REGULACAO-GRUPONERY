@@ -1,0 +1,51 @@
+{
+  "meta": {"video_id": "_mdrVhDeZ2Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "4ª Reunião Pública Extraordinária de 2024", "data": "2024-12-20", "formato": "híbrido (Agnes da Costa e Ricardo Tili remotos)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (férias; ausência justificada)"],
+    "observacoes": ["36 processos inscritos; item 2 retirado de pauta; demais em bloco, salvo itens 1 e 48.", "Diretoria com apenas três diretores; reunião convocada sobretudo para aprovar o orçamento trienal do ONS 2025-2027 ainda em 2024.", "Item 1: relatora Agnes propôs não aplicar a glosa de pessoal; Ricardo Tili discordou e Sandoval concordou com ele; Agnes alterou o voto para aplicar a glosa (orçamento final ≈ R$ 3,355 bilhões).", "Item 48: voto do relator Fernando Mosna lido por Ricardo Tili; sustentação oral contestou a deliberação sem o relator em reunião extraordinária."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:02:59", "processo": "", "interessado": "diversos",
+      "assunto": "Aprovação em bloco dos itens da pauta de simples deliberação (sem pedidos de destaque)",
+      "tema": ["institucional"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Sandoval Feitosa submeteu o bloco; todos aprovaram.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:02:59", "justificativa": "Processos de simples deliberação, pautados para dar celeridade às partes; nenhum pedido de destaque.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:03:05", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:03:10", "justificativa": "Aprova os itens do bloco.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:03:20", "processo": "48500.002002/2024-57", "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+      "assunto": "Resultado da Consulta Pública 30/2024 e aprovação do orçamento econômico trienal do ONS para jan/2025 a dez/2027; sustentação oral de Márcio Kennedy de Almeida (ONS); apresentação técnica da SFF (Elisaldo Batista)",
+      "tema": ["regulação normativa (consulta pública)", "CDE e encargos setoriais (EUST/orçamento ONS)", "transmissão"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade, com glosa de ≈ R$ 24 milhões em pessoal (+ reflexo em encargos); orçamento ≈ R$ 3,355 bilhões; determinações ao ONS, SFF e SRG (estudo de regulação por incentivos)",
+      "resumo_voto": "Relatora inicialmente propôs não glosar pessoal (ONS a 101,7% da mediana) e flexibilizar remanejamentos entre anos (só carteira de projetos passa pelo Conselho de Administração); após divergência de Ricardo Tili, apoiada por Sandoval, alterou o voto para aplicar a glosa; manteve a flexibilização dos remanejamentos.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova (voto alterado para aplicar a glosa)", "ts": "1:11:21", "justificativa": "Crescimento de quase 28% preocupa, mas IPCA não é limite regulatório; propunha não glosar por coerência com ciclos anteriores; aceitou que dois ciclos de transição bastam e alterou o voto; propôs estudo de orçamento por incentivos.", "tom": "conciliador", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:11:41", "justificativa": "Assimetria de informação torna o orçamento por custo ineficiente; defende regulação por incentivos (metas ligadas a desligamentos, geração térmica, ESS); concordou com Tili que o sinal da glosa importa mais que o valor e com maior participação do Conselho do ONS.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (após divergir sobre a glosa, acolhida)", "ts": "1:11:46", "justificativa": "«Não concordo com a não aplicação da glosa»: terceiro ciclo sem cumprir a meta; glosa é sinal da ANEEL. Preferia remanejamentos pelo Conselho de Administração, mas acompanhou a flexibilização; citou previsão de despacho eólico/solar como possível incentivo.", "tom": "crítico", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "48", "ts": "1:14:59", "processo": "48500.003185/2024-85", "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A.; contestantes SPE São José das Borboletas I e Serradinho Terra",
+      "assunto": "Declaração de utilidade pública para servidão administrativa da LD 138 kV Catanduva 3 (circuito duplo, ≈ 5,9 km), Catanduva/SP; sustentação oral de André Fabian Edelstein pelas proprietárias",
+      "tema": ["distribuição", "outorgas e DUP"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade (DUP emitida; pedido de mediação não acolhido)",
+      "resumo_voto": "Voto do relator ausente lido por Ricardo Tili: obrigações do art. 10 da REN 919/2021 não são requisito da DUP; indenização é questão entre partes ou Judiciário; urgência por demanda de carga na região. Procurador-Geral não viu nulidade na deliberação sem o relator.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:42:31", "justificativa": "Distribuidora tem competência legal; loteamento não estava aprovado; valor de indenização é discussão privada; mediação só se as partes quiserem.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:42:34", "justificativa": "Sem comentários.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (leu o voto de Fernando Mosna)", "ts": "1:42:37", "justificativa": "Regimento permite leitura por outro diretor; urgência caracterizada pela obra atrasada e risco ao abastecimento.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Item 2 (assunto não informado na fala)"],
+  "limites_da_analise": ["Itens do bloco (≈ 33 processos) não foram lidos; assuntos e relatores desconhecidos.", "Ordem dos votos de seguidores ('eu acompanho', 'também acompanho') inferida; ts aproximados.", "Números de processo e valores vêm da legenda automática (ex.: 48500.002002/2024-57 e 48500.003185/2024-85 podem estar errados).", "Fernando Mosna ausente; seu voto foi lido e não computado como voto próprio."]
+}

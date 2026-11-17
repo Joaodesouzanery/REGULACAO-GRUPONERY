@@ -1,0 +1,61 @@
+{
+  "meta": {"video_id": "EPab00Apnz8", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "42ª Reunião Pública Ordinária de 2024 (Parte 1)", "data": "2024-11-12", "formato": "presencial com transmissão pelo YouTube",
+    "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa (férias, ausência justificada)"],
+    "observacoes": [
+      "Quórum de três diretores; Procurador-Geral Raul Pereira Lisboa; Secretário-Geral Daniel Danna.",
+      "Pauta com 42 itens; itens 5 a 42 em bloco; item 1 retirado de pauta; sustentação oral pedida nos itens 3 e 4; ordem: bloco, 3, 2, 4.",
+      "Ata da 41ª RPO aprovada.",
+      "A Parte 1 termina com pedido de vista de mesa no item 2 e interrupção da sessão até as 14h; o item 4 não foi deliberado neste vídeo (provável Parte 2)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 5 a 42)", "ts": "0:06:34", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 5 a 42 (votos disponibilizados previamente com a pauta); nenhum destaque",
+      "tema": ["itens de bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade, exceto itens 21 e 22 (suspeição de um diretor; aguardam voto do Diretor-Geral)",
+      "resumo_voto": "Bloco aprovado sem destaques; um diretor declarou suspeição nos itens 21 e 22, que ficaram pendentes.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco e proclama o resultado", "ts": "0:06:42", "justificativa": "Aprova os itens remanescentes e proclama aprovação por unanimidade, exceto 21 e 22.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:06:38", "justificativa": "Aprova os itens do bloco; não está claro se foi ele ou Fernando Mosna quem declarou suspeição nos itens 21 e 22.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:06:39", "justificativa": "Aprova os itens do bloco; ver dúvida sobre a suspeição nos itens 21 e 22.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:07:24", "processo": "48500.002288/2024-28 e 48500.006650/2023-59 (números da legenda, incertos)",
+      "interessado": "distribuidoras e transmissoras; sustentação oral de Lucas Malheiros Nunes (ABRADEE)",
+      "assunto": "Abertura de consulta pública sobre aprimoramentos regulatórios para resiliência dos sistemas de distribuição e transmissão a eventos climáticos extremos (manejo vegetal, planos de contingência, comunicação com consumidores e poder público, cessão emergencial de recursos, compensação por interrupção em situação de emergência, ressarcimento de danos elétricos, novas infrações) e regulamentação do inciso XXV do art. 4º do Decreto 12.068/2024 (canal dedicado ao poder público)",
+      "tema": ["regulação normativa", "distribuição e qualidade", "transmissão", "eventos climáticos extremos", "fiscalização e sanções"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Consulta pública por intercâmbio documental de 30 dias (13/11 a 12/12/2024), com dispensa de AIR por baixo impacto/urgência; alterações no PRODIST, Regras de Transmissão, REN 846 e REN 1000. ABRADEE pediu divisão da consulta em fases. Fernando Mosna sugeriu que a CP colha contribuições sobre redução da franquia urbana de 24h, valor maior e progressividade da compensação, citando ação civil pública da AGU contra a Enel (R$ 500 por dia); a relatora acolheu a reflexão para a consulta.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:06:41", "justificativa": "Eventos climáticos exigem resposta rápida; bem informar o consumidor é direito e deve ser tão prioritário quanto o restabelecimento; padroniza boas práticas; prazo curto pela proximidade do verão.", "tom": "enfático em favor do consumidor", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (com sugestões para a consulta)", "ts": "2:18:26", "justificativa": "Propõe discutir redução da franquia de 24h na área urbana, valor da compensação e progressividade; agência não pode parecer complacente com distribuidoras, deve ser implacável.", "tom": "propositivo", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:18:28", "justificativa": "Acompanhou; perguntou se a nova compensação se sobrepõe ao DEMIC (resposta: não, é separada).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:19:21", "processo": "48500.000100/2024 (número da legenda, incerto); tramitação conjunta com 48500.001062",
+      "interessado": "CCEE",
+      "assunto": "Regulamentação decorrente do Decreto 11.835/2023 (governança da CCEE): homologação do novo estatuto social da CCEE",
+      "tema": ["comercialização", "regulação normativa", "institucional"],
+      "relator": "Ricardo Tili", "resultado": "pedido de vista de mesa (Agnes da Costa); deliberação suspensa até a sessão da tarde",
+      "resumo_voto": "Relator vota por não homologar o estatuto (ilegalidades: representação obrigatória de consumidores livres/especiais, impedimento por atuação político-partidária como falta de idoneidade, limite de uma recondução, dispensa de requisitos de qualificação, mandato de 1 ano na primeira composição), determinar novo estatuto, revogar o art. 37 da REN 1087/2024 e a expressão 'não coincidente' do art. 16 da REN 957/2021. Diverge da Procuradoria (Parecer 255/2024) e da SGM, que admitia homologação parcial.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, não homologa o estatuto", "ts": "2:50:21", "justificativa": "Vícios de legalidade graves, inclusive contra a Constituição (art. 14); a CCEE foi imprudente e omissa ao não corrigir após nota técnica, Decreto 12.068 e ofício do relator; decreto fixa mandato de 2 anos, não cabe reduzir.", "tom": "crítico à CCEE", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:00:26", "justificativa": "Acompanhou o relator (atribuição inferida pela ordem das falas).", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "3:00:29", "justificativa": "Vista de mesa para estudar as ilegalidades e a implicação da não homologação; retorno às 14h.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Item 1 (retirado de pauta; assunto não informado)", "Item 4 (sustentação oral; não deliberado nesta parte)"],
+  "limites_da_analise": [
+    "Vídeo é a Parte 1 da 42ª RPO; itens 2 (após vista) e 4 devem constar da Parte 2.",
+    "Não é possível identificar pela legenda quem declarou suspeição nos itens 21 e 22 do bloco (Tili ou Mosna).",
+    "Ordem dos votos 'com a relatora' no item 3 e 'acompanho o relator' no item 2 atribuída por inferência.",
+    "Números de processo, decretos e resoluções vêm de legenda automática e podem estar errados."
+  ]
+}

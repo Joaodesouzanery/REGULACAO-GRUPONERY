@@ -1,0 +1,91 @@
+{
+  "meta": {"video_id": "oCvA3wq1Ueg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "24ª Reunião Pública Ordinária de 2024 (Parte 1, manhã)", "data": "2024-07-09", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa (férias)"],
+    "observacoes": [
+      "Quórum de três diretores; ata da 23ª RPO aprovada.",
+      "Pauta com 21 itens; itens 12 a 21 em bloco; 18 e 21 destacados; retirados de pauta os itens 2, 9, 14 e 16; sustentações orais pedidas para 3, 10, 11, 18 e 21.",
+      "Nesta Parte 1 foram deliberados o bloco e os itens 1, 4, 5, 10 e 11; os itens 18, 21, 3, 6, 7 e 8 ficaram para a tarde (Parte 2, outro vídeo).",
+      "Item 10 (Petrobras, UTE Nova Piratininga): relator Ricardo Tili vencido em número, mas com 2 votos divergentes de 3 presentes não se formou maioria; resultado pendente de desempate (voto do diretor ausente).",
+      "Sessão suspensa ao fim da manhã, retorno às 14h30."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:04:40", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco (12 a 21, exceto destacados 18 e 21 e retirados 14 e 16), votos disponibilizados previamente",
+      "tema": ["institucional / bloco"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens remanescentes do bloco aprovados sem discussão.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:04:44", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens remanescentes do bloco", "ts": "0:04:46", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:04:47", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:04:51", "processo": "48500.005924/2023 (número incerto na legenda)", "interessado": "Energisa Sul Sudeste Distribuidora de Energia S.A. (distribuidora, Presidente Prudente/SP)",
+      "assunto": "Reajuste tarifário anual 2024 da Energisa Sul Sudeste, a vigorar a partir de 12/07/2024 (efeito médio -9,89%; AT cerca de -11%, BT -9,40%)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologado o índice de reajuste, TUSD/TE, receita de DIT de uso exclusivo e repasse mensal da CCEE para subsídios. Relator alertou para a volatilidade (+10,65% em 2023, -9,89% agora, projeção de ~+10% no próximo ano) e pediu urgência em ferramenta de 'colchão tarifário'; apresentação técnica da STR.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:16:33", "justificativa": "reajuste negativo é boa notícia, mas o efeito sanfona não é o melhor sinal ao consumidor; pede à STR estudo para um reajuste mais linear, uma reserva/colchão tarifário", "tom": "preocupado com volatilidade tarifária", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:18:30", "justificativa": "concorda que é mais um exemplo do efeito discutido no caso Copel; é preciso ponderar os interesses do consumidor ao longo do tempo e evitar volatilidade", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:18:34", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:19:59", "processo": "48500.007748/2022 e 48500.006568/2023", "interessado": "transmissoras licitadas (16 contratos de 2023 e 119 de 2024); ABRATE",
+      "assunto": "Resultado da Consulta Pública 11/2024: revisão periódica da RAP dos contratos de transmissão licitados com data de revisão em julho de 2023 e julho de 2024",
+      "tema": ["transmissão (RAP, revisão periódica, reforços e melhorias)", "regulação normativa (consulta pública)"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprovada a revisão da RAP. Apresentação de Eduardo Serrato (STR): alto índice de contribuições acatadas, revisão da TRM (eliminação de dependência de dados pagos), RAP de reforços de pequeno porte; alerta sobre perda de servidores e capacidade da agência.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:46:25", "justificativa": "reconhece ganho de produtividade e automação; a diretoria apoia informatizar o processo; agradece STR e SFF", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:47:47", "justificativa": "destaca o esforço de STR e SFF e o ganho do escrutínio público com alto índice de contribuições acatadas", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:47:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:48:20", "processo": "48500.007770/2022 (número incerto na legenda)", "interessado": "9 transmissoras prorrogadas pela Lei 12.783/2013 (ex.: Furnas, EDP Goiás); ABRATE",
+      "assunto": "Resultado da Consulta Pública 12/2024: segunda revisão periódica da RAP das transmissoras prorrogadas (data de revisão 01/07/2023), vigência 01/07/2024 a 30/06/2028, e versão 4.5 do submódulo 9.1 do PRORET",
+      "tema": ["transmissão (RAP, RBSE, revisão periódica)", "regulação normativa (consulta pública, PRORET)"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Emitida resolução homologatória com redução agregada de cerca de 21% das RAPs; apresentações de Ronald (STR) e Zilmar (SFF) sobre fiscalização da base de remuneração; atualização da equação 23 (melhorias de pequeno porte).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:32:15", "justificativa": "proposta em consonância com o submódulo 9.1; espera que os novos marcos temporais da REN 1096/2024 tornem o processo mais eficiente; destaca redução de 21% da RAP como resultado para a sociedade", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:33:02", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:33:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "1:33:55", "processo": "48500.007803/2022 (número incerto na legenda)", "interessado": "Petrobras (UTE Nova Piratininga, térmica merchant a gás)",
+      "assunto": "Fiscalização dos custos incorridos pela Petrobras na UTE Nova Piratininga (31/07 a 20/12/2021) em atendimento ao Despacho 1.199/2022 (CVU); sustentação oral da Petrobras",
+      "tema": ["fiscalização e sanções", "outorgas de geração (térmica)", "comercialização (CCEE, ESS, CVU)"], "relator": "Ricardo Tili", "resultado": "sem resultado: relator 1 x 2 divergência; pendente de desempate",
+      "resumo_voto": "Nota Técnica 78/2024 SFF/SGM validava R$ 207 milhões e propunha devolução de valores recebidos a maior (glosa de ~56%). Relator propôs dar provimento ao pedido alternativo da Petrobras e aplicar retroativamente a REN 1.093/2024 (CVU, parâmetros do Despacho 2.484/2023), como no caso UTE Canoas. Mosna abriu divergência para manter a fiscalização nos termos da NT 78, por coisa julgada administrativa e irretroatividade; Agnes acompanhou a divergência. Sustentação oral: Dean William (Petrobras, nome incerto).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, dá provimento ao pedido alternativo da Petrobras (aplicar REN 1.093/2024 retroativamente); mantém o voto", "ts": "2:06:43", "justificativa": "a fiscalização restrita ao centro de custo da usina não capturou o custo econômico do gás (GNL, transporte, grandes manutenções); devolver à fiscalização seria esforço hercúleo e pouco prudente; aplicar a metodologia debatida publicamente, como em Canoas, é solução razoável", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: acompanha a NT 78/2024 SFF/SGM e mantém a fiscalização feita pela área técnica", "ts": "2:31:22", "justificativa": "o Despacho 1.199 mandou fiscalizar o caso concreto e regulamentar para o futuro; sem recurso, alterar a decisão viola a coisa julgada administrativa e faz a norma retroagir; o tempo rege o ato", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a divergência", "ts": "2:31:36", "justificativa": "ônus de comprovar despesas é do agente; preocupa alterar despacho transitado e aplicar retroativamente norma criada a partir dele; honrar o trabalho da área técnica", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "2:31:50", "processo": "48500.001590/2024 (número incerto na legenda)", "interessado": "distribuidoras do Rio Grande do Sul; ABRADEE (sustentação oral de Lucas Malheiros); CPFL; Equatorial",
+      "assunto": "Uso extraordinário de recursos do Programa de Eficiência Energética (PEE) em razão da calamidade pública no Rio Grande do Sul",
+      "tema": ["regulação normativa (flexibilização, PROPEE)", "distribuição", "eficiência energética"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Resolução autorizativa flexibiliza, enquanto vigorar o Decreto Legislativo 236/2024: contrapartida de consumidores rurais produtivos, vedação de uso em redes, fornecimento de geradores emergenciais, conceito de comunidade baixa renda e o mínimo de 50% nas duas maiores classes (REN 920/2021). Negada a isenção do CEBAS para comércio; uso de P&D exige lei; vigência atrelada ao decreto legislativo, conforme Parecer 108/2024 da Procuradoria.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova com flexibilizações parciais", "ts": "2:49:53", "justificativa": "situação excepcional justifica flexibilizar com base na competência normativa da ANEEL (Parecer 108/2024); CEBAS é requisito objetivo externo e não deve ser afastado; flexibilização deve ter prazo certo", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:23:03", "justificativa": "parabeniza o trabalho denso da assessoria, STE e Procuradoria para atender às necessidades do estado", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:23:06", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["2", "9", "14", "16"],
+  "limites_da_analise": [
+    "Vídeo cobre só a manhã (Parte 1); itens 3, 6, 7, 8, 18 e 21 estão na Parte 2.",
+    "Números de processo, valores e nomes vêm da legenda automática e podem estar errados (ex.: representante da Petrobras 'Dean William carms').",
+    "Conteúdo dos itens do bloco não foi lido na sessão; relator do bloco não identificado.",
+    "Ordem de fala de Tili/Mosna nas votações simples é inferida; ts aproximados."
+  ]
+}

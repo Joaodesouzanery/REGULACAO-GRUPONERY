@@ -1,0 +1,76 @@
+{
+ "meta": {"video_id": "abtH_9E07rs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "3ª Reunião Pública Ordinária de 2025 (Parte 2)", "data": "2025-02-04", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Parte 2: retomada após interrupção por falha no sistema de som, no meio da sustentação oral da Eletrobras/Furnas.", "Ludimila Lima atua como diretora substituta recém-nomeada; Eduardo Ramalho recém-empossado procurador-geral.", "Ordem da pauta alterada: itens 16 e 23 antes do item 8.", "Único item por maioria: item 16 (São Bartolomeu), com voto divergente do Diretor-Geral seguindo a nota jurídica 10/2024 da procuradoria.", "Encerramento às ~1:26:21 do vídeo."]
+ },
+ "itens": [
+  {"id": "Furnas (nº do item na parte 1)", "ts": "0:00:09", "processo": "48500.006462/2022", "interessado": "Furnas Centrais Elétricas S.A. (Eletrobras); ABRATE em sustentação",
+   "assunto": "Recurso administrativo contra o Auto de Infração 8/2023 (SFE) por descumprimento de plano de resultados de transmissão (LT Serra da Mesa-Gurupi, SE Ibiúna, LT Barreto-Poços de Caldas)",
+   "tema": ["transmissão", "fiscalização e sanções", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (parcial provimento quanto à abrangência; penalidade agravada pela retirada do redutor)",
+   "resumo_voto": "Ajusta abrangência para 2,89 (ante 3,21); retira o redutor discricionário aplicado na reconsideração, conforme entendimento já sedimentado da diretoria (caso Enel SP) de não aplicar atenuante por melhoria posterior ao prazo do plano de resultados; multa de cerca de R$ 17 milhões (valor incerto na legenda). Sustentações orais: Guilherme Bajo (Eletrobras) e Geraldo Luiz Pontelo (ABRATE); pleitos normativos da ABRATE considerados próprios de processo normativo.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, dá parcial provimento e agrava a multa", "ts": "0:18:40", "justificativa": "diretoria já sedimentou não caber atenuante por melhoria pós-prazo do plano de resultados; plano de resultados já é uma oportunidade dada ao agente", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:24:16", "justificativa": "após perguntar à área técnica se o plano previa atenuante (resposta: não) e confirmar identidade com o caso Enel SP", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:24:18", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:24:20", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:24:22", "confianca": "baixa"}
+   ]},
+  {"id": "16", "ts": "0:26:35", "processo": "48500.001752/2017-71", "interessado": "São Bartolomeu Geradora de Energia Renovável S.A. (PCH Tamboril)",
+   "assunto": "Recurso/pedido de reconsideração contra o Despacho 2728/2023 (SFT) que aplicou multa editalícia por atraso na implantação da PCH Tamboril",
+   "tema": ["fiscalização e sanções", "outorgas de geração (PCH)", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "negado provimento por maioria; mantida multa editalícia",
+   "resumo_voto": "Relatora mantém a multa editalícia (precedentes Manuel Alves e São João). Sustentação oral de Flávio Ribeiro Betega pedindo nulidade por aplicação da penalidade editalícia em vez da regulatória (REN 846). Procuradoria registra seu entendimento (nota 10/2024, parecer 5/2024) já superado pela diretoria. Diretor-Geral diverge.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento", "ts": "0:41:27", "justificativa": "mantém multa editalícia pelo atraso na implantação da PCH Tamboril", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:42:03", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:42:05", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "diverge, vencido: dá provimento", "ts": "0:42:06", "justificativa": "na linha da nota jurídica 10/2024 da procuradoria, desconstituir o TIP 1/2020 e o Despacho 2728/2023 e determinar à SFT novo processo punitivo pelo regime sancionatório da REN 846", "confianca": "media"}
+   ]},
+  {"id": "23", "ts": "0:44:00", "processo": "48500.003589/2023-98", "interessado": "Aliança Geração de Energia S.A. (UHE Risoleta Neves)",
+   "assunto": "Impugnação de decisão da CCEE (reunião 1333) sobre penalidade por insuficiência de lastro em jan/2017 após retroação da suspensão da operação comercial (acidente da barragem da Samarco)",
+   "tema": ["comercialização (CCEE)", "fiscalização e sanções", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sustentação oral de Renan Torres Lucas dos Santos (Aliança) sobre excludente por ato do poder público retroativo; procuradoria não se pronunciou. Relatora lê apenas o dispositivo.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento", "ts": "0:56:06", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:56:52", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:56:54", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:56:55", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:56:57", "confianca": "media"}
+   ]},
+  {"id": "8", "ts": "0:57:34", "processo": "48500.000180/2025-88", "interessado": "PCH Mantovilis S.A.",
+   "assunto": "Pedido de efeito suspensivo à impugnação de decisão da CCEE (reunião 1434) sobre penalidade por insuficiência de lastro de energia de reserva (2022)",
+   "tema": ["comercialização (CCEE)", "energia de reserva", "fiscalização e sanções"], "relator": "Fernando Mosna", "resultado": "negado por unanimidade",
+   "resumo_voto": "Sustentação oral de Rodrigo Quintana Fernandes. Relator: excludente de responsabilidade já indeferida (Despacho 207/2025, 2ª RPO) e ausência de caução; requisitos do art. 43 da REN 957 não preenchidos.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, nega o efeito suspensivo", "ts": "1:15:12", "justificativa": "colegialidade: pedido de excludente já indeferido; sem receio de prejuízo de difícil reparação e sem caução", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:15:40", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:15:42", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:15:44", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:15:46", "confianca": "media"}
+   ]},
+  {"id": "22", "ts": "1:16:22", "processo": "48500.000853/2024-12", "interessado": "Serena Desenvolvimento de Energia S.A. e Ômega Desenvolvimento de Energia S.A.",
+   "assunto": "Pedidos de reconsideração contra o Despacho 3414/2024 (revogação de outorga da Ômega e envio à SFF)",
+   "tema": ["outorgas de geração", "recursos administrativos"], "relator": "Fernando Mosna", "resultado": "não conhecido por unanimidade; arquivamento de ofício",
+   "resumo_voto": "Relator ajusta o dispositivo do bloco: de conhecer para não conhecer, pois o item recorrido é ato de mero expediente (art. 43, V, REN 273/2007); determina arquivamento.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, não conhece", "ts": "1:20:20", "justificativa": "ato de mero expediente não é recorrível", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:21:37", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:21:39", "confianca": "media"}
+   ]},
+  {"id": "60", "ts": "1:22:37", "processo": "48500.002898/2018-83", "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, Macaé-RJ)",
+   "assunto": "Prorrogação do prazo de pedido de vista (por mais oito sessões) em requerimento de excludente de responsabilidade",
+   "tema": ["outorgas de geração (térmica)", "institucional/pedido de vista"], "relator": "Fernando Mosna", "resultado": "prorrogação aprovada por unanimidade",
+   "resumo_voto": "Mosna retira o destaque mas registra resignação: processo sob vista do Diretor-Geral desde a 37ª RPO de 2023. Sandoval diz que retornará dentro das oito sessões.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "retira o destaque com registro crítico sobre a demora das vistas", "ts": "1:22:55", "justificativa": "processo sob vista há mais tempo que seu mandato à época do voto", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "relator do voto-vista, aprova a prorrogação", "ts": "1:26:01", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "aprova", "ts": "1:26:05", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova", "ts": "1:26:07", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Vídeo é a Parte 2; itens anteriores estão na Parte 1. Número do item Furnas não dito neste trecho.", "Seguidores votam só com 'voto com o relator' sem nome: muitos votos marcados 'não identificado'.", "Item 16: só três votos audíveis além da relatora; o quinto diretor não foi identificado; divergência atribuída a Sandoval por inferência (ele proclama em seguida).", "Valores de multa e números de processo vêm da legenda automática e podem estar errados; nome da PCH (Mantovilis) e Marlim Azul incertos."]
+}

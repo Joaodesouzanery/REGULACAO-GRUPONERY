@@ -1,0 +1,404 @@
+{
+ "meta": {
+  "video_id": "1wEiCk66Vvc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:36:50); ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31ª RPO 2024",
+  "data": "2024-08-27",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores (colegiado incompleto, quinta cadeira vaga); Hélvio Guerra já fora do cargo, com votos subsistentes nos itens 4 e 5.",
+   "Ordem: bloco, 1, 3, 9, 4 (adiado e retomado), 15, intervalo para almoço, 2 e 5.",
+   "Item 3 terminou empatado 2 x 2 e aguarda o quinto diretor.",
+   "Ata da 30ª RPO aprovada com ressalva de Agnes (em férias)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:44:27",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens remanescentes do bloco (itens 7 a 28 exceto destacados 9 e 15 e retirados 6 e 14), votos disponibilizados previamente",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados sem discussão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:44:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova",
+     "ts": "0:44:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova",
+     "ts": "0:44:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova",
+     "ts": "0:44:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:44:57",
+   "processo": "48500.002542/2024-07 (número da legenda, incerto)",
+   "interessado": "Secretaria de leilões; transmissoras (EVRE/Interligação Elétrica, CPFL citadas)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2024 após análise do TCU (Lote 2 retirado por reavaliação pós-enchentes no RS); lotes 1, 3 e 4, investimento ~R$ 3,35 bi, sessão pública prevista 27/09/2024 na B3",
+   "tema": [
+    "leilões",
+    "transmissão"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar edital e anexos do Leilão 2/2024 e autorizar publicação do aviso. O Diretor-Geral primeiro proclamou por engano o dispositivo antigo (do diretor Hélvio, fase de envio ao TCU) e retificou a proclamação por volta de 2:33.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:55:25",
+     "confianca": "alta",
+     "justificativa": "TCU atestou atendimento formal à IN 81/2018; apresentação técnica da Secretaria de Leilões (André Tiburtino)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:55:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:55:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:55:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:56:56",
+   "processo": "48500.000089/2023-02 (legenda incerta)",
+   "interessado": "CEEE Equatorial (Companhia Estadual de Distribuição de Energia Elétrica); AGERGS",
+   "assunto": "Recurso contra auto de infração 1/2022 da AGERGS (multa ~R$ 3,4 mi) por envio intempestivo de informações durante temporal de março/2022 em Porto Alegre; sustentação oral de Daiane Rosa Graciano (CEEE)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição e qualidade",
+    "eventos climáticos extremos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "empate 2 x 2 — sem decisão; processo aguarda quórum completo (quinto diretor)",
+   "resumo_voto": "Relator nega provimento e mantém a multa (contra a SFT, que propunha conversão em advertência). Agnes abre divergência pela conversão em advertência; Sandoval acompanha a divergência; Ricardo acompanha o relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento e mantém multa",
+     "ts": "1:37:43",
+     "confianca": "alta",
+     "justificativa": "conduta grave; prazo curto da reguladora estadual justificado pela emergência; preservar o poder de requisição das agências; SFT não motivou a conversão"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge: converte a multa em advertência",
+     "ts": "2:03:33",
+     "confianca": "alta",
+     "justificativa": "proporcionalidade e razoabilidade; empresa respondeu em ~48 h, abaixo dos 5 dias da norma, logo após troca de controle; tema em discussão na tomada de subsídios 2/2024 sobre eventos climáticos"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:03:40",
+     "confianca": "media",
+     "justificativa": "reforçou que informação tardia prejudica o serviço público local (hospitais, segurança) em calamidade"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência (advertência)",
+     "ts": "2:03:46",
+     "confianca": "alta",
+     "justificativa": "advertência bem calibrada; equipes dedicadas à ocorrência; mérito do evento (multa de ~R$ 29 mi) é tratado em processo próprio"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:08:47",
+   "processo": "48500.005913/2023 (legenda incerta)",
+   "interessado": "Cooperaliança; Empresa Força e Luz João Cesa; EFLUL (Força e Luz de Urussanga); DCELT",
+   "assunto": "Reajustes tarifários anuais de 2024 com vigência em 29/08/2024 (efeitos médios: Cooperaliança 2,93%, João Cesa 6%, EFLUL -9,67%, DCELT 4,97%); sustentação oral de representante da EFLUL (agradecimento)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado; unânime para Cooperaliança, João Cesa e EFLUL; por maioria para DCELT conforme divergência de Agnes (relator vencido nesse ponto)",
+   "resumo_voto": "Relator acatava pleito da DCELT de antecipar sobrecontratação (~R$ 16,8 mi; efeito médio 4,69%), contra a STR. Agnes divergiu (efeito alocativo na CDE sem previsão legal) e votou pelo cálculo da NT 129/2024 (4,97%); Sandoval questionou a antecipação. Proclamação inicial 'por maioria' retificada às 3:31 para separar unânime/maioria.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (acata pleito da DCELT)",
+     "ts": "2:24:27",
+     "confianca": "alta",
+     "justificativa": "economia processual; desequilíbrio relevante para distribuidora pequena (52% da parcela B); não haveria aumento de CDE, apenas antecipação"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha nas três primeiras; diverge na DCELT (NT 129/2024 STR)",
+     "ts": "2:25:49",
+     "confianca": "alta",
+     "justificativa": "acatar o pleito transfere custo para a CDE sem previsão legal; desequilíbrio deve ser comprovado em processo próprio"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Agnes na DCELT",
+     "ts": "2:30:32",
+     "confianca": "media",
+     "justificativa": "compensação futura na CDE não é biunívoca; reajuste e revisão já preveem equilíbrio"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência de Agnes na DCELT (inferido da proclamação por maioria)",
+     "ts": "2:30:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:31:45",
+   "processo": "48500.005748/2017-41 e outros (legenda incerta)",
+   "interessado": "Délio Bernardino Holding S.A. e Nena Bernardino Holding S.A. (UFVs em Janaúba-MG; investidor Copenhagen Infrastructure Partners)",
+   "assunto": "Pedido de reconsideração do despacho 4381/2023 que indeferiu alteração de cronograma e divisão das outorgas das UFVs Délio Bernardino e Délio Bernardino 8 (309 MW) em novas outorgas com desconto na TUST/TUSD; voto-vista do Diretor-Geral",
+   "tema": [
+    "outorgas de geração",
+    "solar",
+    "recursos administrativos",
+    "transmissão (CUST)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de reconsideração negado por maioria (3 x 2), nos termos do voto do ex-diretor Hélvio Guerra",
+   "resumo_voto": "Relator dava parcial provimento (divisão em 8 outorgas de ~37 MW com condicionantes). Hélvio (voto subsistente) e Agnes negavam. Voto-vista de Sandoval: negar provimento; inicialmente também revogava com ônus a outorga da UFV Délio Bernardino, mas retirou essa parte para alinhar-se ao voto de Hélvio. Debate tenso: Ricardo contestou a menção a preclusão e a 'leitura em tiras' da nota técnica; Sandoval pediu desculpas.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dá parcial provimento (vencido)",
+     "ts": "3:22:50",
+     "confianca": "alta",
+     "justificativa": "nota técnica 715 e memorando 178 admitiam a divisão; prática da casa é aceitar complementações após o recurso"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "nega provimento (voto proferido antes do fim do mandato, subsistente)",
+     "ts": "3:22:50",
+     "confianca": "media",
+     "justificativa": "não há previsão regulatória para divisão de outorgas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "nega provimento (mantém voto alinhado a Hélvio e Sandoval)",
+     "ts": "3:22:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: nega provimento",
+     "ts": "2:55:49",
+     "confianca": "alta",
+     "justificativa": "sem direito adquirido a alteração de cronograma ou divisão; aproveitamento do CUST só para quem aderiu à REN 1065 ('dia do perdão'); prorrogação de 36 meses seria ultra petita"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (vencido)",
+     "ts": "3:23:00",
+     "confianca": "baixa",
+     "justificativa": "defendeu formalismo moderado contra preclusão rígida no processo administrativo"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "3:25:16",
+   "processo": "48500.001535/2019-1 e 48500.000134/2019-67 (legenda incerta)",
+   "interessado": "Neoenergia Guanabara Transmissão de Energia S.A.; Neoenergia Itabapoana",
+   "assunto": "Pedido de reconsideração do despacho 4678/2023 (segregação de instalações e RAP dos contratos 2 e 3/2019; SE Lagos, LT Lagos–Campos 2; conexão UTE Marlim Azul)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (parcial provimento)",
+   "resumo_voto": "Retificar despacho 4678/2023 ('e/ou' por 'ou'), ratificar 20/06/2024 como entrada em operação em teste e fixar a publicação como marco do prazo do despacho 4365/2023, após manifestação do ONS sobre conveniência hidrológica (ajuste por interação com Agnes).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "3:28:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:29:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:29:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:29:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "5:50:03",
+   "processo": "48500.002098/2024-19 (legenda incerta)",
+   "interessado": "Amazonas Energia; CCEE; Eletronorte",
+   "assunto": "Flexibilização temporária de parâmetros de eficiência para reembolso da CCC e custos operacionais flexibilizados (MP 1.232/2024): repasse mensal de ~R$ 39 mi por 120 dias e suspensão do fator de corte de perdas",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "institucional/judicialização"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade, com ajustes (comprovação de pagamento perante a CCEE; suspensão nos termos da legislação vigente)",
+   "resumo_voto": "Homologa custos operacionais flexibilizados via CCC; afasta fator de corte por 120 dias condicionado à comprovação do pagamento das notas de compra de energia; suspende fator de corte para todos os beneficiários desde junho/2024. Relator e Diretor-Geral criticaram ação judicial da Amazonas Energia (distribuição quatro vezes em minutos, pedido de decisão monocrática do DG, alegação de inércia da ANEEL).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "6:33:35",
+     "confianca": "alta",
+     "justificativa": "reembolso tem natureza de ressarcimento: só com comprovação de pagamento; defesa da celeridade da ANEEL"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha, com ajuste (comprovação na CCEE e relatório à fiscalização)",
+     "ts": "6:45:52",
+     "confianca": "alta",
+     "justificativa": "checagem de pagamento de encargos cabe por lei à CCEE"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha, com ajuste (retirar 'prazo indeterminado'; nos termos da legislação vigente)",
+     "ts": "6:47:30",
+     "confianca": "media",
+     "justificativa": "MP pode não ser convertida em lei"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "6:50:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "6:54:08",
+   "processo": "48500.003395/2007-72 (legenda incerta)",
+   "interessado": "Petrobras Energia S.A. — UTE Termoceará (220 MW); distribuidoras; CCEE; ONS",
+   "assunto": "Rescisão dos CCEARs da UTE Termoceará por indisponibilidade (cláusula 10.1) e multa rescisória; voto-vista de Agnes pela insubsistência do voto do ex-diretor Hélvio e pelo arquivamento",
+   "tema": [
+    "comercialização",
+    "fiscalização e sanções",
+    "outorgas de geração",
+    "térmica"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "preliminar: unanimidade dos presentes que votaram pela inexistência de fato novo (voto de Hélvio subsiste); mérito: por maioria, rescisão dos CCEARs e multa (voto de Hélvio)",
+   "resumo_voto": "Agnes: melhora de desempenho (SFT mai/2024, ONS jul/2024) seria fato novo; rescisão a 4 meses do fim do contrato prejudicaria confiabilidade no período seco. Fernando: performance recente não é fato novo; período relevante 2012–2020 e plano de resultados não cumprido; 'me sinto vinculado a cumprir o contrato'. Ricardo: argumento já estava na carta de 27/09/2023 apreciada por Hélvio. Procurador citou art. 28 da Norma de Organização.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, rescinde os CCEARs e aplica multa (voto subsistente)",
+     "ts": "6:54:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: insubsistência do voto do relator e arquivamento (vencida)",
+     "ts": "7:06:15",
+     "confianca": "alta",
+     "justificativa": "conveniência e oportunidade; usina recuperou disponibilidade; ONS recomenda manter; tratamento isonômico com outras térmicas"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "preliminar: não há fato novo; mérito: acompanha o relator",
+     "ts": "7:57:12",
+     "confianca": "alta",
+     "justificativa": "descumprimento de 3 anos consecutivos e falta de combustível em 2018 e 2021; recebeu receita fixa sem disponibilidade"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "preliminar: não há fato novo; mérito: acompanha o relator",
+     "ts": "7:57:13",
+     "confianca": "alta",
+     "justificativa": "fotografia objetiva do contrato; fatos já apreciados por Hélvio"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "preliminar: não há fato novo; mérito: acompanha a vistora Agnes (manter contratos)",
+     "ts": "7:57:15",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "6",
+   "motivo": "retirado de pauta (assunto não lido)"
+  },
+  {
+   "item": "14",
+   "motivo": "retirado de pauta (assunto não lido)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes de interessados (Délio/Nena Bernardino, DCELT, EFLUL, Daiane Rosa Graciano) podem estar errados.",
+  "Votos de bloco e de 'acompanha' com ts aproximados; falantes não identificados nominalmente nas falas curtas de votação.",
+  "Item 9: voto de Fernando Mosna não é audível de forma clara; inferido da proclamação 'por maioria acompanhando a divergência de Agnes'.",
+  "Item 4: atribuição de 'Eu voto com relator' a Fernando Mosna é inferida (placar 3 x 2 não proclamado explicitamente).",
+  "Item 3: atribuição do 'acompanho o relator' a Ricardo Tili é inferida pela ordem de fala.",
+  "Gentil Nogueira aparece no cabeçalho de falantes, mas na época era secretário do MME (citado como ex-superintendente); não participou.",
+  "Assuntos dos itens retirados 6 e 14 e dos itens do bloco não foram lidos na sessão."
+ ]
+}

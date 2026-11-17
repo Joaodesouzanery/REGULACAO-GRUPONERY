@@ -1,0 +1,959 @@
+{
+ "meta": {
+  "video_id": "TVpdGSVRUwY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts por busca de frase na transcrição; votos de sessões anteriores inferidos",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "2ª RPO 2025",
+  "data": "2025-01-29",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Ludimila Lima (diretora substituta)"
+  ],
+  "ausentes": [
+   "Agnes da Costa (justificada)"
+  ],
+  "observacoes": [
+   "Primeira reunião de Ludimila Lima como diretora substituta (convocada em 13/01/2025), após 8 meses de colegiado incompleto; desempatou cerca de 19 processos empatados.",
+   "Ata da 1ª RPO aprovada sem o voto de Ludimila Lima.",
+   "Itens 21 a 59 em bloco; retirados 38 e 47; vista de Tili no 22 e no 46.",
+   "Ricardo Tili e Fernando Mosna ficaram vencidos em vários desempates; Sandoval mudou o voto nos itens 10 a 17 (Âmbar/EPP II)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (21 a 59)",
+   "ts": "0:46:47",
+   "processo": "itens 21 a 59 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco, com votos publicados previamente; destacados 24 e 46 (sustentação oral), retirados 38 e 47; vista do item 22",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (exceto item 22, com vista; Ludimila Lima impedida nos itens 23 e 24)",
+   "resumo_voto": "Bloco aprovado; Ludimila Lima declara-se impedida nos itens 23 e 24 por ter decidido como superintendente da SCE.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco, impedida nos itens 23 e 24",
+     "ts": "0:47:26",
+     "justificativa": "decisões exaradas por ela enquanto superintendente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os demais itens do bloco",
+     "ts": "0:47:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco, exceto o item 22 (pede vista)",
+     "ts": "0:47:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:47:45",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "0:47:42",
+   "processo": "não citado",
+   "interessado": "não citado",
+   "assunto": "Item 22 do bloco (assunto não lido na sessão; já tinha voto do diretor Hélvio Guerra)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista de Ricardo Tili",
+   "resumo_voto": "Retirado do bloco por pedido de vista.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "0:47:42",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:48:51",
+   "processo": "48500.003073/2023-09 (número da legenda incerto)",
+   "interessado": "distribuidoras de energia; STR",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 45 dias, 29/01 a 14/03/2025) para aprimorar a regulação do compartilhamento de outras receitas da distribuição (submódulos 2.7 e 2.7A do PRORET), AIR 2/2024-STR",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "regulação normativa",
+    "inovação"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP instaurada; STR apresentou alternativa 4 (linha de base na revisão tarifária, 50% de compartilhamento do incremento e incentivo progressivo a atividades inovadoras). Sandoval elogiou a alternativa 4; Mosna disse não ter predileção e pediu delimitar o conceito de inovação.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "1:06:15",
+     "justificativa": "revisão completa prevista a cada 8 anos; sem predileção por alternativa, mas é preciso delimitar o que é inovação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:12:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:12:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:12:11",
+     "justificativa": "vê com bons olhos a alternativa 4: menor compartilhamento nos primeiros anos remunera o risco do pioneiro em inovação",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:13:44",
+   "processo": "48500.002682/2024-66 (número da legenda incerto)",
+   "interessado": "CCEE; MME; Copel; Cemig",
+   "assunto": "CP sobre efeitos tarifários da quitação antecipada das Contas Covid e Escassez Hídrica (MP 1.212); desempate dos itens 3, 4 e 5 do voto: encaminhar o processo à CGU, ao Congresso Nacional e ao TCU sobre a homologação pelo MME de benefício ao consumidor de R$ 510 milhões (recalculado pela CCEE em R$ 46,5 milhões)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "institucional/TCU"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, não encaminhar o processo à CGU, ao Congresso e ao TCU (itens 3 a 5); demais itens já deliberados",
+   "resumo_voto": "Processo empatado 2 a 2; Ludimila Lima desempatou com a divergência. Mosna relatou que MPC-TCU e um senador já levaram o caso ao TCU.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, encaminhar a CGU, Congresso e TCU (vencido nos itens 3 a 5)",
+     "ts": "1:14:40",
+     "justificativa": "benefício homologado pelo MME (R$ 510 mi) muito superior ao recalculado pela CCEE (R$ 46,5 mi), sem retificação; remuneração de 3% aos bancos (~R$ 285 mi)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência: não encaminhar a CGU, Congresso e TCU",
+     "ts": "1:22:53",
+     "justificativa": "a questão do benefício será tratada no fechamento da consulta pública; Congresso e TCU já foram acionados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (não encaminhar) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:23:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:23:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:24:42",
+   "processo": "48500.000372/2024-15 (número da legenda incerto)",
+   "interessado": "Nebras do Brasil Investments; Ecoenergia Participações; Neoenergia; Serveng Energias Renováveis; ABEEólica",
+   "assunto": "Suspensão do prazo da REN 1.080/2023 para declarar participação no mecanismo de alocação de energia do ACL para o ACR",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, indeferidos os pedidos da Ecoenergia e da Neoenergia (Nebras deferido e Serveng/ABEEólica indeferidos por unanimidade em sessão anterior)",
+   "resumo_voto": "Tili defendia deferir Ecoenergia e Neoenergia pela falta de período de transição (3 dias) com base na LINDB; Ludimila Lima acompanhou a divergência.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, deferir Ecoenergia e Neoenergia (vencido)",
+     "ts": "1:25:24",
+     "justificativa": "mudança normativa exige transição; prazo de 3 dias exíguo; CCEE sugeria 2024 como teste (LINDB)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência: indeferir Ecoenergia e Neoenergia",
+     "ts": "1:28:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:29:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:29:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:30:04",
+   "processo": "48500.003924/2008-19 e 48500.001656/2017-91 (números da legenda incertos)",
+   "interessado": "PCH Mantovilis (nome incerto na legenda)",
+   "assunto": "Requerimento com pedido de cautelar para reconhecimento de excludente de responsabilidade pelo atraso na implantação da PCH (sistema de interesse restrito; embargos ambientais em MT)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Jácomo Francisco Bassi Almeida (ex-diretor substituto; nome da legenda)",
+   "resultado": "por maioria, indeferido o pleito adicional de excludente",
+   "resumo_voto": "Relator e Sandoval indeferiram; Tili (voto-vista) e Mosna deferiam 489 dias adicionais; Ludimila Lima acompanhou o relator.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: deferir 489 dias adicionais de excludente (vencido)",
+     "ts": "1:30:30",
+     "justificativa": "embargos e ações civis públicas (MP de MT e federal) até 31/10/2019; área técnica achou os motivos plausíveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator: indeferir",
+     "ts": "1:33:05",
+     "justificativa": "inexistência de eventos de excludente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:33:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista de Tili (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:33:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:33:42",
+   "processo": "48500.000089/2023-2 (número da legenda incerto)",
+   "interessado": "CEEE-D (Grupo Equatorial); AGERGS",
+   "assunto": "Recurso contra o Auto de Infração 1/2022-AGERGS (atraso no envio de informações após o temporal de 06/03/2022 em Porto Alegre); multa de cerca de R$ 3,45 milhões",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, recurso conhecido e negado; multa mantida",
+   "resumo_voto": "Mosna: conversão em advertência pela área técnica não foi fundamentada e o argumento de adaptação ao novo controlador não se sustenta. Sandoval (com Agnes) defendeu a conversão em advertência por razoabilidade; Ludimila Lima acompanhou o relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento e mantém a multa",
+     "ts": "1:34:20",
+     "justificativa": "conversão em advertência sem motivação; a transferência de controle justificou arquivar o TI, logo não cabe alegar fase de adaptação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge: converter em advertência (vencido)",
+     "ts": "1:41:00",
+     "justificativa": "novo controlador não detinha ainda controle pleno dos sistemas; pedido de informação no ápice da crise; razoabilidade e proporcionalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:44:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:45:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:45:52",
+   "processo": "48500.000203/2023-2 (número da legenda incerto)",
+   "interessado": "CEEE-D; AGERGS",
+   "assunto": "Recurso contra o Auto de Infração 2/2022-AGERGS (descumprimento de normas de fornecimento); multa de cerca de R$ 29,3 milhões",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa (ausente)",
+   "resultado": "por maioria, recurso conhecido e negado; multa mantida (divergência de Mosna)",
+   "resumo_voto": "Ludimila Lima acompanhou a divergência de Mosna, mantendo a multa.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência de Mosna: manter a multa",
+     "ts": "1:46:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge da relatora: manter a multa (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:46:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:46:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a divergência (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:46:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:47:50",
+   "processo": "48500.000499/2006 e 48500.006210/2021-1 (números da legenda incertos)",
+   "interessado": "São Martinho S.A.; Equatorial Goiás",
+   "assunto": "Pedido de reconsideração do Despacho 1.622/2022 (interligação entre as UTEs Boa Vista e São Martinho Boa Vista; rateio de perdas da rede básica e limite de 30 MW)",
+   "tema": [
+    "comercialização",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "unanimidade para revogar o item 1 do despacho; por maioria mantidos os itens 1e e 1f",
+   "resumo_voto": "Tili e Mosna entendiam que só a energia injetada na rede básica deveria ratear perdas; Ludimila Lima acompanhou a divergência mantendo 1e e 1f.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dar provimento também quanto a 1e e 1f (vencido nesses itens)",
+     "ts": "1:48:14",
+     "justificativa": "interligação por linha de interesse restrito só para a caldeira; só energia injetada na rede básica deve ratear perdas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência: manter itens 1e e 1f",
+     "ts": "1:50:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:50:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "1:50:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:51:27",
+   "processo": "48500.003363/2024-78 (número da legenda incerto)",
+   "interessado": "Átimo Comercializadora de Energia; CCEE",
+   "assunto": "Efeito suspensivo à impugnação contra deliberação do CAd da CCEE (reunião 1423) sobre desligamento por descumprimento de obrigações",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa (ausente)",
+   "resultado": "por maioria, conhecido e concedido o efeito suspensivo; recomendação à SGM já aprovada antes",
+   "resumo_voto": "Ludimila Lima acompanhou a divergência, deferindo o efeito suspensivo.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência: dar provimento ao efeito suspensivo",
+     "ts": "1:52:12",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "posição anterior não identificada",
+     "ts": "1:52:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "posição anterior não identificada",
+     "ts": "1:52:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "posição anterior não identificada",
+     "ts": "1:52:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:54:32",
+   "processo": "48500.001427/2024-04 (número da legenda incerto)",
+   "interessado": "Kamai Solar Power (nome incerto); RGE Sul Distribuidora",
+   "assunto": "Cautelar para obrigar a RGE Sul a emitir orçamentos de conexão de 7 usinas de GD (32,5 MW) negados por suposto fracionamento",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "cautelar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, cautelar negada; registro em ata de que o mérito seja analisado com prioridade por SMA e STD",
+   "resumo_voto": "Mosna via fumaça do bom direito pelos critérios da CP 51/2022; Sandoval contra criar critério geral em cautelar; Tili defendeu o rito da cautelar mas achou temerário criar critério em sede cautelar; Ludimila Lima negou por perigo reverso. A SGE admitiu falha: o processo não foi enviado à área técnica.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, conceder a cautelar (vencido)",
+     "ts": "1:55:00",
+     "justificativa": "proprietários e matrículas distintos, áreas não contíguas, subestações diferentes; vedação ao non liquet; delegação às distribuidoras não exclui competência da ANEEL",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge: negar a cautelar",
+     "ts": "2:02:00",
+     "justificativa": "cautelar não pode virar leading case suprimindo consulta pública; subsídio cruzado pago pelo consumidor; precedente AM Torres revertido no mérito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "posição no empate não explicitada na sessão",
+     "ts": "2:08:00",
+     "justificativa": "cautelar tem rito próprio e não fura fila, mas é temerário criar critério normativo em sede cautelar",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "nega a cautelar; pede priorização do mérito",
+     "ts": "2:14:09",
+     "justificativa": "perigo reverso da demora; incomoda a ausência de análise de mérito",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:24:42",
+   "processo": "27101.000484/1989-10 (número da legenda incerto)",
+   "interessado": "PCH Cazuza Ferreira",
+   "assunto": "Ajuste do prazo de outorga da PCH em decorrência da Lei 14.120/2021 (art. 26, §12, Lei 9.427)",
+   "tema": [
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, indeferido o ajuste do prazo da PCH Cazuza Ferreira (demais processos já decididos por unanimidade)",
+   "resumo_voto": "Tili deferia (sem antinomia entre §7 e §12); área técnica e Procuradoria recomendaram negar; Ludimila Lima acompanhou a divergência.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, deferir o ajuste (vencido)",
+     "ts": "2:25:04",
+     "justificativa": "§7 (prorrogação) e §12 (deslocamento da contagem) são independentes, sem antinomia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha a divergência: indeferir",
+     "ts": "2:26:56",
+     "justificativa": "conhece o processo, que passou pela SCE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (vencido) (voto proferido em sessão anterior; posição inferida do relato do empate)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "2:28:34",
+   "processo": "48500.001112/2020-63 e outros (número da legenda incerto)",
+   "interessado": "Voltalia Energia do Brasil (EOLs Canudos 5, 6, 8, 9, 11 e 12, BA)",
+   "assunto": "Recurso contra o Despacho 967/2024-SCE sobre cronograma e excludente de responsabilidade (licença prévia suspensa por ação civil pública)",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por unanimidade, recurso conhecido e negado (art. 15, II, REN 1.071/2023: obras não iniciadas); Ludimila Lima impedida",
+   "resumo_voto": "Sustentação oral de Caroline Dias (Voltalia): exigir início de obras seria prova impossível. Relator: sem obras não há nexo de causalidade com atraso na operação comercial.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "2:43:39",
+     "justificativa": "sem obras iniciadas não há como aferir nexo causal; aplica art. 15 da REN 1.071",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:44:09",
+     "justificativa": "autorização para ACL; sem licença e sem obra não cabe gastar esforço escasso; regulação previsível",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:46:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "impedida",
+     "ts": "0:47:26",
+     "justificativa": "decidiu o caso como superintendente da SCE",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "ts": "2:47:06",
+   "processo": "48500.008859/2024-90 (número da legenda incerto)",
+   "interessado": "Hidrotérmica Comercializadora de Energia (HTCOM)",
+   "assunto": "Termo de Intimação 58/2024-SFF: revogação da autorização de comercialização por não envio de documentos de manutenção (REN 1.011/2022) em 2023 e 2024",
+   "tema": [
+    "comercialização (CCEE)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Ricardo Tili",
+   "resumo_voto": "Sustentação oral de Urias Martiniano Garcia Neto e Reinaldo Luiz Ross (documentos entregues a destempo). Relator mantém o TI e revoga a outorga; Sandoval questionou a falta de gradação mas antecipou concordância; SFF (Maria Luísa) informou que não há delegação para estender o prazo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, mantém o TI e revoga a outorga",
+     "ts": "2:59:47",
+     "justificativa": "documentos relevantes (sócios, balanço) não entregues em 2023 e entregues a destempo em 2024; caso 2W; segurança do mercado livre; regra dura mas é a lei",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:15:30",
+     "justificativa": "norma estrita por segurança do mercado, embora caiba discutir gradação entre regularização e revogação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "voto com o relator",
+     "ts": "3:16:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "3:16:24",
+     "justificativa": "quer comparar com casos em que documentos tardios levaram ao arquivamento",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "3:19:13",
+   "processo": "48500.004485/2022-10 (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "ABRACE e ANACE (pedido de reconsideração do Despacho 1.872/2022 sobre UTEs Edlux X, EPP II, EPP IV e Rio de Janeiro I)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "3:19:13",
+   "processo": "48500.005500/2021-66 e outros (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "SPE EPP II Centrais Elétricas e EPP II Itaguaí Energia (reconsideração do Despacho 2.966/2022; multas CCEE e excludente; TIs 9 a 12/2022-SFG)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili (originalmente Fernando Mosna, que depois declarou suspeição)",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "3:19:13",
+   "processo": "48500.005526/2021-12 e outros (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "SPEs EPP II (recurso contra Despachos 2.162 a 2.165/2022-SFG que negaram operação em teste das UTEs em Cuiabá/MT)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "3:19:13",
+   "processo": "48500.005592/2021-84 e outros (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "alterações de características técnicas das UTEs EPP II, EPP IV, Rio de Janeiro I e Edlux X (Cuiabá/MT)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:19:13",
+   "processo": "48500.007401/2022-08 (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "SPE EPP II Centrais Elétricas (impugnação de desligamento na CCEE, reunião 1278)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "3:19:13",
+   "processo": "48500.007533/2022-2 (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "SPE EPP II Itaguaí Energia (impugnação de desligamento na CCEE, reunião 1278)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:19:13",
+   "processo": "48500.002554/2023-31 (número da legenda incerto)",
+   "interessado": "Âmbar Energia / SPEs EPP II (térmicas do PCS 2021)",
+   "assunto": "Âmbar Energia (impugnação de desligamento na CCEE, reunião 1322)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processo extinto por perda de objeto (art. 14 do anexo da REN 273/2007); Mosna suspeito",
+   "resumo_voto": "Termo de autocomposição MME/ANEEL/agente; Agnes divergira exigindo comprovação da quitação (cláusula 2.3); Ludimila Lima verificou os pagamentos (cláusulas 2.1, 2.3.1, 2.3.2; 2.3.3 por encontro de contas na CCEE) e acompanhou o relator; Sandoval mudou o voto.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, declarar extinto por perda de objeto",
+     "ts": "3:23:17",
+     "justificativa": "acordo com penalidade autoexecutável; descumprimento não depende destes processos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:26:41",
+     "justificativa": "pagamentos do termo de autocomposição comprovados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:27:30",
+     "justificativa": "adimplemento de parte considerável das obrigações sanou a razão da divergência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito",
+     "ts": "3:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "3:28:50",
+   "processo": "48500.005002/2021-55 (número da legenda incerto)",
+   "interessado": "Barra Bonita Óleo e Gás (UTE Barra Bonita 1, Pitanga/PR)",
+   "assunto": "Excludente de responsabilidade e recursos contra despachos da SFG de 2022 sobre o CER da UTE Barra Bonita 1",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (reserva de capacidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, processos extintos por perda de objeto",
+   "resumo_voto": "Mesmos fundamentos dos itens 10 a 16; pagamentos da cláusula 2.4 descontados da receita do gerador.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, extinção por perda de objeto",
+     "ts": "3:29:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:30:29",
+     "justificativa": "pagamentos da cláusula 2.4 descontados da receita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "muda o voto e acompanha o relator",
+     "ts": "3:30:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito (inferido dos itens 10 a 16)",
+     "ts": "3:30:40",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "38",
+  "47"
+ ],
+ "limites_da_analise": [
+  "Nos itens empatados (2, 4, 5, 6, 7, 9, 18, 19, 20) os votos de Sandoval, Mosna e Tili foram dados em sessões anteriores; a posição foi inferida do relato e do resultado, com confiança baixa ou média.",
+  "Números de processo, valores e nomes de empresas (Mantovilis, Kamai, Átimo, Cazuza Ferreira) vêm da legenda automática e podem estar errados.",
+  "Jácomo Francisco Bassi Almeida (relator do item 5, ex-diretor substituto) não consta da lista de diretores da config.",
+  "Assunto do item 22 não foi lido; item 8 não foi apregoado nesta sessão (não citado na ordem de deliberação).",
+  "Item 3 da ordem citada não foi apregoado separadamente; tratado dentro do item 2 (dispositivos 3 a 5).",
+  "Timestamps de quem só acompanhou são aproximados."
+ ]
+}

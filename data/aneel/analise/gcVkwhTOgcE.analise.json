@@ -1,0 +1,378 @@
+{
+ "meta": {
+  "video_id": "gcVkwhTOgcE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22); ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "26ª RPO de 2024",
+  "data": "2024-07-23",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "cadeira vaga (quinto diretor não indicado)"
+  ],
+  "observacoes": [
+   "Pauta com 18 itens; itens 7 a 18 em bloco; item 9 destacado; item 15 retirado; ordem: bloco, 3, 1, 2, 5, 4, 6, 9.",
+   "Quórum de quatro diretores; empates 2 a 2 no item 5 aguardam o quinto diretor.",
+   "Item 3: proclamação corrigida para maioria (3 a 1) no mérito porque o voto anterior de Agnes da Costa permaneceu.",
+   "Item 4: pedido de vista de Ricardo Tili; item 6: retirado de pauta por Agnes da Costa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:30:23",
+   "processo": "itens 7 a 18 da pauta (exceto item 9 destacado e item 15 retirado)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 26ª RPO de 2024 (votos e atos disponibilizados previamente)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados sem discussão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:30:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:30:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:30:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:30:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:30:55",
+   "processo": "48500.000390/2018-13",
+   "interessado": "distribuidoras de energia e prestadoras de telecomunicações (Anatel)",
+   "assunto": "Aprimoramento da regulamentação do compartilhamento de infraestrutura (postes) entre distribuição de energia e telecomunicações, após a CP 73/2021; voto-vista do Diretor-Geral",
+   "tema": [
+    "regulação normativa (resolução conjunta ANEEL/Anatel)",
+    "distribuição",
+    "compartilhamento de postes",
+    "telecomunicações"
+   ],
+   "relator": "Hélvio Guerra (ex-diretor); voto-vista Sandoval Feitosa",
+   "resultado": "insubsistência do voto do ex-relator Hélvio Guerra declarada por unanimidade dos presentes; processo extinto sem decisão de mérito e remetido à STD para nova instrução e sorteio de novo relator, por maioria (3 a 1, mantido o voto anterior de Agnes da Costa)",
+   "resumo_voto": "Fato novo: Decreto 12.068/2024 (art. 16) sobre cessão de espaço em infraestrutura; não seria adequado tratá-lo num simples pedido de vista; aproveitar a instrução e retomar diálogo com a Anatel. Fernando Mosna retirou seu voto-vista anterior e aderiu.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: declarar insubsistente o voto do ex-relator e extinguir o processo sem mérito, com nova instrução e sorteio",
+     "ts": "0:31:10",
+     "confianca": "alta",
+     "justificativa": "decreto 12.068/2024 é fato novo relevante; questões jurídicas dos pareceres (cessão obrigatória da exploração dos postes) não superadas; risco de judicialização"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista; retira seu próprio voto-vista",
+     "ts": "0:59:25",
+     "confianca": "alta",
+     "justificativa": "art. 16 do decreto não inova muito, mas há pontos (regularização de postes, PRPP) que exigem nova instrução à luz do decreto"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:03:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou nesta sessão (ausente no momento); seu voto anterior no processo foi mantido e computado como divergente no mérito",
+     "ts": "1:06:10",
+     "confianca": "baixa",
+     "justificativa": "registro posterior: votação de mérito por maioria 3 a 1 porque permaneceu o voto da Agnes (proposta alternativa ao art. 3º)"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:07:47",
+   "processo": "48500.002962/2024-11",
+   "interessado": "distribuidoras do Rio Grande do Sul (RGE, CEEE Equatorial e permissionárias); Abradee",
+   "assunto": "Resultado da CP 15/2024: cálculo excepcional de recomposição de prorrogações e diferimentos tarifários das distribuidoras atingidas pelos eventos climáticos extremos no RS",
+   "tema": [
+    "tarifas e revisão tarifária (diferimento, CVA, Selic)",
+    "calamidade Rio Grande do Sul",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova cálculo excepcional (submódulos 4.2/4.2A do Proret) com Selic mensal e variação de mercado, recomposição até o processo tarifário de 2025 a 2027; rejeitada a troca de Selic por IPCA pedida por conselhos de consumidores. Sustentação oral: Lucas Malheiros Nunes (Abradee). Apresentação técnica: Leonardo (STR).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "1:41:48",
+     "confianca": "alta",
+     "justificativa": "Selic é o índice do Proret e reflete melhor o custo de captação; distribuidoras que diferirem privilegiam o consumidor; neutralidade com mercado e Selic realizada"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vota com a relatora",
+     "ts": "1:43:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:46:54",
+   "processo": "48500.006212/2021-11 e 48500.004992/2006-1 (números incertos)",
+   "interessado": "São Martinho S.A. (UTEs Boa Vista / São Martinho)",
+   "assunto": "Pedido de reconsideração contra o Despacho 1.622/2022 (interligação elétrica entre as usinas termelétricas Boa Vista e São Martinho); complemento de votação com o voto do Diretor-Geral",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "item d do despacho revogado por unanimidade; itens e (reforma para energia injetada) e f empatados 2 a 2, sem decisão, aguardando o quinto diretor",
+   "resumo_voto": "Relator e Fernando Mosna: revogar d e f e reformar e. Agnes da Costa: negar provimento quanto a e e f. Diretor-Geral acompanhou Agnes em e e f.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator: revogar itens d e f e reformar item e do despacho",
+     "ts": "1:49:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (votado em sessão anterior)",
+     "ts": "1:51:00",
+     "confianca": "media",
+     "justificativa": "após confusão na sessão, confirmou que acompanha o relator"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge parcialmente: revoga d, mas mantém e e f (nega provimento)",
+     "ts": "1:48:30",
+     "confianca": "media",
+     "justificativa": "achou que não precisava mexer no despacho"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "revoga item d; acompanha Agnes da Costa em e e f (manter)",
+     "ts": "1:47:52",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:54:30",
+   "processo": "48500.003729/2023-28",
+   "interessado": "distribuidoras; ABSOLAR, ABGD, Abradee; Secretaria Nacional de Habitação",
+   "assunto": "Resultado da CP 3/2024: regulamentação do Minha Casa Minha Vida (Lei 14.620/2023, Decreto 12.084/2024) e aprimoramento da regra de inversão de fluxo (art. 73 da REN 1.000/2021)",
+   "tema": [
+    "geração distribuída (MMGD, inversão de fluxo)",
+    "distribuição",
+    "regulação normativa (resolução normativa, consulta pública)",
+    "Minha Casa Minha Vida"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova alteração da REN 1.000 (novo art. 73-A: dispensa do estudo de inversão de fluxo para zero grid, microgeração gratuita compatível com consumo simultâneo e fast track até 7,5 kW para autoconsumo local), submódulo 7.3 v2.7 do Proret e manual de instruções dos estudos de inversão de fluxo; acata retirada do inciso IV sugerida por Fernando Mosna, rejeita gratuidade diferenciada. Sustentações orais: Bárbara Rubim (ABSOLAR), Raquel Cunha (ABGD), Lucas Malheiros Nunes (Abradee). Apresentação: Daniel (STD).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:09:22",
+     "confianca": "alta",
+     "justificativa": "inversão de fluxo como ferramenta de democratização da MMGD (tragédia dos comuns); simplificar estudos, padronizar e dar transparência"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vota com a relatora",
+     "ts": "3:11:46",
+     "confianca": "alta",
+     "justificativa": "elogia a condução e conciliação de visões pela relatora"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "3:11:48",
+     "confianca": "media",
+     "justificativa": "provocou a alternativa fast track junto à relatora"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "3:11:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:12:32",
+   "processo": "48500.004297/2015-62",
+   "interessado": "SPE Cherobim Energia S.A. (grupo CPFL) — PCH Lúcia Cherobim, Lapa/PR",
+   "assunto": "Recurso administrativo contra o Despacho 4.244/2023 (175 dias de excludente de responsabilidade por atraso na ASV); voto-vista de Agnes da Costa",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "excludente de responsabilidade",
+    "licenciamento ambiental",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna; voto-vista Agnes da Costa",
+   "resultado": "pedido de vista de Ricardo Tili; sem deliberação",
+   "resumo_voto": "Relator nega provimento (nenhum dia adicional). Voto-vista reconhece 176 dias adicionais (23/03/2020 a 15/09/2020, vigência do decreto estadual que suspendeu vistorias presenciais do IAT), com reflexo na outorga, CCEARs e cronograma. Debate sobre vistoria por drone; manifestação de Rodolfo (CPFL) e da procuradoria.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: dar parcial provimento, 176 dias adicionais de excludente",
+     "ts": "3:16:31",
+     "confianca": "alta",
+     "justificativa": "decreto estadual da pandemia impediu vistorias presenciais, fato alheio ao empreendedor; independe da história dos drones"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator: conhecer e negar provimento; mantém o voto",
+     "ts": "3:33:26",
+     "confianca": "alta",
+     "justificativa": "não houve mora demonstrada; parecer se apoiou na vistoria por drone; prazo de 180 dias da Portaria IAT 300/2022 como referência indica ausência de mora; sem impacto no cronograma"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "4:15:12",
+     "confianca": "alta",
+     "justificativa": "dúvidas sobre o prazo razoável de emissão da ASV"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista concedida)",
+     "ts": "4:15:15",
+     "confianca": "media",
+     "justificativa": "questionou o prazo razoável do órgão ambiental; disse que acompanharia eventualmente"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "4:15:36",
+   "processo": "48500.002024/2020-41 e 48500.002352/2020-21 (números incertos)",
+   "interessado": "Transmissora Acre SPE — LT Feijó–Cruzeiro do Sul (contrato 11/2020)",
+   "assunto": "Flexibilização do contrato de concessão para implantação da LT paralela à BR-364 conforme licença do Ibama (edital previa desvio de terra indígena); voto-vista de Agnes da Costa",
+   "tema": [
+    "transmissão (RAP, outorgas)",
+    "licenciamento ambiental",
+    "CDE e encargos setoriais (CCC)"
+   ],
+   "relator": "Ricardo Tili; voto-vista Agnes da Costa",
+   "resultado": "retirado de pauta pela relatora do voto-vista após sustentação oral",
+   "resumo_voto": "Sustentação oral do deputado federal Fábio Garcia contra revisão da RAP proposta no voto do relator (nota técnica com erro material sobre torres alteadas; investimentos adicionais de cerca de R$ 33 milhões). Agnes retirou o processo para ouvir os argumentos.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "retira o processo de pauta",
+     "ts": "4:27:19",
+     "confianca": "alta",
+     "justificativa": "não trataria de reequilíbrio; quer ouvir a parte antes de trazer o voto-vista"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "4:28:00",
+   "processo": "48500.001719/2023-58 (número incerto)",
+   "interessado": "Aurora Energias Renováveis 4 Ltda. — UFVs Aurora 64 a 70 (cluster 3 Sertão Veredas)",
+   "assunto": "Recurso contra o Despacho 4.531/2023, que indeferiu a desistência da adesão ao mecanismo de anistia da REN 1.065/2023",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (CUST/EUST)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (recurso conhecido e não provido)",
+   "resumo_voto": "Adesão ao mecanismo de anistia é irrevogável e irretratável (art. 3º §1º da REN 1.065); sem vício de consentimento; divisão em cluster é escolha empresarial; a anistia libera espaço na fila. Sustentação oral: Vitor Souza Sampaio (Aurora).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "4:53:36",
+     "confianca": "alta",
+     "justificativa": "segurança jurídica e previsibilidade; agente aderiu livremente e se beneficiou da suspensão dos encargos"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vota com a relatora",
+     "ts": "4:55:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "4:55:57",
+     "confianca": "baixa",
+     "justificativa": "antes perguntou sobre a sobreposição com o processo de excludente das UFVs 54 a 63 em que pediu vista"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (inferido da proclamação por unanimidade)",
+     "ts": "4:55:57",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "15 — (sem detalhe na transcrição)",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão",
+   "ts": "0:30:00"
+  },
+  {
+   "item": "6 — LT Feijó–Cruzeiro do Sul (Transmissora Acre)",
+   "relator": "Agnes da Costa (voto-vista)",
+   "motivo": "retirado após sustentação oral para ouvir a empresa",
+   "ts": "4:27:19"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de empresas distorcidos (Cherobim/Xirubim, Aurora); conferir na pauta oficial.",
+  "Quem votou em cada «também acompanho» não é identificado pela legenda; ordem dos seguidores atribuída por inferência (confiança baixa/média).",
+  "Item 3: Hélvio Guerra (ex-diretor) é o relator original; Agnes da Costa não votou nesta sessão, seu voto anterior foi contado.",
+  "Item 5: votos dos demais diretores foram dados em sessão anterior; aqui só o Diretor-Geral votou.",
+  "Item 9: ouviu-se apenas dois votos explícitos antes da proclamação por unanimidade.",
+  "Itens do bloco não são detalhados na transcrição."
+ ]
+}
