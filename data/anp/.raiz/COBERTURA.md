@@ -23,7 +23,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 34 | 34 | 0 |
 | 2022 | audiencia | 25 | 0 | 0 |
 | 2021 | workshop | 20 | 0 | 0 |
-| 2021 | diretoria | 46 | 16 | 0 |
+| 2021 | diretoria | 46 | 28 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
 | 2020 | workshop | 10 | 0 | 0 |
 | 2020 | diretoria | 26 | 0 | 0 |
@@ -159,6 +159,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-09-02 · Reunião de Diretoria Colegiada nº 1062 - 02 de setembro de 2021 · `IkCv4HjwLx4`
 - 2021-08-26 · Reunião de Diretoria Colegiada nº 1061 - 26 de agosto de 2021 · `gMiQqZjBRS0`
 - 2021-08-12 · Reunião de Diretoria Colegiada nº 1060 - 12 de agosto de 2021 · `KXm5uoAx0Wc`
+- 2021-08-11 · Reunião de Diretoria Colegiada Extraordinária nº 63 - 11 de agosto de  · `lYtlcdGW7Io`
+- 2021-08-05 · Reunião de Diretoria Colegiada nº 1059 - 5 de agosto de 2021 · `nBQjJr0hvVI`
+- 2021-07-29 · Reunião de Diretoria Colegiada nº 1058 - 29 de julho de 2021 · `LqLRGA5Le9U`
+- 2021-07-22 · Reunião de Diretoria Colegiada nº 1057 - 22 de julho de 2021 · `gPr7e4LecTs`
+- 2021-07-15 · Reunião de Diretoria Colegiada nº 1056 - 15  de julho de 2021 · `I69Ci4l4mvY`
+- 2021-07-08 · Reunião de Diretoria Colegiada nº 1055 - 8  de julho de 2021 · `6z_LmdUNBi4`
+- 2021-07-01 · Reunião de Diretoria Colegiada nº 1054 - 1  de julho de 2021 · `9Di-ujrYq5k`
+- 2021-06-24 · Reunião de Diretoria Colegiada nº 1053 - 24  de junho de 2021 · `ASc_RPmOxsk`
+- 2021-06-17 · Reunião de Diretoria Colegiada nº 1052 - 17 de junho de 2021 · `rkgwSbtXeYY`
+- 2021-06-10 · Reunião de Diretoria Colegiada nº 1051 - 10 de junho de 2021 · `0u56dH7EHN0`
+- 2021-05-27 · Reunião de Diretoria Colegiada nº 1050 - 27 de maio de 2021 · `ZK4oYxuNegM`
+- 2021-05-24 · Reunião de Diretoria Colegiada nº 984 - 11 de julho de 2019 · `_GkEFhtg_mI`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`

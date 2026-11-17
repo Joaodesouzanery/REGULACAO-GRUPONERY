@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **326** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 30; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **314** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 18; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -148,27 +148,15 @@ Total: **326** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2021-10-08 · audiencia · Audiência Pública nº 12/2021 · https://www.youtube.com/watch?v=HtfOKZKa9RM · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-30 · audiencia · Audiência Pública nº 9/2021 · https://www.youtube.com/watch?v=LutMj9HEpYw · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · workshop · Workshop Técnico sobre potencial petrolífero dos blocos exploratórios na Oferta  · https://www.youtube.com/watch?v=KMqEKJv_JpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-11 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 63 - 11 de agosto de 2021 · https://www.youtube.com/watch?v=lYtlcdGW7Io · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-09 · workshop · Seminário Ambiental e Jurídico-Fiscal da 17ª Rodada de Licitações · https://www.youtube.com/watch?v=AJbjM0EJvIM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-05 · diretoria · Reunião de Diretoria Colegiada nº 1059 - 5 de agosto de 2021 · https://www.youtube.com/watch?v=nBQjJr0hvVI · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-04 · workshop · Seminário Plays exploratórios em águas profundas das bacias da Margem Equatorial · https://www.youtube.com/watch?v=3_78hRnPDl8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-29 · diretoria · Reunião de Diretoria Colegiada nº 1058 - 29 de julho de 2021 · https://www.youtube.com/watch?v=LqLRGA5Le9U · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-27 · workshop · Workshop Estoques e Monitoramento do Abastecimento de Combustíveis · https://www.youtube.com/watch?v=Evh8ArG27qA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-22 · diretoria · Reunião de Diretoria Colegiada nº 1057 - 22 de julho de 2021 · https://www.youtube.com/watch?v=gPr7e4LecTs · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-15 · diretoria · Reunião de Diretoria Colegiada nº 1056 - 15  de julho de 2021 · https://www.youtube.com/watch?v=I69Ci4l4mvY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-08 · diretoria · Reunião de Diretoria Colegiada nº 1055 - 8  de julho de 2021 · https://www.youtube.com/watch?v=6z_LmdUNBi4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-07 · audiencia · Audiência Pública nº 8/2021 · https://www.youtube.com/watch?v=PFXJrFzflog · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-07 · audiencia · Audiência Pública nº 7/2021 · https://www.youtube.com/watch?v=HD6u3ulA8RU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-05 · workshop · Seminário - Novos Instrumentos de Divulgação de Informações sobre Exploração · https://www.youtube.com/watch?v=xaZOE30fXQE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-01 · diretoria · Reunião de Diretoria Colegiada nº 1054 - 1  de julho de 2021 · https://www.youtube.com/watch?v=9Di-ujrYq5k · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-24 · diretoria · Reunião de Diretoria Colegiada nº 1053 - 24  de junho de 2021 · https://www.youtube.com/watch?v=ASc_RPmOxsk · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-17 · diretoria · Reunião de Diretoria Colegiada nº 1052 - 17 de junho de 2021 · https://www.youtube.com/watch?v=rkgwSbtXeYY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-16 · audiencia · Audiência Pública nº 4/2021 · https://www.youtube.com/watch?v=f0X6dQEBCNo · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-15 · workshop · Seminário Técnico da 17ª Rodada de Licitações de Blocos · https://www.youtube.com/watch?v=Xzd3HILtR74 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-10 · diretoria · Reunião de Diretoria Colegiada nº 1051 - 10 de junho de 2021 · https://www.youtube.com/watch?v=0u56dH7EHN0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-02 · audiencia · Audiência Pública nº 6/2021 - Dia 02 de Junho de 2021 · https://www.youtube.com/watch?v=u1p6brpMayw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-27 · diretoria · Reunião de Diretoria Colegiada nº 1050 - 27 de maio de 2021 · https://www.youtube.com/watch?v=ZK4oYxuNegM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-24 · diretoria · Reunião de Diretoria Colegiada nº 984 - 11 de julho de 2019 · https://www.youtube.com/watch?v=_GkEFhtg_mI · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-21 · diretoria · Reunião de Diretoria Colegiada nº 1049 - 21 de maio de 2021 · https://www.youtube.com/watch?v=SMmf1CFrvhQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-13 · diretoria · Reunião de Diretoria Colegiada nº 1048 - 13 de maio de 2021 · https://www.youtube.com/watch?v=mMmEgVJZK-g · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-07 · workshop · 3º Workshop sobre o Modelo Conceitual do Mercado de Gás - 07/05/2021 · https://www.youtube.com/watch?v=MTDe9oj9oO0 · **ainda não baixado (rodar a coleta no Mac)**
