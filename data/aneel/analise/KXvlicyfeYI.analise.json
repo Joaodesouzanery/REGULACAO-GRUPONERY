@@ -1,0 +1,72 @@
+{
+ "meta": {"video_id": "KXvlicyfeYI", "fonte": "legenda automática do YouTube; falantes inferidos; .md sem marcadores de falante por trecho; ts localizados na transcrição .json; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "33ª Reunião Pública Ordinária de 2023", "data": "2023-09-12", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com quórum de quatro diretores; Fernando Mosna chegou ao longo da reunião (já participa do debate do item 2).",
+   "Pauta com 22 itens; itens 4 a 22 em bloco, retirados os itens 4 e 8; ordem de deliberação 2, 1, 3.",
+   "Ata da 32ª reunião aprovada com registro de não aprovação por Ricardo Tili (ausente naquela reunião).",
+   "No item 3 o Diretor-Geral se ausentou e deixou voto favorável por escrito na Secretaria-Geral."
+  ]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:09:03", "processo": "itens 4 a 22 (exceto 4 e 8, retirados)", "interessado": "diversos",
+   "assunto": "Itens de pauta em bloco: segundo o resumo do secretário, incluem recursos administrativos e pedidos de reconsideração, requerimentos, revogação de outorga, entre outros",
+   "tema": ["deliberação em bloco", "recursos administrativos"], "relator": "não identificado",
+   "resultado": "aprovados por unanimidade", "resumo_voto": "Diretor-Geral submete os itens do bloco e proclama aprovação unânime.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova (proclamação do bloco)", "ts": "0:09:28", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "0:09:40", "processo": "48500.004034/2017-15 (número incerto na legenda)", "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+   "assunto": "Abertura de consulta pública sobre indicadores e metas do Programa de Performance Organizacional do ONS para o biênio 2024-2025; sustentação oral de Fábio Reis Cortes (ONS)",
+   "tema": ["regulação normativa", "consulta pública", "ONS", "regulação por incentivos"], "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade, com determinação para o ONS realizar consulta pública sobre os indicadores de sua própria governança",
+   "resumo_voto": "Consulta pública de 13/09 a 30/10/2023 sobre minuta de resolução homologatória dos indicadores (50% definidos pela ANEEL). Relator propôs em sessão determinar que o ONS também submeta a consulta pública os outros 50% de indicadores definidos em sua governança; debate sobre a natureza jurídica e a governança do ONS.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova abertura e propõe determinação ao ONS", "ts": "0:43:30", "justificativa": "consulta pública é dos elementos mais importantes da agência; 50% dos indicadores do ONS não passam por consulta pública; segurança, transição energética e custeio tarifário justificam escrutínio público", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator, apoia a determinação", "ts": "0:44:30", "justificativa": "lógica de regulação por incentivos; natureza jurídica do ONS não afasta a consulta (cita artigo de Gustavo Kaercher Loureiro); metas como relacionamento com stakeholders, gestão de pessoas e sustentabilidade merecem debate público", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:46:48", "justificativa": "sugestão interessante; ONS cumpre função pública; salutar dar espaço à sociedade; sugeriu alternativa de avaliar no fechamento da consulta", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação), com dúvidas manifestadas", "ts": "1:16:35", "justificativa": "dúvida se a ANEEL pode interferir na governança privada do ONS (conselho formado pelos agentes); defendeu estudo prévio; sugeriu incluir 'dentro de sua governança' no texto", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:16:44", "justificativa": "inicialmente desconfortável sem conhecer os indicadores próprios do ONS; após explicações, acompanhou", "confianca": "alta"}
+   ]},
+  {"id": "1", "ts": "1:17:49", "processo": "48500.006872/2022-91", "interessado": "Companhia de Eletricidade do Amapá (CEA, Equatorial Amapá)",
+   "assunto": "Abertura de consulta pública e audiência presencial em Macapá sobre a revisão tarifária extraordinária contratual de 2023 da CEA, com avaliação completa da base de remuneração (efeito médio da ordem de 44%)",
+   "tema": ["tarifas e revisão tarifária", "distribuidoras", "consulta pública"], "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública de 13/09 a 27/10/2023 e audiência presencial em Macapá em 27/09/2023; tarifas a vigorar a partir de 13/12/2023. Debate sobre distorção tarifária no Norte/Nordeste, CDE e incentivo Sudam/Sudene.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura", "ts": "1:38:40", "justificativa": "revisão prevista no contrato de concessão pós-desestatização; pedido tempestivo da concessionária", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:51:56", "justificativa": "dispersão populacional penaliza consumidores de regiões pouco densas; tema deve ser avaliado na reformulação tarifária", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:51:59", "justificativa": "há distorção tarifária no modelo; cabe à ANEEL propor ao poder concedente e ao Congresso soluções", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:52:00", "justificativa": "justiça tarifária; ANEEL deve subsidiar formuladores de política pública", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:52:02", "justificativa": "investimento de cerca de R$ 530 milhões na base; tarifa BT do Amapá passaria de 19ª à 1ª do país; critica rateio uniforme da CDE e incentivo Sudam/Sudene", "confianca": "alta"}
+   ]},
+  {"id": "3", "ts": "1:52:58", "processo": "48500.006080/2022-16", "interessado": "geradores fotovoltaicos; sustentações de Camila Alves (ABSOLAR), Paulo André (ABIAPE) e Pablo Mota Ribeiro (Elera Renováveis)",
+   "assunto": "Resultado da Consulta Pública 48/2022: resolução normativa sobre apuração e pagamento de restrição de operação por constrained-off de centrais fotovoltaicas (franquia de 30h30min/ano)",
+   "tema": ["regulação normativa", "outorgas de geração (solar)", "comercialização (CCEE, encargos)", "constrained-off"], "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova resolução normativa nos moldes da REN 927/2021 (eólicas), por isonomia; determina à SRG tomada de subsídios sobre regra de comercialização para eventos no ACR até o 6º mês após a publicação, incluindo casos dos despachos 1407 e 1668/2022.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:27:30", "justificativa": "isonomia com eólicas; alocar todo risco ao consumidor via encargo distorce sinal de preço; demais pontos tratados em outros processos", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:46:27", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:46:30", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:46:40", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido pelo presidente substituto)", "ts": "2:46:38", "justificativa": "ausentou-se e deixou voto favorável por escrito", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["item 4", "item 8"],
+ "limites_da_analise": [
+  "Transcrição sem marcação de falante por trecho: atribuição de falas a diretores inferida pelo conteúdo e por vocativos.",
+  "Relator do item 3 não é nomeado explicitamente na legenda; atribuído a Ricardo Tili por inferência de estilo e contexto (confiança baixa).",
+  "No item 3 só duas falas de acompanhamento são ouvidas mais a proclamação; quem proclamou na ausência do DG não foi identificado.",
+  "Item bloco: Fernando Mosna ainda não estava presente na abertura; não incluído no voto do bloco.",
+  "Números de processo e nomes de expositores podem estar errados (legenda automática); abertura cita erroneamente 31ª reunião.",
+  "Itens do bloco (4 a 22) não detalhados na transmissão."
+ ]
+}

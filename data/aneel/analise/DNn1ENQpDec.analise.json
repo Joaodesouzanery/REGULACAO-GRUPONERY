@@ -1,0 +1,83 @@
+{
+ "meta": {"video_id": "DNn1ENQpDec", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "26ª Reunião Pública Ordinária de 2023", "data": "2023-07-25", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) na abertura e no bloco; Hélvio Guerra presidiu do item 3 em diante após saída de Sandoval",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": ["Agnes da Costa (férias)"],
+  "observacoes": [
+   "Pauta com 18 itens; itens 5 a 18 em bloco, aprovados por unanimidade. Ordem de deliberação: bloco, itens 3, 1, 2 e 4; depois o item 4 foi invertido para antes do item 1.",
+   "Sandoval Feitosa ausentou-se após o bloco e deixou voto contrário no item 3 (UFV Dourado/Surubim), que foi aprovado por maioria.",
+   "Item 2 (voto-vista de Sandoval Feitosa) retirado porque a relatora original estava ausente; item 4 (UTE Rio Grande) retirado de pauta pelo relator Hélvio Guerra após sustentações orais.",
+   "Resumo do secretário-geral: 18 processos, 14 em bloco, 4 em leitura, 2 retirados, 1 prorrogação de pedido de vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 5 a 18)", "ts": "0:12:36", "processo": "", "interessado": "diversos",
+   "assunto": "Itens 5 a 18 em bloco (votos disponibilizados previamente): segundo resumo final, incluem reajuste e revisão tarifária, recursos administrativos, revogação de outorga e declaração de utilidade pública",
+   "tema": ["bloco", "diversos"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretor-Geral submete o bloco e proclama aprovação unânime.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova (proclama)", "ts": "0:12:42", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha (pela proclamação)", "ts": "0:12:40", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:12:40", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "0:12:40", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3", "ts": "0:13:40", "processo": "48500.004657/2020-93 e outros",
+   "interessado": "Geradora de Energia Quintuaré SPE Ltda. (controladora Amazon Energy); UFV Dourado 1 a 10 e UFV Surubim 1 a 15 (Floresta e Petrolândia/PE)",
+   "assunto": "Pedido de reconsideração contra as REAs 12.950 e 12.951/2022 que revogaram as outorgas das UFV Dourado 1 a 10 e Surubim 1 a 15; plano de prorrogação de outorga após transferência de controle",
+   "tema": ["outorgas de geração (solar)", "recursos administrativos", "transmissão (CUST, encargos rescisórios)", "fiscalização e sanções (revogação)"],
+   "relator": "Fernando Mosna", "resultado": "aprovado por maioria (parcial provimento), vencido Sandoval Feitosa (voto deixado)",
+   "resumo_voto": "Conhece e dá parcial provimento: restabelece as autorizações de forma precária, com prazo de implantação postergado em 36 meses (analogia à REN 1065), condicionado a pagar em 45 dias os EUST de dez/2021 a mar/2022 (cerca de R$ 18,5 mi) e ressarcir PIS/Cofins das transmissoras, renunciar a ações judiciais, apresentar licenças ambientais renovadas e, em 120 dias, garantia de fiel cumprimento de 5% do investimento; afasta encargos rescisórios (cerca de R$ 169 mi) se cumpridas as condições; novo CUST por conta e risco do empreendedor. Sustentação oral de Márcio Blank Mendes (Quintuaré). Procuradoria (nota 28/2023) via óbice por reconsideração sem efeito suspensivo; relator divergiu nesse ponto (efeito devolutivo).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento", "ts": "0:30:20", "justificativa": "recurso tem efeito devolutivo e impede coisa julgada administrativa; áreas técnicas atestaram viabilidade; condições escalonadas deixam o risco com o empreendedor e resolvem o débito setorial", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:36:52", "justificativa": "não queremos outorgas de papel; elogia o uso dos 36 meses da nova REN; dúvida sobre destino da garantia (CDE), esclarecida", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:25:05", "justificativa": "concorda com o entendimento sobre efeitos do recurso (duplo grau); pediu esclarecimento sobre risco de falta de margem de acesso", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido por Hélvio Guerra): contrário ao relator, vencido", "ts": "1:37:07", "justificativa": "ausentou-se temporariamente e deixou voto contrário à posição do relator; fundamentos não lidos", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2", "ts": "1:40:58", "processo": "", "interessado": "",
+   "assunto": "Voto-vista de Sandoval Feitosa em processo de relatoria original de diretora ausente (Agnes da Costa, inferido)",
+   "tema": ["institucional"], "relator": "Sandoval Feitosa (vista)", "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado porque, por prática da agência, a relatora original deve estar presente no julgamento do voto-vista.",
+   "votos": []
+  },
+  {
+   "id": "4", "ts": "1:43:30", "processo": "48500.001329/2016-59; 48500.006572/2014-00 (números incertos)",
+   "interessado": "Termelétrica Rio Grande S.A., Cobra Brasil Serviços, Comunicações e Energia S.A., Bolognesa Energia; Estado do Rio Grande do Sul; UTE Rio Grande (RS)",
+   "assunto": "Agravo com pedido de efeito suspensivo contra o Despacho 1044/2022 que não conheceu requerimento contra o Despacho 1586/2020 (plano de transferência de controle da UTE Rio Grande, outorga revogada pela REA 6668/2017); pedido subsidiário de migração de CCEAR para contrato de energia de reserva",
+   "tema": ["outorgas de geração (térmica a gás)", "recursos administrativos", "leilões (reserva de capacidade)"],
+   "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator após sustentações orais",
+   "resumo_voto": "Sustentações de Éder José Firmino Silveira (Sema-RS), Gustavo Petry (PGE-RS), Lucas Baggio e Jaime Antonio Lopes (Cobra) e fala do deputado federal Daniel; procuradoria (parecer 175/2023) pelo indeferimento por exaurimento da esfera administrativa e incompetência da ANEEL para mudar a tipologia contratual. Dispositivo disponibilizado previa conhecer e rejeitar os agravos e encaminhar ao MME; relator retirou o processo para reavaliar à luz das sustentações e do item 3.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta para reavaliar", "ts": "2:41:30", "justificativa": "é melhor reavaliar do que dizer não; ANEEL não tem competência para alterar contrato de comercialização (MME)", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1", "ts": "2:42:54", "processo": "48500.006883/2022-71 e 48500.003519/2023-30",
+   "interessado": "Equatorial Goiás Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública para a revisão tarifária periódica da Equatorial Goiás (vigência 22/10/2023) e limites de DEC e FEC 2024-2028",
+   "tema": ["tarifas e revisão tarifária (RTP)", "distribuição e qualidade (DEC/FEC)", "regulação normativa (consulta pública)"],
+   "relator": "Ricardo Tili", "resultado": "aprovado (consulta pública de 26/07 a 01/09/2023, audiência em Goiânia em 17/08/2023)",
+   "resumo_voto": "Efeito médio preliminar de 6,56% (alta tensão -3,91%, baixa tensão cerca de 10,6%), apresentado pela área técnica; relator nota histórico de descumprimento de DEC/FEC e espera melhora com o novo controlador.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova abertura da consulta pública", "ts": "2:55:17", "justificativa": "indicadores de qualidade da concessionária anterior muito fora do esperado; tende a melhorar com a troca de controle", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova (proclama)", "ts": "2:56:30", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:56:30", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": ["Item 2 (voto-vista de Sandoval Feitosa; relatora original ausente)", "Item 4 (agravo da Termelétrica Rio Grande, retirado pelo relator Hélvio Guerra)"],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos do JSON de legendas e aproximados para quem só acompanha.",
+  "Sandoval Feitosa saiu após o bloco; Hélvio declara que ele deixou voto contrário no item 3 sem certeza se por escrito; não votou nos itens 1 e 4.",
+  "Item 1: proclamação truncada na legenda; resultado unânime inferido, falas individuais de Fernando Mosna não ouvidas.",
+  "Item 2: a fala atribui a relatoria original ao diretor Ricardo e em seguida diz 'ela não está presente'; relatora original provavelmente Agnes da Costa (incerto).",
+  "Itens do bloco (5 a 18) não detalhados na transmissão.",
+  "Nomes de empresas/pessoas (Quintuaré, Petry, Baggio) e números de processos vindos da legenda automática podem estar errados."
+ ]
+}

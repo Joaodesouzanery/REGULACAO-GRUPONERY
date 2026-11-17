@@ -1,0 +1,82 @@
+{
+  "meta": {"video_id": "t8Uzn0suOCs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "35ª Reunião Pública Ordinária de 2023 (Parte 1, manhã)", "data": "2023-09-26", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura com quórum de quatro diretores (Hélvio Guerra, Ricardo Tili, Agnes da Costa e o DG); Fernando Mosna se juntou ao longo da reunião (já participa do debate do item 1).",
+      "Despedida do procurador-geral Luiz Eduardo, com falas de todos os diretores; secretário-geral interino Daniel Dana.",
+      "Pauta de 35 itens; itens 10 a 35 em bloco; retirados de pauta os itens 5, 7, 9, 11 e 25; sustentação oral pedida nos itens 2, 6, 19 e 22. Ordem anunciada: bloco, 1, 2, 6, 3, 16, 22, 19, 23, 4 e 8.",
+      "Esta Parte 1 cobre bloco, item 1 (retirado pela relatora após debate), item 2 (unânime) e item 6 (por maioria no item 2 do dispositivo). Sessão suspensa para almoço às 3:35:33, retorno previsto às 14h30 (Parte 2 em outro vídeo)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:23:44", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 10 a 35 em bloco (votos disponibilizados previamente), remanescentes",
+      "tema": ["institucional"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado; uma diretora pediu vista dos itens 19 e 20; esclareceu-se que o item 19 estava destacado do bloco (sustentação oral) e que a vista só caberia após a sustentação.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova os itens remanescentes do bloco", "ts": "0:23:50", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens remanescentes do bloco", "ts": "0:23:52", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens remanescentes do bloco (pela proclamação)", "ts": "0:23:54", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista dos itens 19 e 20 e aprova os remanescentes do bloco", "ts": "0:23:59", "justificativa": "a mesa responde «muito obrigado diretora»; única diretora presente", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "proclama aprovação por unanimidade", "ts": "0:24:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:24:44", "processo": "48500.007100/2019-01 (número incerto na legenda)", "interessado": "ONS; SGM",
+      "assunto": "Abertura de consulta pública (45 dias) sobre produto alternativo em ambiente regulatório experimental (sandbox) para serviço ancilar de suporte de reativos para controle de tensão (art. 33-A da REN 1.030/2022, alterada pela REN 1.062/2023), região de Minas Gerais",
+      "tema": ["regulação normativa", "serviços ancilares", "sandbox regulatório", "transmissão", "operação do sistema (ONS)"],
+      "relator": "Agnes da Costa", "resultado": "retirado de pauta pela relatora após debate",
+      "resumo_voto": "Apresentação técnica de Mateus (SGM). Relatora leu dispositivo pela CP de 45 dias. Ricardo Tili objetou: o POTEC 2023 indica reatores na região (Itabira 5 etc.) mas manda aguardar o sandbox, transferindo à ANEEL responsabilidade do planejador e atrasando solução estrutural; Hélvio Guerra passou a acompanhar a preocupação; Fernando Mosna aventou tomada de subsídio como meio-termo. Taís (área de transmissão) e o superintendente Natalino (SGM) falaram. A relatora retirou o voto para conversar com o Ministério sobre o POTEC.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, propôs CP; retirou de pauta", "ts": "0:47:55", "justificativa": "neutralidade tecnológica e criação de mercado para serviços ancilares; retirou para tratar com o Ministério a questão do POTEC e dar tranquilidade aos diretores", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (retirado); manifestou-se contra a abertura nos termos postos", "ts": "0:50:29", "justificativa": "se precisa da obra, deve autorizá-la; não aceita suspender reforço à espera de sandbox; prefere não aprovar sandbox que condicione a obra", "tom": "firme, divergente", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (retirado); acompanhou a preocupação de Ricardo Tili", "ts": "0:59:16", "justificativa": "risco de esperar dois a quatro anos com abertura de linhas para controle de tensão; dúvida sobre quem decide entre solução convencional e sandbox", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "não votou (retirado); sugeriu tomada de subsídio como meio-termo", "ts": "1:05:00", "justificativa": "trade-off entre confiabilidade e experimentação (parágrafo 24 do voto); talvez abrir CP após tratativas com o planejador", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (retirado); registrou a retirada", "ts": "1:34:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:34:40", "processo": "48500.004659/2014-34 (número incerto)", "interessado": "SGM; Abraceel, Abrace, Apine (sustentações orais)",
+      "assunto": "Avaliação de Resultado Regulatório (ARR) das normas dos limites máximo e mínimo do PLD e da Tarifa de Energia de Otimização (TEO, TEO Itaipu); limites do PLD para 2024",
+      "tema": ["comercialização (CCEE, PLD)", "regulação normativa", "avaliação de resultado regulatório"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Determina à SGM instruir processos específicos, publicizando o relatório da ARR, para discutir com a sociedade a revisão do PLD máximo estrutural (critérios do CNPE) e a conciliação PLD máximo horário/estrutural, a vigorar a partir de 2025, e as metodologias do PLD mínimo e da TEO; para 2024, limites máximos da REH 3.167/2022 atualizados pelo IPCA de 2023. Colegiado não aprova a ARR (guia de boas práticas). Sustentações: Daniele Benfica da Rocha (Abraceel), representante da Abrace (nome incerto), Luiz Roberto Ferreira (Apine). Apresentação de Bruno Goulart (SGM).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "2:11:28", "justificativa": "previsibilidade pedida pelas associações; PLD mínimo deve passar por participação social; não cabe ao colegiado aprovar a ARR", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (integral concordância)", "ts": "2:16:00", "justificativa": "elogio ao trabalho da SGM; fecha ciclo após a discussão do PLD mínimo/TEO Itaipu no ano anterior", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:17:43", "justificativa": "sugeriu transformar o parágrafo 36 (normatizar ARR) em determinação e explicitar o tipo de processo; retirou a sugestão ao saber de processo de Hélvio Guerra sobre o tema", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "2:26:01", "justificativa": "bastaria incluir na agenda regulatória 2024-2025; ARR é opinativa e não se aprova; normatização da ARR já em discussão em processo de sua relatoria", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama unanimidade", "ts": "2:26:04", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "2:27:17", "processo": "48500.006256/2019-34 (número incerto)", "interessado": "DME Distribuição S.A. (DMED, Poços de Caldas/MG); Conselho de Consumidores da DME",
+      "assunto": "Pedido de reconsideração da DME contra a REN 1.028/2022 (alocação das cotas de garantia física de Angra 1 e 2 e de Itaipu a distribuidoras com mercado inferior a 700 GWh/ano); pleito de deduzir a geração própria",
+      "tema": ["recursos administrativos", "comercialização (cotas de Itaipu e Angra)", "distribuidoras", "tarifas"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por maioria: não conhecer o recurso; item 2 (tratamento excepcional à DME) vencidos Sandoval Feitosa e Agnes da Costa",
+      "resumo_voto": "Não conhecer o recurso (ato normativo geral); determinar que, a partir de 2024 e até a revisão da norma, as cotas de Angra 1 e 2 e Itaipu para a DME sejam alocadas desconsiderando sua geração própria (cerca de 61% da carga); determinar que a STR inclua na agenda regulatória 2024-2026 processo sobre a regra para distribuidoras com geração própria (texto retificado após a votação). Sustentações: Cícero Machado de Moraes (DME) e Arlene Nogueira (Conselho de Consumidores da DME).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:03:28", "justificativa": "caso excepcional exige tratamento excepcional; geração própria é a energia mais barata da DME e a regra incentiva reduzi-la; precedente de Romeu Rufino ao afastar norma e revisá-la", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha nos itens 1 e 3; vencida no item 2 (vota contra)", "ts": "3:28:25", "justificativa": "sobrecontratação foi opção de gestão; efeito redistributivo sobre outras distribuidoras; dúvida legal sobre afastar rateio de Itaipu (Lei 5.899/1973, art. 9º)", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:12:00", "justificativa": "DME é ponto fora da curva (61% de geração própria, oito vezes a segunda); parágrafo único do art. 9º deve ser lido considerando a existência da agência", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:15:10", "justificativa": "contribuinte municipal investiu na geração própria e o consumidor não se beneficia; geração própria da distribuidora não pode ser vendida", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha nos itens 1 e 3; vencido no item 2", "ts": "3:28:41", "justificativa": "estabilidade da regra; cotas são compulsórias; reduzir cotas da DME impõe mais às demais; DME pediu sobrecontratação voluntária quando lucrou (R$ 18,8 milhões); dúvida sobre competência (ministro)", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["Itens 5, 7, 9, 11 e 25 (retirados antes da sessão)", "Item 1 (retirado pela relatora Agnes da Costa após debate)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, nomes de pessoas (sustentações, servidores) e valores podem estar errados.",
+    "Gentil Nogueira, Willamy Frota e Ludimila Lima não aparecem; composição de 2023 com cinco diretores. O cabeçalho do .md lista Gentil Nogueira, mas a fala de abertura cita Hélvio Guerra, Ricardo Tili, Agnes da Costa e Fernando Mosna.",
+    "Bloco: falas «aprovo» sem nome; atribuição pela ordem usual; o pedido de vista dos itens 19 e 20 é atribuído a Agnes da Costa pela resposta «diretora» (confiança media).",
+    "Item 2: «eu acompanho ela toda / eu também» sem nome; atribuição de quem disse cada adesão é aproximada.",
+    "Item 6: «Eu voto contra o item 2» atribuído a Agnes da Costa pelos argumentos anteriores; Sandoval confirma depois que não concordou com o item 2. Placar inferido 3 x 2 no item 2.",
+    "Itens 3, 16, 22, 19, 23, 4 e 8 ficaram para a Parte 2 (tarde)."
+  ]
+}

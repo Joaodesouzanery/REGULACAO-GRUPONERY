@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "hxRfJWD2kZA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "11ª Reunião Pública Ordinária de 2023", "data": "2023-04-11", "formato": "presencial (auditório ANEEL) com transmissão pelo YouTube",
+  "presidente_da_sessao": "Hélvio Guerra (presidindo na ausência do Diretor-Geral)",
+  "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili"],
+  "ausentes": ["Sandoval Feitosa", "Fernando Mosna"],
+  "observacoes": ["Sandoval Feitosa ausente por impedimento pessoal; Fernando Mosna em missão fora de Brasília; quórum de três diretores.", "Pauta com 46 itens; itens 2 a 46 em bloco; retirados de pauta os itens 1, 5, 7 e 45; item 8 destacado por pedido de sustentação oral.", "Ata da 10ª reunião ordinária de 2023 (04/04/2023) aprovada.", "Item 8 (PCH Salto do Sapo Parecis): relator propôs dar provimento ao recurso, divergindo da área técnica; Agnes da Costa pediu vista."]
+ },
+ "itens": [
+  {
+   "id": "bloco", "ts": "0:09:48", "processo": "", "interessado": "diversos",
+   "assunto": "Itens de bloco da pauta (itens 2 a 46, exceto retirados 5, 7 e 45 e o item 8 destacado), com votos disponibilizados previamente",
+   "tema": ["deliberação em bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Presidente da sessão pôs em votação os itens remanescentes do bloco; os três diretores aprovaram.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (proclamou)", "ts": "0:10:06", "justificativa": "", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:09:55", "justificativa": "", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:09:58", "justificativa": "", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "8", "ts": "0:10:36", "processo": "48500.000828/2010-33",
+   "interessado": "Hidrelétrica Médio Norte Ltda. (recorrente); irmãos Maclaybert Luiz Formigoni e Wellington Wladimir Formigoni (intervenientes, proprietários de terra)",
+   "assunto": "Recurso administrativo contra o Despacho SCG 2.875/2022, que revogou os despachos 1.974/2010, 1.899/2012 e 3.199/2015 da PCH Salto do Sapo Parecis e excluiu o aproveitamento da partição de quedas do inventário (Despacho 931/2004); enquadramento PCH (5.200 kW, exige outorga) x CGH (abaixo de 5 MW, dispensada)",
+   "tema": ["outorgas de geração (hidrelétrica, PCH/CGH)", "recursos administrativos", "inventário hidrelétrico"],
+   "relator": "Hélvio Guerra", "resultado": "pedido de vista de Agnes da Costa (sem deliberação)",
+   "resumo_voto": "Sustentação oral de Guilherme Berezuk (pelos irmãos Formigoni) pedindo o não provimento, alegando sobremotorização para obter outorga e futura DUP. Procuradoria não opinou (questão técnica). Relator, divergindo da área técnica, vota por conhecer e dar provimento, restabelecendo os despachos e determinando revisão do projeto básico com a série de vazões indicada pela SCG para emissão do DRS-PCH com 5.200 kW. Discussão sobre garantia física e risco de artifício para obter DUP; Agnes pediu vista.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento ao recurso (diverge da área técnica)", "ts": "0:42:08", "justificativa": "sobremotorização não traz prejuízo ao consumidor e há ganho energético até 5,2 MW; diferença inferior a 10% em relação aos 5,7 MW do inventário; não considerou a questão da DUP, só a técnica; exige revisão da série de vazões para não superestimar garantia física", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "0:56:51", "justificativa": "«adorei os esclarecimentos mas eu vou pedir vistas, eu vou estudar mais um pouco»; levantou dúvida sobre garantia física e notou que potência instalada maior pode ter valor para contratação de potência", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "0:47:27", "justificativa": "provavelmente expressou receio de que o aumento de potência seja artifício para enquadrar como PCH e usar a DUP em disputa fundiária, pois a curva mostra pouco ganho de energia (atribuição de falante incerta)", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": ["1", "5", "7", "45"],
+ "limites_da_analise": ["Falantes não identificados na transcrição; a atribuição das falas de dúvida (efeito prático, preocupação com DUP/artifício) entre Agnes da Costa e Ricardo Tili é inferida e incerta; Hélvio menciona que Agnes lembrou a garantia física.", "Votos do bloco: falas individuais curtas sem nome; ordem inferida.", "Nomes dos irmãos Formigoni e do advogado Berezuk vêm da legenda automática e podem estar grafados incorretamente.", "Conteúdo dos itens de bloco não é lido na sessão."]
+}

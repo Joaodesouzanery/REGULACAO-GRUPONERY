@@ -1,0 +1,28 @@
+{
+ "meta": {"video_id": "fLc6r_feEt8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária de 2023", "data": "2023-05-30", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Ricardo Tili (presidindo na ausência do Diretor-Geral; inferido)",
+  "diretores_presentes": ["Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+  "ausentes": ["Sandoval Feitosa", "Hélvio Guerra"],
+  "observacoes": ["Ausentes justificadamente Sandoval Feitosa e Hélvio Guerra (compromissos institucionais); sessão com três diretores.", "Pauta com 25 itens: itens 3 a 25 em bloco (aprovados por unanimidade dos presentes), retirados os itens 2, 5 e 17; único item de leitura foi o item 1. Sem sustentação oral.", "Ata da 17ª RPO de 2023 aprovada."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:07:37", "processo": "", "interessado": "diversos", "assunto": "Itens 3 a 25 da pauta deliberados em bloco (votos disponibilizados previamente; inclui recursos administrativos, pedidos de reconsideração, impugnação, medida cautelar e prorrogação de voto-vista, conforme informe final)", "tema": ["recursos administrativos", "bloco de pauta"], "relator": "diversos", "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Itens do bloco aprovados sem leitura, por unanimidade dos presentes.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:07:37", "justificativa": "", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:07:37", "justificativa": "", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:07:37", "justificativa": "", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:08:42", "processo": "48500.007497/2022-04", "interessado": "Secretaria de Leilões (SEL); transmissoras licitantes; manifestação do grupo Cornélio Brennand sobre o lote 8 (Recife)", "assunto": "Aprovação do edital do Leilão nº 1/2023-ANEEL (leilão de transmissão), consolidado após análise do TCU: 9 lotes, cerca de R$ 15,7 bilhões, sessão pública em 30/06/2023 na B3", "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprova o edital, RAPs e anexos técnicos dos 9 lotes (BA, ES, MG, PE, RJ, SP, SE). Procuradoria: art. 14, V da Lei 14.133 (vedação a coligadas) de aplicação subsidiária, afastado para preservar competitividade. Relator registrou que o traçado do lote 8 (LT Recife II - Bongi, questionado pelo grupo Cornélio Brennand por cruzar terreno e UC Mata da Várzea) é referencial, não preferencial; o vencedor define o traçado. Apresentação técnica da SEL.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:32:54", "justificativa": "TCU (IN 81/2018) considerou atendidos os requisitos; traçado do lote 8 é apenas orientativo/referencial, garantindo isonomia entre licitantes", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:33:47", "justificativa": "elogiou a distinção entre traçado preferencial e referencial, respeitando a liberdade do vencedor de propor solução mais eficiente (falante inferido)", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:34:22", "justificativa": "", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["item 2", "item 5", "item 17"],
+ "limites_da_analise": ["Presidente da sessão não nomeado na legenda; inferido como Ricardo Tili (único diretor presente além de Fernando Mosna e da diretora citada). A diretora presente é inferida como Agnes da Costa (legenda diz só «a diretora»).", "O comentário antes da votação final e o voto final («eu também acompanho») não têm falante identificado; atribuições por ordem usual de votação.", "Itens do bloco não detalhados individualmente na transmissão.", "Números de processo e valores vêm de legenda automática."]
+}

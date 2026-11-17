@@ -1,0 +1,51 @@
+{
+  "meta": {"video_id": "EO6w05kMrKo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Ordinária de 2023 (Parte 2)", "data": "2023-01-24", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Hélvio Guerra", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": ["Retomada (parte 2) da 1ª reunião ordinária de 2023; o item 39 (relator Hélvio Guerra) foi retirado de pauta a pedido do relator.", "Dois itens deliberados nesta parte (itens 3 e 8 da pauta), ambos aprovados por unanimidade.", "No encerramento o Diretor-Geral informa 100 itens na pauta da reunião inteira, 9 retirados e 91 deliberados."]
+  },
+  "itens": [
+    {
+      "id": "3", "ts": "0:01:06",
+      "processo": "48500.005520/2022 (número incerto na legenda)",
+      "interessado": "Mata de Santa Genebra Transmissão S.A. (MSG), transmissora",
+      "assunto": "Requerimento administrativo para isenção de Parcela Variável por Indisponibilidade (PVI) pelo desligamento de urgência da LT 500 kV Araraquara 2 – Fernão Dias C1 em 06/06/2021 para retirada de restos de balão (PVI de cerca de R$ 2,5 milhões).",
+      "tema": ["transmissão (PVI, indisponibilidade)", "recursos administrativos", "caso fortuito/força maior (balões)"],
+      "relator": "Ricardo Tili",
+      "resultado": "Aprovado por unanimidade: conhecer e dar parcial provimento, reconhecendo isenção de PVI por 180 minutos (entre média de 192 e mediana de 169 min de retirada de balões), em vez dos 1.247 minutos pleiteados.",
+      "resumo_voto": "Relator segue a SRT: mantém o entendimento consolidado de que queda de balão é excludente de responsabilidade, mas limita a isenção a 180 minutos para incentivar eficiência; recomenda que a SRT aprimore o item 6.7.3 do Módulo 4 das Regras de Transmissão (agenda regulatória) e estabeleça rito/prazo para pleitos desse tipo. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (parcial provimento, isenção de 180 min)", "ts": "0:01:06", "justificativa": "Entendimento da diretoria reconhece queda de balão como caso fortuito, mas não é razoável isenção por prazo indeterminado; 180 min baseado em média e mediana históricas da SRT.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:21:27", "justificativa": "Concorda integralmente; critério de 180 min não é arbitrário e incentiva eficiência e celeridade, em linha com regulação responsiva; antecipa que adotará o entendimento em processo semelhante.", "tom": "elogioso", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (com ressalva)", "ts": "0:24:53", "justificativa": "Concorda com o caso concreto, mas teme adotar 180 min como parâmetro regulatório geral, pois linhas de difícil acesso (ex.: Manaus–Boa Vista em terra indígena) exigiriam tratamento de exceções; confortável porque a regra será discutida em consulta pública.", "tom": "cauteloso", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:36:51", "justificativa": "Proposta evolui decisão que ele próprio propôs; balão é caso fortuito, mas a prestação inclui rápido restabelecimento; defende proxy para evitar análise caso a caso pela diretoria e governança ANEEL–ONS para decisões em primeira instância no ONS.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:37:36",
+      "processo": "48500.008308/2022-11 (número incerto na legenda)",
+      "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE)",
+      "assunto": "Pedido de medida cautelar para não desligar da CCEE agentes que tiveram ajuste (corte) de contratos por insuficiência de garantias e comprovem regularização bilateral em até 3 dias úteis (art. 109, I, da REN 957/2021, alterada pela REN 1.014/2022).",
+      "tema": ["comercialização (CCEE, garantias financeiras, desligamento de agentes)", "recursos administrativos (medida cautelar)", "regulação normativa"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Aprovado por unanimidade (proclamação sem a palavra unanimidade, mas todos votaram com o relator): conhecer e dar parcial provimento à cautelar, autorizando o não desligamento de agentes, sem limitar ao primeiro ajuste, desde que comprovem regularização bilateral com concordância das contrapartes em até 3 dias úteis, até a ANEEL deliberar o mérito.",
+      "resumo_voto": "Relator vê fumaça do bom direito (regra de desligamento no primeiro ajuste é draconiana; 23 agentes afetados) e perigo da demora; amplia a cautelar para segundo ou mais ajustes regularizados. Processo redistribuído de Efrain Cruz e Alessandro Cantarino por fim de mandato. Superintendente da SRM (Júlio César) se manifestou a pedido.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (parcial provimento à cautelar)", "ts": "0:37:36", "justificativa": "Regra de desligamento no primeiro ajuste se mostrou draconiana; quando a contraparte não é prejudicada, exclusão sumária é desproporcional; não limita ao primeiro ajuste; voltar à regra anterior também não seria adequado.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (após propor alternativa)", "ts": "1:05:26", "justificativa": "Sugeriu suspender a REN 1.014 e voltar à regra anterior, já testada desde 2015, por receio de criar terceira via sem consulta pública; não insistiu e acompanhou.", "tom": "crítico, depois conciliador", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:05:28", "justificativa": "Repristinar a REN 957 iria além de uma cautelar e desconsideraria a consulta pública; permitir regularização em 3 dias úteis é razoável e dá urgência ao tratamento definitivo.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:05:31", "justificativa": "Prudência: cautelar tem efeitos localizados e limitados; voltar ao regulamento anterior seria ajuste maior que o adequado; discussão estruturada na revisão da norma.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "39", "motivo": "retirado de pauta a pedido do relator Hélvio Guerra"}],
+  "limites_da_analise": [
+    "Legenda automática: números de processo e nomes deformados (ex.: 'élber/Élvio Neves Guerra' = Hélvio Guerra; 'Ricardo laborato tigre' = Ricardo Tili; 'Elvis').",
+    "Presença inferida pelas falas: Sandoval, Ricardo Tili, Hélvio Guerra e Fernando Mosna; há menções a 'doutora' no debate do item 3 que podem indicar outra diretora (talvez Agnes da Costa), mas sem fala de voto identificável; 4 votos por item.",
+    "Votos dos seguidores atribuídos pela ordem e conteúdo ('como adiantei' = Fernando Mosna no item 8); ts aproximados.",
+    "Esta é apenas a Parte 2 da reunião; os demais itens estão em outro vídeo."
+  ]
+}

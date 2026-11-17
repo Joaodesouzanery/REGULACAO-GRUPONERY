@@ -1,0 +1,67 @@
+{
+  "meta": {"video_id": "AjWsQotY5ow", "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo do .md atribui a abertura a Sandoval Feitosa, mas quem preside é a diretora Camila); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "24ª Reunião Pública Ordinária de 2022", "data": "2022-07-05", "formato": "presencial/virtual (sessão anunciada como virtual)",
+    "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta; nome fora da lista do config)",
+    "diretores_presentes": ["Camila Bomfim", "Hélvio Guerra", "Ricardo Tili", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores anunciado na abertura.", "Pauta de 32 itens; bloco dos itens 7 a 32 aprovado por unanimidade; retirados de pauta os itens 5, 8, 16, 21, 23, 24, 26 e 28; o diretor Efrain retirou os itens 4 e 6 (que tinham pedido de sustentação oral).", "Aprovada a ata da 23ª RPO de 28/06/2022.", "Deliberados 2 itens destacados por unanimidade (relator Hélvio Guerra); item 3 (relator Ricardo Tili, associação de usinas da Enel Green Power) teve pedido de vista de Hélvio Guerra após longo debate sobre delegar ao ONS a formalização do CUST de usinas associadas."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:04:46", "processo": "itens 7 a 32 (exceto retirados)", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 7 a 32, exceto 8, 16, 21, 23, 24, 26 e 28 (retirados)",
+      "tema": ["institucional"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados sem discussão; votos e atos disponíveis no site.",
+      "votos": [
+        {"diretor": "Camila Bomfim", "voto": "aprova o bloco", "ts": "0:04:53", "justificativa": "proclama aprovação por unanimidade", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:04:50", "justificativa": "falas «aprovo os itens remanescentes do bloco» sem nome; pela proclamação", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:04:50", "justificativa": "pela proclamação", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:04:50", "justificativa": "pela proclamação", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:05:15", "processo": "48500.004957/2021-53", "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A. (Presidente Prudente/SP)",
+      "assunto": "Reajuste tarifário anual 2022 da Energisa Sul-Sudeste, a vigorar a partir de 12/07/2022: efeito médio de 11,52% (18,21% AT; 8,92% BT)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa o IRT, fixa TUSD/TE, receita das DIT de uso exclusivo e repasse mensal da CDE. Apresentação de Charles Rocha (SGT). Relator destaca mitigação por CDE modicidade Eletrobras (-2,81%) e devolução de créditos de PIS/Cofins (-4,57%), e o efeito futuro da LC 194/2022 (teto do ICMS) nas faturas.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:25:02", "justificativa": "Índices expressivos, mas seriam maiores sem as medidas legais de mitigação (CDE Eletrobras, PIS/Cofins); ICMS reduzido pela LC 194 será percebido nas faturas.", "confianca": "alta"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator", "ts": "0:31:27", "justificativa": "Antes da votação esclarece que a ANEEL só pode agir conforme leis e contratos de concessão; medidas mitigatórias (~18% de redução estimada) vieram de novas leis; ICMS fica fora das tarifas homologadas.", "tom": "institucional", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:31:27", "justificativa": "acompanhamento sem nome identificado", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:31:27", "justificativa": "acompanhamento sem nome identificado", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:32:51", "processo": "48500.005218/2020-06", "interessado": "Abradee e distribuidoras; consumidores (Procon-SP, conselhos de consumidores, Absolar)",
+      "assunto": "Resultado da Consulta Pública 30/2022: prorrogação de prazos de adequação à REN 1.000/2021 (alteração do art. 668)",
+      "tema": ["regulação normativa", "distribuição e qualidade", "geração distribuída (MMGD)"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta que altera o art. 668 da REN 1.000: prazo até 30/09/2022 para instrução de processos de defeito de medição e irregularidade (com direito do consumidor a informação em 30 dias); mantém prazos do Módulo 3 do PRODIST para orçamento de conexão com obras até 31/12/2022 (minigeração); exclui, acolhendo o Procon-SP, a prorrogação do prazo de ressarcimento de danos. Apresentação de Daniel (SRD).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:00:22", "justificativa": "Acompanha SRD/SMA; Decreto 10.893/2021 e Lei 14.300/2022 elevaram pedidos de conexão após a REN 1.000; sem alteração de mérito; elogia a participação social na CP.", "confianca": "alta"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator", "ts": "1:01:49", "justificativa": "Parabeniza a consolidação da REN 1.000 como simplificação e empoderamento do consumidor.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:49", "justificativa": "acompanhamento sem nome identificado", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:49", "justificativa": "acompanhamento sem nome identificado", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:02:07", "processo": "48500.001662/2022-14 (número incerto na legenda)", "interessado": "Enel Green Power / Enel Energia Renovável S.A. (complexo eólico Chafariz, Canoas, Lagoas, Ventos de Arapuá; UFV Luzia 2 e 3, Paraíba)",
+      "assunto": "Requerimento de associação de centrais eólicas e fotovoltaicas nos termos da REN 954/2021 (usinas associadas, CUST compartilhado na SE Santa Luzia II)",
+      "tema": ["outorgas de geração (eólica, solar)", "transmissão (CUST)", "regulação normativa"], "relator": "Ricardo Tili", "resultado": "pedido de vista (Hélvio Guerra)",
+      "resumo_voto": "Relator defere a associação e propõe que o ONS formalize o CUST de futuras associações sem prévia análise da ANEEL e sem alterar outorgas (faixa de potência pela soma das outorgas). Procurador sugeriu consolidar nos Procedimentos de Rede; Camila e Hélvio questionaram delegar atribuição ao ONS sem norma e sem interação formal; SCG (Carlos Cabral) e SRT defenderam o voto. Hélvio pediu vista.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, defere", "ts": "1:23:00", "justificativa": "Aplicação de regra direta, sem ato discricionário, pode ser delegada ao ONS; evita sobrecarregar a SCG com alterações de outorga; insiste que não há mudança nos Procedimentos de Rede.", "tom": "firme", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:46:15", "justificativa": "Questionou se não seria mais razoável alterar as outorgas e se cabe antecipar orientação ao ONS com tomada de subsídios aberta.", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "não votou (vista)", "ts": "1:46:15", "justificativa": "Manifestou dúvida sobre passar ao ONS atribuição não prevista em norma e sem diálogo formal; sugeriu acatar o caso concreto e mandar as áreas avaliarem os Procedimentos de Rede.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (vista)", "ts": "1:46:15", "justificativa": "Perguntou se há outros casos semelhantes (é o primeiro, segundo a área).", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["itens 4 e 6 (retirados pelo diretor Efrain; tinham sustentação oral)", "itens 5, 8, 16, 21, 23, 24, 26 e 28"],
+  "limites_da_analise": [
+    "Camila Bomfim e Efrain Cruz não constam da lista de diretores do config da ANEEL; nomes registrados como ditos/conhecidos (legenda: 'diretora Camila', 'Efraim', 'diácomo'/'de átomo' provavelmente Efrain). Rótulo de falante do .md (Sandoval Feitosa) parece errado para a abertura: Sandoval é citado como ex-relator.",
+    "Votos dos itens 1 e 2: falas 'acompanho o relator' sem nome; atribuição pela proclamação de unanimidade.",
+    "Item 3: atribuição de falas no debate (quem questionou a delegação ao ONS) inferida pelo contexto; ts do voto do relator aproximado.",
+    "Número do processo do item 3 incerto (legenda diz 48.500 1662/2012-14 e depois 2022)."
+  ]
+}

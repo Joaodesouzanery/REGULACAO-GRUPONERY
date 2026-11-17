@@ -1,0 +1,50 @@
+{
+ "meta": {"video_id": "_-3AYtXZ68w", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "23ª Reunião Pública Ordinária de 2023", "data": "2023-07-04", "formato": "presencial (auditório) com transmissão",
+  "presidente_da_sessao": "Hélvio Guerra (substituindo o Diretor-Geral)",
+  "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili"],
+  "ausentes": ["Sandoval Feitosa", "Fernando Mosna"],
+  "observacoes": ["Sandoval Feitosa em férias; Fernando Mosna em viagem a serviço; quórum de três diretores.", "Informes: bandeira verde em julho; Leilão de Transmissão 1/2023 (9 lotes, deságio médio 50,97%, R$ 15,7 bi); CP 17/2023 (RTP Elektro).", "Atas da 2ª e 3ª extraordinárias e da 22ª ordinária aprovadas.", "Pauta com 20 itens: itens 2 a 20 em bloco (item 3 destacado pela diretora Agnes); item 1 (RAP/TUST 2023-2024) com apresentação técnica da STR (Wendel).", "Correção de erro material no item 8 do bloco (DUP da PCH Santa Luzia, São Desidério/BA): nome da empresa beneficiária corrigido no dispositivo.", "Sem sustentações orais e sem retiradas de pauta."]
+ },
+ "itens": [
+  {
+   "id": "bloco 2-20", "ts": "0:08:56", "processo": "itens 2 a 20 da pauta (exceto item 3)", "interessado": "diversos",
+   "assunto": "Bloco de itens com votos publicados previamente: processo tarifário, requerimentos e recursos administrativos, pedidos de reconsideração, medidas cautelares, alteração de cronograma, declarações de utilidade pública (inclui DUP da PCH Santa Luzia, item 8, com correção de erro material), ratificações de decisões de reuniões extraordinárias e prorrogação de vista",
+   "tema": ["bloco", "outorgas de geração", "recursos administrativos"],
+   "relator": "diversos", "resultado": "aprovado por unanimidade, com destaque do item 3",
+   "resumo_voto": "Bloco aprovado sem leitura; item 3 destacado a pedido da diretora Agnes.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "pede destaque do item 3 e aprova o remanescente", "ts": "0:08:56", "justificativa": "destaque do item 3 para discussão", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:08:59", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:09:01", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:10:04", "processo": "48500.000086/2023-81; 48500.009390/2022-92; 48500.006838/2022-16; 48500.000877/2023-91 (números da legenda, incertos)", "interessado": "concessionárias de transmissão; distribuidoras; centrais geradoras; ONS",
+   "assunto": "Estabelecimento das RAPs das transmissoras, TUST, tarifa de transporte de Itaipu, TUSD-g de referência (88 e 138 kV) e encargos de ICG/IEG para o ciclo 2023-2024",
+   "tema": ["transmissão", "tarifas e revisão tarifária", "RAP", "TUST"],
+   "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito tarifário global de 14,3% nas receitas (componente financeiro, último degrau do reperfilamento); glosa de 9,5 GW de potência sem viabilidade/ações judiciais no rateio da TUST; primeiro degrau da intensificação do sinal locacional; financeiro de R$ 417 mil para a Enel DF (entrada de linha Brasília Leste); restituição de parcela de ajuste entre antiga e nova concessionária (portarias MME 245 e 211).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:45:55", "justificativa": "metodologia locacional reflete o maior uso da rede por eólicas do Nordeste; quem usa mais paga mais (Lei 9.427 alterada pela 10.848); retirada de empreendimentos inviáveis evita tarifas maiores", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:49:30", "justificativa": "elogia a apresentação; resultado esperado e reflexo da norma nos casos concretos", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:50:22", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3", "ts": "0:51:23", "processo": "48500.009039/2022-00", "interessado": "São Francisco Energia S.A. (UTE Bahia 1); Coelba",
+   "assunto": "Requerimento de rescisão amigável dos CCEARs da UTE Bahia 1 (Leilão 4/2006), sem penalidades rescisórias",
+   "tema": ["comercialização", "outorgas de geração", "térmica", "requerimento administrativo"],
+   "relator": "Ricardo Tili", "resultado": "pedido de vista (diretora Agnes da Costa)",
+   "resumo_voto": "Relator autoriza acordos bilaterais de rescisão amigável dos CCEARs: térmica de custo muito alto (CVU ~R$ 1.500), distribuidoras sobrecontratadas, reduz Pmix e tarifa; o CUST com a Coelba é relação bilateral à parte, com as penalidades contratuais. Área técnica (SRM) havia apontado perda para consumidor da Bahia pelo CUST.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova rescisão amigável", "ts": "0:54:41", "justificativa": "contrato oneroso; saída reduz Pmix e sobrecontratação, benéfica ao consumidor; CUST é questão entre as partes", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "1:07:28", "justificativa": "dúvida se a ANEEL pode dispensar a sanção contratual e decretar rescisão amigável de contrato bilateral sem ouvir as distribuidoras", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "1:07:28", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática: números de processo e valores podem estar errados.", "Item 1: a fala «eu acompanho o voto do relator» não traz nome; atribuída a Ricardo Tili; Agnes só comenta e entra pela proclamação de unanimidade.", "Item 3: o pedido de vista de Agnes é inferido da frase truncada «sem votação a diretora Agnes» e do resumo do secretário (um pedido de vista na sessão).", "Bloco: ordem das falas «aprovo o bloco» atribuída Tili e depois Hélvio (que proclama).", "Itens 2 a 20 do bloco não foram detalhados individualmente na sessão."]
+}

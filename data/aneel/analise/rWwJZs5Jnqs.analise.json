@@ -1,0 +1,51 @@
+{
+  "meta": {"video_id": "rWwJZs5Jnqs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "14ª Reunião Pública Ordinária de 2022 (Parte 1, manhã)", "data": "2022-04-26", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Hélvio Guerra"],
+    "ausentes": ["Elisa Bastos (em missão pela agência)"],
+    "observacoes": ["Quórum de quatro diretores; diretora Elisa Bastos em missão, seu voto no item 1 foi lido pelo Diretor-Geral.", "Pauta com 52 itens; itens 11 a 52 em bloco; item 21 retirado de pauta; sustentação oral nos itens 4 e 7.", "Atas da 13ª RPO e 3ª RPE aprovadas; Sandoval não as aprovou por ter estado ausente.", "Parte 1 cobre bloco e itens 1 a 5; itens 6 a 10 ficaram para a sessão da tarde (outro vídeo). Item 4 teve pedido de vista de Hélvio Guerra."]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:05:51", "processo": "", "interessado": "diversos", "assunto": "Itens 11 a 52 da pauta deliberados em bloco (exceto item 21, retirado)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado", "resumo_voto": "Votos disponibilizados previamente na internet; todos os diretores aprovam o bloco.",
+     "votos": [
+      {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:05:51", "justificativa": "", "confianca": "media"},
+      {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:05:55", "justificativa": "", "confianca": "media"},
+      {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:05:57", "justificativa": "", "confianca": "media"},
+      {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:06:00", "justificativa": "", "confianca": "media"}]},
+    {"id": "1", "ts": "0:06:22", "processo": "48500.000028/2022-73 (número incerto)", "interessado": "Secretaria Executiva de Leilões; empreendedores de geração", "assunto": "Aprovação do edital do Leilão nº 3/2022 (Leilão de Energia Nova A-4 de 2022), após a Consulta Pública 3/2022; inclui tratamento do desconto na TUST/TUSD para pedidos de outorga protocolados até 2/3/2022", "tema": ["leilões", "outorgas de geração", "tarifas (TUST/TUSD)"], "relator": "Elisa Bastos (voto lido por André Pepitone)", "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova edital e anexos, fontes hidrelétrica, eólica, solar e biomassa, suprimento a partir de 1/1/2026, leilão em 27/5/2022; pedido de outorga será examinado após o certame quanto ao desconto na TUST/TUSD, risco do proponente. Debate: Efrain questionou falta das PCHs da Lei 14.182 e propôs neutralizar o desconto no lance; Pepitone defendeu que a competição aloca o risco; Efrain aderiu.",
+     "votos": [
+      {"diretor": "Elisa Bastos", "voto": "voto deixado (lido por André Pepitone): relatora, aprova", "ts": "0:06:40", "justificativa": "aprovar edital conforme proposto pela SEL após a CP 3/2022", "confianca": "alta"},
+      {"diretor": "André Pepitone", "voto": "acompanha a relatora", "ts": "1:08:18", "justificativa": "competição entre ~1.800 projetos aloca corretamente o risco do desconto; cabe ao MME definir diretrizes", "confianca": "media"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:08:18", "justificativa": "dúvida sobre PCHs esclarecida (lei refere-se aos A-5/A-6); levará o tema ao edital do A-5", "confianca": "media"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha a relatora", "ts": "1:08:18", "justificativa": "questionou cumprimento da Lei 14.182 e propôs neutralizar o desconto da TUST no lance; disse retornar de seu posicionamento: «a competição resolve o problema»", "tom": "debate acalorado com o DG", "confianca": "media"},
+      {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "1:08:18", "justificativa": "planejamento e horizonte de contratação são do poder concedente; a agência fica vinculada à diretriz", "confianca": "media"}]},
+    {"id": "2", "ts": "1:09:10", "processo": "48500.004898/2021-13 (número incerto)", "interessado": "Neoenergia Pernambuco (Celpe)", "assunto": "Reajuste tarifário anual 2022 da Celpe, vigência a partir de 29/04/2022", "tema": ["tarifas e revisão tarifária"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Homologa o índice de reajuste tarifário anual (efeito médio citado ~18,98% para baixa tensão; números da legenda incertos) e valores da CDE para custeio dos descontos.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:29:00", "justificativa": "homologar o IRT conforme apresentação da SGT", "confianca": "alta"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:30:10", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:30:10", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:30:20", "justificativa": "", "confianca": "media"}]},
+    {"id": "3", "ts": "1:31:03", "processo": "48500.004951/2021-86 (número incerto)", "interessado": "Equatorial Alagoas", "assunto": "Reajuste tarifário anual 2022 da Equatorial Alagoas, vigência a partir de 03/05/2022", "tema": ["tarifas e revisão tarifária"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Homologa o índice de reajuste tarifário anual e valores da CDE para custeio de descontos.",
+     "votos": [
+      {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:48:00", "justificativa": "homologar o IRT; destaca contexto de pressão tarifária", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:48:40", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:48:40", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:48:47", "justificativa": "", "confianca": "media"}]},
+    {"id": "4", "ts": "1:49:30", "processo": "48500.000056/2020-29 (número incerto)", "interessado": "Centrais geradoras fotovoltaicas; ABSOLAR; Scatec (sustentação oral de Pedro Henrique Maciel Fonseca, ABSOLAR, e Camila, advogada)", "assunto": "Requerimentos de reconhecimento de restrição de operação por constrained-off de usinas solares fotovoltaicas (ressarcimento), com pedido cautelar de sobrestamento", "tema": ["comercialização (CCEE)", "outorgas de geração (solar)", "recursos administrativos"], "relator": "Sandoval Feitosa", "resultado": "pedido de vista de Hélvio Guerra", "resumo_voto": "Relator vota por negar provimento: sem normativo específico (Lei 10.848 alterada em 2016 exige regulamentação, tema do item 40 da agenda regulatória); não acata pedido de sobrestamento. Efrain mantém posição vencida no caso das eólicas: direito previsto em lei, ausência de norma não pode negar o direito; sugere sustar processos até a regra. Hélvio pede vista.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento", "ts": "2:28:00", "justificativa": "não há normativo para ressarcimento de constrained-off de solares; conceder sem regra imputaria conta a terceiros (consumidores)", "confianca": "alta"},
+      {"diretor": "Efrain Cruz", "voto": "não votou (vista); manifestou discordância", "ts": "2:28:26", "justificativa": "direito está na lei; não se pode negá-lo por falta de regra que a própria ANEEL deveria fazer; sugere sustar os pedidos até a norma", "tom": "crítico", "confianca": "media"},
+      {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "3:00:12", "justificativa": "receia injustiça por ausência de regra; compara com eólicas; busca equilíbrio", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "3:00:12", "justificativa": "", "confianca": "media"}]},
+    {"id": "5", "ts": "3:01:13", "processo": "48500.002732/2020-92 (número incerto)", "interessado": "CCEE; distribuidoras", "assunto": "Resultado da 2ª fase da Consulta Pública 37/2020: aprimoramento do Mecanismo de Compensação de Sobras e Déficits de energia nova (MCSD EN) e da REN 453/2011", "tema": ["comercialização (CCEE)", "regulação normativa"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Inclui MCSD EN A-6 e A-7, excepcionaliza o A-6 em 2022, exclui o MCSD EN A-0 de outubro, limita a 5% da carga a declaração no A-0 de julho e o exclui do máximo esforço; CCEE adequa regras em 60 dias.",
+     "votos": [
+      {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:35:00", "justificativa": "demais temas remetidos à atividade 61 da agenda regulatória", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:42:23", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "3:42:23", "justificativa": "", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "3:42:30", "justificativa": "", "confianca": "media"}]}
+  ],
+  "retirados": ["item 21 (retirado de pauta)"],
+  "limites_da_analise": ["André Pepitone (DG), Efrain Cruz e Elisa Bastos não constam da lista de diretores do config_agencia.json; nomes registrados como ditos na sessão.", "Falantes inferidos no cabeçalho do .md (Gentil, Mosna, Tili) estão errados para 2022; ignorados.", "Proclamação do bloco diz «por maioria dos votantes» (provável erro de legenda), mas todos declararam aprovar.", "Números de processo e percentuais vêm da legenda automática e podem estar errados.", "Votos de quem só acompanha nos itens 2, 3 e 5 atribuídos pela proclamação; ordem de fala não identificada.", "Itens 6 a 10 não estão nesta parte (sessão da tarde)."]
+}

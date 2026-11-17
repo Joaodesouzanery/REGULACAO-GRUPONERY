@@ -1,0 +1,481 @@
+{
+ "meta": {
+  "video_id": "FN_4C9XOLDk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; parte 2 da 25ª RPO; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25",
+  "data": "2022-07-12",
+  "formato": "presencial/híbrida",
+  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+  "diretores_presentes": [
+   "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+   "Efrain Cruz (fora da lista do config)",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Giácomo Almeida (fora da lista do config)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 25ª Reunião Pública Ordinária; retoma no item 23 já com o voto do relator lido.",
+   "Item 23 decidido por maioria (vencida Camila Bomfim); Giácomo Almeida suspeito.",
+   "Item 21: vista de Ricardo Tili.",
+   "Efrain Cruz perdeu a conexão; itens 20, 22 e 28 retirados de pauta; item 19 retirado pelo relator.",
+   "Encerramento à noite com a deliberação do item 26."
+  ]
+ },
+ "itens": [
+  {
+   "id": "23",
+   "ts": "0:00:04",
+   "processo": "48500.004485/2022-10 (legenda incerta)",
+   "interessado": "Âmbar Energia (UTEs EPP2, EPP4, Rio de Janeiro I, Edlux X) / UTE Cuiabá (antiga Mário Covas)",
+   "assunto": "Requerimento administrativo para que as obrigações das térmicas vencedoras do PCS/PSS 1/2021 sejam atendidas pela UTE Cuiabá; pedido subsidiário de revogação e nova outorga",
+   "tema": [
+    "leilões (PCS/PSS 2021, energia de reserva)",
+    "outorgas de geração (térmica)",
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz (fora da lista do config)",
+   "resultado": "Por maioria, vencida a diretora-geral substituta: mantida a cautelar e autorizada a assunção pela UTE Cuiabá das obrigações do PSS 1/2021, com eficácia condicionada à conclusão das quatro usinas no prazo da cláusula 15.9 do edital; afastada a cláusula 4.4 dos CERs; CVU 616,03, CBR 1.594,84 e receita fixa 1.734,87 R$/MWh; sazonalização da inflexibilidade conforme a tabela do relator; penalidades da cláusula nona mantidas. Giácomo Almeida arguiu suspeição.",
+   "resumo_voto": "Relator (voto lido na parte 1) defende a substituição por vantajosidade ao consumidor (desconto de cerca de 49 R$/MWh, ganho estimado de cerca de 500 milhões) e interpretação finalística do PCS. Camila Bomfim apresenta voto divergente: decreto 6.353/2008, portaria 24 e edital vedam usina já em operação comercial e o CER veda entrega por outra usina; risco à credibilidade dos leilões.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "0:40:00",
+     "justificativa": "Interpretação finalística do PCS (injetar energia); operação comercial sem despacho formal; desconto ao consumidor de cerca de meio bilhão de reais.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "vencido (voto divergente: conhecer e negar provimento, revogar a cautelar)",
+     "ts": "0:02:58",
+     "justificativa": "Vedações do decreto, da portaria 24, do edital e da cláusula 4.4 do CER; Cuiabá em operação comercial; vantajosidade incerta; dano reputacional aos leilões.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:58:34",
+     "justificativa": "«entendendo que a modicidade tarifária ela é um pilar no setor elétrico ... eu volto com o relator»; ponderou modicidade tarifária x segurança jurídica.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "suspeito/impedido",
+     "ts": "1:58:40",
+     "justificativa": "Arguiu suspeição conforme art. 13 da Resolução 273 (fala sem nome; atribuição por exclusão).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:58:50",
+     "justificativa": "«precisamos também de coragem para votar ... eu acompanho o voto do relator»; compromisso com o interesse público e benefício ao consumidor; questionou o conceito de operação comercial.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:04:37",
+   "processo": "48500.006740/2011-14 (legenda incerta)",
+   "interessado": "São Roque Energética S.A. (UHE São Roque, SC) / ONS",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 990/2022 (rescisão pelo ONS do CUST 15/2016 e penalidade rescisória)",
+   "tema": [
+    "transmissão (CUST, encargos)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Giácomo Almeida (fora da lista do config)",
+   "resultado": "Pedido de vista do diretor Ricardo Tili; não deliberado.",
+   "resumo_voto": "Houve sustentação oral do advogado da São Roque (nome incerto na legenda) e manifestação da Procuradoria. Relator propôs dar parcial provimento: parcelamento dos encargos rescisórios em 36 parcelas, afastar o termo de confissão de dívida e autorizar novo CUST condicionado à desistência da ação judicial.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "relator, aprova (parcial provimento)",
+     "ts": "3:00:00",
+     "justificativa": "Parcelamento em 36 parcelas e novo CUST condicionado à desistência da ação judicial.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "3:25:37",
+     "justificativa": "«eu não fiquei convencido não eu vou pedir vista do processo»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "não votou (vista)",
+     "ts": "3:25:37",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "3:25:37",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "não votou (vista)",
+     "ts": "3:25:37",
+     "justificativa": "Presença de Efrain neste item não confirmada.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "3:26:13",
+   "processo": "48500.000424/2022-83",
+   "interessado": "Distribuidoras (Energisa TO, Enel SP, Energisa Sul-Sudeste), transmissoras; pleitos de Elera Renováveis, Energia Sustentável do Brasil (indeferidos) e CPFL Renováveis/Campo dos Ventos II (deferido)",
+   "assunto": "TUSDg de referência para centrais geradoras em 88 kV e 138 kV, ciclo 2022-2023",
+   "tema": [
+    "tarifas e revisão tarifária (TUSDg)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Unanimidade (votação conjunta dos itens 15-17): emissão das resoluções homologatórias de TUSDg, TUST, tarifa de Itaipu e RAP, vigência a partir de 1/7/2022.",
+   "resumo_voto": "Voto conjunto lido pelo relator após apresentação da SGT (NT 104/2022).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:26:13",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "suspeito/impedido",
+     "ts": "3:54:52",
+     "justificativa": "Acompanhou nos três processos, exceto um item do dispositivo em que arguiu suspeição (art. 13 da Resolução 273); item exato incerto na legenda.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:26:13",
+   "processo": "48500.003944/2022-xx (incerto)",
+   "interessado": "Distribuidoras (Energisa TO, Enel SP, Energisa Sul-Sudeste), transmissoras; pleitos de Elera Renováveis, Energia Sustentável do Brasil (indeferidos) e CPFL Renováveis/Campo dos Ventos II (deferido)",
+   "assunto": "TUST, tarifa de transporte de Itaipu e encargos de uso do sistema de transmissão, ciclo 2022-2023",
+   "tema": [
+    "transmissão (TUST)",
+    "tarifas"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Unanimidade (votação conjunta dos itens 15-17): emissão das resoluções homologatórias de TUSDg, TUST, tarifa de Itaipu e RAP, vigência a partir de 1/7/2022.",
+   "resumo_voto": "Voto conjunto lido pelo relator após apresentação da SGT (NT 104/2022).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:26:13",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "3:26:13",
+   "processo": "48500.003952/2022-50 (incerto)",
+   "interessado": "Distribuidoras (Energisa TO, Enel SP, Energisa Sul-Sudeste), transmissoras; pleitos de Elera Renováveis, Energia Sustentável do Brasil (indeferidos) e CPFL Renováveis/Campo dos Ventos II (deferido)",
+   "assunto": "Receitas anuais permitidas (RAP) das transmissoras, ciclo 2022-2023",
+   "tema": [
+    "transmissão (RAP)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "Unanimidade (votação conjunta dos itens 15-17): emissão das resoluções homologatórias de TUSDg, TUST, tarifa de Itaipu e RAP, vigência a partir de 1/7/2022.",
+   "resumo_voto": "Voto conjunto lido pelo relator após apresentação da SGT (NT 104/2022).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:26:13",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:54:49",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "3:57:21",
+   "processo": "48500.004632/2022-50 (incerto)",
+   "interessado": "Usinas hidrelétricas em regime de cotas (Lei 12.783/2013); UHE Paranoá",
+   "assunto": "Receita anual de geração (RAG) das usinas em regime de cotas, ciclo 2022-2023",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "tarifas"
+   ],
+   "relator": "Giácomo Almeida (fora da lista do config)",
+   "resultado": "Unanimidade: homologada a RAG de 1/7/2022 a 30/6/2023 e ratificados valores para a UHE Paranoá.",
+   "resumo_voto": "Relator dispensa fundamentação após apresentação da SGT.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "3:57:21",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:13:47",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:13:47",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:13:47",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:13:47",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "4:14:44",
+   "processo": "48500.003470/2017-11 (incerto)",
+   "interessado": "ONS, CCEE, Abrace",
+   "assunto": "Resultado da Consulta Pública 80/2021: aprimoramento do programa de resposta da demanda (REN 792/2017)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Efrain Cruz (fora da lista do config)",
+   "resultado": "Retirado de pauta pelo relator após questionamentos de Hélvio Guerra; reunião técnica a agendar.",
+   "resumo_voto": "Hélvio questionou tornar o programa estrutural sem incluí-lo na formação de preço e o pagamento de receita fixa por disponibilidade.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz (fora da lista do config)",
+     "voto": "retira de pauta",
+     "ts": "4:49:47",
+     "justificativa": "«eu vou retirar o processo de pauta porque as suas colocações aqui me parecem muito procedentes»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "questiona (sem voto)",
+     "ts": "4:45:00",
+     "justificativa": "Dúvidas sobre caráter estrutural e receita fixa por disponibilidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "4:52:40",
+   "processo": "48500.005653/2022-94; 48500.005497/2021-81; 48500.005532/2021-10 (incertos)",
+   "interessado": "MK 129 Empreendimentos e Participações S.A. e Linhares Geração S.A. (UTE Povoação I, expansão UTE Luiz Oscar Rodrigues de Melo)",
+   "assunto": "Excludente de responsabilidade por atraso na implantação de térmicas do PSS 1/2021",
+   "tema": [
+    "leilões (PSS 2021)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Giácomo Almeida (fora da lista do config)",
+   "resultado": "Unanimidade: parcial provimento, reconhecidos 10 dias de excludente; suprimento dos CERs de 11/5/2022 a 10/1/2026.",
+   "resumo_voto": "Relator Giácomo Almeida (redistribuído após exoneração da relatora anterior no item 26).",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "4:52:40",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:30:29",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:30:29",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:30:29",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "5:31:24",
+   "processo": "48500.000960/2018-06 (incerto)",
+   "interessado": "CCEE; Predilecta Alimentos Ltda. (UTE Predilecta, Matão-SP); distribuidoras do 23º LEN",
+   "assunto": "Execução precária dos CCEARs do 23º leilão de energia nova da UTE Predilecta (modalidade tipo 2A x tipo 3)",
+   "tema": [
+    "comercialização (CCEE)",
+    "leilões",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Giácomo Almeida (fora da lista do config)",
+   "resultado": "Unanimidade: UTE Predilecta declarada inapta para os CCEARs desde 1/1/2021 até reclassificação tipo 2A; CCEE recontabiliza; inflexibilidade só a partir do início da operação tipo 2A, sazonalização flat.",
+   "resumo_voto": "Relator Giácomo Almeida (redistribuído após exoneração da relatora anterior no item 26). Sustentação oral de Guilherme (sobrenome incerto) pela Predilecta.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "5:31:24",
+     "justificativa": "Lê o dispositivo do voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta; fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:48:18",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:48:18",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:48:18",
+     "justificativa": "Acompanhou o relator; fala individual curta ou não nomeada.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "20",
+   "processo": "48500.003665/2017-17 (incerto)",
+   "assunto": "Abertura de consulta pública sobre outorga de autorização (REN 876/2020)",
+   "relator": "Efrain Cruz (fora da lista do config)",
+   "motivo": "queda de conexão do relator"
+  },
+  {
+   "id": "22",
+   "motivo": "queda de conexão do relator Efrain Cruz"
+  },
+  {
+   "id": "28",
+   "motivo": "queda de conexão do relator Efrain Cruz"
+  }
+ ],
+ "limites_da_analise": [
+  "Os diretores da sessão (Camila Bomfim, Efrain Cruz, Giácomo Almeida) não constam da lista de diretores de data/aneel/config_agencia.json; nomes registrados como ditos. O cabeçalho do .md atribui falantes a Sandoval/Gentil/Willamy, o que não condiz com o conteúdo; Sandoval não aparece como presente.",
+  "A atribuição da suspeição (itens 23 e 15) a Giácomo Almeida foi feita por exclusão (fala sem nome); confiança baixa.",
+  "A presença de Efrain Cruz nos itens 24 e 26 é improvável (perdeu a conexão antes); votos registrados só para 4 diretores.",
+  "Números de processo vêm da legenda automática e podem estar errados.",
+  "Item 21: ts do voto do relator aproximado."
+ ]
+}

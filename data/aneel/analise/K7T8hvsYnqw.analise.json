@@ -1,0 +1,641 @@
+{
+ "meta": {
+  "video_id": "K7T8hvsYnqw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária (parte 2, vespertina)",
+  "data": "2022-05-24",
+  "formato": "híbrido (presencial e virtual)",
+  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta); após sua saída a condução coube aos diretores restantes (encerramento por Hélvio Guerra)",
+  "diretores_presentes": [
+   "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Giácomo Almeida (diretor, fora da lista do config)"
+  ],
+  "ausentes": [
+   "Efrain Cruz (relator dos itens 18 e 34; perdeu a conexão, não identificado com certeza)"
+  ],
+  "observacoes": [
+   "Sessão retomada à tarde e encerrada à noite; Hélvio Guerra participou virtualmente com Covid-19.",
+   "Item 9 adiado no início (Hélvio fora da sala e Giácomo impedido) e julgado depois do item 10; terminou com pedido de vista de Hélvio.",
+   "Camila Bomfim saiu antes do item 35 (chamada ao MME); itens 35, 32, 26, 37 e 38 decididos por unanimidade dos presentes (3 diretores).",
+   "Última reunião de Sandoval Feitosa como relator antes de assumir a Diretoria-Geral, segundo falas da sessão.",
+   "Itens 18 e 34 não julgados (relator sem conexão)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "10",
+   "ts": "0:01:33",
+   "processo": "48500.002162/2016-53",
+   "interessado": "Linhas de Taubaté Transmissora de Energia (LTTE) e Cescebrasil Seguros; sustentação oral de Valéria de Souza Rosa",
+   "assunto": "Recursos contra o Despacho 1058/2018 da SCT (execução da garantia de fiel cumprimento do contrato de concessão 20/2011, Leilão 4/2011); conversão em multa editalícia por atraso das obras",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (multa editalícia, garantia de fiel cumprimento)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Desconstitui o Despacho 1058/2018, ratifica atos instrutórios e aplica multa editalícia de cerca de R$ 35,6 milhões (5% do investimento, valores de mar/2021, IPCA); garantia executada se não houver pagamento. Atraso médio de 57 meses contra 26 meses de obra; excludentes rejeitadas pela SCT.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:45:18",
+     "confianca": "alta",
+     "justificativa": "atraso de cerca de 57 meses, duas vezes o tempo de obra; precedentes Copel e Mata de Santa Genebra; regra do edital aceita no leilão"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:49:24",
+     "confianca": "media",
+     "justificativa": "antecipou plena concordância: atraso maior que o próprio prazo de implantação; destacou importância do empreendimento para escoamento de Belo Monte"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:49:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:49:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:50:29",
+   "processo": "48500.004875/2022-28",
+   "interessado": "Furnas Centrais Elétricas",
+   "assunto": "Recurso contra o Auto de Infração 6/2022 da SFE (multa de cerca de R$ 26,5 milhões, LT 230 kV Itumbiara–Rio Verde, plano de resultados)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (auto de infração, multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista (Hélvio Guerra)",
+   "resumo_voto": "Relator: não conhecer por intempestividade, mas de ofício dar parcial provimento: cancelar a NC1 (dois desligamentos por descarga atmosférica com 16 min e 3 km de distância contados como um, logo meta de 8 cumprida) e reduzir a multa para cerca de R$ 5,8 milhões. Hélvio questionou o cancelamento da NC1; área técnica (SFE) sustentou que foram desligamentos distintos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator: não conhece, de ofício dá parcial provimento",
+     "ts": "1:10:00",
+     "confianca": "media",
+     "justificativa": "os dois desligamentos decorreram do mesmo evento, próximos no tempo e no espaço; Furnas cumpriu o plano de resultados"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "1:23:08",
+     "confianca": "alta",
+     "justificativa": "dúvida sobre o cancelamento da NC1; o risco potencial importa tanto quanto o dano"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "suspeito/impedido",
+     "ts": "0:50:29",
+     "confianca": "media",
+     "justificativa": "ex-superintendente da SFE, autora do auto; não pode votar nem se manifestar"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "não votou (vista)",
+     "ts": "1:23:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:23:17",
+   "processo": "48500.003096/2021-96 e 48500.000356/2022-12",
+   "interessado": "Companhia Energética de Petrolina (CEP) – UTE Petrolina",
+   "assunto": "Recálculo do fator de disponibilidade da UTE Petrolina, recontabilização na CCEE e impugnação de penalidade por insuficiência de lastro",
+   "tema": [
+    "comercialização (CCEE, lastro)",
+    "outorgas de geração (térmica)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento: primazia da realidade sobre a forma; usina esteve disponível embora sem o teste de 4 h da REN 614; arquiva termo de notificação 1797/2021 e afasta penalidade. Por sugestão de Hélvio (após questão de Giácomo), determinação para SRG/SFG interagirem com o ONS para aprimorar a aferição de disponibilidade após manutenção.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:47:00",
+     "confianca": "alta",
+     "justificativa": "usina disponível de fato; nenhum prejuízo ao consumidor; flexibiliza a REN 614"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator, com sugestão acatada",
+     "ts": "1:51:35",
+     "confianca": "media",
+     "justificativa": "propôs determinação à área técnica em conjunto com o ONS"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "1:51:38",
+     "confianca": "media",
+     "justificativa": "questionou por que o ONS não faz consistência mensal da disponibilidade"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:51:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:53:04",
+   "processo": "48500.000056/2020-29 e outros (136 requerimentos)",
+   "interessado": "Centrais geradoras fotovoltaicas (UFVs) do ACR",
+   "assunto": "Reconhecimento de constrained-off de UFVs (restrição elétrica) para abatimento do ressarcimento em contratos regulados; voto-vista de Hélvio Guerra (relator original Sandoval Feitosa); prazo judicial",
+   "tema": [
+    "comercialização (CCEE, ressarcimento)",
+    "outorgas de geração (solar)",
+    "regulação normativa",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes, nos termos do voto-vista (com ajuste: prazo de 15 dias para a SRG avaliar a metodologia provisória)",
+   "resumo_voto": "Voto-vista: isonomia com eólicas (REN 927/2021); reconhece o direito no ACR até o limite que zera o ressarcimento; metodologia provisória (potência instalada proporcional à garantia física no ACR × período). Sandoval (que havia votado pelo indeferimento) aderiu ao direito mas pediu cautela na metodologia (fator de capacidade por UF); acordou-se prazo de 15 dias para as áreas técnicas.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor",
+     "ts": "1:55:00",
+     "confianca": "alta",
+     "justificativa": "tratamento isonômico com as eólicas; solução transitória construída com SRG, CCEE e ONS"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (com ressalva sobre a metodologia)",
+     "ts": "2:35:57",
+     "confianca": "alta",
+     "justificativa": "convencido do direito; dúvida sobre metodologia, sugeriu considerar fator de capacidade e prazo para as áreas técnicas"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "suspeito/impedido",
+     "ts": "2:30:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "2:36:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:38:21",
+   "processo": "48500.002127/2018-96 e outros 3",
+   "interessado": "Usina Geradora de Energia SG Ltda – UFVs Mundo Novo 1 a 4 (São Gonçalo do Amarante/CE)",
+   "assunto": "Alteração de cronograma e proposta de flexibilizar a REN 666/2015 para assinatura de CUST por centrais atrasadas; voto-vista de Hélvio Guerra (relator original Sandoval Feitosa)",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (CUST)",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade, nos termos do voto-vista",
+   "resumo_voto": "Perda de objeto (revogação das outorgas) e não flexibilização da REN 666/2015: excesso de outorgas frente à carga prevista no PDE 2031; tema já está na agenda regulatória.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor",
+     "ts": "2:40:00",
+     "confianca": "alta",
+     "justificativa": "não flexibilizar norma geral em caso concreto; muitas outorgas atrasadas e reserva de rede sem pagamento"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:55:36",
+     "confianca": "alta",
+     "justificativa": "no mérito preferiria sua tese (não faz sentido cobrar encargo retroativo), mas acompanha pela perda de objeto e pede avaliação rápida do tema"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:55:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "2:55:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "2:58:40",
+   "processo": "48500.002914/2018-38 e outros",
+   "interessado": "Castilho Solar Participações e Hélio Valgas (grupo Comerc); sustentação oral de Valéria de Souza Rosa",
+   "assunto": "Alteração de cronograma das UFVs Castilho 1 a 5 (SP) e Hélio Valgas 1 a 10 (MG), e postergação de CUST",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (CUST)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Sem excludente de responsabilidade (crise na China/pandemia é risco do empreendedor); prorrogar imputaria custos a outros usuários; REN 666/2015 já veda prorrogar CUST em execução.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:10:00",
+     "confianca": "alta",
+     "justificativa": "sem excludente; não imputar custos a demais consumidores; jurisprudência da ANEEL"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:18:41",
+   "processo": "48500.002921/2018-30 e outros 4",
+   "interessado": "Cassilândia Solar Participações – UFVs Cassilândia 1 a 6 (MS)",
+   "assunto": "Excludente de responsabilidade e alteração de cronograma de implantação (prazo judicial)",
+   "tema": [
+    "outorgas de geração (solar)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Obras não iniciadas, financiamento e contratos pendentes; pandemia não justifica; alterar cronograma alocaria custos a terceiros.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:20:00",
+     "confianca": "alta",
+     "justificativa": "obras sequer iniciadas; riscos de financiamento e equipamentos são do empreendedor"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:31:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "3:32:41",
+   "processo": "48500.002436/2013-51 e outros 31",
+   "interessado": "Titulares das EOLs Tucano 5, 9, 11, 13 e 17 (BA), Ventos de Santa Teresa e Ventos de São Ricardo (RN)",
+   "assunto": "Alteração de cronograma de implantação de centrais eólicas (sustentação oral retirada)",
+   "tema": [
+    "outorgas de geração (eólica)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Outorgas emitidas já durante a pandemia; sem obras/contratos; troca de controle e de equipamentos são riscos do empreendedor.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:34:00",
+     "confianca": "alta",
+     "justificativa": "outorgas posteriores à pandemia; ausência de nexo causal"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:40:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:40:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:40:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:41:07",
+   "processo": "48500.002887/2013-99 e mais 12",
+   "interessado": "Titulares das EOLs Cajuína C3 a C7 (RN) e UFVs Sky Arinos 1 a 8 (MG)",
+   "assunto": "Alteração de cronograma de implantação (processo herdado da relatoria da diretora Elisa)",
+   "tema": [
+    "outorgas de geração (eólica, solar)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Sem demonstração de nexo de causalidade; mudança de entendimento da ANEEL não gera insegurança jurídica dada a conjuntura de atrasos.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:43:00",
+     "confianca": "alta",
+     "justificativa": "não comprovado nexo causal"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "3:47:29",
+   "processo": "48500.003289/2020-66",
+   "interessado": "Empresa de Transmissão Baiana (ETB); sustentação oral por vídeo de Lívia (representante)",
+   "assunto": "Excludente de responsabilidade pelo atraso das LTs 500 kV Juazeiro III–Ourolândia II e Bom Jesus da Lapa II–Gentio do Ouro II (Leilão 13/2015, contrato 11/2016)",
+   "tema": [
+    "transmissão (atraso, PVA)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "provido por unanimidade",
+   "resumo_voto": "Diverge da SCT: atraso anterior não afasta excludente de fato posterior (Covid-19, decretos municipais); recompõe prazo contratual nos 27 e 111 dias de atraso e determina ao ONS recontabilizar a PVA. Licenciamento ambiental não foi aceito como excludente.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "4:05:00",
+     "confianca": "alta",
+     "justificativa": "nexo entre pandemia e atraso; acompanha a Procuradoria"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:16:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:16:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (diretora-geral substituta, fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:16:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "4:17:45",
+   "processo": "48500.005271/2019-65 e 48500.005053/2019-21",
+   "interessado": "Palmaplan Energia 2 SPE – UTE Palmaplan 2 (Rorainópolis/RR); sustentação oral de Carlos Eduardo Edinger",
+   "assunto": "Excludente de responsabilidade e alteração de cronograma da UTE (carta de crédito na pandemia, suspensão pelo IPHAN)",
+   "tema": [
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade dos presentes",
+   "resumo_voto": "Pedido feito um ano depois dos fatos; captação de recursos é risco do empreendedor; suspensão do IPHAN ocorreu antes de haver obra em campo; obra 16 meses atrasada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "4:33:00",
+     "confianca": "alta",
+     "justificativa": "suspensão do IPHAN não impactou obra que não havia começado; financiamento é risco do agente"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "4:36:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:36:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "4:36:30",
+   "processo": "48500.001785/2021-66",
+   "interessado": "Neoenergia Distribuição Brasília; sustentação oral de César Dutra Munhoz",
+   "assunto": "Pedido de reconsideração da REA 10.729/2021 (conjuntos e limites DEC/FEC 2022–2026)",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade dos presentes",
+   "resumo_voto": "Relator acompanha integralmente a análise da SRD.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "4:45:00",
+     "confianca": "alta",
+     "justificativa": "alinhado com a análise da SRD"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "4:46:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:46:08",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "4:46:34",
+   "processo": "48500.003694/2017-89 e 48500.003744/2017-28",
+   "interessado": "ATE XX Transmissora de Energia (grupo Abengoa) e Mapfre Seguros; sustentação oral de André Macedo de Oliveira (válida para itens 26, 37 e 38)",
+   "assunto": "Recurso contra o Despacho 2808/2018 da SCT (execução da garantia do contrato 10/2013); conversão em multa por inexecução total",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (multa, caducidade, garantia)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "negado provimento por unanimidade dos presentes; multa aplicada",
+   "resumo_voto": "Nega provimento e aplica multa de 10% do investimento (Edital 1/2013); sem fato novo na sustentação; Procuradoria (Cid) reforça regularidade.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "5:01:00",
+     "confianca": "alta",
+     "justificativa": "nenhum fato novo trazido na sustentação oral"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "5:03:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:03:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "5:03:35",
+   "processo": "48500.003690/2017-09",
+   "interessado": "ATE XVIII Transmissora de Energia (Abengoa)",
+   "assunto": "Conversão da execução direta da garantia em multa por inexecução total do contrato de concessão 6/2013 (multa de cerca de R$ 50,5 milhões)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (multa, caducidade)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Desconstitui despachos anteriores e aplica multa de 10% do investimento.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "5:05:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "5:06:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:06:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "5:06:42",
+   "processo": "48500.003695/2017-23 e 48500.003745/2017-72",
+   "interessado": "ATE XXI Transmissora de Energia (Abengoa)",
+   "assunto": "Conversão da execução direta da garantia em multa por inexecução total do contrato de concessão 13/2013 (valor citado de cerca de R$ 299 milhões; legenda incerta)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (multa, caducidade)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Desconstitui despachos anteriores e aplica multa de 10% do investimento.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "5:08:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor, fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "5:09:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:09:35",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "18",
+   "motivo": "relator (Efrain Cruz, nome incerto na legenda) perdeu a conexão; não julgado"
+  },
+  {
+   "id": "34",
+   "motivo": "idem item 18"
+  }
+ ],
+ "limites_da_analise": [
+  "Camila Bomfim e Giácomo Almeida não constam da lista de diretores do config (diretores substitutos em 2022); nomes registrados como ditos («Camila», «Jácomo/Giácomo»).",
+  "Votos dos não-relatores atribuídos pela ordem e pela proclamação; falas «acompanho» sem nome — confiança media/baixa, sobretudo nos itens 35, 32, 26, 37 e 38, em que não está claro quem proclamou.",
+  "Impedimento de Giácomo no item 12 inferido de fala truncada («ele não vai votar nessa, está impedido»).",
+  "Números de processo e valores vêm da legenda automática e podem estar errados (ex.: 299 milhões no item 38).",
+  "ts dos votos de relator são aproximados (leitura do dispositivo)."
+ ]
+}

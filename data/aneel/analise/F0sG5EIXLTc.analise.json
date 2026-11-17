@@ -1,0 +1,296 @@
+{
+ "meta": {
+  "video_id": "F0sG5EIXLTc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34",
+  "data": "2023-09-19",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 (manhã) da 34ª RPO de 2023; interrompida às 13h para retorno às 14h30 com 6 processos pendentes (15, 4, 5, 6, 8 e 24), não cobertos neste vídeo.",
+   "Ata da 33ª RPO aprovada.",
+   "Item 7 retirado de pauta; item 24 com sustentação oral deferida após pedido de vista (não julgado nesta parte)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:15:00",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 9 a 37 (votos disponibilizados previamente), exceto itens 13 e 21 (pedido de vista)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade os itens remanescentes do bloco; pedido de vista dos itens 13 e 21",
+   "resumo_voto": "Cada diretor declara aprovar os itens remanescentes do bloco; um diretor (não identificado) pede vista dos itens 13 e 21; o Diretor-Geral proclama a aprovação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:15:18",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:15:18",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:15:18",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:15:18",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:15:18",
+     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:15:51",
+   "processo": "48500.006869/2022-77",
+   "interessado": "Empresa Luz e Força Santa Maria S.A. (ELFSM), distribuidora, Colatina-ES",
+   "assunto": "Reajuste tarifário anual 2023 da Santa Maria, vigência a partir de 22/09/2023; efeito médio -10,85% (-18,27% AT; -9,50% BT)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste com efeito médio de -10,85%. Relatora destaca a volatilidade causada pelos componentes financeiros (+20% em 2022) e o benefício da Lei 14.300 (subsídio da GD para a CDE). Hélvio nota que a aplicação estrita da norma gera resultados díspares; Sandoval defende parcela A mais dinâmica e critica a incoerência da CDE entre regiões.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:33:00",
+     "justificativa": "Componentes financeiros pesam e geram volatilidade; celebra a redução; benefício da Lei 14.300 para distribuidora pequena.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:08",
+     "justificativa": "Vota por último e proclama; defende tornar a parcela A mais dinâmica para evitar solavancos e aponta incoerência da cota de CDE entre Norte e Sudeste.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:08",
+     "justificativa": "Comenta que a aplicação estrita da lei leva a resultados diferentes por distribuidora (cita Amapá); acompanha.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:08",
+     "justificativa": "Acompanha o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:08",
+     "justificativa": "Acompanha o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:36:57",
+   "processo": "48500.001347/2017-11",
+   "interessado": "ONS, CCEE; SGM",
+   "assunto": "Abertura de consulta pública (21/09 a 06/11/2023) para aprimorar a REN 1.030/2022 e o submódulo 4.5 dos Procedimentos de Rede, representando o programa de resposta da demanda nos modelos de otimização (DESSEM) a partir de 01/01/2024",
+   "tema": [
+    "regulação normativa",
+    "comercialização"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública por intercâmbio documental. Ofertas de resposta da demanda entrariam no modelo de curtíssimo prazo como térmicas fictícias.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:49:00",
+     "justificativa": "Inovação regulatória; modelo respondeu bem à inclusão das ofertas de resposta da demanda.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:11",
+     "justificativa": "Destaca discutir regra estrutural em ambiente de tranquilidade, fora da crise hídrica de 2021; acompanha e proclama.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:11",
+     "justificativa": "Elogia o avanço; trabalhou na norma original (REN 1.040).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:11",
+     "justificativa": "Acompanha o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:54:11",
+     "justificativa": "Acompanha o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:55:20",
+   "processo": "48500.008600/2022-25",
+   "interessado": "Santana Transmissora de Energia Elétrica S.A. (lote 12, leilão de transmissão 4/2018); sustentação oral de Thiago de Barros Correia",
+   "assunto": "Recurso contra o Despacho 3.318/2022 (SRT) que indeferiu requisitos técnicos de reatores monofásicos a seco (núcleo de ar) com perdas acima dos Procedimentos de Rede",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Sustentação oral defendeu interpretação literal do submódulo 2.6 e desempenho superior do reator a seco. Relator: perdas devem ter como referência a potência trifásica; solução unilateral da transmissora sem desempenho equivalente; editais de 2023 explicitam o critério.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:27:06",
+     "justificativa": "Perdas máximas referidas à potência trifásica, entendimento do ONS e da área técnica; a transmissora adotou a solução por sua conta e risco.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:37",
+     "justificativa": "Acompanha o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:37",
+     "justificativa": "Concorda com o relator; edital era explícito sobre a exigência (atribuição provável).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:37",
+     "justificativa": "Com a devida vênia, não concorda com a sustentação oral; precedentes e entendimento técnico ANEEL/ONS; acompanha o relator (atribuição provável).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:37",
+     "justificativa": "Diz que a questão jurídica tem roupagem técnica complexa bem endereçada no voto; acompanha (atribuição provável).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:31:34",
+   "processo": "48500.001747/2020-22",
+   "interessado": "distribuidoras de energia elétrica; ABRADEE (sustentação oral de Wagner Ferreira)",
+   "assunto": "Resultado da CP 5/2021: devolução aos consumidores dos créditos de PIS/Cofins pela exclusão do ICMS da base de cálculo (Lei 14.385/2022); despacho regulamentar e 2ª fase da CP sobre antecipação",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "regulação normativa",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Agnes da Costa; julgamento suspenso",
+   "resumo_voto": "Relator propõe despacho com procedimentos de devolução via componente financeiro, observância do prazo de 5 anos da IN RFB 2.055, 2ª fase da CP (20/09 a 05/11/2023) sobre antecipação remunerada pela Selic, e diverge do Parecer 104/2023 da Procuradoria: admite devolução individual por decisões administrativas das distribuidoras para pedidos até 27/06/2022, com desconto do valor global. ABRADEE pediu retirada de pauta.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:16:00",
+     "justificativa": "Lei 14.385 é constitutiva; direito de petição; decisões administrativas incluem as das distribuidoras, descontadas do montante difuso; diverge do parecer 104/2023 da Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "3:54:12",
+     "justificativa": "Dúvida sobre a individualização da devolução, consumidores que mudam de área e ausência de AIR para mudar entendimento consolidado de tratamento tarifário.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "3:22:07",
+     "justificativa": "Manifestou concordância com o voto, com curiosidade sobre o valor individual percebido pelos consumidores.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "3:25:03",
+     "justificativa": "Elogia o voto; havendo decisão judicial transitada, deve-se devolver ao consumidor; questiona a exequibilidade pela área técnica.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:40:38",
+     "justificativa": "Manifestou muitas dúvidas sobre impacto, factibilidade e solução jurídica da devolução individualizada.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "7",
+   "motivo": "pedido de retirada informado pela Secretaria-Geral"
+  }
+ ],
+ "limites_da_analise": [
+  "O cabeçalho do .md lista Gentil Nogueira, mas a abertura cita os diretores Élvio (Hélvio Guerra), Ricardo, Fernando e Agnes; usado Hélvio Guerra.",
+  "Quem pediu vista dos itens 13 e 21 do bloco não foi identificado.",
+  "Atribuição individual das falas no item 18 e dos votos de acompanhamento é por ordem/contexto; confiança média/baixa.",
+  "Número do processo do item 1 (48500.006869/2022-77) vem da legenda e pode estar errado.",
+  "Itens julgados à tarde (Parte 2) não estão neste vídeo."
+ ]
+}

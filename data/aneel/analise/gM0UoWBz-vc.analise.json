@@ -1,0 +1,411 @@
+{
+ "meta": {
+  "video_id": "gM0UoWBz-vc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "4ª Reunião Pública Ordinária de 2023",
+  "data": "2023-02-14",
+  "formato": "presencial (sede da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Agnes da Costa"
+  ],
+  "ausentes": [
+   "Fernando Mosna (representação institucional; deixou voto escrito no item 1)"
+  ],
+  "observacoes": [
+   "Agnes da Costa chegou após a abertura (quórum inicial de 3) e participou desde o bloco.",
+   "Pauta com 52 itens; 7 a 52 em bloco; retirados 12 e 18; item 14 destacado e depois retirado de pauta pelo Diretor-Geral.",
+   "Ordem: bloco, 4, 2, 5, 1, 6, 14, 3.",
+   "Ata da 3ª RPO de 2023 aprovada.",
+   "Debate recorrente sobre falta de servidores e concurso (Agnes, Hélvio, Sandoval)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 7 a 52)",
+   "ts": "0:08:23",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 7 a 52 (votos disponibilizados previamente; retirados os itens 12 e 18; item 14 destacado por sustentação oral)",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade dos presentes",
+   "resumo_voto": "Bloco aprovado sem leitura de votos.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:08:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco e proclama",
+     "ts": "0:08:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:08:58",
+   "processo": "48500.004742/2021-32",
+   "interessado": "CCEE; agentes do mercado; sustentação oral de Alexandre Lopes (Abraceel)",
+   "assunto": "Abertura da segunda fase da Consulta Pública 11/2022 (monitoramento prudencial do mercado de energia elétrica; manual algébrico da CCEE; duplo flag e registro de contratos iniciado pelo comprador)",
+   "tema": [
+    "comercialização (CCEE, mercado livre)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes (CP de 16/02 a 17/04/2023, prazo incluído depois por retificação do relator)",
+   "resumo_voto": "Instaurar 2ª fase da CP 11/2022 sobre minuta de REN de monitoramento prudencial e manual algébrico da CCEE; determinar à CCEE que em 90 dias proponha alteração dos procedimentos de comercialização (duplo flag; registro iniciado pelo comprador). Apresentação técnica da SRM (Pedro) e sustentação oral da Abraceel em apoio, com ressalvas (cálculo da exposição, liquidez do patrimônio x horizonte de risco).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:34:50",
+     "confianca": "alta",
+     "justificativa": "monitoramento dá segurança ao mercado, mitiga inadimplência; sigilo de dados via solução da CCEE; garantias financeiras (CP 10) virão depois"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:40:29",
+     "confianca": "media",
+     "justificativa": "comentou dúvida sobre o duplo flag opcional, a ser enriquecida na CP"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:40:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:40:32",
+     "confianca": "alta",
+     "justificativa": "framework regulatório para abertura do mercado livre (25% em 2016, 36,4% hoje); período sombra; prudência após defaults na Europa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:41:00",
+   "processo": "48500.007747/2022-06 e 48500.007748/2022",
+   "interessado": "Abrate (Associação Brasileira das Empresas de Transmissão de Energia Elétrica); transmissoras prorrogadas (Lei 12.783/2013) e licitadas",
+   "assunto": "Requerimento da Abrate para postergar a RTP 2023 da RAP das transmissoras prorrogadas e adiamento parcial (reforços e melhorias) da RTP 2023 das licitadas",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Afastar prazos dos submódulos 9.1 e 9.2 do Proret: relatórios até 29/12/2023 ou 30 dias após fim da CP (o que ocorrer por último, corrigido por Hélvio na proclamação); homologação em 01/07/2024; reajuste ordinário no ciclo 2023-24 e parcela de ajuste no ciclo 2024-25 atualizada pela inflação contratual.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:59:00",
+     "confianca": "alta",
+     "justificativa": "concorda com SGT/SRM/SFF/SCT: volume de dados (~24 mil obras, triplo de 2018), discussões normativas pendentes; precedente da RTP 2018"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:06:06",
+     "confianca": "media",
+     "justificativa": "sem objeção de mérito; registro de que a ANEEL precisa de concurso público e mais pessoal para cumprir o calendário de revisões"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:06:06",
+     "confianca": "baixa",
+     "justificativa": "reforça falta de pessoal (quadro ~25% menor) e esforço dos servidores"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:06:13",
+     "confianca": "alta",
+     "justificativa": "adiar revisão pode deixar de capturar eficiência em favor do consumidor; pede recomposição dos quadros das agências"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:09:38",
+   "processo": "48500.006280/2018-92",
+   "interessado": "Esperança Transmissora de Energia S.A.; seguradora J. Malucelli",
+   "assunto": "Excludente de responsabilidade pelo atraso (183 dias) da LT 500 kV Quixadá - Açu III (contrato de concessão 18/2014) e multa editalícia",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (multa, execução de garantia)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Não reconhece excludente (licenciamento Ibama: pedido de LI incompleto, LO pedida 26 dias antes do prazo); aplica multa do edital do Leilão 13/2013 de cerca de R$ 21,99 milhões (out/2022, corrigida pelo IPCA); executa garantia se não pago; advertência descabida pois atraso superior a 90 dias.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:21:35",
+     "confianca": "alta",
+     "justificativa": "gestão contratual da empresa no licenciamento causou o atraso; dosimetria da SFF pondera funções não atrasadas (59,23% da receita atrasou)"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:24:03",
+     "confianca": "media",
+     "justificativa": "mérito já superado; SFF ponderou adequadamente a multa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:24:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:24:07",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:25:10",
+   "processo": "48500.007497/2022-04",
+   "interessado": "Leilão de transmissão 1/2023 (9 lotes, ~R$ 15,8 bi; BA, ES, MG, PE, RJ, SE, SP); sustentação oral de Kleber Davi Bilinowski (Eletrobras)",
+   "assunto": "Aprovação da minuta do edital do Leilão de Transmissão 1/2023 após CP 53/2022 e envio ao TCU",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos presentes (voto escrito do relator ausente lido pelo Diretor-Geral); determinação de ofício aprovada",
+   "resumo_voto": "Aprova edital, RAPs e anexos de 9 lotes, envia ao TCU (IN 81/2018) e determina às concessionárias acessadas que autorizem visitas até 19/06/2023. Eletrobras criticou acréscimo de instalações com mesmo deságio, que as áreas retiraram (item 19 do voto). De ofício: área técnica e Procuradoria em 30 dias estudam incluir custos de promoção dos leilões no reembolso pelos vencedores.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto deixado (lido por Sandoval Feitosa)",
+     "ts": "1:52:42",
+     "confianca": "alta",
+     "justificativa": "acolhe análise da SEL/SCT sobre 237 contribuições da CP 53/2022"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:05:29",
+     "confianca": "baixa",
+     "justificativa": "questionou onde o voto tratava da retirada do acréscimo com deságio; defendeu buscar outro instrumento para custear a divulgação dos leilões"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:05:32",
+     "confianca": "baixa",
+     "justificativa": "apoia a determinação: divulgação aumenta concorrência e deságio; custo deve ser do próprio leilão"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:05:32",
+     "confianca": "baixa",
+     "justificativa": "apoia não perder a janela de 2023 para atrair investidores"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:05:35",
+     "confianca": "alta",
+     "justificativa": "propôs a determinação sobre custos de promoção de leilões (roadshows) para 2023"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:07:22",
+   "processo": "48500.000690/2022-14",
+   "interessado": "Central Geradora Eólica Seridó 2 S.A. (sustentação oral de Guilherme Pereira Baggio); Rio Alto (complexo fotovoltaico Santa Luzia, UFV Santa Luzia 4)",
+   "assunto": "Alteração do anexo da REA 11.262/2022 (DUP para servidão da LT Complexo Eólico Oeste Seridó - SE Santa Luzia 2, RN/PB) por mudança de traçado pedida pelo Ibama",
+   "tema": [
+    "outorgas de geração (eólica, solar)",
+    "transmissão",
+    "declaração de utilidade pública"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes, com ajuste de redação",
+   "resumo_voto": "Altera a DUP; determina à Seridó 2 enviar em 30 dias o projeto da LT à Rio Alto (redação ajustada após discussão) e contratar certificadora independente para avaliar perdas por sombreamento nas UFVs do complexo Santa Luzia, com resultados em 90 dias à Rio Alto para compensação.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (redação ajustada)",
+     "ts": "2:19:30",
+     "confianca": "alta",
+     "justificativa": "conflito entre privados; quem interfere deve compensar perdas; precedentes com hidrelétricas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:34:30",
+     "confianca": "baixa",
+     "justificativa": "questionou a redação do item 2 (comprovar inexistência de interferência) como possível condição de eficácia; sugeriu levar casos assim à mediação (SMA)"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:25:27",
+     "confianca": "media",
+     "justificativa": "DUP visa só agilizar a obra; determinações sobre indenização foram «preciosismo»/esmero, questão entre as partes"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:34:33",
+     "confianca": "alta",
+     "justificativa": "autocomposição é melhor que imposição; excesso de zelo, mas atende o objetivo"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:36:16",
+   "processo": "48500.005411/2020-39",
+   "interessado": "Consumidores de Apiacás/MT (Augusto dos Santos Neto e outros) x Energisa Mato Grosso (sustentação oral de Fabrício Ferreira Neves)",
+   "assunto": "Recurso contra Despacho SMA 806/2021 que arquivou pedido de restituição pela incorporação de rede particular (rede tronco 7,96 kV, 16,5 km)",
+   "tema": [
+    "recursos administrativos",
+    "distribuição (incorporação de redes)",
+    "consumidor"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo Diretor-Geral (sem votação)",
+   "resumo_voto": "Relator votava por dar provimento e determinar incorporação e restituição em 15 dias; Energisa alegou prescrição (incorporação em 2004/2009) com documentos trazidos na véspera; Procuradoria apoiou o relator; Tili questionou se o ativo está na base (BDGD) e risco de pagamento em dobro pelo consumidor; Sandoval retirou de pauta para apurar, manifestando insatisfação com a conduta da Energisa.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, votava por dar provimento (não votado; retirado de pauta)",
+     "ts": "2:56:21",
+     "confianca": "alta",
+     "justificativa": "distribuidora não comprovou propriedade nem prescrição; consumidores em desvantagem técnica"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "3:00:00",
+     "confianca": "media",
+     "justificativa": "dúvida se o ativo já está na base de remuneração/BDGD; se incorporado em 2009, pedido de 2017 estaria prescrito; análise não exaustiva"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "3:15:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "3:14:55",
+     "confianca": "alta",
+     "justificativa": "documentos deveriam estar nos autos; processo ficou 3 anos sem a distribuidora instruí-lo"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:15:24",
+   "processo": "48500.003672/2002-61",
+   "interessado": "CCEE; câmaras arbitrais (FGV, Ciesp/Fiesp, CAM-CCBC)",
+   "assunto": "Homologação da convenção arbitral aprovada na 68ª AGE da CCEE (integra a Convenção de Comercialização; pluralidade de câmaras; suspeição em vez de impedimento) - retorno de vista",
+   "tema": [
+    "comercialização (CCEE)",
+    "regulação normativa",
+    "arbitragem"
+   ],
+   "relator": "Jácomo Francisco Bassi Almeida (ex-diretor; voto condutor subsistente)",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator original com voto-vista de Hélvio Guerra acompanhando; recomendação à SRM registrada em ata",
+   "resumo_voto": "Homologa a convenção arbitral e revoga a REH 531/2007 (mantidos atos e arbitragens em curso). Voto-vista: consulta pública prescindível (ANEEL só analisa legalidade e conveniência); suspeição adequada à Lei de Arbitragem; recomenda à SRM estudar participação dos agentes do ACR nas arbitragens.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "3:18:36",
+     "confianca": "alta",
+     "justificativa": "CP prescindível; na arbitragem a autonomia privada permite tratar impedimento como suspeição; elogia FGV; recomendação à SRM sobre ACR"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto já proferido em 27/09/2022)",
+     "ts": "3:33:37",
+     "confianca": "media",
+     "justificativa": "disse que já havia votado"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (voto já proferido em 27/09/2022; ausente nesta sessão)",
+     "ts": "3:15:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota (sucede o relator Jácomo, cujo voto subsiste)",
+     "ts": "3:15:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:34:00",
+     "confianca": "alta",
+     "justificativa": "convenção não se aplica a conflitos com a ANEEL; pluralidade de câmaras e garantias"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "12",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "18",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "14",
+   "motivo": "retirado pelo Diretor-Geral após sustentação oral da Energisa com documentos novos"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos por busca na legenda (json) e aproximados para votos de seguidores.",
+  "Falas de voto sem nome (eu acompanho/eu também acompanho); atribuição por ordem usual e contexto, confiança baixa para Hélvio, Tili e Agnes em vários itens; no item 4 e 5 só três falas audíveis para quatro presentes.",
+  "Item 3: relator original Jácomo Francisco Bassi Almeida (fora da lista de diretores); votos de Fernando Mosna e Tili proferidos em 27/09/2022, não nesta sessão.",
+  "Nomes ouvidos com erro na legenda: Élvio/Elvis/évo = Hélvio Guerra; Chile/Tile/tilly = Ricardo Tili; Fernando mostra/Mota = Fernando Mosna; Jácomo/diácono.",
+  "Valores e números de processo podem ter erro de legenda (ex.: multa de R$ 21.993.091,50)."
+ ]
+}

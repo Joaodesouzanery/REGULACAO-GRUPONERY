@@ -1,0 +1,58 @@
+{
+ "meta": {"video_id": "yf76WHhUwpI", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "27ª Reunião Pública Ordinária (Parte 2)", "data": "2023-08-01", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); a partir de ~1:15:20 Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili", "Hélvio Guerra"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 (tarde) da 27ª RPO; Hélvio Guerra chegou atrasado (ausente no item 7); Sandoval Feitosa saiu antes dos dois últimos itens para audiência no TCU com o ministro Anastasia (leilão 2/2022, lote 6) e passou a presidência a Hélvio Guerra.", "Resumo final da sessão: 40 processos em pauta, 33 em bloco, 2 retirados, 1 pedido de vista e 1 prorrogação de vista (itens da Parte 1 não estão neste vídeo)."]
+ },
+ "itens": [
+  {"id": "7", "ts": "0:00:11", "processo": "48500.002763/2023-85", "interessado": "Centrais Elétricas Itaparica S.A. (em recuperação judicial; grupo Renova Energia); ONS",
+   "assunto": "Pedido de medida cautelar para suspender a cobrança pelo ONS da multa de encargos rescisórios do CUST 110/2015 da UFV Caetité 5A (retorno de voto-vista)",
+   "tema": ["transmissão", "fiscalização e sanções", "outorgas de geração (solar)", "recursos administrativos"],
+   "relator": "Hélvio Guerra", "resultado": "cautelar negada por unanimidade",
+   "resumo_voto": "Voto-vista acompanha o relator: ausente a fumaça do bom direito; CP 15/2023 (REN 1065/2023) não estendeu a anistia a CUST já rescindidos; multa tem base no item 4.3.11 do módulo 5 das regras de transmissão e no CUST, sem exigir dano; autos à área técnica para o mérito.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, nega a cautelar (voto proferido na 20ª RPO; ausente nesta etapa)", "ts": "0:00:11", "justificativa": "ausente fumaça do bom direito; empreendimento registrado equipara-se ao outorgado", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "voto-vista: acompanha o relator", "ts": "0:13:00", "justificativa": "cautelares protegem direito e não meras expectativas; REN 1065/2023 não incluiu CUST já rescindidos", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (confirma voto)", "ts": "0:14:50", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (mantém voto)", "ts": "0:14:56", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:15:00", "justificativa": "não havia votado na sessão anterior", "confianca": "media"}
+   ]},
+  {"id": "6", "ts": "0:29:09", "processo": "48500.009357/2022-62", "interessado": "Cooperativa de Distribuição e Geração de Energia das Missões (Cermissões); Exponencial Energia Ltda.",
+   "assunto": "Recurso administrativo contra o Despacho 3681/2022 (SRM) que não aprovou o CCVE 1/2022 decorrente de licitação pública (contratação de energia para dez/2022) (retorno de voto-vista)",
+   "tema": ["comercialização (CCEE, PLD, contratos)", "recursos administrativos", "fiscalização e sanções (insuficiência de lastro)", "permissionárias/cooperativas"],
+   "relator": "Agnes da Costa", "resultado": "por maioria, parcial provimento: não aprovar o contrato e não aplicar a penalidade por insuficiência de lastro",
+   "resumo_voto": "Voto-vista de Hélvio Guerra propôs aprovar o contrato com glosa tarifária (só PLD de dez/2022 na tarifa), com a cooperativa arcando com a diferença à comercializadora. Agnes da Costa reformulou o voto: não aprovar o contrato (contratação retroativa, sem antecedência para proteger consumidor regulado) e afastar a penalidade por insuficiência de lastro (~R$ 5 milhões), pois 83% dos consumidores são cooperados. Ricardo Tili defendeu aprovar o contrato integralmente (não via alternativa à permissionária nem infração).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, aprova (voto reformulado: não aprova o contrato e afasta a penalidade)", "ts": "1:12:36", "justificativa": "contrato retroativo; não beneficiar a comercializadora; prefere perdoar a insuficiência de lastro a reconhecer o contrato", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "voto-vista: aprovar o contrato com glosa tarifária ao PLD (proposta não acolhida); voto final incerto", "ts": "0:29:30", "justificativa": "não onerar o cooperado-consumidor; cooperativa se comprometeu a pagar a diferença à Exponencial", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:13:17", "justificativa": "foco na relação cooperativa-consumidor, não na comercializadora", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "diverge: aprovar o contrato (vencido)", "ts": "1:13:22", "justificativa": "a permissionária não tinha outra alternativa; registrou até o 6º dia útil; área nebulosa para penalidade de R$ 5 milhões", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:14:24", "justificativa": "consumidor tem de estar protegido; permissionária submetida às regras do mercado regulado", "confianca": "baixa"}
+   ]},
+  {"id": "2", "ts": "1:16:03", "processo": "48500.006850/2022-21", "interessado": "EDP Espírito Santo Distribuição de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2023 da EDP Espírito Santo, vigência a partir de 7/8/2023, efeito médio 3,55% (AT 0,46%; BT 4,80%)",
+   "tema": ["tarifas e revisão tarifária"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Homologa tarifas, TUSD, receita das DIT e valor mensal da CDE para subsídios; apresentação técnica da servidora Ana Paula.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:27:40", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:28:41", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:28:41", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (presidente substituto, proclama)", "ts": "1:28:41", "confianca": "media"}
+   ]},
+  {"id": "5", "ts": "1:29:33", "processo": "48500.000417/2019-86", "interessado": "Amazonas Energia S.A.",
+   "assunto": "Requerimento para alterar a data da primeira revisão tarifária ordinária do contrato de concessão 1/2019; termo aditivo para refletir a Nota Informativa 46/2018 do MME",
+   "tema": ["tarifas e revisão tarifária", "regulação de contratos de concessão"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova termo aditivo: reajustes em 26 de maio a partir de 2025, primeira RTP em 26/5/2024, sem processo ordinário em 2023; segue despacho 1017/2023 da Procuradoria (5 anos de flexibilização contados com 45 dias após assinatura, como no contrato da Equatorial Alagoas).",
+   "votos": [
+    {"diretor": "não identificado", "voto": "relator, aprova", "ts": "1:30:00", "justificativa": "concessionária faz jus aos 5 anos integrais de flexibilização; nenhuma norma afasta os 45 dias sem deságio", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:47:30", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:47:33", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (presidente substituto, proclama)", "ts": "1:47:35", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Só a Parte 2 da 27ª RPO; marcadores de tempo escassos no .md, ts obtidos da legenda e aproximados.", "Item 7: quem leu o voto-vista não é nomeado; inferido como Sandoval Feitosa (presidia e citou Agnes e Fernando como votantes anteriores).", "Item 6: votação confusa na legenda ('eu também voto acompanhando a diretora Agnes... nós não temos decisão... imaginando que o Ricardo'); atribuição de Ricardo Tili como vencido e do voto final de Hélvio Guerra/Sandoval Feitosa é incerta; proclamação 'por maioria'.", "Item Amazonas Energia: relator(a) não nomeado na legenda ('diretor relatora'); votos dos demais (Agnes da Costa, Fernando Mosna, Ricardo Tili, menos o relator) não atribuíveis; Sandoval Feitosa ausente.", "Números de item (7, 6, 2, 5) conforme apregoados; números de processo podem ter erro da legenda."]
+}

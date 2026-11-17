@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "uG706mlhT_c", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª Reunião Pública Extraordinária de 2023", "data": "2023-12-21", "formato": "híbrido (Ricardo Tili remoto)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Quórum de três diretores declarado na abertura; pauta com item único.", "Item deliberado por unanimidade; próxima reunião ordinária prevista para 23/01/2024."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:02:50",
+      "processo": "48500.007768/2022-13", "interessado": "EMAE - Empresa Metropolitana de Águas e Energia S.A.",
+      "assunto": "Análise da relação de bens reversíveis ainda não amortizados ou depreciados (REN 1.027/2022) das usinas do complexo Henry Borden, Porto Góes e Rasgão, para indenização (MP 579/2012, Lei 12.783/2013, Decreto 7.850/2012)",
+      "tema": ["outorgas de geração (hidrelétrica)", "indenização de bens reversíveis", "fiscalização"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Corrobora valores apurados pela fiscalização (SFF/SGM, Nota Técnica 233/2023): base de remuneração regulatória bruta de cerca de R$ 475,8 milhões e líquida de cerca de R$ 281,8 milhões; autos enviados ao MME para reconhecimento da indenização. Sem sustentação oral; processo não passou pela Procuradoria.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:15:00", "justificativa": "valores validados em fiscalização; exclusão de itens não elegíveis como bens reversíveis; correções de IPCA e depreciação atendidas pela EMAE; explica que a demora decorre de ativos posteriores ao projeto básico, que exigem laudo", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:21:16", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:21:18", "justificativa": "elogia o trabalho técnico e o esforço do relator de pautar ainda em 2023, dada a importância para o Governo do Estado de São Paulo", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: valores monetários citados de forma confusa (bruta ~R$ 475,8 mi, líquida ~R$ 281,8 mi); confira na ata.", "As duas falas 'acompanho' não têm nome; atribuídas pela ordem usual (Ricardo Tili antes do Diretor-Geral), confiança media; resultado confirmado pela proclamação unânime."]
+}

@@ -1,0 +1,896 @@
+{
+ "meta": {
+  "video_id": "joud2oKgjgg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados por busca no json da transcrição",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31",
+  "data": "2022-08-23",
+  "formato": "presencial (sustentação oral por vídeo)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "31ª Reunião Pública Ordinária de 2022; pauta com 53 itens; itens 13 a 53 em bloco.",
+   "Itens 19, 20, 21, 26, 28 e 42 retornaram de vista do ex-diretor Efraim (fim de mandato), já em fase de votação.",
+   "Vistas: Hélvio Guerra no item 20 (Renova) e Ricardo Tili no item 42.",
+   "Secretaria comunica que a partir da próxima reunião sustentações orais e apresentações técnicas serão presenciais."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:20",
+   "processo": "itens 13 a 53 (exceto destacados 16, 19, 20, 21, 26, 28, 29 e 42)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 13 a 53 da pauta, com votos disponibilizados previamente",
+   "tema": [
+    "votação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, salvo item 52 (Ricardo Tili impedido)",
+   "resumo_voto": "Itens remanescentes do bloco aprovados; Ricardo Tili declarou-se impedido no item 52.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco, impedido no item 52",
+     "ts": "0:06:53",
+     "confianca": "alta",
+     "justificativa": "declara-se impedido no item 52"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:07:02",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "0:07:23",
+   "processo": "48500.001093/2019-20 (número incerto)",
+   "interessado": "Interligação Elétrica Norte e Nordeste S.A. (IENNE) - transmissora",
+   "assunto": "Recurso contra Despacho SRT 2.719/2019 que negou isenção de parcela variável por indisponibilidade (PVI) pelo desligamento da LT 500 kV Ribeiro Gonçalves - São João do Piauí C2 em 26/07/2018",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos Silva (ex-diretora; voto proferido antes)",
+   "resultado": "provido por unanimidade dos votantes (5 votos incluindo o de Elisa Bastos); Agnes da Costa não vota",
+   "resumo_voto": "Processo retornou de vista do ex-diretor Efraim; desligamento considerado caso fortuito/força maior (indícios de sabotagem); ONS deve apurar indisponibilidade observando art. 16 da REN 729/2016.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:08:51",
+     "confianca": "media",
+     "justificativa": "destaca evidências de ato de sabotagem (fósforo, maçarico)"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:09:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora",
+     "ts": "0:09:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:09:50",
+     "confianca": "alta",
+     "justificativa": "dúvida sobre semelhança com evento na privatização da companhia do Piauí; indícios de sabotagem"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota (participou da instrução como superintendente, por memorando)",
+     "ts": "0:07:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:11:18",
+   "processo": "48500.003795/2022-55 e outros (número incerto)",
+   "interessado": "Renova Energia S.A. - geradora",
+   "assunto": "Recurso contra despachos SCG que indeferiram emissão de DRO para centrais eólicas e fotovoltaicas (11 UFVs/EOLs)",
+   "tema": [
+    "outorgas de geração",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista de Hélvio Guerra; julgamento suspenso",
+   "resumo_voto": "Relator havia votado (maio/2022) por negar provimento considerando o histórico da interessada; representante da Renova tentou sustentação oral sobre fato novo (redução do escopo pela metade), indeferida por estar em fase de votação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento (voto anterior)",
+     "ts": "0:11:50",
+     "confianca": "media",
+     "justificativa": "histórico da interessada"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:12:14",
+     "confianca": "alta",
+     "justificativa": "levando em conta o histórico da interessada; mantém indeferimento da sustentação oral"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "suspeito/impedido (arguiu suspeição)",
+     "ts": "0:13:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista (já havia votado com o relator)",
+     "ts": "0:14:30",
+     "confianca": "alta",
+     "justificativa": "considerando as observações sobre fato novo trazidas pela interessada"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não vota",
+     "ts": "0:11:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "0:14:46",
+   "processo": "48500.007592/2021-11 (número incerto)",
+   "interessado": "ISA CTEEP - Companhia de Transmissão de Energia Elétrica Paulista",
+   "assunto": "Recurso contra despacho SRT que negou isenção de PVI pelo desligamento da LT Oeste - Bauru C2 em 07/11/2020 atribuído a queda de balão tripulado",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "provido por unanimidade dos 4 votantes (Sandoval, Elisa Bastos, Hélvio e Fernando)",
+   "resumo_voto": "Conhecer e dar provimento, reformando despacho SRT para isentar a PVI.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá provimento e proclama",
+     "ts": "0:16:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (voto anterior)",
+     "ts": "0:14:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota",
+     "ts": "0:15:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não vota",
+     "ts": "0:14:46",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "0:19:47",
+   "processo": "48500.005198/2017-10 e outros (número incerto)",
+   "interessado": "Energimp / Nova Eólica (Garças, Lagoa Seca, Vento do Oeste, Ventos de Santa Rosa, Santo Inácio, São Geraldo, São Sebastião)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra despachos de 2019 que aplicaram multa a titulares de outorga de centrais eólicas",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz (ex-diretor; voto proferido antes)",
+   "resultado": "negado provimento por unanimidade (votantes: Fernando, Ricardo, Sandoval, além de Elisa Bastos)",
+   "resumo_voto": "Mantidas as penalidades, inclusive desligamento de empresas do quadro de agentes da CCEE.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:20:40",
+     "confianca": "media",
+     "justificativa": "negar provimento"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:20:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:21:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota",
+     "ts": "0:20:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não vota (ocupa a cadeira do relator)",
+     "ts": "0:20:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "0:22:16",
+   "processo": "48500.002900/2020-28 (número incerto)",
+   "interessado": "Centrais Elétricas de Sergipe S.A. (CELSE) - UTE Porto de Sergipe I",
+   "assunto": "Requerimento para não aplicação de penalidades da CCEE (cláusulas 5.8 e 5.8.1 dos CCEARs)",
+   "tema": [
+    "comercialização",
+    "outorgas de geração"
+   ],
+   "relator": "Cristiano Vieira da Silva (ex-diretor; voto proferido antes)",
+   "resultado": "deferido por unanimidade",
+   "resumo_voto": "Suspender penalidades e determinar à CCEE a restituição dos valores pagos.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:23:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:23:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:23:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota",
+     "ts": "0:22:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não vota",
+     "ts": "0:22:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "0:24:44",
+   "processo": "48500.005620/2021-39 (número incerto)",
+   "interessado": "Rovema Energia S.A. (nome incerto) - UTE em Gaspar/SC",
+   "assunto": "Alteração de características técnicas de usina termelétrica em Gaspar/SC",
+   "tema": [
+    "outorgas de geração"
+   ],
+   "relator": "Elisa Bastos Silva (ex-diretora; voto proferido antes)",
+   "resultado": "pedido de vista de Ricardo Tili",
+   "resumo_voto": "Relatora votou por permitir a alteração; Hélvio já havia acompanhado.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (voto anterior)",
+     "ts": "0:24:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:25:20",
+     "confianca": "media",
+     "justificativa": "acompanhamento de empreendimentos pode futuramente levar à perda do objeto, mas sem conclusão final permite a alteração"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "0:25:55",
+     "confianca": "alta",
+     "justificativa": "trará nas próximas reuniões junto com outro processo relacionado"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota",
+     "ts": "0:24:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:26:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:26:23",
+   "processo": "48500.003869/2021-34 (número incerto)",
+   "interessado": "13 proponentes vencedoras do Leilão de Transmissão 1/2022",
+   "assunto": "Homologação do resultado e adjudicação do objeto do Leilão de Transmissão nº 1/2022 (13 lotes, cerca de 5.425 km de LT, investimento estimado R$ 15,3 bi)",
+   "tema": [
+    "leilões",
+    "transmissão"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologar resultado e adjudicar a todas as vencedoras habilitadas; deságio médio elevado; apresentação de André Tiburtino (SEL).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:45:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:39:30",
+     "confianca": "alta",
+     "justificativa": "leilão de sucesso; deságio médio alto; atende demanda de escoamento fotovoltaico no norte de Minas"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:30",
+     "confianca": "media",
+     "justificativa": "trabalhou no processo; destaca aprimoramentos que qualificam participantes (garantias, endividamento, custeio de estudos)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:46:06",
+   "processo": "48500.003566/2021-11 e 48500.002245/2022-66 (números incertos)",
+   "interessado": "Cooperativa Aliança (Cooperaliança) - distribuidora, SC",
+   "assunto": "Revisão tarifária periódica 2022 da Cooperaliança (efeito médio 6,24%) e limites DEC/FEC 2023-2027",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa RTP com efeito médio de 6,24% (3,46% AT; 8,16% BT); subvenção da Lei 14.299; perdas não técnicas de 0,28%.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:19:52",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:07:26",
+     "confianca": "alta",
+     "justificativa": "rito seguido; efeito reduzido pela Lei 14.299 frente à consulta pública"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:19:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:19:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:19:48",
+     "confianca": "media",
+     "justificativa": "destaca baixos níveis de perdas e DEC/FEC da distribuidora"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:20:42",
+   "processo": "48500.006003/2022-39 (número incerto)",
+   "interessado": "Equatorial Alagoas - distribuidora",
+   "assunto": "Revisão tarifária extraordinária 2022 em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantidas as tarifas da REH 3.033/2022: não há recursos passíveis de reversão por haver ação rescisória da União em curso.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:30:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:29:08",
+     "confianca": "alta",
+     "justificativa": "valores controversos sob ação rescisória; eventuais valores serão considerados em processos futuros"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:31:07",
+   "processo": "48500.004932/2021-23 (número incerto)",
+   "interessado": "Elektro Redes S.A. - distribuidora (SP/MS)",
+   "assunto": "Reajuste tarifário anual 2022 da Elektro (efeito médio 15,77%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 15,77% (23,76% AT; 11,61% BT), atenuado pela devolução de PIS/Cofins.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:45:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:42:53",
+     "confianca": "alta",
+     "justificativa": "rito cumprido; devolução de PIS/Cofins reduziu o efeito"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:46:21",
+   "processo": "48500.004952/2021-31 (número incerto)",
+   "interessado": "Energisa Paraíba - distribuidora",
+   "assunto": "Reajuste tarifário anual 2022 da Energisa Paraíba (efeito médio 1,03%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 1,03% (3,49% AT; 0,34% BT); crédito de PIS/Cofins com impacto de cerca de -10%.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:55:11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:53:40",
+     "confianca": "alta",
+     "justificativa": "apresentação técnica da SGT"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:55:51",
+   "processo": "48500.004952/2022 (número incerto)",
+   "interessado": "Equatorial Maranhão - distribuidora",
+   "assunto": "Reajuste tarifário anual 2022 da Equatorial Maranhão (efeito médio 1,62%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 1,62% (3,68% AT; 1,23% BT); devolução de PIS/Cofins de cerca de 18%; pedido da distribuidora de alterar cobertura do risco hidrológico não acolhido (falta de isonomia).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:30:33",
+     "confianca": "alta",
+     "justificativa": "alerta para efeito rebote de PIS/Cofins e necessidade de discussão estrutural da tarifa (subsídios, CDE, Itaipu)"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:10:05",
+     "confianca": "alta",
+     "justificativa": "não atender pedido de alterar previsão do risco hidrológico: tratamento não isonômico"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:30:25",
+     "confianca": "media",
+     "justificativa": "propõe refletir sobre margem de flexibilização para diluir componentes financeiros muito elevados"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:31:12",
+   "processo": "48500.004962/2021-77 (número incerto)",
+   "interessado": "Empresa Força e Luz João Cesa - distribuidora, Siderópolis/SC",
+   "assunto": "Reajuste tarifário anual 2022 da João Cesa (efeito médio 5,54%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 5,54% (0,69% AT; 7,26% BT); data de vigência corrigida para 29/08/2022 na proclamação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:44:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:42:01",
+     "confianca": "alta",
+     "justificativa": "rito seguido; Lei 14.299"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:44:50",
+   "processo": "48500.004294/2022-58 (número incerto)",
+   "interessado": "distribuidoras (projeto de governança CPFL Paulista e outras 31)",
+   "assunto": "Abertura da 1ª chamada pública de sandboxes tarifários (REN 966/2021)",
+   "tema": [
+    "regulação normativa",
+    "tarifas e revisão tarifária",
+    "inovação / P&D"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado (proclamação sem menção explícita a unanimidade; todos acompanharam)",
+   "resumo_voto": "Aviso de chamada pública de 120 dias; prioridade para modalidades tarifárias de baixa tensão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:10:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:35",
+     "confianca": "media",
+     "justificativa": "uso prático de recursos de P&D e envolvimento da academia"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "3:05:02",
+     "confianca": "alta",
+     "justificativa": "experimentação controlada antes de mudar o modelo tarifário da baixa tensão"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:35",
+     "confianca": "media",
+     "justificativa": "prioridade à baixa tensão serve de preparação para abertura do mercado"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:11:09",
+   "processo": "48500.006714/2022-31 (número incerto)",
+   "interessado": "Norte Brasil Transmissora de Energia S.A. (NBTE)",
+   "assunto": "Cumprimento de parecer de força executória: alteração da parcela de ajuste da REH 3.067/2022 para pagar receita de 562 dias de atraso (LT 600 kV Coletora Porto Velho - Araraquara 2)",
+   "tema": [
+    "transmissão",
+    "institucional / judicial"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inclui primeira parcela (cerca de R$ 270 milhões; valor exato incerto na legenda) em 10 parcelas set/2022-jun/2023; segunda parcela no ciclo seguinte; ANEEL recorrerá ao STJ.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:28:00",
+     "confianca": "alta",
+     "justificativa": "decisão afronta a regulação por incentivos (licenciamento é risco do transmissor); procuradoria deve ser combativa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:41",
+     "confianca": "media",
+     "justificativa": "oferece apoio institucional à procuradoria nas instâncias judiciais"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:20:29",
+     "confianca": "alta",
+     "justificativa": "cumprimento obrigatório de decisão judicial do TRF-1"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "3:29:35",
+   "processo": "48500.004872/2021-86 (número incerto)",
+   "interessado": "Centrais Elétricas do Rio Jordão S.A. (Elejor) - Complexo Fundão-Santa Clara",
+   "assunto": "Pedido de troca do IGP-M pelo IPCA no reajuste do Uso do Bem Público (UBP)",
+   "tema": [
+    "outorgas de geração",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade, com encaminhamento ao MME",
+   "resumo_voto": "Sustentação oral por vídeo de Adriana de Paula (Copel/Elejor); ANEEL sem competência para alterar índice fixado em portaria do MME; processo enviado ao Ministério.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:48:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:47:35",
+     "confianca": "alta",
+     "justificativa": "reconhece possível desequilíbrio, mas competência é do MME (Portaria 147/2006)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:48:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:49:07",
+   "processo": "48500.006518/2022-66 (número incerto)",
+   "interessado": "Air Liquide Brasil Ltda. (consumidor livre) x Light",
+   "assunto": "Requerimento de recontabilização de outubro/2020 na CCEE por ajuste de medição; destacado do bloco para ajuste do dispositivo",
+   "tema": [
+    "comercialização",
+    "fiscalização e sanções",
+    "distribuição e qualidade"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "provido por unanimidade, com ajuste no dispositivo",
+   "resumo_voto": "Itens a, b, c mantidos; SFE deve incluir em sua agenda a avaliação do procedimento da Light em ajustes de medição com SMF indisponível (no lugar de instaurar fiscalização específica).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:53:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:50:30",
+     "confianca": "alta",
+     "justificativa": "ajuste acordado com a SFE para fiscalização mais ampla"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:55",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "10",
+  "11",
+  "12"
+ ],
+ "limites_da_analise": [
+  "A legenda transcreve a diretora como «Giácomo», «já como», «de arco» e «Jackson Francisco bacia Almeida»; identificada como Agnes da Costa (única diretora da lista compatível em ago/2022). O cabeçalho do .md listava Gentil Nogueira, que não aparece na fala; tratado como erro de inferência.",
+  "Relatores de votos anteriores (Elisa Bastos Silva, Júlio César Rezende Ferraz, Cristiano Vieira da Silva) e o ex-diretor Efraim não estão na lista do config; registrados como ditos.",
+  "Atribuição individual de 'acompanho' sem nome segue a ordem usual; votos de não relatores marcados pela proclamação com confiança media/baixa.",
+  "Números de processo e valores (ex.: parcela NBTE ~R$ 270 milhões) estão truncados na legenda; marcados como incertos.",
+  "Item 20: suspeição arguida aparentemente pela diretora Agnes da Costa (fala sem nome); confiança media.",
+  "Itens 19, 21, 26, 28 e 42: votos de ex-diretores contam no quórum mas não estão listados em votos[]."
+ ]
+}

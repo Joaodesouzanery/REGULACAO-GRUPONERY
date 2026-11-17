@@ -1,0 +1,535 @@
+{
+ "meta": {
+  "video_id": "F5H2cjt_RxM",
+  "fonte": "legenda automática do YouTube; .md sem marcadores intermediários (ts calculados pela transcrição .json); ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34",
+  "data": "2022-09-13",
+  "formato": "presencial (Parte 1, manhã)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Giácomo Almeida"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 da 34ª RPO de 2022; interrompida às ~3:46 para almoço, retorno às 14h30 (itens 7, 10-13, 16, 18, 19 ficam para a parte 2).",
+   "Quórum de cinco diretores. Retirados de pauta pela SG: itens 5, 6, 10, 31 e 50 (leitura incerta). Pedido de sustentação no item 11 (retorno de vista) indeferido.",
+   "DG esclareceu que multas editalícias de transmissão são destinadas à CDE."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:09",
+   "processo": "itens 20 a 55 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos disponibilizados previamente), exceto destaque do item 23 e retirados",
+   "tema": [
+    "institucional/bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem leitura.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:08:20",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:08:20",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:08:20",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:08:20",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "aprova o bloco",
+     "ts": "0:08:20",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "0:08:46",
+   "processo": "48500.004962/2019-6 (incerto)",
+   "interessado": "Equatorial Piauí Distribuição de Energia S.A.",
+   "assunto": "Recurso administrativo contra o Despacho 3249/2020 da SRT que indeferiu aumento/flexibilização do MUST nos pontos da SE Boa Esperança (jun-out/2020), mantendo apuração de ultrapassagens (REN 666/2015)",
+   "tema": [
+    "transmissão (MUST, pontos de conexão)",
+    "recursos administrativos",
+    "fiscalização e sanções (ultrapassagem)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Sustentação oral de Lucas Custódio Santos (Equatorial Piauí). Relator: distribuidora foi notificada pelo ONS e era responsável pelas instalações de conexão; não pediu aumento de MUST com 90 dias de antecedência; caso Celpa não é precedente idêntico. Hélvio lembrou precedente da Equatorial Maranhão (Despacho 609/2022) na mesma subestação; Sandoval esclareceu com a SRT que o MUST ficou zerado no ponto antigo.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:30:00",
+     "justificativa": "Recorrente foi notificada e responsável pela implantação da conexão; deveria pedir aumento de MUST com antecedência mínima de 90 dias (art. 3º §2º REN 666/2015); isonomia e segurança jurídica impedem flexibilizar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:34:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:34:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:34:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:34:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:34:27",
+   "processo": "48500.000720/2020-23; 48500.000754/2029-73 (números incertos)",
+   "interessado": "ERTE - Empresa Regional de Transmissão de Energia S.A.",
+   "assunto": "Requerimento administrativo contra as REH 2705/2020 e 2725/2020 (revisão tarifária periódica da RAP; revisão retroativa da RAP do reforço banco de capacitores série 230 kV, SE Castanhal, REA 2028/2009, reposicionamento de -42,45%)",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Giácomo Almeida",
+   "resultado": "pedido de vista (Hélvio Guerra); julgamento suspenso",
+   "resumo_voto": "Sustentação oral de Juliana (advogada da ERTE): ausência de cláusula contratual para revisar RAP de reforço e decadência (art. 54 Lei 9.784). Procuradoria (parecer 195/2022): REA 2028 previa revisão; não há decadência, aplica-se prescrição decenal. Relator acolhe o requerimento como pedido de invalidação e nega. Sandoval reforçou que revisão é obrigação legal e que a tese obrigaria a não fazer revisões positivas dos demais. Hélvio concentrou dúvida na prescrição e pediu vista.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "relator, aprova (nega o requerimento)",
+     "ts": "0:45:00",
+     "justificativa": "Revisão de RAP de reforços prevista na REA 2028/2009 e na lei; sem decadência; revisão de 2020 abrangeu 27 contratos, com resultados para mais ou para menos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:34:23",
+     "justificativa": "Antes da vista, manifestou-se em linha com o relator e o procurador: revisão é previsão legal e o ato autorizativo dizia que o valor era provisório; concedeu a vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "1:34:23",
+     "justificativa": "Concorda que há previsão de revisão, mas a questão central para ele é a prescrição; quer examinar antes de votar.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (antes da vista; atribuição incerta)",
+     "ts": "1:34:11",
+     "justificativa": "Fala sem nome: «acompanho o voto do relator» antes do pedido de vista.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "1:34:23",
+     "justificativa": "Sem voto audível antes da vista.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:34:30",
+   "processo": "48500.002268/2016-47 (incerto)",
+   "interessado": "Cooperativa de geração compartilhada (Congecom?) / Energias Renováveis MASP Ltda.",
+   "assunto": "Requerimento administrativo contra o Despacho 3781/2021 (registro da CGH Generoso; revisão de inventário; possível PCH)",
+   "tema": [
+    "outorgas de geração (hidrelétrica, CGH/PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator após a sustentação oral",
+   "resumo_voto": "Houve sustentação oral. Relator retirou o processo para examinar a legitimidade da cooperativa para pedir, divergindo inicialmente da Procuradoria. Fernando Mosna antecipou pontos: natureza de pedido de reconsideração x requerimento, tempestividade, cláusula de eficácia do inciso IV da decisão de 2021 (aprovação da revisão do inventário) e se são duas casas de força no mesmo eixo.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "retira de pauta (relator)",
+     "ts": "1:58:54",
+     "justificativa": "Quer analisar com mais detalhe a possibilidade de a cooperativa formular o pedido e a questão do eixo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (retirado)",
+     "ts": "1:59:30",
+     "justificativa": "Adiantou considerações para a reanálise (legitimidade, tempestividade, inventário, eixo único).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:02:10",
+   "processo": "48500.006210/2014-19 (incerto)",
+   "interessado": "geradores hidrelétricos (repactuação do risco hidrológico, ACR)",
+   "assunto": "Resultado da Audiência Pública 36/2018: alteração da REN 684/2015 para permitir troca do produto contratado na repactuação do risco hidrológico (ACR)",
+   "tema": [
+    "regulação normativa (audiência pública)",
+    "comercialização (risco hidrológico, GSF)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "não alterar a REN 1009/2022 e encaminhar ao MME a análise de resultado regulatório; unanimidade",
+   "resumo_voto": "Relator conclui pela não alteração e envio ao MME, responsável pela política setorial.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:10:00",
+     "justificativa": "Não alterar a norma; encaminhar ao MME a análise de resultado regulatório da SRM/SRG sobre repactuação do risco hidrológico.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:25:45",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:45",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:45",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:25:45",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:26:31",
+   "processo": "48500.006617/2022-48 (incerto)",
+   "interessado": "CCEE",
+   "assunto": "Abertura de consulta pública: aprimoramento das Regras de Comercialização versão 2023",
+   "tema": [
+    "comercialização (CCEE, regras)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "consulta pública de 45 dias instaurada; unanimidade",
+   "resumo_voto": "Relator propõe CP com minuta de REN e módulos enviados pela CCEE.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:30:00",
+     "justificativa": "Abrir CP de 45 dias sobre as Regras de Comercialização 2023.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:43:01",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:01",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:01",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:01",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:43:40",
+   "processo": "48500.003718/2022-67 (incerto)",
+   "interessado": "distribuidoras / consumidores",
+   "assunto": "Abertura de consulta pública: AIR e minuta alterando REN 1000/2021, anexo da REN 956/2021 e Módulo 11 do PRODIST sobre uso do PIX para pagamento de faturas",
+   "tema": [
+    "distribuição (faturamento, PIX)",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "consulta pública de 45 dias instaurada; unanimidade",
+   "resumo_voto": "Apresentação da área técnica; acordo de cooperação com o Banco Central (2020).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:45:00",
+     "justificativa": "Padronizar oferta do PIX como meio de pagamento das faturas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:09:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:05",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:09:59",
+   "processo": "48500.001825/2018-74 (incerto)",
+   "interessado": "ONS / CCEE / agentes",
+   "assunto": "Abertura de consulta pública (intercâmbio documental) para revisão da REN 843/2019 (PMO e formação do PLD)",
+   "tema": [
+    "comercialização (PLD)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Giácomo Almeida",
+   "resultado": "consulta pública aberta (15/09 a 14/11/2022); unanimidade",
+   "resumo_voto": "Apresentação da área técnica sobre a revisão da REN 843/2019 (consolidada na REN 1032/2022).",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "relator, aprova",
+     "ts": "3:11:00",
+     "justificativa": "Abrir CP para revisar critérios do PMO e formação do PLD.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:29:20",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:20",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:20",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:29:20",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "3:30:12",
+   "processo": "48500.003697/2017 (incerto)",
+   "interessado": "ATE 23 Transmissora de Energia S.A. (incerto)",
+   "assunto": "Pedido de reconsideração contra o Despacho 997/2022: multa editalícia (Leilão 1/2014, lote B) de cerca de R$ 119,9 milhões, 10% do investimento do Contrato de Concessão 15/2014",
+   "tema": [
+    "fiscalização e sanções (multa editalícia, caducidade)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "conhecido e negado provimento; unanimidade",
+   "resumo_voto": "Inexecução do empreendimento de transmissão; multa mantida (destinação à CDE esclarecida na abertura).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:31:00",
+     "justificativa": "Multa editalícia mantida por inexecução do contrato.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:36:23",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:23",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:23",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:36:23",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:36:58",
+   "processo": "48500.003693/2017-34 (incerto)",
+   "interessado": "ATE 19 Transmissora de Energia S.A. (incerto)",
+   "assunto": "Pedido de reconsideração contra despacho que aplicou multa editalícia (Leilão 1/2013) de cerca de R$ 89,3 milhões, 10% do investimento do Contrato 9/2013",
+   "tema": [
+    "fiscalização e sanções (multa editalícia, caducidade)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e negado provimento; unanimidade",
+   "resumo_voto": "Caso idêntico ao item 8; Hélvio criticou a saída da empresa espanhola do país e disse que a caducidade e a penalidade foram bem aplicadas.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:37:30",
+     "justificativa": "Caso idêntico ao item 8; penalidade e caducidade bem aplicadas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:45:54",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:54",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:54",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:54",
+     "justificativa": "Acompanhou o relator; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5",
+  "6",
+  "10 (incerto)",
+  "31",
+  "50",
+  "15 (retirado pelo relator na sessão)"
+ ],
+ "limites_da_analise": [
+  "Giácomo Almeida (diretor da época, cumprimentado como «diácomo»; relator citado como «já com Francisco Almeida») não está na lista do config; nome registrado como dito/inferido.",
+  "Agnes da Costa, Willamy, Ludimila e Gentil não estavam na diretoria em set/2022.",
+  "Votos dos seguidores atribuídos pela proclamação de unanimidade, sem nomes audíveis (confiança média).",
+  "Item 14: quem disse «acompanho» antes da vista é incerto (atribuído a Ricardo Tili com confiança baixa); Fernando Mosna sem voto audível.",
+  "Números de processo distorcidos pela legenda automática."
+ ]
+}

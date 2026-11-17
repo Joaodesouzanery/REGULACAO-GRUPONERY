@@ -1,0 +1,214 @@
+{
+ "meta": {
+  "video_id": "KyRsVxXSneE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "43",
+  "data": "2022-11-16",
+  "formato": "presencial (parte 2, tarde)",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Alessandro (não identificado)"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (não mencionado; Hélvio preside como DG substituto)"
+  ],
+  "observacoes": [
+   "Parte 2 da 43ª RPO; abertura fala em 48ª, mas encerramento diz quadragésima terceira.",
+   "Secretário-geral informa: 42 processos na pauta, 35 em bloco, 3 retirados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "13",
+   "ts": "0:00:21",
+   "processo": "48500.003551/2021-53",
+   "interessado": "Companhia Melhoramentos de São Paulo (recorrente); Brix Empreendimentos Imobiliários Ltda.; CPFL Renováveis",
+   "assunto": "Recurso administrativo contra o Despacho 2562/2021 da SCG que conferiu à Brix o DRI-PCH da PCH Tombo (rio Jaguari, Camanducaia/MG). Sustentação oral de Maximiliano Gomes Mendes pela Companhia Melhoramentos.",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e, no mérito, negado provimento, por unanimidade",
+   "resumo_voto": "Relator acompanha a SCG: garantia de registro e potência compatíveis com os estudos de inventário aprovados; critério de prioridade do primeiro protocolo (REN 875).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "0:14:07",
+     "confianca": "alta",
+     "justificativa": "acompanha a SCG, que refutou os pontos do recurso (valor da garantia e potência) com base no inventário aprovado"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:14:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:14:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro (não identificado)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:14:51",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:15:39",
+   "processo": "48500.008205/2022-42",
+   "interessado": "Renova Energia S.A. (requerente); Ventos de São Severino Energias Renováveis S.A. / Casa dos Ventos",
+   "assunto": "Pedido de medida cautelar da Renova para suspender o DRO das EOLs Ventos de São Severino 1 a 9 (Mirangaba e Jacobina/BA), área coincidente com o projeto Graúna. Sustentação oral de Humberto (Renova), que pediu arquivamento por desistência e perda de objeto.",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "medida cautelar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento à cautelar, por unanimidade; relator retirou do dispositivo o item 2 (determinação à SCG de avaliar o requerimento) após debate",
+   "resumo_voto": "Relator não acolheu a desistência protocolada após a publicação da pauta, para evitar instrumentalização da agência em litígio judicial; ausente o fumus boni iuris (disputa privada sobre arrendamentos não sobrestá outorga). Hélvio e Ricardo questionaram a determinação à SCG, dado que o DRO já expirara; relator retirou o item 2.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega a cautelar (com ajuste: retira item 2 do dispositivo)",
+     "ts": "0:19:47",
+     "confianca": "alta",
+     "justificativa": "desistência após pauta publicada não afasta o exame; disputa judicial privada sobre arrendamento não configura probabilidade do direito"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator com os ajustes",
+     "ts": "1:00:18",
+     "confianca": "media",
+     "justificativa": "questionou se cabia análise de mérito após a desistência e perda de objeto; defendeu retirar o item 2"
+    },
+    {
+     "diretor": "Alessandro (não identificado)",
+     "voto": "acompanha o relator",
+     "ts": "1:00:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:00:25",
+     "confianca": "media",
+     "justificativa": "levantou a dúvida sobre o item 2 do dispositivo, já que a Renova desistiu e o DRO expirou"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:01:11",
+   "processo": "48500.002082/2003-93 (número incerto)",
+   "interessado": "Córrego Fundo SPE Ltda. (antiga Itajuí Engenharia de Obras)",
+   "assunto": "Recomposição do prazo de outorga da PCH Córrego Fundo (Colorado e Paranapoema/PR) por atraso do órgão ambiental (IAP) na licença prévia, nov/2011 a jan/2015. Sustentação oral de Maximiliano Gomes Mendes.",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "excludente de responsabilidade",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "não identificado na legenda (após perguntas às áreas técnicas a transcrição salta para o item seguinte, sem leitura do dispositivo nem proclamação)",
+   "resumo_voto": "Relator indicou acompanhar a SCG (NT 665/2022): licença de instalação emitida antes do cronograma; sem nexo causal. Procuradoria: não há coisa julgada nem prescrição.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator; dispositivo não ouvido",
+     "ts": "1:13:00",
+     "confianca": "baixa",
+     "justificativa": "questionou se a LI foi emitida mais de um ano antes do previsto no cronograma (SCG confirmou datas)"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "1:18:00",
+   "processo": "48500.002648/2013-39 e outros",
+   "interessado": "Aliança Geração de Energia S.A. (Central Eólica Acauã 1 a 3 e Baixa do Sítio)",
+   "assunto": "Alteração de cronograma de implantação das EOLs Acauã 1 a 3 e Baixa do Sítio (RN). Sustentação oral de Bruno Crispim.",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "alteração de cronograma",
+    "excludente de responsabilidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "retirado de pauta pelo relator para instrução da manifestação complementar de 9/11/2022",
+   "resumo_voto": "Relator retirou para análise de documentos novos sobre excludentes; criticou a juntada tardia de fatos novos que faz o agente pautar o relator.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "retira de pauta",
+     "ts": "1:32:55",
+     "confianca": "alta",
+     "justificativa": "não há compromisso com o erro; documentos novos podem ser relevantes"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:36:21",
+   "processo": "48500.002806/2019-46",
+   "interessado": "Belo Monte Transmissora de Energia S.A. (BMTE)",
+   "assunto": "Pedido de reconsideração contra o Despacho 777/2022 que negou revisão da RAP por revogação da alíquota zero de IOF (BNDES), aumento de ICMS em MG sobre insumos e custos com a Força Nacional. Sustentação oral de Mayara Gasparotto.",
+   "tema": [
+    "transmissão (RAP)",
+    "recursos administrativos",
+    "equilíbrio econômico-financeiro"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Escolha do financiador é risco do empreendedor (precedentes Cantareira etc.); ICMS sobre insumos não incide sobre a RAP e não está coberto pela cláusula sétima; custos da Força Nacional decididos pela concessionária.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "1:57:53",
+     "confianca": "alta",
+     "justificativa": "contrato é de serviço, não de obra; tributo sobre insumo não incide sobre a RAP; escolha do BNDES é risco do negócio"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:08:41",
+     "confianca": "media",
+     "justificativa": "Força Nacional é questão de Estado e não cabe ao consumidor; IOF é escolha do empreendedor; levantou dúvida sobre o ICMS de insumos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:08:43",
+     "confianca": "media",
+     "justificativa": "convenceu-se de que a cláusula sétima não alcança ICMS de insumos"
+    },
+    {
+     "diretor": "Alessandro (não identificado)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:43",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "30 (Acauã/Baixa do Sítio, Fernando Mosna)"
+ ],
+ "limites_da_analise": [
+  "Diretor citado como 'Alessandro' (diretor substituto/interino) não consta da lista do config; registrado como 'Alessandro (não identificado)'. Gentil aparece como superintendente (SFG), não como diretor.",
+  "Votos de quem só acompanha atribuídos pela ordem e pela proclamação; falas 'voto com relator' sem nome.",
+  "Item 23: resultado não captado na legenda.",
+  "Números de processo e nomes (Acauã/Kauan, Brix) podem conter erro da legenda automática."
+ ]
+}

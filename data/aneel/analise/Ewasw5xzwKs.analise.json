@@ -1,0 +1,52 @@
+{
+  "meta": {"video_id": "Ewasw5xzwKs", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "41ª Reunião Pública Ordinária de 2023", "data": "2023-11-07", "formato": "presencial com participação remota",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Hélvio Guerra", "Agnes da Costa"],
+    "ausentes": ["Fernando Mosna (férias)"],
+    "observacoes": ["Ricardo Tili e Hélvio Guerra participaram remotamente; Agnes da Costa chegou ao longo da reunião (já citada na aprovação da ata).", "Comunicado longo do Diretor-Geral sobre o evento climático de 3/11/2023 em São Paulo (4,2 milhões de unidades consumidoras sem energia, 7 áreas de concessão); Ricardo Tili disse ser inadmissível levar quatro dias para restabelecer.", "Pauta com 27 itens; itens 5 a 27 em bloco; retirados 2, 3 e 15; sem sustentação oral.", "Ata da 40ª reunião (31/10/2023) aprovada."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:21:58", "processo": "", "interessado": "",
+      "assunto": "Itens 5 a 27 deliberados em bloco (votos disponibilizados com a pauta)",
+      "tema": ["bloco"], "relator": "vários", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados sem discussão.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:22:00", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:22:03", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:22:06", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova e proclama", "ts": "0:22:08", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:22:26", "processo": "48500.000529/2023-13", "interessado": "Leilão de transmissão (Goiás, Maranhão, Minas Gerais, São Paulo, Tocantins)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2023 após análise técnica do TCU (3 lotes; lote 1 = elo HVDC 800 kV Graça Aranha–Silvânia, dividido em sublotes 1A–1D com competição cruzada; nova rodada em caso de inabilitação do vencedor); sessão pública em 15/12/2023 na B3",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Edital aprovado; apresentação de André Tiburtino (coordenador de leilões); maior leilão da história da ANEEL (cerca de 21,7 bilhões); Procuradoria favorável (parecer 148/2023); plenário do TCU ainda não havia apreciado.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:36:00", "justificativa": "criar competitividade num lote complexo com poucos fornecedores; aprender com leilões anteriores (inabilitação do vencedor); manter cronograma", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:25", "justificativa": "elogiou a divisão do lote 1 proposta pela área técnica e o ofício conjunto ao MME; cada 12,5% de deságio no lote 1 pode dar 1% de economia na tarifa de transmissão", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:21", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:23", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:42:17", "processo": "48500.000551/2021-46", "interessado": "Powertech (UTE Manicoré Powertech); Amazonas Energia",
+      "assunto": "Condições de atendimento ao município de Manicoré (AM), §5º do art. 1º da Portaria MME 714/2022: prorrogação da locação de geração térmica de reserva (UTE Manicoré 2)",
+      "tema": ["sistemas isolados", "outorgas de geração (térmica)", "distribuição/qualidade", "fiscalização"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reconhece que não foram restabelecidas totalmente as condições de atendimento por causa da recuperação judicial da Powertech; Amazonas Energia pode prorrogar a locação térmica por até 180 dias, rescindível se as condições se restabelecerem; SFT e SFF acompanham; SFT fiscaliza em campo a UTE Manicoré 2. Procuradoria sem parecer formal, mas concordou.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:48:00", "justificativa": "recuperação judicial e liminar sobre pagamentos geram incerteza econômico-financeira; prudência no suprimento a Manicoré", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:15", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:17", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:54:20", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 2", "item 3", "item 15"],
+  "limites_da_analise": ["Falas de voto sem nome: no bloco houve 4 manifestações e nos itens 1 e 4 três ('voto com relator', 'acompanho', 'também acompanho e proclamo'); atribuição de Hélvio Guerra e Agnes da Costa inferida pela proclamação de unanimidade, ordem incerta.", "Presença de Agnes da Costa nas votações inferida (anunciada como chegando ao longo da reunião e citada na aprovação da ata).", "Os 23 itens do bloco não são enunciados individualmente; conteúdo não identificado.", "Números de processo e valores vêm da legenda automática; podem conter erros."]
+}

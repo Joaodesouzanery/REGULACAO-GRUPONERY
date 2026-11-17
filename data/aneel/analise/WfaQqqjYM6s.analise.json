@@ -1,0 +1,31 @@
+{
+ "meta": {"video_id": "WfaQqqjYM6s", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "42ª Reunião Pública Ordinária (Parte 2)", "data": "2023-11-14", "formato": "presencial (transmitida)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 da sessão: retomada a partir do item 7.", "Único item apreciado (item 7, cautelar AM Torres x Enel Rio) terminou com pedido de vista de Agnes da Costa após longo debate entre Sandoval Feitosa (contrário) e Fernando Mosna (relator).", "Por causa do horário (compromisso às 16h), os três últimos processos foram retirados de pauta (dois do Diretor-Geral e um de Ricardo Tili, este sobre fechamento de consulta pública)."]
+ },
+ "itens": [
+  {
+   "id": "7", "ts": "0:01:19",
+   "processo": "48500.004437/2023-11",
+   "interessado": "AM Torres Energia Ltda. (requerente) x Enel Distribuição Rio (Enel RJ); projetos de solicitantes pessoas físicas em Iguaba Grande e Araruama (RJ)",
+   "assunto": "Pedido de medida cautelar para suspender cancelamentos de orçamentos de conexão de 8 usinas fotovoltaicas de 2,5 MW (20 MW no total) feitos pela Enel Rio por suposta divisão vedada de central geradora (art. 655-E da REN 1.000/2021, alterada pela REN 1.059/2023; Lei 14.300/2022)",
+   "tema": ["geração distribuída (MMGD)", "divisão de central geradora", "recursos administrativos / cautelar", "distribuição (orçamento de conexão)"],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Agnes da Costa); julgamento suspenso",
+   "resumo_voto": "Relator conhece e dá provimento à cautelar para suspender os cancelamentos até o julgamento definitivo do pedido de anulação: sem critério objetivo na REN 1.059 não se pode presumir divisão vedada; solicitações de 4 e 5/1/2023 anteriores ao marco de 7/1/2023; boa-fé; perigo da demora (perda de espaço na rede/benefício) e reversibilidade por conta e risco do empreendedor. Sandoval Feitosa manifestou forte discordância (20 MW num único ponto seria um único empreendimento; cautelar como forma de furar fila; casos similares de Agnes e Hélvio foram remetidos à área técnica; análise de subsídio deve ser restritiva). Sem sustentação oral; procuradoria sem parecer.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá provimento à cautelar", "ts": "0:01:19", "justificativa": "ausência de critérios objetivos para caracterizar divisão; fumaça do bom direito (orçamento aprovado e depois cancelado), perigo da demora e reversibilidade; colegiado deve dar vetor interpretativo às distribuidoras", "tom": "assertivo, defende o direito de apreciar a cautelar", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "1:07:57", "justificativa": "pedido de vista anunciado pelo Diretor-Geral ao abrir a votação", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:32:51", "justificativa": "nos debates sinalizou discordância: 20 MW no mesmo local seria um único empreendimento; risco de cautelares furarem a fila das distribuidoras; preferência por análise das unidades técnicas; subsídio exige interpretação restritiva", "tom": "crítico, preocupado com precedente", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "0:37:25", "justificativa": "nos debates ponderou que mesmo ponto de conexão não significa único empreendimento (experiência de 12 anos na área de concessões de geração); lembrou que casos similares de sua relatoria foram à área técnica", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "0:46:48", "justificativa": "nos debates focou nos três requisitos da cautelar; entende haver fumaça do bom direito e, aparentemente, risco ao agente (perda de espaço na rede)", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": ["Três últimos processos da pauta retirados por falta de tempo: dois de relatoria do Diretor-Geral Sandoval Feitosa e um de Ricardo Tili (fechamento de consulta pública); números não ditos."],
+ "limites_da_analise": ["Legenda automática; falantes do debate do item 7 inferidos pelo conteúdo (Hélvio Guerra identificado pela menção a 12 anos como superintendente de concessões de geração; Ricardo Tili pela menção 'quando o Ricardo levantou'); atribuição das falas sobre requisitos da cautelar a Ricardo Tili é incerta.", "Pedido de vista: fala 'eu vou pedir vistas' seguida de 'solicitação de vistas da diretora Agnes' pelo Diretor-Geral.", "Nenhum diretor além do relator votou; os demais registrados como 'não votou (vista)'.", "Presença de Hélvio Guerra inferida pelas falas, sem chamada explícita."]
+}

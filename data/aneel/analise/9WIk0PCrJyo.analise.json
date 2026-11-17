@@ -1,0 +1,286 @@
+{
+ "meta": {
+  "video_id": "9WIk0PCrJyo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária (Parte 2)",
+  "data": "2022-05-10",
+  "formato": "presencial/híbrido",
+  "presidente_da_sessao": "Elisa Bastos (diretora, até a suspensão ~1:17); Sandoval Feitosa após a retomada às 17h",
+  "diretores_presentes": [
+   "Elisa Bastos",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "André Pepitone (citado como ausente: 'o diretor André não tá aqui')"
+  ],
+  "observacoes": [
+   "Parte vespertina da 16ª ROD; itens 1 a 7, 10 e 13 não aparecem nesta parte (provavelmente na Parte 1 ou em bloco).",
+   "Reunião suspensa ~1:17 por falta de quórum (afastamento de um diretor por agenda) e retomada às 17h; após a retomada Elisa Bastos não participa e Sandoval Feitosa preside.",
+   "Item 8 (DROs da Renova) teve pedido de vista de Efrain Cruz."
+  ]
+ },
+ "itens": [
+  {
+   "id": "9",
+   "ts": "0:00:00",
+   "processo": "48500.004240/2015-63 e outros (legenda incerta)",
+   "interessado": "Renova Energia S.A. e AES Tietê Energia S.A. (geradoras eólicas; complexo Alto Sertão 3 Fase B, BA)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra as resoluções autorizativas 7866 a 7885/2019 que revogaram as autorizações de 20 centrais eólicas do complexo Alto Sertão 3 Fase B; análise da manifestação aos termos de intimação da SFG (penalidades) e rescisão dos CUST",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "fiscalização e sanções (revogação, suspensão de licitar, garantia de fiel cumprimento)",
+    "recursos administrativos",
+    "transmissão (CUST, encargos de rescisão)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: conhecer e negar provimento ao pedido de reconsideração; determinar ao ONS apuração dos encargos de rescisão dos CUST descontados os pagos após a revogação; retomar execução da garantia; suprimido o item 3 do dispositivo (suspensão de 1 ano de licitar/contratar com a ANEEL)",
+   "resumo_voto": "Sustentação oral de João Guilherme (representante da Renova) pedindo revogação amigável sem penalidades, invocando recuperação judicial e venda dos projetos à Prisma Capital. Procuradoria (Luiz Eduardo) disse que a ANEEL deve aplicar penalidade e executar garantia. Relator negou provimento: descumprimento do agente, prejuízo à administração, recuperação judicial não afasta obrigações. Após fala de Hélvio Guerra sobre efeito da suspensão no soerguimento da empresa, o relator aceitou retirar o item 3 (suspensão de participar de licitações).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento (com retirada do item 3)",
+     "ts": "0:25:27",
+     "confianca": "alta",
+     "justificativa": "recuperação judicial não justifica deixar de pagar obrigações com a administração; venda dos projetos à Prisma não elimina a frustração do objeto; aceitou suprimir a suspensão para permitir soerguimento controlado da empresa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (com a supressão do item 3)",
+     "ts": "0:52:59",
+     "confianca": "media",
+     "justificativa": "sem outorga não pode haver ponto de conexão (ONS agiu corretamente); questionou se a suspensão de licitar não inviabilizaria a recuperação judicial, sugerindo retirá-la"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:59",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (presidente da sessão, proclama)",
+     "ts": "0:53:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:54:00",
+   "processo": "48500.003775/2007-55 e mais 163 (legenda incerta)",
+   "interessado": "Renova Energia S.A.",
+   "assunto": "Recurso administrativo contra despachos 363 a 374/2021 da SCG que indeferiram a emissão de DRO (despacho de requerimento de outorga) para 153 eólicas e 10 fotovoltaicas (≈5,5 GW, ≈R$ 22 bilhões)",
+   "tema": [
+    "outorgas de geração (eólica, solar)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista do diretor Efrain Cruz; julgamento não concluído",
+   "resumo_voto": "Relator vota por conhecer e negar provimento: art. 16 da REN 876/2020 permite considerar o histórico do interessado já no DRO; empresa em recuperação judicial sem capacidade para ≈R$ 22 bi; DROs limitariam terceiros na mesma região. Efrain Cruz questionou o critério de tamanho/RJ como linha de corte e sugeriu um caminho do meio; pediu vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "1:06:11",
+     "confianca": "alta",
+     "justificativa": "histórico do interessado (art. 16 REN 876) e recuperação judicial tornam incompatível autorizar 163 usinas; supremacia do interesse público; DROs limitariam terceiros"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:16:25",
+     "confianca": "baixa",
+     "justificativa": "contraditório emitir DROs se a própria empresa diz estar alienando ativos para se recuperar; pode pedir DROs em quantidade menor sem prejuízo"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "1:16:25",
+     "confianca": "alta",
+     "justificativa": "não consegue negar provimento só por serem R$ 22 bi em empresa em RJ; critério de tamanho não seria a linha de corte adequada; sugeriu caminho do meio"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "1:16:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:18:26",
+   "processo": "48500.004476/2022-29 (legenda incerta)",
+   "interessado": "Geradora de Energia Quintuará SPE Ltda. (nome incerto na legenda; complexos fotovoltaicos Dourado 1-10 e Surubim 1-15)",
+   "assunto": "Pedido de medida cautelar para evitar rescisão dos CUST após 30/04/2022; relator julgou o mérito revogando as resoluções que alteraram o cronograma",
+   "tema": [
+    "outorgas de geração (solar)",
+    "transmissão (CUST, garantias)",
+    "fiscalização e sanções (revogação)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes: revogar as resoluções autorizativas 11.141 a 11.165/2022 (alteração condicionada de cronograma) e determinar à SFG processo de revogação das outorgas",
+   "resumo_voto": "Sem sustentação oral. A alteração de cronograma de fevereiro/2022 foi condicionada à manutenção dos CUST e aporte de garantia; ONS rescindiu os CUST em 1/5/2022 por inadimplência; empresa descumpriu condição que ela mesma propôs. Cautelar prejudicada pelo julgamento do mérito.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, revoga as resoluções de alteração de cronograma",
+     "ts": "1:39:44",
+     "confianca": "alta",
+     "justificativa": "empresa descumpriu condição irretratável que ela mesma propôs (manter CUST e garantia); sem excludente de responsabilidade"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (preside e proclama)",
+     "ts": "1:44:47",
+     "confianca": "media",
+     "justificativa": "elogiou o voto: quando o combinado dá errado não se flexibiliza; sugeriu deixar claro cobrança de encargos de rescisão"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:44:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:45:48",
+   "processo": "48500.000384/2006 e outros (legenda incerta)",
+   "interessado": "Canaã Geração de Energia (PCHs Santa Cruz de Monte Negro, Jamari e Canaã, RO)",
+   "assunto": "Reenquadramento das usinas Santa Cruz de Monte Negro, Jamari e Canaã como PCH (reservatórios acima de 13 km²)",
+   "tema": [
+    "outorgas de geração (hidrelétrica, PCH)",
+    "regulação normativa (REN 875/876)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes: manter o enquadramento como PCH e determinar à SRG e SCG estudos sobre o critério de área de reservatório para subsidiar a consulta pública em andamento",
+   "resumo_voto": "Excessos marginais (1% e 8,15%) compatíveis com a topografia amazônica, sem má-fé; reenquadramento seria medida excessiva; parecer da Procuradoria admite afastar o requisito no caso concreto. Hélvio Guerra propôs determinação para revisar o limite de 13 km²; Efrain Cruz apoiou e sugeriu médias regionais.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, mantém enquadramento como PCH (preside e proclama)",
+     "ts": "2:08:05",
+     "confianca": "alta",
+     "justificativa": "desvios marginais, região amazônica tem reservatórios naturalmente maiores, razoabilidade e segurança jurídica"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator, com proposta de determinação",
+     "ts": "2:21:17",
+     "confianca": "media",
+     "justificativa": "concorda em tese; sugeriu revisar o critério de 13 km² na revisão da REN 876/875"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:21:17",
+     "confianca": "media",
+     "justificativa": "limite de 13 km² não tem lógica hoje; avançar na regulação de PCH; sugeriu média por região"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:22:17",
+   "processo": "48500.005211/2021-67",
+   "interessado": "Energisa S.A. (Energisa Minas Gerais e Energisa Nova Friburgo)",
+   "assunto": "Agrupamento das áreas de concessão da Energisa Minas Gerais e Energisa Nova Friburgo (REN 1003/2022): abertura de consulta pública",
+   "tema": [
+    "distribuição (agrupamento de concessões)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes: consulta pública de 12/05 a 26/06/2022 com sessão presencial em Cataguases (MG)",
+   "resumo_voto": "Apresentação técnica da SCT (servidor Jesus); ganhos de custos, atendimento e modicidade; inovação do relator: retomar sessão presencial.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, abre consulta pública com sessão presencial",
+     "ts": "2:33:30",
+     "confianca": "alta",
+     "justificativa": "redução de custos, melhoria do atendimento e modicidade tarifária; retomar sessões presenciais"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:36:33",
+     "confianca": "media",
+     "justificativa": "importante ser presencial pelo impacto na região"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (preside e proclama)",
+     "ts": "2:36:33",
+     "confianca": "alta",
+     "justificativa": "consulta à sociedade é o melhor caminho para eficiência e ganhos aos consumidores"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:38:37",
+   "processo": "48500.005212/2021-10",
+   "interessado": "Energisa S.A. (Energisa Paraíba e Energisa Borborema)",
+   "assunto": "Agrupamento das áreas de concessão da Energisa Paraíba e Energisa Borborema: abertura de consulta pública",
+   "tema": [
+    "distribuição (agrupamento de concessões)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado (proclamação sem menção explícita a unanimidade; todos acompanharam): consulta pública de 12/05 a 26/06/2022 com sessão presencial em Campina Grande (PB)",
+   "resumo_voto": "Leitura do relatório dispensada; mesmos fundamentos do item 14.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, abre consulta pública com sessão presencial",
+     "ts": "2:39:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:40:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (preside e proclama)",
+     "ts": "2:40:39",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "17",
+   "relator": "Elisa Bastos",
+   "motivo": "retirado a pedido da diretora Elisa"
+  },
+  {
+   "id": "30",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado pelo relator, reinscrição na próxima reunião"
+  },
+  {
+   "id": "38",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado pelo relator, reinscrição na próxima reunião"
+  }
+ ],
+ "limites_da_analise": [
+  "Elisa Bastos e Efrain Cruz (diretores em 2022) e André Pepitone não constam da lista de diretores do config da ANEEL; nomes registrados como ditos/conhecidos.",
+  "Item 9: as três falas 'acompanho' não são nomeadas; atribuição a Hélvio, Efrain e Elisa (que proclama) por inferência; confiança baixa/média.",
+  "Item 8: a fala 'eu acompanho o voto do relator' antes da vista foi atribuída a Hélvio Guerra por inferência (vinha defendendo o voto); confiança baixa.",
+  "Itens 11 e 12: falas de acompanhamento sem nome; atribuição pela ordem e pela proclamação de Sandoval.",
+  "Hélvio menciona retirar 'item 44' da pauta (provável erro de legenda); números de processos, resoluções e nome da empresa do item 11 (Quintuará) incertos na legenda.",
+  "Presença de Efrain Cruz após a retomada inferida por ser citado nominalmente (itens 12 e 14)."
+ ]
+}

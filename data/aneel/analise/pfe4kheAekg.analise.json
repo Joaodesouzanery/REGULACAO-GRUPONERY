@@ -1,0 +1,140 @@
+{
+  "meta": {"video_id": "pfe4kheAekg", "fonte": "legenda automática do YouTube (sem marcadores de tempo no .md; ts obtidos do .json da transcrição por busca de frase); falantes inferidos; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "41ª RPO (parte 2, sessão da tarde)", "data": "2022-11-01", "formato": "presencial (com sustentações orais)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili", "Giácomo Almeida (diretor substituto; fora da lista do config)"],
+    "ausentes": [],
+    "observacoes": [
+      "Continuação vespertina da 41ª Reunião Pública Ordinária; encerrada às 20h08 (vésperas do feriado de 2/11).",
+      "Pauta com 60 processos no dia, 42 no bloco (balanço do Diretor-Geral). Nesta parte: itens 17, 14, 12, 15, 16, 8 e 11 deliberados; itens 36, 27, 28, 29 e 7 retirados de pauta.",
+      "Item 14 (Transmissora Paraíso/DUP): pedido de vista de Ricardo Tili após debate em que Ricardo Tili e Hélvio Guerra questionaram aprovar nova DUP para obra construída fora da área declarada; Hélvio Guerra disse que proporia retirar o item 2 do dispositivo.",
+      "Item 15 (IE Madeira): preliminar de impedimento de Giácomo Almeida (relator) e Sandoval Feitosa, por terem assinado notas técnicas como superintendentes; ambos não se consideraram impedidos e Fernando Mosna, Ricardo Tili e Hélvio Guerra manifestaram que não há impedimento.",
+      "Ricardo Tili cobrou respeito à ordem de votação (relator, demais diretores, Diretor-Geral por último)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "17", "ts": "0:00:28",
+      "processo": "48500.003584/2022-84 (e outros)", "interessado": "Renova Energia S.A. (requerente) x Sky Energy Participações Ltda. (SPE Cacimbas, depois vendida à Total Eren)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar da Renova para sobrestar/indeferir os pedidos de outorga da Sky Energy para as eólicas do complexo Cacimbas (PB), por disputa sobre arrendamento das áreas em recuperação judicial",
+      "tema": ["outorgas de geração (eólica)", "requerimento administrativo / medida cautelar", "recuperação judicial"],
+      "relator": "Fernando Mosna",
+      "resultado": "Unânime: conhecer e, no mérito, negar provimento ao pedido de medida cautelar da Renova; determinar à SCG a avaliação do requerimento administrativo da Renova.",
+      "resumo_voto": "Relator: disputa judicial privada sobre uso da propriedade não configura fumaça do bom direito; a Sky apresentou declaração de posse nos moldes da REN 876/2020; mérito fica com a SCG. Sustentações orais: Pedro Monteiro Schromberg (Renova) e Valéria de Souza Rosa (Sky). Procuradoria opinou pela ilegitimidade da Renova; relator divergiu e conheceu do pedido.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:32:02", "justificativa": "Ausente a fumaça do bom direito; não é razoável usar discussão judicial sobre arrendamento para sobrestar processo de outorga; conhece porque a Renova tem interesse na área.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:24", "justificativa": "Questionou a preliminar de ilegitimidade levantada pela Procuradoria; acompanhou o relator.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:24", "justificativa": "Acompanha; fala individual não identificada com segurança.", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:28", "justificativa": "Acompanha; fala individual não identificada com segurança.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:37:30", "justificativa": "Disse que a ANEEL tem autonomia e nenhuma decisão judicial impede a decisão; não é preciso aguardar o juízo da recuperação judicial. Proclamou por unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "14", "ts": "0:38:42",
+      "processo": "48500.001153/2018-05", "interessado": "Transmissora Paraíso de Energia (TPE, grupo Alupar)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1.525/2022, que negou alteração do anexo da REA 6.942/2018 (DUP para servidão das LTs 500 kV Poções III-Padre Paraíso 2-Governador Valadares 6, BA/MG) e mandou retirar instalações construídas fora da DUP",
+      "tema": ["transmissão", "declaração de utilidade pública (DUP)", "recursos administrativos", "pedido de vista"],
+      "relator": "Giácomo Almeida",
+      "resultado": "Pedido de vista de Ricardo Tili; não deliberado.",
+      "resumo_voto": "Relator propôs conhecer e dar provimento: revogar o Despacho 1.525 e aprovar resolução que altera a DUP, com base em notas da SCT, fiscalização da SFE e parecer 218/2022 da Procuradoria (desvio de traçado se resolve por indenização/desapropriação indireta). Sustentação oral: Vitor Sarmento de Mello (TPE); João Greco (TPE) informou perícia judicial de cerca de R$ 5 milhões contra oferta de R$ 10 milhões.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, aprova", "ts": "1:26:04", "justificativa": "Não houve descumprimento legal ou regulatório; a DUP serve à segurança da operação e manutenção por 30 anos e a transferências de controle; mandar desmobilizar a linha seria desproporcional; a disputa é indenizatória e cabe ao Judiciário.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:02:37", "justificativa": "Falante não nomeado que abriu a votação acompanhando o relator, atribuído pela ordem de votação; antes defendera que mandar desmobilizar não é razoável nem proporcional (Lei 9.784), mas reconheceu que a nova DUP pode reforçar a posição da empresa no processo judicial.", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "2:02:41", "justificativa": "Quem constrói fora da DUP assume o risco; pedir DUP depois da obra pronta seria usar a ANEEL como muleta na discussão judicial de indenização.", "tom": "crítico", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "2:00:08", "justificativa": "Disse que DUP não é trivial e é uma das intervenções mais graves na propriedade privada; a questão é se pode construir fora da área declarada; admitiu rever seu voto de junho diante de informações novas, mas anunciou que proporia retirar do dispositivo o item que aprova a nova resolução.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "2:02:51", "justificativa": "Concedeu vista; na discussão apontou razoabilidade/proporcionalidade contra desmobilizar e preocupação com o uso da DUP no processo judicial.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:03:26",
+      "processo": "48500.004993/2017-31 (e outros)", "interessado": "Usina Hidrelétrica Itaocara S.A. (controladas por Light e Cemig GT)",
+      "assunto": "Extinção a pedido da concessão da UHE Itaocara I e recursos contra o AI 74/2017 (multa por atraso no cronograma) e o Despacho 2.647/2020 (multa editalícia de 5% do investimento)",
+      "tema": ["fiscalização e sanções (multa)", "outorgas de geração (hidrelétrica)", "recursos administrativos", "extinção de concessão"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Unânime: parcial provimento; mantida multa editalícia de R$ 43.777.197,50 (Despacho 2.647/2020); arquivado o AI 74/2017; afastada a suspensão do direito de contratar; recomendar ao MME a extinção a pedido da concessão (rescisão do contrato 1/2015).",
+      "resumo_voto": "Multa editalícia prevalece sobre a administrativa (vinculação ao edital, parecer da Procuradoria); 5% já é atenuação de 50% pela descontratação de 100% da energia; suspensão do direito de contratar seria excessiva diante da diligência da empresa. Sustentação oral: Vitor (representante da Itaocara). Sem UBP, CFURH, TFSEE ou P&D devidos.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:37:59", "justificativa": "5% do investimento é a penalidade na medida certa; descontratação reduziu danos mas há prejuízo ao planejamento; suspensão de contratar é excessiva.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:39:51", "justificativa": "Acompanhou e apontou a inclusão da expressão «a pedido» na recomendação ao MME, acatada.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:39:53", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "2:39:56", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:39:59", "justificativa": "Proclamou por unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "15", "ts": "2:41:44",
+      "processo": "48500.003003/2017-47", "interessado": "Interligação Elétrica do Madeira S.A. (IE Madeira; ISA CTEEP 51% e Furnas 49%)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3.816/2017 (data de início dos testes de integração do bipolo 2 do Madeira e devolução de receita/RAP); preliminar de impedimento de Giácomo Almeida e Sandoval Feitosa",
+      "tema": ["transmissão (RAP)", "recursos administrativos", "impedimento/suspeição", "reformatio in pejus"],
+      "relator": "Giácomo Almeida",
+      "resultado": "Preliminar: colegiado entendeu não haver impedimento. Mérito unânime: conhecer e dar parcial provimento, alterando os itens 2, 5 e 6 do Despacho 3.816/2017 (sem devolução até 11/04/2015 por 30 dias após 12/03/2015; revogar TLPs de 12/04 a 20/06/2015 com devolução da receita em três ciclos tarifários).",
+      "resumo_voto": "Relator divergiu da nota técnica que ele próprio assinou como superintendente (que propunha 19/12/2014): fim das pendências de terceiros em 12/03/2015 conforme carta 85/2018 do ONS, mais 30 dias da REN 454/2011; greve da Eletronorte e paradas sistêmicas não são excludentes. Sustentação oral: Gercino Zaragoza Guerra (IE Madeira).",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, aprova", "ts": "4:10:58", "justificativa": "Nota técnica é opinativa e não gera impedimento; no mérito, 30 dias de TLP após o fim das pendências e devolução parcelada em três ciclos; greve não é caso fortuito.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "4:28:39", "justificativa": "Na preliminar, sustentou que nota técnica opinativa de superintendente não gera impedimento, sobretudo após a Lei das Agências, que prevê superintendentes como substitutos.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "4:28:39", "justificativa": "Na preliminar, disse que impedimento é objetivo e só ocorre com ato decisório; reconhecer impedimento por nota técnica abriria precedente perigoso.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "4:28:44", "justificativa": "Brincou que quase se declararia impedido por ser colega de turma do diretor técnico da empresa e homônimo do representante; antes perguntara sobre risco de nulidade judicial.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "4:28:50", "justificativa": "Não se considerou impedido (instrução opinativa); criticou o momento e a forma do pedido de impedimento e o mandado de segurança. Proclamou por unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "16", "ts": "4:30:07",
+      "processo": "48500.000581/2018-11", "interessado": "Interligação Elétrica do Madeira S.A. / ONS (apuração pela SFE)",
+      "assunto": "Atendimento ao item 8 do Despacho 3.816/2017: data do fim das pendências impeditivas de terceiros para os testes do bipolo 2 do Madeira",
+      "tema": ["transmissão", "fiscalização"],
+      "relator": "Giácomo Almeida",
+      "resultado": "Unânime: estabelecer 12/03/2015 como marco final das pendências impeditivas de terceiros, em consonância com o processo 48500.003003/2017-47.",
+      "resumo_voto": "Processo decorrente do item 15; Ricardo Tili sugeriu que, na revisão do Regimento, processos conexos sejam juntados num só voto.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, aprova", "ts": "4:31:30", "justificativa": "Consequência do decidido no item anterior.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "4:34:23", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "4:34:23", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "4:34:26", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "4:34:31", "justificativa": "Proclamou por unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "4:34:52",
+      "processo": "48500.004373/2021-88", "interessado": "Consumidores / Abrace / Abraceel (contribuições)",
+      "assunto": "Resultado da Consulta Pública 61/2021: rateio do encargo de reserva de capacidade na forma de potência (Decreto 10.707/2021); voto-vista de Hélvio Guerra",
+      "tema": ["CDE e encargos setoriais (reserva de capacidade)", "regulação normativa (consulta pública)", "voto-vista"],
+      "relator": "Fernando Mosna",
+      "resultado": "Aprovado (o Diretor-Geral não disse «unanimidade»; todos acompanharam): instaurar segunda fase da CP 61/2021, contribuições de 04/11 a 19/12/2022, para colher subsídios sobre a metodologia de rateio do encargo de potência. Relator incorporou o voto-vista e segue como voto condutor.",
+      "resumo_voto": "Voto-vista acrescentou quarta alternativa (ACR responde pelo consumo líquido; ACL pela demanda no horário de demanda máxima do SIN, estimulando resposta da demanda). Debate sobre quem conduz o processo quando o relator adere ao voto-vista.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (incorporando o voto-vista)", "ts": "4:38:12", "justificativa": "Aderiu à quarta alternativa; mantém a relatoria como juiz natural do processo.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista: segunda fase da consulta pública (incorporado pelo relator)", "ts": "4:35:10", "justificativa": "Nem sempre a demanda máxima do consumidor coincide com a do sistema; propõe quarta opção em segunda fase da CP.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "4:47:15", "justificativa": "Entendia que o relator que absorve o voto-vista mantém o processo; acompanhou o voto ajustado.", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "4:47:20", "justificativa": "Comparou ao caso São Roque, em que o relator acrescentou dispositivo e manteve a relatoria.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "4:47:57", "justificativa": "Acompanha o voto condutor de Fernando Mosna com as incorporações do voto-vista; proclamou o resultado.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "4:50:18",
+      "processo": "48500.001280/2022-82", "interessado": "SRT/SRG/SCG/SFG; geradores eólicos e fotovoltaicos (ABEEólica, Absolar), ONS, EPE, MME",
+      "assunto": "Abertura de consulta pública sobre a AIR do acesso à transmissão no cenário de expansão de geradores renováveis (inversão de fases: CUST antes da outorga, caução e garantias)",
+      "tema": ["transmissão (acesso)", "regulação normativa (consulta pública, AIR, agenda regulatória)", "outorgas de geração (eólica, solar)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Aprovado (todos acompanharam): instaurar consulta pública por intercâmbio documental, 60 dias, de 07/11/2022 a 06/01/2023, sobre o relatório de AIR do acesso à transmissão.",
+      "resumo_voto": "Apresentação técnica de Jorge Humberto (SRT). Alternativa preferida: acesso antes da outorga, fim da informação de acesso, caução pela reserva da rede, CUST com início em até 3 anos e garantia adicional. Relator quase retirou de pauta pelo horário e manteve.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "5:11:30", "justificativa": "Há escassez de pontos de conexão; critérios objetivos e garantias dão previsibilidade ao acesso e ao planejamento.", "confianca": "alta"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "5:18:57", "justificativa": "Elogiou manter o item em pauta; tema importante para organizar acesso e contratação do uso.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "5:18:57", "justificativa": "Disse que a proposta recupera o planejamento da expansão da geração, hoje deslocada para o mercado livre.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "5:19:00", "justificativa": "Acompanha.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "5:19:04", "justificativa": "Comparou à inversão de fases nos leilões de transmissão; parabenizou a SRT. Proclamou o resultado.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["36", "27", "28", "29", "7"],
+  "limites_da_analise": [
+    "O .md não tem marcadores de tempo além do inicial; os ts foram localizados por busca de frase no .json da transcrição e são aproximados.",
+    "Giácomo Francisco Bassi Almeida (diretor substituto em 2022) não está na lista de diretores do config; registrado como Giácomo Almeida. A legenda o grafa «já como», «Jácomo», «diácomo».",
+    "O cabeçalho do .md infere Gentil Nogueira entre os falantes, mas nesta sessão Gentil aparece só como superintendente (SCG); não foi contado como diretor.",
+    "Na maior parte dos itens, as falas «acompanho» / «voto com o relator» não têm nome; foram atribuídas pela proclamação e pela ordem usual (confiança média).",
+    "Item 14: não se sabe ao certo quem disse «eu acompanho o voto do relator» antes do pedido de vista; foi atribuído a Fernando Mosna com confiança baixa. Hélvio Guerra e Sandoval Feitosa não votaram antes da vista.",
+    "Nomes de advogados e representantes (Pedro Monteiro Schromberg, Valéria de Souza Rosa, Vitor Sarmento de Mello, Gercino Zaragoza Guerra, Jairo Calife, Isabel Lustosa, João Greco) e números de processos vêm da legenda automática e podem ter erros.",
+    "Itens 8 e 11: o Diretor-Geral proclamou sem dizer «unanimidade»; registrado como aprovado com todos acompanhando."
+  ]
+}

@@ -1,0 +1,422 @@
+{
+ "meta": {
+  "video_id": "ja-35X92shQ",
+  "fonte": "legenda automática do YouTube; .md sem marcadores de tempo; ts obtidos do JSON da transcrição; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32",
+  "data": "2022-08-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Hélvio Guerra",
+   "não identificado (Jácomo/Giácomo)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "40 itens; bloco 13 a 40; retirados 2, 5, 6, 7, 8 e 10; sustentação oral nos itens 4 e 9.",
+   "Item 14 do bloco: divergência de Ricardo Tili vencedora por 4 a 1.",
+   "Item 11 retirado pelo relator durante a sessão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:07",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens 13 a 40 em bloco (exceto item 14)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados sem destaque, com exceção do item 14.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:07",
+     "justificativa": "aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:06:07",
+     "justificativa": "aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:06:07",
+     "justificativa": "aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:07",
+     "justificativa": "aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "aprova o bloco",
+     "ts": "0:06:07",
+     "justificativa": "aprovação dos itens do bloco",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:06:14",
+   "processo": "",
+   "interessado": "não identificado",
+   "assunto": "Item 14 do bloco: requerimento negado pela CCEE (assunto não detalhado na legenda)",
+   "tema": [
+    "comercialização (CCEE)"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado o voto divergente de Ricardo Tili por 4 a 1 (relator vencido)",
+   "resumo_voto": "Ricardo Tili divergiu do relator, votando em consonância com o entendimento da CCEE que negou o requerimento da parte; os demais acompanharam a divergência; votação 4 a 1.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "diverge do relator (voto vencedor)",
+     "ts": "0:06:14",
+     "justificativa": "voto em consonância com o entendimento da CCEE que negou o requerimento da parte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Ricardo Tili",
+     "ts": "0:06:40",
+     "justificativa": "acompanhou o diretor Ricardo e proclamou 4 a 1",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não identificado (acompanha a divergência ou relator vencido)",
+     "ts": "0:06:30",
+     "justificativa": "não foi possível identificar quem era o relator vencido",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não identificado (acompanha a divergência ou relator vencido)",
+     "ts": "0:06:30",
+     "justificativa": "não foi possível identificar quem era o relator vencido",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "não identificado (acompanha a divergência ou relator vencido)",
+     "ts": "0:06:30",
+     "justificativa": "não foi possível identificar quem era o relator vencido",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:08:17",
+   "processo": "48500.003362/2019-44",
+   "interessado": "Copel DIS, CPFL Paulista, CPFL Piratininga, RGE Sul, Celesc DIS, Energisa (AC, MS, PB, TO, MT), Eletrocar",
+   "assunto": "Aprovação das 14 propostas do Projeto Prioritário de Eficiência Energética 3/2021 (hospitais públicos ou certificados CEBAS)",
+   "tema": [
+    "eficiência energética (PEE)",
+    "distribuidoras"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova 14 propostas (117 hospitais, cerca de R$ 128 milhões). Apresentação da SPE (Douglas). Sandoval lamentou baixa participação de distribuidoras do Norte e Nordeste; Mosna elogiou o projeto.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:39:10",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:39:10",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:39:10",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:39:10",
+     "justificativa": "voto do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:39:10",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:40:13",
+   "processo": "48500.005935/2022-91",
+   "interessado": "SEL/SRM; leilão de reserva de capacidade",
+   "assunto": "Aprovação do edital e anexos do Leilão 8/2022 (reserva de capacidade na forma de energia, térmicas a gás natural novas) após CP 35/2022",
+   "tema": [
+    "leilões (reserva de capacidade)",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital e aviso de licitação; sessão em 30/09/2022. Hélvio questionou a penalidade por atraso na operação comercial versus início do suprimento; SEL esclareceu que a penalidade contratual só incide se o atraso comprometer o início do suprimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:03:33",
+     "justificativa": "voto do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:33",
+     "justificativa": "levantou dúvida sobre penalidade por atraso na operação comercial frente à resolução de fiscalização; esclarecido pela SEL",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:33",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:04:19",
+   "processo": "48500.003733/2019-41",
+   "interessado": "Tereos Açúcar e Energia Brasil S.A. (UTE Guarani Cruz Alta 2)",
+   "assunto": "Pedido de reconsideração contra o Despacho 1432/2022 (excludente de responsabilidade por atraso na operação comercial e no suprimento de CCEARs do leilão A-5/2014)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Pedido de reconsideração indeferido; houve sustentação oral pela empresa. Relator sustentou que problemas de acesso não afastam a responsabilidade do gerador.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:26",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:26",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:26",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:34:26",
+     "justificativa": "voto do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:26",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:34:45",
+   "processo": "48500.005494/2021-47",
+   "interessado": "Mercurio Partners Ltda. (UTE Paulínia Verde, Paulínia-SP)",
+   "assunto": "Requerimento de excludente de responsabilidade pelo atraso na implantação da UTE Paulínia Verde (PCS)",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator para solicitar parecer formal da Procuradoria",
+   "resumo_voto": "Após discussão, o relator retirou o processo para que a manifestação verbal da Procuradoria fosse consignada em parecer.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "retira de pauta",
+     "ts": "1:42:59",
+     "justificativa": "pedir parecer da Procuradoria para formalizar o que foi dito verbalmente",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:43:53",
+   "processo": "48500.001662/2014",
+   "interessado": "Neoenergia Renováveis S.A. (complexo eólico Chafariz e fotovoltaico Luzia)",
+   "assunto": "Requerimento de associação de centrais geradoras eólicas e fotovoltaicas (REN 954/2021); voto-vista",
+   "tema": [
+    "outorgas de geração (eólica, solar)",
+    "transmissão (CUST)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista de Hélvio Guerra (acompanhado pelo relator original)",
+   "resumo_voto": "Reconhece o enquadramento da associação e faixa de potência; determina ao ONS formalizar o CUST; SCG/SRG/SRT alterarem a REN 954 e procedimentos de rede; prazo de 6 meses ao ONS; delegação temporária à SCG, com operacionalização em reunião administrativa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:07",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator original, acompanha o voto-vista",
+     "ts": "2:22:07",
+     "justificativa": "DG esclareceu ao final que Tili acompanhou o voto-vista; não há voto vencido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:07",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor",
+     "ts": "1:43:53",
+     "justificativa": "concorda com a associação; vista para esclarecer a relação com o ONS na formalização do CUST sem análise prévia da ANEEL",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:22:07",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:24:21",
+   "processo": "48500.000347/2017-11",
+   "interessado": "ONS; Abrace (sustentação oral de Jéssica)",
+   "assunto": "Resultado da CP 80/2021: aprimoramento do programa de resposta da demanda (REN 1030/2022) e sandbox regulatório",
+   "tema": [
+    "regulação normativa",
+    "comercialização"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade com ajustes",
+   "resumo_voto": "Aprova REN com critérios do programa de resposta da demanda e resolução autorizativa ao ONS (produto disponibilidade em ambiente regulatório experimental, prazo de 2 anos); comunicar à SE do MME/CPAMP; edital do ONS a ser aprovado pela ANEEL. Sustentação oral da Abrace; debate sobre representação na sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:14",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:14",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:14",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:46:14",
+     "justificativa": "voto do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado (Jácomo/Giácomo)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:46:14",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2",
+  "5",
+  "6",
+  "7",
+  "8",
+  "10",
+  "11"
+ ],
+ "limites_da_analise": [
+  "O cabeçalho do .md lista Gentil Nogueira, mas a fala de abertura cita os diretores Ricardo, 'Jácomo', Fernando e Hélvio; o quinto diretor é registrado como não identificado (provável Giácomo, fora da lista do config).",
+  "Item 14: assunto e relator vencido não identificados; votos de Mosna, Hélvio e o quinto diretor incertos.",
+  "Números de processo vindos da legenda podem estar errados (ex.: item 12).",
+  "Ordem dos 'acompanho' sem nome; votos atribuídos pela proclamação de unanimidade."
+ ]
+}

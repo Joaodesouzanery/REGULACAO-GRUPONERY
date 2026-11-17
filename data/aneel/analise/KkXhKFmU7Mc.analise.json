@@ -1,0 +1,539 @@
+{
+ "meta": {
+  "video_id": "KkXhKFmU7Mc",
+  "fonte": "legenda automática do YouTube; ts = tempo do vídeo (sessão começa ~0:58); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "43ª RPO 2023",
+  "data": "2023-11-21",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); abertura por outro diretor (provavelmente Hélvio Guerra) até 1:06",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com quórum de três diretores; Sandoval e Fernando Mosna chegaram depois.",
+   "Ordem: bloco, 1, 2, 11, 13 (invertido), 10, 16, 18, 4, 3. Retirados 5 a 9.",
+   "Item 10 (Copel GT/MCSD): pedido de vista; um diretor chegou atrasado (chuva) e declarou ao final que acompanharia o relator.",
+   "Fernando Mosna saiu antes dos itens 4 e 3 e deixou votos acompanhando os relatores.",
+   "Item 11: ANEEL nega transferência de controle da Amazonas Energia e recomenda caducidade ao MME.",
+   "Posse de Raul Pereira Lisboa como Procurador-Geral; Daniel Dana efetivado secretário-geral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "1:17:08",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens remanescentes do bloco da pauta da 43ª RPO de 2023 (exceto destaques 13, 16 e 18 e os retirados 5 a 9)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem leitura; proclamação do Diretor-Geral Sandoval Feitosa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "1:17:08",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "1:17:08",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "1:17:08",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "1:17:08",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:17:37",
+   "processo": "48500.001560/2023-71",
+   "interessado": "transmissoras; sustentação oral de Cléber Davi (Eletrobras/CGT Eletrosul) pedindo retirada da SE Anastácio do lote 11",
+   "assunto": "Aprovação do edital do Leilão de Transmissão nº 1/2024 (objeto, RAP, anexos técnicos), após Consulta Pública 30/2023; envio ao TCU (IN 81/2018); sessão prevista para 28/03/2024 na B3",
+   "tema": [
+    "leilões",
+    "transmissão (RAP, outorgas, reforços)",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade, com alteração no voto",
+   "resumo_voto": "Relatora mantém a SE Anastácio no lote (área técnica: licitação é a regra, conforme POTEE/MME); após debate sobre qualificação econômico-financeira, ajusta o voto para recuperar a exigência de balanços auditados prevista na abertura da CP e tratar o tema com o TCU se for o caso; nova exigência de acervo técnico de 30% do escopo.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (voto ajustado em sessão)",
+     "ts": "2:09:50",
+     "justificativa": "Aceita recuperar a exigência de balanços auditados, conforme debate, e discutir com o TCU se preciso.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (com as alterações)",
+     "ts": "2:10:30",
+     "justificativa": "Defende licitação como regra em vez de autorização de reforços (deságio beneficia o consumidor); cita caso de SE em Porto Alegre e multa de mais de R$ 200 milhões à Eletrosul; critica a sustentação da Eletrobras por citar acordo suspenso.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:10:23",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:10:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:11:43",
+   "processo": "48500.005377/2016-9 (número incerto)",
+   "interessado": "concessionárias/permissionárias/autorizadas de geração e transmissão",
+   "assunto": "Resultado da Consulta Pública 36/2021: resolução normativa com critérios para aprovar plano de transferência de controle societário como alternativa à extinção da outorga (art. 4º-C da Lei 9.074/1995), empreendimentos em implantação ou ampliação",
+   "tema": [
+    "regulação normativa",
+    "outorgas de geração",
+    "transmissão (RAP, outorgas, reforços)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN: apenas um plano de transferência por processo punitivo para evitar protelação; retirada completa dos sócios; vedado novo controlador penalizado; regulamentação incorporada à resolução 841. Processo redistribuído do ex-diretor Efrain Cruz.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:12:00",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:23",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:23",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:23",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:23",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:39:05",
+   "processo": "48500.007583/2022-17",
+   "interessado": "Amazonas Energia S.A.; Green Energy (pretendente ao controle)",
+   "assunto": "Plano de transferência de controle societário da Amazonas Energia apresentado em razão do Termo de Intimação 4/2022 (SFF); recomendação de caducidade da concessão (contrato 1/2019)",
+   "tema": [
+    "fiscalização e sanções",
+    "distribuição",
+    "caducidade"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (indeferida a transferência; recomendada caducidade ao MME)",
+   "resumo_voto": "Não aprova a transferência de controle: plano não demonstrou capacidade de reverter a insustentabilidade econômico-financeira (geração de caixa negativa, endividamento crescente), documentos básicos da Green Energy não apresentados; recomenda ao MME a caducidade; SFT e SFF mantêm fiscalização; caducidade não suspende o contrato e a concessionária continua operando. Sem sustentação oral; Procuradoria se manifestou.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "2:39:05",
+     "justificativa": "Concessão historicamente dependente de comandos legislativos excepcionais; controlador não obteve êxito; plano sem estratégia concreta.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:12",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "3:54:16",
+   "processo": "48500.006848/2022-51",
+   "interessado": "DME Distribuição S.A. (DMED, Poços de Caldas); sustentação oral do Conselho de Consumidores de Poços de Caldas (Arlene)",
+   "assunto": "Reajuste tarifário anual 2023 da DMED, vigência a partir de 22/11/2023 (efeito médio 2,76%; AT 2,39%; BT 3%)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Homologa as tarifas; corrige erro material no valor de cotas mensais. Diretor-Geral registra preocupação dos consumidores, mas o reajuste decorre de aplicação da lei. Item invertido na pauta por urgência de publicação.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "3:55:00",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:13:15",
+     "justificativa": "Reajuste em grande parte provocado pela aplicação da lei.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "4:13:10",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "4:13:12",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "6:24:06",
+   "processo": "48500.003350/2023-18",
+   "interessado": "Copel GT (sustentação: Cléberson Luiz da Silva); Celesc Distribuição (sustentação: Luís Bernardo Baran)",
+   "assunto": "Requerimento da Copel GT para retificar metodologia e parâmetros do MCSD de energia existente para contratos repactuados pelo Despacho 1395/2019; pedido da Celesc de diferimento de pagamento",
+   "tema": [
+    "comercialização (CCEE, PLD, contratos)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Sandoval Feitosa, pela fala do presidente); julgamento não concluído",
+   "resumo_voto": "Relator dá parcial provimento: CCEE reprocessa MCSD 4% (out/22 e 2023) com base nos montantes do Despacho 1395/2019, reprocessa MCSD mensais mantidas as declarações sem redeclaração, recontabiliza com emolumentos pagos pela Copel GT; nega diferimento pedido pela Celesc.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "7:14:00",
+     "justificativa": "Por segurança jurídica, mesmo expediente do processo 48500.002483/2020: sem redeclaração; Copel demorou cerca de 8 meses para levar o pleito.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "7:17:05",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "7:17:07",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "7:17:08",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "não votou (chegou atrasado); ao final declarou que acompanharia o relator",
+     "ts": "8:37:30",
+     "justificativa": "Atraso pela chuva; pediu registro de voto acompanhando o relator, sem efeito prático por causa da vista.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "7:17:15",
+   "processo": "48100.002178/1997-81 (número incerto)",
+   "interessado": "Sapel (Sociedade Amapaense de Produção de Energia Elétrica); sustentação de Caroline Muniz Dias (Oiapoque Energia)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2440/2022 (excludente de 877 dias e cronograma da PCH Salto Cafesoca)",
+   "tema": [
+    "outorgas de geração",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Mantidos integralmente os termos do Despacho 2440/2022.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "7:34:30",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:35:10",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:35:10",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:35:10",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:35:10",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "7:35:49",
+   "processo": "48500.000487/2019-34",
+   "interessado": "Guascor do Brasil Ltda.",
+   "assunto": "Excludente de responsabilidade pelo atraso no cronograma da UTE Coari (Coari/AM), ligado a garantias do contrato do sistema isolado com a Amazonas Energia",
+   "tema": [
+    "outorgas de geração",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e indeferido (proclamação sem a palavra unanimidade; quatro manifestações de acompanhamento)",
+   "resumo_voto": "Indeferidos os pedidos de excludente de responsabilidade; mesmos fundamentos do item 16. Houve sustentação oral da interessada.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, indefere",
+     "ts": "7:54:30",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:55:37",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:55:37",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:55:37",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:55:37",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "7:56:09",
+   "processo": "48500.002226/2023-98 (número incerto)",
+   "interessado": "consumidores irrigantes e aquicultores; distribuidoras",
+   "assunto": "Abertura de consulta pública (22/11 a 1/12/2023) sobre alteração do art. 665 da REN 1000/2021 e prorrogação de prazos da revisão cadastral de unidades com benefício tarifário de irrigação e aquicultura",
+   "tema": [
+    "regulação normativa",
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (com voto deixado por Fernando Mosna)",
+   "resumo_voto": "Prazo considerando a boa-fé dos consumidores que declaram ter direito à outorga ambiental; sem outorga no horizonte, perdem o benefício e há refaturamento.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "7:56:09",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:12:05",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:12:05",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:12:05",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto deixado (lido pelo secretário-geral Daniel Dana): acompanha o relator",
+     "ts": "8:36:30",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "8:12:47",
+   "processo": "48500.000962/2023-59 (número incerto)",
+   "interessado": "distribuidoras; consumidores",
+   "assunto": "Abertura de consulta pública (47 dias, 23/11/2023 a 08/01/2024) sobre padronização do número de identificação da unidade consumidora (código nacional, ao lado do CPF; Lei 14.534/2023)",
+   "tema": [
+    "regulação normativa",
+    "distribuição"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade (com voto deixado por Fernando Mosna)",
+   "resumo_voto": "Padronização nacional do código da UC (agenda regulatória 2023-24) e da apresentação da conta.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "8:12:47",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:36:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:36:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:36:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto deixado (lido pelo secretário-geral Daniel Dana): acompanha o relator",
+     "ts": "8:36:30",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5",
+  "6",
+  "7",
+  "8",
+  "9"
+ ],
+ "limites_da_analise": [
+  "Legenda automática; números de processo e nomes podem estar errados.",
+  "Em várias votações só se ouve «acompanho» sem nome; usei a proclamação. Nos itens 1, 13 e 10 só três manifestações além do relator: um diretor não votou, sem identificação de quem (marcado «não identificado»).",
+  "Vista do item 10 atribuída a Sandoval Feitosa porque quem pediu emendou «próximo item, secretário» (fala de quem preside); confiança media.",
+  "Hélvio Guerra não está nos falantes inferidos do .md, mas é citado («Dr. Hélvio») no debate do item 1 e compunha a diretoria em 2023; Ludimila Lima e Gentil Nogueira do cabeçalho não eram diretores na data (Ludmila citada é servidora).",
+  "Itens do bloco não identificados individualmente."
+ ]
+}

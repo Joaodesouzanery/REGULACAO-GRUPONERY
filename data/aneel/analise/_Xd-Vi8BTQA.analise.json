@@ -1,0 +1,104 @@
+{
+  "meta": {"video_id": "_Xd-Vi8BTQA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2, período da tarde); ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "17ª Reunião Pública Ordinária de 2022 (Parte 2)", "data": "2022-05-17", "formato": "presencial com sustentações por vídeo",
+    "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+    "diretores_presentes": ["Hélvio Guerra", "Sandoval Feitosa", "Efrain Pereira da Cruz"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 2 (tarde) da 17ª RPO de 17/05/2022; mesa presidida por Hélvio Guerra como diretor-geral substituto; sustentação menciona dia de despedida de Pepitone e Elisa.",
+      "Seis itens deliberados, todos por unanimidade (3 diretores).",
+      "Processos 12, 16, 19, 22 e 36 retirados de pauta (anúncio do secretário-geral, ~3:00:26).",
+      "Pela ordem (~2:36:26), comunicado de erro material em processo tarifário deliberado na semana anterior (variação do grupo A 16,34%; efeito médio 16,80% em vez de 12,54%), sem nova deliberação; lembrado o item 14 (processos 48500.003574/2021-68 e 48500.004545/2022-34).",
+      "Gentil Nogueira aparece citado como superintendente (fiscalização), não como diretor."
+    ]
+  },
+  "itens": [
+    {
+      "id": "7", "ts": "0:00:12",
+      "processo": "48500.004485/2022-10", "interessado": "Âmbar Energia S.A., EPP2 Centrais Elétricas Ltda. e EPP2 Itaguaí Energia Ltda. (UTE Mário Covas, Cuiabá-MT); sustentação oral de Marcelo Zanatta",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar para que as obrigações do Procedimento Competitivo Simplificado (PCS 1/2021) sejam atendidas pela UTE Mário Covas em vez das UTEs EDLUX X, EPP2, EPP4 e Rio de Janeiro I",
+      "tema": ["outorgas de geração (térmica)", "leilões (PCS 2021, escassez hídrica)", "medida cautelar", "comercialização (CCEE, CER)"],
+      "relator": "Efrain Pereira da Cruz", "resultado": "aprovado por unanimidade, com retirada do item 4 do dispositivo (alteração de características técnicas no mérito)",
+      "resumo_voto": "Cautelar deferida: perigo da demora (multas mensais por atraso) e fumaça do bom direito (Mário Covas 100% indisponível ao ONS, garantia física zero, logo novo recurso energético); operação comercialmente equivalente às quatro usinas, CVU de R$ 616,03/MWh, ICB R$ 1.594,84/MWh e receita fixa unitária R$ 1.761,30; geração acima da potência original não remunerada; SCG, SFG, SRM e SRG instruem o mérito.",
+      "votos": [
+        {"diretor": "Efrain Pereira da Cruz", "voto": "relator, aprova (cautelar), retirando o item 4 a pedido do colegiado", "ts": "0:28:01", "justificativa": "o grande elemento central é a questão de recurso energético novo; princípio da economicidade e da eficiência prevalecem sobre leitura restritiva do edital", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator, após sugerir retirar do dispositivo a autorização de mérito", "ts": "0:30:44", "justificativa": "como a análise é em sede de cautelar, a alteração de outorga (item 4) deveria ser examinada pelas áreas técnicas no mérito", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:47:13", "justificativa": "concordou com a retirada do item 4 (mudança de local não é reversível); questionou limitação de potência, remuneração do excedente e caracterização de energia nova; pediu inclusão de SRM e SRG na instrução do mérito", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "0:50:12",
+      "processo": "48500.000703/2017-80", "interessado": "ABRATE, Copel GeT e Celg GT; sustentações de Caio Cavalcante (ABDIB) e Tiago de Barros Correia (ABRATE, vídeo)",
+      "assunto": "Pedidos de reconsideração contra a REN 880/2020 (submódulos 9.1, 9.2 e 9.7 do PRORET; melhorias de pequeno porte em transmissoras licitadas sem adicional de RAP)",
+      "tema": ["transmissão (RAP, reforços e melhorias)", "recursos administrativos", "regulação normativa"],
+      "relator": "Sandoval Feitosa", "resultado": "unanimidade: não conhecer os pedidos de Copel GT e Celg GT; conhecer a petição da ABRATE como pedido de invalidação e negar provimento",
+      "resumo_voto": "Não há recurso contra ato normativo geral e abstrato; nenhuma ilegalidade apontada; indenização de melhorias será tratada em item da agenda regulatória.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, não conhece e nega provimento", "ts": "1:32:12", "justificativa": "não foi aventado nem comprovado nenhuma ilegalidade; licita-se o serviço; melhorias de pequeno e grande porte são diferentes; indenização virá na agenda regulatória", "confianca": "alta"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "1:35:11", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:35:11", "justificativa": "alocação de riscos é obrigação de quem apresenta o bid; não é razoável rever RAP no meio da concessão em situações normais", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:36:53",
+      "processo": "48500.000891/2019-16", "interessado": "Transmissoras; sustentações de Caio Cavalcante (ABDIB), Rafaela Takasaki (CGT Eletrosul), Kleber Davi (Eletrobras) e Camila Stefanello (ABRATE)",
+      "assunto": "Resultado da segunda fase da Consulta Pública 30/2020: aprimoramento da regulamentação de reforços e melhorias em instalações de transmissão",
+      "tema": ["transmissão (RAP, reforços e melhorias)", "regulação normativa (consulta pública, AIR)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade (REN e portaria de delegação à SCT); pedidos de retirada de pauta não acolhidos",
+      "resumo_voto": "Reforços de pequeno porte passam a ter receita na revisão periódica (exceções mantidas no reajuste); cadastro eletrônico por atributos; gatilho de 25% para revisão de reforços de grande porte; melhorias para licitadas só em grande porte com fim de vida útil; vigência a partir de 1/1/2023.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "2:32:36", "justificativa": "reforços de pequeno porte são menos de 1% da RAP e exigem esforço desproporcional; anexos técnicos não digitalizados não justificam retirada de pauta; banda de 25% dá segurança", "confianca": "alta"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "2:35:47", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:35:47", "justificativa": "troca de equipamento por dano é risco do empreendedor; não cabe repassar ao consumidor", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "9", "ts": "2:37:45",
+      "processo": "48500.006277/2018-79", "interessado": "Mata de Santa Genebra Transmissão S.A. (contrato de concessão 1/2014, leilão 7/2013, SE Fernão Dias); sustentação indeferida por intempestiva",
+      "assunto": "Aplicação de multa contratual/editalícia por atraso injustificado na entrada em operação",
+      "tema": ["fiscalização e sanções (multa)", "transmissão"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: multa de 3,5% do investimento (cerca de R$ 68,4 milhões, IPCA), e não 5% como proposto pela área técnica; SFE deve escalonar a dosimetria pelo tempo de atraso",
+      "resumo_voto": "Avocada a competência delegada; atraso de até 38,3 meses, mas empreendimento concluído (inadimplência parcial); proporcionalidade justifica 3,5%.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aplica multa de 3,5%", "ts": "2:56:18", "justificativa": "5% automático não atende ao princípio da proporcionalidade; dosimetria muito discretizada (0, 5, 10%)", "confianca": "alta"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "2:57:22", "justificativa": "aplicar sempre o teto não deve ser régua; inexecução não foi total, prestigia o esforço do agente", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:58:53", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "20", "ts": "3:00:34",
+      "processo": "48500.004480/2021-14 e outros", "interessado": "Delta 3 a 7 Energia S.A. e outras SPEs (complexo eólico Delta, controlado pela Ômega Energia; SE Miranorte 2); sustentação de Bruno Dal Pogetto",
+      "assunto": "Recursos contra autos de infração 64 a 78/2021 da SFG por descumprimento de submódulos dos Procedimentos de Rede do ONS após incêndio em banco de baterias (2020)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "outorgas de geração (eólica)"],
+      "relator": "Hélvio Guerra", "resultado": "unanimidade: conhecer e negar provimento",
+      "resumo_voto": "Não houve cessação espontânea: ordem do ONS descumprida por cerca de duas horas; 15 descumprimentos, multa total de cerca de R$ 596 mil já com atenuante de 50% (pedido de 95% rejeitado).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, conhece e nega provimento", "ts": "3:16:05", "justificativa": "fiscalização responsiva não se aplica a fatos já consolidados; houve risco potencial; não obedeceu ordem do ONS", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:16:47", "justificativa": "multa importante para que agentes não fiquem tentados a descumprir ordens do ONS", "confianca": "media"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "3:18:29", "justificativa": "penalidade não depende de dano efetivo; lembra o caso do Amapá", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "34", "ts": "3:19:19",
+      "processo": "48500.000077/1997-62 e 48500.006285/2003-70", "interessado": "Campos Novos Energia S.A. (Enercan), UHE Campos Novos, rio Canoas (SC); sustentação de Alexei Macorin Vivan",
+      "assunto": "Excludente de responsabilidade e recomposição do prazo da concessão por atraso de 325 dias (vazão anormal no túnel de desvio)",
+      "tema": ["outorgas de geração (hidrelétrica)", "excludente de responsabilidade", "recursos administrativos"],
+      "relator": "Sandoval Feitosa", "resultado": "unanimidade: negar provimento",
+      "resumo_voto": "Risco inserido na matriz assumida pelo concessionário (contrato 43/2000), conforme parecer da Procuradoria; item destacado do bloco por sustentação oral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento", "ts": "3:28:23", "justificativa": "mantém a convicção do voto já pautado; questões de ordem técnica são responsabilidade da concessionária", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:29:10", "justificativa": "clareza solar: projeto de hidrelétrica deve aplicar a melhor técnica e prever cheias decamilenares; responsabilidade do empreendedor", "confianca": "alta"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "3:31:51", "justificativa": "estava acompanhando em paralelo após queda de conexão", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["12", "16", "19", "22", "36"],
+  "limites_da_analise": [
+    "Efrain Pereira da Cruz (diretor-relator do item 7 e votante) não consta da lista de diretores de config_agencia.json; registrado com o nome como dito na sessão.",
+    "Legenda automática: números de processo, valores (CVU, ICB, multas) e nomes de pessoas/empresas (Zanatta, Takasaki, Dal Pogetto, Macorin Vivan, Delta 3 a 7) podem estar errados.",
+    "Falas de 'acompanho' sem nome atribuídas pela ordem de votação (relator, demais, presidente por último) e pela proclamação de unanimidade; no item 20 a atribuição das duas falas de concordância a Sandoval e Efrain é inferida (confiança media).",
+    "Só há um marcador de tempo no .md; ts obtidos por busca de trechos no JSON da transcrição e são aproximados.",
+    "Parte 1 da 17ª RPO (manhã, inclusive itens do bloco) não está neste vídeo."
+  ]
+}

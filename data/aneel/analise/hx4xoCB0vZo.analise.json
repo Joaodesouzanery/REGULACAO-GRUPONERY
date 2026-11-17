@@ -1,0 +1,571 @@
+{
+ "meta": {
+  "video_id": "hx4xoCB0vZo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12",
+  "data": "2022-04-12",
+  "formato": "presencial (parte 2, sessão da tarde)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Efrain Cruz (provável; mencionado como sem conexão — legenda incerta)"
+  ],
+  "observacoes": [
+   "Parte 2 (tarde) da 12ª Reunião Pública Ordinária de 2022; encerrada ao fim do vídeo (~4:44).",
+   "12 itens: 11 deliberados por unanimidade dos votantes e 1 com pedido de vista (item 30, Light).",
+   "Após o item 14, um diretor pediu que constasse em ata a retirada do seu voto no item 20 (São Roque), pois o diretor substituto Júlio César já havia votado antes da vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "20",
+   "ts": "0:00:02",
+   "processo": "48500.006740/2011-14 (legenda incerta)",
+   "interessado": "São Roque Energética S.A. (UHE São Roque)",
+   "assunto": "Pedido de reconsideração contra o Despacho 682/2020 sobre postergação do pagamento dos encargos do CUST 15/2016 (ciclo 2016/2017) para após a entrada em operação da UHE São Roque e rescisão do CUST pelo ONS",
+   "tema": [
+    "transmissão (CUST, encargos de uso)",
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "provido em parte por unanimidade dos votantes: postergação e parcelamento em 12 parcelas dos encargos após a entrada em operação; mantida a rescisão do CUST pelo ONS com alteração do cálculo da penalidade (abril/2020 até novo CUST, limite 36 meses); afastado o §7º do art. 5º da REN 666/2015; termo de confissão de dívida com o ONS em 30 dias",
+   "resumo_voto": "Continuação de voto (já lido até o parágrafo 40 na sessão da manhã; processo com pedido de vista sobre voto do diretor substituto Júlio César). Relator dispensa nova sustentação oral; propõe novação da dívida, IPCA na ausência de previsão contratual e cita agenda regulatória sobre uso do sistema de transmissão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista / relator, aprova",
+     "ts": "0:29:31",
+     "justificativa": "Novação da dívida com termo de confissão perante o ONS; parcelamento em 12 vezes após operação comercial; penalidade rescisória limitada a 36 meses.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:34",
+     "justificativa": "Acompanha; em 1:06 elogia a solução do diretor Sandoval para São Roque e Imetame. Um diretor pediu depois a retirada do seu voto neste item (ver limites).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:34",
+     "justificativa": "Acompanha; possível autor do pedido de retirada do voto (ver limites).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:31:34",
+     "justificativa": "Vota com o relator e proclama por unanimidade dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:33:38",
+   "processo": "48500.002767/2020-11 (legenda incerta)",
+   "interessado": "Imetame Geração de Energia S.A. / Imetame Termelétrica",
+   "assunto": "Recurso contra o Despacho 3.270/2020 da SRT que indeferiu exclusão de multa rescisória do CUST 101/2017",
+   "tema": [
+    "transmissão (CUST, encargos)",
+    "recursos administrativos",
+    "fiscalização e sanções (multa rescisória)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "provido em parte (proclamação sem menção expressa a unanimidade): ONS aplica a penalidade do art. 5º §6º da REN 666/2015 com novo cálculo (jan/2021 até novo CUST, limite 36 meses), parcelamento em 12 vezes após operação comercial, IPCA, termo de confissão de dívida em 30 dias",
+   "resumo_voto": "Mesma solução de São Roque: novação da dívida para viabilizar empreendimento já avançado. Houve pedido de sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:04:23",
+     "justificativa": "Novação da dívida, parcelamento em 12 vezes e limite de 36 meses; comenta que a regra de 36 meses quase nunca foi aplicada e precisa de revisão, pois projetos solares mudam de lugar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:06:26",
+     "justificativa": "Elogia a «solução inteligente» que viabiliza São Roque e Imetame; diz ter acompanhado os casos desde quando era superintendente e no MME (atribuição do comentário por inferência).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:09:32",
+     "justificativa": "«eu acompanho o voto do relator» (falante inferido pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:09:32",
+     "justificativa": "Vota com o relator e proclama; menciona diretor sem conexão.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:10:33",
+   "processo": "48500.005264/2021-88 (legenda incerta)",
+   "interessado": "Companhia Hidro Elétrica do São Francisco (Chesf)",
+   "assunto": "Recurso contra o Despacho 3.448/2021 da SRT que negou afastar a PV (parcela variável por indisponibilidade) do desligamento da LT 230 kV Bom Jesus da Lapa–Tabocas do Brejo Velho (7 a 25/3/2021)",
+   "tema": [
+    "transmissão (PV, indisponibilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade dos votantes; DG pede complemento descritivo no despacho",
+   "resumo_voto": "Chuvas fortes são risco ordinário da concessão, não excludente de responsabilidade; não há «prova diabólica».",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:27:12",
+     "justificativa": "Lê o voto e o dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:12",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:12",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:12",
+     "justificativa": "Vota por último com o relator e proclama o resultado.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:28:12",
+   "processo": "48500.006225/2021-06 (legenda incerta)",
+   "interessado": "Transmissora Aliança de Energia Elétrica (Taesa)",
+   "assunto": "Recurso contra o Despacho 4.041/2021 da SRT sobre PV do desligamento da LT Serra da Mesa–Gurupi C2 (4/3/2021), atribuído a arraste de árvores por terceiros",
+   "tema": [
+    "transmissão (PV, indisponibilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade dos votantes",
+   "resumo_voto": "A concessionária responde pela vigilância do entorno da linha, inclusive fora da faixa de servidão. Houve sustentação oral da Taesa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:45:32",
+     "justificativa": "Indisponibilidade imputável à transmissora; PV deve ser aplicada.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:46:34",
+     "justificativa": "Concorda integralmente: concessionária deve cuidar de árvores de grande porte que possam cair na linha (comentário atribuído por inferência).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:36",
+     "justificativa": "Acompanha; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:47:36",
+     "justificativa": "Vota com o relator e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:48:36",
+   "processo": "48500.003922/2009-66 (legenda incerta)",
+   "interessado": "CCEE; agentes comercializadores; Abraceel (sustentação oral)",
+   "assunto": "Resultado da Consulta Pública 51/2021: critérios de entrada, manutenção e saída de agentes do mercado de energia (alteração das REN 414/2010, 545/2013, 678/2015, hoje REN 1.011/2022)",
+   "tema": [
+    "comercialização (CCEE, segurança de mercado)",
+    "regulação normativa (consulta pública, resolução)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada a emissão de resolução normativa conforme minuta (proclamação sem menção expressa a unanimidade)",
+   "resumo_voto": "Classificação de comercializadores em tipo 1 e tipo 2 por porte/patrimônio, mais exigências aos maiores; redução de prazo de notificação e suspensão de consumidores livres. Apresentação técnica da SRM e sustentação oral da Abraceel (Yasmin).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:21:37",
+     "justificativa": "Dispensa leitura após apresentação técnica e lê o dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:23:40",
+     "justificativa": "Classificação tipo 1/tipo 2 não cria barreira de entrada e exige mais dos de maior porte; aprimora segurança do mercado e abertura de mercado (atribuição por inferência: parabeniza a relatoria).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:25:41",
+     "justificativa": "«eu acompanho o voto do relator» (falante inferido).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:26:43",
+     "justificativa": "Vota com o relator e declara o resultado; elogia a apresentação.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:26:43",
+   "processo": "48500.002404/2017-01 e 48500.003691/2017-45 (legenda incerta)",
+   "interessado": "ATE XXII Transmissora de Energia S.A. (grupo Abengoa) e seguradora",
+   "assunto": "Recursos contra o Despacho 3.038/2018 da SCT que determinou a execução da garantia de fiel cumprimento do contrato de concessão 2/2014 (LT 500 kV Marimbondo II–Campinas), após caducidade; pedido de prorrogação da suspensão dos processos do grupo Abengoa",
+   "tema": [
+    "fiscalização e sanções (garantia, caducidade, multa)",
+    "transmissão (outorgas)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "por unanimidade: indeferida a prorrogação da suspensão dos processos de execução de garantia e penalidades do grupo Abengoa; revogado o item 5 do Despacho 3.038/2018 e demais itens do dispositivo",
+   "resumo_voto": "Inadimplência é o fato; contraditório já exercido; sem nova suspensão. Houve sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:45:08",
+     "justificativa": "Contraditório e ampla defesa já exercidos; prazo de suspensão vencido sem acordo do grupo Abengoa.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:04:34",
+     "justificativa": "Concordância integral: prejuízo da Abengoa ao sistema de transmissão foi enorme (restrições de Belo Monte), multa é infinitamente menor; cita precedente TGO (atribuição por inferência).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:05:34",
+     "justificativa": "Acompanha; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:05:34",
+     "justificativa": "Proclama por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:06:37",
+   "processo": "48500.003698/2017-67 (legenda incerta)",
+   "interessado": "ATE XXIV Transmissora de Energia S.A. (grupo Abengoa)",
+   "assunto": "Conversão do processo de execução direta da garantia de fiel cumprimento do contrato 20/2014 em aplicação de multa, após caducidade; mandado de segurança",
+   "tema": [
+    "fiscalização e sanções (multa, garantia, caducidade)",
+    "transmissão"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "por unanimidade dos votantes: desconstituídos os despachos anteriores, ratificados os atos instrutórios, aplicada multa de cerca de R$ 55 milhões (10% do investimento, preços jan/2022); devolução da garantia se paga, execução se não paga",
+   "resumo_voto": "Limite de 10% já firmado pela diretoria; cumprimento da decisão judicial. Houve sustentação oral.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:24:05",
+     "justificativa": "Lê o voto e o dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:25:11",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:25:11",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:25:11",
+     "justificativa": "Vota por último com o relator e proclama o resultado.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "3:26:14",
+   "processo": "48500.003697/2017-12 (legenda incerta)",
+   "interessado": "ATE XXIII Transmissora de Energia S.A.",
+   "assunto": "Conversão da execução de garantia em multa (contrato 15/2014); voto-vista",
+   "tema": [
+    "fiscalização e sanções (multa, garantia, caducidade)",
+    "transmissão"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "por unanimidade dos votantes, nos termos do voto da relatora Elisa Bastos (8ª RPO/2022), acompanhado pelo voto-vista de Hélvio Guerra: multa de cerca de R$ 119,9 milhões (10% do investimento)",
+   "resumo_voto": "Hélvio pediu vista para julgar em conjunto com casos semelhantes e acompanhou integralmente.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (voto da 8ª RPO, mantido)",
+     "ts": "3:29:17",
+     "justificativa": "Relatora originária; voto proferido na 8ª reunião; declara manter os votos por coerência (atribuição por inferência).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha integralmente a relatora",
+     "ts": "3:28:16",
+     "justificativa": "Pediu vista para deliberar em conjunto com processos semelhantes; não propõe alteração.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:29:17",
+     "justificativa": "Acompanha; proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora",
+     "ts": "3:29:17",
+     "justificativa": "Acompanha o voto da diretora Elisa e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "3:27:14",
+   "processo": "48500.003693/2017-34 (legenda incerta)",
+   "interessado": "ATE XIX Transmissora de Energia S.A.",
+   "assunto": "Cumprimento de decisão judicial (mandado de segurança) para anular o Despacho 2.542/2018 da SCT sobre execução da garantia do contrato 9/2013; voto-vista",
+   "tema": [
+    "fiscalização e sanções (garantia)",
+    "transmissão",
+    "decisão judicial"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "por unanimidade dos votantes, nos termos do voto da relatora (9ª RPO/2022) acompanhado pelo voto-vista: desconstituídos os Despachos 2.542/2018 e 379/2019, ratificados os atos instrutórios",
+   "resumo_voto": "Hélvio acompanhou integralmente em voto-vista.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (voto da 9ª RPO, mantido)",
+     "ts": "3:29:17",
+     "justificativa": "Relatora originária; mantém o voto.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha integralmente a relatora",
+     "ts": "3:28:16",
+     "justificativa": "Vista para julgamento conjunto; sem alteração.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "3:31:18",
+     "justificativa": "Acompanha; proclamação por unanimidade.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora",
+     "ts": "3:31:18",
+     "justificativa": "Acompanha o voto condutor da diretora Elisa e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:31:18",
+   "processo": "48500.005580/2017-51 (legenda incerta)",
+   "interessado": "Distribuidoras; consumidores livres",
+   "assunto": "Resultado da Consulta Pública 46/2021: regulamentação da venda de excedentes das distribuidoras (MVE), exigência de garantias financeiras dos compradores",
+   "tema": [
+    "comercialização (venda de excedentes, garantias)",
+    "regulação normativa (consulta pública, resolução)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovada por unanimidade dos votantes a resolução normativa e regras de comercialização exigindo aporte de garantias financeiras dos compradores no mecanismo de venda de excedentes",
+   "resumo_voto": "Item invertido na pauta.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "3:53:49",
+     "justificativa": "Lê o voto e o dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:49",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:49",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:53:49",
+     "justificativa": "Vota por último com o relator e proclama o resultado.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:54:49",
+   "processo": "48500.004869/2017 e outros (legenda incerta)",
+   "interessado": "Abrate (associação de transmissoras); Vila do Conde Transmissora (VCTE)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.297/2019 sobre PV de ocorrências com explosão de TCs CTH-550; requerimento da Vila do Conde sobre PV da LT 500 kV Tucuruí–Vila do Conde C3 (28/10/2019)",
+   "tema": [
+    "transmissão (PV, indisponibilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "por unanimidade: negado provimento à reconsideração da Abrate e ao requerimento da Vila do Conde; perda de objeto das cautelares",
+   "resumo_voto": "Falha de equipamento (TC) não afasta a PV.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "4:23:44",
+     "justificativa": "Lê o voto e o dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:23:44",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:23:44",
+     "justificativa": "Acompanha o relator; proclamação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:23:44",
+     "justificativa": "Vota por último com o relator e proclama o resultado.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "4:24:44",
+   "processo": "48500.000251/2020-31 (legenda incerta)",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Recurso contra o Auto de Infração 26/2020 da SFE (multa por indicadores de continuidade, cerca de R$ 16,66 milhões)",
+   "tema": [
+    "fiscalização e sanções (multa, qualidade/continuidade)",
+    "recursos administrativos",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista do diretor Hélvio Guerra; não deliberado",
+   "resumo_voto": "Relatora nega provimento e mantém multa já atenuada em 50% pela melhoria da qualidade; sustentação oral da Light (Emerson Caçador).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, nega provimento",
+     "ts": "4:42:07",
+     "justificativa": "Dosimetria adequada; gravidade atenuada em 50% pela melhoria; mantém multa de cerca de R$ 16,66 milhões.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "4:43:09",
+     "justificativa": "Tem processo muito parecido (legenda: «canal energia») já retirado de pauta duas vezes; quer analisar em conjunto (atribuição pela fala da mesa «vistas para o diretor Hélvio»).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "4:43:09",
+     "justificativa": "Não votou antes da vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "4:43:09",
+     "justificativa": "Concede vista e encerra a sessão.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "André Pepitone (DG) e Elisa Bastos não constam da lista de diretores do config da ANEEL (composição de 2022); registrados como ditos. Os rótulos de falante do .md (Gentil Nogueira, Ricardo Tili) não correspondem: Ricardo Tili aparece como secretário-geral.",
+  "Efrain Cruz: presença incerta; a legenda diz «o diretor ... como vota ... sem conexão» no item 14.",
+  "Item 20: o voto foi lido em parte na sessão da manhã (não coberta); diretor que retirou o voto não identificado (Hélvio Guerra ou Elisa Bastos); nº de votos por item pode não fechar com os presentes.",
+  "Votos de quem só diz «acompanho» atribuídos pela ordem e pela proclamação; confiança media/baixa.",
+  "Números de processo, despachos e valores vêm da legenda automática e podem estar errados.",
+  "Item 71 mencionado no fim sem deliberação clara."
+ ]
+}

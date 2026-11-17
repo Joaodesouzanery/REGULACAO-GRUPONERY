@@ -1,0 +1,85 @@
+{
+  "meta": {"video_id": "BleYCXFwpVM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 1, manhã); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª RPO 2023", "data": "2023-01-24", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Agnes da Costa"],
+    "observacoes": ["Parte 1 (manhã) da 1ª Reunião Pública Ordinária de 2023; interrompida para almoço com retorno às 15h (Parte 2 em outro vídeo).", "Quórum de quatro diretores; diretora Agnes ausente, deixou voto escrito no item 3 (lido pelo Diretor-Geral).", "Pauta com 100 itens; itens 9 a 100 em bloco; retirados de pauta 6, 7, 19, 26, 32, 33, 44 e 69; item 39 destacado do bloco para sustentação oral (não deliberado nesta parte).", "Aprovadas as atas da 47ª RPO (13/12/2022; Fernando Mosna registrou ausência naquela reunião) e da 5ª RPE de 2022.", "Informes do Diretor-Geral sobre queda de torres de transmissão e ações de segurança após 9/1; Hélvio Guerra comunicou prorrogação das CPs 64/2022 e 62/2022."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:17:52", "processo": "itens 9 a 100 (remanescentes)", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 9 a 100 remanescentes (excluídos retirados e o item 39 destacado)",
+      "tema": ["regulação normativa", "bloco"], "relator": "diversos", "resultado": "aprovados os itens remanescentes do bloco",
+      "resumo_voto": "Todos os presentes aprovaram o bloco.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:18:00", "justificativa": "aprovo os itens remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:18:03", "justificativa": "aprovo bloco", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:18:05", "justificativa": "acompanha os remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:18:06", "justificativa": "Eu também aprovo os itens remanescentes do bloco e proclamo", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:18:24", "processo": "48500.002085/2019-74", "interessado": "Equatorial Piauí Distribuidora de Energia S.A. (ex-Cepisa)",
+      "assunto": "Pedido de reconsideração contra o Despacho 2.830/2019 que indeferiu a revisão tarifária extraordinária (RTE, avaliação completa da BRR) em substituição ao reajuste de 2019; voto-vista de Fernando Mosna (relator original: diretor Jácomo)",
+      "tema": ["tarifas e revisão tarifária", "recursos administrativos", "distribuição"], "relator": "Fernando Mosna (voto-vista; relator original Jácomo, ex-diretor substituto)",
+      "resultado": "pedido de vista de Ricardo Tili; julgamento suspenso",
+      "resumo_voto": "Fernando Mosna votou por dar provimento ao pedido de reconsideração, revogar o Despacho 2.830/2019 e abrir consulta pública (25/1 a 11/3/2023, audiência presencial em 2/3) sobre a RTE da Equatorial Piauí; efeito financeiro estimado em cerca de R$ 178 milhões nominais, com parcelamento escalonado 2023-2026 proposto pela empresa. Sandoval questionou a tempestividade (prazos do rito não cumpridos, informação entregue na véspera) e a qualidade do serviço da distribuidora. Ricardo Tili argumentou que a entrega foi intempestiva e pediu vista para julgar junto com processos semelhantes (Energisa Rondônia/Acre).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: dá provimento ao pedido de reconsideração", "ts": "0:19:05", "justificativa": "BDGD com conciliação de 71,1% foi entregue antes da deliberação da diretoria; processo atípico sem rito em norma não atrai intempestividade; parcelamento admissível para estabilidade tarifária", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "1:13:48", "justificativa": "entende que a informação foi intempestiva (apresentada na véspera da decisão); processo semelhante está com ele; quer trazer os casos em conjunto", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "1:13:48", "justificativa": "julgamento suspenso por pedido de vista; comentou que processo semelhante (Energisa) está sob sua relatoria segundo o DG", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:13:48", "justificativa": "registrou que os prazos do rito acordado não foram cumpridos e que a Equatorial Piauí tem indicadores de qualidade distantes do ideal; elogiou o pedido de vista conjunto", "tom": "crítico", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:14:42", "processo": "48500.006161/2022-16", "interessado": "Amazonas Energia S.A.",
+      "assunto": "Pedido de reconsideração contra o Despacho 2.430/2022 que negou a revisão da neutralidade da remuneração no período de prestação temporária (designação) do serviço de distribuição",
+      "tema": ["recursos administrativos", "distribuição", "tarifas e revisão tarifária"], "relator": "Fernando Mosna",
+      "resultado": "conhecido e negado provimento; mantido o Despacho 2.430/2022 (unânime)",
+      "resumo_voto": "Remuneração adequada da Portaria MME 388/2016 e REN 748/2016 não equivale a neutralidade econômica; empréstimos RGR de cerca de R$ 1,9 bilhão; leilão e EcoT zero não são competência da ANEEL; convergente com SFF e Procuradoria.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "1:14:42", "justificativa": "remuneração adequada e neutralidade econômica são conceitos distintos; neutralidade só prevista em caso de liquidação (Portaria 301/2018); leilão conduzido por MME/BNDES/PPI", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:13:47", "justificativa": "o pleito veio endereçado à casa errada; a empresa conhecia o passivo de R$ 3,3 bilhões ao assinar o contrato", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:13:50", "justificativa": "acompanha (fala sem nome; atribuição pela ordem)", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:13:56", "justificativa": "elogiou o voto; ANEEL não fez o leilão nem definiu seus parâmetros; insurgência deve ser dirigida a outro órgão", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:14:20", "processo": "48500.003718/2022-67", "interessado": "distribuidoras e consumidores (SRD)",
+      "assunto": "Resultado da Consulta Pública 42/2022: alteração da REN 1.000/2021 e do Módulo 11 do PRODIST (REN 956/2021) para oferta do PIX como meio de pagamento das faturas de energia",
+      "tema": ["regulação normativa", "distribuição", "direitos do consumidor"], "relator": "Ricardo Tili",
+      "resultado": "aprovada a resolução normativa (unânime), vigência em 120 dias",
+      "resumo_voto": "PIX obrigatório quando solicitado pelo consumidor; prazo até o primeiro ciclo completo de faturamento; vedada cobrança de visita técnica quando o consumidor comprova pagamento na hora do corte; apresentação técnica de Clélia Fabiana (SRD).",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:14:54", "justificativa": "PIX moderniza pagamentos, é instantâneo e de custo menor, o que reduz custo operacional refletido na tarifa", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator, com ressalva ao prazo de 120 dias", "ts": "2:46:47", "justificativa": "Eu voto com relator mesmo discordando dos 120 dias (defendeu que 90 dias bastariam)", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:46:50", "justificativa": "redução de custos de transação, agilidade e segurança; frustração por não ser imediato", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:46:53", "justificativa": "humaniza a relação com o consumidor; evita cobrança de visita e corte indevido; proclamou unanimidade", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:47:30", "processo": "48500.006882/2022-26; 48500.008251/2022-41", "interessado": "Enel Distribuição Ceará",
+      "assunto": "Abertura de consulta pública (25/1 a 10/3/2023, audiência em Fortaleza em 2/3) sobre a revisão tarifária periódica da Enel Ceará a partir de 22/4/2023 e limites DEC/FEC 2024-2027; efeito médio proposto 2,28% (AT -3,74%, BT +4,47%)",
+      "tema": ["tarifas e revisão tarifária", "distribuição", "regulação normativa"], "relator": "Agnes da Costa (ausente; voto lido pelo Diretor-Geral)",
+      "resultado": "aprovada a abertura da consulta pública (unânime)",
+      "resumo_voto": "Voto escrito da relatora; apresentação de Francisco Faé (SGT). Sandoval comentou o PDL contra o reajuste de 2022 e a Lei 14.385; Hélvio Guerra ressalvou que o PDL foi interferência na autonomia da ANEEL.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "voto deixado (lido por Sandoval Feitosa)", "ts": "2:47:54", "justificativa": "instaurar consulta pública para aprimorar a proposta de RTP e limites DEC/FEC", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "3:13:27", "justificativa": "PDL legítimo do ponto de vista legal, mas não da razão: interferência na autonomia da ANEEL", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "3:13:29", "justificativa": "valores provisórios, podem mudar até 18/4", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "3:13:31", "justificativa": "acompanha (fala sem nome; atribuição pela ordem)", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "3:13:33", "justificativa": "proposta inferior ao IPCA; distribuição é o segmento que menos cresce em custos reais; proclamou unanimidade", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["6", "7", "19", "26", "32", "33", "44", "69"],
+  "limites_da_analise": [
+    "Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda por busca de frase, aproximados para quem só acompanha.",
+    "Votos curtos sem nome (bloco, itens 5, 2 e 3) atribuídos pela ordem usual; confiança baixa/média.",
+    "Relator original do item 4 citado como «Jácomo Francisco Barce Almeida» (nome incerto, fora da lista de diretores).",
+    "Item 39 (sustentação oral) e restante da pauta não constam desta Parte 1.",
+    "Nomes de servidores (Clélia Fabiana, Francisco Faé, Davi, Maria Luiza, Camila) e valores vêm da legenda automática."
+  ]
+}

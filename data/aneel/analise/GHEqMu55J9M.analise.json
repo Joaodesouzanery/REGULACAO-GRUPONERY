@@ -1,0 +1,58 @@
+{
+  "meta": {"video_id": "GHEqMu55J9M", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "25ª Reunião Pública Ordinária de 2023 (Parte 2, turno vespertino)", "data": "2023-07-18", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Ricardo Tili", "Hélvio Guerra"],
+    "ausentes": ["Agnes da Costa (participou só do turno matutino; deixou votos consignados)"],
+    "observacoes": ["Retomada da reunião à tarde; o DG corrige informe: prazo das tomadas de subsídios 9 e 10/2023 termina em 18/08, não 18/07.", "3 itens deliberados: abertura de CP do edital dos leilões A-1/A-2 de 2023 (unânime), voto-vista de Fernando Mosna em AIR/CP 45/2022 situação operacional (unânime, relator incorpora ajustes), voto-vista de Hélvio Guerra no pedido de reconsideração da Transmissora Paraíso de Energia (por maioria).", "Balanço do DG no encerramento: abertura de CP de edital, dois reajustes, uma revisão tarifária, dois resultados de CP, cinco recursos/pedidos de reconsideração, 11 DUPs, entre outros."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:40",
+      "processo": "48500.003281/2023-42", "interessado": "Secretaria de Leilões (SEL/ANEEL); MME",
+      "assunto": "Abertura de consulta pública para aprimorar minuta de edital e anexos dos Leilões 4/2023 e 5/2023 (energia existente A-1 e A-2 de 2023)",
+      "tema": ["leilões (geração)", "regulação normativa (consulta pública)"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade (CP de 19/07 a 04/09/2023)",
+      "resumo_voto": "Apresentação técnica da SEL: leilão em 01/12/2023, contratos de 2 anos, comercializadores podem participar, adoção da Lei 14.133 como subsidiária sem a vedação de controladas/coligadas do art. 14 (parecer da Procuradoria), ANEEL como beneficiária das garantias, liberação da garantia só com assinatura do CCEAR.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova instaurar consulta pública", "ts": "0:10:53", "justificativa": "fase preparatória; Procuradoria opina pela abertura; cronograma permite leilão em 01/12/2023", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:11:35", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:11:35", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "voto deixado (lido por Sandoval Feitosa): acompanha o relator", "ts": "0:11:40", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:11:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:12:34",
+      "processo": "48500.005662/2012-45 (número incerto na legenda)", "interessado": "agentes de geração; ONS",
+      "assunto": "Resultado da CP 45/2022 / AIR: aprimoramento da REN 1.029/2022 sobre obtenção e manutenção da situação operacional de empreendimentos de geração (voto-vista)",
+      "tema": ["regulação normativa (resultado de consulta pública)", "outorgas de geração"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade nos termos do voto do relator com os ajustes de redação do voto-vista",
+      "resumo_voto": "Vista de Fernando Mosna (pedida na 8ª RPO, 21/03/2023): concorda com o mérito, mas, após parecer 187/2023 da Procuradoria, troca nos arts. 10-E e 10-F os termos anular/ratificar/suspender/revogar por cassar (ONS poderá cassar a declaração; ANEEL poderá suspender ou cassar). Relator incorpora os ajustes.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova; incorpora as sugestões do voto-vista", "ts": "0:17:40", "justificativa": "ajuste é só de forma e qualidade técnica da redação; prevalece o voto original com as adequações", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: acompanha o mérito, propõe ajustes de redação (acolhidos)", "ts": "0:13:27", "justificativa": "termos suspender, revogar e anular não são sinônimos em linguagem técnico-jurídica; usar cassar", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto deixado (lido por Sandoval Feitosa): acompanha (já havia votado antes da vista)", "ts": "0:19:00", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator com os ajustes (pela proclamação)", "ts": "0:19:30", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto do relator com os ajustes", "ts": "0:19:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:21:07",
+      "processo": "48500.001153/2018-05", "interessado": "Transmissora Paraíso de Energia S.A. (TPE)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1.525/2022, que negou alteração do anexo da REA 6.942/2018 (DUP para servidão administrativa) e determinou retirada das instalações fora do traçado declarado (voto-vista, terceiro pedido de vista)",
+      "tema": ["transmissão", "recursos administrativos", "declaração de utilidade pública"],
+      "relator": "Giácomo (relator original, não mais na diretoria; nome fora da lista)", "resultado": "por maioria, conhecido e negado provimento, mantido integralmente o Despacho 1.525/2022, nos termos dos votos-vista de Ricardo Tili e Hélvio Guerra",
+      "resumo_voto": "Relator original propunha revogar o despacho e alterar a DUP mantendo a linha; Ricardo Tili (1ª vista) votou por negar; Sandoval Feitosa (2ª vista) mantinha a linha sem alterar a DUP por decurso de 5 anos; Hélvio Guerra (3ª vista) acompanha integralmente Ricardo Tili.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista: conhece e nega provimento (acompanha o voto-vista de Ricardo Tili)", "ts": "0:30:00", "justificativa": "questão extrapola o técnico e jurídico: intervenção em propriedade privada diversa da declarada de utilidade pública na REA 6.942/2018", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "voto-vista vencedor (proferido em 14/03/2023): nega provimento", "ts": "0:31:40", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "já havia votado (sentido não explicitado na legenda; presumivelmente com a maioria)", "ts": "0:31:40", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge (voto-vista próprio: manter a linha sem alterar a DUP) — vencido, inferido", "ts": "0:32:06", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição em bloco único; ts obtidos do JSON da legenda, aproximados.", "Hélvio Guerra presente apenas inferido (relator do voto-vista do item 3); não há chamada nominal.", "Item 3: proclamação ilegível (por maioria ... Diverge ... do voto diretor Sandoval ... 3 a 1?); quem foi vencido não está claro; Sandoval como divergente é inferência. Agnes já teria se manifestado antes da vista, sentido não dito; não registrada.", "Relator original do item 3 citado como diretor Giácomo/Diácono (fora da lista do config); Efraim Pereira da Cruz citado como relator anterior.", "Número do processo do item 2 incerto na legenda."]
+}

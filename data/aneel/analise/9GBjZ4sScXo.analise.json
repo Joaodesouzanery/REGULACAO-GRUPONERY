@@ -1,0 +1,292 @@
+{
+ "meta": {
+  "video_id": "9GBjZ4sScXo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária de 2023 (Parte 1, manhã)",
+  "data": "2023-04-04",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Agnes da Costa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Colegiado completo (5 diretores). Pauta com 52 itens; itens 8 a 52 em bloco; retirados 5, 13 e 26.",
+   "Ordem: bloco, depois itens 2, 3, 1, 14 de manhã; itens 7, 6 e 4 ficaram para a tarde (Parte 2, outro vídeo).",
+   "Ata da 9ª RPO aprovada; Sandoval absteve-se por ausência naquela reunião.",
+   "Informes: bandeira verde em abril/2023; DEC/FEC 2022 melhores da série histórica."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:11:20",
+   "processo": "itens 8 a 52 (exceto retirados 13 e 26)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos disponibilizados previamente); retificação de Agnes da Costa no item 32: resoluções autorizativas para alterar características técnicas de centrais termelétricas (Pacaraima) e sistema de transmissão de interesse restrito, com determinação à Usina Xavantes S.A. de regularizar inadimplência em 15 dias e acompanhamento pela SFF",
+   "tema": [
+    "outorgas de geração",
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Agnes retificou o dispositivo do item 32; todos aprovaram o bloco.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco (com retificação do item 32)",
+     "ts": "0:11:20",
+     "justificativa": "retificação do dispositivo por identificação do nome da empresa inadimplente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:12:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:12:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:12:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama unanimidade",
+     "ts": "0:12:46",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:13:21",
+   "processo": "48500.006880/2022-37; 48500.007673/2022-8x",
+   "interessado": "Energisa Mato Grosso do Sul (EMS); sustentação oral: Rosimeire Cecília da Costa (Conselho de Consumidores da EMS)",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Energisa Mato Grosso do Sul a partir de 08/04/2023 e limites DEC/FEC 2024-2028, após CP 61/2022",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: efeito médio 9,28% (6,28% alta tensão; 10,48% baixa tensão)",
+   "resumo_voto": "Aceito ajuste de parcela B associado ao SCEE (~R$ 58,9 mi) e correção energia medida x faturada nas perdas técnicas; pleito sobre perdas não técnicas negado e remetido à TS 28/2022; excedente de R$ 171 mil ao conselho de consumidores. Agnes e Hélvio comentaram a necessidade de atualizar o PRORET diante da GD.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "confianca": "alta",
+     "ts": "0:58:55"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:49",
+     "justificativa": "comentou que perdas não técnicas e relação medida/faturada pela GD precisam ser tratadas na revisão do PRORET (submódulo 2.6)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:52:13",
+     "justificativa": "acolhe ajuste de parcela B pelo crescimento da MMGD e correção de perdas técnicas; perdas não técnicas exigem discussão em consulta pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:49",
+     "justificativa": "comentou frustração por não conseguir atualizar regras a tempo; dever de casa de ajustar regras",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:00:32",
+   "processo": "48500.006881/2022; 48500.008250/2022",
+   "interessado": "Energisa Mato Grosso (EMT); sustentação oral: Edvaldo Belisário dos Santos e Carlos Alberto de Souza (Conselho de Consumidores da EMT)",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Energisa Mato Grosso a partir de 08/04/2023 e limites DEC/FEC 2024-2028, após CP 62/2022",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: efeito médio 8,81% (7,29% alta tensão; 9,45% baixa tensão)",
+   "resumo_voto": "Ajuste de parcela B pelo SCEE aceito apenas para parcela B; perdas técnicas corrigidas, perdas não técnicas e custos operacionais não acolhidos sem consulta pública. Conselheiros criticaram DEC/FEC rural e o ajuste da GD; Hélvio, Fernando, Ricardo e Agnes debateram transparência e participação dos conselhos de consumidores.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "confianca": "alta",
+     "ts": "2:00:35"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:00:31",
+     "justificativa": "consumidor é protagonista; ANEEL precisa de mais transparência; muito da tarifa vem de leis (subsídios, Lei 14.300)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:37:26",
+     "justificativa": "equilíbrio entre pagamento tarifário justo e serviço; não considerar o crescimento exponencial da GD desequilibraria a balança",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:54:10",
+     "justificativa": "conselhos de consumidores não participaram das discussões da CDE-GD e da Lei 14.300; o diálogo é bilateral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:00:31",
+     "justificativa": "registrou contribuições dos conselhos e das agências estaduais conveniadas",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:01:48",
+   "processo": "48500.006865/2022-24; 48500.008369/2022-70",
+   "interessado": "CPFL Paulista; sustentação oral: Wilson Davi (Conselho de Consumidores da CPFL Paulista); ISA CTEEP citada",
+   "assunto": "Resultado da revisão tarifária periódica da CPFL Paulista a partir de 08/04/2023 e limites DEC/FEC 2024-2028, após CP 56/2022",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "transmissão (conexão)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (efeito médio 4,89%: 5,44% AT; 4,60% BT), com acréscimo de determinação de fiscalização (SFF/SGT) sobre os aditivos 11, 14 e 17 do contrato de prestação de serviço CPFL-CTEEP para fins de neutralidade, prazo de cerca de 120 dias",
+   "resumo_voto": "Relator negou repasse de ~R$ 18 mi de aditivos ao CCT com a CTEEP (medição SMF), por não estarem na BRR conforme submódulo 2.3 do PRORET e orientação da SRT de 2019; flexibilizou limites DEC/FEC em 128 dos 179 conjuntos. Agnes questionou negar custo existente há ~14 anos; Ricardo propôs componente financeiro; Sandoval sugeriu banco de preços; Hélvio disse que poderia pedir vista mas não o fez para não prejudicar a distribuidora; incluída determinação de fiscalização.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:02:00",
+     "justificativa": "não se sente confortável com 14 anos sem encerrar a discussão, mas acompanha considerando as palavras de Hélvio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:00:20",
+     "justificativa": "poderia pedir vista, mas o prejuízo para a distribuidora seria maior que os R$ 18 mi a reconhecer depois; sente-se constrangido por discutir publicamente algo que já deveria estar resolvido",
+     "tom": "desconforto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:10",
+     "justificativa": "defendeu reconhecer o custo como componente financeiro, não na base",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:36:40",
+     "justificativa": "custo dos aditivos deveria estar na BRR pelo PRORET; sem como certificar os R$ 18 mi; aceita incluir determinação de fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:01:10",
+     "justificativa": "questionou não reconhecer custo real por equívoco de contabilização; propôs prazo para a fiscalização",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:06:14",
+   "processo": "48500.003456/2016-92",
+   "interessado": "Municípios de Glória (BA), Jatobá (PE) e Delmiro Gouveia (AL); Paulo Afonso (BA); sustentação oral: André Felipe Araújo Cox dos Santos (município de Glória)",
+   "assunto": "Pedido de reconsideração contra o Despacho 3.477/2022, que negou repasse retroativo da CFURH (março/2016 a janeiro/2020) pelos coeficientes da REH 2.646/2019 (UHE Paulo Afonso IV / Apolônio Sales)",
+   "tema": [
+    "recursos administrativos",
+    "compensação financeira (CFURH)",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Sem fato novo; retroatividade descumpriria o mandado de segurança obtido por Paulo Afonso (parecer PF 299/2022). Hélvio lembrou que, como superintendente em 2009, reconheceu tecnicamente o pleito, mas o ato depende do Judiciário.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "confianca": "alta",
+     "ts": "3:33:10"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:33:03",
+     "justificativa": "mérito técnico reconhecido, mas o ato depende do Judiciário",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:33:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:25:03",
+     "justificativa": "pedido não traz fato novo; acolher significaria descumprir decisão judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:33:03",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5",
+  "13",
+  "26"
+ ],
+ "limites_da_analise": [
+  "Gentil Nogueira constava no cabeçalho de falantes inferidos, mas a abertura cita Hélvio, Ricardo, Fernando e Agnes com o DG; considerou-se Hélvio Guerra presente e Gentil não.",
+  "Números dos processos (dígitos verificadores) vêm da legenda automática e podem estar errados.",
+  "Nas votações ouviram-se poucas falas individuais sem nome ('eu voto com o relator', 'eu também acompanho'); votos dos demais atribuídos pela proclamação de unanimidade, confiança media.",
+  "Autoria das falas de debate inferida pelo contexto (ex.: Hélvio relator da norma da GD; Fernando relator da CPFL); item 14: pergunta sobre a REH 2.646 sem autor identificado.",
+  "No item 1 (CPFL) a proclamação não repete 'unanimidade', mas todos se manifestaram acompanhando; prazo da fiscalização (~120 dias) discutido sem confirmação final clara.",
+  "Itens 4, 6 e 7 não estão neste vídeo (Parte 2)."
+ ]
+}

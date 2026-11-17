@@ -1,0 +1,98 @@
+{
+  "meta": {"video_id": "NHn4JSrFpQA", "fonte": "legenda automática do YouTube; transcrição sem separação de falantes (bloco único); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "43ª Reunião Pública Ordinária de 2023 (Parte 1)", "data": "2023-11-21", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); abertura feita por Hélvio Guerra, que passou a presidência",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili", "Hélvio Guerra", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura com quórum de três diretores (Hélvio Guerra, Agnes da Costa, Ricardo Tili); Sandoval Feitosa e Fernando Mosna chegaram em seguida.",
+      "Boas-vindas ao novo Procurador-Geral Raul Pereira Lisboa e confirmação de Daniel Dana como Secretário-Geral.",
+      "Informes sobre a crise de fornecimento em São Paulo (Enel SP) após vendaval de 3/11/2023 e reunião com governador e 21 prefeitos.",
+      "Pauta com 34 itens; bloco 12 a 34 (destacados 13, 16 e 18); retirados 5, 6, 7, 8 e 9; ordem: bloco, 1, 2, 11, 10, 13, 16, 18, 3, 4. Nesta Parte 1 foram deliberados bloco, 1, 2, 11 e 13 (invertido por urgência de publicação); sessão suspensa às 3:15:43 para retorno às 14h30 (itens 10, 16, 18, 3 e 4 ficam para a Parte 2).",
+      "Ata da 42ª reunião (realizada em São Paulo, sede da CCEE, 14/11/2023) aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:18:56", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 12 a 34 da pauta em bloco (exceto destacados 13, 16 e 18)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Votos e atos disponibilizados previamente com a pauta; aprovados em bloco.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "0:19:00", "justificativa": "", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:19:00", "justificativa": "", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:19:00", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:19:10", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:19:27", "processo": "48500.001560/2023-71",
+      "interessado": "Secretaria de Leilões / SCE; sustentação oral de Cléber Davi (Eletrobras / CGT Eletrosul)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 1/2024 (15 lotes, ~R$ 18,2 bi), consolidado após a Consulta Pública 30/2023; CGT Eletrosul pediu retirar do lote 11 a substituição de transformadores da SE Anastácio (tratar como reforço)",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas, reforços)", "habilitação econômico-financeira"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade, com alteração do voto: volta a exigir balanço com parecer de auditor independente para todas as licitantes",
+      "resumo_voto": "Aprova a minuta do edital e anexos, envia ao TCU (IN 81/2018) e determina às concessionárias que autorizem visitas até 13/03/2024. Mantida a SE Anastácio no lote 11 (área técnica: pátio novo de 138 kV e trafo em fim de vida útil; licitação é a regra). Após debate, a relatora alterou o voto para exigir balanço auditado de todas as empresas (a minuta pós-CP limitava às S.A. e grandes empresas, por parecer da Procuradoria), deixando eventual objeção ao TCU.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (com alteração do voto)", "ts": "1:12:00", "justificativa": "Sensível aos argumentos; como o edital ainda passará pelo TCU, recupera a exigência de balanços auditados prevista na abertura da CP e registra o debate no voto.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:12:14", "justificativa": "Questionou a restrição do balanço auditado só a quem a lei já obriga: com lote mínimo de ~R$ 140-150 mi, auditoria independente é o mínimo e selecionar melhor os competidores melhora a concorrência; prefere que o TCU diga que não pode.", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "1:12:20", "justificativa": "Pela experiência do leilão anterior (empresa inabilitada), propôs testar a exigência junto ao TCU; defendeu manter a SE Anastácio no leilão, citando jurisprudência da ANEEL (SE Porto Alegre 4, lote 6).", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:12:16", "justificativa": "Criticou a sustentação da Eletrobras (acórdão TCU suspenso; POTEE prevê licitação; multa de mais de R$ 200 mi à Eletrosul) e citou SE Centro em Porto Alegre: licitação sempre é o melhor remédio.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:12:16", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:13:26", "processo": "48500.005377/2019-69", "interessado": "agentes de geração e transmissão",
+      "assunto": "Resultado da Consulta Pública 36/2021: regulamentação do art. 4º-C da Lei 9.074/1995 (plano de transferência de controle societário como alternativa à extinção da outorga)",
+      "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR)", "fiscalização e sanções (caducidade)", "geração", "transmissão"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova resolução normativa (a ser incorporada à REN 846/2019) com critérios para plano de transferência em empreendimentos de G e T em implantação ou ampliação: pedido entre o termo de intimação e a primeira decisão da Diretoria; um único plano por outorga; retirada completa dos sócios; vedado novo controlador penalizado nos últimos 3 anos; mantidas receitas e prazos do contrato.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:34:59", "justificativa": "Prazo único e plano único para evitar protelação no processo punitivo; manutenção das condições originais para não desequilibrar o contrato.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:40:20", "justificativa": "Marcos específicos dão previsibilidade; critica planos apresentados na véspera do julgamento com fins procrastinatórios.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:40:15", "justificativa": "Perguntou o desfecho dos 25 casos não revogados.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:40:15", "justificativa": "", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "1:40:15", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "11", "ts": "1:40:56", "processo": "48500.007583/2022-1x", "interessado": "Amazonas Energia S.A.; pretenso controlador Green Energy Soluções e Energia Ltda.",
+      "assunto": "Plano de transferência do controle societário da Amazonas Energia apresentado em razão do Termo de Intimação 4/2022-SFF (risco de caducidade)",
+      "tema": ["fiscalização e sanções (caducidade)", "distribuição", "transferência de controle societário"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade: transferência indeferida e caducidade recomendada ao MME",
+      "resumo_voto": "Não aprova a transferência para a Green Energy (sem comprovação de capacidade técnica e econômico-financeira: empresa inativa, aporte de R$ 4,7 bi via FIDC não comprovado, modelagem sem estratégia de reversão); recomenda ao MME a caducidade do contrato de concessão 1/2019; SFT e SFF mantêm acompanhamento até decisão do poder concedente. Dívida líquida de R$ 9,6 bi (set/2023). Parecer da Procuradoria 338/2023 pela caducidade.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, não aprova a transferência e recomenda a caducidade", "ts": "2:37:00", "justificativa": "Green Energy não demonstrou capacidade técnica e econômico-financeira; plano não reverte a insustentabilidade; ANEEL deu diversas dilações de prazo e manterá fiscalização reforçada em Manaus.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "2:54:06", "justificativa": "Consumidor é o protagonista; região isolada que historicamente precisou de comandos legislativos excepcionais; cobra solução do poder concedente e fiscalização para não deixar consumidores sem atendimento.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "2:54:08", "justificativa": "A área de fiscalização não enxerga solução para a concessionária recuperar a saúde financeira; espera que o MME resolva logo.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "2:54:10", "justificativa": "Grupo sem tradição no setor; cautela técnica; paralelo com grupo sem capacidade no leilão de transmissão.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "2:54:12", "justificativa": "Sete contatos formais com o MME; a ANEEL jamais transferiria uma concessão sem segurança da continuidade do serviço; proposta não era consistente.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "13", "ts": "2:56:08", "processo": "48500.0008xx/2022-51", "interessado": "DME Distribuição S.A. (DMED, Poços de Caldas-MG); sustentação oral de Arlene Nogueira (Conselho de Consumidores)",
+      "assunto": "Reajuste Tarifário Anual 2023 da DME Distribuição, vigência a partir de 22/11/2023 (efeito médio 2,76%; AT 2,39%; BT 3%)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "sobrecontratação", "CDE e encargos setoriais"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Homologa tarifas com efeito médio de 2,76%; corrige erro material no valor das cotas mensais de recomposição da conta Itaipu à ENBPar. Destacado do bloco e antecipado por urgência de publicação. Conselho de consumidores criticou sobrecontratação e subsídios da CDE.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "3:14:00", "justificativa": "Efeitos decorrem em grande parte de políticas públicas e da Lei 14.299; corrigido erro material das cotas.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "3:15:10", "justificativa": "Muito do reajuste decorre da aplicação da lei; registra a preocupação dos consumidores de Poços de Caldas.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:15:03", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:15:03", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:15:03", "justificativa": "", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["5", "6", "7", "8", "9"],
+  "limites_da_analise": [
+    "Transcrição sem marcadores de falante ao longo da sessão (um bloco único); atribuição de votos feita pela ordem e pela proclamação.",
+    "O cabeçalho do .md lista Ludimila Lima entre os falantes inferidos, mas ela não era diretora nesta sessão (há só menção a 'Ludmila' como servidora consultada); presentes: Sandoval, Agnes, Ricardo Tili, Hélvio Guerra, Fernando Mosna.",
+    "Bloco: ouvidas 4 manifestações; Fernando Mosna provavelmente ainda não havia chegado (abertura com quórum de 3), por isso não recebeu voto no bloco.",
+    "Item 1: ouvidas só 3 manifestações além da relatora; não está claro se Fernando Mosna já estava presente; voto dele registrado com confiança baixa. A autoria das falas do debate (Tili vs. Hélvio) é inferida pelo conteúdo e pelas referências cruzadas.",
+    "Item 13: proclamado 'por unanimidade dos presentes' com 3 manifestações além da relatora (uma delas possivelmente do próprio DG); um dos diretores pode ter se ausentado; não identificado quem.",
+    "Números de processos dos itens 11 e 13 incompletos/ilegíveis na legenda; valores podem conter erros da legenda automática.",
+    "Parte 1 apenas: itens 10, 16, 18, 3 e 4 serão deliberados na Parte 2 (outro vídeo)."
+  ]
+}

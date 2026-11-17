@@ -1,0 +1,90 @@
+{
+  "meta": {"video_id": "1eX6JT3g2Ak", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "35", "data": "2022-09-20", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Giácomo Francisco Bassi Almeida (diretor substituto)", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["35ª Reunião Pública Ordinária de 2022, Parte 1 (manhã); suspensa às ~3:50 para retorno às 14h30 (itens 7, 9, 10 e restantes ficam na Parte 2).", "Pauta com 50 itens; itens 12 a 50 em bloco. Retirados de pauta itens 2, 5, 6, 8 e 47; sustentação oral nos itens 3 e 11. Ordem: bloco, 1, 3, 11, 4, 7, 9, 10.", "Ata da 34ª RPO (13/09/2022) aprovada.", "No item 3 (sinal locacional TUST/TUSDg) o diretor substituto Giácomo arguiu suspeição e não votou."]
+  },
+  "itens": [
+    {
+      "id": "bloco (12 a 50)", "ts": "0:04:38", "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 12 a 50 (votos disponibilizados previamente)",
+      "tema": ["bloco"], "relator": "diversos",
+      "resultado": "aprovados os itens remanescentes do bloco; vista do Diretor-Geral nos itens 16 e 19",
+      "resumo_voto": "Um diretor acompanhou o bloco com exceção do item 16; Ricardo Tili acompanhou exceto o item 19, em que votou conforme a área técnica (SMA): aplicação da multa; outros diretores acompanharam Tili no item 19; Sandoval Feitosa pediu vista dos itens 16 e 19 e aprovou os demais.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "acompanha o bloco; no item 19 diverge do relator e vota conforme a área técnica (SMA), aplicação da multa", "ts": "0:04:50", "justificativa": "voto conforme a determinação da área técnica SMA no sentido de aplicação da multa", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o bloco (exceção de item 16 ou 19 não atribuível com certeza)", "ts": "0:04:45", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o bloco; no item 19 acompanha Ricardo Tili (atribuição incerta)", "ts": "0:05:20", "confianca": "baixa"},
+        {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "acompanha o bloco; no item 19 acompanha Ricardo Tili (atribuição incerta)", "ts": "0:05:30", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista dos itens 16 e 19; aprova os remanescentes do bloco", "ts": "0:05:49", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:06:14", "processo": "48500.000028/2022-73 (incerto)", "interessado": "CCEE/MME; compradoras Cemig, Coelba e Light",
+      "assunto": "Homologação parcial do resultado e adjudicação do Leilão nº 3/2022 (Leilão de Energia Nova A-4 2022): 237,5 MW médios, 29 empreendimentos; direito à redução das tarifas de uso (art. 26 §1º Lei 9.427)",
+      "tema": ["leilões (geração)", "outorgas de geração (PCH, CGH, eólica, solar, biomassa)", "tarifas (TUST/TUSD desconto)"],
+      "relator": "Giácomo Francisco Bassi Almeida", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa parcialmente e adjudica às 18 proponentes habilitadas; estabelece que as adjudicatárias da minuta de despacho fazem jus à redução nas tarifas de uso de transmissão e distribuição.",
+      "votos": [
+        {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova", "ts": "0:13:30", "justificativa": "habilitação concluída pela CEL; memorandos da SCG indicam direito ao desconto nas tarifas de uso", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:14:40", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:14:42", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:14:44", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:14:46", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:16:10", "processo": "48500.003882/2011-11; 48500.000552/2018-68; 48500.005908/2021-57 (incertos)", "interessado": "geradores e consumidores; sustentações: Casa dos Ventos (Pedro Marcelo), Norte Energia (José Moisés Machado da Silva), Eletrobras/PSR (Guilherme Baggio e Marta), ABEEólica (Sandro Yamamoto), EDF/Enel? Brasil (Eduardo Takamori)",
+      "assunto": "Resultado da 3ª fase da Consulta Pública 39/2021: intensificação do sinal locacional da TUST e TUSDg (88 e 138 kV); AIR nº 3/2022 e submódulos 7.4 e 9.4 do PRORET; transição de 5 anos a partir de julho/2023",
+      "tema": ["tarifas e revisão tarifária (TUST, sinal locacional)", "transmissão", "regulação normativa (consulta pública, AIR)", "geração renovável (eólica, solar)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos votantes (Giácomo arguiu suspeição)",
+      "resumo_voto": "Aprova o resultado da AIR 3/2022 e os submódulos do PRORET; argumento: adequar a regulação ao marco legal (quem mais onera o sistema paga mais), equilíbrio entre geradores e consumidores, reduções tarifárias para consumidores do Norte/Nordeste; sustentações pediram transição mais longa e preservação de empreendimentos existentes.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:05:24", "justificativa": "deve pagar mais quem mais onera o sistema de transmissão; busca de pagamento justo e equilíbrio entre geradores e consumidores; defende as renováveis, mas a regulação se adequa ao marco legal", "tom": "enfático, rebate críticas da imprensa e das sustentações", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:47:35", "justificativa": "destacou o consumidor como metade do condomínio de pagantes", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:47:38", "justificativa": "comentou tarifas caras em estados geradores (Celpa, Rondônia) e o olhar ao consumidor", "confianca": "baixa"},
+        {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "suspeito/impedido", "ts": "2:47:45", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:48:12", "justificativa": "apelo para olhar o conjunto e a complementaridade entre fontes", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "2:48:46", "processo": "48500.004948/2017-86; 48500.003612/2018-87 (incertos)", "interessado": "GNA II Geração de Energia S.A. (UTE GNA Porto do Açu 3, São João da Barra/RJ); sustentação oral: Guilherme Penteado",
+      "assunto": "Requerimento administrativo de reconhecimento de excludente de responsabilidade (pandemia/licenciamento municipal) pelo atraso na implantação da UTE GNA Porto do Açu 3",
+      "tema": ["outorgas de geração (térmica)", "fiscalização e sanções (excludente de responsabilidade)", "recursos administrativos"],
+      "relator": "Giácomo Francisco Bassi Almeida", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reconhece excludente de responsabilidade entre 01/12/2020 e 27/12/2021 (391 dias), altera o cronograma (operação comercial até 30/10/2024), condicionado a garantia de fiel cumprimento em 30 dias, mantém a concatenação com a SE Campos 2 (Despacho 2998/2020) e altera o início do suprimento do CCEAR para 30/10/2024.",
+      "votos": [
+        {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova", "ts": "3:21:07", "justificativa": "atraso decorreu da não emissão de alvará pela prefeitura no contexto da pandemia (art. 19 Lei 13.360)", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:29:24", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:29:26", "justificativa": "lembrou a concatenação limitada à data contratual da transmissão", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:29:28", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:29:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "3:31:16", "processo": "48500.004253/2022-61 (incerto)", "interessado": "distribuidoras e consumidores",
+      "assunto": "Resultado da Consulta Pública 29/2022: ajustes nas REN 1.000/2021 e 950/2021 em função dos Decretos 11.016/2022 (CadÚnico) e 11.034/2022 (SAC)",
+      "tema": ["regulação normativa (consulta pública)", "distribuição e atendimento ao consumidor"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova resolução normativa que aprimora as REN 1.000 e 950; mantém canais e prazos da REN 1.000 (atendimento presencial, telefônico 24h, agência virtual) e explicita opções de reclamação, cancelamento e atendimento humano.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:48:30", "justificativa": "consumidor como protagonista; ajustes pontuais aos decretos", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:49:30", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:49:32", "confianca": "media"},
+        {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "3:49:34", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:49:36", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["2", "5", "6", "8", "47"],
+  "limites_da_analise": [
+    "Giácomo Francisco Bassi Almeida (diretor substituto) não consta da lista de diretores do config; nome reconstruído da legenda («Giacomo dotto», «Francisco bacia Almeida», «diretor de a como»).",
+    "Bloco: falas de voto sem nome; só Ricardo Tili é identificado (outros dizem «conforme o diretor Tili»); quem excetuou o item 16 não foi identificado; itens 16 e 19 ficaram com vista do Diretor-Geral.",
+    "Item 3: a suspeição é atribuída a Giácomo pela proclamação («com exceção do diretor ... que arguiu suspeição»); só duas falas de «acompanho» antes da proclamação, atribuídas a Mosna e Tili por eliminação.",
+    "Números de processos e nomes de empresas da sustentação (Eduardo Takamori) incertos pela legenda automática.",
+    "Parte 1 apenas; itens 7, 9, 10 e demais na continuação (outro vídeo)."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {"video_id": "FwdI7J21BHQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "38", "data": "2023-10-17", "formato": "presencial (Parte 2, sessão da tarde)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": ["Agnes da Costa (férias)", "Fernando Mosna (compromisso fora de Brasília)"],
+    "observacoes": [
+      "Parte 2 da 38ª Reunião Pública Ordinária de 2023; julgados os itens 9, 10, 8, 12 e 14; encerrada ao fim do item 14 (≈2:52).",
+      "No início do item 9 o Diretor-Geral Sandoval estava momentaneamente fora do plenário; o advogado da Eletrosul (Davi Waltenberg) levantou questão de ordem; por sugestão do Secretário-Geral, Hélvio Guerra leu a fundamentação do voto-vista antes da sustentação oral.",
+      "Itens 9, 10 e 8 (Eletrosul, Chesf, Eletronorte): voto-vista/relatoria de Hélvio Guerra reduzindo a multa editalícia por inexecução total de contratos de transmissão de 10% para 5% do investimento, pelo histórico de implantação das empresas do grupo Eletrobras, diferenciando-as do caso Abengoa.",
+      "Item 9: Sandoval Feitosa defendeu inicialmente manter 10% (por isonomia com outras inexecuções totais), cogitou solução intermediária, mas acabou acompanhando o voto-vista; Ricardo Tili trocou o voto anterior (acompanhava o relator 'por ora') para o voto-vista, por fundamentos próprios (falta de previsibilidade do edital); discussão sobre desconto de 25% por renúncia ao recurso, incluído por Hélvio no voto após suspensão de 5 minutos.",
+      "Item 12 (UTEs Camaçari Muricy 2 e PCM 2) estava empatado em sessão anterior; Sandoval Feitosa desempatou acompanhando o relator Ricardo Tili."
+    ]
+  },
+  "itens": [
+    {
+      "id": "9", "ts": "0:00:31",
+      "processo": "48500.004979/2018-xx", "interessado": "Eletrosul Centrais Elétricas S.A. (transmissora; seguradora J. Malucelli)",
+      "assunto": "Aplicação de penalidade de multa editalícia à Eletrosul pela inexecução total e caducidade do Contrato de Concessão de transmissão 1/2015 (Lote A do Leilão de Transmissão 4/2014); voto-vista",
+      "tema": ["fiscalização e sanções (multa, caducidade)", "transmissão", "prescrição intercorrente", "dosimetria"],
+      "relator": "Efraim Pereira da Cruz (ex-diretor; voto-vista de Hélvio Guerra)",
+      "resultado": "aprovado por maioria nos termos do voto-vista de Hélvio Guerra: multa de 5% do investimento (≈ R$ 182 milhões a preços de out/2018, corrigida pelo IPCA), execução da garantia em caso de inadimplemento e desconto facultativo de 25% se paga sem recurso, por analogia aos novos editais; vencido o voto original do relator Efraim (10%), acompanhado na sessão anterior pelo ex-diretor Giácomo Almeida",
+      "resumo_voto": "Voto-vista: afasta a prescrição intercorrente (parecer da Procuradoria: suspensão por tentativa de conciliação do caso Abengoa interrompeu o prazo); mantém o teto de 10%, mas reduz a 5% pelo histórico da Eletrosul (mais de R$ 17 bi em transmissão implantados) e pelo comportamento diverso do da Abengoa. Sustentação oral de Davi Waltenberg (Eletrosul) pediu reconhecimento da prescrição ou multa de até 3%; manifestação da Procuradoria (Eduardo Ramalho).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor: multa de 5% e, após debate, desconto de 25% sem recurso", "ts": "0:21:06", "justificativa": "isonomia exige tratar de forma diferente empresas com comportamentos diferentes; Eletrosul buscou licenciamento e substituto, ao contrário da Abengoa que abandonou o país; caráter pedagógico da fiscalização responsiva", "tom": "firme; declara-se 'absolutamente confortável'", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista (troca o voto anterior, que acompanhava o relator 'por ora'), por fundamentos próprios", "ts": "1:38:51", "justificativa": "o edital antigo não fixava o teto da multa e a garantia era de 5%: a empresa tinha expectativa legítima de multa até o valor da garantia; falta de previsibilidade do edital; juntará exposição de motivos; chegou a anunciar pedido de vista sobre o desconto de 25%, mas votou após a suspensão", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista e proclama (por maioria)", "ts": "2:01:05", "justificativa": "inicialmente defendeu manter 10% por isonomia com outras inexecuções totais e cogitou solução intermediária (8%, com redução de 25% se não recorrer); reconheceu o esforço da Eletrosul em transferir o controle e ceder estudos; acabou acompanhando o voto-vista", "tom": "deliberativo, expôs hesitação", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "10", "ts": "2:02:06",
+      "processo": "48500.006276/2018-xx", "interessado": "Companhia Hidro Elétrica do São Francisco (Chesf) (transmissora; seguradoras Swiss Re e J. Malucelli)",
+      "assunto": "Aplicação de penalidade de multa à Chesf pela caducidade dos contratos de concessão de transmissão 5/2007, 18/2011, 19/2011 e 15/2012; voto-vista",
+      "tema": ["fiscalização e sanções (multa, caducidade)", "transmissão", "dosimetria"],
+      "relator": "Efraim Pereira da Cruz (ex-diretor; voto-vista de Hélvio Guerra)",
+      "resultado": "aprovado por maioria nos termos do voto-vista (acompanha parcialmente o voto de Efraim): multa de 5% do investimento por contrato, corrigida pelo IPCA, execução das garantias em caso de inadimplemento e desconto facultativo de 25% se paga sem recurso",
+      "resumo_voto": "Sem alegação de prescrição; argumentos de diligência e excludente de responsabilidade rediscutiriam a caducidade já decretada pelo MME; redução de 10% para 5% pelo histórico da Chesf (mais de R$ 19 bi em transmissão). Sustentação oral de Thiago (sobrenome incerto na legenda) pela Chesf: arquivamento, ou 5%, ou 2% da RAP para o contrato 5/2007.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor: multa de 5% e desconto de 25% sem recurso", "ts": "2:13:57", "justificativa": "mesmas razões do caso Eletrosul: histórico de implantação torna desproporcional a multa de 10%", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista (disse primeiro 'acompanho o relator' e corrigiu para voto-vista)", "ts": "2:16:28", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista e proclama (por maioria)", "ts": "2:16:33", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "2:18:42",
+      "processo": "48500.000577/2018-35", "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte) (transmissora)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3.118/2022, que aplicou multa de 10% do investimento pela caducidade do Contrato de Concessão de transmissão 9/2014 (Leilão 7/2013)",
+      "tema": ["fiscalização e sanções (multa, caducidade)", "transmissão", "recursos administrativos", "prescrição intercorrente"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade dos presentes: conhecer e dar parcial provimento, reduzindo a multa para 5% do investimento (≈ R$ 25,8 milhões a preços de maio/2019, corrigida pelo IPCA); sem desconto de 25%",
+      "resumo_voto": "Afasta a prescrição intercorrente (Parecer 90/2023 da Procuradoria); rejeita a tese de 1% da RAP; reduz a 5% pelo histórico da Eletronorte (mais de R$ 20 bi em transmissão), sem relação com o Parecer 228/2022; quantificação prévia do dano desnecessária. A representante da Eletronorte (Camila Alves) dispensou a sustentação oral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, dá parcial provimento (multa de 5%)", "ts": "2:29:50", "justificativa": "comportamento e histórico da empresa justificam a dosimetria de 5%; não cabe o desconto neste caso", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator pelos fundamentos próprios do processo anterior", "ts": "2:31:22", "justificativa": "juntará os fundamentos apresentados no caso Eletrosul", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:31:29", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:32:42",
+      "processo": "48500.005336/2005-88 e outros", "interessado": "UTEs Camaçari Muricy 2 e PCM 2; UTEs Pau Ferro 1 e Termomanaus (geradoras térmicas)",
+      "assunto": "Alteração de características técnicas das UTEs Camaçari Muricy 2 e PCM 2, revogação das transferências de outorga (REAs 11.914 e 11.915/2022) com restabelecimento das titularidades originárias e revogação das outorgas das UTEs Pau Ferro 1 e Termomanaus ao término do contrato em 1º/1/2024",
+      "tema": ["outorgas de geração (térmica)", "fiscalização"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por maioria (votação estava empatada em sessão anterior; desempate pelo voto do Diretor-Geral) nos termos do voto do relator",
+      "resumo_voto": "Emissão de resolução autorizativa revogando as transferências, deferindo a alteração de características técnicas e determinando à SFT que adeque as fiscalizações aos termos de intimação. Sandoval argumentou que decisão análoga já fora tomada para a UTE Camaçari e que a outorga permanece com o mesmo cronograma, rebatendo a preocupação de Agnes da Costa (sessão anterior) de privilégio ao agente.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (voto proferido em sessão anterior; relido o dispositivo)", "ts": "2:33:25", "justificativa": "", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto de desempate) e proclama por maioria", "ts": "2:36:49", "justificativa": "decisão análoga já tomada para Camaçari; outorga e cronograma não mudam; agente assume o risco e a fiscalização tem instrumentos em caso de inadimplemento", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "votou em sessão anterior (sentido não dito nesta sessão)", "ts": "2:33:25", "justificativa": "", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "14", "ts": "2:38:22",
+      "processo": "48500.007868/2022-24", "interessado": "Antena 1 Radiodifusão Ltda. (consumidor) x Enel Distribuição São Paulo; decisão da ARSESP",
+      "assunto": "Recurso administrativo contra decisão da ARSESP sobre faturamento de unidade consumidora (quatro faturas de out/2015 a jan/2016 sem leitura) na área da Enel SP",
+      "tema": ["recursos administrativos", "distribuição (faturamento)", "agência conveniada (ARSESP)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade dos presentes: recurso não conhecido (intempestivo)",
+      "resumo_voto": "Recurso intempestivo (intimação em 30/3/2022, recurso em 9/6/2022), conforme nota da Procuradoria; os autos não demonstram o alegado. Sustentação oral de Luís Carlos Aranha (consultor da Antena 1), que pediu refaturamento pela demanda contratada (art. 90 da REN 414/2010).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, não conhece o recurso", "ts": "2:51:18", "justificativa": "intempestividade; os autos não demonstram o apresentado na sustentação", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:51:55", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:52:00", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["O condutor menciona que os próximos processos foram suspensos por falta de tempo (fala na sustentação do item 10); sem identificação dos itens nesta parte."],
+  "limites_da_analise": [
+    "Legenda automática: nomes e valores incertos (Davi Waltenberg/Volberg; Thiago 'Lis' da Chesf; valores das multas divergem entre leitura do voto e proclamação, por isso foram omitidos ou dados como aproximados).",
+    "Números de processo dos itens 9 e 10 com dígito verificador incerto na legenda.",
+    "Ex-diretores Efraim Pereira da Cruz e Giácomo Almeida (votos de 2022) e Agnes da Costa (sessão anterior do item 12) não estão entre os votantes desta sessão; nomes de ex-diretores fora da lista do config registrados como ditos.",
+    "Item 12: o empate anterior é dito, mas não quem votou em cada lado; o voto de Hélvio Guerra nesse item não foi declarado nesta sessão (confiança baixa).",
+    "Item 9 começou com o Diretor-Geral fora do plenário; ts do item 9 é o pregão (0:00:31). ts de votos curtos (itens 10 e 14) aproximados.",
+    "Contagem: 3 presentes, 3 votos por item nesta sessão."
+  ]
+}

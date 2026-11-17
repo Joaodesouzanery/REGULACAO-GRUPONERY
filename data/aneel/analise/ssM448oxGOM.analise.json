@@ -1,0 +1,52 @@
+{
+ "meta": {"video_id": "ssM448oxGOM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "21ª Reunião Pública Ordinária de 2023 (Parte 1)",
+  "data": "2023-06-20",
+  "formato": "presencial com participação virtual (Agnes da Costa virtual)",
+  "presidente_da_sessao": "Hélvio Guerra (presidindo na ausência do Diretor-Geral; inferido)",
+  "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Fernando Mosna"],
+  "ausentes": ["Sandoval Feitosa (reunião fora da agência)", "Ricardo Tili (férias)"],
+  "observacoes": [
+   "Pauta com 18 itens; itens 6 a 18 em bloco; item 1 retirado de pauta; item 9 destacado do bloco por sustentação oral; ordem: bloco, 3, 2, 5, 9 e 4.",
+   "Ata da 20ª reunião ordinária (13/06/2023) aprovada.",
+   "Reunião suspensa às 11h20 para retorno às 14h; o item 4 (relator com ajustes no voto) ficou para a Parte 2 (outro vídeo).",
+   "Item 9 (Cooperativa Missões) teve sustentação oral do advogado Caio e terminou com pedido de vista de Hélvio Guerra."
+  ]
+ },
+ "itens": [
+  {"id": "bloco (itens 6 a 18, exceto 9)", "ts": "0:13:21", "processo": "", "interessado": "diversos", "assunto": "Itens de bloco da 21ª RPO 2023 com votos disponibilizados previamente", "tema": ["diversos (bloco)"], "relator": "não identificado", "resultado": "aprovados por unanimidade", "resumo_voto": "Bloco aprovado sem leitura; proclamação por unanimidade.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova os itens do bloco", "ts": "0:13:36", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "aprova (pela proclamação)", "ts": "0:13:30", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova (pela proclamação)", "ts": "0:13:30", "confianca": "media"}]},
+  {"id": "3", "ts": "0:14:09", "processo": "48500.006844/2022-73", "interessado": "Copel Distribuição S.A. (distribuidora, PR)", "assunto": "Reajuste tarifário anual de 2023 da Copel DIS, a vigorar a partir de 24/06/2023", "tema": ["tarifas e revisão tarifária", "distribuidoras", "CDE e encargos setoriais"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologado reajuste com efeito médio de 10,50% (8,31% alta tensão; 11,73% baixa tensão); fixadas TUSD/TE, receita de DIT, repasse CDE e cotas de recomposição da conta de Itaipu. Apresentação técnica da STR (Michele).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "0:24:03", "justificativa": "homologar o índice de reajuste conforme nota técnica da STR; procuradoria favorável", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:25:55", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:25:59", "confianca": "alta"}]},
+  {"id": "2", "ts": "0:26:30", "processo": "48500.006852/2022-10", "interessado": "Energisa Minas Rio Distribuidora de Energia S.A. (agrupamento Energisa Minas Gerais e Energisa Nova Friburgo)", "assunto": "Reajuste tarifário anual de 2023 da Energisa Minas Rio, a vigorar a partir de 22/06/2023 (primeiro processo após agrupamento das concessões)", "tema": ["tarifas e revisão tarifária", "distribuidoras", "agrupamento de concessões"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos diretores presentes", "resumo_voto": "Aprovadas novas tarifas unificadas; efeitos médios de 4,05% (ex-Energisa MG) e -2,31% (ex-Energisa Nova Friburgo); homologados componente T do Fator X (-1,89%), perdas regulatórias e receitas irrecuperáveis para 2024-2025, e repasse CDE. Apresentação de Ricardo Martins (STR).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:48:40", "justificativa": "reajuste calculado nos termos da REN 1003/2022 para agrupamento de concessões; procuradoria favorável", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:51:19", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:51:21", "confianca": "media"}]},
+  {"id": "5", "ts": "0:52:50", "processo": "48500.002556/2023-21", "interessado": "distribuidoras (Programa de Eficiência Energética)", "assunto": "Abertura de consulta pública sobre a regulamentação da Olimpíada Nacional de Eficiência Energética (ONEE) no âmbito do PEE (alteração do Módulo 4 do PROPEE e da REN 920/2021)", "tema": ["regulação normativa", "consulta/audiência pública", "eficiência energética"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Consulta pública por intercâmbio documental de 45 dias e audiência pública virtual em 27/07/2023 (acréscimo da relatora); sem AIR por baixo impacto. Apresentação de Douglas Caldas da Silva (STI).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "1:06:29", "justificativa": "olimpíada testada em dois pilotos (2021 e 2022, 188 mil alunos inscritos) deve virar tipologia perene do PEE; acrescentou audiência pública virtual para ouvir escolas e alunos", "tom": "entusiasmado", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:12:40", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:12:45", "justificativa": "elogiou a iniciativa educacional; sugeriu maior divulgação junto a secretarias de educação", "tom": "entusiasmado", "confianca": "media"}]},
+  {"id": "9", "ts": "1:13:43", "processo": "48500.009357/2022-62", "interessado": "Cooperativa de Distribuição e Geração de Energia das Missões (Cermissões, permissionária); vendedora Exponencial Energia", "assunto": "Recurso administrativo contra o Despacho 3.681/2022 da SRM, que não aprovou o contrato de compra e venda de energia nº 1/2022 resultante de leilão próprio (suprimento retroativo a 01/12/2022)", "tema": ["recursos administrativos", "comercialização", "permissionárias"], "relator": "Agnes da Costa", "resultado": "pedido de vista (Hélvio Guerra)", "resumo_voto": "Sustentação oral do advogado Caio (Missões). Relatora nega provimento: contrato com suprimento retroativo e preço (R$ 129,33/MWh) acima do PLD já conhecido (≈R$ 55,7/MWh); determina à SGM/STR avaliar critérios adicionais no PRORET (≈120 dias). Fernando Mosna propôs incluir de ofício a permissionária no MCSD ex-post 2022 (30 dias) para evitar penalidade por insuficiência de lastro (≈R$ 5 milhões); Agnes propôs capacitação das permissionárias com a CCEE (até outubro). Vista antes da votação.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, nega provimento (proposta de voto; não votado por vista)", "ts": "1:27:48", "justificativa": "contratação retroativa não é mera formalidade; consumidor trocaria o PLD conhecido por preço maior; penalidade reverte à modicidade tarifária", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (vista); sugeriu inclusão de ofício no MCSD ex-post 2022", "ts": "1:36:51", "justificativa": "concorda com a não aprovação, mas propõe evitar penalidade a cooperativa pequena sem onerar o consumidor", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:57:25", "confianca": "media"}]}
+ ],
+ "retirados": [{"id": "1", "motivo": "retirado de pauta (não detalhado na transcrição)"}],
+ "limites_da_analise": [
+  "Somente a Parte 1 da reunião; item 4 e retomada da tarde estão em outro vídeo.",
+  "Quem preside é inferido (abertura: 'Sandoval ausente, Ricardo em férias e eu'; técnico cumprimenta 'Doutor Elvio'); nome não dito pelo próprio.",
+  "Relator do item 2 não foi nomeado no pregão; atribuído a Fernando Mosna porque o presidente acompanha o 'eminente relator' (há fala ambígua sobre servidora 'na minha assessoria'): confiança baixa.",
+  "Conteúdo do bloco (itens 6 a 18) não lido em sessão.",
+  "Números de processo, valores e nomes vêm da legenda automática e podem conter erros."
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "meta": {
+  "video_id": "A2Z7RGOwcKE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29ª Reunião Pública Ordinária (Parte 2)",
+  "data": "2022-08-09",
+  "formato": "presencial/híbrido",
+  "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta)",
+  "diretores_presentes": [
+   "Camila Bomfim (Diretora-Geral substituta)",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde/noite) da 29ª RPO de 9/8/2022; retoma o item 10 após voto-vista de Efrain Cruz.",
+   "Itens 8 e 9, 3, 8 (CVU), 7 e 13 deliberados por unanimidade; item 10 terminou com pedido de vista em mesa; item 16 anunciado mas não deliberado.",
+   "Reunião suspensa às ~20h40 com retomada em 10/08/2022 às 9h.",
+   "Item 11 retirado de pauta a pedido do relator; Hélvio Guerra retificou seu voto no bloco (aprovação integral).",
+   "Mencionadas despedidas de Efrain Cruz e Camila Bomfim; crítica de Hélvio Guerra à troca de procuradores durante a sessão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "10",
+   "ts": "0:00:10",
+   "processo": "48500.005952/2009 (número incerto na legenda)",
+   "interessado": "ABRATE (Associação Brasileira de Empresas de Transmissão de Energia Elétrica); ABIAPE (Associação Brasileira de Investidores em Autoprodução de Energia)",
+   "assunto": "Pedido de reconsideração da ABRATE contra decisão monocrática (Despacho 1762/2022) que conheceu pedido da ABIAPE como direito de petição e suspendeu a eficácia da REH 2258/2017 (parcela controversa da RBSE); retomada após voto-vista de Efrain Cruz",
+   "tema": [
+    "transmissão (RAP, RBSE)",
+    "recursos administrativos",
+    "institucional (decisão monocrática, impedimento/suspeição)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "não concluído: pedido de vista em mesa; reunião suspensa para retomada no dia seguinte (10/08/2022) às 9h",
+   "resumo_voto": "Hélvio Guerra e Efrain Cruz (voto-vista) convergiram: convalidar apenas o conhecimento do pedido da ABIAPE como direito de petição e a determinação à SGT de cálculos da parcela controversa da RBSE com contraditório; negar a cautelar de suspensão da REH 2258/2017; não convalidar as demais decisões do Despacho 1762/2022. Ricardo Tili revogou o impedimento antes declarado (entende que os processos não são conexos). Na votação do dispositivo (5:13) o diretor chamado de «Giácomo» pediu vista em mesa, discutindo-se também sua suspeição.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (dispositivo ajustado ao consenso com o voto-vista)",
+     "ts": "5:11:26",
+     "confianca": "media",
+     "justificativa": "convalida apenas o conhecimento como direito de petição e os cálculos pela SGT; não convalida a suspensão da REH 2258/2017 por decisão monocrática"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista convergente com o relator",
+     "ts": "0:20:15",
+     "confianca": "media",
+     "justificativa": "acata a não convalidação da suspensão da REH 2258/2017; preocupação com prescrição/decadência, ampara-se no parecer da procuradoria"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator (voto consignado)",
+     "ts": "0:26:27",
+     "confianca": "media",
+     "justificativa": "já havia votado com o relator; acompanha com a alteração"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto consignado)",
+     "ts": "5:13:47",
+     "confianca": "baixa",
+     "justificativa": "declarou não estar impedido: processos não conexos"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "pede vista (em mesa)",
+     "ts": "5:13:47",
+     "confianca": "baixa",
+     "justificativa": "diz estar confuso quanto ao encaminhamento; havia declarado suspeição quanto ao mérito"
+    }
+   ]
+  },
+  {
+   "id": "8 e 9",
+   "ts": "0:27:59",
+   "processo": "48500.004999/2015 (número incerto) e conexo",
+   "interessado": "distribuidoras (CPFL Energia, Celesc, Enel São Paulo, Neoenergia e outras); ABRADEE",
+   "assunto": "Pedidos de reconsideração contra o Despacho 2508/2020 da SRM (montantes de sobrecontratação e exposição involuntária das distribuidoras em 2016 e 2017)",
+   "tema": [
+    "comercialização (sobrecontratação involuntária, MCSD)",
+    "tarifas",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "conhecidos e parcialmente providos, por unanimidade dos votantes (um diretor declarou suspeição)",
+   "resumo_voto": "Retira o critério econômico (PLD) da avaliação do máximo esforço para sobrecontratação involuntária de 2016-2017, adota o critério aplicado à exposição até 2015 (em linha com a procuradoria: vedada aplicação retroativa de nova interpretação), fixa montantes da tabela 1 do voto, sem adotar o critério de 2,5% para migração ao ACL proposto na NT 121. Sustentações orais: Luiz Bernardo (Celesc), Luiz Gazola (Enel Brasil), Ricardo Brandão (ABRADEE).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (provimento parcial)",
+     "ts": "1:23:29",
+     "confianca": "alta",
+     "justificativa": "procuradoria: critério econômico não previsto no Decreto 5163 nem na REN 453/2011; vedada aplicação retroativa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator ou declarou suspeição (não identificado)",
+     "ts": "1:25:02",
+     "confianca": "baixa",
+     "justificativa": "um dos diretores declarou suspeição (Norma 273); a legenda não identifica quem"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator ou declarou suspeição (não identificado)",
+     "ts": "1:25:02",
+     "confianca": "baixa",
+     "justificativa": "idem"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "acompanha o relator ou declarou suspeição (não identificado)",
+     "ts": "1:25:02",
+     "confianca": "baixa",
+     "justificativa": "idem"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:25:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:26:34",
+   "processo": "48500.000645/2022 (número incerto)",
+   "interessado": "geradores solicitantes de outorga (eólica/solar); SCG/SRG",
+   "assunto": "Resultado da Consulta Pública 8/2022: regulamentação do art. 1º do Decreto 10.893/2021 (dispensa de informação de acesso para outorga de autorização e desconto na TUST/TUSD)",
+   "tema": [
+    "outorgas de geração",
+    "regulação normativa (resolução, consulta pública)",
+    "tarifas (desconto TUST/TUSD)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estabelece procedimentos para outorga de autorização na forma do art. 1º do Decreto 10.893/2021; prazo de outorga distinto do prazo para o desconto; retirada da exigência de renúncia a ação judicial.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:26:34",
+     "confianca": "alta",
+     "justificativa": "regulamentação bem delineada; mais de 200 GW de pedidos"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:24:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8 (pauta invertida)",
+   "ts": "2:24:39",
+   "processo": "48500.005657/2022 (número incerto)",
+   "interessado": "usinas termelétricas despachadas centralizadamente sem contratos regulados; Petrobras",
+   "assunto": "Abertura de consulta pública (11/08 a 26/09/2022) sobre metodologia de aprovação do CVU de termelétricas não comprometidas com contratos regulados",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "comercialização (CVU)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre consulta pública para padronizar informações e o processo de aprovação de CVU de térmicas mercantes.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:25:24",
+     "confianca": "alta",
+     "justificativa": "uniformidade regulatória e padronização para planejamento e operação"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:57:59",
+   "processo": "48500.003665/2017 (número incerto)",
+   "interessado": "agentes de geração (PCH, eólica, solar)",
+   "assunto": "Abertura de consulta pública (45 dias, intercâmbio documental e Microsoft Forms) para aprimorar requisitos e procedimentos de outorga de autorização da REN 876/2020",
+   "tema": [
+    "outorgas de geração",
+    "regulação normativa (consulta pública, AIR)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre CP sobre a REN 876/2020, incluindo prazos fixos de implantação e revisão de garantias de fiel cumprimento; Hélvio Guerra ressalvou que dispensa de garantia para PCH merece reflexão, mas não se opôs à abertura.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:58:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator, com ressalva sobre garantias de PCH",
+     "ts": "3:16:34",
+     "confianca": "media",
+     "justificativa": "PCH usam bens da União; dispensa de garantia deve ser bem pensada, a discutir na CP"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:17:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:17:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "3:18:05",
+   "processo": "48500.005495/2021 e outros (número incerto)",
+   "interessado": "Karpowership Brasil Energia Ltda. (UTEs Karkey 13, Karkey 19, Porsud I e Porsud II, PCS 2021); ABRACE",
+   "assunto": "Requerimento de excludente de responsabilidade pelo atraso no cronograma de implantação das termelétricas do Procedimento Competitivo Simplificado (PCS) de 2021",
+   "tema": [
+    "fiscalização e sanções (revogação de outorga)",
+    "outorgas de geração (térmica)",
+    "leilões (PCS)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: excludente indeferido, outorgas revogadas, SFG instaura processo de penalidade",
+   "resumo_voto": "Indefere excludente (art. 19 da Lei 13.360/2016) e alteração de cronogramas; revoga as outorgas das quatro usinas (cláusula 16.4 do edital: inexecução da outorga, independente da rescisão do CER na CCEE); determina à SFG apurar penalidades. Sustentações orais: Beatriz Watanabe e outro representante da Karpowership; ABRACE. Debate com a procuradoria (Luiz Eduardo) sobre revogação x cassação e rito.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (indeferimento e revogação da outorga)",
+     "ts": "3:18:55",
+     "confianca": "alta",
+     "justificativa": "sem máquinas no site não há energia; desaparecida a outorga, desaparece o contrato; revogação não depende da rescisão prévia do CER"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:07:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:07:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (legenda; não identificado, possivelmente Sandoval Feitosa)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "5:07:34",
+     "confianca": "baixa",
+     "justificativa": "comentou caso de PCH em que pediu vista sobre cassação de ofício"
+    },
+    {
+     "diretor": "Camila Bomfim (Diretora-Geral substituta)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:08:20",
+     "confianca": "media",
+     "justificativa": "dúvida apenas sobre o rito da revogação neste processo"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "5:09:07",
+   "processo": "48500.002486/2022 (número incerto)",
+   "interessado": "agentes de transmissão; ONS; CCEE",
+   "assunto": "Resultado da CP 74/2021: requisitos do sistema de medição para faturamento (Procedimentos de Rede, submódulos 2.14, 6.8, 6.16, 17.11)",
+   "tema": [
+    "transmissão",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "não deliberado nesta parte: anunciado e interrompido para retomar o item 10; reunião suspensa",
+   "resumo_voto": "",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "item": "11",
+   "motivo": "retirado a pedido do relator (relator não identificado)"
+  }
+ ],
+ "limites_da_analise": [
+  "Composição de 2022 com nomes fora da lista do config: Camila Bomfim (Diretora-Geral substituta) e Efrain Cruz registrados como ditos.",
+  "O diretor que pediu vista no item 10 aparece na legenda como «Giácomo», «diácono», «Thiago»; Sandoval Feitosa é citado uma vez («doutor Sandoval»). Não foi possível confirmar a identidade: registrado como não identificado.",
+  "Item 8 e 9: um diretor declarou suspeição (Norma 273), sem nome audível; os votos de Hélvio Guerra, Ricardo Tili e do diretor «Giácomo» ficam com confiança baixa.",
+  "Números de processo vêm da legenda automática e podem estar errados.",
+  "Nos votos «pela proclamação» as falas «acompanho» não têm nome; ts aproximados.",
+  "Itens de bloco e itens 1-9 da Parte 1 não estão neste vídeo."
+ ]
+}

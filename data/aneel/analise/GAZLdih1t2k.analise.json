@@ -1,0 +1,94 @@
+{
+ "meta": {"video_id": "GAZLdih1t2k", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "2", "data": "2023-01-31", "formato": "presencial (auditório da ANEEL) com transmissão no YouTube",
+  "presidente_da_sessao": "Hélvio Guerra (presidiu na ausência do Diretor-Geral)",
+  "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Sandoval Feitosa (chegou durante as sustentações do item 1, ~2:18:00)"],
+  "ausentes": ["Agnes da Costa (licença médica, acompanhando familiar)"],
+  "observacoes": [
+   "2ª Reunião Pública Ordinária de 2023 - Parte 1 (manhã). Pauta com 63 itens; itens 4 a 63 em bloco; destaques do bloco: itens 10 e 12; retirados: itens 7, 16 e 44; sustentações orais nos itens 1, 3, 10 e 12.",
+   "Sandoval Feitosa em missão institucional no início; quórum de três diretores (Hélvio, Ricardo, Fernando).",
+   "Item 19 do bloco ficou 2 x 1 (Hélvio e Fernando a favor; Ricardo divergente) e foi destacado para aguardar o voto de Sandoval ou Agnes.",
+   "Item 1 (MMGD, Lei 14.300, resultado da CP 51/2022): relatório lido e cerca de 20 sustentações orais; leitura do voto e deliberação ficaram para a tarde (Parte 2). Item 2 não foi chamado nesta parte.",
+   "Informes: bandeira verde para fevereiro/2023; Ricardo Tili comentou liminar indeferida na 17ª Vara Federal/DF sobre TEO de Itaipu e PLD mínimo 2023 e anunciou audiência pública em Campo Grande (revisão extraordinária Energisa MS); visita às embaixadas da Coreia e Jordânia (Fernando Mosna). Aprovada a ata da 1ª RPO de 2023."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 4 a 63)", "ts": "0:09:12", "processo": "", "interessado": "diversos",
+   "assunto": "Itens em bloco (4 a 63), exceto os destacados 10 e 12, os retirados 7, 16 e 44 e o item 19 (destacado por falta de maioria)",
+   "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade dos presentes, exceto item 19",
+   "resumo_voto": "Os três presentes aprovam o bloco; Ricardo Tili ressalva divergência apenas no item 19.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "acompanha todos os votos do bloco", "ts": "0:09:20", "justificativa": "Acompanha o remanescente do bloco, com registro sobre o item 19.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o bloco, exceto item 19", "ts": "0:11:06", "justificativa": "Acompanha todos os votos remanescentes do bloco, com exceção do 19, em que mantém o voto divergente.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:11:49", "justificativa": "Aprova o bloco e destaca o item 19.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "19", "ts": "0:09:20", "processo": "", "interessado": "Equatorial Energia (transmissão)",
+   "assunto": "Pedido de reconsideração da Equatorial sobre reator reserva não previsto expressamente no edital (remuneração); decisão de primeira instância havia indeferido o pleito",
+   "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos"], "relator": "Hélvio Guerra",
+   "resultado": "não concluído: 2 votos a 1 (Hélvio e Fernando pelo provimento; Ricardo contra); aguarda voto de Sandoval Feitosa ou Agnes da Costa",
+   "resumo_voto": "Hélvio propõe prover a reconsideração e conceder o pleito da Equatorial; Fernando muda de posição e acompanha; Ricardo mantém divergência.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, provê o pedido de reconsideração", "ts": "0:09:20", "justificativa": "Voto no bloco no sentido de prover o recurso e conceder o que a Equatorial pedia.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:09:40", "justificativa": "Mudou de posição após reunião com a Equatorial: a ausência de previsão expressa no edital, confrontada com outros editais que previam reator reserva ou compartilhamento, geraria insegurança jurídica.", "tom": "reconhece mudança de entendimento", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "diverge (mantém voto divergente)", "ts": "0:11:13", "justificativa": "O reator reserva existente serviria às duas instalações; ao mudar a característica da subestação a Equatorial assume o risco e não deve ser remunerada pelo novo reator.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "3", "ts": "0:12:38", "processo": "48500.001209/2018-13", "interessado": "Rio Paranapanema Energia S.A. e Engie Brasil Energia S.A.; CCEE",
+   "assunto": "Pedidos de impugnação contra decisão da CCEE (reunião 974) sobre recontabilização: taxas de indisponibilidade (TEIF/IP) de referência após revisão extraordinária de garantia física (UHE Ponte de Pedra e outras); resultado da CP 43/2020",
+   "tema": ["comercialização (CCEE, PLD, contratos)", "recursos administrativos", "garantia física/MRE"], "relator": "Fernando Mosna",
+   "resultado": "por unanimidade dos presentes, conhecer e no mérito indeferir os pedidos de impugnação (alternativa 1)",
+   "resumo_voto": "Sustentações orais de Hugo Leonardo Araújo Leite (Engie) e Rodrigo Machado Moreira Santos (Rio Paranapanema); Procuradoria pelo indeferimento; apresentação da SRG (Patrícia). Relator mantém o Ofício 252/2016: valem as taxas usadas no cálculo da garantia física vigente, seja ordinária ou extraordinária.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, conhece e indefere", "ts": "0:57:00", "justificativa": "Alternativa 1 decorre das normas vigentes (REN 614/2014) e tem respaldo no parecer 339/2022 da Procuradoria; alternativas 2 e 3 exigiriam ajuste normativo e feririam estabilidade e previsibilidade regulatória. Criticou consulta pública aberta dentro de pedido de impugnação.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:58:44", "justificativa": "Eu voto com relator.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:58:50", "justificativa": "Acompanha e proclama o resultado.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "10", "ts": "0:59:32", "processo": "48500.003965/2021-82", "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista)",
+   "assunto": "Recurso contra Despacho SRT 2.618/2021: isenção de parcela variável por indisponibilidade (PVI) por desligamento da LT 345 kV Interlagos-Xavantes C1 em 27/03/2021 para retirada de balão",
+   "tema": ["transmissão (RAP, outorgas, reforços)", "fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "recursos administrativos"], "relator": "Fernando Mosna",
+   "resultado": "por unanimidade, provimento parcial: isenção da PVI por 180 minutos",
+   "resumo_voto": "Sustentação oral de Bianca (ISA CTEEP) pedindo análise caso a caso da franquia de horas enquanto não há norma. Relator aplica a referência de 180 minutos decidida na reunião anterior (desligamento de 212 minutos, sem excepcionalidade).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento", "ts": "1:06:19", "justificativa": "Os 212 minutos se aproximam da meta de 180 minutos definida pela diretoria; sem caráter excepcional no caso.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:09:15", "justificativa": "O padrão busca incentivar eficiência no restabelecimento; a transmissora não evita o balão, mas não se pode aceitar qualquer tempo de restabelecimento.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:07:00", "justificativa": "Preocupação com padrão único (ex.: linha Manaus-Boa Vista em terra indígena), mas o caso está dentro do padrão.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "12", "ts": "1:09:59", "processo": "48500.001341/2022-10", "interessado": "Celesc Distribuição S.A.; Prefeitura de Palhoça (SC)",
+   "assunto": "Recurso contra Despacho SMA 1.517/2022 sobre faturamento de equipamentos auxiliares da iluminação pública de Palhoça (versão da ABNT, devolução em dobro, boa-fé objetiva)",
+   "tema": ["recursos administrativos", "distribuição/faturamento"], "relator": "Fernando Mosna",
+   "resultado": "por unanimidade, conhecer e negar provimento, mantendo o Despacho 1.517/2022",
+   "resumo_voto": "Sustentação oral de Luis Bernardo (Celesc) pedindo reconhecimento de boa-fé e devolução simples; Procuradoria (Nota 41) pela devolução em dobro. Relator acompanha área técnica e Procuradoria.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "1:20:40", "justificativa": "Acompanha o entendimento da área técnica e da Procuradoria sobre a ausência de boa-fé no uso da ABNT do contrato.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:21:00", "justificativa": "Eu voto com relator.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:21:05", "justificativa": "Acompanha e proclama.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1", "ts": "1:21:41", "processo": "48500.004924/2010-51", "interessado": "INEL, ABSOLAR, ABGD, MSL, ABRADEE, distribuidoras, consórcios e cooperativas de GD",
+   "assunto": "Resultado da CP 51/2022: regulamentação da micro e minigeração distribuída (Lei 14.300/2022 e art. 1º da Lei 14.120/2021)",
+   "tema": ["geração distribuída (MMGD)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"], "relator": "Hélvio Guerra",
+   "resultado": "não deliberado nesta parte: relatório lido e cerca de 20 sustentações orais (7 minutos cada); leitura do voto e votação após o almoço (Parte 2)",
+   "resumo_voto": "Relatório lido pelo relator; sustentações de INEL (Ricardo Perego Costa), MSL (Everton Elias Martins), ABSOLAR (Rodrigo Lopes Sawaya), GD Solar, Abradee e outros sobre suspensão de prazo por pendência da distribuidora, vedação de 180 dias para troca de integrantes da geração compartilhada, requisitos de segurança, custo de disponibilidade e faturamento grupo B.",
+   "votos": []
+  }
+ ],
+ "retirados": ["7", "16", "44"],
+ "limites_da_analise": [
+  "Parte 1 de 2 da reunião: o voto do item 1 (MMGD) e o item 2 estão na Parte 2.",
+  "Item 19: número de processo não lido; voto de Hélvio inferido da fala dos colegas e da sua contagem (2 x 1).",
+  "No bloco, o primeiro a votar não é nomeado; atribuído a Fernando Mosna porque Hélvio diz que Fernando acompanhou seu voto no item 19.",
+  "Item 10: falas de Hélvio e Ricardo inferidas pelo conteúdo (Hélvio cita a preocupação da semana anterior; Ricardo foi relator da semana anterior).",
+  "Sandoval Feitosa e Agnes da Costa não votaram nos itens desta parte.",
+  "Legenda automática: nomes de expositores e números de processo podem estar errados."
+ ]
+}

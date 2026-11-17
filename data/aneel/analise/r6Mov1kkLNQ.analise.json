@@ -1,0 +1,53 @@
+{
+ "meta": {"video_id": "r6Mov1kkLNQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "23ª Reunião Pública Ordinária de 2022 (Parte 1)", "data": "2022-06-28", "formato": "presencial/híbrida (auditório ANEEL, transmissão online)",
+  "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta)",
+  "diretores_presentes": ["Camila Bomfim", "Hélvio Guerra", "Ricardo Tili", "Efrain Pereira da Cruz"],
+  "ausentes": [],
+  "observacoes": ["Quórum de quatro diretores declarado na abertura.", "Pauta com 29 itens; itens 12 a 29 em bloco; retirados de pauta os itens 6, 13 e 20; item 5 retirado a pedido do relator; sustentações orais pedidas para os itens 3, 5, 7 e 9.", "Presença do deputado federal Danilo Forte, que fez sustentação oral no item 3.", "Parte 1 termina no intervalo para almoço (retorno às 14h30); itens 8 a 11 ficam para a parte seguinte."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:05:30", "processo": "itens 12 a 29 (bloco)", "interessado": "diversos", "assunto": "Itens remanescentes do bloco (12 a 29), com pedido de vista do item 29", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade os itens remanescentes do bloco; item 29 com pedido de vista", "resumo_voto": "Itens do bloco aprovados; um diretor pediu vista do item 29.",
+   "votos": [
+    {"diretor": "Camila Bomfim", "voto": "aprova o bloco (proclama)", "ts": "0:05:54", "justificativa": "Proclama aprovação por unanimidade com pedido de vista no item 29.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:05:40", "justificativa": "Aprova os itens remanescentes do bloco.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:05:40", "justificativa": "Aprova os itens remanescentes do bloco.", "confianca": "media"},
+    {"diretor": "Efrain Pereira da Cruz", "voto": "aprova o bloco", "ts": "0:05:44", "justificativa": "Aprova os itens remanescentes do bloco.", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:06:12", "processo": "48500.004948/2021-62", "interessado": "Enel Distribuição São Paulo (distribuidora)", "assunto": "Reajuste tarifário anual 2022 da Enel Distribuição São Paulo, a vigorar a partir de 4/7/2022: efeito médio 12,04% (18,03% AT; 10,15% BT)", "tema": ["tarifas e revisão tarifária"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa o RTA com efeito médio de 12,04%; destaca CDE Modicidade Eletrobras (-2,84%) e devolução de PIS/Cofins (Lei 14.385/2022, -8,70%); apresentação da SGT (Luiz Carlos Carrazza).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:26:00", "justificativa": "Valores ainda expressivos, mas seriam muito maiores sem as medidas da ANEEL, do Legislativo e do Governo (capitalização da Eletrobras, devolução de PIS/Cofins); cita efeito futuro da LC 194 (ICMS).", "confianca": "alta"},
+    {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "0:28:59", "justificativa": "Acompanha; ordem das falas não nomeada.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:29:02", "justificativa": "Acompanha; ordem das falas não nomeada.", "confianca": "baixa"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator (proclama)", "ts": "0:29:05", "justificativa": "Ressalta efeito mitigatório de mais de 20% (CDE Eletrobras, PIS/Cofins, ICMS) e que a SGT instrui RTE para processos já homologados no ano.", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "0:30:04", "processo": "48500.004958/2021-06", "interessado": "Energisa Tocantins Distribuidora de Energia S.A.", "assunto": "Reajuste tarifário anual 2022 da Energisa Tocantins, a partir de 4/7/2022: efeito médio 14,78% (15,85% AT; 14,53% BT)", "tema": ["tarifas e revisão tarifária"], "relator": "Efrain Pereira da Cruz", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa o RTA; apresentação da SGT (Érika Braga Lorençato); relator pede sensibilidade dos governos estaduais na redução do ICMS (22,9% na tarifa).",
+   "votos": [
+    {"diretor": "Efrain Pereira da Cruz", "voto": "relator, aprova", "ts": "0:38:30", "justificativa": "Reajuste resulta da aplicação de modelos previstos em lei; lei do PIS/Cofins dá roupagem legal ao que a casa já praticava; espera contribuição dos estados no ICMS.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:40:45", "justificativa": "Acompanha.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:40:48", "justificativa": "Acompanha.", "confianca": "baixa"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator (proclama)", "ts": "0:40:55", "justificativa": "Proclama unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "0:42:00", "processo": "48500.003882/2011-11; 48500.005052/2018-68; 48500.005908/2022-57", "interessado": "SGT; geradores (Norte Energia/UHE Belo Monte, ABEEólica, Sinergia RS, outros)", "assunto": "Resultado da 2ª fase da CP 39/2021 (AIR sobre sinal locacional da TUST e TUSDg 88/138 kV): aprovação dos submódulos 7.4, 9.4 e 10.5 do PRORET (fim da estabilização tarifária, respeitados direitos adquiridos) e abertura da 3ª fase da CP sobre intensificação do sinal locacional", "tema": ["transmissão (TUST)", "tarifas e revisão tarifária", "regulação normativa (consulta pública, AIR)"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade; 3ª fase da CP 39 de 30/6 a 29/7/2022 (30 dias, ajuste do relator)", "resumo_voto": "Sustentações orais: deputado Danilo Forte (pediu suspensão/vista, segurança jurídica do Nordeste), Norte Energia (Belo Monte), sr. Eduardo, ABEEólica (Andrea Yamamoto e José Rosenblatt), Vinícius Machado Trindade, Pedro (Sinergia RS), Diego (Comerc?), João Carlos Mello (Thymos). Relator aprovou com vigência imediata por urgência e reduziu a 3ª fase a 30 dias.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:58:00", "justificativa": "Encerra a estabilização da TUST respeitando direitos adquiridos; 3ª fase limitada a 30 dias pois as fases já somam 160 dias; norma com vigência imediata para o ciclo 2022-23; lei manda quem usa mais pagar mais.", "confianca": "alta"},
+    {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "3:03:09", "justificativa": "Defende o equilíbrio; não é admissível alegar falta de diálogo numa consulta em 3ª fase; vê retirada de assimetrias e tarifa mais justa para a carga do Nordeste.", "tom": "crítico a alegações de falta de contraditório («deslealdade processual»)", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:06:00", "justificativa": "Analogia do condomínio da rede básica: sem ajuste alguém paga pelos outros; previsibilidade de 10 anos; pede participação dos agentes no planejamento.", "confianca": "media"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator (proclama)", "ts": "3:20:21", "justificativa": "Escolha regulatória que atende segurança jurídica, previsibilidade, equilíbrio, transparência e eficiência alocativa; estados exportadores terão consumo mais barato.", "confianca": "media"}
+   ]},
+  {"id": "4", "ts": "3:21:07", "processo": "48500.005601/2022-18", "interessado": "Fênix Complexo Industrial S.A. (UTE Fênix, cavaco de madeira, PCS 1/2021)", "assunto": "Requerimento de reequilíbrio econômico-financeiro do CER ou rescisão amigável, com pedido de cautelar de suspensão do contrato", "tema": ["comercialização (contratos de energia de reserva)", "outorgas de geração (térmica)", "recursos administrativos"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: indefere reequilíbrio, envia rescisão ao MME e defere cautelar suspendendo o CER", "resumo_voto": "Aumento do cavaco é risco do produtor independente; rescisão cabe ao MME; cautelar concedida pois a suspensão não afeta o suprimento e beneficia o consumidor (PLD abaixo do preço).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:33:00", "justificativa": "Risco de combustível é do PIE; contrato só admite reequilíbrio por tributos; cautelar por benefício ao consumidor e sem risco ao SIN.", "confianca": "alta"},
+    {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "3:36:10", "justificativa": "Acompanha.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:36:15", "justificativa": "Acompanha.", "confianca": "baixa"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator (proclama)", "ts": "3:36:21", "justificativa": "Proclama unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "7", "ts": "3:38:01", "processo": "48500.002806/2009-46", "interessado": "Belo Monte Transmissora de Energia S.A. (BMTE)", "assunto": "Pedido de reconsideração contra o Despacho 777/2022 (revisão da RAP: IOF do financiamento BNDES, diferencial de ICMS em MG, custos com Força Nacional)", "tema": ["transmissão (RAP)", "recursos administrativos"], "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator após sustentação oral", "resumo_voto": "Sustentação de César Augusto Guimarães Pereira (BMTE); procuradoria mantém parecer; relator retirou o processo para reavaliar a distinção entre o contrato da BMTE e os precedentes.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "retira de pauta", "ts": "3:57:10", "justificativa": "Diferença entre contratos citada na sustentação exige nova avaliação.", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["item 5 (a pedido do relator)", "itens 6, 13 e 20", "item 7 (BMTE) retirado pelo relator após sustentação oral"],
+ "limites_da_analise": ["Camila Bomfim e Efrain Pereira da Cruz não constam da lista de diretores do config da ANEEL; nomes registrados como ditos/inferidos (legenda: «ephrain», «Efraim»).", "Pedido de vista do item 29 atribuído na proclamação ao «diretor a Eva» (legenda); autor não identificado com segurança.", "Atribuição dos «acompanho» sem nome é inferida pela ordem; confiança baixa.", "Números de processo e percentuais vêm da legenda automática e podem estar errados.", "Só a Parte 1 da reunião; itens 8 a 11 na parte seguinte."]
+}

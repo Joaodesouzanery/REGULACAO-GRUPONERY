@@ -1,0 +1,65 @@
+{
+  "meta": {"video_id": "DCbRzualwXE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28ª Reunião Pública Ordinária de 2022", "data": "2022-08-02", "formato": "sessão presencial/virtual (dita «sessão virtual» na abertura)",
+    "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta)",
+    "diretores_presentes": ["Camila Bomfim (Diretora-Geral substituta)", "Ricardo Tili", "Efrain Cruz", "Giácomo Almeida (nome incerto na legenda: «diácomo/Jácomo»)"],
+    "ausentes": ["Hélvio Guerra (férias)"],
+    "observacoes": ["Quórum de quatro diretores declarado na abertura.", "Ata da 27ª RPO aprovada com retificações (declaração de impedimento em item votado em bloco e efeito médio de permissionária corrigido de 10,49% para 10,40%).", "Pauta com 32 itens; itens 5 a 32 em bloco; retirados os itens 4, 10, 14 e 30; item 6 destacado e depois retirado pelo relator; sustentação oral pedida para itens 1 e 6.", "Ordem de julgamento: bloco, itens 2, 3, 1 e 6. O item 2 (EDP ES) foi suspenso e retomado após o item 3.", "Equipe da CGU presente acompanhando a reunião."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:06:04", "processo": "itens 5 a 32 (exceto retirados e destacados)", "interessado": "diversos",
+      "assunto": "Aprovação dos itens em bloco da 28ª RPO de 2022",
+      "tema": ["institucional/TCU"], "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados; um diretor declarou-se impedido no item 8 e houve ressalva sobre o item 21 (voto-vista ligado à ex-diretora Elisa Bastos); falantes não identificados com segurança.",
+      "votos": [
+        {"diretor": "Camila Bomfim", "voto": "aprova o bloco; proclama", "ts": "0:06:29", "justificativa": "proclama que a diretoria por unanimidade aprovou os itens do bloco", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (impedido em item não confirmado)", "ts": "0:06:10", "justificativa": "um diretor aprova o bloco exceto o item 8, no qual se declara impedido; atribuição incerta", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:06:20", "justificativa": "voto pelo bloco com exceção do item 21 (voto-vista) — falante incerto", "confianca": "baixa"},
+        {"diretor": "Giácomo Almeida", "voto": "aprova o bloco", "ts": "0:06:25", "justificativa": "«eu aprovo bloco também»", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:22:54", "processo": "48500.001978/2022-06", "interessado": "Amazonas Energia S.A.",
+      "assunto": "Abertura de consulta pública sobre pedido de revisão tarifária extraordinária da Amazonas Energia por alteração da legislação tributária do Amazonas (LC estadual 217/2021, ICMS por substituição tributária nas geradoras)",
+      "tema": ["tarifas e revisão tarifária", "regulação normativa", "fiscalização e sanções"], "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade: CP por intercâmbio documental de 3/8 a 16/9/2022 (45 dias), sessão presencial em 31/8/2022; determinações à SFF (apurar ICMS incorrido) e à SFE (apurar ICMS cobrado irregularmente dos consumidores)",
+      "resumo_voto": "Relator abre a RTE mesmo sem atender às inequações do PRORET, discordando da Procuradoria (que sugeria tratar no reajuste ordinário), pela relevância e risco de distorção tarifária nacional; efeito médio estimado 10,11%, com aumento para o interior (isento de ICMS) e redução na capital.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:40:00", "justificativa": "assunto relevante, a tarifa da Amazonas seria a única com ICMS embutido, distorção sistemática; merece luz em CP fora do reajuste ordinário; fiscalização obrigatória porque a distribuidora admitiu cobrar ICMS em desacordo com a lei", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:44:00", "justificativa": "caso sem precedente e fora da curva; corrobora abrir CP mesmo com as vênias à Procuradoria; pede que a fiscalização corra em paralelo sem inviabilizar a concessão", "tom": "enfático, preocupação com a viabilidade da concessão", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator", "ts": "0:59:22", "justificativa": "concorda com a abertura da CP para dar visibilidade à realocação de custos; mérito do custo já posto, momento do repasse a definir; nota que a empresa aplicou ICMS de forma irregular (falante inferido)", "confianca": "baixa"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator; proclama", "ts": "1:14:07", "justificativa": "fiscalizações correm em paralelo e não interferem no resultado da RTE; proclama unanimidade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:06:51", "processo": "48500.003568/2021-19 e 48500.003672/2022-86", "interessado": "EDP Espírito Santo Distribuição de Energia",
+      "assunto": "Resultado da revisão tarifária periódica da EDP Espírito Santo a partir de 7/8/2022 e limites DEC/FEC 2023-2025 (CP 19/2022 e AP 9/2022)",
+      "tema": ["tarifas e revisão tarifária", "qualidade do serviço (DEC/FEC)"], "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade: efeito médio 11,50% (AT 12,46%, BT 11,10%); Fator X Pd 0,864% e Tpd 0,844%; limites DEC/FEC e perdas regulatórias",
+      "resumo_voto": "Item suspenso às 0:21:55 porque o relator leu como abertura de CP; retomado às 1:15:28 como homologação do resultado da RTP. Destaque de que, com a redução do ICMS, o efeito na fatura seria de -9,8%.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:15:28", "justificativa": "homologa RTP com efeito médio de 11,50%, já com mitigações (créditos de PIS/Cofins, CDE Eletrobras)", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:18:50", "justificativa": "destaca que o efeito final na fatura com redução do ICMS será de -9,8%, efeito que os consumidores do Amazonas não perceberão (falante inferido)", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "1:18:50", "justificativa": "", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator; proclama", "ts": "1:18:55", "justificativa": "proclama unanimidade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:19:30", "processo": "48500.004953/2021-75 (número incerto na legenda)", "interessado": "Equatorial Pará",
+      "assunto": "Reajuste tarifário anual da Equatorial Pará a partir de 7/8/2022; sustentação oral de Carlindo, representante do Conselho de Consumidores da Equatorial Pará",
+      "tema": ["tarifas e revisão tarifária"], "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade: efeito médio 15,12% (AT 16,05%, BT 14,88%), com diferimento de 500 milhões oferecido pela distribuidora",
+      "resumo_voto": "Efeito inicial de 31%, reduzido a 24% com conta escassez, PIS/Cofins e CDE Eletrobras, e a ~15% com diferimento de R$ 500 milhões negociado com o conselho de consumidores; com ICMS reduzido a percepção pode chegar a -5,34%.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:59:28", "justificativa": "trabalho com governo do estado, conselho e distribuidora reduziu de 31% para cerca de 15%; cita sinal locacional da TUST (CP em curso) como resposta aos estados exportadores de energia", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:07:16", "justificativa": "sugere que o conselho contribua na 3ª fase da CP 39 (sinal locacional) (falante inferido)", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator (pela proclamação)", "ts": "2:07:16", "justificativa": "", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator; proclama", "ts": "2:07:16", "justificativa": "elogia trabalho; cita PIS/Cofins, CDE, diferimento, LC 194, perdas não técnicas e tarifa social; proclama unanimidade", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["itens 4, 10, 14 e 30 (retirados de pauta)", "item 6 (destacado, com sustentação oral pedida; retirado pelo relator)"],
+  "limites_da_analise": ["Diretores Camila Bomfim, Efrain Cruz e Giácomo Almeida não constam da lista de config_agencia.json; nomes registrados como ditos/inferidos (Giácomo aparece como «diácomo/Jácomo»).", "Falas do bloco sem identificação clara: atribuição do impedimento no item 8 e da exceção do item 21 é incerta.", "Atribuição de falas de discussão a Efrain/Giácomo/Camila inferida pelo conteúdo; votos dos não relatores pela proclamação de unanimidade.", "Números de processo e percentuais vêm da legenda automática.", "Itens do bloco (5 a 32) não detalhados individualmente."]
+}

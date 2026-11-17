@@ -1,0 +1,72 @@
+{
+  "meta": {"video_id": "OhNAzDezl6k", "fonte": "legenda automática do YouTube; .md sem marcadores de tempo internos (só [0:00:04]); ts obtidos de data/transcricoes/OhNAzDezl6k.json; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "29ª Reunião Pública Ordinária de 2022 (Parte 1)", "data": "2022-08-09", "formato": "presencial",
+    "presidente_da_sessao": "Camila (Diretora-Geral substituta; nome completo não dito, fora da lista do config)",
+    "diretores_presentes": ["Camila (Diretora-Geral substituta)", "Efrain Pereira da Cruz", "Hélvio Guerra", "Ricardo Tili", "Giácomo (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores. Última reunião ordinária do diretor Efrain Cruz (fim de mandato) e da diretora-geral substituta Camila; cerca de 1h15 de homenagens e despedidas antes das deliberações.",
+      "Informe: posse de Sandoval Feitosa como Diretor-Geral e de Fernando Mosna como diretor em 15/08/2022 no MME; Agnes da Costa esperada para dezembro.",
+      "Pauta com 59 itens (14 a 59 em bloco); destaques 16, 17 e 25; retirados de pauta os itens 1, 30, 31 e 32; sustentações orais pedidas para 2, 5, 6, 8, 9, 10, 11, 12, 13, 16 e 17 (números da legenda, incertos).",
+      "Nesta Parte 1 foram deliberados o bloco e o item 4; o item 10 (pedido de reconsideração da ABRATE contra a cautelar monocrática de Efrain sobre a REH 2258/2017, financeiro da RBS) teve sustentações orais e leitura do voto-vista de Efrain, mas a sessão foi suspensa para o almoço (retorno às 14h30) sem proclamação; continua na Parte 2.",
+      "Ata da 28ª RPO (02/08/2022) aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "1:17:47",
+      "processo": "itens 14 a 59 (bloco), exceto destacados e retirados", "interessado": "diversos",
+      "assunto": "Itens remanescentes do bloco; no item 57 (melhorias da ISA CTEEP) havia voto-vista que acompanha parcialmente o relator, com retirada de cerca de 70 milhões de um total de quase 500 milhões em melhorias, ajustado em comum acordo com a área técnica",
+      "tema": ["transmissão (RAP, reforços e melhorias)", "bloco"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade; no item 57 prevaleceu o voto-vista",
+      "resumo_voto": "Todos aprovaram os itens do bloco e acompanharam o voto-vista no item 57; a autoria do voto-vista parece ser de Efrain (fala em 'a minha reflexão'), não dita explicitamente.",
+      "votos": [
+        {"diretor": "Efrain Pereira da Cruz", "voto": "aprova o bloco; no item 57 acompanha o voto-vista (aparentemente de sua autoria)", "ts": "1:17:53", "justificativa": "em melhorias e reforços se paga receita cheia, sem deságio de leilão; quase 500 milhões, retirados cerca de 70 milhões por não estarem maduros", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco, acompanha o voto-vista no item 57 (pela proclamação)", "ts": "1:19:30", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco, acompanha o voto-vista no item 57 (pela proclamação)", "ts": "1:19:30", "confianca": "baixa"},
+        {"diretor": "Giácomo (diretor substituto)", "voto": "aprova o bloco, acompanha o voto-vista no item 57 (pela proclamação)", "ts": "1:19:43", "confianca": "baixa"},
+        {"diretor": "Camila (Diretora-Geral substituta)", "voto": "aprova o bloco e proclama", "ts": "1:19:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:20:18",
+      "processo": "48500.003752/2019-83 (legenda: 48 500 000 375 2983)", "interessado": "ONS; geradores despachados centralizadamente; SRG",
+      "assunto": "Abertura da segunda fase da Consulta Pública 45/2019 (11/08 a 26/09/2022) sobre critérios operativos para redução ou limitação de geração (constrained-off) pelo ONS no SIN",
+      "tema": ["regulação normativa (consulta pública)", "operação do sistema (ONS)", "outorgas de geração (eólica, solar, hidrelétrica, térmica)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Com base na NT 94/2022-SRG: efeitos comerciais do corte tratados nos processos específicos por fonte (agenda regulatória atividades 40 e 41; REN 927 para eólicas); critérios por razão (indisponibilidade externa, confiabilidade elétrica, energética), com blocos 1-3 ordenados pelo efeito sobre o ESS ao consumidor; minuta de REN em segunda fase de CP.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova a abertura da segunda fase da CP 45/2019", "ts": "1:33:45", "justificativa": "não é adequado impor regras complexas e subjetivas às equipes do ONS em tempo real; ordem de corte do maior para o menor benefício ao consumidor via encargos de serviço do sistema", "confianca": "alta"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "acompanha o relator", "ts": "1:42:11", "justificativa": "tema sensível; liberdade técnica do operador não exclui previsibilidade, transparência e rastreabilidade do custo, que no fim é pago pelo consumidor", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:42:19", "confianca": "baixa"},
+        {"diretor": "Giácomo (diretor substituto)", "voto": "acompanha o relator (pela proclamação)", "ts": "1:42:23", "confianca": "baixa"},
+        {"diretor": "Camila (Diretora-Geral substituta)", "voto": "acompanha o relator e proclama", "ts": "1:42:30", "justificativa": "a regra é antiga e o setor mudou com a entrada das fontes intermitentes; oportuno reavaliar com a sociedade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "1:42:55",
+      "processo": "48500.005195/2022-29 (legenda incerta)", "interessado": "ABRATE (transmissoras) x ABIAPE (autoprodutores); sustentações orais de Rafael Janiques (ABRATE) e Paulo Gabardo (ABIAPE, por vídeo)",
+      "assunto": "Pedido de reconsideração com efeito suspensivo da ABRATE contra o Despacho 1762/2022, cautelar monocrática de Efrain que suspendeu a eficácia da REH 2258/2017 (componente financeiro da RBS, fluxo antecipado/postecipado, possível excesso de juros de cerca de 12,5 bilhões) para evitar a decadência quinquenal",
+      "tema": ["transmissão (RAP, RBS)", "recursos administrativos", "institucional (decisão monocrática, decadência)"],
+      "relator": "Hélvio Guerra", "resultado": "não concluído: sessão suspensa para o almoço após o voto-vista e debate; continua na Parte 2",
+      "resumo_voto": "Relator Hélvio (voto da 26ª RPO, alinhado à Procuradoria): conhecer e dar provimento à reconsideração da ABRATE, anulando o despacho por vício de legalidade (decisão cautelar só pelo colegiado; sem oitiva das transmissoras; liminares judiciais) e conhecer o pedido da ABIAPE como direito de petição. Voto-vista de Efrain: convalidar e confirmar o Despacho 1762, negar provimento à ABRATE e suspender a REH 2258/2017 até o mérito (NT 85/2022-SGT).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator (voto proferido na 26ª RPO): dá provimento à reconsideração e anula o despacho; nesta sessão levanta dúvida sobre a interrupção da decadência", "ts": "3:23:00", "justificativa": "segundo a fala da diretora Camila e da Procuradoria, o voto anula o despacho por vício de legalidade e conhece o pedido da ABIAPE como direito de petição; nesta sessão diz que tudo gira em torno da decadência e pede segurança absoluta de que ela não ocorreu, pois são 12 bilhões; diz que pode rever o voto", "confianca": "media"},
+        {"diretor": "Efrain Pereira da Cruz", "voto": "voto-vista: convalida o Despacho 1762 e nega provimento à reconsideração da ABRATE", "ts": "3:15:20", "justificativa": "cautela por risco iminente (art. 45 da Lei 9.784 e CPC supletivo), sem julgar o mérito; contraditório garantido no próprio despacho; cerca de 12,5 bilhões, metade paga pelo consumidor; a orientação da DG à SG não interromperia a decadência", "tom": "enfático, defensivo frente ao parecer da Procuradoria", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (julgamento suspenso); reavalia se está impedido", "ts": "3:54:59", "justificativa": "sempre se declarou impedido em processos da RBS por ter sido diretor da Eletronorte; entende agora que, por se tratar de matéria processual, talvez possa se manifestar", "confianca": "media"},
+        {"diretor": "Giácomo (diretor substituto)", "voto": "não votou (julgamento suspenso)", "ts": "3:56:44", "confianca": "media"},
+        {"diretor": "Camila (Diretora-Geral substituta)", "voto": "não votou (julgamento suspenso); suspende a sessão", "ts": "3:42:42", "justificativa": "o objeto é a validade da decisão monocrática; se o colegiado conhecer o pedido da ABIAPE como direito de petição antes de 25/07, a decadência está resolvida; quer decidir a matéria", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["1", "30", "31", "32"],
+  "limites_da_analise": [
+    "Diretores fora da lista do config (composição de 2022): Camila (DG substituta; sobrenome não dito, possivelmente Camila Bomfim), Efrain Pereira da Cruz e Giácomo (diretor substituto; superintendente de fiscalização na fala). Registrados como ditos na legenda.",
+    "Votos sem nome no bloco e no item 4: atribuídos pela proclamação e pela ordem usual (DG por último); confiança baixa para Ricardo Tili e Giácomo.",
+    "Autoria do voto-vista do item 57 do bloco não dita explicitamente; inferida de Efrain.",
+    "Item 10: o voto do relator Hélvio foi lido em sessão anterior (26ª RPO) e foi resumido aqui pelas falas da DG e da Procuradoria; o desfecho está na Parte 2 (outro vídeo).",
+    "Números de processo e de itens com sustentação oral vêm da legenda automática e podem estar errados; nome do representante da ABRATE incerto (Rafael Janiques/Janix).",
+    "Itens destacados 16, 17, 25 e os demais da ordem de julgamento (9, 3, 7, 8, 13, 2, 5, 6...) não aparecem nesta Parte 1."
+  ]
+}

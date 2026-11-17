@@ -1,0 +1,44 @@
+{
+ "meta": {"video_id": "QupP9pMDDeU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "9ª Reunião Pública Ordinária de 2023", "data": "2023-03-28", "formato": "presencial com a diretora Agnes da Costa por videoconferência",
+  "presidente_da_sessao": "Hélvio Guerra (inferido; preside na ausência do Diretor-Geral)",
+  "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+  "ausentes": ["Sandoval Feitosa (missão oficial)"],
+  "observacoes": ["Quórum de quatro diretores; Diretor-Geral Sandoval Feitosa em missão oficial.", "Pauta com 36 itens; itens 4 a 36 em bloco (aprovado), retirados de pauta os itens 12, 15, 17 e 25; item 7 destacado do bloco por sustentação oral.", "Agnes da Costa ausentou-se após o item 3: não votou no item 7 e deixou voto acompanhando o relator nos itens 1 e 2.", "Ata da 8ª reunião ordinária aprovada."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:09:40", "processo": "itens 4 a 36 (exceto 7, 12, 15, 17 e 25)", "interessado": "diversos", "assunto": "Itens de bloco com votos disponibilizados previamente", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado o bloco", "resumo_voto": "Bloco submetido aos diretores e aprovado sem debate.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:09:40", "justificativa": "aprova os itens remanescentes do bloco", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:09:40", "justificativa": "", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "0:09:40", "justificativa": "", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:09:40", "justificativa": "", "confianca": "media"}]},
+  {"id": "3", "ts": "0:10:02", "processo": "48500.000394/2022-13; 48500.000395/2022-50; 48500.000424/2022-83", "interessado": "45 transmissoras (CPFL Transmissão, Eletronorte, Chesf, Furnas, Copel GT, Cemig GT, Eletrosul, Energisa, Equatorial, Taesa, EBTE com pedido de cautelar e outras)", "assunto": "Pedidos de reconsideração contra a REH 3.067/2022 (RAP das transmissoras, ciclo 2022-2023)", "tema": ["transmissão (RAP)", "tarifas", "recursos administrativos"], "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade (provimento, provimento parcial, negativa e não conhecimento conforme a empresa; ajustes de ofício pela NT 44/2023-SGT)", "resumo_voto": "121 pleitos de 45 agentes: 7 integralmente acatados, 15 parcialmente, 23 negados; variação total de 0,81% (0,68% por decisão judicial em favor da EBTE); efeitos no reajuste do ciclo 2023-2024. Apresentação técnica da SGT (Wendel).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "0:10:30", "justificativa": "conhece dos pedidos e decide conforme a nota técnica 44/2023-SGT; dispensa leitura da fundamentação", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:28:05", "justificativa": "", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:28:05", "justificativa": "", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:28:08", "justificativa": "cumprimenta a área técnica e a relatora", "confianca": "alta"}]},
+  {"id": "7", "ts": "0:30:21", "processo": "48500.000361/2022-65; 48500.000391/2021-91", "interessado": "Eletronorte (sustentação oral de Paulo César Magalhães Domingues)", "assunto": "Ressarcimento à Eletronorte dos custos das UTEs emergenciais Santa Rita, Santana 2 e Santana no Amapá (nov/2020 a mai/2021), Portarias MME 406 e 415/2020", "tema": ["encargos setoriais (ESS)", "outorgas de geração (térmica)", "recursos administrativos"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes: ressarcimento de cerca de R$ 42,8 milhões via ESS em parcela única, atualizado pelo IPCA", "resumo_voto": "Nega remuneração do custo de capital (entendimento do TCU) e mantém consumo específico nos limites da REN 801/2017; precedente de Manaus não se aplica; demais custos reconhecidos.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:55:08", "justificativa": "custo de capital não cabe (TCU); Manaus não é precedente; ressarcimento pago por todos os consumidores via ESS", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator, com ressalva", "ts": "0:57:36", "justificativa": "entende justa a remuneração do capital, mas a portaria do MME limita à neutralidade e a agência não pode aplicá-la", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:02:33", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "não votou (ausentou-se)", "ts": "1:02:40", "justificativa": "", "confianca": "media"}]},
+  {"id": "1", "ts": "1:04:08", "processo": "48500.006885/2022-60; 48500.000775/2023-75", "interessado": "Enel Distribuição São Paulo (Eletropaulo)", "assunto": "Abertura de consulta pública (30/03 a 15/05/2023, sessão presencial em 11/05 em São Paulo) sobre a revisão tarifária periódica da Enel SP a partir de 04/07/2023 e limites de DEC e FEC 2024-2027", "tema": ["tarifas e revisão tarifária (RTP)", "distribuição e qualidade", "regulação normativa (consulta pública)"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade", "resumo_voto": "Efeito médio preliminar de cerca de -1% ao consumidor; parcela B em queda; números provisórios sujeitos a contribuições.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:05:04", "justificativa": "parcela B com decréscimo; valores provisórios abertos a contribuição", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:17:33", "justificativa": "", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:17:38", "justificativa": "pouca discricionariedade da ANEEL: subsídios na tarifa decorrem de lei", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "voto deixado (lido por Hélvio Guerra): acompanha o relator", "ts": "1:17:48", "justificativa": "", "confianca": "media"}]},
+  {"id": "2", "ts": "1:18:52", "processo": "48500.001375/2023-87", "interessado": "Centrais Elétricas de Sergipe (CELSE), UTE Porto de Sergipe I", "assunto": "Pedido de medida cautelar contra o ressarcimento da cláusula 9ª do CCEAR (indisponibilidades programadas expurgadas pelo ONS)", "tema": ["comercialização (CCEE, CCEAR)", "outorgas de geração (térmica)", "recursos administrativos (cautelar)"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: cautelar conhecida e negada, com encaminhamento às superintendências para análise do mérito", "resumo_voto": "Ausente a fumaça do bom direito: REN 614/2014 trata de lastro, não de entrega de energia; Despacho 478/2018 não guarda similaridade. Ajuste no dispositivo sugerido por Tili e Hélvio para encaminhar o mérito à SRM/SRG.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega a cautelar)", "ts": "1:20:00", "justificativa": "ausência de fumaça do bom direito; REN 614 trata de lastro, não da cláusula 9ª do CCEAR", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:35:35", "justificativa": "sugeriu incluir no dispositivo o encaminhamento à superintendência", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:35:40", "justificativa": "apoia o encaminhamento à área técnica", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "voto deixado (lido por Hélvio Guerra): acompanha o relator", "ts": "1:35:46", "justificativa": "", "confianca": "media"}]}
+ ],
+ "retirados": ["12", "15", "17", "25"],
+ "limites_da_analise": ["Presidente da sessão inferido (Hélvio Guerra): a abertura não diz o nome de quem preside; Hélvio é chamado de relator do item 7 e proclama os resultados.", "Item 7: as falas de voto ('eu volto com ela ator') não identificam o falante; voto de Mosna inferido pela proclamação 'unanimidade dos presentes'.", "Itens 1 e 2: as falas 'acompanho' não têm nome; atribuídas pela ordem usual (Mosna/Tili antes do presidente).", "Valores e números de processo vêm de legenda automática e podem conter erros.", "Bloco (itens 4 a 36) não detalhado item a item."]
+}

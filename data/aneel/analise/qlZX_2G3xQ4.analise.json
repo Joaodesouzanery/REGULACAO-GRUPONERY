@@ -1,0 +1,343 @@
+{
+ "meta": {
+  "video_id": "qlZX_2G3xQ4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária de 2023",
+  "data": "2023-05-16",
+  "formato": "presencial (auditório) com transmissão",
+  "presidente_da_sessao": "Hélvio Guerra (presidindo na ausência do Diretor-Geral)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa"
+  ],
+  "observacoes": [
+   "Sandoval Feitosa teve impedimento no início da manhã; quórum de quatro diretores. Não há registro audível de que tenha chegado.",
+   "Pauta com 37 itens; 7 a 37 de bloco; retirados 3, 5, 10, 15, 16 e 21 antes da sessão e o item 4 durante a sessão (Secretaria-Geral contabiliza 7 retirados).",
+   "Deliberados em leitura os itens 1, 2, 6 e 12; sustentação oral apenas no item 12.",
+   "Tili sugeriu balanço mensal dos processos deliberados pela Secretaria-Geral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:11:39",
+   "processo": "itens 7 a 37 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (7 a 37, exceto retirados), votos disponibilizados previamente",
+   "tema": [
+    "institucional/bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Presidente da sessão submete o bloco e declara aprovação por unanimidade.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:14:02",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:14:02",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:14:02",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:14:02",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "1",
+   "ts": "0:14:16",
+   "processo": "48500.006854/2022-17",
+   "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2023 da Equatorial Alagoas: prorrogação por mais 10 dias da vigência das tarifas da REH 3.033/2022 para aprofundar estudo dos efeitos da MMGD na estrutura tarifária",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (prorrogação de 10 dias)",
+   "resumo_voto": "Relator propõe postergar por 10 dias adicionais a vigência das tarifas atuais, para aprofundar avaliação de mecanismos regulatórios ligados ao pleito de componente adicional da Parcela B pela redução de mercado decorrente da MMGD.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:20:04",
+     "justificativa": "Ainda entende pertinente aprofundar estudos dos impactos da MMGD na estrutura tarifária da Equatorial Alagoas; prorroga por 10 dias a vigência da REH 3.033/2022.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:20:38",
+     "justificativa": "«Eu também acompanho voto relator»; proclama unanimidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:20:38",
+     "justificativa": "Unanimidade proclamada pelo presidente da sessão; fala individual não ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:20:38",
+     "justificativa": "Unanimidade proclamada pelo presidente da sessão; fala individual não ouvida.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "2",
+   "ts": "0:21:27",
+   "processo": "48500.006870/2022-00",
+   "interessado": "Companhia Sul Sergipana de Eletricidade (Sulgipe)",
+   "assunto": "Reajuste tarifário anual 2023 da Sulgipe, efeito médio de -8,20% (-11,29% alta tensão, -6,89% baixa tensão), a vigorar a partir de 22/05/2023; apresentação técnica do servidor Gustavo Godoy",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste com redução média de 8,20%, influenciada pela subvenção da Lei 14.299; fixa TUSD/TE, receita de DIT e repasse mensal da CDE.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:36:30",
+     "justificativa": "Destaca a redução tarifária como motivo de celebração; homologa índice de -8,20%.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:49",
+     "justificativa": "Comenta que parte da redução se deve à subvenção da lei, paga por outras pessoas (política pública), mas que o efeito seria negativo mesmo sem ela.",
+     "confianca": "media",
+     "tom": "comentário com ressalva"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:49",
+     "justificativa": "Unanimidade proclamada pelo presidente da sessão; fala individual não ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:49",
+     "justificativa": "Unanimidade proclamada pelo presidente da sessão; fala individual não ouvida.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "4",
+   "ts": "0:38:33",
+   "processo": "48500.008476/2022-06",
+   "interessado": "setor elétrico (PDI)",
+   "assunto": "Proposta de abertura de consulta pública sobre chamada de PDI estratégico 23/2023 «Hidrogênio renovável no contexto do setor elétrico brasileiro»; apresentação do servidor Lucas",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "P&D/inovação",
+    "hidrogênio"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator após discussão",
+   "resumo_voto": "Relator votou pela abertura da CP (18/05 a 03/07/2023), mas, após contribuições de Agnes, Tili e Mosna, retirou o processo de pauta para reavaliação pela área técnica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, retira de pauta",
+     "ts": "1:16:07",
+     "justificativa": "Leu voto pela abertura da CP; alertou para subsídios às renováveis; acolheu contribuições (gás natural como fonte firme, certificação, finalidade) e retirou o processo para reavaliação sem perder o momento.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (processo retirado pelo relator)",
+     "ts": "0:57:21",
+     "justificativa": "Preocupação com «trancamento tecnológico» ao limitar a chamada ao hidrogênio renovável, excluindo nuclear e carvão/gás com captura de carbono (CCS), contra a narrativa do Programa Nacional de Hidrogênio e a Lei 14.299.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (processo retirado pelo relator)",
+     "ts": "1:02:06",
+     "justificativa": "Prefere o termo hidrogênio de baixo carbono; questiona finalidade do hidrogênio produzido e defende regular logo a certificação; preocupa-se com consumidor do setor elétrico financiando, via subsídio, expansão com objetivos fora do setor.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (processo retirado pelo relator)",
+     "ts": "1:04:21",
+     "justificativa": "Defende manter o foco no hidrogênio verde/renovável, alinhado ao Acordo de Paris, com ambição de projeto ANEEL 2030; pergunta sobre critério regional (cinco regiões) e divisão percentual entre planta piloto e peças e componentes.",
+     "confianca": "alta"
+    }
+   ],
+   "unanime": false
+  },
+  {
+   "id": "6",
+   "ts": "1:18:14",
+   "processo": "48500.001878/2023-52",
+   "interessado": "PCH Jauru SPE S.A. (PCH Estivadinho 3); CCEE",
+   "assunto": "Pedido de impugnação com efeito suspensivo contra deliberação da CCEE (reunião 1318) sobre o TN CCEE 12.460/2022, penalidade por insuficiência de lastro de energia de reserva (2021), ~R$ 1,43 milhão",
+   "tema": [
+    "comercialização (CCEE)",
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "outorgas de geração (PCH)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: provimento parcial, suspende a penalidade até deliberação em primeira instância sobre excludente de responsabilidade, sem exigir caução",
+   "resumo_voto": "Relator aplica o art. 43 da REN 957/2021 (efeito suspensivo; dispensa da caução justificada pela reversibilidade, já que a penalidade é abatida da receita do agente); muda de posição em relação à reunião anterior, seguindo o entendimento firmado na 15ª RPO.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:34:51",
+     "justificativa": "Presentes requisitos dos incisos I e III do art. 43; caução afastada pelo §2º pois a penalidade é abatida da receita de venda; suspensão parcial e temporária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:49",
+     "justificativa": "Levantou dúvida processual: pelo art. 43 o agente teria de caucionar; sem caução, deveria ser pedido de medida cautelar com análise de perigo na demora; pediu clareza sobre qual excludente (323 dias) condiciona a suspensão.",
+     "confianca": "media",
+     "tom": "questionador"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:38:04",
+     "justificativa": "Unanimidade proclamada; fala individual não ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:38:04",
+     "justificativa": "Considera ter ficado claro que o art. 43 dispensa análise da fumaça do bom direito em efeito suspensivo; orienta a Secretaria-Geral a rever a forma de sorteio (cautelar vs. efeito suspensivo). «eu volto com o relator».",
+     "confianca": "alta"
+    }
+   ],
+   "unanime": true
+  },
+  {
+   "id": "12",
+   "ts": "1:39:16",
+   "processo": "48500.007440/2022-05",
+   "interessado": "Powertech Engenharia, Serviços e Locações de Geradores de Energia, Máquinas e Equipamentos S.A.; UTE Manicoré (sistema isolado, AM)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 51/2022 da SFG (indisponibilidade de 11 de 42 unidades geradoras da UTE Manicoré); sustentação oral de Isabela (sobrenome incerto), representante da Powertech, pedindo anulação ou conversão em advertência",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "sistemas isolados"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: provimento parcial, multa reduzida (valor lido como R$ 325.073,13)",
+   "resumo_voto": "Relator mantém a multa por haver risco de desabastecimento, ainda que sem dano efetivo; rejeita analogia com precedentes; afasta o fator dano da dosimetria e reduz a multa.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:53:39",
+     "justificativa": "Houve risco, não apenas dano efetivo; cada caso tem particularidade; não cabe anulação nem conversão em advertência; caráter pedagógico da fiscalização responsiva.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:16",
+     "justificativa": "Concorda que o risco é relevante e que a regulação deve incentivar a diligência dos agentes, mesmo sem dano.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:58",
+     "justificativa": "Unanimidade proclamada; fala individual não ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:58",
+     "justificativa": "Unanimidade proclamada; fala individual não ouvida.",
+     "confianca": "media"
+    }
+   ],
+   "unanime": true
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "5",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "10",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "15",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "16",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "21",
+   "motivo": "retirado de pauta antes da sessão (presidente cita dúvida surgida na semana; havia sustentações previstas em 15, 16, 21 e talvez 3)"
+  },
+  {
+   "item": "4",
+   "motivo": "retirado pelo relator Hélvio Guerra após discussão (hidrogênio)"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição tem um único marcador de tempo; ts obtidos do JSON da legenda, aproximados.",
+  "Presidente da sessão inferido como Hélvio Guerra (relator dos itens 2, 4 e 12, que também proclama e diz «eu também acompanho»); a legenda não diz o nome dele na abertura.",
+  "Valor da multa do item 12: relator lê 325 mil 73 reais e 13 centavos, mas a sustentação cita redução para 225 mil; valor incerto.",
+  "Nome da advogada da Powertech ilegível na legenda («Isabela matar Moraes»).",
+  "Processos: números transcritos pela legenda automática, podem conter erros.",
+  "Itens do bloco (7 a 37) não individualizados; votos do bloco pela proclamação."
+ ]
+}

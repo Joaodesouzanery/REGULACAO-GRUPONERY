@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "EuMZeYTq2KI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Extraordinária de 2022", "data": "2022-04-19", "formato": "virtual",
+    "presidente_da_sessao": "Sandoval Feitosa (inferido; nome não dito na abertura)",
+    "diretores_presentes": ["Sandoval Feitosa", "Efrain Pereira da Cruz", "Hélvio Guerra"],
+    "ausentes": ["André Pepitone (Diretor-Geral; anunciado que se juntaria depois, sem fala registrada)"],
+    "observacoes": ["Quórum de três diretores declarado na abertura.", "Item único, aprovado por unanimidade dos votantes; sessão de cerca de 7 minutos."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:30",
+      "processo": "48500.006312/2021-55",
+      "interessado": "Distribuidoras (Enel Ceará, Energisa Sergipe, Equatorial Alagoas; Coelba, Cosern e CEEE sem interesse)",
+      "assunto": "Alteração da Tabela B do Anexo 2 da REN 1.010/2022 para realocar valores aprovados pela REN 1.008/2022 (Conta Escassez Hídrica), MP 1.078/2021 e Decreto 10.939/2022 não utilizados nos processos tarifários originais",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "Conta Escassez Hídrica", "regulação normativa"],
+      "relator": "Efrain Pereira da Cruz",
+      "resultado": "aprovado por unanimidade dos votantes: alteração da Tabela B do Anexo 2 da REN 1.010/2022 conforme minuta",
+      "resumo_voto": "Redistribuir créditos da operação da Conta Escassez Hídrica não utilizados, como limite máximo, aos processos tarifários deliberados até 26/04 (Enel Ceará, Energisa Sergipe, Equatorial Alagoas), sem alterar a sistemática da REN 1.008; Procuradoria sem comentários.",
+      "votos": [
+        {"diretor": "Efrain Pereira da Cruz", "voto": "relator, aprova", "ts": "0:06:26", "justificativa": "Pequenos ajustes, sem questão de juridicidade; mantém o escopo da CP e limita aos processos agendados até 26 de abril por força da MP 1.078.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:06:45", "justificativa": "Acompanha o voto do relator.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:06:48", "justificativa": "Acompanha o relator e proclama a decisão por unanimidade.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Relator Efrain Pereira da Cruz não consta da lista de diretores do config (nome como dito: 'ephrain Pereira da Cruz').", "Presidente da sessão inferido como Sandoval Feitosa: a abertura cumprimenta os diretores Efrain e Hélvio e diz que o diretor André se juntaria; quem presidiu não é nomeado.", "Os dois 'acompanho' não têm nome; atribuição pela ordem (último vota e proclama = presidente).", "Interessadas citadas pela legenda automática ('céu' interpretado como CEEE) podem estar erradas; número do processo reconstituído da legenda."]
+}

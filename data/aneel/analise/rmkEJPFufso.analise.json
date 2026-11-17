@@ -1,0 +1,419 @@
+{
+ "meta": {
+  "video_id": "rmkEJPFufso",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:12:47); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "42ª Reunião Pública Ordinária de 2023",
+  "data": "2023-11-14",
+  "formato": "híbrida (diretores remotos em São Paulo, na CCEE; sustentações e secretaria em Brasília)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Agnes da Costa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta de 32 itens; itens 8 a 32 em bloco; item 9 retirado; sustentações orais nos itens 4, 14 e 23.",
+   "Ata da 41ª RPO aprovada com ressalva de que Fernando Mosna estava de férias.",
+   "Intervalo de almoço (~3:34) com retomada no item 7.",
+   "Vistas: item 14 (Fernando Mosna) e item 7 (Agnes da Costa).",
+   "Itens 3 (Ricardo Tili, fechamento de consulta pública) e 5 e 6 (relatoria do Diretor-Geral) retirados de pauta ao fim por falta de tempo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:20:30",
+   "processo": "itens 8 e 10 a 32 da pauta (bloco)",
+   "interessado": "diversos (inclui Amazonas Energia)",
+   "assunto": "Itens de bloco (8 e 10 a 32; item 9 retirado de pauta), com atos e votos disponibilizados previamente; um relator anunciou ajuste de redação no item do bloco sobre o pedido de RTE da Amazonas Energia (componente financeiro positivo no processo tarifário de 2024 referente ao déficit residual), sem mudança de mérito",
+   "tema": [
+    "institucional/bloco",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+   ],
+   "relator": "vários",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Todos os diretores aprovam os itens remanescentes do bloco; Diretor-Geral proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:21:55",
+     "justificativa": "Declarou aprovar os itens remanescentes do bloco; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:21:55",
+     "justificativa": "Declarou aprovar os itens remanescentes do bloco; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:21:55",
+     "justificativa": "Declarou aprovar os itens remanescentes do bloco; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:21:55",
+     "justificativa": "Declarou aprovar os itens remanescentes do bloco; proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:21:55",
+     "justificativa": "Declarou aprovar os itens remanescentes do bloco; proclamação por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:22:20",
+   "processo": "48500.005916/2014-55 (número incerto na legenda)",
+   "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, Macaé/RJ); Lagos/Energia Guanabara transmissoras",
+   "assunto": "Recurso administrativo contra o Despacho SCG 1.305/2021, que fixou prazo de 30 dias para migrar a conexão provisória da UTE Marlim Azul da SE Lagos 345 kV para a conexão definitiva na SE Lagos 500 kV. Sustentação oral de Guilherme Pereira Baggio (Marlim Azul).",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (térmica)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: recurso conhecido e parcialmente provido",
+   "resumo_voto": "Prazo de migração de até 90 dias a partir de 22/03/2024 ou da entrada em operação da SE Lagos 500 kV, o que ocorrer depois, considerando questões operacionais indicadas pelo ONS (complemento do relator sobre período hidrológico crítico); perda de objeto da conexão direta; Marlim Azul responsável por instalar/desmobilizar a conexão provisória em até 90 dias. Afastadas as condições de custos de constrained-off e desconexão (precedentes GNA I e Pampa Sul não se aplicam por falta de definição ex ante).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:03:56",
+     "justificativa": "Antecipou concordância; condições de custos não foram tratadas ex ante, como em GNA e Pampa Sul, e tratá-las ex post seria desconfortável; questionou contratação de MUST nos dois pontos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:50",
+     "justificativa": "Perguntou sobre o MUST contratado em 345 kV e 500 kV; considerou pertinente o complemento do relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:00:00",
+     "justificativa": "Prazo de 90 dias contado da data contratual ou da efetiva entrada em operação da SE Lagos 500 kV, dada a incerteza nas datas; precedentes GNA e Pampa Sul não se aplicam porque lá os riscos foram definidos ex ante; acrescenta ressalva para não parar a usina em período hidrológico crítico, com aval do ONS.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:50",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:03:50",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:05:37",
+   "processo": "48500.007748/2022-32",
+   "interessado": "ARTEON Z3 Energia (nome incerto), Arcoverde Transmissão, Eletrobras CGT Eletrosul, Equatorial Transmissora 8, Linhas de Energia do Sertão, Transmissora Serra da Mantiqueira, Campina Grande/Guaraçu, Gralha Azul Transmissão, Novo Estado Transmissora e outras",
+   "assunto": "Pedidos de reconsideração contra a REH 3.205/2023 (resultado parcial das revisões tarifárias periódicas da RAP de transmissoras licitadas); discussão sobre o deflacionamento do prêmio de risco S1 com a TJLP no custo de capital de terceiros (contratos dos leilões de 2015-2016 assinados em 2017). Sustentação oral de Thiago de Barros Correia (Transmissora Serra da Mantiqueira); apresentação técnica de Denis (STR).",
+   "tema": [
+    "transmissão (RAP, outorgas, reforços)",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista de Fernando Mosna; julgamento não concluído",
+   "resumo_voto": "Relatora: conhecer; dar provimento ao pedido de uma recorrente (alterando RAP e índice), negar provimento aos demais; determinar à SGT e à Procuradoria avaliar súmulas sobre pleitos recorrentes; determinar à SCT verificar contratos e aditivar para corrigir erros materiais. Fundamento: a RAP-teto é referência do leilão; a revisão segue o contrato e o PRORET (submódulo 9.2), mantendo a jurisprudência.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, propõe negar provimento à maioria dos pedidos",
+     "ts": "1:32:00",
+     "justificativa": "Metodologia da RAP-teto não vincula a revisão tarifária; vale a regra do contrato e do PRORET, consolidada em decisões reiteradas; segurança regulatória; eventuais ajustes se fazem na regra, não no caso concreto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "1:53:26",
+     "justificativa": "Tende a entender, na linha do requerente, que se deveria vincular a metodologia da RAP-teto à da revisão por previsibilidade para quem dá lance; 'não é porque foi feito de uma maneira que tem que permanecer'.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "1:53:30",
+     "justificativa": "Perguntou se a interpretação aplicada deflaciona o S1; achou o tema complexo.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "1:53:30",
+     "justificativa": "Questionou por que a regra levaria a resultados distintos e achou coerente o argumento do requerente sobre previsibilidade para quem dá lance.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:53:30",
+     "justificativa": "Indagou a área técnica sobre os leilões 13/2015 e 5/2016; ponderou que, dado o lance, vale a RAP do lance e o contrato, e que o PRORET positivou o entendimento.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:53:42",
+   "processo": "48500.000282/2003-93",
+   "interessado": "Córrego Fundo SPE Ltda. (PCH Córrego Fundo, Colorado e Paranapoema/PR); Copel (acesso)",
+   "assunto": "Recomposição do prazo de outorga da PCH Córrego Fundo por excludente de responsabilidade (Lei 13.360/2016), alegando demora do órgão ambiental na LP (2011-2015) e na autorização de supressão de vegetação. Sustentação oral de Maximiliano Gomes (Córrego Fundo SPE).",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Indeferido o pedido de excludente de responsabilidade e de recomposição do prazo de outorga: sem nexo de causalidade, pois a licença de instalação foi obtida antes do prazo de início das obras e as obras não foram iniciadas segundo o RAPEEL; erro material no item 44 do voto a corrigir, sem mudança de mérito.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:37",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:12:17",
+     "justificativa": "Demora do órgão ambiental não guarda nexo causal com o atraso; tinha LI antes do marco de obras e não iniciou; cronograma ajustado ao leilão A-4 de 2022 também está atrasado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:37",
+     "justificativa": "Perguntou sobre o cronograma ajustado ao leilão de 2022 e o período 2011-2015 antes de votar (atribuição da pergunta incerta).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:37",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:37",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:16:12",
+   "processo": "48500.006839/2022-61",
+   "interessado": "CEEE Equatorial Energia (distribuidora, Porto Alegre/RS)",
+   "assunto": "Reajuste tarifário anual 2023 da CEEE-D, vigente a partir de 22/11/2023; apresentação técnica de Ana Paula (STR).",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -1,41% (-2,04% alta tensão; -1,17% baixa tensão); inclui ajustes do recurso sobre a RTP 2021 (redes particulares incorporadas), devolução de créditos de PIS/Cofins (-8,28%), CDE em queda no Sul; correção do valor das cotas de Itaipu no dispositivo.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:36:45",
+     "justificativa": "Comentou fatores do reajuste negativo: equalização da CDE até 2030 barateando Sul/Sudeste, sinal locacional da TUST, Itaipu e créditos de PIS/Cofins; defende ajustes legislativos para reduzir assimetrias.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:29:50",
+     "justificativa": "Homologa o índice de reajuste conforme cálculos da STR; corrige o valor das cotas mensais de Itaipu.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:40",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:40",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:40",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:37:18",
+   "processo": "48500.005466/2023-91",
+   "interessado": "CCEE; distribuidoras e transmissoras (cotistas da CDE)",
+   "assunto": "Abertura de consulta pública sobre o orçamento da CDE de 2024 (≈ R$ 37,1 bilhões; cotas CDE Uso ≈ R$ 30,8 bilhões; CDE GD ≈ R$ 1,8 bilhão) e homologação de cotas mensais provisórias; apresentação técnica de André Faria (nome incerto, STR); RGR deficitária.",
+   "tema": [
+    "CDE e encargos setoriais",
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consulta pública por intercâmbio documental de 16/11/2023 a 15/01/2024; cotas mensais provisórias da CDE Uso (anexo 1 da NT 140/2023) recolhidas pelas distribuidoras a partir de janeiro de 2024.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:32:48",
+     "justificativa": "Preocupação com custos crescentes da CDE e receitas estagnadas; subsídios a tecnologias maduras e a quem pode pagar; ANEEL à disposição do Parlamento e do governo.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:32:42",
+     "justificativa": "Elogiou o histórico legislativo do voto; subsídios como tarifa social deveriam estar no orçamento público (atribuição da fala inferida).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:22:51",
+     "justificativa": "Orçamento da CDE sempre crescente, já acima de R$ 100/MWh em algumas áreas; CP é oportunidade de discutir os subsídios; propôs debater o 'S' do ESG das empresas que se beneficiam de incentivos às renováveis pagos por consumidores de menor renda.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:32:42",
+     "justificativa": "Proclamação do Diretor-Geral: decisão por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:32:42",
+     "justificativa": "Apoiou o debate: problema é a alocação do custo do incentivo; ANEEL deve mostrar quem ganha e quem perde.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "5:15:19",
+   "processo": "48500.004437/2023-1x (número incompleto na legenda)",
+   "interessado": "AM Torres Energia Ltda.; Enel Distribuição Rio",
+   "assunto": "Pedido de medida cautelar para suspender o cancelamento, pela Enel Rio, de oito orçamentos de conexão de usinas fotovoltaicas de 2,5 MW (20 MW no total, Iguaba Grande e Araruama/RJ) tidos como divisão vedada de central geradora (art. 655-E da REN 1.000, Lei 14.300) - minigeração distribuída.",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "distribuição (conexão)",
+    "medida cautelar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Agnes da Costa; julgamento não concluído",
+   "resumo_voto": "Relator: conhecer e dar provimento à cautelar, suspendendo os cancelamentos até o julgamento definitivo; ausência de critérios objetivos de divisão vedada na REN 1.059, boa-fé, perigo da demora e reversibilidade; risco por conta dos requerentes.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, propõe conceder a cautelar",
+     "ts": "5:42:42",
+     "justificativa": "A regra não tem critérios objetivos (nota técnica rejeitou os propostos); não se pode presumir divisão; há fumaça do bom direito, perigo da demora e reversibilidade; o colegiado deve dar vetor interpretativo às distribuidoras sobre GD.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "6:22:28",
+     "justificativa": "Pedido de vista anunciado pelo Diretor-Geral (frase truncada na legenda); antes argumentou que, em sede cautelar, há fumaça do bom direito (Enel aprovou e depois cancelou) e risco de o agente perder espaço na rede.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "6:22:28",
+     "justificativa": "Contrário à cautelar no debate: cautelares podem furar fila; 20 MW num único ponto de conexão seria um único empreendimento; casos similares de Agnes e Hélvio foram remetidos à área técnica; subsídio deve ter análise restritiva.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "6:22:28",
+     "justificativa": "Disse que divisão não é simples de caracterizar; nos casos que relatou remeteu à área técnica; sentiria necessidade de avaliação técnica.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "6:22:28",
+     "justificativa": "Defendeu que em cautelar se analisam fumaça, perigo e reversibilidade e entendeu haver risco ao agente de perder espaço na rede (atribuição inferida pelo contexto).",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "9",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "3",
+   "relator": "Ricardo Tili",
+   "motivo": "retirado por horário (correlacionado ao item 2; fechamento de consulta pública)"
+  },
+  {
+   "id": "5",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado por compromisso às 16h"
+  },
+  {
+   "id": "6",
+   "relator": "Sandoval Feitosa",
+   "motivo": "retirado por compromisso às 16h"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de interessados e de expositores (Baggio, Denis, André Faria) podem estar errados.",
+  "Votos 'acompanho' sem nome: atribuídos pela proclamação unânime (confiança media); ordem de fala não identificável.",
+  "Item 7: a frase 'eu vou pedir vistas e solicitação de vistas da diretora Agnes' é ambígua; atribuído a Agnes conforme a menção da mesa.",
+  "Bloco: relatores e conteúdo dos 24 itens não lidos na sessão; ajuste sobre Amazonas Energia anunciado por diretor não identificado.",
+  "Gentil Nogueira e Willamy Frota não integravam a diretoria nesta sessão (não citados)."
+ ]
+}

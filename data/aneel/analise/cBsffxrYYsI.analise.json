@@ -1,0 +1,52 @@
+{
+ "meta": {"video_id": "cBsffxrYYsI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "42ª RPO 2022 (Parte 2)", "data": "2022-11-08", "formato": "presencial/transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral, inferido)",
+  "diretores_presentes": ["Sandoval Feitosa", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Parte da tarde da 42ª Reunião Pública Ordinária; 3 itens com sustentação oral.", "Relatores dos três itens não são nomeados na legenda; no encerramento são citados diretor Fernando, diretor Ricardo e uma diretora Camila (possivelmente diretora substituta), e o relator do item de Furnas/Chesf/Eletronorte 'se despede do colegiado' hoje.", "Informe final: 43 processos no bloco da pauta, 5 retirados de pauta."]
+ },
+ "itens": [
+  {"id": "1", "ts": "0:00:20", "processo": "48500.000719/2022-50", "interessado": "Energisa Mato Grosso (distribuidora); sustentação oral de Fabrício Ferreira Neves",
+   "assunto": "Recurso administrativo contra o Auto de Infração 9/2022 da SFE: multa por violação de limites de DEC/FEC em 2021 e descumprimento do plano de resultados (out/2020-set/2021)",
+   "tema": ["fiscalização e sanções (multa, auto de infração)", "qualidade do serviço de distribuição", "recursos administrativos"],
+   "relator": "não identificado", "resultado": "conhecido e não provido por unanimidade; multa mantida em cerca de R$ 37,28 milhões",
+   "resumo_voto": "Relator rejeita excludente da pandemia (REN 878/2020), mantém gravidade 100%, danos 50%, abrangência e agravante de 27% (erro material na exposição de motivos); sem melhora efetiva dos indicadores, deixar de penalizar seria sinal inadequado ao modelo de planos de resultados.",
+   "votos": [
+    {"diretor": "não identificado", "voto": "relator, nega provimento", "ts": "0:34:00", "justificativa": "plano de resultados não atingido; conjuntos dentro do limite de DEC caíram de 61 para 55; manter multa preserva a regulação responsiva", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:29", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:29", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:37:33", "confianca": "baixa"}
+   ]},
+  {"id": "2", "ts": "0:38:43", "processo": "48500.004163/2014-61", "interessado": "Furnas, Chesf e Eletronorte (geradoras cotistas, grupo Eletrobras); sustentação oral de Victor Hugo Ribeiro dos Santos (Eletronorte)",
+   "assunto": "Pedido de reconsideração contra a REA 9.119/2020 (pagamento de serviços ancilares de autorrestabelecimento, controle secundário de frequência e SEP em 2018), pedindo remuneração das usinas cotistas",
+   "tema": ["serviços ancilares", "outorgas de geração (hidrelétrica, cotas)", "recursos administrativos"],
+   "relator": "não identificado", "resultado": "deliberação suspensa: relator vota por negar provimento, um diretor acompanha, outro declara impedimento; votos restantes na semana seguinte",
+   "resumo_voto": "Com base na procuradoria e em apresentação da SRG (servidor Leonardo), os serviços ancilares já estão remunerados na receita (RAG) das usinas cotistas; mudança do perfil de operação será tratada na revisão regulatória dos serviços ancilares/RAG de 2023.",
+   "votos": [
+    {"diretor": "não identificado", "voto": "relator, nega provimento", "ts": "1:02:51", "justificativa": "custos dos serviços ancilares já considerados na tarifa das cotistas; discussão estrutural cabe à revisão regulatória", "confianca": "media"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:03:36", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "suspeito/impedido", "ts": "1:03:39", "justificativa": "declara-se impedido de votar no processo", "confianca": "baixa"}
+   ]},
+  {"id": "3", "ts": "1:03:55", "processo": "48500.002085/2019-74", "interessado": "Equatorial Piauí (ex-Cepisa, distribuidora); sustentação oral de Cristiano de Lima (representante)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.830/2019, que indeferiu a revisão tarifária extraordinária (RTE) da Cepisa em substituição ao reajuste de 2019",
+   "tema": ["tarifas e revisão tarifária (distribuidoras, RTE)", "base de remuneração regulatória", "recursos administrativos"],
+   "relator": "não identificado", "resultado": "pedido de vista do diretor Fernando Mosna",
+   "resumo_voto": "Relator (processo herdado do diretor Sandoval) vota por dar provimento, revogar o Despacho 2.830/2019 e abrir consulta pública (9/11 a 26/12/2022, audiência virtual em 24/11/2022): nova análise da SFF mostra conciliação de 71,1% da BDGD entregue em 14/10/2019, antes da decisão; impacto estimado de cerca de R$ 178 milhões, possivelmente diluído.",
+   "votos": [
+    {"diretor": "não identificado", "voto": "relator, dá provimento e abre consulta pública", "ts": "1:38:00", "justificativa": "dados necessários à BRR foram entregues antes da decisão; conciliação físico-contábil adequada à CP; efeitos retroativos a 2/12/2019", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "1:38:53", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:38:53", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:38:53", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática sem marcadores de tempo intermediários no .md; ts obtidos do .json da transcrição.",
+  "Relatores dos três itens não identificados por nome; composição exata da mesa incerta (cita-se uma 'diretora Camila' e um relator que se despede do colegiado no item 2, nomes fora da lista do config).",
+  "Item 1: proclamação por unanimidade; atribuição de 'acompanha' aos três diretores da lista é inferida do cabeçalho de falantes, confiança baixa.",
+  "Item 2: não se sabe quem acompanhou nem quem se declarou impedido; item suspenso.",
+  "Item 3: vista atribuída a Fernando pela fala da mesa ('vista do diretor Fernando'); 'Jacomo' citado pela Equatorial pode ser diretor substituto, não confirmado."
+ ]
+}

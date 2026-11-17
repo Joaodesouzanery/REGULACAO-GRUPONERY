@@ -1,0 +1,524 @@
+{
+ "meta": {
+  "video_id": "_iQVO7TqiXQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "44ª RPO 2022",
+  "data": "2022-11-22",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Alessandro Cantarino (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta com 47 itens; 12 a 47 em bloco (16 e 17 destacados); retirados 4, 5, 6, 10 e 11.",
+   "Item 3 decidido por 4 x 1, vencido Ricardo Tili.",
+   "Itens 16 e 17 (voto-vista do DG) decididos por 3 x 2 contra o voto-vista; Cantarino não votou por subsistir voto de Jácomo Almeida.",
+   "Encerramento às ~4:25."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:10:03",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (12 a 47, exceto 16 e 17 destacados), incluindo revisão da agenda regulatória 2022/2023 com retificação de erro material no anexo",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "diversos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado em votação simbólica; DG retificou anexo da portaria da agenda regulatória (atividade já cancelada).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:10:03",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:10:03",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:10:03",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:10:03",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "aprova o bloco",
+     "ts": "0:10:03",
+     "justificativa": "Aprovou os itens do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:43",
+   "processo": "48500.000184/2022-17",
+   "interessado": "distribuidoras com mercado inferior a 350 GWh/ano",
+   "assunto": "Resultado da Consulta Pública 27/2022: regulação da subvenção econômica às concessionárias de distribuição com mercado próprio inferior a 350 GWh/ano (Lei 14.299/2022)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Alessandro Cantarino (diretor substituto)",
+   "resultado": "aprovado por unanimidade: emissão de resolução normativa (alteração do PRORET)",
+   "resumo_voto": "Apresentação da SGT (Diego); subvenção estimada abaixo de R$ 100 milhões na CDE; metodologia de tarifa média para grupo A.",
+   "votos": [
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "relator, aprova",
+     "ts": "0:27:30",
+     "justificativa": "Aprova REN que regula a subvenção da Lei 14.299; destaca impacto pequeno na CDE (menos de R$ 100 milhões).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:40",
+     "justificativa": "Votou por último e proclamou o resultado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:40",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:40",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:40",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:29:00",
+   "processo": "48500.004856/2021-82",
+   "interessado": "Eletrobras / distribuidoras / consumidores cativos",
+   "assunto": "Resultado da Consulta Pública 34/2022: regulamentação do inciso I do art. 4º da Lei 14.182/2021 (aportes da Eletrobras na CDE para modicidade tarifária)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Alessandro Cantarino (diretor substituto)",
+   "resultado": "aprovado por unanimidade: atualização do PRORET",
+   "resumo_voto": "Rateio pelo fator de garantia física, benefício restrito a cativos; não acolhidos pleitos de Abrace/Anace (abater CDE Uso) e Energisa (alocação transitória). DG destacou cotas menores a partir de 2023.",
+   "votos": [
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "relator, aprova",
+     "ts": "0:50:00",
+     "justificativa": "Recurso deve ir apenas aos consumidores cativos, como manda a lei; impacto de -2,3% em 2022.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:52:54",
+     "justificativa": "Concorda com SGT que destinar a todos os consumidores descumpriria a Lei 14.182; alerta para cotas menores e pressão tarifária nos anos seguintes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:54",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:54",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:54",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:53:33",
+   "processo": "48500.007396/2022-25",
+   "interessado": "Powertech Engenharia (UTE Vila de Matupi, Manicoré-AM); Amazonas Energia; CCEE",
+   "assunto": "Reembolso direto do custo de combustível da UTE Vila de Matupi ao fornecedor (Atem) via CCC/CDE, empresa em recuperação judicial",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "outorgas de geração (térmica, sistema isolado)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria (4 x 1), vencido Ricardo Tili; acrescido item 4: dar conhecimento ao MME",
+   "resumo_voto": "Dar provimento ao requerimento; valores contabilizados como reembolso à Amazonas Energia; perda de objeto da nova cautelar; comunicar MME.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (com item 4 acrescido)",
+     "ts": "1:28:00",
+     "justificativa": "Mesma situação de Manicoré e Apuí; usina nova, mais confiável e cerca de 18% mais barata; repasse direto ao fornecedor de combustível é operacional.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "diverge (vencido): conhecer e negar provimento",
+     "ts": "1:41:06",
+     "justificativa": "«é uma excepcionalidade»: regra personalizada fora do contrato/edital; em Manicoré havia risco de desabastecimento, aqui não; empresa em recuperação judicial e outorga revogada com efeito suspenso.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (com complementos)",
+     "ts": "1:41:00",
+     "justificativa": "Preocupação com revogação da outorga e risco de desabastecimento; propôs comunicar o MME/CMSE (item 4 incorporado).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "1:41:10",
+     "justificativa": "Considerou razoável o encaminhamento; apoiou comunicação ao MME.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:41:24",
+     "justificativa": "Equipara-se a Manicoré e Apuí; reconhece excepcionalidade; MME será atualizado.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:42:51",
+   "processo": "48500.002024/2017-45",
+   "interessado": "Fairfax Brasil Seguros Corporativos; MGE Guaianazes Transmissora (SPE)",
+   "assunto": "Pedido de reconsideração contra Despacho 2.544/2020: multa editalícia de R$ 14,1 milhões por inexecução total do contrato de transmissão 16/2013 (caducidade) e execução da garantia de fiel cumprimento",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Alessandro Cantarino (diretor substituto)",
+   "resultado": "negado provimento por unanimidade",
+   "resumo_voto": "Mantida multa de 10% do investimento; cabível após caducidade; multa pode exceder a garantia.",
+   "votos": [
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "relator, aprova",
+     "ts": "1:58:00",
+     "justificativa": "Contraditório respeitado; multa cumulável com caducidade; 10% do investimento com base em edital e Lei 8.666.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:56",
+     "justificativa": "Votou por último e proclamou o resultado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:56",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:56",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:56",
+     "justificativa": "Acompanhou o relator; proclamação unânime.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:03:42",
+   "processo": "48500.001950/2008-95; 48500.001678/2004-39",
+   "interessado": "EDP Espírito Santo Distribuição; EDP PCH",
+   "assunto": "Pedido de reconsideração contra Despachos 2.620 e 2.621/2020 (aprovação parcial de aditivos CGD e CCE 2003; não convalidação de 2017 por falta de anuência prévia)",
+   "tema": [
+    "comercialização (contratos)",
+    "recursos administrativos"
+   ],
+   "relator": "Alessandro Cantarino (diretor substituto)",
+   "resultado": "negado provimento (unânime pelos votos ouvidos)",
+   "resumo_voto": "Sustentação oral de Rafael (EDP ES). Relator: prazo de protocolo tem finalidade de controle; benefício marginal e só conhecido em 2022; risco de precedente.",
+   "votos": [
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "relator, aprova",
+     "ts": "2:45:00",
+     "justificativa": "Não flexibilizar prazo; benefício ao consumidor marginal e conhecido só a posteriori; precedente arriscado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:07:00",
+     "justificativa": "Comportamento contraditório da EDP (venire contra factum proprium); afastar o prazo criaria precedente.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:07:00",
+     "justificativa": "Formalidade tem peso; para superá-la seria preciso benefício expressivo, não 0,1%.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:07:00",
+     "justificativa": "Questionou contradição em olhar o passado, mas acompanhou relator, Tili e Mosna pelo risco de insegurança regulatória.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:07:15",
+     "justificativa": "Relator original; operação entre partes relacionadas sem anuência; vantajosidade não expressiva.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:08:32",
+   "processo": "48500.000362/2022",
+   "interessado": "ABEEólica e ABSOLAR",
+   "assunto": "Pedido de reconsideração contra Despacho 661/2022 (não conhecimento de requerimento contra exigência de lastro e penalidade de energia de reserva eólica/solar da REN 909/2020)",
+   "tema": [
+    "comercialização (energia de reserva, lastro)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "conhecido e indeferido (unânime pelos votos ouvidos)",
+   "resumo_voto": "Sustentação oral de André Serrão (ABEEólica). Mantido não conhecimento por intempestividade e por atacar norma geral; exigência de lastro existe desde REN 452/2011 para biomassa.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:45:00",
+     "justificativa": "Requerimento é recurso intempestivo contra norma geral; sem ilegalidade; não há bis in idem.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:50:02",
+     "justificativa": "Relator do processo original; mantém posição: intempestivo; venda precisa de lastro.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:50:02",
+     "justificativa": "Intempestividade evidente; voto deveria se restringir ao aspecto processual.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "3:50:02",
+     "justificativa": "Acompanhou o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:50:10",
+     "justificativa": "Questionamento 13 meses após norma com consulta pública não é legítimo salvo ilegalidade manifesta.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "3:51:05",
+   "processo": "48500.000201/2021-35",
+   "interessado": "Cemig Distribuição; Laticínios Sevilha",
+   "assunto": "Recursos contra Despacho SMA 890/2021: devolução simples x em dobro de valores faturados a maior por erro de classificação tarifária (industrial x rural agroindustrial) — voto-vista",
+   "tema": [
+    "recursos administrativos",
+    "tarifas (classificação tarifária)",
+    "direitos do consumidor"
+   ],
+   "relator": "Jácomo Francisco Bassetto de Almeida (ex-diretor substituto; voto mantido) / voto-vista Sandoval Feitosa",
+   "resultado": "negado provimento por 3 x 2 (mantida devolução simples); vencidos voto-vista de Sandoval Feitosa e Fernando Mosna",
+   "resumo_voto": "Voto-vista defendia devolução em dobro retroativa a 10 anos (erro injustificável de 13 anos); prevaleceu voto original de Jácomo.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencido: devolução em dobro",
+     "ts": "4:19:20",
+     "justificativa": "Erro durou de 2005 a 2018; CNPJ indicava atividade; não é engano justificável; responsabilidade objetiva (CDC).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vencido (acompanha voto-vista)",
+     "ts": "4:18:00",
+     "justificativa": "CNPJ desde 1984 indicava fabricação de laticínios; classificação errada desde a ligação; devolução em dobro.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "mantém voto: acompanha relator original (devolução simples)",
+     "ts": "4:17:00",
+     "justificativa": "Cemig agiu prontamente após pedido; não houve dolo; voto original mais acertado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém voto: acompanha relator original",
+     "ts": "4:19:24",
+     "justificativa": "Manteve voto proferido na 35ª RPO.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "não vota (voto do antecessor Jácomo subsiste)",
+     "ts": "4:19:00",
+     "justificativa": "Voto de Jácomo Almeida já proferido.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "4:21:09",
+   "processo": "",
+   "interessado": "Café Boca de Pito; Enel Distribuição Goiás",
+   "assunto": "Recurso contra Despacho SMA 2.831/2021: devolução em dobro de valores faturados a maior por erro de classificação — voto-vista",
+   "tema": [
+    "recursos administrativos",
+    "tarifas (classificação tarifária)",
+    "direitos do consumidor"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "negado provimento por maioria (3 x 2), divergência de Ricardo Tili vencedora (ele redigirá o voto condutor); proclamação confusa",
+   "resumo_voto": "Relator Mosna e voto-vista de Sandoval pela devolução em dobro; Tili abriu divergência acompanhando a área técnica, seguido por Jácomo e Hélvio.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator (vencido)",
+     "ts": "4:21:30",
+     "justificativa": "Devolução em dobro.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha o relator Mosna (vencido)",
+     "ts": "4:23:00",
+     "justificativa": "Acompanha integralmente o voto do relator Mosna.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "diverge (vencedor; condutor da decisão)",
+     "ts": "4:22:30",
+     "justificativa": "Abriu divergência acompanhando a área técnica; negar provimento.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a divergência",
+     "ts": "4:22:30",
+     "justificativa": "Acompanhou a divergência de Tili (voto na sessão anterior).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "não vota (voto do antecessor Jácomo, que acompanhou a divergência)",
+     "ts": "4:22:30",
+     "justificativa": "Jácomo havia acompanhado a divergência.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "10",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "11",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Alessandro Cantarino (diretor substituto) e Jácomo Almeida (ex-diretor substituto) não constam da lista canônica; nomes conforme ditos.",
+  "Votos de seguidores em geral sem nome explícito; atribuídos pela ordem/proclamação, ts aproximados.",
+  "Item 7: proclamação inicial feita por quem presidia momentaneamente; votação reaberta para Sandoval votar.",
+  "Item 17: proclamação contraditória (fala em negar provimento e em devolução em dobro); resultado inferido da explicação de que a divergência de Tili venceu e ele redigirá o voto. Número do processo não lido.",
+  "Itens 16/17: votos de Tili, Hélvio, Mosna e Jácomo proferidos na 35ª RPO (20/09/2022); aqui apenas mantidos.",
+  "Números de processos e valores podem ter erros da legenda automática."
+ ]
+}

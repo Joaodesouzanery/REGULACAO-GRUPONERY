@@ -1,0 +1,75 @@
+{
+ "meta": {"video_id": "mpLhc4OrzUg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "22ª Reunião Pública Ordinária (Parte 2)", "data": "2023-06-27", "formato": "presencial/híbrida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili", "Hélvio Guerra"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 da sessão: 3 processos lidos e a conclusão da aprovação da ata anterior.", "Item da Cooperativa Missões (voto-vista de Hélvio Guerra) retirado de pauta pelo Diretor-Geral após debate sobre a dosimetria da penalidade por insuficiência de lastro.", "Balanço do secretário: 31 processos em pauta, 23 em bloco, 4 retirados, 3 prorrogações de vista."]
+ },
+ "itens": [
+  {
+   "id": "1", "ts": "0:00:04", "processo": "48500.009357/2022-62",
+   "interessado": "Cooperativa de Distribuição e Geração de Energia das Missões (Cermissões), permissionária; vendedora Exponencial Energia Ltda.",
+   "assunto": "Recurso administrativo contra o Despacho 3.681/2022 (SRM) que não aprovou o CCVE nº 1/2022 com a Exponencial Energia, resultante de licitação pública de compra de energia de 2022 (contratação retroativa, envio intempestivo); voto-vista",
+   "tema": ["recursos administrativos", "comercialização (CCEE, PLD, contratos)", "fiscalização e sanções (penalidade por insuficiência de lastro)", "cooperativas/permissionárias"],
+   "relator": "Agnes da Costa", "resultado": "retirado de pauta pelo Diretor-Geral após voto-vista e debate",
+   "resumo_voto": "Voto-vista de Hélvio Guerra: conhecer e negar provimento, acompanhando parcialmente a relatora; afasta as determinações de estudo do submódulo 11.1, de capacitação setorial e de participação de ofício no MCSD ex-post; permissionária pode pleitear afastamento da penalidade (~R$ 5 milhões) no rito próprio. Fernando Mosna defende tratamento já nesta decisão para reduzir/afastar a penalidade (cooperado = consumidor; 25% do resultado líquido). Ricardo Tili sugere aprovar o contrato só para efeito de lastro/a valor de PLD. Sandoval Feitosa retira o processo de pauta para avaliar com áreas técnicas e Procuradoria.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "voto-vista: conhece e nega provimento, acompanhando parcialmente a relatora", "ts": "0:00:04", "justificativa": "aprovação de contrato é ato discricionário; PLD no piso e contratação em dezembro a R$ 129,30 não beneficiava o consumidor; desnecessário estudo do submódulo 11.1 e capacitação (primeira ocorrência, sobrecarga da SGM); contra participação de ofício no MCSD ex-post", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "relatora; manifesta concordância com o voto-vista (não votou: retirado de pauta)", "ts": "0:11:10", "justificativa": "aceita retirar as determinações de estudo e capacitação; rito processual da penalidade resguarda a empresa até análise do mérito", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (retirado de pauta); defende tratamento da penalidade já nesta decisão", "ts": "0:12:40", "justificativa": "cooperado e consumidor se confundem; penalidade de ~R$ 5 mi equivale a ~25% do resultado líquido; desproporcional; dar sinalização de dosimetria agora", "tom": "insistente, argumentativo", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (retirado de pauta); propõe aprovar o contrato só para efeito de lastro ou a valor de PLD", "ts": "0:20:00", "justificativa": "concorda com Fernando que a penalidade recai sobre o consumidor cooperado", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou; retira o processo de pauta", "ts": "0:41:45", "justificativa": "sensível à proposta, mas faltam elementos; preocupação com precedentes; ouvir áreas técnicas e Procuradoria e trazer de volta em breve", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "2", "ts": "0:43:48", "processo": "48500.008300/2022-46",
+   "interessado": "Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+   "assunto": "Deliberação parcial do pedido de reconsideração contra o Despacho 3.478/2022: suspensão do prazo de 180 dias para aporte de capital (critério de eficiência econômico-financeira 2022, REN 948/2021, Módulo 8, art. 4º, §4º), recebido como pedido de medida cautelar",
+   "tema": ["recursos administrativos", "distribuição (critérios de eficiência, gestão econômico-financeira)", "medida cautelar"],
+   "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: cautelar concedida, suspenso o prazo de aporte até decisão de mérito; efeito para todas as distribuidoras",
+   "resumo_voto": "Fumaça do bom direito: incerteza sobre o valor do aporte frente ao mérito pendente; perigo da demora: prazo vence em 30/06 e aportes podem se mostrar sobredimensionados; precedente da cautelar da Enel Rio (Despacho 1.475/2023).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, concede a cautelar", "ts": "0:43:48", "justificativa": "probabilidade do direito e perigo da demora presentes; precedente Enel Rio", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:58:49", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:58:52", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama unanimidade", "ts": "0:58:55", "justificativa": "confirmou que o alcance é de todas as distribuidoras", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "3", "ts": "0:59:31", "processo": "48500.002767/2020-11",
+   "interessado": "Imetame Termelétrica Ltda. (geradora)",
+   "assunto": "Pedido de medida cautelar para suspender a cobrança da multa rescisória do CUST 101/2017 (cerca de R$ 4,5 mi cobrados; empresa entende devidos ~R$ 3,3 mi), item destacado do bloco por Agnes da Costa",
+   "tema": ["transmissão (CUST)", "medida cautelar", "fiscalização e sanções (multa rescisória)"],
+   "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade, com ajuste: provimento parcial para suspender apenas a parte controversa da multa rescisória (sugestão de Fernando Mosna)",
+   "resumo_voto": "Relator propunha suspender toda a cobrança até o mérito do pedido de reconsideração; Agnes questionou o perigo da demora (parcelamento em 12 vezes permite compensar); Fernando sugeriu cautelar só sobre a parcela que excede o valor incontroverso; relator incorporou.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova com ajuste incorporado (suspensão da parte controversa)", "ts": "0:59:31", "justificativa": "temerário cobrar com o processo de mérito pendente; analogia com efeito suspensivo de penalidades", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator com o ajuste, após questionar o perigo da demora", "ts": "1:09:26", "justificativa": "não via perigo da demora (parcelas futuras compensam); preocupação com precedentes, mas acha razoável a sugestão de Fernando", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator; autor da sugestão de suspensão parcial", "ts": "1:09:30", "justificativa": "valor incontroverso (~R$ 3,3 mi) deve ser pago; suspender só a parte controversa", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:09:35", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "4", "ts": "1:10:40", "processo": "", "interessado": "Diretoria",
+   "assunto": "Conclusão da aprovação da ata da reunião anterior (suspensa no início da sessão)",
+   "tema": ["institucional"], "relator": "Sandoval Feitosa", "resultado": "aprovada",
+   "resumo_voto": "Agnes e Sandoval já haviam votado; Ricardo Tili não esteve na reunião anterior; Fernando Mosna completa.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova", "ts": "1:10:40", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "aprova", "ts": "1:10:40", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova", "ts": "1:10:45", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (ausente na reunião anterior)", "ts": "1:10:40", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": ["48500.009357/2022-62 (Cooperativa Missões) retirado de pauta pelo Diretor-Geral após voto-vista"],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números (processos, valores) podem estar errados.",
+  "Hélvio Guerra (dito «Élvio») apresentou o voto-vista no item 1, mas não aparece nos agradecimentos finais nem há fala dele nos itens 2-3; tratado como não votante nesses itens (presença incerta após o item 1).",
+  "Itens 2 e 3: falas de voto curtas sem nome; atribuição pela proclamação e ordem usual (confiança média).",
+  "Item 1: votos não chegaram a ser colhidos; registradas posições no debate. A atribuição da proposta 'lastro/PLD' a Ricardo Tili segue citações de Sandoval («diretor Ricardo»).",
+  "Esta é a Parte 2; a Parte 1 da 22ª reunião (bloco e demais itens) está em outro vídeo."
+ ]
+}

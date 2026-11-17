@@ -1,0 +1,371 @@
+{
+ "meta": {
+  "video_id": "uhVd6foI7Fs",
+  "fonte": "legenda automática do YouTube; .md sem marcadores intermediários, ts obtidos do .json da transcrição; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "35ª RPO 2023 (parte 2)",
+  "data": "2023-09-26",
+  "formato": "presencial/híbrido",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Hélvio Guerra",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 35ª Reunião Pública Ordinária; abertura registra presença de Ricardo e Agnes e que Hélvio e Fernando se juntariam ao longo da sessão.",
+   "Ordem: itens 3, 16, 19, 22, 23, 4 e 8. Item 16 com pedido de vista; item 19 retirado de pauta; demais unânimes.",
+   "Ludmila (Lima) aparece como superintendente (SCE) no item 4, não como diretora."
+  ]
+ },
+ "itens": [
+  {
+   "id": "3",
+   "ts": "0:00:33",
+   "processo": "48500.003509/2007-04",
+   "interessado": "ONS (Operador Nacional do Sistema Elétrico)",
+   "assunto": "Resultado da Consulta Pública 44/2022: revisão da REN 455/2011 (auditoria independente dos dados de entrada do PMO/CMO e de geração) e transferência para o Submódulo 6.18 dos Procedimentos de Rede",
+   "tema": [
+    "regulação normativa",
+    "operação do sistema (ONS)",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: inclui inciso X no art. 2º da REN 1017/2022 (contratação de auditoria independente credenciada na CVM), aprova Submódulo 6.18, revoga REN 455/2011 (vigência em 60 dias) e revoga Despacho 139/2023 mantendo contrato com a PwC até a vigência do submódulo",
+   "resumo_voto": "Área técnica (SGM/SFT) apresentou a análise das contribuições (ONS, Copel, Eletrobras e outra). Diretor-Geral questionou a exigência de credenciamento na CVM; explicado que já constava da REN 455.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:17:00",
+     "justificativa": "Acompanha a NT 91/2023 SGM/SFT; migração da REN 455 para os Procedimentos de Rede é avanço importante na operação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:20:53",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:20:53",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:20:53",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:20:58",
+     "justificativa": "Vota por último e proclama o resultado por unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:22:04",
+   "processo": "48500.000426/2022-72",
+   "interessado": "STN – Sistema de Transmissão Nordeste S.A. (transmissora)",
+   "assunto": "Recurso administrativo contra Despacho 2328/2022 (SRT) que indeferiu revisão da Parcela Variável por Indisponibilidade no desligamento da LT Sobral II – circuito 2 (disjuntor explodiu em 14/11/2021); sustentação oral de Caio Figueiredo Cavalcante (STN)",
+   "tema": [
+    "transmissão (PVI, parcela variável)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista após votos de três diretores pelo não provimento",
+   "resumo_voto": "Relator vota por conhecer e negar provimento: função de transmissão indisponível enquanto o disjuntor estava indisponível; exceção do item 6.1 só se aplica quando a função é energizada a pedido do ONS. Diretor-Geral (provável) concorda com a regra mas sugere recalibrar o sinal na revisão da norma.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "relator, aprova (negar provimento)",
+     "ts": "0:45:00",
+     "justificativa": "Regra de transmissão: PVI sobre toda a função enquanto desligada; vício oculto não é caso fortuito.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:54:30",
+     "justificativa": "Sem afastar posterior aperfeiçoamento da norma, vota com o relator no caso concreto.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "0:54:40",
+     "justificativa": "Eu também voto com o relator.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "0:54:45",
+     "justificativa": "Tem processo muito semelhante em vista; quer avaliação mais ampla dos dois casos e sugestão de aprimoramento da norma.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "0:54:59",
+   "processo": "48500.000348/2017-49",
+   "interessado": "Nova Guaporé Energética S.A. (grupo Polimix) – PCH Nova Guaporé",
+   "assunto": "Recurso contra Despacho 2951/2022 (SFG) que aplicou multa (~R$ 1 milhão, seção 16 do edital do leilão A-5/2016) por atraso na operação comercial; sustentação oral de Victor Gomes",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Empresa alega que o edital remete à REN 63/2004 (atual 846/2019). Procuradoria defende a multa e preclusão. Relator retira de pauta por dúvida sobre ponto não analisado; Sandoval, que anunciara vista, diz que analisará em conjunto casos análogos (pelo critério editalício vs. REN 63).",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "retira de pauta",
+     "ts": "1:12:19",
+     "justificativa": "Dúvida sobre ponto da excludente possivelmente não analisado.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (retirado)",
+     "ts": "1:12:40",
+     "justificativa": "Havia anunciado pedido de vista; casos análogos sem parecer específico da Procuradoria.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "1:15:16",
+   "processo": "48500.005717/2017-90",
+   "interessado": "NF Energias Renováveis SPE Ltda. – UFV (Escadilha)",
+   "assunto": "Recurso contra Despacho 1711/2023 (SCE) que autorizou a UFV sem desconto na TUST/TUSD (falta do estudo solarimétrico até 2/3/2022, Lei 14.120/2021); sustentação oral de Caio Figueiredo Cavalcante",
+   "tema": [
+    "outorgas de geração (solar)",
+    "desconto TUST/TUSD (subsídio)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento por unanimidade dos presentes",
+   "resumo_voto": "Faltou item 9 (estudo solarimétrico) do anexo 2 da REN 876/2020; documento entregue em agosto/2022; precedente do diagrama unifilar é distinto; desconto é pago por terceiros, exige rigor.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:30:00",
+     "justificativa": "Estudo solarimétrico é documento essencial; não cabe à ANEEL tutelar o interessado; precedente (diagrama unifilar) distinto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:15",
+     "justificativa": "Esclarece que seu voto citado (diagrama unifilar) tratava de caso diferente; acompanha.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:15",
+     "justificativa": "Prazos devem ser respeitados; falta de documento essencial impede desconto (fala atribuída por inferência).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:15",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:42:17",
+     "justificativa": "Vota por último e proclama o resultado por unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:42:50",
+   "processo": "48500.002812/2019-01; 48500.002810/2019-12; 48500.002811/2019-59",
+   "interessado": "Nova União Energias Renováveis SPE Ltda. – UFV Nobreza 1, 2 e 3",
+   "assunto": "Recurso contra Despachos 1716, 1717 e 1718/2023 (SCE) que autorizaram as UFVs sem desconto na TUST/TUSD; caso análogo ao item 22; sustentação oral de Caio Figueiredo Cavalcante",
+   "tema": [
+    "outorgas de geração (solar)",
+    "desconto TUST/TUSD (subsídio)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "negado provimento por unanimidade dos presentes",
+   "resumo_voto": "Mesmos fundamentos do item 22.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:46:00",
+     "justificativa": "Mesmos fundamentos do item 22.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:46:41",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:46:41",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:46:41",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:46:50",
+     "justificativa": "Vota por último e proclama o resultado por unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:47:30",
+   "processo": "48500.003795/2020-55 e outros",
+   "interessado": "Renova Energia S.A. (em recuperação judicial); Casa dos Ventos e outros",
+   "assunto": "Recurso contra Despachos 363 a 374/2021 (SCG) que indeferiram DRO de centrais eólicas e fotovoltaicas; voto-vista da diretora Agnes da Costa (relator original Sandoval, voto-vista anterior de Hélvio Guerra na 14ª RPO/2023)",
+   "tema": [
+    "outorgas de geração (eólica, solar, DRO)",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "parcial provimento por unanimidade, nos termos do voto-vista de Agnes da Costa, com exclusão adicional de Barra 5 e 7",
+   "resumo_voto": "Autoriza a SCE a emitir os DRO da Renova, exceto Ventos de Tupã(nama) 01-04, 12 e 13, Cordilheira dos Ventos 18 e 24 (posse comprovada pela Casa dos Ventos) e Barra 5 e 7 (litígio judicial), desde que atendidos os requisitos vigentes. Hélvio defendia excluir áreas em litígio; Fernando propôs o meio-termo Barra 5 e 7; Agnes incorporou.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista vencedor",
+     "ts": "2:28:16",
+     "justificativa": "Capacidade financeira não é exigida na etapa de DRO; DRO é preliminar; exclusão de áreas com posse comprovada por terceiros; incorporou exclusão de Barra 5 e 7 por precaução.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:28:20",
+     "justificativa": "No debate defendeu não emitir DRO para áreas em litígio judicial (prudência); acompanhou após inclusão de Barra 5 e 7.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:28:22",
+     "justificativa": "Propôs meio-termo excluindo Barra 5 e 7; questionou estágio do litígio e a recuperação judicial.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:28:24",
+     "justificativa": "Acompanha (fala sem nome; ordem de votação).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:28:29",
+     "justificativa": "Votos anteriores declarados insubsistentes, todos votam; proclama unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:29:25",
+   "processo": "48500.000436/2021-27 e outros",
+   "interessado": "Solar Neon Bahia Energia SPE 10, 11 e 12 Ltda. (grupo Neon, em recuperação judicial) – UFV Solar Neon Bahia 10A a 12B",
+   "assunto": "Pedido de alteração de cronograma de implantação (postergar 5 anos) e do CUST, por excludente de responsabilidade; decisão judicial (mandado de segurança) determinou análise em 15 dias",
+   "tema": [
+    "outorgas de geração (solar)",
+    "fiscalização (cronograma, excludente de responsabilidade)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Não há excludente de responsabilidade (Lei 13.360/2016, REN 921/2021): bloqueio patrimonial já conhecido ao emitir outorgas; intenção de transferir controle não justifica; não aderiram ao mecanismo da REN 1065.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:40:29",
+     "justificativa": "Acompanha SCE/SFT: não há excludente; empresas já conheciam a situação patrimonial; não aderiram ao mecanismo excepcional.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:05",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:05",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:05",
+     "justificativa": "Acompanha; fala individual sem nome na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:05",
+     "justificativa": "Vota por último e proclama o resultado por unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "19"
+ ],
+ "limites_da_analise": [
+  "Legenda automática; falas de voto sem nome: atribuição por ordem de votação, confiança baixa.",
+  "Itens 3, 22, 23 e 8: só 3-4 manifestações de voto audíveis e proclamação «por unanimidade (dos diretores presentes)»; provavelmente um diretor (Hélvio ou Fernando) ainda não estava presente; registrados todos os 5 como acompanhando, com confiança baixa.",
+  "Item 16: relator e autor do pedido de vista não identificados (falas sem nome); números do processo podem estar errados.",
+  "Item 19: relator não identificado (não é Ricardo Tili, relator do caso Sol Maior).",
+  "Nomes de usinas (Tupã/Tupanama, Neon/New) e números de processo podem ter erros da legenda."
+ ]
+}

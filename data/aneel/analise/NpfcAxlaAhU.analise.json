@@ -1,0 +1,164 @@
+{
+ "meta": {
+  "video_id": "NpfcAxlaAhU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:55); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "41ª Reunião Pública Ordinária de 2023",
+  "data": "2023-11-08",
+  "formato": "presencial com diretores remotos",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Hélvio Guerra",
+   "Agnes da Costa"
+  ],
+  "ausentes": [
+   "Fernando Mosna (férias)"
+  ],
+  "observacoes": [
+   "Ricardo Tili e Hélvio Guerra participaram remotamente; Agnes da Costa juntou-se ao longo da reunião.",
+   "Comunicados do Diretor-Geral sobre o apagão de 3/11/2023 em São Paulo (4,2 milhões de unidades consumidoras, 7 áreas de concessão): fiscalização por empresa, apuração rigorosa de responsabilidades, ressarcimento de danos elétricos, poda de árvores; Ricardo Tili disse ser inadmissível levar quatro dias para restabelecer o serviço.",
+   "Ata da reunião anterior aprovada.",
+   "Pauta com 27 itens; retirados 2, 3 e 15; sem sustentação oral; todos os itens unânimes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "1:16:28",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (itens 5 a 27, exceto o 15 retirado), com votos e atos disponibilizados previamente",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados sem leitura.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "1:16:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "1:16:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "1:16:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco e proclama",
+     "ts": "1:16:42",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:16:56",
+   "processo": "48500.000529/2023-13",
+   "interessado": "Secretaria de leilões / transmissoras (leilão)",
+   "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2023 (3 lotes, Elo de corrente contínua Graça Aranha (MA)–Silvânia (GO), ~R$ 21,7 bilhões, sessão pública em 15/12/2023 na B3) após análise técnica do TCU",
+   "tema": [
+    "leilões",
+    "transmissão (RAP, outorgas, reforços)",
+    "institucional/TCU"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital com divisão do lote 1 em sublotes e competição cruzada; após recomendação do TCU, nova rodada com todos os proponentes válidos em caso de inabilitação do vencedor. Apresentação de André Tiburtino (área de leilões); Procuradoria favorável. Sandoval Feitosa elogiou o trabalho e lembrou ofício conjunto com o MME para reestruturar o lote 1 e ampliar a competitividade.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:30:10",
+     "confianca": "alta",
+     "justificativa": "maior leilão da história da ANEEL; mecanismo para criar competitividade num lote complexo com poucos fornecedores; aprender com leilões anteriores"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:35:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:35:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:36:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:36:50",
+   "processo": "48500.005511/2021-46",
+   "interessado": "Powertech (UTE Manicoré Powertech); Amazonas Energia",
+   "assunto": "Condições de atendimento ao município de Manicoré (AM), §5º do art. 1º da Portaria MME 714/2022: prorrogação da locação de geração térmica de reserva (UTE Manicoré 2)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "sistemas isolados",
+    "fiscalização e sanções"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece que não foram restabelecidas integralmente as condições de atendimento por causa da recuperação judicial da Powertech; Amazonas Energia pode prorrogar a locação de geração térmica por até 180 dias, rescindível se as condições se restabelecerem; SFT e SFF acompanham e SFT fiscaliza em campo a UTE Manicoré 2.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:46:35",
+     "confianca": "alta",
+     "justificativa": "recuperação judicial e liminar sobre pagamentos geram incerteza econômico-financeira; prudência para garantir o suprimento"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:48:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:48:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:48:38",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2",
+  "3",
+  "15"
+ ],
+ "limites_da_analise": [
+  "Transcrição em bloco único; ts aproximados por busca na legenda.",
+  "Falas de voto sem nome: atribuição de Hélvio Guerra e Agnes da Costa pela ordem usual e pela proclamação de unanimidade (confiança media/baixa); não está claro se Agnes já estava presente no bloco.",
+  "Faixa exata do bloco ('5 a 17 A 27') ilegível na legenda; assunto e processos dos itens de bloco e dos retirados não enunciados.",
+  "Nomes na legenda: 'évio' = Hélvio Guerra; 'Ricardo lavorato Tile' = Ricardo Tili; 'soval' = Sandoval."
+ ]
+}

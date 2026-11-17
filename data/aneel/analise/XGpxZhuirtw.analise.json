@@ -1,0 +1,119 @@
+{
+  "meta": {"video_id": "XGpxZhuirtw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "46ª Reunião Pública Ordinária de 2022 (Parte 2, turno da tarde)", "data": "2022-12-06", "formato": "presencial (com participação de servidores pela internet)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Primeira reunião pública de Agnes da Costa como diretora (mandato de seis anos), registrado no encerramento pelo Diretor-Geral.",
+      "Sandoval Feitosa e Fernando Mosna chegaram atrasados ao primeiro item (Sandoval em reunião com a equipe de transição de governo); o resultado foi proclamado sem eles e depois retificado para unanimidade com a inclusão dos seus votos.",
+      "6 itens deliberados na parte 2; 5 unânimes; no item da Energisa Tocantins o Diretor-Geral Sandoval Feitosa ficou vencido (4 votos a 1), defendendo manter a abrangência calculada pela SFE.",
+      "No item da Cogecon, com voto-vista de Sandoval, o voto anterior do ex-diretor Efrain (Jácomo, na legenda) foi declarado insubsistente por fato novo (art. 28 da Norma de Organização 18), permitindo o voto de Agnes da Costa.",
+      "Nas regras de comercialização 2023 (CP 41/2022), após questionamento de Agnes da Costa, o relator Ricardo Tili excluiu do voto a parte sobre repactuação do risco hidrológico (produto SPR, seção 2.1), que permanece sob sua relatoria.",
+      "Balanço do Diretor-Geral no encerramento cita, na reunião como um todo (inclusive a parte 1), a transferência de controle da Enel Distribuição Goiás e as cotas do Proinfa."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:10",
+      "processo": "48500.006035/2019-66", "interessado": "Energisa Mato Grosso Distribuidora de Energia S.A. (distribuidora); fiscalização da AGER/MT",
+      "assunto": "Recurso administrativo contra o Auto de Infração 3/2017 da AGER-MT (agência estadual conveniada) por não conformidades na apuração dos indicadores DER e FER (reclamações)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "distribuição / qualidade do atendimento comercial"],
+      "relator": "Hélvio Guerra", "resultado": "parcial provimento, por unanimidade (após retificação da proclamação)",
+      "resumo_voto": "Conhecer e dar parcial provimento: manter NC2, NC5 e NC6; restabelecer em 25% a gravidade da NC4 (como fixado pela AGER, divergindo da SFE que elevara a 50%) por isonomia com precedentes; multa total alterada para cerca de R$ 1,055 milhão; cancelar a determinação DT1, pois o prazo de guarda de 60 meses já transcorreu e a recontabilização não ultrapassaria o limite do FER.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:00:10", "justificativa": "Diverge da SFE quanto à gravidade da NC4: histórico de fiscalizações semelhantes aplicou 25%; cancelamento da DT1 não prejudica consumidores. Elogia a parceria com as agências estaduais conveniadas.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:15:04", "justificativa": "Acompanha o relator; atribuição pela ordem e pela proclamação.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:15:04", "justificativa": "Unanimidade dos presentes proclamada; fala individual não identificada com segurança.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:18:25", "justificativa": "Chegou após a proclamação; registrou voto pela ordem antes do encerramento da sessão deliberativa: «Eu também acompanho o voto do relator».", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:18:51", "justificativa": "Chegou atrasado (reunião com a equipe de transição); acompanhou e retificou a proclamação para unanimidade, observando que o voto já estava disponível e era de conhecimento de todos.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:21:28",
+      "processo": "48500.007914/2022-19", "interessado": "Hidrelétrica Santa Branca S.A. (UHE Santa Branca, rio Tibagi/PR; geradora)",
+      "assunto": "Pedido (autuado como reconsideração do Despacho 736/2022, tratado como nova medida cautelar) de suspensão das obrigações do contrato de concessão 17/2016 e dos CCEARs até a decisão sobre a rescisão amigável",
+      "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos", "medida cautelar", "licenciamento ambiental", "comercialização (CCEAR)"],
+      "relator": "Fernando Mosna", "resultado": "provimento à cautelar, por unanimidade",
+      "resumo_voto": "Conhecer como novo pedido cautelar (art. 45 da Lei 9.784/99) e dar provimento para suspender as obrigações da concessão e dos CCEARs; perigo da demora agora presente porque o suprimento começaria em 20/01/2023 e a análise do mérito da rescisão não foi concluída nos 9 meses previstos; medida reversível. Dar conhecimento à SCG, SRG, SFG e, por complemento de Sandoval, à SRM. Sustentação oral de Bruno Guimarães Bianchi (Santa Branca).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:47:44", "justificativa": "Presentes fumaça do bom direito (negativa da autorização de supressão vegetal pelo órgão ambiental, excludente de 749 dias já reconhecida) e perigo da demora pela iminência do suprimento; a cautelar é reversível.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:03:54", "justificativa": "Relator da cautelar anterior; questionou o que ocorreu nos nove meses e ressaltou que quem declara inviabilidade ambiental é o órgão ambiental, mas acompanhou.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:03:54", "justificativa": "Acompanha (fala sem nome; atribuição pela ordem de votação).", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:03:57", "justificativa": "«Voto muito claro», de acordo com a cautelar; preocupação maior com o mérito e com abrir mão de hidrelétricas licitadas.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:04:02", "justificativa": "Havia divergido da cautelar em março/2022 por falta de perigo da demora; agora o tempo passou sem a análise técnica e o agente não pode ser prejudicado; aplica fungibilidade ao pedido.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:05:29",
+      "processo": "48500.002268/2016-47", "interessado": "Cooperativa de Geração Compartilhada (Cogecon); Energias Renováveis MASP Ltda.; CGH Nogueira / PCH Generoso",
+      "assunto": "Voto-vista: requerimento administrativo da Cogecon contra o Despacho 3.781/2021 (recurso contra o Despacho 1.172/2019 da SCG) sobre operação temporária da CGH Nogueira",
+      "tema": ["outorgas de geração (CGH/PCH)", "recursos administrativos", "voto-vista", "aproveitamento ótimo / inventário"],
+      "relator": "Hélvio Guerra", "resultado": "não conhecido o pedido de reconsideração e declarada a perda de objeto, por unanimidade, nos termos do voto-vista",
+      "resumo_voto": "Voto-vista de Sandoval Feitosa: acompanha o relator em não conhecer o pedido de reconsideração (itens 3 e 4 do Despacho 3.781/2021) e declara perda de objeto da proposta de autorizar a operação temporária da CGH Nogueira, porque a outorga da PCH que integra o aproveitamento já foi emitida. Na 37ª RPO houve empate 2 a 2 (Hélvio e Ricardo Tili a favor da operação temporária; Fernando Mosna e o ex-diretor Efrain contra); o voto do ex-diretor foi declarado insubsistente por fato novo.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista vencedor", "ts": "1:05:40", "justificativa": "Com a emissão da outorga da PCH, o pleito perdeu o objeto; registrou a gravidade da implantação da CGH à revelia do aproveitamento ótimo.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "relator; acompanha o voto-vista", "ts": "1:17:31", "justificativa": "Concorda com a perda de objeto; esclarece que sua proposta era autorização precária para a usina já pronta gerar enquanto o eixo do inventário não fosse construído, não burlar a lei.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o voto-vista", "ts": "1:18:00", "justificativa": "Fala sem nome: «eu acompanho o voto de vista»; atribuição incerta.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o voto-vista (pela proclamação)", "ts": "1:18:00", "justificativa": "Unanimidade proclamada; fala individual não identificada com segurança.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o voto-vista", "ts": "1:21:28", "justificativa": "Votou após a declaração de insubsistência do voto do ex-diretor; acompanha pela perda de objeto.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:23:16",
+      "processo": "48500.006617/2022-48", "interessado": "CCEE e agentes de mercado; sustentação oral de Moisés (representante de agente com repactuação SPR, ligado a Belo Monte, nome incompleto na legenda)",
+      "assunto": "Resultado da Consulta Pública 41/2022: Regras de Comercialização de Energia Elétrica versão 2023; altera REN 957/2021 e 1.009/2022",
+      "tema": ["comercialização (CCEE, regras de comercialização)", "regulação normativa (consulta pública)", "repactuação do risco hidrológico (GSF/MRE)"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade, com exclusão da repactuação do risco hidrológico (produto SPR, seção 2.1 do voto)",
+      "resumo_voto": "Aprova a REN das regras de comercialização 2023 (órgãos da administração direta, comunhão de consumidores especiais, contratos de GD etc.); a sustentação defendia que o produto SPR protege também da penalidade por insuficiência de lastro; relator acompanhou a área técnica no mérito, mas, após dúvida de Agnes e informação da SRM de que não há urgência (próxima revisão de garantia física em 2028), retirou o ponto do voto, que permanece sob sua relatoria.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (com exclusão do ponto SPR)", "ts": "1:55:04", "justificativa": "Risco de revisão de garantia física é inerente ao negócio de geração; transferir a penalidade por lastro ao consumidor seria mais risco ao consumidor; aceita destacar o ponto para não atrasar os demais itens urgentes.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:55:12", "justificativa": "Levantou a dúvida sobre o produto SPR e a penalidade por insuficiência de lastro e pediu análise jurídica da construção da repactuação; com a exclusão, acompanha.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:55:12", "justificativa": "Acompanha; propôs encerrar a CP quanto ao restante e tratar o risco hidrológico em nova fase.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:55:26", "justificativa": "Acompanha o voto do diretor (fala sem nome; atribuição pela ordem).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:55:30", "justificativa": "Acompanha com a exclusão da repactuação do risco hidrológico e proclama.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:56:42",
+      "processo": "48500.003224/2015-53", "interessado": "Agentes do MRE, ONS e CCEE",
+      "assunto": "Resultado da Audiência Pública 83/2017: critérios de elegibilidade da geração termelétrica despachada por restrição elétrica como deslocamento de geração hidrelétrica (art. 44 da REN 1.030/2022)",
+      "tema": ["regulação normativa (audiência pública)", "comercialização (MRE, GSF)", "geração termelétrica / deslocamento hidrelétrico"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova REN que altera a REN 1.030/2022, recepcionando o mérito decidido na REN 895/2020 (atual 1.035) e corrigindo erro material no equacionamento; ONS e CCEE ajustam procedimentos em até 90 dias. Apresentação técnica de Bruno (SRG). Debate sobre simplificar a regulação da geração e rever o conceito de garantia física.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:25:52", "justificativa": "Recepção formal sem questão de mérito; a espera desde 2017 foi providencial pelas leis posteriores; defende repensar o conceito de garantia física.", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:34:12", "justificativa": "Acompanha (fala sem nome; ordem presumida).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:34:12", "justificativa": "Acompanha; no debate defendeu simplificação diante da complexidade crescente de atributos das fontes.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:34:15", "justificativa": "Acompanha; defendeu tratar a geração pelos serviços prestados, não por fonte.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:34:17", "justificativa": "Acompanha e proclama; elogia a SRG e defende caminhar para simplificação regulatória.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "2:34:32",
+      "processo": "48500.001776/2021-75", "interessado": "Energisa Tocantins Distribuidora de Energia S.A. (ETO)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 13/2021-SFE (multa por interrupções com restabelecimento acima de 24 horas em 2020; continuidade do serviço)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "distribuição / continuidade do serviço"],
+      "relator": "Fernando Mosna", "resultado": "parcial provimento, por maioria (4 a 1), vencido o Diretor-Geral Sandoval Feitosa",
+      "resumo_voto": "Conhecer e dar parcial provimento, reduzindo a multa de cerca de R$ 2,56 milhões para cerca de R$ 2,44 milhões ao calcular a abrangência pela razão consumidores afetados/total (6,36%), conforme precedente da Coelba relatado por Hélvio, em vez do percentual de interrupções (11,77%); mantém a infração com base na cláusula terceira do contrato de concessão e no art. 140 da REN 414. Sustentação oral de Rafael Licurgo Leite (Energisa), alegando aplicação retroativa de critério novo; apresentação de Jaqueline (SFE).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "2:59:52", "justificativa": "A infração não é tipificação nova, e sim descumprimento do dever de continuidade do contrato; aplica o precedente da Coelba ao critério de abrangência.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:13:35", "justificativa": "Acompanha (fala sem nome; ordem presumida); questionou a ausência de regra das 24 horas e aceitou a explicação do relator.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:13:38", "justificativa": "Acompanha; considerou o critério das 24 horas objetivo (dobro da média nacional).", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:13:41", "justificativa": "Acompanha; comparou ao aperfeiçoamento contínuo das regras do Imposto de Renda e achou a fiscalização bem fundamentada.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido", "ts": "3:13:48", "justificativa": "Mantinha a análise da SFE, com abrangência pela proporção de interrupções acima de 24 horas; considera 24 horas sem energia inconcebível no século 21 e diz que a fiscalização evolui com mais informação, sem mudar regras.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Parte 2 (turno da tarde) da 46ª RPO; a parte 1 está em outro vídeo.",
+    "Legenda automática: números de processo, valores de multa e nomes (Agnes, Mosna, Tili, Licurgo, Moisés, Cogecon) podem estar errados; o processo do item 2 aparece como «48.500 79 14 2022».",
+    "Atribuição das falas curtas «acompanho» feita pela ordem de votação e pela proclamação; confiança baixa onde a fala não tem nome.",
+    "Item 1: a primeira proclamação foi feita sem Sandoval e Fernando Mosna; quem presidia naquele momento não é identificado com segurança.",
+    "Item 3: os ts dos votos de Ricardo Tili e Fernando Mosna são aproximados; a fala «eu votaria no condutor» não tem autor identificado.",
+    "O ex-diretor citado no item 3 aparece como «Jácomo»/«Evoque» na legenda (provavelmente Efrain Cruz); fora da lista de diretores atuais.",
+    "Gentil Nogueira consta no cabeçalho de falantes, mas não integrava a diretoria em dez/2022 e não tem fala identificada; não incluído entre os presentes."
+  ]
+}

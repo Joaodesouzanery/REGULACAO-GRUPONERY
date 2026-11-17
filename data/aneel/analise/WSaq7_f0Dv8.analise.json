@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "WSaq7_f0Dv8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9ª Reunião Pública Ordinária de 2022 (Parte 2, tarde)", "data": "2022-03-22", "formato": "presencial com participação remota",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz"],
+    "ausentes": ["Elisa Bastos (retirou-se da sessão e retirou de pauta seus itens 8 e 22)"],
+    "observacoes": ["Sessão da tarde da 9ª RPO de 2022; só um item deliberado (item 10, Transnorte, unânime).", "Itens 6 e 5 (São Roque Energética) retirados de pauta pelo relator Sandoval Feitosa após debate, com promessa de retorno na próxima reunião pública.", "No item 5 a diretoria decidiu que Hélvio Guerra não vota, mantendo-se o voto do relator originário Júlio César Rezende Ferraz.", "Sustentações orais: Guilherme Baggio (São Roque, item 6) e Márcio Pina (Transnorte, item 10)."]
+  },
+  "itens": [
+    {
+      "id": "6", "ts": "0:00:03",
+      "processo": "48500.005041/2012 (número incerto na legenda)", "interessado": "São Roque Energética S.A. (geradora; UHE São Roque, Vargem e São José do Cerrito/SC, ~142 MW)",
+      "assunto": "Termo de Intimação 1071/2017 da SFG com proposta de caducidade da concessão da UHE São Roque; pedido de alteração de cronograma conforme leilão A-6/2019",
+      "tema": ["fiscalização e sanções (caducidade)", "outorgas de geração (hidrelétrica)", "leilões (geração)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "retirado de pauta pelo relator (sem deliberação)",
+      "resumo_voto": "Relator leu voto para arquivar o TI 1071/2017 (interesse público, obra ~93,7% e retomada), aprovar resolução autorizativa alterando cronograma conforme habilitação EPE do A-6/2019, aprovar 2º termo aditivo ao contrato de concessão 1/2012 e determinar à SFG apurar responsabilidades pelo atraso de ~6 anos. Hélvio Guerra questionou a alteração do cronograma (usina não pronta, montagem eletromecânica 77%) e Efrain Cruz sustentou que a alteração de cronograma tem rito próprio e não deveria preceder a análise de excludentes; o relator retirou o processo para esclarecer esse ponto. Sustentação oral de Guilherme Baggio (São Roque).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, retirou de pauta (voto lido: arquivar TI e alterar cronograma)", "ts": "0:38:20", "justificativa": "Caducidade desproporcional ao atraso; interesse público da usina com reservatório (MME e ONS); atraso não reconhecido como excludente; retirou para esclarecer a possibilidade de adequação do cronograma.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (retirado de pauta); questionou a alteração de cronograma", "ts": "0:39:00", "justificativa": "Usina não está pronta (montagem eletromecânica 77%); mudança de cronograma parece precipitada; arquivamento do TI sem objeção.", "tom": "questionador", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (retirado de pauta); objetou aos itens 2 a 4 do voto", "ts": "0:45:00", "justificativa": "Concorda com arquivamento do TI, mas alteração de cronograma e termo aditivo antes da análise de excludentes antecipariam rito próprio; usina com seis anos de atraso e reversível ao consumidor.", "tom": "crítico", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (retirado de pauta)", "ts": "0:57:25", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:57:55",
+      "processo": "48500.006740/2011-14 (número incerto na legenda)", "interessado": "São Roque Energética S.A.",
+      "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 682/2020 que negou postergar o pagamento dos encargos do CUST 15/2016 (ciclo 2016/2017) para após a operação comercial da UHE São Roque; rescisão do CUST e encargos rescisórios",
+      "tema": ["transmissão (CUST, encargos de uso)", "recursos administrativos"],
+      "relator": "Júlio César Rezende Ferraz (relator originário); Sandoval Feitosa (voto-vista)",
+      "resultado": "retirado de pauta pelo autor do voto-vista (sem deliberação); decidido que Hélvio Guerra não vota e permanece o voto do relator originário",
+      "resumo_voto": "Voto do relator originário Júlio Ferraz: conhecer e negar provimento e determinar à SRT processo específico sobre a rescisão unilateral do CUST. Procuradoria sugeriu desconsiderar o voto de Júlio por fatos novos; a diretoria manteve o voto e Hélvio Guerra não participou. Sandoval leu relatório do voto-vista (dívida ~R$ 11 milhões com 224 credores; encargos rescisórios ~R$ 32 milhões) e retirou o processo para tratar junto com o item 6.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista, retirou de pauta", "ts": "1:06:50", "justificativa": "Relatou o caso; ONS tem competência legal para rescindir o CUST; retirou porque o segundo ponto se liga à discussão do item anterior.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não vota (sucessor da vaga; prevalece voto de Júlio Ferraz)", "ts": "1:02:00", "justificativa": "Não substituiu Júlio Ferraz e não pode alterar voto dele; preocupação com nulidade.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (retirado de pauta); defendeu manter o voto de Júlio Ferraz", "ts": "1:03:30", "justificativa": "O objeto do pedido não mudou; seis votos não são possíveis.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "não votou (retirado de pauta)", "ts": "1:25:14", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "1:25:28",
+      "processo": "48500.000400/2022-24 (número incerto na legenda)", "interessado": "Transnorte Energia S.A. (transmissora; linhão Manaus-Boa Vista, Terra Indígena Waimiri-Atroari)",
+      "assunto": "Requerimento de reequilíbrio econômico-financeiro do contrato de concessão 3/2012 em atendimento ao item 2.1.3 do termo de compromisso arbitral",
+      "tema": ["transmissão (RAP, reequilíbrio)", "recursos administrativos", "institucional (arbitragem)"],
+      "relator": "Efrain Cruz",
+      "resultado": "unanimidade dos votantes (4): conhecer e negar provimento ao pleito de reequilíbrio",
+      "resumo_voto": "Relator: custos alegados (pedido ~R$ 600 milhões de RAP) estão na matriz de risco do edital e do contrato; teoria da imprevisão não se aplica; questão segue para arbitragem (teto mínimo ~329 e máximo ~396 milhões); apelo para início das obras após a LI. Sustentação oral de Márcio Pina (Transnorte), que alegou impedimento de acesso à terra indígena e insuficiência do IPCA.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, nega provimento", "ts": "2:30:17", "justificativa": "Custos extraordinários já alocados à concessionária na matriz de risco; componente indígena previsto no edital; solução é o compromisso arbitral.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:32:07", "justificativa": "Caminho já criado é seguir na arbitragem/mediação.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (e proclama)", "ts": "2:32:11", "justificativa": "", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:32:41", "justificativa": "Chamado após a proclamação por estar na sala; acompanhou o eminente relator.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["Itens 8 e 22 (relatora Elisa Bastos), retirados ao se ausentar da sessão", "Item 6 (São Roque, caducidade) retirado pelo relator", "Item 5 (São Roque, CUST) retirado pelo autor do voto-vista"],
+  "limites_da_analise": ["Nomes fora da lista do config (diretoria de 2022): André Pepitone (Diretor-Geral), Efrain Cruz, Elisa Bastos, Júlio César Rezende Ferraz (relator originário do item 5).", "Números de processo, valores e datas vêm de legenda automática e podem estar errados.", "Item 10: a fala «eu acompanho o voto do relator» sem nome foi atribuída a Hélvio Guerra pela ordem de votação (confiança baixa); a seguinte, que proclama, a André Pepitone.", "Itens 5 e 6 sem deliberação; votos registrados como posições no debate, com ts aproximados.", "Parte 2 (tarde) da 9ª RPO; a parte da manhã está em outro vídeo."]
+}

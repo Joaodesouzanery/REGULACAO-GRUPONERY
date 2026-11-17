@@ -1,0 +1,58 @@
+{
+  "meta": {"video_id": "c_PprmCnqG4", "fonte": "legenda automática do YouTube; falantes inferidos; .md sem marcadores além de 0:00:05, ts obtidos do .json de transcrição; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "29ª Reunião Pública Ordinária (Parte 3)", "data": "2022-08-10", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (provavelmente Sandoval Feitosa, Diretor-Geral; o .md atribui a fala a Gentil Nogueira, que na época era superintendente da SFG)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "não identificado (diretor 'Jácomo', provavelmente Giácomo Almeida)"],
+    "ausentes": [],
+    "observacoes": ["Continuação da 29ª RPO suspensa na noite de 9/8/2022.", "Item 10 (RBSE/ABIAPE): presidente da sessão declarou-se impedido após manifestação do Procurador-Geral (art. 144, IV, CPC); resultado proclamado por unanimidade dos demais.", "Item 16 (submódulos SMF dos Procedimentos de Rede): sustentação oral do ONS (Tatiane Pestana/Moraes); vista do diretor Hélvio Guerra.", "Item 12: revogação de outorgas de UTEs da Powertech (sistemas isolados, AM), unânime.", "Demais itens retirados de pauta a pedido do relator."]
+  },
+  "itens": [
+    {
+      "id": "10", "ts": "0:00:05", "processo": "", "interessado": "ABIAPE (Associação Brasileira dos Investidores em Autoprodução de Energia)",
+      "assunto": "Convalidação de decisão da Diretora-Geral substituta (Despacho 1762/2022) sobre pedido da ABIAPE quanto à parcela financeira controversa da RBSE; retomada após pedido de vista",
+      "tema": ["transmissão (RBSE)", "recursos administrativos", "tarifas"],
+      "relator": "não identificado", "resultado": "aprovado por unanimidade (presidente impedido): convalida conhecimento como direito de petição e determinação de cálculos à SGT; nega cautelar de suspensão da REH 2258/2017; não convalida demais decisões do Despacho 1762/2022",
+      "resumo_voto": "Cálculos da parcela controversa da RBSE com fluxo antecipado a partir de 1/7/2017, disponibilizados aos interessados para contraditório; cautelar negada.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (votou na sessão anterior)", "ts": "0:00:05", "justificativa": "voto já proferido antes da vista, segundo o presidente", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (votou na sessão anterior)", "ts": "0:00:05", "justificativa": "citada como 'diretora' que acompanhou", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "suspeito/impedido", "ts": "0:00:05", "justificativa": "Procurador-Geral opinou por impedimento (art. 144, IV, CPC); presidente declara-se impedido", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "16", "ts": "0:08:11", "processo": "48500.002486/2020-68", "interessado": "ONS; CCEE",
+      "assunto": "Resultado da Consulta Pública 74/2021: aprimoramento dos requisitos do sistema de medição para faturamento (SMF) nos Procedimentos de Rede (submódulos 2.14, 6.8, 6.16, 7.11)",
+      "tema": ["regulação normativa (consulta pública)", "transmissão", "procedimentos de rede"],
+      "relator": "não identificado", "resultado": "pedido de vista do diretor Hélvio Guerra",
+      "resumo_voto": "Relator mantém o voto apesar da sustentação oral do ONS (que pedia retirar dos Procedimentos de Rede comandos dirigidos à CCEE e a agentes); SRT (Leonardo) defende manter o conteúdo consolidado e simplificar aprovação ONS/CCEE com controle anual por relatório. Sustentação oral: Tatiane Pestana (ONS).",
+      "votos": [
+        {"diretor": "não identificado", "voto": "relator, aprova revisão 2022.08 dos submódulos", "ts": "0:22:00", "justificativa": "mantém voto; conteúdo antigo, pequeno, dispersaria a regulamentação se retirado", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:25:00", "justificativa": "fala 'eu acompanho voto' sem nome", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:25:00", "justificativa": "fala 'também acompanha o voto' sem nome", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "0:25:05", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "12", "ts": "0:25:12", "processo": "48500.003892/2017-42 e outros", "interessado": "Powertech Engenharia, Serviços e Locações de Geradores de Energia S.A. (UTEs Vila de Matupi, Auxiliadora, Nova Aripuanã, Sucuri, Xiní, Apuí — sistemas isolados, AM; Leilão 2/2016)",
+      "assunto": "Termos de Intimação 1 a 6/2021 da SFG: revogação de outorgas de UTEs por descumprimento de cronograma e incapacidade econômico-financeira (recuperação judicial)",
+      "tema": ["fiscalização e sanções (revogação)", "outorgas de geração (térmica)", "sistemas isolados"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: revoga outorgas das UTEs não implantadas; arquiva TI 6/2021 (UTE Apuí em operação comercial); SFF instaura processo sobre viabilidade econômico-financeira da UTE Apuí",
+      "resumo_voto": "Obras paralisadas sem previsão desde jan/2021; empresa em recuperação judicial, recebíveis retidos por Bradesco e Banco do Brasil; não comprovou capacidade financeira nem respondeu à SFF.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova revogação", "ts": "0:47:58", "justificativa": "empresa não demonstrou capacidade de manter a prestação do serviço; sem avanço nas obras; recuperação judicial", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:50:34", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:50:36", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:50:38", "justificativa": "preocupação com risco ao abastecimento de sistemas isolados (atribuição incerta)", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Demais itens da pauta retirados a pedido do relator (sem números citados)"],
+  "limites_da_analise": [
+    "Transcrição em bloco único; falantes e presidente da sessão incertos (o .md atribui a fala a Gentil Nogueira).",
+    "Composição da diretoria em ago/2022 inferida; 'diretor Jácomo' (vista no item 10, provavelmente Giácomo Almeida) não consta da lista de diretores do config.",
+    "Item 10: relator e número do processo não ditos nesta parte; votos dados na parte anterior.",
+    "Item 16: relator ('da Cruz' na legenda) não identificado; quem disse 'acompanho' não nomeado.",
+    "Item 12: votos dos não relatores sem nome na fala; atribuídos pela proclamação unânime; nº de presentes incerto."
+  ]
+}

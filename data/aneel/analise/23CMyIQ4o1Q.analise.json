@@ -1,0 +1,53 @@
+{
+  "meta": {"video_id": "23CMyIQ4o1Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "37ª Reunião Pública Ordinária (Parte 2, tarde)", "data": "2022-10-04", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Continuação da 37ª RPO à tarde; abertura saúda os diretores Élvio, Fernando e Tili, o Procurador-Geral e o Secretário-Geral.", "Três itens chamados à tarde: item 2 (fechamento da CP 21/2022, vista a Hélvio Guerra), item 4 (requerimento administrativo, empate 2 a 2 de sessão anterior, vista ao Diretor-Geral) e item 5 (reatores reserva da Equatorial Transmissora 1, divergência de Fernando Mosna vencedora).", "No balanço final: 53 processos na pauta, 46 em bloco, 3 retirados, 3 pedidos de vista no dia."]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:00:33",
+      "processo": "48500.006296/2021-09", "interessado": "transmissoras e geradores (acesso à rede básica)",
+      "assunto": "Resultado da Consulta Pública 21/2022: regulação do uso fundiário no entorno de subestações da rede básica (raio em torno de subestações, autodeclaração do gerador no pedido de outorga e na operação em teste)",
+      "tema": ["regulação normativa (consulta pública)", "transmissão", "outorgas de geração"],
+      "relator": "Fernando Mosna", "resultado": "pedido de vista de Hélvio Guerra; deliberação suspensa",
+      "resumo_voto": "Relator propõe aprovar a norma resultante da CP 21/2022 (agenda regulatória item 95), com autodeclaração em dois momentos e fiscalização posterior; longo debate sobre servidão x área de restrição e utilidade da segunda autodeclaração.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:18:25", "justificativa": "antecipar problema de ocupação do entorno de subestações; autodeclaração dupla gera responsabilidade do gerador", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:15:10", "justificativa": "primeiro avanço num tema sem regulação; problemas pontuais tratados caso a caso", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:15:13", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:15:13", "justificativa": "debateu o mérito (exemplo de áreas de aproximação de aeroportos) mas voto não ouvido antes da vista", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:15:33",
+      "processo": "48500.002268/2016-47", "interessado": "cooperativa de geração compartilhada; Máscara Energias Renováveis Ltda. (nomes incertos)",
+      "assunto": "Requerimento administrativo contra decisão de 2021 que deu parcial provimento a recurso contra despacho 1172/2019 da SCG",
+      "tema": ["recursos administrativos", "outorgas de geração"],
+      "relator": "Hélvio Guerra", "resultado": "pedido de vista do Diretor-Geral; empate 2 a 2 da sessão anterior",
+      "resumo_voto": "Processo já em votação, com dois votos para cada encaminhamento; restava o voto do Diretor-Geral, ausente na semana anterior, que pediu vista.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "1:16:30", "justificativa": "não participou da votação anterior por ausência; precisa de mais tempo para avaliar", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:16:35",
+      "processo": "48500.000452/2022-09; 48500.000453/2022-45", "interessado": "Equatorial Transmissora 1 SPE S.A.; Parnaíba Transmissora de Energia (PTE)",
+      "assunto": "Autorização de reforços do POTEE 2021 (reatores de linha reserva) nas subestações Barreiras 2 e Rio das Éguas e responsabilidade pelo custeio",
+      "tema": ["transmissão (RAP, reforços)", "leilões (transmissão)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por maioria o voto divergente de Fernando Mosna (Equatorial responsável pela instalação, sem receita adicional); relator vencido",
+      "resumo_voto": "Relator entendia que o edital (Lote 8 do Leilão 13/2015, 2ª etapa) não previa reator reserva e o projeto era compatível, cabendo receita; SCT e Procuradoria viam responsabilidade da Equatorial, pois o projeto de engenharia escolhido inviabilizou o compartilhamento com a PTE. Prevaleceu a divergência: obrigação de instalar sem RAP adicional; Mosna redige o voto condutor.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, vencido", "ts": "1:55:28", "justificativa": "edital não previa reator reserva; resposta do ONS e projeto compatível com edital; reforço deveria ser remunerado", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "diverge (voto condutor)", "ts": "1:50:00", "justificativa": "resposta a esclarecimento no leilão indicava compartilhamento; decisão empresarial da Equatorial tornou o reator necessário; usuários não devem pagar", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência", "ts": "2:07:02", "justificativa": "a empresa deveria ter previsto o compartilhamento no projeto", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a divergência (inferido pela proclamação por maioria)", "ts": "2:10:32", "justificativa": "voto individual não ouvido", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição em bloco único com um só marcador; ts obtidos do JSON da legenda, alguns aproximados (ts do voto de Mosna no item 5 é estimado).", "Ludimila Lima aparece na lista inferida de falantes, mas não é saudada na abertura nem ouvida votando; tratada como não presente nesta parte (não confirmado).", "Item 5: voto de Ricardo Tili não ouvido; inferido da proclamação «por maioria» com relator vencido.", "Item 4: votos dos demais diretores foram dados em sessão anterior e não são identificados aqui; nomes dos interessados incertos na legenda.", "Item 2: Ricardo Tili participou do debate, voto não ouvido antes da vista.", "Parte 1 da 37ª RPO (manhã, itens em bloco) não está neste vídeo."]
+}

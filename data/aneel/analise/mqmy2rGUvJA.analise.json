@@ -1,0 +1,424 @@
+{
+ "meta": {
+  "video_id": "mqmy2rGUvJA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "44ª RPO 2023",
+  "data": "2023-11-28",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Agnes da Costa",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com quórum de três (Sandoval, Hélvio, Ricardo); Agnes e Fernando chegaram no início.",
+   "Pauta com 36 itens; bloco 11-36; retirados 2, 5, 8 e 20; ordem: bloco, 7, 6, 4, 9, 1 (adiado), 3, 10, 1.",
+   "Nos itens 7 e 6 (PVI de transmissão) o voto-vista do Diretor-Geral foi vencido.",
+   "Item 9 (Oliveira Energia) teve sustentação oral e vista de Hélvio Guerra."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "1:08:34",
+   "processo": "itens 11 a 36 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 44ª RPO de 2023 (itens 11 a 36, votos previamente publicados; Ricardo Tili registrou correção de data no item 24 para 21/12/2027)",
+   "tema": [
+    "diversos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Bloco aprovado sem destaque.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "1:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "1:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "1:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "1:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "1:08:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:09:09",
+   "processo": "48500.0042/2022 (número parcial na legenda)",
+   "interessado": "Sistema de Transmissão Nordeste S.A. (STN), transmissora",
+   "assunto": "Recurso administrativo contra o Despacho 2.328/2022 (SRT) que indeferiu revisão da PVI aplicada no desligamento da LT 500 kV Sobral III - Pecém II C2 (falha do disjuntor), em 14/11/2021 (desconto de cerca de R$ 7,9 milhões)",
+   "tema": [
+    "transmissão (PVI, função de transmissão)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por maioria: conhecer e negar provimento (voto original do relator Hélvio Guerra); vencido o voto-vista de Sandoval Feitosa (parcial provimento)",
+   "resumo_voto": "Voto-vista de Sandoval: parcial provimento, recontabilizar a PVI reconhecendo FT incompleta disponível e usada pelo ONS para controle de tensão (desenergizada) entre 6:25 e 13:16 de 14/11 e 2:06 e 11:36 de 15/11/2021. Hélvio e área técnica (Leonardo/Benedito): regra das regras de transmissão exige energização para caracterizar utilização parcial; manteve o voto original de negar provimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: parcial provimento (vencido)",
+     "ts": "1:10:40",
+     "confianca": "alta",
+     "justificativa": "linha desligada ou ligada exerce controle de tensão (Submódulo 2.5, item G); ONS usou a FT incompleta; PVI deve ser recontabilizada nos períodos de uso"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, mantém voto original (negar provimento)",
+     "ts": "1:46:01",
+     "confianca": "alta",
+     "justificativa": "regra: com equipamento indisponível aplica-se PVI à FT, independentemente do uso pelo ONS; poderíamos discutir se a regra é justa, mas está posta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista (vencida)",
+     "ts": "1:45:32",
+     "confianca": "baixa",
+     "justificativa": "fala «Eu voto com o voto revisor» sem nome; atribuição inferida"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém voto (acompanha o relator)",
+     "ts": "1:45:35",
+     "confianca": "baixa",
+     "justificativa": "«eu e o Fernando acompanhamos um voto que se poderia ter desistido» – atribuição inferida"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "mantém voto (acompanha o relator)",
+     "ts": "1:45:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:47:03",
+   "processo": "48500.002060/2021-95 (aprox.)",
+   "interessado": "Cemig Geração e Transmissão S.A. (Cemig GT), transmissora",
+   "assunto": "Recurso administrativo contra o Despacho 1.410/2021 (SRT) que indeferiu recontabilização da PVI pela falha do disjuntor 10U4 da LT 500 kV Bom Despacho 3 - Jaguara C2, em 02/08/2020",
+   "tema": [
+    "transmissão (PVI, função de transmissão)",
+    "recursos administrativos"
+   ],
+   "relator": "Jácomo Francisco Bassi (ex-diretor; voto já exarado)",
+   "resultado": "aprovado por maioria: conhecer e negar provimento (voto do relator original); vencido o voto-vista de Sandoval Feitosa",
+   "resumo_voto": "Voto-vista de Sandoval: parcial provimento, reconhecendo a FT incompleta disponível e usada pelo ONS para controle de tensão entre 2:20 e 12:02 de 02/08/2020, com registro do centro de operação do ONS (diferença em relação ao item 7). Agnes não vota por haver voto do diretor Jácomo Bassi, a quem sucedeu. Demais mantêm votos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: parcial provimento (vencido)",
+     "ts": "1:47:30",
+     "confianca": "alta",
+     "justificativa": "registro do ONS confirma que a linha desligada foi utilizada para controle de tensão"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota (voto já exarado pelo antecessor Jácomo Bassi)",
+     "ts": "2:13:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "mantém voto (nega provimento)",
+     "ts": "2:13:45",
+     "confianca": "media",
+     "justificativa": "pelas razões expostas no item anterior"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém voto (nega provimento)",
+     "ts": "2:13:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "mantém voto (nega provimento)",
+     "ts": "2:13:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:14:26",
+   "processo": "48500.001822/2018-74 (aprox.)",
+   "interessado": "setor (ONS, CCEE, MME, agentes)",
+   "assunto": "Resultado da Consulta Pública 43/2022: revisão da REN 1.032/2022 (antiga REN 843/2019) - critérios para o PMO e formação do PLD (previsibilidade de dados de entrada, fast track de modelos, modelos satélites, governança do CT PMO/PLD)",
+   "tema": [
+    "comercialização (PLD, PMO)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Revisão da REN 1032/2022; apresentação de Patrícia (SGM); 181 contribuições de 21 agentes; vigência 180 dias após publicação.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:35:00",
+     "confianca": "alta",
+     "justificativa": "alinhamento com MME, ONS e CCEE; melhoria da governança dos dados de entrada"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:36:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:37:52",
+   "processo": "48500.005054/2019 e 48500.002080/2020 (aprox.)",
+   "interessado": "Oliveira Energia S.A. (geradora, sistema isolado de Roraima); UTE Monte Cristo Sucuba, Boa Vista-RR",
+   "assunto": "Pedido de reconsideração do Despacho 1.595/2022 que negou excludente de responsabilidade pelo atraso da UTE Monte Cristo Sucuba (Leilão de sistemas isolados 1/2019), com pedido alternativo de reconhecer operação comercial em 28/06/2021 e revogar multa (Despacho 2.331/2022)",
+   "tema": [
+    "outorgas de geração (térmica, sistema isolado)",
+    "fiscalização e sanções (multa, excludente)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de vista de Hélvio Guerra (não concluído)",
+   "resumo_voto": "Sustentação oral de Guilherme (representante da Oliveira Energia). Ricardo: não reconhece excludente, mas acolhe pedido alternativo: reconhece operação em 28/06/2021 dividindo a UTE Monte Cristo (82,85 MW locação + 42,25 MW contrato do leilão), revoga multa, determina recontabilização CCC (CCEE) e CVA da Roraima Energia. Sandoval questiona ampliação do objeto sorteado e ausência de análise de impacto na CCC/tarifa; Agnes vê inovação sem amparo regulatório; Fernando e Hélvio defendem análise de pedido alternativo.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, defere pedido alternativo",
+     "ts": "3:20:00",
+     "confianca": "alta",
+     "justificativa": "contrato do leilão é mais barato que a locação; usina não podia ser desmobilizada por decisão do CMSE após corte da Venezuela"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (indefere o pedido de reconsideração)",
+     "ts": "3:41:01",
+     "confianca": "alta",
+     "justificativa": "não vê amparo para usar a mesma térmica obrigada pelo CMSE para cumprir contrato do leilão; cadastro na EPE não é vinculante"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:41:16",
+     "confianca": "baixa",
+     "justificativa": "fala sem nome; inferido pela ordem e pela defesa do pedido alternativo"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "3:41:31",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "3:41:31",
+     "confianca": "media",
+     "justificativa": "preocupação com extrapolação do objeto sorteado e falta de instrução sobre CCC e tarifa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:42:10",
+   "processo": "48500.003664/2017-72 (aprox.)",
+   "interessado": "setor (empreendedores de UHE)",
+   "assunto": "Resultado da Audiência Pública 74/2017: alteração da REN 875/2020 (antiga REN 395/1998) - procedimentos para EVTE e projeto básico de UHE objeto de concessão (>50 MW)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Simplificação: DRS-EVTE para primeiro interessado, 36 meses com relatórios intermediários, despacho de adequabilidade, fim da exigência de garantia e do prazo de vigência do DRS. Apresentação de Cíntia Mendonça Moreira.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova minuta",
+     "ts": "3:58:00",
+     "confianca": "alta",
+     "justificativa": "retirar ônus desnecessário a projetistas; atende preocupação do TCU com prazo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:01:06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:01:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:01:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:01:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "4:02:06",
+   "processo": "48500.000086/2023-33 (aprox.)",
+   "interessado": "ONS e CCEE",
+   "assunto": "Resultado da CP 7/2023: alteração do Submódulo 4.5 dos Procedimentos de Rede e Submódulo 1.4 dos Procedimentos de Comercialização - plano de contingência no processamento do modelo DESSEM",
+   "tema": [
+    "comercialização (PLD, CCEE)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprova submódulos; determina a ONS/CCEE avaliar no CT PMO/PLD outros cenários e contingência para NEWAVE e DECOMP. Apresentação de Mateus (SGM).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "4:14:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:15:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:15:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:15:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:15:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "4:17:14",
+   "processo": "48500.006887/2022-59 e 48500.004129/2023-87 (aprox.)",
+   "interessado": "Equatorial Piauí Distribuidora de Energia S.A.",
+   "assunto": "Revisão tarifária periódica 2023 da Equatorial Piauí (vigência 02/12/2023) e limites DEC/FEC 2024-2028, após CP 29/2023",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "qualidade (DEC/FEC)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Efeito médio 14,70% (AT 9,22%; BT 16,07%); componente T do Fator X 0,53; perdas não técnicas com trajetória de redução. Apresentação de Charles (STR).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "4:33:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:34:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:34:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:34:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:34:10",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2, 5, 8 e 20",
+   "relator": "não identificado",
+   "motivo": "retirados de pauta (anunciado pelo secretário-geral); um deles, processo da UTE Rio Grande (RS), retirado pelo relator em respeito à situação climática no RS",
+   "ts": "1:03:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes distorcidos (ex.: 'Élvio', 'mna'); números de processo aproximados.",
+  "Votos sem nome nos itens 7, 6 e 9 atribuídos por inferência (confiança baixa): no item 7 a fala 'Eu voto com o voto revisor' foi atribuída a Agnes da Costa e a menção 'eu e o Fernando acompanhamos' a Ricardo Tili.",
+  "Nos itens 4, 10 e 1 só se ouvem três falas de acompanhamento para quatro não-relatores; proclamação diz unanimidade dos presentes.",
+  "O trecho anterior a 0:54 do vídeo não consta da transcrição.",
+  "Retirado da UTE Rio Grande: relator não identificado com segurança (provavelmente Hélvio Guerra)."
+ ]
+}

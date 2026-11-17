@@ -1,0 +1,521 @@
+{
+ "meta": {
+  "video_id": "DhyiVL3QaJ0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31ª ROD 2023",
+  "data": "2023-08-29",
+  "formato": "presencial (Agnes remota no item 24)",
+  "presidente_da_sessao": "Sandoval Feitosa (DG) até o item 8; depois Hélvio Guerra (DG substituto)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ricardo Tili e Fernando Mosna chegaram após a abertura; Sandoval saiu após o item 8 (audiência na Câmara); Ricardo Tili saiu antes da votação do item 6; Agnes acompanhou remotamente o item 24.",
+   "Ordem: bloco, 8, 4, 5, 7, 2, 1, 3, 6, 16, 9, 24. Itens 15 e 18 retirados de pauta.",
+   "Sessão suspensa para almoço (~3:48) e retomada às 15h (~6:16)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:24:09",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 31ª ROD (cerca de 31 processos, votos e atos publicados previamente)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Bloco aprovado sem leitura; votos disponibilizados com a pauta.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova",
+     "ts": "0:24:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova",
+     "ts": "0:24:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova",
+     "ts": "0:24:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova",
+     "ts": "0:24:16",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:24:40",
+   "processo": "48500.001280/2022-82",
+   "interessado": "ONS; ABEEólica; Ventos de Santa (?) Energias Renováveis; geradores eólicos e fotovoltaicos",
+   "assunto": "Resultado da 2ª fase da CP 52/2022: acesso à transmissão na expansão de geradores eólicos e fotovoltaicos (módulo 5 das regras de transmissão, REN 905/2020, REN 875 e 876/2020); extinção da informação de acesso, fila cronológica, garantia do parecer de acesso (3 EUST), prazo de 36 meses (60 para hídricas) para início do CUST, garantia imediata exigida pelo ONS, estudo da STD em 6 meses sobre leilão de margem e análise por lotes",
+   "tema": [
+    "transmissão",
+    "acesso à rede",
+    "outorgas de geração",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentações orais da ABEEólica (Bárbara Torres) e de Pedro Marcelo pedindo retirada de pauta por publicação tardia da nota técnica; ONS (Marcelo Prais) defendeu análise em lotes. Relator manteve ordem cronológica com fila 'inteligente', garantia de 3 EUST e vigência em 1º/3/2024; determinou estudo de leilão de margem e lotes.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:51:36",
+     "confianca": "media",
+     "justificativa": "Alternativa D com ajustes; fila cronológica com opção de manter garantia; estudos sobre leilão de margem e lotes."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:51:39",
+     "confianca": "media",
+     "justificativa": "Ponderou que a sociedade não teve tempo de analisar a nota técnica publicada de última hora e temeu inconsistências entre processos interligados."
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:51:39",
+     "confianca": "media",
+     "justificativa": "Criticou a publicação tardia da NT; propôs consolidar temas correlatos num relator; questionou se o estudo sobre leilão de margem invadiria competência do MME."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:51:39",
+     "confianca": "media",
+     "justificativa": "Concordou com a fila e a periodicidade quadrimestral; dúvida sobre o encargo de 12 meses de postergação; pediu estudo jurídico e cautela com importação acrítica de modelos estrangeiros e agilidade na CP 20."
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:51:39",
+     "confianca": "alta",
+     "justificativa": "Proposta consensuada; acesso à rede pode ser competência da ANEEL; discordou de Ricardo Tili e alinhou-se a Hélvio e Fernando; alertou para aspecto concorrencial de processo competitivo."
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:54:00",
+   "processo": "48500.005677/2022-43",
+   "interessado": "comercializadores varejistas; Abraceel (Alexandre Lopes); CCEE",
+   "assunto": "Abertura de consulta pública (45 dias, 30/8 a 13/10/2023) para aprimorar a regulação da comercialização varejista na abertura de mercado (Lei 14.120/2021, Portaria MME 50/2022), migração ao ACL e agregação de dados de medição pela CCEE",
+   "tema": [
+    "comercialização",
+    "abertura de mercado",
+    "regulação normativa"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral da Abraceel pedindo eliminar exigências adicionais de medição; relator entende que não haverá necessidade de adequação; workshop com CCEE em São Paulo.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:20:40",
+     "confianca": "media",
+     "justificativa": "Passo importante para abertura completa do mercado; 165 mil UCs do grupo A potenciais."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:21:02",
+     "confianca": "media",
+     "justificativa": "Elogiou propostas e a ideia do workshop."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:21:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator; proclama (DG substituto)",
+     "ts": "2:21:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:21:20",
+   "processo": "48500.004???/2014-66",
+   "interessado": "Abragel, ABRAPCH, ABIAPE, Apine; pequenas centrais hidrelétricas",
+   "assunto": "Resultado da AP 13/2019: revisão da REN 875/2020 (ex-REN 673/2015) sobre outorga de PCH e UHE de 5 a 50 MW; DRS-PCH de 8 anos ou 2026, fim do critério de 13 km² de reservatório, fim da garantia de fiel cumprimento e devolução de garantias de registro",
+   "tema": [
+    "outorgas de geração",
+    "PCH",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator negou retirada de pauta; aprovou minuta alterando a REN 875 e determinou à SCE devolução das garantias de registro.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:41:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:41:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:41:31",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:42:10",
+   "processo": "48500.003665/2017",
+   "interessado": "Engie Brasil (Hugo Leite); ABEEólica (Bárbara Torres); Pedro Marcelo; geradores eólicos, solares, térmicos",
+   "assunto": "Resultado da CP 39/2022: nova resolução substituindo a REN 876/2020 (outorga de eólicas, fotovoltaicas, termelétricas, híbridas): DRO simplificado com validade de 4 anos, inversão de fases (CUST antes da outorga), fim da garantia de fiel cumprimento, prazo de 54 meses, critérios de CUST/início de obras para alterações, transição de 30/90 dias",
+   "tema": [
+    "outorgas de geração",
+    "transmissão",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Procuradoria: não há direito adquirido a regime jurídico. Relator rejeitou críticas sobre interferência e prazo de 30 dias (que considerou até excessivo) e se comprometeu a publicar NT com antecedência.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:28:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:28:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:28:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:29:20",
+   "processo": "48500.006887/2022-59; 48500.004129/2023-87",
+   "interessado": "Equatorial Piauí Distribuidora de Energia S.A.",
+   "assunto": "Abertura de CP (30/8 a 13/10/2023, audiência presencial em Teresina em 14/9) sobre a 1ª RTP da Equatorial Piauí (vigência 2/12/2023; efeito médio preliminar ~20,65%) e limites DEC/FEC 2024-2028",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (unanimidade presumida)",
+   "resumo_voto": "Apresentação da STR; CP e audiência presencial instauradas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:47:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator; proclama",
+     "ts": "3:47:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "6:16:20",
+   "processo": "48500.001560/2023-71",
+   "interessado": "MME/EPE; transmissoras",
+   "assunto": "Abertura de CP (1/9 a 16/10/2023) para o edital do Leilão 1/2024 de transmissão (15 lotes, ~R$ 20,5 bi), com novas exigências de experiência (30% do porte), demonstrações contábeis auditadas e convocação dos demais proponentes",
+   "tema": [
+    "leilões",
+    "transmissão"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatora acolheu a proposta técnica de inovações do edital.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "6:39:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "6:39:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "6:39:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "6:39:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "6:40:00",
+   "processo": "48500.002651/2022-43",
+   "interessado": "transmissoras prorrogadas; ABRATE; Eletrobras",
+   "assunto": "Abertura de CP (45 dias em duas etapas) para revisão dos submódulos 9.1 e 9.2 do PRORET: custos operacionais (DEA) das transmissoras prorrogadas, JOA, BAR, IPCA para serviços do banco de preços, módulos incompletos, marcos temporais",
+   "tema": [
+    "transmissão",
+    "tarifas e revisão tarifária (RAP)",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatora pediu esforço das transmissoras para manter o prazo de 45 dias.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "7:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "7:15:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "7:15:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "7:15:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "7:15:30",
+   "processo": "48500.004742/2021-32",
+   "interessado": "CCEE; Abraceel (Alexandre Pedrosa); Engie (Hugo Leite); ABEEólica (Bárbara Torres)",
+   "assunto": "Resultado da 2ª fase da CP 11/2022: REN do período sombra do monitoramento prudencial dos agentes da CCEE (fator de alavancagem, dados criptografados, 5 maiores contrapartes), vigência 1/11/2023, com manual de monitoramento anexo",
+   "tema": [
+    "comercialização",
+    "segurança de mercado",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado (unanimidade dos presentes)",
+   "resumo_voto": "Agentes pediram 90 dias e 3ª fase de CP; relator manteve ~60 dias (início em 1/11) para ter período sombra antes da abertura de 2024 e deixou a participação pública posterior para depois.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "7:59:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:59:27",
+     "confianca": "media",
+     "justificativa": "Grande evolução; sugeriu análise de resultado regulatório em vez de 3ª fase."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "7:59:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "8:00:50",
+   "processo": "48500.00098?/2021-85",
+   "interessado": "Transmissora José Maria de Macedo de Eletricidade S.A. (Argo 7)",
+   "assunto": "Recurso contra Despacho SRT 2.555/2022 que negou isenção de PVI (~R$ 6,2 mi) pelo desligamento da LT 500 kV Gilbués II–Buritirama em 9/5/2021 atribuído a sabotagem",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "recurso conhecido e não provido (unânime)",
+   "resumo_voto": "Sustentação oral de Arthur Azeredo (Argo 7). Relatora: não comprovada a sabotagem/caso fortuito; na dúvida, mantém-se a regra contratual e o desconto de receita.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, nega provimento",
+     "ts": "8:10:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora; proclama",
+     "ts": "8:11:49",
+     "confianca": "media",
+     "justificativa": "Lembrou caso semelhante na greve dos caminhoneiros, difícil de comprovar sabotagem."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:11:49",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "8:12:40",
+   "processo": "48500.005218/2020-06",
+   "interessado": "Abradee (Lucas Malheiros Nunes); distribuidoras; municípios (iluminação pública)",
+   "assunto": "Recurso contra Despacho STD 1.456/2023 (entendimento sobre o art. 473 da REN 1000: perdas de reatores de iluminação pública pela medição a frio da ABNT); pedido de reconhecimento de boa-fé objetiva e afastamento de devolução em dobro",
+   "tema": [
+    "distribuição",
+    "faturamento",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "recurso conhecido e não provido (unânime)",
+   "resumo_voto": "Relator: boa-fé será analisada caso a caso; não cabe reconhecimento erga omnes nem provimento parcial.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "8:29:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:29:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator; proclama",
+     "ts": "8:29:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "8:30:20",
+   "processo": "48500.004232/2020-84; 48500.004235/2020-18",
+   "interessado": "Coremas 2 e Coremas 3 Geração (André, advogado) x Coremas 4 a 8 (José Victor Palazzaki)",
+   "assunto": "Requerimento contra Despacho 1.638/2023 sobre ressarcimento por compartilhamento de instalações de conexão: sigilo do parecer técnico produzido na mediação (Lei 13.140, art. 30)",
+   "tema": [
+    "geração",
+    "conflito entre agentes",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista (Fernando Mosna)",
+   "resumo_voto": "Relator vota por não conhecer e determinar apresentação do parecer em 10 dias, podendo pedir acesso restrito. Procurador: processo é público; art. 30 §2º trata do uso indevido.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, não conhece",
+     "ts": "8:49:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "8:52:27",
+     "confianca": "alta",
+     "justificativa": "Questão jurídica complexa sobre sigilo do documento da mediação; pedirá parecer da Procuradoria."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (antes da vista)",
+     "ts": "8:53:41",
+     "confianca": "baixa",
+     "justificativa": "Participou remotamente; 'voto a princípio com o relator' e concede vista."
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "15",
+  "18"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo dos itens 5 e 16 incertos (marcados com ?).",
+  "Falas de voto curtas ('eu também voto com o relator') sem nome: atribuídas pela ordem usual e presença; confiança baixa.",
+  "Item 2: proclamação truncada, sem 'unanimidade' audível; unanimidade presumida.",
+  "Item 24: quem diz 'voto a princípio com o relator' foi atribuído a Agnes (única além do relator e de quem pediu vista); incerto.",
+  "Ata da 30ª ROD aprovada no início (não registrada como item)."
+ ]
+}

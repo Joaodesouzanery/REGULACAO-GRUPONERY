@@ -1,0 +1,386 @@
+{
+ "meta": {
+  "video_id": "Y5p7H1pGJ1k",
+  "fonte": "legenda automática do YouTube; .md sem marcadores de tempo internos, ts obtidos de transcricoes/Y5p7H1pGJ1k.json; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29ª Reunião Pública Ordinária de 2023",
+  "data": "2023-08-15",
+  "formato": "presencial com Fernando Mosna remoto",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Agnes da Costa",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão aberta durante o apagão de 15/08/2023 nas regiões Norte e Nordeste; o DG deu atualizações ao longo da reunião e encerrou cedo para reunião no MME às 14h.",
+   "Pauta com 49 itens; 6 a 49 em bloco; retirados 9, 12, 15, 16, 17, 22, 23 e 24; ordem de deliberação anunciada: bloco, 2, 1, 3, 4, 5 e 26 (logo Equatorial Pará = item 2 e Celesc = item 1, por inferência).",
+   "Item 5 (relatoria de Sandoval Feitosa) retirado de pauta no fim por falta de tempo.",
+   "Sustentação oral no item 1 indeferida por já estar em fase de vista; sustentações nos itens 4 (Linhares) e 26 (Cebranorte).",
+   "Deputados federais do Pará presentes; um deles se manifestou no item 1."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 6 a 49)",
+   "ts": "0:09:15",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (6 a 49, exceto os retirados 9, 12, 15, 16, 17, 22, 23 e 24); votos disponibilizados previamente; ajuste no item 11 (prazo de 90 dias para estudo das áreas técnicas/STD) informado por um diretor",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem debate; um diretor comunicou acréscimo de prazo de 90 dias no dispositivo do item 11.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:15",
+     "justificativa": "aprovação do bloco (pela proclamação)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:09:15",
+     "justificativa": "aprovação do bloco (pela proclamação)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:09:15",
+     "justificativa": "aprovação do bloco (pela proclamação)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:09:15",
+     "justificativa": "aprovação do bloco (pela proclamação)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:09:15",
+     "justificativa": "aprovação do bloco (pela proclamação)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:09:35",
+   "processo": "48500.000686/2022-12 e 48500.001274/2023-14",
+   "interessado": "Equatorial Pará Distribuidora de Energia S.A.",
+   "assunto": "5ª Revisão tarifária periódica da Equatorial Pará a partir de 07/08/2023 e limites DEC/FEC 2024-2027 (após CP 14/2023) — voto-vista do Diretor-Geral",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição (qualidade DEC/FEC)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Sandoval Feitosa (efeito médio 11,07%: AT 15,79%, BT 9,89%); vencidos Fernando Mosna e Ricardo Tili",
+   "resumo_voto": "Voto-vista acolhe carta da Equatorial (07/08/2023): reversão do diferimento de 2022 em duas parcelas (≈R$ 298 mi em 2023 e ativo regulatório de R$ 270 mi para 2024, corrigido pela Selic) e coeficiente de transição 0,85 para o grupo B; análise prospectiva (Fator X 4,13, IGP-M, PLD baixo). Relator Fernando Mosna (voto condutor com efeito médio de 15,57%) questionou preclusão, ausência de análise técnica custo-benefício exigida por recomendação do TCU e superação de parecer técnico contrário ao 0,85. Incluída sugestão de Ricardo Tili sobre a tarifa aplicada no período entre 07/08 e a publicação. Deputados do Pará presentes; um deputado fez apelo pela redução.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencedor: aprova revisão com diferimento parcelado e coeficiente 0,85",
+     "ts": "0:10:50",
+     "justificativa": "Assimetria tarifária Norte/Nordeste (tarifa BT do Pará acima de R$ 1.000/MWh); diferimento é pedido da empresa e análise prospectiva mostra que 2024 absorve R$ 270 mi; colegiado é soberano para transições (15 transições desde 2022).",
+     "confianca": "alta",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, mantém o voto condutor (vencido)",
+     "ts": "1:51:22",
+     "justificativa": "Questionou preclusão do pleito apresentado após a vista, falta de análise técnica de custo-benefício conforme acórdão do TCU e superação de manifestação técnica contrária ao fator 0,85; processo tarifário exige tecnicismo e segurança jurídica.",
+     "confianca": "media",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (vencido)",
+     "ts": "1:51:31",
+     "justificativa": "Parcelamento é na prática novo diferimento; preocupação de que o fator 0,85 inverta o sinal da política da Lei 13.360 (CDE grupo A/B); afirma depois que seu voto foi vencido; sugeriu formalizar a tarifa aplicada entre 07/08 e a publicação.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o revisor (voto-vista)",
+     "ts": "1:51:28",
+     "justificativa": "Diferimento é bola de neve, mas é preocupação mitigada pela análise prospectiva; defendeu flexibilidade (15 transições já aprovadas) e aplicar a mesma transição na revisão da Eletro de sua relatoria.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o revisor (voto-vista)",
+     "ts": "1:51:35",
+     "justificativa": "Diferimento não é bom nem ruim em si; consumidor sofre com volatilidade; sugeriu avaliar fator 0,95 e normatizar requisitos mínimos de análise; a atribuição do voto é inferida (vozes sem nome na votação).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:55:20",
+   "processo": "48500.006840/2022-95",
+   "interessado": "Celesc Distribuição S.A.",
+   "assunto": "Reajuste tarifário anual 2023 da Celesc a partir de 22/08/2023 (efeito médio 2,30%: AT -0,81%, BT 4,11%), com antecipação da reversão do bônus de Itaipu a pedido da empresa",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa tarifas TE/TUSD, receita das DIT e repasse CDE; apresentação técnica da STR (Leonardo de Araújo); créditos de PIS/Cofins e antecipação do bônus de Itaipu para reduzir volatilidade entre 2023 e 2024.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:07:18",
+     "justificativa": "Seguidos os procedimentos do PRORET; parecer favorável da Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:08:21",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:08:21",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "2:08:21",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "2:08:25",
+     "justificativa": "Acompanha a proposta de voto da ilustre relatora.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:10:48",
+   "processo": "48500.005710/2016-97",
+   "interessado": "Centrais Elétricas de Pernambuco S.A. (EPESA) — UTEs Pau Ferro e Termomanaus",
+   "assunto": "Pedido de reconsideração contra o Despacho 1.277/2017 (CVU das UTEs Pau Ferro e Termomanaus) após anulação do Despacho 3.491/2017",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "recursos administrativos",
+    "comercialização (CCEAR, CVU)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (conhecer e dar provimento)",
+   "resumo_voto": "CVU ajustado só pela variação do ICMS (Lei estadual PE 15.616/2015) desde o faturamento com nova alíquota; PIS/Cofins e CIDE afastados (suportados pelo supridor); receita fixa ajustada pela redução da taxa de fiscalização (Lei 12.783/2013), retroação limitada a 10 anos (art. 205 CC, parecer da Procuradoria); SGM calcula valores e empresa deve fornecer dados.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "2:34:48",
+     "justificativa": "Decisão recursal não fica presa aos limites do recurso (verdade material); prescrição decenal; empresa não pode limitar análise só aos efeitos benéficos (silenciou sobre taxa de fiscalização).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:06",
+     "justificativa": "Perguntou se a determinação de envio de dados já não seria obrigação existente; relator explicou que reforça pedido negado pela empresa.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:06",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:41:06",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:41:10",
+     "justificativa": "Cita precedente análogo de sua relatoria (Petrobras, UTE Baixada Fluminense, ICMS RJ) e elogia a análise detalhada.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:42:17",
+   "processo": "48500.000814/2023-4",
+   "interessado": "Linhares Geração S.A. — UTE Luiz Oscar Rodrigues de Melo",
+   "assunto": "Recurso contra o Despacho 3.670/2022 (SRG) que manteve como falha de combustível a indisponibilidade da UTE entre 29/08 e 13/09/2021 (manutenção da Rota 1/Mexilhão da Petrobras coincidente com parada programada)",
+   "tema": [
+    "fiscalização e sanções (penalidade por falta de combustível)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por maioria (conhecer e dar provimento); um voto divergente acompanhando a área técnica",
+   "resumo_voto": "Sustentação oral de Rafael d'Ávila (Linhares). Relator: na crise hídrica de 2021 todas as térmicas estavam despachadas pelo CMSE, usina operou 138 semanas contínuas, havia oferta firme de gás pela Petrobras; exigir contrato de combustível que não seria usado é ineficiente; decisão restrita ao caso concreto, sem precedente contra a REN 1.029/2022. Penalidade estimada pela área técnica em ≈R$ 9 milhões.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "2:56:22",
+     "justificativa": "Não havia ausência de combustível; usina no limite de manutenção e sem oportunidade de seguir o sinal regulatório em 2021; interpretação restrita ao caso concreto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (acompanha a área técnica) — vencida",
+     "ts": "3:34:03",
+     "justificativa": "Regra da REN 1.029 protege o consumidor e a escolha da parada é do agente; preocupação com precedentes e outras térmicas afetadas pela Rota 1. Atribuição inferida do conteúdo do debate (fala de voto sem nome).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:34:05",
+     "justificativa": "No debate disse não ver relevância em contratar gás para manutenção programada dentro do limite de disponibilidade (atribuição da fala inferida).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:34:05",
+     "justificativa": "maioria proclamada sem nomear vencido",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:34:08",
+     "justificativa": "Relatou gestões da época junto ao MME/Petrobras para postergar a manutenção; pondera assimetria de informação, mas questiona sentido de obrigar compra de combustível em parada necessária.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "3:34:57",
+   "processo": "48500.004970/2021-11",
+   "interessado": "Cooperativa de Eletrificação de Braço do Norte (Cebranorte), permissionária em SC",
+   "assunto": "Pedido de reconsideração contra a REH 3.124/2022 (reajuste 2022): alegada dupla cobrança de encargos (ESS/risco hidrológico) após migração parcial ao mercado livre",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (conhecer e negar provimento)",
+   "resumo_voto": "Sustentação oral de Caio José de Oliveira Alves (Cebranorte). Relator: tema já decidido no reajuste 2021 (Despacho 1.751/2022); área técnica aplicou o submódulo 8.5 do PRORET; não há cobrança duplicada; Procuradoria no mesmo sentido.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "3:45:57",
+     "justificativa": "Não existe cobrança duplicada; aplicação estrita do PRORET 8.5; situação atenuada pela contratação junto à Celesc.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:30",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:30",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:30",
+     "justificativa": "unanimidade proclamada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:47:30",
+     "justificativa": "Acompanha a proposta de voto do ilustre relator.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "9",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "12",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "16",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "17",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "22",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "23",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "24",
+   "motivo": "retirado de pauta (anúncio do secretário)"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado no fim da sessão pelo relator Sandoval Feitosa por encerramento antecipado (apagão)"
+  }
+ ],
+ "limites_da_analise": [
+  "Numeração dos itens 1 e 2 inferida da ordem anunciada (2,1,3...): Equatorial Pará (deliberado primeiro) = 2, Celesc = 1; não confirmado na pauta.",
+  "Item 1: votação com vozes sem nome; Fernando manteve o voto e Ricardo disse depois que seu voto foi vencido; Hélvio e Agnes atribuídos ao voto-vista por exclusão (proclamação por maioria).",
+  "Item 4: proclamação por maioria sem nomear o vencido; voto «vou votar contra, vou acompanhar a técnica» atribuído a Agnes da Costa por inferência do debate (confiança baixa).",
+  "Item bloco: conteúdo dos itens 6-49 não lido na sessão.",
+  "Números de processo e valores vêm da legenda automática e podem conter erros (ex.: 48500.000814/2023-4 incompleto).",
+  "O secretário chamou o relator do item 1 de «Fernando Ferreira da Silva» (erro de legenda); o voto-vista lido é do Diretor-Geral Sandoval Feitosa."
+ ]
+}

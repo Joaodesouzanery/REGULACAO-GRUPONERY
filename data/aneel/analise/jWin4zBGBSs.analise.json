@@ -1,0 +1,144 @@
+{
+  "meta": {"video_id": "jWin4zBGBSs", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "42ª Reunião Pública Ordinária de 2022 (Parte 1, manhã)",
+    "data": "2022-11-08",
+    "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Giácomo Almeida (diretor substituto, nome inferido da legenda «já como»/«Jácomo»/«diácono»)",
+    "diretores_presentes": ["Giácomo Almeida (diretor substituto)", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa", "Hélvio Guerra"],
+    "observacoes": [
+      "Sandoval Feitosa (Diretor-Geral) e Hélvio Guerra ausentes justificadamente por representação institucional; quórum de três diretores.",
+      "Pauta com 43 itens; itens 13 a 43 em bloco; retirados de pauta os itens 7, 8, 22 e 29; item 31 destacado do bloco por sustentação oral.",
+      "Última reunião de Giácomo Almeida como diretor substituto (volta à SFE); a vaga passa ao superintendente Alessandro Cantarino; despedida e agradecimentos de Ricardo Tili e Fernando Mosna.",
+      "Item 9 (Diamante, CVU Jorge Lacerda) retirado de pauta pelo relator após sustentação oral apontar erro material; item 5 (Celpe) suspenso por falta de quórum (impedimento de Giácomo Almeida).",
+      "Sessão suspensa para retorno às 14h30 (Parte 2 em outro vídeo)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:18", "processo": "itens 13 a 43 (exceto retirados 22 e 29 e destacado 31)", "interessado": "diversos",
+      "assunto": "Itens do bloco (votos e atos disponibilizados previamente)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade, com exceção dos itens 21 e 26 quanto a impedimento/suspeição declarados",
+      "resumo_voto": "Bloco aprovado; um diretor declarou impedimento no item 21 (relatado por Ricardo Tili) e outro arguiu suspeição no item 26 (Resolução Normativa 273).",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "acompanha os itens do bloco remanescentes (pela proclamação)", "ts": "0:07:23", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens do bloco, com impedimento ou suspeição em item específico (21 ou 26)", "ts": "0:07:27", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens do bloco, com impedimento ou suspeição em item específico (21 ou 26)", "ts": "0:07:38", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "12", "ts": "0:08:12", "processo": "48500.006516/2018-91",
+      "interessado": "Powertech Engenharia, Serviços e Locação de Geradores de Energia, Máquinas e Equipamentos S.A. (UTEs no Amazonas: Manicoré, Apuí, Vila do Matupi, Sucunduri, Novo Aripuanã etc.; Leilão 2/2016 lote B3)",
+      "assunto": "Pedido de reconsideração contra o Despacho 2.050/2022, que deu parcial provimento à excludente de responsabilidade no cronograma de implantação das UTEs (REA 6.534/2017)",
+      "tema": ["outorgas de geração (térmica)", "sistemas isolados", "excludente de responsabilidade", "recursos administrativos", "recuperação judicial"],
+      "relator": "Fernando Mosna", "resultado": "pedido de vista de Ricardo Tili após voto do relator",
+      "resumo_voto": "Sustentação oral de Regina Vera Nogueira Lemos e André Luiz Mendonça de Sena (Powertech). Procuradoria: não provimento. Relator: licenciamento e covid deixaram de impactar em 2020; a partir de 9/11/2020 o atraso decorre da incapacidade econômico-financeira (recuperação judicial, liminar precária); conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "0:54:21", "justificativa": "nexo causal rompido pela crise financeira da empresa a partir de 9/11/2020; crédito alegado (7 mi, depois 3 mi, depois 4 mi) não comprovado; decisão liminar é precária", "tom": "firme; criticou petições sucessivas da empresa para pautar o processo", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "0:54:48", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "não votou (vista)", "ts": "0:54:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:55:16", "processo": "48500.000218/2022-73",
+      "interessado": "Cooperativa de Geração de Energia e Desenvolvimento (Copreé?), Ipiranga Bioenergia Mococa 2 S.A., Linha 11 Oeste Energia Ltda.",
+      "assunto": "Homologação parcial do resultado e adjudicação do Leilão 3/2022 (Leilão de Energia Nova A-4 de 2022) para os três proponentes remanescentes habilitados após recurso; desconto do art. 26 da Lei 9.427/1996 para Ipiranga Bioenergia Mococa 2",
+      "tema": ["leilões (geração)", "outorgas de geração"],
+      "relator": "Giácomo Almeida", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentação da SEL (Patrus). Inabilitações revertidas em reconsideração (certidões e balanço 2020 válidos); voto por homologar e adjudicar, com direito ao desconto na TUST/TUSD para a Ipiranga Mococa 2.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, aprova", "ts": "1:19:09", "justificativa": "habilitação das três proponentes após juízo de reconsideração da SEL, sem recursos contra", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "1:20:50", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:20:52", "justificativa": "tirou dúvida sobre o volume de 37 milhões de MWh negociado (achou o número elevado)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:21:37", "processo": "48500.006254/2018-64",
+      "interessado": "distribuidoras; agentes do MVE",
+      "assunto": "Resultado da CP 72/2021: repasse tarifário dos produtos mensais e plurianuais do Mecanismo de Venda de Excedentes (MVE), revisão 1.2 do submódulo 4.3 do PRORET",
+      "tema": ["tarifas e revisão tarifária", "comercialização", "regulação normativa (consulta pública)"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentação SGT/SRM: produtos mensais seguem a alocação dos trimestrais/semestrais e plurianuais a dos anuais; atualização por IPCA a partir do 2º ano e recomposição das garantias financeiras; contribuições pelo preço médio de compra não aceitas.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova emissão de resolução normativa", "ts": "1:31:24", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:32:16", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator", "ts": "1:32:19", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:32:33", "processo": "48500.001694/2022-10",
+      "interessado": "distribuidoras; municípios; ANA",
+      "assunto": "Resultado da CP 36/2022: cobrança de taxas/tarifas de limpeza urbana e manejo de resíduos sólidos na fatura de energia elétrica (Lei 14.026/2020); altera REN 1.000/2021 e submódulos 2.7 e 2.7A do PRORET",
+      "tema": ["regulação normativa (consulta pública)", "distribuição", "consumidor"],
+      "relator": "Giácomo Almeida", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentação SRD (Renata). Cobrança facultativa para a distribuidora e obrigatória ao consumidor, só em regime de delegação, código de barras único; remuneração de até 1% do arrecadado, 60% para modicidade tarifária.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, aprova emissão de resolução normativa", "ts": "1:43:26", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:44:05", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:44:09", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "9", "ts": "1:44:47", "processo": "48500.003665/2022-84",
+      "interessado": "Diamante Geração de Energia Ltda. (Complexo Termelétrico Jorge Lacerda)",
+      "assunto": "Recurso contra o Despacho SRG 1.326/2022 (CVU do Complexo Jorge Lacerda)",
+      "tema": ["outorgas de geração (térmica)", "recursos administrativos", "comercialização"],
+      "relator": "Fernando Mosna", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Sustentação oral de João Miguel Martin (Diamante) alegou erro material na base de dados herdada do Despacho 2.260/2021. Alessandro Cantarino (SRG) admitiu necessidade de revisão desse ponto; relator retirou o processo e pediu petição reduzindo a termo para reinstrução.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, retira de pauta para reinstrução", "ts": "1:59:44", "justificativa": "alegado erro material reconhecido em parte pela SRG", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "31", "ts": "2:00:47", "processo": "48500.005057/2019-17 e 48500.000027/2019-14",
+      "interessado": "Brasil BioFuels S.A. (BBF) — UTE Híbrido Forte de São Joaquim (Roraima)",
+      "assunto": "Requerimento de excludente de responsabilidade pelo descumprimento do cronograma de implantação",
+      "tema": ["outorgas de geração (térmica)", "sistemas isolados", "excludente de responsabilidade", "fiscalização e sanções"],
+      "relator": "Giácomo Almeida", "resultado": "negado provimento por unanimidade",
+      "resumo_voto": "Sustentação oral do sócio-fundador (Nilton/Newton, BBF). Relator: estruturação financeira, contratação de fornecedores, conexão e licenciamento são riscos do PIE; licenças obtidas em menos de 12 meses; não reconhece excludente e mantém processo punitivo na SFG.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, conhece e nega provimento", "ts": "2:30:42", "justificativa": "riscos financeiros e de contratação são inerentes ao PIE; sem fato imprevisível nem nexo causal", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:31:48", "justificativa": "excludente tem olhar restrito (Lei 13.360): fato imprevisível, ausência de responsabilidade e nexo causal no caminho crítico não comprovados", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:33:29", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:33:57", "processo": "48500.003227/2021-35",
+      "interessado": "Enel Distribuição Ceará (fiscalização da ARCE)",
+      "assunto": "Recurso contra o Auto de Infração 2/2019 da ARCE (teleatendimento, ano-base 2017)",
+      "tema": ["fiscalização e sanções (multa)", "distribuição e qualidade", "recursos administrativos"],
+      "relator": "Giácomo Almeida", "resultado": "parcial provimento por unanimidade",
+      "resumo_voto": "Sustentação oral de Gustavo Garcia Ribeiro (Enel CE); apresentação SFF (Thompson). Mantidas NC 2, 3 e 4; NC 5 convertida em advertência; multa de R$ 3.793.041,31 reduzida para cerca de R$ 2.905.998 (0,061403% do faturamento de 2018).",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, conhece e dá parcial provimento", "ts": "2:54:14", "justificativa": "demora no teleatendimento não é de pequeno potencial ofensivo; testes por chamadas na hora são adequados", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:59:42", "justificativa": "sugeriu expressar multa sobre a Parcela B para medir efetividade; relatou muitas reclamações do conselho de consumidores do Ceará contra a distribuidora", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:59:46", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "3:00:34", "processo": "48500.004507/2021-61",
+      "interessado": "Companhia Energética de Pernambuco (Neoenergia Pernambuco/Celpe)",
+      "assunto": "Recurso contra o Auto de Infração 2/2022-SFE (DEC/FEC 2020 e plano de resultados reprovado), multa de R$ 32.949.775,22 (0,43% da ROL)",
+      "tema": ["fiscalização e sanções (multa)", "distribuição e qualidade", "fiscalização responsiva", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "votação suspensa (falta de quórum por impedimento de Giácomo Almeida); retorna na semana seguinte",
+      "resumo_voto": "Sustentação oral de Rafael (de Curu/Licurgo) Leite pela Neoenergia PE (desproporção; plano encerrado antes do prazo; pediu atenuante como no caso Enel CE). Procuradoria: não provimento. Relator: conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "3:33:45", "justificativa": "plano de resultados reprovado; dosimetria respeitou o teto de 1%; sem melhora consistente da qualidade até set/2022", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:40:46", "justificativa": "antes questionou o período apurado e o encerramento antecipado do plano e a inconstância do gráfico", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "suspeito/impedido", "ts": "3:40:56", "justificativa": "lavrou o auto de infração como superintendente da SFE", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["7", "8", "22", "29 (retirados antes da sessão)", "9 (retirado pelo relator na sessão)"],
+  "limites_da_analise": [
+    "Giácomo Almeida (diretor substituto) não consta da lista de diretores do config; nome registrado como dito na legenda («já como», «Jácomo», «Giacomo»). Presidência da sessão inferida de «diácono na condição de Presidente».",
+    "Rótulo de falantes no .md ({Sandoval, Gentil...}) é incorreto: Sandoval e Hélvio estavam ausentes; Gentil Nogueira não aparece.",
+    "Bloco: não está claro quem se declarou impedido no item 21 e quem arguiu suspeição no item 26; votos do bloco com confiança baixa.",
+    "Nos itens 2, 3, 4 e 31 as falas «voto com o relator»/«acompanho» não trazem nome; atribuição pela ordem e contexto, confiança media/baixa.",
+    "Item 12: Ricardo Tili pediu vista, conforme anúncio da mesa («vistas do diretor Ricardo Tili»).",
+    "Item 5: com três presentes e um impedido, faltou quórum; votos registrados apenas os ditos.",
+    "Nomes de interessados e valores vêm de legenda automática (ex.: Copreé, Nilton/Newton, Rafael de Curu Leite) e podem estar errados.",
+    "Esta é a Parte 1; a parte da tarde está em outro vídeo."
+  ]
+}

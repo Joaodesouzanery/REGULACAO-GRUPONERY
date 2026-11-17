@@ -1,0 +1,388 @@
+{
+ "meta": {
+  "video_id": "oixs1vJ7OPY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados (transcrição sem marcadores internos, ts buscados no JSON)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "12ª Reunião Pública Ordinária de 2023",
+  "data": "2023-04-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo de cinco diretores.",
+   "Ata da 11ª RPO aprovada, exceto Fernando Mosna, ausente naquela reunião.",
+   "Pauta de 39 itens; 7 a 39 em bloco; item 14 retirado; sustentação oral nos itens 2 e 4; ordem: bloco, 4, 1, 2, 3, 5, 6.",
+   "Item 6 retirado pelo relator Hélvio Guerra ao final para correção de cálculos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:12:46",
+   "processo": "itens 7 a 39 da pauta (exceto 14, retirado)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos disponibilizados previamente na internet)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Todos os diretores aprovam os itens remanescentes do bloco; Diretor-Geral proclama unanimidade.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:12:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:12:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:12:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:12:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:13:09",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:13:26",
+   "processo": "48500.006882/2022-26 e 48500.008251/2022-41 (números parciais pela legenda)",
+   "interessado": "Enel Distribuição Ceará; Conselho de Consumidores (Conerge)",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Enel Distribuição Ceará a partir de 22/04/2023 e limites DEC/FEC 2024-2027, após CP 4/2023",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade (DEC/FEC)",
+    "conselho de consumidores"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade, com determinações adicionais",
+   "resumo_voto": "Efeito médio 3,06% (AT -3,77%, BT +5,51%). Pleitos da distribuidora (perdas não técnicas sobre mercado medido, receitas irrecuperáveis, ultrapassagem de demanda) negados. Determinação para a Enel Ceará apresentar em 45 dias estudo sobre o fechamento dos postos de atendimento Conjunto Ceará e José Walter. Após debate sugerido por Ricardo Tili, acrescida determinação para a SMA avaliar em 45 dias o pleito do Conselho de Consumidores de usar recursos represados (sobra orçamentária de ~400 mil). Sustentação oral de Antônio Erildo Lemos Pontes (Conselho de Consumidores da Enel CE).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "0:18:00",
+     "confianca": "alta",
+     "justificativa": "relatora, primeira revisão tarifária; destacou piora do DEC/FEC desde 2019, fiscalizações e planos de resultado; determina estudo sobre fechamento de loja no Conjunto Ceará"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:20:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora (sugeriu deferir o pleito do conselho de consumidores)",
+     "ts": "1:20:11",
+     "confianca": "media",
+     "justificativa": "defendeu deferir já o pleito de ~400 mil do conselho, como no caso Mato Grosso do Sul; incomoda exigir recurso do conselho; resultou em determinação adicional à SMA"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:20:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:20:21",
+     "confianca": "alta",
+     "justificativa": "ponderou que liberar o recurso exige planejamento de uso; elogiou a condução da relatora; pediu atuação dos conselhos contra o PDL 365"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:23:29",
+   "processo": "48500.006889/2022 e 48500.008875/2022 (números parciais)",
+   "interessado": "Energisa Sergipe",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Energisa Sergipe a partir de 22/04/2023 e limites DEC/FEC 2024-2028, após CP 1/2023",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 1,17% (AT -1%, BT +1,91%); Fator X Pd 0,423% e T 2,632%; pleito de ajuste de mercado por MMGD acatado.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:37:30",
+     "confianca": "alta",
+     "justificativa": "vai direto ao dispositivo após apresentação técnica da SGT"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:39:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:39:42",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:40:34",
+   "processo": "48500.006890/2022 e 48500.009162/2022 (números parciais)",
+   "interessado": "Neoenergia Coelba; Conselho de Consumidores da Coelba",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Neoenergia Coelba a partir de 22/04/2023 e limites DEC/FEC 2024-2028, após CP 2/2023",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 8,18% (AT 6,91%, BT 8,66%). Sustentação oral de Roque Bittencourt Lopes (Conselho de Consumidores) sobre risco hidrológico e atualização dos créditos de PIS/Cofins; relator explica neutralidade do risco hidrológico via CVA.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:03:00",
+     "confianca": "alta",
+     "justificativa": "risco hidrológico é parcela A com neutralidade: diferença apurada e devolvida/cobrada no processo seguinte"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:04:54",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:05:48",
+   "processo": "48500.006891/2022 e 48500.008252/2022 (números parciais)",
+   "interessado": "Neoenergia Cosern",
+   "assunto": "Resultado da revisão tarifária periódica da Neoenergia Cosern a partir de 22/04/2023 e limites DEC/FEC 2024-2028, após CP 3/2023",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado (proclamação parcialmente captada)",
+   "resumo_voto": "Efeito médio 4,26% (AT 3,65%, BT 4,45%); Fator X T 1,545% e Pd 0,388%.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "2:15:00",
+     "confianca": "alta",
+     "justificativa": "vai direto ao dispositivo após apresentação técnica da SGT"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:18:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:18:37",
+   "processo": "48500.004294/2022-58 (parcial)",
+   "interessado": "distribuidoras proponentes (CPFL, Enel, EDP, Neoenergia, Equatorial, Energisa, Roraima Energia, Copel, Amazonas)",
+   "assunto": "Avaliação dos projetos da 1ª chamada pública de sandbox tarifários",
+   "tema": [
+    "regulação normativa",
+    "tarifas (sandbox tarifário)",
+    "P&D"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: autorizados 6 sandboxes (CPFL 1, Enel 3, EDP 4, Neoenergia 8, Equatorial 11, Energisa 14)",
+   "resumo_voto": "Acompanha a área técnica ao excluir o projeto 2 da CPFL (comercialização peer-to-peer com blockchain) por obstáculo legal; diverge da SGT/SPE quanto ao projeto 13 da Roraima Energia (faturamento fixo), que não autoriza agora para ser reapresentado na 2ª chamada, prestigiando a avaliação do projeto de governança.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:55:00",
+     "confianca": "alta",
+     "justificativa": "projeto P2P da CPFL esbarra na lei; Roraima pode reapresentar na próxima chamada; preserva confiança na avaliação técnico-metodológica"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:06:43",
+     "confianca": "media",
+     "justificativa": "comentou que projetos de fora devem amadurecer"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (antecipou acompanhamento)",
+     "ts": "3:00:00",
+     "confianca": "baixa",
+     "justificativa": "projeto 2 fere texto de lei; Roraima evolui pouco em inovação"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:06:43",
+     "confianca": "media",
+     "justificativa": "questionou se não haveria alternativa para testar o modelo P2P da CPFL sem ferir a lei (ex.: sandbox com o MME)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:06:45",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "3:07:57",
+   "processo": "48500.000732/2022-17 (parcial)",
+   "interessado": "usinas hidrelétricas em regime de cotas (Lei 12.783/2013)",
+   "assunto": "Abertura de consulta pública (20/04 a 29/05/2023) para revisão periódica da RAG e do Fator X das usinas cotistas",
+   "tema": [
+    "regulação normativa",
+    "outorgas de geração (hidrelétrica)",
+    "consulta pública"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator após discussão (sem deliberação)",
+   "resumo_voto": "Proposta: redução de ~11% na RAG (trajetória, ~2,3%), Fator X de 1%. Agnes apontou inconsistência de percentuais na apresentação (1,7 para 1,4 bi); Sandoval disse que sem confirmação dos números não haveria como aprovar; relator retirou para ajustes, volta na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, retira de pauta",
+     "ts": "3:32:41",
+     "confianca": "alta",
+     "justificativa": "retira para verificar os cálculos apontados"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (retirado)",
+     "ts": "3:30:00",
+     "confianca": "media",
+     "justificativa": "apontou possível erro de percentuais na apresentação; de resto considerou bem encaminhado"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (retirado)",
+     "ts": "3:32:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (retirado)",
+     "ts": "3:32:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (retirado)",
+     "ts": "3:31:30",
+     "confianca": "media",
+     "justificativa": "sem confirmação dos números não haveria como aprovar"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "14",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)",
+   "ts": "0:12:00"
+  },
+  {
+   "item": "6 — CP revisão da RAG das usinas cotistas",
+   "relator": "Hélvio Guerra",
+   "motivo": "conferência de percentuais da apresentação",
+   "ts": "3:32:41"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais; nomes distorcidos (Élvio, Mozza, Chile).",
+  "Votos de seguidores atribuídos pela proclamação de unanimidade; falas «acompanho» sem nome, ordem incerta (confiança media).",
+  "Item 3 (Cosern): trecho da votação ausente na transcrição (salto ~2:16-2:18); proclamação captada só parcialmente, sem a palavra unanimidade.",
+  "Item 5: Ricardo Tili inferido como autor do comentário «antecipando o meu acompanhamento»; confiança baixa.",
+  "Numeração dos itens 1-4 inferida pela ordem anunciada (bloco, 4,1,2,3,5,6) e pelos itens com sustentação oral (2 e 4).",
+  "Bloco tratado como um item agregado; conteúdo dos itens 7-39 não lido em sessão."
+ ]
+}

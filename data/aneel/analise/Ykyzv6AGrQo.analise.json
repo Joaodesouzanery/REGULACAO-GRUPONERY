@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "Ykyzv6AGrQo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos do bloco aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Ordinária de 2023 (Parte 1)", "data": "2023-02-07", "formato": "presencial, com a diretora Agnes da Costa participando remotamente",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores declarado na abertura; Agnes da Costa remota.", "Pauta com 33 itens: itens 5 a 33 em bloco (aprovados), item 4 retirado de pauta, itens 1 a 3 com sustentação oral.", "Item 1 (regulamentação da MMGD, Lei 14.300/2022, relator Hélvio Guerra) teve 22 sustentações orais e parecer da Procuradoria (nº 38/2023); o relator começou a ler o voto de 294 parágrafos e a sessão foi suspensa às 12h34 no parágrafo ~135, com retorno às 14h (Parte 2, outro vídeo).", "Itens 2 e 3 não foram deliberados nesta parte."]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 5 a 33)", "ts": "0:05:30",
+      "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco 5 a 33 da 3ª RPO de 2023, com votos disponibilizados previamente; retificação material no item 16 (parágrafos 16 e 17: operação comercial de todas as unidades geradoras da usina)",
+      "tema": ["institucional/pauta em bloco"],
+      "relator": "diversos",
+      "resultado": "aprovados todos os itens do bloco (proclamação do Diretor-Geral)",
+      "resumo_voto": "Diretoria aprovou todos os itens do bloco, com retificação material no item 16 feita pelo diretor que o relatou.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:06:20", "justificativa": "«me Manifesto pela aprovação de todos os itens do bloco»", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:05:40", "justificativa": "aprova todos os itens; não fica claro quem fez a retificação do item 16", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:06:30", "justificativa": "aprova todos os itens (fala atribuída por ordem)", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:06:39", "justificativa": "«Eu também aprovo o bloco» e proclama a aprovação", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:06:43",
+      "processo": "48500.004924/2021-51 (número incerto na legenda)", "interessado": "agentes de micro e minigeração distribuída, distribuidoras, consumidores e associações (ABGD, ABSOLAR, ABRADEE, ABRACE, ABEEólica, APINE, Frente Nacional dos Consumidores, Equatorial, Energisa, Neoenergia, Enel, Engie e outros)",
+      "assunto": "Resultado da Consulta Pública 51/2022: aprimoramento dos regulamentos de micro e minigeração distribuída (REN 482/2012, REN 1000/2021, PRODIST módulo 3) em função da Lei 14.300/2022 e do art. 1º da Lei 14.120/2021",
+      "tema": ["geração distribuída (MMGD)", "regulação normativa (consulta pública)", "tarifas (TUSD-g, custo de disponibilidade, fio B)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "não deliberado nesta parte: sessão suspensa durante a leitura do voto do relator (continua na Parte 2)",
+      "resumo_voto": "Retorno após retirada de pauta na 2ª RPO; 22 sustentações orais (de 37 pedidos), divididas entre o setor solar (contra a 'tripla cobrança', TUSD-g para baixa tensão, custo de disponibilidade) e distribuidoras/consumidores/associações de geração (cumprimento estrito da lei, fim do subsídio). Procuradoria (parecer 38/2023): proposta de voto adequada à lei; art. 16 §1º não veda custo de disponibilidade quando consumo supera o mínimo; ilegal tratamento privilegiado a microgeradores até 75 kW. O relator defendeu regulamentar estritamente conforme a Lei 14.300 em nome da segurança regulatória e do equilíbrio, e iniciou a leitura do voto.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, voto em leitura (não concluído nesta parte)", "ts": "2:29:18", "justificativa": "«nós não podemos regulamentar diferente daquilo que está na legislação»; busca do equilíbrio sobre quem paga o quê", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou nesta parte", "ts": "3:32:26", "justificativa": "propôs suspensão para almoço, retorno às 14h", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou nesta parte", "ts": "3:32:26", "justificativa": "", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou nesta parte", "ts": "3:32:26", "justificativa": "", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "4", "ts": "0:04:28", "motivo": "retirado de pauta (anunciado pelo secretário-geral; assunto não lido)"}],
+  "limites_da_analise": ["Vídeo é a Parte 1; votação do item 1 e itens 2 e 3 estão em outro vídeo.", "No bloco, a atribuição das falas de aprovação entre Hélvio Guerra e Ricardo Tili é incerta (houve confusão de ordem com a diretora Agnes remota); a retificação do item 16 foi feita por um relator não identificado.", "Número do processo do item 1 incerto na legenda automática.", "Nº de votos = 4 presentes em cada item."]
+}

@@ -1,0 +1,77 @@
+{
+ "meta": {"video_id": "Nu6021tUTj0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "37ª RPO 2022 (Parte 1, manhã)",
+  "data": "2022-10-04",
+  "formato": "presencial (plenária da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": ["diretor não identificado (legenda: «já como»/«Jácomo»/«diácono»), em férias"],
+  "observacoes": [
+   "Abertura com quórum de três diretores (Sandoval, Hélvio Guerra, Ricardo Tili); Fernando Mosna anunciado para se juntar ao longo do dia e participa a partir do item 6.",
+   "Informes: eleições 2022 sem impacto no fornecimento; assinatura dos contratos dos 13 lotes do Leilão de Transmissão 1/2022; Hélvio Guerra leu carta do FASE (Fórum das Associações do Setor Elétrico) em reconhecimento à ANEEL.",
+   "Ata da 36ª RPO aprovada (Sandoval ressalvou que estava ausente).",
+   "Pauta de 53 itens; itens 7 a 53 em bloco; destaques do bloco: 12, 15, 25 e 36; retirados de pauta: 3, 16 e 29; sustentação oral do item 1 indeferida.",
+   "Ordem: bloco, 6, 12, 15, 25, 36, 1; itens 2, 4 e 5 ficaram para a tarde (Parte 2, outro vídeo).",
+   "No item 1 (P&D, voto-vista) houve longo debate de rito: se o DG Sandoval podia votar sendo que, como diretor, já havia votado o voto original; Ricardo Tili não votou (cadeira já votada pelo antecessor)."
+  ]
+ },
+ "itens": [
+  {"id": "bloco (itens 7 a 53)", "ts": "0:15:07", "processo": "", "interessado": "diversos", "assunto": "Itens do bloco (7 a 53, exceto destacados e retirados)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Bloco aprovado; um diretor ressalvou o item 17, em que o diretor Sandoval (anterior) já havia votado.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "acompanha os itens do bloco, exceto o item 17", "ts": "0:15:09", "justificativa": "no item 17 o voto da cadeira já fora proferido por Sandoval", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:15:22", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes e proclama", "ts": "0:15:25", "confianca": "alta"}
+   ]},
+  {"id": "6", "ts": "0:16:00", "processo": "48500.006216/2022-98", "interessado": "CTEEP (Companhia de Transmissão de Energia Elétrica Paulista)", "assunto": "Redução unilateral de escopo e reequilíbrio econômico-financeiro do Contrato de Concessão 59/2001 por licitação de novo serviço na SE Centro (Lote 6 do Leilão de Transmissão 2/2022); aprovação do 8º termo aditivo", "tema": ["transmissão (RAP, outorgas, reforços)", "leilões", "concessão / equilíbrio econômico-financeiro"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Redução de 0,59% do contrato com base no art. 9º §4º da Lei 8.987/95 (e art. 65 da Lei 8.666 como posição conservadora); licitação é a regra e revela preço; precedente SE Porto Alegre 4; ativos não depreciados ressarcidos via parcela de ajuste; período de transição de O&M remunerado; obras inacabadas negociadas com o novo concessionário. Sustentação oral de Márcio Pina Marques (CTEEP); procuradora Bárbara defendeu o parecer 264. Relator retirou do voto a expressão de que a manifestação da CTEEP era ofensiva.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:33:35", "justificativa": "redução unilateral amparada na lei de concessões com reequilíbrio concomitante; licitação é a regra e o leilão revela preço; precedente Porto Alegre 4", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:27:13", "justificativa": "voto cristaliza segurança jurídica e estabilidade regulatória (mesmo tratamento do precedente Porto Alegre 4)", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:27:15", "justificativa": "acrescenta a modicidade tarifária como valor considerado na relicitação", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:27:18", "justificativa": "leilão é regra, tecnicamente viável e revela preço; transição remunerada não é exacerbação do poder do Estado", "confianca": "alta"}
+   ]},
+  {"id": "12", "ts": "1:28:26", "processo": "48500.005987/2022-68", "interessado": "Quanta Geração S.A. (PCH Areal, Areal/RJ)", "assunto": "Recurso contra Auto de Infração 18/2022-SFG: multa por não comunicar indisponibilidades prolongadas/ocorrências graves da PCH Areal; pedido de conversão em advertência", "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "outorgas de geração (PCH)"], "relator": "Ricardo Tili", "resultado": "recurso conhecido e não provido, por unanimidade", "resumo_voto": "Mais de 200 dias (4 eventos, 2017-2020) sem comunicar a ANEEL; baixa hidrologia não descaracteriza a infração; não há baixa ofensividade, logo não cabe conversão em advertência (multa de cerca de 11 mil reais). Sustentação oral de Renan Torres (Quanta).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, conhece e nega provimento", "ts": "1:33:26", "justificativa": "longo período sem comunicação torna a conduta grave; escassez hídrica não afasta a infração", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:45:31", "justificativa": "o risco existe mesmo sem dano efetivo ao sistema", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:45:31", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:45:35", "justificativa": "multa simbólica mas obrigação de informar indisponibilidade é importante, replicada à transmissão", "confianca": "alta"}
+   ]},
+  {"id": "15", "ts": "1:45:56", "processo": "48500.002568/2003-95", "interessado": "Energisa Mato Grosso S.A. e Novo Mundo Energética S.A. (PCH Braço Norte 4)", "assunto": "Pedidos de reconsideração contra o Despacho 681/2020 (ressarcimento de cerca de 3,7 milhões de reais à CDE por registro de contrato bilateral no perfil convencional, operação tipo swap)", "tema": ["CDE e encargos setoriais", "comercialização (CCEE, contratos)", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "pedido de vista de Hélvio Guerra", "resumo_voto": "Relator vota por conhecer e negar provimento, mantendo a divisão 50/50 do ressarcimento: contrato vinculava a energia à PCH Braço Norte 4 (incentivada); validação do registro pela distribuidora gera responsabilidade solidária. Sustentações orais de Guilherme (Energisa MT) e Roberto/Humberto (Novo Mundo, grupo Âmbar).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, conhece e nega provimento", "ts": "2:14:10", "justificativa": "cláusula do contrato exigia energia exclusivamente da PCH; validação do registro pela Energisa implica solidariedade; devolver direto à CDE evita recontabilização", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "2:33:57", "justificativa": "dúvida sobre como uma PCH incentivada foi registrada como convencional na CCEE", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "não votou (vista)", "ts": "2:33:50", "justificativa": "antes da vista há fala «eu acompanho» sem nome claro", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "2:33:57", "justificativa": "concede vista; questionou prescrição da conduta e medidas para evitar repetição", "confianca": "media"}
+   ]},
+  {"id": "25", "ts": "2:34:08", "processo": "48500.005512/2021-91 e 48500.005513/2021-35", "interessado": "Energias de Buritis 1 SPE Ltda. e Energias de Machadinho 1 SPE Ltda. (UFV Buritis e UFV Machadinho, RO)", "assunto": "Medida cautelar e excludente de responsabilidade pelo atraso de implantação das UFVs do PCS (CERs 443 e 444/2021)", "tema": ["leilões (reserva de capacidade / PCS)", "outorgas de geração (solar)", "fiscalização e sanções"], "relator": "Ricardo Tili", "resultado": "cautelar negada e excludente indeferido, por unanimidade; SFG prossegue com TIPs 18 e 19/2022", "resumo_voto": "Não houve promessa de procedimento simplificado; prazos da distribuidora (60 dias projeto, 30 dias vistoria) razoáveis; pedidos feitos em cima do prazo; sem nexo causal com a CCEE. Sustentação oral de Arnaldo Afonso de Oliveira Pinto.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, nega cautelar e indefere excludente", "ts": "2:43:05", "justificativa": "frustração de expectativa de celeridade não é excludente; risco alocado ao gerador; sem nexo causal", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:57:35", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:57:37", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:57:40", "justificativa": "empresa perdeu prazos ao pedir aprovação 15 dias e vistoria 10 dias antes", "confianca": "alta"}
+   ]},
+  {"id": "36", "ts": "2:59:06", "processo": "48500.005649/2018-40 e outros", "interessado": "Grupo Equatorial / Eco Energia (UFV Ribeiro Gonçalves 1 a 4, Piauí)", "assunto": "Pedido de alteração do cronograma de implantação das UFV Ribeiro Gonçalves 1 a 4", "tema": ["outorgas de geração (solar)", "fiscalização"], "relator": "Hélvio Guerra", "resultado": "indeferido por unanimidade", "resumo_voto": "Empresa tinha licenças desde 2019 e não iniciou obras nem contratou equipamentos; pandemia sem nexo causal; ANEEL só altera cronograma com excludente. Sustentação oral de Cristiano (Equatorial).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, indefere", "ts": "3:03:43", "justificativa": "tinha todas as condições para iniciar obras antes da pandemia; sem nexo de causalidade", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:08:59", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:09:01", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:09:03", "justificativa": "lei definiu fim dos descontos; postergar cronogramas perpetuaria subsídio; ponto de conexão reservado deve ser pago ou liberado", "confianca": "alta"}
+   ]},
+  {"id": "1", "ts": "3:10:30", "processo": "48500.005794/2017-40", "interessado": "SPE / setor (P&D)", "assunto": "Resultado da Consulta Pública 69/2021: nova resolução normativa e Procedimentos do Programa de Pesquisa, Desenvolvimento e Inovação (PROPDI) — retorno de vista", "tema": ["regulação normativa (resolução, consulta pública)", "P&D e inovação"], "relator": "Sandoval Feitosa (voto original como diretor); voto-vista Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes nos termos do voto-vista", "resumo_voto": "Voto-vista acompanha o original, apenas retirando a menção específica à EMBRAPII para não sinalizar exclusividade; qualquer instituição pode aportar contrapartida, que gera pontuação. Debate sobre se o DG podia votar tendo votado antes como diretor; prevaleceu a prática do voto da cadeira.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor", "ts": "3:11:00", "justificativa": "retirar citação à EMBRAPII para evitar exclusividade; abrir a qualquer instituição semelhante", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o voto-vista", "ts": "3:44:55", "justificativa": "alertou para o precedente de o mesmo CPF votar em dois cargos", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista e proclama", "ts": "3:44:58", "justificativa": "incorpora a proposta, processo fica mais robusto", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (cadeira já votada pelo antecessor)", "ts": "3:30:00", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [{"item": "3, 16 e 29", "motivo": "retirados de pauta (anunciado pelo secretário-geral)"}, {"item": "2, 4 e 5", "motivo": "deliberação no período da tarde (Parte 2, outro vídeo)"}],
+ "limites_da_analise": [
+  "Diretor ausente (férias) aparece na legenda como «já como»/«Jácomo»/«diácono»; nome não está na lista do config e não foi identificado.",
+  "Momento exato de chegada de Fernando Mosna não identificado; no bloco foram atribuídos 3 votos por ordem de fala (confiança baixa).",
+  "Item 15: antes do pedido de vista há uma fala «eu acompanho ela toda» sem identificação clara do falante; registrada como não votou (vista).",
+  "Item 1: Ricardo Tili não votou por já haver voto da cadeira (antecessor); a menção a outro diretor que já votara acompanhando o original refere-se ao ausente.",
+  "Números de processo e valores vêm da legenda automática e podem conter erros; ts de quem só acompanha são aproximados."
+ ]
+}

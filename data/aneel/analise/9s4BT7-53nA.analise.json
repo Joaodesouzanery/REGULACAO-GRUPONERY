@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "video_id": "9s4BT7-53nA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts pelo json da transcrição; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária de 2022 (Parte 1)",
+  "data": "2022-05-24",
+  "formato": "híbrido (presencial e virtual)",
+  "presidente_da_sessao": "Camila (diretora-geral substituta)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz",
+   "Giácomo (diretor substituto)",
+   "Camila (diretora-geral substituta)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Primeira sessão de Camila (DG substituta) e Giácomo (diretor substituto); última reunião de Sandoval Feitosa no mandato de diretor (retorno previsto como diretor-geral em agosto); Ricardo Tili assume no dia seguinte.",
+   "Hélvio Guerra participou online (com covid) e Efrain Cruz online de Dallas (DistribuTECH); houve quedas de conexão.",
+   "Pauta com 59 itens; item 5 retirado; Parte 1 termina na pausa para as 15h, após a vista no item 7; itens restantes (9 a 18, 26, 32 a 38, 41) estão na Parte 2."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:58:07",
+   "processo": "itens 19 a 59 (exceto destaques)",
+   "interessado": "diversos",
+   "assunto": "Deliberação em bloco dos itens 19 a 59, exceto os destacados (26, 32, 34, 35, 37, 38 e 41); no item 31 (recurso de Celesc e Eletrosul sobre RAP e transferência de ativos) o diretor Sandoval ajustou voto e dispositivo, sem mudar o mérito (negar provimento, sem fixar o valor de R$ 3,12 milhões).",
+   "tema": [
+    "deliberação em bloco",
+    "transmissão (RAP)",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados por unanimidade; ajuste no item 31 anunciado pelo diretor Sandoval.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:59:30",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:59:30",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:59:30",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:59:30",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:59:30",
+     "justificativa": "Bloco aprovado por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:00:43",
+   "processo": "48500.003564/2021-22",
+   "interessado": "geradores com TUST estabilizada (Santo Antônio Energia, UTE Termomaranhão/Itaqui, Porto do Pecém I e II, UHE Estreito)",
+   "assunto": "Resultado da Consulta Pública 67/2021: alteração do art. 8º da REN 559/2013 (regra de transição da TUST para geradores que participaram de leilões com TUST estabilizada pela REN 267/2007). Voto-vista do diretor Hélvio Guerra; relator original Sandoval Feitosa.",
+   "tema": [
+    "transmissão (TUST)",
+    "tarifas",
+    "regulação normativa (consulta pública)",
+    "outorgas de geração"
+   ],
+   "relator": "Sandoval Feitosa (relator original); Hélvio Guerra (voto-vista)",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Hélvio Guerra; vencido Sandoval Feitosa; Giácomo arguiu suspeição",
+   "resumo_voto": "Mantém a regra de transição para geradores cuja TUST aumentou até o ciclo 2021/2022; afasta a regra a partir do ciclo 2022/2023 para geradores com TUST estabilizada calculada sob a REN 267/2007, inclusive os que já tiveram TUST revisada e reduzida até 2021/2022 (diferenças como crédito no ciclo 2022/2023); vigência em 1º/6/2022 com urgência justificada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vencido (relator original)",
+     "ts": "1:55:00",
+     "justificativa": "Mantém o voto original: regra tem efeitos prospectivos; aplicar a regra olhando para trás fragiliza o processo regulatório e cria precedente; o caso pontual (Santo Antônio) deve ser tratado no requerimento apartado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor",
+     "ts": "1:18:49",
+     "justificativa": "Concorda em afastar a regra de transição (alteração do risco assumido no leilão), mas estende aos casos pretéritos de TUST reduzida por isonomia entre as cinco usinas; mantém a transição quando houve aumento, conforme despacho 273/2021 da Procuradoria.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:02:40",
+     "justificativa": "Direito adquirido e segurança jurídica: regra de transição não pode ser mais gravosa do que o edital; tratar só o caso concreto quebraria a isonomia.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "suspeito/impedido",
+     "ts": "2:02:40",
+     "justificativa": "Arguiu suspeição (art. 13 do anexo da REN 273/2007); atribuição inferida pela correção feita no item seguinte.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:02:45",
+     "justificativa": "Levantou a proposta de tratar a extensão aos casos pretéritos no caso concreto, mas acompanhou o voto-vista e proclamou por maioria dos votantes.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:04:10",
+   "processo": "48500.000282/2019-92 (número incerto)",
+   "interessado": "Santo Antônio Energia S.A. (UHE Santo Antônio) e Energia Sustentável do Brasil S.A. (UHE Jirau)",
+   "assunto": "Requerimentos administrativos para afastar o período de transição da TUST (art. 8º da REN 559/2013) para as UHEs Santo Antônio e Jirau. Sustentação oral de Gerusa Magalhães (Santo Antônio Energia), que retirou o pleito diante da decisão do item 6.",
+   "tema": [
+    "transmissão (TUST)",
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "perda de objeto declarada por maioria dos votantes; Giácomo arguiu suspeição",
+   "resumo_voto": "Declara a perda de objeto dos requerimentos, pois a regra geral aprovada no item 6 já contempla Santo Antônio e Jirau.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:12:00",
+     "justificativa": "Regra geral e abstrata aprovada na mesma sessão já atende aos casos; extinção por perda de objeto (Norma de Organização 1, REN 273/2007).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "suspeito/impedido",
+     "ts": "2:13:03",
+     "justificativa": "Arguiu suspeição; confirmado pela diretora-geral substituta («arguiu suspeição para votação nesse processo»).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:13:30",
+     "justificativa": "Com a decisão anterior sobre o mérito o processo não tem mais razão de existir; poderia ser decidido monocraticamente.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:00",
+     "justificativa": "Voto individual não ouvido; resultado proclamado por maioria dos votantes.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:14:00",
+     "justificativa": "Proclamou o resultado.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:15:00",
+   "processo": "48500.004935/2020-11",
+   "interessado": "Eletrobras; Secretaria de Coordenação e Governança do Patrimônio da União (SPU)",
+   "assunto": "Resultado da Consulta Pública 84/2021: ato conjunto ANEEL-SPU regulando o art. 3º da Lei 14.120/2021 sobre alienação, transferência ou gestão dos Bens da União sob Administração (BUSA), adquiridos com recursos da RGR. Apresentação técnica de Márcio (SFF).",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "fiscalização",
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova minuta de ato conjunto ANEEL-SPU sobre destinação dos BUSA.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:32:45",
+     "justificativa": "Trabalho conjunto das áreas de fiscalização com a SPU; regra traz estabilidade à análise dos BUSA, após casos concretos (usina no Paraná e Usina do Gasômetro).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:45",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:45",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:45",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:45",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:33:35",
+   "processo": "48500.004899/2021-68 (número incerto)",
+   "interessado": "Cemig Distribuição S.A.",
+   "assunto": "Postergação da vigência das tarifas da Cemig D (REH 2.877/2021) por 15 dias e reversão de créditos de PIS/Cofins (exclusão do ICMS) como componente financeiro, à espera do aporte da capitalização da Eletrobras na CDE.",
+   "tema": [
+    "tarifas (reajuste tarifário)",
+    "CDE e encargos setoriais",
+    "distribuição"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga por 15 dias as tarifas da REH 2.877/2021, com diferença de receitas corrigida pela Selic e compensada em 2023; estabelece componente financeiro de cerca de R$ 1,264 bilhão de reversão de créditos de PIS/Cofins.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:44:19",
+     "justificativa": "Prorrogação acordada com a própria distribuidora para incorporar o aporte de R$ 5 bilhões na CDE previsto com a capitalização da Eletrobras; reajuste é direito contratual e o equilíbrio é mantido.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:19",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:19",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:19",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:19",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:45:25",
+   "processo": "48500.003566/2021 e 48500.002421/2022 (números incertos)",
+   "interessado": "Cooperativa Aliança (Cooperaliança), Içara/SC",
+   "assunto": "Abertura de consulta pública sobre a revisão tarifária periódica 2022 da Cooperaliança (efeito médio preliminar ~15,3%) e limites de DEC/FEC 2023-2027.",
+   "tema": [
+    "tarifas (revisão tarifária)",
+    "distribuição e qualidade",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública de 25/5 a 9/7/2022, com reunião virtual em 24/6/2022, para a RTP da Cooperaliança a vigorar em 29/8/2022 e limites de DEC/FEC 2023-2027.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:09:12",
+     "justificativa": "Destaca o papel das pequenas distribuidoras e convida consumidores e conselho de consumidores a participar da consulta pública.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:12",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:12",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo (diretor substituto)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:12",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:09:12",
+     "justificativa": "Votação por unanimidade proclamada pela diretora-geral substituta; fala individual curta (acompanho/volto com o relator), atribuição aproximada.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:09:59",
+   "processo": "48500.005794/2017-40",
+   "interessado": "agentes do programa de P&D; Embrapii (sustentação oral de Fábio Maia Cavalcanti)",
+   "assunto": "Resultado da Consulta Pública 69/2021: nova resolução normativa e Procedimentos do Programa de Pesquisa, Desenvolvimento e Inovação (PROPDI) da ANEEL. Embrapii propôs programa prioritário com depósito de recursos regulados, rejeitado pelo relator.",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "P&D e inovação"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista do diretor Hélvio Guerra",
+   "resumo_voto": "Relator vota por aprovar a REN e o PROPDI (vigência a partir de 1º/7/2023); deliberação suspensa por vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:50:00",
+     "justificativa": "Compatibiliza o P&D com o novo marco da inovação; plano estratégico quinquenal; rejeita a proposta da Embrapii por falta de controle regulatório sobre entidade não regulada.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:55:50",
+     "justificativa": "Fala «eu volto com o relator» logo após abrir a votação, sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "3:56:06",
+     "justificativa": "Pede vista considerando que o relator previa concluir o processo só em julho; antes manifestou preocupação com a proposta da Embrapii e com recursos pagos pelo consumidor irem além do setor elétrico.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "3:56:06",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Camila (diretora-geral substituta)",
+     "voto": "não votou (vista)",
+     "ts": "3:56:06",
+     "justificativa": "Elogiou a proposta (ambiente seguro para inovação, foco em resultados facilita fiscalização).",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Camila (DG substituta), Giácomo (diretor substituto) e Efrain Cruz não constam da lista de diretores do config da ANEEL; nomes registrados como ditos/inferidos (sobrenomes não ditos na legenda).",
+  "Itens 6 e 2: «por maioria dos votantes»; atribuição da suspeição a Giácomo no item 6 é inferida (no item 2 a mesa confirma). Voto de Sandoval no item 2 não foi ouvido.",
+  "Item 7: o primeiro «volto com o relator» não tem nome identificado.",
+  "Itens unânimes: falas «acompanho/volto com o relator» atribuídas pela proclamação, ts aproximados.",
+  "Números de processo e valores vêm de legenda automática e podem estar errados (ex.: 1,264 bilhão da Cemig; processos dos itens 2, 3 e 4)."
+ ]
+}

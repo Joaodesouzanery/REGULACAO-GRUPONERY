@@ -1,0 +1,56 @@
+{
+ "meta": {"video_id": "iMNC5J7UJZU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "20ª Reunião Pública Ordinária de 2022 (Parte 1)", "data": "2022-06-07", "formato": "sessão presencial/virtual com transmissão",
+  "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta)",
+  "diretores_presentes": ["Camila Bomfim", "Efrain Cruz", "Giácomo Almeida", "Hélvio Guerra", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Quórum de cinco diretores. Pauta de 57 itens; bloco 18 a 57 (item 23 retirado). Ordem de preferência: itens 1, 4, 5, 6, 7, 12, 53.", "Primeira reunião após a posse de Hélvio Guerra e Ricardo Tili (cumprimentados pela posse na sustentação do item 4).", "Presença do deputado federal Weliton Prado, que fez sustentação oral no item 1.", "Parte 1 suspensa após o item 5 porque o diretor Efrain Cruz, relator dos itens seguintes, foi chamado ao Ministério; retorno às 14h (Parte 2 em outro vídeo)."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:06:15", "processo": "", "interessado": "", "assunto": "Itens 18 a 57 da pauta deliberados em bloco (item 23 retirado; itens 12 e 53 destacados)", "tema": ["deliberação em bloco"], "relator": "vários", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado por unanimidade; um diretor declarou suspensão (suspeição) no item 28 com base no art. 13 do anexo da REN 273/2007; item 53 destacado para correção.",
+   "votos": [
+    {"diretor": "Camila Bomfim", "voto": "aprova o bloco e proclama", "ts": "0:06:20", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:18", "confianca": "baixa"},
+    {"diretor": "Giácomo Almeida", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:18", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:18", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:18", "confianca": "baixa"}
+   ]},
+  {"id": "1", "ts": "0:06:29", "processo": "48500.004899/2022-08 (legenda incerta)", "interessado": "Cemig Distribuição S.A. (distribuidora, MG)", "assunto": "Reajuste tarifário anual 2022 da Cemig-D: prorrogação da vigência das tarifas até 21/06/2022", "tema": ["tarifas e revisão tarifária", "distribuidoras"], "relator": "Giácomo Almeida", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga até 21/06/2022 as tarifas da REH 2877/2021, aguardando capitalização da Eletrobras (aporte na CDE), PL de devolução de PIS/Cofins e ICMS; diferença de receita corrigida pela Selic e compensada no reajuste de 2023. Sustentação oral do deputado federal Weliton Prado pedindo devolução integral dos créditos de PIS/Cofins e nenhum aumento.",
+   "votos": [
+    {"diretor": "Giácomo Almeida", "voto": "relator, aprova prorrogação", "ts": "0:21:21", "justificativa": "evita movimentos tarifários consecutivos e permite capturar efeitos da capitalização da Eletrobras e do PL dos tributos; Cemig concordou", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:32:50", "justificativa": "antecipou concordância; agência devolve créditos de PIS/Cofins ao consumidor desde a decisão do STF, dentro do controle de legalidade", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:32:50", "justificativa": "observou que as tarifas estão elevadas e parte dos fatores (encargos por lei) foge à competência da ANEEL; consumidor como protagonista", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:50", "confianca": "baixa"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "0:32:55", "justificativa": "prorrogação prudente aguardando medidas estruturais (ICMS, PIS/Cofins, Eletrobras/CDE)", "confianca": "media"}
+   ]},
+  {"id": "4", "ts": "0:33:33", "processo": "48500.005240/2018-23 (legenda incerta)", "interessado": "PCH Jauru (PCH Estivadinho 3, Reserva do Cabaçal/MT)", "assunto": "Requerimento com pedido cautelar para suspender obrigações do CER 430/2016 (LER 3/2016) e da Portaria MME 198/2017 e reconhecer excludente de responsabilidade pelo atraso (licenciamento ambiental)", "tema": ["outorgas de geração (PCH)", "excludente de responsabilidade", "energia de reserva", "fiscalização e sanções"], "relator": "Efrain Cruz", "resultado": "pedido de vista (Ricardo Tili)",
+   "resumo_voto": "Relator: ratifica 323 dias de excludente (redação ajustada por sugestão de Hélvio), determina à SFG processo de revogação da outorga, à SRM avaliar resolução do CER 430, recomenda à Ager-MT seguir com penalidade e indefere extensão da cautelar. Sustentação oral de Matheus Pires Villas-Boas de Carvalho (Jauru), pedindo 729 dias e extensão da cautelar.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, dá parcial provimento", "ts": "1:06:58", "justificativa": "riscos do licenciamento (EIA-RIMA) eram conhecidos antes da outorga; energia de reserva pesa no consumidor; obra nem começou, viabilidade econômica duvidosa", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "1:08:00", "justificativa": "sugeriu redação 'ratificar' os 323 dias, acatada pelo relator", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "1:13:00", "justificativa": "dúvidas sobre prazos (729 dias pedidos, instrução adicional pedida na sustentação) e impacto do CER no consumidor; recém-chegado, quer analisar melhor", "confianca": "media"},
+    {"diretor": "Giácomo Almeida", "voto": "não votou (vista)", "ts": "1:13:59", "confianca": "media"},
+    {"diretor": "Camila Bomfim", "voto": "não votou (vista)", "ts": "1:13:59", "confianca": "media"}
+   ]},
+  {"id": "5", "ts": "1:14:11", "processo": "48500.002421/2021-49 (legenda incerta)", "interessado": "RGE Sul Distribuidora de Energia S.A.; CGH João dos Passos (Coprel); Cogecom", "assunto": "Pedido de medida cautelar da RGE contra o Despacho SRD 766/2022, que definiu prazos do projeto-piloto de compensação de créditos da CGH em área de outra concessionária", "tema": ["geração distribuída (MMGD)", "Lei 14.300/2022", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade (cautelar conhecida e negada)",
+   "resumo_voto": "Conhecer da cautelar e negar provimento, mantendo o Despacho 766/2022; projeto-piloto aprovado em dez/2021 e respaldado pelo art. 15 da Lei 14.300; custos do piloto a cargo dos requerentes.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, nega provimento", "ts": "1:23:00", "justificativa": "ausência de fumaça do bom direito; piloto independe de consulta pública e não depende da vontade da concessionária", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:29:12", "justificativa": "espanto com seis meses sem implantar piloto aprovado; descumprimento de decisão da diretoria seria passível de fiscalização, 'quase insubordinação'", "tom": "enfático", "confianca": "media"},
+    {"diretor": "Giácomo Almeida", "voto": "acompanha o relator", "ts": "1:29:12", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:29:12", "confianca": "baixa"},
+    {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "1:29:15", "justificativa": "projetos-piloto (sandbox) são importantes para inovação regulatória", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["item 23 (retirado de pauta)"],
+ "limites_da_analise": [
+  "Camila Bomfim, Efrain Cruz e Giácomo Almeida não constam da lista de diretores do config da ANEEL; registrados como ditos na legenda (Camila, Efraim/Ephrain Pereira da Cruz, Giácomo Francisco Bassi Almeida). O marcador de falantes {Sandoval Feitosa...} do .md está errado: Sandoval não está presente (mandato encerrado, citado no item 1).",
+  "Falas de voto ('eu acompanho...') não identificam o diretor; atribuição pela ordem e pela proclamação de unanimidade, confiança baixa/média.",
+  "Bloco: não se identifica qual diretor se declarou suspeito/impedido no item 28.",
+  "Item 4: o pedido de vista é atribuído a Ricardo Tili porque a mesa responde 'diretor Ricardo' e o requerente disse ter chegado agora; a questão de redação é atribuída a Hélvio ('de Elvis'). Números de processo vêm da legenda e podem estar errados.",
+  "Itens 6, 7, 12 e 53 ficaram para a Parte 2 (outro vídeo)."
+ ]
+}

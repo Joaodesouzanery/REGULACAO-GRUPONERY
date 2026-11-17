@@ -1,0 +1,413 @@
+{
+ "meta": {
+  "video_id": "9NJGPx_daeo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "39ª Reunião Pública Ordinária de 2022",
+  "data": "2022-10-18",
+  "formato": "presencial (auditório da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Giácomo Francisco Bassi Almeida",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Fernando Mosna chegou durante a sessão (não votou no bloco nem, ao que parece, nos itens 1 a 3).",
+   "Primeira reunião do secretário-geral Carlos Eduardo Cabral.",
+   "31 itens na pauta, 23 no bloco; retirados 6, 19 e 21; item 9 com vista de Ricardo Tili.",
+   "Sustentações orais no item 5: Paulo Pedrosa (Abrace) e Rosemeire Cecília da Costa (Conselho de Consumidores Energisa MS)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:50",
+   "processo": "itens 8 a 31 (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (8 a 31, votos publicados previamente), exceto 19 e 21 retirados de pauta; item 9 com pedido de vista de Ricardo Tili; item 18 destacado para a pauta normal; item 29 com suspeição declarada por Giácomo Almeida",
+   "tema": [
+    "institucional (bloco de pauta)"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade, exceto item 9 (vista de Ricardo Tili), item 18 (destacado) e item 29 (suspeição de Giácomo Almeida)",
+   "resumo_voto": "Diretores aprovam os itens do bloco; Tili pede vista do item 9 e manifesta-se contra o item 18 (não vê perigo da demora na cautelar); o Diretor-Geral destaca o item 18.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:09:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco, exceto pede vista do item 9 e diverge do item 18",
+     "ts": "0:09:19",
+     "confianca": "alta",
+     "justificativa": "no item 18 não enxerga o periculum in mora da cautelar: nem fiscalização foi aberta"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "aprova o bloco; suspeição no item 29",
+     "ts": "0:10:08",
+     "confianca": "alta",
+     "justificativa": "declara suspeição no item 29 conforme a REN 273"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, destaca o item 18 e proclama",
+     "ts": "0:10:26",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:11:15",
+   "processo": "48500.004906/2021",
+   "interessado": "CPFL Piratininga (distribuidora, SP)",
+   "assunto": "Reajuste tarifário anual 2022 da CPFL Piratininga, vigência a partir de 23/10/2022",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 14,72% (AT 24,16%, BT 9,60%); mitigação por créditos de PIS/Cofins e CDE Eletrobras; apresentação de Ricardo Martins (SGT).",
+   "votos": [
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "0:25:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:27:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:27:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:28:04",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:29:22",
+   "processo": "48500.004912/2021",
+   "interessado": "EDP São Paulo (distribuidora)",
+   "assunto": "Reajuste tarifário anual 2022 da EDP São Paulo, vigência a partir de 23/10/2022",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 8,05% (AT 20,04%, BT 2,35%); apresentação de Charles Rocha (SGT).",
+   "votos": [
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "0:40:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:41:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:41:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:41:20",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:42:25",
+   "processo": "48500.004918/2021",
+   "interessado": "Enel Distribuição Goiás",
+   "assunto": "Reajuste tarifário anual 2022 da Enel Goiás, vigência a partir de 22/10/2022",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 7,22% (AT 10,84%, BT 5,81%); apresentação de Leonardo de Araújo (SGT).",
+   "votos": [
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "0:53:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:55:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:55:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:55:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:56:30",
+   "processo": "48500.004961/2021",
+   "interessado": "Neoenergia Distribuição Brasília",
+   "assunto": "Reajuste tarifário 2022 da Neoenergia Brasília: postergação por 12 dias (pedido da distribuidora, discussão de ICMS com o GDF pela LC 194/2022)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga por 12 dias as tarifas vigentes (REH 2965/2021) até a homologação, diferença corrigida pela Selic e compensada em 2023; nega o pedido de redução de cotas da CDE.",
+   "votos": [
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "1:04:17",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:09:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:09:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (provável)",
+     "ts": "1:09:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:09:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:10:19",
+   "processo": "48500.005500/2021 e outros (48500.005526/2021, 005527/2021, 005501/2021)",
+   "interessado": "SPE EPP 2 Centrais Elétricas Ltda e SPE EPP 2 Itaguaí Energia Ltda (grupo Âmbar Energia); UTEs EPP2, EPP4, Rio de Janeiro 1 e Edlux 10 (PCS 1/2021); UTE Cuiabá (Mário Covas)",
+   "assunto": "Requerimento e pedido de cautelar para suspender multas contratuais cobradas pela CCEE e reconhecer excludente de responsabilidade pelo atraso das UTEs do procedimento competitivo simplificado (PCS)",
+   "tema": [
+    "fiscalização e sanções (excludente de responsabilidade, cassação)",
+    "leilões (PCS, energia de reserva)",
+    "outorgas de geração (térmica)",
+    "comercialização (CCEE, PLD)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, nos termos do relator acrescido do voto em separado de Hélvio Guerra: cautelar negada, excludente indeferida, SFG continua fiscalização (TIPs 9 a 12) e propõe cassação; declarado descumprimento da condição de eficácia do Despacho 1872/2022 e determinada à CCEE a recontabilização ao PLD da geração da UTE Cuiabá; Giácomo Almeida suspeito",
+   "resumo_voto": "Sustentações orais de Paulo Pedrosa (Abrace) e Rosemeire Cecília da Costa (Conselho de Consumidores da Energisa MS) pela rejeição. Relator: sem nexo causal (licenciamento, greve da Receita, atraso de transformadores chineses = risco do empreendedor). Mosna e Hélvio acrescentam declarar descumprida a condição de eficácia e recontabilizar ao PLD; Tili objeta que isso invade o recurso da Abrace/Instituto Pólis sob sua relatoria. Sandoval desempata a favor de Hélvio para evitar empate.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator; vencido quanto aos acréscimos (condição de eficácia e recontabilização)",
+     "ts": "2:04:10",
+     "confianca": "media",
+     "justificativa": "não há excludente nem nexo causal; acrescentar a Cuiabá misturaria processos e anteciparia o julgamento do recurso da Abrace"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto em separado vencedor: acompanha o relator e acrescenta declarar descumprida a condição de eficácia do Despacho 1872 e recontabilização na CCEE ao PLD",
+     "ts": "2:09:04",
+     "confianca": "alta",
+     "justificativa": "cautelar perdeu eficácia; revisou seus votos anteriores porque a vantagem ao consumidor da substituição pela UTE Cuiabá não se confirmou (estudo da SRG)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto em separado de Hélvio Guerra",
+     "ts": "3:22:04",
+     "confianca": "media",
+     "justificativa": "consequência lógica de negar a excludente: a energia da UTE Cuiabá no PCS deve ser remunerada ao PLD"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "suspeito/impedido",
+     "ts": "3:17:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto em separado de Hélvio Guerra e proclama",
+     "ts": "3:22:54",
+     "confianca": "alta",
+     "justificativa": "para não deixar o processo indefinido por empate"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "3:24:30",
+   "processo": "",
+   "interessado": "PCS (correlato ao item 5)",
+   "assunto": "Item 6 da pauta (correlato ao item 5, relatoria de Ricardo Tili), retirado de pauta",
+   "tema": [
+    "leilões (PCS)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado de pauta pelo relator.",
+   "votos": []
+  },
+  {
+   "id": "7",
+   "ts": "3:26:50",
+   "processo": "48500.005054/2019 e 48500.002108/2020",
+   "interessado": "Oliveira Energia S.A.",
+   "assunto": "Pedido de medida cautelar contra o Despacho 2331/2022 da SFG (continuação da votação da reunião anterior)",
+   "tema": [
+    "fiscalização e sanções (penalidades editalícias)",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, não conhecer da cautelar (voto divergente de Hélvio Guerra), vencido o relator; por unanimidade, determinar à SFG que em 60 dias avalie e compatibilize os ritos de penalidades editalícias e da REN 846/2019",
+   "resumo_voto": "Na reunião anterior havia três encaminhamentos (Tili conhecia e concedia; Mosna conhecia e negava por falta de fumaça do bom direito; Hélvio não conhecia). Mosna revê e adere a Hélvio.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, conhece e concede a cautelar; vencido",
+     "ts": "3:26:50",
+     "confianca": "baixa",
+     "justificativa": "voto da reunião anterior; não se manifestou de novo nesta sessão"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "revê o voto e acompanha a divergência de Hélvio Guerra (não conhecer)",
+     "ts": "3:27:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "acompanha a divergência de Hélvio Guerra (provável)",
+     "ts": "3:29:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "diverge: não conhece da cautelar",
+     "ts": "3:29:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Hélvio Guerra e proclama",
+     "ts": "3:30:11",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "3:31:49",
+   "processo": "48500.006592/2014 e 48500.003383/2014",
+   "interessado": "Translide Empreendimentos e Incorporações Ltda; PCHs Açungui 2E e 2F (rio Açungui, PR)",
+   "assunto": "Pedido de cautelar para suspender o cronograma de implantação das PCHs (liminar em ACP impede obras) e devolver aportes de garantias financeiras (destacado do bloco)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "fiscalização e sanções",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, cautelar não concedida (proclamação confusa: não conhecer/negar), vencido o relator",
+   "resumo_voto": "Relator concedia parcialmente (suspender cronograma enquanto durar a liminar da ACP; negar devolução de garantias). Tili diverge: não há perigo da demora, sem fiscalização aberta, prazo de 54 meses da nova resolução. Procurador Gentil: ACP não impede a ANEEL de fiscalizar.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, conhece e concede parcialmente; vencido",
+     "ts": "3:38:40",
+     "confianca": "alta",
+     "justificativa": "obras paralisadas por liminar judicial; risco de fiscalização e revogação"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "diverge: não cabe cautelar (sem periculum in mora)",
+     "ts": "3:39:01",
+     "confianca": "alta",
+     "justificativa": "área técnica pode instruir o mérito; nova resolução dá 54 meses"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "revê o voto do bloco e acompanha a divergência de Tili",
+     "ts": "3:47:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não identificado (no bloco acompanhou o relator; não se ouve nova manifestação)",
+     "ts": "3:47:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência de Tili e proclama",
+     "ts": "3:47:34",
+     "confianca": "alta",
+     "justificativa": "não há risco iminente; pode voltar se houver"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "6",
+  "19",
+  "21"
+ ],
+ "limites_da_analise": [
+  "Giácomo Francisco Bassi Almeida (relator dos itens 1 a 4, legenda «já como base») não consta da lista de diretores do config; nome registrado como dito.",
+  "Transcrição com um só marcador de tempo; ts obtidos por busca no JSON da legenda, aproximados.",
+  "Itens 1 a 4: votos de quem só «acompanha» atribuídos pela ordem; no item 4 há uma voz a mais, provavelmente Fernando Mosna (confiança baixa); nos itens 1 a 3 Mosna possivelmente ainda ausente.",
+  "Item 7: voto de Tili é o da reunião anterior; fala «eu também voto que nem o diretor Fernando» atribuída a Giácomo sem certeza.",
+  "Item 18: posição final de Hélvio Guerra não ouvida; resultado proclamado de forma confusa (não conhecer/negar).",
+  "Itens do bloco não detalhados individualmente (votos publicados previamente).",
+  "Números de processo e valores vêm da legenda automática e podem conter erros."
+ ]
+}

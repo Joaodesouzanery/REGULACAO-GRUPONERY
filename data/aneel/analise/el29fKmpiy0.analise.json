@@ -1,0 +1,452 @@
+{
+ "meta": {
+  "video_id": "el29fKmpiy0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46ª Reunião Pública Ordinária de 2023 (Parte 2)",
+  "data": "2023-12-12",
+  "formato": "presencial",
+  "presidente_da_sessao": "Hélvio Guerra (conduziu as deliberações após saída do Diretor-Geral Sandoval Feitosa)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (presente só na abertura; ausentou-se, segundo Fernando Mosna no item 11)",
+   "Agnes da Costa (não mencionada)"
+  ],
+  "observacoes": [
+   "Parte 2 da última RPO de 2023; primeira reunião de Renata como secretária-geral adjunta.",
+   "Retirados de pauta os itens 30 e 39 a pedido dos relatores.",
+   "Inversão de pauta: itens 11, 6, 12, 40 antes da ordem normal.",
+   "Item 12 (Coremas) terminou empatado 2 a 2, segundo a mesa, aguardando voto do Diretor-Geral.",
+   "Pedidos de vista de Hélvio Guerra nos itens 40 (Dunamis) e 9 (Valen).",
+   "Intervalo de 20 minutos após o item 40; encerramento por volta de 5:32 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "4",
+   "ts": "0:00:38",
+   "processo": "48500.000567/2022-43",
+   "interessado": "setor de comercialização (sustentação oral: Alexandre Pedrosa Monteiro Lopes, Abraceel; Ana Carla, Comerc Participações); CCEE",
+   "assunto": "Resultado da Consulta Pública 28/2023: aprimoramento da norma de comercialização varejista sob a ótica da abertura de mercado (Portaria MME 50/2022), flexibilização dos requisitos de migração ao ACL e agregação de dados de medição",
+   "tema": [
+    "comercialização (CCEE, mercado livre, abertura de mercado)",
+    "regulação normativa (resolução, consulta pública)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova resolução normativa para consumidores de alta tensão com carga individual inferior a 500 kW (altera REN 957, 1000 e 1011); determina à CCEE proposta de regras e procedimentos em 60 dias para a 2ª fase da CP 28/2023; relator incluiu na 2ª fase o estudo de manual de migração sugerido pela Abraceel. Hélvio Guerra criticou a ideia de manual (resolução deveria ser clara) e sugeriu separar contribuições fora do escopo no cálculo de aceitação.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:34:01",
+     "confianca": "alta",
+     "justificativa": "simplificação ágil e segura da migração; sem supridor de última instância por falta de previsão legal; telemedição do grupo A já atende; CCEN por prazo indeterminado com denúncia de 180 dias"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:53:59",
+     "confianca": "media",
+     "justificativa": "elogiou o workshop na CCEE e o trabalho das superintendências"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "0:54:02",
+     "confianca": "media",
+     "justificativa": "ressalva: preocupação com manuais; resolução deveria ser clara o suficiente"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:55:18",
+   "processo": "48500.000830/2022-11",
+   "interessado": "Norte Energia S.A. (sustentação oral: Rafael Gomes); Infinite Comercializadora de Energia; CCEE",
+   "assunto": "Pedido de reconsideração com efeito suspensivo da Norte Energia contra o Despacho 1.134/2023 (cautelar de não desligamento da CCEE de agentes com ajuste de contratos e regularização bilateral); análise do Despacho monocrático 4.415/2023 do Diretor-Geral",
+   "tema": [
+    "comercialização (CCEE, garantias financeiras, desligamento)",
+    "recursos administrativos",
+    "institucional (colegialidade)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: anulado o Despacho 4.415/2023 e concedido de ofício, cautelarmente, prazo até 12/01/2024 para a CCEE concluir o procedimento de desligamento da Norte Energia",
+   "resumo_voto": "Despacho 1.134/2023 tem natureza normativa; pela REN 273/2015 (art. 43) e art. 7º da Lei 13.848/2019 o Diretor-Geral não poderia suspendê-lo monocraticamente; item B ultra petita; pedido intempestivo. Cautelar de ofício (art. 45 Lei 9.784) por adimplemento substancial (14 de 15 contrapartes, 94,8% regularizados) e risco aos CCEARs. Relator registrou que o DG se ausentou e a leitura ocorreu sem ele.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:11:55",
+     "confianca": "alta",
+     "justificativa": "decisão monocrática violou a colegialidade; anulação (não revogação) por ilegalidade; cautelar de ofício para não desligar agente com adimplemento substancial"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:55:44",
+     "confianca": "media",
+     "justificativa": "críticas fortes: regulação por cautelar gera erros; efeito suspensivo seis meses depois 'me assombra'; agente pediu remédio errado; questionou se agente pequeno teria o mesmo tratamento; apoia a cautelar de ofício"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:55:47",
+     "confianca": "media",
+     "justificativa": "perguntou à SGM sobre o estudo de mérito atrasado e sobre efeitos de anular x revogar"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:56:37",
+   "processo": "48500.004034/2017-15",
+   "interessado": "ONS — Operador Nacional do Sistema Elétrico (sustentação oral: Fábio Reis Cortez)",
+   "assunto": "Resultado da Consulta Pública 34/2023: indicadores de desempenho do Programa de Performance Organizacional do ONS para o biênio 2024–2025",
+   "tema": [
+    "institucional (ONS, regulação por incentivos)",
+    "regulação normativa (consulta pública)",
+    "transmissão"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolução homologatória dos indicadores e metas 2024–2025; relator divergiu parcialmente das áreas técnicas e manteve indicadores estratégicos (ADFP, ADFS, ATL, APGI, ARM) cuja exclusão era recomendada; exclui APS; inclui indicador de gestão orçamentária; pesos iguais; determina SGM/STD avaliar em 60 dias ampliação do prazo de pareceres de acesso de 80 para 105 dias (pedido do ONS).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (proclama)",
+     "ts": "2:31:00",
+     "confianca": "alta",
+     "justificativa": "indicadores devem ser desafiadores mas também estratégicos para o setor; por isso mantém os que as áreas queriam excluir"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:38:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:38:26",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:39:11",
+   "processo": "48500.004232/2020-84 e 48500.004235/2020",
+   "interessado": "SPEs Coremas 1 a 3 Geração de Energia (requerentes; sustentação oral: Ana Clara Toledo Brito) x SPEs Coremas 4 a 8 (sustentação oral: José Palazzia)",
+   "assunto": "Pedido de esclarecimento/requerimento contra o Despacho 1.638/2023 (ressarcimento pelo compartilhamento de instalações de interesse restrito; juntada de parecer técnico/laudo produzido em mediação) — voto-vista",
+   "tema": [
+    "outorgas de geração (solar)",
+    "recursos administrativos",
+    "mediação de conflitos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "sem decisão: empate (2 a 2, segundo a mesa) — aguarda voto do Diretor-Geral para desempate",
+   "resumo_voto": "Voto-vista de Fernando Mosna: não conhecer o pedido de esclarecimento, mas declarar de ofício a nulidade parcial do Despacho 1.638/2023 no trecho que exige o laudo da mediação (sigilo do art. 30 da Lei 13.140/2015), fixando pagamento em 60 dias da publicação. Hélvio Guerra mantém o voto original (laudo extrapola a mediação; sem valor não há pagamento). Ricardo Tili questionou a exequibilidade sem laudo e sugeriu juntada sob sigilo. Sustentação oral excepcional em processo de vista.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, mantém o voto original",
+     "ts": "3:38:42",
+     "confianca": "media",
+     "justificativa": "sócios que não se entendem trazem disputa bilateral à ANEEL; parecer técnico extrapola a mediação; quem não sabe o valor não paga"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: diverge parcialmente (nulidade parcial do Despacho 1.638)",
+     "ts": "3:00:06",
+     "confianca": "alta",
+     "justificativa": "lei de mediação é taxativa; laudo sigiloso; valor é conhecido das partes e o pagamento deve ocorrer de boa-fé; evitar instrumentalizar a ANEEL em processo judicial"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista de Fernando Mosna (incerto)",
+     "ts": "3:39:00",
+     "confianca": "baixa",
+     "justificativa": "concorda com o sigilo do documento, mas duvida da efetividade da determinação sem valor definido"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "3:39:50",
+   "processo": "48500.001739/2021, 001740/2021, 001741/2021, 001742/2021",
+   "interessado": "Dunamis Projetos de Energia Fotovoltaica SPE — UFVs Dunamis 1 a 4, Santana do Matos (RN) (sustentação oral: Luísa Melcop de Castro Leal Dantas)",
+   "assunto": "Alteração do cronograma de implantação por excludente de responsabilidade (atraso de 105 dias do IDEMA na licença de instalação) e pedido subsidiário sobre pagamento do CUST",
+   "tema": [
+    "outorgas de geração (solar)",
+    "excludente de responsabilidade",
+    "licenciamento ambiental"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "pedido de vista (Hélvio Guerra)",
+   "resumo_voto": "Relator, com área técnica e Procuradoria (Parecer 196/2023), indefere: sem nexo de causalidade entre atraso da LI (emitida 76 dias antes do marco de obras) e o atraso do cronograma; acesso à transmissão é risco do PIE.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, indefere",
+     "ts": "3:49:55",
+     "confianca": "alta",
+     "justificativa": "atraso do órgão ambiental reconhecido, mas sem nexo causal com o atraso do cronograma"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:53:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "3:53:44",
+     "confianca": "media",
+     "justificativa": "dúvida sobre a autorização de supressão vegetal (agosto) e início da supressão (outubro)"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "4:17:31",
+   "processo": "48500.002426/2023-98",
+   "interessado": "consumidores rurais irrigantes e aquicultores (grupo B); distribuidoras; MME (indicação do deputado Ciro Couto) e Assembleia Legislativa da Bahia",
+   "assunto": "Resultado da Consulta Pública 42/2023: alteração dos arts. 207 e 665 da REN 1000/2021 — revisão cadastral de unidades consumidoras com benefício tarifário de irrigação e aquicultura (autodeclaração no 2º ciclo 2024–2026)",
+   "tema": [
+    "CDE e encargos setoriais (subsídios tarifários)",
+    "tarifas",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autodeclaração no 2º ciclo para grupo B, acompanhada de protocolo de licenciamento/outorga; parâmetros de parcelamento da devolução à CDE; republica modelo de autodeclaração; vigência a partir de 2/1/2024.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "4:27:14",
+     "confianca": "alta",
+     "justificativa": "pleito unânime de poder público, consumidores e distribuidoras; dificuldade dos órgãos ambientais estaduais"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "4:28:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "4:28:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "4:29:11",
+   "processo": "48500.000372/2018, 48500.000371/2018-14, 48500.001490/2013-80",
+   "interessado": "Valen Energia Ltda. — EOLs Barro Vermelho, Flor da Terra e Floresta (RN)",
+   "assunto": "Recurso contra o Despacho SCE 2.060/2023, que indeferiu outorgas de autorização por falta de garantia de fiel cumprimento (com perda do desconto na TUST/TUSD)",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "recursos administrativos",
+    "tarifas (desconto TUST/TUSD)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Hélvio Guerra)",
+   "resumo_voto": "Relator dá provimento: REN 1.071/2023 dispensou a garantia de fiel cumprimento; formalismo moderado e razoabilidade; determina à SCE emitir outorgas com desconto TUST/TUSD (95,4 MW, fora do alcance do acórdão do TCU).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento",
+     "ts": "4:32:26",
+     "confianca": "alta",
+     "justificativa": "único documento faltante deixou de ser exigível com a REN 1.071/2023; informalismo moderado"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "4:42:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "4:42:08",
+     "confianca": "media",
+     "justificativa": "concorda com a outorga, mas tem dúvida sobre o desconto, pois a garantia era exigida até 2/3/2022 e só foi dispensada depois"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "4:42:27",
+   "processo": "48500.000631/2023-51",
+   "interessado": "Petrobras — UTE Seropédica (gás natural)",
+   "assunto": "Homologação do CVU da UTE Seropédica a partir de 1/1/2024 pela metodologia da CP 38/2022 (fim do CCEAR em 31/12/2023)",
+   "tema": [
+    "comercialização (CVU, PLD)",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova valores de CVU e montante de geração; CCEE atualiza mensalmente; parcela de custo fixo observa a Portaria MME 64/2023; estrutura de tributação ajustada pela SGM.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "4:44:00",
+     "confianca": "alta",
+     "justificativa": "caso idêntico a outros já aprovados (inclusive no bloco do dia)"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "4:48:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "4:48:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "4:49:14",
+   "processo": "48500.003556/2022 e outros 11 (3561 a 3573, todos de 2022)",
+   "interessado": "Projeto Solar UFV Campina Grande SPE Ltda. — UFVs Campina Grande 1 a 12 (PB), autoprodução",
+   "assunto": "Recurso contra o Despacho SCE 2.686/2023, que indeferiu outorga por falta de informação de acesso e de licença ambiental até 2/3/2022",
+   "tema": [
+    "outorgas de geração (solar)",
+    "recursos administrativos",
+    "tarifas (desconto TUST/TUSD)",
+    "licenciamento ambiental"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: parcial provimento, revoga o Despacho 2.686/2023 e determina nova instrução",
+   "resumo_voto": "Termo de declaração de avenças substitui a informação de acesso (Decreto 10.893/2021, REN 1.038/2022); atraso da licença prévia por culpa da SUDEMA; precedente da UTE Cedro (isonomia e segurança jurídica); Procuradoria (Parecer 346/2023) pelo provimento.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, dá parcial provimento",
+     "ts": "5:00:44",
+     "confianca": "alta",
+     "justificativa": "culpa exclusiva do órgão ambiental; precedente UTE Cedro"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "5:05:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "5:05:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "5:07:01",
+   "processo": "48500.000077/2006-25",
+   "interessado": "Brentech Energia S.A. — UTE Goiânia 2, Aparecida de Goiânia (GO)",
+   "assunto": "Antecipação do fim da vigência da autorização da UTE Goiânia 2 (de 2041 para 1/1/2024), compatível com o fim dos CCEARs",
+   "tema": [
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem óbice; precedente da UTE Muricy; resolução autorizativa anexa.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "5:10:25",
+     "confianca": "alta",
+     "justificativa": "pedido do autorizado é hipótese de revogação prevista na portaria; precedente"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "5:13:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "5:13:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "5:14:12",
+   "processo": "48500.004858/2006-99",
+   "interessado": "Brentech Energia S.A. — UTE Goiânia 2; CCEE; distribuidoras contrapartes",
+   "assunto": "Descumprimento de cláusulas dos CCEARs (indisponibilidade recorrente) da UTE Goiânia 2 — rescisão e multa",
+   "tema": [
+    "fiscalização e sanções (rescisão contratual, multa)",
+    "comercialização (CCEAR)",
+    "outorgas de geração (térmica)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Rescinde os CCEARs por descumprimento da subcláusula 10.1; CCEE calcula multa de 30% da receita fixa remanescente (subcláusula 11.1); distribuidoras cobram; STR reverte à modicidade tarifária. Hélvio Guerra questionou por que só agora e chamou a multa de irrisória (menos de 20 dias até o fim do contrato).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "5:16:00",
+     "confianca": "alta",
+     "justificativa": "usina não entregou a disponibilidade contratada mesmo após plano de melhorias; recusou despachos do ONS desde 2021"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "5:29:52",
+     "confianca": "media",
+     "justificativa": "perguntou se a indisponibilidade foi penalizada mês a mês pela CCEE"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "5:29:55",
+     "confianca": "media",
+     "justificativa": "multa rescisória irrisória; demora da decisão"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "30",
+   "motivo": "a pedido do diretor relator"
+  },
+  {
+   "item": "39",
+   "motivo": "a pedido do diretor relator"
+  }
+ ],
+ "limites_da_analise": [
+  "Votos de quem só acompanha o relator atribuídos pela ordem usual (relator, outro diretor, presidente da sessão por último); confiança media/baixa.",
+  "Não está claro se Sandoval Feitosa votou no item 4: só duas falas de acompanhamento foram ouvidas antes da proclamação; considerado ausente nas votações.",
+  "Item 12: a fala 'eu vou acompanhar o voto do Dr Fernando' e o placar 2 a 2 (provavelmente somando votos de sessão anterior) são confusos na legenda; atribuição de Ricardo Tili ao voto-vista é incerta; quem votou antes da vista não é identificado aqui.",
+  "Itens do bloco aprovados na Parte 1 não estão neste vídeo.",
+  "Números de processos, valores e nomes (Brentech/Braintec, Palazzia, Melcop) vêm da legenda automática e podem estar errados."
+ ]
+}

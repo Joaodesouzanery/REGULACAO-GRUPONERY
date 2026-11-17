@@ -1,0 +1,149 @@
+{
+  "meta": {"video_id": "jU_1Ot1PL-o", "fonte": "legenda automática do YouTube; falantes inferidos pela fala e pela condução da mesa; ts = tempo do vídeo (sessão começa ~0:34); ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27ª Reunião Pública Ordinária de 2023", "data": "2023-08-01", "formato": "presencial (auditório da sede da ANEEL), transmitida pelo YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); a partir de ~7:20 o diretor-geral substituto (nome não claro na legenda), após Sandoval sair para audiência no TCU",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili", "Hélvio Guerra"],
+    "ausentes": ["Gentil Nogueira (não citado na sessão; provavelmente ainda não integrava o colegiado)"],
+    "observacoes": [
+      "Abertura com quórum de quatro diretores; Hélvio Guerra chegou durante os informes, antes do bloco. Agnes chegou ao auditório no início.",
+      "Pauta com 40 itens; itens 8 a 40 em bloco (exceto o 19, destacado para sustentação oral); item 4 retirado de pauta; ordem: bloco, 3, 1, 19, 7, 6, 2, 5.",
+      "Item 3 (RTP Equatorial Pará): sustentações do Governo do Pará, Defensoria Pública, Conselho de Consumidores e do deputado federal Anderson Pinto; houve pedido de vista após o voto do relator.",
+      "Hélvio Guerra estava ausente no início da tarde (item 7 julgado com seu voto de relator já proferido em sessão anterior).",
+      "Sandoval Feitosa deixou a sessão antes dos itens 2 e 5 (audiência com o ministro Anastasia no TCU sobre o leilão 2/2022); esses itens foram decididos por unanimidade dos presentes.",
+      "Resumo do secretário: 40 processos, 33 em bloco, 2 retirados de pauta, 1 pedido de vista e 1 pedido de prorrogação de vista."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 8 a 40, exceto 19)", "ts": "0:47:39",
+      "processo": "diversos (33 processos em bloco)", "interessado": "diversos; item 12: Enel Distribuição Goiás / Equatorial Goiás",
+      "assunto": "Itens de bloco com votos previamente publicados; registro de que o voto do item 12 (recurso da Enel Distribuição Goiás, hoje Equatorial Goiás, sobre devolução em dobro) foi alterado após a publicação para perda de objeto, porque a empresa comprovou o pagamento",
+      "tema": ["diversos", "recursos administrativos", "distribuição"],
+      "relator": "diversos (item 12: Hélvio Guerra)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado por unanimidade; item 12 mantido no bloco com ressalva de que o voto foi atualizado após o prazo regimental de disponibilização.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (relator do item 12, informa alteração do voto para perda de objeto)", "ts": "0:47:39", "justificativa": "a Equatorial confirmou que já tinha feito o pagamento, o recurso perdeu o objeto", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:50:12", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "0:50:12", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:50:12", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:50:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:50:50",
+      "processo": "48500.006886/2022-12 e 48500.001274/2023-14", "interessado": "Equatorial Pará Distribuidora de Energia S.A.; sustentações: Governo do Estado do Pará (procurador Rafael Rolo), Defensoria Pública do Pará (Cássio Bitar Vasconcelos), Conselho de Consumidores (Carlindo Lins Pereira Filho), deputado federal Anderson Pinto",
+      "assunto": "Resultado da 5ª revisão tarifária periódica da Equatorial Pará a partir de 7/8/2023 (efeito médio 15,57%; AT 11,91%; BT 16,48%; residencial 16,23%) e limites DEC/FEC 2024-2027, após a Consulta Pública 14/2023",
+      "tema": ["tarifas e revisão tarifária (RTP)", "perdas não técnicas", "distribuição e qualidade (DEC/FEC)", "CDE e encargos setoriais", "participação social"],
+      "relator": "Fernando Mosna", "resultado": "pedido de vista (julgamento não concluído)",
+      "resumo_voto": "Relator vota pela RTP com efeito médio de 15,57%, com análise complementar do item 32 do submódulo 2.6 (expurgo de 2020) que reduziu perdas não técnicas de 36,14% para 33,73%, e trajetória linear de redução de 0,58% ao ano até 32% em 2026; rejeitou retirar de pauta. Após debates, foi pedida vista.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova a RTP com trajetória de redução de perdas não técnicas", "ts": "2:26:54", "justificativa": "não fica feliz com a majoração de ~15%, mas a metodologia e o contrato não deixam discricionariedade; divulgação das duas audiências em Belém foi adequada; propõe degraus de 0,58% ao ano nas perdas não técnicas até 32%", "tom": "defensivo quanto à participação social, sensível ao impacto tarifário", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista); manifestou-se no debate", "ts": "2:26:57", "justificativa": "agência tem pouca discricionariedade; a Lei 13.360/2016 equalizou o rateio da CDE entre regiões e reduziu a parcela da alta tensão, gerando distorção; tema para o Congresso", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (vista); manifestou-se no debate", "ts": "2:31:25", "justificativa": "questionou o uso da EDP Espírito Santo como benchmark de perdas não técnicas; elogiou o escalonamento proposto; lembrou que em áreas onde nem a polícia entra a distribuidora não pode ser responsabilizada pelo furto", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (vista); manifestou-se no debate", "ts": "2:49:19", "justificativa": "metodologia sempre passível de aprimoramento; elogiou a proposta do relator; temas como data de aniversário, indexador e lucros cabem na prorrogação dos contratos; CDE e incentivos legais não olham justiça tarifária; defendeu o rito de participação", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "3:11:08", "justificativa": "após longa manifestação (Pará passará a ter a maior tarifa do país; custos financeiros devolvidos de uma vez; necessidade de intervenção legislativa sobre CDE; perdas não técnicas como «espiral do desespero»), solicitou vista para maior avaliação dos aspectos discutidos", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "3:12:46",
+      "processo": "48500.000529/2023-13", "interessado": "Secretaria de Leilões / SCE; transmissoras e empreendedores do Leilão de Transmissão 2/2023",
+      "assunto": "Aprovação do edital do Leilão de Transmissão 2/2023 (bipolo HVDC Graça Aranha (MA)–Silvânia (GO) e linhas em 500 kV; 3 lotes, lote 1 dividido em 4 sublotes; ~R$ 21,7 bilhões; MA, PI, TO, GO, MG, SP), após a Consulta Pública 8/2023, e envio ao TCU",
+      "tema": ["leilões de transmissão", "transmissão (RAP, outorgas)", "regulação normativa"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova minuta do edital e RAPs; divisão do lote 1 em sublotes para ampliar competição (apenas quatro fabricantes de conversoras HVDC no mundo); envio ao TCU (IN 81/2018); visitas técnicas até 1/12/2023. Debate sobre a dinâmica dos cinco envelopes esclarecido pela área técnica.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "3:28:20", "justificativa": "abrir o lote 1 em sublotes aumenta a concorrência e força desconto maior no lote único em benefício do consumidor", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "3:50:07", "justificativa": "no debate pediu esclarecimentos sobre a comparação entre lote integral e sublotes", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "3:50:07", "justificativa": "no debate pediu esclarecimento sobre a escolha entre lote integral e sublotes", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:50:07", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:50:20", "justificativa": "leilão escoará energia renovável do Nordeste e do norte de Minas; ~R$ 22 bi e 37 mil empregos; postergação para dezembro pedida em ofício conjunto com o relator", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "19", "ts": "3:51:41",
+      "processo": "48500.005272/2019-18 e outros", "interessado": "Oxy Participações S.A. (sustentação oral: Marcos Vinícius Vita Ferreira); UTEs a biomassa em Roraima (Santa Luz, Pau Rainha, Cantá, Bonfim, Jaciara, conforme legenda)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3.225/2021 (excludente de responsabilidade e alteração de cronograma de UTEs em Roraima) e novos requerimentos de excludentes (pandemia, fornecedor, licença ambiental / fato do príncipe)",
+      "tema": ["outorgas de geração (térmica)", "recursos administrativos", "excludente de responsabilidade"],
+      "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator para consulta à Procuradoria",
+      "resumo_voto": "Após sustentação oral alegando fatos novos sem parecer da Procuradoria, o relator retirou o processo de pauta (pela terceira vez) para consultar a Procuradoria.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "retira de pauta", "ts": "4:02:59", "justificativa": "embora confortável com o voto original, diante da sustentação e das ponderações vai consultar a Procuradoria", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "6:05:13",
+      "processo": "48500.002763/2023-85", "interessado": "Centrais Elétricas Itaparica S.A. (em recuperação judicial; grupo Renova); ONS; UFV Caetité 5A",
+      "assunto": "Pedido de medida cautelar para suspender a cobrança de multa de encargos rescisórios do CUST 110/2015 da UFV Caetité pelo ONS (retorno de voto-vista)",
+      "tema": ["transmissão (CUST, encargos rescisórios)", "recursos administrativos / cautelar", "outorgas de geração (solar)"],
+      "relator": "Hélvio Guerra", "resultado": "cautelar negada por unanimidade",
+      "resumo_voto": "Voto-vista lido pelo Diretor-Geral acompanha o relator: ausente o fumus boni iuris; CP 15/2023 e REN 1.065/2023 não estenderam a anistia a CUST já rescindidos; multa tem base no item 4.3.11 do módulo 5 e no CUST, sem exigir dano; autos à área técnica para o mérito.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, nega a cautelar (voto proferido na 20ª RPO; ausente na leitura do voto-vista)", "ts": "6:05:48", "justificativa": "não há fumaça do bom direito: o CUST já estava rescindido e o empreendimento registrado equipara-se ao outorgado", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto-vista: acompanha o relator", "ts": "6:18:22", "justificativa": "cautelares protegem direito, não expectativa; a CP 15/2023 não gerou direito; multa por rescisão do CUST não pressupõe dano", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "mantém o voto, acompanha o relator", "ts": "6:19:28", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "mantém o voto, acompanha o relator", "ts": "6:19:28", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator e o voto-vista", "ts": "6:19:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "6:20:43",
+      "processo": "48500.009357/2022-62", "interessado": "Cooperativa de Distribuição e Geração de Energia das Missões (Cermissões); Exponencial Energia Ltda.",
+      "assunto": "Recurso contra o Despacho 3.681/2022 (SRM) que não aprovou o contrato de compra de energia (CCVE 1/2022) celebrado após chamada pública de dezembro de 2022 (retorno de voto-vista)",
+      "tema": ["comercialização (contratos, PLD, lastro)", "recursos administrativos", "permissionárias / cooperativas"],
+      "relator": "Agnes da Costa", "resultado": "parcial provimento por maioria (3 x 2): não aprovar o contrato e não aplicar a penalidade por insuficiência de lastro",
+      "resumo_voto": "Voto-vista de Hélvio propôs aprovar o contrato com glosa tarifária ao PLD de dezembro/2022 (cooperativa arcaria com a diferença); Ricardo Tili defendeu aprovar o contrato integralmente; a relatora reformulou para não aprovar o contrato e afastar a penalidade de lastro (~R$ 5 milhões); prevaleceu a relatora.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, parcial provimento: não aprova o contrato e afasta a penalidade por insuficiência de lastro", "ts": "7:17:50", "justificativa": "a contratação foi retroativa, quando o PLD já era conhecido; a permissionária atende consumidores regulados e deve contratar com antecedência; arranjo do voto-vista beneficiaria a comercializadora, não o consumidor-cooperado; termo de compromisso seria frágil", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "7:17:55", "justificativa": "foco na relação cooperativa-consumidor; arranjo do voto-vista favoreceria a comercializadora", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "diverge: aprova o contrato integralmente (vencido)", "ts": "7:18:04", "justificativa": "a permissionária não tinha alternativa e podia registrar o contrato até o 6º dia útil; área nebulosa não justifica penalidade de R$ 5 milhões; preço abaixo da tarifa da supridora", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista: aprova o contrato com glosa ao PLD (vencido)", "ts": "6:48:32", "justificativa": "não aprovar oneraria o próprio consumidor, que é cooperado em 83%; cooperativa se comprometeu a arcar com a diferença de preço", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama por maioria", "ts": "7:18:17", "justificativa": "permissionária atende consumidores regulados e está submetida às regras de compra do mercado regulado", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "7:20:25",
+      "processo": "48500.006850/2022-21", "interessado": "EDP Espírito Santo Distribuição de Energia S.A.",
+      "assunto": "Reajuste tarifário anual 2023 da EDP Espírito Santo a partir de 7/8/2023 (efeito médio 3,55%; AT 0,46%; BT 4,80%)",
+      "tema": ["tarifas e reajuste tarifário (RTA)", "CDE e encargos setoriais"],
+      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Homologa as novas tarifas, TUSD, receita das DIT de uso exclusivo e repasse mensal da CDE; Procuradoria favorável.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "7:32:30", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "7:33:03", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "7:33:03", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "7:33:03", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "ausente (saiu para audiência no TCU)", "ts": "7:19:59", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "7:34:05",
+      "processo": "48500.000417/2019-86", "interessado": "Amazonas Energia S.A.",
+      "assunto": "Requerimento para alterar a data da primeira revisão tarifária ordinária do contrato de concessão 1/2019 (pedido de 1/11/2023 para 2024)",
+      "tema": ["tarifas e revisão tarifária", "contrato de concessão (distribuição)", "requerimento administrativo"],
+      "relator": "Hélvio Guerra (inferido)", "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Aprova termo aditivo para refletir a Nota Informativa 46/2018 do MME: aniversário 45 dias após a assinatura; sem processo ordinário em 2023; primeira revisão ordinária em 26/5/2024 e reajustes em 26/5 a partir de 2025; acompanha despacho 1.017/2023 do Procurador-Geral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova termo aditivo", "ts": "7:51:22", "justificativa": "concessionária faz jus a cinco anos de flexibilização; contrato da Equatorial Alagoas, também sem deságio, seguiu a nota informativa", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "7:52:09", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "7:52:09", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "7:52:09", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "ausente (saiu para audiência no TCU)", "ts": "7:19:59", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "4", "motivo": "retirado de pauta antes da sessão (anunciado pelo secretário-geral); assunto não lido"},
+    {"id": "19", "motivo": "retirado pelo relator Hélvio Guerra após sustentação oral, para ouvir a Procuradoria"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes de pessoas e empresas (Oxy/Oxi Participações, Cermissões, Exponencial, UTEs de Roraima) e números podem estar errados.",
+    "O cabeçalho do .md lista Gentil Nogueira, mas ele não é citado na sessão; não foi incluído como presente.",
+    "Item 3: o pedido de vista vem logo após a fala do Diretor-Geral, sem nome explícito; atribuído a Sandoval Feitosa (confiança media).",
+    "Item 7: o voto-vista é lido por quem preside (inferido Sandoval Feitosa, já que Agnes, Fernando e Ricardo são citados como votantes e Hélvio é o relator).",
+    "Item 6: a proclamação foi confusa («não temos decisão... perfeito») antes de declarar maioria; atribuição de Hélvio e Ricardo como vencidos baseada nas falas do debate.",
+    "Item 5: relator não nomeado na legenda; inferido Hélvio Guerra pela fala do DG de que Hélvio era relator de dois itens restantes.",
+    "Itens 2 e 5: presidência pelo diretor-geral substituto, nome não identificado; votos individuais dos acompanhantes não distinguíveis.",
+    "Bloco: votos individuais não ouvidos; registrados pela proclamação de unanimidade."
+  ]
+}

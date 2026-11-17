@@ -1,0 +1,251 @@
+{
+ "meta": {
+  "video_id": "iWDxNN1CNPk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17ª Reunião Pública Ordinária de 2023",
+  "data": "2023-05-23",
+  "formato": "presencial (com transmissão no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Agnes da Costa",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores; presença do deputado federal Wellington Prado (MG).",
+   "Pauta com 31 itens; itens 4 a 31 em bloco; retirados de pauta 7, 15, 18 e 26.",
+   "Ordem: bloco, item 2 (Cemig D, com sustentações orais), item 1 (Equatorial Alagoas), item 3 (Elektro).",
+   "Ata da 16ª RPO aprovada.",
+   "No item 2 o diretor Hélvio Guerra disse que gostaria de pedir vista, mas não pediu para não deixar a Cemig sem tarifa; houve troca de posições entre Hélvio Guerra e Ricardo Tili sobre transparência e retirada de financeiros."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:16:26",
+   "processo": "itens 4 a 31 (exceto 7, 15, 18, 26)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos e atos publicados previamente): segundo o resumo final, recursos administrativos/pedidos de reconsideração, pedido de efeito suspensivo, declarações de utilidade pública, prorrogações de vista, entre outros",
+   "tema": [
+    "bloco",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado sem discussão.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (aprova o bloco)",
+     "ts": "0:16:32",
+     "justificativa": "Aprovação dos itens do bloco pela proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha (aprova o bloco)",
+     "ts": "0:16:32",
+     "justificativa": "Aprovação dos itens do bloco pela proclamação unânime; fala individual 'eu aprovo bloco' sem nome.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (aprova o bloco)",
+     "ts": "0:16:32",
+     "justificativa": "Aprovação pela proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha (aprova o bloco)",
+     "ts": "0:16:32",
+     "justificativa": "Aprovação pela proclamação unânime.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:16:35",
+     "justificativa": "Também aprovo os itens remanescentes da pauta do bloco; proclama unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:16:50",
+   "processo": "48500.006874/2022-80 e 48500.009381/2022",
+   "interessado": "Cemig Distribuição S.A. (distribuidora, MG); sustentações: dep. federal Wellington Prado, Eric (Conselho de Consumidores da Cemig D), vereadores Cleiton Dias da Silva e Ane Rose Vieira Freitas (Prata), Vitória Nogueira Dias (Coromandel), Osanan de Oliveira Macedo (Prata), Cairo Eduardo Rezende Borges (Nova Ponte), Jefferson de Oliveira (João Pinheiro)",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Cemig D a partir de 28/05/2023 e limites DEC/FEC 2024-2028, após CP 6/2023",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "distribuição e qualidade (DEC/FEC)",
+    "geração distribuída (MMGD)",
+    "créditos de PIS/Cofins"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (efeito médio 13,27%); unanimidade não declarada expressamente na proclamação, sem divergência registrada",
+   "resumo_voto": "Homologa RTP da Cemig D com efeito médio de 13,27% (AT 8,94%, BT 15,55%), devolve o saldo final de PIS/Cofins, fixa perdas, fator X componente T 0,18% e limites DEC/FEC 2024-2028.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:27:56",
+     "justificativa": "Aprova a 5ª RTP da Cemig D: efeito médio 13,27% (8,94% AT; 15,55% BT); esgota o saldo de créditos de PIS/Cofins (cerca de R$ 1,266 bi) nesta revisão; documentos do processo são públicos (Ofício 96 entregue ao Conselho de Consumidores); anuncia fiscalização da continuidade da Cemig em junho.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (com ressalvas)",
+     "ts": "2:08:08",
+     "justificativa": "Questionou a retirada de financeiros (~10%) e os indicadores DEC/FEC; disse que gostaria de pedir vista mas não o faria para não deixar a Cemig sem tarifa a partir de 28/05; colocou-se à disposição para eventual pedido de reconsideração.",
+     "confianca": "baixa",
+     "tom": "preocupado"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:08",
+     "justificativa": "Sugeriu manter na apresentação o resumo dos componentes financeiros e pediu inclusão do município de Espanha (MG) na fiscalização; argumentou que o efeito prático decorre da retirada dos financeiros do ano anterior (10%).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:08",
+     "justificativa": "Destacou a importância de os consumidores registrarem reclamações na concessionária e na ouvidoria; sobre o pleito do Conselho de Consumidores, orientou recurso com plano de aplicação dos recursos.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:08:10",
+     "justificativa": "Questões sociais devem ser tratadas por políticas públicas do Congresso/Executivo; a ANEEL não tem discricionariedade para tarifa por condição social; corte de luz em fim de semana é proibido; incentiva registro de reclamações e pedidos de indenização por danos elétricos.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:09:08",
+   "processo": "48500.006854/2022-17",
+   "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2023 da Equatorial Alagoas",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa tarifas a partir de 28/05/2023, efeito médio 17,59% (AT 24,19%, BT 15,05%).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:26:20",
+     "justificativa": "Homologa RTA 2023 da Equatorial Alagoas: efeito médio 17,59% (24,19% AT; 15,05% BT), com ajuste de parcela B associado à MMGD seguindo os reajustes do ano.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:27:02",
+     "justificativa": "Proclamação por unanimidade; 'eu acompanho o voto do relator' sem nome identificado.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:27:02",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:27:02",
+     "justificativa": "Proclamação por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:27:05",
+     "justificativa": "Acompanha e proclama por unanimidade.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:27:40",
+   "processo": "48500.006879/2022-11 e 48500.001752/2023-88",
+   "interessado": "Elektro Redes S.A. (distribuidora, SP)",
+   "assunto": "Abertura de consulta pública sobre a RTP 2023 da Elektro (vigência 27/08/2023) e limites DEC/FEC 2024-2027",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "regulação normativa (consulta/audiência pública)",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado (consulta pública instaurada); sem divergência registrada",
+   "resumo_voto": "Consulta pública de 25/05 a 10/07/2023 com audiência presencial em Rio Claro (SP) em 07/06/2023.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:43:30",
+     "justificativa": "Abre consulta pública de 25/05 a 10/07/2023, com audiência presencial em 07/06 em Rio Claro (SP), sobre a RTP 2023 da Elektro Redes (efeito médio preliminar 7,94%) e limites DEC/FEC 2024-2027.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:23",
+     "justificativa": "Proclamação sem divergência registrada; fala individual não ouvida na legenda.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:23",
+     "justificativa": "Proclamação sem divergência registrada; fala individual não ouvida.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:44:23",
+     "justificativa": "Proclamação sem divergência registrada; fala individual não ouvida.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:44:23",
+     "justificativa": "Também acompanho a proposta de voto do eminente relator e proclama a instauração da consulta pública.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "7",
+  "15",
+  "18",
+  "26"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de sustentantes e números de processo podem estar errados (ex.: 'Eric Nilson solto', 'os anão' = Osanan).",
+  "Falas 'eu aprovo bloco' e 'eu acompanho o relator' sem identificação de falante; votos dos não relatores atribuídos pela proclamação, com confiança baixa/média.",
+  "Nos itens 2 e 3 o Diretor-Geral não disse 'por unanimidade' na proclamação; não há registro de divergência, por isso todos foram registrados como acompanhando.",
+  "Conteúdo individual dos 24 itens do bloco não é lido na sessão.",
+  "ts dos votos de seguidores aproximados."
+ ]
+}

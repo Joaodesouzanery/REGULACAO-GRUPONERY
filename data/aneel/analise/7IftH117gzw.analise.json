@@ -1,0 +1,256 @@
+{
+ "meta": {
+  "video_id": "7IftH117gzw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32ª Reunião Pública Ordinária de 2023",
+  "data": "2023-09-06",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Agnes da Costa",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [
+   "Ricardo Tili"
+  ],
+  "observacoes": [
+   "Ricardo Tili ausente por problema pessoal; Hélvio Guerra se juntou durante a reunião.",
+   "Pauta de 30 itens; bloco 8 a 30; item 5 retirado; itens 4, 6 e 7 retirados a pedido do relator.",
+   "Encerramento fala em 31ª reunião (lapso; abertura diz 32ª)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:15",
+   "processo": "itens 8 a 30 da pauta (bloco)",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (8 a 30), com votos disponibilizados previamente; aprovados em conjunto",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretor-Geral submete o bloco e proclama aprovação unânime.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova; proclama unanimidade",
+     "ts": "0:08:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:08:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:08:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:47",
+   "processo": "48500.007497/2022-04",
+   "interessado": "Cetep (lote 1) e Rialma Administração e Participações (lote 8); Consórcio Gênesis inabilitado",
+   "assunto": "Homologação do resultado e adjudicação dos lotes 1 e 8 do Leilão de Transmissão 1/2023 aos segundos colocados após inabilitação do Consórcio Gênesis",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Procuradoria (nota jurídica 48/2023) atesta regularidade da convocação dos demais proponentes pelo valor do próprio lance (item 10.18 do edital), exigindo justificativa de interesse público; relator registra necessidade imediata das instalações (lote 1: escoamento de renováveis no Nordeste/MG/ES; lote 8: confiabilidade da região metropolitana do Recife). Debate sobre a disputa viva-voz da Rialma com a Gênesis: um diretor (Hélvio, pela referência do relator) disse que a disputa foi contra proposta sem condições; o relator defendeu a legalidade do certame e aperfeiçoamentos no edital do Leilão 1/2024.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova homologação e adjudicação",
+     "ts": "0:27:40",
+     "confianca": "alta",
+     "justificativa": "item 10.18 do edital e nota da Procuradoria; necessidade imediata dos lotes; defende que o procedimento foi técnico e legal e que melhorias vão para o próximo edital"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:28:33",
+     "confianca": "baixa",
+     "justificativa": "perguntou o deságio e observou que a Rialma disputou viva-voz com proposta que se mostrou sem condições técnicas e financeiras; fala de voto não ouvida; presença inferida (relator cita pergunta do diretor Élvio)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:28:33",
+     "confianca": "media",
+     "justificativa": "deságio médio de 41% nos lotes; aprendizado institucional e aperfeiçoamento do edital em consulta pública"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama unanimidade dos presentes",
+     "ts": "0:28:36",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:29:29",
+   "processo": "48500.006877/2022-13 e 48500.003600/2023-10",
+   "interessado": "Energisa Acre Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública (6/09 a 20/10/2023, audiência em Rio Branco em 5/10) sobre a revisão tarifária periódica da Energisa Acre a vigorar em 13/12/2023 (efeito médio provisório 22,07%) e limites DEC/FEC 2024-2028",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica da STR (servidor Leonardo). Relator rejeita pedido da Energisa de retirada gradual da flexibilização de custos operacionais: regra contratual e de edital prevalece. Diretor-Geral comenta impacto tarifário elevado na Região Norte e necessidade de medidas legislativas.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, abre consulta pública",
+     "ts": "0:51:41",
+     "confianca": "alta",
+     "justificativa": "não se pode ignorar a regra contratual do edital; retirada da flexibilização deve ser imediata, como foi sua inclusão"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:56:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:56:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:56:49",
+     "confianca": "alta",
+     "justificativa": "tarifas do Norte pressionadas por investimentos; tarifa do Acre passaria de 18ª a 3ª maior; defende medidas legislativas e de governo"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:57:49",
+   "processo": "48500.006880/2022-01 e 48500.003296/2023-19",
+   "interessado": "Energisa Rondônia Distribuidora de Energia S.A.",
+   "assunto": "Abertura de consulta pública (6/09 a 20/10/2023, audiência em Porto Velho em 11/10) sobre a revisão tarifária periódica da Energisa Rondônia a vigorar em 13/12/2023 (efeito médio provisório 16,18%) e limites DEC/FEC 2024-2028",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Apresentação técnica da STR (servidor Gustavo Godoy Lima). Diretor-Geral comenta que Rondônia tem a menor tarifa da Região Norte e segue na agenda de desoneração.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, abre consulta pública",
+     "ts": "1:13:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama unanimidade dos presentes",
+     "ts": "1:15:58",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:16:54",
+   "processo": "48500.003381/2018-10",
+   "interessado": "CGT Eletrosul (Eletrobras); UTE Candiota 3 e UTE Presidente Médici",
+   "assunto": "Recurso administrativo contra o Despacho 2.616/2020 (reprocessamento do reembolso CDE-carvão 2011-2017, devolução de cerca de 121 milhões, estoques históricos de carvão)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: conhecido e parcialmente provido (prazo de ressarcimento de 36 meses e estoques recalculados); revogado o Despacho 295/2021",
+   "resumo_voto": "Sustentação oral de Elise Calixto (CGT Eletrosul): manutenção da sistemática CCC da Lei 9.648 com transição e metodologia de estoque. Procuradoria (Eduardo) sustenta revogação pela Lei 10.438 e inexistência de direito adquirido a regime jurídico. Relator mantém a devolução (item 1) e altera itens 2 a 4.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:38:54",
+     "confianca": "alta",
+     "justificativa": "Candiota 3 enquadrada na Lei 10.438/2002, sem regime híbrido CCC/CDE, conforme a Procuradoria; mantém valor do ressarcimento"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:41:49",
+     "confianca": "media",
+     "justificativa": "leitura da Procuradoria coerente: mudança de paradigma para exigir eficiência no uso dos recursos"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:41:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:41:53",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5",
+   "motivo": "retirado de pauta (anunciado na abertura)"
+  },
+  {
+   "id": "4",
+   "motivo": "retirado a pedido do relator"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado a pedido do relator"
+  },
+  {
+   "id": "7",
+   "motivo": "retirado a pedido do relator"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda, aproximados.",
+  "Bloco: Hélvio Guerra provavelmente ainda não presente; votos registrados só para os 3 presentes na abertura.",
+  "Itens 1 e 3: só uma fala «acompanho» antes do Diretor-Geral; o voto do quarto diretor é inferido da proclamação; atribuição das falas por ordem (confiança baixa).",
+  "Item 1: falante da crítica à disputa viva-voz inferido como Hélvio pela menção do relator; incerto.",
+  "Número do processo do item 3 incompleto na legenda (48.500688 2022 01).",
+  "Item 11: a mesa chama 'diretor Agnes' de relatora de passagem, mas o relator é Hélvio Guerra."
+ ]
+}

@@ -1,0 +1,505 @@
+{
+ "meta": {
+  "video_id": "8WzuKd5URZQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "27ª Reunião Pública Ordinária de 2022",
+  "data": "2022-07-26",
+  "formato": "presencial (transmissão)",
+  "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta; nome fora da lista do config)",
+  "diretores_presentes": [
+   "Camila Bomfim (fora da lista do config)",
+   "Efraim Cruz (fora da lista do config)",
+   "Hélvio Guerra",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 31 itens; itens 10 a 31 em bloco, item 12 destacado; ordem: bloco, 1, 2, 3, 5, 4, 6, 7, 8, 9, 12.",
+   "Ata da 26ª RPO aprovada.",
+   "Item 5 por maioria (vencido Hélvio Guerra); item 7 por maioria nos termos do voto-vista de Hélvio Guerra, vencido o relator Sandoval Feitosa; item 8 com pedido de vista de Efraim Cruz.",
+   "Presidência prorrogou por 30 dias (até 28/08) a consulta pública sobre intensificação do sinal locacional."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:18",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens 10 a 31 da pauta (bloco), exceto o item 12 (destacado)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Votos disponibilizados previamente na internet; aprovados em bloco.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:06:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "aprova o bloco",
+     "ts": "0:06:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:06:29",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:06:43",
+   "processo": "48500.003852/2022-76 (número pela legenda)",
+   "interessado": "SCT/CEL; sustentação oral da ISA CTEEP (Márcio Pina e Thiago Barros Correia)",
+   "assunto": "Aprovação da minuta do edital do Leilão de Transmissão nº 2/2022 (6 lotes, ES, MA, MG, PA, RJ, RS, RO, SP) após a Consulta Pública 24/2022 e envio ao TCU; inclui lote 6 (subestação Centro, SP, hoje da CTEEP) e lote 5 (conversoras de Garabi)",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas, reforços)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a minuta do edital (leilão previsto para 16/12/2022 na B3), encaminha ao TCU (IN 81/2018) e determina visitas às instalações até 25/11/2022. Relator mantém o lote 6 (SE Centro) apesar da sustentação da CTEEP (redução compulsória do contrato, indenização, lucros cessantes, deságio de 75% necessário), pois retirar depois é possível e incluir não; pede à SCT que avalie os argumentos nos 90 dias do TCU. Investimento ~R$ 3,2 bi, RAP ~R$ 570 mi.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:48:55",
+     "confianca": "alta",
+     "justificativa": "competição é a regra de ouro das licitações (casos Porto Alegre 4 e Santo Antônio); mantém o lote da SE Centro, que pode ser retirado após análise no prazo do TCU"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:59:16",
+     "confianca": "media",
+     "justificativa": "pondera que é primordial definir o valor da indenização ao atual concessionário nos 90 dias, decisivo para saber se o lote é vantajoso ao consumidor"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "0:59:20",
+     "confianca": "baixa",
+     "justificativa": "comentou que um deságio de 75% seria inédito e que, se as indenizações anularem o ganho, a casa deve refletir sobre a vantajosidade para o consumidor"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:59:25",
+     "confianca": "media",
+     "justificativa": "leilão tem se revelado a melhor forma de achar vantajosidade; no último leilão houve lote com 60% de deságio"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:00:44",
+   "processo": "48500.006023/2022-37 (pela legenda)",
+   "interessado": "Energisa Mato Grosso do Sul (EMS); sustentação oral de Rosimeire Cecília da Costa (Conselho de Consumidores de MS)",
+   "assunto": "Revisão tarifária extraordinária 2022 da Energisa MS em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins sobre ICMS)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTE)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -1,30% (AT -1,27%, BT -1,31%) a partir de 27/07/2022. Pedido do conselho de consumidores para incluir também recursos da desestatização da Eletrobras negado por falta de previsão na Lei 14.385 (RTE é exclusiva para créditos de PIS/Cofins).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:25:55",
+     "confianca": "alta",
+     "justificativa": "Lei 14.385 determina RTE exclusivamente para os créditos de PIS/Cofins; recursos da Eletrobras serão repassados no momento próprio"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:26:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:28:01",
+   "processo": "48500.006027/2022-15 (pela legenda)",
+   "interessado": "Energisa Mato Grosso (EMT)",
+   "assunto": "Revisão tarifária extraordinária 2022 da Energisa MT em função da Lei 14.385/2022 (créditos de PIS/Cofins)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTE)"
+   ],
+   "relator": "Ricardo Tili (leu o voto; relatoria original incerta na legenda)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de -1,38% (AT -1,33%, BT -1,40%) a partir de 27/07/2022; com isso já são 12 RTEs da Lei 14.385 (pendentes Sete Lagoas e Light por liminares).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:28:11",
+     "confianca": "alta",
+     "justificativa": "matéria idêntica à da EMS; cumprimento do dispositivo legal"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:31:13",
+   "processo": "48500.006256/2019-34 (pela legenda)",
+   "interessado": "distribuidoras com mercado inferior a 700 GWh/ano e permissionárias; sustentação oral de Miguel Gustavo Junqueira Franco (DME Distribuição, Poços de Caldas)",
+   "assunto": "Resultado da Consulta Pública 75/2021: alocação das cotas de garantia física de Angra 1 e 2 e de Itaipu para distribuidoras com mercado inferior a 700 GWh/ano e componente financeiro para permissionárias agentes da CCEE",
+   "tema": [
+    "regulação normativa (resolução, consulta pública)",
+    "comercialização (CCEE, cotas)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por maioria, vencido Hélvio Guerra",
+   "resumo_voto": "Aprova REN que ajusta as cotas ao mercado atual das pequenas distribuidoras e institui financeiro de energia para permissionárias no mercado livre. Não acata o pleito da DME de descontar a geração própria do mercado na alocação de cotas: geração própria é tratada como contrato/recurso para atender o mercado. Hélvio diverge: geração própria dentro da mesma pessoa jurídica não é contrato e a DME teria razão.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:57:05",
+     "confianca": "alta",
+     "justificativa": "mercado cativo precisa ser delimitado; geração própria é recurso precificado como contrato e não pode ser abatida da carga"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "diverge (vencido; voto em separado)",
+     "ts": "2:26:09",
+     "confianca": "alta",
+     "justificativa": "a geração própria é da própria distribuidora, sem contrato; a lei permite que distribuidoras pequenas a mantenham; entende que a DME tem razão"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o relator",
+     "ts": "2:26:18",
+     "confianca": "media",
+     "justificativa": "escolha regulatória; reconhece ser opção sem certo ou errado, privilegiando a regra de menor impacto global"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:26:36",
+     "confianca": "media",
+     "justificativa": "para fins tarifários não há diferença entre geração própria e outros contratos; é recurso para atender o mercado"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:27:00",
+   "processo": "48500.004968/2021-33 (pela legenda)",
+   "interessado": "15 permissionárias com aniversário em 30/07 (Ceral, Ceriluz, Cerís, Cermissões, Cerne, Certaja, Certel, Cooperluz, Creluz, Coprel, Cefox, Certhil, Castro, Eletro etc., grafias pela legenda)",
+   "assunto": "Homologação das tarifas (TE e TUSD) das permissionárias com aniversário em 30/07/2022",
+   "tema": [
+    "tarifas e revisão tarifária (permissionárias)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efraim Cruz (fora da lista do config)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova efeitos médios da tabela do voto (maior Creluz ~25%, menor Cooperluz), fixa tarifas de suprimento, cotas de CDE e Proinfa e determina fiscalização da destinação dos créditos de PIS/Cofins da Certel (Lei 14.385).",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "2:36:09",
+     "confianca": "alta",
+     "justificativa": "cálculos da SGT conforme Proret módulo 8"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:38:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:38:44",
+   "processo": "48500.005032/2022-87 e 48500.003434/2022-71 (pela legenda)",
+   "interessado": "SRG",
+   "assunto": "Resultado da Consulta Pública 17/2022: consolidação dos atos normativos sobre produção e comercialização de energia elétrica (Decreto 10.139/2019)",
+   "tema": [
+    "regulação normativa (consolidação de atos)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consolidação sem alteração de mérito; 5 contribuições (3 aceitas: EDP e Chesf; 2 não aceitas: Neoenergia e Chesf).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:45:53",
+     "confianca": "alta",
+     "justificativa": "consolidação apenas formal, sem mérito"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:46:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:46:23",
+   "processo": "48500.004875/2020-28 (pela legenda)",
+   "interessado": "Furnas Centrais Elétricas; sustentação oral de José Alves (Furnas)",
+   "assunto": "Recurso administrativo de Furnas contra o Auto de Infração 6/2022 da SFE (multa de ~R$ 26,5 mi) por descumprimento do plano de resultados da LT 230 kV Itumbiara–Rio Verde (9 desligamentos contra meta de 8) — voto-vista",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa (voto-vista de Hélvio Guerra)",
+   "resultado": "por maioria, nos termos do voto-vista de Hélvio Guerra: recurso não conhecido por intempestivo, multa mantida; vencido o relator Sandoval Feitosa",
+   "resumo_voto": "Relator (18ª RPO) votara por não conhecer mas, de ofício, dar parcial provimento, contando as duas descargas atmosféricas (16 min) como um desligamento e reduzindo a multa a ~R$ 5,8 mi. Voto-vista: recurso protocolado em 9/2 após prazo de 7/2; duas descargas são dois desligamentos (ONS os contou assim); plano de resultados precisa de critérios objetivos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "vencido (voto proferido em sessão anterior; ausente, em férias)",
+     "ts": "2:46:23",
+     "confianca": "media",
+     "justificativa": "contar os dois desligamentos de 25/09/2019 como um só; Furnas atingiu a meta; fiscalização responsiva atingiu o objetivo"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista vencedor: não conhece por intempestivo e mantém a multa",
+     "ts": "3:11:06",
+     "confianca": "alta",
+     "justificativa": "tempestividade é requisito essencial; no mérito, duas descargas em 16 min são dois eventos; descumprimento do plano gera processo, não multa imediata"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (sucessor de diretor que já votou, conforme o estatuto)",
+     "ts": "3:14:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "acompanha o voto-vista",
+     "ts": "3:14:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "3:14:37",
+     "confianca": "media",
+     "justificativa": "plano de resultado precisa ser crível e objetivo; flexibilizar tiraria credibilidade da fiscalização responsiva"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "3:15:12",
+   "processo": "48500.005952/2022-29 (pela legenda)",
+   "interessado": "Abrate (transmissoras) x Abiape (autoprodutores)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo da Abrate contra o Despacho 1.762/2022, que concedeu cautelar à Abiape suspendendo a REH 2.258/2017",
+   "tema": [
+    "recursos administrativos (cautelar)",
+    "transmissão"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista de Efraim Cruz (votação já iniciada em sessão anterior)",
+   "resumo_voto": "Processo em fase de votação; o último a votar pergunta à Procuradoria em que momento se conhece o recurso como direito de petição e pede vista.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator (voto em sessão anterior)",
+     "ts": "3:15:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "votou em sessão anterior (teor não dito)",
+     "ts": "3:15:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "pede vista",
+     "ts": "3:18:37",
+     "confianca": "media",
+     "justificativa": "dúvida processual sobre o momento de conhecimento do recurso/direito de petição"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "3:18:37",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:19:04",
+   "processo": "48500.005655/2022-83 e 48500.005499/2021-70 (pela legenda)",
+   "interessado": "Termelétrica Viana S.A. (UTE Viana 1, ES, gás natural, PCS 2021)",
+   "assunto": "Requerimento e cautelar para reconhecer excludente de responsabilidade pelo atraso da UTE Viana 1 e suspender obrigações do PCS 2021 (CER, CUST, CCT)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS 2021)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efraim Cruz (fora da lista do config)",
+   "resultado": "aprovado por unanimidade (cautelar negada; excludente indeferida)",
+   "resumo_voto": "Conhece e nega a cautelar (sem perigo da demora); indefere excludente (sem nexo causal: licenciamento, chuvas, covid, frete, guerra, greve de caminhoneiros), alteração de cronograma, recomposição de outorga e postergação do CER 447/2021 e CUST 409/2021; SFG continua a fiscalização do TIP 6/2022.",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "3:34:45",
+     "confianca": "alta",
+     "justificativa": "prazo curto do PCS encarece mas não transfere ao agente caso fortuito; não comprovado nexo de causalidade"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:35:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:35:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:35:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "3:37:07",
+   "processo": "48500.002158/2019-28 (pela legenda)",
+   "interessado": "Equatorial Pará (antiga Celpa); sustentação oral de Sofia Peres Barbosa",
+   "assunto": "Recurso contra o Auto de Infração 6/2020 da SFE (multa ~R$ 14,5 mi) por irregularidades em troca de titularidade, TOI, recuperação de consumo e faturamento",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Efraim Cruz (fora da lista do config)",
+   "resultado": "aprovado por unanimidade (recurso conhecido e não provido; multa de R$ 14.533.251,61 mantida)",
+   "resumo_voto": "Retroatividade da norma mais benéfica (REN 846) não se aplica a sanções administrativas (pareceres AGU e STJ); 8 não conformidades confirmadas pela SFE; penalidade pedagógica para proteger consumidor hipossuficiente.",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz (fora da lista do config)",
+     "voto": "relator, aprova",
+     "ts": "4:03:43",
+     "confianca": "alta",
+     "justificativa": "não cabe retroatividade benéfica no direito administrativo sancionador; consumidor hipossuficiente"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:04:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:04:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim (fora da lista do config)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:04:21",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Camila Bomfim (presidente/Diretora-Geral substituta) e Efraim Cruz (Efraim Pereira da Cruz) não constam da lista de diretores do config da ANEEL; registrados como ditos.",
+  "Votos de quem só acompanha atribuídos pela ordem usual (presidente vota por último e proclama); falas curtas sem nome, confiança média/baixa.",
+  "Item 1: atribuição dos comentários de Efraim Cruz (deságio de 75%) inferida pelo contexto; Ricardo Tili identificado por referência do relator.",
+  "Item 3: legenda indica relatoria de outro diretor ('voto da relatora'), possivelmente Camila Bomfim; Ricardo Tili leu o voto.",
+  "Item 7: quem declarou não votar por suceder diretor que já votou foi inferido como Ricardo Tili (processos de Sandoval redistribuídos a ele); voto de Sandoval é da 18ª RPO.",
+  "Item 8: votos anteriores não lidos nesta sessão; teor não identificado.",
+  "Números de processo, valores e nomes de permissionárias vêm da legenda automática e podem conter erros.",
+  "Itens do bloco (10–31) não detalhados individualmente."
+ ]
+}

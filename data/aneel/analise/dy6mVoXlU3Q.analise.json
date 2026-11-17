@@ -1,0 +1,82 @@
+{
+ "meta": {"video_id": "dy6mVoXlU3Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "26ª Reunião Pública Ordinária de 2022",
+  "data": "2022-07-19",
+  "formato": "sessão virtual/híbrida",
+  "presidente_da_sessao": "Camila (diretora-geral substituta; nome fora da lista do config)",
+  "diretores_presentes": ["Camila (diretora-geral substituta)", "Ricardo Tili", "Hélvio Guerra"],
+  "ausentes": ["Efrain Pereira da Cruz (relator do item 12; voto lido por Ricardo Tili; nome fora da lista do config)"],
+  "observacoes": [
+   "Quórum de três diretores declarado na abertura; ata da 25ª RPO aprovada.",
+   "Pauta com 43 itens; itens 11 a 43 em bloco; destaque dos itens 12 e 16; retirados de pauta os itens 5, 6 e 23; sustentação oral pedida para os itens 8, 9, 10 e 16.",
+   "Ordem de julgamento: bloco, depois itens 1, 2, 3, 4, 12, 9, 10, 7; itens 8 e 16 acabaram retirados de pauta.",
+   "Item 9 sem quórum qualificado (um diretor impedido): permanece o efeito suspensivo e volta na próxima reunião com quórum.",
+   "Item 10 (Rovema): pedido de vista de Ricardo Tili após o voto do relator Hélvio Guerra."
+  ]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:03:33", "processo": "", "interessado": "diversos", "assunto": "Itens remanescentes do bloco (itens 11 a 43, exceto 12 e 16 destacados e 23 retirado)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Bloco aprovado por unanimidade.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:03:33", "justificativa": "aprova os itens remanescentes do bloco", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:03:35", "justificativa": "também aprova", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "aprova o bloco", "ts": "0:03:39", "justificativa": "aprova e proclama a unanimidade", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:03:55", "processo": "48500.005935/2022-91", "interessado": "SEL/SRM/SRG; agentes do leilão", "assunto": "Abertura de consulta pública (15 dias, 20/07 a 04/08/2022) sobre minuta de edital e anexos do Leilão de Reserva de Capacidade na forma de energia de 2022 (LRCAP, termelétricas a gás natural, Lei 14.182/2021 - privatização da Eletrobras)", "tema": ["leilões", "regulação normativa", "outorgas de geração"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade", "resumo_voto": "Instaurar CP de 15 dias, prazo inferior ao padrão de 45 dias justificado pela portaria MME 46/2022 que fixou o leilão em 30/09/2022. Apresentação técnica de André Patrus (SEL).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:17:47", "justificativa": "Consulta de 15 dias é curta e desafiadora, mas é o único cronograma capaz de cumprir a data de 30/09 da portaria do MME.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (com ressalva de preocupação)", "ts": "0:25:04", "justificativa": "Manifestou preocupação com prazo de 15 dias fora do padrão de 45 dias da Lei das Agências em tema polêmico; «não tô pregando aqui desobediência civil», vai cumprir a portaria.", "tom": "crítico ao prazo", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "0:25:12", "justificativa": "Prazo motivado pela diretriz do MME; edital precisa sair 30 dias antes do leilão. Proclama unanimidade.", "confianca": "alta"}
+   ]},
+  {"id": "2", "ts": "0:25:44", "processo": "48500.003570/2021-80; 48500.000834/2022-24", "interessado": "Hidropan Distribuição de Energia S.A. (Panambi/RS)", "assunto": "Revisão tarifária periódica 2022 da Hidropan, a partir de 22/07/2022, e limites DEC/FEC 2023-2027 (CP 14/2022)", "tema": ["tarifas e revisão tarifária", "distribuição/qualidade"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Efeito médio de -5,67% (+10,13% alta tensão; -12,14% baixa tensão); créditos de PIS/Cofins (Lei 14.385/2022) reduziram ~19,6 p.p.; Fator X componente T em 0%.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:48:09", "justificativa": "Destaca que sem os créditos de PIS/Cofins haveria aumento de cerca de 13,9%; redução para baixa tensão em período de inflação alta.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:50:00", "justificativa": "acompanha (fala curta)", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "0:50:05", "justificativa": "acompanha e proclama a unanimidade", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "0:51:22", "processo": "48500.003572/2021-79; 48500.000832/2022-80", "interessado": "Muxfeldt Marin & Cia Ltda (Muxenergia)", "assunto": "Revisão tarifária periódica 2022 da Muxenergia, a partir de 22/07/2022, e limites DEC/FEC 2023-2027 (CP 15/2022)", "tema": ["tarifas e revisão tarifária", "distribuição/qualidade"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Efeito médio de +7,19% (+10,61% AT; +5,03% BT); Fator X componente T em -0,53%.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:09:05", "justificativa": "Dispensa leitura da fundamentação; aprova conforme apresentação da SGT.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:12:58", "justificativa": "acompanha", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "1:13:02", "justificativa": "Pede que gráficos tarifários passem a mostrar a estimativa de impacto da LC 194/2022 (ICMS), por transparência; proclama unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "4", "ts": "1:13:42", "processo": "48500.003573/2021-13; 48500.001559/2022-66", "interessado": "Nova Palma Energia Ltda", "assunto": "Revisão tarifária periódica 2022 da Nova Palma, a partir de 22/07/2022, e limites DEC/FEC 2023-2027 (CP 16/2022)", "tema": ["tarifas e revisão tarifária", "distribuição/qualidade"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Efeito médio de +8,70% (+4,98% AT; +9,86% BT); PIS/Cofins reduziu 13,81%; Fator X T em -0,01%.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:29:32", "justificativa": "Destaca uso de cerca de R$ 6,7 milhões de créditos de PIS/Cofins.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:32:54", "justificativa": "acompanha", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "1:32:56", "justificativa": "Explica aplicação da Lei 14.385 (RTEs para distribuidoras já reajustadas); proclama unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "12", "ts": "1:33:30", "processo": "48500.003569/2021-55; 48500.004726/2021", "interessado": "Centrais Elétricas de Carazinho (Eletrocar)", "assunto": "Revisão tarifária periódica 2022 da Eletrocar, a partir de 22/07/2022, e limites DEC/FEC 2023-2027 (CP 18/2022); destacado do bloco por ajuste no voto", "tema": ["tarifas e revisão tarifária", "distribuição/qualidade"], "relator": "Efrain Pereira da Cruz (voto lido por Ricardo Tili)", "resultado": "aprovado por unanimidade", "resumo_voto": "Efeito médio de -4,24% (-8,21% AT; -2,82% BT); PIS/Cofins -21,7%; Fator X T em 0%.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "voto deixado pelo relator Efrain (lido por Ricardo Tili)", "ts": "1:48:12", "justificativa": "Sem PIS/Cofins e CDE Eletrobras haveria aumento de cerca de 13,14%.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:50:55", "justificativa": "acompanha", "confianca": "baixa"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "1:51:06", "justificativa": "Lembra que o efeito do PIS/Cofins não se repetirá em 2023; proclama unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "9", "ts": "1:52:08", "processo": "48500.005195/2022-29", "interessado": "ABRATE (transmissoras) x ABIAPE (autoprodutores)", "assunto": "Pedido de reconsideração com efeito suspensivo da ABRATE contra o Despacho 1762/2022 (cautelar monocrática que suspendeu a REH 2.258/2017, componente financeiro da RBSE)", "tema": ["transmissão", "recursos administrativos", "institucional"], "relator": "Hélvio Guerra", "resultado": "sem deliberação: quórum qualificado não atingido (um diretor impedido); mantém-se o efeito suspensivo e o processo volta na próxima reunião com quórum", "resumo_voto": "Sustentação oral de Rafael (ABRATE). Relator: conhecer e dar provimento à reconsideração, anulando o Despacho 1762/2022 por ilegalidade (decisão monocrática, sem contraditório); conhecer o pedido da ABIAPE como direito de petição (interrompe decadência) e negar a cautelar.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento", "ts": "2:14:38", "justificativa": "Decisão cautelar monocrática viola o art. 7º da Lei 13.848/2019; não houve manifestação prévia das transmissoras; ausência de perigo da demora; mérito será discutido em processo próprio.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "suspeito/impedido", "ts": "2:21:58", "justificativa": "Declarou-se impedido com base no art. 11 da Resolução 273/2007 (por eliminação: o outro voto é da DG que proclama). Antes, defendeu rever o regimento para permitir decisão monocrática urgente ad referendum.", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "2:22:03", "justificativa": "Regimento deve ser cumprido até ser alterado; casos urgentes podem ir a reunião extraordinária; proclama falta de quórum.", "confianca": "alta"}
+   ]},
+  {"id": "10", "ts": "2:22:37", "processo": "48500.005498/2022-25", "interessado": "Rovema Energia S.A. (UTE RTG 100 021, PCS 2021)", "assunto": "Requerimento de excludente de responsabilidade pelo descumprimento do cronograma de implantação da UTE (falta de gás; guerra Rússia-Ucrânia) e novo cronograma, em manifestação ao TIPE 16/2022 da SFG", "tema": ["fiscalização e sanções", "outorgas de geração", "leilões"], "relator": "Hélvio Guerra", "resultado": "pedido de vista (Ricardo Tili)", "resumo_voto": "Sustentação oral de Arnoldo Afonso de Oliveira Pinto (Rovema). Relator vota por negar provimento: empresa assumiu risco ao participar do PCS sem contrato de gás assinado.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento", "ts": "2:52:06", "justificativa": "Risco gerenciável assumido pela empresa (fornecedor único, sem contrato); outros vencedores firmaram contrato antes; próprio novo cronograma já descumprido. Contesta alegação de falta de acesso aos autos.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "2:52:35", "justificativa": "Quer aprofundar o exame do processo.", "confianca": "alta"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "não votou (vista)", "ts": "2:52:38", "justificativa": "", "confianca": "alta"}
+   ]},
+  {"id": "7", "ts": "2:52:49", "processo": "48500.005891/2019-02", "interessado": "titulares de empreendimentos hidrelétricos; ANA", "assunto": "Resultado da CP 76/2021: resolução conjunta ANEEL/ANA sobre estações hidrológicas e assoreamento de reservatórios, vigência 01/01/2023, revoga Resolução Conjunta 3/2010", "tema": ["regulação normativa", "outorgas de geração"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Usinas de 1 a 5 MW sem outorga passam a ser fiscalizadas pela ANA; 249 contribuições; apresentação de Mateus (SRG).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:34:03", "justificativa": "Importância para o setor hidrelétrico após a escassez hídrica; cooperação ANEEL-ANA; estabilidade regulatória.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:35:54", "justificativa": "Parabeniza a sinergia entre as agências.", "confianca": "media"},
+    {"diretor": "Camila (diretora-geral substituta)", "voto": "acompanha o relator", "ts": "3:35:57", "justificativa": "Destaca previsibilidade da norma; proclama unanimidade.", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["Itens 5, 6 e 23 (retirados no início)", "Item 8 (relatora Camila; retirado para ajuste no dispositivo, 3:36:58)", "Item 16 (retirado de pauta, 3:37:05)"],
+ "limites_da_analise": [
+  "A presidente da sessão (diretora-geral substituta) é chamada só de Camila na legenda; nome fora da lista do config. O mesmo vale para o relator ausente Efrain Pereira da Cruz.",
+  "O falante inferido no cabeçalho cita Gentil Nogueira, mas Gentil aparece apenas como servidor citado (SRG), não como diretor nesta sessão.",
+  "Item 9: o impedimento é atribuído a Ricardo Tili por eliminação (a DG acompanha e proclama; Hélvio é relator); o nome não é ouvido na legenda.",
+  "Item 12: ordem dos 'acompanho' confusa na legenda; atribuição de Hélvio com confiança baixa.",
+  "Números de processo e percentuais vêm de legenda automática e podem conter erros."
+ ]
+}

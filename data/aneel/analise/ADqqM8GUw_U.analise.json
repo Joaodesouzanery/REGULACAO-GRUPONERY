@@ -1,0 +1,347 @@
+{
+ "meta": {
+  "video_id": "ADqqM8GUw_U",
+  "fonte": "legenda automática do YouTube; falantes não separados; ts pelo .json de transcrição; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34ª RPO (parte 2, tarde)",
+  "data": "2022-09-13",
+  "formato": "presencial/transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Giácomo Francisco Bassi Almeida"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores na retomada da tarde.",
+   "Encerramento: 55 processos na pauta do dia, 34 em bloco, 7 retirados, 1 pedido de vista e 3 prorrogações de vista (parte da manhã em outro vídeo).",
+   "Todos os 7 itens da tarde unânimes; item 11 retorno de vista de Ricardo Tili incorporado ao voto do relator original."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:01:36",
+   "processo": "48500.000402/2022 (número incerto na legenda)",
+   "interessado": "Transmissora Aliança de Energia Elétrica S.A. (Taesa)",
+   "assunto": "Recurso contra Despacho SRT 408/2022 que negou isenção de parcela variável (PV) pelo desligamento da LT 440 kV Assis-Sumaré C1 em 08/09/2021, atribuído pela empresa a sabotagem (serragem de manilha do isolador)",
+   "tema": [
+    "transmissão (RAP, PV)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Sem nexo causal comprovado de sabotagem; laudo Unicamp indica fadiga e oxidação após corte por tempo indeterminado; defeito poderia ser detectado em manutenção preventiva (REN 905/2020); caso distinto do maçarico (Ribeiro Gonçalves-São João do Piauí). Procuradoria oral no mesmo sentido.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "0:27:06",
+     "justificativa": "comentou a rapidez da tramitação e que é inexequível ver sabotagem num corte de manilha; caso concreto não é comparável ao do maçarico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:06",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:06",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "0:01:36",
+     "justificativa": "não há caso fortuito: corte na manilha poderia ter sido identificado em manutenção de rotina; PV é objetiva",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:27:56",
+   "processo": "48500.006740/2011-14 (número incerto)",
+   "interessado": "São Roque Energética S.A. (UHE São Roque, SC, 141,9 MW)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra Despacho 990/2022 (rescisão do CUST 15/2016 pelo ONS, penalidade, confissão de dívida); retorno de vista do diretor Ricardo Tili",
+   "tema": [
+    "transmissão (CUST, encargos)",
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "parcial provimento, por unanimidade dos presentes, nos termos do voto do relator com a condição do voto-vista",
+   "resumo_voto": "Penalidade do item 3 do Despacho 990 mantida com parcelamento em 36 parcelas após operação comercial, condicionada a desistência da ação judicial e novo CUST em 30 dias; do contrário vale multa integral (36 meses de EUST); afastada a confissão de dívida.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha (relator original + voto-vista)",
+     "ts": "0:44:44",
+     "justificativa": "surpresa com judicialização pela empresa apesar das flexibilizações; acompanha voto-vista de Ricardo Tili com o relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:44:44",
+     "justificativa": "concordou com o voto-vista e o voto original acrescido da condição",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista vencedor (incorporado ao voto do relator)",
+     "ts": "0:34:55",
+     "justificativa": "voto-vista: acompanha fundamentação do relator original e acrescenta que as flexibilizações (36 parcelas) perdem validade se a São Roque não desistir da ação judicial e não firmar novo CUST em 30 dias; rejeita proposta alternativa de 12/09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator original, aprova (incorporou voto-vista)",
+     "ts": "0:42:00",
+     "justificativa": "relator original; incorporou a proposta do voto-vista ao seu voto",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12 (número não dito na legenda)",
+   "ts": "0:46:53",
+   "processo": "48500.002767/2020-11 (incerto)",
+   "interessado": "Imetame Termelétrica Ltda. (UTE Prosperidade III)",
+   "assunto": "Requerimento para assinar novo CUST em data posterior ao início de testes da outorga, sem pagamento retroativo de EUST",
+   "tema": [
+    "transmissão (CUST, encargos)",
+    "outorgas de geração (térmica)",
+    "regulação normativa (REN 666/2015)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "acatado parcialmente, por unanimidade dos presentes",
+   "resumo_voto": "Autoriza ONS e empresa a celebrar novo CUST sem retroativo e com execução imediata (antes dos testes); empresa já pagou multa rescisória e não judicializou; distinto do caso Mundo Novo; afastado art. 9º (sem postergação).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "1:14:28",
+     "justificativa": "questionou se havia flexibilização da REN 666 (para ele o ONS faria leitura literal; novo ponto de conexão); acompanhou com ressalva («eu não concordo mas vou concordar»); defendeu revisão da 666",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:28",
+     "justificativa": "distinguiu do caso São Roque (empresa não judicializou); revisão da REN 666 na agenda regulatória",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:46:53",
+     "justificativa": "cobrar retroativo seria duplicidade; empresa diligente pagou a rescisão e conecta em outro ponto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:14:28",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:15:19",
+   "processo": "48500.006973/2022-61 (incerto)",
+   "interessado": "Celg Distribuição S.A. (Enel Goiás); CCEE; EDP Goiás Transmissão",
+   "assunto": "Impugnação com pedido cautelar contra decisão do CAd da CCEE que recontabilizou o ponto de medição da SE Xavantes de jan/2020 a jan/2022 e cobrou emolumentos",
+   "tema": [
+    "comercialização (CCEE, recontabilização)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "conhecido e negado provimento, por unanimidade; cautelar prejudicada",
+   "resumo_voto": "Recontabilização de ofício pela CCEE não tem limite de 3 meses (item 3.6 Submódulo 5.1); Celg é agente de medição responsável; dados recontabilizados aderem à curva de carga.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "1:27:56",
+     "justificativa": "elogiou a rapidez do rito de impugnação junto à CCEE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:15:19",
+     "justificativa": "CCEE pode recontabilizar de ofício sem limite; responsabilidade é do agente de medição",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:56",
+     "justificativa": "não é penalidade, é recuperação de energia consumida e não medida",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:56",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:30:20",
+   "processo": "48500.000519/2012-20 (incerto)",
+   "interessado": "Energisa Sergipe Distribuidora de Energia S.A.",
+   "assunto": "Fiscalização de diferenças entre dados de beneficiários de descontos custeados pela CDE e processos tarifários (2016-2017)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "fiscalização e sanções",
+    "tarifas"
+   ],
+   "relator": "Giácomo Francisco Bassi Almeida",
+   "resultado": "aprovado por unanimidade: determinar que a SFF apure a conduta da distribuidora no envio de informações",
+   "resumo_voto": "Após reenvio de dados em ago-set/2022 a diferença caiu a 1,73% (abaixo da tolerância), com perda de objeto da devolução; mas atraso de anos na correção justifica apuração da conduta. Processo herdado do diretor Efrain Pereira da Cruz.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "1:44:24",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:44:24",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:44:24",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "relator, aprova",
+     "ts": "1:30:20",
+     "justificativa": "distribuidora só corrigiu dados após inclusão em pauta; ANEEL não é consultora das distribuidoras",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:45:04",
+   "processo": "48500.005211/2021-67 (incerto)",
+   "interessado": "Energisa S.A.: Energisa Minas Gerais e Energisa Nova Friburgo",
+   "assunto": "Agrupamento de áreas de concessão de distribuição sob controle comum (REN 1.003/2022)",
+   "tema": [
+    "distribuição (agrupamento de concessões)",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica da SCT (Marcelo); ganhos de escala, redução de custos, baixo impacto tarifário; audiência pública presencial em Cataguases (MG), consulta pública 25/2022.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "1:59:01",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:45:04",
+     "justificativa": "assunto de baixa complexidade e grande importância para consumidores; agrupamento atende REN 1003/2022",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:59:01",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:59:01",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:59:59",
+   "processo": "48500.005212/2021-10 (incerto)",
+   "interessado": "Energisa S.A.: Energisa Paraíba e Energisa Borborema",
+   "assunto": "Agrupamento de áreas de concessão de distribuição sob controle comum (REN 1.003/2022)",
+   "tema": [
+    "distribuição (agrupamento de concessões)",
+    "regulação normativa"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica da SCT (Marcelo); ganhos de escala, redução de custos, baixo impacto tarifário; audiência pública presencial em Campina Grande (PB).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "2:02:29",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:59:59",
+     "justificativa": "assunto de baixa complexidade e grande importância para consumidores; agrupamento atende REN 1003/2022",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:29",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Francisco Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:02:29",
+     "justificativa": "acompanhou; unanimidade proclamada",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Transcrição sem separação de falantes e sem marcadores internos de tempo; ts obtidos por busca de frases no .json.",
+  "Giácomo Francisco Bassi Almeida (diretor, possivelmente substituto) não consta da lista do config; nome como dito na legenda ('Francisco bacia Almeida', 'Jackson Francisco').",
+  "Composição dos 4 presentes inferida pelas relatorias e falas; Fernando Mosna citado só como chefe de assessor, Agnes/Ludimila não identificados nas falas.",
+  "Votos de seguidores atribuídos pela proclamação de unanimidade; ordem individual das falas 'acompanho' não nomeada.",
+  "Número do item 12 não dito; números de processo pela legenda, incertos."
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "meta": {
+  "video_id": "rfP1C674eNM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34ª Reunião Pública Ordinária (parte 2)",
+  "data": "2023-09-19",
+  "formato": "presencial",
+  "presidente_da_sessao": "Hélvio Guerra (inferido)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (inferido; não citado)"
+  ],
+  "observacoes": [
+   "Parte 2 da 34ª RPO; item 24 retirado a pedido do relator; inversão de pauta.",
+   "Dois votos-vista de Agnes da Costa (itens 15 e São Francisco) acolhidos, com debate de procedimento sobre voto-vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "6",
+   "ts": "0:00:30",
+   "processo": "48500.002905/2014-13 e 48500.003180/2020-29",
+   "interessado": "Santo Antônio do Pinhal Energia Elétrica Ltda (recorrente); Aziana Serviços Corporativos Eireli (interessada); UHE Santo Antônio, rio Chapecó (SC)",
+   "assunto": "Recurso administrativo contra o Despacho 551/2021 (SCG) que revogou o Despacho 1772/2014 e tornou inativo o registro para EVTE da UHE Santo Antônio; pedido de reenquadramento para 40 MW",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos",
+    "licenciamento ambiental"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e parcialmente provido, por unanimidade",
+   "resumo_voto": "Restabelece o registro da Santo Antônio do Pinhal (Despacho 1772/2014), mantém o registro da Aziana (Despacho 1033/2021), indefere o reenquadramento para 40 MW e abre 120 dias para ambas apresentarem novos estudos com cota de montante de 305 m, conforme ofício do IMA/SC (fato superveniente); manutenção do registro condicionada à entrega no prazo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:05:00",
+     "confianca": "alta",
+     "justificativa": "fato superveniente do IMA/SC exige cota 305 m; reenquadramento com premissas inadequadas não aprovado"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:30:30",
+     "confianca": "media",
+     "justificativa": "elogiou a solução ponderada do voto"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:30:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:30:35",
+     "confianca": "media",
+     "justificativa": "alertou para usinas no limite de 50 MW (autorização x licitação); perguntou sobre a potência indicativa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:32:58",
+   "processo": "48500.000828/2010-33",
+   "interessado": "Hidrelétrica Médio Norte Ltda; PCH Salto do Sapo Parecis",
+   "assunto": "Recurso administrativo contra o Despacho 2875/2022 (SCG) que revogou despachos de registro/projeto básico da PCH Salto do Sapo Parecis e a excluiu da partição de quedas; voto-vista da diretora Agnes; sustentação oral",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "provido por unanimidade, nos termos do voto-vista de Agnes da Costa (relator retirou seu voto e aderiu)",
+   "resumo_voto": "Restabelece os Despachos 1974/2010, 1899/2012 e 3199/2015 e encaminha à SCE para emissão do DRS-PCH do projeto básico revisado com 5.200 kW; voto-vista retirou do dispositivo 3 a exigência de nova série de vazões, já validada pela área técnica. Sustentação oral de Vladimir (sobrenome incerto) pela Médio Norte. Debate de procedimento sobre voto-vista x voto do relator.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista vencedor",
+     "ts": "0:45:20",
+     "confianca": "alta",
+     "justificativa": "área técnica confirmou que 5.200 kW maximiza ganho energético e validou a série de vazões; alterou só o dispositivo 3"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator; retirou o voto e acompanha o voto-vista",
+     "ts": "0:59:50",
+     "confianca": "alta",
+     "justificativa": "complementação técnica veio depois do seu voto de 10/04/2023; concorda no mérito; cautela na fronteira de 5/30/50 MW"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:02:50",
+     "confianca": "media",
+     "justificativa": "levantou questão de procedimento sobre quem conduz o voto"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:02:53",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "não informado (São Francisco Energia)",
+   "ts": "1:03:51",
+   "processo": "48500.009039/2022-00",
+   "interessado": "São Francisco Energia S.A.; UTE Bahia 1 (atual Camaçari/Curumim, nome incerto); 24 distribuidoras compradoras; Coelba",
+   "assunto": "Requerimento de rescisão amigável dos CCEARs da UTE Bahia 1; voto-vista de Agnes da Costa",
+   "tema": [
+    "comercialização (CCEAR)",
+    "outorgas de geração (térmica)",
+    "voto-vista"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "parcialmente provido por unanimidade, nos termos do voto-vista ajustado (sem o item 3)",
+   "resumo_voto": "Autoriza acordos bilaterais de rescisão amigável dos CCEARs sem multas rescisórias; declara perda de objeto do pedido de homologação (art. 108 §10 REN 1009/2022); item 3 do voto-vista (determinação de pedido de alteração/revogação de outorga) retirado após debate. Compradoras consultadas manifestaram interesse; rescisão vantajosa ao ACR.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista vencedor (reformulado)",
+     "ts": "1:04:20",
+     "confianca": "alta",
+     "justificativa": "consulta às compradoras mostrou vantagem ao consumidor; regulador não deve autorizar rescisão sem ouvir compradores"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator; acompanha o voto-vista com as alterações",
+     "ts": "1:28:05",
+     "confianca": "alta",
+     "justificativa": "ressalva sobre autoria do voto quando vista muda pouco; não cabe projetar o que o empreendedor fará com a outorga"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:29:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista e proclama",
+     "ts": "1:29:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "não informado (PEQUI)",
+   "ts": "1:30:00",
+   "processo": "48500.008730/2022",
+   "interessado": "STE/SPE; setor elétrico (PDI)",
+   "assunto": "Resultado da Consulta Pública 12/2023: revisão dos módulos 1 a 7 do PROPDI e aprovação do Plano Estratégico Quinquenal de Inovação (PEQUI) 2024-2028",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "P&D e inovação"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN com revisão dos módulos do PROPDI e o PEQUI 2024-2028; incluiu energia nuclear (fissão/fusão) a pedido de Fernando Mosna, transmissão (pedido Abrate) e chamadas estratégicas da ANEEL como temas estratégicos.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:33:00",
+     "confianca": "alta",
+     "justificativa": "transição energética justa como pilar; mais de 1.600 contribuições"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:52:50",
+     "confianca": "media",
+     "justificativa": "elogiou acomodação das ponderações"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:52:50",
+     "confianca": "media",
+     "justificativa": "agradeceu inclusão do tema nuclear"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator e declara",
+     "ts": "1:52:52",
+     "confianca": "media",
+     "justificativa": "dúvida sobre sobreposição do tema 7.12 com sandbox tarifário em curso"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:54:22",
+   "processo": "48500.002314/2022-56",
+   "interessado": "Transmissora de Energia Ribeiro Gonçalves Balsas (Ribalsas); LT 230 kV Ribeiro Gonçalves-Balsas (Lote 16, Leilão 2/2018)",
+   "assunto": "Pedido de reconsideração do Despacho 2.365/2023, que negou excludentes, reequilíbrio e rescisão amigável e propôs ao MME a caducidade da concessão",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções (caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "não identificado",
+   "resultado": "negado provimento (proclamação sem menção explícita a unanimidade; votos audíveis acompanham)",
+   "resumo_voto": "Atraso do Ibama não afasta responsabilidade (incapacidade financeira); pandemia não justifica; sem obra executada não cabe indenização; urgência pela inclusão da LT no Leilão 1/2024.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha / aprova (relator não identificado)",
+     "ts": "2:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha / aprova (relator não identificado)",
+     "ts": "2:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha / aprova (relator não identificado)",
+     "ts": "2:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha / aprova (relator não identificado)",
+     "ts": "2:13:00",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "24",
+   "motivo": "a pedido do relator"
+  }
+ ],
+ "limites_da_analise": [
+  "Presidente inferido: encerramento agradece Agnes, Ricardo e Fernando; Hélvio citado como diretor; Sandoval não aparece (presença não confirmada).",
+  "Ricardo Tili cita 'Dr Anderson' (provável erro de legenda).",
+  "Relator do item 15 inferido pelas falas 'voto do Dr Elvio'; do item 6 dito 'Fernando Ferreira da Silva' (= Fernando Mosna).",
+  "Item 8: relator não identificado na legenda; votos atribuídos pela ordem com confiança baixa.",
+  "Números dos itens São Francisco e PEQUI não ditos; números de processo e despachos podem ter erros da legenda.",
+  "Sobrenome do orador da sustentação oral (Vladimir) incerto."
+ ]
+}

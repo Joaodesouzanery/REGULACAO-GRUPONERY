@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "video_id": "oHOnDchFKBc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "20ª Reunião Pública Ordinária (Parte 2)",
+  "data": "2022-06-07",
+  "formato": "presencial com sustentações orais por vídeo",
+  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta)",
+  "diretores_presentes": [
+   "Camila Bomfim",
+   "Efraim Cruz",
+   "Hélvio Guerra",
+   "Ricardo Tili"
+  ],
+  "ausentes": [
+   "Giácomo (Giácomo Almeida?) — saudado na sustentação oral, mas sem fala ou voto identificado na Parte 2; não citado pelo procurador entre os diretores"
+  ],
+  "observacoes": [
+   "Parte 2 (tarde) da 20ª RPO; ordem invertida: itens 7, 26, 12 e 53.",
+   "Item 26 retirado de pauta a pedido do relator; item 53 retirado de pauta.",
+   "Ricardo Tili antecipou seu voto no item 26/Âmbar e se retirou (viagem); não participou do item 12.",
+   "Encerrada às ~3:19 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:35",
+   "processo": "48500.001153/2018-05",
+   "interessado": "Transmissora Paraíso de Energia S.A. (TPE, grupo Alupar); HF Empreendimentos e outros proprietários de terras",
+   "assunto": "Pedido de alteração do anexo da REA 6.942/2018 (declaração de utilidade pública - DUP para servidão das LTs 500 kV Poções III - Padre Paraíso 2 - Governador Valadares 6 e seccionamentos, BA/MG), após a linha já construída fora da área declarada",
+   "tema": [
+    "transmissão (DUP, servidão administrativa)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efraim Cruz",
+   "resultado": "Por maioria: negado o pedido de alteração da DUP; determinada a retirada das instalações construídas fora da área declarada e a apresentação de cronograma de desmobilização e nova implantação, sem interrupção do serviço (acréscimo aceito pelo relator). Camila Bomfim vencida quanto à desmobilização.",
+   "resumo_voto": "Relator: transmissora construiu trechos em área não declarada por sua conta e risco, contrariando art. 10 da REN 919/2021 e o contrato (menor impacto social); ANEEL não pode convalidar depois; direito de propriedade. Sustentações orais: Victor Sarmento de Mello (TPE) e Gustavo Mota (HF Empreendimentos); procurador Luiz Eduardo citou jurisprudência do STJ sobre desapropriação indireta (resolve-se por indenização).",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz",
+     "voto": "relator, aprova (nega a alteração e determina retirada)",
+     "ts": "1:01:47",
+     "justificativa": "Transmissora construiu fora da DUP sem autorização prévia; medida drástica mas pedagógica; aceitou acrescentar que a desmobilização ocorra sem interromper o serviço.",
+     "confianca": "alta",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:32:54",
+     "justificativa": "Corroborou o procurador: agente procura a ANEEL para ratificar e influenciar processo judicial; ao construir fora da DUP assumiu os riscos.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:32:48",
+     "justificativa": "DUP é a mais grave intervenção na propriedade privada; ANEEL é a única defesa do pequeno proprietário; transmissora descumpriu a DUP (invasão); sugeriu manter a continuidade do serviço.",
+     "confianca": "media",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "vencido (parcial): acompanha a negativa da alteração, diverge da determinação de desmobilização",
+     "ts": "1:33:05",
+     "justificativa": "DUP é opcional e risco do empreendedor; ANEEL não deveria definir o traçado; conduta pode ser avaliada em fiscalização com penalidade exemplar.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:34:43",
+   "processo": "48500.004485/2022-2 (número incerto)",
+   "interessado": "Âmbar Energia S.A., EPP II Centrais Elétricas Ltda e EPP II Itaguaí Energia Ltda; sustentações: Abrace (Paulo Pedrosa), Idec, Instituto Pólis",
+   "assunto": "PCS 1/2021: alteração de características técnicas das UTEs EPP II, EPP IV, Edlux X e Rio de Janeiro I para área contígua à UTE Mário Covas (Cuiabá/MT) — pedido subsidiário do requerimento com cautelar",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (PCS / energia de reserva)"
+   ],
+   "relator": "Efraim Cruz",
+   "resultado": "Por unanimidade: conhecido o requerimento e deferida a alteração de características técnicas (NT 445/2022), com a condição de que não fundamente excludente de responsabilidade e que restrições de escoamento reduzam proporcionalmente a receita.",
+   "resumo_voto": "Relator aplica parecer 70/2022 da PF-ANEEL (restrição parcial de escoamento) já decidido pelo colegiado, ressalvando que foi vencido antes e segue a colegialidade; EPE contrária. Mérito da cautelar fica para a próxima reunião. Condição proposta por Camila Bomfim incorporada.",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:28:07",
+     "justificativa": "Alteração viável pelo precedente da Povoação/parecer 70; ANEEL não faz planejamento; usinas devem entrar no prazo; aceitou condição sobre excludente e receita.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto antecipado)",
+     "ts": "2:28:47",
+     "justificativa": "Antecipou o voto acompanhando o relator quanto às características técnicas, por ter de viajar; o voto ficou consignado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:52:48",
+     "justificativa": "Críticas às sustentações do Idec e do Pólis (endereço errado: planejamento é do poder concedente); ANEEL deve cumprir contratos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator",
+     "ts": "2:52:55",
+     "justificativa": "Não cabe à ANEEL discutir necessidade do PCS; sugeriu consignar que não haverá excludente de responsabilidade e que restrição de escoamento impacta a receita.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:54:14",
+   "processo": "48500.004937/2016-15 e 48500.001419/2017-21",
+   "interessado": "Fairfax Brasil Seguros Corporativos S.A. (nome na legenda: Refex/Flex); SPE Transmissora Maranhense de Energia (grupo Abengoa)",
+   "assunto": "Recurso contra o Despacho 3.118/2017 da SCT (execução da garantia de fiel cumprimento do contrato de concessão 12/2014, caducado)",
+   "tema": [
+    "fiscalização e sanções (garantia, multa, caducidade)",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Efraim Cruz",
+   "resultado": "Por unanimidade: recurso conhecido e negado provimento; revogado o Despacho 3.118/2017, ratificados os demais atos; aplicada multa editalícia de ~R$ 24,1 milhões (10% do investimento, preços de mar/2021, IPCA), com execução da garantia se não paga.",
+   "resumo_voto": "Sustentação oral de Murilo (seguradora): prescrição e princípio indenitário; procurador: prescrição quinquenal, não há prescrição. Relator lamentou insucesso de acordo na AGU.",
+   "votos": [
+    {
+     "diretor": "Efraim Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:16:52",
+     "justificativa": "Sem prescrição; conversão em multa editalícia de 10% do investimento por inexecução total.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:18:35",
+     "justificativa": "Sem justificativa própria.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator",
+     "ts": "3:18:41",
+     "justificativa": "Sem justificativa própria; proclamou.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "motivo": "retirado de pauta a pedido do relator (2:54:02; número do item incerto na legenda)"
+  },
+  {
+   "id": "53",
+   "motivo": "retirado de pauta (3:19:26)"
+  }
+ ],
+ "limites_da_analise": [
+  "Camila Bomfim e Efraim Cruz não constam da lista de diretores do config ANEEL (composição de 2022); nomes registrados como ditos.",
+  "Item 7: falas de votação sem nome; atribuição de Hélvio Guerra e Ricardo Tili por inferência (Hélvio pelo conteúdo — ex-superintendente de concessões de geração; Ricardo pela fala sobre o procurador). Giácomo não identificado na sessão.",
+  "Item 12: Ricardo Tili ausente (saiu após voto antecipado no item 26); 3 votos.",
+  "Números de processo, valores e nome da seguradora (Fairfax?) vêm da legenda automática e podem estar errados.",
+  "Numeração do item da Âmbar (26) e do retirado (6) incerta: a legenda anuncia ordem 7, 26, 12, 53."
+ ]
+}

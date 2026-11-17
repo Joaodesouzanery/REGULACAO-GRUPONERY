@@ -1,0 +1,99 @@
+{
+ "meta": {"video_id": "7dlGPeZ8zYc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "1ª Reunião Pública Ordinária de 2024",
+  "data": "2024-01-23",
+  "formato": "presencial (com transmissão no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo de cinco diretores; procurador-geral Raul Pereira Lisboa; secretário-geral Daniel Danna.",
+   "Pauta de 81 itens; itens 5 a 81 em bloco; retirados de pauta os itens 7, 13 e 24; sustentação oral nos itens 1 e 3; ordem de deliberação: bloco, 1, 3, 2, 4.",
+   "Aprovadas as atas da 46ª RPO de 2023 e da 4ª e 5ª reuniões extraordinárias de 2023, registrada a ausência de Agnes da Costa nelas.",
+   "Item 1 (RTP Roraima Energia): longo debate sobre voto fatiado/voto médio (art. 9º do Regimento, três votos convergentes); a proclamação foi suspensa e retomada após o item 3; Ricardo Tili retificou o voto para acompanhar integralmente Fernando Mosna e formar maioria 3x2.",
+   "Item 4 estava empatado 2x2 (Ricardo Tili e Fernando Mosna de um lado; Hélvio Guerra e Agnes da Costa do outro), faltando o voto do Diretor-Geral, que precisou se ausentar; item 2 retirado de pauta pelo relator para a semana seguinte. Reunião encerrada por volta de 4:16 do vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (5 a 81)",
+   "ts": "0:18:36",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 5 a 81 (exceto os retirados 7, 13 e 24), incluindo o item 81: ratificação da convocação de reunião com prazo inferior a dois dias",
+   "tema": ["institucional", "bloco"],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Agnes da Costa perguntou se aprovar o item 81 implicava convalidar decisão de reunião de que não participou; esclarecido que é só ratificação da convocação, sem mérito; todos aprovaram o bloco.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:19:30", "justificativa": "após esclarecer que o item 81 é só ratificação da convocação, sem discussão de mérito", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:19:50", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:19:52", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:19:55", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:20:02", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:20:31",
+   "processo": "48500.006893/2022-14 e 48500.000134/2023-59 (números da legenda, incertos)",
+   "interessado": "Roraima Energia S.A. (distribuidora); Conselho de Consumidores da Roraima Energia",
+   "assunto": "Resultado da revisão tarifária periódica da Roraima Energia a vigorar a partir de 25/01/2024 e limites de DEC/FEC para 2025-2029, após a Consulta Pública 40/2023",
+   "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "custos operacionais", "perdas não técnicas", "geração distribuída (MMGD)", "fiscalização"],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria nos termos do voto divergente de Fernando Mosna (custo operacional regulatório flat no limite inferior, ~R$ 110 milhões, fator T 0%; efeito médio -9,62%, AT -7,56%, BT -10,14%), vencidos a relatora Agnes da Costa e o Diretor-Geral Sandoval Feitosa; quanto às perdas, mantida a trajetória da relatora",
+   "resumo_voto": "Relatora propôs efeito médio de -11,04% aplicando a regra vigente: retirada da flexibilização de custos operacionais (R$ 56,45 mi) com trajetória ascendente de 98 a 110 milhões (fator T -1,369), ponto de partida de perdas não técnicas na meta de 11,09%, indeferindo pleitos da distribuidora (erro de km de rede de 2013, variáveis ambientais, reclassificação no banco de preços), e determinando fiscalização da SFT sobre segregação GD1/GD2/GD3. Sustentações orais: Evelyn Mendes Reis (Roraima Energia) e Maria Conceição de Santana Barros (Conselho de Consumidores). Fernando Mosna divergiu invocando o art. 5º da REH 2349/2017 (reavaliação) e o precedente da Energisa Rondônia; Ricardo Tili inicialmente divergiu também quanto ao ponto de partida de perdas (17,04% previsto em lei), mas retificou para acompanhar integralmente Fernando.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova (vencida)", "ts": "1:34:28", "justificativa": "aplica a metodologia vigente do PRORET, o edital e o contrato; retirar a trajetória só quando a regra indica aumento seria pouco isonômico; RTP não é momento de rediscutir metodologia (CP 62/2020) nem de rever dados passados com estimativas", "tom": "firme, defende a simetria da regulação por incentivo", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "diverge (voto vencedor): custo operacional flat no limite inferior", "ts": "2:48:02", "justificativa": "art. 5º da REH 2349/2017 prevê reavaliação; retirar cerca de 1/3 do custo operacional regulatório (de 152 para 98 milhões) induz desequilíbrio; coerência com o precedente da Energisa Rondônia; pede olhar para variáveis ambientais e mudança climática na CP 62", "tom": "argumentativo, jurídico", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "diverge; depois retifica e acompanha integralmente Fernando Mosna", "ts": "4:08:55", "justificativa": "entende que o ponto de partida das perdas deveria ser o previsto em lei (17,04%) e que custo operacional deveria ficar flat; registra que mantém seu entendimento sobre perdas, mas acompanha para formar maioria e não criar impasse", "tom": "desconfortável com a mudança, pragmático", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o voto divergente de Fernando Mosna", "ts": "2:50:13", "justificativa": "dúvidas não sanadas; critica que a área técnica não considerou o agrupamento das concessões (Boa Vista/CERR) por falta de tempo", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (vencido)", "ts": "2:50:16", "justificativa": "segue estritamente o edital da privatização, o contrato de concessão e os procedimentos de regulação tarifária; a concessão começa com o contrato de 2018; sugere discutir antes em reuniões técnicas com a procuradoria", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:01:23",
+   "processo": "48500.004332/2017-15 (número da legenda, incerto)",
+   "interessado": "Oeste de Canoas Petróleo e Gás Ltda. (UTE Oeste de Canoas 1, Barreirinhas/MA)",
+   "assunto": "Termo de Intimação 17/2022 da SFG: revogação da autorização da UTE Oeste de Canoas 1 por atraso na implantação (leilão 1/2016), suspensão do direito de contratar, resolução dos CCEARs e multa contratual",
+   "tema": ["fiscalização e sanções (revogação de outorga, multa)", "outorgas de geração (térmica)", "comercialização (CCEAR, recomposição de lastro)"],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por maioria nos termos do voto do relator, vencidos Hélvio Guerra e Sandoval Feitosa",
+   "resumo_voto": "Conhecer e negar provimento: suspensão de 12 meses do direito de contratar com a ANEEL, revogação da outorga, resolução dos CCEARs (atraso >540 dias), cálculo da multa pela CCEE, cobrança pelas distribuidoras e reversão à modicidade tarifária; consumidores pagariam cerca de R$ 500 mil/mês a mais enquanto pendente. Sustentação oral de Henrique Silva Reis pela empresa, pedindo retirada/vista até o julgamento do pedido de reconsideração da excludente (distribuído a Hélvio Guerra).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "3:29:18", "justificativa": "empreendedor inadimplente em todos os marcos, inclusive os que independiam de gás; viabilidade depende de decisão judicial incerta; independência das instâncias e duração razoável do processo; custo ao consumidor", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "diverge (vencido): sobrestar a revogação até julgar o recurso da excludente, afastando o inciso II do art. 127 da REN 1009 para remunerar a PLD", "ts": "3:43:54", "justificativa": "revogação deve ser o último ato, após esgotar a excludente; evitar ônus ao consumidor pela via do poder geral de cautela", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:55:30", "justificativa": "no mérito o voto do relator está correto; receio de efeitos não previstos ao afastar regras", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:55:43", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência de Hélvio Guerra (vencido) e proclama", "ts": "3:56:02", "justificativa": "revogação da outorga deveria vir após o julgamento do pedido de reconsideração da excludente", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "4:15:16",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 4 (não apregoado na gravação): votação já empatada 2x2, faltando o voto do Diretor-Geral",
+   "tema": ["não identificado"],
+   "relator": "não identificado",
+   "resultado": "não concluído: empate 2x2, voto do Diretor-Geral pendente para a próxima reunião",
+   "resumo_voto": "Sandoval Feitosa disse que o único voto faltante é o seu, que ele e Fernando votaram juntos e que Hélvio e Agnes votaram juntos; precisou se ausentar por viagem e o item volta na próxima reunião. A fala é confusa (menciona Ricardo e Fernando).",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (pendente)", "ts": "4:15:16", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": [
+  {"item": "7, 13 e 24", "motivo": "retirados de pauta no início da sessão"},
+  {"item": "2", "motivo": "retirado de pauta pelo relator (não identificado com segurança) por ausência do Diretor-Geral, para a semana seguinte com colegiado completo"}
+ ],
+ "limites_da_analise": [
+  "Legenda automática em bloco único (sem marcadores de tempo intermediários no .md); ts obtidos do .json de transcrição; votos de quem só acompanha têm ts aproximado.",
+  "Números de processo dos itens 1 e 3 lidos da legenda e possivelmente errados.",
+  "Item 3: a fala de Agnes da Costa é confusa ('não vou votar com o relator... no mérito o voto do relator tá correto'); a proclamação por maioria nos termos do voto condutor de Fernando Mosna indica que ela e Ricardo Tili acompanharam o relator.",
+  "Item 4: assunto e relator não aparecem na gravação; a composição do empate 2x2 foi dita de forma contraditória; registrado só o voto pendente do Diretor-Geral.",
+  "Item 2: assunto e relator não identificados; a fala 'o processo é a minha relatoria' não tem falante seguro."
+ ]
+}

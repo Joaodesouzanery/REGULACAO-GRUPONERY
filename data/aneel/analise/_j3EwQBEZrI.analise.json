@@ -1,0 +1,57 @@
+{
+ "meta": {"video_id": "_j3EwQBEZrI", "fonte": "legenda automática YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "2ª Reunião Pública Ordinária de 2023 (Parte 2)",
+  "data": "2023-01-31",
+  "formato": "presencial/transmitida",
+  "presidente_da_sessao": "Sandoval Feitosa",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": ["Agnes da Costa"],
+  "observacoes": "Parte 2 da reunião: retomada às 15h após sustentações orais da manhã sobre a regulamentação da Lei 14.300 (MMGD). Manifestação da Procuradoria, apresentação da área técnica, e o relator Hélvio Guerra retira o processo de pauta. Item 2 retirado a pedido da diretora Agnes; item 19 recebe pedido de vista do Diretor-Geral."
+ },
+ "itens": [
+  {
+   "id": "1", "ts": "0:00:02", "processo": "", "interessado": "consumidores com micro e minigeração distribuída, distribuidoras, associações (ABSOLAR, ABGD)",
+   "assunto": "Regulamentação da Lei 14.300/2022 (micro e minigeração distribuída), após consulta pública; revisão da REN 482/2012 / REN 1000",
+   "tema": ["geração distribuída (MMGD)", "regulação normativa"],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator, com intenção de retornar na reunião de 7 de fevereiro",
+   "resumo_voto": "Após sustentações orais (manhã), manifestação da Procuradoria Federal (risco jurídico, prevenção à judicialização, parecer 96/2022 sobre art. 18 da Lei 14.300) e apresentação da área técnica, o relator disse que algumas contribuições trouxeram dúvidas que precisam ser estudadas e retirou o processo, garantindo que não retrocederá no que já avançou.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "0:36:39", "justificativa": "Contribuições da sessão trouxeram dúvidas a estudar com mais profundidade; aperfeiçoar o texto para que todos entendam da mesma forma; trazer de volta em 7/2.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "concorda com a retirada (sem deliberação)", "ts": "0:38:00", "justificativa": "Elogia o relator; pede equilíbrio e que o período não prolongue o tema, que tem de ser resolvido; a unanimidade nunca é possível.", "tom": "conciliador e firme", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2", "ts": "0:43:47", "processo": "", "interessado": "",
+   "assunto": "Item 2 da pauta (dependente da deliberação do item 1, MMGD)",
+   "tema": ["geração distribuída (MMGD)"],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta a pedido da diretora Agnes, que pediu que não fosse deliberado antes do item 1",
+   "resumo_voto": "Sem deliberação.",
+   "votos": []
+  },
+  {
+   "id": "19", "ts": "0:44:18", "processo": "", "interessado": "",
+   "assunto": "Item 19 (item do bloco, já em fase de votação)",
+   "tema": [],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa; placar parcial 2 x 1",
+   "resumo_voto": "Votação estava com dois votos convergentes (relator Fernando Mosna e Hélvio Guerra) e um divergente (Ricardo Tili); o Diretor-Geral pediu vista para desempatar ou decidir.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:44:18", "justificativa": "Voto proferido antes desta parte; apenas relatado pelo Diretor-Geral.", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:44:18", "justificativa": "Voto anterior, citado pelo Diretor-Geral.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "diverge do relator", "ts": "0:44:18", "justificativa": "Voto anterior, citado pelo Diretor-Geral; fundamentos não constam desta parte.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "0:44:18", "justificativa": "Com o placar 2 x 1, pede vista para trazer o mais rapidamente possível.", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": ["1", "2"],
+ "limites_da_analise": [
+  "Transcrição em bloco único com só um marcador [0:00:02]; minutos estimados pelo JSON da legenda.",
+  "Assunto e processo do item 19 não aparecem nesta parte; o relator Fernando Mosna é inferido da frase «convergentes com relator Dr Fernando Mosna e Doutor Elvis»; «diretor Chile» interpretado como Ricardo Tili.",
+  "Relatoria do item 2 atribuída a Agnes da Costa por inferência (ela pediu a retirada); incerto.",
+  "Agnes da Costa considerada ausente (contato via assessoria), embora o cabeçalho a liste entre falantes inferidos.",
+  "Legenda automática: nomes (Elvio/Evo/Eva = Hélvio) e números podem estar errados."
+ ]
+}

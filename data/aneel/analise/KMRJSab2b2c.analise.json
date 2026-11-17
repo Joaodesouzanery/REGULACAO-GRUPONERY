@@ -1,0 +1,64 @@
+{
+ "meta": {"video_id": "KMRJSab2b2c", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "37ª Reunião Pública Ordinária de 2023",
+  "data": "2023-10-10",
+  "formato": "presencial (com transmissão no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": ["Agnes da Costa (férias)"],
+  "observacoes": [
+   "Quórum de quatro diretores; Agnes da Costa ausente justificadamente (férias).",
+   "Aprovada a ata da 36ª RPO de 2023 (3/10/2023), sem registro de aprovação de Fernando Mosna, ausente naquela sessão.",
+   "Pauta com 18 itens: itens 2 a 18 em bloco; retirados de pauta os itens 8 e 12; item 1 único de leitura, com sustentação oral.",
+   "Informe: prazo da CP 30/2023 (edital do leilão 1/2024 de transmissão, relatora Agnes da Costa) prorrogado de 16 para 23 de outubro a pedido da ABRATE.",
+   "Item 1 (UTE Marlim Azul) terminou com pedido de vista do Diretor-Geral Sandoval Feitosa após dois votos acompanhando o relator."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 2 a 18)",
+   "ts": "0:11:45",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 2 a 18 (votos disponibilizados previamente), exceto os retirados 8 e 12 e os itens com pedido de vista; inclui item 11, impugnação contra multa aplicada pela CCEE de cerca de R$ 427",
+   "tema": ["deliberação em bloco", "comercialização (CCEE)", "fiscalização e sanções"],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (itens remanescentes do bloco)",
+   "resumo_voto": "Bloco aprovado por unanimidade. Um diretor (relator do item 11) pediu vista do item 7 e comentou que a impugnação de multa de cerca de R$ 427 aplicada pela CCEE custa mais ao sistema do que a própria multa; outro diretor pediu vista de um item dito 'oito' pela legenda (o item 8 fora retirado de pauta; número incerto).",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco e proclama", "ts": "0:13:36", "justificativa": "proclama aprovação unânime dos itens do bloco", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:11:45", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (com pedido de vista de item)", "ts": "0:13:00", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "aprova o bloco (com pedido de vista de item)", "ts": "0:12:09", "justificativa": "", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:13:50",
+   "processo": "48500.002898/2018",
+   "interessado": "Marlim Azul Energia S.A. (UTE Marlim Azul, gás natural, ~565 MW, Macaé/RJ; leilão A-6 5/2017)",
+   "assunto": "Requerimento administrativo de reconhecimento de excludente de responsabilidade (pandemia de covid-19) e alteração de cronograma de implantação da UTE Marlim Azul; pedido de 206 dias, postergação do CUST 15/2020 e afastamento de penalidades",
+   "tema": ["outorgas de geração (térmica)", "fiscalização e sanções", "excludente de responsabilidade", "transmissão (CUST)"],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa (após relator e dois diretores votarem pelo provimento parcial)",
+   "resumo_voto": "Relator dá parcial provimento: reconhece 152 dias de excludente (de 11/05/2020, data do RAPEL pré-pandemia, a 09/10/2020, decreto 169 de Macaé), altera cronograma (operação em teste 08/04/2023; comercial 01/06/2023), adequa CUST e mantém prazo da outorga; segue parecer 150/2023 da Procuradoria contra as notas técnicas 384/2022 e 468/2023 (indeferimento). Sustentação oral de Bruno Chevalier e Guilherme Baggio (Marlim Azul).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá parcial provimento (152 dias)", "ts": "1:13:24", "justificativa": "nexo causal comprovado pela realidade fática do cronograma (RAPEL) e decretos de Macaé; cronograma regulatório de 54 dias de testes não é razoável para UTE de 565 MW; comparação com GNA 2 (391 dias) e UTE Barcarena", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:44:02", "justificativa": "concorda plenamente; ANEEL também errou ao aprovar cronograma de 54 dias de testes; áreas técnicas deveriam aprofundar análise; pedido de antecipação negado como desnecessário mostra que o cronograma estava errado", "tom": "crítico às áreas técnicas", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:44:03", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "1:44:06", "justificativa": "aponta incoerência da empresa (pediu antecipação em dez/2021 e 16 dias depois alegou excludente por fatos de 2020; RAPEL indicava 77 dias de testes vs 270 alegados); cronograma da outorga é o juridicamente tutelado; acompanhar 4.300 cronogramas via RAPEL seria inviável", "tom": "cético", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [
+  {"item": "8", "relator": "", "motivo": "retirado de pauta (anunciado pelo secretário-geral)", "ts": "0:10:30"},
+  {"item": "12", "relator": "", "motivo": "retirado de pauta (anunciado pelo secretário-geral)", "ts": "0:10:30"}
+ ],
+ "limites_da_analise": [
+  "Legenda automática com um único marcador de tempo no .md; ts obtidos do JSON da transcrição, aproximados.",
+  "Votação do bloco: falas sem nome; atribuição de quem pediu vista do item 7 (relator do item 11) e do item 'oito' é incerta (há menção 'perdão diretor Ricardo'); o item 8 constava como retirado, então o número pode estar errado na legenda. Confiança baixa nesses votos.",
+  "Item 1: dois 'acompanho o voto do relator' sem nome; atribuídos a Hélvio Guerra e Ricardo Tili por eliminação (únicos presentes além do relator e do DG), ordem incerta. Ricardo Tili não se manifestou de forma identificável no debate.",
+  "Número do processo do item 1 ouvido como '48500 0028 98 2018' e '485 883'; pode estar incompleto. Nomes Marlim/Marlin Azul e Baggio/bajo grafados conforme inferência."
+ ]
+}

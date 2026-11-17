@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "5awSN2vV4sk", "fonte": "legenda automática do YouTube; falantes inferidos; transcrição sem marcadores internos, ts obtidos do .json de legendas", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21ª Reunião Pública Ordinária (Parte 2)", "data": "2023-06-20", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Retomada da 21ª RPO só para o último item da pauta (CP 15/2023, mecanismo excepcional de rescisão de CUST e liberação de margem de escoamento).", "Item havia sido pautado na reunião anterior e retirado pelo relator para avaliar as sustentações orais.", "Fernando Mosna abriu divergência (regularização das outorgas já nesta fase, sem segunda fase de CP) e pediu vista; vista concedida. Agnes propôs excluir o item 3 do parágrafo 171 (suspensão da cobrança de encargos do CUST), aceito pelo relator.", "No encerramento o presidente fala em 'vigésima segunda' reunião, provável lapso (abertura diz vigésima primeira)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:30",
+      "processo": "48500.001719/2023-58 (número da legenda, incerto)", "interessado": "centrais geradoras com outorga e CUST (sustentação oral de representante da Índia Brasil Energia, Sra. Diane, nome incerto)",
+      "assunto": "Aprovação do mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (CP 15/2023) e abertura da segunda fase da CP 15/2023 para alocação da margem de escoamento e regularização de outorgas sem CUST rescindido",
+      "tema": ["outorgas de geração", "transmissão (margem de escoamento, CUST)", "regulação normativa (consulta pública)"],
+      "relator": "Hélvio Guerra", "resultado": "pedido de vista de Fernando Mosna; julgamento suspenso",
+      "resumo_voto": "Relator propõe despacho fixando 30/06/2023 como prazo para agentes apresentarem ao ONS termo de adesão; rescisão dos CUST sem encargos rescisórios para quem aderir; segunda fase da CP por intercâmbio documental de 20 dias (22/06 a 11/07/2023) sobre regularização de outorgas e alocação da margem (inclusive PCM). Apresentação técnica de Rafael (área técnica). Divergência de Fernando: tratar a regularização já, sem segunda fase. Agnes: excluir a suspensão da cobrança do CUST para quem já assinou (relator retira o item 3 do §171).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (retirando o item 3 do §171 após sugestão de Agnes)", "ts": "0:24:02", "justificativa": "liberar margem ocupada por empreendimentos inviáveis; regularização ad hoc sem critério escolheria vencedores e transferiria custos aos demais usuários; regularização vai à segunda fase da CP", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge parcialmente e pede vista", "ts": "0:57:07", "justificativa": "defende encerrar a CP 15 já tratando a regularização das outorgas, sem segunda fase; nota técnica 28 (§61) já apontava a regularização como solução", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "1:26:47", "justificativa": "elogia o voto, mas propõe excluir a suspensão da cobrança dos encargos do CUST: quem tem obrigação deve pagar até a decisão; evitar criar um limbo", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:33:11", "justificativa": "concede vista; concorda com Agnes sobre não suspender o pagamento; empreendedor é quem conhece a viabilidade", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição automática em bloco único; nomes (Diane, Índia Brasil Energia, Rafael, Vitor) e número do processo incertos.", "Ricardo Tili e outros diretores não são mencionados; não se sabe se havia cadeira vaga ou ausência.", "Votação formal não chegou a ocorrer: vista concedida a Fernando Mosna antes da coleta de votos; Agnes e Sandoval registrados como não votou (vista)."]
+}

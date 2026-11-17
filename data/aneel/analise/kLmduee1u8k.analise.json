@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "kLmduee1u8k", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Extraordinária de 2023", "data": "2023-06-28", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Agnes da Costa (presidente em exercício, inferido)",
+    "diretores_presentes": ["Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa (ausência justificada: representação no exterior)"],
+    "observacoes": ["Pauta com um único item, sem pedido de sustentação oral.", "Reunião extraordinária solicitada pelo relator Fernando Mosna por urgência (operacionalização pela CCEE).", "A abertura cita quórum de quatro diretores, mas só são cumprimentados Agnes, Ricardo e Fernando; procurador-geral substituto Eduardo Estevão e secretário-geral Carlos Eduardo presentes."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:02:19",
+      "processo": "48500.003350/2023-18", "interessado": "Copel Geração e Transmissão S.A. (Copel GT)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar da Copel GT para retificar a metodologia/parâmetros do MCSD de energia existente (4%) nos CCEARs do 4º Leilão de Energia Existente repactuados pelo Despacho 1395/2019 (UHE Gov. Bento Munhoz da Rocha Neto / Foz do Areia, repactuação do risco hidrológico, Lei 13.203/2015)",
+      "tema": ["comercialização (CCEE, MCSD, contratos)", "repactuação do risco hidrológico (GSF)", "medida cautelar", "geração hidrelétrica"],
+      "relator": "Fernando Mosna", "resultado": "cautelar concedida por unanimidade",
+      "resumo_voto": "Conhecer e dar provimento à cautelar: suspender efeitos do MCSD 4% e mensal (pretéritos e futuros) para os contratos da Copel GT a partir da referência de junho/2023 até o mérito; CCEE mantém contabilização de maio/2023 e considera a Copel na proporcionalização sem efeitos financeiros para ela; processo enviado à SGM para mérito. Fumaça do bom direito: redução de ~94% supera o teto de 4% do Decreto 5.163/2004; perigo da demora: perda estimada de cerca de R$ 264 milhões em 117 dias (CCEAR a ~R$ 246,98/MWh vs PLD mínimo ~R$ 69); efeitos reversíveis.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (concede cautelar)", "ts": "0:02:19", "justificativa": "redução pelo MCSD 4% supera em muito o limite de 4% do montante contratual; perda de receita relevante; medida reversível", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:22:42", "justificativa": "na discussão questionou se o item 2 do dispositivo (manter contabilização de maio/2023) valia para o sistema todo ou só para a Copel; relator esclareceu que visa preservar a reversibilidade", "tom": "questionador, técnico", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:22:45", "justificativa": "", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: nomes (Fernando 'Mozart' = Mosna) e números (Lei '3.203' = 13.203/2015; processo) podem estar errados.", "Quem presidiu não é dito explicitamente; inferido Agnes da Costa (procurador se dirige à 'Senhora Diretora').", "Quem fez a pergunta na discussão (~0:17:52) é inferido como Ricardo Tili; os dois 'acompanho' não têm nome, atribuídos pela ordem usual (Diretor-Geral em exercício por último).", "Abertura menciona quórum de quatro diretores mas apenas três são nomeados; registrados 3 votos."]
+}

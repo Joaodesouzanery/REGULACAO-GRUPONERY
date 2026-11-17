@@ -1,0 +1,101 @@
+{
+  "meta": {"video_id": "LmUZH_YX83Y", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21ª Reunião Pública Ordinária de 2022", "data": "2022-06-14", "formato": "híbrida (presencial com participação virtual)",
+    "presidente_da_sessao": "Camila Bomfim (diretora-geral interina; nome fora da lista do config)",
+    "diretores_presentes": ["Camila Bomfim", "Hélvio Guerra", "Giácomo Almeida"],
+    "ausentes": ["Efrain Cruz (conectado virtualmente, perdeu a conexão; não votou nos itens deliberados)"],
+    "observacoes": [
+      "Quórum de três diretores declarado na abertura; Sandoval Feitosa estava fora da diretoria (fim de mandato citado no item 1).",
+      "Ata da 20ª ROP aprovada. Pauta com 48 itens; bloco dos itens 10 a 48 aprovado por unanimidade, exceto 13 e 14 (destacados) e 17, 21, 25 e 31 (retirados).",
+      "Item 3 (sinal locacional TUST/TUDG, CP 39/2021) retirado de pauta pelo próprio relator Hélvio Guerra após sustentações orais e apresentação técnica da SGT.",
+      "Itens 2, 8, 9, 13 e 14 não deliberados: o relator (diretor Efrain, chamado na legenda de 'Dr Frank') perdeu a conexão.",
+      "Todos os itens deliberados foram unânimes."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 10 a 48)", "ts": "0:06:10", "processo": "", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 10 a 48, exceto 13 e 14 (destacados) e 17, 21, 25 e 31 (retirados)",
+      "tema": ["deliberação em bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Votos e atos disponíveis no site desde a quinta-feira anterior; aprovação em bloco.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:06:17", "confianca": "media"},
+        {"diretor": "Giácomo Almeida", "voto": "aprova o bloco", "ts": "0:06:18", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "aprova o bloco e proclama", "ts": "0:06:21", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:06:36", "processo": "48500.004962/2021-66", "interessado": "RGE Sul Distribuidora de Energia S.A. (RGE; ~3 milhões de unidades consumidoras, 647 municípios do RS)",
+      "assunto": "Reajuste tarifário anual de 2022 da RGE, a vigorar a partir de 19/06/2022: prorrogação da vigência das tarifas da REH 2.880/2021",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: tarifas da REH 2.880/2021 prorrogadas até 28/06/2022 ou até a deliberação do reajuste; diferenças corrigidas pela Selic e compensadas no processo tarifário de 2023",
+      "resumo_voto": "Processo redistribuído de Sandoval Feitosa ao relator. Prorrogação com concordância da RGE, aguardando capitalização da Eletrobras (aportes na CDE), saldo da conta de Itaipu e lei sobre devolução de créditos de PIS/Cofins (exclusão do ICMS); mesmo encaminhamento dado à Cemig na 20ª ROP. Procuradoria favorável. Camila Bomfim comentou o cumprimento do contrato, o projeto de lei dos créditos de PIS/Cofins e as medidas sobre ICMS em tramitação.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova a prorrogação", "ts": "0:12:37", "justificativa": "evitar atualizações tarifárias consecutivas em intervalo curto, à espera da capitalização da Eletrobras e da lei de devolução de tributos; concordância da distribuidora", "confianca": "alta"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator", "ts": "0:15:29", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "0:15:31", "justificativa": "prorrogação feita em comum acordo; medidas legislativas (PIS/Cofins, ICMS) e capitalização da Eletrobras justificam aguardar", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:16:26", "processo": "48500.005522/2018; 48500.003882/2011; 48500.005908/2017 (números incertos na legenda)", "interessado": "SGT; sustentações orais de Sandro Yamamoto? (ABEEólica) e Eduardo Takamori (Engie)",
+      "assunto": "Abertura da 3ª fase da Consulta Pública 39/2021 sobre AIR do sinal locacional da TUST e da TUSDg (centrais em 88 kV e 138 kV) e aprovação dos submódulos 7.4, 9.4 e 10.5 do PRORET",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "tarifas e revisão tarifária (TUST/TUSD)", "regulação normativa (consulta pública, AIR)"],
+      "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator, que prometeu trazê-lo de volta rapidamente, talvez na sessão seguinte",
+      "resumo_voto": "Sustentações orais: a ABEEólica pediu que a metodologia híbrida não fosse aprovada e que todo o tema fosse discutido na 3ª fase, citando o impacto no Nordeste; a Engie defendeu a adoção imediata da alternativa 2A e o fim do congelamento da tarifa (sinal locacional hoje invertido). O relator explicou a distorção atual (Norte e Nordeste exportadores pagam pouco), revisou o voto para deixar claro que a 3ª fase discute também a metodologia e pediu apresentação técnica da SGT (Denis). Depois de reuniões com agentes na véspera, disse que ainda havia pontos a aperfeiçoar, como o efeito da estabilização sobre o custo marginal, e retirou o processo para decidir com a 'melhor convicção'. Camila Bomfim elogiou a decisão e a área técnica.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, retira o processo de pauta", "ts": "1:21:17", "justificativa": "ainda há pontos que podem ser aperfeiçoados (estabilização e custo marginal); busca da melhor convicção e do equilíbrio na alocação de custos e riscos", "confianca": "alta"},
+        {"diretor": "Camila Bomfim", "voto": "não votou (retirado de pauta); elogia a decisão", "ts": "1:21:23", "justificativa": "valores da agência: diálogo, transparência e previsibilidade, com transição", "confianca": "alta"},
+        {"diretor": "Giácomo Almeida", "voto": "não votou (retirado de pauta)", "ts": "1:21:17", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:23:02", "processo": "48500.005579/2022-14", "interessado": "Karpowership Brasil Energia Ltda. e Karpowership Futuro Energia Ltda. (UTEs KPS 1 e 2 e Porsud 1 e 2, PCS 2021); sustentações orais do Instituto Internacional Arayara (Luiz Carlos) e da Abrace (Paulo Pedrosa)",
+      "assunto": "Pedido de medida cautelar para suspender a exigibilidade de multas contratuais por atraso (CER do Procedimento Competitivo Simplificado de 2021) a serem aplicadas pela CCEE",
+      "tema": ["fiscalização e sanções (multa)", "leilões (reserva de capacidade, PCS)", "outorgas de geração (térmica)", "comercialização (CCEE)"],
+      "relator": "Giácomo Almeida", "resultado": "aprovado por unanimidade: cautelar conhecida e parcialmente provida, com suspensão das penalidades por atraso (subcláusula 7.10 do CER) até a primeira decisão da diretoria sobre as excludentes de responsabilidade",
+      "resumo_voto": "Arayara e Abrace pediram o indeferimento: o PCS foi contratação singular com prazos rígidos, e a ANEEL não pode flexibilizar o edital. A Procuradoria entendeu que se discute só a suspensão da multa, não a excludente, e recomendou cautela. O relator viu fumaça do bom direito e perigo da demora: multa de cerca de 140,7 milhões de reais (50% da receita fixa) vencendo em 20/06/2022, excludentes em análise na SFG com conclusão prevista para julho, e possibilidade de lançar a multa depois, atualizada, sem prejuízo aos usuários.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, dá parcial provimento à cautelar", "ts": "1:50:22", "justificativa": "não se analisa a excludente; suspensão até decisão da diretoria evita dano relevante, e a multa pode ser lançada depois, atualizada", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:51:09", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "1:51:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:52:03", "processo": "48500.005464/2022-11", "interessado": "Solar do Sertão 5 Energia SPE Ltda. (UFV Sertão Solar Barreiras 5, Barreiras/BA; em recuperação judicial); ONS; sustentação oral de Paulo Araújo (advogado da empresa)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar para que o ONS aceite conta caução como garantia do CUST nº 223/2020",
+      "tema": ["transmissão (CUST, garantias)", "outorgas de geração (solar)", "recursos administrativos"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: cautelar provida, com conta caução na Caixa nos padrões do manual de garantias da ANEEL e execução por determinação do ONS; recomendação à SRT de estudar a inclusão dessa modalidade nos Procedimentos de Rede",
+      "resumo_voto": "Empresa em recuperação judicial sem acesso a fiança ou CCG; a conta caução seria mais líquida e segura. O relator havia pautado o processo na 20ª ROP, retirou-o a pedido do ONS e se reuniu com o operador, que concordou. A decisão vale só para a garantia do CUST 223. Por sugestão de Camila Bomfim, incluiu-se a recomendação às áreas técnicas para avaliar a modalidade na agenda regulatória.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento à cautelar", "ts": "2:13:37", "justificativa": "fumaça do bom direito e perigo da demora; caução em dinheiro não aumenta riscos e já é prevista em outros instrumentos da ANEEL", "confianca": "alta"},
+        {"diretor": "Giácomo Almeida", "voto": "acompanha o relator", "ts": "2:16:20", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama; propôs recomendação incorporada ao voto", "ts": "2:16:23", "justificativa": "cautelar bem fundamentada, restrita ao caso, sem aumento de riscos e custos nem efeito sobre terceiros; áreas técnicas devem estudar a inclusão da modalidade nos Procedimentos de Rede", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:17:12", "processo": "48500.002108/2020-84; 48500.005054/2019-75", "interessado": "Oliveira Energia Geração e Serviços Ltda. (UTE Monte Cristo Sucuba, Boa Vista/RR); sustentação oral de André Fernandes Ribeiro (advogado)",
+      "assunto": "Pedido de reconhecimento de excludente de responsabilidade e de alteração do cronograma de implantação da UTE Monte Cristo Sucuba",
+      "tema": ["fiscalização e sanções (excludente de responsabilidade)", "outorgas de geração (térmica)", "sistemas isolados (Roraima)"],
+      "relator": "Giácomo Almeida", "resultado": "aprovado por unanimidade: pedido conhecido e, no mérito, indeferido",
+      "resumo_voto": "Processo redistribuído após a exoneração da diretora Elisa Bastos. A empresa pediu retirada de pauta por fatos novos (determinação do ONS, acordo com a Oxy Energia), mas o relator incorporou esses argumentos ao voto. Nenhuma das alegações configurou excludente: alteração técnica do sistema de interesse restrito por decisão da própria empresa, licenciamento ambiental pedido tarde e sem mora do órgão, conflito na faixa da BR-174 gerenciável, pandemia sem nexo causal (contratações às vésperas do marco). As determinações do ONS são posteriores à data de operação comercial (28/06/2021). A Procuradoria disse que sem nexo causal não há excludente.",
+      "votos": [
+        {"diretor": "Giácomo Almeida", "voto": "relator, indefere", "ts": "2:49:42", "justificativa": "não há nexo causal nem evento inevitável; os atrasos decorrem da gestão e do risco do produtor independente", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:50:02", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "2:50:05", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    "Itens 4, 17, 21, 25 e 31: retirados de pauta (anunciado pelo secretário-geral).",
+    "Item 3: retirado pelo relator Hélvio Guerra durante a sessão.",
+    "Itens 2, 8, 9, 13 e 14: não deliberados porque o relator (diretor Efrain) perdeu a conexão."
+  ],
+  "limites_da_analise": [
+    "Camila Bomfim, Giácomo Almeida e Efrain Cruz não constam da lista de diretores do config da ANEEL; usados como ditos na legenda ('diretora Camila', 'diretor Giácomo', 'diretor Efraim'/'Dr Frank'). Sobrenomes inferidos; conferir.",
+    "Atribuição dos votos de seguidores pela ordem usual (relator, outro diretor, presidente que proclama); as falas 'acompanho' não têm nome na legenda.",
+    "Números de processo e valores vêm da legenda automática e podem conter erros (sobretudo no item 3).",
+    "Nomes dos oradores (Sandro, ABEEólica; Eduardo Takamori, Engie; Luiz Carlos, Arayara; Paulo Pedrosa, Abrace; Paulo Araújo; André Fernandes Ribeiro) podem estar grafados de forma incorreta.",
+    "Conteúdo dos itens do bloco não é lido na sessão."
+  ]
+}

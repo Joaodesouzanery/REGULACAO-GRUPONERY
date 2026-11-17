@@ -1,0 +1,47 @@
+{
+ "meta": {"video_id": "s04ZsCds5dE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "35ª Reunião Pública Ordinária (Parte 2)", "data": "2022-09-20", "formato": "presencial",
+  "presidente_da_sessao": "não identificado (provavelmente Gentil Nogueira, substituindo o Diretor-Geral)",
+  "diretores_presentes": ["Gentil Nogueira", "Fernando Mosna", "Hélvio Guerra", "Ricardo Tili"],
+  "ausentes": ["Sandoval Feitosa"],
+  "observacoes": ["Parte 2 da sessão (tarde): itens 7, 9 e 10 da pauta.", "Item 7 e item 9 unânimes, relator Fernando Mosna.", "Item 10 (relator Hélvio Guerra, que perdeu a voz; relatório lido por outro diretor) terminou empatado 2 x 2; decisão aguarda o voto do Diretor-Geral Sandoval Feitosa, ausente.", "Ao final, um diretor retificou erro formal de tabela em voto de item do bloco (item 12)."]
+ },
+ "itens": [
+  {"id": "7", "ts": "0:00:20", "processo": "48100.000915/1994-11; 48500.002725/2023-71; 48500.005975/2021-71 (números incertos)", "interessado": "Brito Energética Ltda. (recorrente); Novelis do Brasil; Petra Prime (interessada no eixo)",
+   "assunto": "Recurso administrativo contra o Despacho 3.686/2020 da SCG, que negou retirar a PCH Brito da partição de quedas do rio Piranga (MG, Ponte Nova), revogou o Despacho 523/2010 e liberou o eixo a qualquer interessado",
+   "tema": ["outorgas de geração (hidrelétrica, PCH)", "recursos administrativos"],
+   "relator": "Fernando Mosna", "resultado": "unânime: conhecer do recurso e negar provimento, mantendo os Despachos 3.686/2020 e 3.700/2020",
+   "resumo_voto": "Relator entende que as leis municipais 3224 e 3225/2008 de Ponte Nova são complementares e não vedam incondicionalmente PCH; não há inviabilidade ambiental inequívoca; cláusula genérica de revogação não revoga a lei 3224 (art. 9º da LC 95/98); procuradoria pelo não provimento.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "0:25:17", "justificativa": "Leis municipais complementares; não há declaração inequívoca de inviabilidade ambiental; licenças prévias emitidas após a lei; disponibilização do eixo é consequência lógica.", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:33", "justificativa": "Fez perguntas sobre a revogação da lei municipal antes de votar.", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:33", "justificativa": "Não ouvida fala individual identificável.", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:33", "justificativa": "Não ouvida fala individual identificável.", "confianca": "baixa"}
+   ]},
+  {"id": "9", "ts": "0:36:07", "processo": "48500.000572/2022-06", "interessado": "Colina Empreendimentos e Promoções Ltda. (requerente; nome incerto na legenda); Eólica Serra do Gentio do Ouro S.A.",
+   "assunto": "Pedido de medida cautelar para interromper a emissão de outorga das EOLs Serra do Gentio do Ouro 26, 28, 29 e 30 (BA) por sobreposição com a Fazenda Poço da Porteira",
+   "tema": ["outorgas de geração (eólica)", "fiscalização e sanções", "recursos administrativos"],
+   "relator": "Fernando Mosna", "resultado": "unânime dos presentes: conhecer e dar provimento à cautelar, suspendendo o DRO das usinas 26, 28, 29 e 30 e dando conhecimento à SCG; não incluído item de envio à SFG",
+   "resumo_voto": "Presentes fumus boni iuris (registro cartorial da fazenda e sobreposição confirmada por imagem de satélite), periculum in mora (DRO permite iniciar obras) e reversibilidade. Debate sobre enviar à SFG para apurar declaração possivelmente falsa de posse; após esclarecimento da SCG de que ela própria pode encaminhar, o dispositivo foi mantido como apresentado.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, dá provimento à cautelar", "ts": "0:55:41", "justificativa": "Requisitos da cautelar presentes; análise fundiária ocorre no processo de outorga.", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:56:19", "justificativa": "Antecipou concordância: sobreposições de terra no Nordeste, às vezes de má-fé; outorga da ANEEL sendo usada em ações possessórias; achou prematuro mandar apurar conduta antes do mérito. Atribuição por inferência.", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:14:30", "justificativa": "Defendeu enviar à SFG por indício de declaração falsa de posse (falta grave), mas aceitou o esclarecimento de que a SCG pode encaminhar. Atribuição por inferência.", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (pela proclamação)", "ts": "1:14:40", "justificativa": "Votou por último e proclamou (presidência inferida).", "confianca": "baixa"}
+   ]},
+  {"id": "10", "ts": "1:15:18", "processo": "48500.002268/2016-47", "interessado": "Cooperativa de Geração Compartilhada (COGECOM, nome incerto); Energias Renováveis MASP Ltda.",
+   "assunto": "Requerimento contra o Despacho 3.781/2021 (CGH Generoso/PCH Generoso, rio Chopim) e pedido de operação individualizada da CGH Nogueira",
+   "tema": ["outorgas de geração (hidrelétrica, CGH/PCH)", "recursos administrativos"],
+   "relator": "Hélvio Guerra", "resultado": "empate 2 x 2; decisão suspensa até voto do Diretor-Geral Sandoval Feitosa (ausente)",
+   "resumo_voto": "Relator: não conhecer do pedido de reconsideração (intempestivo) e autorizar temporariamente a operação da CGH Nogueira até a outorga da PCH Generoso, condicionada aos prazos dos Despachos 3.781/2021 e 2.603/2022. Divergência: autorizar contraria a decisão de 2021 (PCH única de 8 MW) e inauguraria terceira instância.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, não conhece da reconsideração e autoriza operação temporária da CGH Nogueira", "ts": "1:32:51", "justificativa": "Avanços no cumprimento do Despacho 3.781; isonomia com a CGH Generoso; mais energia injetada sem comprometer o aproveitamento ótimo. Relatório/voto lido por outro diretor por perda de voz do relator.", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:44:24", "justificativa": "Simetria, isonomia e economicidade: usina pronta sem gerar é desperdício; rigor nos prazos para evitar protelação.", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "diverge (não autorizar operação da CGH Nogueira)", "ts": "1:34:31", "justificativa": "Despacho 3.781/2021 tratou as duas casas de força como uma PCH de 8 MW; autorizar seria terceira instância administrativa. Atribuição inferida (Tili responde «Doutor Fernando»).", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "diverge (não autorizar operação da CGH Nogueira)", "ts": "1:44:30", "justificativa": "Votou por último pela não autorização; observou que em crise hídrica a geração seria bem-vinda, mas a situação hoje é favorável. Atribuição inferida.", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática: nomes de empresas e números de processo incertos.", "Presidente da sessão não nomeado; Sandoval ausente (mencionado como quem desempatará); presidência por Gentil Nogueira é inferência.", "Itens 7 e 9: votos individuais pouco audíveis; atribuição de falas de debate a Tili e Hélvio no item 9 é inferida.", "Item 10: quem leu o voto do relator e quem formou a divergência são inferências (Fernando Mosna e o presidente); empate 2 x 2 dito pela mesa.", "Item 8 não consta desta parte (provavelmente na Parte 1 ou no bloco)."]
+}

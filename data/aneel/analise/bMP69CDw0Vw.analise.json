@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "bMP69CDw0Vw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "14ª Reunião Pública Ordinária de 2022 (Parte 2)", "data": "2022-04-26", "formato": "presencial/transmitida",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Willamy Frota", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 (tarde) da 14ª RPO de 2022.", "Dois itens deliberados, ambos por unanimidade: item 6 (orçamento CDE 2022) e item 9 (contrato da Conta Escassez Hídrica).", "Itens 7, 8 e 10 retirados de pauta a pedido dos relatores."]
+  },
+  "itens": [
+    {
+      "id": "6", "ts": "0:00:14",
+      "processo": "48500.004856/2021-82 (número incerto na legenda)", "interessado": "CCEE; agentes de distribuição e transmissão (cotistas da CDE)",
+      "assunto": "Resultado da Consulta Pública 81/2021: orçamento anual da CDE de 2022 (cerca de R$ 32,1 bi), plano anual da CCC, cotas CDE-Uso 2022 (cerca de R$ 30,2 bi), custos unitários por região e tarifas para unidades conectadas à rede básica",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária", "regulação normativa (consulta pública)"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova orçamento CDE 2022, plano da CCC, cotas CDE-Uso de maio a dezembro e TUST-CDE; apresentações da SGT (André) e SRG (Gabriel) sobre tarifa social, subsídios a fontes incentivadas, CCC e alta de combustíveis; impacto tarifário estimado de 4 a 5%.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:36:00", "justificativa": "valores expressivos com impacto de 4 a 5% nas tarifas; destaca tarifa social (cerca de 5 bi), subsídios de cerca de 10 bi e CCC de cerca de 12 bi; é preciso caminhar para redução de subsídios e da CCC; cita «não existe almoço grátis»", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:45:45", "justificativa": "fala não nomeada: não há discricionariedade da casa, cabe calcular e organizar o orçamento definido em lei; adianta concordância com o voto", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:48:30", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator (pela proclamação)", "ts": "0:48:30", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:48:59", "justificativa": "alterações legislativas de 2021-2022 (Leis 14.120, 14.146, 14.203, 14.299, 14.300) elevam encargos e tarifas, o que estimula migração ao mercado livre e à GD; urge buscar novas fontes de receita para a CDE (ex.: bônus de outorga)", "tom": "preocupação com impacto tarifário", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "9", "ts": "0:49:26",
+      "processo": "48500.002178/2022-02 (número incerto na legenda)", "interessado": "CCEE; 14 instituições financeiras (Bradesco como gestor); distribuidoras",
+      "assunto": "Aprovação das minutas do contrato de abertura de linha de crédito (R$ 5,504 bi bruto; R$ 5,340 bi líquido) e de cessão fiduciária da Conta Escassez Hídrica (MP 1.078/2021, Decreto 10.939/2022, REN 1.008/2022)",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "comercialização (CCEE)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova as minutas e determina à SGT homologar integralmente o primeiro repasse; não acolhe a cláusula sugerida pela Procuradoria por entendê-la desnecessária (mesma lógica das contas ACR e Covid; ANEEL não é parte). Redução média estimada de 12,08% nos processos tarifários de maio a dezembro de 2022. Apresentação da SFF.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:24:20", "justificativa": "contrato segue lógica das contas ACR e Covid; menções à ANEEL dão segurança e reduzem custo; ANEEL não é parte nem solidária; urgência pelo vencimento da MP em 22/05", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:25:58", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:25:58", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator (pela proclamação)", "ts": "1:25:58", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:26:03", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [{"id": "7", "motivo": "retirado de pauta a pedido do relator"}, {"id": "8", "motivo": "retirado de pauta a pedido do relator"}, {"id": "10", "motivo": "retirado de pauta a pedido do relator"}],
+  "limites_da_analise": ["Legenda automática: números de processo e valores podem estar errados.", "Item 6: a fala de concordância (0:45:45) não tem nome; atribuída a Ricardo Tili com confiança baixa (pode ser Willamy Frota ou Agnes da Costa); demais votos pela proclamação de unanimidade.", "Item 9: só duas falas de «acompanho» ouvidas sem nome; votos dos demais pela proclamação de unanimidade.", "Presidência de Sandoval Feitosa inferida (vota por último e proclama).", "Sem sustentação oral nesta parte."]
+}

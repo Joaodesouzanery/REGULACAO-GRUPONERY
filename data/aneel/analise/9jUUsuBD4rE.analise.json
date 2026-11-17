@@ -1,0 +1,654 @@
+{
+ "meta": {
+  "video_id": "9jUUsuBD4rE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo via transcricoes json; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "45ª RPO 2023",
+  "data": "2023-12-05",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Hélvio Guerra presidiu os itens 14 e 17",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com 3 diretores (Sandoval, Hélvio, Agnes); Ricardo chegou logo (antessala) e Fernando chegou depois do item 4.",
+   "Pauta com 37 itens; bloco aprovado; retirados 2, 3, 15, 19 e 10 (a pedido do relator); 9 retirado pelo autor do voto-vista; vistas nos itens 5 (Hélvio) e 1 (Sandoval).",
+   "Suspensão para almoço por volta de 3:46 a 5:59 do vídeo.",
+   "Agnes completou um ano no colegiado; homenagem aos 26 anos da ANEEL."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:21:42",
+   "processo": "itens 18 a 37 (exceto destacados/retirados)",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (itens 14 a 37, destacados 14 e 17, retirados 15 e 19) aprovados em votação conjunta",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Bloco aprovado sem debate.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:21:42",
+     "justificativa": "sem fala",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:21:48",
+     "justificativa": "sem fala",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:21:54",
+     "justificativa": "sem fala",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:21:58",
+     "justificativa": "proclama unanimidade dos presentes",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:22:16",
+   "processo": "48500.004424/2023-33 (legenda)",
+   "interessado": "ANEEL (GDG)",
+   "assunto": "Aprovação da Agenda Regulatória da ANEEL para o biênio 2024-2025; resultado da AP 20/2023",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "resiliência a eventos climáticos",
+    "satisfação do consumidor"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes, com inclusão (sugestão de Agnes) do aprimoramento do banco de preços de referência da transmissão nas demais atividades regulatórias",
+   "resumo_voto": "Publicar relatório de contribuições da AP 20/2023, aprovar a agenda 2024-2025 e publicar cronograma referencial; acatada sugestão de Agnes sobre banco de preços; Hélvio elogiou diferenciação de tarifas por qualidade; Ricardo destacou satisfação do consumidor com a distribuição.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:36:39",
+     "justificativa": "agenda com temas de vanguarda e painel de transparência; acata inclusão do banco de preços",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:50:35",
+     "justificativa": "pediu inclusão do aprimoramento do banco de preços de referência da transmissão nas demais atividades",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:50:38",
+     "justificativa": "destacou diferenciação de tarifas em função da qualidade do serviço",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:50:40",
+     "justificativa": "destacou avaliação da satisfação do consumidor com o serviço de distribuição",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:51:36",
+   "processo": "48500.002651/2022-43 (legenda)",
+   "interessado": "transmissoras; sustentações orais: ABRATE (Thiago Aragão), Copel GT (Thiago de Barros Correia), CTEEP (Rodrigo Campos), Eletrobras (Rafael Tasque)",
+   "assunto": "Resultado (parcial) da CP 31/2023: revisão dos submódulos 9.1 e 9.2 do PRORET (revisão periódica da RAP das transmissoras): JOA, BAR/CAIM, índice de serviços do banco de preços (IPCA), módulos incompletos, VOC",
+   "tema": [
+    "transmissão (RAP, revisão tarifária)",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista do diretor Hélvio Guerra; dois diretores já acompanhavam a relatora",
+   "resumo_voto": "Relatora: emitir REN aprovando revisão dos submódulos 9.1 e 9.2 (conclusão parcial da CP 31/2023), mantida mediana e IPCA para serviços; determinar à SCE, com SFF e STR, cronograma em 90 dias para aprimorar o banco de preços de referência; prazo de laudos fixado em 3/3/2024.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova (conclusão parcial da CP 31/2023)",
+     "ts": "1:43:00",
+     "justificativa": "preservar o cronograma da RTP 2023 adiada para 1/7/2024; mantém mediana e IPCA por falta de estudos que sustentem alternativas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:59:34",
+     "justificativa": "sem justificativa ouvida; atribuição pela ordem de fala",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:59:36",
+     "justificativa": "sem justificativa ouvida; atribuição incerta (presença de Fernando neste item não confirmada pela fala)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "1:59:39",
+     "justificativa": "questionou o que efetivamente se aprova e o prazo apertado (penúltima reunião do ano, diretoria «emparedada»)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:59:42",
+     "justificativa": "comentou que se aprovam só metodologias da base de remuneração para os laudos; concedeu vista",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:59:50",
+   "processo": "48500.000715/2019-01 (legenda)",
+   "interessado": "ONS; MME; EPE",
+   "assunto": "Abertura de consulta pública sobre sandbox regulatório (produto alternativo) para serviço ancilar de suporte de reativos para controle de tensão (art. 33-A da REN 1.030, alterada pela REN 1.062/2023); subestações em Minas Gerais do POTEE",
+   "tema": [
+    "transmissão (reforços, POTEE)",
+    "serviços ancilares",
+    "regulação normativa (consulta pública, sandbox)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: CP com 47 dias (7/12/2023 a 22/1/2024); produto com entrega imediata e vigência de até 3 anos, concatenado com reforços estruturais, que seguem rito ordinário",
+   "resumo_voto": "Sandbox e reforços estruturais do POTEE caminham em paralelo; MME e ONS confirmaram baixo risco.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "2:10:00",
+     "justificativa": "MME e ONS confirmaram que o sandbox não conflita com os reforços; autorização dos reforços segue rito ordinário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:25:19",
+     "justificativa": "dúvida sanada: não faz sentido o POTEE mandar aguardar o sandbox; processos paralelos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:25:19",
+     "justificativa": "interpretação de que o POTEE não impede a ANEEL de autorizar reforços priorizados pelo ONS",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:25:22",
+     "justificativa": "sem fala individual; atribuição por exclusão",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:25:30",
+     "justificativa": "inovação tecnológica e processo concorrencial em paralelo ao determinístico",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:26:37",
+   "processo": "48500.000720/2022-84 (legenda)",
+   "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
+   "assunto": "Recurso contra Auto de Infração 12/2022 (multa de cerca de R$ 95 milhões por violação de DEC/FEC em 2021 e descumprimento do plano de resultados); voto-vista do Diretor-Geral",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição e qualidade (DEC/FEC)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "retirado de pauta pelo autor do voto-vista (Sandoval Feitosa) após debate; sem deliberação",
+   "resumo_voto": "Relator (39ª RPO, 24/10/2023) reduzira a multa para cerca de R$ 53 milhões (exclusão da reincidência e atenuação de 25% por melhoria). Voto-vista: parcial provimento só para excluir a reincidência (multa de cerca de R$ 71,6 milhões), sem retroação de entendimento mais benéfico, e cancelar os precedentes do Despacho 546/2022. Hélvio anunciou divergência pela multa integral à luz do apagão de 3/11/2023; Ricardo questionou se houve de fato erro na reincidência.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator (voto proferido na 39ª RPO, mantido em debate)",
+     "ts": "2:56:02",
+     "justificativa": "diretoria pode interpretar a norma e não está vinculada a parecer da AGU não aprovado pelo Presidente da República; discordou de tese que reduz o papel interpretativo do colegiado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: parcial provimento (exclui reincidência, multa de cerca de R$ 71,6 milhões) e cancelar precedentes do Despacho 546/2022; depois retira de pauta",
+     "ts": "2:27:43",
+     "justificativa": "Parecer AGU 28/2015: não retroatividade da norma mais benéfica; REN 846/2019 reduziu discricionariedade; melhoria posterior não elide a infração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "diverge (anunciado): penalidade integral, sem atenuante",
+     "ts": "3:07:05",
+     "justificativa": "revê voto anterior; fato superveniente (evento de 3/11/2023, milhões sem energia e falhas de comunicação) desabona a melhoria alegada",
+     "confianca": "alta",
+     "tom": "crítico à Enel"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "3:10:00",
+     "justificativa": "entende que a reincidência específica foi aplicada corretamente; elogiou voto-vista por aplicar estritamente a norma; questionou cancelar precedentes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "3:46:17",
+     "justificativa": "sem manifestação identificada",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "5:59:25",
+   "processo": "48500.003350/2023-1x (legenda)",
+   "interessado": "Copel Geração e Transmissão; Celesc Distribuição; ABRADEE",
+   "assunto": "Requerimento da Copel GT para retificar o processamento do MCSD 4% e mensal dos CCEARs repactuados (Despacho 1.395/2019, UHE Gov. Bento Munhoz / Gov. José Richa); pedido da Celesc de diferimento",
+   "tema": [
+    "comercialização (CCEE, MCSD, contratos)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator, acompanhado pelo voto-vista",
+   "resumo_voto": "Parcial provimento: CCEE reprocessa MCSD 4% de out/2022 e out/2023 com base nos montantes do Despacho 1.395/2019; reprocessa MCSD mensais suspensos mantidas as declarações; recontabiliza e cobra emolumentos da Copel GT; nega diferimento à Celesc.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (voto anterior mantido)",
+     "ts": "6:19:48",
+     "justificativa": "voto proferido em sessão anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "6:00:00",
+     "justificativa": "CCEE errou ao usar o montante de 8 anos do 4º leilão como base dos 4%; contratos repactuados são novos contratos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:19:48",
+     "justificativa": "todos permanecem com os votos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:19:48",
+     "justificativa": "todos permanecem com os votos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:19:48",
+     "justificativa": "todos permanecem com os votos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "6:20:07",
+   "processo": "48500.004437/2021 (legenda; número incerto)",
+   "interessado": "AM Torres Ltda.; Enel Distribuição Rio; sustentação oral: ABRADEE (Ricardo Brandão)",
+   "assunto": "Medida cautelar para suspender o cancelamento de 8 orçamentos de conexão de minigeração distribuída fotovoltaica (8 x 2,5 MW, Iguaba Grande-RJ) por suposta divisão de central geradora (art. 655-E da REN 1.000; Lei 14.300)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "recursos administrativos (cautelar)",
+    "distribuição"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, cautelar concedida nos termos do relator (vencidos Agnes da Costa, autora do voto-vista, e Sandoval Feitosa)",
+   "resumo_voto": "Suspender os cancelamentos dos orçamentos de conexão até o julgamento definitivo do pedido de anulação.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, mantém voto: concede a cautelar",
+     "ts": "7:23:01",
+     "justificativa": "há fumaça do bom direito, perigo da demora e reversibilidade; falta critério objetivo para caracterizar divisão; memorando da SMA é orientativo e a nota da PF não afirma ausência de fumus",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "voto-vista: nega a cautelar (vencido)",
+     "ts": "6:38:03",
+     "justificativa": "distribuidora cumpriu a REN 1.000 (competência delegada); ouvidoria e PF não identificaram fumaça do bom direito; indícios de divisão (mesmo representante, contiguidade, mesmo dia)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "7:23:07",
+     "justificativa": "em sede cautelar há vácuo regulatório de critérios objetivos; mérito ainda em instrução",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "7:23:43",
+     "justificativa": "prefere ser conservador e não negar cautelar; nunca houve critério objetivo para divisão de usinas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista (vencido)",
+     "ts": "7:24:15",
+     "justificativa": "fatos mostram de forma inequívoca concertação para dividir empreendimento de 20 MW; caso do TCU não se aplica",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "7:25:01",
+   "processo": "48500.006877/2022-13 e 48500.003600/2023-1 (legenda)",
+   "interessado": "Energisa Acre",
+   "assunto": "Revisão tarifária periódica 2023 da Energisa Acre (efeito médio 14,52%) e limites de DEC/FEC 2024-2028, após CP 32/2023",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa (para julgar junto com Rondônia); dois diretores já acompanhavam o relator",
+   "resumo_voto": "Aprovar RTP com efeito médio de 14,52% (AT 18,47%; BT 13,63%), retirada das flexibilizações de perdas e custos operacionais, componente T de 0,733%, perdas e limites DEC/FEC.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "7:49:00",
+     "justificativa": "redução de cerca de 22% na CP para 14,52% por reanálise de dados, sem diferimento; elogio à qualidade da Energisa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:52:00",
+     "justificativa": "sem justificativa ouvida; atribuição pela ordem",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "7:52:00",
+     "justificativa": "sem justificativa ouvida; atribuição pela ordem",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "7:52:07",
+     "justificativa": "julgar em conjunto com a RTP de Rondônia, dada a correlação entre os processos",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "7:52:27",
+   "processo": "48500.004197/2023-46 (legenda)",
+   "interessado": "CCEE; Estado de Pernambuco",
+   "assunto": "Resultado da CP 37/2023: Regras de Comercialização versão 2024 (alocação de energia ACL para ACR, desconto provisório, cotas do PROINFA, limite de registro de contratos, órgãos da administração indireta)",
+   "tema": [
+    "comercialização (CCEE, regras)",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprovar Regras de Comercialização 2024, alterar REN 957/2021 e 1.009/2022 (legenda: 19/199) e revogar dispositivos da REH 3.291/2023 (PROINFA).",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "8:04:00",
+     "justificativa": "mecanismo de alocação ACL para ACR vinha sendo usado para arbitragem de PLD; ajuste já em 2024",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "8:10:17",
+     "justificativa": "perguntou se o ajuste elimina a arbitragem",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "8:10:20",
+     "justificativa": "elogiou cumprimento da agenda regulatória",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "8:10:23",
+     "justificativa": "sem justificativa",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "8:11:07",
+   "processo": "48500.005242/2023 (legenda)",
+   "interessado": "Enel Distribuição Ceará; Conselho de Consumidores do Ceará",
+   "assunto": "Fechamento da agência de atendimento presencial do bairro Conjunto Ceará (Fortaleza)",
+   "tema": [
+    "distribuição e qualidade (atendimento ao consumidor)",
+    "fiscalização"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "por maioria, determinada a reabertura imediata da agência (vencido parcialmente Hélvio Guerra); por unanimidade, SMA e STD estudam em 60 dias atualização do regulamento de postos presenciais",
+   "resumo_voto": "Enel não apresentou o estudo exigido; pesquisa do conselho de consumidores mostrou demanda presencial crescente.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova (reabertura e estudo)",
+     "ts": "8:23:09",
+     "justificativa": "número de consumidores não reflete necessidade de atendimento presencial; Enel não trouxe estudo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "8:37:11",
+     "justificativa": "sensibilidade com consumidores; tema surgiu na revisão tarifária da Enel CE",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha parcialmente (só o estudo); diverge da reabertura",
+     "ts": "8:37:14",
+     "justificativa": "ANEEL não deve entrar na gestão da empresa; a Enel CE tem má qualidade (47ª de 51 no IASC) e deve atender adequadamente",
+     "confianca": "alta",
+     "tom": "crítico à Enel"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "8:39:55",
+     "justificativa": "norma permitiria uma única agência numa metrópole; precisa de critérios objetivos",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "8:40:36",
+   "processo": "48500.008306/2022-13 (legenda)",
+   "interessado": "Rio City Gestão Imobiliária Ltda.; CCEE",
+   "assunto": "Impugnação da decisão da CCEE que negou adesão da Rio City (novo modelo de negócio); voto-vista do Diretor-Geral",
+   "tema": [
+    "comercialização (CCEE, adesão)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: provimento à impugnação; recomendação à SGM, com a CCEE, de monitorar o novo arranjo comercial",
+   "resumo_voto": "Modelo novo de negócio sem proibição expressa; PF não viu simulação nem abuso.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (voto anterior)",
+     "ts": "8:44:28",
+     "justificativa": "voto proferido em sessão anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha integralmente o relator",
+     "ts": "8:41:57",
+     "justificativa": "diligências, contratos e PF: sem simulação, abuso de direito ou intenção maliciosa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (voto anterior, pela proclamação)",
+     "ts": "8:44:28",
+     "justificativa": "Sandoval diz que Agnes, Ricardo e Fernando já haviam votado",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (voto anterior, pela proclamação)",
+     "ts": "8:44:28",
+     "justificativa": "idem",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (voto anterior, pela proclamação)",
+     "ts": "8:44:28",
+     "justificativa": "Sandoval: 'se eu não me engano' Fernando também votou; ausente da sala nesta parte",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "8:45:15",
+   "processo": "48500.005465/2023-47 (legenda)",
+   "interessado": "Dunamis Projetos de Energia Fotovoltaica (UFVs Dunamis 1 a 4); ONS; sustentação oral: Camila Alves",
+   "assunto": "Cumprimento de decisão judicial: cálculo da TUST estabilizada pela REN 559/2013 para as UFVs Dunamis (ciclo de referência 2022-2023 x 2023-2024)",
+   "tema": [
+    "transmissão (TUST)",
+    "judicialização",
+    "outorgas de geração (solar)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes (sessão presidida por Hélvio Guerra): TUST máximas com ciclo de referência 2022-2023; delegação à STR para casos semelhantes",
+   "resumo_voto": "Rejeitada a tese da Dunamis de usar o ciclo 2023-2024 (cerca de 10% menor); CUST iniciou execução no ciclo 2022-2023.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "9:02:54",
+     "justificativa": "mantém metodologia aplicada a casos anteriores; início de execução do CUST no ciclo 2022-2023",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "9:06:29",
+     "justificativa": "sem justificativa ouvida",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (presidindo)",
+     "ts": "9:06:31",
+     "justificativa": "perguntou diferença entre bases (cerca de 10%)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "9:08:04",
+   "processo": "48500.000877/2023-91 e 48500.006838/2022-16 (legenda)",
+   "interessado": "Lago SP e outras transmissoras; Itamaracá Transmissora; sustentação oral: ABRATE (Thiago Aragão)",
+   "assunto": "Pedidos de reconsideração contra a REH 3.216/2023 (RAP ciclo 2023-2024); ABRATE pediu não incluir encargos rescisórios inadimplentes na parcela de ajuste",
+   "tema": [
+    "transmissão (RAP)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes: conhece recursos tempestivos, não conhece o da Itamaracá (intempestivo), parcial provimento nos termos da NT 156 da STR",
+   "resumo_voto": "Regra vigente aplicada; mérito dos encargos rescisórios segue em outro processo (Despacho 1.079 da STD, sem efeito suspensivo).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "9:20:16",
+     "justificativa": "pleito da ABRATE será discutido no mérito em outro processo; conceder agora equivaleria a efeito suspensivo negado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "9:37:48",
+     "justificativa": "cogitou vista ou suspender a parte da PA, mas entendeu que o mérito será apreciado antes de julho",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (presidindo)",
+     "ts": "9:37:55",
+     "justificativa": "sem justificativa",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2",
+  "3",
+  "15",
+  "19",
+  "10 (a pedido do relator)",
+  "9 (retirado pelo Diretor-Geral, autor do voto-vista, após debate)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes podem estar errados (ex.: Mosna como 'mna/mozna', Hélvio como 'évio/elvel/Neves guerra').",
+  "O cabeçalho do .md lista Gentil Nogueira e Ludimila Lima como falantes, mas eles não eram diretores nesta sessão (Ludmila citada como servidora); não foram atribuídos votos a eles.",
+  "Presença de Fernando Mosna inferida: ausente no item 4, presente nos itens 7 a 12; pela contagem de votos, provavelmente saiu depois do item 12 (itens 1, 6 e 8 fecham com 4 presentes).",
+  "Sandoval Feitosa ausente nos itens 14 e 17 (presididos por Hélvio Guerra; só 3 votos).",
+  "Item 5: quem acompanhou a relatora antes da vista não foi identificado pelo nome (atribuído a Ricardo e Fernando com confiança baixa).",
+  "Item 1: os dois 'acompanho' não têm nome; atribuídos a Agnes e Ricardo pela ordem.",
+  "Item 11: votos dos demais registrados em sessão anterior, segundo o Diretor-Geral.",
+  "Item 9 sem deliberação: posições registradas são as manifestadas no debate.",
+  "Itens do bloco não detalhados (votos e atos publicados previamente)."
+ ]
+}

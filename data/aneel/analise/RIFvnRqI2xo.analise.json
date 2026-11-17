@@ -1,0 +1,327 @@
+{
+ "meta": {
+  "video_id": "RIFvnRqI2xo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "24ª Reunião Pública Ordinária de 2023",
+  "data": "2023-07-11",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)"
+  ],
+  "observacoes": [
+   "Pauta com 26 itens; itens 6 a 26 em bloco; retirados 3 e 11; ata da 23ª RPO aprovada com abstenção de Fernando Mosna (não participou).",
+   "Item 5 sem decisão por empate 2 a 2 (sem três votos convergentes); aguarda o retorno de Sandoval Feitosa.",
+   "Item 12 retirado de pauta pelo relator após sustentação oral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:38",
+   "processo": "itens 6 a 26 (exceto 11, retirado, e 18, destacado)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 6 a 26 com votos disponibilizados previamente; item 18 destacado a pedido de Agnes da Costa",
+   "tema": [
+    "recursos administrativos",
+    "diversos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado o bloco, exceto o item 18 (destacado)",
+   "resumo_voto": "Itens de bloco aprovados; segundo o secretário, incluíam recursos administrativos, pedidos de reconsideração, medidas cautelares e declarações de utilidade pública.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco, com destaque do item 18",
+     "ts": "0:06:38",
+     "justificativa": "Pediu destaque do item 18 e aprovou os remanescentes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:06:45",
+     "justificativa": "Aprovou os itens remanescentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:06:45",
+     "justificativa": "Aprovou os itens remanescentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:06:50",
+     "justificativa": "Proclamou a aprovação do bloco, exceto o item 18.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:07:28",
+   "processo": "48500.001719/2023-58",
+   "interessado": "centrais geradoras com CUST celebrado (pleito da Abrasol/associação; contribuição da Canadian Solar)",
+   "assunto": "Mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (CP 15/2023): anistia, regularização e alocação da margem de escoamento; voto-vista",
+   "tema": [
+    "transmissão (CUST, margem de escoamento)",
+    "outorgas de geração",
+    "regulação normativa (consulta pública, resolução normativa)"
+   ],
+   "relator": "Hélvio Guerra (voto-vista de Fernando Mosna)",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista de Fernando Mosna: emissão de resolução normativa (anistia com MCSD extraordinário de energia nova para contratos ACR de 2025, regularização com prazo de implantação estendido em 36 meses, diferimento e parcelamento em até 12 vezes dos EUST suspensos por liminar, garantia de cerca de 40 meses de EUST, fila cronológica para a margem liberada) e extinção da determinação de estudos à STD",
+   "resumo_voto": "Voto-vista de Fernando Mosna substitui a segunda fase de consulta pública por regulamentação imediata via resolução normativa; sustentação oral indeferida (volta de vista). Hélvio levantou dúvida sobre CUST já rescindidos (caso São Roque); Ricardo e Agnes preferiram tratar casos concretos depois.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista vencedor",
+     "ts": "0:07:40",
+     "justificativa": "Regulamentar já a regularização e a fila; MCSD excepcional para descontratar ACR de 2025; garantias e diferimento dos valores suspensos por liminar; resolução normativa conforme parecer 198/2023 da PF.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator original, acompanha o voto-vista",
+     "ts": "1:29:19",
+     "justificativa": "Disse que as garantias e condições trazidas resolveram sua dúvida sobre regularizar sem nova fase de consulta; ponderou casos de CUST rescindidos, a tratar depois.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:29:05",
+     "justificativa": "Elogiou a solução para o ACR e a regularização de quem tem valores suspensos por liminar; contra abrir para CUST rescindidos sem estudo («o ótimo é inimigo do bom»).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:29:13",
+     "justificativa": "Tratou do caso São Roque; casos de CUST rescindido podem ser analisados em caso concreto.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:34:46",
+   "processo": "48500.005336/2005-88 e outros",
+   "interessado": "CH4 Energia, Pecém Energia, Energética Camaçari Muricy, EPESA (UTEs Camaçari Muricy 2, Pecém 2, Pau Ferro 1, Termomanaus)",
+   "assunto": "Alteração de características técnicas das UTEs Camaçari Muricy 2 e Pecém 2 (instalação no sítio de Pau Ferro 1 e Termomanaus, Igarassu/PE), revogação das transferências de titularidade (REAs 11.914 e 11.915/2022) e revogação das outorgas de Pau Ferro 1 e Termomanaus a partir de 1/1/2024",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (A-3 2/2006)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "sem decisão: empate 2 a 2; aguardar retorno do Diretor-Geral Sandoval Feitosa",
+   "resumo_voto": "Relator votou por deferir tudo (aproveitamento dos ativos após fim dos contratos é risco do PIE, como no precedente Camaçari 2020). Sustentação oral de Guilherme Pereira Baggio (CH4 Energia). Procuradoria (parecer 155/2023) entendeu não haver empreendimento novo e possível burla ao leilão.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:54:28",
+     "justificativa": "Ao fim dos contratos e outorgas em 31/12/2023 os ativos ficam livres; o edital não veda equipamentos usados; caso idêntico a Camaçari, apenas antecipado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (inferido)",
+     "ts": "2:43:24",
+     "justificativa": "Questionou premiar agente que não cumpriu o contrato por anos, usinas amortizadas entregando 'energia nova' e falta de análise de vantajosidade de usina a diesel por mais 15 anos.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge (inferido)",
+     "ts": "2:43:24",
+     "justificativa": "Com base no parecer da PF, viu dificuldade em aprovar: não seria empreendimento novo e haveria burla ao procedimento licitatório; não se pode abstrair que a outorga ainda vige.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:43:27",
+     "justificativa": "Atraso foi por judicialização (decisão do STF), não culpa do empreendedor; energia nova não depende de equipamento novo; revogação pedida pelo próprio agente a partir de 1/1/2024.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:44:18",
+   "processo": "48500.003254/2023-70",
+   "interessado": "Eletronorte (Centrais Elétricas do Norte do Brasil); CCEE",
+   "assunto": "Impugnação com pedido de efeito suspensivo contra deliberação do CAd da CCEE sobre procedimento de desligamento por descumprimento de obrigações (atraso de 1 dia no recolhimento à Conta Bandeiras por erro do banco); monitoramento de 6 meses",
+   "tema": [
+    "comercialização (CCEE)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: provimento à impugnação, extinto o procedimento de desligamento 7199, e recomendação à área técnica para avaliar em 30 dias alteração da REN 957/2021",
+   "resumo_voto": "Sustentação oral de Nívea Guimarães da Costa (Eletronorte). Agnes pediu que se agregasse aprimoramento da norma (critérios objetivos e carência); Ricardo sugeriu dirigir à SGM; relator incorporou como recomendação com prazo de 30 dias.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:59:19",
+     "justificativa": "Atraso de um dia causado por falha reconhecida do banco; incorporou recomendação de 30 dias para avaliar a REN 957.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (com sugestão incorporada)",
+     "ts": "2:52:00",
+     "justificativa": "Monitoramento não razoável no caso, mas a norma está defasada; pediu aprimoramento do rito de desligamento.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:58:23",
+     "justificativa": "Sanção desproporcional para ato sem lesividade (cerca de R$ 1,4 milhão frente a liquidação de R$ 300 milhões/mês); sugeriu estudo pela SGM.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (ausente, incerto)",
+     "ts": "2:45:06",
+     "justificativa": "Fernando Mosna avisou que precisava se ausentar (2:45:06) e foi agradecido no encerramento como quem precisou se ausentar; não se ouve voto dele nos itens 18, 1 e 2 e a proclamação cita só 'unanimidade'.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "3:01:22",
+   "processo": "48500.006859/2022-31",
+   "interessado": "Energisa Sul-Sudeste (ESS)",
+   "assunto": "Reajuste tarifário anual 2023 da Energisa Sul-Sudeste, vigência a partir de 12/7/2023",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: efeito médio de 10,65% (8,58% alta tensão; 11,58% baixa tensão)",
+   "resumo_voto": "Apresentação técnica da STR (Leonardo); parcela A 7,75, financeiros 2,37; procuradoria sem óbice.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:15:00",
+     "justificativa": "Reajuste seguiu os trâmites e o Proret.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:16",
+     "justificativa": "Sem fala individual ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:16",
+     "justificativa": "Sem fala individual ouvida.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (ausente, incerto)",
+     "ts": "3:16:16",
+     "justificativa": "Fernando Mosna avisou que precisava se ausentar (2:45:06) e foi agradecido no encerramento como quem precisou se ausentar; não se ouve voto dele nos itens 18, 1 e 2 e a proclamação cita só 'unanimidade'.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "3:17:38",
+   "processo": "48500.006876/2022-79 e 48500.003257/2023-11",
+   "interessado": "CPFL Piratininga",
+   "assunto": "Abertura de consulta pública da revisão tarifária periódica da CPFL Piratininga (vigência 23/10/2023) e limites DEC/FEC 2024-2027",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: CP de 12/7 a 28/8/2023, audiência presencial em Santos/SP em 24/8/2023; efeito médio preliminar -1,92%",
+   "resumo_voto": "Apresentação técnica da STR; alta tensão -9,38%, baixa tensão +2,63%.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:30:00",
+     "justificativa": "Seguidos os módulos 2 e 7 do Proret.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "3:31:51",
+     "justificativa": "'Eu acompanho' sem nome; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:31:54",
+     "justificativa": "Sem fala individual identificada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (ausente, incerto)",
+     "ts": "3:31:54",
+     "justificativa": "Fernando Mosna avisou que precisava se ausentar (2:45:06) e foi agradecido no encerramento como quem precisou se ausentar; não se ouve voto dele nos itens 18, 1 e 2 e a proclamação cita só 'unanimidade'.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "3:32:59",
+   "processo": "48500.000536/2021-53 e 48500.000535/2021-17",
+   "interessado": "Goiás Transmissão S.A. e MGE Transmissão S.A.",
+   "assunto": "Recursos contra despachos da SCT que não conheceram, por prescrição, pedidos de extensão do prazo de concessão (art. 19 da Lei 13.360/2016)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator após sustentação oral",
+   "resumo_voto": "Sustentação oral de Paulo (representante da MGE Transmissão) invocando o precedente da PCH Divisa; procurador manteve que a prescrição conta da operação comercial. Relator, cujo voto vinha por conhecer o pedido, retirou para aprofundar e ouvir de novo a procuradoria.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "retira de pauta",
+     "ts": "3:52:46",
+     "justificativa": "Complexidade do tema; aprofundar e consultar a procuradoria.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "3 (retirado antes da sessão)",
+  "11 (retirado antes da sessão)",
+  "12 (retirado pelo relator na sessão)"
+ ],
+ "limites_da_analise": [
+  "Item 5: só se ouvem 'Eu também acompanho divergência' (2:43:24) e 'eu acompanho o voto do relator' (Hélvio). Os votos divergentes de Agnes e Fernando foram inferidos pelas manifestações críticas e pelo empate; o voto de Agnes não se ouve na legenda.",
+  "Fernando Mosna avisou que precisava se ausentar (2:45:06) e foi agradecido no encerramento como quem precisou se ausentar; não se ouve voto dele nos itens 18, 1 e 2 e a proclamação cita só 'unanimidade'. Se ele votou, os votos seriam 'acompanha o relator'.",
+  "Nomes de pessoas externas vêm da legenda automática (Guilherme Pereira Baggio, Nívea Guimarães da Costa, Paulo Justino Costa Filho/'Paulo de Tarso'?) e podem estar errados; números de processo foram reconstruídos da fala.",
+  "Itens do bloco não foram detalhados individualmente (sem leitura em sessão)."
+ ]
+}

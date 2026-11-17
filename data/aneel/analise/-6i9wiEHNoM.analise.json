@@ -1,0 +1,57 @@
+{
+ "meta": {"video_id": "-6i9wiEHNoM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "31ª Reunião Pública Ordinária de 2023 (Parte 1, manhã)", "data": "2023-08-29", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) até o item 8; depois Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+  "ausentes": [],
+  "observacoes": ["Abertura com quórum de três diretores (Sandoval, Hélvio, Agnes); Ricardo Tili e Fernando Mosna chegaram ao longo da sessão.", "Pauta com 40 itens; itens 10 a 40 em bloco; retirados de pauta os itens 15 e 18; sustentação oral pedida nos itens 4, 6, 7, 8, 9, 16 e 24. Ordem: bloco, 8, 4, 5, 7, 2 (Hélvio pediu o item 4 antes do 5/7 por viagem).", "Após o item 8 Sandoval Feitosa saiu para acompanhar o ministro em audiência na Câmara e passou a presidência a Hélvio Guerra.", "Sessão suspensa às ~3:30 do vídeo para retomada às 15h (Parte 2 em outro vídeo; itens 1, 9, 3, 6, 16, 24 não estão aqui).", "Todos os itens deliberados foram aprovados por unanimidade."]
+ },
+ "itens": [
+  {"id": "ata+bloco", "ts": "0:05:30", "processo": "", "interessado": "", "assunto": "Aprovação da ata da 30ª RPO de 2023 e dos itens 10 a 40 em bloco", "tema": ["institucional"], "relator": "não identificado", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Ata aprovada após manifestação de Ricardo Tili (Agnes estava ausente na 30ª). Bloco aprovado por unanimidade dos diretores presentes.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova (proclama)", "ts": "0:06:30", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova", "ts": "0:06:26", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "aprova", "ts": "0:06:27", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "aprova", "ts": "0:06:28", "confianca": "baixa"}
+   ]},
+  {"id": "8", "ts": "0:07:03", "processo": "48500.001280/2022-82", "interessado": "ONS; geradores eólicos e fotovoltaicos; ABEEólica; Ventos de Santa (nome incerto)", "assunto": "Resultado da 2ª fase da Consulta Pública 52/2022: acesso à transmissão no cenário de expansão de geradores eólicos e fotovoltaicos (fim da informação de acesso, fila cronológica, garantia de 3 EUST na solicitação de acesso, CUST em até 36 meses, 60 meses para hídricas, vigência 1/3/2024); determinação à STD de estudo em 6 meses sobre leilão de margem e análise por lotes", "tema": ["transmissão", "regulação normativa", "outorgas de geração"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Sustentações: Bárbara (ABEEólica) e Pedro Marcelo pediram retirada de pauta por nota técnica publicada só no dia; ONS (Marcelo Prais) defendeu análise em lotes/processo competitivo. Procurador não viu necessidade de retirada. Relator manteve ordem cronológica com 'fila inteligente' e determinou estudo sobre leilão de margem e lotes.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:59:07", "justificativa": "ordem cronológica mais simples e transparente; garantias afastam quem não tem real interesse; extinção da informação de acesso moderniza a regulação; estudo de lotes/leilão de margem pode subsidiar o ministério", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:33:57", "justificativa": "preocupação com a publicação tardia da nota técnica e com a interligação de vários processos (CP 15, 20, 39); elogiou a determinação 4", "tom": "ressalva procedimental", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:34:00", "justificativa": "questionou se o estudo de leilão de margem invade competência do MME (consulta pública do ministério em aberto); propôs consolidar temas correlatos num só relator; depois disse não ter dúvida sobre a competência para fazer estudo", "tom": "questionador", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:34:05", "justificativa": "perguntou o valor do encargo de postergação de 12 meses; pediu que a CP 20 seja deliberada antes da vigência e estudo com análise jurídica e sem importação acrítica de modelos estrangeiros", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama)", "ts": "1:34:08", "justificativa": "proposta consensuada; discordou de Ricardo e alinhou-se a Hélvio e Fernando sobre competência; alertou para questão concorrencial de um processo competitivo de margem", "confianca": "alta"}
+   ]},
+  {"id": "4", "ts": "1:36:48", "processo": "48500.005677/2022-43", "interessado": "comercializadores varejistas; CCEE; Abraceel (sustentação de Alexandre Pedrosa Monteiro Lopes)", "assunto": "Abertura de consulta pública (intercâmbio documental, 45 dias, 30/08 a 13/10/2023) para aprimorar a regulamentação da comercialização varejista sob a ótica da abertura de mercado (Portaria MME 50/2022, Lei 14.120/2021) e agregação de dados de medição", "tema": ["comercialização", "regulação normativa"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade", "resumo_voto": "Abraceel pediu eliminar exigências adicionais de medição na migração. Relator: consumidores do grupo A já são telemedidos, não haverá necessidade de adequação; agregação de dados pela CCEE; workshop com a CCEE em São Paulo.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:02:03", "justificativa": "passo importante para abertura completa do mercado; 165 mil unidades do grupo A com potencial de migração; dispensa de AIR", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:00", "justificativa": "elogiou a ideia do workshop como forma mais interativa de colher subsídios", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:30", "confianca": "baixa"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (proclama)", "ts": "2:03:33", "confianca": "alta"}
+   ]},
+  {"id": "5", "ts": "2:04:08", "processo": "48500.004004/2014-66", "interessado": "pequenas centrais hidrelétricas (PCH); Abragel e outras associações", "assunto": "Resultado da Audiência Pública 13/2019: alteração da REN 875/2020 para autorização de PCH (DRS-PCH com prazo de 8 anos ou 2026, fim do critério de 13 km2 de reservatório, fim da garantia de fiel cumprimento, devolução de garantias de registro)", "tema": ["outorgas de geração", "regulação normativa"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Relator negou retirada de pauta; viu convergência com as contribuições; determinou à SCE a devolução das garantias de registro.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:22:48", "justificativa": "convergência com as contribuições da audiência e das reuniões com associações", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:23:57", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:23:58", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:23:59", "confianca": "media"}
+   ]},
+  {"id": "7", "ts": "2:24:28", "processo": "48500.003665/2017", "interessado": "geradores eólicos, solares, térmicos e híbridos; Engie/Energisa (Hugo Leite, nome incerto); ABEEólica (Bárbara); Pedro Marcelo", "assunto": "Resultado da Consulta Pública 39/2022: nova resolução sobre requisitos e procedimentos de outorga de autorização de centrais eólicas, fotovoltaicas, termelétricas, híbridas e outras, em substituição à REN 876/2020 (inversão de fases com CUST antes da outorga, fim da garantia de fiel cumprimento, DRO com validade de 4 anos, prazo de 54 meses, transição de 30/90 dias)", "tema": ["outorgas de geração", "regulação normativa", "transmissão"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Sustentações pediram tratar interferência mais cedo, critérios de início de obra para complexos, ajuste para projetos com CUST assinado e prazo de transição maior. Procurador: não há direito adquirido a regime jurídico. Relator achou 30 dias mais que suficientes e se comprometeu a publicar notas técnicas com antecedência.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:10:42", "justificativa": "interferência é responsabilidade do agente há anos; garantia do CUST substitui a de fiel cumprimento; 30 dias bastam para anexar documentos existentes", "tom": "firme", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:11:13", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "3:11:15", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "3:11:17", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "3:11:44", "processo": "48500.006887/2022-59 e 48500.004129/2023-87", "interessado": "Equatorial Piauí Distribuidora de Energia S.A.", "assunto": "Abertura de consulta pública (30/08 a 13/10/2023, audiência presencial em Teresina em 14/09) sobre a 1ª revisão tarifária periódica da Equatorial Piauí a vigorar em 02/12/2023 (efeito médio proposto de 20,65%) e limites de DEC/FEC 2024-2028", "tema": ["tarifas e revisão tarifária", "distribuição e qualidade", "regulação normativa"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade", "resumo_voto": "Apresentação técnica: efeito médio 20,65% (grupo A 15,32%, grupo B 22,03%); perdas regulatórias; DEC 19,71 h em 2024 a 15,31 h em 2028.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura da consulta", "ts": "3:28:34", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (proclama)", "ts": "3:29:26", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:29:26", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "3:29:26", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": ["itens 15 e 18 (retirados de pauta, assunto não dito)"],
+ "limites_da_analise": ["Parte 1 apenas (manhã); demais itens na Parte 2.", "Bloco: ouvidos três 'eu aprovo' e a proclamação de Sandoval; atribuição a Hélvio, Agnes e Ricardo por inferência; Fernando Mosna provavelmente ainda não presente (não vota no bloco).", "Itens 4, 5, 7 e 2: só parte das falas de voto audíveis; demais pela proclamação 'por unanimidade' (Sandoval já ausente).", "Item 8: Sandoval saiu após o item 8; nos itens seguintes 4 presentes.", "Números de processo e nomes de expositores (Pedro Marcelo, Hugo Leite, Marcelo Prais, Bárbara) vêm de legenda automática e podem estar errados; o item 7 tem processo incompleto.", "Ludmila citada é superintendente, não a diretora Ludimila Lima (não integrava a diretoria em 2023)."]
+}

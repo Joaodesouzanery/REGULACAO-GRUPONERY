@@ -1,0 +1,30 @@
+{
+  "meta": {"video_id": "Mpz2KayjjBI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "4ª Reunião Pública Extraordinária", "data": "2022-11-01", "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+    "ausentes": [],
+    "observacoes": ["Pauta com item único: edital do Leilão de Transmissão 2/2022.", "Reunião extraordinária convocada porque o relator Hélvio Guerra estaria ausente na reunião de 8/11; edital só será publicado após deliberação do plenário do TCU (pauta da tarde de 1/11/2022).", "Aprovado por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:06",
+      "processo": "48500.003385/2022-76", "interessado": "Secretaria Executiva de Leilões (SEL) e SCT; Inocente (indenização no lote 5, nome incerto)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2022 (6 lotes, RAPs e anexos técnicos; sessão pública em 16/12/2022 na B3; ES, MA, MG, PA, RJ, RO, RS, SC, SP; inclui conversoras de Garabi 1 e 2)",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator aprova o edital do leilão 2/2022 com ajustes decorrentes da análise da SeinfraElétrica/TCU (prazo do lote 1 de 54 para 60 meses, investimentos dos lotes 1, 2 e 6, indenização do lote 5); cerca de R$ 3,5 bilhões de investimento, 710 km de linhas e ~5.800 empregos. Apresentação técnica de André Tiburtino (SEL). Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:15:26", "justificativa": "Aprova o edital com os ajustes recomendados pela área técnica do TCU; publicação aguardará deliberação do plenário do TCU.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:18:16", "justificativa": "Acompanha; fala individual curta sem nome.", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:18:16", "justificativa": "Elogiou relator e equipes técnicas pelo esforço para antecipar o processo; antecipou ampla concordância (atribuição do comentário inferida).", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:18:18", "justificativa": "Acompanha; fala individual curta sem nome.", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:18:24", "justificativa": "Acompanha a proposta do relator e proclama unanimidade; agradece SCT e SEL pelo trabalho no feriado.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: diretora citada como 'diácono e Luz' na abertura; identificada como Agnes da Costa por composição da diretoria em nov/2022 (incerto).", "Os três 'acompanho' antes do Diretor-Geral não têm nome; atribuição pela proclamação de unanimidade.", "Comentário de elogio às equipes atribuído a Fernando Mosna por inferência (o falante chama o relator de 'diretor Elvio' e fala da convocação da extraordinária, podendo ser outro diretor).", "Nome da empresa indenizada no lote 5 ('INSS'/'inocente') ilegível na legenda."]
+}
