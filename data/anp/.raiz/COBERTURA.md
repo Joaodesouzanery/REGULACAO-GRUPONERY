@@ -23,10 +23,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 34 | 34 | 0 |
 | 2022 | audiencia | 25 | 0 | 0 |
 | 2021 | workshop | 20 | 0 | 0 |
-| 2021 | diretoria | 46 | 40 | 0 |
+| 2021 | diretoria | 46 | 46 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
 | 2020 | workshop | 10 | 0 | 0 |
-| 2020 | diretoria | 26 | 0 | 0 |
+| 2020 | diretoria | 26 | 6 | 0 |
 | 2020 | audiencia | 18 | 0 | 0 |
 | 2019 | diretoria | 42 | 0 | 0 |
 | 2015 | audiencia | 1 | 0 | 0 |
@@ -183,6 +183,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-03-11 · Reunião de Diretoria Colegiada nº 1040 - 11 de março de 2021 · `SZoz6tng1PE`
 - 2021-03-04 · Reunião de Diretoria Colegiada nº 1039 - 04 de março de 2021 · `5DDaB4vKTz0`
 - 2021-02-25 · Reunião de Diretoria Colegiada nº 1038 - 25 de fevereiro de 2021 · `i_optd_Wl5M`
+- 2021-02-11 · Reunião de Diretoria Colegiada nº 1037 - 11 de fevereiro de 2021 · `bzwFKhXZkAk`
+- 2021-02-04 · Reunião de Diretoria Colegiada nº 1036 - 04 de fevereiro de 2021 · `5WmKISLlbOU`
+- 2021-01-28 · Reunião de Diretoria Colegiada nº 1035 - 28 de janeiro de 2021 · `r_SOqgNewrQ`
+- 2021-01-21 · Reunião de Diretoria Colegiada nº 1034 - 21 de janeiro de 2021 · `uyoyB2ZuWqk`
+- 2021-01-15 · Reunião de Diretoria Colegiada nº 1033 - 14 de janeiro de 2021 · `iAYyd8JvRjg`
+- 2021-01-14 · Reunião de Diretoria Colegiada nº 1033 - 14 de janeiro de 2020 Parte 2 · `kbQeeAq6LMU`
+- 2020-12-17 · Reunião de Diretoria Colegiada nº 1032 - 17 de dezembro de 2020 · `bO5GUR96iuc`
+- 2020-12-10 · Reunião de Diretoria Colegiada nº 1031 - 10 de dezembro de 2020 · `rAobSSBl1Rw`
+- 2020-12-03 · Reunião de Diretoria Colegiada nº 1030 - 03 de dezembro de 2020 · `5K8SPHSnmug`
+- 2020-11-26 · Reunião de Diretoria Colegiada nº 1029 - 26 de novembro de 2020 · `SZlh9E9ddFQ`
+- 2020-11-19 · Reunião de Diretoria Colegiada nº 1028 - 19 de novembro de 2020 · `jqWv_def9MI`
+- 2020-11-12 · Reunião de Diretoria Colegiada nº 1027 - 12 de novembro de 2020 · `9A2oYD--XEQ`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
