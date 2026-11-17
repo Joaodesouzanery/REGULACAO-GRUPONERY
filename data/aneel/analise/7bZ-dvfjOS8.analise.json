@@ -1,0 +1,26 @@
+{
+  "meta": {"video_id": "7bZ-dvfjOS8", "fonte": "legenda automática do YouTube; trecho curto (abertura e votação em bloco); falantes não identificados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "17ª Reunião Pública Ordinária", "data": "2018-05-22", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral)",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo cobre só a abertura e a votação em bloco dos itens 16 a 41.", "Itens 13, 19 e 20 informados como retirados de pauta (legenda incerta); sem destaques no bloco.", "Sustentações orais anunciadas para itens 1 a 7 e 10 (fora deste vídeo); item 11 ao final."]
+  },
+  "itens": [
+    {
+      "id": "16-41 (bloco)", "ts": "0:00:00",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 16 a 41 da pauta, exceto itens retirados (19 e 20); minutas de ato publicadas no site",
+      "tema": ["votação em bloco"],
+      "relator": "diversos",
+      "resultado": "aprovado o bloco",
+      "resumo_voto": "Sem pedidos de destaque; diretores votam pela aprovação dos itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:00", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["13", "19", "20"],
+  "limites_da_analise": ["Transcrição de ~1,5 mil caracteres: só a abertura e o bloco; demais itens (1 a 15) não constam deste vídeo.", "Falantes não identificados; composição de 2018 (Romeu Rufino DG etc.) majoritariamente fora da lista do config; apenas Sandoval Feitosa consta, sem fala identificada.", "Números dos itens retirados incertos (legenda: 'use de número 13 19 e 20' e 'exceto os itens e 9 20')."]
+}
