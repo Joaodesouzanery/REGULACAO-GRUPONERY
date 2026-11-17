@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **142** · sem /diretoria: 2; 2026/workshop: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 18; 2024/audiencia: 4; 2023/diretoria: 36; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
+Total: **130** · sem /diretoria: 2; 2026/workshop: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 6; 2024/audiencia: 4; 2023/diretoria: 36; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
 
 - 2026-09-02 · workshop · Workshop Dam Screening Tool (USACE) - (02/09/2026). · https://www.youtube.com/watch?v=8HvGvQInCPY · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-25 · audiencia · AUDIÊNCIA PÚBLICA 04/2025 · https://www.youtube.com/watch?v=PUz4CMKyHBo · **ainda não baixado (rodar a coleta no Mac)**
@@ -15,19 +15,7 @@ Total: **142** · sem /diretoria: 2; 2026/workshop: 1; 2025/audiencia: 4; 2024/w
 - 2024-12-06 · workshop · Inventory of Dams and Levees: The United States Experience (06/12/2024) - Englis · https://www.youtube.com/watch?v=re9sf5bwawo · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-03 · diretoria · 922ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 2 de dezembro de 20 · https://www.youtube.com/watch?v=VaShErst3lU · **legenda desativada/inexistente no YouTube**
 - 2024-11-15 · audiencia · Audiência Pública nº 04/2024 · https://www.youtube.com/watch?v=Vh2sVKj3ZjU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-30 · diretoria · 912ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de julho de 2024 · https://www.youtube.com/watch?v=V88ClUqfPAo · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-16 · diretoria · 911ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 15 de julho de 2024 · https://www.youtube.com/watch?v=o2oQlDcNtaA · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-02 · diretoria · 910ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 01 de julho de 2024 · https://www.youtube.com/watch?v=jR7QKW2O490 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-21 · diretoria · 28ª Reunião Deliberativa Extraordinária da Diretoria Colegiada - 20 de junho de  · https://www.youtube.com/watch?v=sJanODFOzcs · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-18 · diretoria · 909ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de junho de 2024 · https://www.youtube.com/watch?v=y9NcQPaGwpk · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-15 · audiencia · Audiência Pública 03/2024 · https://www.youtube.com/watch?v=Vr_drOcBv2Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-05 · diretoria · 908ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de junho de 2024 · https://www.youtube.com/watch?v=vwqG7ojUBdo · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-21 · diretoria · 907ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 20 de maio de 2024. · https://www.youtube.com/watch?v=WgqIG1eF01U · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-14 · diretoria · 27ª Reunião Deliberativa Extraordinária da Diretoria Colegiada - 13 de maio de 2 · https://www.youtube.com/watch?v=_rOMLRraAUs · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-07 · diretoria · 906ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de maio de 2024. · https://www.youtube.com/watch?v=P9KVj2j-vxg · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-09 · diretoria · 905ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 08 de abril de 2024 · https://www.youtube.com/watch?v=4HxOPzKqycM · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-26 · diretoria · 904ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de março de 2024 · https://www.youtube.com/watch?v=LSaT22ysgL0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-19 · diretoria · 903ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de março de 2024 · https://www.youtube.com/watch?v=nWgl0MjpELE · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-03-05 · diretoria · 902ª Reunião Deliberativa da Diretoria Colegiada · https://www.youtube.com/watch?v=YT8ZcbfzHKE · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-29 · workshop · Workshop - Gestão de Riscos de Inundações: Novas Tecnologias, Área Vulneráveis e · https://www.youtube.com/watch?v=B5RdiJeMsNc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-27 · diretoria · 901ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 26 de fevereiro de  · https://www.youtube.com/watch?v=VIhtGgdoqjE · **ainda não baixado (rodar a coleta no Mac)**

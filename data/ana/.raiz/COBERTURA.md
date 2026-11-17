@@ -10,7 +10,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 4 | 0 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
-| 2024 | diretoria | 29 | 11 | 0 |
+| 2024 | diretoria | 29 | 23 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | diretoria | 36 | 0 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
@@ -71,5 +71,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-09-17 · 915ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de set · `dKp2DepuSbw`
 - 2024-09-03 · 914ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 02 de set · `-JMc56WmIDA`
 - 2024-08-20 · 913ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 19 de ago · `WI8JzVesPMI`
+- 2024-07-30 · 912ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de jul · `V88ClUqfPAo`
+- 2024-07-16 · 911ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 15 de jul · `o2oQlDcNtaA`
+- 2024-07-02 · 910ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 01 de jul · `jR7QKW2O490`
+- 2024-06-21 · 28ª Reunião Deliberativa Extraordinária da Diretoria Colegiada - 20 de · `sJanODFOzcs`
+- 2024-06-18 · 909ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de jun · `y9NcQPaGwpk`
+- 2024-06-05 · 908ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de jun · `vwqG7ojUBdo`
+- 2024-05-21 · 907ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 20 de mai · `WgqIG1eF01U`
+- 2024-05-14 · 27ª Reunião Deliberativa Extraordinária da Diretoria Colegiada - 13 de · `_rOMLRraAUs`
+- 2024-05-07 · 906ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de mai · `P9KVj2j-vxg`
+- 2024-04-09 · 905ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 08 de abr · `4HxOPzKqycM`
+- 2024-03-26 · 904ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de mar · `LSaT22ysgL0`
+- 2024-03-19 · 903ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de mar · `nWgl0MjpELE`
 
 Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
