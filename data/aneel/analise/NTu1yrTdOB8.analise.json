@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "NTu1yrTdOB8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "22ª Reunião Pública Ordinária de 2020 (Parte 2, tarde)", "data": "2020-06-23", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral) — inferido, nome não dito na legenda",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Júlio César Rezende Ferraz"],
+    "ausentes": [],
+    "observacoes": ["Parte da tarde: correção de pauta, item 3 (Copel) e itens 5 e 6 lidos conjuntamente (RAP de reforços e melhorias de transmissão). Itens 7, 8 e 9 já haviam sido julgados em bloco na parte da manhã.", "Após pausa de 5 minutos, a 22ª reunião foi suspensa e marcada para retomada na quinta-feira 25/06 às 14h, seguida da 5ª reunião extraordinária.", "Ambos os itens aprovados por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "3", "ts": "0:00:28",
+      "processo": "48500.006223/2018 (número incerto na legenda)", "interessado": "Copel Distribuição S.A.",
+      "assunto": "Pedido de reconsideração contra a Resolução Homologatória 2.559/2019 (reajuste tarifário anual 2019 da Copel): neutralidade da Parcela A, faturamento fora da faixa de tolerância 2016, retificação de dados de mercado (subsídio de irrigação e descontos de compensação de energia)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras)", "recursos administrativos"],
+      "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade — recurso conhecido e parcialmente provido",
+      "resumo_voto": "Recurso tempestivo; sem distorção na regra de neutralidade (simplificação regulatória, sem perda de receita); nova retificação de mercado após homologação negada para não postergar indefinidamente o resultado; parcial provimento: reversão parcial do financeiro do reajuste 2017 (limite de 25% da parcela base 2016) e recálculo do subsídio de compensação de energia, com efeitos no reajuste 2020 da Copel. Processo originalmente sorteado a Rodrigo Limp e redistribuído em março de 2020. Nota Técnica SGT 92/2020 pelo parcial provimento.",
+      "votos": [
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, conhece e dá parcial provimento", "ts": "0:01:00", "justificativa": "neutralidade é definição regulatória, não lacuna; retificações após homologação não podem ser aceitas indefinidamente", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:16:01", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:16:06", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:16:14", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "0:16:19", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5 e 6", "ts": "0:16:40",
+      "processo": "48500.000643/2018 e 48500.000754/2019 (números incertos na legenda)", "interessado": "transmissoras com contratos licitados (revisão 2018 e 2019)",
+      "assunto": "Resultado da Consulta Pública 37/2019: revisão da RAP dos reforços e melhorias autorizados nos contratos de concessão de transmissão licitados com revisão prevista para 2018 e 2019, e avaliação de outras receitas para modicidade tarifária",
+      "tema": ["transmissão (RAP, reforços)", "tarifas e revisão tarifária", "regulação normativa (consulta pública)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade — resolução homologatória fixando o reposicionamento da RAP a partir de 01/07/2020",
+      "resumo_voto": "Itens lidos conjuntamente com apresentação técnica da SGT; RAP de reforços e melhorias mantida até atualização do banco de preços de referência; NT 216/2019 levou à CP 37/2019; relator elogia a SGT e destaca que o consumidor se apropria dos ganhos de eficiência. Registro de que itens 7, 8 e 9 (julgados em bloco) integram a mesma instrução.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:18:48", "justificativa": "revisão tempestiva permite ao consumidor apropriar ganhos de eficiência", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:07", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:32", "confianca": "baixa"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:40", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "0:41:44", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda com um único marcador de falante; composição da diretoria (Pepitone, Sandoval, Elisa, Efrain, Júlio Ferraz) inferida pela época, não por chamada nominal.", "Votos de seguidores ouvidos sem nome (exceto 'lisa' = Elisa no item 3); atribuição pela ordem e proclamação, confiança baixa.", "Números de processo e valores (R$ 3,59 mi; R$ 26 mil) distorcidos pela legenda; omitidos ou marcados como incertos.", "Reunião suspensa e retomada em 25/06/2020 (outro vídeo)."]
+}

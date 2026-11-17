@@ -1,0 +1,58 @@
+{
+ "meta": {"video_id": "QRLX2yGX-GQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "26ª Reunião Pública Ordinária (Parte 2, sessão vespertina)",
+  "data": "2020-07-21",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) — inferido, nome não dito na legenda",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Júlio César Rezende Ferraz", "não identificado"],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 26ª RPO de 2020; dois processos deliberados, ambos com sustentação oral; problemas técnicos no vídeo da sustentação da CEB.",
+   "Item 1 aprovado por unanimidade dos votantes; item 18 (São Roque) com pedido de vista do diretor Sandoval Feitosa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:28",
+   "processo": "48500.000644/2018 (número incerto na legenda)",
+   "interessado": "CEB Distribuição (recorrente); Vale do São Bartolomeu Transmissora de Energia (VSB); Enel Distribuição Goiás",
+   "assunto": "Recurso administrativo e pedido de medida cautelar da CEB Distribuição contra o Despacho 199/2019 (SRT/SCT/SFE) que determinou assinatura do CCT com a VSB com seis entradas de linha na SE Brasília Leste (138 kV); pedido da Enel Goiás para usar uma das entradas",
+   "tema": ["transmissão (CCT, entradas de linha, subestação)", "recursos administrativos", "tarifas e encargos de conexão"],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: recurso conhecido e negado; cautelar com perda de objeto; autorizado uso de uma entrada de linha pela Enel Goiás; VSB deve informar a SGT das mudanças nos CCTs",
+   "resumo_voto": "CEB foi omissa: sua consulta de acesso ao ONS estimou seis entradas de linha e o edital do leilão 2/2013 já previa seis; não questionou o edital. Encargos de conexão são da distribuidora desde o TLP, sem repasse ao consumidor por ativos sem uso. Uso de uma entrada pela Enel Goiás é o arranjo mais econômico, sem prejuízo à VSB. Sustentação oral de César Dutra Munhoz (CEB); Procuradoria acompanhou a área técnica.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento ao recurso", "ts": "0:25:00", "justificativa": "a ineficiência na gestão da contratação terá que ser arcada integralmente pela distribuidora, não pelos consumidores do DF; consumidor só paga ativos em serviço", "tom": "firme, com recado às distribuidoras", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:03:45", "justificativa": "elogia o voto pautado no equilíbrio; não faz sentido exigir terceira entrada de linha havendo duas disponíveis", "confianca": "baixa"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:03:48", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "1:03:51", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:05:07",
+   "processo": "48500.006740/2011 (número incerto na legenda)",
+   "interessado": "São Roque Energética S.A. (UHE São Roque)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 682/2020, que indeferiu a postergação do pagamento dos encargos do CUST 15/2016 (ciclo 2016-2017) para após a entrada em operação comercial da UHE São Roque",
+   "tema": ["transmissão (CUST, EUST)", "outorgas de geração (hidrelétrica)", "recursos administrativos"],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "pedido de vista do diretor Sandoval Feitosa; deliberação suspensa",
+   "resumo_voto": "Relator: não há fatos novos; Ren 666/2015 não vincula CUST à comercialização; postergar transferiria encargos aos demais usuários (segmento consumo); propõe negar provimento e determinar que a SRT instrua processo específico sobre a rescisão unilateral do CUST pelo ONS (carta 045/2020). Sustentação oral de José Antônio Sobrinho (São Roque).",
+   "votos": [
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, nega provimento", "ts": "1:15:40", "justificativa": "não aceitar o pleito seria usar recursos dos acessantes da rede básica para financiar as obrigações da São Roque", "confianca": "alta"},
+    {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:38:00", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "1:38:03", "justificativa": "antes questionou a dívida e o parcelamento; obra perto de 90% concluída e energia vendida em leilão; pede decisão de equilíbrio", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "1:38:07", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Nomes do Diretor-Geral e dos diretores que só acompanham não são ditos na legenda; Pepitone inferido como DG em jul/2020; quarto diretor presente não identificado (provavelmente Efrain Cruz ou Elisa Bastos).",
+  "Item 1: duas falas de acompanhamento sem nome; atribuição a Júlio Ferraz é suposição pela ordem (confiança baixa).",
+  "Item 18: o 'acompanho o relator' antes da vista é de diretor não identificado; não está claro se Pepitone votou.",
+  "Números de processo e valores (ex.: encargo ~R$ 220 mil/mês) vêm da legenda automática e podem estar errados."
+ ]
+}

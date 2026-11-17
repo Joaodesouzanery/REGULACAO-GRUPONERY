@@ -1,0 +1,31 @@
+{
+  "meta": {"video_id": "unvpdxlL7Zo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de quem só acompanha com ts aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "7ª Reunião Pública Extraordinária de 2020", "data": "2020-08-25", "formato": "videoconferência (Teams)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Rodrigo Limp", "Efrain Cruz", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores anunciado na abertura; pauta com processo único.", "Início atrasado por problema no sistema ao carregar o voto do relator.", "Resultado unânime proclamado pelo Diretor-Geral; em seguida iniciou-se a reunião pública ordinária do mesmo dia."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:44",
+      "processo": "48500.003366/2015-67 (número incerto na legenda)",
+      "interessado": "Amazonas Energia S.A. (distribuidora)",
+      "assunto": "Conta COVID: requerimento da Amazonas Energia, inadimplente, para que a CCEE repasse seus créditos na Conta COVID diretamente aos credores (cessão prevista no §9º do art. 6º da REN 885/2020; Carta 73/2020)",
+      "tema": ["CDE e encargos setoriais", "Conta COVID", "distribuidoras", "inadimplência setorial", "comercialização (CCEE)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Aprovado por unanimidade: conhecer do requerimento e autorizar a CCEE a repassar cerca de R$ 223,58 milhões dos recursos da Amazonas Energia na Conta COVID diretamente aos credores listados no voto; saldo remanescente (≈ R$ 91 milhões, Carta 77) fica para deliberação futura.",
+      "resumo_voto": "Relator acolheu parecer da Procuradoria Federal (269/2020): não é preciso que o débito esteja no cadastro de inadimplentes da ANEEL, nem vinculado ao período da pandemia, nem observar antiguidade. Excluiu valores de Agrícola/Ágrego e Go Power (reembolso em análise, Manacapuru e Iranduba). Valor ≈ 75% do crédito; restante depende de análise da SFF sobre novo rol de credores. Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:08:45", "justificativa": "Mecanismo de pagamento direto aos credores já usado na designação; garante que supridores, geradores e transmissores recebam; não repassa a totalidade porque a empresa não indicou todos os credores e o novo rol exige escrutínio.", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:23:56", "justificativa": "Proclamou a unanimidade; um diretor (provavelmente o Diretor-Geral) explicou a dinâmica da Conta COVID e perguntou por que não se repassava a totalidade.", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "0:23:40", "justificativa": "Acompanha o voto do relator (fala sem nome).", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:23:44", "justificativa": "Acompanha o voto do relator (fala sem nome).", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:23:48", "justificativa": "Acompanha o voto do relator (fala sem nome).", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Composição dos presentes inferida pela época (ago/2020) e pelo quórum de cinco; nomes dos diretores não são ditos na votação, exceto o relator Sandoval.", "Quatro falas «acompanho» sem nome; atribuição por ordem é incerta (confiança baixa).", "Autoria da intervenção que explicou a dinâmica da Conta COVID e perguntou sobre a totalidade não identificada com segurança.", "Número do processo e nomes de credores (Agrícola/Ágrego, Go Power) com erros prováveis da legenda."]
+}

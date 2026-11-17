@@ -1,0 +1,321 @@
+{
+ "meta": {
+  "video_id": "4HfTwFuZJYo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados via transcricoes/4HfTwFuZJYo.json",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "11ª RPO 2019 (Parte 2, tarde)",
+  "data": "2019-04-09",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 11ª Reunião Pública Ordinária de 2019; itens da manhã estão na Parte 1.",
+   "Abre com a redação final do item 7 (Ventos dos Guarás), relatado por Elisa Bastos pela manhã.",
+   "Item 8 retirado de pauta.",
+   "Todos os itens deliberados por unanimidade; debate relevante no leilão A-4/2019 sobre a governança MME-ANEEL."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:05",
+   "processo": "48500.005588/2013 (número incerto)",
+   "interessado": "Ventos dos Guarás 1 Energias Renováveis S.A. (nome incerto na legenda)",
+   "assunto": "Ajuste da redação final do dispositivo do item 7 (julgado pela manhã): pedido de reconsideração contra o Despacho 339/2019; parcelamento em até 6 parcelas de penalidades por insuficiência de lastro apuradas na CCEE, primeira em maio de 2019, condicionado à desistência do mandado de segurança",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções",
+    "comercialização (CCEE)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "Redação final do dispositivo confirmada: conhecer e dar provimento parcial ao pedido de reconsideração (decisão tomada na Parte 1 da reunião)",
+   "resumo_voto": "Relatora relê o dispositivo ajustado após consulta à SRM e à CCEE sobre o início da cobrança.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (releitura da redação final)",
+     "ts": "0:01:20",
+     "justificativa": "CCEE pode cobrar a partir de maio; parcelamento com IGP-M e juros de 1%, condicionado à desistência judicial.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:02:26",
+   "processo": "48500.006503/2018",
+   "interessado": "CERP — Cooperativa de Eletrificação Rural da Região de São José do Rio Preto (permissionária; supridoras CPFL Paulista e Energisa Sul Sudeste)",
+   "assunto": "Reajuste tarifário anual da CERP, aniversário 15/04/2019",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade: efeito médio de 11,53% (AT 11,12%, BT 11,78%)",
+   "resumo_voto": "Permissionária não assinou aditivo; parcela B por IPCA-fator X; aumento puxado por CDE (+58%) e energia comprada; não se reduziu desconto pois efeito acima de 10%.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:07",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:13:07",
+     "justificativa": "Leu o voto/dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:07",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:07",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:13:07",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:13:51",
+   "processo": "48500.001502/2019",
+   "interessado": "Secretaria Executiva de Leilões; MME; empreendedores de geração",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 10/04 a 10/05/2019) sobre a minuta do edital do Leilão 3/2019 (A-4/2019) de energia nova: hidrelétrica, eólica, solar fotovoltaica e biomassa; suprimento a partir de 01/01/2023",
+   "tema": [
+    "leilões (geração)",
+    "regulação normativa (audiência pública)",
+    "transmissão (margem de escoamento, curto-circuito)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade: instaurada audiência pública",
+   "resumo_voto": "Apresentação técnica de André Tiburtino. Inovações: flexibilização da margem por superação de curto-circuito (portaria do MME, art. 7º) e CCEAR por quantidade para solar. Relator diz que o edital vai à consulta, não está sendo aprovado, e que a governança com o MME pode melhorar. Debate: Elisa critica a diretriz do MME não submetida a consulta; Efrain questiona o papel da ANEEL com cadastro já encerrado; o DG propõe diálogo com o MME e sorteio imediato nos próximos leilões.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:59:50",
+     "justificativa": "Acompanha e proclama; MME formula, ANEEL implementa, mas deve levar sua expertise ao MME; próximo leilão deve ser sorteado de imediato; destaca 51 mil MW renováveis cadastrados, 83% da matriz renovável (atribuição de parte das falas incerta).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:59:50",
+     "justificativa": "Leu o voto/dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:35:37",
+     "justificativa": "Acompanha, com ressalvas: a flexibilização do curto-circuito afasta a Portaria 444/2016 sem consulta pública, não segue boas práticas de estabilidade e transparência, delega ao edital sem ouvir a SEL e incentiva comportamento tomador de risco; a 444 deveria ser revista por consulta.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:43:44",
+     "justificativa": "Acompanha; questiona qual a competência da ANEEL se o cadastro na EPE já encerrou e se o colegiado poderia decidir diferente; ANEEL é apenas convidada na CEL; alerta que 96,4% da oferta é intermitente (encargo de serviços do sistema).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:59:50",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:00:42",
+   "processo": "48500.005394/2018",
+   "interessado": "Concessionárias de transmissão (SRT, SCT, SFF)",
+   "assunto": "Abertura da 1ª fase de audiência pública (AIR) sobre revisão/revogação da REN 709/2016 (atividades operacionais e de holding das transmissoras; limite de níveis societários)",
+   "tema": [
+    "regulação normativa (audiência pública, AIR)",
+    "transmissão"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "Aprovado por unanimidade: audiência pública de 11/04 a 24/05/2019, propondo a revogação",
+   "resumo_voto": "Apresentação de Sidney (SRT). Art. 1º vem sendo afastado nos leilões e reestruturações por reduzir competitividade; art. 2º já coberto pelos manuais de contabilidade e controle patrimonial; redução de estoque regulatório. Prazo ajustado na proclamação a pedido do DG.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:17",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:17",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:17",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:17",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:12:17",
+     "justificativa": "Leu o voto/dispositivo.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:13:25",
+   "processo": "48500.002536/2017",
+   "interessado": "Transmissoras de corrente contínua (elos Madeira, Belo Monte, Itaipu), ONS, ABRATE, ABDIB",
+   "assunto": "Abertura da 2ª fase da Audiência Pública 32/2018: qualidade do serviço de transmissão em corrente contínua (FT conversora, parcela variável, manutenção preventiva; submódulos 15.6 e 15.12)",
+   "tema": [
+    "transmissão (parcela variável, HVDC)",
+    "regulação normativa (audiência pública, AIR)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade: audiência pública de 11/04 a 10/05/2019",
+   "resumo_voto": "Apresentação de Isabela (SRT). Alternativa 5: FT conversora única, fator K 50 para LT CC, isenção de até 80 h equivalentes no período preferencial de manutenção + 20 h em janela móvel; vigência proposta 01/01/2020. Procuradoria ainda emitirá parecer.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:50",
+     "justificativa": "Acompanha e proclama; parabeniza relator e área técnica; contextualiza a expansão de elos CC (atribuição da fala de 1:58 inferida).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:04:50",
+     "justificativa": "Leu o voto/dispositivo.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:50",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:54:03",
+     "justificativa": "Acompanha; lembra quedas do back-to-back em Porto Velho; relata processo sob sua relatoria sobre desempenho dos bipolos do Madeira; parabeniza a técnica Isabela.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:07",
+     "justificativa": "Acompanha; elogia FT conversora única e incentivo à manutenção preventiva; sugere refletir sobre a carência, pois elos CC levam anos para atingir potência nominal.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:05:43",
+   "processo": "48500.005797/2018",
+   "interessado": "Empresas do programa de P&D regulado; SPE (Wilson Gottardo, Fernando, Fábio)",
+   "assunto": "Edital de chamada de projeto estratégico de P&D nº 22: desenvolvimento de soluções de mobilidade elétrica eficiente",
+   "tema": [
+    "P&D e inovação (mobilidade elétrica)",
+    "regulação normativa"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "Aprovado por unanimidade: publicar aviso da chamada",
+   "resumo_voto": "Projetos em rede com indústria, contrapartida externa mínima de 10%, foco no fim da cadeia de inovação e modelo de negócio; 314 contribuições na CP 19/2018; conclusão em 4 anos.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:04",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:04",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:04",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:20:04",
+     "justificativa": "Por unanimidade (proclamação).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:20:04",
+     "justificativa": "Leu o voto/dispositivo.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "8",
+   "motivo": "retirado de pauta (anunciado às 2:05:37); assunto não lido"
+  }
+ ],
+ "limites_da_analise": [
+  "Composição presente inferida pelo contexto (Pepitone DG; Sandoval, Elisa, Efrain e Limp citados na sessão); não há chamada nominal.",
+  "Votos dos não relatores registrados pela proclamação «por unanimidade»; as falas «acompanho» não têm nome na legenda.",
+  "Atribuição das falas de debate: Elisa (0:35) e Efrain (0:43) com base em referências cruzadas; falas sobre renováveis (0:56) e intermitência (0:48) e parabenização (1:58) com atribuição incerta.",
+  "Números de processo e nomes (Ventos dos Guarás, técnicos) vêm de legenda automática e podem estar errados.",
+  "Item 7 foi votado na Parte 1; aqui só a releitura do dispositivo, com voto apenas da relatora."
+ ]
+}

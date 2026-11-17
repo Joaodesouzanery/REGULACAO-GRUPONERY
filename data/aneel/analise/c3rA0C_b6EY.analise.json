@@ -1,0 +1,75 @@
+{
+  "meta": {"video_id": "c3rA0C_b6EY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (via transcricoes/c3rA0C_b6EY.json); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "20ª Reunião Pública Ordinária de 2019 (Parte 1)", "data": "2019-06-11", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Rodrigo Limp"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores. Pauta com 40 itens; bloco dos itens 10 a 40 (item 9 destacado por sustentação oral e item 36 retirado pelo relator).", "Ordem anunciada: bloco; itens 2, 4, 3; depois preferência para 24, 31, 5, 7, 8 e 9 (estes não aparecem nesta Parte 1, que termina na pausa para almoço às 13h15).", "Presença do deputado federal Weliton Prado (sustentação oral no item 4).", "No item 3 (nova norma de penalidades, sucessora da REN 63/2004) o procurador-geral orientou que Efrain Cruz e Elisa Bastos não votassem, por sucederem diretores que já tinham votado em agosto de 2018."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:45", "processo": "", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 10 a 40 da pauta (item 9 destacado, item 36 retirado)",
+      "tema": ["deliberação em bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Todos os diretores votam pela aprovação dos itens remanescentes do bloco.",
+      "votos": [
+        {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:07:45", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:07:45", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:07:50", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:07:50", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "aprova o bloco", "ts": "0:07:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:08:13", "processo": "48500.000754/2019-73", "interessado": "transmissoras licitadas (sustentação oral: Valéria de Souza Rosa por Linhas de Macapá e Linhas de Xingu; Elídio, diretor de regulação da Equatorial)",
+      "assunto": "Resultado da Audiência Pública 10/2019: revisão periódica da RAP ofertada dos contratos de concessão de transmissão licitados, a vigorar a partir de 1º/07/2019 (reforços e melhorias ficam para depois); debate sobre captura de outras receitas (compartilhamento de fibra óptica, 75% modicidade / 25% concessionária)",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "tarifas e revisão tarifária", "outras receitas / compartilhamento de infraestrutura"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade, com determinação à SRT para em 120 dias analisar sinais de incentivo ao compartilhamento (propostas da Equatorial)",
+      "resumo_voto": "Resolução homologatória fixando a RAP ofertada revisada (variação média de -6,95%, de cerca de R$ 3,2 bi para 3,0 bi); SGT sustenta que o critério 75/25 não mudou em 2018, apenas ficou explícito; diretores defendem estudar incentivo à expansão de fibra óptica em outro fórum.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:51:47", "justificativa": "aplica-se a regra vigente; mudanças não podem ser bruscas, mas o percentual era conhecido; expansão de fibra é meritória e pode ser tratada à parte", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "0:52:21", "justificativa": "receitas extraordinárias não são garantia do contrato; possível mudança não caracteriza desequilíbrio; percentual 25% pode dar pouco incentivo e deve ser rediscutido em revisão da norma, não neste caso", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:54:33", "justificativa": "propõe reflexão sobre incentivo regulatório ao compartilhamento (analogia com postes nas distribuidoras); sugeriu estudo/audiência sobre a captura para modicidade", "tom": "provocativo, reflexivo", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:04:00", "justificativa": "divisão de percentual entre investidor e consumidor não é óbvia; áreas devem estudar melhor alocação", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (Diretor-Geral, proclama)", "ts": "1:16:22", "justificativa": "redução de 6,95% da receita; associa-se ao incentivo à expansão de fibra óptica via transmissão, a ser tratado na SRT", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:17:10", "processo": "48500.005043/2017-23", "interessado": "Cemig Distribuição S.A. (sustentação oral: Ronaldo Gomes de Abreu, Cemig; deputado federal Weliton Prado)",
+      "assunto": "Recurso administrativo da Cemig D contra o Auto de Infração 18/2018 da SFE: multa de cerca de R$ 12,49 milhões por apuração irregular de indicadores de continuidade DEC/FEC de 2016 (contagem de ocorrências emergenciais e dias críticos)",
+      "tema": ["fiscalização e sanções (multa, auto de infração, TAC, caducidade)", "distribuição e qualidade (DEC/FEC)", "recursos administrativos"],
+      "relator": "Efrain Cruz", "resultado": "pedido de vista de Elisa Bastos (julgamento suspenso)",
+      "resumo_voto": "Relator conhece do recurso e nega provimento: mantém multa e determinação de recalcular dias críticos e reprocessar indicadores de 2016 em 30 dias; nega TAC (REN 333 revogada pela REN 712/2016), conversão em advertência e suspensão para estudo da FGV.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, nega provimento ao recurso", "ts": "2:25:19", "justificativa": "Cemig é a única distribuidora que conta manobras como ocorrências emergenciais, contra o Prodist; infração não depende de violação dos limites; dosimetria coerente com casos anteriores (0,0841% do faturamento); sem base para TAC ou advertência", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "pede vista", "ts": "2:58:06", "justificativa": "voto conceitualmente adequado, mas quer avaliar a questão jurídica (ausência de parecer da procuradoria) e a dosimetria (10% de dano e vantagem auferida zero lhe parecem incoerentes)", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "2:34:25", "justificativa": "em debate defendeu a dosimetria padronizada desde 2017 e explicou que vantagem só se mede após recálculo", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "não votou (vista)", "ts": "2:41:37", "justificativa": "em debate elogiou o voto e sua aderência ao Prodist", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "2:43:43", "justificativa": "em debate apoiou o voto: Cemig apura DEC/FEC de forma diferente das demais 53 distribuidoras; não cabe TAC nem advertência", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:58:20", "processo": "48500.006118/2009-83 e outros", "interessado": "agentes do setor elétrico (sustentação oral: ABRATE, ABRAGE - Stephan, ABRADEE - José Gabino Matias dos Santos)",
+      "assunto": "Resultado da 2ª fase da Audiência Pública 77/2011: nova resolução normativa de penalidades e diretrizes gerais de fiscalização (sucessora da REN 63/2004) - voto-vista",
+      "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"],
+      "relator": "André Pepitone (voto-vista; relator original, de colegiado anterior, não identificado)", "resultado": "aprovado por maioria, nos termos do voto-vista de André Pepitone",
+      "resumo_voto": "Voto-vista ajusta a minuta de ago/2018: exclui auto automático por descumprimento de determinação do TN (vira agravante de até 15%); infração por descumprir determinação da Diretoria; fim da dupla notificação prévia para caducidade; mantém prazo de 45 dias; atraso em pedidos de serviço (REN 414) passa do grupo 2 para o grupo 4; ajuste na reincidência específica.",
+      "votos": [
+        {"diretor": "André Pepitone", "voto": "voto-vista vencedor, aprova a minuta", "ts": "3:54:06", "justificativa": "tempo de debate trouxe legitimidade; colegiado completo deveria decidir norma crucial; sinal regulatório mais forte para prazos de atendimento", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "altera voto anterior e acompanha o voto-vista", "ts": "4:11:30", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "altera voto original e acompanha o voto-vista", "ts": "4:11:35", "justificativa": "defendeu advertência não automática, receita global com limite de 2% e redução do prazo de análise", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "suspeito/impedido (não vota: sucede diretor que já votou)", "ts": "4:10:24", "justificativa": "em debate apoiou o voto-vista e o diálogo do colegiado", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "suspeito/impedido (não vota: sucede diretor que já votou)", "ts": "4:10:24", "justificativa": "em debate apoiou o voto-vista", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 36 (retirado pelo relator; assunto não dito)"],
+  "limites_da_analise": [
+    "Parte 1 da reunião: termina na pausa do almoço; itens 9, 24, 31, 5, 7, 8 e demais ficam para a Parte 2.",
+    "O .md tem um único marcador de tempo; ts obtidos do JSON de transcrição; votos de quem só acompanha têm ts aproximado.",
+    "Atribuição dos comentários no item 2 e 4 inferida pelo conteúdo e por referências cruzadas (Rodrigo Limp, Efrain Cruz, Elisa Bastos, Sandoval Feitosa); falas de votação sem nome.",
+    "Item 3: relator original (ago/2018) e diretores que votaram naquela sessão (incluindo o então DG Romeu Rufino) não identificados com segurança; números de processo da legenda podem estar errados.",
+    "Item 3 proclamado 'por maioria' embora os votantes presentes tenham convergido; a maioria pode refletir votos de agosto de 2018 de ex-diretores."
+  ]
+}

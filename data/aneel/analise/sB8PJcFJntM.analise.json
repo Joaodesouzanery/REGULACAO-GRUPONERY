@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "sB8PJcFJntM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Reunião Pública Extraordinária de 2021", "data": "2021-08-31", "formato": "não identificado",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": ["Efrain Cruz", "Sandoval Feitosa"],
+    "observacoes": ["Quórum de três diretores; Efrain Cruz ausente por férias e Sandoval Feitosa ausente (motivo não claro na legenda).", "Pauta com item único: transferência da concessão de transmissão (contrato 7/2014) da Fronteira Oeste Transmissora (FOT) para a CGT Eletrosul por incorporação; aprovado por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:48",
+      "processo": "48500.004154/2021", "interessado": "Fronteira Oeste Transmissora de Energia S.A. (FOT) e CGT Eletrosul",
+      "assunto": "Anuência à transferência da concessão de transmissão regida pelo contrato de concessão 7/2014, mediante incorporação da FOT pela CGT Eletrosul, e aprovação da minuta do terceiro termo aditivo",
+      "tema": ["transmissão (outorgas, transferência de concessão)", "fiscalização e sanções (garantia de fiel cumprimento)"],
+      "relator": "Elisa Bastos",
+      "resultado": "aprovado por unanimidade: autorizada a transferência da concessão e aprovada a minuta do terceiro termo aditivo, com prazo de 30 dias para assinatura",
+      "resumo_voto": "Relatora: requisitos do art. 27 da Lei 8.987/95 atendidos (SFF e SCT sem óbice); atraso na LT Pinhalzinho–Foz do Chapecó gera termo de intimação; fica preservada a execução da garantia de fiel cumprimento e a CGT Eletrosul assume os riscos e penalidades decorrentes do atraso anterior à incorporação. Procuradoria sem óbice.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "0:03:26", "justificativa": "Não vislumbra óbice; acompanha áreas técnicas; sucessora assume o risco do negócio, não afastando penalidades e execuções em curso ou vindouras pelo atraso.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:08:33", "justificativa": "«eu acompanho o voto da relatora»", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:08:37", "justificativa": "«também voto com a relatora»; proclama unanimidade.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: número do processo dito como '48500 0041 54/2007' e '48.500 0041 54 2021'; ano provável 2021, incerto.", "Presidente não nomeado na legenda; atribuído a André Pepitone (Diretor-Geral em 2021) por inferência. 'diretora Elias' = Elisa Bastos; 'é free' = Efrain Cruz.", "Falas de acompanhamento sem nome; atribuídas pela ordem usual (diretor, depois Diretor-Geral)."]
+}

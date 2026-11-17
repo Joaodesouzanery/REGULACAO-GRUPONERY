@@ -1,0 +1,350 @@
+{
+ "meta": {
+  "video_id": "dkctHCOEoIQ",
+  "fonte": "legenda automática do YouTube; ts via transcricoes json; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "14ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-04-28",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ata da 13ª RPO aprovada.",
+   "Prorrogada até 12/05/2020 a CP 12/2020 (iluminação pública).",
+   "Sessão suspensa às ~14h30 para almoço; itens 5,7,8,9,12,10 ficam para a parte 2.",
+   "Relator do item 20 caiu da conexão; item retomado após o item 3."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:14:20",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens (item 1 e itens 11 a 41, exceto retirados 19, 25, 26 e o item 23)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados sem discussão.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:14:30",
+     "justificativa": "votou pela aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:14:30",
+     "justificativa": "votou pela aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:14:30",
+     "justificativa": "votou pela aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:14:30",
+     "justificativa": "votou pela aprovação dos itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:14:30",
+     "justificativa": "votou pela aprovação dos itens do bloco",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "0:14:54",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 23 do bloco (assunto não lido na sessão)",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista do diretor Sandoval Feitosa",
+   "resumo_voto": "Destacado do bloco por pedido de vista de Sandoval Feitosa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "0:14:54",
+     "justificativa": "pediu vista do item 23 ao votar o bloco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:14:54",
+     "justificativa": "item retirado do bloco pela vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:14:54",
+     "justificativa": "item retirado do bloco pela vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (vista)",
+     "ts": "0:14:54",
+     "justificativa": "item retirado do bloco pela vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "não votou (vista)",
+     "ts": "0:14:54",
+     "justificativa": "item retirado do bloco pela vista",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:15:34",
+   "processo": "48500.000881/2016-20",
+   "interessado": "Centrais Elétricas do Norte do Brasil (Eletronorte)",
+   "assunto": "Recurso administrativo contra Despachos SCT 366/2018 e 131/2020 sobre valores de ressarcimento dos relatórios R2/R3 (LT 230 kV Lechuga–Tarumã C1 e C2, Mauá 3–Manaus, SE Tarumã); sustentação oral de Rafael Meirelles (Eletronorte)",
+   "tema": [
+    "transmissão",
+    "leilões",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "recurso não conhecido por intempestivo, por unanimidade",
+   "resumo_voto": "Pedido protocolado em 18/03/2020, fora do prazo de 10 dias; no mérito, valores seguem a REN 594/2013 com base no relatório R1 do poder concedente; aceitar valor de documento da EPE quebraria isonomia. Sandoval anunciou revisão da REN 594 (inclusão do R5, preocupação com R4 oportunista). Efrain ressalvou dúvida sobre a contagem da tempestividade, mas concordou pelo mérito.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, não conhece por intempestivo",
+     "ts": "0:44:00",
+     "justificativa": "leu o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:45:05",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:05",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:05",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:05",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:45:40",
+   "processo": "48500.001727/2019-18",
+   "interessado": "Santo Antônio Energia (SAE) e Energia Sustentável do Brasil (ESBR) — UHEs Santo Antônio e Jirau",
+   "assunto": "Requerimento de ajuste da TUST estabilizada das UHEs Santo Antônio e Jirau (ou diferimento da diferença, ~R$ 579 mi no ciclo 2020/21)",
+   "tema": [
+    "tarifas e revisão tarifária (TUST)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "requerimento não conhecido, por unanimidade",
+   "resumo_voto": "Matéria já decidida pela Diretoria (12º despacho sobre o tema), preclusa e exaurida a instância administrativa; vinculação ao edital do leilão; pandemia tratada estruturalmente no GMSE.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, não conhece",
+     "ts": "0:52:55",
+     "justificativa": "leu o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:09:29",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:09:29",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:09:29",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:09:29",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:10:56",
+   "processo": "48500.001755/2018-54",
+   "interessado": "Belo Monte Transmissora de Energia SPE S.A. (BMTE)",
+   "assunto": "Recurso contra Despacho SFE 2.637/2018 que negou retificar termos de liberação do 1º bipolo de Belo Monte (RAP a 90% de 12/02 a 13/05/2018); sustentação oral de Mary Menezes, Otaviano Diniz e Eduardo Grangeiro (BMTE); apresentação técnica da SFE",
+   "tema": [
+    "transmissão (RAP)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Havia pendências não impeditivas próprias (SEP e modelos ATP); entrega de documentos ao ONS não afasta pendências; atraso do ONS na emissão do TLP não altera a conclusão.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:47:25",
+     "justificativa": "leu o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:52:00",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:00",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:00",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:00",
+     "justificativa": "acompanhou o relator; resultado proclamado por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:54:30",
+   "processo": "48500.001841/2020-81",
+   "interessado": "consumidores do grupo A (Abrace, Abit, Fiec, Unipar, Conselho de Consumidores da Copel, Sindienergia-CE) e Abradee",
+   "assunto": "Faturamento da demanda de consumidores do grupo A durante a pandemia de Covid-19 (pedido de faturar pela demanda medida ou diferir); várias sustentações orais (Fernando Pimentel/Abit, Paulo Pedrosa/Abrace, Marcos Madureira/Abradee, Ricardo Vidinich/Copel, Unipar, Fiec)",
+   "tema": [
+    "tarifas",
+    "regulação normativa",
+    "Covid-19",
+    "consumidores"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista do Diretor-Geral André Pepitone",
+   "resumo_voto": "Relator vota por negar e manter as regras vigentes: Decreto 62.724/1968 art. 12 exige faturar o maior entre medida e contratada; demanda é 14–18% da fatura; risco de ~R$ 1 bi ao caixa das distribuidoras, subsídio cruzado e efeito cascata na transmissão; já há parcelamento e negociação na REN 414. Acatou sugestão de Efrain Cruz de recomendar que distribuidoras e consumidores negociem bilateralmente o diferimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega o pedido (com recomendação de negociação bilateral)",
+     "ts": "3:20:08",
+     "justificativa": "decreto impede faturar pela medida; preservar equilíbrio das distribuidoras; acatou recomendação de diferimento negociado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "3:20:49",
+     "justificativa": "acompanhou sem comentar (atribuição pela ordem de votação)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:21:00",
+     "justificativa": "sensibilizada, mas preserva contratos; contra usar a Conta-Covid, que ainda não existe; risco de subsídio cruzado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator, com sugestão de recomendação",
+     "ts": "3:27:54",
+     "justificativa": "propôs recomendar às distribuidoras negociar o diferimento sem alterar regulamento; Conta-Covid não é o foro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "pede vista",
+     "ts": "3:45:01",
+     "justificativa": "questiona vigência do decreto (legislação posterior, decreto de 2000); quer mais diálogo com Abrace e Abradee",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "19",
+  "25",
+  "26"
+ ],
+ "limites_da_analise": [
+  "Falantes do cabeçalho do .md (Ludimila, Mosna, Tili) estão errados: composição de 2020 inferida das falas (Pepitone DG, Sandoval, Elisa, Efrain, Júlio).",
+  "Ordem dos votos não nominados atribuída pela ordem usual; confiança media/baixa.",
+  "Conteúdo dos itens do bloco e do item 23 não lido na sessão.",
+  "Números de processos ditos pela legenda automática podem conter erros.",
+  "Só a parte 1 da reunião."
+ ]
+}

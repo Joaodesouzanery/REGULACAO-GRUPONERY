@@ -1,0 +1,550 @@
+{
+ "meta": {
+  "video_id": "ab6YY2k4dZw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª RPO 2023",
+  "data": "2023-03-14",
+  "formato": "presencial (Agnes da Costa remota)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta de 58 itens; bloco 8-58; retirados antes: 4, 8, 14, 21, 33, 55.",
+   "Intervalo de almoço 12:37-14:30; sessão terminou à noite.",
+   "Item 2 (Enel Rio) teve vista em mesa do Diretor-Geral e voltou à tarde.",
+   "Item 6 (TPE): novo pedido de vista de Sandoval Feitosa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "1:10:19",
+   "processo": "itens 8 a 58 (bloco), exceto retirados",
+   "interessado": "diversos",
+   "assunto": "Aprovação dos itens de bloco da 7ª RPO de 2023 (votos e atos disponibilizados previamente)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado; proclamação inicial citava ressalva do item 30 (Agnes), retificada pois ela já havia votado.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "1:10:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "1:10:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "1:10:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "1:10:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "1:10:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:11:42",
+   "processo": "48500.000529/2023-13",
+   "interessado": "Ministério de Minas e Energia / EPE; Secretaria Executiva de Leilões",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 17/03 a 02/05/2023) sobre minuta de edital e anexos do Leilão de Transmissão 2/2023 (elo de corrente contínua 800 kV; investimentos de quase R$ 20 bi; GO, MA, MG, SP, TO)",
+   "tema": [
+    "leilões",
+    "transmissão",
+    "regulação normativa"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurada consulta pública; Diretor-Geral comentou sinal locacional da TUST e preocupação com cadeia de suprimentos levantada pelo relator.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:12:00",
+     "justificativa": "maior leilão de transmissão da história; abertura de CP para aprimorar edital",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:29:05",
+   "processo": "48500.006834/2022-15; 48500.007896/2022-67",
+   "interessado": "Enel Distribuição Rio; Conselho de Consumidores",
+   "assunto": "Revisão tarifária periódica 2023 da Enel Rio (vigência 15/03/2023) e limites DEC/FEC 2024-2028, após CP 60/2022; sustentação oral de Hugo Lamim (Enel Rio) e Ezequiel Siqueira (conselho de consumidores)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "perdas não técnicas"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade após vista em mesa do Diretor-Geral (efeito médio 3,28%)",
+   "resumo_voto": "Longo debate de manhã sobre tornar a revisão provisória (perdas não técnicas, Tomada de Subsídios 28); Sandoval pediu vista em mesa e à tarde o texto foi ajustado por consenso.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "8:57:21",
+     "justificativa": "RTP aprovada com determinação de 90 dias para avaliar reformulação do submódulo 2.6A do Proret (perdas não técnicas em áreas de severa restrição operacional), efeitos retroativos no próximo processo tarifário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pediu vista em mesa (3:52:36); devolveu à tarde e acompanha o relator",
+     "ts": "9:52:24",
+     "confianca": "media",
+     "justificativa": "vista para organizar as propostas e obter cálculo da área técnica"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "9:52:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "9:52:24",
+     "confianca": "media",
+     "justificativa": "de manhã sinalizou acompanhar a proposta de Fernando Mosna; preocupação com o vai e volta dos números"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (após propor de manhã encaminhamento divergente: revisão provisória aplicando a Tomada de Subsídios 28 com prazo de 90 dias)",
+     "ts": "9:52:24",
+     "confianca": "media",
+     "justificativa": "queria que perdas não técnicas e mercado medido x faturado ficassem provisórios e aplicados já nesta revisão; aceitou o texto ajustado após a vista em mesa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:53:28",
+   "processo": "48500.006864/2022 e outros",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Reajuste tarifário anual 2023 da Light (vigência 15/03/2023), efeito médio 7%; pleitos sobre perdas não técnicas e PIS/Cofins tratados como pedido de RTE; com sustentação oral",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologadas tarifas; SGT e SRM devem tratar pleitos da Light como revisão tarifária extraordinária.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "3:54:00",
+     "justificativa": "reajuste segue a metodologia vigente; pleitos da empresa vão para RTE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:31:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:31:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:31:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:31:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "6:35:17",
+   "processo": "48500.001153/2018-05",
+   "interessado": "Transmissora Paraíso de Energia S.A. (TPE)",
+   "assunto": "Pedido de reconsideração contra o Despacho 1525/2022 (negou alteração do anexo da REA 6942/2018, DUP para servidão, e determinou retirada de torres fora da área declarada); retorno de vista de Ricardo Tili",
+   "tema": [
+    "transmissão",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Giácomo Almeida (relator original, 2022); voto-vista Ricardo Tili",
+   "resultado": "não concluído: novo pedido de vista do Diretor-Geral Sandoval Feitosa",
+   "resumo_voto": "Relator original votou em 2022 por dar provimento; voto-vista de Ricardo Tili nega provimento e mantém o Despacho 1525/2022; Fernando Mosna mudou o voto para acompanhar a vista.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: conhece e nega provimento",
+     "ts": "6:59:14",
+     "justificativa": "transmissora construiu fora da área da DUP antes de pedir alteração; não poderia por vontade própria realizar obras em áreas não negociadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o voto-vista (mudou o voto dado em 2022 com o relator)",
+     "ts": "7:51:46",
+     "justificativa": "mudou o convencimento a partir dos argumentos de Ricardo Tili (segundo o Diretor-Geral)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o voto-vista",
+     "ts": "7:51:46",
+     "justificativa": "lembrou que votou na decisão original (3 a 2) pela retirada da linha",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota (impedida pelo regimento neste processo)",
+     "ts": "6:35:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "7:51:49",
+     "justificativa": "houve mudança de voto durante o julgamento; prerrogativa de quem vota por último",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "7:54:36",
+   "processo": "48500.008586/2022-60",
+   "interessado": "Companhia Estadual de Geração de Energia Elétrica (CEEE-G, grupo CSN)",
+   "assunto": "Recurso contra auto de infração 49/2021 da AGERGS (multa por estações hidrométricas); sustentação oral de Bernardo Garcia Sampaio pedindo retirada de pauta e 60 dias",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "retirado de pauta pelo relator, para retorno na última reunião de março",
+   "resumo_voto": "Relator negou prazo de 60 dias mas retirou para ouvir a nova controladora.",
+   "votos": []
+  },
+  {
+   "id": "20",
+   "ts": "8:02:44",
+   "processo": "48500.001540/2021-39; 48500.001541/2021-83",
+   "interessado": "ISA CTEEP; sustentação de Rafael Janiques (CTEEP) e Thiago Aragão Soares (associação)",
+   "assunto": "Pedido de reconsideração contra a REA 11.536/2022 (reforços e RAP; banco de preços)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (parcial provimento)",
+   "resumo_voto": "Conhecido e parcialmente provido; nova RAP conforme minuta.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "8:30:00",
+     "justificativa": "parcial provimento ao pedido de reconsideração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:35:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:35:25",
+     "confianca": "media",
+     "justificativa": "aqui não é valor definitivo, então dá para seguir o relator sobre banco de preços"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:35:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:35:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "8:36:16",
+   "processo": "48500.002418/2022-61",
+   "interessado": "Migratio Gestão e Comercialização de Energia Elétrica Ltda.; CCEE",
+   "assunto": "Pedido de reconsideração contra Despacho 2.347/2022 (anulação de oferta equivocada no MVE de fevereiro/2022); sustentação oral de Marcelo Naves",
+   "tema": [
+    "comercialização",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Conhecido e negado provimento.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "8:50:00",
+     "justificativa": "negar provimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:55:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:55:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:55:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "8:55:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "9:56:43",
+   "processo": "48500.006579/2018-47",
+   "interessado": "Copel Distribuição S.A.; Cooperativa de Distribuição Elétrica Castro",
+   "assunto": "Recurso contra Despacho 3.489/2022 da SRM que homologou 3º termo aditivo de CCE com exceção dos montantes jan-set/2022",
+   "tema": [
+    "comercialização",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Reformado o despacho para homologar montantes jan-set/2022; vício era apenas de prazo.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "10:00:00",
+     "justificativa": "homologação é ato vinculado; vício só de prazo, sanável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:16:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "10:18:09",
+   "processo": "48500.003324/1999-16",
+   "interessado": "Eletrobras, Eletronet, LT Bandeirantes, Eletropar",
+   "assunto": "Requerimento de esclarecimento do Despacho 1290/2022 (cessão de direito de uso de infraestrutura entre transmissoras e Eletronet)",
+   "tema": [
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (não conhecido)",
+   "resumo_voto": "Não conhecido por coisa julgada administrativa e exaurimento dos meios de impugnação.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "10:31:00",
+     "justificativa": "coisa julgada administrativa; afastado art. 2º da REN 846/2019",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:32:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:32:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:32:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:32:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "10:34:02",
+   "processo": "48500.003996/2021-33 e outros",
+   "interessado": "Complexo Fotovoltaico Irmãos Coragem (Parazinho/RN); com sustentação oral",
+   "assunto": "Autorização das UFV Irmãos Coragem 1 a 3 como PIE, sem direito ao desconto na TUST/TUSD por documentação incompleta até 02/03/2022",
+   "tema": [
+    "outorgas de geração",
+    "solar",
+    "tarifas de uso (desconto no fio)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Outorga emitida sem desconto no fio: documentos essenciais não protocolados no prazo legal.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "10:45:00",
+     "justificativa": "documentos não apresentados até 2/3/2022; não faz jus ao desconto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:54:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:54:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "10:54:11",
+     "confianca": "alta",
+     "justificativa": "assessoria analisou; não há imprecisão da agência; alerta para muitos casos semelhantes"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "10:54:11",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "4, 8, 14, 21, 33, 55",
+   "motivo": "retirados na publicação da pauta definitiva"
+  },
+  {
+   "item": "23",
+   "motivo": "retirado por Hélvio Guerra"
+  },
+  {
+   "item": "43",
+   "motivo": "retirado por Fernando Mosna"
+  },
+  {
+   "item": "12",
+   "motivo": "retirado pelo relator Hélvio Guerra após sustentação oral"
+  }
+ ],
+ "limites_da_analise": [
+  "Data inferida (14/03/2023: «quinta-feira dia 16 de março, depois de amanhã»).",
+  "Votos de quem só acompanha atribuídos pela proclamação unânime; falas «eu acompanho» sem nome.",
+  "Item 6: relator original dito «Jácomo/já como base Almeida» (provável Giácomo Almeida, fora da lista de diretores); atribuição de «eu acompanho o voto vista» a Hélvio Guerra é incerta (baixa); a não votação de Agnes é inferida da fala do secretário.",
+  "Relatores dos itens 1, 2, 3 conforme leitura do secretário («Ricardo Chile» = Ricardo Tili); «diretor houve/Élvio» = Hélvio Guerra.",
+  "Números de processo e valores vêm da legenda automática e podem conter erros.",
+  "Itens do bloco não detalhados individualmente; ts dos votos dos relatores em alguns itens aproximados."
+ ]
+}

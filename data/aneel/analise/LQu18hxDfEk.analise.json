@@ -1,0 +1,37 @@
+{
+ "meta": {"video_id": "LQu18hxDfEk", "fonte": "legenda automática YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "6ª Reunião Pública Extraordinária de 2018",
+  "data": "2018-11-07",
+  "formato": "extraordinária",
+  "presidente_da_sessao": "André Pepitone",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz"],
+  "ausentes": [],
+  "observacoes": "Reunião extraordinária convocada para um único processo (pedido cautelar da APINE sobre ajuste do MRE), antes da liquidação do mercado de curto prazo. Sustentação oral de Alexandre Lopes (Abraceel) e manifestação da Procuradoria Federal junto à ANEEL. A APINE não compareceu."
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:14",
+   "processo": "48500.010057/2018-26 (número incerto na legenda)",
+   "interessado": "Associação Brasileira dos Produtores Independentes de Energia Elétrica (APINE)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar da APINE para parcelamento, após oitiva dos agentes, dos valores das liquidações de fevereiro a outubro de 2018 relativos ao ajuste do MRE (risco hidrológico/GSF), e suspensão de cobranças, garantias e penalidades",
+   "tema": ["comercialização (CCEE, MRE, GSF)", "recursos administrativos", "institucional/judicialização"],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Por unanimidade, conhecer e negar a medida cautelar (suspensão de cobranças, aportes de garantia e penalidades relativas ao ajuste do MRE em favor dos associados da ação judicial) e, no mérito, declarar a perda de objeto do pedido para que a CCEE seja autorizada a liberar parcelamento após oitiva dos agentes.",
+   "resumo_voto": "Relator: contencioso do GSF com cerca de R$ 9,8 bi contabilizados e não liquidados; jurisprudência da ANEEL (casos Abragel e outros) só admite parcelamento com desistência da ação judicial/repactuação do risco hidrológico; APINE recorreu ao Judiciário alegando omissão do Diretor-Geral em prazo exíguo; saldo líquido dos associados seria pequeno frente a créditos. Sustentação oral: Alexandre Lopes (Abraceel), contra o pedido, pelo cumprimento das regras.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:00:40", "justificativa": "Não cabe à ANEEL parcelar débitos de quem mantém a discussão judicial; precedentes negaram parcelamento sem renúncia à ação; necessidade de continuidade das liquidações do MCP.", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:28:28", "justificativa": "Voto robusto; critica a escalada de imputar demora à agência no Judiciário, que extrapola a lealdade processual; periculum in mora invertido.", "tom": "crítico à conduta processual da associação", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:36:27", "justificativa": "Não vê periculum in mora nem fumaça do bom direito; agência deve atuar de forma diligente no Judiciário; saldo líquido real dos associados seria em torno de R$ 120 milhões, não R$ 2,29 bi; elogia lealdade processual e diálogo com associações.", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: número do processo, valores e nomes podem estar errados (ex.: 'abrasel' provavelmente Abraceel; 'éfrem/frango' = Efrain Cruz).",
+  "Na votação final ouvem-se duas falas 'também voto com o relator' sem nome; pode ter havido um quarto diretor presente (possivelmente Rodrigo Limp), não identificado na legenda, portanto não registrado.",
+  "Atribuição da fala de 0:28:28 a Efrain Cruz é inferida (referências posteriores ao 'diretor Efraim' sobre lealdade processual); da fala ~0:36:27 a André Pepitone pela autodeclaração 'do André Pepitone' e papel de Diretor-Geral.",
+  "Falantes {} do cabeçalho do .md (Sandoval Feitosa, Ricardo Tili) são inferência automática; Ricardo Tili não era diretor em 2018 e foi desconsiderado."
+ ]
+}

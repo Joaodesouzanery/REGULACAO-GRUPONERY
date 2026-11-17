@@ -1,0 +1,284 @@
+{
+ "meta": {
+  "video_id": "_yezlwl4PLQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "26ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-07-21",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Elisa Bastos",
+   "Sandoval Feitosa",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores declarado na abertura.",
+   "Ata da 25ª RPO aprovada.",
+   "Pauta com 33 itens; bloco 7-33; item 14 retirado; itens 5 e 18 (destacado) não deliberados nesta parte (provavelmente na Parte 2, após o almoço).",
+   "Sandoval Feitosa pediu vista do item 10 do bloco."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:09:12",
+   "processo": "",
+   "interessado": "diversos (itens 7 a 33 da pauta)",
+   "assunto": "Bloco de 27 itens (7 a 33), exceto item 14 (retirado) e item 18 (destacado); inclui reajustes tarifários de três distribuidoras que aderiram à Conta Covid",
+   "tema": [
+    "bloco",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade, exceto item 10, com pedido de vista do diretor Sandoval Feitosa",
+   "resumo_voto": "Itens do bloco aprovados; vista do item 10 pedida por Sandoval Feitosa.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:09:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:09:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco e pede vista do item 10",
+     "ts": "0:09:27",
+     "confianca": "alta",
+     "justificativa": "solicito vistas do item 10"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:09:22",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:10:06",
+   "processo": "48500.003595/2020-01",
+   "interessado": "CCEE; 16 instituições financeiras (Bradesco, Itaú BBA, BNDES, Santander e outras)",
+   "assunto": "Aprovação prévia dos contratos de operação de crédito da Conta Covid (contrato de abertura de linha de crédito, CAC, e instrumento de cessão fiduciária, CFG), Decreto 10.350/2020 e REN 885/2020",
+   "tema": [
+    "CDE e encargos setoriais",
+    "Conta Covid",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova substancialmente CAC e CFG (valor bruto ~R$ 15,29 bi, CDI + 2,8% a.a., 54 parcelas até dez/2025); delega a SGT/SFF despacho conjunto para aditivos; autoriza homologação parcial do 7º desembolso; determina à SFF monitorar os termos de aceitação e instaurar processo punitivo em caso de irregularidade. Apresentação técnica da SFF; Procuradoria sem óbice (parecer 231).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "1:12:30",
+     "confianca": "alta",
+     "justificativa": "operação atende razoabilidade e modicidade tarifária: dilui em ~5 anos custos que seriam repassados em 12 meses (impacto médio estimado 12,6% cai para 2,9%); custo menor que debêntures no cenário de crise"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "1:25:50",
+     "confianca": "media",
+     "justificativa": "decisão de equilíbrio: atenua impacto aos consumidores e mantém a cadeia de pagamentos do setor"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora",
+     "ts": "1:25:55",
+     "confianca": "media",
+     "justificativa": "parabeniza a qualidade do voto e o trabalho de coordenação em prazo curto"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:26:03",
+     "confianca": "media",
+     "justificativa": "operação dá liquidez a toda a cadeia do setor e preserva contratos; detalha cronograma de 7 desembolsos"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:27:42",
+   "processo": "48500.007151/2019-76",
+   "interessado": "Centrais Elétricas de Carazinho S.A. (Eletrocar), RS",
+   "assunto": "Reajuste tarifário anual 2020 da Eletrocar, a partir de 22/07/2020 (efeito médio 4,70%; AT 4,27%, BT 4,86%; com antecipação da Conta Covid)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "Conta Covid"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste com efeito médio de 4,70%; sem a Conta Covid seria cerca de 7,5%. Apresentação da SGT (Otávio Franco), com falha de áudio.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova",
+     "ts": "1:44:50",
+     "confianca": "alta",
+     "justificativa": "reajuste amortecido pela Conta Covid (de cerca de 7,5% para 4,7%)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator, com orientação",
+     "ts": "1:46:08",
+     "confianca": "media",
+     "justificativa": "pede que a SGT evidencie nos componentes financeiros negativos o impacto do empréstimo da Conta Covid"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:48:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:48:50",
+     "confianca": "media",
+     "justificativa": "quatro reajustes do dia aderiram à Conta Covid e foram amortecidos"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:49:32",
+   "processo": "48500.004505/2017-95",
+   "interessado": "Centrais eólicas Renascença I a IV e Ventos de São Miguel (Brookfield), LFA 7/2010",
+   "assunto": "Requerimento administrativo para recontabilizar saldo acumulado de energia do 2º ano do 1º ciclo quadrienal, considerando energia não fornecida por atraso da ICG João Câmara III (Chesf) — cerca de 61 GWh",
+   "tema": [
+    "comercialização (CCEE, contratos)",
+    "outorgas de geração eólica",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Sustentação oral do advogado Guilherme Baggio (analogia do aluno Joãozinho); Procuradoria mantém parecer 83/2019 (eventual lucro cessante deve ser buscado contra o causador do atraso). Relator: energia isenta de ressarcimento (ENFDT) não forma saldo; saldo exige geração efetiva.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "2:27:50",
+     "confianca": "alta",
+     "justificativa": "isenção protege o gerador de ressarcimento e penalidade, mas não permite formar saldo com energia não gerada; janela anual do CCEAR não pode ser alterada"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "2:29:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:29:22",
+     "confianca": "media",
+     "justificativa": "elogia voto didático e bem motivado"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:30:30",
+   "processo": "48500.005102/2015-99",
+   "interessado": "Furnas, Chesf, Eletrobras (usinas cotistas, Lei 12.783/2013)",
+   "assunto": "Resultado da CP 43/2019: revisão do padrão de qualidade do serviço de geração de hidrelétricas em regime de cotas",
+   "tema": [
+    "regulação normativa",
+    "outorgas de geração hidrelétrica"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator retirou para concluir análises adicionais pedidas por Furnas, Chesf e Eletrobras.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "2:31:43",
+     "confianca": "alta",
+     "justificativa": "análises adicionais solicitadas não ficaram prontas"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:31:56",
+   "processo": "48500.001841/2020-81",
+   "interessado": "distribuidoras (Abradee; distribuidora do RS); consumidores",
+   "assunto": "Resultado da CP 38/2020: revisão da REN 878/2020 (medidas da pandemia na distribuição) e adequação da REN 414 à Lei 14.015/2020",
+   "tema": [
+    "regulação normativa",
+    "consumidor",
+    "distribuição",
+    "Covid-19"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Retorno do corte por inadimplência a partir de 1/8/2020, exceto baixa renda até 31/12/2020; reaviso obrigatório; mantida taxa de religação; reabertura do atendimento presencial salvo determinação da autoridade competente; regularização de serviços até 31/8; compensações de continuidade até 31/10/2020. Sustentações orais de Lucas Malheiros (distribuidora do RS) e Marcos Madureira (Abradee).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova",
+     "ts": "3:30:00",
+     "confianca": "alta",
+     "justificativa": "equilibrar consumidores e saúde financeira do setor; ouvidoria registrou alta de reclamações com agências fechadas; 46 milhões sem internet, falta maturidade para atendimento 100% virtual"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:50:15",
+     "confianca": "media",
+     "justificativa": "houve exageros de algumas distribuidoras na pandemia (cortes, cobrança pela média) que devem ser apurados pela fiscalização"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha a relatora",
+     "ts": "3:50:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:50:30",
+     "confianca": "media",
+     "justificativa": "busca equilíbrio e saúde financeira do setor; destaca participação social na CP"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "14 — retirado de pauta (assunto não informado)"
+  },
+  {
+   "item": "3 — CP 43/2019 qualidade de geração de cotistas, retirado pelo relator Sandoval Feitosa"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática; tags de falante do .md não confiáveis (abertura marcada como Sandoval/Ricardo Tili, mas quem preside é o Diretor-Geral André Pepitone, conforme sustentação da Abradee).",
+  "Composição inferida: Pepitone, Elisa Bastos, Sandoval Feitosa e Júlio César Rezende Ferraz; Efrain Cruz não identificado (possível ausência; trecho «senhores diretores sandoval e farim julho» ambíguo).",
+  "Falas «acompanho» sem nome nos itens 6, 1, 2 e 4: atribuídas pela ordem usual e proclamação de unanimidade; confiança baixa/média.",
+  "Números de processo podem ter erros de legenda.",
+  "Item 4: nome da distribuidora de Lucas Malheiros incerto («st-30 distribuidora», RS)."
+ ]
+}

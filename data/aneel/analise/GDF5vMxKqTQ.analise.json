@@ -1,0 +1,381 @@
+{
+ "meta": {
+  "video_id": "GDF5vMxKqTQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "43ª RPO 2019",
+  "data": "2019-11-19",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Rodrigo Limp",
+   "Elisa Bastos",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (viagem a serviço)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores.",
+   "Pauta com 25 itens; itens 5 e 12 retirados; bloco 8 a 25.",
+   "Item 6 (PCH Confluência) com pedido de vista de Efrain Cruz."
+  ]
+ },
+ "itens": [
+  {
+   "id": "CP 25/2019 (prorrogação)",
+   "ts": "0:07:40",
+   "processo": "Consulta Pública 25/2019",
+   "interessado": "geral (revisão da REN 482/2012)",
+   "assunto": "Prorrogação por 30 dias (de 30/11 para 30/12/2019) do prazo de contribuições da Consulta Pública 25/2019, revisão da REN 482/2012 (geração distribuída)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "regulação normativa"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado (prorrogação até 30/12/2019)",
+   "resumo_voto": "Relator propõe estender o prazo em vista das diversas contribuições recebidas em sessões presenciais.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, propõe prorrogação",
+     "ts": "0:07:50",
+     "justificativa": "diversas contribuições recebidas nas sessões presenciais justificam mais 30 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:08:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:08:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:08:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "bloco (itens 8 a 25)",
+   "ts": "0:09:20",
+   "processo": "itens 8 a 25 (exceto 12, retirado)",
+   "interessado": "diversos",
+   "assunto": "Julgamento em bloco dos itens 8 a 25 da pauta",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado por unanimidade dos votantes.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:09:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:10:00",
+   "processo": "48500.002107/2019-04",
+   "interessado": "DME Distribuição S.A. (DMED, Poços de Caldas-MG); sustentação oral de Arlene Nogueira, Conselho de Consumidores",
+   "assunto": "Reajuste tarifário anual 2019 da DME Distribuição, vigência a partir de 22/11/2019: efeito médio 5,29% (AT 10,33%; BT 2,05%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste; queda dos encargos (quitação antecipada da Conta ACR, fim da CDE-decreto) compensada por financeiros (CVA energia); distribuidora com sobrecontratação de ~44% atribuída à alocação de cotas.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "0:27:55",
+     "justificativa": "homologa índice com efeito médio de 5,29%; financeiros e CDE explicam alta da AT",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:40:13",
+     "justificativa": "destaca quitação antecipada da Conta ACR; sobrecontratação de 44% causada por cotas impostas pelo poder público, problema a ser tratado de forma estruturante",
+     "tom": "propositivo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:40:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:40:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:40:41",
+   "processo": "48500.002110/2019 (número parcial)",
+   "interessado": "Companhia Hidroelétrica São Patrício (CHESP, GO)",
+   "assunto": "Reajuste tarifário anual 2019 da CHESP, vigência 22/11/2019: efeito médio -0,12% (AT -2,92%; BT 0,52%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste; conexão direta à rede básica reduziu custo de transmissão; tarifa residencial abaixo da inflação em 10 anos.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:49:19",
+     "justificativa": "tarifas residenciais subiram 41% em 10 anos, abaixo de IGP-M e IPCA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:53:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:54:05",
+   "processo": "48500.002114/2019-06 (número parcial)",
+   "interessado": "CEEE Distribuição (RS)",
+   "assunto": "Reajuste tarifário anual 2019 da CEEE-D, vigência 22/11/2019: efeito médio -5,06% (AT -3,26%; BT -5,82%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa reajuste negativo; redução de encargos (Conta ACR) e fim de contratos do 13º leilão de energia existente.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:03:09",
+     "justificativa": "reajuste negativo; tarifa abaixo da inflação em 10 anos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:08:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:08:32",
+   "processo": "48500.002862/2019 (número parcial)",
+   "interessado": "CCEE; agentes de comercialização",
+   "assunto": "Abertura de consulta pública (2ª fase da AP 33/2019) sobre Regras de Comercialização versão 2020 para operacionalizar o modelo DESSEM (Portaria MME 301/2019)",
+   "tema": [
+    "comercialização (CCEE, PLD)",
+    "regulação normativa"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura CP em duas partes (15 e 30 dias) e determina à CCEE envio de novos módulos conforme NT 129/2019.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:24:27",
+     "justificativa": "necessidade de adequar regras ao DESSEM a partir de 2020",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:27:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:28:35",
+   "processo": "48500.004649/2002-85 e 48500.003141/2015-64 (números parciais)",
+   "interessado": "Confluência Energia S.A. (PCH Confluência, rio Marrecas, Prudentópolis-PR); sustentação oral de Guilherme Baggio, procurador",
+   "assunto": "Pedido de medida cautelar para suspender o início do suprimento dos CCEARs da PCH Confluência (1/1/2020), por atraso atribuído ao INCRA na liberação de áreas do assentamento Marrecas",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "comercialização (CCEAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "pedido de vista (Efrain Cruz)",
+   "resumo_voto": "Relator dava provimento parcial: suspensão cautelar até 1/9/2020 ou deliberação do mérito do excludente de responsabilidade, o que ocorrer primeiro, com análise conjunta SCG/SFG; ajustou dispositivo no debate. Efrain questionou risco aos compradores e pediu vista.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, dá provimento parcial à cautelar",
+     "ts": "1:57:40",
+     "justificativa": "fumaça do bom direito (demora do INCRA desde 2017) e perigo da demora; prazo limitado a oito meses para não deixar em aberto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "2:21:24",
+     "justificativa": "no ambiente regulado a análise deve ser rígida; risco de dano irreversível aos compradores (estimativa de até 30 milhões/ano) e reversão quase impossível; mérito poderia ser julgado sem esperar o INCRA",
+     "tom": "crítico",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "2:21:24",
+     "justificativa": "no debate disse não ver dano irreversível na cautelar (atribuição incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:21:24",
+     "justificativa": "sugeriu reduzir prazo da cautelar e resolver o mérito no menor prazo possível, com força-tarefa SCG/SFG",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:21:40",
+   "processo": "48500.004347/2019-35 (número parcial)",
+   "interessado": "Serra de Ibiapaba Transmissora de Energia S.A. (SITE)",
+   "assunto": "Antecipação da data de necessidade dos setores 500/230 kV da SE Acaraú 3 e da LT 230 kV Acaraú 2 - Acaraú 3 (CD), contrato de concessão 2/2018",
+   "tema": [
+    "transmissão (RAP, outorgas)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza antecipação com benefício sistêmico confirmado por ONS e MME; condicionante da obra da Argo já atendida.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "2:31:36",
+     "justificativa": "benefício sistêmico confirmado pelo ONS e MME; previsão contratual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:32:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:32:31",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "5",
+   "motivo": "retirado de pauta (motivo não dito)",
+   "ts": "0:09:05"
+  },
+  {
+   "item": "12",
+   "relator": "Elisa Bastos (relatora, pela fala)",
+   "motivo": "retirado pela relatora",
+   "ts": "0:09:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais/distorcidos.",
+  "Falas de voto sem nome ('acompanha a relatora'); atribuição pela proclamação; ts aproximados.",
+  "Relator da prorrogação da CP 25/2019 não dito na legenda; atribuído a Rodrigo Limp por inferência (confiança baixa).",
+  "No item 6 o debate tem falantes não identificados; posições de Elisa Bastos e André Pepitone no debate são inferência; 'diretor Frank' na legenda = Efrain Cruz.",
+  "Bloco: relatores dos itens 8 a 25 não detalhados."
+ ]
+}

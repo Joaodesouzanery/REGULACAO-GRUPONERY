@@ -1,0 +1,63 @@
+{
+ "meta": {"video_id": "rO3VsJStQ3E", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "17ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-05-19",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Júlio César Rezende Ferraz"],
+  "ausentes": [],
+  "observacoes": "Quórum de cinco diretores. Pauta com 32 itens; bloco do item 9 ao 32. Retirados de pauta os itens 8, 10 e 32; item 13 destacado do bloco. Sustentações orais pedidas para os itens 2, 3, 6, 7 e 13. Esta Parte 1 cobre bloco e itens 1 a 4; itens 5, 6, 7 e 13 ficaram para a tarde (outra parte). Efrain Cruz teve problemas de conexão no item 3 e não estava na sessão no item 4."
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:06:48", "processo": "", "interessado": "", "assunto": "Itens do bloco (itens 9 a 31, exceto retirados e o item 13 destacado)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Diretor-Geral submete o bloco; todos aprovam.",
+   "votos": [
+    {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:06:48", "justificativa": "Vota pela aprovação do bloco.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:06:55", "justificativa": "Pela proclamação de unanimidade.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:06:55", "justificativa": "Pela proclamação de unanimidade.", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:06:55", "justificativa": "Pela proclamação de unanimidade.", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "aprova o bloco", "ts": "0:06:55", "justificativa": "Pela proclamação de unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:07:37", "processo": "48500.000079/2019-78 (incerto)", "interessado": "Sulgipe - Companhia Sul Sergipana de Eletricidade (distribuidora)", "assunto": "Reajuste tarifário anual de 2020 da Sulgipe, a vigorar a partir de 22/05/2020; efeito médio de -2,10% (-1,60% AT; -2,28% BT)", "tema": ["tarifas e revisão tarifária", "distribuição"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade (homologado o reajuste com efeito médio de -2,10%)", "resumo_voto": "Relator vota pela resolução homologatória; apresentação técnica da SGT; destaca peso do ICMS na tarifa.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:22:30", "justificativa": "Reajuste negativo pelo segundo ano, abaixo de IPCA e IGP-M, favorece modicidade e desenvolvimento; ressalta o peso do ICMS (cerca de 20%) na tarifa.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:24:35", "justificativa": "Chamado nominalmente: «o diretor sandoval também volto com o direto[r]».", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:35", "justificativa": "Unanimidade proclamada; fala individual não identificada com segurança.", "confianca": "baixa"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:35", "justificativa": "Unanimidade proclamada; fala individual não identificada com segurança.", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:24:45", "justificativa": "Proclama a unanimidade.", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "0:25:51", "processo": "48500.000070/2019-01 (incerto)", "interessado": "Nova Palma Energia (Usina Hidroelétrica Nova Palma Ltda., UHENPAL), distribuidora em Faxinal do Soturno/RS", "assunto": "Reajuste tarifário anual de 2020 da Nova Palma Energia, a vigorar a partir de 22/05/2020; efeito médio de 1,78% (0,38% AT; 2,22% BT; residencial B1 cai cerca de 0,1%). Sustentação oral de Guilherme Lopes (Nova Palma) sobre indicadores DEC/FEC afetados por interrupções externas.", "tema": ["tarifas e revisão tarifária", "distribuição e qualidade"], "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade", "resumo_voto": "Relator vota pela homologação; aumento puxado pela compra de energia (Itaipu, +5,63%); empresa pediu manutenção do reajuste, sem diferimento.",
+   "votos": [
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, aprova", "ts": "0:53:00", "justificativa": "Efeito positivo na média, mas o consumidor residencial percebe leve redução; tudo já exposto na apresentação da SGT.", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:56:39", "justificativa": "Destaca esforço contínuo da gestão para conter tarifas na pandemia; proclama a unanimidade.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:56:30", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:56:30", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:56:30", "justificativa": "Unanimidade proclamada.", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "0:57:27", "processo": "48500.001841/2020-81 (incerto)", "interessado": "Consumidores do grupo A; sustentações orais: FIEC (Ricardo Cavalcanti), Abrace (Paulo Pedrosa), Abradee (Marcos Madureira), Resorts Brasil/G8 (Sérgio Souza, Marcelo Freire), Abrate (Tiago Aragão), Conselho de Consumidores do Ceará (Joaquim Rolim)", "assunto": "Faturamento de demanda de consumidores do grupo A durante a pandemia de Covid-19 (pagar demanda medida em vez da contratada); retorno de vista do Diretor-Geral", "tema": ["distribuição", "recursos administrativos", "regulação normativa", "Covid-19"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes: conhecer e negar provimento; recomendar livre negociação de diferimento/parcelamento entre distribuidoras e consumidores nos termos da regulamentação vigente (REN 414); SMA apoia mediação", "resumo_voto": "Voto-vista de Pepitone acompanhava o relator e propunha anexo com balizas na REN 878; Sandoval e Elisa objetaram (falta de consulta pública, intervenção regulatória); Efrain propôs retirar o anexo e remeter à 414; Júlio defendeu as balizas; consenso no voto do relator ajustado.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (voto ajustado)", "ts": "2:46:15", "justificativa": "Não cabe ao regulador impor faturamento pela demanda medida; evitar subsídios cruzados; balizas por resolução sem consulta pública seriam intervenção; acata recomendação e referência à 414 e à SMA.", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "voto-vista: acompanha o relator; converge ao voto ajustado", "ts": "1:24:03", "justificativa": "ANEEL deve atuar como indutora e mediadora; decreto 10.350 permite empréstimo (Conta-Covid) que viabiliza negociação; propôs balizas (multa, juros, garantias) mas aceitou remeter à 414.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator com os ajustes", "ts": "2:47:39", "justificativa": "Preocupação com impacto econômico sem consulta pública e com fato novo (decreto) em processo com vista; mediação pode ser feita pela SMA sem norma.", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator com os ajustes", "ts": "2:47:50", "justificativa": "Defendera que as balizas restringem os efeitos ao consumidor e à distribuidora do acordo e independem do decreto; acompanha o texto final.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "não votou (problema de conexão)", "ts": "2:48:00", "justificativa": "Mesa registra que o diretor estava com problema na conexão; proclamação por unanimidade dos votantes. Antes propôs retirar o anexo e manter recomendação com balizas da 414.", "confianca": "media"}
+   ]},
+  {"id": "4", "ts": "2:49:36", "processo": "48500.000074/2003-20 (incerto)", "interessado": "Energisa Mato Grosso (distribuidora); Amaggi Energia S.A. (PCH Santa Lúcia II)", "assunto": "Recurso da Energisa MT contra Despacho SRM 3.091/2018 que não aprovou o 2º termo aditivo ao contrato 312/2003 com a Amaggi (redução de montantes em 2019); pedido cautelar da Amaggi", "tema": ["recursos administrativos", "comercialização"], "relator": "Sandoval Feitosa", "resultado": "recurso conhecido e negado por unanimidade dos votantes; cautelar perde objeto", "resumo_voto": "Redução contratual deve usar o MVE (REN 824/2018); aditivo bilateral seria menos vantajoso ao consumidor; diverge do parecer da procuradoria.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega o recurso)", "ts": "3:13:30", "justificativa": "Registro não é mero ato cadastral; após a REN 824/2018 a descontratação deve ocorrer pelo mecanismo de venda de excedentes.", "confianca": "alta"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "suspeito/impedido", "ts": "3:14:30", "justificativa": "Declara-se impedido.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "3:14:35", "justificativa": "Pela proclamação.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "3:14:43", "justificativa": "Proclama unanimidade dos votantes.", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "não votou (ausente da sessão)", "ts": "3:14:43", "justificativa": "Proclamação: diretor não está na sessão.", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["item 8", "item 10", "item 32"],
+ "limites_da_analise": [
+  "Legenda automática; números de processo incertos.",
+  "Itens 5, 6, 7 e 13 não estão nesta Parte 1 (sessão retomada às 14h30).",
+  "Itens 1 e 2: falas de acompanhamento sem nome claro; votos de Elisa/Júlio/Efrain inferidos da proclamação.",
+  "Item 3: ordem das falas de Elisa e Júlio na votação inferida; Efrain sem conexão no momento do voto.",
+  "Item 4: a legenda diz «diretor flávia» fora da sessão; interpretado como Efrain Cruz.",
+  "Item do bloco: lista de itens retirados ambígua (8, 10, 32; menção confusa a 30)."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "meta": {"video_id": "6-11UmwSnDg", "fonte": "legenda automática do YouTube; falantes inferidos; trecho curto (votação em bloco dos itens 11 a 47)", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "1", "data": "2018-01-23", "formato": "presencial",
+  "presidente_da_sessao": "não identificado (Diretor-Geral; provavelmente Romeu Rufino)",
+  "diretores_presentes": ["Romeu Rufino", "Tiago Correia", "não identificado"],
+  "ausentes": [],
+  "observacoes": ["1ª Reunião Pública Ordinária de 2018; vídeo cobre só a votação em bloco (itens 11 a 47).", "Quórum de três diretores informado na abertura.", "Aprovadas as atas da 48ª RPO e da 4ª RPE de 2017.", "Sem pedidos de retirada de pauta nem de destaque pelos agentes.", "Retificações de dispositivo nos itens 14 (recurso da Amazonas Distribuidora, provimento parcial, multa mantida em R$ 752.242,56), 22 (impugnação da Ythaca Energia contra decisão da CCEE, negado provimento; texto corrigido para descumprimento de obrigação) e 33 (DUP de APP da UHE Baguari, Consórcio UHE Baguari, MG; erro material de copiar e colar citava Energisa Mato Grosso)."]
+ },
+ "itens": [
+  {
+   "id": "11-47 (bloco)", "ts": "0:00:00",
+   "processo": "", "interessado": "diversos (Amazonas Distribuidora, Ythaca Energia, Baguari Geração/Consórcio UHE Baguari, outros)",
+   "assunto": "Votação em bloco dos itens 11 a 47 da pauta, com retificações de dispositivo nos itens 14, 22 e 33",
+   "tema": ["fiscalização e sanções", "comercialização (CCEE)", "outorgas de geração (hidrelétrica)", "recursos administrativos"],
+   "relator": "diversos",
+   "resultado": "aprovado em bloco",
+   "resumo_voto": "Bloco aprovado com as retificações dos dispositivos dos itens 14, 22 e 33 explicadas pelos relatores; os três diretores votam pela aprovação.",
+   "votos": [
+    {"diretor": "Romeu Rufino", "voto": "aprova o bloco", "ts": "0:00:00", "justificativa": "voto pela aprovação do bloco", "confianca": "baixa"},
+    {"diretor": "Tiago Correia", "voto": "aprova o bloco", "ts": "0:00:00", "justificativa": "também vota pela aprovação do bloco", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:00", "justificativa": "também vota pela aprovação do bloco", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Transcrição curta e sem marcadores de tempo internos; ts aproximados.", "Falante inferido {Ricardo Tili} é incompatível com 2018 (não era diretor); presidente e diretores presentes não nomeados na legenda. Romeu Rufino (DG em jan/2018) e Tiago Correia (citado como 'diretor tiago') são inferências; terceiro diretor não identificado.", "Relatores dos itens 14, 22 e 33 não nomeados; itens individuais do bloco não detalhados no vídeo."]
+}

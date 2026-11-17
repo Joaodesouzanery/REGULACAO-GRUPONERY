@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "eyDOAhw_AMc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "35ª Reunião Pública Ordinária de 2020 (Parte 2, período vespertino)", "data": "2020-09-22", "formato": "videoconferência",
+    "presidente_da_sessao": "Diretor-Geral (nome não dito na legenda; provavelmente André Pepitone)",
+    "diretores_presentes": ["Efrain Cruz", "Elisa Bastos", "Sandoval Feitosa", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Retomada da 35ª RPO após suspensão das 12h às 14h; parabéns ao secretário-geral Guilherme Favero.", "3 itens: PCH Águas de Ouro (negado provimento, unânime), prorrogação de vista de Elisa Bastos (UTE Porto do Açu 3) e CGH Generoso retirado de pauta pelo relator Efrain Cruz.", "Sessão encerrada ao fim do vídeo (~0:36)."]
+  },
+  "itens": [
+    {
+      "id": "5", "ts": "0:01:14",
+      "processo": "48500.000354/2011-12 (número lido de forma incerta)", "interessado": "Águas do Oeste Geração Elétrica (PCH Águas de Ouro, Rio do Peixe, SC)",
+      "assunto": "Pedido de reconsideração/revisão administrativa contra o Despacho 1063/2018, que indeferiu a outorga de autorização da PCH Águas de Ouro (10,7 MW) e revogou o DRS-PCH",
+      "tema": ["outorgas de geração (PCH)", "recursos administrativos", "garantia de fiel cumprimento"],
+      "relator": "Efrain Cruz", "resultado": "conhecido o requerimento administrativo e, no mérito, negado provimento, por unanimidade",
+      "resumo_voto": "Recurso intempestivo contra o despacho de 2018; a cautelar do Despacho 1936/2019 não alcança DRS revogados por descumprimento (falta de garantia de fiel cumprimento); eixo já disponibilizado e com novo interessado com DRS: prover feriria segurança jurídica e terceiro de boa-fé. Procuradoria (Dr. Ramalho) opinou no mesmo sentido. Processo havia sido retirado de pauta na 24ª RPO após sustentação oral; nesta sessão sem sustentação.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:25:00", "justificativa": "o direito não socorre aos que dormem; empresa não recorreu no prazo e o eixo foi concedido a novo empreendedor; ressalva pessoal de que exigir garantia de fiel cumprimento para registro de PCH cria custo e deveria ser revista, mas aplica a norma vigente", "tom": "didático", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:26:00", "justificativa": "prazos da Lei 9.784 são fatais; preclusão gerou abertura do eixo a outro empreendedor; solução coaduna com a segurança regulatória; levantou dúvida se não seria caso de não conhecer, esclarecida pelo relator", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:02", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:02", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:32:20", "justificativa": "cumprir o regulamento para garantir segurança jurídica e regulatória, embora sensibilizado com o empreendedor que investiu recursos próprios", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "7", "ts": "0:32:46",
+      "processo": "48500.004948/2017-86 (número incerto)", "interessado": "GNA / UTE Porto do Açu 3 (São João da Barra, RJ) — nome da empresa ilegível na legenda",
+      "assunto": "Prorrogação do prazo de pedido de vista em requerimento sobre alteração do ponto de conexão da UTE Porto do Açu 3",
+      "tema": ["outorgas de geração (térmica)", "transmissão (conexão)", "pedido de vista"],
+      "relator": "Sandoval Feitosa", "resultado": "prorrogação da vista por mais 8 sessões aprovada, sem manifestação contrária",
+      "resumo_voto": "Diretora Elisa Bastos, com vista, pede mais oito sessões para trazer o processo de volta.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "pede prorrogação da vista por 8 sessões", "ts": "0:33:27", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "sem objeção (aprovação tácita)", "ts": "0:33:40", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "sem objeção (aprovação tácita)", "ts": "0:33:40", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "sem objeção (aprovação tácita)", "ts": "0:33:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:33:57",
+      "processo": "48500.002208/2016-47 (número incerto)", "interessado": "CGH Generoso",
+      "assunto": "Recurso com pedido de efeito suspensivo contra despacho da SCG que revogou o registro da CGH Generoso e determinou desmobilização das estruturas e restituição do rio ao leito original",
+      "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos"],
+      "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator; retorna na próxima reunião",
+      "resumo_voto": "Havia pedido de sustentação oral; o relator retirou o processo para privilegiar o diálogo, pois o empreendedor terá reunião com a Diretoria-Geral em 25/09.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "retira de pauta", "ts": "0:35:21", "justificativa": "privilegiar o diálogo: reunião com o empreendedor marcada para 25/09", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["CGH Generoso (48500.002208/2016-47), retirado pelo relator Efrain Cruz"],
+  "limites_da_analise": [
+    "Composição presente não declarada nesta parte; inferida (Efrain Cruz relator, Elisa Bastos com vista, Sandoval Feitosa relator original do item 7, Diretor-Geral presidindo — presumido André Pepitone). Rodrigo Limp é citado como relator da cautelar de 2019, não se sabe se presente.",
+    "No item 5, um diretor que fala após o relator (mencionando 'Doutor Cristiano') não é identificado; votos dos demais atribuídos pela proclamação de unanimidade, confiança baixa.",
+    "Numeração dos itens confusa na legenda ('cinco processo', 'item 7', 'item três'); números de processo e despachos podem estar errados.",
+    "Item 7: votos tácitos (nenhuma manifestação contrária)."
+  ]
+}

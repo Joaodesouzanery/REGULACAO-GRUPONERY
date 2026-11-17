@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "video_id": "TaiFOPNoRRY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2019 (Parte 1)",
+  "data": "2019-03-12",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Rodrigo Limp",
+   "Elisa Bastos",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (viagem a serviço em São Paulo)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores.",
+   "Ordem: bloco, itens 4, 1, 8(.1), 3, 2, 5, 6, 7; item 19 retirado de pauta. Esta Parte 1 cobre bloco, 4, 8.1, 1, 5 e 3; suspensa para retomar às 14h30.",
+   "Item 4: Efrain Cruz pediu vista e devolveu em mesa na mesma sessão (art. 24 do regimento)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:45",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Julgamento em bloco dos processos da pauta (votos disponibilizados previamente na internet)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado sem destaques.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:04:45",
+     "justificativa": "votação do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:45",
+     "justificativa": "votação do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:04:45",
+     "justificativa": "votação do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:45",
+     "justificativa": "votação do bloco",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:05:42",
+   "processo": "48500.005123/2016-06",
+   "interessado": "Enel Distribuição Rio (ex-Ampla); sustentação oral: representante da Enel (Luiz Gazzoni?) e Fabiano Silveira (Conselho de Consumidores)",
+   "assunto": "Resultado da Audiência Pública 55/2018: níveis regulatórios de perdas não técnicas e receitas irrecuperáveis da Enel Distribuição Rio para 2019-2022, com tratamento específico para áreas de risco",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e perdas não técnicas",
+    "regulação normativa"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade após voto-vista em mesa de Efrain Cruz",
+   "resumo_voto": "Trajetória de PNT com ponto de partida corrigido (amostra de 2017, exclusão da alta tensão) e redução de 0,41 p.p./ano nas áreas de risco, chegando a 18,57% em 2022; receitas irrecuperáveis 0,76%. Efrain pediu vista criticando tratar áreas de risco separadamente do PRORET; retomou na mesma sessão após esclarecimentos (tema na agenda regulatória 2019-2020).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:31:40",
+     "justificativa": "Excepcionalidade bem motivada; equilíbrio entre consumidor e distribuidora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:38:47",
+     "justificativa": "lê o voto e o dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:31:30",
+     "justificativa": "Metodologia aderente; sugeriu buscar alternativas como P&D para áreas de risco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista; voto-vista em mesa: acompanha o relator",
+     "ts": "1:30:57",
+     "justificativa": "Questionou separar áreas de risco do PRORET («vamos com o boi aos bifes»); retomou após esclarecimento de que o tema está na agenda regulatória 2019-2020 e de que áreas de não risco também sofrem glosa (real 11,35 vs regulatório 7,86)",
+     "tom": "crítico, depois conciliador",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8.1",
+   "ts": "1:01:53",
+   "processo": "48500.004858/2017-95 e 48500.004842/2018-63",
+   "interessado": "Enel Distribuição Rio (Ampla) x Eletrobras Eletronuclear",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.741/2018: receita retroativa de uso do sistema de distribuição paga pela Eletronuclear (Angra, ~R$ 90,8 milhões) como componente financeiro negativo",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e negado provimento por unanimidade",
+   "resumo_voto": "Receita retroativa decorre de decisão inibitória da ANEEL, não de risco de mercado; deve ser revertida à modicidade tarifária; sem ilegalidade (parecer da Procuradoria).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "1:27:54",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:54",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:05:00",
+     "justificativa": "lê o voto e o dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:27:54",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:00:58",
+   "processo": "48500.005351/2017-12",
+   "interessado": "Enel Distribuição Rio (Ampla); sustentação oral: Manuel Teixeira de Mesquita (Conselho de Consumidores)",
+   "assunto": "Resultado definitivo da 4ª Revisão Tarifária Periódica da Enel Distribuição Rio (base de remuneração definitiva)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inicialmente retirado de pauta pelo relator (dependia do item 4) e retomado na mesma sessão. Reposicionamento de 17,87% (incremento de 0,45%) e componente financeiro de R$ 20,8 milhões no reajuste 2019.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "2:06:47",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:50:13",
+     "justificativa": "lê o voto e o dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:47",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:47",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:07:27",
+   "processo": "48500.001700/2018-10",
+   "interessado": "segmentos de distribuição, transmissão e geração (cotistas); sustentação oral: Marco Delgado (Abradee)",
+   "assunto": "Abertura de audiência pública sobre metodologia de cálculo e atualização da taxa regulatória de remuneração do capital (WACC)",
+   "tema": [
+    "regulação normativa",
+    "transmissão",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AP de 14/03 a 22/04/2019, sessão presencial em 4/4; NTN-B para taxa livre de risco, debêntures para capital de terceiros, estrutura de capital por dívida líquida/EBITDA 2,5; WACC 7,32% (2018) e 7,11% (2019) para G e T; distribuição só a partir de 2020. Pepitone sugeriu explicitar G e T no dispositivo.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "2:48:48",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:43:36",
+     "justificativa": "lê o voto e o dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:48",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:48",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:49:42",
+   "processo": "48500.006216/2018-10",
+   "interessado": "Enel Distribuição Rio; sustentação oral: Fabiano Silveira e Manuel Teixeira de Mesquita (Conselho de Consumidores)",
+   "assunto": "Reajuste tarifário anual 2019 da Enel Distribuição Rio",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio de 9,70% (9,65% AT; 9,72% BT), a partir de 15/03/2019; CDE mensal ~R$ 18,3 milhões. Pepitone defendeu o «tripé da desoneração» (custo de energia, ICMS, subsídios).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "3:42:37",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:42:37",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:42:37",
+     "justificativa": "unanimidade proclamada pelo Diretor-Geral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:27:51",
+     "justificativa": "lê o voto e o dispositivo",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "19",
+   "motivo": "retirado de pauta (motivo não ouvido)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo reconstruídos e podem conter erros.",
+  "Votos dos não relatores atribuídos pela proclamação de unanimidade; falas «acompanho» sem nome.",
+  "Nome do representante da Enel no item 4 incerto (Luiz Gazzoni?).",
+  "Itens 2, 6 e 7 ficam na Parte 2 (outro vídeo)."
+ ]
+}

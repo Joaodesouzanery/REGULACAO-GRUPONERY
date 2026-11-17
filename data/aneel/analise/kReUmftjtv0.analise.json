@@ -1,0 +1,31 @@
+{
+  "meta": {"video_id": "kReUmftjtv0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Extraordinária de 2019 (Parte 1)", "data": "2019-04-29", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral) — inferido; a transcrição atribui a abertura a {Sandoval Feitosa}",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Rodrigo Limp"],
+    "ausentes": [],
+    "observacoes": ["Quórum de cinco diretores; pauta com um único processo.", "Após relatório e voto do relator e manifestação da Procuradoria, diretores questionaram a competência (ato do Ministro x ofício da Secretaria-Executiva do MME, art. 8º §7º do Decreto 7.246/2010 com redação do Decreto 9.143/2017) e o aumento de ~30% no preço do produto potência; a sessão foi suspensa até 16h30 para consulta ao MME. Deliberação final não consta nesta Parte 1."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:48",
+      "processo": "48500.000027/2019-14",
+      "interessado": "Ministério de Minas e Energia; Roraima (Boa Vista e localidades conectadas)",
+      "assunto": "Alteração de parâmetros de preço inicial do edital do Leilão de Geração 1/2019 (Leilão para Suprimento a Boa Vista e Localidades Conectadas), após AP 7/2019, e menção ao enquadramento no REIDI",
+      "tema": ["leilões (geração, sistemas isolados)", "regulação normativa", "institucional"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "suspenso (sessão suspensa até 16h30 para consulta ao MME sobre a competência do ato que fixou os preços); deliberação não registrada nesta parte",
+      "resumo_voto": "Relator propõe incluir no edital os novos preços iniciais informados pelo Ofício 102/2019 da Secretaria-Executiva do MME e publicar o aviso de convocação; Procuradoria sem óbice, mas recomenda convalidação por ato do Ministro conforme o decreto.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:00:48", "justificativa": "inclusão no edital dos novos preços iniciais encaminhados pelo MME em 26/04/2019; prazo do certame em 31/05 exige deliberação imediata", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "não votou (sessão suspensa)", "ts": "0:00:48", "justificativa": "conduziu a suspensão até 16h30 para conversa com o ministério; atribuição de falas incerta", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "não votou (sessão suspensa)", "ts": "0:00:48", "justificativa": "levantou dúvida sobre a necessidade de ato do Ministro (Decreto 7.246, art. 8º §7º) já que o ofício veio da Secretaria-Executiva; responsabilidade pelo preço é do MME", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (sessão suspensa)", "ts": "0:00:48", "justificativa": "falante não identificado com segurança questionou a base do aumento de ~30% e propôs suspender e consultar o MME sobre delegação", "confianca": "baixa"},
+        {"diretor": "Rodrigo Limp", "voto": "não votou (sessão suspensa)", "ts": "0:00:48", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Parte 1 de 2: item suspenso, sem votação; resultado deve estar na Parte 2.", "Falantes inferidos não confiáveis: a abertura é atribuída a Sandoval, mas ele é o relator; o presidente provavelmente é André Pepitone. Composição de 5 diretores inferida para abril/2019, não nominada na chamada.", "Atribuição das falas de questionamento (Elisa Bastos citada como 'doutora heloísa/eliza'; demais incertas).", "Valores de preço na legenda confusos; omitidos."]
+}

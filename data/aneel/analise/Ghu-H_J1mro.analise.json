@@ -1,0 +1,584 @@
+{
+ "meta": {
+  "video_id": "Ghu-H_J1mro",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "16ª Reunião Pública Ordinária (parte 2)",
+  "data": "2026-08-11",
+  "formato": "presencial com participação remota (Agnes da Costa remota)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Fernando Mosna",
+   "Gentil Nogueira",
+   "Willamy Frota",
+   "Agnes da Costa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última reunião de Fernando Mosna (fim de mandato); várias homenagens.",
+   "Agnes da Costa entrou ao longo da reunião e participou remotamente.",
+   "Retificação de Agnes no item 20 (repactuação UBP/ETLEP): valor da Equatorial Pará retido até deliberação do reajuste em vista de Willamy Frota.",
+   "Itens 9 e 10 apregoados com inversão: item 14 julgado após o 11.",
+   "Willamy Frota saiu antes do item 14, deixando voto escrito, e não votou no item 12."
+  ]
+ },
+ "itens": [
+  {
+   "id": "3",
+   "ts": "0:00:34",
+   "processo": "48500.902737/2024-38 (número incerto)",
+   "interessado": "Grupo Serena (parques eólicos Açuruá, Capoeiras, Curral de Pedras, Diamante, Laranjeiras, Delta etc.)",
+   "assunto": "Recurso contra autos de infração 215 a 242/2024 da SFT (multas pela propagação da perturbação de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (de ~R$ 8,5 mi para ~R$ 2,8 mi). Sustentação oral: Rafael (representante da Serena; nome incerto).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:13:36",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (de ~R$ 8,5 mi para ~R$ 2,8 mi)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:21:53",
+     "confianca": "alta",
+     "justificativa": "tema complexo e relevante; busca encaminhamento equilibrado e razoável; já havia pedido vista de dois processos do mesmo tema"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:21:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "0:21:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "0:21:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:21:58",
+   "processo": "48500.016922/2024-84 (número incerto)",
+   "interessado": "SM Geração de Energia Eólica e Ventos Potiguares(?) Geradora Eólica",
+   "assunto": "Recurso contra autos de infração 303 e 304/2024 da SFT (apagão de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (de ~R$ 806 mil para ~R$ 341 mil). Sustentação oral: Renato (representante da SM Geração; nome incerto).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:26:57",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (de ~R$ 806 mil para ~R$ 341 mil)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:28:10",
+     "confianca": "media",
+     "justificativa": "coerência com as vistas já pedidas nos processos do apagão de agosto/2023; tema técnico complexo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "0:28:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:28:15",
+   "processo": "48500.015850/2024-56 (número incerto)",
+   "interessado": "Centrais eólicas Aventura, Jandaíra, Santa Maria, Novo Mundo, Santa Rosa e outras",
+   "assunto": "Recurso contra autos de infração da SFT (apagão de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (de ~R$ 7,57 mi para ~R$ 3,1 mi). Sustentação oral: não houve.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:29:44",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (de ~R$ 7,57 mi para ~R$ 3,1 mi)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:31:32",
+     "confianca": "media",
+     "justificativa": "coerência com as vistas já pedidas nos processos do apagão de agosto/2023; tema técnico complexo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:31:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "0:31:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "0:31:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:31:40",
+   "processo": "48500.025762/2024-82 (número incerto)",
+   "interessado": "SPE Costa das Dunas, Farol de Touros, Figueira Branca e Gameleira",
+   "assunto": "Recurso contra autos de infração 528 a 531/2025 da SFT (apagão de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (para ~R$ 448 mil). Sustentação oral: Thiago Sandoval Furtado (SPE Costa das Dunas).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:37:33",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (para ~R$ 448 mil)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:38:52",
+     "confianca": "media",
+     "justificativa": "coerência com as vistas já pedidas nos processos do apagão de agosto/2023; tema técnico complexo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:38:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "0:38:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "0:38:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:38:56",
+   "processo": "48500.026282/2024-11 (número incerto)",
+   "interessado": "Afonso Bezerra, Angicos, Serra do Mato, Serrote (eólicas) e Serra do Mato 3 e 4 (solar)",
+   "assunto": "Recurso contra autos de infração da SFT (apagão de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (de ~R$ 2,45 mi para ~R$ 1,4 mi). Sustentação oral: Juliana Lopes Barroso (empresas recorrentes); Gentil fez perguntas sobre relatório da consultoria Andesa.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:46:49",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (de ~R$ 2,45 mi para ~R$ 1,4 mi)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "0:49:44",
+     "confianca": "baixa",
+     "justificativa": "pedido de vista não audível na legenda; inferido pela sequência (vistas nos itens 3-8 e fala de Willamy à 1:01:22 sobre os processos do tema)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:49:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "0:49:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "0:49:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:49:46",
+   "processo": "48500.026202/2024-54 (número incerto)",
+   "interessado": "Bom Nome Solar (UFV Bom Nome)",
+   "assunto": "Recurso contra auto de infração 575/2024 da SFT (apagão de 15/08/2023)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "apagão de 15/08/2023",
+    "geração eólica/solar"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Willamy Frota)",
+   "resumo_voto": "Relator: conhecer e dar parcial provimento, reduzindo multas (de ~R$ 323 mil para ~R$ 136 mil). Sustentação oral: Luís Eduardo Diniz Araújo (Bom Nome Solar).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "0:59:21",
+     "confianca": "alta",
+     "justificativa": "descaracteriza a NC1 (divergência de modelo), mantém demais não conformidades e acolhe recálculo da SFT (de ~R$ 323 mil para ~R$ 136 mil)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "pede vista",
+     "ts": "1:02:17",
+     "confianca": "alta",
+     "justificativa": "coerência técnica com vistas anteriores; tema exige reflexão (quase 3 anos do apagão); comenta que o recurso questiona avaliação técnica feita pelo ONS"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "1:02:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "1:02:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "1:02:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:06:23",
+   "processo": "48500.008155/2025-05 (número incerto)",
+   "interessado": "Ecoenergia Participações e Voltalia Energia do Brasil (Serra do Mel)",
+   "assunto": "Recurso contra Despacho 1546/2025 (SRG?) sobre reclassificação de restrições de geração (constrained-off) de confiabilidade elétrica para indisponibilidade externa desde 01/09/2023",
+   "tema": [
+    "geração eólica/solar",
+    "comercialização (corte de geração/curtailment)",
+    "recursos administrativos",
+    "transmissão (atraso de obras)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Sandoval Feitosa)",
+   "resumo_voto": "Relator: parcial provimento, devolvendo à área técnica para análise individualizada dos pareceres de acesso (LT 500 kV Jaguaruana 2-Pacatuba). Agnes diverge: nega provimento. Vista do presidente. Sustentação oral: Bruno Crispim (Voltalia).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:14:34",
+     "confianca": "alta",
+     "justificativa": "análise individualizada se a LT/compensador integravam as premissas do parecer de acesso"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (nega provimento)",
+     "ts": "1:17:18",
+     "confianca": "alta",
+     "justificativa": "mantém a decisão da área técnica"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "1:17:33",
+     "confianca": "media",
+     "justificativa": "quer compreender melhor os argumentos (resposta irônica a Bruno Crispim sobre advogados e engenheiros)"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "1:17:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "não votou (vista)",
+     "ts": "1:17:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:18:11",
+   "processo": "48500.008805/2025-61 (número incerto)",
+   "interessado": "Eng(ie) Brasil Energia, Elera Renováveis, CPFL Renováveis, Voltalia, SPIC Brasil e Auren",
+   "assunto": "Recurso contra Despacho 1545/2025 sobre classificação de restrições por atraso de transmissão como indisponibilidade externa",
+   "tema": [
+    "geração eólica/solar",
+    "comercialização (corte de geração/curtailment)",
+    "recursos administrativos",
+    "transmissão (atraso de obras)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Sandoval Feitosa)",
+   "resumo_voto": "Mesmo teor do item 9 (conexo; sustentação de Bruno Crispim aproveitada). Relator parcial provimento; Agnes nega provimento; vista do presidente.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá parcial provimento",
+     "ts": "1:19:35",
+     "confianca": "alta",
+     "justificativa": "análise individualizada dos pareceres de acesso"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge (nega provimento)",
+     "ts": "1:20:43",
+     "confianca": "media",
+     "justificativa": "mesma posição do item 9"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "1:20:57",
+     "confianca": "media",
+     "justificativa": "a exemplo do item anterior"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "não votou (vista)",
+     "ts": "1:20:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "não votou (vista)",
+     "ts": "1:20:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:21:03",
+   "processo": "48500.006398/2025-8x (número incerto)",
+   "interessado": "Transmissora TAESA(?) - conversoras Garabi 1 e 2",
+   "assunto": "Recurso contra Despacho 3111/2025 da STD que negou isenção de parcela variável (PVC) em desligamentos para revitalização das conversoras Garabi 1 e 2 (contrato de concessão 5/2023)",
+   "tema": [
+    "transmissão (RAP, parcela variável)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Relator segue parecer da Procuradoria contra a área técnica: dá provimento, afasta a PVC nos desligamentos vinculados à revitalização. Agnes acompanha no dispositivo com outro fundamento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento",
+     "ts": "1:24:07",
+     "confianca": "alta",
+     "justificativa": "na linha do parecer da Procuradoria: analogia com desligamentos de ampliações e reforços determinados pelo concedente"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (fundamento diverso)",
+     "ts": "1:26:30",
+     "confianca": "media",
+     "justificativa": "desligamentos intensos e inevitáveis para a execução justificam excepcionalização; fundamento um pouco diferente"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "1:27:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:27:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:27:43",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:28:25",
+   "processo": "48500.000331/2024-72 (número incerto)",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Pedido de reconsideração contra Despacho 1214/2026 que instaurou procedimento tendente à caducidade da concessão",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "distribuição",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de reconsideração negado (todos os votantes acompanharam o relator)",
+   "resumo_voto": "Conhecer e negar provimento; mantém o despacho 1214/2026 e o prosseguimento do processo de caducidade, com contraditório e ampla defesa. Sustentações orais: Thiago de Barros Correia (Enel SP, ex-diretor), prefeito de Pirapora do Bom Jesus Gregório (nome incerto), Jorge Badra (Conselho de Consumidores Enel SP) e Ricardo Brandão (Abradee). Procuradoria opinou pelo não acolhimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "2:06:24",
+     "confianca": "alta",
+     "justificativa": "não há dissociação entre motivo e conteúdo do ato; processo de caducidade segue com contraditório"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:07:51",
+     "confianca": "baixa",
+     "justificativa": "voto do relator alinhado aos indícios apontados na decisão inicial de abertura (atribuição do falante incerta: pode ser Agnes)"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:10:33",
+     "confianca": "baixa",
+     "justificativa": "reforça que o processo de defesa corre em paralelo; críticas públicas que põem em xeque a confiança do Estado não contribuem (atribuição do falante incerta)"
+    },
+    {
+     "diretor": "Willamy Frota",
+     "voto": "voto deixado (lido por Sandoval Feitosa?) - acompanha o relator",
+     "ts": "2:21:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:21:48",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:22:29",
+   "processo": "48500.002411/2024-19 (número incerto)",
+   "interessado": "Centrais Elétricas de Pernambuco (EPESA) - UTEs Termomanaus e Pau Ferro I",
+   "assunto": "Recurso contra Despacho 2095/2025 da STD sobre encargos rescisórios do CUST 18/2008 após antecipação do fim das outorgas",
+   "tema": [
+    "transmissão (CUST, encargos rescisórios)",
+    "outorgas de geração (térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista (Agnes da Costa)",
+   "resumo_voto": "Relator: dá provimento, afasta encargos rescisórios (Procuradoria, parecer 193/2026). Agnes pede vista para julgar em conjunto com caso semelhante sob sua relatoria (UTE Fortaleza).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento",
+     "ts": "2:23:30",
+     "confianca": "alta",
+     "justificativa": "usina operou 15 anos cumprindo o contrato; situação diversa da não implantação"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "2:28:15",
+     "confianca": "alta",
+     "justificativa": "julgar junto com processo similar sob sua relatoria para evitar decisões diferentes"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:32:46",
+     "confianca": "media",
+     "justificativa": "antes, defendeu revisar a regra de encargos rescisórios em vez de casos ad hoc (atribuição incerta)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:32:50",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Números de processo e valores de multa transcritos de legenda automática; incertos.",
+  "Item 7: pedido de vista não audível; atribuído a Willamy Frota por inferência (baixa).",
+  "Itens 9 e 10: vista pedida pelo presidente da sessão (identificado como Sandoval Feitosa pela abertura que lista os demais diretores); confiança media.",
+  "Item 14: falas de acompanhamento de Gentil e Agnes com atribuição incerta (rótulos de falante misturados).",
+  "Item 12: Willamy ausente (saiu) e Sandoval não votou antes da vista; votos=4.",
+  "Itens 3-8: Agnes ainda não presente em parte deles; registrada como não votou (vista).",
+  "Parte 1 da reunião (itens 1-2, 13, 15+) está em outro vídeo."
+ ]
+}

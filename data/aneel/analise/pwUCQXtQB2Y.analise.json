@@ -1,0 +1,294 @@
+{
+ "meta": {
+  "video_id": "pwUCQXtQB2Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados a partir de data/transcricoes/pwUCQXtQB2Y.json",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13ª Reunião Pública Ordinária de 2020",
+  "data": "2020-04-20",
+  "formato": "videoconferência (reunião virtual na pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum completo de cinco diretores.",
+   "Informes: pesar pela morte de Maria Elizabeth Roza Pereira (presidente da AGERGS); doações da UTE GNA no RJ no combate à Covid.",
+   "Ata da 12ª RPO aprovada.",
+   "Ordem: bloco (5 a 14), itens 3, 4, 1 e 2. Todos unânimes.",
+   "Encerramento do DG sobre liquidez, fundo surplus, parcela de ajuste, Itaipu e Proinfa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:11:20",
+   "processo": "itens 5 a 14 da pauta (exceto 8, 11 e 12, retirados)",
+   "interessado": "diversos (não lidos na sessão)",
+   "assunto": "Votação em bloco dos itens 5, 6, 7, 9, 10, 13 e 14 da pauta; conteúdo dos processos não lido na transmissão",
+   "tema": [
+    "votação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes; no item 10 Júlio César Rezende Ferraz declarou-se impedido",
+   "resumo_voto": "Diretor-Geral vota pela aprovação do bloco; um diretor ressalva impedimento no item 10 (recurso); demais aprovam o bloco.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco, impedido no item 10",
+     "ts": "0:11:25",
+     "justificativa": "impedido no item 10 por se tratar de recurso (motivo exato inaudível)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:11:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:11:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:11:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:12:08",
+   "processo": "48500.003130/2019-16",
+   "interessado": "CCEE, EDP, Enel Brasil (contribuintes da AP); comercializadores importadores",
+   "assunto": "Resultado da Audiência Pública 32/2019: revisão das regras de comercialização (módulos encargos, garantia física, liquidação financeira e penalidades) para importação de energia da Argentina e do Uruguai conforme Portaria MME 339/2018",
+   "tema": [
+    "comercialização (CCEE, regras de comercialização)",
+    "regulação normativa (audiência pública, resolução normativa)",
+    "importação de energia"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Emissão de REN aprovando revisões das regras de comercialização para importação interruptível (Portaria MME 339/2018), vigência a partir da contabilização de maio/2020; inova com compensação de 5% do PLD máximo em caso de não entrega na importação sem substituição térmica (comando CMSE). Processo redistribuído após saída de Rodrigo Limp. Apresentação técnica da SRG (Rafael).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:26:10",
+     "justificativa": "adequar as regras de comercialização à Portaria MME 339/2018; contribuições da CCEE aceitas, da EDP e Enel Brasil rejeitadas (fora do escopo/política pública)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (Diretor-Geral)",
+     "ts": "0:27:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:27:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:28:03",
+   "processo": "48500.002249/2020-05 (número incerto)",
+   "interessado": "transmissoras, distribuidoras e consumidores livres (segmento consumo); sustentação oral de Ricardo Diniz, presidente do Conselho de Consumidores da Copel",
+   "assunto": "Medidas de enfrentamento da Covid-19 no segmento de transmissão: uso do saldo superavitário da parcela de ajuste (~R$ 432-500 mi) para desconto no EUST rede básica do segmento consumo em abril-junho/2020 e postergação da cobrança da PIS 2019 para outubro/2020",
+   "tema": [
+    "transmissão (encargos EUST, parcela de ajuste)",
+    "Covid-19 / medidas emergenciais",
+    "tarifas"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza ONS a abater EUST rede básica do segmento consumo em abril (R$ 144 mi, a preços de jun/2019; ~16% de desconto), maio e junho/2020; SGT fixa valores até o 15º dia útil; posterga para outubro/2020 a cobrança da parcela de ineficiência por sobrecontratação de 2019 (~R$ 11 mi); não suspende a PIU (casos concretos). Sustentação oral de Ricardo Diniz (Conselho de Consumidores da Copel) pediu conclusão da LT Manaus-Boa Vista, redução da remuneração do capital e suspensão de novos projetos de MMGD.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova",
+     "ts": "0:43:50",
+     "justificativa": "antecipa ao consumo recursos que já seriam devolvidos no ciclo 2020/2021, sem efeito econômico para as transmissoras, aliviando liquidez",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (Diretor-Geral)",
+     "ts": "1:07:55",
+     "confianca": "media",
+     "justificativa": "agenda de desoneração tarifária; segunda ação de liquidez após o fundo surplus da CCEE; ~90% mercado regulado e 10% livre"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:55",
+     "confianca": "media",
+     "justificativa": "alívio de cerca de 18% nos encargos; postergação da PIS razoável e avaliação caso a caso da PIU (atribuição de falante incerta)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:55",
+     "confianca": "media",
+     "justificativa": "participação de todos os segmentos na crise preservando contratos e equilíbrio econômico-financeiro; medida elegante do gabinete de monitoramento"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:55",
+     "confianca": "media",
+     "justificativa": "'estamos raspando o tacho' para minimizar impactos da Covid com modicidade tarifária, equilíbrio e responsabilidade"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:09:53",
+   "processo": "48500.007056/2019-07 (número incerto)",
+   "interessado": "Energisa Sergipe (distribuidora)",
+   "assunto": "Reajuste tarifário anual 2020 da Energisa Sergipe, a vigorar a partir de 22/04/2020, com diferimento da aplicação até 30/06/2020",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "Covid-19 / medidas emergenciais"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa RTA com efeito médio de 1,20% (1,51% AT; 1,05% BT); suspende aplicação das novas tarifas até 30/06/2020 a pedido da distribuidora, com dedução nas quotas CDE de maio-julho (~R$ 950 mil/mês) e recomposição em até 5 parcelas a partir de agosto/2020 corrigidas pela Selic. Procuradoria ratificou posição de aplicar o contrato mas aceitou o diferimento solicitado. Apresentação técnica da SGT (Otávio).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:27:21",
+     "justificativa": "manter aplicação dos contratos e, por sensibilidade da empresa, não aplicar o reajuste nos meses de pandemia; setor elétrico contribuindo sem aporte do Tesouro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (Diretor-Geral)",
+     "ts": "1:31:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:33:22",
+   "processo": "48500.006738/2019-94 e 48500.001184/2020-72 (números incertos)",
+   "interessado": "Energisa Tocantins (distribuidora)",
+   "assunto": "Abertura de consulta pública (23/04 a 06/06/2020) sobre a revisão tarifária periódica 2020 da Energisa Tocantins (vigência 04/07/2020) e limites DEC/FEC 2021-2025",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "regulação normativa (consulta pública)",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública com efeito médio preliminar de 9,14%, dispensando sessão presencial por causa da pandemia (contribuições inclusive por vídeo). Relator faz longa reflexão sobre Itaipu (energia ~R$ 250/MWh, amortização em 2023, pede contrapartida do BNDES/governo) para modicidade tarifária. Outro diretor critica premissas do empréstimo da conta Covid (R$ 17 bi superestimado; redução de mercado de 20% vs ~10% observada) e menciona divergência inaugurada por Elisa, Efrain e ele próprio quanto à proposta do Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:40:00",
+     "justificativa": "momento de quase 10% de aumento exige modicidade tarifária; Itaipu deve ajudar o consumidor; sessão presencial dispensada pela pandemia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama (Diretor-Geral)",
+     "ts": "2:43:44",
+     "confianca": "media",
+     "justificativa": "concorda com dispensa da sessão presencial em razão do isolamento social; contribuições por escrito e vídeo seguem possíveis (atribuição de falante incerta)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:43:44",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "8",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "11",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "12",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição .md sem marcadores intermediários; ts estimados pelo JSON da legenda; votos de quem só acompanha têm ts aproximado.",
+  "Ordem e autoria das falas 'acompanho' não nomeadas na legenda; votos atribuídos pela proclamação unânime (confiança media).",
+  "Bloco: conteúdo dos itens 5,6,7,9,10,13,14 não lido; atribuição do impedimento no item 10 a Júlio César baseada na proclamação do DG.",
+  "Item 2: falas de discussão (crítica ao empréstimo da conta Covid; dispensa de audiência presencial) com falante incerto (provavelmente Sandoval Feitosa e Júlio César/DG).",
+  "Números de processo e valores podem conter erros da legenda automática."
+ ]
+}

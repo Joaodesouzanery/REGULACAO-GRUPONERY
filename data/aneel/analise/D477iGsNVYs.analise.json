@@ -1,0 +1,368 @@
+{
+ "meta": {
+  "video_id": "D477iGsNVYs",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª Reunião Pública Ordinária de 2022",
+  "data": "2022-03-08",
+  "formato": "presencial com participação virtual (Procuradoria)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) na abertura, bloco e item 4; depois Elisa Bastos (diretora-geral substituta)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "Abertura com homenagens ao Dia Internacional da Mulher; colegiado aprovou na véspera medidas de equidade de gênero.",
+   "Ata da 6ª RPO aprovada.",
+   "André Pepitone participou do início; nos itens 7 e 8 seu voto foi registrado como 'deixado/consignado' e a condução passou a Elisa Bastos.",
+   "Efrain Cruz anunciado para entrar depois, mas declarado indisponível; seu voto do item 16 foi lido por Elisa e votos anteriores computados nos itens 7 e 8.",
+   "Itens 7 e 8 decididos por maioria contra o voto-vista de Sandoval (tese de postergação de CUST por pandemia)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:25:27",
+   "processo": "itens de bloco (pauta de 59 itens)",
+   "interessado": "diversos",
+   "assunto": "Aprovação em bloco dos itens remanescentes da pauta (exceto destaques e retirados)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Itens de bloco submetidos em conjunto; os quatro presentes declaram aprovação.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (presidente; proclama)",
+     "ts": "0:25:27",
+     "justificativa": "Proclama aprovação por unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:25:30",
+     "justificativa": "Declara aprovação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:25:32",
+     "justificativa": "Declara aprovação.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:25:34",
+     "justificativa": "Declara aprovação.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:26:21",
+   "processo": "48500.004686/2019-11",
+   "interessado": "Ourilândia do Norte Transmissora de Energia; Vale S.A.",
+   "assunto": "Pedido de reconsideração contra o Despacho 1498/2021 e a REA 10.032/2021 (parcela adicional de RAP por adequação de instalações de transmissão recebidas em transferência da Vale; SE Onça Puma 230 kV)",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por maioria: provimento ao recurso, com obrigação financeira atribuída à Vale e encargos de conexão via aditivo ao CCT",
+   "resumo_voto": "Continuação de votação de reunião anterior sem três votos convergentes. Hélvio vota com o relator (custos de manutenção não feita pela Vale devem ser a ela atribuídos); Elisa acompanha o entendimento de Sandoval (quem recebe instalações deve avaliar os ativos; não cabe à ANEEL arbitrar relação bilateral).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator (voto em sessão anterior)",
+     "ts": "0:26:21",
+     "justificativa": "Voto proferido em reunião anterior; não estava presente.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:27:41",
+     "justificativa": "Alocação equilibrada de custos e riscos; quem acessa o sistema deve manter as instalações; equipamentos entregues pela Vale careciam de manutenção, despesas atribuídas à Vale.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha a divergência de Sandoval (vencida)",
+     "ts": "0:30:10",
+     "justificativa": "Encaminhamento de Sandoval mais aderente ao sinal regulatório: quem recebe ativos transferidos deve avaliá-los; a outra alternativa traz para a agência questão bilateral entre agentes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "divergência (voto em sessão anterior; vencido, inferido)",
+     "ts": "0:26:21",
+     "justificativa": "Posição citada por Elisa; voto não proferido nesta sessão.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto em sessão anterior (não identificado); proclama",
+     "ts": "0:31:45",
+     "justificativa": "Proclama resultado por maioria.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:32:44",
+   "processo": "48500.002489/2020",
+   "interessado": "Enel Green Power São Gonçalo 7, 8, 11 e 12 (usinas fotovoltaicas)",
+   "assunto": "Requerimento administrativo para alterar datas de início de vigência dos CUST junto ao ONS (postergação por pandemia de covid-19) e recontabilizar encargos",
+   "tema": [
+    "transmissão (CUST, encargos de uso)",
+    "outorgas de geração (solar)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por maioria (3x2): provimento ao requerimento, nos termos do voto da relatora; voto-vista de Sandoval vencido",
+   "resumo_voto": "Voto-vista de Sandoval: negar provimento (vedação de postergar CUST em execução, Despacho 1298/2020; ausência de nexo causal; não cabe excludente em frustração de antecipação; precedentes Santo Antônio e Sertão). Relatora Elisa mantém provimento: pandemia foi caso fortuito/força maior determinante, condicionantes da Procuradoria atendidas.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: nega provimento (vencido)",
+     "ts": "0:33:30",
+     "justificativa": "Pandemia já tratada pelo Despacho 1298/2020 sem permitir postergar CUST em execução; sem nexo causal entre início do CUST e obra; não se reconhece excludente por frustração de antecipação.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, mantém provimento",
+     "ts": "1:08:00",
+     "justificativa": "Pandemia foi causa determinante; Código Civil admite afastar responsabilidade por força maior; condicionantes da Procuradoria atendidas; não é tutelar decisão empresarial.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora",
+     "ts": "1:12:00",
+     "justificativa": "Excludente de responsabilidade vale para todas as obrigações; outorga fixa prazo 'até' a data, não há antecipação; nenhum precedente se enquadra na excepcionalidade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto deixado (acompanha a relatora, sessão anterior)",
+     "ts": "1:14:58",
+     "justificativa": "Havia votado com o voto condutor antes do pedido de vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto deixado (acompanha o voto-vista; vencido)",
+     "ts": "1:14:58",
+     "justificativa": "Voto consignado acompanhando o voto-vista de Sandoval.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:16:22",
+   "processo": "48500.002901/2020",
+   "interessado": "Enel Green Power Ventos de Santa Ângela 1 a 11, 14 e 15 (eólicas)",
+   "assunto": "Requerimento para alterar datas de início de vigência dos CUST (postergação por pandemia), mesma tese do item 7",
+   "tema": [
+    "transmissão (CUST, encargos de uso)",
+    "outorgas de geração (eólica)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por maioria, vencidos Sandoval Feitosa e André Pepitone",
+   "resumo_voto": "Sandoval lê só o dispositivo do voto-vista (negar provimento); Procuradoria (Luiz Eduardo) distingue obrigação do cronograma e do CUST; Sandoval alerta para precedente e estabilidade da arrecadação da transmissão; Elisa mantém provimento.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: nega provimento (vencido)",
+     "ts": "1:16:40",
+     "justificativa": "Mesma tese do item 7; risco de transferir custos a outros agentes e abrir precedente para eventos que nem atrasaram a obra.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, mantém provimento",
+     "ts": "1:27:00",
+     "justificativa": "Cada caso analisado conforme sua excepcionalidade; não se preocupa com precedentes.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora",
+     "ts": "1:27:46",
+     "justificativa": "Mantém voto anterior; outorga permite construir até a data prevista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto deixado (acompanha a relatora)",
+     "ts": "1:27:48",
+     "justificativa": "Registro de voto do diretor Efrain.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "voto deixado (acompanha o voto-vista; vencido)",
+     "ts": "1:27:48",
+     "justificativa": "Registro de voto acompanhando o voto-vista.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:28:58",
+   "processo": "48500.005612/2020-73 e outros (647/2018, 648/2018, 1161/2020)",
+   "interessado": "Furnas Centrais Elétricas; Itaipu Binacional",
+   "assunto": "Revitalização do sistema HVDC de Itaipu (bipolo 1, SE Foz do Iguaçu e Ibiúna): autorização de intervenções custeadas integralmente pela Itaipu (convênio) sem recursos tarifários e melhorias com recursos tarifários (POTEE 2017, 2019, 2020)",
+   "tema": [
+    "transmissão (RAP, reforços, melhorias)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Arranjo não é licitação nem reforço/melhoria; investimentos como obrigações especiais sem repercussão tarifária; receitas O&M mantidas. Apresentação técnica da SCT (Thaís); 10 transformadores conversores ~R$ 140 mi, RAP ~R$ 18 mi (valores da legenda).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, autoriza",
+     "ts": "1:29:00",
+     "justificativa": "Garante modicidade tarifária; aloca ao gerador custo de transmissão de uso exclusivo; prolonga vida útil do bipolo 1 por ~30 anos.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:08:48",
+     "justificativa": "Elogia o voto; recorda papel do ex-secretário/diretor no tema.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (presidindo; proclama)",
+     "ts": "2:08:50",
+     "justificativa": "Proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:09:49",
+   "processo": "48500.004590/2018-53",
+   "interessado": "Ferbasa, Gerdau, Mineração Caraíba, Braskem, Paranapanema, Vale Manganês, HNK BR (Heineken), Libra Ligas; Chesf",
+   "assunto": "Recurso contra o Despacho 3658/2019 da SRM sobre cobrança indevida de ESS por segurança energética pela Chesf a consumidores industriais (2013-2017)",
+   "tema": [
+    "CDE e encargos setoriais",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: recurso conhecido e negado; valores da tabela 1 da NT 153/2019 (abr/2013 a dez/2016) como base do faturamento bilateral",
+   "resumo_voto": "Voto do relator Efrain (ausente) lido por Elisa. Sustentação oral de Márcio Pina pelas indústrias. Procuradoria: relação bilateral. Contratos livremente pactuados; ANEEL não deve se imiscuir.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator (voto lido por Elisa Bastos)",
+     "ts": "2:10:55",
+     "justificativa": "Relação contratual livremente pactuada entre Chesf e consumidores; ANEEL respeita o pactuado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:30:19",
+     "justificativa": "Destaca trecho do voto: ANEEL não deve se imiscuir em relação livremente pactuada.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:30:25",
+     "justificativa": "Pacto entre partes; alocação de custos e riscos não cabe à agência neste caso.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (presidindo; proclama)",
+     "ts": "2:30:30",
+     "justificativa": "Proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:31:23",
+   "processo": "48500.001809/2021-87",
+   "interessado": "Equatorial Maranhão Distribuição; transmissora (ARTEON Z21?) ; ONS",
+   "assunto": "Recurso contra o Despacho 1468/2021 da SRT: anulação de TLR em favor da transmissora (SE Boa Esperança 2) e afastamento de parcela de ineficiência por ultrapassagem do MUST (jun/2020)",
+   "tema": [
+    "transmissão (TLR, MUST)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade: recurso negado, com complemento de Sandoval determinando fiscalização da conduta do ONS pela SFE",
+   "resumo_voto": "Sustentação oral de Sofia (Equatorial). Relator mudou entendimento após nova nota técnica: responsabilidade pelo SMF é da distribuidora e ela poderia ter pedido aumento do MUST com 90 dias de antecedência. Sandoval aponta atraso do ONS (~90 dias) e propõe fiscalização; relator incorpora.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento (com complemento)",
+     "ts": "2:48:00",
+     "justificativa": "Pelos procedimentos de rede a Equatorial respondia pelo SMF; poderia ter solicitado aumento do MUST com 90 dias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha, com complemento (fiscalização do ONS)",
+     "ts": "2:50:00",
+     "justificativa": "Houve falha do ONS na análise antes do TLR; acordo bilateral não honrado não é tutelado; propõe apuração pela fiscalização.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator com a inclusão (presidindo; proclama)",
+     "ts": "2:55:57",
+     "justificativa": "Concorda com a fiscalização proposta.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "1",
+  "2",
+  "3",
+  "5",
+  "6",
+  "9",
+  "21",
+  "23",
+  "28",
+  "30",
+  "33"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados.",
+  "Item 4: continuação de votação; votos anteriores de Efrain, Sandoval e André não ouvidos; posição de Sandoval e André inferida da fala de Elisa; confiança baixa.",
+  "Atribuição dos 'aprovo' do bloco e dos 'acompanho' nos itens 10, 16 e 22 pela ordem/condução; ts aproximados.",
+  "Hora exata da saída de André Pepitone não identificada; considerado presente no início e com votos deixados nos itens 7 e 8.",
+  "Nome da transmissora no item 22 incerto na legenda."
+ ]
+}

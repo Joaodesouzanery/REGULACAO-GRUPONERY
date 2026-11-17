@@ -1,0 +1,85 @@
+{
+  "meta": {"video_id": "gm5_lvmqMmo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (abertura ~0:06:46); ts de votos de quem acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28ª Reunião Pública Ordinária de 2019 (Parte 1, manhã)", "data": "2019-08-06", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Rodrigo Limp", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura com quórum de cinco diretores; comunicados sobre audiências públicas (AP 28/2019 revisão EDP São Paulo; AP 26/2019 procedimentos de rede, prazo prorrogado por decisão do diretor Sandoval Feitosa a pedido de Abrate e outra associação) e vídeo educativo sobre a fatura.",
+      "Ata da 27ª RPO aprovada sem manifestação.",
+      "Pauta de 38 itens; retirados os itens 7 e 18 (segundo a legenda). Ordem: bloco (17 a 38), depois itens 4, 3, 2, 12 e 13.",
+      "Sessão interrompida às ~3:53 para retomada às 14h30 (Parte 2 em outro vídeo); itens 12 e 13 não aparecem nesta parte.",
+      "No item 2 (EDP Espírito Santo) o relator informou falha no dispositivo quanto aos limites DEC/FEC, que seria ajustado à tarde."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:17:21", "processo": "", "interessado": "diversos",
+      "assunto": "Itens 17 a 38 da pauta votados em bloco (item 18 retirado)",
+      "tema": ["bloco de pauta"], "relator": "não identificado", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Cada diretor vota pela aprovação dos itens do bloco; o Diretor-Geral proclama aprovação unânime.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:17:25", "justificativa": "Vota pela aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:17:27", "justificativa": "Vota pela aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "aprova o bloco", "ts": "0:17:29", "justificativa": "Vota pela aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:17:31", "justificativa": "Vota pela aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:17:33", "justificativa": "Vota pela aprovação de todo o bloco e proclama.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:18:47", "processo": "48500.002884/2018-60",
+      "interessado": "Companhia de Eletricidade do Estado da Bahia (Coelba, distribuidora); vendedora SQ/«Cico É» Geração de Energia (UTE biomassa dedicada, capim-elefante, 30 MW)",
+      "assunto": "Requerimento administrativo da Coelba para aprovação de contrato de geração distribuída (CGD, 20 MW médios a R$ 557,88/MWh) resultante da Chamada Pública 1/2019, para alívio de rede no oeste da Bahia (sul da SE Rio Grande 2)",
+      "tema": ["geração distribuída (contratação por chamada pública)", "comercialização (contratos)", "tarifas e repasse de custos", "distribuição e qualidade", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade (provimento parcial)",
+      "resumo_voto": "Conhece do requerimento e dá provimento parcial: aprova o CGD nas condições econômicas pactuadas (repasse integral até o VRES, art. 2º-B da Lei 10.848), condicionado a termo aditivo em 10 dias reduzindo o suprimento para 10/08/2019 a 09/08/2020, prorrogável por um ano mediante pedido da Coelba e aprovação da ANEEL; rejeita limites de repasse propostos por SRM (R$ 183,74, MCSD) e SGT (VR R$ 246) por inverterem o ônus da prova antes da fiscalização; eventual responsabilidade da Coelba fica para o processo de fiscalização (REN 63). Sustentação oral de Fabiano da Rosa Carvalho (Coelba); procurador Eduardo opinou pela possibilidade de aprovação condicionada.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "0:37:57", "justificativa": "A SRM inverte o ônus da prova; a lei é cristalina quanto ao repasse integral até o VRES; reforço da SE Rio Grande 2 previsto para 28/06/2020 justifica prazo de um ano prorrogável; responsabilidade da Coelba a ser apurada na fiscalização com ampla defesa.", "tom": "técnico, crítico às áreas técnicas", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:00", "justificativa": "Relator da autorização original (dois anos); comentou que as análises complementares buscaram não imputar custo maior ao consumidor baiano, que a Coelba pediu o transformador e responde pelo crescimento do mercado, e questionou a redução do prazo para um ano.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:02", "justificativa": "Caso atípico de GD por restrição elétrica; defendeu legitimidade das áreas (SGT/SRM) na proteção da modicidade tarifária e perguntou se a conduta da Coelba seria revisitada após a fiscalização.", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:04", "justificativa": "Consequências da fiscalização devem ser tratadas no próprio processo de fiscalização; modicidade preservada pelo limite legal de 10% e pelos preços da portaria do MME.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:06", "justificativa": "Destacou que a chamada pública de GD é prerrogativa legal excepcional, deve ter ampla divulgação e que a modicidade está no preço e no limite de 10%; proclamou o resultado.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:09:47", "processo": "48500.006288/2018-59; 48500.001625/2019-01",
+      "interessado": "Centrais Elétricas do Pará (Celpa, grupo Equatorial, distribuidora); Conselho de Consumidores da Celpa",
+      "assunto": "Resultado da 5ª revisão tarifária periódica da Celpa a vigorar em 07/08/2019 e limites DEC/FEC 2020-2023, após AP 20/2019",
+      "tema": ["tarifas e revisão tarifária (RTP)", "perdas não técnicas", "distribuição e qualidade (DEC/FEC)", "CDE e encargos setoriais"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio de 0,69% (-3,81% AT; 2,12% BT) com diferimento de R$ 143.079.976,56 proposto pela Celpa (sem ele ~3,82%); trajetória de perdas não técnicas sobre BT de 33% (2020), 32,5% (2021) e 32% (2022) por fronteira eficiente em análise complementar (Proret 2.6, item 51); fator X Pd 1,13% e T -0,77%. Sustentação oral por vídeo de Carlindo Lins Pereira Filho (Conselho de Consumidores), primeira vez nesse formato.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "2:52:07", "justificativa": "Imposição arbitrária de metas de perdas não resolve e pode agravar o problema; perda regulatória deve ser compatível com o desafio (área mais complexa do país); furto é crime e exige atuação do Estado; diferimento pedido pela Celpa segue precedentes.", "tom": "técnico, enfático", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "3:21:13", "justificativa": "Comentou que a proposta segue o Proret (análises complementares para empresas acima do percentil 90) e equilibra incentivo à redução de perdas e reconhecimento da complexidade do Pará (falante inferido).", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "3:21:15", "justificativa": "Considerou o regulamento pouco aderente a empresas outliers e a redução de 34% para 32% tímida, louvando a análise complementar; pediu avanço na revisão metodológica de perdas.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "3:21:17", "justificativa": "Fala individual não identificada na legenda.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "3:21:19", "justificativa": "Relatou cobrança no Senado (MP 879) sobre perdas; regras vigentes aplicadas, mas metodologia precisa evoluir em debate público; separar ineficiência da distribuidora de ausência do Estado; proclamou o resultado.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "3:22:01", "processo": "48500.006285/2018-15; 48500.001752/2019-00",
+      "interessado": "EDP Espírito Santo Distribuição de Energia (distribuidora)",
+      "assunto": "Resultado da 5ª revisão tarifária periódica da EDP Espírito Santo a vigorar em 07/08/2019 e limites DEC/FEC 2020-2022, após AP 17/2019 (voto lido na reunião anterior)",
+      "tema": ["tarifas e revisão tarifária (RTP)", "perdas não técnicas", "comercialização (sobrecontratação, MVE)", "distribuição e qualidade (DEC/FEC)"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio de -4,84% (-3,22% AT; -5,56% BT); CDE mensal de R$ 24.352.402,48; fator X Pd 1,12% e T -1,05%; perdas não técnicas sobre BT 10,12% e 9,58%; rejeitados os pleitos da EDP de alongar trajetória de perdas, repassar já o resultado de sobrecontratação de 2018 (mantida neutralidade até fechamento do ano civil) e desconsiderar receita do MVE na CVA. Dispositivo de DEC/FEC a ser ajustado por falha técnica.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "3:48:13", "justificativa": "Mantém jurisprudência: sobrecontratação só após fechamento do ano civil; não ter participado do MCSD não prova involuntariedade; limites anuais do Proret bastam para a trajetória de perdas.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:52:12", "justificativa": "Proposta coerente com outras empresas; valores são revertidos com Selic após análise da voluntariedade; pediu conclusão rápida das análises de 2016-2018 (falante inferido).", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "3:52:14", "justificativa": "Argumentos da EDP sobre voluntariedade parecem coerentes, mas por coerência com os demais processos acompanha a proposta (falante inferido).", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "3:52:16", "justificativa": "Fala individual não identificada.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "3:52:18", "justificativa": "Proclamou; atribuiu índices baixos/negativos à agenda de desoneração tarifária.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Item 7 (retirado de pauta, segundo a legenda)", "Item 18 (retirado de pauta)"],
+  "limites_da_analise": [
+    "Legenda automática; só há um marcador de tempo no .md; ts obtidos do .json da transcrição e aproximados para quem acompanha.",
+    "Parte 1 apenas (manhã); itens 12, 13 e demais deliberações da tarde estão em outro vídeo.",
+    "Votos 'acompanha' sem nome dito: atribuídos pela proclamação de unanimidade e ordem usual; ordem real dos seguidores incerta.",
+    "Autoria de comentários inferida pelo conteúdo (ex.: Rodrigo Limp como diretor responsável pelo plano de resultados da Celpa; falas no item 2); confiança media/baixa.",
+    "Números de processo, nomes da vendedora (Cico É/SQ) e da associação que pediu prorrogação da AP 26 (Abrate e outra) incertos pela legenda.",
+    "Conteúdo do bloco (itens 17-38) não é lido na sessão."
+  ]
+}

@@ -1,0 +1,330 @@
+{
+ "meta": {
+  "video_id": "EdN4Nm-9iPQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29ª Reunião Pública Ordinária de 2019 (Parte 1)",
+  "data": "2019-08-13",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Rodrigo Limp",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores.",
+   "Pauta com 60 itens; bloco 18-60 aprovado; retirados de pauta itens 8, 12, 14 e 20 (legenda confusa).",
+   "Parte 1 termina na pausa para almoço às 12h30; restante da pauta (itens 6, 9, 15, 7, 16, 11, 13, 17 conforme ordem anunciada) não está neste vídeo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:30",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens 18 a 60 da pauta (deliberação em bloco; item 20 retirado de pauta)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco aprovados em conjunto sem destaque.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:05:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:06:17",
+   "processo": "48500.002536/2017-10",
+   "interessado": "transmissoras com instalações HVDC (Abrate, Abdib, State Grid Brasil; Madeira e Belo Monte); ONS",
+   "assunto": "Resultado da 2ª fase da Audiência Pública 32/2018: regulamentação da qualidade do serviço público de transmissão associada a instalações em corrente contínua de alta tensão (HVDC): nova função de transmissão conversora (FT conversora), parcela variável PVC, período preferencial de manutenção; submódulos 15.6 e 15.12 dos Procedimentos de Rede",
+   "tema": [
+    "transmissão (RAP, parcela variável, HVDC)",
+    "regulação normativa (resolução, audiência pública, AIR)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN que estabelece a qualidade do serviço de transmissão associada à disponibilidade da FT conversora e os submódulos 15.6 e 15.12; relatoria acolheu, contra a área técnica, franquia de 80 horas equivalentes no período preferencial de manutenção com fator K=1 nas 40 horas excedentes e carência de 1 ano; vigência a partir de janeiro de 2020; pleitos de ajuste de limites e franquia para troca de transformador reserva não acolhidos. Sustentação oral: Abrate/Abdib (Vitor, João Procópio) e State Grid Brasil (Fernanda, Paulo César).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:02:56",
+     "confianca": "alta",
+     "justificativa": "norma simplifica 27 isenções da REN 729, incentiva manutenção preventiva; nega caráter punitivo; compromisso de corrigir desajustes; vigência em 2020 para o ONS adaptar sistemas"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:20:50",
+     "confianca": "media",
+     "justificativa": "elogia interlocução com o mercado; HVDC como inovação (22 mil km em 2023)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:20:45",
+     "confianca": "media",
+     "justificativa": "elogia simplicidade da norma e liberdade de gestão das transmissoras; perguntou sobre indisponibilidade não programada no período preferencial"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:20:45",
+     "confianca": "media",
+     "justificativa": "avanço: HVDC tratado antes por analogia com corrente alternada; FT conversora única e período preferencial de manutenção são relevantes"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:20:45",
+     "confianca": "baixa",
+     "justificativa": "comentário sobre modicidade tarifária e visão ampla do setor (fala atribuída por o DG responder 'diretor Efrain')"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:21:17",
+   "processo": "48500.005363/2018-64",
+   "interessado": "distribuidoras (Eletropaulo, Abradee), municípios, Observatório Nacional",
+   "assunto": "Resultado da Audiência Pública 56/2018: alteração do art. 24 da REN 414/2010 sobre tempo para faturamento da iluminação pública; retirada da atribuição do Observatório Nacional; tempos por município calculados com o software Helios (P&D)",
+   "tema": [
+    "regulação normativa (resolução, audiência pública, AIR)",
+    "distribuição e faturamento (iluminação pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN alterando o art. 24 da REN 414/2010, REH com tempos de iluminação pública por município (média 11h27, redução média de 25 minutos ante 11h52), prazo de 30 dias para faturamento e delegação à SRD. Sustentação oral da Eletropaulo (Leandro), que pedia manter 11h52 e concatenar com revisões tarifárias; não acolhido.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:49:46",
+     "confianca": "alta",
+     "justificativa": "tempo único de 11h52 é impreciso num país continental; Observatório não quis mais participar e não havia convênio; prefeituras pagarão menos e podem reduzir a Cosip"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:56:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:56:40",
+     "confianca": "media",
+     "justificativa": "elogia uso de produto de P&D (software Helios)"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:56:40",
+     "confianca": "media",
+     "justificativa": "tempo por município é avanço e mais justiça; não vê necessidade de concatenar com revisão tarifária"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:57:36",
+   "processo": "48500.001019/2013-91",
+   "interessado": "Triunfo Participações e Investimentos S.A. (recorrente); outra empresa interessada no eixo apresentou contrarrazões (nome incerto na legenda)",
+   "assunto": "Recurso administrativo contra o Despacho 2422/2018 da SCG que tornou disponíveis eixos de PCHs da Triunfo após perda de vigência do DRS-PCH (PCH Tucano M1), registro de comportamento e abertura de processo para execução de garantia",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista (Efrain Cruz)",
+   "resumo_voto": "Relatora vota por conhecer e negar provimento (Parecer 276/2019 da Procuradoria; Triunfo não pediu prorrogação do DRS-PCH no prazo de 3 anos nem foi diligente nos licenciamentos). Efrain questionou 92% das terras adquiridas e licença prévia prorrogada e pediu vista. Limp e Sandoval comentaram revisão da REN 673 e contraditório antes da abertura do eixo.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, nega provimento",
+     "ts": "2:29:34",
+     "confianca": "alta",
+     "justificativa": "segue SCG e Procuradoria; estabilidade regulatória; empreendedor assumiu o risco e não foi diligente; energia que não se viabiliza"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "2:45:54",
+     "confianca": "alta",
+     "justificativa": "92% das terras adquiridas e LP prorrogada; agência não deve ser trava ao empreendedorismo; sugere contraditório antes de abrir o eixo"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "2:38:47",
+     "confianca": "baixa",
+     "justificativa": "comentou que a norma é clara mas cabe avaliar diligência do agente; revisão da REN 673 em curso"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:40:30",
+     "confianca": "baixa",
+     "justificativa": "by the book a solução estaria dada, mas questões de contorno merecem reflexão"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "2:46:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:50:58",
+   "processo": "48500.002095/2019-18",
+   "interessado": "Empresa Luz e Força Santa Maria S.A. (ELFSM, Espírito Santo)",
+   "assunto": "Reajuste tarifário anual de 2019 da Santa Maria, a vigorar a partir de 22/08/2019 (efeito médio -14,18%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa RTA com efeito médio de -14,18% (-15,27% AT; -13,91% BT), TUSD/TE, receita de DIT e repasse mensal de CDE (valor lido na legenda, não conferido). Redução puxada por mercado, encargos (CDE) e compra de energia (cotas).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "3:04:09",
+     "confianca": "alta",
+     "justificativa": "nos termos da nota técnica da SGT"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:10:50",
+     "confianca": "media",
+     "justificativa": "destaca redução por encargos e custo de geração; agenda de desoneração tarifária (geração, tributos, subsídios)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:10:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "3:11:20",
+   "processo": "48500.002133/2019-24",
+   "interessado": "agentes de geração hidrelétrica (MRE, ACR)",
+   "assunto": "Recálculo dos prêmios unitários de repactuação do risco hidrológico (GSF) no ACR, anexo I da REN 684/2015, para opções feitas em 2019 com vigência a partir de 2020",
+   "tema": [
+    "comercialização (risco hidrológico, GSF, MRE)",
+    "regulação normativa (resolução)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Emite REN alterando o anexo I da REN 684/2015 com prêmios referenciados a jan/2019; prêmios em média 23,7% acima da REN 805/2018, sobretudo pela inclusão de 2018 (GSF médio 82%).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:19:44",
+     "confianca": "alta",
+     "justificativa": "Lei 13.203/2015; inclusão dos dados de 2018 eleva o prêmio"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "3:20:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:20:14",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "8, 12, 14 e 20",
+   "motivo": "retirados de pauta (anunciado pelo secretário-geral; números incertos na legenda)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados (ex.: processos lidos como '2007-10', '2013 traz 91').",
+  "Votos individuais de quem acompanha não nomeados na fala; atribuídos pela proclamação unânime (confiança media).",
+  "No item 4, o diretor chamado 'Franklin' na legenda foi interpretado como Efrain Cruz (baixa confiança).",
+  "No item 10, atribuição das falas de Limp e Sandoval inferida pelo conteúdo e por menções cruzadas.",
+  "Itens do bloco 18-60 não detalhados individualmente."
+ ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {"video_id": "St102RaCDnc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Ordinária de 2020", "data": "2020-01-21", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Rodrigo Limp", "Efrain Cruz", "Elisa Bastos"],
+    "ausentes": ["Sandoval Feitosa (viagem a serviço)"],
+    "observacoes": ["Quórum de quatro diretores; Sandoval Feitosa em viagem a serviço.", "Informes: fim da contribuição da CP 40/2019 (correção de recursos do Procel) em 27/01 e lançamento de vídeos educativos ao consumidor (REN 414/2010).", "Atas da 47ª RPO de 2019 e da 1ª RPE de 2020 aprovadas.", "Pauta com 41 itens; bloco do item 6 ao 41, exceto o 11 (destacado) e os retirados; aniversário do Diretor-Geral citado."]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:06:50", "processo": "", "interessado": "diversos", "assunto": "Deliberação em bloco dos itens 6 a 41 (exceto 11, 24 e 39), com ressalva no item 15: pedido de medida cautelar da PCH Confluência (voto-vista de Efrain Cruz sobre voto de Rodrigo Limp)", "tema": ["deliberação em bloco", "outorgas de geração (PCH)", "comercialização (contratos)"], "relator": "diversos", "resultado": "bloco aprovado por unanimidade; item 15 julgado prejudicado por perda de objeto", "resumo_voto": "No item 15, Efrain Cruz trouxe voto-vista concordando com Rodrigo Limp, mas a PCH Confluência contratou energia para os próximos 12 meses (MCSD e distratos bilaterais), havendo perda do objeto da cautelar.",
+     "votos": [
+      {"diretor": "Efrain Cruz", "voto": "aprova o bloco; voto-vista no item 15 (perda de objeto)", "ts": "0:06:57", "justificativa": "cautelar ficou prejudicada porque a PCH Confluência conseguiu contratar energia pelos próximos 12 meses", "confianca": "alta"},
+      {"diretor": "Rodrigo Limp", "voto": "aprova o bloco; acompanha o voto-vista de Efrain no item 15", "ts": "0:08:13", "justificativa": "elogia a atuação do empreendedor no mercado", "confianca": "media"},
+      {"diretor": "Elisa Bastos", "voto": "aprova o bloco (pela proclamação)", "ts": "0:08:20", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "aprova o bloco e proclama", "ts": "0:08:46", "confianca": "media"}
+     ]},
+    {"id": "11", "ts": "0:09:04", "processo": "48500.000682/2018-55", "interessado": "Eletronorte (UHE Coaracy Nunes)", "assunto": "Recurso administrativo da Eletronorte contra o Auto de Infração 1015/2018 da SFG (multa por operação e manutenção inadequadas da UHE Coaracy Nunes; atraso na recomposição do Amapá na perturbação de 21/03/2018)", "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "outorgas de geração (hidrelétrica)"], "relator": "Rodrigo Limp", "resultado": "unânime: conhecer e negar provimento, mantida a multa (cerca de R$ 336 mil, a atualizar)", "resumo_voto": "Sustentação oral da Eletronorte (representante de nome incerto, legenda 'Klaxon'), que pediu arquivamento, conversão em advertência ou revisão da dosimetria. Relator: falhas de fechamento do disjuntor por pressão de ar insuficiente; melhoria posterior da rotina confirma inadequação; impacto relevante impede conversão em advertência. Procuradoria pela manutenção.",
+     "votos": [
+      {"diretor": "Rodrigo Limp", "voto": "relator, nega provimento", "ts": "0:16:49", "justificativa": "não há razões para afastar a não conformidade; impacto relevante na recomposição do Amapá impede classificar como de pequeno potencial ofensivo", "confianca": "alta"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:21:27", "confianca": "media"},
+      {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:21:30", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:21:33", "confianca": "alta"}
+     ]},
+    {"id": "1", "ts": "0:22:03", "processo": "48500.001756/2019-80", "interessado": "23 vendedores habilitados (58 empreendimentos)", "assunto": "Homologação e adjudicação parcial do Leilão 4/2019 (A-6 2019) de energia nova (hidrelétrica, eólica, solar, biomassa, gás natural e carvão), suprimento a partir de 2025", "tema": ["leilões (geração)"], "relator": "Elisa Bastos", "resultado": "unânime: adjudicar e homologar parcialmente", "resumo_voto": "Apresentação técnica da SEL (91 empreendimentos vencedores, 1.155 MW médios, cerca de R$ 11 bilhões de investimento); 23 agentes com 58 empreendimentos habilitados. O Diretor-Geral destacou preço médio abaixo do mix das distribuidoras e a celeridade da homologação parcial.",
+     "votos": [
+      {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "0:30:30", "justificativa": "habilitação concluída para os 23 agentes, que atenderam aos requisitos do edital", "confianca": "alta"},
+      {"diretor": "Rodrigo Limp", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:31:10", "confianca": "baixa"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:33:24", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "0:33:29", "justificativa": "leilão contribui para reduzir custo de geração e para a retomada do crescimento; não faz sentido esperar todos os documentos", "confianca": "alta"}
+     ]},
+    {"id": "3", "ts": "0:34:18", "processo": "48500.005242/2018-23", "interessado": "PCH Jauru SPE S.A. (PCH Estivadinho 3, rio Jauru, Reserva do Cabaçal-MT)", "assunto": "Pedido de medida cautelar para suspender obrigações do CER 430/2016 e da Portaria MME 198/2017 por impossibilidade de iniciar obras (licença ambiental)", "tema": ["outorgas de geração (hidrelétrica/PCH)", "comercialização (contratos de energia de reserva)", "licenciamento ambiental", "excludente de responsabilidade"], "relator": "Efrain Cruz", "resultado": "unânime: provimento parcial; obrigações do CER suspensas até 01/09/2020 ou até decisão de mérito sobre a excludente, o que ocorrer primeiro; autos à SCG", "resumo_voto": "Sustentação oral de Rodrigo Quintana Fernandes (procurador da empresa): sobrestamento pela ANA (Res. 64/2018) na bacia do Paraguai, DRDH só em 07/01/2020. Procuradoria: risco ambiental é do empreendedor, mas cautelar evita judicialização. Relator vê fumaça do bom direito e perigo da demora com o início do suprimento em 01/03/2020; critica entraves ambientais ideológicos e burocracia.",
+     "votos": [
+      {"diretor": "Efrain Cruz", "voto": "relator, dá provimento parcial", "ts": "0:48:00", "justificativa": "presentes fumaça do bom direito e perigo da demora; o próprio Estado concede com uma mão e tira com a outra; regulador não deve criar barreiras ao empreendedor", "tom": "enfático em defesa do empreendedor", "confianca": "alta"},
+      {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:40", "confianca": "baixa"},
+      {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:07:40", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "1:07:40", "justificativa": "(atribuição incerta) licenciamento é obrigação e risco do empreendedor; dificuldades devem ser informadas de imediato; cautelar aceitável por ter prazo-limite de 01/09/2020", "confianca": "media"}
+     ]},
+    {"id": "5", "ts": "1:08:35", "processo": "48500.001414/2018-89", "interessado": "Itamaracá Transmissora SPE Ltda. (Montago Construtora); FCA/Fiat; Celpe", "assunto": "1º termo aditivo ao Contrato de Concessão 11/2018 (SE Fiat Seccionadora 230/69 kV, PE): continuidade da concessão e prorrogação da entrada em operação", "tema": ["transmissão (outorgas, prazos)", "excludente de responsabilidade"], "relator": "Elisa Bastos", "resultado": "unânime: prorrogar entrada em operação para 10/02/2024, data de necessidade da Celpe para julho/2022, contagem do prazo da concessão a partir de 10/02/2021 e aprovar minuta do aditivo (assinatura em 30 dias)", "resumo_voto": "Atraso da LT 230 kV Pau Ferro-Fiat Seccionadora, a cargo da FCA, impede a SE; recomposição do prazo prevista em contrato. Houve dúvida de um diretor sobre a extensão do prazo da concessão; esclarecido que decorre da cláusula 14ª e do reconhecimento de excludente.",
+     "votos": [
+      {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "1:18:00", "justificativa": "continuidade conveniente para a confiabilidade da Mata Norte de PE e litoral sul da PB; recomposição dos 36 meses tem previsão contratual", "confianca": "alta"},
+      {"diretor": "Rodrigo Limp", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:24:51", "confianca": "baixa"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:24:51", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "1:24:55", "confianca": "media"}
+     ]}
+  ],
+  "retirados": ["item 24", "item 39"],
+  "limites_da_analise": [
+    "Legenda automática; números de processo, valores e datas podem estar errados (ex.: '2011' por 2021, '2009' por 2019).",
+    "Itens 2 e 4 não aparecem na ordem de julgamento anunciada; a fala do secretário sobre retirados está truncada ('itens 2 e tem quatro e o item 39'); registrados como retirados 24 e 39.",
+    "Bloco: votos individuais de Rodrigo Limp e Elisa Bastos inferidos (fala 'aprova o bloco' sem nome); assuntos dos demais itens do bloco não lidos.",
+    "Item 3: a intervenção sobre risco ambiental do empreendedor (1:03:49) foi atribuída ao Diretor-Geral por contexto, sem nome dito; pode ser de outro diretor.",
+    "Item 5: a dúvida sobre extensão do prazo da concessão não tem autor identificado (menção a 'o ponto aqui do André').",
+    "Nomes de sustentantes incertos: representante da Eletronorte ('Klaxon/Clarkson Fotinho'); Rodrigo Quintana Fernandes pela PCH Jauru."
+  ]
+}

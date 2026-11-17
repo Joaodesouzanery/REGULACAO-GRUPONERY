@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "HIz7uZdD1J0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "12ª Reunião Pública Extraordinária de 2021", "data": "2021-11-06", "formato": "não identificado",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Hélvio Guerra", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Retomada da sessão suspensa na véspera por liminar em ações populares, cassada pela Presidência do TRF-1 (segundo a Procuradoria).", "Pauta única: homologação e adjudicação do Procedimento Competitivo Simplificado (PCS) nº 1/2021 (energia de reserva, MP 1.055).", "Decisão unânime; por proposta de Sandoval Feitosa, acolhida pelo relator, incluiu-se a emissão das resoluções autorizativas às vencedoras."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:06",
+      "processo": "48500.004552/2021-15", "interessado": "proponentes vencedores do PCS 1/2021 (13 proponentes, 17 empreendimentos); petição do senador Weverton Rocha",
+      "assunto": "Homologação e adjudicação do resultado do Procedimento Competitivo Simplificado nº 1/2021 (contratação de energia de reserva: 14 UTEs a gás natural, 2 usinas fotovoltaicas, 1 UTE a biomassa); petição do senador Weverton Rocha pedindo a sustação do certame; emissão das resoluções autorizativas",
+      "tema": ["leilões (geração, reserva de capacidade)", "outorgas de geração (térmica, solar)", "CDE e encargos setoriais", "institucional/judicial"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Encaminhar ao MME a petição do senador Weverton Rocha por ausência de competência da ANEEL para juízo de conveniência e oportunidade (cabe ao MME/CREG/CMSE); homologar e adjudicar o resultado do PCS 1/2021; por proposta de Sandoval Feitosa, aprovar também a emissão das resoluções autorizativas às vencedoras (tabela 3). Relator cita investimento de cerca de 5,2 bilhões e receita fixa próxima de 9 bilhões anuais (valores da legenda automática).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova (homologa, adjudica e encaminha petição ao MME); acolhe inclusão das outorgas", "ts": "0:08:12", "justificativa": "procedimento vinculado à análise de legalidade, confirmada pela Procuradoria e áreas técnicas; juízo de conveniência e oportunidade cabe ao MME, CREG e CMSE, não à ANEEL", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator, propondo incluir a emissão das resoluções autorizativas", "ts": "0:10:06", "justificativa": "instrução processual já completa e notas técnicas prontas; homologar sem outorgar atrasaria o cronograma; parabeniza a Procuradoria pela cassação da liminar", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (com inclusão das outorgas)", "ts": "0:16:53", "justificativa": "concorda com a inclusão das autorizações; pergunta à Procuradoria se a outorga deve preceder a contratação", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:19:06", "justificativa": "Lei 9.427/96: ANEEL implementa política pública e faz exame de legalidade; conhecer o pedido do senador seria excesso de mandato; petição deve ir ao MME", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (presidente, proclama)", "ts": "0:27:40", "justificativa": "ANEEL apenas operacionaliza política do poder concedente; registra opinião de que homologação e adjudicação geram direito à contratação, não mera expectativa", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática em bloco único quase sem marcadores de falante; ts obtidos do JSON da transcrição.", "Composição inferida pela época (nov/2021) e por menções na fala ('Doutor André' diretor-geral, 'diretor Sandoval', 'Efraim' relator); presença de Elisa Bastos ('diretora Fahrenheit'/'Doutora frente') e Hélvio Guerra ('prefeito Seguindo') não confirmada por nome claro.", "Atribuição das falas e votos individuais de Elisa Bastos e Hélvio Guerra é incerta (confiança baixa); proclamação: 'por unanimidade dos votantes'.", "Número do processo e valores (5,2 bi investimento; ~9 bi/ano receita fixa) vêm da legenda automática e podem estar errados."]
+}

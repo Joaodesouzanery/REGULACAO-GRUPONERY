@@ -1,0 +1,83 @@
+{
+ "meta": {"video_id": "kTFnguh9OsE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-05-26",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Júlio César Rezende Ferraz"],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores declarado na abertura.",
+   "Comunicados: CP 32/2020 (acordo Termonorte x Ceron/Energisa Rondônia, mediação) e CP 34/2020 (PAR do Procel); Sandoval Feitosa elogiou doação de R$ 5 milhões da Copel ao Paraná contra a Covid-19.",
+   "Ata da 17ª Reunião Pública Ordinária aprovada por todos.",
+   "Pauta com 39 itens; bloco do item 19 ao 39; item 7 retirado de pauta; item 14 destacado do bloco para a pauta comum; sustentações orais pedidas para itens 1, 3, 6, 8 e 14; ordem: bloco, depois itens 3, 2, 4, 5, 1, 6, 8 e 14.",
+   "Esta Parte 1 cobre o bloco e o item 3 (Conta-Covid); a reunião foi suspensa para almoço e retomada às 15h na Parte 2 (outro vídeo)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:10:10",
+   "processo": "itens 19 a 39 da pauta (bloco), exceto o item 20 (vista)",
+   "interessado": "diversos",
+   "assunto": "Aprovação dos itens remanescentes do bloco (relatórios e votos disponibilizados na internet desde a quinta-feira anterior)",
+   "tema": ["bloco de itens", "diversos"],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade os itens remanescentes do bloco; item 20 com pedido de vista de Efrain Cruz; item 14 destacado para a pauta comum",
+   "resumo_voto": "Votação em bloco sem debate de mérito.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "aprova os itens remanescentes do bloco", "ts": "0:10:10", "justificativa": "voto simbólico; ordem entre Elisa Bastos e Júlio Ferraz não identificada na legenda", "confianca": "baixa"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "aprova o bloco", "ts": "0:10:15", "justificativa": "voto simbólico; atribuição pela ordem de votação", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "aprova os demais itens do bloco; pede vista do item 20", "ts": "0:10:32", "justificativa": "dúvida sobre o item 20 após notícia de disputa sobre gás no Amazonas", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha, aprova os itens remanescentes do bloco", "ts": "0:13:47", "justificativa": "", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "aprova todo o bloco e proclama", "ts": "0:13:59", "justificativa": "", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:10:32",
+   "processo": "48500.?/2020 (número ilegível na legenda: '48 521 47 2020')",
+   "interessado": "Azulão Geração de Energia (UTE Azulão, Amazonas)",
+   "assunto": "Autorização para Azulão Geração de Energia implantar e explorar, em regime de autoprodução, a usina termelétrica Azulão, no estado do Amazonas",
+   "tema": ["outorgas de geração (térmica)", "gás natural", "pedido de vista"],
+   "relator": "não identificado",
+   "resultado": "pedido de vista do diretor Efrain Cruz; retorno previsto para a semana seguinte",
+   "resumo_voto": "Efrain Cruz citou notícia (site Infra) sobre disputa no Amazonas envolvendo a distribuição de gás e lembrou fiscalização pedida no Nordeste após denúncia de distribuidora de gás contra térmica que mudou condições do leilão; defendeu que o setor elétrico não se ancore em quebras de contrato ou monopólios de outros setores.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "pede vista", "ts": "0:10:32", "justificativa": "a gente não pode ancorar setor elétrico em quebras de contratos ou monopólios; se exigimos respeito aos nossos contratos, também precisamos exigir respeito aos outros contratos", "tom": "cauteloso", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "não votou (vista)", "ts": "0:10:32", "justificativa": "", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "não votou (vista)", "ts": "0:10:32", "justificativa": "", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:13:47", "justificativa": "", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "0:13:59", "justificativa": "proclamou registrando o pedido de vista", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:14:21",
+   "processo": "48500.002846/2020-21",
+   "interessado": "distribuidoras de energia elétrica (Abradee), consumidores, CCEE",
+   "assunto": "Abertura de consulta pública para aprimorar a proposta de resolução normativa que regulamenta o Decreto 10.350/2020 (Conta-Covid): limite de captação (≈ R$ 15,4 bi), ativos regulatórios, encargo CDE Covid, termo de aceitação",
+   "tema": ["CDE e encargos setoriais", "regulação normativa (consulta pública)", "tarifas e revisão tarifária", "Covid-19 / Conta-Covid", "distribuição"],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: CP por intercâmbio documental de 5 dias (27/05 a 01/06/2020), incorporada a proposta de Sandoval Feitosa de discutir a antecipação de Parcela B (≈ R$ 700 mi) para as RTEs de 2020 das distribuidoras privatizadas; mantido o item 2 (estudo do equilíbrio econômico-financeiro, coordenado pela SRM com SGT e SFF, para segunda fase de CP)",
+   "resumo_voto": "Relatora: problema regulatório é o risco de solvência do setor pela pandemia; dispensa de AIR e CP curta por urgência; limite de captação de R$ 15,4 bi (cenário 2 de queda de mercado, inadimplência, grupo A, postergações e diferimentos); antecipação de Parcela B limitada a remuneração do capital próprio e QRR; limite de dividendos de 25%; renúncia a litígio não alcança reequilíbrio. Sustentações orais: Marcos Madureira (Abradee) pediu recursos suficientes e reconhecimento do desequilíbrio econômico; Ricardo Vidinich (Conselho de Consumidores da Copel) defendeu que consumidores não suportem sozinhos o custo. Procurador-chefe Luiz Eduardo: momento não é de reequilíbrio; depois opinou que o Decreto não respalda usar Parcela B para processos tarifários até dezembro ('cheque em branco').",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, instaura CP de 5 dias e determina estudo do equilíbrio econômico-financeiro; acatou a sugestão de Sandoval Feitosa", "ts": "1:46:26", "justificativa": "a discussão mais urgente é a do financeiro; o Proret 2.9 não trata de perda de receita, por isso é preciso critérios antes dos pedidos de RTE; não vê prejuízo em discutir as RTEs na CP: se tivermos argumentos seguimos, se não, recuamos", "confianca": "alta"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora com as alterações indicadas por Sandoval Feitosa (RTEs)", "ts": "3:49:10", "justificativa": "no debate: se possível usar Parcela B, deveria valer para todas as distribuidoras com impacto de dois dígitos, não só um grupo; defendeu avaliar alocação de custos (art. 7º) mesmo sem pedido de RTE", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha a relatora, inclusive no ponto econômico e na inclusão das RTEs", "ts": "3:49:25", "justificativa": "no debate apoiou a proposta de Sandoval de levar as RTEs à CP para dialogar com a sociedade; havia sugerido retirar o item 2 por entender que o reequilíbrio já tem regra (Proret 2.9), mas acompanhou o voto final", "tom": "enfático", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora com as alterações de sua lavra incorporadas", "ts": "3:50:14", "justificativa": "propôs incluir no limite o crescimento da Parcela B nas RTEs de 2020 (Piauí, Alagoas, Acre, Rondônia, Amazonas, Roraima), ≈ R$ 700 mi, reduzindo em média 10 p.p. reajustes previstos de 17% a 23%; trata-se de antecipação de Parcela B, não de postergação nem diferimento", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "3:50:21", "justificativa": "no debate: reequilíbrio econômico-financeiro tem seu tempo, como a construção de uma barragem; RTE exige imprevisibilidade, evento alheio ao concessionário e desequilíbrio significativo; manifestou preocupação de que a Parcela B extrapole a política pública do decreto, mas aceitou levar à CP", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": ["item 7 (retirado de pauta; assunto não dito)"],
+ "limites_da_analise": [
+  "Legenda automática: o nome do diretor Efrain Cruz aparece como 'efraim', 'frank', 'afreim', 'é para ir'; atribuição por contexto.",
+  "No bloco, os dois primeiros votos não têm nome na legenda; atribuídos a Elisa Bastos e Júlio Ferraz por exclusão (confiança baixa).",
+  "Número do processo do item 20 ilegível; relator do item 20 não dito.",
+  "Item 3: no voto lido a relatora disse '1º de julho', mas a proclamação diz 1º de junho (5 dias); adotada a proclamação.",
+  "Votos finais do item 3 sem nome explícito; atribuição pela ordem (Júlio é chamado, depois o que cita o art. 7º, depois o que fala de 'nossa lavra', depois o DG proclama).",
+  "Itens 2, 4, 5, 1, 6, 8 e 14 serão julgados na Parte 2 (outro vídeo)."
+ ]
+}

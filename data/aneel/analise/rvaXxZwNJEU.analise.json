@@ -1,0 +1,28 @@
+{
+ "meta": {"video_id": "rvaXxZwNJEU", "fonte": "legenda automática do YouTube; falantes inferidos; vídeo curto só com a abertura e o bloco (itens 11 a 22)", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "25ª Reunião Pública Ordinária", "data": "2018-07-17", "formato": "presencial",
+  "presidente_da_sessao": "não identificado (Diretor-Geral substituto)",
+  "diretores_presentes": ["não identificado", "não identificado", "não identificado"],
+  "ausentes": [],
+  "observacoes": ["Quórum de três diretores declarado na abertura; nomes não ditos.", "Ata da 24ª RPO aprovada com retificação do voto do diretor Sandoval no processo 48500.002707/2018 (cautelar da Hidrelétrica Morro Branco; efeitos a partir de 1º/06/2018).", "Item 7 retirado de pauta; item 16 destacado do bloco; ordem posterior: 8, 16, 2 e 6 (não constam deste vídeo)."]
+ },
+ "itens": [
+  {
+   "id": "bloco 11-22 (exceto 16)", "ts": "0:00:15",
+   "processo": "", "interessado": "diversos; item 12: Furnas Centrais Elétricas S.A.",
+   "assunto": "Bloco de itens 11 a 22, exceto o 16. Item 12: recurso administrativo de Furnas contra o Despacho 4257 da SRG (CVU), com correção de erro material na data (3/11/2017, não 13/11/2018).",
+   "tema": ["recursos administrativos", "outorgas de geração"],
+   "relator": "diversos",
+   "resultado": "aprovados os itens do bloco, com exceção do item 16",
+   "resumo_voto": "Os três diretores votam pela aprovação dos itens do bloco, exceto o 16.",
+   "votos": [
+    {"diretor": "não identificado", "voto": "aprova o bloco (exceto item 16)", "ts": "0:00:15", "justificativa": "vota pela aprovação dos itens do bloco; corrige erro material no item 12", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "aprova o bloco (exceto item 16)", "ts": "0:00:15", "justificativa": "também voto pela aprovação dos itens do bloco", "confianca": "baixa"},
+    {"diretor": "não identificado", "voto": "aprova o bloco (exceto item 16)", "ts": "0:00:15", "justificativa": "vota pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": ["item 7"],
+ "limites_da_analise": ["Transcrição em um só parágrafo com marcador único [0:00:15]; ts aproximados.", "Os três diretores votantes não são nomeados; falante inferido {Sandoval Feitosa} é incerto (o presidente cita o voto do diretor Sandoval na terceira pessoa).", "Itens individuais do bloco (exceto o 12) não são descritos no vídeo.", "Número do processo da ata (48500.002707/2018) reconstruído da legenda; incerto."]
+}

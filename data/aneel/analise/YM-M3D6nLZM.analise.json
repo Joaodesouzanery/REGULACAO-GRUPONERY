@@ -1,0 +1,100 @@
+{
+  "meta": {"video_id": "YM-M3D6nLZM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "25ª Reunião Pública Ordinária de 2021 (Parte 1)",
+    "data": "2021-07-13",
+    "formato": "virtual",
+    "presidente_da_sessao": "Efrain Cruz (Diretor-Geral substituto)",
+    "diretores_presentes": ["Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": ["Sandoval Feitosa", "André Pepitone"],
+    "observacoes": [
+      "Sandoval Feitosa ausente por férias; André Pepitone (Diretor-Geral) em seminário na Comissão de Minas e Energia da Câmara sobre subsídios; quórum de três diretores.",
+      "Ata da 24ª RPO aprovada. Efrain comunica a sanção da lei de privatização da Eletrobras; Hélvio informa que, com a Lei 14.182, pedirá à CCEE o cálculo da extensão das outorgas (GSF), com concordância dos demais.",
+      "Ordem: bloco (itens 9 a 23), depois itens 4, 5, 7, 8; itens 1, 2 e 3 (tarifas de transmissoras) adiados para a retomada às 14h (Parte 2, não coberta neste vídeo).",
+      "Pauta com 23 itens; o secretário inicialmente anunciou o bloco com números confusos e foi corrigido: itens 9 a 23."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 9 a 23, exceto 11)", "ts": "0:09:47", "processo": "", "interessado": "",
+      "assunto": "Bloco de itens com votos disponibilizados no site (itens 9 a 23), exceto o item 11",
+      "tema": ["bloco de pauta"], "relator": "diversos", "resultado": "aprovado por unanimidade, exceto item 11 (vista de Hélvio Guerra)",
+      "resumo_voto": "Aprovação em bloco dos votos publicados.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco, exceto item 11 (pede vista)", "ts": "0:09:47", "justificativa": "Pede vista do item 11 e aprova os demais.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:09:55", "justificativa": "Aprova os itens do bloco.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:10:00", "justificativa": "Também aprova o bloco e proclama.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:09:47", "processo": "", "interessado": "",
+      "assunto": "Item 11 do bloco (assunto não lido na sessão)",
+      "tema": ["pedido de vista"], "relator": "não identificado", "resultado": "retirado do bloco com pedido de vista de Hélvio Guerra",
+      "resumo_voto": "Vista pedida antes da votação.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "0:09:47", "justificativa": "Pede vista do item 11.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "não votou (vista)", "ts": "0:09:55", "justificativa": "", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (vista)", "ts": "0:10:00", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "0:10:33", "processo": "48500.003717/2013-21", "interessado": "Eletrobras (Furnas, Chesf, Eletronorte), Celesc Geração; usinas cotistas",
+      "assunto": "Resultado da Audiência Pública 3/2019: aprimoramento da REN 596/2013 (indenização de investimentos em bens reversíveis não amortizados de hidrelétricas, art. 2º do Decreto 7.850/2012)",
+      "tema": ["regulação normativa", "outorgas de geração (hidrelétrica)", "indenização de bens reversíveis"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: alterada a REN 596/2013",
+      "resumo_voto": "Sustentação oral de Maria João Rolim pela Eletrobras (terrenos de reservatório, investimentos socioambientais, erros materiais, almoxarifado, GAG melhoria). Relator rebate pontos e aprova resolução com novas formas de valoração (VNR para itens menores) e depreciação até 31/12/2012. Procuradoria de acordo.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:33:00", "justificativa": "A 596 passa a dar mais clareza ao que não pôde ser aplicado por questões conceituais e operacionais; cabe agora à Eletrobras apresentar os itens de forma pormenorizada.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:35:30", "justificativa": "Aprimoramento muito importante, especialmente no momento da capitalização da Eletrobras; elogia a equipe técnica.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:37:41", "justificativa": "«eu acompanho o voto do relator» (atribuição pela ordem; pela proclamação unânime).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:38:30", "processo": "48500.003116/2018-88", "interessado": "Enel Green Power Dois Riachos Eólica S.A.",
+      "assunto": "Recurso contra o Despacho 909/2019 da SRG que negou ressarcimento via ESS dos custos de implantação de Sistema Especial de Proteção (SEP); continuação após empate",
+      "tema": ["recursos administrativos", "CDE e encargos setoriais (ESS)", "outorgas de geração (eólica)"],
+      "relator": "Sandoval Feitosa (relator original); voto-vista de Hélvio Guerra", "resultado": "por maioria, recurso conhecido e negado provimento (prevaleceu o voto de Sandoval Feitosa; vencido o voto-vista de Hélvio Guerra)",
+      "resumo_voto": "Processo voltou à pauta por empate na reunião anterior; faltava o voto de Elisa Bastos (desempate). Ela acompanha Sandoval: o SEP decorreu de decisão empresarial para antecipar a operação comercial, sem função sistêmica caracterizada pelo planejamento.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (Sandoval Feitosa), voto de desempate", "ts": "0:39:50", "justificativa": "Só faria sentido o ressarcimento se o SEP tivesse função sistêmica bem caracterizada pelo planejamento setorial; a implantação decorreu de decisão empresarial para antecipar a operação da eólica; uso por outros agentes era condicionante dos pareceres de acesso. Ouviu a Enel na véspera.", "tom": "cuidadoso", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "vencido (voto-vista proferido em reunião anterior)", "ts": "0:42:50", "justificativa": "Voto-vista (anterior) favorável ao reconhecimento da função sistêmica do SEP; não votou novamente nesta sessão.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou nesta sessão (voto dado na reunião anterior, sentido não dito)", "ts": "0:42:50", "justificativa": "Apenas proclamou o resultado por maioria.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "0:43:37", "processo": "48500.003691/2017-45 e 48500.002464/2017-01", "interessado": "ATE XXII Transmissora de Energia S.A., Austral Seguradora S.A.; grupo Abengoa",
+      "assunto": "Recursos com pedido de efeito suspensivo contra o Despacho 3.038/2018 da SCT que determinou a execução da garantia de fiel cumprimento do contrato de concessão 2/2014; novos requerimentos do grupo Abengoa de suspensão para acordo",
+      "tema": ["fiscalização e sanções (execução de garantia, caducidade)", "transmissão", "recursos administrativos", "acordo administrativo"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: suspensão por três meses (renovável) dos processos de execução do grupo Abengoa e criação de grupo de trabalho para avaliar acordos",
+      "resumo_voto": "Abengoa pediu suspensão por 180 dias; relator concede três meses. Procuradoria apoia (passivo potencial de cerca de 1 bilhão de reais e jurisprudência oscilante no TRF1).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:50:00", "justificativa": "Três meses são tempo adequado para o grupo de trabalho com a Procuradoria avaliar acordo; não há desistência das sanções, apenas suspensão para ambiente de conciliação, visando modicidade tarifária.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:54:09", "justificativa": "«eu acompanho o voto do relator» (falante não nomeado; pela proclamação unânime).", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:15", "justificativa": "", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "0:55:20", "processo": "48500.001242/2021-49 (número incerto)", "interessado": "Cogecom (cooperativa de geração compartilhada) e MFB Participações; CGH João do Passo; Ceriluz/permissionária (legenda: Copel) e RGE Sul",
+      "assunto": "Pedido de reconsideração com cautelar contra o Despacho 933/2021 que negou compensação de créditos da CGH João do Passo em unidades da área da RGE Sul (geração compartilhada, REN 482)",
+      "tema": ["geração distribuída (MMGD)", "recursos administrativos", "medida cautelar"],
+      "relator": "Elisa Bastos (relatora original); voto-vista de Efrain Cruz", "resultado": "retirado de pauta pelo relator do voto-vista (Efrain Cruz) para estudar sugestão de Hélvio Guerra; sem deliberação",
+      "resumo_voto": "Efrain propõe cautelar excepcional permitindo compensação na RGE até a revisão da REN 482 (CGH presa ao potencial hidráulico, permissionária com penetração de GD acima de 10%, mesmo estado). Elisa mantém voto de negar (precedente, custos a consumidores da RGE, faturamento e tributos). Hélvio sugere alternativa: não impedir futura adesão ao sistema de compensação mesmo que a usina comercialize energia no mercado livre. Efrain retira o processo.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "voto-vista: diverge da relatora e concede cautelar; depois retira de pauta", "ts": "1:00:00", "justificativa": "Excepcionalidade: CGH não escolhe local, permissionária pequena com penetração de GD de 11,85% na ponta, mesmo estado (sem problema de ICMS), sem custo além do já admitido na 482; caso encapsulado sem precedente; cautelar reversível até a revisão da 482.", "tom": "argumentativo", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "relatora, mantém voto de negar provimento", "ts": "1:26:52", "justificativa": "Decisão para caso particular iria contra o regulamento que veda compensação entre áreas distintas; não caracteriza projeto-piloto; custos aos consumidores da RGE, faturamento e repercussão tributária indefinidos; risco de precedente.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "não votou (processo retirado); manifesta preocupação com precedente e sugere alternativa", "ts": "1:40:00", "justificativa": "Concorda com várias observações da relatora; risco de pedidos semelhantes (RS com 7 concessionárias e 13 permissionárias); sugere garantir que a usina possa aderir futuramente à compensação mesmo comercializando no mercado livre.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "8", "motivo": "retirado por Efrain Cruz (voto-vista) após debate, para estudar sugestão de Hélvio Guerra"},
+    {"id": "1, 2 e 3", "motivo": "adiados para a retomada às 14h com a presença do Diretor-Geral (tarifas de transmissoras); não cobertos neste vídeo"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas e números de processo podem estar errados (item 8: permissionária aparece como 'Copel', provavelmente outra cooperativa/permissionária do RS; número do processo incerto). Processo do item 5 reconstruído da legenda.",
+    "Timestamps de votos dentro dos itens 4, 7 e 8 são aproximados; atribuição dos 'acompanho' sem nome feita pela ordem e pela proclamação unânime.",
+    "Item 5: só o voto de desempate de Elisa Bastos foi dado nesta sessão; os votos de Efrain Cruz e André Pepitone na reunião anterior (empate) não são ditos aqui; registro de Efrain como não votou nesta sessão.",
+    "Item 11 do bloco: assunto não lido; os itens do bloco não são detalhados individualmente.",
+    "Vídeo é a Parte 1; itens 1 a 3 ficam na Parte 2."
+  ]
+}

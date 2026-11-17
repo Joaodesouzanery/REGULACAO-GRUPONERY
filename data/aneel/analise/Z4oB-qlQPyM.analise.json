@@ -1,0 +1,152 @@
+{
+  "meta": {"video_id": "Z4oB-qlQPyM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9ª Reunião Pública Ordinária de 2021", "data": "2021-03-23", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": [
+      "Cinco diretores na abertura. Efrain Cruz saiu da sala durante o item 4 (bandeiras, ~2:36) e não voltou a votar: itens 4, 5, 7, 8 e 14 decididos por unanimidade dos votantes (4 votos).",
+      "Aprovadas as atas da 8ª RPO e da 1ª e 2ª extraordinárias de 2021; Hélvio Guerra trouxe correção de despacho (excludente das usinas fotovoltaicas aprovada na 1ª reunião de 2021, ajuste do fim do suprimento).",
+      "Item 1 (edital do leilão de sistemas isolados 2021) aprovado por maioria, com divergência de Sandoval Feitosa; às 3:39 a relatora acrescentou ao dispositivo determinação à CCEE, aprovada com três votos.",
+      "Item 6 (Juruena Energia, PCH Jauru), relator Efrain Cruz: houve duas sustentações orais, mas o relator caiu da conexão e o processo foi retirado de pauta."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:00", "processo": "itens 9 a 25 (exceto 14)", "interessado": "diversos",
+      "assunto": "Itens do bloco (votos disponibilizados no site desde a quinta-feira anterior)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado sem debate.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:07:10", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:07:10", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:07:10", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:07:10", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco e proclama", "ts": "0:07:23", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:07:30", "processo": "48500.004624/2020-43; 48500.006071/2020-63", "interessado": "Energisa Minas Gerais (EMG), distribuidora",
+      "assunto": "Abertura de consulta/audiência pública da revisão tarifária periódica da Energisa Minas Gerais (vigência 22/06/2021) e limites de DEC/FEC 2022-2026",
+      "tema": ["tarifas e revisão tarifária", "distribuição e qualidade (DEC/FEC)", "regulação normativa (consulta pública)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio preliminar de 5,86% (10,41% AT; 4,72% BT); audiência de 24/03 a 07/05/2021 com reunião virtual em 01/04. DG destacou desoneração de 6,22 p.p. pela Conta-Covid.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova abertura da audiência pública", "ts": "0:28:04", "justificativa": "colher subsídios para a RTP da EMG e limites de DEC/FEC", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:31:35", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:31:40", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:31:42", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:31:46", "justificativa": "Conta-Covid amorteceu a tarifa", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:32:20", "processo": "48500.004625/2020-98; 48500.006066/2020-51", "interessado": "Energisa Nova Friburgo (ENF), distribuidora",
+      "assunto": "Abertura de consulta pública da 5ª revisão tarifária periódica da Energisa Nova Friburgo (vigência 22/06/2021) e limites de DEC/FEC 2022-2026",
+      "tema": ["tarifas e revisão tarifária", "distribuição e qualidade (DEC/FEC)", "regulação normativa (consulta pública)"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio preliminar de 5,02% (9,35% AT; 4% BT); consulta pública de 24/03 a 07/05/2021.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova abertura da consulta pública", "ts": "0:33:24", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:49:37", "justificativa": "antecipou concordância com o voto", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:50:00", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora (pela proclamação)", "ts": "0:50:00", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "0:50:38", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:50:45", "processo": "48500.001933/2015-09 (número incerto)", "interessado": "leilão de suprimento aos sistemas isolados 2021; sustentações orais: ABAQUE (Carlos Augusto Leite Brandão), associação de engenheiros eletricistas de Roraima (Maria Conceição Barros Escobar), Instituto Socioambiental (Ciro Campos), Volt Robotics (Donato da Silva Filho)",
+      "assunto": "Aprovação do edital do Leilão 3/2021 (suprimento aos sistemas isolados 2021), após a CP 70/2020",
+      "tema": ["leilões (sistemas isolados)", "outorgas de geração", "regulação normativa"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por maioria, vencido Sandoval Feitosa",
+      "resumo_voto": "Edital aprovado conforme diretrizes da Portaria MME 341/2020; penalidade reduzida de seis vezes a receita fixa para 40% da receita total; pedidos de reabertura do cadastramento negados por exigirem mudança da data do leilão. Ajuste posterior (3:39): determinação à CCEE para calcular e divulgar anualmente o índice de reajuste dos contratos.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova o edital", "ts": "1:17:15", "justificativa": "segue diretrizes do MME; alterar prazos exigiria reabrir cadastramento e mudar a data do leilão; penalidade passa a 40% da receita total", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha a relatora", "ts": "2:02:23", "justificativa": "concorda com a reflexão de Sandoval como aprimoramento futuro, mas confia na relatora", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "2:02:30", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge, vencido", "ts": "2:03:00", "justificativa": "não acompanha por coerência: deveria aproveitar a oportunidade para reduzir custos da geração nos sistemas isolados (contratos mais longos, nova interlocução com o MME); não faz reparo técnico ao voto", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "2:03:21", "justificativa": "avanço da consulta pública na penalidade", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:03:40", "processo": "48500.000829/2021-31", "interessado": "consumidores (bandeiras tarifárias)",
+      "assunto": "Abertura de consulta pública sobre a revisão dos adicionais e das faixas de acionamento das bandeiras tarifárias 2021-2022",
+      "tema": ["tarifas e revisão tarifária (bandeiras)", "regulação normativa (consulta pública)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes (Efrain Cruz fora da sala)",
+      "resumo_voto": "Consulta pública de 24/03 a 07/05/2021 (45 dias), por intercâmbio documental.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova abertura da consulta pública", "ts": "2:32:46", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:36:30", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:36:40", "justificativa": "tema complexo; consulta permitirá aperfeiçoar e melhorar compreensão da sociedade", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sala)", "ts": "2:37:06", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "2:37:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:37:40", "processo": "48500.002404/2020-85", "interessado": "distribuidoras com concessão prorrogada (CEEE-D, CEB-D, Enel Goiás e outras)",
+      "assunto": "Verificação do cumprimento das cláusulas de eficiência (qualidade e gestão econômico-financeira) dos contratos de distribuição prorrogados, ano 2019",
+      "tema": ["fiscalização e sanções (caducidade)", "distribuição e qualidade (DEC/FEC)"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Reconhece cumprimento de DEC/FEC pelas distribuidoras citadas; falta de confiabilidade dos indicadores da Enel Goiás e da CEB-D (nomes incertos); não cumprimento econômico-financeiro por dois anos pela CEEE-D, com abertura de processo administrativo que pode levar à extinção da concessão, observados o art. 4º do Decreto 8.461/2015 (legenda: 8468) e o 4º termo aditivo.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "2:38:14", "justificativa": "dois anos consecutivos de descumprimento econômico-financeiro exigem abrir processo, apesar de caducidade já suspensa pela privatização", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "3:14:35", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "3:14:40", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sala)", "ts": "3:14:35", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "3:14:45", "justificativa": "não é intenção da agência conturbar a privatização da CEEE-D; extinção não é automática", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "3:17:30", "processo": "48500.005196/2021-14 (número incerto)", "interessado": "EDP São Paulo Distribuição de Energia",
+      "assunto": "Recurso contra o Despacho SRT 84/2021, que negou isenção da parcela de ineficiência por ultrapassagem (subestações Norte e Aparecida, 03/08 e 02/10/2020)",
+      "tema": ["transmissão (encargos de uso, ultrapassagem)", "recursos administrativos"],
+      "relator": "Hélvio Guerra", "resultado": "recurso conhecido e não provido, por unanimidade dos votantes",
+      "resumo_voto": "Causa da ultrapassagem não afasta a parcela; distribuidora deve contratar considerando remanejamento de carga; sinal econômico de confiabilidade.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento", "ts": "3:34:39", "justificativa": "a parcela de ineficiência é sinal econômico; não importa a causa, a EDP deveria contratar considerando transferência de carga entre subestações", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:38:20", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "3:38:20", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sala)", "ts": "3:38:20", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "3:38:34", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "8", "ts": "3:41:02", "processo": "48500.007124/2017-49 (número incerto)", "interessado": "Hidrelétrica Morro Grande Ltda. (PCH Morro Grande, RS); sustentação oral de Maximiano (representante)",
+      "assunto": "Pedido de reconsideração contra o Despacho 1.486/2019, que negou excludente de responsabilidade pelo atraso da PCH Morro Grande",
+      "tema": ["outorgas de geração (PCH)", "excludente de responsabilidade", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "provido parcialmente por unanimidade dos votantes",
+      "resumo_voto": "Reconhecidos 1.277 dias de excludente, com recomposição do prazo da outorga pelo mesmo período e demais itens do dispositivo; decisão encaminhada à AGERGS.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, defere parcialmente", "ts": "3:56:25", "justificativa": "atraso no licenciamento ambiental não imputável ao empreendedor em parte do período", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "4:08:35", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "4:08:40", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sala)", "ts": "4:08:35", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "4:08:44", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "14", "ts": "4:08:50", "processo": "48500.006834/2019-32 (número incerto)", "interessado": "ABRATE (transmissoras); sustentações orais de Rafael Takaki Carvalho (CGT Eletrosul) e Caio Cavalcante (ABRATE)",
+      "assunto": "Pedido de medida cautelar da ABRATE contra a REH 2.724/2020 (RAP de reforços sem receita prévia, ciclo 2020-2021)",
+      "tema": ["transmissão (RAP, reforços)", "recursos administrativos (cautelar)"],
+      "relator": "Elisa Bastos", "resultado": "cautelar conhecida e negada por unanimidade dos votantes",
+      "resumo_voto": "Sem fumaça do bom direito nem perigo da demora: valores pequenos (abaixo de 1% da RAP) e cálculo retroativo se houver decisão favorável; autos à SCT para prosseguir a análise das obras sem receita homologada.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, nega a cautelar", "ts": "4:45:37", "justificativa": "não há fumaça do bom direito; eventual prejuízo é reparável retroativamente e de baixo impacto", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "4:49:50", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "4:49:55", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sala)", "ts": "4:49:50", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "4:50:00", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "6", "ts": "4:50:39", "processo": "48500.005947/2014-14 (número incerto)", "assunto": "Recurso da Juruena Energia S.A. contra o Despacho SCG 1.266/2019 (prorrogação do DRS-PCH da PCH Jauru, MS)", "relator": "Efrain Cruz", "motivo": "relator ausente/sem conexão após as sustentações orais (Yuri, pela Juruena; Lucas Baggio, pela Gases Energia e Rio das Garças, terceiros interessados); retirado de pauta"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, nomes de entidades (ABAQUE, Volt Robotics) e de representantes podem estar errados.",
+    "O cabeçalho do .md lista falantes de outra composição; os presentes foram identificados pelas falas (André, Sandoval, Elisa, Efrain, Hélvio).",
+    "Votos de quem só diz «acompanho» foram atribuídos pela ordem usual e pela proclamação; no item 1, a ordem entre Efrain e Hélvio é incerta; no item 7 só duas falas de voto foram ouvidas.",
+    "A ausência de Efrain dos itens 5, 7, 8 e 14 é inferida de «unanimidade dos votantes», da contagem de falas e do ajuste aprovado por três votos às 3:40; não houve declaração explícita.",
+    "Itens do bloco (9 a 25, exceto 14) não detalhados."
+  ]
+}

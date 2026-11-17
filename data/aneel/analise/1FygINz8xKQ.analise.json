@@ -1,0 +1,59 @@
+{
+ "meta": {"video_id": "1FygINz8xKQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "38ª Reunião Pública Ordinária de 2020 (Parte 2)",
+  "data": "2020-10-13",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Sandoval Feitosa", "Efrain Cruz"],
+  "ausentes": ["Júlio César Rezende Ferraz (não participa da parte 2; deixou voto proferido no item 31)"],
+  "observacoes": [
+   "Parte 2 da sessão (tarde): itens 11 e 31 da pauta; encerramento ~1:27:25.",
+   "Item 11 com sustentação oral da Energisa Rondônia (Frederico, sobrenome incerto) e manifestação da Procuradoria (Luiz Eduardo) pelo indeferimento.",
+   "Item 31: três encaminhamentos (Elisa, Sandoval, Efrain); terminou com pedido de vista do Diretor-Geral André Pepitone."
+  ]
+ },
+ "itens": [
+  {
+   "id": "11",
+   "ts": "0:00:27",
+   "processo": "48500.005792/2019-12 (número incerto na legenda)",
+   "interessado": "Energisa Rondônia Distribuidora de Energia S.A. (distribuidora)",
+   "assunto": "Pedido de reconsideração contra a REH 2.648/2019, que homologou o reajuste tarifário anual 2019 da Energisa Rondônia; pleito de recálculo da CVA de 2014 (≈ R$ 30 milhões)",
+   "tema": ["tarifas e revisão tarifária", "recursos administrativos", "CVA"],
+   "relator": "Elisa Bastos",
+   "resultado": "conhecido e, no mérito, negado provimento, por unanimidade dos votantes",
+   "resumo_voto": "Pedido genérico de recálculo integral da CVA de 2014, sem apontar item específico; prazo recursal e segurança jurídica impedem reabrir processos tarifários passados; Procuradoria apontou preclusão. Houve sustentação oral da Energisa (Frederico) pedindo retirada de pauta para parecer da Procuradoria.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, aprova (nega provimento)", "ts": "0:16:24", "justificativa": "pedido não identifica item específico da CVA; o prazo recursal objetiva segurança jurídica para usuários e concessionárias", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:19:01", "justificativa": "falante não nomeado comentou que a concessionária não pode alegar genericamente inconsistências e que a privatização não reabre prazos precluídos; atribuição incerta", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:19:15", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:19:23", "justificativa": "vota por último e proclama a unanimidade dos votantes", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "0:19:51",
+   "processo": "48500.005876/2019-56 (número incerto na legenda)",
+   "interessado": "Interligação Elétrica Tibagi S.A. (ISA CTEEP; transmissora); SE Rosana, Diamante do Norte/PR",
+   "assunto": "Requerimento administrativo com pedido de cautelar sobre alteração da localização do novo pátio 230 kV da SE Rosana como solução técnica equivalente (Leilão 5/2016, contrato 26/2017); possível frustração do caráter competitivo do leilão",
+   "tema": ["transmissão", "leilões", "fiscalização e sanções", "recursos administrativos"],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista do Diretor-Geral André Pepitone (sem resultado)",
+   "resumo_voto": "Relatora original Elisa decidira o mérito; voto-vista de Sandoval com acréscimos; voto-vista de Efrain: nega a cautelar (sem fumaça do bom direito) e remete os autos à Comissão Especial de Licitação (CEL) para julgamento em primeira instância do requerimento e da eventual frustração do caráter competitivo / nulidade ou convalidação do lote. Sandoval passou a acompanhar Efrain sugerindo informar órgãos de controle concluídas as apurações; Efrain acatou.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, mantém voto", "ts": "1:25:44", "justificativa": "manteve o voto de mérito; discorda de deixar a apuração de vício de origem para depois e defendeu encaminhar ao CADE/MPF se constatadas irregularidades (atribuição parcial incerta)", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "voto deixado (acompanha a relatora Elisa)", "ts": "1:25:27", "justificativa": "voto já proferido antes, informado pelo Diretor-Geral", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "voto-vista: nega cautelar e remete à CEL para julgamento em primeira instância", "ts": "1:25:46", "justificativa": "competência da CEL (Portaria 6.510) para divergências do edital; respeitar rito e instâncias como garantia processual; ISA CTEEP condenou a localização A no R3 e depois construiu nela", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista de Efrain, com sugestão acatada", "ts": "1:26:02", "justificativa": "concluídas as apurações, se houver frustração do caráter competitivo, informar os órgãos de controle", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "pede vista", "ts": "1:26:58", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Item 11: só a relatora e o Diretor-Geral são identificáveis; as duas falas de 'acompanho' (0:19:01 e 0:19:15) não têm nome, atribuídas a Sandoval e Efrain pela ordem usual, confiança baixa. Não se sabe se Júlio César deixou voto neste item.",
+  "Item 31: um 'diretor Cristiano' citado na questão de ordem (~1:06:57) não está na lista; provável erro de legenda. Sandoval disse ter voto proferido anteriormente (voto-vista) e votou de novo acompanhando Efrain.",
+  "Números de processo e nomes (Frederico, Luiz Eduardo) vêm de legenda automática."
+ ]
+}

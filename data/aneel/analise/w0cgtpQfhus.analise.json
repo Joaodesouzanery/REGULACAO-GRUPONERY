@@ -1,0 +1,494 @@
+{
+ "meta": {
+  "video_id": "w0cgtpQfhus",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "47ª RPO 2020 (Parte 1)",
+  "data": "2020-12-15",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Elisa Bastos",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 (manhã); sessão suspensa para almoço com retorno às 15h.",
+   "Atas da 13ª RPE e 46ª RPO aprovadas.",
+   "Pauta de 54 itens; item 11 retirado; 27 e 29 destacados do bloco; sustentações orais pedidas para 2, 10, 15, 17, 27 e 29.",
+   "Demais itens da ordem do dia (8, 10, 12 a 19, 27 e 29) não aparecem nesta Parte 1.",
+   "Informe de Elisa Bastos sobre a Portaria MME 425/2020 (leilão de sistemas isolados) e anúncio do leilão de transmissão 1/2020 em 17/12."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:07:20",
+   "processo": "itens 20 a 54 (exceto 27 e 29, destacados)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 20 a 54 da pauta (votos disponibilizados previamente); itens 27 e 29 destacados para pauta comum",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado por unanimidade.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:07:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:07:51",
+   "processo": "48500.004746/2020-30",
+   "interessado": "Associação Nacional dos Municípios Sedes de Usinas Hidrelétricas e Alagados (AMUSUH); CTG Brasil; ABIAPE",
+   "assunto": "Resultado da Consulta Pública 57/2020: revisão do Preço Médio da Energia Hidráulica (PMH) e da Tarifa Atualizada de Referência (TAR) a partir de 1/1/2021; alteração dos submódulos 5.9 e 6.6 do PRORET",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais",
+    "regulação normativa (consulta pública)",
+    "compensação financeira (CFURH)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: PMH de R$ 186,88/MWh e TAR de R$ 76,00/MWh",
+   "resumo_voto": "Sustentação oral de Yuri Belchior (associação de municípios) alegando excesso de poder regulamentar do Decreto 3.739/2001 e ilegalidade do PMH; Procuradoria refutou (agência cumpre decreto). Relatora negou as contribuições da associação com base em SGT e Procuradoria; apresentação técnica de Fabiano Camilo (SGT).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "0:23:02",
+     "confianca": "alta",
+     "justificativa": "valores revisados PMH 186,88 e TAR 76 R$/MWh; questionamentos de legalidade analisados por SGT e Procuradoria e não providos"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:38:24",
+     "confianca": "alta",
+     "justificativa": "agência não faz juízo de constitucionalidade de decreto; metodologia praticada desde 2001; tese da associação teria impacto tarifário relevante contra a desoneração tarifária"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:38:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:38:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:38:24",
+     "confianca": "media",
+     "justificativa": "solidarizou-se com a Procuradoria: interpretação equivocada na sustentação oral"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:39:09",
+   "processo": "48500.000705/2023-45 (número incerto na legenda)",
+   "interessado": "Energética Caiuá S.A. (Enercasa) – UTE Enercasa (biomassa, bagaço de cana); CCEE; Energisa Sul-Sudeste",
+   "assunto": "Requerimento administrativo para retomada da operação comercial da UTE Enercasa e pagamento da receita do Contrato de Energia de Reserva CER 23/2008 (voto-vista)",
+   "tema": [
+    "comercialização (CCEE, contratos de energia de reserva)",
+    "outorgas de geração (térmica a biomassa)",
+    "recursos administrativos",
+    "fiscalização e sanções (penalidades contratuais)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: declarada comprovada a disponibilidade de combustível e autorizada a entrega de energia no CER 23/2008, com determinação à CCEE (voto-vista de Sandoval) de destinar toda a energia gerada ao CER até o montante contratado enquanto a garantia física estiver zerada",
+   "resumo_voto": "Voto-vista de Sandoval Feitosa acompanha a relatora (proferido na 26ª RPO, julho/2020) e acrescenta determinação à CCEE. Sustentação oral de Carlos Fernando Couto de Oliveira Souto (Enercasa). Hélvio Guerra impedido no mérito por já constar voto do ex-diretor Júlio (acompanhando a relatora); votou apenas a determinação. Votação desdobrada em mérito e determinação. Efrain Cruz criticou duramente a decisão de 2014 (suspensão de pagamentos) como esdrúxula e o contrato como mal redigido, mas votou pela retomada.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (voto proferido na 26ª RPO; recepcionou a determinação do voto-vista)",
+     "ts": "1:27:00",
+     "confianca": "media",
+     "justificativa": "comprovada disponibilidade de combustível (bagaço) conforme despacho 1717/2014; mantém voto incorporando a determinação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: acompanha a relatora com determinação adicional à CCEE",
+     "ts": "0:40:20",
+     "confianca": "alta",
+     "justificativa": "garantia física zerada impediria alocar energia ao CER; determinação para destinar a energia ao contrato até o montante da subcláusula 6.1; não há instrumento para exigir adimplência de débitos suspensos judicialmente; penalidades seguem válidas"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora e a determinação, com críticas",
+     "ts": "1:28:09",
+     "confianca": "baixa",
+     "justificativa": "decisão de 2014 que suspendeu pagamento foi esdrúxula e gerou insegurança jurídica; contrato mal redigido; consumidor paga energia cara; ainda assim respeita a decisão já processada (legenda ambígua: 'eu não conheço o requerimento' x proclamação unânime)"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e a determinação",
+     "ts": "1:28:36",
+     "confianca": "media",
+     "justificativa": "empresa segue sujeita às penalidades da cláusula 14 (cerca de R$ 72 milhões); primeiro leilão de reserva permitia comercializar excedente"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "suspeito/impedido no mérito (voto do ex-diretor Júlio Rezende já registrado); acompanha a determinação do voto-vista",
+     "ts": "1:28:36",
+     "confianca": "alta",
+     "justificativa": "levantou dúvida se o CER permitia comercializar excedente; esclarecido que sim neste contrato"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "voto deixado (acompanha a relatora, proferido na 26ª RPO)",
+     "ts": "1:21:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4 (pauta: item 3)",
+   "ts": "1:30:13",
+   "processo": "48500.005192/2020-28 (aprox.)",
+   "interessado": "CCEE; ONS; Itaipu/Eletrobras",
+   "assunto": "Atualização de TEO, TEO Itaipu, Tarifa de Serviços Ancilares (TSA) e limites máximo e mínimo do PLD para 2021",
+   "tema": [
+    "comercialização (CCEE, PLD)",
+    "tarifas"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "TEO 12,74 R$/MWh (-0,27%); TEO Itaipu +25,45% pela variação do dólar; TSA 7,63 R$/Mvarh (+3,14% IPCA); PLD máx. estrutural 583,88 e horário 1.197,87 R$/MWh; PLD mínimo 49,77 R$/MWh.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:30:13",
+     "confianca": "alta",
+     "justificativa": "atualização pelas regras da REN 858/2019 e IPCA; variação do dólar"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:44:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:45:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (problema de conexão)",
+     "ts": "1:45:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:45:10",
+     "confianca": "alta",
+     "justificativa": "Itaipu ficará mais cara em 2021 pelo dólar"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:46:02",
+   "processo": "48500.000893/2019-05; 48500.000983/2019-98; 48500.000984/2019-32",
+   "interessado": "transmissoras, distribuidoras, geradores, ONS",
+   "assunto": "Segunda fase da Consulta Pública 13/2020: consolidação e aprimoramento das regras de classificação das instalações de transmissão e de acesso ao sistema de transmissão (módulos 2 e 5 das Regras dos Serviços de Transmissão)",
+   "tema": [
+    "transmissão (acesso, conexão, CCT)",
+    "regulação normativa (consulta pública, AIR, consolidação)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: abertura da 2ª fase da CP 13/2020, de 16/12/2020 a 1/2/2021",
+   "resumo_voto": "Item antecipado porque Sandoval e Efrain não estavam presentes naquele momento; apresentação de Fernando (SRT). Prazos menores para parecer de acesso, prazo de 90 dias para CCT, transparência da fila do ONS, revogação de 7 atos.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "2:04:30",
+     "confianca": "alta",
+     "justificativa": "simplificação normativa, mais agilidade no acesso e transparência entre transmissoras e usuários"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:05:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:05:30",
+     "confianca": "media",
+     "justificativa": "teve problema de áudio"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:06:15",
+   "processo": "48500.004???/2020-01 (número incompleto na legenda)",
+   "interessado": "CCEE; autoprodutores; agentes de energia de reserva",
+   "assunto": "Segunda fase da CP 42/2020: Regras de Comercialização versão 2021 e abertura da terceira fase (módulos Encargos e Alocação de Geração Própria)",
+   "tema": [
+    "comercialização (CCEE, regras de comercialização)",
+    "regulação normativa (consulta pública)",
+    "fiscalização e sanções (penalidade de energia de reserva)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: regras de comercialização 2021 aprovadas e terceira fase da CP 42/2020 de 17/12/2020 a 1/2/2021",
+   "resumo_voto": "Apresentação de Pedro Elias (SRM): 61 contribuições; PLD horário, CCBR, autoprodução por equiparação (cargas >= 3 MW), penalidade de reserva estendida a todas as fontes a partir de 2022.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:27:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:28:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:28:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:28:45",
+     "confianca": "media",
+     "justificativa": "acompanha o eminente relator"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:28:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:29:29",
+   "processo": "48500.001802/2020-84 (aprox.)",
+   "interessado": "Enel Distribuição Rio; Light; Abrace",
+   "assunto": "Resultado da CP 59/2020: limites DEC e FEC da Enel Distribuição Rio para 2021-2023, com tratamento de áreas de risco",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC, áreas de risco)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação de Davi Vidal (SRD): critérios de área de risco (CHI 25%, percentis 50/60), 9 conjuntos flexibilizados, DEC 9,93h (2021) a 9,20h (2023) e FEC 7,12 a 6,30. Diretores lamentam a ausência do Estado nessas áreas.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:47:24",
+     "confianca": "alta",
+     "justificativa": "áreas inacessíveis até ao Estado; não razoável exigir indicadores da concessionária nessas áreas"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:52:42",
+     "confianca": "media",
+     "justificativa": "adiantou concordância e elogiou a apresentação"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:52:42",
+     "confianca": "media",
+     "justificativa": "trabalho bem feito, mas desconforto: poder público não consegue entrar nessas áreas"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:52:45",
+     "confianca": "media",
+     "justificativa": "custo da falta do Estado transferido aos demais consumidores; concessionária não pode ser penalizada"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:52:50",
+     "confianca": "media",
+     "justificativa": "proposta equilibrada e tecnicamente fundamentada"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:53:11",
+   "processo": "48500.001825/2018-74",
+   "interessado": "ONS; CCEE; CPFL; Neoenergia; Abragel",
+   "assunto": "Resultado da CP 66/2020: alteração formal da REN 843/2019 (PMO e formação do PLD) para início do preço horário em janeiro de 2021",
+   "tema": [
+    "comercialização (PLD horário)",
+    "regulação normativa (resolução normativa)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação de Patrícia (SRG); ajustes de horários de publicação do preço e CMO; vigência a partir de 1/1/2021.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:06:52",
+     "confianca": "alta",
+     "justificativa": "apenas aspectos formais; preço horário é grande marco"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:12:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:12:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator com louvor",
+     "ts": "3:12:21",
+     "confianca": "media",
+     "justificativa": "avanço extraordinário na modernização do setor"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:12:25",
+     "confianca": "media",
+     "justificativa": "modernização do setor e novos modelos de negócio"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:12:56",
+   "processo": "48500.004340/2017-15 (aprox.)",
+   "interessado": "ONS; Abrace; EDP",
+   "assunto": "Resultado da CP 68/2020: indicadores e metas do Programa de Performance Organizacional do ONS para 2021",
+   "tema": [
+    "institucional (ONS)",
+    "geração eólica e solar",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade, com determinações à SRG e SRT",
+   "resumo_voto": "Inclui indicador de previsão de geração eólica, eleva meta de fluxos sistêmicos de 97% para 98%; determina transparência no site do ONS, prazo de 45 dias de consulta em 2022 e avaliação de indicadores para solar e DESSEM.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:24:58",
+     "confianca": "alta",
+     "justificativa": "crescimento da eólica; ESS não controlável só pelo ONS (rejeita proposta da Abrace)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:37:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:37:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:37:06",
+     "confianca": "media",
+     "justificativa": "fontes variáveis exigem atenção à potência; sugeriu indicador para fotovoltaica"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:37:10",
+     "confianca": "media",
+     "justificativa": "falta potência no Nordeste; sugere leilão de potência regional em 2021"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "11",
+   "motivo": "retirado de pauta no momento da publicação (motivo não dito)"
+  }
+ ],
+ "limites_da_analise": [
+  "Composição inferida do conteúdo: André Pepitone (DG), Elisa Bastos, Sandoval Feitosa, Efrain Cruz e Hélvio Guerra; abertura cita quórum de cinco.",
+  "Item 3 (Enercasa): Hélvio impedido no mérito por já constar voto do ex-diretor Júlio Rezende; frase de Efrain soa como 'eu não conheço o requerimento', mas a proclamação foi unânime; a proclamação diz 'negar-lhe provimento' mas o dispositivo lido é de provimento (provável erro de legenda). Número do processo incerto.",
+  "Item de pauta 3 (TEO/PLD): Efrain com problema de conexão; 'unanimidade dos votantes'; atribuição dos dois primeiros 'acompanho' feita pela ordem usual (baixa).",
+  "Item 9: Sandoval e Efrain ausentes no início da relatoria; proclamação unânime; atribuição de votos incerta.",
+  "Números de processo de vários itens truncados/erros na legenda.",
+  "Votos de seguidores sem nome atribuídos pela ordem usual e proclamação; confiança baixa/média.",
+  "Júlio César Rezende Ferraz não estava presente: voto anterior registrado como voto deixado."
+ ]
+}

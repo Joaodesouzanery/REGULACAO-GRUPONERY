@@ -1,0 +1,466 @@
+{
+ "meta": {
+  "video_id": "SwmVyDLxtiI",
+  "fonte": "legenda automática do YouTube; ts = tempo do vídeo; votos de quem acompanha com ts aproximado",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária de 2023",
+  "data": "2023-04-04",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Hélvio Guerra",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Colegiado completo (5 diretores). Pauta com 52 itens; retirados 5, 13 e 26.",
+   "Ordem: bloco, 2, 3, 1, 14, 7, 6, 4. Sessão das 9h às ~19h.",
+   "Item 4 (liquidação de EUST) terminou com pedido de vista de Agnes da Costa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:25:22",
+   "processo": "itens 8 a 52 (exceto retirados 13 e 26)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco com votos disponibilizados previamente; retificação de Agnes da Costa no dispositivo do item 32 (alteração de características técnicas de UTEs e sistema de transmissão de interesse restrito; determinação à Usina Xavantes S.A. para regularizar inadimplência em 15 dias).",
+   "tema": [
+    "outorgas de geração",
+    "bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "Bloco aprovado por unanimidade, com a retificação do item 32 lida por Agnes da Costa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:27:00",
+     "justificativa": "aprova os itens do bloco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:27:00",
+     "justificativa": "retificou o dispositivo do item 32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:27:00",
+     "justificativa": "aprova os itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:27:00",
+     "justificativa": "aprova os itens do bloco",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:27:00",
+     "justificativa": "aprova os itens do bloco",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:27:33",
+   "processo": "48500.006880/2022-37 e 48500.007673/2022-8 (legenda)",
+   "interessado": "Energisa Mato Grosso do Sul (EMS), distribuidora",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Energisa MS a partir de 8/4/2023 e limites de DEC/FEC 2024-2028, após a CP 61/2022.",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (efeito médio de 9,28% segundo a legenda)",
+   "resumo_voto": "Aprovou a RTP; debate sobre perdas não técnicas e relação medida/faturada (submódulo 2.6). Sustentação oral de representante do Conselho de Consumidores da área da Energisa MS (Rose).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:13:00",
+     "justificativa": "vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:00",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:00",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "0:28:40",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:00",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:14:00",
+   "processo": "processo da RTP Energisa MT (número incerto na legenda)",
+   "interessado": "Energisa Mato Grosso, distribuidora",
+   "assunto": "Resultado da 5ª revisão tarifária periódica da Energisa Mato Grosso a partir de 8/4/2023 e limites de DEC/FEC 2024-2028, após a CP 62/2022.",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "geração distribuída"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovou a RTP; Sandoval Feitosa comentou a ausência de consumidores nas audiências públicas, dominadas por associações de GD.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:15:15",
+     "justificativa": "vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:15",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:15",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:14:00",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:15:15",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:15:30",
+   "processo": "48500.006865/2022-24 e 48500.008369/2022-70 (legenda)",
+   "interessado": "CPFL Paulista, distribuidora",
+   "assunto": "Resultado da revisão tarifária periódica da CPFL Paulista a partir de 8/4/2023, após a CP 56/2022.",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado (proclamação sem menção expressa a unanimidade; todos acompanharam)",
+   "resumo_voto": "Aprovou a RTP sem reconhecer nesta revisão custo de cerca de R$ 18 milhões de ativo de conexão/medição cuja titularidade é controversa há 14 anos; incluiu no dispositivo determinação para a fiscalização (SFF/SGT) avaliar o pleito, preservando o direito da distribuidora.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:16:00",
+     "justificativa": "não se sente confortável por a agência não ter encerrado a discussão em 14 anos, mas acompanha considerando as palavras de Hélvio Guerra",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:24",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:13:43",
+     "justificativa": "disse sentir-se constrangido por a agência não ter resolvido a titularidade do ativo; poderia pedir vista, mas não o fez para não prejudicar a distribuidora no aniversário tarifário",
+     "tom": "crítico ao histórico da agência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:24",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:16:00",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "3:20:34",
+   "processo": "48500.003456/2016-92 (legenda)",
+   "interessado": "Municípios de Glória (BA), Jatobá (PE) e Delmiro Gouveia (AL)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 3.477/2022, que negou repasse retroativo (mar/2016 a jan/2020) de compensação financeira pelo uso de recursos hídricos (UHEs Paulo Afonso e Apolônio Sales).",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração",
+    "CFURH"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Negou provimento. Sustentação oral de representante do município de Glória (BA). Hélvio Guerra relatou histórico do caso desde 2009.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:47:36",
+     "justificativa": "vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:47:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:21:15",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "5:45:28",
+   "processo": "48500.001392/2019-66 (legenda)",
+   "interessado": "BP Comercializadora de Energia Ltda. e Stattkraft Energias Renováveis S.A.; Abraceel e CCEE manifestaram-se",
+   "assunto": "Requerimentos para excepcionalizar a REN 1.011/2022 (redação da REN 1.014/2022): classificação de comercializadoras em tipo 1 e tipo 2 e critério de patrimônio líquido.",
+   "tema": [
+    "comercialização",
+    "recursos administrativos",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "parcial provimento, por unanimidade: exigibilidade da classificação tipo 1/tipo 2 adiada para 1/1/2024",
+   "resumo_voto": "Dispositivo ajustado em plenário para vigência em 1/1/2024. Sustentação oral da Abraceel (postergação para abril/2024).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:46:20",
+     "justificativa": "vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:46:20",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:46:20",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "6:46:20",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "5:46:03",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "6:47:04",
+   "processo": "48500.008730/2022-68 (legenda)",
+   "interessado": "Programa de P&D e Eficiência (PDI ANEEL)",
+   "assunto": "Abertura de consulta pública para o Plano Estratégico Quinquenal de Inovação (PEQI) 2023-2028 do programa de P&D.",
+   "tema": [
+    "regulação normativa",
+    "P&D e inovação"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "consulta pública instaurada por unanimidade (intercâmbio documental de 6/4 a 22/5/2023, sessão presencial em Brasília)",
+   "resumo_voto": "Instaurou a CP; debate sobre transição energética justa e indicadores.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "7:17:36",
+     "justificativa": "vota por último e proclama o resultado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:17:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:17:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "6:47:43",
+     "justificativa": "lê/encaminha o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "7:17:36",
+     "justificativa": "acompanhou; falas individuais sem nome na legenda",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "7:18:51",
+   "processo": "48500.005470/2018-92 e outros (4 processos)",
+   "interessado": "ONS, transmissoras (Abrate), usuários e consumidores (Abrace, Anace etc.)",
+   "assunto": "Resultado da 2ª fase da CP 75/2020: aprimoramento da liquidação dos encargos de uso do sistema de transmissão (EUST), centralização versus descentralização.",
+   "tema": [
+    "transmissão",
+    "regulação normativa",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "pedido de vista de Agnes da Costa; não deliberado",
+   "resumo_voto": "Relator mantém a liquidação descentralizada (risco de judicialização e mudança na matriz de risco das transmissoras), com medidas de aprimoramento (faturamento padronizado, data única, cadastro de inadimplência) e acrescentou avaliação após 2 anos de operação do sistema do ONS. Nove sustentações orais.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, voto lido (manter liquidação descentralizada com aprimoramentos)",
+     "ts": "8:59:40",
+     "justificativa": "maioria dos credores (transmissoras) preferiu manter o modelo descentralizado; centralização alteraria a matriz de risco e aumentaria judicialização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista",
+     "ts": "9:52:50",
+     "justificativa": "para estudar se há algo mais ousado, em complementação ao voto do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "9:53:22",
+     "justificativa": "concedeu a vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "9:53:22",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "9:53:22",
+     "justificativa": "",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5",
+   "ts": "0:24:45",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "13",
+   "ts": "0:24:45",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  },
+  {
+   "id": "26",
+   "ts": "0:24:45",
+   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
+  }
+ ],
+ "limites_da_analise": [
+  "Data inferida: pauta publicada na quinta 30/3/2023 e CP do item 6 a partir de 6/4; confirmar 4/4/2023.",
+  "Números de processo vêm da legenda automática e podem ter erros.",
+  "Nos itens 2, 3, 14, 7 e 6 as falas «acompanho» não têm nome; votos atribuídos pela proclamação de unanimidade (confiança media).",
+  "Item 6: na proclamação se diz que um diretor se retirou e deixou voto acompanhando o relator; não foi possível identificar quem.",
+  "Item 1: proclamação não diz «unanimidade», mas todos os presentes declararam acompanhar.",
+  "A legenda grafa Hélvio como «Élvio» e Tili como «Chile»."
+ ]
+}

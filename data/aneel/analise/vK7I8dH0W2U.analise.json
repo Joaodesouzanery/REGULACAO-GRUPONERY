@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "vK7I8dH0W2U", "fonte": "legenda automática do YouTube; falantes não identificados; trecho curto (abertura e bloco)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27", "data": "2018-07-31", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado (quatro diretores, segundo a abertura)"],
+    "ausentes": [],
+    "observacoes": ["Vídeo curto: abertura, aprovação da ata da 26ª reunião e votação em bloco dos itens 12 a 16.", "Itens 1, 8, 9 e 10 retirados de pauta; item 11 destacado do bloco (sua deliberação não consta neste trecho)."]
+  },
+  "itens": [
+    {
+      "id": "12-16 (bloco)", "ts": "0:00:02",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 12 a 16 da pauta (conteúdo dos itens não descrito na transcrição)",
+      "tema": ["votação em bloco"],
+      "relator": "não identificado",
+      "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Quatro falas de voto pela aprovação integral dos itens do bloco; falantes não identificados.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:02", "justificativa": "voto pela aprovação integral dos itens do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:02", "justificativa": "voto pela aprovação dos itens remanescentes do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:02", "justificativa": "voto pela aprovação dos itens do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:02", "justificativa": "também vota pela aprovação dos itens do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["1", "8", "9", "10"],
+  "limites_da_analise": ["Transcrição de um único parágrafo sem marcadores de tempo internos; ts aproximado.", "Nenhum diretor é nomeado; composição de 2018 não confirmada no trecho, por isso votos como «não identificado».", "Item 11 (destacado) não aparece deliberado neste vídeo."]
+}

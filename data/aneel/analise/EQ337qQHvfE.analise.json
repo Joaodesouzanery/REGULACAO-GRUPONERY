@@ -1,0 +1,49 @@
+{
+ "meta": {"video_id": "EQ337qQHvfE", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "38ª Reunião Pública Ordinária", "data": "2018-10-16", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (presidindo em substituição ao Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Rodrigo Limp", "Efrain Cruz"],
+  "ausentes": ["André Pepitone (Diretor-Geral, em missão oficial a Portugal com o ministro Moreira Franco)"],
+  "observacoes": ["Quórum de três diretores.", "Informe: indicação de Elisa Bastos lida no plenário do Senado em 10/10/2018.", "Bloco itens 8 a 22 aprovado; item 6 retirado de pauta; ordem de deliberação 2, 4, 1, 3, 5 (com inversão), 7.", "Todos os itens unânimes."]
+ },
+ "itens": [
+  {"id": "bloco 8-22", "ts": "0:05:15", "processo": "", "interessado": "", "assunto": "Itens 8 a 22 em bloco (votos disponibilizados desde a quinta-feira anterior)", "tema": ["institucional"], "relator": "não identificado", "resultado": "aprovado por unanimidade", "resumo_voto": "Bloco aprovado.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:05:19", "justificativa": "voto pela aprovação do bloco", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "aprova o bloco", "ts": "0:05:19", "justificativa": "também vota pela aprovação do bloco", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:05:21", "justificativa": "também voto pela aprovação do bloco", "confianca": "media"}]},
+  {"id": "2", "ts": "0:05:40", "processo": "48500.004723/2018-19", "interessado": "EDP São Paulo (distribuidora)", "assunto": "Reajuste tarifário anual 2018 da EDP São Paulo, a partir de 23/10/2018 (efeito médio 16,12%)", "tema": ["tarifas e revisão tarifária"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa reajuste; destaque para CVA energia e risco hidrológico, Itaipu (dólar) e cotas; tarifa acima da inflação em 10 anos.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:12:30", "justificativa": "voto pela emissão de resolução homologatória conforme minuta anexa", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:13:03", "justificativa": "acompanha o relator", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:13:05", "justificativa": "considero aprovado", "confianca": "media"}]},
+  {"id": "4", "ts": "0:13:15", "processo": "48500.002267/2018 e 48500.002892/2018", "interessado": "Enel Distribuição Goiás (ex-Celg); Conselho de Consumidores de Goiás", "assunto": "4ª revisão tarifária periódica da Enel Goiás a partir de 22/10/2018 (efeito médio 18,54%), limites DEC/FEC 2019-2023, após AP 35/2018", "tema": ["tarifas e revisão tarifária", "qualidade do serviço"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa revisão; nega pleitos da distribuidora (CVA CDE de outubro, antecipação de financeiro); registra necessidade de aprimorar previsão de risco hidrológico. Sustentações orais: Wilson de Oliveira (Conselho de Consumidores) e Renato Sampaio Holanda (Enel).",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:50:00", "justificativa": "voto pela emissão de resolução homologatória; louva participação do conselho de consumidores", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:02:15", "justificativa": "louva primeira sustentação de conselho de consumidores; tarifas dentro dos patamares inflacionários; encargos e tributos pesam ~50% na Celg; regulador efetivo na parcela B (8% em 10 anos)", "tom": "propositivo", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:02:21", "justificativa": "Celg é a última no ranking de continuidade; integra plano de resultados; lembra AP 46 sobre indicadores de continuidade e compensações", "confianca": "alta"}]},
+  {"id": "1", "ts": "1:02:40", "processo": "48500.004722/2018", "interessado": "CEB Distribuição", "assunto": "Reajuste tarifário anual 2018 da CEB-D a partir de 22/10/2018 (efeito médio 6,50%), condicionado à adimplência setorial", "tema": ["tarifas e revisão tarifária"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa reajuste, tarifas só aplicadas após comprovar adimplemento intrassetorial (inadimplência > R$ 150 mi); nega antecipação de liquidação CCEE; não inclui passivo baixa renda por decisão judicial.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "1:17:30", "justificativa": "aprovar e condicionar a aplicação das tarifas à comprovação de adimplência", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:21:55", "justificativa": "não vê melhor sinal do que aprovar e condicionar à adimplência; aponta disparidade de ICMS entre estados", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:21:58", "justificativa": "encaminhamento discutido previamente, preza a boa-fé; ICMS é autonomia dos estados", "confianca": "alta"}]},
+  {"id": "5", "ts": "1:22:18", "processo": "48500.003288/2010 e outros", "interessado": "Energimp (eólicas Buriti, Caju, Coqueiros); Chesf", "assunto": "Recurso administrativo contra Despacho SFG 1.442/2018 que suspendeu operação comercial de eólicas por falta de conexão definitiva na SE Acaraú II", "tema": ["recursos administrativos", "fiscalização e sanções", "outorgas de geração (eólica)"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade (não conhecido por perda de objeto)", "resumo_voto": "Não conhece por perda de objeto; SCT deve calcular remuneração e encargos pelo uso do transformador da Chesf desde 03/02/2016; SFG pode suspender operação em teste se cronograma não for cumprido.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, não conhece (perda de objeto)", "ts": "1:41:00", "justificativa": "empresa manteve-se inerte após fim do acesso provisório; uso do equipamento da Chesf sem remuneração não é devido", "confianca": "alta"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "1:43:00", "justificativa": "acompanha (pela proclamação)", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:43:02", "justificativa": "acompanha (pela proclamação)", "confianca": "baixa"}]},
+  {"id": "3", "ts": "1:45:00", "processo": "48500.004724/2018", "interessado": "CPFL Piratininga (distribuidora)", "assunto": "Reajuste tarifário anual 2018 da CPFL Piratininga a partir de 23/10/2018 (efeito médio 19,25%)", "tema": ["tarifas e revisão tarifária"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa reajuste; nega maior repasse de risco hidrológico e antecipação de liquidações da CCEE.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "1:53:00", "justificativa": "cálculo da SGT amparado na metodologia vigente", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:55:12", "justificativa": "acompanha o relator", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:55:15", "justificativa": "encargos e tributos quase igualam a remuneração do serviço; custo da energia tira competitividade", "confianca": "alta"}]},
+  {"id": "7", "ts": "1:56:00", "processo": "48500.005521/2018", "interessado": "Celesc Distribuição; CCEE", "assunto": "Requerimento com medida cautelar da Celesc para postergar liquidações do MCP ou suspender arts. 5º e 6º da REN 545/2013", "tema": ["comercialização (CCEE, MCP)", "recursos administrativos"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade (provimento parcial)", "resumo_voto": "Não considera a Celesc inadimplente para arts. 5º e 6º da REN 545 só quanto à liquidação de agosto/2018; reconhece que o conselho da CCEE pode autorizar parcelamentos. Sustentação oral: Antônio (Celesc). Procuradoria opinou pelo indeferimento.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, dá parcial provimento", "ts": "2:24:53", "justificativa": "perigo da demora: inadimplência impediria MCSD e leilão A-6; CCEE tem competência para parcelar", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "2:29:46", "justificativa": "descasamento de 828 mi é expressivo mesmo abaixo do gatilho; questionou se a competência da CCEE valeria para todos os casos", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "2:29:50", "justificativa": "acompanha (pela proclamação)", "confianca": "baixa"}]}
+ ],
+ "retirados": ["item 6 (retirado de pauta, assunto não dito)"],
+ "limites_da_analise": ["Legenda automática; só um marcador de tempo no .md; ts obtidos por busca na transcrição e aproximados.", "Nos itens 5 e 7 a ordem das falas de 'acompanho' não é nominal; atribuição pela proclamação unânime.", "Diretor citado como 'Franklin' nas falas (provável erro de legenda, talvez Efrain); falante das intervenções atribuído a Efrain Cruz por inferência.", "Números de processo podem estar errados (legenda)."]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "4ozODOajzDU", "fonte": "legenda automática do YouTube; falantes inferidos; vídeo curto (bloco de itens 2 a 30)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "33ª Reunião Pública Ordinária de 2018", "data": "2018-09-11", "formato": "presencial",
+    "presidente_da_sessao": "não identificado (Diretor-Geral não nomeado na legenda)",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo traz só a votação em bloco dos itens 2 a 30, sem sustentação oral; votos e atos disponibilizados desde a quinta-feira anterior.", "Um diretor registrou que nos itens 4 a 7 (multas/autos da fiscalização aplicados a empresas do grupo Energisa) havia votado pela reforma da decisão da superintendência de fiscalização, foi vencido em processo anterior e readequou sua posição para acompanhar a maioria.", "Bloco aprovado por todos os diretores que falaram; resultado proclamado pelo presidente da sessão."]
+  },
+  "itens": [
+    {
+      "id": "2-30", "ts": "0:00:00",
+      "processo": "", "interessado": "diversos (itens 4 a 7: empresas do grupo Energisa)",
+      "assunto": "Votação em bloco dos itens 2 a 30 da pauta (inclui itens 4 a 7: penalidades aplicadas pela fiscalização a empresas do grupo Energisa)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos"],
+      "relator": "não identificado (vários relatores)",
+      "resultado": "aprovado em bloco (unanimidade)",
+      "resumo_voto": "Itens 2 a 30 aprovados em bloco conforme votos dos relatores; nos itens 4 a 7 um diretor ressalvou que fora vencido antes e acompanhou a posição majoritária.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "acompanha o relator (com ressalva)", "ts": "0:00:30", "justificativa": "Nos itens 4 a 7 votara pela reforma da decisão da fiscalização, foi vencido pelo colegiado e, como órgão colegiado, readequa a posição e acompanha a majoritária.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:01:00", "justificativa": "Analisou os itens, conversou com a procuradoria e a superintendência, mantém o mesmo entendimento do relator em todo o bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:01:10", "justificativa": "Aprova todo o bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:01:15", "justificativa": "Vota pela aprovação de todos os itens do bloco; proclama o resultado (presidente da sessão).", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Nenhum diretor é nomeado na legenda: votos atribuídos como não identificados; provável composição de set/2018 (André Pepitone DG, Tiago Correia, Efrain Cruz, Rodrigo Limp, Sandoval Feitosa) não confirmada.", "Só 4 falas de voto audíveis; não fecha com 5 diretores prováveis.", "Números de processo e relatores dos itens 2 a 30 não citados; ts aproximados (transcrição em um único bloco)."]
+}

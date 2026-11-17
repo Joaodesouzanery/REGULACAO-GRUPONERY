@@ -1,0 +1,22 @@
+{
+ "meta": {"video_id": "saBiuXIHtBA", "fonte": "legenda automática do YouTube; trecho curto (bloco de itens 10 a 26); falantes não identificados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "31", "data": "2018-08-28", "formato": "presencial",
+  "presidente_da_sessao": "não identificado",
+  "diretores_presentes": [],
+  "ausentes": [],
+  "observacoes": ["Vídeo cobre só a votação em bloco dos itens 10 a 26 (exceto o 12, retirado de pauta) e a aprovação da ata da 30ª reunião.", "Fala inicial de agradecimento 'aos diretores pela acolhida' sugere posse recente de quem preside ou de um diretor; nome não dito."]
+ },
+ "itens": [
+  {"id": "10-26 (bloco)", "ts": "0:00:00", "processo": "", "interessado": "",
+   "assunto": "Votação simples do bloco: itens 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 e 26 (conteúdo dos processos não lido em sessão)",
+   "tema": ["institucional"], "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (proclamação: 'a diretoria da ANEEL por unanimidade aprovou o bloco')",
+   "resumo_voto": "Votos e atos disponibilizados desde a quinta-feira anterior; diretores votaram pela aprovação dos itens do bloco.",
+   "votos": [
+    {"diretor": "não identificado", "voto": "acompanha (aprovação do bloco, pela proclamação)", "ts": "0:00:00", "justificativa": "voto pela aprovação dos itens do bloco", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": [{"id": "12", "motivo": "retirado de pauta (motivo não claro na legenda)"}],
+ "limites_da_analise": ["Transcrição de ~1.500 caracteres; nenhum nome de diretor é dito, por isso presentes e votos individuais não identificados.", "Pedidos de sustentação oral e preferência citados com números truncados pela legenda ('itens 129', 'itens 19'); demais itens (1 a 9) não estão neste vídeo."]
+}

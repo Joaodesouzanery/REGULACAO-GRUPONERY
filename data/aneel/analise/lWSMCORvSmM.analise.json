@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "lWSMCORvSmM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "7ª Extraordinária", "data": "2018-12-11", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz", "não identificado", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Quórum de quatro diretores declarado na abertura.", "Item único: pedido de medida cautelar da Cepisa (Eletrobras Distribuição Piauí), recebido como requerimento administrativo; aprovado por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:30",
+      "processo": "48500.005769/2018-47", "interessado": "Companhia Energética do Piauí - Cepisa (Eletrobras Distribuição Piauí), distribuidora designada",
+      "assunto": "Pedido de medida cautelar para suspender penalidades regulatórias decorrentes de inadimplência na CCEE (julho-agosto de 2018) e permitir participação no MCSD de energia nova",
+      "tema": ["comercialização (CCEE, MCSD)", "recursos administrativos", "distribuidoras designadas"],
+      "relator": "Efrain Cruz",
+      "resultado": "Aprovado por unanimidade: conhecido o requerimento administrativo e, no mérito, dado provimento para autorizar a Cepisa a participar dos mecanismos de contratação de energia, inclusive o MCSD de energia nova A-1 (prazo de declaração 11/12/2018), desde que quitados ou renegociados os débitos do período como designada.",
+      "resumo_voto": "Relator recebe a cautelar como requerimento definitivo (procuradoria: privilegiar fatos sobre formas); débito já quitado; abranda o impedimento do art. 4º, §5º da REN 693/2015 nas mesmas condições dadas a Ceron e Eletroacre; ressalta que não é precedente geral, por se tratar de distribuidoras designadas (Portaria 388).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:00:30", "justificativa": "Débito na CCEE já quitado; tratamento igual ao de Ceron e Eletroacre; caso específico de distribuidora designada, não precedente geral.", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:08:00", "justificativa": "Acompanhou o relator.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:08:00", "justificativa": "Acompanhou o relator.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:08:00", "justificativa": "Proclamou resultado unânime.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição curta (~9 mil caracteres) sem marcadores de tempo além de 0:00:00; ts aproximados.", "Falante da abertura inferido como Ricardo Tili na legenda, mas o relator se dirige ao «doutor André» e em 2018 o Diretor-Geral era André Pepitone; presidência atribuída a Pepitone com confiança media.", "Os outros dois diretores do quórum de quatro não são nomeados (o relator cita o «doutor Rodrigo», relator da sessão anterior, provavelmente Rodrigo Limp, mas sem confirmação de presença); votos registrados como não identificado.", "Números de processo e datas da legenda podem estar errados (legenda diz 2008 onde o contexto indica 2018)."]
+}

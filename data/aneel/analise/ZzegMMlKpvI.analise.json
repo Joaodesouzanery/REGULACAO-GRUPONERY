@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "ZzegMMlKpvI", "fonte": "legenda automática do YouTube; falantes inferidos; vídeo curto só com o bloco (itens 7 a 34)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "34", "data": "2018-09-18", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["Sandoval Feitosa", "não identificado"],
+    "ausentes": [],
+    "observacoes": ["Vídeo recorta só a deliberação em bloco (itens 7 a 34) da 34ª Reunião Pública Ordinária de 2018.", "Retirados de pauta: itens 5, 8, 11 e 12. Retificação no item 7 (inclusão da tarifa da modalidade convencional no subgrupo A4 na tabela 1 da minuta de resolução homologatória).", "Sustentação oral pedida para o item 4 (fora deste vídeo).", "Sandoval Feitosa declarou-se impedido no item 10 por ter atuado como superintendente (SFR?) no processo; item 10 aprovado por unanimidade de três diretores."]
+  },
+  "itens": [
+    {
+      "id": "bloco 7-34", "ts": "0:00:00",
+      "processo": "", "interessado": "",
+      "assunto": "Deliberação em bloco dos itens 7 a 34 (exceto retirados 8, 11 e 12); item 7 com retificação tarifária (subgrupo A4)",
+      "tema": ["tarifas e revisão tarifária"],
+      "relator": "vários",
+      "resultado": "aprovado por unanimidade; item 10 aprovado por unanimidade dos três diretores não impedidos",
+      "resumo_voto": "Bloco aprovado como está; Sandoval Feitosa impedido no item 10.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha (aprova o bloco); suspeito/impedido no item 10", "ts": "0:00:00", "justificativa": "Atuou como superintendente no processo do item 10, razão pela qual está impedido; quanto aos demais, voto pela aprovação integral.", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha (aprova o bloco)", "ts": "0:00:00", "justificativa": "Voto pela aprovação dos itens do bloco.", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha (aprova o bloco) e proclama", "ts": "0:00:00", "justificativa": "Também vota pela aprovação e proclama o bloco aprovado por unanimidade.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["item 5", "item 8", "item 11", "item 12"],
+  "limites_da_analise": ["Transcrição de ~2 mil caracteres, sem marcadores de tempo internos: ts aproximados.", "Só Sandoval Feitosa é nomeado; demais diretores (provavelmente 4 presentes, pela menção a 'três diretores' no item 10) não identificados.", "Números de processo, relatores e interessados dos itens do bloco não são ditos."]
+}

@@ -1,0 +1,39 @@
+{
+ "meta": {"video_id": "wU2Bk_BAFE8", "fonte": "legenda automática YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "3ª Reunião Pública Extraordinária de 2021",
+  "data": "2021-03-26",
+  "formato": "virtual/transmitida",
+  "presidente_da_sessao": "André Pepitone",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz"],
+  "ausentes": ["Elisa Bastos"],
+  "observacoes": "Quórum de quatro diretores; a diretora Elisa Bastos não participou. Pauta com processo único (medidas da pandemia de covid-19 na distribuição). Houve sustentação oral do presidente do Sinergia CUT."
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:55",
+   "processo": "48500.001841/2020-81 (número pela legenda, incerto)",
+   "interessado": "Distribuidoras de energia elétrica; consumidores residenciais baixa renda; unidades de saúde; manifestações do Fórum Nacional de Secretários de Estado de Minas e Energia, Idec, Abradee e Sinergia CUT",
+   "assunto": "Medidas para preservação da prestação do serviço público de distribuição de energia elétrica em decorrência da pandemia de covid-19: nova resolução normativa com vedação de suspensão de fornecimento por inadimplência à subclasse residencial baixa renda (tarifa social) e a unidades de saúde até 30/06/2021, entre outras medidas excepcionais e temporárias",
+   "tema": ["regulação normativa (resolução)", "distribuição", "consumidores baixa renda / tarifa social", "pandemia covid-19"],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade dos votantes: emissão de resolução normativa com medidas excepcionais e temporárias de enfrentamento da pandemia, com ajuste em sessão (retirada da definição do índice de correção do ressarcimento ao consumidor, IGPM, remetida ao processo de consolidação das normas de atendimento ao consumidor)",
+   "resumo_voto": "Relator propõe nova REN vedando o corte por inadimplência para cerca de 12 milhões de famílias da tarifa social e para unidades de saúde (mais de 7 mil) até 30 de junho, mantendo cobrança e parcelamento; destacou reciprocidade na correção pelo IGPM. Sustentação oral de Carlos Alberto Alves (Sinergia CUT) pediu a vedação ampliada. Pepitone sugeriu não deliberar o índice de correção agora; relator acolheu.",
+   "sustentacao_oral": "Carlos Alberto Alves, presidente do Sinergia CUT (nome incerto na legenda)",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:01:05", "justificativa": "Medida urgente para mitigar efeitos da pandemia sobre os mais vulneráveis; vedação de corte à baixa renda e a unidades de saúde até 30/06, com atenção à sustentabilidade financeira das distribuidoras; acolheu retirar o índice de correção (IGPM) para tratá-lo na consolidação das normas.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:39:04", "justificativa": "Elogiou a sensibilidade do relator e a tempestividade da ANEEL desde a REN 878; antecipou voto favorável.", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:39:11", "justificativa": "Antecipou voto em concordância; destacou IGPM como equilíbrio, inclusão de serviços prioritários como hospitais e escolas; mencionou ter sugerido constituição de ativo regulatório; concordou em retirar o índice da deliberação.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:39:15", "justificativa": "Diretor-Geral; destacou a extensão às unidades de saúde e o equilíbrio (suspensão do pagamento de compensações no mesmo período); sugeriu que os estados avaliem isenção ou diferimento do ICMS para baixa renda; propôs não deliberar o índice de correção agora.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática; número do processo e nomes (ex.: Carlos Alberto Alves/Lopes, Sinergia CUT) podem estar errados.",
+  "Os falantes inferidos no cabeçalho do .md (Gentil Nogueira, Ricardo Tili) não correspondem à composição de 2021; a presidência é de André Pepitone e os diretores que se manifestam são Hélvio Guerra e Efrain Cruz (citados nominalmente).",
+  "Na votação só Hélvio é chamado pelo nome; os dois 'também acompanho' seguintes foram atribuídos a Efrain Cruz e a André Pepitone (DG vota por último e proclama) pela ordem usual.",
+  "Votos: 4 = presentes (Elisa Bastos ausente)."
+ ]
+}

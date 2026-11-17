@@ -1,0 +1,78 @@
+{
+ "meta": {"video_id": "w0VYdizbOs0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "5ª Reunião Pública Extraordinária de 2020 (vídeo inclui também a retomada da 22ª Reunião Pública Ordinária de 2020)",
+  "data": "2020-06-25",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Elisa Bastos", "Júlio César Rezende Ferraz", "Sandoval Feitosa"],
+  "ausentes": [],
+  "observacoes": [
+   "O vídeo começa com a retomada (≈0:49) da 22ª Reunião Pública Ordinária, itens 4.1 (RTA Copel) e 4.2 (RTA Cocel), ambos relatados por Efrain Cruz e aprovados por unanimidade; encerrada a 22ª RPO, abre-se às ≈15h30 a 5ª RPE (quórum de cinco diretores) com item único: RTA 2020 da Cemig D.",
+   "Cemig: o relator Efrain Cruz propôs incluir componente financeiro negativo de ≈R$ 800 milhões (depósitos judiciais de PIS/Cofins levantados pela Cemig em 13/02/2020), efeito médio -0,51%. Júlio Ferraz divergiu (votou pela Nota Técnica 70/SGT, sem o componente, tema a ser tratado na Tomada de Subsídios 5/2020); Elisa Bastos, o Diretor-Geral e Sandoval Feitosa acompanharam a divergência. Resultado por maioria: efeito médio de 4,27%, vencido o relator.",
+   "Sandoval Feitosa caiu da sala durante a votação da Cemig (problema no roteador) e votou após a proclamação, com a sessão ainda aberta.",
+   "Sustentações orais: Ricardo Vidinich (Conselho de Consumidores da Copel) no item Copel; Senador Rodrigo Pacheco (MG) e Alexandre Ramos Peixoto (Cemig) no item Cemig."
+  ]
+ },
+ "itens": [
+  {
+   "id": "22RPO-4.1", "ts": "0:49:13",
+   "processo": "48500.007042/2019 (número incerto pela legenda)",
+   "interessado": "Copel Distribuição S.A. (distribuidora, Paraná); sustentação oral de Ricardo Vidinich, presidente do Conselho de Consumidores da Copel",
+   "assunto": "Reajuste tarifário anual 2020 da Copel Distribuição, vigência a partir de 24/06/2020, com reversão antecipada de valores da Conta-covid (REN 885/2020) como componente financeiro negativo",
+   "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "Conta-covid"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: efeito médio de 0,41% (1,13% alta tensão; 0,05% baixa tensão)",
+   "resumo_voto": "Relator homologa o RTA; primeira distribuidora a aderir à reversão antecipada da Conta-covid. Conselho de consumidores criticou custo de Itaipu, térmicas caras, GAG melhorias, risco hidrológico e Fator X. Procuradoria sem manifestação (fórmula contratual). DG destacou o efeito da Conta-covid de amortecer a tarifa.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:58:09", "justificativa": "Homologar o índice de RTA da Copel com efeito médio de 0,41%; louva a adesão da Copel ao espírito da Conta-covid.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:01:57", "justificativa": "Falas «eu acompanho o voto do diretor Efraim» / «voto com o relator» sem nome identificado.", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:02:02", "justificativa": "Fala de acompanhamento sem nome identificado.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:02:05", "justificativa": "Fala de acompanhamento sem nome identificado.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "2:02:08", "justificativa": "«Eu também voto com o relator e proclamo que a diretoria [...] por unanimidade decidiu homologar»; destacou que a Conta-covid amortece a tarifa do consumidor.", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "22RPO-4.2", "ts": "2:02:43",
+   "processo": "48500.007037/2019-72 (número incerto pela legenda)",
+   "interessado": "Companhia Campolarguense de Energia - Cocel (distribuidora, Campo Largo/PR)",
+   "assunto": "Reajuste tarifário anual 2020 da Cocel, vigência a partir de 29/06/2020, com diferimento da neutralidade das perdas da rede básica (ativo regulatório corrigido pela Selic) e reversão antecipada da Conta-covid",
+   "tema": ["tarifas e revisão tarifária", "Conta-covid"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: efeito médio de 0,58% (-0,50% alta tensão; 1,16% baixa tensão)",
+   "resumo_voto": "Relator homologa o RTA e determina reconhecer no próximo processo, como ativo regulatório corrigido pela Selic, o valor diferido. Procuradoria sem manifestação. DG: sem a Conta-covid o reajuste seria de 4,11%.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "2:16:30", "justificativa": "Homologar RTA da Cocel com efeito médio de 0,58% e reconhecer o valor diferido como ativo regulatório no próximo processo.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:19:30", "justificativa": "Fala «eu acompanho o voto do diretor Efraim» / «também voto com relator» sem nome claro.", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "2:19:37", "justificativa": "Fala de acompanhamento sem nome claro.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:19:53", "justificativa": "Chamado pela mesa («diretor Sandoval»): «meu sistema tá dando um probleminha mas consegui acompanhar o voto do diretor Efraim e também concordo com a proposta de voto».", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "2:20:01", "justificativa": "«também acompanho o Dr. Efraim e proclamo [...] por unanimidade».", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "5RPE-1", "ts": "2:21:46",
+   "processo": "48500.007033/2019-94 (número incerto pela legenda)",
+   "interessado": "Cemig Distribuição S.A. (distribuidora, Minas Gerais); sustentações orais do Senador Rodrigo Pacheco (MG) e de Alexandre Ramos Peixoto (Cemig)",
+   "assunto": "Reajuste tarifário anual 2020 da Cemig D (vigência retroativa a 28/05/2020, tarifas prorrogadas até 30/06 na 18ª RPO); proposta do relator de incluir componente financeiro negativo de ≈R$ 800 milhões dos depósitos judiciais de PIS/Cofins (exclusão do ICMS da base) levantados pela Cemig",
+   "tema": ["tarifas e revisão tarifária", "créditos tributários PIS/Cofins", "regulação normativa (Tomada de Subsídios 5/2020)"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por maioria nos termos da Nota Técnica 70/SGT (divergência de Júlio Ferraz): efeito médio de 4,27% (6,19% alta tensão; 3,43% baixa tensão), retroativo ao aniversário; vencido o relator Efrain Cruz, que propunha -0,51%",
+   "resumo_voto": "Relator: depósito judicial levantado não é crédito tributário, é numerário/custo evitado já no caixa; parecer 188/2020 da Procuradoria sem óbice; reajuste é momento de reequilíbrio (via de mão dupla); 800 mi preservam capacidade da empresa e evitam efeito rebote. Senador pediu reverter os créditos aos consumidores e zerar o reajuste; Cemig defendeu segurança jurídica e tratar o tema na TS 5/2020. Júlio Ferraz divergiu por coerência/isonomia entre distribuidoras, tema a ser tratado na TS 5. Elisa questionou risco de reversão, estudo de saúde financeira e por que não usar a CVA da Conta-covid. Maioria seguiu a NT 70.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova com componente financeiro de R$ 800 mi (vencido)", "ts": "3:57:27", "justificativa": "Depósito judicial tem natureza distinta de crédito tributário e já está no caixa da Cemig; equilíbrio econômico-financeiro é via de mão dupla; modicidade tarifária em meio à pandemia; efeito médio -0,51% (1,37% AT; -1,33% BT); saldo de ≈400 mi para o processo seguinte, evitando rebote.", "tom": "enfático, defende a justiça para o consumidor mineiro", "confianca": "alta"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "diverge: vota pelo reajuste conforme a Nota Técnica 70/SGT (voto vencedor)", "ts": "4:34:20", "justificativa": "Não é questão de legalidade, mas de conveniência e coerência: outras distribuidoras podem ter situação semelhante e não há informação completa; o tratamento deve ser uniforme na Tomada de Subsídios 5/2020, sob relatoria de Efrain, sem pôr em risco o montante maior em discussão.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha a divergência (Júlio Ferraz)", "ts": "4:35:37", "justificativa": "«Eu acompanho o voto do diretor Júlio»; antes questionou risco de o consumidor ter de devolver valores após a TS, se houve estudo da saúde financeira da empresa e por que não usar a CVA da Conta-covid (≈860 mi).", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha a divergência (Nota Técnica 70) e proclama", "ts": "4:40:09", "justificativa": "Reconhece o empenho do relator pela modicidade, mas seria desejável tratamento isonômico para todas as empresas no processo da TS 5; proclama por maioria efeito médio de 4,27%.", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência (voto após a proclamação, sessão aberta)", "ts": "4:42:55", "justificativa": "Caiu da sala; ao voltar disse ter se surpreendido com a empresa não se dispor a usar o recurso, mas, em nome do rito do processo tarifário, acompanha Júlio e os demais, deixando o tema para o processo sorteado a Efrain.", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Data inferida (2020-06-25): menção a REN 885 aprovada na 'última terça-feira' (23/06/2020), carta da Copel de 25/06 protocolada 'hoje pela manhã' e NT 105 de 25/06; confirmar com a ata.",
+  "Itens 4.1 e 4.2 pertencem à 22ª Reunião Pública Ordinária (retomada no mesmo vídeo), não à 5ª RPE.",
+  "Nos itens Copel e Cocel, as falas de acompanhamento de Elisa Bastos e Júlio Ferraz (e de Sandoval na Copel) não têm nome audível; atribuição pela proclamação de unanimidade, ts aproximados.",
+  "Números de processo, nomes (Ricardo Vidinich, Devet Lima Ferreira, Gustavo Godói) e valores vêm da legenda automática e podem estar errados.",
+  "Sandoval Feitosa ficou fora da sala durante parte da votação da Cemig; seu voto foi registrado após a proclamação."
+ ]
+}

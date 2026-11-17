@@ -1,0 +1,29 @@
+{
+ "meta": {"video_id": "NRg8JAec03Y", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem acompanha aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "42ª Reunião Pública Ordinária (Parte 2)", "data": "2018-11-13", "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Rodrigo Limp"],
+  "ausentes": [],
+  "observacoes": ["Retomada da 42ª RPO na parte da tarde; informe sobre visita do embaixador do Chile (Fernando Schmidt) e termo de cooperação na CIER em Buenos Aires.", "Aprovada a ata da 6ª Reunião Pública Extraordinária (7/11/2018).", "Um único item deliberado (último da pauta): abertura de audiência pública do orçamento da CDE 2019, unânime."]
+ },
+ "itens": [
+  {
+   "id": "1", "ts": "0:03:13",
+   "processo": "48500.004886/2018-93",
+   "interessado": "CCEE; agentes do SIN (distribuidoras, transmissoras, permissionárias)",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 14/11 a 3/12/2018) para colher subsídios sobre o orçamento anual e as cotas anuais da CDE 2019 e alteração da REN 801/2017 (reembolso do carvão mineral: percentual de eficiência energética não aplicado às parcelas de devolução de passivos)",
+   "tema": ["CDE e encargos setoriais", "regulação normativa", "tarifas e revisão tarifária"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: instaurada audiência pública e proposta de alteração da REN 801/2017",
+   "resumo_voto": "Relator propõe audiência pública sobre orçamento da CDE 2019 (cerca de R$ 20,27 bi de gastos, cota com aumento de ~13,6% pelo fim do ressarcimento da CDE Energia) e ajuste da fórmula do reembolso do carvão mineral na REN 801/2017. Apresentação técnica da área tarifária (Camila) e da SRG (Felipe); Procuradoria opina pela abertura. Sem sustentação oral.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:03:13", "justificativa": "Abertura da audiência pública para o orçamento e cotas da CDE 2019 e correção da fórmula do carvão mineral na REN 801/2017; destaca que eventuais mudanças (importação da Venezuela, RGR, privatizações) serão capturadas no período de contribuições.", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:34:20", "justificativa": "Diretor-Geral; comentou que a política pública da CDE fica no mesmo patamar de 2018 (~R$ 20 bi), destacou o peso do desconto no fio (fontes incentivadas, rural, tarifa social) e que o aumento da cota reflete o fim da amortização da CDE Energia; pediu esclarecimento do slide de impacto tarifário; proclamou o resultado.", "tom": "explicativo", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:34:25", "justificativa": "Acompanhou sem manifestação registrada além de menção na discussão do slide de impacto.", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática: nomes e números podem estar errados (ex.: 'efraim pereira da cruz' = Efrain Cruz; número do processo inferido de '48.500 4886 2018 393').", "Composição presente não declarada na Parte 2: só se ouvem duas falas 'também acompanha o relator' antes da proclamação; atribuídas a Rodrigo Limp (citado na sessão) e ao Diretor-Geral. Sandoval Feitosa e Tiago Correia (diretores em 2018) não são mencionados; podem ter estado presentes ou ausentes.", "Rodrigo Limp aparece apenas em 'diretor rodrigo também' durante a discussão; atribuição de voto com confiança baixa."]
+}

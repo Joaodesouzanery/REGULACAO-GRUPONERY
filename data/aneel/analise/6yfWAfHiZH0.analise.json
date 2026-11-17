@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "6yfWAfHiZH0", "fonte": "legenda automática do YouTube; trecho curto (bloco de itens 27 a 50); falantes não identificados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "29", "data": "2018-08-13", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": [],
+    "ausentes": [],
+    "observacoes": ["Vídeo curto apenas com a votação em bloco dos itens 27 a 50 da 29ª Reunião Pública Ordinária de 2018.", "Retirados de pauta citados na abertura (números confusos na legenda: 'síntese número 69 10 17 e 19').", "Um diretor declarou impedimento nos itens 28 e 33 (lavrou o auto de infração como superintendente e manifestou-se em nota técnica 110/2017), com base no art. 11 da norma de organização aprovada pela REN 273."]
+  },
+  "itens": [
+    {
+      "id": "27-50 (bloco)", "ts": "0:00:06",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 27 a 50 da pauta (sem destaque)",
+      "tema": ["bloco de itens"],
+      "relator": "não identificado",
+      "resultado": "aprovado o bloco (itens 27 a 50); um diretor impedido nos itens 28 e 33",
+      "resumo_voto": "Sem pedido de destaque, o bloco foi submetido à votação e aprovado. Um diretor votou pela aprovação com exceção dos itens 28 e 33, por impedimento.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco, exceto itens 28 e 33 (suspeito/impedido nesses itens)", "ts": "0:00:06", "justificativa": "No item 28 lavrou o auto de infração quando superintendente; no item 33 manifestou-se pela nota técnica 110/2017; impedimento com fulcro no art. 11 da norma de organização aprovada pela REN 273.", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha (aprova o bloco)", "ts": "0:00:06", "justificativa": "Voto pela aprovação do bloco.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição de ~2 mil caracteres, sem nomes de diretores; não é possível atribuir votos nominalmente nem listar presentes.", "O diretor impedido nos itens 28 e 33 (ex-superintendente de fiscalização) não foi identificado com segurança.", "Processos e assuntos dos itens 27 a 50 não são lidos no vídeo."]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {"video_id": "TsF6XQT7Yl8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Reunião Pública Ordinária de 2022 (Parte 1, manhã)", "data": "2022-03-15", "formato": "presencial (plenário)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Quórum de três diretores declarado na abertura; composição incompleta.", "Informes: fim da CP 83 (serviços ancilares, relator Efrain Cruz), novo portal da ANEEL, 65 anos de Furnas e 74 anos da Chesf. Ata da 7ª RPO aprovada.", "Pauta de 44 itens; bloco itens 11 a 44 (destaque do 26); retirados 3, 4, 5, 7, 8, 9 e 10.", "Itens 1 e 2 adiados para a sessão da tarde (14h30) a pedido do relator para ajustes.", "Item 6 (Santa Branca): itens 2 e 3 do dispositivo aprovados por unanimidade; item 1 (suspensão das obrigações) teve 2 votos favoráveis (Hélvio, Efrain) e divergência de Sandoval, devendo voltar quando o colegiado estiver completo."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:05:31", "processo": "", "interessado": "diversos",
+      "assunto": "Bloco de itens 11 a 44 (exceto o 26, destacado para sustentação oral)",
+      "tema": ["bloco"], "relator": "diversos",
+      "resultado": "Aprovados por unanimidade, ressalvados os itens com vista: item 40 (Hélvio Guerra) e itens 37 e 38 (Efrain Cruz).",
+      "resumo_voto": "Votação em bloco com pedidos de vista.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "pede vista (item 40); aprova os demais", "ts": "0:05:31", "justificativa": "Pediu vista do item 40 e aprovou os demais itens do bloco.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "pede vista (itens 37 e 38); aprova os demais", "ts": "0:05:45", "justificativa": "Pediu vista dos itens 37 e 38 do bloco.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes", "ts": "0:06:10", "justificativa": "Aprovou os itens remanescentes e proclamou a aprovação do bloco por unanimidade, ressalvadas as vistas.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "0:07:37",
+      "processo": "48500.001516/2013-52 (legenda incerta)", "interessado": "Hidrelétrica Santa Branca S.A. (UHE Santa Branca, 62 MW, rio Tibagi/PR)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar para rescisão amigável do contrato de concessão nº 17/2016 (UHE Santa Branca): suspensão das obrigações e devolução da garantia de fiel cumprimento. Sustentação oral de Bruno Guimarães Bianchi (Santa Branca).",
+      "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos (cautelar)", "licenciamento ambiental"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Por unanimidade dos presentes, devolução da garantia de fiel cumprimento e obrigação de aportar nova garantia em até 30 dias se a rescisão não for recomendada/deferida. Quanto à suspensão das obrigações do contrato (item 1 do dispositivo), 2 votos favoráveis (Hélvio, Efrain) e divergência de Sandoval; sem maioria do colegiado, volta quando houver composição completa.",
+      "resumo_voto": "Relator reconheceu fumaça do bom direito (IAT indeferiu a autorização de supressão vegetal, ACPs do MP-PR, exigência superveniente da Funai, 749 dias de excludente já reconhecidos) e perigo da demora (custo da garantia, início do suprimento em jan/2023). Procurador-geral não viu óbice à cautelar.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (defere a cautelar integralmente)", "ts": "0:35:00", "justificativa": "Indeferimento da supressão vegetal pelo IAT inviabiliza a usina por ato do poder público; carece de razoabilidade manter o ônus da garantia. Lamenta não se construir hidrelétrica após a escassez hídrica de 2021. Manteve o dispositivo após o debate.", "tom": "lamenta a decisão ('não me orgulho nem um pouco')", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator integralmente", "ts": "0:45:00", "justificativa": "Cautelar é precária e não antecipa o mérito; Santa Branca é o elo mais fraco; risco de ter de comprar lastro com PLD alto no segundo semestre configura perigo da demora; órgão ambiental raramente reverte negativa.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "diverge parcialmente: acompanha devolução da garantia, diverge da suspensão das obrigações", "ts": "0:38:00", "justificativa": "Obtenção da licença de instalação é risco do empreendedor; ainda há cerca de 9 meses até jan/2023 para análise de mérito pelas áreas técnicas; não há perigo da demora para suspender o contrato e flexibilizar os critérios da cautelar criaria precedente.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "26", "ts": "1:03:22",
+      "processo": "48500.000362/2022-18 (legenda incerta)", "interessado": "ABEEólica e Absolar (associações de geradores eólicos e solares)",
+      "assunto": "Requerimento administrativo com pedido de cautelar para afastar a exigência de lastro e a penalidade por insuficiência de lastro de energia de reserva das fontes eólica e solar (REN 909/2020). Sustentações orais pela ABEEólica (consultor/advogado) e pela Absolar (advogado André, nome incerto).",
+      "tema": ["comercialização (CCEE, lastro, energia de reserva)", "regulação normativa", "recursos administrativos (cautelar)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "Por unanimidade dos presentes, requerimento não conhecido por intempestivo e por ter sido protocolado contra norma geral e abstrata.",
+      "resumo_voto": "Relator, apoiado no parecer da Procuradoria: houve consulta pública (CP 42/2020) para discutir o tema; não há ilegalidade (Decreto 6.353/2008 c/c Decreto 5.163/2004; perdas da rede básica até o centro de gravidade); penalidade não é cláusula econômica; não há bis in idem com o ressarcimento por geração a menor.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, não conhece", "ts": "1:46:30", "justificativa": "Pedido intempestivo e incabível contra norma geral e abstrata; ausência de ilegalidade na REN 909/2020; extensão às eólicas e solares da regra já aplicada à biomassa desde a REN 452/2011.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:48:00", "justificativa": "Elogiou o voto como 'obra-prima'; discussão é extemporânea, teve seu momento na consulta pública.", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:48:22", "justificativa": "Acompanhou o relator (fala curta).", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Itens 3, 4, 5, 7, 8, 9 e 10 retirados de pauta", "Itens 1 e 2 adiados para a sessão da tarde (Parte 2) a pedido do relator"],
+  "limites_da_analise": ["Legenda automática: números de processo e nomes (advogados das associações) incertos.", "Gentil Nogueira aparece como superintendente da SFG (não diretor) nesta data; não votou.", "Ordem das falas de Sandoval e Efrain no item 6 inferida do conteúdo; ts aproximados.", "No item 26 a sequência 'eu acompanho o relator' / 'eu também acompanho ... e proclamo' foi atribuída a Efrain e Sandoval pela ordem usual (DG vota por último)."]
+}

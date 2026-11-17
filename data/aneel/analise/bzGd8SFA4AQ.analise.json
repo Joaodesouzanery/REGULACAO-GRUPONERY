@@ -1,0 +1,54 @@
+{
+  "meta": {"video_id": "bzGd8SFA4AQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2, tarde); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10ª Reunião Pública Ordinária de 2019 (Parte 2)", "data": "2019-04-02", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Rodrigo Limp", "Elisa Bastos"],
+    "ausentes": ["Sandoval Feitosa (presença incerta: seu voto no item da Energisa MT foi lido por Rodrigo Limp)"],
+    "observacoes": ["Parte 2 (tarde) da 10ª RPO de 2019; 3 itens: 2 reajustes tarifários aprovados por unanimidade e o caso Renova/Alto Sertão 3 fase B retirado de pauta pelo relator após sustentações orais.", "Encerramento ≈ 1:59:00."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:20", "processo": "48500.006218/2018-09 (aprox.)", "interessado": "CPFL Paulista (distribuidora)",
+      "assunto": "Reajuste tarifário anual de 2019 da Companhia Paulista de Força e Luz (CPFL Paulista), vigência a partir de 8/4/2019",
+      "tema": ["tarifas e revisão tarifária", "bandeiras tarifárias", "CDE e encargos setoriais"],
+      "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: efeito médio de 8,66% (9,30% alta tensão; 8,34% baixa tensão); valor mensal de CDE homologado",
+      "resumo_voto": "Relator, após apresentação da SGT (Otávio), destaca o papel das bandeiras e da previsão de risco hidrológico em reduzir o impacto financeiro (de 822 milhões para cerca de 81 milhões) e vota pela resolução homologatória.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:13:30", "justificativa": "Homologa reajuste com efeito médio de 8,66%; bandeiras e previsão de risco hidrológico evitaram repasse de cerca de 800 milhões à tarifa.", "confianca": "alta"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:57", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:57", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:15:00", "justificativa": "Vota com o relator e proclama unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:15:37", "processo": "48500.006221/2018-14 (aprox.)", "interessado": "Energisa Mato Grosso (distribuidora)",
+      "assunto": "Reajuste tarifário anual de 2019 da Energisa Mato Grosso, vigência a partir de 8/4/2019",
+      "tema": ["tarifas e revisão tarifária", "bandeiras tarifárias"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: efeito médio de 11,29% (11,49% alta tensão; 11,21% baixa tensão); fator X e tarifa de geração distribuída homologados",
+      "resumo_voto": "Voto do relator Sandoval Feitosa lido pelo diretor Rodrigo Limp; destaca a eficácia das bandeiras tarifárias em mitigar componentes financeiros, metodologia em audiência pública.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido por Rodrigo Limp)", "ts": "0:15:45", "justificativa": "Homologa reajuste com efeito médio de 11,29%.", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "0:24:00", "justificativa": "Leu o voto do relator e votou com ele; ressaltou as bandeiras como mecanismo eficaz.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:05", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:05", "justificativa": "Acompanha o relator.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:10", "justificativa": "Proclama unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:24:37", "processo": "48500.004240/2015-63 e outros", "interessado": "Renova Energia (centrais eólicas do Complexo Alto Sertão 3 fase B, BA); Cemig GT, Light, AES Tietê",
+      "assunto": "Termos de intimação 11 a 20/2018 da SFG com proposta de revogação das autorizações das eólicas do Complexo Alto Sertão 3 fase B (Renova Energia), e plano de transferência de controle à AES Tietê",
+      "tema": ["fiscalização e sanções", "outorgas de geração (eólica)", "revogação de autorização", "transferência de controle"],
+      "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator para análise do plano de transferência protocolado na véspera (sem deliberação)",
+      "resumo_voto": "Sustentações orais de Fábio Amorim (Light), Ítalo Freitas (presidente AES Tietê), Cristiano Correia de Barros (Renova) e Franklin Gonçalves (Cemig) pedindo análise do plano de transferência. Relator leu voto pela revogação das autorizações e abertura de processo de suspensão de participar de licitações (quatro anos de atraso, falta de estrutura financeira, reserva da margem de escoamento), mas, após ponderações de Elisa Bastos, Rodrigo Limp (exigir garantia do novo investidor) e do Diretor-Geral (avaliar o documento exigindo aporte de garantias), retirou o processo de pauta.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator: voto pela revogação lido; retirou de pauta", "ts": "1:39:34", "justificativa": "Quatro anos de atraso; sem plano de transferência nos autos; regulador precisa de um prazo final; retira de pauta para analisar o documento protocolado na véspera, considerando exigência de garantia.", "tom": "firme, com críticas à Lei 13.360", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "não votou (retirado de pauta)", "ts": "1:42:58", "justificativa": "Concorda com os argumentos do relator, mas pergunta o prazo do plano de transferência e o tempo de análise da ANEEL.", "confianca": "media"},
+        {"diretor": "Rodrigo Limp", "voto": "não votou (retirado de pauta)", "ts": "1:47:00", "justificativa": "Análise do plano não é obrigatória; fundamental que o novo pretendente aporte garantia para evitar desistências como Shanghai/Eletrosul e Brookfield.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (retirado de pauta)", "ts": "1:52:20", "justificativa": "ANEEL parece em corrida de obstáculos; precisa regulamentar o dispositivo; sugere avaliar o documento exigindo no mínimo aporte de garantias.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["3 - Renova Energia / Alto Sertão 3 fase B (48500.004240/2015-63 e outros), retirado pelo relator Efrain Cruz"],
+  "limites_da_analise": ["Legenda automática: números de processo e nomes de usinas/oradores podem estar errados.", "Presença de Sandoval Feitosa incerta: seu voto foi lido por Rodrigo Limp, mas no item 3 há menção a 'doutor Sandoval'; tratado como ausente.", "No item 3 a fala longa final (sugestão de garantias) foi atribuída ao Diretor-Geral André Pepitone pela condução da mesa; pode ser de Sandoval Feitosa. 'Diretor Franklin' na legenda parece ser erro para Efrain.", "Votos dos seguidores nos itens 1 e 2 sem nome individual audível; atribuídos pela proclamação de unanimidade."]
+}

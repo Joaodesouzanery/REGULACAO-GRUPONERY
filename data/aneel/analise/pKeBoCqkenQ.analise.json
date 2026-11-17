@@ -1,0 +1,388 @@
+{
+ "meta": {
+  "video_id": "pKeBoCqkenQ",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados (janelas de 30 s)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "40ª Reunião Pública Ordinária de 2019",
+  "data": "2019-10-29",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão iniciada com três diretores; Rodrigo Limp e outro diretor chegaram ao longo da reunião.",
+   "Itens 4 e 5 retirados de pauta; item 12 (bloco) com impedimento de Sandoval Feitosa.",
+   "Pauta invertida: 7, 2, 1, 8, 6, 9, 3. Todos unânimes.",
+   "Encerrada após o item 3 (CDE 2020)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 10 a 29)",
+   "ts": "0:05:16",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Deliberação em bloco dos itens 10 a 29 da pauta (votos disponibilizados desde a quinta-feira anterior); item 12 com impedimento do diretor Sandoval",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes (Sandoval impedido no item 12)",
+   "resumo_voto": "Bloco aprovado sem destaques; registrado impedimento regimental de Sandoval Feitosa no item 12.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, exceto item 12 (impedido regimentalmente)",
+     "ts": "0:05:16",
+     "justificativa": "«voto pela aprovação do bloco com exceção do item 12 por encontrar-me impedido regimentalmente»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:05:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:16",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:05:47",
+   "processo": "48500.006142/2017-22",
+   "interessado": "Transmissora Goiás S/A (TGO) - transmissora",
+   "assunto": "Requerimento de reconhecimento de excludente de responsabilidade pelo atraso na implantação das LTs 230 kV Serra da Mesa-Niquelândia e Niquelândia-Barro Alto C2 (contrato de concessão 28/2009, lote K do leilão 1/2009) e recomposição do prazo de operação comercial; sustentação oral de José Batista Soares Neto (TGO)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "licenciamento ambiental",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento, por unanimidade",
+   "resumo_voto": "Atraso por responsabilidade da TGO (≈43 meses nos estudos + 21 meses de obra após a LI) supera em muito o atraso dos órgãos ambientais (≈9 meses além da Portaria MMA 421/2011); rompido o nexo causal, não há excludente nem recomposição de prazo.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:49:17",
+     "justificativa": "atraso imputável à própria transmissora é causa superveniente decisiva; não há nexo causal com a demora do Ibama/Funai/Secima; ANEEL já excepcionalizou a receita parcial (Despacho 454/2012)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "0:50:22",
+     "confianca": "media",
+     "justificativa": "atraso atribuído ao transmissor chega a ser três vezes o dos órgãos ambientais; sem nexo de causalidade não há excludente"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:24",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:24",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:52:55",
+   "processo": "48500.002118/2009-86",
+   "interessado": "Amazonas Energia S.A. - distribuidora",
+   "assunto": "Reajuste tarifário anual 2019 da Amazonas Energia, vigência a partir de 1/11/2019; sustentação oral do deputado Silas Câmara (presidente da Comissão de Minas e Energia da Câmara) pedindo redução tarifária",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras",
+    "perdas não técnicas",
+    "bandeiras tarifárias",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: efeito médio -5,96% (AT -6,40%, BT -5,73%)",
+   "resumo_voto": "Redução decorre sobretudo da quitação antecipada da Conta-ACR (encargos); perdas não técnicas de 32% da energia requerida e custo de energia (≈62% da tarifa) pressionam; empresa voltou a recolher bandeiras desde out/2019.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:25:14",
+     "justificativa": "homologa índice de reajuste conforme cálculos da SGT; destaca combate a perdas e furto de energia como agenda conjunta com poder público local",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:36:51",
+     "confianca": "media",
+     "justificativa": "redução de quase 6% pela antecipação da Conta-ACR; agenda de redução da conta é multissetorial; tarifa do Amazonas ainda entre as maiores do país"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:42:44",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:43:15",
+   "processo": "48500.002117/2009-31",
+   "interessado": "Roraima Energia S.A. - distribuidora",
+   "assunto": "Reajuste tarifário anual 2019 da Roraima Energia, vigência a partir de 1/11/2019",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras",
+    "sistema isolado"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: efeito médio -2,12% (BT -2,34%)",
+   "resumo_voto": "Retirada de financeiros do ano anterior reduz tarifa; Roraima não se beneficia da retirada da Conta-ACR; custo de energia ≈55% da tarifa, sistema isolado sem bandeiras.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:55:53",
+     "justificativa": "homologa índice de reajuste e valores de repasse da CDE para custeio de descontos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:56:23",
+     "confianca": "media",
+     "justificativa": "custo de energia elevado nas distribuidoras do Norte reflete política inadequada; cita necessidade de ações com o MME para reduzir custo de geração"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:27",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:58:27",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:58:57",
+   "processo": "48500.004107/2012 e 48500.003020/2016",
+   "interessado": "Transmissora Goiás S/A (TGO) - transmissora",
+   "assunto": "Recurso contra o Despacho SCT 205/2018 que determinou a execução da garantia de fiel cumprimento do contrato de concessão 28/2009 por atraso das obras; sustentação oral de José Batista (TGO)",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "garantia de fiel cumprimento",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e dado parcial provimento, por unanimidade dos votantes: desconstituído o Despacho 205/2018 e aplicada multa contratual de R$ 3,5 milhões; garantia executada só se a multa não for paga",
+   "resumo_voto": "Converte a execução direta da garantia em aplicação de multa editalícia/contratual (valor da garantia), com dosimetria pela tabela da cláusula nona; paga a multa, libera-se a garantia.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:37:15",
+     "justificativa": "primeiro aplica-se a multa e a garantia assegura seu pagamento; dosimetria objetiva com dados do SIGET; valor não supera a garantia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "2:43:34",
+     "confianca": "media",
+     "justificativa": "primeira aplicação de multa pelo descumprimento na fase de implantação; destaca a robustez do contrato de concessão de transmissão"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação); comentou o caso",
+     "ts": "2:45:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:45:39",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:46:12",
+   "processo": "48500.003634/2017-66",
+   "interessado": "ONS",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 47 dias) para revisão de diversos submódulos dos Procedimentos de Rede (adequações de texto e compatibilização com regulamentos)",
+   "tema": [
+    "regulação normativa",
+    "consulta pública",
+    "operação do sistema (ONS)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade dos votantes; consulta pública aberta, dispensada AIR",
+   "resumo_voto": "Alterações de baixo impacto: ajustes de procedimento, correções textuais, requisitos menos restritivos e prazos.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:47:50",
+     "justificativa": "abre consulta pública para refinamento dos Procedimentos de Rede, alterações de baixo impacto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "2:55:07",
+     "confianca": "media",
+     "justificativa": "ajuste de consolidação importante; agentes poderão contribuir"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:11",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:56:44",
+   "processo": "48500.003992/2018-50",
+   "interessado": "Petrobras/CGTF (Central Geradora Termelétrica Fortaleza) - geradora",
+   "assunto": "Prorrogação do prazo de pedido de vista no requerimento com pedido cautelar para suspender exigibilidade de débitos nas liquidações do MCP associados à falta de suprimento de gás à UTE Fortaleza",
+   "tema": [
+    "comercialização (CCEE, MCP)",
+    "geração térmica",
+    "pedido de vista"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "concedida prorrogação de 8 sessões para o voto-vista (sem objeção)",
+   "resumo_voto": "Elisa Bastos pede mais oito sessões por ser assunto denso; mérito não deliberado.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede prorrogação da vista (8 sessões)",
+     "ts": "2:57:15",
+     "justificativa": "assunto muito denso, discutido desde a época no MME; aprofundar antes de trazer de volta",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "concede (sem objeção)",
+     "ts": "2:57:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "2:57:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "2:57:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:57:45",
+   "processo": "48500.004352/2019-48",
+   "interessado": "CCEE / agentes de distribuição e transmissão (cotistas da CDE)",
+   "assunto": "Orçamento anual da CDE 2020 e cotas: abertura de consulta pública de 30/10 a 29/11/2019",
+   "tema": [
+    "CDE e encargos setoriais",
+    "consulta pública",
+    "subsídios tarifários"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes; consulta pública aberta",
+   "resumo_voto": "Proposta de orçamento da CDE 2020 com reserva técnica de meio bilhão (não usada em 2019) submetida à sociedade; redução gradual de subsídios (rural, água/esgoto) e da diferenciação regional.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:40:17",
+     "justificativa": "submete à consulta a proposta de orçamento e cotas da CDE 2020; ajusta texto para «apresentar a proposta de orçamento»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "3:55:33",
+     "confianca": "media",
+     "justificativa": "avanço da retirada da diferenciação regional da CDE; pede ouvir a sociedade sobre uso da reserva técnica"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:57:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:57:07",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Composição incerta: a abertura cita que um segundo diretor (legenda: «francês»/«javali», talvez Efrain Cruz) chegaria depois; votações mostram ~4 vozes. Presença de Efrain Cruz não confirmada; não recebeu votos.",
+  "Presença de Elisa Bastos inferida pelo pedido de prorrogação de vista no item 9 (legenda «elisa barros silva»).",
+  "Votos dos não relatores atribuídos pela proclamação de unanimidade; falas individuais sem nome (confiança baixa).",
+  "Números de processo transcritos da legenda automática podem conter erros."
+ ]
+}

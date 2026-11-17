@@ -1,0 +1,115 @@
+{
+  "meta": {"video_id": "NyKYohXw2Ys", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "46ª Reunião Pública Ordinária de 2021 (Parte 1)", "data": "2021-12-07", "formato": "presencial com participação virtual (Elisa Bastos)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Pauta com 92 itens; bloco dos itens 12 a 92 (exceto destacados 26, 27, 30, 42, 54 e 67) aprovado por unanimidade dos votantes.", "Item 3 retirado de pauta; item 5 retirado de pauta por Hélvio Guerra.", "Sandoval Feitosa pediu vista de itens do bloco (49, 50 e 56 pela legenda; números incertos).", "Presentes no plenário: deputado federal Evandro Roman (PR) e a secretária nacional do Consumidor Juliana Domingues.", "Parte 1 termina com suspensão para almoço (retorno às 14h30); itens 6, 8, 9, 11, 12, 26, 27, 30, 42 e 67 ficam para a parte seguinte.", "Elisa Bastos referida na abertura como diretora substituta."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:04:10", "processo": "", "interessado": "diversos",
+      "assunto": "Votação em bloco dos itens 12 a 92 da pauta, exceto os destacados", "tema": ["institucional/TCU"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade dos votantes, ressalvados os destaques e o pedido de vista de Sandoval Feitosa",
+      "resumo_voto": "Bloco aprovado; Sandoval pediu vista dos itens 49, 50 e 56 (legenda confusa); Hélvio Guerra retirou o item 5 de pauta.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:04:30", "justificativa": "aprova o bloco", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:04:33", "justificativa": "aprova o bloco; à tarde registra que mantém seu voto divergente no item 28 do bloco", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:04:36", "justificativa": "aprova o bloco; retira o item 5 de pauta", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista (itens 49, 50 e 56) e aprova os demais", "ts": "0:04:43", "justificativa": "«eu peço vistas do item 49 e 50 e 56 e aprova os demais itens do bloco»", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco e proclama", "ts": "0:05:14", "justificativa": "proclama aprovação por unanimidade dos votantes", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:03:00", "processo": "", "interessado": "", "assunto": "Item 3 da pauta, retirado de pauta (assunto não lido)", "tema": [], "relator": "não identificado",
+      "resultado": "retirado de pauta", "resumo_voto": "Anunciado pelo secretário-geral como retirado.", "votos": []
+    },
+    {
+      "id": "5", "ts": "0:05:03", "processo": "", "interessado": "", "assunto": "Item 5 da pauta, retirado de pauta pelo relator (assunto não lido)", "tema": [], "relator": "Hélvio Guerra",
+      "resultado": "retirado de pauta", "resumo_voto": "Hélvio Guerra retirou o processo de pauta durante a votação do bloco.", "votos": []
+    },
+    {
+      "id": "54", "ts": "0:06:00", "processo": "48500.005337/2021-31", "interessado": "Eletrobras; Prefeitura Municipal de Irati (PR)",
+      "assunto": "Doação/alienação de bens da União sob administração (BUSA): dois terrenos da ex-usina de Caratuva (antiga UHE Irati), Irati-PR",
+      "tema": ["bens da União sob administração (BUSA)", "institucional"], "relator": "Sandoval Feitosa",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Autoriza a Eletrobras a consultar a União sobre interesse nos dois terrenos (cerca de 149.800 m²) declarados inservíveis; sem interesse da União, autoriza alienação nos termos da Lei 9.636/98; Eletrobras informa registro contábil. Sustentação oral do deputado federal Evandro Roman (turismo/vinhedos em Irati).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:19:30", "justificativa": "áreas não mais úteis ao setor elétrico podem servir à comunidade; autoriza Eletrobras a iniciar trâmites junto à SPU", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:29:43", "justificativa": "comentou que acompanha o tema BUSA há quase 20 anos e vê solução sob a lei de conversão da MP 998; parabeniza o relator", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:29:45", "justificativa": "uso múltiplo; bens da concessão são dos consumidores; sugere que a Eletrobras prefira a cedência à alienação", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:29:46", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:29:50", "justificativa": "eliminação de burocracia; destino nobre a bem inservível à União; cita tarifa social automática no Paraná", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "0:32:56", "processo": "48500.005218/2020-06", "interessado": "consumidores e distribuidoras (Conselho Nacional de Consumidores, Senacon, Conselho de Consumidores da Copel, Neoenergia, Abraceel, Idec)",
+      "assunto": "Resultado da 2ª fase da Consulta Pública 18/2021: consolidação dos atos normativos sobre direitos e deveres do usuário do serviço público de distribuição (substituição da REN 414, Decreto 10.139/2019)",
+      "tema": ["regulação normativa", "direitos do consumidor", "distribuição"], "relator": "Sandoval Feitosa",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Aprova resolução normativa consolidada (redução de 420 para 276 páginas; mais de mil contribuições aceitas); mantém devolução em dobro como regra geral com exceções; novas compensações por transgressão de prazos comerciais; ampliação de canais digitais. Sustentações orais: Manoel Neto (Conselho Nacional de Consumidores), Juliana Domingues (Senacon), Ricardo Vidinich (Conselho de Consumidores Copel), Isabela de Moura Guedes (Neoenergia, pede gatilho para coeficiente K2), Daniele Benfica (Abraceel, migração ao mercado livre), Lourenço Henrique Moreto (Idec, devolução em dobro, serviços na fatura).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:20:00", "justificativa": "norma mais simples e acessível; devolução em dobro mantida como regra geral; compensação personalizada que pesa mais em quem presta pior serviço", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:10:19", "justificativa": "destaca simplificação e revogação de atos; discorda da frase de que distribuidoras não são punidas", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "2:10:21", "justificativa": "linha com desburocratização e eficiência", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:10:22", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "2:10:26", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "2:10:40", "processo": "48500.005029/2020-25", "interessado": "Energisa Acre Distribuidora de Energia S.A.",
+      "assunto": "Reajuste tarifário anual 2021 da Energisa Acre, a partir de 13/12/2021",
+      "tema": ["tarifas e revisão tarifária"], "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Homologa efeito médio de 9,99% (7,65% alta tensão); considera retirada de AIC da base e diferimento oferecido pela distribuidora para mitigar aumento.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "2:20:00", "justificativa": "mitigação do aumento tarifário com diferimento oferecido pela distribuidora", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:23:13", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:23:15", "justificativa": "«acompanha a proposta de voto do eminente relator»", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:23:16", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "2:23:27", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "2:23:50", "processo": "48500.005003/2020-50", "interessado": "Energisa Rondônia Distribuidora de Energia S.A.",
+      "assunto": "Reajuste tarifário anual 2021 da Energisa Rondônia, a partir de 13/12/2021",
+      "tema": ["tarifas e revisão tarifária"], "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Homologa efeito médio de 6,93% (6,85% alta tensão; 6,95% baixa tensão). Sustentação oral anunciada não foi enviada corretamente.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "2:45:00", "justificativa": "relata ter sido colaborador da Energisa Rondônia; destaca melhoria do serviço", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:57:46", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:57:48", "justificativa": "antecipou concordância citando medidas para minimizar impacto tarifário em empresas recém-privatizadas", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "2:57:49", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "2:57:52", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:58:20", "processo": "48500.002673/2021-22", "interessado": "Delta Geração (UTE William Arjona)",
+      "assunto": "Homologação do CVU da UTE William Arjona para operação com óleo diesel (Portaria MME 5/2018)",
+      "tema": ["outorgas de geração (térmica)", "comercialização (CCEE, CVU)"], "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Dá provimento à solicitação da Delta; CVU de cerca de R$ 2.276,74/MWh para 1º a 31/12/2021 (valores da legenda, incertos).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "2:59:00", "justificativa": "homologação não discricionária, cumprindo portaria do MME; nota técnica da SRG favorável", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:04:10", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:04:12", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "3:04:13", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "3:04:15", "justificativa": "", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "10", "ts": "3:05:15", "processo": "48500.002938/2021-92", "interessado": "distribuidoras (sustentação oral de representante de distribuidora de Goiás, auto de infração)",
+      "assunto": "Fiscalização da apuração dos indicadores de continuidade coletivos das distribuidoras, 2019/2020 (interpretação de dia crítico)",
+      "tema": ["fiscalização e sanções", "qualidade do serviço"], "relator": "Elisa Bastos",
+      "resultado": "retirado de pauta pela relatora após sustentação oral",
+      "resumo_voto": "Após sustentação oral (Ednelson, representante de distribuidora), a relatora retirou o processo para melhor análise.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "retira de pauta", "ts": "3:15:30", "justificativa": "considerando os pontos da sustentação, retira para melhor análise", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["3", "5", "10"],
+  "limites_da_analise": ["Só há um marcador de tempo no .md; ts obtidos da transcrição JSON; ts de seguidores aproximados.", "Atribuição dos votos de seguidores por ordem usual (falas «acompanho» sem nome); Elisa Bastos participa virtualmente e sua fala nem sempre é audível.", "Itens com vista no bloco ditos como «49 e 50 e 56» e depois «49 50 50 e 60»: incerto.", "Na volta do almoço registra-se que Elisa Bastos manteve voto divergente no item 28 do bloco (divergente de outro diretor, provavelmente Sandoval); detalhe não deliberado nesta parte.", "Números de processo e valores vêm da legenda automática e podem estar errados.", "Item 3 e 5: assuntos não lidos."]
+}

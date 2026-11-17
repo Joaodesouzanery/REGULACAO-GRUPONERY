@@ -1,0 +1,34 @@
+{
+ "meta": {"video_id": "4KoBtXqkhUo", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "35ª Reunião Pública Ordinária de 2021", "data": "2021-09-21", "formato": "híbrido/presencial (transmissão YouTube)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz"],
+  "ausentes": ["Elisa Bastos (férias)"],
+  "observacoes": ["Abertura com quórum de três diretores; Efrain Cruz integrou-se durante a reunião (já votou o bloco).", "Pauta com 44 itens; bloco do 5 ao 44 aprovado por unanimidade, exceto itens 10 e 26 destacados; itens 1, 4 e 13 retirados de pauta.", "Informes: CP 56 (RN 876/2020), TS 11/2021 (recursos energéticos distribuídos), seminário sobre inventários hidrelétricos participativos (23 e 24/09); prazo da CP 39/2021 (sinal locacional TUST/TUSD) prorrogado para 14/10.", "Item 3 (recurso da Cerradinho Bioenergia) retirado pelo relator Efrain Cruz; item 26 retirado pelo relator Hélvio Guerra após debate; item 10 com pedido de vista de Efrain Cruz."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:10:40", "processo": "itens 5 a 44 (exceto 10, 13 e 26)", "interessado": "diversos", "assunto": "Aprovação dos itens do bloco da 35ª RPO de 2021", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Bloco aprovado; itens 10 e 26 destacados.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (com destaque do item 26)", "ts": "0:10:50", "justificativa": "Pediu destaque do item 26 para pequeno ajuste.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:11:05", "justificativa": "Eu também aprovo o bloco.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:11:07", "justificativa": "Aprovou os itens remanescentes do bloco ao se integrar à reunião.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:11:25", "justificativa": "Proclamou aprovação por unanimidade.", "confianca": "alta"}]},
+  {"id": "3", "ts": "0:13:30", "processo": "", "interessado": "Cerradinho Bioenergia", "assunto": "Recurso administrativo interposto pela Cerradinho Bioenergia", "tema": ["recursos administrativos"], "relator": "Efrain Cruz", "resultado": "retirado de pauta a pedido do relator", "resumo_voto": "Relator retirou para construir solução; pontos ainda merecem atenção.", "votos": []},
+  {"id": "2", "ts": "0:14:06", "processo": "48500.000434/2017-15", "interessado": "Operador Nacional do Sistema Elétrico (ONS)", "assunto": "Abertura de consulta pública sobre indicadores de desempenho do Programa de Performance Organizacional do ONS, ciclo 2022-2023", "tema": ["regulação normativa (consulta pública)", "institucional/ONS"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade: CP de 22/09 a 05/11/2021", "resumo_voto": "Abertura de CP (intercâmbio documental) sobre minuta de resolução homologatória com 12 indicadores para o biênio 2022/2023; apresentação técnica da SRG (Vinícius).",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:30:30", "justificativa": "Indicadores relevantes, mensuráveis e verificáveis; 6 mantidos, ajustes e 4 novos; já passou por tomada de subsídios.", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:34:58", "justificativa": "Sugeriu, como contribuição para a CP, atrelar remuneração dos diretores da ANEEL a indicadores; relator não acatou no voto.", "tom": "irônico/pedagógico", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:34:59", "justificativa": "Acompanho o relator (pela proclamação).", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:35:05", "justificativa": "Proclamou unanimidade.", "confianca": "media"}]},
+  {"id": "10", "ts": "0:35:37", "processo": "48500.004849/2013-71", "interessado": "Interalli Administração e Participações S.A. (recorrente); Pan Partners (titular do DRS)", "assunto": "Recurso contra Despacho 2.194/2021 da SCG que prorrogou o DRS-PCH da PCH Sacre 14 (bacia do Juruena)", "tema": ["outorgas de geração (hidrelétrica, PCH)", "recursos administrativos"], "relator": "Hélvio Guerra", "resultado": "pedido de vista de Efrain Cruz", "resumo_voto": "Relator conhece e nega provimento ao recurso, seguindo precedente da PCH Bom Retiro (diligência no licenciamento). Sustentação oral de Camila Alves (Interalli) pedindo revogação ou oitiva da Procuradoria.",
+   "votos": [
+    {"diretor": "Hélvio Guerra", "voto": "relator, aprova (nega provimento)", "ts": "0:58:16", "justificativa": "Sustentação sem elementos novos; Interalli pediu DRI com despacho já suspenso; penalizar empreendedor diligente não guarda razoabilidade.", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "manifesta concordância com o relator (antes da vista)", "ts": "1:05:00", "justificativa": "Voto segue o precedente da diretora Elisa (Bom Retiro); finalidade da norma é viabilizar o aproveitamento; compara ao dilema de Sísifo.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "pede vista", "ts": "1:19:12", "justificativa": "Questão jurídica atrelada; defendeu revisitar garantias/caução de DRS.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:19:12", "justificativa": "Não se manifestou antes da vista.", "confianca": "baixa"}]},
+  {"id": "26", "ts": "1:19:16", "processo": "48500.004371/2002-09 e outros 19", "interessado": "eólicas Canoa Quebrada, Icaraizinho, Praia Formosa, Campo dos Ventos, Albatroz e outras; PCH Angelina", "assunto": "Ajuste do prazo de outorga de centrais eólicas e PCH nos termos da Lei 14.120/2021", "tema": ["outorgas de geração (eólica, PCH)"], "relator": "Hélvio Guerra", "resultado": "retirado de pauta pelo relator", "resumo_voto": "Relator propôs delegar à SCG o ajuste de prazos; Pepitone sugeriu tratar em reunião administrativa; Efrain levantou dúvida sobre ambiente regulado (CCEAR) x livre; relator retirou.", "votos": []}
+ ],
+ "retirados": ["1", "4", "13", "3 (pelo relator Efrain Cruz)", "26 (pelo relator Hélvio Guerra)"],
+ "limites_da_analise": ["Legenda automática: nomes de empresas/usina (Interalli, Pan Partners, PCH Sacre 14) e números de processos podem estar errados.", "Falas do bloco e do item 2 sem identificação nominal; atribuição pela ordem e proclamação.", "Item 10: Sandoval não se manifestou antes da vista (n votos < presentes)."]
+}

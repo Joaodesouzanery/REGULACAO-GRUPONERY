@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "1jI56rPVCC0", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha são aproximados (momento da votação/proclamação)", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "22", "data": "2019-06-25", "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral, inferido)",
+  "diretores_presentes": ["André Pepitone", "Rodrigo Limp", "Sandoval Feitosa", "Efrain Cruz"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 (período da tarde) da 22ª Reunião Pública Ordinária de 2019; três deliberações (a terceira reúne quatro processos de transmissão julgados em conjunto). No encerramento a legenda diz «20ª reunião», erro provável da legenda."]
+ },
+ "itens": [
+  {"id": "1", "ts": "0:00:30", "processo": "48500.001091/2018-23", "interessado": "transmissoras; ONS; ABRATE", "assunto": "Abertura da segunda fase da Audiência Pública 61/2018 sobre regulamentação da georreferenciação (base de dados unificada) das instalações de transmissão", "tema": ["transmissão (base de dados georreferenciada)", "regulação normativa (audiência pública, AIR)"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade: abertura da 2ª fase da AP 61/2018 por intercâmbio documental de 27/06 a 25/08/2019 (60 dias), conforme minuta de resolução", "resumo_voto": "Relator destacou a origem na fiscalização de faixas de servidão, ampliação de finalidades (planejamento, ONS, regulação) e envio em etapas: instalações de 2010 em diante primeiro, mais prazo para as antigas. Apresentação técnica de especialista da área. Sem sustentação oral.", "votos": [
+   {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:11:08", "justificativa": "base unificada e georreferenciada; etapas dão previsibilidade e razoabilidade aos agentes", "confianca": "alta"},
+   {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:13:44", "justificativa": "comentou que o regulador não tem dados georreferenciados da transmissão, ao contrário da distribuição; elogiou a integração fiscalização/regulação e pediu envolvimento pleno do ONS", "confianca": "media"},
+   {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:13:53", "justificativa": "unanimidade proclamada", "confianca": "media"},
+   {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:13:53", "justificativa": "unanimidade proclamada", "confianca": "media"}
+  ]},
+  {"id": "2", "ts": "0:14:28", "processo": "48500.003534/2018-11", "interessado": "Operador Nacional do Sistema Elétrico (ONS); Intersindical do ONS / Sindicato dos Engenheiros do RJ", "assunto": "Aprovação do orçamento trienal do ONS para o ciclo jan/2019 a dez/2021 (R$ 1,950 bilhão), com corte de cerca de 84 milhões em despesas de pessoal acima de 120% da mediana de mercado", "tema": ["institucional (ONS, orçamento)", "tarifas e encargos (repasse tarifário)"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: resolução autorizativa com orçamento de R$ 1.950.301 mil para 2019-2021, revoga a REA 7.807/2019 e determina ao ONS observar as recomendações do voto", "resumo_voto": "Sustentação oral de Hamilton Martelotte Soares (Intersindical do ONS/Sindicato dos Engenheiros do RJ), contra qualquer corte e contra a comparação salarial com o mercado. Relator: é preciso benchmark porque o custo vai à tarifa; limite flexibilizado de 100% para 120% da mediana; segundo o presidente do ONS, a diferença será coberta pelos associados, sem perda para os empregados; o limite não é permanente.", "votos": [
+   {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:52:05", "justificativa": "custos do ONS são pagos pela tarifa, então é preciso parâmetro de mercado; 120% da mediana reconhece a singularidade do ONS; associados cobrirão a diferença", "tom": "técnico, discordou respeitosamente da sustentação", "confianca": "alta"},
+   {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "0:52:45", "justificativa": "benchmark adequado, mas o ONS é diferenciado; margem de 20% e contribuição associativa extra dão conforto; mudanças bruscas de remuneração exigem cuidado", "confianca": "media"},
+   {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:56:37", "justificativa": "receio de comparações salariais em área estratégica e de perda de talentos; conforto com o acerto de que não haverá perda salarial para os empregados", "confianca": "media"},
+   {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "1:03:28", "justificativa": "unanimidade proclamada", "confianca": "media"}
+  ]},
+  {"id": "3", "ts": "1:04:10", "processo": "48500.001065/2019; 48500.000378/2019; 48500.000300/2019; 48500.000299/2019 (números incertos)", "interessado": "concessionárias de transmissão; ABRATE; centrais geradoras em 88/138 kV", "assunto": "Estabelecimento das RAP das transmissoras (inclui reforços e melhorias), TUST e TUSDg de referência para geradoras em 88/138 kV, ciclo 2019/2020 (itens 3, 4, 5 e 16, julgados em conjunto)", "tema": ["transmissão (RAP, reforços, melhorias)", "tarifas e revisão tarifária (TUST, TUSD)"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: resoluções homologatórias das RAP de reforços sem receita prévia, das RAP das transmissoras, da TUST (1/7/2019 a 30/6/2020) e da TUSDg de referência", "resumo_voto": "Sustentação oral de Sidney Custódio Santana Júnior (ABRATE), que pediu usar os valores de melhorias declarados pelas concessionárias. Apresentação técnica de Richard (SGT). Relator rejeitou o pleito, pois o valor é provisório até a AP 41 (relatoria de Efrain Cruz), e negou risco ao SIN por equipamentos em fim de vida útil. RAP de cerca de 25,77 bi (+7,8%); efeito médio de 0,77% no consumidor final.", "votos": [
+   {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:41:58", "justificativa": "valor provisório para melhorias até a conclusão da AP 41; não considera que o SIN esteja em risco por equipamentos em fim de vida útil", "confianca": "alta"},
+   {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "1:46:15", "justificativa": "unanimidade proclamada", "confianca": "media"},
+   {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:46:15", "justificativa": "unanimidade proclamada", "confianca": "media"},
+   {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "1:46:20", "justificativa": "unanimidade proclamada", "confianca": "media"}
+  ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática sem marcação de falantes; o cabeçalho do .md sugere Sandoval, Gentil Nogueira e Ricardo Tili, mas esses dois não eram diretores em 2019. Presentes inferidos pelo conteúdo: Rodrigo Limp (relator do item 1), Sandoval Feitosa (relator dos itens 2 e 3), Efrain Cruz ('diretor fry', 'efraim'); André Pepitone como Diretor-Geral que preside e proclama (não nomeado na legenda).",
+  "Presença de Elisa Bastos não confirmada (não citada); se presente, votou pela unanimidade proclamada e falta o voto dela.",
+  "Atribuição dos comentários do item 2: o primeiro a Rodrigo Limp e o segundo a Efrain Cruz, com base na fala do relator ('diretor rodrigo como pelo diretor fry'). No item 1, o comentário pós-voto é atribuído ao Diretor-Geral (inferência).",
+  "Números de processos do item 3 e valores ditos pela legenda podem estar errados.",
+  "Esta é só a parte 2 (tarde); os itens da manhã estão em outro vídeo."
+ ]
+}

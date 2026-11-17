@@ -1,0 +1,30 @@
+{
+  "meta": {"video_id": "49o8M2KIP5c", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos finais aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "2ª Extraordinária de 2021", "data": "2021-03-22", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Sessão de pauta única, continuação da 1ª Reunião Pública Extraordinária (sexta-feira 19/03/2021), em cumprimento a decisão do TRF-1 (agravo) que fixou prazo até 22/03 para emitir a resolução da AP 34/2019.", "Efrain Cruz abriu com homenagem a Camila Rodrigues (Abeeólica), vítima da covid; queda de conexão obrigou a reiniciar a leitura do voto-vista.", "Efrain Cruz apresentou voto-vista com duas alternativas (aplicar ao ACL a regra transitória/MAC nos moldes da Nota Técnica 123/2014; ou continuidade dos processos caso a caso) e ao final retirou o voto e acompanhou o relator original.", "Votação prévia sobre tratar ou não o ACL nesta deliberação: decidido não tratar (casos do ACL seguem caso a caso). Resultado final unânime."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:26",
+      "processo": "48500.006218/2017 (número incerto pela legenda)", "interessado": "SRG/SRM; geradores eólicos (Abeeólica); CCEE; ONS",
+      "assunto": "Resultado da Audiência Pública 34/2019: norma sobre procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de usinas eólicas, e tratamento dos casos anteriores (ACR e ACL)",
+      "tema": ["regulação normativa (resolução, audiência pública)", "comercialização (CCEE, ESS, constrained-off)", "outorgas de geração (eólica)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Aprovada por unanimidade a resolução normativa nos termos do voto do relator original (com retirada do parágrafo 75 e ajuste para ACR): eventos até setembro/2021 no ACR seguem procedimento dos casos concretos (seção 2.2 do voto); a partir de outubro/2021 aplica-se a nova metodologia; SRG abre em 5 dias úteis tomada de subsídios sobre a regra de comercialização, incluindo casos interrompidos pelo Despacho 2303/2019. Casos do ACL não tratados nesta deliberação (caso a caso).",
+      "resumo_voto": "Voto-vista de Efrain Cruz defendia, com base no art. 1º §10 da Lei 10.848 (alterada pela Lei 13.360/2016) e em precedentes de 2014/2015, ressarcimento via ESS também ao ACL; ao final retirou o voto e aderiu ao relator. Sandoval sustentou que a lei exige regras e procedimentos de comercialização aprovados com transparência antes de imputar custo ao consumidor.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (mantém voto original com ajustes)", "ts": "2:04:53", "justificativa": "A lei exige publicação de regras e procedimentos de comercialização; o MAC não atende transparência e discussão pública; não cabe regra provisória para o ACL que imputa custo ao consumidor.", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "voto-vista retirado; acompanha o relator", "ts": "2:04:59", "justificativa": "Defendeu que o ACL tem direito ao ressarcimento por ESS (Lei 10.848 art. 1º §10, precedentes Despachos 4819/2014 e 379/2015, Nota Técnica 123/2014); alinhou-se à Procuradoria sobre irretroatividade; retirou o voto conforme acordado pelo colegiado.", "tom": "enfático, reflexivo", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:04:51", "justificativa": "Mantém coerência com a sexta-feira: casos do ACL devem ser avaliados caso a caso, sem negar nem acatar agora; regra para o ACL exigiria consulta pública.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:04:41", "justificativa": "Mantém o voto da sessão anterior; destacou isonomia entre ACR e ACL e eficiente alocação de riscos, mas entendeu não tratar o ACL nesta deliberação.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "2:05:06", "justificativa": "Mantém voto da sexta-feira acompanhando Sandoval; entendeu que o ACL fora deslocado para análise individual nos recursos.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com muitos erros; número do processo incerto.", "O quinto diretor (que fala de isonomia em ~1:41:01 e vota primeiro em 2:04:41, chamado como 'do torel') foi inferido como Hélvio Guerra pela composição de 2021; não confirmado pelo áudio.", "Quórum dito na abertura está ilegível na legenda."]
+}

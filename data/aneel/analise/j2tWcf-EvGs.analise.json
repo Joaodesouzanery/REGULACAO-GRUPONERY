@@ -1,0 +1,60 @@
+{
+  "meta": {"video_id": "j2tWcf-EvGs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "41", "data": "2020-11-03", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Cristiano Vieira (diretor substituto, nome fora da lista do config)"],
+    "ausentes": ["Elisa Bastos (não presente na deliberação do item 6, dito pelo relator; presença no item 9 não confirmada)"],
+    "observacoes": ["Parte 2 da 41ª Reunião Pública Ordinária de 2020 (tarde); retoma o item 9 após o almoço.", "Item 6 (CP 24/2019, indicadores de caducidade por qualidade e sustentabilidade econômico-financeira) teve relatório, sustentações orais (Abradee - Marcos Madureira; Enel) e voto lido por Sandoval Feitosa, mas foi retirado de pauta pelo próprio relator por ausência de Elisa Bastos e Efrain Cruz, para deliberação na reunião seguinte.", "Efrain Cruz ausentou-se; três processos de sua relatoria ficaram pendentes de deliberação.", "Sessão encerrada por volta de 3:04:09 do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "9", "ts": "0:00:38",
+      "processo": "48500.002483/2020 (número incerto pela legenda)",
+      "interessado": "Comercializadoras (Capitale, Comerc, Delta, Atmos, Matrix, Máxima, entre outras; nomes incertos); distribuidoras; CCEE",
+      "assunto": "Requerimento administrativo para rever os efeitos do MCSD mensal de janeiro a abril de 2020 que reduziram montantes de CCEARs do 18º, 20º e 21º leilões de energia existente em razão da migração de consumidores ao mercado livre",
+      "tema": ["comercialização (CCEE, MCSD, contratos)", "recursos administrativos", "leilões"],
+      "relator": "Efrain Cruz",
+      "resultado": "Conhecido e provido parcialmente, por unanimidade: CCEE deve reprocessar MCSD mensais e recontabilizar, limitando reduções aos montantes originalmente pedidos e substituindo reduções de migrações não elegíveis por elegíveis; versões das regras de comercialização aplicáveis por leilão (3.0/4.0/5.0).",
+      "resumo_voto": "Relator reconhece direito de redução contratual por migração de consumidores, mas limita aos casos elegíveis conforme a versão das regras vigente em cada leilão; sustentação oral e manifestação da Procuradoria ocorreram antes do almoço (Parte 1).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:00:38", "justificativa": "Dar provimento parcial: reprocessar os MCSD mensais de jan-abr/2020, sem reduzir além dos montantes originalmente pedidos.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:45:03", "justificativa": "Acompanha o relator (fala curta após a chamada à votação; atribuição pela ordem).", "confianca": "baixa"},
+        {"diretor": "Cristiano Vieira", "voto": "acompanha o relator", "ts": "0:45:10", "justificativa": "Acompanha a proposta de voto do diretor Efrain e elogia a profundidade do voto e os esclarecimentos do Diretor-Geral (atribuição inferida).", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:45:31", "justificativa": "Comentou o dispositivo (verificação da migração e limite ao montante pedido), acompanha e proclama por unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "0:48:05",
+      "processo": "48500.000367/2019-37",
+      "interessado": "Distribuidoras de energia elétrica; Abradee (sustentação oral de Marcos Aurélio Madureira da Silva); Enel (sustentação oral)",
+      "assunto": "Resultado da Consulta Pública 24/2019: resolução normativa com indicadores e procedimentos de acompanhamento da continuidade do fornecimento e da gestão econômico-financeira das distribuidoras, e procedimentos em caso de descumprimento (abertura de processo de caducidade, limitação de dividendos)",
+      "tema": ["regulação normativa (resolução, consulta pública)", "distribuição e qualidade", "fiscalização e sanções (caducidade)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Retirado de pauta pelo relator após leitura do voto, por ausência de Elisa Bastos e Efrain Cruz; reinscrito para a próxima reunião (bloco).",
+      "resumo_voto": "Voto lido: aprovar a minuta de resolução normativa; início do acompanhamento em 2022 (um ano depois do proposto pelas áreas técnicas); regulação prudencial, retenção de dividendos acima do mínimo legal enquanto durar o risco econômico-financeiro. Cristiano Vieira e o Diretor-Geral manifestaram apoio, sem votação formal.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (voto lido); retira de pauta", "ts": "2:26:51", "justificativa": "Critérios objetivos e transparentes, a finalidade não é aplicar caducidade; retira para contar com toda a diretoria num regulamento tão importante.", "confianca": "alta"},
+        {"diretor": "Cristiano Vieira", "voto": "não votou (retirado de pauta)", "ts": "2:20:19", "justificativa": "Manifestou apoio: modelo híbrido contrato/norma, regulação prudencial moderna, sem contradição com os contratos.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (retirado de pauta)", "ts": "2:22:00", "justificativa": "Manifestou apoio: atende determinação do TCU, prazo de cinco anos, critérios debatidos com a sociedade; concordou com pautar no bloco da próxima reunião.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "12", "ts": "2:28:44",
+      "processo": "48500.005843/2018-25 (número incerto pela legenda)",
+      "interessado": "Jauru Transmissora de Energia S.A. (sustentação oral do Dr. José, nome incompleto)",
+      "assunto": "Recurso administrativo contra o Auto de Infração 18/2019 da SFE (multa por descumprimento de plano de melhorias e providências; LT 230 kV Vilhena-Jauru)",
+      "tema": ["fiscalização e sanções (multa, auto de infração)", "transmissão", "recursos administrativos"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Conhecido e provido parcialmente, por unanimidade: canceladas as multas das determinações D3 e D6; multa reduzida de cerca de R$ 229 mil para cerca de R$ 140 mil; determinação interna para a SPE acompanhar o projeto de P&D.",
+      "resumo_voto": "Relator mantém as não conformidades: a empresa pactuou plano de melhorias em 2016/2017 e, após quase três anos, não alcançou os resultados e ainda pede para não ser penalizada; fiscalização responsiva.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "3:01:36", "justificativa": "A empresa não cumpriu o que pactuou com o regulador; acompanha a área de fiscalização, mantendo apenas as não conformidades e reduzindo a multa.", "confianca": "alta"},
+        {"diretor": "Cristiano Vieira", "voto": "acompanha o relator", "ts": "3:02:46", "justificativa": "Acompanho o relator (atribuição pela ordem).", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "3:02:51", "justificativa": "Acompanha e proclama por unanimidade.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["6 - CP 24/2019 (caducidade por qualidade e econômico-financeira), retirado pelo relator Sandoval Feitosa para a próxima reunião", "Três processos de relatoria de Efrain Cruz ficaram pendentes por sua ausência (não identificados)"],
+  "limites_da_analise": ["Cristiano Vieira (diretor substituto) não consta da lista do config; nome registrado como dito.", "No item 9, as falas de voto após a chamada não têm nome; Sandoval Feitosa e Cristiano Vieira atribuídos pela ordem/conteúdo (confiança baixa). Presença de Elisa Bastos no item 9 não confirmada; não foi registrado voto dela.", "Números de processo e valores de multa vêm da legenda automática e podem estar errados.", "Item 12 numerado pela fala do secretário (inversão de ordem 8 e 12), incerto."]
+}

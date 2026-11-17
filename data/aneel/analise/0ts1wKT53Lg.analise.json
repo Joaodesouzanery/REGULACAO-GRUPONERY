@@ -1,0 +1,72 @@
+{
+  "meta": {"video_id": "0ts1wKT53Lg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "15ª Reunião Pública Ordinária de 2021", "data": "2021-05-04", "formato": "virtual",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Elisa Bastos", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": ["Pauta com 27 itens; bloco com 22 itens aprovado por unanimidade; retirados de pauta os itens 2, 4, 5, 6, 7 e 27 (segundo a legenda); item 10 destacado do bloco.", "Itens 3 e 10 (relator Hélvio Guerra) negados/indeferidos por unanimidade; item 1 (editais dos leilões A-4 e A-5 de 2021, relator Efrain Cruz) retirado de pauta pelo relator após duas sustentações orais.", "Na abertura o presidente cita quórum de três diretores (Sandoval e Hélvio); Elisa Bastos e Efrain Cruz falam depois na sessão."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:10:08", "processo": "", "interessado": "diversos",
+      "assunto": "Bloco de 22 itens da pauta (votos disponibilizados no site da ANEEL)",
+      "tema": ["bloco de itens"], "relator": "diversos", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Itens do bloco aprovados sem debate; item 10 destacado.",
+      "votos": [
+        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:10:25", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova (pela proclamação)", "ts": "0:10:15", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova (pela proclamação)", "ts": "0:10:17", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:10:52", "processo": "48500.002858/2017-56",
+      "interessado": "Equatorial Transmissora 1 SPE S.A. e Equatorial Transmissora 2 SPE S.A. (transmissoras)",
+      "assunto": "Recurso administrativo contra despacho da SFE que negou retificação dos Termos de Liberação Parcial (TLP) emitidos pelo ONS; instalações energizadas sem segundo canal de voz e dados (pendência impeditiva própria); pedido de RAP retroativa",
+      "tema": ["transmissão (RAP)", "recursos administrativos", "fiscalização e sanções"],
+      "relator": "Hélvio Guerra", "resultado": "conhecido e negado provimento, por unanimidade",
+      "resumo_voto": "Ausência do segundo canal de voz e dados é pendência impeditiva própria (submódulo 24.3 dos Procedimentos de Rede, REN 841/2018); energização em teste não dá direito a RAP; empresa também poderia ter pedido desligamento.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, conhece e nega provimento", "ts": "0:14:00", "justificativa": "requisitos técnicos e regulatórios para TLP não atendidos; equipamento em teste não faz jus a receita", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:27:42", "justificativa": "regra objetiva dos Procedimentos de Rede; transmissoras deviam saber da exigência do segundo canal", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:29:46", "justificativa": "decidir em contrário seria inovar dando receita a instalação em teste; obrigação de pedir desligamento também é da empresa", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:43", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:32:39", "justificativa": "regulamentação de integração de instalações está correta; caso só chegou ao colegiado porque as instalações ficaram ligadas (seccionamento)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "0:36:29", "processo": "48500.003012/2020-33",
+      "interessado": "Go Energy Comercializadora de Energia Ltda. (comercializadora; nome incerto na legenda)",
+      "assunto": "Pedido de impugnação com medida cautelar contra decisão da CCEE que manteve penalidade por insuficiência de lastro (novembro/2019) — termo de notificação 644/2020; sustentação oral do advogado João Gabriel Pimenta",
+      "tema": ["comercialização (CCEE)", "fiscalização e sanções", "recursos administrativos"],
+      "relator": "Hélvio Guerra", "resultado": "conhecido e indeferido o pedido de impugnação, por unanimidade",
+      "resumo_voto": "Ação judicial não envolve a ANEEL; recontabilização já negada pela CCEE e pela ANEEL (despachos 1506/2020 e 1403/2021); erro foi do próprio agente; penalidade mantida.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, conhece e indefere", "ts": "0:47:00", "justificativa": "não há decisão judicial dirigida à ANEEL; recontabilização é excepcional e a falha foi do agente", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:53:37", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:53:41", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:53:41", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:53:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:54:16", "processo": "48500.005939/2019-74",
+      "interessado": "MME/ANEEL; sustentações orais de Engie Brasil Energia (Hugo Leonardo Araújo Leite) e Neoenergia (Jéssica da Silva Souza)",
+      "assunto": "Aprovação dos editais dos Leilões 4 e 5/2021 (energia existente A-4 e A-5; termelétricas a gás natural e carvão mineral nacional), após CP 42/2019",
+      "tema": ["leilões (geração)", "CDE e encargos setoriais", "tarifas (TUST)"],
+      "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Após sustentações e apresentação da Secretaria Executiva de Leilões, o relator retirou o processo: nota técnica propunha alterar condições da portaria do MME sem justificativa plausível; preservar governança e competências.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, retira de pauta", "ts": "1:23:15", "justificativa": "não há justificativa plausível para submeter algo diferente do que traz a portaria do MME", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["itens 2, 4, 5, 6, 7 e 27 (antes da sessão, números pela legenda)", "item 1 (retirado pelo relator Efrain Cruz durante a sessão)"],
+  "limites_da_analise": [
+    "Legenda automática; .md com um só marcador de tempo, ts obtidos do JSON da transcrição.",
+    "Na abertura só três diretores são citados (quórum de três); Elisa Bastos e Efrain Cruz falam depois; não está claro quem votou o bloco (três vozes de aprovação ouvidas sem nome).",
+    "Itens 3 e 10: só três falas de voto sem nome após o relator; votos de Efrain Cruz, e no item 10 de Sandoval e Elisa, atribuídos pela proclamação de unanimidade (confiança baixa); presença de Efrain no momento da votação não confirmada.",
+    "Nome da comercializadora do item 10 aparece como Goiânia/Go Energy/Gol Energy/Boa energia; valor da penalidade ilegível (cento e 3836 reais).",
+    "Item 1: relator citado como 'ephrain Pereira da Cruz' (Efrain Cruz); o gerente da SEL é André Patrus."
+  ]
+}

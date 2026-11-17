@@ -1,0 +1,380 @@
+{
+ "meta": {
+  "video_id": "56Dbt6syzvY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "17ª Reunião Pública Ordinária",
+  "data": "2019-05-21",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [
+   "Elisa Bastos (voto do item 1 lido por Sandoval Feitosa)"
+  ],
+  "observacoes": [
+   "Pauta com 28 itens; bloco 10-28; item 13 destacado com pedido de vista; retirados 6, 7, 8 e 23 a 27.",
+   "Informes: audiências no Congresso (Enel Goiás; segurança de barragens/desoneração), AP 13/2019 (PCH), workshop CCEE.",
+   "Retificações das atas da 16ª, 15ª e 11ª RPO.",
+   "Item 1 teve votação reaberta para fala do deputado Weliton Prado; votos mantidos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:08:05",
+   "processo": "itens 10 a 28 da pauta (exceto 13 destacado e 23 a 27 retirados)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 10 a 28; item 13 destacado com pedido de vista",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "bloco aprovado; pedido de vista no item 13",
+   "resumo_voto": "Os diretores votam pela aprovação integral dos itens remanescentes do bloco; o secretário registra pedido de vista no item 13 (diretor citado na legenda como «é frágil», provavelmente Efrain Cruz).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista (item 13); aprova os demais",
+     "ts": "0:08:09",
+     "justificativa": "«eu vou ter pedido vista do processo do bloco» (atribuição pela fala do secretário: «pedido de vistas do diretor é frágil»)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:08:15",
+     "justificativa": "«voto pela aprovação integral dos itens remanescentes do bloco»",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:08:15",
+     "justificativa": "«voto pela aprovação integral dos itens remanescentes do bloco»",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:08:15",
+     "justificativa": "«voto pela aprovação integral dos itens remanescentes do bloco»",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:42",
+   "processo": "48500.006214/2018-12 (legenda incerta)",
+   "interessado": "CEMIG Distribuição S.A. (distribuidora, MG); Conselho de Consumidores da CEMIG; deputado federal Weliton Prado",
+   "assunto": "Reajuste tarifário anual 2019 da CEMIG-D, vigência 28/05/2019: efeito médio 8,73% (AT 10,71%, BT ~7,89%)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuidoras"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa o reajuste; efeito puxado por componentes financeiros (CVA energia, Itaipu) e atenuado pela quitação da conta ACR. Sustentação oral: Lina/Aline de Freitas Veloso (Conselho de Consumidores) reclamou do prazo das planilhas e do peso do reajuste; após proclamação, a votação foi reaberta para fala do deputado Weliton Prado (contra qualquer reajuste); nenhum diretor alterou o voto. Pepitone defendeu agenda de desoneração (geração, subsídios, ICMS).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto deixado (lido por Sandoval Feitosa)",
+     "ts": "0:35:00",
+     "justificativa": "homologar o índice de reajuste conforme cálculo da SGT (Nota Técnica 92/2019); aplicação contratual e do PRORET",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:31:30",
+     "justificativa": "acompanha; destacou a quitação da conta ACR (-2,85%) e a agenda de desoneração tarifária (térmicas caras, subsídios, ICMS)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:47",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:47",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:36:47",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:56:32",
+   "processo": "48500.000625/2019-06 (legenda incerta)",
+   "interessado": "distribuidoras; Abradee (sustentação oral de Marco Delgado); CCEE",
+   "assunto": "Resultado da AP 8/2019: revisão das faixas de acionamento e adicionais das bandeiras tarifárias a partir de junho/2019 (amarela R$1,50; vermelha 1 R$4; vermelha 2 R$6 por 100 kWh)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "bandeiras tarifárias",
+    "regulação normativa"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REH com novas faixas/adicionais e REN com novas versões dos submódulos 4.4, 4.4A e 6.8 do PRORET; vídeos institucionais da ANEEL e da Abradee sobre bandeiras exibidos; relator defende sinal de preço ao consumidor e patamares variáveis no futuro.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:50",
+     "justificativa": "acompanha; destacou o início em junho (após período úmido) e a parceria com a Abradee na comunicação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:50",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:35:13",
+     "justificativa": "bandeiras devem refletir custo real de geração e evitar CVA elevada nos reajustes; déficit de 4,4 bi em 2017 justificou recalibração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:47:50",
+     "justificativa": "acompanha; elogiou o esforço de comunicação e a técnica de previsão, ressaltando a imprevisibilidade da geração (atribuição do comentário incerta)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:48:52",
+   "processo": "48500.006288/2018-59 e 48500.001625/2019 (legenda incerta)",
+   "interessado": "Celpa – Centrais Elétricas do Pará (Equatorial); Conselho de Consumidores da Celpa (Carlindo Lins Pereira Filho); vereadores de Parauapebas (José Marcelo)",
+   "assunto": "Abertura de audiência pública da 5ª revisão tarifária periódica da Celpa (vigência 07/08/2019) e limites DEC/FEC 2020-2023",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição e qualidade",
+    "regulação normativa",
+    "perdas não técnicas"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AP de 22/05 a 08/07/2019 com sessão presencial em Belém (efeito médio preliminar 3,16%); sustentações orais da Celpa (Ricardo de Andrade Oliveira), do Conselho de Consumidores e do vereador de Parauapebas; Efrain e Pepitone criticaram a meta de perdas não técnicas de 34% como sem incentivo; ficou encaminhada possível segunda sessão em cidade do sul do Pará (possivelmente Parauapebas), a confirmar na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:22:39",
+     "justificativa": "acompanha; questiona o patamar de 34% de perdas sem sinal de melhoria; tarifa alta explicada por custo crescente e mercado em queda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:01:10",
+     "justificativa": "AP necessária; números provisórios (mercado, base de ativos); perdas não técnicas serão debatidas na AP; fiscalização no Pará de 10 a 14/06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:03:00",
+     "justificativa": "acompanha, mas critica reconhecer perdas não técnicas de 34%: «o regulador não tá com essa função de incentivar a paralisia das perdas»; sugeriu audiência na Câmara de Parauapebas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:22:39",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:23:33",
+   "processo": "48500.003694/2017-89 e 48500.003744/2017-28",
+   "interessado": "Mapfre Seguros Gerais S.A. (seguradora); ATE XX Transmissora (grupo Abengoa)",
+   "assunto": "Agravo contra Despacho 360/2019 que não conheceu, por intempestivo, recurso contra execução de seguro-garantia (Despacho 2.808/2018, SCT) após caducidade da concessão de transmissão",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "caducidade"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "conhecido e negado provimento",
+   "resumo_voto": "Sem omissão no despacho: recurso não conhecido por intempestividade e sem pedido próprio; procuradoria lembra liminar judicial vigente suspendendo a execução da garantia.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova",
+     "ts": "3:28:48",
+     "justificativa": "não há omissão; recurso intempestivo e sem pedido de reforma",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:28:55",
+     "justificativa": "votação curta e pouco audível («voto o relator»); proclamação não diz unanimidade explicitamente",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:28:55",
+     "justificativa": "votação curta e pouco audível («voto o relator»); proclamação não diz unanimidade explicitamente",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:28:55",
+     "justificativa": "votação curta e pouco audível («voto o relator»); proclamação não diz unanimidade explicitamente",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:32:01",
+   "processo": "48500.005865/2017-12 (legenda incerta)",
+   "interessado": "Companhia Hidroelétrica São Patrício (CHESP, sustentação oral do presidente Ricardo de Pina Martins); Enel Distribuição Goiás; CELG GT",
+   "assunto": "Transferência do barramento 69 kV da SE Itapaci 230/69 kV e entrada de linha da CHESP da Enel Goiás para a CELG GT",
+   "tema": [
+    "transmissão",
+    "distribuidoras",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Transferência em 120 dias; adequação de CUST/CCT; corrige situação histórica da desverticalização da CELG, retirando custo de TUSD/perdas pago pela CHESP; Enel Goiás alegou efeito redistributivo, rejeitado.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:51:17",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:50:17",
+     "justificativa": "alinhamento ao modelo regulatório vigente e facilidade operacional; modicidade tarifária é efeito, não motivo principal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:51:17",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:51:17",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:52:07",
+   "processo": "48500.003372/2003-17",
+   "interessado": "Ceron / Energisa Rondônia (distribuidora)",
+   "assunto": "Abertura de AP (intercâmbio documental, 23/05 a 08/07/2019) da revisão do plano de universalização rural da Ceron, prorrogando o ano limite de 2018 para 2021",
+   "tema": [
+    "distribuição e qualidade",
+    "universalização / Luz para Todos",
+    "regulação normativa"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta da SRD: prorrogar até 2021 (não 2022 como pedido pela Energisa), sem revisão para Santa Luzia d'Oeste e Alto Paraíso; impacto tarifário de ~4,6% se custeado com recursos próprios.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:57:05",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:57:05",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "3:56:00",
+     "justificativa": "abrir AP sobre proposta da SRD; dificuldades operacionais e logísticas da distribuidora e modicidade tarifária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:57:05",
+     "justificativa": "acompanhou o relator; proclamação por unanimidade",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "assunto": "DEC/FEC CEMIG (processo de fiscalização, pode levar à caducidade)",
+   "motivo": "retirado pelo relator Efrain Cruz para tratamento adequado"
+  },
+  {
+   "id": "7",
+   "assunto": "Recurso RGE Sul contra auto de infração 22/2018 (indicadores de continuidade 2012)",
+   "motivo": "retirado pelo relator Efrain Cruz por conexão com item 6"
+  },
+  {
+   "id": "8",
+   "assunto": "não informado",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "23-27",
+   "assunto": "itens do bloco",
+   "motivo": "retirados de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Presença inferida: saudação cita DG André Pepitone, Rodrigo Limp e Efrain; Elisa Bastos relatora com voto lido por Sandoval (tratada como ausente). Confirmar com ata.",
+  "Falas «acompanho» sem nome: atribuídas pela proclamação de unanimidade (confiança media).",
+  "Pedido de vista do item 13 atribuído a Efrain Cruz pela transcrição «diretor é frágil» (baixa confiança); assunto do item 13 não lido.",
+  "Números de processo e valores da legenda automática podem estar errados.",
+  "Item 9: votação pouco audível, unanimidade inferida."
+ ]
+}

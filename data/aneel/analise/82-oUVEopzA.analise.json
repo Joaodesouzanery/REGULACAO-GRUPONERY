@@ -1,0 +1,528 @@
+{
+ "meta": {
+  "video_id": "82-oUVEopzA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-03-31",
+  "formato": "videoconferência (remota, pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Júlio César Rezende Ferraz",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de 5 diretores; primeira reunião remota; comunicados sobre a Portaria de suspensão de prazos processuais (COVID-19) e fim da CP 10/2020 (PROCEL).",
+   "Ata da 9ª RPO aprovada.",
+   "Itens 8 e 26 retirados de pauta; itens 11, 12, 16 e 17 (com sustentação oral) ficaram para a Parte 2 (14h15).",
+   "Rodrigo Limp deixou a diretoria pouco antes (mencionado)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:00",
+   "processo": "itens 12 a 50 da pauta (exceto 26, retirado; 12, 16 e 17 destacados)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 12 a 50 da pauta, incluindo revisões de RAP de transmissoras prorrogadas (Furnas, CEEE-GT, Celg GT) e recursos administrativos",
+   "tema": [
+    "votação em bloco",
+    "transmissão (RAP)",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, com impedimentos de Júlio (item 19) e Sandoval (item 16)",
+   "resumo_voto": "Bloco aprovado; Júlio impedido no item 19 (recurso contra decisão sua na SRM) e ajuste de data de abertura da consulta pública de Furnas (item 14) para 1º de abril; Sandoval impedido no item 16 (recurso a auto de infração 63/2017 lavrado por ele como superintendente da SRSE).",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco; impedido no item 19",
+     "ts": "0:06:06",
+     "confianca": "media",
+     "justificativa": "impedido no item 19 por ser recurso a decisão sua na SRM; corrige data da CP do item 14 para 1º de abril"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:06:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; impedido no item 16",
+     "ts": "0:06:50",
+     "confianca": "media",
+     "justificativa": "auto de infração 63/2017 lavrado por ele enquanto superintendente da SRSE"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:07:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:23",
+   "processo": "48500.000751/2019",
+   "interessado": "Cemig Geração e Transmissão (contrato 6/1997)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada pela Lei 12.783/2013 - Cemig Geração e Transmissão (contrato 6/1997)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 1, 3, 4 e 5 votados em conjunto, após apresentação técnica da SGT (Denis); CP de 45 dias usando custos operacionais propostos na AP 41/2017 e base de remuneração preliminar da SFF; revisão definitiva se esses valores forem homologados até o fim da CP, senão provisória.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:22",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:45:26",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:38:31",
+     "confianca": "alta",
+     "justificativa": "CP com custos operacionais da AP 41/2017 e base preliminar; revisão pode ser provisória"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:45:30",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:45:35",
+     "confianca": "0:45:40"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:09:31",
+   "processo": "48500.000747/2019",
+   "interessado": "Eletronorte (contrato 58/2001)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada pela Lei 12.783/2013 - Eletronorte (contrato 58/2001)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 1, 3, 4 e 5 votados em conjunto, após apresentação técnica da SGT (Denis); CP de 45 dias usando custos operacionais propostos na AP 41/2017 e base de remuneração preliminar da SFF; revisão definitiva se esses valores forem homologados até o fim da CP, senão provisória.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:22",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:45:26",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:38:31",
+     "confianca": "alta",
+     "justificativa": "CP com custos operacionais da AP 41/2017 e base preliminar; revisão pode ser provisória"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:45:30",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:45:35",
+     "confianca": "0:45:40"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:09:54",
+   "processo": "48500.000748/2019",
+   "interessado": "CTEEP (contrato 59/2001)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada pela Lei 12.783/2013 - CTEEP (contrato 59/2001)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 1, 3, 4 e 5 votados em conjunto, após apresentação técnica da SGT (Denis); CP de 45 dias usando custos operacionais propostos na AP 41/2017 e base de remuneração preliminar da SFF; revisão definitiva se esses valores forem homologados até o fim da CP, senão provisória.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:22",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:45:26",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:38:31",
+     "confianca": "alta",
+     "justificativa": "CP com custos operacionais da AP 41/2017 e base preliminar; revisão pode ser provisória"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:45:30",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:45:35",
+     "confianca": "0:45:40"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:10:19",
+   "processo": "48500.000749/2019",
+   "interessado": "Copel Geração e Transmissão (contrato 60/2001)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada pela Lei 12.783/2013 - Copel Geração e Transmissão (contrato 60/2001)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 1, 3, 4 e 5 votados em conjunto, após apresentação técnica da SGT (Denis); CP de 45 dias usando custos operacionais propostos na AP 41/2017 e base de remuneração preliminar da SFF; revisão definitiva se esses valores forem homologados até o fim da CP, senão provisória.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:22",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:45:26",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:38:31",
+     "confianca": "alta",
+     "justificativa": "CP com custos operacionais da AP 41/2017 e base preliminar; revisão pode ser provisória"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:45:30",
+     "confianca": "0:45:40"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:45:35",
+     "confianca": "0:45:40"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:08:45",
+   "processo": "48500.000746/2019",
+   "interessado": "Eletrosul (contrato 57/2001)",
+   "assunto": "Abertura de consulta pública (1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada - Eletrosul (contrato 57/2001)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 2 e 6 votados em conjunto; relator destaca evolução da RAP por ciclo (item 38 do voto); base provisória ainda não fiscalizada; pedido para incluir nome das empresas no dispositivo.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:49",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:52:53",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:57",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:48:46",
+     "confianca": "alta",
+     "justificativa": "relato idêntico ao dos itens do diretor Efrain; base provisória pode variar"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:52:57",
+     "confianca": "0:53:00"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:10:39",
+   "processo": "48500.000750/2019",
+   "interessado": "Chesf (contrato 61/2001)",
+   "assunto": "Abertura de consulta pública (1/4 a 15/5/2020) sobre a revisão periódica da RAP de concessão de transmissão prorrogada - Chesf (contrato 61/2001)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens 2 e 6 votados em conjunto; relator destaca evolução da RAP por ciclo (item 38 do voto); base provisória ainda não fiscalizada; pedido para incluir nome das empresas no dispositivo.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:49",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:52:53",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:57",
+     "confianca": "0:53:00"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:48:46",
+     "confianca": "alta",
+     "justificativa": "relato idêntico ao dos itens do diretor Efrain; base provisória pode variar"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:52:57",
+     "confianca": "0:53:00"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:03:54",
+   "processo": "48500.000542/2015",
+   "interessado": "ANEEL, Anatel e ANP",
+   "assunto": "Abertura de consulta pública (3/4 a 18/5/2020) sobre a recriação da Comissão de Resolução de Conflitos das agências de energia elétrica, telecomunicações e petróleo e convalidação de atos após 28/06/2019",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "institucional",
+    "compartilhamento de infraestrutura"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Comissão extinta pelo Decreto 9.759/2019; Lei 13.848/2019 (art. 29) permite atos normativos conjuntos com solução de controvérsias; recriação nos mesmos moldes, sem AIR por não ter natureza normativa.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:14:18",
+     "confianca": "1:14:25"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:14:20",
+     "confianca": "1:14:25"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:14:22",
+     "confianca": "1:14:25"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:12:47",
+     "confianca": "alta",
+     "justificativa": "demandas represadas; Lei das Agências permite comissão conjunta; convalidar decisões após 28/06/2019"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:14:22",
+     "confianca": "1:14:25"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:17:53",
+   "processo": "48500.005336/2005 e 48500.005374/2005",
+   "interessado": "PC Energia S.A. (UTE Pecém II) e Energética Camaçari Muricy II S.A. (UTE Camaçari Muricy II); terceira interessada Aruanã Energia",
+   "assunto": "Alteração de características técnicas das UTEs Pecém II e Camaçari Muricy II (de 70 motores a diesel para 2 turbinas, relocalização em Dias d'Ávila-BA no sítio da extinta UTE Camaçari da Chesf) - continuação com voto-vista",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "leilões (energia nova)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "alteração de características técnicas aprovada por unanimidade; recomendação de requerer ao MME mudança do combustível principal para gás natural aprovada por maioria (vencidos Elisa Bastos e André Pepitone)",
+   "resumo_voto": "Voto-vista de Elisa acompanha o item 1 do relator e rejeita determinação sobre combustível; relator (com Júlio e Efrain) converte a determinação em recomendação; Diretor-Geral acompanha o voto-vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator original: aprova alteração e (após debate) recomenda pedido ao MME de mudança para gás natural",
+     "ts": "2:04:25",
+     "confianca": "alta",
+     "justificativa": "ANEEL pode impor exigências (parecer da Procuradoria); alinhamento com compromissos da COP21/Acordo de Paris; agente se comprometeu por carta; aceitou trocar determinação por recomendação"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "voto-vista: aprova só a alteração de características técnicas, sem determinação nem recomendação sobre combustível; vencido no item 2",
+     "ts": "1:19:46",
+     "confianca": "alta",
+     "justificativa": "não cabe à ANEEL determinar nem recomendar combustível a produtor independente (risco próprio, art. 11 da Lei 9.074/1995); papel do planejador (MME/EPE); estabilidade regulatória: 1.027 alterações desde 2015 sem exigências; rejeita alegações da Aruanã Energia"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (recomendação)",
+     "ts": "2:42:02",
+     "confianca": "media",
+     "justificativa": "a favor de trocar determinação por recomendação"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (recomendação)",
+     "ts": "2:42:10",
+     "confianca": "media",
+     "justificativa": "sugeriu trocar determinação por recomendação, que não vincula a agência"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto-vista; vencido no item 2",
+     "ts": "2:42:33",
+     "confianca": "alta",
+     "justificativa": "fase é de execução do contrato, não de definir critérios do leilão; determinação/recomendação fora do edital e do contrato traz incerteza jurídica; desnecessária"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:55:04",
+   "processo": "48500.000106/2020",
+   "interessado": "Solatio Energia Gestão de Projetos Solares Ltda.; oposição de Uirapuru 1, 2 e 3",
+   "assunto": "Declaração de utilidade pública para servidão administrativa da LT 500 kV SE Coletora Janaúba - SE Janaúba 3 (~20,5 km), Janaúba-MG, complexo fotovoltaico Janaúba 1 a 20",
+   "tema": [
+    "transmissão (servidão/DUP)",
+    "outorgas de geração (solar)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral gravada da Solatio (Lívia Amorim), com falhas de áudio que suspenderam o item duas vezes; erro de coordenadas já corrigido (NT 194/2020 SCG); Uirapuru sem outorga; recomenda negociação entre as partes.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "3:01:57",
+     "confianca": "3:02:06"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:02:00",
+     "confianca": "3:02:06"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "3:02:03",
+     "confianca": "3:02:06"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:52:57",
+     "confianca": "alta",
+     "justificativa": "Solatio atende os requisitos da REN 740/2016; Uirapuru ainda não é agente outorgado; recomenda negociação"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:02:03",
+     "confianca": "3:02:06"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "8"
+  },
+  {
+   "id": "26"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: Efrain Cruz aparece como 'franklin'/'claude'/'frango'; Júlio como 'júnior'; números de processo reconstituídos e podem conter erros.",
+  "Bloco: impedimentos registrados conforme a proclamação (Júlio item 19, Sandoval item 16), embora o item 16 estivesse destacado; ordem das falas do bloco incerta.",
+  "Itens 2/6, 7 e 10: ordem dos votos dos seguidores (Júlio, Elisa, Efrain, DG) inferida; ts aproximados.",
+  "Item 9: posição do Diretor-Geral (acompanha o voto-vista, vencido quanto à recomendação) inferida da fala 'vou acompanhar o voto-vista'; a proclamação diz 'por maioria' sem nomear vencidos.",
+  "Item 10: sustentação oral em vídeo com falhas de áudio; item suspenso e retomado ao fim da parte 1.",
+  "Itens 11, 12, 16 e 17 não constam desta parte do vídeo."
+ ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {"video_id": "7dGbSjWsFRE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1ª Reunião Pública Ordinária de 2022", "data": "2022-01-18", "formato": "virtual",
+    "presidente_da_sessao": "Elisa Bastos (substituindo o Diretor-Geral)",
+    "diretores_presentes": ["Elisa Bastos", "Hélvio Guerra", "Efrain Cruz"],
+    "ausentes": ["Sandoval Feitosa", "André Pepitone"],
+    "observacoes": ["Abertura registra ausência dos diretores Sandoval e André (férias); quórum de três diretores.", "Aprovadas as atas da 14ª, 15ª e 16ª reuniões públicas extraordinárias de 2021.", "Pauta com 30 itens; bloco dos itens 3 a 30, exceto o 16 (destacado para sustentação oral); retirados de pauta itens citados de forma confusa pela legenda (26, 18 e 21 / 18 e 28).", "Item 16 (PCH Poço Fundo): pedido de vista após o voto da relatora. Item 1 (CP 13/2020, módulos 2 e 5 das regras de transmissão): voto-vista de Hélvio Guerra aprovado por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "bloco 3-30", "ts": "0:10:47", "processo": "", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 3 a 30 (exceto 16 e retirados), com pedido de vista do item 27",
+      "tema": ["deliberação em bloco"], "relator": "diversos", "resultado": "aprovados os itens do bloco; vista do item 27",
+      "resumo_voto": "Itens do bloco aprovados; um diretor pediu vista do item 27 do bloco.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:10:55", "justificativa": "Proclama a aprovação dos itens do bloco.", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco; possivelmente pede vista do item 27", "ts": "0:11:01", "justificativa": "Fala «vou solicitar vista do item 27 do bloco e os demais eu aprovo» sem nome claro; atribuição pela ordem.", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:11:06", "justificativa": "«eu também aprovo» o bloco.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "16", "ts": "0:11:36", "processo": "48500.000917/2007-78 (legenda incerta)", "interessado": "Poço Fundo Energia S.A. (PCH Poço Fundo, São José do Vale do Rio Preto/RJ)",
+      "assunto": "Alteração do cronograma de implantação da PCH Poço Fundo; excludentes de responsabilidade (atraso na autorização de supressão vegetal e Covid-19); sustentação oral de Paulo Gesteira pela empresa",
+      "tema": ["outorgas de geração (hidrelétrica)", "excludente de responsabilidade", "leilões (reserva)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "pedido de vista (não concluído)",
+      "resumo_voto": "Relatora dá provimento parcial: reconhece 137 dias de excludente pela demora na autorização de supressão vegetal, recompõe outorga e desloca suprimento do CER 403/2016 para 16/07/2020; nega os 78 dias da Covid-19 por falta de nexo causal (RAPEEL mostra outros atrasos). Procuradoria (Eduardo Ramalho) acompanhou a área técnica. Outro diretor pediu vista.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova provimento parcial", "ts": "0:28:40", "justificativa": "Não demonstrado que a pandemia foi causa determinante do atraso; informações do RAPEEL indicam outras causas.", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "pede vista", "ts": "0:32:00", "justificativa": "Recebeu os empreendedores na véspera e a sustentação oral trouxe argumentos que geraram dúvidas.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:32:51", "processo": "48500.000893/2019-05; 48500.000983/2019-98; 48500.000984/2019-32", "interessado": "ONS, ABRATE, ISA CTEEP, transmissoras e usuários",
+      "assunto": "Resultado da 2ª fase da CP 13/2020: consolidação das regras de classificação das instalações de transmissão e de acesso (módulos 2 e 5 das Regras dos Serviços de Transmissão) - voto-vista",
+      "tema": ["transmissão", "regulação normativa (consulta pública)"],
+      "relator": "Elisa Bastos (original); Hélvio Guerra (voto-vista)", "resultado": "aprovado por unanimidade nos termos do voto-vista",
+      "resumo_voto": "Aprova a consolidação com modificações: retira detalhamento das ações do ONS como interveniente do CCT (tema vai à agenda regulatória), mantém item 7.3 do módulo 3, inclui 3 ressalvas do ONS ao parecer de acesso, exclui item 2.1.1 (informação de acesso), prazo de 90 dias ao ONS para procedimentos de rede, estudos sobre mínimo custo global (SRT, ONS, EPE) e percentuais de ressarcimento de custos de acesso.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor", "ts": "0:35:00", "justificativa": "Avança a consolidação sem mudar agora a interveniência do ONS nos CCT/CCI, que deve ser discutida na agenda regulatória; acata contribuições do ONS e ABRATE.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o voto-vista (relatora original)", "ts": "1:20:35", "justificativa": "«eu acompanho integralmente as propostas trazidas pelo diretor»; voto-vista agrega valor e refina a matéria.", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o voto-vista", "ts": "1:20:45", "justificativa": "Total concordância; elogia a construção conjunta do colegiado.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["Itens 18, 21/26/28 (números incertos na legenda)"],
+  "limites_da_analise": ["Legenda automática com uma única marca de tempo; ts obtidos do .json de transcrição, aproximados.", "Presidência exercida por Elisa Bastos (inferida pelas falas); Sandoval e André ausentes.", "Pedido de vista do item 16 e do item 27 do bloco: o diretor que pediu não é nomeado na legenda (Hélvio Guerra ou Efrain Cruz).", "Números de processo e de itens retirados incertos."]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "bWR1FGfmJ5w", "fonte": "legenda automática do YouTube; falantes não nomeados; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "7", "data": "2018-03-13", "formato": "presencial",
+    "presidente_da_sessao": "não identificado",
+    "diretores_presentes": ["não identificado (3 diretores, quórum citado)"],
+    "ausentes": [],
+    "observacoes": ["Vídeo curto (recorte): abertura da 7ª Reunião Pública Ordinária, aprovação da ata da 6ª reunião e votação em bloco dos itens 14 a 31.", "Itens 36 e 11 retirados de pauta; sem pedidos de destaque no bloco."]
+  },
+  "itens": [
+    {
+      "id": "14 a 31 (bloco)", "ts": "0:00:05",
+      "processo": "", "interessado": "",
+      "assunto": "Votação em bloco dos itens 14 a 31 da pauta (minutas de voto e notas disponíveis no site desde 08/03/2018)",
+      "tema": ["institucional"],
+      "relator": "não identificado",
+      "resultado": "aprovado o bloco por unanimidade (três diretores votaram pela aprovação)",
+      "resumo_voto": "Sem destaque; os três diretores presentes votaram pela aprovação do bloco.",
+      "votos": [
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:05", "justificativa": "voto pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:05", "justificativa": "também vota pela aprovação do bloco", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco", "ts": "0:00:05", "justificativa": "voto pela aprovação do bloco", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Item 36", "Item 11"],
+  "limites_da_analise": ["Transcrição de ~1,5 mil caracteres com um único marcador de tempo; nenhum diretor é nomeado na legenda, por isso os votos ficam como «não identificado».", "Conteúdo dos itens 14 a 31 não descrito no vídeo; demais itens (1, 2, 4, 5, 7, 12, 13) não constam deste recorte."]
+}

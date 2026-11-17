@@ -1,0 +1,64 @@
+{
+ "meta": {"video_id": "ahAI5yFD8oM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08:34); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "23ª Reunião Pública Ordinária de 2019", "data": "2019-07-02", "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto)",
+  "diretores_presentes": ["Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Rodrigo Limp"],
+  "ausentes": ["André Pepitone"],
+  "observacoes": [
+   "Abertura com quórum de três diretores; o Diretor-Geral André Pepitone não presidiu (Sandoval Feitosa conduz como DG substituto). Rodrigo Limp aparentemente chegou após o início (fala final: «eu cheguei à reunião já tinha se iniciado»).",
+   "Retirados de pauta os itens 6, 7 e 11. Itens 8 a 25 (exceto 11) aprovados em bloco. Ordem de julgamento: 1, 3, 4, 5 e 2; sustentação oral e preferência nos itens 2 e 5.",
+   "No item 5 (recurso da Energisa Tocantins) Sandoval Feitosa declarou-se impedido por ter sido superintendente da SFE quando lavrado o auto de infração; o relator Efrain Cruz reajustou o voto em sessão para converter a não conformidade N1 em advertência, acolhendo a sustentação oral."
+  ]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:11:18", "processo": "", "interessado": "diversos", "assunto": "Itens 8 a 25 da pauta (exceto o 11, retirado), aprovados em bloco; votos e atos disponibilizados na internet", "tema": ["bloco de itens"], "relator": "não identificado", "resultado": "aprovado em bloco", "resumo_voto": "Aprovação em bloco dos itens remanescentes.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:11:18", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:18", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:18", "confianca": "baixa"}
+   ]},
+  {"id": "1", "ts": "0:11:37", "processo": "48500.002103/2019-18", "interessado": "Energisa Tocantins Distribuidora de Energia S.A. (ETO)", "assunto": "Reajuste tarifário anual de 2019 da Energisa Tocantins, a vigorar a partir de 4/7/2019: efeito médio de -0,33% (-0,20% alta tensão; -0,36% baixa tensão)", "tema": ["tarifas e revisão tarifária", "distribuição"], "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa índice de reajuste, fixa TUSD/TE, receita de DIT e repasse mensal da CDE; redução puxada por encargos (fim do recolhimento da CDE energia e antecipação da quitação da Conta-ACR) e contratos de energia mais baratos.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "0:20:30", "justificativa": "apresentação técnica da SGT; efeito médio de -0,33%; tarifas abaixo da inflação em dez anos", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:22:00", "justificativa": "comentário (atribuição incerta): contratos de energia mais baratos via leilões beneficiam o consumidor; custo de distribuição acima de 2 pontos percentuais pela primeira vez", "confianca": "baixa"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:23:22", "justificativa": "presença incerta neste item (chegou após o início)", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:23:22", "justificativa": "desafio é fazer os preços competitivos dos leilões chegarem ao consumidor; reajustes negativos recorrentes neste ano", "confianca": "alta"}
+   ]},
+  {"id": "3", "ts": "0:24:30", "processo": "48500.000347/2017-11", "interessado": "CCEE; Abrace (grandes consumidores); consumidores livres", "assunto": "Prorrogação do programa piloto de resposta da demanda (REN 792/2017) por 180 dias, até 27/12/2019, sem abrir nova audiência pública", "tema": ["comercialização", "regulação normativa"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade", "resumo_voto": "Prorroga o piloto ipsis litteris; baixa adesão atribuída à inadimplência no MCP pela judicialização do GSF; aprimoramentos e eventual audiência ficam para discussão interna da diretoria até dezembro.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova prorrogação (sem abrir audiência pública, contra sugestão da área)", "ts": "0:29:30", "justificativa": "redução de custos de despacho térmico fora da ordem de mérito, confiabilidade, modicidade tarifária e estabilidade regulatória; tema merece discussão técnica com todos os diretores antes de audiência", "confianca": "alta"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:30:19", "justificativa": "elogia a prorrogação; resposta da demanda reduz custos e aumenta segurança; baixa adesão ligada ao GSF, que caminha para solução (atribuição do comentário inferida)", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:31:40", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:31:40", "confianca": "alta"}
+   ]},
+  {"id": "4", "ts": "0:32:21", "processo": "48500.005630/2016-31", "interessado": "CCEE; Intercement Brasil; contribuintes Abiape, Brookfield, ESBR, Neoenergia", "assunto": "Resultado da Audiência Pública 5/2019: alteração das regras de comercialização (módulos tratamento de exposições e encargos) em atendimento à REN 817/2018 e ao Despacho 1.400/2018, com recontabilização a partir de julho/2018", "tema": ["comercialização", "regulação normativa", "CDE e encargos setoriais"], "relator": "Rodrigo Limp", "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova os módulos das regras de comercialização e determina à CCEE recontabilizar operações desde julho/2018; contribuições da CCEE aceitas, Brookfield parcialmente, demais rejeitadas.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:39:00", "justificativa": "tema sem grandes inovações, apenas reflete nas regras o já aprovado na REN 817", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:39:37", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:39:37", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:39:37", "confianca": "alta"}
+   ]},
+  {"id": "5", "ts": "0:40:40", "processo": "48500.000294/2016-31", "interessado": "Energisa Tocantins Distribuidora de Energia S.A. (ETO)", "assunto": "Recurso administrativo contra o Auto de Infração 59/2017 da SFE (qualidade técnica/indicadores de continuidade e compensações); sustentação oral de Frederico (coordenador jurídico da Energisa)", "tema": ["fiscalização e sanções", "recursos administrativos", "distribuição e qualidade"], "relator": "Efrain Cruz", "resultado": "provimento parcial por unanimidade dos votantes; multa reduzida a cerca de R$ 1,697 milhão e N1 convertida em advertência", "resumo_voto": "Conhece e dá provimento parcial; mantém N2 a N5; N1 (dados incorretos) reenquadrada e, após a sustentação, convertida em advertência por não haver intenção de prejudicar a fiscalização; nega conversão da N5.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, provimento parcial (ajustou o voto em sessão: N1 convertida em advertência)", "ts": "0:58:15", "justificativa": "não houve atuação deliberada de restringir a fiscalização na N1; N5 não é de pequeno potencial ofensivo, compensações a menor exigem responsabilização", "confianca": "alta"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "1:00:34", "justificativa": "citado nominalmente na proclamação como votante", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:00:34", "justificativa": "citada nominalmente na proclamação como votante", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "suspeito/impedido", "ts": "1:00:34", "justificativa": "impedido (art. 11, II, da norma de organização) por ter lavrado o auto como superintendente da SFE", "confianca": "alta"}
+   ]},
+  {"id": "2", "ts": "1:03:22", "processo": "48500.006286/2018-60; 48500.001334/2019-12", "interessado": "Enel Distribuição São Paulo (ex-Eletropaulo)", "assunto": "Quinta revisão tarifária periódica da Enel SP após AP 11/2019, a vigorar de 4/7/2019: efeito médio de 7,03% (8,46% AT; 6,48% BT), limites DEC/FEC 2020-2023, fator X e perdas; sustentação oral de Luiz Gazzoni Júnior (Enel)", "tema": ["tarifas e revisão tarifária", "distribuição e qualidade"], "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova a revisão; pleitos da Enel (hedge cambial de Itaipu, risco hidrológico em receitas irrecuperáveis, custos operacionais, exposição entre submercados) não acatados.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "1:32:27", "justificativa": "análise das 22 contribuições da AP 11/2019; pleitos sem previsão contratual/regulamentar ou a tratar em audiência específica", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:38:45", "justificativa": "comentário de atribuição incerta: tarifa baixa de SP decorre de densidade de mercado; trajetória de perdas cai só 0,01; previsão de risco hidrológico a maior já vista", "confianca": "baixa"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "1:38:45", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:38:45", "justificativa": "destaca redução da CDE de cerca de 5% em SP pela agenda de desoneração tarifária", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["item 6", "item 7", "item 11"],
+ "limites_da_analise": [
+  "Legenda automática: números de processo reconstruídos aproximadamente (ex.: 48500.002103/2019-18, 48500.000347/2017-11, 48500.005630/2016-31, 48500.006286/2018-60) e valores podem estar errados.",
+  "Rodrigo Limp: abertura com três diretores; ele parece ter chegado depois do início, logo seu voto no item 1 é incerto; não registrado no bloco.",
+  "Comentários sem nome (itens 1, 2 e 3) atribuídos por inferência; votos dos não relatores vêm da proclamação 'por unanimidade'.",
+  "Item 5: valor final proclamado de cerca de R$ 1.697.451,07 conforme legenda; incerto."
+ ]
+}

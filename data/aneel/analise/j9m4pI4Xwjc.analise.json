@@ -1,0 +1,89 @@
+{
+ "meta": {"video_id": "j9m4pI4Xwjc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "35ª Reunião Pública Ordinária de 2020 (Parte 1)",
+  "data": "2020-09-22",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Efrain Cruz (Diretor-Geral substituto)",
+  "diretores_presentes": ["Efrain Cruz", "Elisa Bastos", "Christiano Vieira da Silva"],
+  "ausentes": ["André Pepitone", "Sandoval Feitosa"],
+  "observacoes": [
+   "Quórum de três diretores; Christiano Vieira (citado como Cristiano) em sua primeira reunião, recebeu boas-vindas de Elisa Bastos.",
+   "Abertura com relato do presidente sobre inauguração de usina solar em Coremas (PB) e Fórum de energia solar do Sertão em Pombal.",
+   "Aprovação da ata da 34ª RPO adiada: Elisa estava de férias naquela reunião e não haveria três votantes.",
+   "Pauta de 28 itens; bloco itens 8 a 28; retirados de pauta itens 6, 13 e 14; sustentação oral nos itens 2, 3 e 4. Itens 3, 5 e 7 ficaram para depois do intervalo (Parte 2, outro vídeo).",
+   "Sessão suspensa às 12h01 para retorno às 14h."
+  ]
+ },
+ "itens": [
+  {
+   "id": "informe-CP45", "ts": "0:07:37", "processo": "", "interessado": "geradores hidrelétricos do MRE",
+   "assunto": "Prorrogação por 18 dias (até 16/10/2020) do prazo de contribuições da Consulta Pública 45/2020 (sazonalização de garantia física das usinas do MRE), para coincidir com a CP 33/2019",
+   "tema": ["regulação normativa (consulta pública)", "comercialização (MRE, garantia física)"],
+   "relator": "Elisa Bastos", "resultado": "aprovado (silêncio dos demais diretores = aprovação)",
+   "resumo_voto": "Prorrogação para análise simultânea das contribuições da CP 33/2019 e CP 45/2020, conforme decidido na 34ª RPO.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, propõe prorrogação", "ts": "0:07:37", "justificativa": "coincidir os prazos das duas consultas analisadas simultaneamente", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha (silêncio = aprovação)", "ts": "0:08:30", "confianca": "media"},
+    {"diretor": "Christiano Vieira da Silva", "voto": "acompanha (silêncio = aprovação)", "ts": "0:08:30", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "bloco (itens 8 a 28, exceto 13 e 14)", "ts": "0:13:00", "processo": "", "interessado": "diversos",
+   "assunto": "Itens do bloco da 35ª RPO de 2020, com relatórios e votos disponibilizados na internet",
+   "tema": ["bloco de itens"],
+   "relator": "diversos", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco submetido pelo presidente e aprovado pelos três diretores.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:13:51", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:13:52", "confianca": "media"},
+    {"diretor": "Christiano Vieira da Silva", "voto": "aprova o bloco", "ts": "0:13:53", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:14:17", "processo": "48500.000373/2019-94", "interessado": "geradores hidrelétricos participantes do MRE; CCEE; ONS; EPE; MME",
+   "assunto": "Abertura de consulta pública (30 dias, 23/09 a 22/10/2020) para regulamentar o art. 2º da Lei 14.052/2020: compensação do risco hidrológico (GSF) por extensão de outorgas — deslocamento hidrelétrico por GFOM e importação, atraso de transmissão e antecipação de garantia física das estruturantes Santo Antônio, Jirau e Belo Monte",
+   "tema": ["comercialização (CCEE, MRE, GSF, MCP)", "regulação normativa (consulta pública)", "outorgas de geração (hidrelétrica)"],
+   "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "CP de 30 dias (prazo menor que 45 justificado por excepcional urgência, Lei 13.848); dispensa de AIR por se tratar de disciplina de direito definido em lei; apresentação técnica de Rafael Ribeiro (SRG); comitê informal ANEEL/ONS/CCEE/EPE/MME; CCEE terá até 60 dias após a REN para apresentar cálculos; parcelamento de débitos no MCP deve ser pedido à CCEE; sem sustentação oral.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, aprova abertura da CP", "ts": "1:05:59", "justificativa": "regulamentar a Lei 14.052 para resgatar segurança jurídica e normalizar o MCP (débito líquido de cerca de 5 bi, de quase 9 bi em aberto); prazo curto pela urgência legal", "confianca": "alta"},
+    {"diretor": "Christiano Vieira da Silva", "voto": "acompanha a relatora", "ts": "1:29:32", "justificativa": "elogiou a condução; vê a CP como fecho final da questão do GSF e fim da judicialização como novo normal; histórico de 2012-2015 (hidrologia, modelos otimistas, despacho fora da ordem de mérito)", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha a relatora e proclama", "ts": "1:29:35", "justificativa": "solução simbólica de problema de mais de 10 anos; alinhamento regulador, MME e Congresso; destrava o MCP e permite pensar na modernização do setor", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "2", "ts": "1:30:44", "processo": "48500.003692/2016-17", "interessado": "CPFL Piratininga (distribuidora); ARSESP",
+   "assunto": "Recurso administrativo da CPFL Piratininga contra o Auto de Infração 25/2015 da ARSESP (qualidade comercial; multa e advertência de cerca de R$ 3,54 milhões)",
+   "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "distribuição (qualidade comercial)"],
+   "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade — recurso conhecido e parcialmente provido (só reenquadramento, multa mantida)",
+   "resumo_voto": "Sustentação oral de Mauro Rodrigues (CPFL Piratininga) pedindo reenquadramento das NC 03/04 e cancelamento da NC 06; apresentação técnica da SFE (Thompson). Voto: alterar tipificação das NC 03, 04, 06 e 07 do art. 6º inciso I para art. 6º inciso XXIII da REN 63/2004 (mesmo grupo, sem alterar dosimetria); negada conversão de multa em advertência por não serem de pequeno potencial ofensivo; mantido valor histórico de R$ 3.542.156,31 (valores da legenda). Relator alertou para prescrição próxima.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, dá provimento parcial", "ts": "2:08:27", "justificativa": "segurança e similitude entre decisões; acompanha SFE (memorando 185/2020) e Procuradoria quanto ao enquadramento; multas mantidas", "confianca": "alta"},
+    {"diretor": "Christiano Vieira da Silva", "voto": "acompanha o relator", "ts": "2:09:07", "justificativa": "sem comentários", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "2:09:10", "justificativa": "processo bem instruído, com acréscimos da Procuradoria e refinamento da SFE", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "4", "ts": "2:10:12", "processo": "48500.004426/2019-77", "interessado": "Eletrogoes S.A. (UHE Rondon II; em recuperação judicial)",
+   "assunto": "Recurso administrativo e pedido de medida cautelar contra o Despacho 2.931/2019 da SFF, que fixou a cota de RGR jul/2019-jun/2020 com cobrança retroativa de 2013 a 2018; pedido de parcelamento",
+   "tema": ["CDE e encargos setoriais (RGR)", "recursos administrativos", "outorgas de geração (hidrelétrica)"],
+   "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade — provimento parcial; parcelamento em 84 meses; cautelar negada por perda de objeto",
+   "resumo_voto": "Sustentação oral de Gerusa Magalhães (Eletrogoes) pedindo parcelamento sem juros ou cautelar. Voto: parcelamento de R$ 3,1 milhões (RGR 2017-2018) em 84 parcelas nos termos da Lei 10.522/2002, com juros Selic + 1%; negada condição diferente da legal (seria renúncia de crédito público); cautelar negada por perda de objeto; Procuradoria deve buscar excluir créditos de 2013-2016 da recuperação judicial.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, dá provimento parcial", "ts": "2:50:47", "justificativa": "empresa em recuperação judicial deve seguir lei específica (84 parcelas); precedente de 36 meses sem juros não se aplica", "confianca": "alta"},
+    {"diretor": "Christiano Vieira da Silva", "voto": "acompanha a relatora", "ts": "2:55:00", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha a relatora e proclama", "ts": "2:55:02", "justificativa": "decisão dentro da legalidade; questionou se o item 4 (determinação à Procuradoria) era necessário; relatora explicou que foi sugestão da própria Procuradoria", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": ["Item 6 (retirado de pauta)", "Item 13 (retirado de pauta)", "Item 14 (retirado de pauta)", "Ata da 34ª RPO (adiada por falta de três votantes)"],
+ "limites_da_analise": [
+  "Christiano Vieira da Silva (dito Cristiano) não consta da lista de diretores do config; nome registrado como dito.",
+  "Presidente identificado como Efrain Cruz por inferência: chamado de diretor-geral substituto pelo procurador, relator do item 2 e tratado por Elisa como diretor Efrain; tag automática de falante indicava Sandoval/Tili.",
+  "Ausência de André Pepitone e Sandoval Feitosa inferida pelo quórum de três diretores; motivo não dito.",
+  "Votos de acompanhamento curtos sem nome (itens 2 e 4): atribuição pela ordem usual, confiança baixa.",
+  "Nome da recorrente do item 4 aparece distorcido na legenda (eletrogod, electroboyz); valores e números de processo podem conter erros da legenda.",
+  "Itens 3, 5 e 7 foram deliberados após o intervalo, fora deste vídeo (Parte 1)."
+ ]
+}

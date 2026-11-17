@@ -1,0 +1,51 @@
+{
+ "meta": {"video_id": "VNPGq-CoQ8g", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "1ª RPE 2022",
+  "data": "2022-02-03",
+  "formato": "não informado",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) (inferido)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Hélvio Guerra", "Efrain Cruz"],
+  "ausentes": [],
+  "observacoes": ["Pauta com 2 itens; a sessão começou pelo item 2 da pauta (UTE Nova Piratininga).", "Abertura com quórum de quatro diretores; Efrain Cruz se juntou ao longo da reunião (relator do segundo processo).", "Ambos os itens decididos por unanimidade dos votantes."]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:50",
+   "processo": "48500.002025/2015-60 (número incerto na legenda)",
+   "interessado": "Petrobras (UTE Nova Piratininga)",
+   "assunto": "Pedido de prorrogação da vigência do CVU da UTE Nova Piratininga, estabelecido de forma precária pelo Despacho 3.993/2021",
+   "tema": ["outorgas de geração (térmica)", "comercialização (CVU, CCEE, ONS)"],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes: CVU precário prorrogado por 45 dias a partir de 01/02/2022 (cerca de R$ 2.037,43/MWh sem custos fixos e R$ 2.196,59/MWh com custos fixos); SRG, SFF e Procuradoria devem se manifestar em 20 dias sobre a documentação da Petrobras",
+   "resumo_voto": "Relator prorroga o CVU precário porque a Petrobras, dona da usina e fornecedora do gás, não apresentou contrato de suprimento (relação de autoimportação), mas enviou nota técnica sobre preço do gás; manter o CVU desatualizado é indesejável pois influencia o despacho. Procuradoria não se manifestou por ausência de questão jurídica controvertida.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:12:45", "justificativa": "Prorroga o CVU precário por 45 dias e determina análise das áreas técnicas em 20 dias sobre a documentação da Petrobras, que substituiu o contrato de suprimento por nota técnica.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:14:27", "justificativa": "Acompanha o relator; antes questionou se os 45 dias eram prazo de análise (relator esclareceu: 20 dias para as áreas técnicas).", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:14:30", "justificativa": "«Eu também acompanho relator».", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:14:33", "justificativa": "Acompanha e proclama unanimidade dos votantes.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:15:31",
+   "processo": "48500.006312/2021-55",
+   "interessado": "distribuidoras (Abradee); consumidores; CCEE",
+   "assunto": "Abertura de consulta pública para regulamentar a Conta Escassez Hídrica (MP 1.078/2021 e Decreto 10.939/2022): operações financeiras, uso do encargo da CDE e procedimentos",
+   "tema": ["CDE e encargos setoriais", "regulação normativa (consulta pública)", "tarifas e revisão tarifária (bandeiras)"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes: consulta pública por meio documental, prazo reduzido de 15 para 10 dias a partir de 04/02/2022, com atualização do teto da conta Bandeiras usando CVU de R$ 600/MWh",
+   "resumo_voto": "Relator propõe consulta pública sobre a minuta de resolução da Conta Escassez Hídrica, com apresentação técnica sobre a estimativa do saldo da conta Bandeiras em abril de 2022. Sustentação oral de Ricardo Brandão (Abradee). Elisa Bastos sugeriu recalcular o teto com CVU de R$ 600/MWh; o Diretor-Geral propôs reduzir o prazo de 15 para 10 dias; relator acolheu ambas.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:59:00", "justificativa": "Abre consulta pública para colher subsídios sobre a minuta de resolução da Conta Escassez Hídrica e uso do encargo da CDE; acolheu a atualização do CVU e a redução do prazo para 10 dias.", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:59:47", "justificativa": "Vazões elevadas no Norte/Nordeste em janeiro tornam razoável supor não uso de térmicas até abril; premissa mais adequada para calcular o saldo da conta Bandeiras; elogia equipes e distribuidoras (atribuição do falante inferida).", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:06:10", "justificativa": "Acompanha com ressalvas: cautela com o empréstimo, risco de distorção do sinal econômico e de dependência de operações de crédito ('bola de neve'); alocação de custos e riscos às distribuidoras; sugere recalcular o teto com CVU de R$ 600/MWh.", "tom": "cauteloso", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:17:05", "justificativa": "Acompanha o relator (pela proclamação; fala individual sem nome na legenda).", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:17:10", "justificativa": "Propôs reduzir o prazo da consulta de 15 para 10 dias pela urgência; acompanha e proclama unanimidade.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Presidência atribuída a André Pepitone por inferência (Diretor-Geral em fev/2022); não é dito o nome na abertura.", "Efrain Cruz não votou no item 1 (juntou-se depois; os votos ouvidos foram três mais o relator).", "Atribuição das falas de discussão e dos votos 'acompanho' sem nome no item 2 é inferida pela ordem e por menções (Hélvio/Élcio, Elisa); confiança baixa/média.", "Número do processo do item 1 e valores lidos da legenda automática podem conter erros."]
+}

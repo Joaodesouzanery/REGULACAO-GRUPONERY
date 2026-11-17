@@ -1,0 +1,249 @@
+{
+ "meta": {
+  "video_id": "MLqsesoew_w",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32",
+  "data": "2021-09-01",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "Sandoval Feitosa"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "Efrain Cruz ausente (férias); Sandoval Feitosa ingressou durante a reunião (não votou bloco, itens 3 e 9).",
+   "Itens 5, 6, 7 e 8 retirados de pauta.",
+   "Reunião suspensa ao final; itens 1 e 2 (CVU de UTEs, relatora Elisa Bastos) para 2/9/2021."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:02:40",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (itens 10 a 44 da pauta, exceto destaque do item 12)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Bloco aprovado sem comentários.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:03:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:03:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:03:37",
+   "processo": "48500.002211/2021-13",
+   "interessado": "ANEEL / SRM",
+   "assunto": "Abertura de audiência pública virtual (9/9/2021) sobre minuta de resolução normativa de consolidação dos atos normativos da pertinência temática regras de comercialização (item 68 da agenda regulatória 2021/2022; Decreto 10.139/2019)",
+   "tema": [
+    "regulação normativa (consolidação, audiência pública)",
+    "comercialização (regras de comercialização)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Consolidação sem alteração de mérito; revogação total de 9 e parcial de 5 atos; apresentação técnica de Pedro Elias (SRM); audiência pública virtual em 9/9/2021.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:16:10",
+     "confianca": "alta",
+     "justificativa": "consolidação simplifica normas sem alteração de mérito; atende Decreto 10.139/2019 e agenda regulatória; tema afeta muitos agentes, por isso audiência pública"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:18:11",
+     "confianca": "media",
+     "justificativa": "limpeza regulatória: eliminar burocracia e simplificar regulamentos; regras de comercialização em documento único de 22 módulos"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:18:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:18:52",
+   "processo": "48500.003456/2019-35",
+   "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte)",
+   "assunto": "Requerimento administrativo da Eletronorte de reequilíbrio econômico-financeiro do contrato de concessão de transmissão nº 21/2009 (pedido de aumento de 13,22% da RAP por atrasos no licenciamento ambiental atribuídos a IBAMA/ANEEL)",
+   "tema": [
+    "transmissão (RAP, contrato de concessão)",
+    "reequilíbrio econômico-financeiro",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "indeferido por unanimidade dos votantes",
+   "resumo_voto": "Indeferido: licenciamento simplificado era pressuposto próprio da empresa; atraso de licença sem nexo causal comprovado; TIR não é objeto do contrato; transferências de controle feitas com pleno conhecimento dos atrasos.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, indefere o pedido",
+     "ts": "0:34:30",
+     "confianca": "alta",
+     "justificativa": "riscos normais do negócio não ensejam reequilíbrio; não demonstrado nexo entre mora administrativa e aumento de custos; Eletronorte elaborou os próprios estudos prévios; TIR não é assegurada"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:34:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:34:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:35:18",
+   "processo": "48500.004786/2020-81",
+   "interessado": "ANEEL; sustentação oral da ABSOLAR (Rodrigo Lopes Sauaia)",
+   "assunto": "Segunda revisão da agenda regulatória 2021/2022 (ajustes pelas Leis 14.120 e 14.182/2021 e Decreto 10.707/2021)",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "outorgas de geração (solar, constrained-off)",
+    "institucional"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Publicação de portaria com a segunda revisão da agenda; atividade 48 (constrained-off de solares) adiada para consulta pública no 1º semestre de 2022, por depender da regulamentação eólica (REN 927/2021); pedido da ABSOLAR de manter CP em 2021 não acolhido.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova",
+     "ts": "0:44:30",
+     "confianca": "alta",
+     "justificativa": "atividade 48 atrelada à conclusão da 52 (constrained-off eólico), que atrasou; desloca-se um semestre"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator, com sugestão",
+     "ts": "0:51:20",
+     "confianca": "baixa",
+     "justificativa": "sugeriu distribuir já a relatoria das atividades com consulta pública prevista para o 2º semestre de 2021/1º de 2022 (ex.: atividade 62) para cumprir a agenda"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:51:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:52:05",
+   "processo": "48500.000027/2020",
+   "interessado": "ANEEL; ONS e agentes do setor",
+   "assunto": "Segunda fase da Consulta Pública 7/2021 sobre regulamentação da segurança cibernética no setor elétrico",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "segurança cibernética",
+    "institucional"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes (período ajustado para 2/9 a 18/10/2021)",
+   "resumo_voto": "Instaura 2ª fase da CP 7/2021 com minuta (alternativa 3: itens mínimos da política de segurança cibernética); apresentação de Bruno Mazzeo (SRT); prazo ajustado na proclamação para preservar 45 dias.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:06:28",
+     "confianca": "alta",
+     "justificativa": "urgência do tema, infraestrutura crítica; ONS já adotou rotinas operacionais enquanto segue o rito com AIR e consulta pública"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:14:52",
+     "confianca": "baixa",
+     "justificativa": "infraestrutura crítica; aumento de ataques no mundo"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:14:54",
+     "confianca": "baixa",
+     "justificativa": "setor cada vez mais digitalizado amplia riscos; empresas devem se comprometer com programas de segurança cibernética"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:14:56",
+     "confianca": "media",
+     "justificativa": "tema acompanhado desde 2015 (missão aos EUA); necessidade de governança de risco cibernético"
+    }
+   ]
+  },
+  {
+   "id": "1-2",
+   "ts": "1:15:30",
+   "processo": "",
+   "interessado": "UTE Goiânia II e UTE Palmeiras de Goiás",
+   "assunto": "Itens 1 e 2: recomposição temporária de CVU de termelétricas (demandas da CREG)",
+   "tema": [
+    "outorgas de geração (térmica)",
+    "crise hídrica"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "não deliberado; reunião suspensa para retomar em 2/9/2021 às 9h",
+   "resumo_voto": "Suspensão proposta pelo Diretor-Geral, de acordo com a relatora, pois tratativas em andamento.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  "5",
+  "6",
+  "7",
+  "8"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números de processo podem estar errados (ex.: 48500.002211/2021-13, 48500.000027/2020).",
+  "Votos dos que acompanham sem nome: atribuídos pela ordem e pela proclamação de unanimidade; no item 12 a ordem exata (Hélvio/Sandoval/Elisa) é incerta, e a fala sobre a atividade 62 é atribuída a Hélvio Guerra por inferência (diz ter sido o quarto relator do constrained-off eólico).",
+  "Presença de Sandoval Feitosa no item 12 inferida por haver três manifestações de acompanhamento.",
+  "Relatoria dos itens 1 e 2 (Elisa Bastos) inferida de 'conversando com a relatora diretora Elisa'."
+ ]
+}

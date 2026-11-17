@@ -1,0 +1,160 @@
+{
+  "meta": {"video_id": "eAvF-lP5eB0", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "18ª Reunião Pública Ordinária de 2026 (Parte 2)",
+    "data": "2026-09-09",
+    "formato": "presencial/híbrida (não explicitado)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); nos itens finais (15, 17, 18) outro diretor conduziu a votação e anunciou o voto deixado pelo DG",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Ludimila Lima"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 2 da 18ª RPO de 09/09/2026: retoma o item 3 (fechamento da CP 7/2025, Open Energy e salvaguardas na abertura do mercado para o grupo A) após as sustentações orais feitas na Parte 1.",
+      "Item 3: relatora Agnes da Costa acompanhou as áreas técnicas, exceto na vedação do uso compartilhado de marca e logotipo entre distribuidora e comercializadora coligada (propôs disclaimers e ring fencing comunicacional); Ludimila Lima divergiu nesse ponto, acompanhando a área técnica pela vedação; Willamy Frota pediu vista.",
+      "Item 11 (Mato Grosso Empreendimento Energético) retirado de pauta pela relatora Ludimila Lima após sustentação oral, porque a nota técnica do juízo de reconsideração não estava com acesso liberado.",
+      "Itens 2, 6, 14, 15, 17 e 18 decididos por unanimidade; nos itens 15, 17 e 18 o Diretor-Geral Sandoval Feitosa deixou voto acompanhando o relator (anunciado pela mesa)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "3", "ts": "0:00:01",
+      "processo": "não citado nesta parte (CP 7/2025)",
+      "interessado": "distribuidoras, comercializadoras varejistas, CCEE, consumidores do grupo A; sustentações orais na Parte 1 (ABRADEE e outros)",
+      "assunto": "Fechamento da Consulta Pública 7/2025: resolução normativa que aprimora a regulação da distribuição em função da abertura do mercado para o grupo A (salvaguardas concorrenciais, vedação de compartilhamento de marca, infraestrutura e RH, atendimento ao consumidor livre via consumidor.gov.br) e resolução que institui o Open Energy",
+      "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "comercialização (CCEE, PLD, contratos)", "abertura do mercado livre", "Open Energy e dados do consumidor", "concorrência (CADE)"],
+      "relator": "Agnes da Costa",
+      "resultado": "pedido de vista de Willamy Frota; julgamento suspenso",
+      "resumo_voto": "Relatora aprova as resoluções (Open Energy, alterações nas REN 846/2019, 948/2021, 957/2021, 1000/2021, 1011/2022, submódulos de PdC, manual do Open Energy, determinações à CCEE e à SGI), acompanhando as áreas técnicas exceto quanto à vedação do uso de marca e logotipo: em vez da proibição, propõe avisos factuais padronizados (disclaimers), vedação de publicidade conjunta e de direcionamento comercial, identificadores visuais do ramo de atuação e vedação de compartilhamento de infraestrutura e pessoal, com pesquisas de confusão pela CCEE e revisão futura. Ludimila Lima diverge nesse ponto e acompanha a área técnica pela vedação da marca. O DG Sandoval Feitosa fez manifestação institucional sobre a competência da ANEEL frente ao CADE e comentou a inércia do consumidor, a diretiva europeia de separação de marcas e o custo de rebranding, sem votar.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova (com divergência da área técnica apenas na vedação de marca e logotipo)", "ts": "0:00:24", "justificativa": "Vedação absoluta da marca seria remédio muito amargo e desproporcional; faltam elementos fáticos e quantitativos; custo de rebranding pode recair na tarifa regulada; cita CADE, Ministério da Fazenda e experiências da Califórnia, Pensilvânia e Austrália; propõe solução gradualista com disclaimers e separação de infraestrutura e RH.", "tom": "técnico, conciliador", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "diverge parcialmente (vedação de marca, acompanha a área técnica); acompanha a relatora nos demais pontos", "ts": "1:22:55", "justificativa": "Manter a marca confere vantagem imediata e persistente à comercializadora coligada, favorece a inércia do consumidor e há riscos concorrenciais localizados por área de concessão; a solução intermediária não seria suficiente; ajuste tardio seria custoso e talvez irreversível.", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "1:40:08", "justificativa": "Fala curta «eu acompanho o voto da diretora relatora» antes do pedido de vista; atribuição pela ordem de votação, sem nome dito.", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "pede vista", "ts": "1:44:30", "justificativa": "Precisa entender melhor os argumentos da relatora e da divergência de Ludimila Lima sobre a marca e conversar com os colegas e áreas técnicas; tema de relevância exponencial que afeta cerca de 90 milhões de consumidores.", "tom": "cordial", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:45:19", "justificativa": "Concedeu a vista; em debate defendeu a competência da ANEEL frente ao CADE e sinalizou preocupação com inércia do consumidor e com a complexidade das salvaguardas propostas pela relatora.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:45:19",
+      "processo": "48500.016643/2025-27 (número incerto)",
+      "interessado": "Cooperativa de Eletricidade de Paulo Lopes (Cerpalo) e Electra Comercializadora de Energia (em recuperação judicial)",
+      "assunto": "Resolução do contrato CCVE 84/2025 celebrado a partir de licitação pública entre a Cerpalo e a Electra",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "distribuição (cooperativa/permissionária)"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a resolução do contrato e determina que a Cerpalo apure e informe à ANEEL em 30 dias os valores de multa e indenização devidos pela Electra. Sem sustentação oral; procurador informou que decisão em agravo permite a deliberação apesar da recuperação judicial.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:47:07", "justificativa": "Leitura do dispositivo.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "1:47:57", "justificativa": "Acompanha (pela proclamação).", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:47:57", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:47:57", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "1:48:00", "justificativa": "Proclamou unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "1:48:10",
+      "processo": "48500.005756/2026-88 (número incerto)",
+      "interessado": "Powertech Engenharia, Agreco Energia Locação de Geradores e Oliveira Energia (produtores independentes no Amazonas)",
+      "assunto": "Reconhecimento de custos extraordinários com ações de contingência para atendimento energético no Amazonas durante a estiagem/El Niño de 2026; antecipação de reembolso de combustível pela CCC",
+      "tema": ["CDE e encargos setoriais", "sistemas isolados (CCC)", "recursos administrativos"],
+      "relator": "Willamy Frota",
+      "resultado": "parcial provimento, por unanimidade",
+      "resumo_voto": "Conhece e dá parcial provimento; aprova excepcionalmente a antecipação do reembolso de combustíveis para estoques estratégicos (volumes por agente), CCEE antecipa até 25/09/2026 mediante notas fiscais até 18/09/2026, valor limitado ao menor entre o comprovado e o apurado, restituição à CCC em cinco parcelas corrigidas pelo IPCA.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, aprova (parcial provimento)", "ts": "1:49:43", "justificativa": "Leitura do dispositivo.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:55:22", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (pela proclamação)", "ts": "1:55:22", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator (pela proclamação)", "ts": "1:55:22", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:55:25", "justificativa": "Proclamou unanimidade.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "1:56:07",
+      "processo": "48500.006500/2026-98 (número incerto)",
+      "interessado": "Mato Grosso Empreendimento Energético (PCH Mato Grosso, rio Juruena); sustentação oral de seu advogado",
+      "assunto": "Recurso contra o Despacho 2075/2026 da STD sobre postergação do início do CUST 127/2024 e suspensão das cobranças de EUST pelo ONS",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos"],
+      "relator": "Ludimila Lima",
+      "resultado": "retirado de pauta pela relatora",
+      "resumo_voto": "Após sustentação oral pedindo conversão em diligência (CUST considerado rescindido pelo ONS) e debate com o procurador, a relatora, que levava voto pelo indeferimento, retirou o processo porque a nota técnica do juízo de reconsideração não estava com acesso liberado.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, retira de pauta", "ts": "2:10:42", "justificativa": "Processo não é inútil, mas a nota técnica não estava liberada; retira para dar transparência à instrução.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "14", "ts": "2:11:52",
+      "processo": "48500.010525/2026-59 (número incerto)",
+      "interessado": "Abrate (Associação Brasileira das Empresas de Transmissão de Energia Elétrica); sustentação oral de Rafael Janiques",
+      "assunto": "Pedido de reconsideração contra o Despacho 1648/2026 (atualização do Banco de Preços de Referência ANEEL pelo IPCA em vez da cesta de índices)",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"],
+      "relator": "Willamy Frota",
+      "resultado": "não conhecido, por unanimidade; forma de atualização do BPR a ser discutida na consulta pública de aprimoramento do BPR se houver estudo alternativo",
+      "resumo_voto": "Não conhece por se tratar de ato de caráter normativo; sem ilegalidade a justificar revisão de ofício; decisão de 2026 decorre da CP 31/2023 que determinou aprofundamento de estudos. Gentil Nogueira levantou dúvida sobre o conhecimento de recurso contra despacho de caráter normativo (relação com processo de autoprodução de CGHs sob sua relatoria), mas concordou com o mérito.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, não conhece", "ts": "2:31:59", "justificativa": "Decisão de 2024 não encerrou o tema; exigir nova CP após cada diligência tornaria o processo excessivamente burocrático.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:31:17", "justificativa": "No debate disse concordar que não cabe recurso, pois é decorrência da decisão metodológica que passou por consulta pública.", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (com dúvida registrada sobre conhecimento)", "ts": "2:43:34", "justificativa": "Concorda 100% com o mérito; preocupação com o não conhecimento de despacho de caráter geral e abstrato.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator (pela proclamação)", "ts": "2:43:34", "justificativa": "Unanimidade proclamada.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:43:36", "justificativa": "Entende que se avalia o cumprimento de determinação da diretoria pela área técnica.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "15", "ts": "2:43:36",
+      "processo": "48500.007946/2026-30",
+      "interessado": "Transmissoras do grupo Horizon (HRZ), Aliança, Água Vermelha, Transmissão Litoral Sul e outras; sustentação oral de Gabriel Oliveira Cota",
+      "assunto": "Pedido de reconsideração contra o Despacho 2031/2026 (tratamento de encargos rescisórios no reajuste da RAP 2026/2027), item 3: não inclusão na parcela de ajuste da inadimplência de EUST da Norte Energia (UHE Belo Monte), suspensa por decisão do TRF1",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "judicialização"],
+      "relator": "Willamy Frota",
+      "resultado": "conhecido e negado provimento, por unanimidade",
+      "resumo_voto": "Mantém o voto: risco de inadimplência/judicial é do credor (transmissoras), sem trânsito em julgado e sem comando judicial expresso para ratear; procuradoria (Parecer 207/2026) no mesmo sentido.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, nega provimento", "ts": "3:00:00", "justificativa": "Mantém o posicionamento; acolhe fundamentos da procuradoria.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:01:20", "justificativa": "Voto curto, atribuição aproximada.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "3:01:22", "justificativa": "Voto curto, atribuição aproximada.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator e declara o resultado", "ts": "3:01:29", "justificativa": "Diretor que conduziu a votação na ausência do DG (identidade inferida).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (acompanha o relator; anunciado pela mesa)", "ts": "3:01:24", "justificativa": "Mesa informou que o DG apresentou voto acompanhando o relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "17", "ts": "3:02:13",
+      "processo": "48500.004743/2026-16",
+      "interessado": "Viv Empreendimentos Imobiliários SPE 8 (loteamento Viv Boulevard) x Energisa Sul-Sudeste; sustentação oral de Cristian Figueiredo",
+      "assunto": "Medida cautelar para suspender cobranças da distribuidora pela iluminação de áreas de uso comum de loteamento de acesso controlado (alegadas áreas públicas) e impedir corte",
+      "tema": ["consumidor e iluminação pública", "distribuição", "medida cautelar"],
+      "relator": "Willamy Frota",
+      "resultado": "conhecido e negado provimento à cautelar, por unanimidade; processo encaminhado à SMA",
+      "resumo_voto": "Ausência de prova pré-constituída da probabilidade do direito; mérito postergado e encaminhado à Superintendência de Mediação Administrativa (SMA).",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, nega a cautelar", "ts": "3:14:30", "justificativa": "Mantém o voto; fundamento fático não demonstrado; mérito pela SMA.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:16:48", "justificativa": "Voto curto; perguntou se a decisão seria da SMA ou também da STD. Atribuição aproximada.", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "3:16:54", "justificativa": "Voto curto, atribuição aproximada.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator e declara o resultado", "ts": "3:16:58", "justificativa": "Conduziu a votação (inferido).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (acompanha o relator; anunciado pela mesa)", "ts": "3:16:54", "justificativa": "Mesa informou que o DG deixou voto acompanhando o relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "18", "ts": "3:17:29",
+      "processo": "48500.004221/2026-14",
+      "interessado": "Samarco Mineração (unidade Germano, MG) x ONS; sustentação oral de Renato Eldenstein (nome incerto)",
+      "assunto": "Medida cautelar para assegurar o processamento da GPC e o aditivo ao CUST 48/2009 (ampliação do MUST de 120 para 217 MW) após GPC intempestiva; pedido subsidiário de suspender a execução da GPA",
+      "tema": ["transmissão (RAP, outorgas, reforços)", "acesso ao sistema (CUST, garantias)", "medida cautelar"],
+      "relator": "Ludimila Lima",
+      "resultado": "conhecido e negado provimento à cautelar, por unanimidade",
+      "resumo_voto": "Ausente a probabilidade do direito: GPC não apresentada no prazo do submódulo 8.1 dos Procedimentos de Rede; informações estavam disponíveis; prazo não é mero formalismo; interações com o ONS podem ser vistas no mérito.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, nega a cautelar", "ts": "3:24:26", "justificativa": "Prazo regulamentar objetivo; tratamento excepcional seria anti-isonômico.", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "3:29:33", "justificativa": "Voto curto, atribuição aproximada.", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:29:33", "justificativa": "Unanimidade declarada; fala individual não identificada.", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora e declara o resultado", "ts": "3:29:40", "justificativa": "Conduziu a votação (inferido).", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (acompanha a relatora; anunciado pela mesa)", "ts": "3:29:35", "justificativa": "Mesa informou que o DG deixou voto acompanhando a relatora.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["11 (48500.006500/2026-98, Mato Grosso Empreendimento Energético, relatora Ludimila Lima)"],
+  "limites_da_analise": [
+    "Vídeo é a Parte 2 da reunião; itens anteriores e sustentações orais do item 3 estão na Parte 1.",
+    "Rótulos de falante {..} da transcrição são inferidos e frequentemente errados (ex.: Ricardo Tili aparece rotulado, mas o texto indica leitura da relatora Agnes da Costa); atribuições foram feitas pelo conteúdo e pela mesa.",
+    "Item 3: o voto «acompanho a relatora» antes do pedido de vista foi atribuído a Gentil Nogueira só pela ordem de votação (confiança baixa).",
+    "Nos itens 15, 17 e 18 o DG Sandoval Feitosa deixou voto; quem conduziu a votação não é nomeado (atribuído por inferência a Gentil Nogueira); votos curtos dos demais atribuídos de forma aproximada.",
+    "Números de processo e nomes de empresas/advogados vêm da legenda automática e podem estar errados (Cerpalo, Agreco, Eldenstein, Janiques).",
+    "Ts dos votos da relatora no item 3 são aproximados (leitura longa em blocos sem marcação fina)."
+  ]
+}

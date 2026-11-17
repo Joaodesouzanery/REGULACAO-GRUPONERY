@@ -1,0 +1,42 @@
+{
+  "meta": {"video_id": "kfcfcQyFwYY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "14ª Reunião Pública Extraordinária de 2021 (Parte 1)", "data": "2021-12-16", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra"],
+    "ausentes": [],
+    "observacoes": ["Quórum de três diretores declarado na abertura.", "Pauta com dois itens; julgado primeiro o item 2 (reajuste tarifário da CEA, relator Sandoval Feitosa), aprovado por unanimidade.", "Item 1 (tarifa de Itaipu, relator Hélvio Guerra) não julgado: o relator pediu suspensão para ajustar o voto; reunião suspensa e marcada para retomada na segunda-feira 20/12/2021 às 11h (Parte 2)."]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:01:31",
+      "processo": "48500.005010/2020-89",
+      "interessado": "Companhia de Eletricidade do Amapá (CEA), sob controle da Equatorial Energia",
+      "assunto": "Reajuste tarifário anual de 2021 da CEA: homologação das tarifas de energia (TE) e TUSD, receita de DIT, repasses da CDE e ressarcimento à CCC",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "distribuição"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio de 4,80% (alta tensão -1,40%; baixa tensão 6,67%), vigente a partir de 13/12/2021; diferimento de financeiros pedido pela CEA com base na MP 1.078/2021 para reduzir o impacto; tarifas tinham sido prorrogadas aguardando a MP da operação de crédito. Procuradoria sem contribuições (ato vinculado). Apresentação técnica de Gustavo Godoy (SGT). Sem sustentação oral.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:20:46", "justificativa": "reajuste conforme contrato de concessão e procedimentos; mecanismos (MP 1.078/2021, diferimento) para mitigar o aumento e preservar a capacidade de pagamento do consumidor", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:20:56", "justificativa": "", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:20:58", "justificativa": "vota por último e proclama unanimidade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:21:45",
+      "processo": "",
+      "interessado": "Itaipu Binacional",
+      "assunto": "Tarifa de repasse de Itaipu (item 1 da pauta) — não julgado; relator pediu suspensão da reunião para ajustar o voto",
+      "tema": ["tarifas e revisão tarifária", "comercialização"],
+      "relator": "Hélvio Guerra", "resultado": "não deliberado nesta parte; reunião suspensa para retomada em 20/12/2021",
+      "resumo_voto": "Relator informou que precisava ajustar o voto e sugeriu a suspensão; acolhido pelo Diretor-Geral.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "não votou (suspensão a pedido do relator)", "ts": "0:21:45", "justificativa": "precisa fazer ajustes no voto", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (suspensão)", "ts": "0:22:23", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (suspensão)", "ts": "0:22:23", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Presidente da sessão inferido como André Pepitone (DG em dez/2021); a legenda diz «Daniel», «diretor André Luiz», «diretora Andreia».", "Os dois «acompanho» não têm nome na legenda; atribuídos pela ordem usual (Hélvio, depois o DG que proclama).", "Número do processo da CEA reconstruído da legenda (48500.005010/2020-89 ou similar); incerto.", "Item de Itaipu sem número de processo na legenda."]
+}

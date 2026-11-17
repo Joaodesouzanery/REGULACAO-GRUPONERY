@@ -1,0 +1,411 @@
+{
+ "meta": {
+  "video_id": "eL8PPNzpJEY",
+  "fonte": "legenda automática do YouTube; .md com um único marcador de tempo; ts obtidos do JSON da transcrição; ts de votos aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "43",
+  "data": "2018-11-20",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de quatro diretores; quinta cadeira vaga (Elisa Bastos em sabatina no Senado).",
+   "Pauta com 34 itens; retirados 5, 6, 8 e 17; item 15 retirado pelo relator após sustentação oral.",
+   "No encerramento, aviso sobre nota técnica complementar na AP 52/2018 (orçamento CDE 2019) por causa das MPs 855 e 856."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:03:30",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens 9 a 34 da pauta (retirados do bloco os itens 8 e 17; destacados 10 e 15 por pedido de sustentação oral)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado integralmente por unanimidade.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:04:20",
+     "justificativa": "Voto pela aprovação integral do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:20",
+     "justificativa": "Voto pela aprovação integral do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:20",
+     "justificativa": "Voto pela aprovação integral do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:20",
+     "justificativa": "Voto pela aprovação integral do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:04:47",
+   "processo": "48500.004575/2009-33",
+   "interessado": "São Clemente Geração de Energia Ltda., Sol Energia, Pro Energia Consultoria e Energy XXI (projetista) (nomes pela legenda)",
+   "assunto": "Recurso administrativo contra o Despacho SCG 3.076/2017, que revogou registro ativo, aceite e aprovação dos estudos de inventário hidrelétrico do rio Jacutinga, por manipulação dos valores de potência dos aproveitamentos (reserva de potencial); sustentação oral de Cláudio Mesquita pelas recorrentes",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (hidrelétrica, inventário, PCH/CGH)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e, no mérito, negado provimento ao recurso, por unanimidade",
+   "resumo_voto": "Processo herdado de André Pepitone. SCG demonstrou majoração indevida da potência (oito aproveitamentos pouco acima de 5 MW) para ampliar direito de preferência; truncamento de séries não explica os resultados; não há previsão regulatória para novo prazo de 90 dias e dados do posto Arabutã não estão consistidos pela ANA. Autos à comissão de processos administrativos para apurar condutas.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:52",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:31:00",
+     "justificativa": "Recorrentes não trouxeram argumentos sólidos para refutar a SCG; o estudo revisado não representa o aproveitamento ótimo do rio Jacutinga; nega o pedido de 90 dias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:52",
+     "justificativa": "Acompanhou; acrescentou (pela ordem, atribuição provável) que a ANA informou não ter dados consistidos da estação citada, que não podem ser considerados para revisar os estudos.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:37:52",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:38:16",
+   "processo": "48500.000399/2014 e outros (número incerto)",
+   "interessado": "Centrais eólicas do grupo Assuruá/Curral das Pedras 3 e 4 e outras (Leilão A-5 2013); sustentação oral do advogado Fernando Henrique",
+   "assunto": "Revogação da outorga de autorização de seis centrais geradoras eólicas descontratadas via MCSD/A-5 2013 e aplicação de sanções (multa de 1% e suspensão de 1 ano, extensível à controladora)",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "fiscalização e sanções",
+    "transmissão (restrição de escoamento, Abengoa)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator após a sustentação oral",
+   "resumo_voto": "Após sustentação oral (restrição sistêmica pela paralisação das linhas da Abengoa como excludente; arquivamento pela SFG) e manifestação da Procuradoria (atraso de transmissão não é excludente; execução da garantia dispensa prova de prejuízo), o relator retirou o processo para responder detalhadamente aos argumentos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "0:55:34",
+     "justificativa": "Alguns conceitos trazidos na sustentação merecem reparo; trará detalhadamente todos os aspectos quando reapresentar o voto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "0:55:34",
+     "justificativa": "Item retirado de pauta pelo relator.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "0:55:34",
+     "justificativa": "Item retirado de pauta pelo relator.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "0:55:34",
+     "justificativa": "Item retirado de pauta pelo relator.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:56:14",
+   "processo": "48500.004969/2018-82",
+   "interessado": "DME Distribuição S.A. (DMED, Poços de Caldas-MG); sustentação oral da presidente do Conselho de Consumidores (nome incerto: Arlene/Helena)",
+   "assunto": "Reajuste tarifário anual 2018 da DMED a vigorar a partir de 22/11/2018: efeito médio de 21,08% (22,78% AT; 20,09% BT)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
+    "CDE e encargos setoriais",
+    "consumidor"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Parcela A (compra de energia, Itaipu com dólar, cotas, risco hidrológico, novo leilão) explica o índice; parcela B só 0,66%; em 10 anos a tarifa residencial subiu 57,28%, abaixo do IGP-M/IPCA. Relator defendeu capacitação dos conselhos de consumidores e criticou ICMS elevado.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:52",
+     "justificativa": "Índice pontualmente elevado, pressionado por hidrologia adversa, cotas de Itaipu/garantia física e novo leilão; em 10 anos abaixo da inflação; citou comissão de apoio ao consumidor e aplicativo da ANEEL. Proclamou o resultado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:52",
+     "justificativa": "Elogiou a sustentação do conselho e a capacitação dos conselhos (fala atribuída por inferência); acompanhou.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:30:52",
+     "justificativa": "Índice de 21,08% traz desconforto; principal fator é custo de energia e risco hidrológico; como diretor-ouvidor destacou o encontro de conselhos de consumidores.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:20:00",
+     "justificativa": "Efeito médio decorre sobretudo da parcela A e de componentes financeiros; defende fortalecer e capacitar os conselhos de consumidores.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:32:04",
+   "processo": "48500.004972/2018-04",
+   "interessado": "Cooperativa de Eletrificação e Desenvolvimento da Região de Mogi das Cruzes (permissionária; supridora EDP São Paulo)",
+   "assunto": "Reajuste das tarifas da permissionária com aniversário em 30/11/2018: efeito médio de 10% (10,78% AT; 9,38% BT), cotas CDE/PROINFA e subvenção CDE",
+   "tema": [
+    "tarifas e revisão tarifária (permissionárias)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Variação de 29,63% no encargo CDE; ICMS de 14% em SP contrasta com MG; texto do dispositivo ajustado (tabela em texto; data de aniversário 30/11) retificado no fim da sessão.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:36:00",
+     "justificativa": "Aprova efeito médio de 10% e homologa valores de CDE/CDR para a permissionária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "Comparou o ICMS de MG (um dos maiores) com o de SP (metade); acompanhou (atribuição provável).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:42:26",
+   "processo": "48500.001634/2018-11",
+   "interessado": "Usinas do PROINFA; ABRAGEL; Eletrobras; CCEE",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 21/11 a 10/12/2018) sobre forma de pagamento dos efeitos da repactuação do risco hidrológico (GSF) das usinas do PROINFA e recálculo dos ajustes financeiros de 2013-2015 (cerca de R$ 20 milhões)",
+   "tema": [
+    "regulação normativa (audiência pública)",
+    "comercialização (CCEE, GSF, MRE)",
+    "PROINFA"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (abertura de AP)",
+   "resumo_voto": "Após revogação judicial da liminar da Eletrobras sobre GSF, propõe parcelamento análogo aos ajustes contratuais do PROINFA (duodécimos no ano seguinte) e reversão do erro de rateio de 2013-2015; prazo de 20 dias para incluir valores no PAP 2019.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:32",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:32",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:54:00",
+     "justificativa": "Solução por analogia com ajustes ordinários do PROINFA é razoável e ajuda a destravar passivos da judicialização do GSF.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:32",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:57:05",
+   "processo": "48500.006118/2009-83 e outros",
+   "interessado": "Agentes do setor (AP 77/2011)",
+   "assunto": "Prorrogação do prazo de pedido de vista sobre o resultado da 2ª fase da AP 77/2011 (revisão da REN 63/2004, imposição de penalidades)",
+   "tema": [
+    "regulação normativa (resolução)",
+    "fiscalização e sanções"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "prazo de vista prorrogado por mais oito sessões, por concordância unânime",
+   "resumo_voto": "Pepitone pediu mais oito sessões para que a nova diretora indicada (Elisa Bastos, em sabatina no Senado) participe do debate da REN 63, que balizará os próximos quatro anos.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "vista: pede prorrogação por 8 sessões",
+     "ts": "1:59:24",
+     "justificativa": "Resolução 63 é como a constituição da ANEEL; desejável que o novo integrante (Elisa, indicada) participe do debate.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "concorda com a prorrogação",
+     "ts": "2:00:00",
+     "justificativa": "Lembrou que pediu ao então DG a vista quando chegava ao colegiado; salutar que o próximo nome participe.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "concorda com a prorrogação",
+     "ts": "2:00:40",
+     "justificativa": "De bom tom que o novo integrante possa debater o regulamento.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "concorda com a prorrogação",
+     "ts": "2:01:00",
+     "justificativa": "Concordou com o encaminhamento (pela proclamação).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:01:28",
+   "processo": "48500.004495/2009-88",
+   "interessado": "Transmissora de Energia Sul Brasil (TESB); ONS; CEEE-D",
+   "assunto": "Pedido de entrada em operação da LT 230 kV Restinga-Viamão 3 e SE Restinga (Porto Alegre), construída com 4,28 km em circuito duplo contra o contrato 001/2011 (atraso de mais de 5 anos)",
+   "tema": [
+    "transmissão (RAP, outorgas)",
+    "fiscalização e sanções (caducidade)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade, com acréscimo de «precário»",
+   "resumo_voto": "Afasta arts. da REN 454/2011; ONS emite TLP e TLD parcial em caráter excepcional e precário, RAP provisória de R$ 3.416.748,83 (90%); SFE instaura relatório de falhas e transgressões (primeiro ato para caducidade) e apura a construção em circuito duplo sem anuência.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:37:27",
+     "justificativa": "Sugeriu incluir «precário» no dispositivo; inadmissível transmissora descumprir o objeto; decisão em favor da segurança do abastecimento. Proclamou.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:37:27",
+     "justificativa": "Acompanhou o relator; resultado proclamado por unanimidade.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:37:27",
+     "justificativa": "Registrou o descumprimento nítido, mas acompanha por necessidade sistêmica (atribuição provável).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "2:28:00",
+     "justificativa": "Descumprimento contratual nítido, mas risco de desabastecimento de Porto Alegre (ONS e distribuidora) justifica operação provisória, sem prejuízo das sanções.",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "5",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "6",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado do bloco/pauta"
+  },
+  {
+   "id": "17",
+   "motivo": "retirado do bloco/pauta"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado pelo relator após sustentação oral"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda chama Efrain Cruz de «Franklin/Frank/Fry»; atribuição a Efrain por contexto (relator do item 1 e recém-empossado).",
+  "Falas individuais de quem acompanha não têm nome; atribuição pela proclamação unânime e pela ordem, confiança media.",
+  "Composição da diretoria (Pepitone, Sandoval, Limp, Efrain) inferida das falas, não de chamada formal.",
+  "Números de processo e nomes de empresas (eólicas do item 15, recorrentes do item 10) podem estar errados na legenda.",
+  "Relator dos itens do bloco não identificado; itens do bloco não detalhados."
+ ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {"video_id": "D3-nZ-LDQmU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "18ª Reunião Pública Ordinária de 2026 (Parte 1)", "data": "2026-09-09", "formato": "presencial (transmissão YouTube)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Willamy Frota", "Ludimila Lima"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores anunciado na abertura (Ludmila, Agnes, Gentil, Willamy e o Diretor-Geral); Ludimila Lima retorna ao colegiado (ex-superintendente da SCE).",
+      "Comunicados: bandeira amarela em setembro; consultas públicas abertas; lançamento do caderno temático do PEE e do Portal de Estudos Técnicos Aprovados.",
+      "Aprovadas as atas da 17ª RPO (24/08/2026) e do 15º Circuito Deliberativo.",
+      "Pauta com 32 itens; itens 7 a 32 em bloco, destacados 11, 14, 15, 17 e 18; item 9 retirado. Ordem: bloco, 1, 4, 5, 3, 2, 6, 11, 14, 15, 17, 18.",
+      "Este vídeo (Parte 1) cobre bloco e itens 1, 4, 5 e o início do item 3 (relatório, 6 sustentações orais, procuradoria e apresentação técnica); a leitura do voto do item 3 e os itens 2, 6, 11, 14, 15, 17 e 18 ficaram para depois do almoço (14h30, Parte 2)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:20:16", "processo": "itens 7 a 32 (exceto destacados 11, 14, 15, 17, 18 e retirado 9)", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos disponibilizados com a pauta)",
+      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade (com impedimento de uma diretora no item 12)",
+      "resumo_voto": "Todos os diretores aprovam o bloco; uma diretora (provavelmente Ludimila Lima, ex-superintendente da SCE) se declara impedida no item 12 por ter expedido ato como superintendente da SCE.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "aprova o bloco; suspeito/impedido no item 12", "ts": "0:20:28", "justificativa": "impedida no item 12 por conter ato expedido por ela enquanto superintendente da SCE", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:20:35", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova o bloco", "ts": "0:20:40", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova o bloco", "ts": "0:20:43", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama unanimidade", "ts": "0:20:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:20:50", "processo": "48500.0231 80/2025-50 (número incerto na legenda)", "interessado": "ANEEL (Agenda Regulatória); sustentações: Energisa (Rodrigo Santana), Grupo Energisa/Equatorial? (Renata de Oliveira e Silva), ABRADEE (Onofre Nicolau de Albuquerque Neto)",
+      "assunto": "Primeira revisão da Agenda Regulatória da ANEEL do biênio 2026/2027 (alteração do anexo I da Portaria 7.030/2025); distribuidoras pediram inclusão da revisão do WACC regulatório e congelamento do WACC",
+      "tema": ["regulação normativa (agenda regulatória)", "tarifas e revisão tarifária (WACC, distribuição)", "institucional"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Agenda revisada de 59 para 54 atividades (Lei 15.269, decreto 12.772, restrição de recursos). Relator nega inclusão do WACC na agenda 2026/27: metodologia já atualiza parâmetros anualmente, monitoramento econômico-financeiro trimestral da SFF não mostra risco à distribuição; prioriza fator X, perdas não técnicas, receitas irrecuperáveis e base de remuneração; WACC reavaliado no ciclo 2028/29.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:45:12", "justificativa": "não há problema premente no segmento de distribuição; falta de pessoal (~30% a menos) e orçamento; se houver problema a ANEEL será a primeira a agir, como em 2015 com o WACC da transmissão", "tom": "enfático na defesa do monitoramento da agência", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:03:50", "justificativa": "concorda com a revisão, mas destaca temas a acompanhar: metodologia do PLD mínimo, revisão da REN 1030/constrained-off, critério de confiabilidade da transmissão, garantias financeiras do MCP", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator (pela proclamação)", "ts": "1:15:30", "justificativa": "comentou a relevância do PLD mínimo e sugeriu sorteio antecipado de relator", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (pela proclamação)", "ts": "1:15:32", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator (pela proclamação)", "ts": "1:15:37", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:15:58", "processo": "48500.0327 26/43 (número incompleto na legenda)", "interessado": "ANEEL / transmissoras (Leilão de Transmissão 1/2027)",
+      "assunto": "Abertura de consulta pública (10/09 a 26/10/2026) sobre minuta do edital do Leilão de Transmissão 1/2027: 12 lotes, ~R$ 12,9 bi, 3.245 km, primeiro sistema de baterias na transmissão (lote 5, Cruzeiro do Sul/AC), compensadores síncronos (lotes 6 e 7), cargas eletrointensivas (lotes 9 e 12), interligação Brasil-Bolívia (lote 11); regras novas de seguro-garantia",
+      "tema": ["leilões (transmissão)", "transmissão", "armazenamento", "regulação normativa (consulta pública)"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaurar consulta pública por intercâmbio documental para aprimorar minuta do edital e anexos do Leilão 1/2027; destaque às restrições a apólices de seguradoras com indenizações devidas à ANEEL.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:31:37", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "1:35:02", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "1:35:04", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "1:35:06", "justificativa": "elogia lotes 4 e 5 para o Acre (sistema radial), redução da CCC; pede olhar para Amazonas, Roraima e Amapá e baterias em sistemas radiais", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "1:38:20", "justificativa": "primeiro leilão com baterias; compensadores síncronos para variabilidade de renováveis no Nordeste", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:39:08", "processo": "48500.0211/2026-10 (número incerto)", "interessado": "distribuidoras, ONS, usuários de MMGD/recursos energéticos distribuídos",
+      "assunto": "Abertura de consulta pública (60 dias, 10/09 a 09/11/2026) para aprimorar o Módulo 3 do PRODIST: requisitos de observabilidade, operabilidade e controlabilidade dos recursos energéticos distribuídos (REDs) e AIR sobre aplicação ao parque existente",
+      "tema": ["geração distribuída (MMGD)", "distribuição", "regulação normativa (consulta pública, AIR)"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Proposta construída com ONS e universidades (UFSM, UFU, Unioeste); requisitos funcionais, aplicáveis às novas conexões e, pela AIR, também às usinas tipo 3 e minigeração existentes (~33 GW controláveis, <2% das instalações), com prazos escalonados.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "1:56:00", "justificativa": "regulação estável e flexível, baseada em requisitos funcionais; valoriza construção conjunta com a academia", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora (pela proclamação)", "ts": "2:05:00", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora (pela proclamação)", "ts": "2:05:02", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora (pela proclamação)", "ts": "2:05:04", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "2:05:06", "justificativa": "MMGD deixou de ser marginal; recurso não pode ficar inobservável e descontrolável; subsídios distorcem sinais de expansão e geram custos fixos de rede", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:08:36", "processo": "48500.0503/22-456 (número incerto)", "interessado": "distribuidoras e comercializadoras; sustentações: Energisa (Rodrigo Santana), Equatorial (Dayane Ross Graçano), Neoenergia (Bruno Bastos Rezende), ABRADEE (Onofre Nicolau de Albuquerque Neto), CPFL (Leonor Cordovil, vídeo), Tira/TIR Energia (Eduardo Moniz de Carvalho Miranda)",
+      "assunto": "Resultado da CP 7/2025: aprimoramento dos serviços de distribuição na abertura de mercado do grupo A e instituição do Open Energy; vedação de uso de marca e de compartilhamento de infraestrutura/pessoal entre distribuidora e comercializadora do mesmo grupo",
+      "tema": ["comercialização (abertura de mercado, varejista)", "regulação normativa (consulta pública)", "Open Energy / dados", "concorrência", "distribuição"],
+      "relator": "Agnes da Costa", "resultado": "não deliberado nesta parte (voto a ser lido após o almoço, Parte 2)",
+      "resumo_voto": "Relatório lido; distribuidoras pedem rejeição da vedação de marca e de compartilhamento (citam CADE e estudo FGV); TIR Energia defende separação e até vedação de atuação na própria área de concessão; Procuradoria entende que ANEEL pode fixar salvaguardas ex ante; SFF/STD apresentam proposta (portabilidade na migração, Open Energy em duas fases, vedação de marca/compartilhamento).",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"item": "9", "relator": "não identificado", "motivo": "retirado de pauta (motivo não informado)", "ts": "0:17:36"}
+  ],
+  "limites_da_analise": [
+    "Vídeo é a Parte 1 da 18ª RPO de 09/09/2026; itens 3 (voto), 2, 6, 11, 14, 15, 17 e 18 estão na Parte 2.",
+    "Legenda automática: números de processo incompletos/incertos; nomes de expositores podem estar distorcidos.",
+    "Item bloco: a fala de impedimento no item 12 foi atribuída a Ludimila Lima por ela ter sido superintendente da SCE; ordem dos demais votos do bloco não identificada (confiança baixa).",
+    "Item 1: três falas 'voto com o relator' sem nome; atribuídas pela proclamação de unanimidade (confiança baixa). Ricardo Tili aparece nas etiquetas automáticas de falante mas não integra a sessão (mandato encerrado); ignorado.",
+    "Item 4: a fala sobre o Acre foi atribuída a Willamy Frota por conteúdo (etiqueta automática indicava Agnes, que é a relatora); primeiros dois 'acompanho' sem nome.",
+    "Item 5: só uma fala de voto ouvida antes da proclamação; demais pela proclamação."
+  ]
+}

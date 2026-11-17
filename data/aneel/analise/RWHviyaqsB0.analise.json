@@ -1,0 +1,42 @@
+{
+ "meta": {"video_id": "RWHviyaqsB0", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "2ª Extraordinária 2020", "data": "2020-02-27", "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Rodrigo Limp", "Elisa Bastos"],
+  "ausentes": [],
+  "observacoes": ["Quórum declarado de quatro diretores; presentes inferidos pela saudação do advogado na sustentação oral (André Pepitone, Rodrigo Limp, Elisa Bastos, Efrain).", "Reunião extraordinária convocada por missão de diretores ao exterior e por mandado de segurança impetrado no processo do item 1.", "Comunicado: audiência pública da revisão tarifária extraordinária da Equatorial Alagoas remarcada para 6/3/2020 em Maceió.", "Ordem de julgamento: item 2 primeiro, depois item 1. Ambos unânimes, relator Efrain Cruz."]
+ },
+ "itens": [
+  {
+   "id": "2", "ts": "0:01:16",
+   "processo": "48500.006329/2017-26", "interessado": "CELG Geração e Transmissão (CELG GT)",
+   "assunto": "Autorização de reforços na subestação Itapaci 230/138 kV (GO) e estabelecimento das parcelas adicionais de RAP e cronograma; item retirado do Leilão de Transmissão 1/2020 por determinação do MME",
+   "tema": ["transmissão (RAP, reforços)", "outorgas"],
+   "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Emissão de resolução autorizativa para a CELG GT implantar reforços na SE Itapaci, com parcelas adicionais de RAP e cronograma; CCT com a Enel Goiás em até 90 dias. Decisão de mérito já tomada na 47ª reunião ordinária de 2019 (comando do MME).",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:13:00", "justificativa": "cumprimento do despacho do MME que determinou autorização como reforço; cálculo de RAP conforme submódulo 9.7 do PRORET", "confianca": "alta"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:13:52", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:13:52", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:13:55", "justificativa": "registrou que a decisão de mérito foi tomada na apreciação do edital do leilão 1/2020, obedecendo comando do MME", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "1", "ts": "0:14:24",
+   "processo": "48500.000212/2015-40 (número incerto na legenda)", "interessado": "Litorânea Transmissora de Energia (ELT)",
+   "assunto": "Contrato de concessão 16/2014: pedido de redução do escopo (exclusão do Litoral Norte/SP, manutenção da SE Manoel da Nóbrega no Litoral Sul) com reequilíbrio econômico-financeiro, ou subsidiariamente rescisão amigável; mandado de segurança da empresa",
+   "tema": ["transmissão (outorgas)", "fiscalização e sanções (caducidade)", "recursos administrativos"],
+   "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade com ajuste: suspensão por até 90 dias aguardando o SRPV-SP; retirado o item b (não acatamento da rescisão amigável)",
+   "resumo_voto": "Sustentação oral do advogado Márcio Pina (ex-procurador-geral) pela redução do escopo ou rescisão amigável. Relator propôs suspender a análise até manifestação final do SRPV-SP diante de alternativa da EPE (torres mais baixas, novo traçado) e não acatar a rescisão amigável. Após debate, Elisa Bastos e André Pepitone pediram prazo; colegiado fixou até 90 dias e retirou o item b.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova (suspensão por até 90 dias; aceitou retirar o item b)", "ts": "0:58:32", "justificativa": "modelo construtivo é responsabilidade da concessionária; alternativa da EPE indica viabilidade, afastando excludente; rescisão amigável contraria o interesse público primário", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (com ajuste proposto)", "ts": "1:21:35", "justificativa": "questionou ausência de análise quantitativa do benefício da manutenção do contrato; defendeu prazo e retirada do item b (rescisão), pois depende da resposta do SRPV", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator", "ts": "1:21:36", "justificativa": "foco no atendimento da região; apoiou prazo de três meses e concordou com a retirada do item b", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:21:38", "justificativa": "associou-se à preocupação com prazo: não se pode aguardar eternamente o SRPV", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Falante rotulado {Ricardo Tili} no .md é inferência errada (fala de abertura do Diretor-Geral/secretário); presidente inferido como André Pepitone.", "Presença de Rodrigo Limp e Elisa Bastos inferida pela saudação do advogado; ordem das falas no debate do item 1 atribuída por contexto (Elisa chamada 'doutora Elisa', Pepitone 'doutor André'); falas 'volto com o relator' sem nome.", "Número do processo do item 1 incerto (legenda dá 48.500 002 11/2000 15-40 e 48.500 212/2015 40).", "Nº de votos = 4 presentes em ambos os itens."]
+}

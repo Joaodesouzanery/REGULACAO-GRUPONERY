@@ -1,0 +1,83 @@
+{
+ "meta": {"video_id": "zMAaBws0rJ0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "24ª Reunião Pública Ordinária de 2020", "data": "2020-07-07", "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Júlio César Rezende Ferraz"],
+  "ausentes": [],
+  "observacoes": ["Pauta publicada com 43 itens; bloco do item 13 ao 43 (legenda incerta); itens 15 e 20 retirados do bloco; itens 2, 5, 7, 8, 9, 10 (ao fim) e 12 retirados de pauta; 19 retirado pelo relator após sustentação oral.", "Informe do Diretor-Geral sobre a Conta-Covid (REN 885/2020): 50 das 53 concessionárias aderiram, cerca de 14,8 bilhões de reais, 91-92% do limite.", "Sandoval Feitosa (motivos pessoais) e Elisa Bastos (mal-estar) saíram antes do último item (10).", "Deliberados: ata, bloco, item 1 (RTA Energisa Sul-Sudeste), item 4 (CP regras de comercialização 2021), item 6 (CP TEIF/IP de referência), item 16 (requerimento Abrate/Abdib, negado). Todos por unanimidade dos votantes."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:10:30", "processo": "", "interessado": "diversos",
+   "assunto": "Aprovação da ata da 23ª RPO e dos itens do bloco (exceto retirados 15 e 20 e destacados 16 e 19)",
+   "tema": ["institucional"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Um diretor registrou, sobre o item 21 do bloco de sua relatoria (cautelar pedindo suspensão de liquidação financeira de contrato CCEAR por disponibilidade/uso do MCSD como excludente de penalidades), que a tese merece ser enfrentada pela agência, mas faltava a fumaça do bom direito para a cautelar.",
+   "votos": [
+    {"diretor": "André Pepitone", "voto": "aprova o bloco; proclama unanimidade", "ts": "0:13:03", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:40", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:40", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:40", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "aprova o bloco (pela proclamação)", "ts": "0:11:40", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:13:20", "processo": "48500.007157/2019-43", "interessado": "Energisa Sul-Sudeste (distribuidora, Presidente Prudente-SP)",
+   "assunto": "Reajuste tarifário anual 2020 da Energisa Sul-Sudeste, a partir de 12/07/2020",
+   "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "Conta-Covid"], "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Efeito médio de 4,87% (6,90% alta tensão; 4,03% baixa tensão); antecipação de reversão de recursos da Conta-Covid (componente financeiro negativo de cerca de 97 milhões) amorteceu o reajuste, que seria de cerca de 10,47% sem ela.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, aprova", "ts": "0:31:00", "justificativa": "Conta-Covid trouxe grande alívio aos consumidores; reajuste 44% menor na alta e 58% menor na baixa tensão", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "0:35:18", "justificativa": "destaca a operacionalização da Conta-Covid: liquidez ao setor e amortecimento tarifário de 5,90%", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:20", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:20", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:35:20", "confianca": "media"}
+   ]},
+  {"id": "4", "ts": "0:36:30", "processo": "48500.004140/2020 (número incerto)", "interessado": "CCEE; Abragel; Unica",
+   "assunto": "Abertura de consulta pública sobre regras de comercialização versão 2021 (22º leilão de energia existente, MCSD 4% e aprimoramentos do MVE: múltiplos lances e preço discriminatório)",
+   "tema": ["comercialização", "regulação normativa"], "relator": "Júlio César Rezende Ferraz", "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaurar consulta pública de 8/7 a 24/8/2020; contribuições de Abragel e Unica seguem em análise para eventual nova fase.",
+   "votos": [
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, aprova", "ts": "0:47:30", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "0:48:33", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:48:20", "confianca": "baixa"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:48:20", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação; possível problema de conexão)", "ts": "0:48:20", "confianca": "baixa"}
+   ]},
+  {"id": "6", "ts": "0:49:00", "processo": "48500.001209/2018-13 (número incerto)", "interessado": "Rio Paranapanema Energia; AES/Enel (legenda: and/indy); Energia Pecém; CCEE",
+   "assunto": "Consulta pública para definir TEIF e IP de referência (REN 614/2014) em revisões extraordinárias de garantia física (Portarias MME 119/2015 e 156/2015; UTEs Pecém I e II, Itaqui; UHEs Capivara, Taquaruçu, Rosana, Curuá-Una, Ponte de Pedra)",
+   "tema": ["comercialização", "outorgas de geração", "regulação normativa", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Consulta pública (intercâmbio documental) de 8/7 a 6/9/2020 com três alternativas da SRG para decidir as impugnações.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:15:30", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "1:16:40", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:16:30", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:16:30", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:16:30", "confianca": "media"}
+   ]},
+  {"id": "16", "ts": "1:17:23", "processo": "48500.005368/2019-78 (número incerto)", "interessado": "Abrate e Abdib (transmissoras); sustentação oral: Júlio César Alves de Aguiar (Eletrobras)",
+   "assunto": "Requerimento administrativo para antecipar vigência do art. 7º da REN 853/2019 (qualidade de instalações em corrente contínua/HVDC, manutenção preventiva em período de baixa hidraulicidade) e antecipar a ARR",
+   "tema": ["transmissão", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "conhecido e negado provimento por unanimidade dos votantes",
+   "resumo_voto": "Perda de objeto quanto à antecipação; ARR no primeiro ano descabida; privilegia previsibilidade e segurança jurídica da norma aprovada.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, nega provimento", "ts": "1:34:00", "justificativa": "privilégio da previsibilidade, da segurança jurídica e daquilo que está aprovado pela agência", "confianca": "alta"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator; proclama", "ts": "1:34:42", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:34:40", "confianca": "media"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:34:40", "confianca": "media"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:34:40", "confianca": "media"}
+   ]},
+  {"id": "19", "ts": "1:35:19", "processo": "48500.003540/2011 (número incerto)", "interessado": "Águas do Oeste Geração Elétrica (PCH Águas de Ouro, rio do Peixe, Ouro/Capinzal-SC); sustentação oral: Rafael Gasparini (advogado)",
+   "assunto": "Pedido de reconsideração do Despacho 1063/2018 que indeferiu a outorga da PCH Águas de Ouro e revogou o DRS-PCH",
+   "tema": ["outorgas de geração", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após sustentação oral pedindo retirada e reunião técnica (isonomia com o novo empreendedor), o relator retirou o processo para nova sessão.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "retira de pauta", "ts": "1:55:43", "justificativa": "princípio do contraditório e de direitos iguais às partes; acata pedido de reunião", "confianca": "alta"}
+   ]},
+  {"id": "10", "ts": "1:57:13", "processo": "48500.003138/2020 (número incerto)", "interessado": "Mori Energia Holding e subsidiárias (33 unidades com minigeração distribuída); Cemig Distribuição; sustentação oral: Lívia Amorim",
+   "assunto": "Requerimento com pedido de medida cautelar para suspender cobrança de EUSD/CUSD pela Cemig-D até a conexão efetiva de usinas fotovoltaicas",
+   "tema": ["geração distribuída", "distribuição", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator retirou para aprofundar e debater com o colegiado completo (Sandoval e Elisa haviam se ausentado); caso afeta outros agentes.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "retira de pauta", "ts": "2:22:02", "justificativa": "aprofundar o caso, que se estende a muitos agentes, e valorizar o debate com os demais diretores ausentes", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": ["2", "5", "7", "8", "9", "12", "15", "20", "19 (pelo relator, após sustentação)", "10 (pelo relator, após sustentação)"],
+ "limites_da_analise": ["Composição inferida: legenda diz 'cinco diretores'; Júlio César Rezende Ferraz aparece como relator (provável diretor substituto); Rodrigo Limp não é citado. Presidente inferido como André Pepitone (citado como 'diretor André').", "Votos dos não relatores atribuídos pela proclamação 'por unanimidade dos votantes'; falas 'também acompanho' sem nome.", "Item 4: fala sugere que um diretor (provavelmente Efrain Cruz, com problema de conexão) entraria depois; pode não ter votado.", "Diretor que comentou o item 21 do bloco não identificado.", "Números de processo e siglas (Abrate, AES/Enel) incertos pela legenda automática."]
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "nUokBM5VBp4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10ª Reunião Pública Extraordinária de 2021", "data": "2021-10-08", "formato": "não informado",
+    "presidente_da_sessao": "Elisa Bastos (Diretora-Geral substituta)",
+    "diretores_presentes": ["Elisa Bastos", "Sandoval Feitosa", "Hélvio Guerra"],
+    "ausentes": ["Efrain Cruz (anunciado para se juntar ao longo da reunião; não há registro de voto dele)"],
+    "observacoes": ["Quórum de três diretores declarado na abertura.", "Pauta divulgada no mesmo dia; apenas 2 processos foram deliberados nesta sessão, ambos unânimes (custo variável unitário de térmicas em meio à crise hídrica de 2021).", "Sandoval registrou na abertura a decisão do STJ favorável à ANEEL sobre a retirada da UHE Risoleta Neves do MRE (cerca de R$ 420 milhões a devolver ao consumidor)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:13",
+      "processo": "48500.000286/2015-11", "interessado": "UEG Araucária (UTE Araucária; Copel e Petrobras)",
+      "assunto": "Pedido de atualização do custo variável unitário (CVU) da UTE Araucária para 7/10 a 15/11/2021, com custos fixos (Portaria MME 5/2021)",
+      "tema": ["outorgas de geração (térmica)", "comercialização (CCEE, PLD, contratos)", "CVU", "crise hídrica"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade (provimento parcial)",
+      "resumo_voto": "Conhecer e dar provimento parcial; determinar ao ONS aplicar CVU de R$ 2.553,20/MWh de 7/10 a 15/11/2021 e à CCEE para contabilização; revogar o Despacho 3.077/2021. Parcela adicional de custos fixos não alcançada por estar em instrução. Relator destacou escalada do CVU desde junho/2021, consultou o ONS sobre a imprescindibilidade do despacho e pediu diligências à ANP e ao CADE sobre o preço do gás. Procuradoria opinou pela aprovação.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (provimento parcial)", "ts": "0:13:50", "justificativa": "respaldo da Portaria MME 5/2021 e necessidade de despacho atestada pelo ONS; alerta para volatilidade e aumentos sucessivos do gás, pede compromisso das geradoras e atenção dos reguladores", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:33:14", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator e proclama", "ts": "0:33:17", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:34:17",
+      "processo": "48500.004406/2021 (número incerto na legenda)", "interessado": "Companhia Energética Potiguar (UTEs Potiguar e Potiguar III, Macaíba/RN)",
+      "assunto": "Recomposição excepcional e temporária do CVU das UTEs a óleo diesel Potiguar e Potiguar III, por determinação da 3ª reunião da CREG (5/8/2021)",
+      "tema": ["outorgas de geração (térmica)", "CDE e encargos setoriais (ESS)", "comercialização (CCEE, PLD, contratos)", "crise hídrica"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "CVU excepcional de R$ 1.379,89/MWh (data-base julho/2021) para ambas até 31/12/2021, atualizado mensalmente pela CCEE; incremento pago via ESS; CCEAR mantidos para contabilização; sobrestamento de desligamento/cobrança de penalidades até dezembro/2021; sem rateio de inadimplência; sem retroatividade; fiscalização SFG/SFF e relatório técnico com ART sobre consumo específico (289 l/MWh aceito provisoriamente). O&M limitado à referência de Palmeiras de Goiás (R$ 137,22/MWh) em vez dos R$ 303,60 pleiteados.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:36:15", "justificativa": "cumprir a determinação da CREG ante a pior escassez hídrica em 91 anos, com parâmetros regulatórios de eficiência e preços de mercado", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:58:36", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator e proclama", "ts": "0:58:40", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Pauta anunciada com 22 itens, mas só 2 processos foram apregoados e deliberados neste vídeo; o restante não aparece (possivelmente em outra sessão/deliberação).", "Efrain Cruz foi anunciado como chegando ao longo da reunião; não se ouve voto dele, tratado como ausente.", "Falas de voto dos seguidores sem nome; atribuídas pela composição (3 presentes) e pela ordem: o não-relator vota antes da Diretora-Geral substituta.", "Números de processo e valores vêm da legenda automática e podem conter erros (sobretudo o processo do item 2)."]
+}

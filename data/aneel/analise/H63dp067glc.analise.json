@@ -1,0 +1,89 @@
+{
+  "meta": {"video_id": "H63dp067glc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "6ª Reunião Pública Extraordinária de 2020", "data": "2020-08-06", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Júlio César Rezende Ferraz"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores; sem informes. Pauta com 4 processos: CDE (pedido de reconsideração EDP), reajustes tarifários EDP Espírito Santo e Celpa (Equatorial Pará) e edital do Leilão de Transmissão 1/2020.",
+      "Efrain Cruz não estava conectado no voto do item 2 (diretor-geral: «não deve estar no momento»), e Elisa Bastos estava fora da sessão no voto do edital do leilão; proclamações «por unanimidade dos votantes».",
+      "No reajuste da EDP ES, reversão de 4,82% de créditos de PIS/Cofins (exclusão do ICMS) a pedido da própria distribuidora; Efrain Cruz, relator da Tomada de Subsídios 5/2020, comparou com a recusa no caso Cemig.",
+      "Encerrada por volta de 3:42 do vídeo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:00:38",
+      "processo": "48500.004352/2019-48", "interessado": "EDP Energias do Brasil S.A. (EDP Espírito Santo)",
+      "assunto": "Pedido de reconsideração da EDP contra a REH 2.664/2019, que aprovou o orçamento anual da CDE de 2020 e as cotas anuais (alegado erro material: inclusão do mercado de autoprodução no mercado de referência)",
+      "tema": ["CDE e encargos setoriais", "recursos administrativos", "tarifas e revisão tarifária"],
+      "relator": "Júlio César Rezende Ferraz",
+      "resultado": "Por unanimidade dos votantes: não conhecer o recurso, intempestivo; de ofício, reconhecido erro material, aplicar o recálculo das cotas da CDE 2020 no próximo processo de definição do orçamento da CDE (2021), atualizado pela Selic.",
+      "resumo_voto": "Recurso apresentado 38 dias após publicação (prazo de 10 dias da REN 273/2007). SGT (NT 144/2020) confirmou inclusão indevida da autoprodução; ajuste: distribuidoras cerca de 19 milhões a menos, transmissoras e permissionárias majoradas. Procuradoria pelo não conhecimento.",
+      "votos": [
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "relator, aprova", "ts": "0:01:00", "justificativa": "Recurso intempestivo, mas erro material comprovado pela SGT; correção de ofício no orçamento da CDE 2021.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:11:48", "justificativa": "«eu acompanho a proposta de voto trazida pelo diretor júlio».", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:11:55", "justificativa": "Fala «eu também voto com o relator» sem nome; atribuída pela ordem de votação.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (pela proclamação)", "ts": "0:11:59", "justificativa": "Diretor-Geral proclama unanimidade dos votantes.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (fora da sessão no momento)", "ts": "0:11:45", "justificativa": "Diretor-Geral: o diretor Efrain não deve estar no momento; depois ele próprio diz que não conseguiu se manifestar.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:12:40",
+      "processo": "48500.007059/2019-32", "interessado": "EDP Espírito Santo Distribuição de Energia S.A. (Escelsa)",
+      "assunto": "Reajuste tarifário anual de 2020 da EDP Espírito Santo, vigência a partir de 7/8/2020",
+      "tema": ["tarifas e revisão tarifária", "CDE e encargos setoriais", "conta-covid", "créditos de PIS/Cofins"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Por unanimidade: homologado o reajuste com efeito médio de 8,02% (10,32% alta tensão; 7,05% baixa tensão), com financeiros negativos da Conta-covid (-6,64%), reversão de créditos de PIS/Cofins (-4,82%) e correção da cota da CDE (-2,41%).",
+      "resumo_voto": "Sustentação oral de Falconi (diretor de regulação do grupo EDP) pedindo uso da Conta-covid, IGP-M real de julho, reversão de PIS/Cofins já compensados (159 milhões) e correção da CDE. Relator acolheu: créditos com trânsito em julgado, habilitados na Receita e pedido da própria distribuidora, diferente do caso Cemig; decisão reversível e sem prejuízo da TS 5/2020 (relator Efrain Cruz). Citou procura do senador Marcos do Val. Procuradoria sem comentários (tema já enfrentado no caso Cemig).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:13:00", "justificativa": "Créditos de PIS/Cofins já compensados e pedidos pela própria EDP; não há insegurança jurídica nem quebra de confiança; decisão reversível.", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:00:27", "justificativa": "Na discussão concordou: crédito é integralmente do consumidor e a devolução imediata não vincula a regulamentação em curso; proclamou unanimidade.", "confianca": "alta"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:00:15", "justificativa": "Falas «acompanho o voto do diretor sandoval» / «voto com o relator» sem nome.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:00:20", "justificativa": "Depois, no item seguinte, parabenizou o voto: «estamos fazendo justiça» ao devolver o PIS/Cofins ao consumidor e criticou a postura da Cemig.", "tom": "enfático, crítico à Cemig", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:00:23", "justificativa": "Fala «também acompanho o voto do relator» sem nome.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:00:45",
+      "processo": "48500.007030/2019-51", "interessado": "Centrais Elétricas do Pará S.A. (Celpa / Equatorial Pará)",
+      "assunto": "Reajuste tarifário anual de 2020 da Celpa, vigência a partir de 7/8/2020",
+      "tema": ["tarifas e revisão tarifária", "conta-covid"],
+      "relator": "Efrain Cruz",
+      "resultado": "Por unanimidade dos votantes: homologado efeito médio de 2,68% (0,44% alta tensão; 3,29% baixa tensão), com diferimento de cerca de 162,9 milhões da previsão do risco hidrológico para o processo seguinte, atualizado pela Selic.",
+      "resumo_voto": "Conta-covid com cerca de 285 milhões revertidos; distribuidora pediu diferimento do risco hidrológico. Procuradoria sem controvérsia jurídica. Antes do voto, relator fez longa manifestação sobre o item anterior (PIS/Cofins e Cemig).",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:07:45", "justificativa": "Louvou a Equatorial pelo diferimento do risco hidrológico e a Conta-covid; passou direto ao dispositivo.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:36:34", "justificativa": "Fala «acompanho o voto do diretor efraim» sem nome; atribuição pela ordem.", "confianca": "baixa"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:36:38", "justificativa": "Fala «também voto com o relator» sem nome.", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "1:36:42", "justificativa": "Fala «também acompanho o voto do relator» sem nome.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:36:46", "justificativa": "Destacou a Conta-covid (amortecimento de 6,6% no Pará, operação de mercado com 16 instituições); proclamou.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:37:00",
+      "processo": "48500.005211/2019-42", "interessado": "Leilão de Transmissão 1/2020 (Eletrobras, CEEE-GT, ABRATE em sustentação)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão 1/2020 (11 lotes, RAP, anexos técnicos) após a 2ª fase da Consulta Pública 46/2019; inclui lote da SE Porto Alegre 4 (redução unilateral do contrato 55/2001 da CEEE-GT) e critério de participação do item 2.5.4 (caducidade)",
+      "tema": ["leilões", "transmissão", "regulação normativa", "fiscalização e sanções"],
+      "relator": "Efrain Cruz",
+      "resultado": "Por unanimidade dos votantes: edital aprovado com alteração do item 2.5.4, envio ao TCU (IN 81/2018), visitas às subestações, estudo SCE/SCT em 90 dias sobre critérios de participação, instrução pela SCT de processo de redução unilateral do contrato 55/2001 com contraditório da CEEE-GT e inclusão de cláusula que veda negociar a outorga antes da operação comercial (sugestão do Diretor-Geral).",
+      "resumo_voto": "Investimentos de cerca de 6 bilhões e 14 mil empregos. Sustentações orais: Eletrobras (Gerusa Magalhães) contra a restrição de participação de controladas com caducidade; CEEE-GT (nome incerto) e ABRATE (Geraldo Cordeiro) contra licitar a SE Porto Alegre 4 sem contraditório. Relator: reforço é dever do concessionário, redução unilateral é competência da ANEEL, e flexibilizou o 2.5.4.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:43:56", "justificativa": "Leilão é o meio de menor tarifa; vício alegado no caso Porto Alegre 4 é sanável; restrição por caducidade é condição de participação, não penalidade, revista no 2.5.4; aceitou o item 6 do Diretor-Geral.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:39:16", "justificativa": "Concordou com a vedação de negociar o lote antes da operação («não fomentar negócio de papel»); voto individual sem nome claro.", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "3:39:30", "justificativa": "Fala «concordo com o voto do diretor efraim considerando a inclusão das recomendações finais trazidas pelo diretor-geral» sem nome; atribuída por exclusão.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "3:39:47", "justificativa": "Defendeu contraditório da CEEE-GT na redução unilateral e propôs vedar a comercialização do lote antes da operação comercial; proclamou.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "não votou (fora da sessão)", "ts": "3:39:57", "justificativa": "Diretor-Geral: a diretora Elisa encontra-se fora da sessão neste momento.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Transcrição tem um único marcador de tempo; ts obtidos do JSON da legenda, aproximados.",
+    "Votos de quem só diz «acompanho» sem nome foram atribuídos pela ordem e pela proclamação; confiança media/baixa.",
+    "Itens 2 e 4: Diretor-Geral fala em «unanimidade dos votantes»; no item 2 Efrain Cruz não votou; no item 4 todos parecem ter votado (4 falas de acompanhamento).",
+    "Nomes de sustentações (Falconi, Gerusa Magalhães, Geraldo Cordeiro, representante da CEEE-GT) e números de processos vêm da legenda automática e podem estar errados; houve problema técnico e duas sustentações foram retomadas.",
+    "Na discussão do edital, um diretor (Sandoval Feitosa ou Júlio César) falou a favor da licitação de Porto Alegre 4 e da volta da Eletrobras aos leilões; autoria não identificada."
+  ]
+}

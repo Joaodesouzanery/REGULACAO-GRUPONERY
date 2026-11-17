@@ -1,0 +1,40 @@
+{
+ "meta": {"video_id": "G0QvS7K94O8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:50:47); ts de quem só acompanha é aproximado", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "2ª Reunião Pública Extraordinária de 2023", "data": "2023-06-27", "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Quórum de três diretores declarado na abertura; pauta publicada em 26/06/2023 com 2 itens, sem pedidos de sustentação oral.", "Dois pedidos de medida cautelar (Renobrax) para manter a vigência de pareceres de acesso de UFVs que compartilham conexão em São João do Piauí, à espera da CP 15/2023; ambos providos por unanimidade.", "Ao final, a sessão é suspensa para início da reunião pública ordinária."]
+ },
+ "itens": [
+  {
+   "id": "1", "ts": "0:52:14",
+   "processo": "48500.003353/2023-51", "interessado": "Renobrax Energias Renováveis Ltda. (geradora); UFV São João do Piauí 1 a 3",
+   "assunto": "Pedido de medida cautelar para manter a validade do parecer de acesso DTA 2022 130 R1 das UFVs São João do Piauí 1 a 3 até a conclusão da Consulta Pública 15/2023",
+   "tema": ["outorgas de geração (solar)", "transmissão (acesso, CUST)", "recursos administrativos (medida cautelar)", "regulação normativa (CP 15/2023)"],
+   "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (provimento à cautelar)",
+   "resumo_voto": "Presentes perigo da demora (perda do ponto de conexão, ONS repassaria a margem ao próximo da fila) e fumaça do bom direito (sinalização do voto do relator da CP 15/2023); ONS mantém a vigência do parecer até 15 dias após aprovação da proposta da CP 15/2023, com efeitos retroativos; agente pode optar por assinar o CUST em até 15 dias. Procuradoria havia se manifestado pela inexistência da fumaça do bom direito.",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova (dá provimento)", "ts": "0:55:24", "justificativa": "perigo da demora e fumaça do bom direito presentes; perda do parecer seria dano irreparável", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:02:45", "justificativa": "questionou se seria preciso cautelar ou bastaria requerimento (análise de mérito), mas reconheceu o risco de perda do direito", "tom": "dúvida formal", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:04:50", "justificativa": "sem a decisão a empresa perderia o ponto de conexão para os primeiros da fila", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2", "ts": "1:05:52",
+   "processo": "48500.003352/2023-15", "interessado": "Renobrax Geração de Energia Ltda. (e sócia, nome incerto na legenda); UFV Chapada/Chatô Forte 1 a 10 (nome incerto)",
+   "assunto": "Pedido de medida cautelar para manter a validade do parecer de acesso DTA 2022 128 R1 das UFVs «Chatô Forte» 1 a 10 (conexão compartilhada com São João do Piauí 1 a 3)",
+   "tema": ["outorgas de geração (solar)", "transmissão (acesso, CUST)", "recursos administrativos (medida cautelar)", "regulação normativa (CP 15/2023)"],
+   "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade (provimento à cautelar)",
+   "resumo_voto": "Mesmos fundamentos do item 1; relator ajustou o voto para incluir o prazo de 15 dias para assinatura do CUST, como proposto por Ricardo Tili; observou que o processo poderia ter sido distribuído por conexão.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (dá provimento)", "ts": "1:06:20", "justificativa": "mesmos fundamentos do voto de Ricardo Tili no item anterior, com ajuste do prazo de 15 dias", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:10:24", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:10:24", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Falante do presidente rotulado como Agnes da Costa na legenda, mas ele cumprimenta a 'diretora Agnes' e o 'diretor Ricardo Chile' (Tili): presidência e relatoria do item 2 atribuídas a Sandoval Feitosa (Diretor-Geral em 2023) por inferência.", "Votação do item 2 cortada na legenda (trecho entre 'em votação' e a proclamação não transcrito); unanimidade inferida pela proclamação parcial.", "Nomes das usinas do item 2 ('chatou/chatô forte') e da segunda requerente ('vença o Brás/versobrais') incertos.", "Número do processo e da reunião vêm da legenda automática; data inferida (pauta publicada segunda-feira 26/06/2023)."]
+}

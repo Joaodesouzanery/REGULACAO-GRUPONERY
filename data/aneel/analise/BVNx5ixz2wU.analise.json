@@ -1,0 +1,66 @@
+{
+ "meta": {"video_id": "BVNx5ixz2wU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "45ª Reunião Pública Ordinária de 2020 (Parte 1)", "data": "2020-12-01", "formato": "híbrido/videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Sandoval Feitosa", "Efrain Cruz", "Hélvio Guerra"],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores (formação completa). Pauta com 33 itens; itens 19 a 33 em bloco; itens 3 e 6 retirados de pauta; sustentações orais para os itens 1, 2, 5, 7, 15, 16 e 18 (18 = prorrogação de vista).",
+   "Aprovadas as atas da 44ª RPO e da 10ª reunião extraordinária de 2020.",
+   "Esta Parte 1 cobre só o bloco e o item 7 (regulamentação da Lei 14.052/2020, GSF); sessão suspensa para almoço às ~4:39, retomada às 15h em outro vídeo.",
+   "Presença do presidente do Conselho de Administração da CCEE, Rui Altieri, na proclamação do item 7."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco", "ts": "0:07:00", "processo": "itens 19 a 33 da pauta (bloco)", "interessado": "diversos",
+   "assunto": "Itens do bloco (19 a 33), exceto o item 27",
+   "tema": ["bloco"], "relator": "não identificado", "resultado": "aprovados por unanimidade, exceto item 27 (vista do Diretor-Geral)",
+   "resumo_voto": "Bloco aprovado por todos; o Diretor-Geral pediu vista do item 27.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:07:20", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:07:20", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:07:20", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:07:20", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "aprova o bloco; pede vista do item 27", "ts": "0:07:36", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "27", "ts": "0:07:36", "processo": "item 27 da pauta (bloco)", "interessado": "não identificado",
+   "assunto": "Item 27 do bloco (assunto não lido na sessão)",
+   "tema": ["bloco"], "relator": "não identificado", "resultado": "pedido de vista do Diretor-Geral",
+   "resumo_voto": "Retirado do bloco por pedido de vista de André Pepitone.",
+   "votos": [
+    {"diretor": "André Pepitone", "voto": "pede vista", "ts": "0:07:36", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "não votou (vista)", "ts": "0:07:36", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:07:36", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "não votou (vista)", "ts": "0:07:36", "confianca": "media"},
+    {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "0:07:36", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "7", "ts": "0:08:15", "processo": "48500.000373/2019-94",
+   "interessado": "geradores hidrelétricos do MRE; CCEE; ONS; sustentações: ABRAGE (Luiz Laércio Simões Machado), APINE (Guilherme Velho), UNICA (Gilmar José de Souza), Instituto Acende Brasil (Cláudio Sales), Enel Brasil (Marcos Keller?), grupo de cotistas Spic/São Simão, CTG, Enel (Érika Breyer), Furnas (Fabiana Toledo), Norte Energia (José Moisés Machado da Silva), Eletrobras (Vádia Viana Reis)",
+   "assunto": "Resultado da Consulta Pública 56/2020 e regulamentação do art. 2º da Lei 14.052/2020 (repactuação do risco hidrológico / GSF: compensação por GFOM e importação, atraso de transmissão das estruturantes Santo Antônio, Jirau e Belo Monte, antecipação de garantia física), via extensão de outorgas",
+   "tema": ["comercialização (CCEE, MRE, GSF)", "outorgas de geração (hidrelétrica)", "regulação normativa (resolução, consulta pública)", "transmissão"],
+   "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN; em relação à CP: aplica taxa de desconto (9,63%) além do IPCA sobre capital efetivamente despendido (fora de liminares); inclui atraso das obras caducadas da Abengoa/Isolux (substituídas por Serra Pelada) no escoamento de Belo Monte; reconhece direito das usinas em regime de cotas sobre parcela não cotizada; mantém TEO no cálculo, vedação de transferência de compensação entre usinas, exclusão de CGH e de parcela repactuada, exigência de adesão de todos os consorciados; prazo de 90 dias à CCEE; cláusula de estabilização frente à reversão de liminares.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, aprova a minuta de resolução normativa", "ts": "2:08:22", "justificativa": "regulamentar a lei para destravar o mercado de curto prazo; acolhe pleitos de taxa de desconto, Belo Monte e cotistas; não há base legal para transferir compensação entre usinas nem para CGH", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "4:37:37", "justificativa": "na discussão (3:36) elogiou o voto; antecipação de garantia física viabilizou as estruturantes; preocupação com perda de capacidade de armazenamento (usinas a fio d'água); indagou à procuradoria sobre a UHE Paranoá designada", "tom": "técnico", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha com louvor a relatora", "ts": "4:37:51", "justificativa": "na discussão (3:51) criticou usinas estruturantes a fio d'água e decisões judiciais como a de Risoleta Neves (usina destruída recebendo pelo MRE)", "tom": "enfático/crítico ao Judiciário", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "4:38:14", "justificativa": "na discussão (4:07) destacou fim de disfunção do mercado; designação seria prestação direta pela União; defendeu reavaliar usinas com reservatório", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "4:38:23", "justificativa": "decisão divisor de águas; avanços em três pontos (taxa de desconto, Abengoa/Isolux, cotistas); não avançou na transferência por grupo societário", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": ["item 3 (retirado de pauta; assunto não lido)", "item 6 (retirado de pauta; assunto não lido)"],
+ "limites_da_analise": [
+  "Parte 1 apenas: demais itens (1, 2, 4, 5, 8 a 18) foram julgados à tarde, em outro vídeo.",
+  "O cabeçalho do .md inferiu diretores de outra época (Gentil Nogueira, Ricardo Tili); a composição de dez/2020 (André Pepitone, Elisa Bastos, Sandoval Feitosa, Efrain Cruz, Hélvio Guerra) foi inferida das falas e citações nominais.",
+  "Votos do item 7: atribuição dos três 'acompanho' por pistas (minha segunda semana na agência = Hélvio Guerra, recém-empossado; menção a votar viu Doutor André = Efrain Cruz; companheiro de carreira da agência = Sandoval Feitosa); confiança média.",
+  "Bloco: os votos individuais não têm nome; atribuídos pela proclamação de unanimidade; assunto do item 27 não foi lido.",
+  "Nomes de expositores em sustentação oral vêm da legenda automática e podem estar grafados errado (ex.: Marcos Keller, Érika Breyer, Vádia Viana Reis)."
+ ]
+}

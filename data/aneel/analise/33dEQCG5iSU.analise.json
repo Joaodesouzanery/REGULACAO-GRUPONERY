@@ -1,0 +1,67 @@
+{
+  "meta": {"video_id": "33dEQCG5iSU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9ª Reunião Pública Extraordinária de 2020", "data": "2020-10-26", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Sandoval Feitosa", "Cristiano (diretor substituto na vaga de Júlio César Rezende Ferraz)"],
+    "ausentes": ["Efrain Cruz"],
+    "observacoes": ["Quórum de quatro diretores. Pauta de 3 processos, julgados na ordem item 2, item 3, item 1; sem sustentação oral nem retirada de pauta.", "Reunião extraordinária convocada porque Elisa Bastos sairia de férias e era relatora da RTE da Roraima Energia.", "No item 3 (Tibagi/SE Rosana) o colegiado decidiu, por votação de questão de ordem, que Cristiano não votaria o mérito (prevalece o voto já proferido por Júlio Ferraz) mas votaria o encaminhamento ao CADE/MPF; a votação foi fatiada em duas.", "Encerrada por volta de 1:40:13 do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "2", "ts": "0:01:40",
+      "processo": "48500.003998/2020-58 (legenda: 48.500 00398/2020-58)", "interessado": "Secretaria Executiva de Leilões; distribuidoras compradoras",
+      "assunto": "Resultado da Consulta Pública 44/2020 e aprovação do edital e anexos do Leilão de Geração nº 6/2020 (leilão de energia existente A-1 de 2020, Portaria MME 278/2020): sessão em 4/12/2020, suprimento 2021-2022, preço inicial R$ 160/MWh",
+      "tema": ["leilões (geração)", "comercialização", "regulação normativa (consulta pública)"],
+      "relator": "Elisa Bastos",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Aprovação do edital do Leilão nº 6/2020 (A-1) e anexos, com acolhimento de contribuições da CP 44 (certidões SUSEP para seguro-garantia, ajuste do item 2.2.2, retirada da garantia de proposta das distribuidoras, nova cessão de energia via MCSD). Apresentação técnica de Igor (SEL).",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "0:13:30", "justificativa": "Voto pela aprovação do edital do leilão de geração nº 6 e respectivos anexos, consolidado com os aprimoramentos da CP 44.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:12", "justificativa": "Acompanha o voto proferido pela diretora Elisa.", "confianca": "baixa"},
+        {"diretor": "Cristiano (diretor substituto)", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:18", "justificativa": "Acompanha o voto da ilustre diretora Elisa.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:14:22", "justificativa": "Acompanha o voto da relatora e proclama a unanimidade.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:14:56",
+      "processo": "48500.005876/2019-56", "interessado": "Interligação Elétrica Tibagi (subsidiária da ISA CTEEP), transmissora",
+      "assunto": "Requerimento administrativo com pedido de cautelar da IE Tibagi para aprovar alteração da localização do novo pátio 230 kV da SE Rosana (localização A em vez da B vinculante no edital do Leilão 5/2016, lote 5) como solução técnica equivalente; termo aditivo ao contrato de concessão 26/2017. Voto-vista do Diretor-Geral, após votos-vista de Sandoval Feitosa e Efrain Cruz.",
+      "tema": ["transmissão (RAP, outorgas)", "fiscalização e sanções (garantia de fiel cumprimento)", "solução consensual (art. 26 LINDB)", "leilões (transmissão)"],
+      "relator": "Elisa Bastos",
+      "resultado": "por maioria: mérito nos termos do voto da relatora (provimento, 1º termo aditivo, RAP de cerca de R$ 18,37 mi para R$ 15,89 mi e desconto de cerca de R$ 6,73 mi como parcela de ajuste, termo de liberação para teste); vencidos Sandoval Feitosa e Efrain Cruz. Em segunda votação, por maioria, decidiu não encaminhar cópia dos autos ao CADE e ao MPF; vencidos Sandoval Feitosa e Efrain Cruz.",
+      "resumo_voto": "Voto-vista de André Pepitone acompanha a relatora: alterar a localização é descumprimento do edital, mas a solução consensual (NT 258 SCT, Parecer 87 PF) emula a concorrência (redução de 13,5% da RAP) e aplica sanção equivalente à garantia de fiel cumprimento, sendo mais eficiente que anular o leilão; não encaminhar ao CADE/MPF. Efrain Cruz (voto-vista anterior) propunha negar a cautelar, remeter à comissão especial de licitação e encaminhar ao CADE/MPF; Sandoval passou a acompanhá-lo. Parcela de ajuste deslocada para o ciclo 2021-2022.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova (mantém voto original; contra encaminhar ao CADE/MPF)", "ts": "0:56:45", "justificativa": "Mantém o voto original; a solução consensual já saneia os aspectos, e o encaminhamento ao CADE/MPF não era sua proposta original (havia aderido por composição).", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "voto-vista: acompanha a relatora; vota por não encaminhar ao CADE/MPF", "ts": "0:15:30", "justificativa": "Solução consensual com emulação de concorrência e desconto integral da garantia de fiel cumprimento atende ao interesse público, à eficiência e à modicidade; encaminhar ao CADE/MPF perpetuaria a discussão e sugeriria atuação contraditória.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido (mantém acompanhar voto-vista de Efrain Cruz; vota por encaminhar ao CADE/MPF)", "ts": "0:56:55", "justificativa": "Remeter os autos às áreas competentes para esclarecer eventual frustração do caráter competitivo; encaminhar ao CADE e MPF é indisponível ao agente público e o fará de ofício independentemente do resultado.", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "vencido (voto-vista proferido em sessão anterior; ausente)", "ts": "1:01:56", "justificativa": "Voto-vista anterior: negar a cautelar, remeter à comissão especial de licitação e encaminhar ao CADE/MPF; voto lido como registrado.", "confianca": "media"},
+        {"diretor": "Júlio César Rezende Ferraz", "voto": "voto deixado (acompanha a relatora no mérito)", "ts": "0:56:40", "justificativa": "Voto proferido em sessão anterior acompanhando a relatora; mantido pelo colegiado quanto ao mérito.", "confianca": "media"},
+        {"diretor": "Cristiano (diretor substituto)", "voto": "suspeito/impedido no mérito; vota por não encaminhar ao CADE/MPF", "ts": "1:01:07", "justificativa": "Impedido no mérito por já haver voto de Júlio Ferraz; autorizado pelo colegiado a votar o encaminhamento: equacionado o mérito com medidas saneadoras, é desnecessário buscar remédios na defesa da concorrência.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:03:04",
+      "processo": "48500.007688/2019-23 (legenda: 48.500 0076 8/2019)", "interessado": "Roraima Energia S.A. (distribuidora)",
+      "assunto": "Revisão tarifária extraordinária contratual da Roraima Energia com avaliação completa da base de remuneração, vigência a partir de 1/11/2020 (CP 51/2020; efeitos da MP 998/2020)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras)", "CDE e encargos setoriais", "base de remuneração regulatória"],
+      "relator": "Elisa Bastos",
+      "resultado": "aprovado por unanimidade dos votantes: efeito médio de -6,40% (alta tensão cerca de -5,6%; baixa tensão -6,60%)",
+      "resumo_voto": "Aprova a RTE, fixa tarifas, homologa valor a ressarcir à CCC em duodécimos em 2021, aprova repasses mensais da CDE e define ativos indenizados (Portaria MME 385) como obrigações especiais. Glosa de cerca de 25% na base líquida pela fiscalização (SFF); MP 998 reduziu cerca de 19-20% o efeito; uso parcial da Conta-covid para evitar efeito serrote. Apresentações de Zilmar (SFF) e Devecchi (SGT).",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, aprova", "ts": "1:35:58", "justificativa": "Cumprimento do contrato; MP 998 e nova valoração do custo de energia reduzem as tarifas; base glosada em 25% reflete valores reais; uso parcial da Conta-covid para estabilidade tarifária.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:37:50", "justificativa": "Acompanha a relatora.", "confianca": "baixa"},
+        {"diretor": "Cristiano (diretor substituto)", "voto": "acompanha o relator (pela proclamação)", "ts": "1:37:54", "justificativa": "Acompanha o voto da diretora Elisa, cumprimentando a equipe da SGT.", "confianca": "baixa"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:38:18", "justificativa": "Vota com a relatora e proclama a unanimidade.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Transcrição sem marcação de falantes (bloco único); ts obtidos da legenda bruta.",
+    "Cristiano (diretor substituto na vaga de Júlio Ferraz) não está na lista de diretores do config; sobrenome não dito.",
+    "Itens 2 e 1: as duas falas 'acompanho' sem nome entre a relatora e o Diretor-Geral foram atribuídas a Sandoval Feitosa e Cristiano pela ordem usual, mas a ordem entre os dois é incerta (confiança baixa).",
+    "Item 3: Efrain Cruz ausente, voto-vista de sessão anterior contabilizado; Júlio Ferraz já fora da diretoria, voto anterior contabilizado no mérito. Os votos por diretor são 6 para 4 presentes por isso.",
+    "Números de processo e valores (RAP, garantia, percentuais) vêm da legenda automática e podem estar errados."
+  ]
+}

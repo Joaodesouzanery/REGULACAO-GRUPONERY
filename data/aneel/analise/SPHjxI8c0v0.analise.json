@@ -1,0 +1,46 @@
+{
+ "meta": {"video_id": "SPHjxI8c0v0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "30ª RPO 2020 (Parte 2)", "data": "2020-08-18", "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Júlio César Rezende Ferraz"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 (tarde) da 30ª Reunião Pública Ordinária; retomada com inversão de pauta.", "Composição presumida igual à da 29ª RPO (Júlio César Rezende Ferraz como diretor substituto); a chamada não é ouvida nesta parte.", "No item 8 o Diretor-Geral André Pepitone perdeu a conexão; a votação foi aberta por outro diretor e a proclamação fala em unanimidade dos votantes.", "Item 9 (CEMIG-D, crédito de PIS/COFINS sobre ICMS) teve sustentações orais em vídeo do senador Rodrigo Pacheco e do deputado federal Weliton Prado, manifestação da Procuradoria e longo debate; provimento parcial unânime com componente financeiro negativo de R$ 714,339 milhões.", "Encerrada após o item 9 (último da pauta)."]
+ },
+ "itens": [
+  {"id": "7", "ts": "0:00:54", "processo": "48500.003810/2010-31 e 48500.006599/2013-11", "interessado": "Norte Energia S.A.",
+   "assunto": "Prorrogação do prazo de pedido de vista no pedido de reconsideração da Norte Energia contra despacho que autorizou o 2º termo aditivo ao contrato de concessão nº 1/2010 (UHE Belo Monte)",
+   "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos", "procedimento (vista)"],
+   "relator": "não identificado", "resultado": "prorrogação de vista por mais 8 sessões deferida sem objeção",
+   "resumo_voto": "Efrain Cruz, com vista, pediu prorrogação por mais oito sessões em razão de licença-paternidade; deferido sem objeção.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "pede prorrogação da vista (8 sessões)", "ts": "0:01:30", "justificativa": "licença-paternidade", "confianca": "media"}
+   ]},
+  {"id": "8", "ts": "0:01:53", "processo": "48500.003586/2018-97", "interessado": "CHESF (recorrente); Central Eólica Volta do Rio S.A. (CEMIG GT)",
+   "assunto": "Recurso administrativo da CHESF contra o Despacho 1.954/2019 (SRT/SRG/SRM) que determinou à Central Eólica Volta do Rio a transferência da LT 230 kV Acaraú II-Sobral III C1 em até 120 dias",
+   "tema": ["transmissão (rede básica, transferência de instalações)", "recursos administrativos", "fiscalização"],
+   "relator": "Efrain Cruz", "resultado": "conhecido e provido, por unanimidade dos votantes",
+   "resumo_voto": "Reformula o item 1 do despacho: 120 dias para a Volta do Rio regularizar pendências técnicas, fundiárias, ambientais, patrimoniais e contratuais (REN 756/2016) e, após isso, 30 dias para o termo de transferência não onerosa à CHESF, como rede básica; SFG e SFE acompanham o cumprimento.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, dá provimento", "ts": "0:13:00", "justificativa": "quase cinco anos de negociação sem transferência e despacho descumprido; o ativo deve ser transferido desembaraçado, conforme a REN 756/2016", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:19:13", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:19:17", "confianca": "baixa"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:19:26", "justificativa": "proclamação cita «considerando o entendimento do diretor Júlio»", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "não identificado (conexão caiu durante a votação)", "ts": "0:19:33", "confianca": "baixa"}
+   ]},
+  {"id": "9", "ts": "0:20:54", "processo": "48500.000073/2019-94", "interessado": "CEMIG Distribuição; Conselho de Consumidores da CEMIG; senador Rodrigo Pacheco; deputados Weliton Prado e Elismar Prado",
+   "assunto": "Pedidos de reconsideração contra a REH 2.707/2020 (reajuste tarifário anual 2020 da CEMIG-D) para devolução aos consumidores dos créditos de PIS/COFINS sobre ICMS levantados em depósito judicial",
+   "tema": ["tarifas e revisão tarifária (RTA)", "créditos tributários PIS/COFINS", "recursos administrativos"],
+   "relator": "Elisa Bastos", "resultado": "provimento parcial, por unanimidade",
+   "resumo_voto": "Conhece e dá provimento parcial: componente financeiro negativo de R$ 714,339 milhões no RTA 2020 da CEMIG-D, com novas tarifas a partir da publicação da nova REH; demais pedidos (risco hidrológico, conta-covid) não acolhidos; tema geral segue na Tomada de Subsídios 5/2020. Sustentações orais em vídeo: senador Rodrigo Pacheco e deputado Weliton Prado.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relatora, dá provimento parcial", "ts": "0:47:47", "justificativa": "CEMIG-D concordou em reverter R$ 714,339 milhões; aplicação imediata mitiga impacto da pandemia sem prejulgar a tomada de subsídios", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha a relatora", "ts": "1:52:52", "justificativa": "reitera tese vencida de devolver o crédito já no reajuste; preferia valor maior, mas adere à proposta para não ampliar divergência", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:52:54", "confianca": "baixa"},
+    {"diretor": "Júlio César Rezende Ferraz", "voto": "acompanha a relatora", "ts": "1:52:57", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha a relatora e proclama", "ts": "1:52:59", "justificativa": "devolução decorre de pedido da empresa, como no caso EDP Escelsa; regra geral deve sair logo", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Transcrição com um só marcador no .md; ts obtidos do JSON da legenda.", "Item 7: relator do processo da Norte Energia não identificável na legenda; diretor com vista identificado como Efrain Cruz ('torfrem pereira da cruz').", "Item 8: queda de conexão de André Pepitone; falas de voto sem nome; proclamação 'por unanimidade dos votantes'; não se sabe se André votou nem quem presidiu durante a queda.", "Item 9: as quatro falas 'acompanho' não têm nome; atribuição pela ordem usual; debate longo (~0:50-1:52) com falas de vários diretores sem identificação segura.", "Números de processo e valores vindos de legenda automática podem conter erros."]
+}

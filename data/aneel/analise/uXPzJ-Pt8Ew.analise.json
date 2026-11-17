@@ -1,0 +1,76 @@
+{
+ "meta": {"video_id": "uXPzJ-Pt8Ew", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "39ª RPO (parte 2)", "data": "2018-10-23", "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Rodrigo Limp"],
+  "ausentes": [],
+  "observacoes": ["Parte 2 da 39ª Reunião Pública Ordinária; retomada à tarde a partir do item 3 da pauta.", "Tiago Correia já havia encerrado o mandato; seus votos de relator proferidos antes dos pedidos de vista (itens 5 e 7) ficaram vencidos.", "Correção registrada no item 10 (caducidade, contrato de concessão 9/2014, interligação Rio Branco–Cruzeiro do Sul, Acre), deliberado na parte 1: Sandoval Feitosa declarou-se impedido por ter lavrado, como superintendente da SFE, o termo de intimação que iniciou o processo; resultado retificado para unanimidade dos demais.", "Encerrada após o item 8 (último da pauta)."]
+ },
+ "itens": [
+  {"id": "3", "ts": "0:00:04", "processo": "48500.?/2018-69 (número ilegível na legenda)", "interessado": "Amazonas Distribuidora de Energia S.A.",
+   "assunto": "Requerimento de enquadramento na sub-rogação dos benefícios da CCC para o projeto de interligação de Humaitá (AM) ao SIN",
+   "tema": ["CDE e encargos setoriais", "CCC / sistemas isolados", "distribuição"], "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade", "resumo_voto": "Resolução autorizativa enquadra a obra na sub-rogação da CCC (REN 748/2016) no valor resultante da licitação, limitado a cerca de R$ 182,4 milhões; custo recuperável em cerca de 39 meses de economia de diesel.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:06:40", "justificativa": "orçamento razoável frente ao banco de preços (SCT); obra elimina gasto com óleo diesel reembolsado pela CCC; parte de pacote de obras para reduzir a conta CCC (efeito de 0,23% na tarifa)", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:09:27", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:09:27", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:09:29", "justificativa": "obra integra gestão para reduzir o custo da CCC (R$ 19,6 bi em 2018)", "confianca": "media"}
+   ]},
+  {"id": "5", "ts": "0:10:02", "processo": "48500.002308/2017-31", "interessado": "distribuidoras (Programa de Eficiência Energética); consumidores livres conectados à rede básica",
+   "assunto": "Resultado da AP 75/2017 — aprimoramento dos procedimentos do Programa de Eficiência Energética (PROPEE, REN 556/2013) e submódulo de P&D/EE do PRORET; voto-vista sobre acesso de consumidores livres da rede básica aos recursos do PEE",
+   "tema": ["regulação normativa", "eficiência energética (PEE)", "audiência pública"], "relator": "Tiago Correia",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Sandoval Feitosa, vencido Tiago Correia; em segunda votação, instaurada segunda etapa da AP 75/2017 (só o ponto dos consumidores livres) de 29/10 a 7/12/2018",
+   "resumo_voto": "Aprova a revisão do PROPEE como proposta pela área e relator, mas retira a extensão dos recursos do PEE a consumidores livres conectados à rede básica (contrato de desempenho) porque não constou da audiência pública; tema vai a nova etapa da AP, por sugestão de Rodrigo Limp.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "voto-vista vencedor", "ts": "0:10:52", "justificativa": "não há vedação legal (parecer 428/2018 da Procuradoria), mas a extensão aos consumidores livres da rede básica não foi objeto de audiência pública; necessário discutir com a sociedade", "confianca": "alta"},
+    {"diretor": "Tiago Correia", "voto": "vencido (voto de relator proferido na 24ª RPO, antes da vista; não presente)", "ts": "0:34:58", "justificativa": "eficiência energética é bem meritório; consumidores da rede básica são os mais intensivos; lei não impede o acesso, com ressarcimento integral e juros de 0,5% a.a.", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "altera voto: acompanha o voto-vista", "ts": "0:33:43", "justificativa": "havia acompanhado Tiago, mas o ponto não passou por audiência pública; sugeriu abrir a audiência no próprio ato", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o voto-vista (pela proclamação)", "ts": "0:34:44", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o voto-vista e proclama", "ts": "0:34:58", "confianca": "media"}
+   ]},
+  {"id": "6", "ts": "0:40:50", "processo": "48500.003793/2018-41", "interessado": "Eletronuclear (UTNs Angra 1 e Angra 2)",
+   "assunto": "Abertura de audiência pública sobre metodologia de cálculo da receita de venda de energia de Angra 1 e 2, vigência a partir de 1/1/2019 (submódulo 6.7 do PRORET)",
+   "tema": ["tarifas e revisão tarifária", "geração nuclear", "audiência pública"], "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade", "resumo_voto": "AP por intercâmbio documental de 25/10 a 26/11/2018; ciclo passa de 3 para 5 anos; inclui custo de acesso à distribuição; tarifa estimada cerca de R$ 230/MWh, redução de 4,35%.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova abertura de AP", "ts": "0:50:30", "justificativa": "padronizar ciclo de 5 anos com distribuidoras e transmissoras; queda tarifária por depreciação e menor base de remuneração", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:51:57", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "0:51:57", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "0:52:00", "confianca": "media"}
+   ]},
+  {"id": "7", "ts": "0:52:28", "processo": "48500.002310/2017-19", "interessado": "Copel Geração e Transmissão S.A.",
+   "assunto": "Pedido de reconsideração contra o Despacho 3742/2017 (cronograma, PVA por atraso e extensão de outorga das LTs 230 kV Londrina–Figueira e Foz do Chopim–Salto Osório, PR, contrato 22/2012); voto-vista",
+   "tema": ["transmissão", "recursos administrativos", "fiscalização e sanções"], "relator": "Tiago Correia",
+   "resultado": "negado provimento por maioria nos termos do voto-vista de Rodrigo Limp, vencido Tiago Correia",
+   "resumo_voto": "Excludente reconhecida no processo sancionador (não aplicar multa) não implica automaticamente extensão de outorga nem isenção de PVA (art. 19 da Lei 13.360); IAP cumpriu prazos globais e greve da Eletrosul não impediu acesso; sem nexo causal.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "voto-vista vencedor: conhece e nega provimento", "ts": "0:53:21", "justificativa": "não apurar culpa na fiscalização não equivale a excludente de responsabilidade; falta nexo causal com licenciamento (IAP) e greve da Eletrosul; evitar sinais contraditórios aos agentes", "confianca": "alta"},
+    {"diretor": "Tiago Correia", "voto": "vencido (voto de relator anterior à vista: parcial provimento, prorrogar outorga 154 e 94 dias; não presente)", "ts": "1:12:53", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista (antecipou concordância)", "ts": "1:10:00", "justificativa": "avaliação feita sob o foco da fiscalização não se transporta automaticamente para extensão de outorga; caso o relator prevalecesse, multa de R$ 223 mil viraria receita de cerca de R$ 1,4 milhão para a Copel", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o voto-vista (pela proclamação)", "ts": "1:12:48", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o voto-vista e proclama", "ts": "1:12:53", "confianca": "media"}
+   ]},
+  {"id": "10 (retificação)", "ts": "1:13:12", "processo": "caducidade do contrato de concessão 9/2014 (número do processo não dito)", "interessado": "concessionária da interligação Rio Branco–Cruzeiro do Sul (AC)",
+   "assunto": "Retificação da votação do item 10 (caducidade), deliberado na parte 1 da sessão: impedimento de Sandoval Feitosa",
+   "tema": ["fiscalização e sanções", "transmissão", "caducidade"], "relator": "não identificado",
+   "resultado": "retificado para unanimidade dos demais diretores, com Sandoval Feitosa impedido",
+   "resumo_voto": "Sandoval lavrou como superintendente da SFE o termo de intimação 1001/2018 que iniciou a instrução da caducidade.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "suspeito/impedido", "ts": "1:13:58", "justificativa": "atuou no processo como superintendente de fiscalização (termo de intimação de 23/05/2018)", "confianca": "alta"}
+   ]},
+  {"id": "8", "ts": "1:14:30", "processo": "48500.000443/2018-23", "interessado": "CEEE-GT (Companhia Estadual de Geração e Transmissão de Energia Elétrica)",
+   "assunto": "Pedido de reconsideração contra o Despacho 952/2018, que negou cautelar para suspender aporte de garantias financeiras (cerca de R$ 187 mi) exigido pela CCEE após queda de liminar sobre GSF/MRE",
+   "tema": ["comercialização (CCEE, garantias)", "GSF / risco hidrológico", "recursos administrativos"], "relator": "Sandoval Feitosa",
+   "resultado": "negado provimento por unanimidade", "resumo_voto": "Contestação deveria ter seguido o rito da REN 545/2013 junto à CCEE (preclusão); parcelamento só cabe mediante acordo com renúncia à ação e repactuação do risco hidrológico, inviável no ACL e sem desistência da ação.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, conhece e nega provimento", "ts": "1:18:10", "justificativa": "oportunidade processual preclusa; condicionar parcelamento à desistência judicial é faculdade discricionária legítima do regulador", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:24:38", "confianca": "media"},
+    {"diretor": "Rodrigo Limp", "voto": "acompanha o relator (pela proclamação)", "ts": "1:24:38", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "1:24:42", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática; números de processo do item 3 ilegíveis e dos itens 5, 7 e 8 reconstruídos da fala (podem conter erro).", "Sem nome nas falas de 'acompanho'; atribuição pela proclamação e ordem usual (relator, demais, DG por último); Efrain Cruz nos itens 5 e 7 com confiança baixa.", "Item 5: houve segunda votação (abertura da 2ª etapa da AP 75/2017, 29/10 a 7/12) após debate sobre reabrir AP x nova AP; registrada no resultado do mesmo item.", "Tiago Correia (relator original dos itens 5 e 7) não estava presente; seus votos vêm das sessões anteriores, conforme relatado nos votos-vista.", "Item 10 é retificação de item da parte 1 (outro vídeo); só o impedimento de Sandoval é registrado aqui.", "Itens 1, 2, 4, 9 e 10 originais estão na parte 1 da reunião."]
+}

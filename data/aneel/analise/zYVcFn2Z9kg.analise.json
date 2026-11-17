@@ -1,0 +1,27 @@
+{
+ "meta": {"video_id": "zYVcFn2Z9kg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:57)", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária de 2023", "data": "2023-05-30", "formato": "presencial",
+  "presidente_da_sessao": "não identificado (provavelmente Ricardo Tili, Diretor-Geral substituto)",
+  "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": ["Sandoval Feitosa", "Hélvio Guerra"],
+  "observacoes": ["Sandoval Feitosa e Hélvio Guerra ausentes justificadamente (compromissos institucionais); sessão com três diretores.", "Pauta de 25 itens; retirados os itens 2, 5 e 17; itens 3 a 25 aprovados em bloco por unanimidade; sem sustentação oral.", "Único item de leitura: edital do Leilão 1/2023 (transmissão), relator Fernando Mosna, aprovado por unanimidade."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "1:04:47", "processo": "", "interessado": "diversos", "assunto": "Itens 3 a 25 da pauta (bloco), exceto retirados 5 e 17; segundo o informe final incluem recursos administrativos, pedidos de reconsideração, impugnação, medida cautelar e prorrogação de voto-vista", "tema": ["bloco de pauta"], "relator": "diversos", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "votos disponibilizados previamente na internet; aprovação em bloco sem leitura",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "1:04:47", "justificativa": "aprovação em bloco", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "1:04:47", "justificativa": "aprovação em bloco", "confianca": "media"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "1:04:47", "justificativa": "aprovação em bloco", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "1:05:51", "processo": "48500.007497/2022-04", "interessado": "Secretaria de Leilões (SEL) / grupo Cornélio Brennand (manifestação sobre lote 8)", "assunto": "Aprovação do edital do Leilão 1/2023-ANEEL (transmissão), após análise do TCU: 9 lotes, ~R$ 15,7 bi, sessão pública em 30/06/2023 na B3, estados BA, ES, MG, PE, RJ, SP e SE", "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "TCU (Acórdão 1001/2023) considerou atendidos requisitos da IN 81/2018; ajustes de RAP máxima em lotes 1, 5 e 7; Procuradoria: art. 14 V da Lei 14.133 (vedação a coligadas) não se aplica obrigatoriamente; relator esclarece que o traçado do lote 8 (Recife II–Bongi) é referencial e não preferencial, respondendo ao grupo Cornélio Brennand.",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:30:47", "justificativa": "traçado do lote 8 é apenas referencial/orientativo; vencedor define o projeto; isonomia entre licitantes", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:31:00", "justificativa": "elogiou trazer ao voto a distinção preferencial/referencial, respeitando a liberdade do vencedor de propor algo mais eficiente", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:31:31", "justificativa": "presidente vota por último e proclama", "confianca": "baixa"}
+   ]}
+ ],
+ "retirados": ["item 2", "item 5", "item 17"],
+ "limites_da_analise": ["Quem presidiu não é nomeado na legenda; inferido Ricardo Tili (cumprimenta 'Doutor Fernando e a diretora'); a terceira diretora presente inferida como Agnes da Costa.", "Atribuição do comentário de apoio e dos votos de acompanhamento no item 1 é inferida pela ordem; confiança baixa.", "Assuntos dos itens 3 a 25 do bloco não lidos na sessão."]
+}

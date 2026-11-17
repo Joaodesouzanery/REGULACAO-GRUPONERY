@@ -1,0 +1,345 @@
+{
+ "meta": {
+  "video_id": "DzNDvahbvzc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "9ª Reunião Pública Ordinária de 2019",
+  "data": "2019-03-26",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz"
+  ],
+  "ausentes": [
+   "Elisa Bastos (viagem a serviço)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores.",
+   "Retirados de pauta: itens 6 e 8 (início) e item 4 (Sandoval, pelo adiantado da hora).",
+   "Sessão suspensa ~10 min antes do item 5; presença do governador de Rondônia, senador Marcos Rogério (presidente da CI do Senado), deputados Lúcio Mosquini, Léo Moraes e Hélio Lopes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:43",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Bloco de itens com votos e atos já disponibilizados na internet (itens 6 e 8 retirados; item 25 destacado). Um diretor declarou-se impedido no item 9 do bloco.",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (com impedimento declarado no item 9)",
+   "resumo_voto": "Bloco aprovado; um diretor declarou impedimento no item 9 por prudência (art. 18, II, da Lei 9.784/99 e art. 26 da norma organizacional), aprovando os demais.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:05:33",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:06:08",
+   "processo": "48500.000848/2019-42 (legenda incerta)",
+   "interessado": "Light Serviços de Eletricidade S.A.; ONS",
+   "assunto": "Pedido de medida cautelar da Light para suspender a cobrança pelo ONS da ultrapassagem do MUST contratado (ponto de conexão SE Zona Oeste 500/138 kV, Furnas) em janeiro a março de 2019",
+   "tema": [
+    "transmissão (MUST)",
+    "recursos administrativos (cautelar)",
+    "distribuidoras"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "cautelar indeferida por unanimidade",
+   "resumo_voto": "Ausentes fumus boni iuris (pleito de não aplicação de regulamento vigente) e periculum in mora (cobrança, cerca de 3% do valor mensal, poderia ser ressarcida); mérito delegado à SRT (Portaria 394/2016).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, indefere a cautelar",
+     "ts": "0:09:35",
+     "justificativa": "requisitos da cautelar não presentes: pleito pede exceção a regulamento vigente e eventual cobrança seria ressarcível no mês seguinte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "0:15:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:15:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:15:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:16:06",
+   "processo": "48500.001337/2019-48 (legenda incerta)",
+   "interessado": "Light, Enel Distribuição Rio (Ampla), Energisa Borborema, Eletroacre, Cepisa",
+   "assunto": "Revisão tarifária extraordinária decorrente da quitação antecipada da Conta-ACR (acordo CCEE com bancos), com efeitos a partir de 1º/04/2019. Sustentações orais: representante da Light (pediu exame conjunto com pedido de reconsideração do reajuste 2019), Manoel Mesquita Neto (Conselho de Consumidores da Enel Rio) e deputado federal Hélio Lopes (RJ).",
+   "tema": [
+    "tarifas e revisão tarifária (RTE)",
+    "CDE e encargos setoriais (Conta-ACR)",
+    "distribuidoras"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa RTE com efeitos médios: Cepisa -1,45%, Eletroacre -2,61%, Energisa Borborema -2,50%, Enel Rio -1,92% (legenda incerta), Light -2,30%; redução de receita deduzida da CVA no próximo processo; pedido da Light segue em reconsideração própria (sorteio de novo relator).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, homologa a RTE",
+     "ts": "0:44:46",
+     "justificativa": "antecipar o efeito da quitação da Conta-ACR para estabilidade tarifária e modicidade, sem esperar a CVA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "1:15:02",
+     "justificativa": "política de desoneração tarifária: quitação antecipada retira cerca de R$ 8,4 bi das tarifas; critica subsídios na conta e ICMS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:57",
+     "justificativa": "parabeniza o voto; destaca fiscalização da qualidade no RJ e retomada de convênio com agência estadual; antecipa concordância",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:02",
+     "justificativa": "esclarece que o pedido de reconsideração da Light será sorteado a novo relator; destaca presença do deputado e sensibilidade tarifária",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:15:30",
+   "processo": "48500.003249/2011-23 e outros (legenda incerta)",
+   "interessado": "Parque Eólico Sobradinho Ltda.",
+   "assunto": "Revogação a pedido das autorizações das EOLs Alecrim, Umbuzeiro, Muquim, Mandacaru e Boa Esperança (Sobradinho-BA); pedido de novo DRO e de não execução da garantia de fiel cumprimento. Sustentação oral do representante da empresa (Frederico, nome incerto), pedindo emissão de novo DRO para cadastro no leilão.",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "fiscalização e sanções (garantia de fiel cumprimento)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revoga as autorizações; indefere novo DRO (reserva de mercado e ausência de excludente de responsabilidade; novo DRO só com pedido específico para leilão); SCG abre processo para avaliar execução da garantia e registra o comportamento do empreendedor (art. 15 da REN 391/2009).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, revoga autorizações e indefere novo DRO",
+     "ts": "1:20:21",
+     "justificativa": "garantia é regra conhecida desde REN 546/2013; insucesso em comercializar energia não afasta responsabilidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "1:31:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:31:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:31:38",
+   "processo": "48500.005996/2008-72 (legenda incerta)",
+   "interessado": "distribuidoras com concessões prorrogadas (Lei 12.783/2013, Decreto 8.461/2015)",
+   "assunto": "Verificação do cumprimento, em 2017, das cláusulas de eficiência (DEC/FEC e gestão econômico-financeira) dos contratos de distribuição prorrogados",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC)",
+    "fiscalização",
+    "concessões de distribuição"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece cumprimento de DEC/FEC pela maioria; cumprimento condicionado a fiscalização para CEB, Cemig, CEEE e Energisa MS (siglas incertas); não cumprimento de DEC/FEC pela Cooperaliança; não cumprimento do critério econômico-financeiro (LAJIDA negativo) por CEA? e Forcel (siglas incertas).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, reconhece cumprimento/não cumprimento conforme dispositivo",
+     "ts": "1:38:33",
+     "justificativa": "adimplemento contratual deve ser avaliado com a fiscalização (SFE); descumprimento por dois anos pode levar à extinção",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "1:49:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:49:30",
+   "processo": "48500.005864/2016-89 (legenda incerta)",
+   "interessado": "Furnas Centrais Elétricas S.A.",
+   "assunto": "Recurso contra o Auto de Infração 3/2018 da SFE (qualidade do serviço de transmissão, ciclo 2014-2015)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "transmissão",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "recurso conhecido e parcialmente provido por unanimidade; multa de R$ 4.648.200,01",
+   "resumo_voto": "Acompanha o juízo de reconsideração da SFE (exclusão de funções de transmissão por força maior, seccionamento e duplicidades); dosimetria proporcional segundo a Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, dá provimento parcial",
+     "ts": "2:04:27",
+     "justificativa": "agência faz 'cara-crachá' das não conformidades; dosimetria única margem discricionária, validada pela Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "2:05:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:09:24",
+   "processo": "48500.004971/2018-51",
+   "interessado": "Conselho de Consumidores da Ceron; Ceron (Energisa Rondônia)",
+   "assunto": "Pedido de reconsideração contra a REH 2.496/2018 (reajuste de 25,34% da Ceron) e novo diferimento de 3,27% proposto pela Energisa, combinado com a RTE da Conta-ACR. Sustentações orais: senador Marcos Rogério, governador Marcos Rocha, deputado Lúcio Mosquini e Fernando Maia (Energisa).",
+   "tema": [
+    "tarifas e revisão tarifária (reajuste, RTE, diferimento)",
+    "recursos administrativos (reconsideração)",
+    "distribuidoras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade (pela proclamação: acompanhamentos de todos)",
+   "resumo_voto": "Conhece e não acolhe a reconsideração (reajuste seguiu contrato e PRORET; inadimplência e sobrecontratação dentro das regras); aplica diferimento de 3,27% e efeitos da quitação da Conta-ACR: redução média de 7,46% a partir de 1º/04/2019 (efeito do reajuste passa de 25,34% para 17,87%).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, não acolhe a reconsideração; aplica diferimento e RTE",
+     "ts": "3:03:31",
+     "justificativa": "modicidade não se isola dos demais princípios; regras seguidas; diferimento proposto pela concessionária não ameaça equilíbrio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama o resultado",
+     "ts": "3:33:24",
+     "justificativa": "Anel 'faz a colheita mas não planta'; resultado dentro das regras, por diálogo; defende retirar subsídios da conta e trocar térmicas caras em 2023",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:52:02",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "motivo": "retirado de pauta (não informado)"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado de pauta (não informado)"
+  },
+  {
+   "id": "4",
+   "motivo": "retirado pelo relator Sandoval Feitosa pelo adiantado da hora",
+   "ts": "3:53:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Os marcadores de falante do .md listam diretores de 2026 (erro do preparo); a composição de 2019 foi inferida pelo conteúdo (Pepitone DG, Sandoval, Limp, Efrain; Elisa ausente).",
+  "No bloco, um diretor declarou-se impedido no item 9, mas o nome não é dito na legenda; votos do bloco com confiança baixa.",
+  "Nos itens 7, 25, 2, 3 e 5 os acompanhamentos ('também voto com o relator') não têm nome; atribuição pela ordem usual e proclamação.",
+  "No item 5 a proclamação não diz 'por unanimidade' explicitamente; todos acompanharam. Um comentário inicial após o voto (3:27) não tem autor identificável.",
+  "Números de processo, siglas de distribuidoras (item 2) e percentuais lidos da legenda automática podem estar errados."
+ ]
+}

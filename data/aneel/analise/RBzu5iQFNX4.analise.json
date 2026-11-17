@@ -1,0 +1,76 @@
+{
+ "meta": {"video_id": "RBzu5iQFNX4", "fonte": "legenda automática YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "5ª Reunião Pública Extraordinária de 2026",
+  "data": "2026-10-27",
+  "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) — inferido: a diarização rotula o presidente como Ricardo Tili, mas os quatro demais diretores são tratados separadamente e o presidente cita a reestruturação da ANEEL desde 2023",
+  "diretores_presentes": ["Sandoval Feitosa", "Gentil Nogueira", "Agnes da Costa", "Ludimila Lima", "Willamy Frota"],
+  "ausentes": [],
+  "observacoes": "Quórum de cinco diretores. Informes: leilão de transmissão 2/2026 em 30/10 na B3 (8 lotes, R$ 8,9 bi); indisponibilidade externa do SEI por vulnerabilidade; REN 1172 altera regras de sustentação oral (prazo até 16h do dia útil anterior; vídeo gravado nos circuitos deliberativos); agradecimento pela atuação nas eleições."
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:09:21",
+   "processo": "48500.015992/2026-11",
+   "interessado": "Leilão 5/2026 — LRCAP 2026 armazenamento nacional (baterias com conteúdo nacional); sustentações orais de associação de geradores e da Taesa (transmissoras)",
+   "assunto": "Aprovação do edital do Leilão 5/2026, anexos e minuta do CRCAP — Leilão de Reserva de Capacidade na forma de potência 2026, armazenamento em baterias com conteúdo nacional; resultado das consultas públicas 22 e 23; TUSD-G de referência",
+   "tema": ["leilões (reserva de capacidade)", "armazenamento em baterias", "CDE e encargos setoriais", "regulação normativa (consulta pública)"],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade (edital, anexos, minuta CRCAP, TUSD-G de referência, aviso de licitação para sessão em 2/12/2026)",
+   "resumo_voto": "Relator aprova edital e contrato; acolhe parcialmente pleito sobre custeio do encargo de reserva de capacidade usando o termo «usuário de reserva de capacidade»; julgado em conjunto com o item 2.",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:10:16", "justificativa": "Leu relatório conjunto; edital conforme portaria 136/2026 do MME e consultas públicas 22 e 23.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:36:59", "justificativa": "«Acompanho o relator nos dois itens» ou «Eu também acompanho o voto do relator» (falas sem nome; atribuição incerta entre Agnes e Ludimila).", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:38:12", "justificativa": "«Eu também acompanho o voto do relator» (fala sem nome; atribuição incerta entre Agnes e Ludimila).", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:37:03", "justificativa": "Parabenizou o relator e a equipe; pauta importante para o setor elétrico; «eu também acompanho o voto do nobre relator».", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:38:15", "justificativa": "Elogiou as áreas técnicas (sétimo leilão do ano) e o debate prévio; eventual mudança legislativa será recepcionada; proclamou unanimidade.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:09:21",
+   "processo": "48500.019603/2026-18",
+   "interessado": "Leilão 6/2026 — LRCAP 2026 armazenamento (baterias, sem conteúdo nacional)",
+   "assunto": "Aprovação do edital do Leilão 6/2026, anexos e minuta do CRCAP — LRCAP 2026 armazenamento em baterias sem conteúdo nacional, suprimento a partir de 1/8/2028 por 15 anos",
+   "tema": ["leilões (reserva de capacidade)", "armazenamento em baterias"],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade, conforme voto do relator",
+   "resumo_voto": "Mesmo teor do item 1, sem a exigência de conteúdo nacional; deliberado em conjunto.",
+   "votos": [
+    {"diretor": "Gentil Nogueira", "voto": "relator, aprova", "ts": "0:10:16", "justificativa": "Voto conjunto com o item 1; única diferença é o conteúdo nacional.", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:36:59", "justificativa": "Voto dado em conjunto para os dois itens (atribuição incerta entre Agnes e Ludimila).", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:38:12", "justificativa": "Voto dado em conjunto para os dois itens (atribuição incerta).", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:37:03", "justificativa": "Acompanha o relator (votação conjunta).", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:38:15", "justificativa": "Proclamou o item 2 por unanimidade, «conforme o voto do eminente relator».", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:41:28",
+   "processo": "48500.000503/2024-56",
+   "interessado": "Distribuidoras, comercializadoras varejistas, CCEE, consumidores do grupo A (Abradee, Abraceel, Copel e comercializadoras ouvidas no voto-vista)",
+   "assunto": "Resultado da CP 7/2025: aprimoramento regulatório da distribuição com a abertura de mercado para consumidores do grupo A e instituição do Open Energy; ponto divergente: vedação do uso da marca da comercializadora pela distribuidora (voto-vista)",
+   "tema": ["comercialização (abertura de mercado)", "regulação normativa (resolução, consulta pública)", "distribuição"],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por maioria nos termos do voto da relatora, vencida Ludimila Lima (REN de abertura de mercado do grupo A, REN do Open Energy, submódulos 1.6 e 1.8 do PdC, manual do Open Energy, determinações à CCEE)",
+   "resumo_voto": "Relatora substitui a vedação da marca compartilhada por salvaguardas informacionais e comportamentais; Ludimila diverge pela vedação (recomendação da área técnica); Willamy, em voto-vista, acompanha a relatora.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relator, aprova (voto proferido na 18ª reunião ordinária)", "ts": "1:41:28", "justificativa": "Salvaguardas e monitoramento em vez da vedação ao uso da marca da comercializadora pela distribuidora.", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "diverge (vencida)", "ts": "1:58:28", "justificativa": "«peço a licença para manter a minha divergência... temos que ser cautelosos nessa abertura de mercado... sigo a recomendação da área técnica».", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "voto-vista: acompanha a relatora", "ts": "1:42:30", "justificativa": "Após reuniões com comercializadoras, Abradee, Abraceel e Copel, acompanha a relatora quanto à marca compartilhada.", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "2:03:53", "justificativa": "«Eu já havia votado acompanhando o voto da relatora e mantenho» (fala sem nome; atribuído por exclusão).", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:04:02", "justificativa": "Mercado incipiente, mas salvaguardas do voto permitem remédios futuros; competência da ANEEL para intervir; proclamou maioria.", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Diarização rotula o presidente como Ricardo Tili; atribuído a Sandoval Feitosa (Diretor-Geral) por inferência — confirmar em ata.",
+  "Itens 1 e 2: as falas «acompanho» em 1:36:59 e 1:38:12 não têm nome; a ordem entre Agnes da Costa e Ludimila Lima é incerta.",
+  "Item 3: fala de 2:03:53 («já havia votado acompanhando a relatora») atribuída a Gentil Nogueira por exclusão (legenda diz «diretor Ilmo»).",
+  "Nomes de sustentantes orais nos itens 1-2 não identificados com segurança (associação de geradores eólicos/solares e Taesa).",
+  "Números de processo vindos da legenda automática; podem conter erros."
+ ]
+}

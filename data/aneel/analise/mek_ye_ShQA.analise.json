@@ -1,0 +1,84 @@
+{
+  "meta": {"video_id": "mek_ye_ShQA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "43", "data": "2020-11-17", "formato": "virtual (parte 2, sessão da tarde)",
+    "presidente_da_sessao": "não identificado (diretor que proclama os resultados; nome não dito na legenda)",
+    "diretores_presentes": ["Elisa Bastos", "Sandoval Feitosa", "Hélvio Guerra", "não identificado (presidente da sessão)"],
+    "ausentes": [],
+    "observacoes": ["Parte 2 da 43ª Reunião Pública Ordinária de 2020; retomada com quatro diretores aptos para os itens remanescentes 18, 3, 19, 20 e 22.", "Itens 18, 19, 20 e 22 (relatora Elisa Bastos) aprovados por unanimidade, negando provimento a recursos; item 3 (relator Sandoval Feitosa, CP 43/2019) teve pedido de vista de Hélvio Guerra.", "Procurador Eduardo Ramalho (Estevão) manifestou-se em todos os itens."]
+  },
+  "itens": [
+    {
+      "id": "18", "ts": "0:00:30", "processo": "48500.002695/2014-63", "interessado": "Copel Geração e Transmissão (Copel GT) — transmissora, LT 500 kV Araraquara 2–Taubaté",
+      "assunto": "Recurso administrativo contra o auto de infração 20/2018 da SFE (multa por atraso no cronograma da LT 500 kV Araraquara 2–Taubaté, contrato de concessão 10/2010)",
+      "tema": ["transmissão (outorgas, cronograma)", "fiscalização e sanções (multa, auto de infração)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; multa de cerca de R$ 577 mil mantida",
+      "resumo_voto": "Sustentação oral de Yuri (Copel GT): atraso por licenciamento ambiental (CETESB), embargos judiciais, prazo inexequível, retroatividade benigna da REN 846/2019 e base de cálculo pela RAP. Procuradoria (parecer 555/2018): prazo aceito no edital, risco ambiental e fundiário do transmissor, sem retroatividade benigna; base de cálculo é o faturamento, com limite de 2% da RAP. Relatora acompanha o parecer e diz que não houve fato novo.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, conhece e nega provimento", "ts": "0:25:20", "justificativa": "segue o parecer da procuradoria; a sustentação oral não trouxe fato novo", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "0:25:45", "justificativa": "contrato de concessão decorre de edital, não é contrato de adesão; a empresa assume riscos de licenciamento; tempus regit actum, sem retroatividade da REN 846", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:28:07", "confianca": "media"},
+        {"diretor": "não identificado (presidente da sessão)", "voto": "acompanha a relatora e proclama", "ts": "0:28:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:29:04", "processo": "48500.005102/2012-59", "interessado": "concessionárias de UHE em regime de cotas (Lei 12.783/2013); sustentações de Furnas (José Alves de Mello Franco) e Eletrobras (Vládia Viana Regis)",
+      "assunto": "Resultado da Consulta Pública 43/2019: revisão da REN 541/2013 sobre o padrão de qualidade do serviço de geração das usinas hidrelétricas cotistas (referência de indisponibilidade)",
+      "tema": ["outorgas de geração (hidrelétrica)", "regulação normativa (resolução, consulta pública)", "qualidade da geração / usinas cotistas"],
+      "relator": "Sandoval Feitosa", "resultado": "pedido de vista de Hélvio Guerra; não deliberado",
+      "resumo_voto": "Relator vota por aprovar a resolução normativa (minuta da nota técnica 54 da SRG) que usa como referência as indisponibilidades dos aditivos contratuais e não as da revisão da garantia física (Portaria MME 178/2017), com aplicação a partir do ciclo 2021/2022. Rebate Furnas/Eletrobras: competência da ANEEL é inequívoca, cláusula é regulamentar e não econômica (parecer 226/2020), não há conflito com o MME; cita a UHE Furnas com bônus de cerca de R$ 18 milhões sem melhora de desempenho. Furnas e Eletrobras pediram retirada de pauta alegando conflito de competência com o MME.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova a resolução normativa (aplicação a partir do ciclo 2021/2022)", "ts": "1:38:30", "justificativa": "não é razoável a usina receber bonificação pela mudança da régua e não pela melhoria do serviço; competência da ANEEL fixada em lei", "tom": "firme; rechaça a alegação de quebra de regras e de dados incorretos", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:39:46", "justificativa": "complexidade do assunto, para votar de forma consciente e segura", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "não votou (vista)", "ts": "1:39:46", "confianca": "media"},
+        {"diretor": "não identificado (presidente da sessão)", "voto": "não votou (vista)", "ts": "1:39:46", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "19", "ts": "1:39:57", "processo": "48500.003669/2018-86", "interessado": "Companhia Energética do Maranhão (Cemar, atual Equatorial Maranhão) — distribuidora; município de São Francisco do Maranhão",
+      "assunto": "Recurso administrativo contra o auto de infração 7/2019 da SFE (multa por demora no restabelecimento do fornecimento em São Francisco do Maranhão)",
+      "tema": ["distribuição e qualidade do serviço", "fiscalização e sanções (multa, auto de infração)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; multa de cerca de R$ 298 mil mantida e determinação confirmada",
+      "resumo_voto": "Sustentação oral de Sofia Peres Barbosa (Cemar): violação da tipicidade e comportamento contraditório (ANEEL deixou de multar por continuidade em 2009). Procuradoria (parecer 331/2019): conceitos jurídicos indeterminados admitidos no direito sancionador; 11 horas de tempo médio de atendimento caracterizam descontinuidade. Houve comentário de diretor (não identificado com segurança) sobre a falta de energia como a principal queixa dos consumidores e as 11 horas como tempo não razoável.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, conhece e nega provimento", "ts": "1:56:30", "justificativa": "pontos da sustentação já tratados no voto disponibilizado", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:58:50", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:58:50", "confianca": "baixa"},
+        {"diretor": "não identificado (presidente da sessão)", "voto": "acompanha a relatora e proclama", "ts": "1:59:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "20", "ts": "1:59:55", "processo": "48500.002504/2019-78", "interessado": "Itiquira Energética S.A. — geradora, UHE Itiquira (MT)",
+      "assunto": "Recurso administrativo contra o auto de infração 7/2017 da AGER-MT (multa por alagamento parcial da casa de força 2 da UHE Itiquira em março de 2017, 42 dias parada)",
+      "tema": ["outorgas de geração (hidrelétrica)", "fiscalização e sanções (multa, auto de infração)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; multa de cerca de R$ 1,4 milhão mantida",
+      "resumo_voto": "Sustentação oral de Alberto (ou Roberto) da Silva (Itiquira): caso fortuito (banco de areia), pedido de reenquadramento do art. 6º para o art. 4º XV da REN 63 conforme a procuradoria, ou redução da multa. Procuradoria: fortuito interno; parecer favorável ao reenquadramento, mas procurador acha plausível a leitura da relatora. Relatora: risco de sedimentos conhecido, enquadramento mantido, dosimetria dentro dos limites.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, conhece e nega provimento", "ts": "2:21:50", "justificativa": "fortuito interno; o dever permanente é manter as instalações em condições de funcionamento; alagamento é evento grave", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "2:22:30", "justificativa": "quem constrói e opera usina no rio Itiquira deve considerar o carreamento de areia; houve prejuízo ao sistema com a usina parada; concorda com a leitura de permanência da relatora", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:24:51", "justificativa": "operação e manutenção cabem ao empreendedor; paralisação de 42 dias não é evento de baixa gravidade; prestação do serviço deve ser permanente", "confianca": "media"},
+        {"diretor": "não identificado (presidente da sessão)", "voto": "acompanha a relatora e proclama", "ts": "2:26:51", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "22", "ts": "2:27:45", "processo": "48500.003687/2017-87 e 48500.002175/2019-65", "interessado": "Interalli Administração e Participações S.A. (recorrente, advogado Bruno Guimarães Bianchi) x Múltipla Participações (Cláudio Mesquita); PCH Rio Grande, Nova Friburgo (RJ)",
+      "assunto": "Recurso contra os despachos SCG 1366/2019 e 1367/2019 que concederam o DRI-PCH da PCH Rio Grande à Múltipla e negaram à recorrente (garantia financeira validada com atraso pela B3)",
+      "tema": ["outorgas de geração (PCH)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; instrução de processo específico sobre a CGH Bengala no mesmo trecho do rio",
+      "resumo_voto": "Pela REN 673/2015 a preferência é de quem apresenta a documentação completa; a Múltipla apresentou completa antes; o atraso da B3 na garantia é responsabilidade do empreendedor (parecer 333/2020). Determinada apuração, com ampla defesa, sobre a CGH Bengala em violação ao art. 8º da Lei 9.074/1995.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relatora, conhece e nega provimento", "ts": "2:43:30", "justificativa": "pedido incompleto não faz jus a avaliação; responsabilidade pela garantia é do empreendedor", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "2:44:10", "justificativa": "REN 673 deu responsabilidade aos empreendedores; quem consegue a documentação completa tem direito ao DRI", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:46:08", "justificativa": "elogia a mudança regulatória de 2015 conduzida com participação de Hélvio Guerra", "confianca": "media"},
+        {"diretor": "não identificado (presidente da sessão)", "voto": "acompanha a relatora e proclama", "ts": "2:48:20", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "O presidente da sessão (quem proclama) não é nomeado na legenda; em nov/2020 pode ser André Pepitone ou Efrain Cruz, mas não há base para afirmar.",
+    "Atribuição dos votos de seguidores incerta: no item 18 o comentário sobre contrato de adesão e retroatividade não tem nome; no item 19 o comentário sobre as 11 horas não tem nome; no item 22 o comentário após Hélvio é atribuído a Sandoval por inferência (menciona ter trabalhado em assessoria).",
+    "Números de processo, valores de multa e nomes de pessoas/empresas (Interalli, Yuri, Alberto/Roberto da Silva) vêm de legenda automática e podem ter erros.",
+    "Cabeçalho do .md cita Ricardo Tili como falante inferido, mas ele não era diretor em 2020; desconsiderado."
+  ]
+}

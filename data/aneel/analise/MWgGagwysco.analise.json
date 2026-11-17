@@ -1,0 +1,271 @@
+{
+ "meta": {
+  "video_id": "MWgGagwysco",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "23ª Reunião Pública Ordinária (Parte 2)",
+  "data": "2021-06-29",
+  "formato": "virtual",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral substituto; André Pepitone ausente por agenda até o último item)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Hélvio Guerra",
+   "André Pepitone (só no item 21)"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "Item 16 retirado no início; após o item 21 os demais processos foram retirados de pauta por falta de quórum e reinscritos.",
+   "6 itens apreciados: 5 deliberados por unanimidade, 1 com pedido de vista (item 9)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "11",
+   "ts": "0:01:31",
+   "processo": "48500.005028/2020-81",
+   "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
+   "assunto": "Reajuste tarifário anual 2021 da Enel São Paulo, a vigorar a partir de 4/7/2021",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Homologa efeito médio de 9,44% (3,67% alta tensão; 11,38% baixa tensão); medidas mitigadoras (créditos de PIS/Cofins de cerca de R$ 1,1 bi e diferimento de parcela B de cerca de R$ 280 mi) com efeito de -11,22%; fixa TUSD/TE, receita de DIT e repasse mensal da CDE.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "0:11:40",
+     "confianca": "alta",
+     "justificativa": "aplicação direta do contrato de concessão e da regulamentação; medidas mitigadoras para reduzir o impacto tarifário na pandemia"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (preside e proclama)",
+     "ts": "0:13:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:14:11",
+   "processo": "48500.003529/2014-84",
+   "interessado": "Raftec S.A. Indústria e Comércio de Sacarias (PCH Bom Retiro, SC); terceira interessada Gedex Gestão e Participação",
+   "assunto": "Recurso administrativo contra o Despacho 1.400/2019 da SCG que revogou o DRS-PCH e tornou disponível o eixo da PCH Bom Retiro",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e provido por unanimidade dos votantes",
+   "resumo_voto": "Revoga o Despacho 1.400/2019, restaura o Despacho 433/2016 e prorroga por três anos o DRS-PCH; interpretação teleológica, razoabilidade, formalismo moderado; diligência da recorrente no licenciamento reconhecida pela SCG; efeito suspensivo automático (art. 47 §5º da Norma de Organização 1) afasta direito da Gedex. Sustentação oral de Cláudio Mesquita (Raftec).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (dá provimento)",
+     "ts": "0:23:15",
+     "confianca": "alta",
+     "justificativa": "diretoria como 2ª instância pode ir além da aplicação literal da norma; recorrente diligente no licenciamento ambiental; efeito suspensivo automático"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:43:24",
+     "confianca": "baixa",
+     "justificativa": "elogia a sensibilidade da relatora com caso de PCH (fala atribuída por inferência)"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (preside e proclama)",
+     "ts": "0:43:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:44:09",
+   "processo": "48500.004107/2005-55",
+   "interessado": "distribuidoras; SRM/SRG/SRD; CCEE",
+   "assunto": "Abertura de consulta pública (2/7 a 31/8/2021, audiência virtual em 25/8) sobre critérios para distribuidoras contratarem geração distribuída por chamada pública (Decreto 5.163/2004) para reduzir O&M ou postergar investimentos, e modelo de contrato de GD",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "geração distribuída (chamada pública, não MMGD)",
+    "distribuição"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaura CP com audiência pública; distribuidora deve provar menor custo global; dispensa AIR com base em parecer da Procuradoria; CCEE deve propor alteração de regras em 90 dias.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:45:00",
+     "confianca": "alta",
+     "justificativa": "recursos energéticos distribuídos para otimizar uso e expansão das redes; alternativa de menor custo global"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:05:00",
+     "confianca": "media",
+     "justificativa": "segmento de distribuição em transição por recursos energéticos distribuídos; proposta inovadora e oportuna"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:06:46",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:07:30",
+   "processo": "48500.000602/2014-66",
+   "interessado": "conselhos de consumidores de energia elétrica",
+   "assunto": "Prorrogação do mandato dos atuais conselheiros dos conselhos de consumidores (REN 451/2011)",
+   "tema": [
+    "regulação normativa",
+    "consumidores"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista da diretora Elisa Bastos",
+   "resumo_voto": "Relator vota por não prorrogar os mandatos (encerram em 31/12/2021), mantendo o cronograma de eleição, mas adiando a audiência pública do art. 13 para até 15/11/2021; audiência pode ser online.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega prorrogação dos mandatos",
+     "ts": "1:11:34",
+     "confianca": "alta",
+     "justificativa": "audiência pode ser realizada online ou híbrida; não há evidência de custo excessivo para os conselhos"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:14:46",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "1:14:48",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:14:57",
+   "processo": "48500.003267/2020-04",
+   "interessado": "distribuidoras da Amazônia Legal (Equatorial, Energisa); MME",
+   "assunto": "Resultado da CP 73/2020 e regulamentação do Programa Mais Luz para a Amazônia (Decreto 10.221/2020): metas, fiscalização, aumento de carga, custos de O&M",
+   "tema": [
+    "regulação normativa",
+    "universalização",
+    "CDE e encargos setoriais",
+    "sistemas isolados"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Aprova REN e REH; metas iniciais sobem de cerca de 80 mil para cerca de 220 mil consumidores; mantém gratuidade de 80 kWh; determina à SRG incluir na agenda regulatória 2022-2023 revisão dos custos de O&M da solar fotovoltaica nos sistemas isolados.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:18:20",
+     "confianca": "alta",
+     "justificativa": "acesso à energia como direito; revisão de custos de O&M pode aliviar a CDE"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:36:20",
+     "confianca": "media",
+     "justificativa": "comentário sobre experiência no Amazonas e no MME; energia como indutora de desenvolvimento (identificado pela fala da colega que cita o diretor Hélvio)"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:36:22",
+     "confianca": "media",
+     "justificativa": "associa-se às palavras do diretor Hélvio e parabeniza o relator"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:37:30",
+   "processo": "48500.002899/2020-42",
+   "interessado": "Celg GT, Eletronorte, SPE São Simão Energia, Conselhos de Consumidores da Copel e da Energisa MS",
+   "assunto": "Pedidos de reconsideração contra a REH 2.746/2020 (receita anual de geração RAG 2020/2021 das usinas em regime de cotas; GAG melhorias)",
+   "tema": [
+    "recursos administrativos",
+    "outorgas de geração (hidrelétricas em cotas)",
+    "tarifas"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes: provido só o pedido da São Simão Energia (valor em duas parcelas), negados os demais",
+   "resumo_voto": "Pedidos tempestivos; conselhos questionam alta de GAG melhorias (cerca de 978% em 2018); SGT: metodologia discutida na AP 16/2017, objeto estranho ao processo; Procuradoria não viu infração ao CDC. Sustentação oral de Ricardo (conselhos de consumidores Copel/Energisa MS).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:53:39",
+     "confianca": "alta",
+     "justificativa": "pedidos dos conselhos repetem argumentos já indeferidos contra a REH 2.421/2018"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:54:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:54:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (entrou na sessão durante o item; pede que o relator conclua a proclamação)",
+     "ts": "1:56:24",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "16",
+   "motivo": "retirado de pauta no início da sessão",
+   "ts": "0:00:07"
+  },
+  {
+   "item": "demais processos restantes da pauta (três, mesmo relator, segundo o secretário)",
+   "motivo": "falta de quórum; reinscrição na próxima pauta",
+   "ts": "1:55:50"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo reconstituídos e podem conter erros (ex.: 48500.002899/2020-42, 48500.004107/2005-55).",
+  "Presença inferida: Sandoval preside como substituto; Efrain Cruz citado como ainda não presente; André Pepitone entra apenas no item 21. A legenda diz 'diretor André' em alguns pontos onde provavelmente é o presidente da sessão (Sandoval); tratado como erro.",
+  "Falas 'acompanho' sem nome atribuídas por ordem (Hélvio, depois o presidente/relator); confiança baixa onde indicado.",
+  "Item 21: proclamação confusa (por maioria/unanimidade); prevaleceu a fala final 'por unanimidade dos diretores presentes'; ausência de quórum inicial antes da entrada de André Pepitone.",
+  "Item 9: só uma fala 'acompanho' antes da vista; atribuída a Hélvio Guerra com confiança baixa."
+ ]
+}

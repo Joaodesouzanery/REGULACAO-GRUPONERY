@@ -1,0 +1,61 @@
+{
+ "meta": {"video_id": "SgRxjjdjWUc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "34ª Reunião Pública Ordinária de 2020 (Parte 2, tarde)",
+  "data": "2020-09-15",
+  "formato": "videoconferência/híbrido (pandemia)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Christiano Vieira (diretor substituto; nome fora da lista do config, dito «Cristiano» na legenda)"],
+  "ausentes": ["Elisa Bastos (férias)", "Rodrigo Limp (deixou voto no item 3)"],
+  "observacoes": ["Parte 2 (tarde) da 34ª RPO; 4 processos deliberados, todos por unanimidade.", "Item 3 (CP 33/2019, MRE) foi suspenso por falta de quórum de três votos (Efrain fora da sala; Christiano não vota porque Rodrigo Limp já deixou voto) e retomado ao fim da sessão.", "No item 2 o relator Efrain Cruz divergiu da área técnica (SRM), que recomendava não aprovar o contrato entre partes relacionadas; o Diretor-Geral criticou o encaminhamento técnico como «mera burocracia».", "Encerrada por volta de 3:12:30 do vídeo."]
+ },
+ "itens": [
+  {"id": "2", "ts": "0:00:20", "processo": "48500.007150/2019-21 (número incerto na legenda)", "interessado": "Energisa Acre (distribuidora)",
+   "assunto": "Abertura de consulta pública para a revisão tarifária extraordinária contratual da Energisa Acre, a vigorar a partir de 13/12/2020 (efeito médio proposto de 4,87%)",
+   "tema": ["tarifas e revisão tarifária", "regulação normativa (consulta pública)", "CDE e encargos setoriais"],
+   "relator": "Sandoval Feitosa", "resultado": "Aprovado por unanimidade: instaurar consulta pública de 16/09 a 30/10/2020, com sessão virtual de audiência em 15/10/2020",
+   "resumo_voto": "Relator destaca efeitos da MP 998/2020 (rateio da CDE uso igual à Região Norte, -4,16%) e reversão de 75% da Conta-Covid (-9,93%). Sustentação oral da Energisa feita em conjunto com item anterior (parte 1). Apresentações da SFF (BRR) e SGT.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:44:24", "justificativa": "Voto pela instauração de consulta pública para obter subsídios à RTE da Energisa Acre; efeitos das MPs 950 e 998 reduzem a tarifa.", "confianca": "alta"},
+    {"diretor": "Christiano Vieira", "voto": "acompanha o relator", "ts": "0:56:37", "justificativa": "Comentou a sub-rogação da CCC que viabiliza investimentos sem pesar na tarifa do Norte (atribuição do comentário inferida).", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:56:40", "justificativa": "Acompanha com louvor; elogia a MP 998 e a busca de modicidade tarifária com previsibilidade regulatória.", "tom": "elogioso", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:56:45", "justificativa": "Vota com o relator e proclama; ressalta a soma dos efeitos das MPs 950 e 998 (mais de 20% de desoneração).", "confianca": "alta"}
+   ]},
+  {"id": "4", "ts": "0:58:36", "processo": "48500.005393/2019-51 (número incerto na legenda)", "interessado": "Luz e Força Santa Maria (distribuidora) e Santa Maria Comercialização e Serviços de Energia",
+   "assunto": "Requerimento administrativo para aprovação de contrato de comercialização de energia resultante de licitação pública (edital 1/2019; 15 MW médios, 15 anos) com comercializadora do mesmo grupo econômico",
+   "tema": ["comercialização (contratos)", "recursos administrativos", "tarifas e revisão tarifária"],
+   "relator": "Efrain Cruz", "resultado": "Aprovado por unanimidade: provido o requerimento e aprovado o contrato; recomendação à SRM e SFF para reavaliar o rito de licitação de distribuidoras com mercado inferior a 500 GWh/ano, inclusive com parte relacionada",
+   "resumo_voto": "Relator diverge da SRM (que recomendava não aprovar: partes relacionadas, fase fechada por e-mail, garantia, deságio): não há vedação legal ou normativa, contrato é comutativo e traz redução estimada de 1,5% na tarifa. Sustentação oral de Alexsandro Ferreira pela Santa Maria.",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "1:45:00", "justificativa": "Sem vedação legal à participação de parte relacionada; leilão gerou deságio e benefício ao consumidor; anular seria muito gravoso; boa-fé objetiva da Santa Maria.", "confianca": "alta"},
+    {"diretor": "Christiano Vieira", "voto": "acompanha o relator", "ts": "1:47:30", "justificativa": "Anular uma chamada pública é medida muito gravosa sem prova de prejuízo; processo pode ser aprimorado para o futuro.", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:48:23", "justificativa": "Área técnica não comprovou irregularidade; sem proibição e com benefício ao consumidor; recomendação técnica considerada irrazoável.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:50:20", "justificativa": "Encaminhamento técnico é mera burocracia; compromisso com o resultado e a redução de tarifa.", "tom": "crítico à área técnica", "confianca": "alta"}
+   ]},
+  {"id": "3", "ts": "1:50:55", "processo": "48500.005171/2019-39 (número incerto na legenda)", "interessado": "Agentes do MRE (hidrelétricas); sustentações orais de dois interessados",
+   "assunto": "Resultado da CP 33/2019: disposição financeira da energia secundária no MRE; voto-vista de Sandoval Feitosa (relator original Rodrigo Limp; voto de Elisa Bastos anterior)",
+   "tema": ["comercialização (CCEE, MRE)", "regulação normativa (consulta pública)", "outorgas de geração (hidrelétrica)"],
+   "relator": "Rodrigo Limp (original); voto-vista Sandoval Feitosa", "resultado": "Aprovado por unanimidade nos termos do voto-vista: instaurar segunda fase da CP 33/2019 (intercâmbio documental, 30 dias, 16/09 a 16/10/2020) sobre alocação de energia do MRE em etapa única, com análise simultânea das contribuições das duas fases e da CP 45/2020 pela SRG e SRM",
+   "resumo_voto": "Deliberação suspensa às 2:29:45 por falta de três votos (Efrain fora da sala) e retomada às 3:08:58. Voto-vista: não encerrar a 1ª fase sem análise de mérito; tratar conjuntamente os temas do MRE.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "voto-vista vencedor", "ts": "2:19:27", "justificativa": "Não se deve concluir a primeira fase da CP 33/2019 sem análise de mérito; alterações no MRE devem ser decididas em conjunto e em sequência adequada.", "confianca": "alta"},
+    {"diretor": "Rodrigo Limp", "voto": "voto deixado (relator original)", "ts": "2:29:00", "justificativa": "Mencionado que já deixou o voto; conteúdo não lido nesta parte.", "confianca": "baixa"},
+    {"diretor": "Christiano Vieira", "voto": "não vota (Rodrigo Limp já deixou voto)", "ts": "2:29:00", "justificativa": "Declara que não vota neste processo porque o diretor Limp já votou.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (voto-vista)", "ts": "3:10:30", "justificativa": "Manifesta total concordância com o regulamento proposto por Sandoval sobre energia secundária.", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator (voto-vista)", "ts": "3:11:21", "justificativa": "Acompanha e proclama por unanimidade.", "confianca": "alta"}
+   ]},
+  {"id": "5", "ts": "2:30:40", "processo": "48500.003782/2020-86 (número incerto na legenda)", "interessado": "Sindicato da Indústria de Extração de Carvão do Estado de Santa Catarina; Diamante Energia (Complexo Termelétrico Jorge Lacerda)",
+   "assunto": "Requerimento administrativo para alteração do preço do carvão mineral destinado ao Complexo Jorge Lacerda (reembolso pela CDE)",
+   "tema": ["CDE e encargos setoriais", "outorgas de geração (térmica)", "recursos administrativos"],
+   "relator": "Sandoval Feitosa", "resultado": "Aprovado por unanimidade: conhecer do requerimento e autorizar reajuste de 6,61% no preço-base do carvão para reembolso pela CDE (faturamentos após a decisão); Diamante Energia deve encaminhar os aditivos contratuais",
+   "resumo_voto": "Sustentação oral do sindicato. Convergência entre produtores, usina e SRG; preserva a cadeia do carvão sem apagar decisões passadas.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "3:00:00", "justificativa": "Convergência entre produtores e usina e respaldo técnico da SRG justificam reajuste de 6,61% para frente.", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "3:08:05", "justificativa": "Acompanha (comentários elogiosos ao relator).", "confianca": "media"},
+    {"diretor": "Christiano Vieira", "voto": "acompanha o relator", "ts": "3:08:05", "justificativa": "Elogia a decisão: não apaga o passado e recupera o equilíbrio da cadeia do carvão (atribuição inferida: falante cita experiência na SRG).", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "3:08:10", "justificativa": "Acompanha e proclama por unanimidade.", "confianca": "alta"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Diretor substituto chamado «Cristiano/Christiano» na legenda não consta da lista do config (provável Christiano Vieira da Silva); nome registrado como dito.", "Rodrigo Limp e Elisa Bastos ausentes; a presença de Júlio César Rezende Ferraz é incerta (citado apenas como «o diretor Júlio não votou» no item 3) e não foi registrado.", "Atribuição de falas sem nome usa a ordem relator, demais diretores, Diretor-Geral; ts de quem só acompanha são aproximados.", "Números de processo lidos da legenda automática; podem estar errados.", "Esta é a Parte 2 da reunião; item 1 (Ceron/Energisa Rondônia) foi deliberado na parte da manhã, fora deste vídeo."]
+}

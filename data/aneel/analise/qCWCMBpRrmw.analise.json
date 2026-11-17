@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "qCWCMBpRrmw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "15ª Reunião Pública Extraordinária de 2020", "data": "2020-12-21", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Elisa Bastos", "Efrain Cruz", "Sandoval Feitosa"],
+    "ausentes": [],
+    "observacoes": ["Sessão curta (~5 min) com item único: retorno de vista de Efrain Cruz no pedido de medida cautelar da Light.", "Efrain Cruz reviu sua posição e acompanhou a relatora; decisão unânime proclamada pelo Diretor-Geral."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "processo": "48500.006192/2020-23 (número incerto na legenda)", "interessado": "Light Serviços de Eletricidade S.A. (distribuidora)",
+      "assunto": "Pedido de medida cautelar da Light para afastar as consequências definidas no quinto termo aditivo ao contrato de concessão nº 1/1996 (cláusulas econômicas) até o fechamento da Consulta Pública 35/2020 (efeitos da pandemia no equilíbrio econômico-financeiro); retorno de voto-vista",
+      "tema": ["tarifas e revisão tarifária", "contrato de concessão de distribuição", "medida cautelar", "pandemia/COVID-19"],
+      "relator": "Elisa Bastos",
+      "resultado": "Por unanimidade, conhecer e, no mérito, dar provimento ao pedido de medida cautelar da Light, afastando a consequência do quinto termo aditivo até o fechamento da CP 35/2020.",
+      "resumo_voto": "Relatora Elisa Bastos concede a cautelar; Efrain Cruz, que pedira vista, evoluiu no entendimento sobre fumaça do bom direito e perigo da demora (próxima ordinária só em 19/01) e acompanhou a relatora; os demais acompanharam.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, aprova (mantém voto anterior)", "ts": "0:04:20", "justificativa": "Mantém o voto que concede a cautelar.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "voto-vista: acompanha a relatora", "ts": "0:01:10", "justificativa": "Apesar de convicções jurídicas próprias sobre fumaça do bom direito e perigo da demora, evoluiu e entende que a fundamentação da relatora está bem amparada no processo; a próxima ordinária (19/01) poderia trazer prejuízo à concessionária; conversou com a Procuradoria.", "tom": "conciliador", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:04:30", "justificativa": "Acompanha a proposta de voto da eminente relatora.", "confianca": "alta"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:04:36", "justificativa": "Vota com a relatora e proclama o resultado.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Falantes inferidos: a abertura está atribuída a Sandoval Feitosa na transcrição, mas quem proclama é o Diretor-Geral (inferido André Pepitone, DG em dez/2020) após chamar 'Doutor Sandoval'.", "Chamada inicial ininteligível ('cor um de cinco diretores'); só 4 votos ouvidos; se havia 5º diretor presente (ex.: Hélvio Guerra), seu voto não foi captado.", "Número do processo incerto na legenda automática."]
+}
