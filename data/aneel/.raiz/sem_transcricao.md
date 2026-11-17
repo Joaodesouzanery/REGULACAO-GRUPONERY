@@ -4,7 +4,7 @@ Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entr
 
 Total: **282** · sem /diretoria: 5; 2026/diretoria: 2; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 2; 2024/diretoria: 2; 2023/audiencia: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 1; 2021/diretoria: 3; 2021/audiencia: 2; 2020/diretoria: 5; 2019/diretoria: 4; 2019/audiencia: 2; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
-- 2026-09-09 · diretoria · 23ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=BZXASlI3HQ8 · **ainda não baixado (rodar a coleta no Mac)**
+- 2026-09-09 · diretoria · 23ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=BZXASlI3HQ8 · **legenda desativada/inexistente no YouTube**
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-07 · diretoria · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 2 · https://www.youtube.com/watch?v=gwaiZX5AZGM · **legenda desativada/inexistente no YouTube**
