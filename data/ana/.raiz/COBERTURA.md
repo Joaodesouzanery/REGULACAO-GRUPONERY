@@ -10,9 +10,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 4 | 0 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
-| 2024 | diretoria | 29 | 23 | 0 |
+| 2024 | diretoria | 29 | 28 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
-| 2023 | diretoria | 36 | 0 | 0 |
+| 2023 | diretoria | 36 | 5 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 0 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
@@ -83,5 +83,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-04-09 · 905ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 08 de abr · `4HxOPzKqycM`
 - 2024-03-26 · 904ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de mar · `LSaT22ysgL0`
 - 2024-03-19 · 903ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de mar · `nWgl0MjpELE`
+- 2024-03-05 · 902ª Reunião Deliberativa da Diretoria Colegiada · `YT8ZcbfzHKE`
+- 2024-02-27 · 901ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 26 de fev · `VIhtGgdoqjE`
+- 2024-02-07 · 900ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de fev · `IwYVK2gIE_0`
+- 2024-01-30 · 899ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de jan · `6LlOpZZH1KM`
+- 2024-01-11 · 898ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 10 de jan · `kAkDjWulorQ`
+- 2023-12-22 · 897ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de dez · `9E5KA7m1aUg`
+- 2023-12-14 · 896ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 13 de dez · `4ADNl-nO_DU`
+- 2023-12-06 · 895ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 05 de dez · `nqg6cC4NIqM`
+- 2023-11-28 · 894ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 28 de nov · `bWfLs0xanbA`
+- 2023-11-23 · 893ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de nov · `CfkMT07UGZY`
 
 Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
