@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **290** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 20; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **278** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 14; 2025/audiencia: 15; 2024/workshop: 12; 2024/audiencia: 5; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/audiencia: 25; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 8; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -189,34 +189,22 @@ Total: **290** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2020-11-25 · workshop · V Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres  · https://www.youtube.com/watch?v=cKp0x6g0Yiw · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-24 · audiencia · Audiência Pública n° 17/2020 – dia 24 de novembro de 2020 · https://www.youtube.com/watch?v=Sc0StyEvJAo · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-12 · audiencia · Audiência Pública nº 01/2020 – dia 12 de novembro de 2020 · https://www.youtube.com/watch?v=i0EOi8067aA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-29 · diretoria · Reunião de Diretoria Colegiada nº 1026 - 29 de Outubro de 2020 · https://www.youtube.com/watch?v=yWVul_zcz-E · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-27 · audiencia · Audiência Pública ANP n° 14/2020 – dia 27 de outubro de 2020 · https://www.youtube.com/watch?v=yUOLeCeeBTE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-22 · diretoria · Reunião de Diretoria Colegiada nº 1025 - 22 de Outubro de 2020 · https://www.youtube.com/watch?v=fhPYZ0nJ4YA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 2 (Tarde) · https://www.youtube.com/watch?v=HJpdsQ832PQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 1 (Manhã) · https://www.youtube.com/watch?v=Pa4n68IpiKo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-08 · diretoria · Reunião de Diretoria Colegiada nº 1024 - 08 de Outubro de 2020 · https://www.youtube.com/watch?v=afYtkqw01Hs · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-06 · workshop · Novo workshop de revisão da Portaria ANP n° 251/2000 - 5 de outubro de 2020 · https://www.youtube.com/watch?v=MBL1tL5nECM · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-05 · workshop · Workshop de revisão da Portaria ANP n° 251/2000 - 28 de setembro de 2020 · https://www.youtube.com/watch?v=JYT5B2tE9tg · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-01 · diretoria · Reunião de Diretoria Colegiada nº 1023 - 01 de Outubro de 2020 · https://www.youtube.com/watch?v=eeHj24RkHLs · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-29 · audiencia · Audiência Pública ANP n° 08/2020 – 29 de setembro de 2020 · https://www.youtube.com/watch?v=l7YuJpqFbe4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-25 · audiencia · Audiência Pública n° 05/2020 – 25 de setembro de 2020 · https://www.youtube.com/watch?v=r3-srQkYhYs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-24 · diretoria · Reunião de Diretoria Colegiada nº 1022 - 24 de Setembro de 2020 · https://www.youtube.com/watch?v=m3xf8MbjY0o · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-22 · audiencia · Audiência Pública n° 09/2020 – 22 de setembro de 2020 · https://www.youtube.com/watch?v=ij0DxL02xqs · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-22 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=kH_5ehSVpYs · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-18 · audiencia · Audiência Pública nº 03/2020 – dia 17 de setembro de 2020 (Introdução) · https://www.youtube.com/watch?v=sgZJVEHj3Q4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-18 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 2) · https://www.youtube.com/watch?v=qHiXBz4Nkw8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-18 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=ww4Ywbt9E0A · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-15 · audiencia · Audiência Pública nº 04/2020 – dia 15 de setembro de 2020 · https://www.youtube.com/watch?v=F998NJGi7q0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-10 · diretoria · Reunião de Diretoria Colegiada nº 1021 - 10 de Setembro de 2020 · https://www.youtube.com/watch?v=04VGtrnEfOU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-09 · audiencia · Audiência Pública nº 06/2020 – dia 9 de setembro de 2020 · https://www.youtube.com/watch?v=UsFXpCWEbCc · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-02 · audiencia · Audiência Pública nº 07/2020 – dia 2 de setembro de 2020 · https://www.youtube.com/watch?v=XMeD5SIlVTU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-27 · diretoria · Reunião de Diretoria Colegiada nº 1020 - 27 de Agosto de 2020 · https://www.youtube.com/watch?v=7eEePvWyaHE · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-08-20 · workshop · Workshop GNL - 20/08/2020 · https://www.youtube.com/watch?v=635fg7K0hoU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-13 · diretoria · Reunião de Diretoria Colegiada nº 1019 - 13 de Agosto de 2020 · https://www.youtube.com/watch?v=uHrGyggkobI · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-30 · diretoria · Reunião de Diretoria Colegiada nº 1018 - 30 de Julho de 2020 · https://www.youtube.com/watch?v=wvRGMVDtNXM · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-16 · diretoria · Reunião de Diretoria Colegiada nº 1017 - 16 de Julho de 2020 · https://www.youtube.com/watch?v=jmgOStFCWTA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-02 · diretoria · Reunião de Diretoria Colegiada nº 1016 - 02 de Julho de 2020 · https://www.youtube.com/watch?v=g1Id-UgZpSs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-18 · diretoria · Reunião de Diretoria Colegiada nº 1015 - 18 de Junho de 2020 · https://www.youtube.com/watch?v=k-pYKnuWK4M · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-05-28 · diretoria · Reunião de Diretoria Colegiada nº 1014 - 28 de maio de 2020 · https://www.youtube.com/watch?v=j4s1JZY-LgU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-05-14 · diretoria · Reunião de Diretoria Colegiada nº 1013 - 14 de maio de 2020 · https://www.youtube.com/watch?v=2HBNbKJd8CU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-03-12 · diretoria · Reunião de Diretoria Colegiada nº 1012 - 12 de março de 2020 · https://www.youtube.com/watch?v=DyVMgQ6axV0 · **ainda não baixado (rodar a coleta no Mac)**
