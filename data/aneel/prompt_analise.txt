@@ -7,3 +7,10 @@ Regras: um item por processo deliberado (inclua extrapauta, referendos, votos-vi
 Se uma reunião estiver curta/sem conteúdo deliberativo, ainda assim escreva o JSON com os itens que houver e explique em limites_da_analise.
 No final responda em 3 linhas: ids concluídos, nº de itens por reunião, pendências/dúvidas.
 Sua lista de video_ids:
+
+REGRAS DE ATRIBUIÇÃO DE VOTOS (nov/2026, conferência cega mostrou erro em quem só diz «acompanho»):
+A) Comece listando os diretores PRESENTES na sessão (chamada inicial, quem preside, quem declara ausência/férias/missão/suspeição) em reuniao.diretores_presentes e reuniao.ausentes. Ausente não vota; diretor suspeito/impedido não vota (registre voto «suspeito/impedido»). Voto deixado por escrito por ausente: registre com voto «voto deixado (lido por X)».
+B) Use a PROCLAMAÇÃO do Diretor-Geral/presidente como fonte principal do resultado e dos votos: «por unanimidade» → todos os presentes não-relatores «acompanha o relator (pela proclamação)», confiança media se a fala individual não for ouvida; «por maioria, vencido o diretor X» → X «vencido», os demais acompanham; «nos termos do voto-vista de X» → X «voto-vista vencedor» e os que o acompanharam; «empate» → registre o empate e quem votou em cada lado SÓ se dito.
+C) Ordem de votação usual da ANEEL: relator primeiro; depois os demais diretores; o Diretor-Geral vota por último e proclama. Quando uma fala «acompanho» não tem nome, use essa ordem e quem a mesa chama («diretor X?») para atribuir; se ainda assim incerto, confiança baixa e anote em limites_da_analise — NUNCA troque nomes sem base.
+D) Pedido de vista: quem pediu (nome dito ou chamado pela mesa); votos já dados antes da vista ficam registrados; quem não votou antes da vista = «não votou (vista)».
+E) Ao final de cada item, confira: nº de votos = nº de presentes não impedidos; se não fechar, explique em limites_da_analise.
