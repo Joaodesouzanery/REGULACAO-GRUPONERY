@@ -13,10 +13,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 15 | 0 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
-| 2024 | diretoria | 24 | 15 | 0 |
+| 2024 | diretoria | 24 | 24 | 0 |
 | 2024 | audiencia | 9 | 0 | 0 |
 | 2023 | workshop | 16 | 0 | 0 |
-| 2023 | diretoria | 22 | 0 | 0 |
+| 2023 | diretoria | 22 | 3 | 0 |
 | 2023 | audiencia | 16 | 0 | 0 |
 | 2022 | workshop | 11 | 0 | 0 |
 | 2022 | diretoria | 34 | 0 | 0 |
@@ -95,5 +95,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-07-11 · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
 - 2024-06-27 · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
 - 2024-05-29 · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
+- 2024-05-24 · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
+- 2024-05-16 · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · `1OTBSgcmkU4`
+- 2024-04-25 · Reunião de Diretoria Colegiada nº 1136 - 25 de abril de 2024 · `R1qsVvBxk4o`
+- 2024-04-11 · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
+- 2024-03-28 · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
+- 2024-03-07 · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
+- 2024-02-22 · Reunião de Diretoria Colegiada nº 1132 - 22 de fevereiro de 2024 · `XRjRkvtHHS0`
+- 2024-02-08 · Reunião de Diretoria Colegiada nº 1131 - 08 de fevereiro de 2024 · `S8oQxNhojHs`
+- 2024-01-25 · Reunião de Diretoria Colegiada nº 1130 - 25 de janeiro de 2024 · `yBYUsr1w55o`
+- 2023-12-21 · Reunião de Diretoria Colegiada nº 1129 - 21 de dezembro de 2023 · `AJNa6iA07GE`
+- 2023-12-07 · Reunião de Diretoria Colegiada nº 1128 - 07 de dezembro de 2023 · `tz2DlZ2yiQU`
+- 2023-11-23 · Reunião de Diretoria Colegiada nº 1127 - 23 de novembro de 2023 · `k5YHqXFaVPA`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
