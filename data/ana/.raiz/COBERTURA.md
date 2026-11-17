@@ -7,10 +7,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 2 | 0 | 0 |
 | 2026 | workshop | 1 | 0 | 0 |
 | 2026 | diretoria | 13 | 13 | 0 |
-| 2025 | diretoria | 24 | 23 | 0 |
+| 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 4 | 0 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
-| 2024 | diretoria | 29 | 0 | 0 |
+| 2024 | diretoria | 29 | 11 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | diretoria | 36 | 0 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
@@ -59,5 +59,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-02-18 · 928ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de fev · `7uHiz0X-jYY`
 - 2025-02-05 · 927ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de fev · `YoKkUr4L-ms`
 - 2025-01-31 · 926ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 30 de jan · `GWb8wSUPW6c`
+- 2025-01-15 · 925ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 14 de jan · `j0xSHDNoKFE`
+- 2024-12-18 · 924ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de dez · `KnXV-RaMCNo`
+- 2024-12-10 · 923ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 9 de deze · `bzm35HfLB0Y`
+- 2024-11-27 · 921ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 26 de nov · `XCA480CNzRk`
+- 2024-11-12 · 920ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 11 de nov · `w2Z6hBkoPNo`
+- 2024-10-30 · 919ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de out · `dnpTHjXP0zw`
+- 2024-10-22 · 918ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de out · `xTU_9Fjkhp4`
+- 2024-10-01 · 917ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 30 de set · `a7nmjv7dISA`
+- 2024-09-25 · 916ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 23 de set · `__ebIXB-qYI`
+- 2024-09-17 · 915ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de set · `dKp2DepuSbw`
+- 2024-09-03 · 914ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 02 de set · `-JMc56WmIDA`
+- 2024-08-20 · 913ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 19 de ago · `WI8JzVesPMI`
 
-Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
