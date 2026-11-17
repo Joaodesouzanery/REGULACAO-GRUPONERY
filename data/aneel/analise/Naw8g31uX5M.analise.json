@@ -1,0 +1,52 @@
+{
+  "meta": {"video_id": "Naw8g31uX5M", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "38", "data": "2020-10-13", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos", "Efrain Cruz", "Cristiano (diretor substituto)"],
+    "ausentes": ["Júlio César Rezende Ferraz"],
+    "observacoes": ["Parte 1 (manhã) da 38ª Reunião Pública Ordinária de 2020; suspensa para almoço com retorno às 14h30 (item 11 e item 3 ficam para a parte 2).", "Pauta com 34 itens; bloco dos itens 4 a 34, exceto 6 e 7 (retirados) e 10 e 11 (destacados por sustentação oral).", "Aprovadas as atas da 37ª RPO e da 8ª reunião extraordinária; diretores que estavam de férias/viagem não votaram as atas.", "Item 2 (UTE GNA Porto do Açu 3): voto-vista de Elisa Bastos divergindo parcialmente do relator Sandoval Feitosa (afasta as determinações às áreas técnicas e propõe data de necessidade de 1º/4/2022 e condição de assinatura de CCT/CUST em 90 dias); após debate, o diretor substituto Cristiano pediu vista.", "Item 10 (Rio Chopim): retirado de pauta pelo relator Efrain Cruz após sustentação oral e manifestação da Procuradoria."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:30", "processo": "itens 4 a 34 (exceto 6, 7, 10 e 11)", "interessado": "diversos",
+      "assunto": "Bloco de processos, incluindo item 4 (Agenda Regulatória 2021-2022) com inclusão, a pedido de Sandoval Feitosa, da atividade de regulamentação de medições anemométricas e solarimétricas por geradores eólicos e solares",
+      "tema": ["regulação normativa (agenda regulatória)", "outorgas de geração (eólica, solar)"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade, com o item 4 incorporando a sugestão de Sandoval Feitosa",
+      "resumo_voto": "Bloco aprovado; relator do item 4 acatou a inclusão da nova atividade na agenda regulatória.",
+      "votos": [
+        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:10:16", "justificativa": "Proclamou a aprovação dos itens do bloco com o item 4 contemplando a inclusão sugerida.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:07:30", "justificativa": "Pediu inclusão na agenda regulatória da regulamentação de estações anemométricas e solarimétricas (processo instaurado em 2013).", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "aprova o bloco", "ts": "0:10:16", "justificativa": "Aprovação do bloco (pela proclamação).", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:10:16", "justificativa": "Aprovação do bloco (pela proclamação).", "confianca": "media"},
+        {"diretor": "Cristiano (diretor substituto)", "voto": "aprova o bloco", "ts": "0:10:16", "justificativa": "Aprovação do bloco (pela proclamação).", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:12:06", "processo": "48500.004948/2017-86 (número incerto na legenda)", "interessado": "GNA II Geração de Energia S.A. (UTE GNA Porto do Açu 3, São João da Barra/RJ); Transmissora Guanabara (SE Campos 2)",
+      "assunto": "Requerimento administrativo da GNA II para alteração do ponto de conexão da UTE Porto do Açu 3 (SE Rio Novo do Sul 500 kV para SE Campos 2) com concatenação do cronograma da usina e dos CCEARs (leilão A-6/2017) à entrada em operação da SE Campos 2",
+      "tema": ["outorgas de geração (térmica)", "transmissão (outorgas, data de necessidade)", "leilões (geração A-6/2017)", "comercialização (CCEAR)"],
+      "relator": "Sandoval Feitosa (relator original); Elisa Bastos (voto-vista)", "resultado": "pedido de vista do diretor substituto Cristiano; sem deliberação",
+      "resumo_voto": "Relator autoriza concatenação e determina às áreas técnicas aprimorar matriz de risco dos leilões e mecanismos de ajuste de contratação; voto-vista de Elisa concorda com a concatenação limitada a 9 meses após o prazo contratual da SE Campos 2 (22/3/2024), fixa data de necessidade em 1º/4/2022, condiciona à assinatura de CCT/CUST em 90 dias e rejeita as determinações; Sandoval mantém o voto retirando só a palavra 'equívoco' do planejamento.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, mantém o voto (com ajuste)", "ts": "1:17:29", "justificativa": "Concordou em retirar a hipótese de equívoco do planejamento; objetou que a ANEEL não pode alterar a data de necessidade definida no planejamento/leilão, que concatenar e fixar prazo é contraditório e que seria necessário aditivo ao contrato da transmissora, ainda sem licença de instalação.", "tom": "técnico, firme", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "voto-vista: diverge parcialmente do relator", "ts": "0:12:46", "justificativa": "Não houve erro de planejamento, mas risco conhecido; acompanha a concatenação, limitada a 9 meses após 22/3/2024; data de necessidade em 1º/4/2022; eficácia condicionada a CCT e CUST em 90 dias; afasta as determinações às áreas técnicas por extrapolarem competências ou serem desnecessárias.", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "não votou (vista)", "ts": "1:42:35", "justificativa": "No debate questionou a utilidade de antecipar a data de necessidade e exigir CCT/CUST, já que a cláusula nona do contrato já dá a prerrogativa à ANEEL e o benefício ao consumidor deve ser avaliado no futuro.", "confianca": "media"},
+        {"diretor": "Cristiano (diretor substituto)", "voto": "pede vista", "ts": "2:00:04", "justificativa": "Antes, no debate, defendeu restabelecer o status quo do leilão mas com datas factíveis para gerador e transmissora (preocupação com 9 meses de comissionamento de ciclo combinado e licenciamento da transmissão).", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "1:59:22", "justificativa": "Conduziu a votação e concedeu a vista.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "10", "ts": "2:00:54", "processo": "48500.005881/2019-39 e 48500.005936/2019-31 (números incertos na legenda)", "interessado": "Rio Chopim Energia Ltda. (recorrente); GDX/Gedex Gestão e Participações (recorrida)",
+      "assunto": "Recurso administrativo contra o Despacho SCG 1.595 sobre o registro para revisão dos estudos de inventário hidrelétrico do rio Chopim (PR), trecho entre a PCH Salto Alemã e a PCH São Luís; disputa sobre anterioridade do protocolo em horas/minutos",
+      "tema": ["outorgas de geração (hidrelétrica, inventário)", "recursos administrativos"],
+      "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator após sustentação oral",
+      "resumo_voto": "Sustentação oral de Wesley Ricardo Bento (Rio Chopim) pediu diligência à Imprensa Nacional e interpretação do art. 8º da REN 875/2020 em dias; Procuradoria disse que o ponto merece reflexão; relator retirou para reanalisar com a Procuradoria.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, retira de pauta", "ts": "2:21:50", "justificativa": "Precisa revisitar a interpretação do artigo da norma e outros pontos trazidos na sustentação oral, junto com a Procuradoria.", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 6 (retirado de pauta, assunto não lido)", "item 7 (retirado de pauta, assunto não lido)", "item 10 (retirado pelo relator Efrain Cruz)"],
+  "limites_da_analise": ["Diretor substituto citado só como 'Doutor Cristiano' (fora da lista do config); sobrenome não dito.", "Júlio (Júlio César Rezende Ferraz) citado como ausente na discussão sobre voto anterior; ausência registrada pela fala da mesa.", "Itens do bloco não lidos individualmente; votos do bloco pela proclamação.", "Números de processo e nomes de empresas (GNA II, Gedex/GDX) vêm de legenda automática e podem estar errados.", "Item 2: só relator e voto-vista votaram; demais não votaram por causa do pedido de vista.", "Parte 1 apenas; itens 3 e 11 na parte 2."]
+}

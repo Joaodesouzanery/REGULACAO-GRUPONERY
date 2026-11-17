@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "video_id": "Tw-btZzHOXk",
+  "fonte": "legenda automática do YouTube; ts aproximados por busca na transcrição; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32",
+  "data": "2019-09-03",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Elisa Bastos",
+   "Efrain Cruz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "32ª Reunião Pública Ordinária de 2019 - Parte 1 (manhã); quórum de cinco diretores.",
+   "Retirados de pauta itens 6, 11 e 12; destacados do bloco itens 13 e 21.",
+   "Item 9 (Energimp/Sequoia) suspenso durante a leitura do voto do relator; sessão suspensa às ~3:01 para retorno às 14h."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:43",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (13 a 40, exceto os destacados 13 e 21), votados em conjunto",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade, observado o impedimento do diretor Sandoval nos itens 13 e 16",
+   "resumo_voto": "Bloco aprovado sem leitura; Sandoval Feitosa declarou impedimento nos itens 13 e 16 por ter atuado nos processos como superintendente de fiscalização.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; impedido nos itens 13 e 16",
+     "ts": "0:06:58",
+     "justificativa": "atuou nesses processos quando era superintendente de fiscalização dos serviços de eletricidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:07:27",
+   "processo": "48500.003361/2018-31",
+   "interessado": "Cemig Distribuição S.A. (distribuidora); município de Andradas-MG",
+   "assunto": "Recurso administrativo contra o Auto de Infração 1003/2018 da SFE (advertência) por falhas no atendimento ao mercado de energia em Andradas-MG (subestação Andradas 2 no limite de carga)",
+   "tema": [
+    "fiscalização e sanções (auto de infração, advertência)",
+    "recursos administrativos",
+    "distribuição e qualidade"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: recurso conhecido e não provido; auto de infração mantido (penalidade convertida em advertência)",
+   "resumo_voto": "Sustentação oral do prefeito de Andradas, Rodrigo Lopes, agradecendo a atuação da ANEEL. Relator: cabe à distribuidora atender a demanda presente e futura; Cemig falhou no planejamento de carga; mantida NC e conversão da multa em advertência (art. 8º da REN 63/2004: não reincidência, boa-fé e antecipação da obra). Procuradoria pelo não provimento.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:44:00",
+     "justificativa": "caso de sucesso que permite o avanço da atividade econômica; compara com o caso Enel Goiás",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator, com comentários",
+     "ts": "0:36:20",
+     "justificativa": "como superintendente de fiscalização recebeu o pleito; não é admissível que o crescimento de uma cidade fique limitado pela falta de investimentos; elogia a atuação diligente do prefeito e da Cemig",
+     "tom": "elogioso",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega provimento (mantém advertência)",
+     "ts": "0:24:00",
+     "justificativa": "distribuidora responde pelo atendimento da demanda futura; risco do negócio; conversão em advertência pela proatividade e não reincidência",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:46:25",
+   "processo": "48500.001523/2018-04",
+   "interessado": "CELG Geração e Transmissão S.A. (CELG GT, transmissora)",
+   "assunto": "Pedido de reconsideração contra o Despacho 1.356/2018, que negou revisão tarifária extraordinária do contrato de concessão 63/2001 (RAP inicial e custos operacionais 2013-2018)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária (revisão extraordinária)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: pedido conhecido e não provido",
+   "resumo_voto": "Sustentação oral de Daniel Vinícius Vieira (CELG GT). Relator: RAP inicial é competência do MME, que já negou o recurso; custos operacionais não preenchem requisitos de revisão extraordinária (imprevisibilidade, evento alheio, desequilíbrio significativo); regulação é por preço e não por custo; tema será tratado na revisão periódica (AP 41/2017).",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:16:00",
+     "justificativa": "regulação por preço e não por custo; eventual desequilíbrio é discutido na revisão tarifária da transmissora",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:58:00",
+     "justificativa": "RAP inicial é competência do MME, já decidida; revisão retroativa caracterizaria remuneração pelo custo; empresa deve definir sua própria estrutura",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:16:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:17:04",
+   "processo": "48500.003747/2019-23",
+   "interessado": "Iguaçu Distribuidora de Energia Elétrica Ltda. (distribuidora, Xanxerê-SC)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para suspender/indeferir pedidos de ligação de geração distribuída na área de concessão e obter ajustes financeiros no reajuste de 2019",
+   "tema": [
+    "geração distribuída (MMGD, REN 482)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: requerimento conhecido e indeferido",
+   "resumo_voto": "Sustentação oral de Leandro Parisotto (Iguaçu), que pediu deferimento ou retirada de pauta. Procuradoria: suspender ligações seria discriminatório. Relator: afastar a REN 482 para um único agente seria não isonômico; impacto ~1,1% da parcela B; empresa pode pedir revisão extraordinária (Submódulo 2.9 do PRORET); revisão da norma de GD em audiência pública prevista para outubro de 2019.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:41:12",
+     "justificativa": "avanço da GD é inexorável mas deve ocorrer em bases sustentáveis, sem subsídio cruzado; impedir novas ligações não é o caminho; nova norma em 2020 corrigirá a alocação de custos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:48:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, conhece e indefere",
+     "ts": "1:33:46",
+     "justificativa": "norma de caráter geral não pode ser afastada para um agente; participação de GD inferior a 6% do mercado; segurança jurídica de quem investe em GD; desequilíbrio deve seguir rito de revisão extraordinária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:48:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:48:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:49:09",
+   "processo": "48500.003287/2010-03 e outros",
+   "interessado": "Energimp S.A. e Sequoia Capital Ltda.; Rio Energy (pretendente); complexos eólicos Ceará 2 e Ceará 4",
+   "assunto": "Requerimentos de nova prorrogação por 90 dias do prazo do Despacho 1.832/2018 (transferência de controle como alternativa à caducidade) e de postergação do início de vigência dos CUST das eólicas",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "fiscalização e sanções (revogação de outorga)",
+    "transmissão (CUST)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "deliberação suspensa durante a leitura do voto (continua na parte 2)",
+   "resumo_voto": "Sustentações orais de Márcio Almeida (Energimp), Márcio Athir (Sequoia) e Marcos Meirelles (Rio Energy). Relator lia voto pelo indeferimento dos requerimentos (condições de eficácia do Despacho 1.832 não cumpridas após quase um ano) e interrompeu no item 49 do voto; deliberação suspensa.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, voto pelo indeferimento (leitura interrompida)",
+     "ts": "2:17:54",
+     "justificativa": "condições de eficácia não verificadas; sem juízo sobre a capacidade da Rio Energy",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (deliberação suspensa)",
+     "ts": "2:33:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (deliberação suspensa)",
+     "ts": "2:33:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (deliberação suspensa)",
+     "ts": "2:33:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (deliberação suspensa)",
+     "ts": "2:33:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:33:24",
+   "processo": "48500.005361/2017-94",
+   "interessado": "Companhia Energética de Pernambuco (Celpe, distribuidora); ARPE",
+   "assunto": "Recurso administrativo contra o Auto de Infração 5/2014 da ARPE (multa) sobre gestão de segurança das instalações e das pessoas (tempo de atendimento, poda, correção de defeitos)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "distribuição e qualidade"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado: recurso conhecido e não provido; auto mantido integralmente (Sandoval impedido)",
+   "resumo_voto": "Sustentação oral de Paulo Mulato (Celpe), que pediu revisão do enquadramento (art. 4º XV em vez de art. 6º XIV da REN 63) ou retirada de pauta. Procuradoria pela manutenção. Relator: fatos não contestados; dosimetria já considerou os argumentos; não dispor de normas não se enquadra em deixar de utilizar equipamentos.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:00:40",
+     "justificativa": "voto já disponível e discutido na prévia; sem motivos para alterar",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "0:06:58",
+     "justificativa": "declarou-se impedido por ter atuado no processo como superintendente de fiscalização (SFE)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:00:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "2:57:38",
+     "justificativa": "fatos ocorreram e não foram contestados; segurança é tema caro; dosimetria já tratou os argumentos",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6"
+  },
+  {
+   "id": "11"
+  },
+  {
+   "id": "12"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda e aproximados.",
+  "Falas de acompanhamento sem nome; votos de Limp, Elisa e Efrain/Sandoval como seguidores atribuídos pela proclamação de unanimidade.",
+  "Comentários no item 7 (só parabenizar o Sandoval...) e no item 21 (aproveitar o gancho das falas do diretor-geral) não têm autor identificado; atribuições ao Diretor-Geral têm confiança média/baixa.",
+  "Sandoval disse impedido no item '13 1' e 16 dentro do bloco; aplicado ao item 13 (destacado), cuja proclamação não fala em unanimidade.",
+  "Números de processo vêm da legenda automática e podem conter erros.",
+  "Item 9 continua na Parte 2 da reunião (outro vídeo)."
+ ]
+}

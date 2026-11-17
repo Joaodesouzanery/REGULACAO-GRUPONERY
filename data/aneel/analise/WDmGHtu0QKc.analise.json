@@ -1,0 +1,45 @@
+{
+  "meta": {"video_id": "WDmGHtu0QKc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "44", "data": "2021-11-23", "formato": "presencial (Parte 2, período da tarde)",
+    "presidente_da_sessao": "Elisa Bastos (Diretora-Geral substituta); no item 5 a condução da votação parece passar a André Pepitone",
+    "diretores_presentes": ["Elisa Bastos", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz", "André Pepitone"],
+    "ausentes": [],
+    "observacoes": ["Retomada da 44ª Reunião Pública Ordinária com quórum de quatro diretores; André Pepitone anunciado como chegando depois.", "Sandoval Feitosa retificou o item 1 (deliberado de manhã): consulta pública do leilão de transmissão começa em 26/11 e não 25/11; data final inalterada.", "Retirados de pauta os itens 10, 13 e 15 (14 já retirado); depois o item 9 (de Sandoval Feitosa) também foi retirado.", "Encerramento dito como «24ª reunião» na legenda (provável erro; título indica 44ª)."]
+  },
+  "itens": [
+    {
+      "id": "11", "ts": "0:01:30",
+      "processo": "48500.003941/2019-17", "interessado": "Interligação Elétrica do Madeira S.A. (IE Madeira), transmissora",
+      "assunto": "Recurso administrativo contra o Despacho SRT 3.381/2019, que indeferiu o afastamento do art. 6º, §3º da REN 841/2018 (redução de 90% para 80% da RAP antecipada com pendências não impeditivas próprias há mais de 12 meses) às instalações do contrato de concessão 15/2009 (conversoras 2 das SEs Porto Velho e Araraquara 2).",
+      "tema": ["transmissão (RAP)", "recursos administrativos"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Conhecido e, no mérito, negado provimento ao recurso, por unanimidade dos votantes; mantida a decisão recorrida.",
+      "resumo_voto": "Não há direito adquirido ao regime da REN 454/2011; TLP é precário; tratar diferente violaria a isonomia; art. 13 da REN 841 não se aplica. Parecer 4 da Procuradoria pelo indeferimento. Relator destacou que a pendência, que durava 4 anos, foi sanada no mês seguinte ao aumento do desconto.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento", "ts": "0:28:51", "justificativa": "Inexiste direito adquirido a regime jurídico; o TLP é provisório; a REN 841 trata os agentes de forma isonômica e o incentivo de 10% não bastou para sanar a pendência.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:33:04", "justificativa": "Um diretor comentou que a antecipação de receita é incentivo à solução célere das pendências e acompanhou o relator e a SRT; atribuição do falante incerta.", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:33:11", "justificativa": "Acompanha o voto do relator.", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:33:11", "justificativa": "Acompanha o voto do relator e proclama o resultado.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:33:56",
+      "processo": "48500.002476/2020-21", "interessado": "distribuidoras de energia elétrica; consumidores",
+      "assunto": "Resultado da Consulta Pública 35/2020: regulamentação dos arts. 6º, 7º e 9º do Decreto 10.350/2020 (Conta-Covid) — alocação dos custos financeiros do empréstimo, sobrecontratação involuntária e reequilíbrio extraordinário (RTE) das distribuidoras por efeitos da pandemia; voto-vista.",
+      "tema": ["tarifas e revisão tarifária (RTE, PRORET)", "CDE e encargos setoriais (Conta-Covid)", "regulação normativa (resolução, consulta pública)"],
+      "relator": "Elisa Bastos (relatora original); Hélvio Guerra (voto-vista)",
+      "resultado": "Aprovada, por unanimidade, a proposta do voto-vista de Hélvio Guerra: REN com metodologia da sobrecontratação involuntária e critérios de ressarcimento dos custos acessórios da Conta-Covid, e novo submódulo 2.10 do PRORET para RTE decorrente da pandemia.",
+      "resumo_voto": "Voto-vista mantém a métrica de sobrecontratação; aloca ao consumidor os custos financeiros da parcela A efetivamente realizada, exceto saldo não amortizado de CVA, excedente emprestado, parcela B e diferimentos do grupo A (ficam com a distribuidora até a reversão); receitas irrecuperáveis pelo ranking de complexidade, sem comparação por porte; reequilíbrio de mercado pelo componente Pd do Fator X; sem teste de admissibilidade do submódulo 2.9; cria submódulo 2.10 em vez de alterar o 2.9.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor", "ts": "1:24:09", "justificativa": "Não é razoável alocar à distribuidora todos os custos financeiros da parcela A; porte não se correlaciona com receitas irrecuperáveis; a produtividade regulatória (Fator X) deve balizar o reequilíbrio; texto construído em conjunto pelo colegiado.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o voto-vista (relatora original)", "ts": "1:30:12", "justificativa": "Trata-se de escolha regulatória; a proposta mantém os conceitos de equilíbrio da concessão como um todo e alocação conforme o beneficiado; acompanha em prol de solução mais breve.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista", "ts": "1:31:30", "justificativa": "Proposta separa extraordinário do ordinário, risco de incerteza, econômico de financeiro, exige nexo causal e preserva incentivos à eficiência; anunciou voto apartado.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o voto-vista", "ts": "1:55:31", "justificativa": "Princípios preservados: spread pago por quem detém o recurso e reequilíbrio avaliado para o contrato como um todo, não seccionado.", "confianca": "media"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o voto-vista (pela proclamação)", "ts": "1:55:39", "justificativa": "Acompanha a proposta do voto-vista; falante e presença inferidos.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["item 9 (relator Sandoval Feitosa)", "item 10", "item 13", "item 14", "item 15"],
+  "limites_da_analise": ["Presença de Efrain Cruz inferida: abertura cita quórum de quatro diretores com André chegando depois, e no item 11 há três vozes de acompanhamento além do relator; nome de Efrain só aparece citado, não em chamada.", "Falas de voto sem nome explícito; atribuição de Hélvio/Efrain no item 11 e de Efrain no item 5 com confiança baixa.", "No item 5 a sessão parece conduzida por André Pepitone (relatora original Elisa); legenda confusa.", "Número de processo do item 5 lido na legenda como 48500.002476/2020-21 e 2846/2020; incerto.", "Interessados e retirados 10, 13, 14, 15 sem assunto identificado."]
+}

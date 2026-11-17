@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "VGpKpmTTq8I", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "4ª Reunião Pública Extraordinária", "data": "2019-05-30", "formato": "presencial",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral, inferido)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Elisa Bastos"],
+    "ausentes": [],
+    "observacoes": ["Pauta com item único: impugnações ao edital do Leilão 1/2019 (suprimento a Boa Vista e localidades conectadas), realizado no dia seguinte.", "Decisão unânime dos diretores presentes, negando provimento às duas impugnações."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:05",
+      "processo": "48500.000027/2019 (número incerto pela legenda)",
+      "interessado": "Mauro Ferreira Rosa Filho; agente com pedido de confidencialidade (identidade preservada)",
+      "assunto": "Impugnações ao edital do Leilão 1/2019-ANEEL (suprimento a Boa Vista e localidades conectadas, Roraima): ausência de valores/fórmula de TUSD e TUST e fórmula de penalidade que não contempla indisponibilidades forçada e programada; pedido alternativo de banco de compensação de geração",
+      "tema": ["leilões (geração, sistemas isolados)", "tarifas (TUSD/TUST)", "recursos administrativos"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "Por unanimidade dos presentes, conhecer por tempestivas as impugnações e no mérito negar provimento, na forma dos Despachos 1491 e 1492/2019 do presidente da Comissão Especial de Licitação.",
+      "resumo_voto": "Relator: impugnações tempestivas; TUSD para tensão até 138 kV não é estabilizada nem calculada previamente (regra desde 2005 nos leilões, 2015 nos isolados), distribuidora não declarou mercado do grupo A; TUST só após interligação ao SIN; penalidade decorre das diretrizes do MME (Portarias 512/2018 e 145/2019) que exigem disponibilidade a qualquer momento em sistema isolado, cabendo ao proponente precificar; banco de compensação não explicado. Procuradoria sem óbice.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:24:02", "justificativa": "Nega provimento: não há omissão sobre TUSD/TUST; penalidade segue diretrizes do MME e pode ser precificada no lance.", "confianca": "alta"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:25:36", "justificativa": "Parabeniza o voto; agentes podiam discutir o mérito na consulta/audiência pública do edital.", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:28:24", "justificativa": "Leilão é marco para Roraima, com histórico de desligamentos; condições amplamente conhecidas permitem certame competitivo e justo.", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Falantes inferidos: a abertura é rotulada Sandoval Feitosa na transcrição, mas quem preside e vota por último parece ser o Diretor-Geral (André Pepitone, inferido pelas menções ao 'diretor Limp' e à 'diretora Elisa'); não há chamada nominal.", "Um diretor comenta em 0:25:07 ('só registrar...') sem nome identificado (possivelmente Rodrigo Limp ou Efrain Cruz); não registrado como voto por falta de base; presença dos demais diretores incerta.", "Número do processo e despachos lidos pela legenda automática podem conter erros."]
+}

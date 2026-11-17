@@ -1,0 +1,283 @@
+{
+ "meta": {
+  "video_id": "cDWHz0EBExY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; parte 1 da reunião",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "11ª Reunião Pública Ordinária de 2019 (Parte 1)",
+  "data": "2019-04-09",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com quórum de 4 diretores; Rodrigo Limp chegou durante a reunião (relatou os itens 5 e 9).",
+   "Informe do Diretor-Geral sobre prazo dos laudos de transmissoras (banco de preços, AP 31) e cautelar em análise.",
+   "Atas aprovadas: 2ª extraordinária e 10ª ordinária.",
+   "Vídeo é a parte 1; itens 10 e 9 ficaram com pedido de vista; a reunião seguiu após intervalo (parte 2 não analisada aqui)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:21:30",
+   "processo": "itens 13 a 39 (exceto 21 e 26)",
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 13 a 39 da pauta, retirados do bloco os itens 21 e 26",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade; Sandoval Feitosa impedido no item 14",
+   "resumo_voto": "Todos aprovaram o bloco; Sandoval Feitosa declarou impedimento no item 14 por ter assinado o Despacho SFE 523/2018 (análise de pedido de reconsideração de auto de infração).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (impedido no item 14)",
+     "ts": "0:22:08",
+     "justificativa": "Impedido no item 14 por ter assinado o Despacho SFE 523/2018.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:21:50",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:21:55",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova e proclama",
+     "ts": "0:22:34",
+     "justificativa": "Proclama aprovação unânime do bloco.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:22:50",
+   "processo": "48500.005588/2013-14",
+   "interessado": "Ventos dos Guarás I Energias Renováveis S.A. (EOL Ventos dos Guarás I, 30 MW)",
+   "assunto": "Pedido de reconsideração contra o Despacho SRM 339/2019, que declarou perda de objeto do pedido de parcelamento de débitos do MCP e negou parcelamento de penalidades por insuficiência de lastro",
+   "tema": [
+    "recursos administrativos",
+    "comercialização (CCEE, PLD, contratos)",
+    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "provimento parcial por unanimidade: parcelamento das penalidades por insuficiência de lastro em até 6 vezes (IGP-M + juros de 1% ao mês pro rata), a partir da contabilização de maio de 2019, condicionado à desistência do mandado de segurança e renúncia aos direitos em juízo",
+   "resumo_voto": "Relatora diverge da SRM: penalidades de lastro são de natureza regulatória (revertidas à modicidade) e não direito privado do MCP; usa precedente da CEB (parcelamento em 6 vezes com renúncia judicial); reconhece boa-fé da parte. Débitos do MCP cabem ao Conselho da CCEE e já foram liquidados. Ajuste de redação sobre a contabilização de maio.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, aprova (provimento parcial)",
+     "ts": "0:40:00",
+     "justificativa": "Penalidades de lastro são de natureza regulatória; precedente CEB; condiciona à desistência do mandado de segurança; boa-fé da parte; sem prejuízo ao consumidor.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:54:20",
+     "justificativa": "Elogia o voto; condicionantes (renúncia à discussão judicial) poderiam ser incorporadas à regulação do parcelamento.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:54:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:54:40",
+     "justificativa": "Lembra jurisprudência do colegiado: parcelamento em 6 vezes só com renúncia à discussão judicial (caso CEB, caso Abragel negado); privilegia a modicidade tarifária.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:58:30",
+   "processo": "48500.001454/2015-61",
+   "interessado": "Centrais Elétricas de Sergipe S.A. (CELSE) - UTE Porto de Sergipe I",
+   "assunto": "Alteração do cronograma de implantação (operação em teste) da UTE Porto de Sergipe I e aditamento do CUST 83/2017 com o ONS; pedido de medida cautelar",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "transmissão (RAP, outorgas, reforços)",
+    "excludente de responsabilidade"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de vista (diretor não identificado na legenda); deliberação suspensa",
+   "resumo_voto": "Sustentação oral de Camila Fernanda (CELSE). Procuradoria opina pela possibilidade de deferimento. Relator vota por reconhecer excludente de 97 dias (greve dos caminhoneiros e dos auditores da Receita, 26/06 a 01/10/2018), postergar a operação em teste mantendo a operação comercial, autorizar aditamento do CUST e declarar perda de objeto da cautelar. Em votação, um diretor acompanhou, outro votou com o relator e um terceiro pediu vista para examinar o nexo de causalidade.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:55:00",
+     "justificativa": "Greves extraordinárias e fora do controle do empreendedor configuram excludente; não houve investimento na rede básica; evitar pagamento em duplicidade (CUST consumo e geração); incentivar a diligência do agente.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:12:40",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "2:12:42",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "2:12:48",
+     "justificativa": "Quer explorar a questão da excludente e do nexo de causalidade no caso concreto.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:13:39",
+   "processo": "48500.004004/2014-66",
+   "interessado": "agentes de PCH; Abragel (sustentação oral de Charles Lenzi)",
+   "assunto": "Abertura de audiência pública para revisão da REN 673/2015 (outorga de autorização de PCH) e respectiva AIR",
+   "tema": [
+    "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)",
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade: audiência pública com contribuições de 11/04 a 12/06/2019 e sessão presencial em 22/05/2019 em Brasília",
+   "resumo_voto": "Relator propõe abrir AP para revisar o processo de outorga de PCH, incluindo prazos de apresentação de documentação. Debate sobre ampliar sessões presenciais e induzir investimentos.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "3:01:10",
+     "justificativa": "Revisão da REN 673 para aprimorar o processo de outorga de PCH.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:01:15",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:01:20",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:01:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:01:30",
+     "justificativa": "Cadeia de PCH é de domínio nacional; passo regulatório contribui para investimentos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:02:20",
+   "processo": "48500.002712/2016-24",
+   "interessado": "Associação Brasileira de Geração de Energia Limpa (Abragel)",
+   "assunto": "Requerimento administrativo para suspensão da exigibilidade do prazo do art. 14 das REN 412/2010 e 673/2015 (PCH)",
+   "tema": [
+    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "pedido de vista (aparentemente do diretor Sandoval Feitosa); deliberação suspensa",
+   "resumo_voto": "Relator vota por deferir parcialmente, suspendendo cautelarmente desde 14/09/2016 até a aprovação da revisão da REN 673 a exigibilidade dos prazos do art. 14, e remeter os demais pleitos ao processo 48500.004004/2014. Debate sobre alcance da suspensão (quem estava adimplente no prazo de 60 dias). Dois votos com o relator e pedido de vista.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova (deferimento parcial)",
+     "ts": "3:30:00",
+     "justificativa": "Suspensão cautelar evita revogações automáticas e dá segurança a investidores até a nova norma.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:32:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator",
+     "ts": "3:32:28",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "3:32:31",
+     "justificativa": "Debateu o alcance da suspensão para processos não julgados em definitivo.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2",
+   "motivo": "retirado da pauta"
+  },
+  {
+   "id": "11",
+   "motivo": "retirado da pauta"
+  },
+  {
+   "id": "21",
+   "motivo": "retirado do bloco"
+  },
+  {
+   "id": "26",
+   "motivo": "retirado do bloco"
+  }
+ ],
+ "limites_da_analise": [
+  "Transcrição só tem um marcador de tempo; ts obtidos do JSON da legenda, aproximados para votos de acompanhamento.",
+  "Falas de voto «acompanho» sem nome na legenda; votos atribuídos como «não identificado» quando a ordem não permitiu identificar.",
+  "Composição de 2019 (Pepitone, Sandoval, Elisa Bastos, Efrain Cruz, Rodrigo Limp) inferida; não está claro se Limp já estava presente no bloco e no item 7 (não registrado voto dele nesses itens).",
+  "Item 10: diretor que pediu vista não identificado na legenda.",
+  "Item 9: atribuição da vista a Sandoval Feitosa baseada em trecho truncado («processo tão vista do diretor sandoval»), confiança baixa.",
+  "Números de processo podem estar errados (legenda automática)."
+ ]
+}

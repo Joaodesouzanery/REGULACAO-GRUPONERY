@@ -1,0 +1,246 @@
+{
+ "meta": {
+  "video_id": "MBenaLtREaE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "10ª Reunião Pública Ordinária de 2020 (Parte 2, tarde)",
+  "data": "2020-03-31",
+  "formato": "videoconferência (remota, Covid-19)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos",
+   "Júlio César Rezende Ferraz"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 10ª RPO; itens 12, 16, 17 e 11 da pauta; todos unânimes.",
+   "No item 16 um diretor declarou-se impedido por ter lavrado o AI quando superintendente da SFE (inferido Elisa Bastos)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "12",
+   "ts": "0:01:47",
+   "processo": "48500.001841/2020-81",
+   "interessado": "Setor elétrico / consumidores (sustentações: MAB - Movimento dos Atingidos por Barragens, Tina Maze; AESEL/Coletivo Nacional dos Eletricitários, Ícaro Souza)",
+   "assunto": "Ratificação da decisão da 3ª Reunião Pública Extraordinária sobre medidas de preservação do setor elétrico em face da Covid-19 (suspensão de cortes de consumidores residenciais e serviços essenciais)",
+   "tema": [
+    "institucional/Covid-19",
+    "tarifas e revisão tarifária",
+    "tarifa social / baixa renda",
+    "CDE e encargos setoriais",
+    "regulação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "ratificada por unanimidade",
+   "resumo_voto": "Sustentações orais pediram isenção total da tarifa social por 4 meses, inclusão automática do CadÚnico, desconto até 330 kWh e parcelamento em 36 meses. Relator: isenção depende de lei e fonte de recursos (PL 943/2020, uso de P&D); agência não dispõe do orçamento federal; quem puder pagar deve pagar. Diretores citam negociação no governo para subsidiar a parte paga do baixa renda (~R$ 350 milhões/mês) por 90 dias e defendem diálogo com estados sobre ICMS. Resolução ratificada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (ratificação)",
+     "ts": "0:19:25",
+     "justificativa": "Isenção total não está na alçada da agência; depende de lei e fonte (CDE/P&D); suspensão de cortes foi a medida equilibrada; quem puder pagar, pague.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:51",
+     "justificativa": "Ordem dos votos não identificada pela legenda; um diretor (provavelmente Efrain Cruz) defendeu uso dos recursos de P&D sem pressão tarifária e redução de ICMS, e votou por ratificar.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:53",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:46:58",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:47:03",
+     "justificativa": "Agência apoia o pleito e levou ao governo federal; necessidade de os estados isentarem ICMS do baixa renda.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:47:33",
+   "processo": "48500.002625/2020-96 (legenda; número citado depois como 48500.002005/2015-96)",
+   "interessado": "Eletropaulo / Enel Distribuição São Paulo (sustentação oral: Yuri Oliveira)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 63/2017 da SFE (indicadores DEC/FEC, compensações DIC/FIC, expurgos indevidos por situação de emergência e dia crítico, ano 2012)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "qualidade do fornecimento (DEC/FEC)",
+    "distribuidoras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "recurso conhecido e não provido, por unanimidade dos votantes (um diretor impedido); multa de R$ 21,67 milhões mantida",
+   "resumo_voto": "Empresa pediu aplicação retroativa da REN 664 sobre situação de emergência e prazo de 180 dias para recálculo. Procuradoria e SFE (apresentação técnica de Thompson): vale a norma vigente à época (tempus regit actum). Relator mantém multa e determinação de recálculo das compensações com correção monetária em 45 dias.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:10:37",
+     "justificativa": "Norma da época rege o caso; mantém multa de R$ 21.674.425,45 e recálculo das compensações em 45 dias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:11:47",
+     "justificativa": "Sem justificativa; atribuição pela ordem, incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:11:52",
+     "justificativa": "Sem justificativa; atribuição pela ordem, incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "suspeito/impedido",
+     "ts": "1:12:03",
+     "justificativa": "Declara-se impedida: lavrou o AI 63/2017 quando era superintendente da SFE (identidade inferida, não dita na legenda).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:12:19",
+     "justificativa": "Proclama unanimidade dos votantes.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:13:11",
+   "processo": "48500.005029/2018-19",
+   "interessado": "ISA CTEEP - Companhia de Transmissão de Energia Elétrica Paulista (sustentação oral: Yuri Tasso / Rafael)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 21/2019 da SFE (perturbações nas subestações Milton Fornasaro e Xavantes em 2017)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "recurso conhecido e não provido, por unanimidade dos votantes; multa de R$ 6,22 milhões mantida",
+   "resumo_voto": "CTEEP pediu retirada de pauta e aplicação da REN 846/2019 (mais benéfica), além de redução da dosimetria por razoabilidade. Procuradoria: no direito administrativo sancionador vale tempus regit actum (Parecer 14/2020). SFE justificou gravidade (corte de ~750 MW). Relatora negou retirada de pauta e manteve integralmente as multas.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:37:46",
+     "justificativa": "REN 846 não retroage em matéria material; acompanha SFE; nega retirada de pauta; mantém multa de R$ 6.222.740,62.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:42",
+     "justificativa": "Tema assentado no colegiado; parecer da Procuradoria dá conforto (atribuição inferida pela fala que cita discussões com a doutora Elisa e o dr. André).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:39:45",
+     "justificativa": "Sem justificativa; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator",
+     "ts": "1:39:50",
+     "justificativa": "Sem justificativa; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:39:54",
+     "justificativa": "Proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:40:37",
+   "processo": "48500.002710/2016-35",
+   "interessado": "Petrobras",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra a REN 870/2020 (recontabilização das regras de comercialização: disponibilidade máxima contratual ajustada CCEAR 2014-2016, débito ~R$ 126 milhões)",
+   "tema": [
+    "comercialização (CCEE, contratos)",
+    "recursos administrativos",
+    "regulação normativa"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Petrobras alegou falta de consulta pública, falta de provisão e prescrição trienal. Relator: método já passou pela AP 84/2015; REN 870 não é ato normativo geral; prescrição quinquenal interrompida pela REN 719/2016; parcelamento pode ser pedido à CCEE. Primeiro relato do diretor Júlio no colegiado.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, aprova (nega provimento)",
+     "ts": "1:52:28",
+     "justificativa": "Matéria já submetida à AP 84; prescrição quinquenal interrompida em 2016; débito não compromete a geração.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:53:00",
+     "justificativa": "Mesa chama a diretora Elisa.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:53:04",
+     "justificativa": "Sem justificativa; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:53:08",
+     "justificativa": "Sem justificativa; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:53:14",
+     "justificativa": "Proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Composição presumida (Pepitone, Sandoval, Efrain, Elisa, Júlio) a partir de citações e contagem de votos; não há chamada nominal na legenda.",
+  "Ordem dos votos dos não-relatores não identificada; atribuições com confiança baixa.",
+  "Identidade do diretor impedido no item 16 inferida (ex-superintendente da SFE).",
+  "Números de processo e valores vêm da legenda automática e podem estar errados (ex.: item 16 citado com dois números diferentes).",
+  "Nomes dos oradores (Tina Maze/Mazzo, Ícaro Souza, Yuri Oliveira, Yuri Tasso) incertos."
+ ]
+}

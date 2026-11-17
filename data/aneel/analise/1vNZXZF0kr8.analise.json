@@ -1,0 +1,670 @@
+{
+ "meta": {
+  "video_id": "1vNZXZF0kr8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "46",
+  "data": "2020-12-08",
+  "formato": "híbrido (presencial e videoconferência)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 46ª Reunião Pública Ordinária de 2020.",
+   "Elisa Bastos com presença intermitente (problemas de conexão; ausente no item 18); por isso várias proclamações dizem 'por unanimidade dos votantes'.",
+   "Item 20 (São Martinho, UTE Boa Vista): decidido por maioria, vencido o Diretor-Geral André Pepitone.",
+   "Retirados de pauta: itens 1, 12, 21, 25, 26 e 33; item 19 retirado pelo relator Efrain Cruz no fim."
+  ]
+ },
+ "itens": [
+  {
+   "id": "7",
+   "ts": "0:00:20",
+   "processo": "48500.003311/2017-38",
+   "interessado": "ONS (Operador Nacional do Sistema Elétrico); sustentação oral de Tatiane Pestana (ONS)",
+   "assunto": "Resultado da Consulta Pública 28/2020: nova estrutura dos Procedimentos de Rede e aprimoramento do rito de aprovação e revisão (de 24 para 9 módulos)",
+   "tema": [
+    "regulação normativa (resolução, consulta pública)",
+    "transmissão",
+    "operação do sistema (ONS)",
+    "simplificação regulatória"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN que reestrutura e revisa (2020.12) todos os módulos dos Procedimentos de Rede e estabelece critérios para alterações futuras; determina que as áreas de regulação, sob coordenação da SRT, apresentem em 90 dias proposta para reduzir a defasagem entre ato normativo e nova versão dos submódulos.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:31:06",
+     "confianca": "alta",
+     "justificativa": "simplificação: de 24 módulos/145 submódulos para 9/97; delegação às superintendências e ao ONS de documentos procedimentais/operacionais"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:43:45",
+     "confianca": "media",
+     "justificativa": "comentou que simplificar procedimentos atrai investimento"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "0:43:45",
+     "confianca": "media",
+     "justificativa": "comentou desburocratização e indução de investimentos"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:43:11",
+     "confianca": "alta",
+     "justificativa": "negou votar em bloco com o item 10 por respeito ao Regimento"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:44:45",
+   "processo": "48500.002732/2020-92",
+   "interessado": "Distribuidoras (Abradee, Enel, Energisa citadas); sustentação oral de Gilmar José de Souza (UNICA)",
+   "assunto": "Resultado da Consulta Pública 37/2020: aprimoramento dos mecanismos de gestão contratual de energia das distribuidoras (MCSD, MVE) para mitigar impacto da pandemia",
+   "tema": [
+    "comercialização (MCSD, MVE, sobrecontratação)",
+    "distribuição",
+    "covid-19",
+    "regulação normativa (resolução, consulta pública)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN com novo cronograma de mecanismos de gestão da contratação e consolidação das normas; CCEE envia novas regras até 31/03/2021; amplia para 30% em 2021 o limite do MVE (REN 824/2018); abre 2ª fase da CP 37/2020 (até 29/01/2021) sobre exclusão do MCSD A-0 e critério de máximo esforço. Não regulamenta modulação de pagamentos; geradores em operação comercial não podem participar (modicidade tarifária).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "1:13:43",
+     "confianca": "alta",
+     "justificativa": "proposta de segunda fase para os pontos de divergência (MCSD A-0 e máximo esforço)"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:22:06",
+     "confianca": "media",
+     "justificativa": "elogiou a segunda fase e a desburocratização"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:22:06",
+     "confianca": "media",
+     "justificativa": "sugeriu reflexão sobre o excesso (mais de 30) de mecanismos de descontratação com a CCEE"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:22:06",
+     "confianca": "alta",
+     "justificativa": "concordou com a reflexão sobre a efetividade dos mecanismos e a sobrecontratação"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:23:41",
+   "processo": "48500.000890/2019-63",
+   "interessado": "SRT; Abrate (reunião sobre erros materiais)",
+   "assunto": "Resultado da Consulta Pública 63/2020: estrutura das Regras dos Serviços de Transmissão, Módulo 1 (Glossário) e Módulo 3 (Instalações e Equipamentos)",
+   "tema": [
+    "transmissão",
+    "regulação normativa (resolução, consulta pública)",
+    "consolidação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REN com as Regras de Transmissão (estrutura modular), Módulo 1 e Módulo 3, consolidando e revogando resoluções integralmente consolidadas.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:42:04",
+     "confianca": "alta",
+     "justificativa": "consolidação modular a exemplo de Proret e Prodist; simplificação"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:42:35",
+     "confianca": "media",
+     "justificativa": "reafirmou a importância da simplificação"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:43:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:43:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:43:38",
+   "processo": "48500.004611/2020-74",
+   "interessado": "SRT",
+   "assunto": "Resultado da Consulta Pública 64/2020: revisão do Módulo 1 (Glossário) e aprovação do Módulo 4 (Prestação do Serviço de Transmissão) das Regras de Transmissão",
+   "tema": [
+    "transmissão",
+    "regulação normativa (resolução, consulta pública)",
+    "consolidação normativa"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado (proclamação sem menção expressa a unanimidade; Elisa Bastos com problema de conexão)",
+   "resumo_voto": "Aprova REN do Módulo 4 (capacidade operativa, manutenção, parcela variável) e revisão do glossário; revoga resoluções consolidadas.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:56:12",
+     "confianca": "alta",
+     "justificativa": "sequência da consolidação das normas de transmissão, cumprindo a agenda regulatória"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:56:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:56:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:57:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:57:45",
+   "processo": "48500.004786/2020-81",
+   "interessado": "ANEEL (institucional)",
+   "assunto": "Aprovação da Agenda Regulatória 2021-2022 após a Audiência Pública 10/2020",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "institucional"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Edição de portaria aprovando a Agenda Regulatória 2021-2022 (132 atividades, 41 prioritárias; 2021 determinativo, 2022 indicativo), incluindo ação sobre ocorrências graves após o apagão do Amapá.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "relator, aprova",
+     "ts": "2:11:58",
+     "confianca": "alta",
+     "justificativa": "transparência e previsibilidade; agenda desafiadora (38 AIRs em 2021)"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:15:37",
+     "confianca": "media",
+     "justificativa": "destacou o desafio para as áreas técnicas"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:15:37",
+     "confianca": "media",
+     "justificativa": "elogiou a ferramenta de planejamento"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:15:37",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:16:09",
+   "processo": "48500.003267/2020-04",
+   "interessado": "Distribuidoras da Amazônia Legal (Equatorial Pará, Energisa Acre, Energisa Rondônia, Roraima Energia)",
+   "assunto": "Abertura de consulta pública sobre a regulamentação do Decreto 10.221/2020 (Programa Mais Luz para a Amazônia)",
+   "tema": [
+    "universalização",
+    "distribuição",
+    "regulação normativa (consulta pública)",
+    "sistemas isolados"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaura CP de 10/12/2020 a 01/02/2021 sobre minutas de REN e REH: metas iniciais declaradas pelas distribuidoras, fiscalização pela metodologia da REN 223/2003, gratuidade de aumento de carga até 80 kWh, custos de O&M pela REN 801/2017; AIR dispensada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:41:38",
+     "confianca": "alta",
+     "justificativa": "acesso à energia como cidadania em regiões remotas"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:42:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:42:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:42:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:42:40",
+   "processo": "48500.005794/2017-40",
+   "interessado": "Programa de P&D regulado pela ANEEL (SPE)",
+   "assunto": "Abertura de consulta pública sobre AIR de incorporação do conceito de inovação e outras medidas ao programa de P&D regulado",
+   "tema": [
+    "P&D e eficiência energética",
+    "inovação",
+    "regulação normativa (AIR, consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado (proclamação sem menção expressa a unanimidade)",
+   "resumo_voto": "Instaura CP por formulário eletrônico de 10/12/2020 a 22/02/2021, com audiência virtual em 04/02/2021, sobre AIR que recomenda o modelo E3P (estratégia, portfólio, programas e projetos).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:16:47",
+     "confianca": "alta",
+     "justificativa": "programa de P&D gera pouca inovação aplicada; consumidor financia e precisa de resultados concretos"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "3:29:23",
+     "confianca": "baixa",
+     "justificativa": "propôs aprimorar acompanhamento e fiscalização, envolvendo a SFF"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:29:23",
+     "confianca": "baixa",
+     "justificativa": "disse desconhecer o modelo Embrapii e que vai estudá-lo"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:29:23",
+     "confianca": "media",
+     "justificativa": "governança dos recursos de P&D represados (MP 998)"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "3:29:54",
+   "processo": "48500.001674/2016-92",
+   "interessado": "ONS (Operador Nacional do Sistema Elétrico)",
+   "assunto": "Recurso do ONS contra o Despacho 505/2019 da SFF que não aprovou R$ 2,7 milhões da prestação de contas do ciclo orçamentário 2013/2014 (benefícios de diretores e fundo de reserva de condomínio)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização econômico-financeira",
+    "ONS"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes (recurso conhecido e não provido)",
+   "resumo_voto": "Nega provimento; valor corrigido coberto por contribuição associativa extraordinária no orçamento do ONS para jan/2022-dez/2024. Benefícios de diretores sem fixação pela assembleia geral e fundo de reserva condominial (encargo do locador) mantidos glosados.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, nega provimento",
+     "ts": "3:36:07",
+     "confianca": "alta",
+     "justificativa": "ONS não trouxe fato novo; diretores não podem se beneficiar de ACTs que aprovam; fundo de reserva é despesa extraordinária do locador"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora",
+     "ts": "3:59:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:59:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "3:59:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "4:00:14",
+   "processo": "48500.003785/2010",
+   "interessado": "ArcelorMittal Brasil S.A. (PCH Rio Piracicaba, João Monlevade-MG)",
+   "assunto": "Recurso contra o Auto de Infração 19/2020-SFG: multa de R$ 24.401,53 por descumprimento de obrigações de segurança de barragem",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "segurança de barragens",
+    "outorgas de geração (PCH)",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (recurso negado)",
+   "resumo_voto": "Conhece e nega provimento; aplica-se a norma material vigente à época (REN 63/2004, tempus regit actum); anomalias de nível 2 e 3 não tratadas desde 2016. Sugestão de súmula à Procuradoria sobre a não aplicação da norma mais benéfica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "4:12:13",
+     "confianca": "alta",
+     "justificativa": "atitude protelatória da interessada; anomalias de risco não tratadas"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "4:13:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:13:49",
+     "confianca": "baixa",
+     "justificativa": "perguntou se a recomendação de súmula entraria no voto"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:14:21",
+     "confianca": "media",
+     "justificativa": "propôs que a Procuradoria elabore súmula sobre o tema recorrente"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "4:14:53",
+   "processo": "48500.002215/2019-79",
+   "interessado": "Fundação Governador Flávio Ribeiro Coutinho (consumidor); Energisa Paraíba",
+   "assunto": "Recurso contra o Despacho 1.655/2020 da SMA sobre fornecimento de dados de memória de massa pela Energisa Paraíba",
+   "tema": [
+    "recursos administrativos",
+    "distribuição (medição e faturamento)",
+    "consumidor"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes (recurso negado); Elisa Bastos ausente no momento",
+   "resumo_voto": "Nega provimento: dados de memória de massa só existem a partir de dez/2016 (telemetria); sem obrigação de formato PDF; afastada restituição por falta de indício de falha do medidor.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento",
+     "ts": "4:27:23",
+     "confianca": "alta",
+     "justificativa": "não houve recusa da distribuidora; a informação não existia antes de dez/2016"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "4:28:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "4:28:28",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:29:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "4:29:31",
+   "processo": "48500.004990/2000",
+   "interessado": "São Martinho S.A. (UTE Boa Vista, 80 MW, Quirinópolis-GO); sustentação oral de Rafael (representante da São Martinho)",
+   "assunto": "Pedido de reconsideração contra o Despacho 691/2020 que negou alteração de características técnicas da UTE Boa Vista (segregação de uma unidade geradora e redução para 40 MW)",
+   "tema": [
+    "outorgas de geração (térmica a biomassa)",
+    "alteração de características técnicas",
+    "leilões (vinculação ao edital)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por maioria (pedido provido), vencido o Diretor-Geral André Pepitone",
+   "resumo_voto": "Conhece e dá provimento, autorizando a alteração das características técnicas; vantajosidade: contratos mantidos, receita fixa reduzida na proporção da garantia física, sem custos adicionais ao sistema nem alteração da classificação nos leilões; precedentes (Biopav, Chapadão, Decasa) e editais posteriores sem a restrição. Procuradoria tinha divergência interna (parecerista favorável; procurador-geral contrário).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, dá provimento",
+     "ts": "4:57:44",
+     "confianca": "alta",
+     "justificativa": "vinculação ao edital já relativizada quando há vantajosidade ao consumidor; o que mudou foi a opinião da Procuradoria, não os fatos"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "5:12:51",
+     "confianca": "media",
+     "justificativa": "como ex-superintendente da SCG no caso Biopav, vê semelhança; restrição ligada à energia comercializada, não à potência"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "5:12:51",
+     "confianca": "media",
+     "justificativa": "benefício ao consumidor e regulamento de alteração de características técnicas não é pétreo"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "vencido: nega provimento",
+     "ts": "5:13:25",
+     "confianca": "alta",
+     "justificativa": "precedentes Biopav e Chapadão não servem de jurisprudência; prevalece a vinculação ao edital e a segurança jurídica, com SCG e Procuradoria contrárias; pediu registro em ata"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "5:15:02",
+   "processo": "48500.000422/2011-53",
+   "interessado": "Rialma Companhia Energética 4 S.A. (PCH Santo Antônio do Caiapó, GO)",
+   "assunto": "Recomposição do prazo da outorga da PCH Santo Antônio do Caiapó e pedido de extensão de 30 para 35 anos",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "excludente de responsabilidade (Lei 13.360/2016)",
+    "licenciamento ambiental"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indefere a extensão para 35 anos (ilegal para outorgas anteriores à REN 673/2015) e estende o termo final em 1.452 dias (até 13/04/2038) pelo TAC que suspendeu licenciamentos e pelo embargo judicial; sem nexo quanto à aprovação do projeto básico.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova parcialmente o pleito",
+     "ts": "5:32:53",
+     "confianca": "alta",
+     "justificativa": "excludente de responsabilidade reconhecida pelo TAC do MP; limitada ao atraso efetivo de 1.452 dias"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "5:33:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "5:33:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "5:33:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "5:33:57",
+   "processo": "48500.005660/2020-24",
+   "interessado": "Eletrobras; sustentação oral de Lucas Baggio e Guilherme Coelho (Abragel)",
+   "assunto": "Cotas de custeio e de energia do Proinfa para 2021",
+   "tema": [
+    "CDE e encargos setoriais (Proinfa)",
+    "fiscalização",
+    "tarifas"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova REH com cotas do Proinfa 2021 (custo cerca de R$ 4,04 bilhões; alta de cerca de 20%); por sugestão de André Pepitone, determina que a SFF fiscalize a Eletrobras quanto ao prazo do item 5 do submódulo 5.3 do Proret (PAP entregue com atraso). Pleitos da Abragel (prêmio de risco hidrológico e restituição CNPE 3/2013) não impedem a aprovação.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (acatou a determinação de fiscalização)",
+     "ts": "6:02:05",
+     "confianca": "alta",
+     "justificativa": "problema de faturamento do prêmio de risco deve ser tratado em outro processo; ANEEL não é parte da ação judicial"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "6:05:15",
+     "confianca": "media",
+     "justificativa": "apoiou a fiscalização, citando o caso da conta-covid"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:05:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:05:15",
+     "confianca": "alta",
+     "justificativa": "propôs trocar avaliação por determinação de fiscalização da SFF"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "6:05:47",
+   "processo": "48500.005470/2018-92",
+   "interessado": "ONS; transmissoras e usuários da rede básica",
+   "assunto": "Abertura de consulta pública sobre AIR para aprimorar a liquidação financeira dos encargos de uso do sistema de transmissão",
+   "tema": [
+    "transmissão (encargos de uso)",
+    "regulação normativa (AIR, consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Instaura CP por intercâmbio documental de 10/12/2020 a 25/01/2021; AIR aponta como preferencial a plataforma digital de suporte à liquidação (alternativa 2).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "6:16:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "6:17:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "6:17:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "6:17:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "6:17:50",
+   "processo": "48500.00...",
+   "interessado": "não identificado",
+   "assunto": "Último item da pauta, retirado pelo relator Efrain Cruz para ajuste (decisão do TRE/TCU citada de forma ininteligível)",
+   "tema": [
+    "retirado de pauta"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado de pauta pelo relator no fim do vídeo.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  "1",
+  "12",
+  "21",
+  "25",
+  "26",
+  "33",
+  "19"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados (ex.: processos dos itens 16, 20 e 24 incompletos).",
+  "O cabeçalho do .md inferiu falantes da diretoria atual (Gentil Nogueira, Ricardo Tili); em dez/2020 a diretoria era André Pepitone, Sandoval Feitosa, Hélvio Guerra, Efrain Cruz e Elisa Bastos.",
+  "Falas 'acompanho' raramente têm nome; atribuição por ordem usual e pela proclamação, com confiança baixa/media. Não foi possível determinar em cada item qual diretor estava ausente quando a proclamação diz 'unanimidade dos votantes' (provavelmente Elisa Bastos, por conexão); nesses itens os votos listados podem não fechar com os presentes.",
+  "Item 15: ouviram-se 3 adesões; atribuí Elisa Bastos e Hélvio Guerra (falaram na discussão); voto de Efrain Cruz não identificado.",
+  "Item 17: voto de Efrain Cruz não identificado (3 adesões ouvidas).",
+  "Item 20: no item da maioria, não está claro se Elisa Bastos votou.",
+  "Os itens 2 a 6 e outros foram deliberados na Parte 1 (outro vídeo)."
+ ]
+}

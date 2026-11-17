@@ -1,0 +1,52 @@
+{
+  "meta": {"video_id": "Tpt2zAfCLh4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 1, manhã); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "41ª Reunião Pública Ordinária de 2020 (Parte 1)", "data": "2020-11-03", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral); ao final da manhã a presidência passou a outro diretor por ausência do DG",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Cristiano Vieira (diretor substituto, fora da lista do config)"],
+    "ausentes": ["Elisa Bastos (férias, provável: legenda diz 'a diretora ... encontra-se em férias')"],
+    "observacoes": ["Quórum de quatro diretores declarado na abertura.", "Pauta com 36 itens; itens 12 a 36 em bloco, aprovado por todos. Itens 1 e 2 retirados de pauta (pedido do texto da pauta). Pedidos de destaque sem sustentação oral foram indeferidos.", "Aprovação da ata da 9ª extraordinária retirada para correção (voto vencedor do item 3 não reproduzido fielmente).", "Itens 6 e 7 adiados para a tarde a pedido do relator; item 8 retirado de pauta pelo relator Efrain Cruz após objeção de Sandoval Feitosa; item 9 (MCSD, comercializadoras) com sustentações orais iniciado e não concluído: sessão suspensa às 3:19:54 para retomada às 14h30 (Parte 2)."]
+  },
+  "itens": [
+    {"id": "bloco", "ts": "0:10:50", "processo": "itens 12 a 36", "interessado": "diversos", "assunto": "Bloco de itens 12 a 36 da 41ª Reunião Pública Ordinária", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
+     "resumo_voto": "Itens do bloco aprovados em votação simbólica.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:11:00", "confianca": "media"},
+      {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:11:03", "confianca": "media"},
+      {"diretor": "Cristiano Vieira", "voto": "aprova o bloco", "ts": "0:11:05", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "aprova o bloco e proclama", "ts": "0:11:09", "confianca": "alta"}]},
+    {"id": "3", "ts": "0:11:21", "processo": "48500.000598/2019-41", "interessado": "distribuidoras de energia (SRM)", "assunto": "Abertura de consulta pública (intercâmbio documental, duas etapas) para revisão da metodologia de custos operacionais regulatórios e receitas irrecuperáveis, submódulos 2.2 e 2.2A do PRORET", "tema": ["tarifas e revisão tarifária", "regulação normativa", "distribuição"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+     "resumo_voto": "Mantém DEA com retornos não decrescentes de escala; propõe monetizar qualidade e perdas no insumo, incluir condenações trabalhistas no insumo só para comparação, descartar segundo estágio, manter bootstrap, eficiência de referência de 79% para 83,33%, revisão metodológica a cada 4 anos. 1ª etapa 4/11 a 21/12/2020; 2ª etapa estendida até 25/01/2021 por sugestão do DG.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:04:27", "justificativa": "custos operacionais das distribuidoras cresceram bem menos que mercado e consumidores; metodologia de benchmark gerou ganhos ao consumidor e deve ser aprimorada com participação social", "confianca": "alta"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:08:10", "justificativa": "elogio; destaca assimetria de informação tratada por métodos econométricos", "confianca": "baixa"},
+      {"diretor": "Cristiano Vieira", "voto": "acompanha o relator", "ts": "1:08:15", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "1:08:22", "justificativa": "tema central do modelo das distribuidoras (≈60% da parcela B); sugeriu prorrogar a 2ª etapa até 25/01", "confianca": "media"}]},
+    {"id": "4", "ts": "1:09:38", "processo": "48500.001890/2019-63", "interessado": "transmissoras (SRT)", "assunto": "Consolidação da regulamentação da transmissão: estrutura das Regras dos Serviços de Transmissão, módulo 1 (glossário) e módulo 3 (instalações e equipamentos)", "tema": ["transmissão", "regulação normativa"], "relator": "Sandoval Feitosa", "resultado": "aprovado com ajuste: em vez de audiência pública, consulta pública de 4 a 18/11/2020",
+     "resumo_voto": "Proposta original de audiência pública (sem AIR nem CP por ser só consolidação sem mérito); após debate com Cristiano Vieira, que defendeu consulta pública pelo risco de mudança involuntária de conteúdo ao reescrever as normas, o relator ajustou para consulta pública de 15 dias.",
+     "votos": [
+      {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (ajustado para consulta pública)", "ts": "1:58:30", "justificativa": "consolidação sem alteração de mérito; aceitou CP por transparência", "confianca": "alta"},
+      {"diretor": "Cristiano Vieira", "voto": "acompanha o relator", "ts": "1:59:05", "justificativa": "defendeu consulta pública: reescrever artigos em nova estrutura pode mudar o conteúdo normativo sem querer", "confianca": "baixa"},
+      {"diretor": "Efrain Cruz", "voto": "acompanha o relator com ressalvas", "ts": "1:59:10", "justificativa": "falante não identificado com certeza: 'com todas as ressalvas que aqui já expus'", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "1:59:15", "confianca": "media"}]},
+    {"id": "5", "ts": "1:59:48", "processo": "48500.004611/2020-74", "interessado": "transmissoras (SRT)", "assunto": "Consolidação da regulamentação da transmissão: módulo 4 (prestação do serviço de transmissão) e revisão do glossário", "tema": ["transmissão", "regulação normativa"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade: consulta pública de 4 a 18/11/2020",
+     "resumo_voto": "Pelo mesmo debate do item 4, relator converteu a audiência em consulta pública com as mesmas datas.",
+     "votos": [
+      {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "2:09:30", "justificativa": "consolidação sem mérito; mesma solução do item anterior", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:09:45", "confianca": "baixa"},
+      {"diretor": "Cristiano Vieira", "voto": "acompanha o relator", "ts": "2:09:48", "confianca": "baixa"},
+      {"diretor": "André Pepitone", "voto": "acompanha o relator e proclama", "ts": "2:09:52", "confianca": "media"}]},
+    {"id": "8", "ts": "2:10:30", "processo": "48500.005084/2019-03 e outros (legenda confusa)", "interessado": "Paranaíta(?) do Norte Transmissora e Chimarrão Transmissora (recorrentes)", "assunto": "Recursos administrativos contra despacho da SCT que fixou ressarcimento dos relatórios R2, R3 e R4 (Rio Grande do Sul, região metropolitana de Porto Alegre) para o leilão de transmissão 1/2020; interpretação da REN 594/2013", "tema": ["transmissão", "leilões", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "retirado de pauta pelo relator",
+     "resumo_voto": "Relator propunha acolher recurso e voltar à interpretação vigente até 2018 (ressarcimento individualizado). Sandoval Feitosa, relator da revisão da REN 594 (CP 46/2020), disse que não acompanharia por antecipar conclusões da CP; relator retirou para ajustar o voto.",
+     "votos": [
+      {"diretor": "Efrain Cruz", "voto": "relator; retirou de pauta para ajustar o voto", "ts": "2:56:34", "justificativa": "coerência: relatórios deslocados para 2021 ressarcidos na mesma régua; não antecipa a revisão da 594", "confianca": "alta"},
+      {"diretor": "Sandoval Feitosa", "voto": "manifestou que não acompanharia (antes da retirada)", "ts": "2:48:04", "justificativa": "voto antecipa conclusões da revisão da REN 594 em CP 46/2020; sugeriu julgar após a revisão", "confianca": "media"},
+      {"diretor": "Cristiano Vieira", "voto": "não votou (retirado)", "ts": "2:47:27", "justificativa": "sem áudio no momento da votação", "confianca": "media"},
+      {"diretor": "André Pepitone", "voto": "não votou (retirado)", "ts": "2:56:40", "confianca": "media"}]},
+    {"id": "9", "ts": "2:57:15", "processo": "48500.002483/2020-24 (legenda incerta)", "interessado": "Capitale, Comerc, Matrix, Máxima e outras comercializadoras", "assunto": "Requerimento administrativo com pedido de cautelar para alterar efeitos das contabilizações do MCSD de energia existente (módulo 8.1 dos Procedimentos de Comercialização, Decreto 5.163/2004)", "tema": ["comercialização", "recursos administrativos"], "relator": "Efrain Cruz", "resultado": "não concluído nesta parte: sessão suspensa após sustentações orais (continua na Parte 2)",
+     "resumo_voto": "Sustentações orais de advogado do escritório Demarest e de Rafael Gomes da Silva (Capitale); Procuradoria opinou por deferimento parcial. Relator começou a comentar e suspendeu a sessão.",
+     "votos": []}
+  ],
+  "retirados": ["1", "2", "8", "ata da 9ª Reunião Extraordinária (adiada)"],
+  "limites_da_analise": ["Apenas um marcador de tempo no .md; ts obtidos do JSON da transcrição, votos de seguidores aproximados.", "Cristiano Vieira (diretor substituto em 2020) não consta da lista do config; inferido pelas menções 'Doutor Cristiano'/'diretor Cristiano'. A inferência automática de falantes (Ludimila Lima, Ricardo Tili) é anacrônica e foi descartada.", "Ausência por férias atribuída a Elisa Bastos por inferência (legenda: 'a diretora a eles').", "Item 4: ordem e autoria das falas de voto incertas; quem registrou 'ressalvas' não está claro.", "Item 12 (destacado) aparentemente teve o voto regularizado, sem deliberação clara nesta parte.", "Itens 6, 7 e 9 deliberados na Parte 2 (outro vídeo).", "Números de processo distorcidos pela legenda."]
+}

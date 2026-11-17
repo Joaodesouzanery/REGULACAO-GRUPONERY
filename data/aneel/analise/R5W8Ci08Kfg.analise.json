@@ -1,0 +1,438 @@
+{
+ "meta": {
+  "video_id": "R5W8Ci08Kfg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25ª RPO 2020",
+  "data": "2020-07-14",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Júlio César Rezende Ferraz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [
+   "Efrain Cruz"
+  ],
+  "observacoes": [
+   "Quórum de 4 diretores; Efrain Cruz ausente pelo nascimento do filho.",
+   "Pauta com 26 itens; bloco (itens 9 a 26, exceto o 11 retirado) aprovado em conjunto; itens 1 a 8 com destaque, julgados na ordem 1, 2-4, 5, 8, 6, 7.",
+   "Sustentações orais: ABRATE (itens 1 e 2), Light (item 5), Mineração Vale Verde (item 6).",
+   "No item 5 Sandoval Feitosa declarou impedimento no mérito por ter lavrado o auto de infração como superintendente.",
+   "Encerrada por volta de 12h40+."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:07:21",
+   "processo": "itens 9 a 26 da pauta (exceto item 11, retirado)",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (16 itens) aprovados em votação conjunta, sem leitura",
+   "tema": [
+    "bloco de pauta"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretoria aprovou os itens remanescentes do bloco; conteúdo dos itens não lido na sessão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:07:21",
+     "justificativa": "Votou pela aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "aprova o bloco",
+     "ts": "0:07:21",
+     "justificativa": "Votou pela aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:07:21",
+     "justificativa": "Votou pela aprovação dos itens do bloco.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:07:21",
+     "justificativa": "Votou pela aprovação dos itens do bloco.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:08:44",
+   "processo": "48500.006834/2019-32; 48500.000999/2020-34; 48500.000213/2019-45 (números da legenda, incertos)",
+   "interessado": "concessionárias de transmissão; ABRATE (sustentação oral: Tiago Aragão)",
+   "assunto": "Parcelas adicionais de RAP referentes a reforços autorizados sem receita prévia, a considerar no reajuste anual das transmissoras, ciclo 2020/2021; correção de parcelas do ciclo 2019/2020",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolução homologatória fixa RAP de 123 obras de 18 transmissoras (≈R$65 mi de investimento, RAP ≈R$10 mi); de 547 obras, só 22% aceitas pelos 5 critérios da SCT. Relator refutou a ABRATE: a ANEEL tem poder-dever de autotutela e não deve legitimar receita sem mérito só porque autorizou antes (ex.: troca de baterias é manutenção). Determinou continuidade do diálogo com agentes, rotina de fiscalização (SFF) das informações, e avaliação de normatizar os critérios; obras não enquadradas podem ter resoluções revistas no ciclo seguinte.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:47:40",
+     "justificativa": "Receita só deve ser atribuída se houver mérito à luz da regulação; erro anterior da administração não legitima receita; decisão é retratável no próximo ciclo.",
+     "confianca": "alta",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:48:18",
+     "justificativa": "Acompanha o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:48:18",
+     "justificativa": "Acompanha o relator.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:48:18",
+     "justificativa": "Acompanha o relator e proclama o resultado.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:49:16",
+   "processo": "48500.007299/2020-23 (legenda)",
+   "interessado": "concessionárias de transmissão; usuários do SIN; ABRATE (sustentação oral: Tiago Aragão)",
+   "assunto": "Estabelecimento das Receitas Anuais Permitidas (RAP) das concessionárias de transmissão, ciclo 2020/2021 (vigência a partir de 1/7/2020)",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária (TUST/TUSDg)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (votação conjunta dos itens 2, 3 e 4)",
+   "resumo_voto": "Resolução homologatória da RAP: total ≈R$34,99 bi (+26,6%, ≈R$7,35 bi), sobretudo revisões periódicas (≈R$4,19 bi, dos quais ≈R$3,3 bi pela queda das liminares da Portaria MME 120/2016) e novas instalações (≈R$2,44 bi); impacto médio ≈3,9% ao consumidor, amortecido pela Conta-Covid. Revisão de 26 contratos licitados postergada para o ciclo 2021/22 com efeito retroativo. Pleitos da ABRATE (melhorias e melhorias de pequeno porte em licitadas) e carta da ABRACE não providos; pequeno porte segue em recurso contra a REN 880.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:30:00",
+     "justificativa": "Destaca crescimento da RAP e pressão sobre o consumidor (geração com TUST estabilizada); efeito da queda das liminares absorvido pela Conta-Covid; decisão judicial se cumpre.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha o voto do relator (fala sem nome; atribuição pela ordem).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha; antes elogiou a condução e ressaltou que a ANEEL respeita contratos e políticas públicas, apesar do momento crítico da pandemia.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha os três votos e proclama; detalhou a composição do aumento de R$7,35 bi e o amortecimento pela Conta-Covid.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:49:16",
+   "processo": "48500.000852/2020-44 (legenda)",
+   "interessado": "concessionárias de transmissão; usuários do SIN",
+   "assunto": "Tarifas de uso do sistema de transmissão (TUST), TUST de Itaipu e encargos de transmissão, ciclo 2020/2021",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária (TUST/TUSDg)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (votação conjunta dos itens 2, 3 e 4)",
+   "resumo_voto": "Resolução homologatória das TUST e encargos conforme anexos da Nota Técnica 120/2020-SGT; TUST de consumo +52,24% (geração estabilizada).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:30:00",
+     "justificativa": "Destaca crescimento da RAP e pressão sobre o consumidor (geração com TUST estabilizada); efeito da queda das liminares absorvido pela Conta-Covid; decisão judicial se cumpre.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha o voto do relator (fala sem nome; atribuição pela ordem).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha; antes elogiou a condução e ressaltou que a ANEEL respeita contratos e políticas públicas, apesar do momento crítico da pandemia.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha os três votos e proclama; detalhou a composição do aumento de R$7,35 bi e o amortecimento pela Conta-Covid.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:49:16",
+   "processo": "48500.000465/2020-16 (legenda)",
+   "interessado": "concessionárias de transmissão; usuários do SIN",
+   "assunto": "TUSDg de referência para centrais geradoras conectadas em 88 e 138 kV, ciclo 2020/2021",
+   "tema": [
+    "transmissão (RAP)",
+    "tarifas e revisão tarifária (TUST/TUSDg)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (votação conjunta dos itens 2, 3 e 4)",
+   "resumo_voto": "Resolução homologatória dos valores de referência de TUSDg; substitui valores nos processos tarifários da Energisa Tocantins e Energisa Sul-Sudeste.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:30:00",
+     "justificativa": "Destaca crescimento da RAP e pressão sobre o consumidor (geração com TUST estabilizada); efeito da queda das liminares absorvido pela Conta-Covid; decisão judicial se cumpre.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha o voto do relator (fala sem nome; atribuição pela ordem).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha; antes elogiou a condução e ressaltou que a ANEEL respeita contratos e políticas públicas, apesar do momento crítico da pandemia.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:53:57",
+     "justificativa": "Acompanha os três votos e proclama; detalhou a composição do aumento de R$7,35 bi e o amortecimento pela Conta-Covid.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:55:45",
+   "processo": "48500.000088/2015-40 (legenda)",
+   "interessado": "Light Serviços de Eletricidade S.A. (sustentação oral: Ângela Magalhães)",
+   "assunto": "Recurso contra o Auto de Infração 13/2017-SFE (advertência e multa) por não conformidades na apuração dos indicadores de continuidade (DEC/FEC) e nas compensações de 2014; inclusão de unidades consumidoras cortadas no denominador",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "provimento parcial, por maioria dos votantes (Sandoval impedido no mérito); determinação aprovada por todos",
+   "resumo_voto": "Confirma o juízo de reconsideração da SFE: multa reduzida de ≈R$12,48 mi para ≈R$10,76 mi, atualizada. Unidades não faturadas (cortadas) não entram nos indicadores coletivos. Determina a SCT, SRD e SFE avaliar em 90 dias a repercussão do entendimento nos indicadores da Light, nas compensações aos consumidores e eventual aditivo ao contrato de concessão (limites de qualidade).",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, dá provimento parcial",
+     "ts": "2:21:37",
+     "justificativa": "Light interpretava incorretamente o cálculo dos indicadores (≈60% da multa); parâmetros do contrato podem precisar de correção.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido (mérito); acompanha quanto à determinação",
+     "ts": "2:26:30",
+     "justificativa": "Impedido regimentalmente por ter lavrado o AI 13/2017; discutiu e acompanhou a determinação, pedindo que abranja as indenizações/compensações aos consumidores.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:26:21",
+     "justificativa": "Proclamação inclui Elisa entre os votantes do mérito.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:26:40",
+     "justificativa": "Volta com o relator e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:28:21",
+   "processo": "48500.000391/2000-30 (legenda)",
+   "interessado": "Cooperativa de Eletrificação Centro Jacuí Ltda. (Celetro), RS",
+   "assunto": "Regularização da Celetro como permissionária de serviço público de distribuição (última das 52 cooperativas)",
+   "tema": [
+    "distribuição (cooperativas, permissões)",
+    "regulação normativa"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Enquadramento da Celetro como permissionária (art. 4º da Resolução 12/2002); parcela B teto ≈R$39,68 mi (data-base jul/2020); contrato de permissão de 30 anos. Procuradoria havia opinado pelo não conhecimento de pedido genérico da cooperativa contra a regulação.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:47:50",
+     "justificativa": "Regularização submete a cooperativa à regulação e fiscalização; melhoria de DEC/FEC das permissionárias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:00",
+     "justificativa": "Acompanha o voto do relator (fala sem nome).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:56:02",
+     "justificativa": "Também vota com o relator (fala sem nome).",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "2:56:04",
+     "justificativa": "Marco histórico do cooperativismo; sugeriu refletir sobre a redução da subvenção por baixa densidade de carga (Lei 13.360/2016) e o papel das cooperativas na modernização (recursos energéticos distribuídos).",
+     "confianca": "alta",
+     "tom": "elogioso"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:56:44",
+   "processo": "48500.001946/2020-31 (legenda)",
+   "interessado": "Mineração Vale Verde do Brasil Ltda. (MVV), projeto Serrote, AL (sustentação oral: Raimundo de Paula Batista Neto); Chesf (SE Arapiraca III)",
+   "assunto": "Recurso contra o Despacho 1.464/2020-SRT que negou excepcionalidade temporária aos requisitos de arranjo de barramento (Procedimentos de Rede, submódulo 2.3) na SE Serrote, 230 kV",
+   "tema": [
+    "transmissão (acesso à rede básica)",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César Rezende Ferraz",
+   "resultado": "negado provimento, por unanimidade",
+   "resumo_voto": "Submódulo 2.3 vigente desde jan/2017 exige barra principal e transferência evoluível para barra dupla 4 chaves; agente sabia desde a Portaria MME 54/2019; ONS confirma risco à confiabilidade futura e a novos acessos. Pedido de prazo adicional (pandemia) não acolhido.",
+   "votos": [
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "relator, nega provimento",
+     "ts": "3:17:52",
+     "justificativa": "Regra de conhecimento do agente, advertido várias vezes; não há justificativa técnica para afastá-la.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:21",
+     "justificativa": "Vota com o relator (fala sem nome; atribuição pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:18:23",
+     "justificativa": "Acompanha a proposta do diretor Júlio César (fala sem nome).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:18:26",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:19:07",
+   "processo": "48500.000028/2020-94; 48500.000088/2015; 48500.000969/2020-21 (legenda)",
+   "interessado": "Copel Distribuição e Copel Geração e Transmissão (Copel Telecom)",
+   "assunto": "Pedido de reconsideração do Despacho 1.337/2020 (cessão recíproca de fibras ópticas/swap por 20 anos e uso de torres por 30 meses, sem renovação)",
+   "tema": [
+    "institucional (compartilhamento de infraestrutura, transferência de ativos)",
+    "recursos administrativos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "provimento parcial, por unanimidade",
+   "resumo_voto": "Afasta a vedação de renovação: prorrogação dos contratos de swap depende de prévia anuência da ANEEL e adequação à regulação vigente à época; contrato de torres pode ser prorrogado uma vez por mais 30 meses (Lei 13.303/2016), depois ampla publicidade para compartilhamento.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, dá provimento parcial",
+     "ts": "3:36:00",
+     "justificativa": "Não se pode antever a avaliação daqui a 20 anos; renovação automática por acordo entre as partes não cabe, mas a vedação de imediato é desnecessária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "3:39:16",
+     "justificativa": "Elogiou a distinção entre fibras e torres; eventual renovação deve observar condições vigentes à época.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César Rezende Ferraz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:39:18",
+     "justificativa": "Acompanha a proposta da diretora Elisa (fala sem nome).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:39:25",
+     "justificativa": "Concordou com os aprimoramentos ao voto original (vedação imediata desnecessária, prorrogações dependem de anuência); acompanha e proclama.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 11 da pauta (retirado; assunto não lido)"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes incertos.",
+  "Votos de quem só diz «acompanho» sem nome foram atribuídos pela ordem usual (relator, demais, DG por último) e pela proclamação; confiança media/baixa.",
+  "Item 7: relator do despacho original citado como diretor Efrain (voto condutor), não Pepitone.",
+  "Conteúdo dos 16 itens do bloco não foi lido na sessão."
+ ]
+}

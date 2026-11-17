@@ -1,0 +1,502 @@
+{
+ "meta": {
+  "video_id": "Ii2zd26NDwA",
+  "fonte": "legenda automática do YouTube; falantes não identificados na transcrição; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "29",
+  "data": "2019-08-13",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 29ª Reunião Pública Ordinária de 2019; encerrada ao final (~3:02).",
+   "Pauta invertida: item 11 (Light) antes dos demais.",
+   "CEMIG: vista da diretora Elisa; TDG: Sandoval impedido."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:14",
+   "processo": "48500.003665/2017-17",
+   "interessado": "SRG/SCG (normativo de outorgas de geração)",
+   "assunto": "Reabertura da Audiência Pública 80/2017 (consolidação dos normativos de outorgas de empreendimentos de geração em duas normas: hidrelétricas e demais fontes), intercâmbio documental de 15/08 a 29/09/2019",
+   "tema": [
+    "regulação normativa",
+    "outorgas de geração",
+    "simplificação regulatória"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reabrir a AP 80/2017; reduz sete normas para duas sem alterar mérito; apresentação técnica do especialista Álvaro (SRG). Outros diretores elogiaram a simplificação/desburocratização.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova reabertura",
+     "ts": "0:10:31",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:12:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:13:16",
+   "processo": "48500.001559/2018-80",
+   "interessado": "CEMIG Distribuição S.A.",
+   "assunto": "Recurso administrativo contra auto de infração da SFE (multa de cerca de R$ 15,07 milhões) por expurgos indevidos de interrupções em dias críticos nos indicadores de continuidade DEC/FEC de 2017",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição/qualidade"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "pedido de vista (Elisa Bastos)",
+   "resumo_voto": "Relator vota por conhecer e negar provimento, mantendo a multa e a determinação de recalcular dias críticos e reprocessar indicadores de 2017 em 30 dias; apresentação técnica da SFE (Tom). Processo conexo de 2016 já estava com vista da diretora Elisa.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:28:00",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:30:00",
+     "justificativa": "comentou impactos sensíveis: fator X, compensações e obrigações do novo contrato de concessão",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:31:00",
+     "justificativa": "comentou que os autos foram lavrados quando era superintendente da SFE, sem tê-los lavrado; destacou padronização da dosimetria e impactos no fator X, compensações e contrato de concessão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede vista",
+     "ts": "0:33:33",
+     "justificativa": "mesa registra «vistas da diretora Elisa»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "não votou (vista)",
+     "ts": "0:33:30",
+     "justificativa": "vista pedida antes da votação",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:33:42",
+   "processo": "48500.001861/2018-38",
+   "interessado": "Transmissora Delmiro Gouveia (TDG; ATP Engenharia 51% e Chesf 49%)",
+   "assunto": "Plano de recuperação da LT 230 kV São Luís II–São Luís III (circuito duplo) como alternativa à caducidade do contrato de concessão 4/2010",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções",
+    "caducidade"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade dos votantes (Sandoval impedido)",
+   "resumo_voto": "Aprova o plano de recuperação (energização prevista set/2020), suspende a caducidade condicionada à transferência de controle para a Chesf no prazo do Despacho 1.657/2019 e determina fiscalização diferenciada pela SFE com retomada da caducidade se descumprido.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova plano de recuperação",
+     "ts": "1:06:24",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:30",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "suspeito/impedido",
+     "ts": "1:07:59",
+     "justificativa": "assinou como superintendente da SFE o termo de intimação 1004/2018; declarou-se impedido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:30",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:30",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:08:49",
+   "processo": "48500.005023/2018-31",
+   "interessado": "Light Serviços de Eletricidade S.A.; consumidor (reclamação na ouvidoria)",
+   "assunto": "Recurso contra Despacho SMA 2822/2018 que deu provimento a reclamação de consumidor sobre cobrança de débitos de terceiros na transferência de titularidade (item 11, pauta invertida)",
+   "tema": [
+    "recursos administrativos",
+    "direitos do consumidor",
+    "distribuição"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade (recurso indeferido)",
+   "resumo_voto": "Retorno de vista do diretor Efrain, que acompanha a relatora; mantém na íntegra o Despacho 2822/2018 (cancelar parcelamentos e devolver em dobro).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, conhece e nega provimento (voto lido em 15/04/2019)",
+     "ts": "1:13:30",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:50",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:50",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "voto-vista: acompanha a relatora",
+     "ts": "1:09:30",
+     "justificativa": "ressalvas à atitude do consumidor (não respondeu às intimações), mas acompanha exclusivamente pela hipossuficiência presumida do CDC; mantém Despacho 2822/2018 com devolução em dobro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:13:50",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:14:30",
+   "processo": "48500.003130/2019-16",
+   "interessado": "CCEE; agentes comercializadores importadores",
+   "assunto": "Abertura de audiência pública sobre regras de comercialização para importação de energia interruptível da Argentina e do Uruguai (Portaria MME 339/2018), de 15/08 a 29/09/2019",
+   "tema": [
+    "comercialização",
+    "regulação normativa"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar AP por intercâmbio documental; operacionalização de regras já definidas em portaria (importação com substituição de térmica e excepcionalmente sem substituição).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova abertura de AP",
+     "ts": "1:22:13",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:22:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:22:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:22:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:22:40",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:23:30",
+   "processo": "48500.004245/2012-43; 48500.000795/2001-14",
+   "interessado": "Amazonas Distribuidora de Energia; Amazonas Geração e Transmissão (Amazonas GT)",
+   "assunto": "Segundo termo aditivo ao contrato de concessão de geração 1/2010 e novo contrato para transferir a outorga da UHE Balbina da Amazonas D para a Amazonas GT (desverticalização; REA 4.244/2013)",
+   "tema": [
+    "outorgas de geração",
+    "hidrelétrica"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Emite REA revogando o art. 9º da REA 4.244/2013 e aprova as minutas do termo aditivo e do novo contrato. Um diretor relatou vínculo pessoal com Balbina e pediu atenção à vila (posto de saúde e escola).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:37:56",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:11",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:42:02",
+   "processo": "48500.005506/2018-38",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Recurso contra Despacho SPE 654/2019 que glosou cerca de R$ 15,4 milhões do projeto de eficiência energética PE-0390-0028/2013 (gastos de mídia de massa alocados em mão de obra de terceiros, acima do limite de 5% de marketing)",
+   "tema": [
+    "eficiência energética / P&D",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (recurso negado)",
+   "resumo_voto": "Conhece e nega provimento: ações de mídia em TV/rádio, de âmbito nacional, são marketing e extrapolaram o limite de 5% e a área de concessão.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:45:40",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:06",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:06",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:06",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:55:06",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:55:55",
+   "processo": "48500.001520/2019-43",
+   "interessado": "Transmissoras; distribuidoras (Enel Goiás); seguradoras",
+   "assunto": "Aprovação do edital do Leilão de Transmissão 2/2019 (12 lotes, cerca de R$ 4,18 bilhões, 12 estados; lote 13 SE Goianira retirado por falta de CUST) após AP 23/2019; envio ao TCU (IN 81/2018)",
+   "tema": [
+    "leilões",
+    "transmissão",
+    "garantias de fiel cumprimento"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital com novas regras de execução de garantia (multa descontada da garantia; marco intermediário só para RAP acima de R$ 100 milhões), CCI em 9 meses e cláusula de antecipação. Elisa refletiu sobre ausência de penalidade para distribuidora que não assina CUST e pediu postura ativa da ANEEL nos prazos de CCT/CCI; outro diretor questionou prazos de obra longos demais que oneram o consumidor via antecipação.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:39:44",
+     "justificativa": "lê o voto/dispositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:58",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:58",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:58",
+     "justificativa": "elogiou o edital; ressalvou falta de penalidade a quem não celebra o CUST (Portaria MME 217/2019) e pediu acompanhamento ativo dos prazos de CCT/CCI",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:59:58",
+     "justificativa": "proclamação por unanimidade; fala individual curta («acompanho»/«voto com o relator») sem nome audível",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "3:01:00",
+   "processo": "48500.003619/2017-18 e outros",
+   "interessado": "Eólicas do grupo Ventos (Santa Luzia, Santa Madalena, Santa Vênera, Santo Antônio, São Bento, São João, São Rafael, São Cirilo etc.)",
+   "assunto": "Prorrogação do prazo de vista nos pedidos de reconsideração contra despachos que aplicaram multa e suspensão de licitar",
+   "tema": [
+    "fiscalização e sanções",
+    "outorgas de geração",
+    "eólica"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "prorrogação de 4 sessões concedida, sem objeção",
+   "resumo_voto": "Diretora Elisa (voto-vista) pede mais quatro sessões; mesa concede sem objeção.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "pede prorrogação da vista (4 sessões)",
+     "ts": "3:02:00",
+     "justificativa": "quatro sessões suficientes para concluir a análise",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "sem objeção (prorrogação concedida)",
+     "ts": "3:02:09",
+     "justificativa": "mesa concede sem objeção",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "sem objeção (prorrogação concedida)",
+     "ts": "3:02:09",
+     "justificativa": "mesa concede sem objeção",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "sem objeção (prorrogação concedida)",
+     "ts": "3:02:09",
+     "justificativa": "mesa concede sem objeção",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "sem objeção (prorrogação concedida)",
+     "ts": "3:02:09",
+     "justificativa": "mesa concede sem objeção",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Transcrição sem marcação de falantes; votos dos não-relatores atribuídos pela proclamação de unanimidade (confiança media).",
+  "Presidente inferido como André Pepitone (DG em 2019); composição inferida pelo período e pelas menções (Elisa, Efrain, Sandoval, Rodrigo Limp, «diretor André»).",
+  "Números de processo e valores vêm da legenda automática e podem ter erros (ex.: 48500.005023/2018-31, 48500.001520/2019-43, 48500.003619/2017-18).",
+  "Item CEMIG: autoria dos comentários de André Pepitone e Sandoval inferida pelo conteúdo (Sandoval ex-superintendente da SFE); ts aproximados.",
+  "Item 9: relator original Rodrigo Limp; pedido de prorrogação pela diretora Elisa (voto-vista).",
+  "ts do item Balbina (1:23:30) estimado."
+ ]
+}

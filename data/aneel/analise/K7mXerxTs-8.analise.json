@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "K7mXerxTs-8", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "13ª Reunião Pública Extraordinária de 2020", "data": "2020-12-09", "formato": "não informado",
+    "presidente_da_sessao": "Diretor-Geral (nome não dito na legenda)",
+    "diretores_presentes": ["Sandoval Feitosa"],
+    "ausentes": [],
+    "observacoes": ["Abertura registra quórum de cinco diretores; só o relator Sandoval Feitosa é nomeado.", "Item único: implementação da MP 1010/2020 (isenção de fatura no Amapá após o apagão de nov/2020).", "Procurador (Luiz Eduardo) manifestou-se favorável e comentou ação judicial no Amapá que afastou por 24 horas diretor da agência, revertida no TRF."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "processo": "48500.007035/2020 (número incerto na legenda)", "interessado": "Companhia de Eletricidade do Amapá (CEA)",
+      "assunto": "Implementação da Medida Provisória 1010/2020: homologação do valor a ser repassado da CDE à CEA pela isenção da fatura de energia dos consumidores dos municípios do Amapá em calamidade pública",
+      "tema": ["CDE e encargos setoriais", "tarifas", "distribuição (Amapá, apagão)"],
+      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa cerca de R$ 51,3 milhões da CDE à CEA via CCEE (abaixo do limite de R$ 80 milhões da MP 1011); determina à SFE fiscalizar a isenção e informar à CCEE diferenças para compensação; indefere pedido da CEA de repasse direto de ~R$ 8,9 milhões à Eletronorte por falta de previsão na MP (princípio da legalidade).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:23:10", "justificativa": "cumprimento estrito da MP 1010; valor compatível com dados de mercado; cessão de crédito à Eletronorte extrapola a MP e violaria a legalidade", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:06", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:15", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:20", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha o relator, proclama (Diretor-Geral)", "ts": "0:24:25", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Os quatro diretores além do relator não são nomeados na legenda (provavelmente André Pepitone como Diretor-Geral, Efrain Cruz, Elisa Bastos e outro); votos registrados como 'não identificado' pela proclamação de unanimidade.", "Valor homologado lido como '51 milhões 307 1877 reais e 13 centavos' (≈ R$ 51,3 mi); número exato incerto.", "Número do processo incerto na legenda."]
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {"video_id": "4VG0s3_PUDk", "fonte": "legenda automática do YouTube", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária - Parte 2",
+  "data": "2019-05-28",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone",
+  "diretores_presentes": ["André Pepitone", "Rodrigo Limp", "Elisa Bastos"],
+  "ausentes": [],
+  "observacoes": "Parte 2 da 18ª RPO de 2019 (continuação). Dois itens, ambos relatados por Rodrigo Limp, aprovados por unanimidade. Composição presente inferida: na votação ouvem-se só duas falas além do relator (um 'voto com o relator' e o presidente que acompanha e proclama)."
+ },
+ "itens": [
+  {
+   "id": "6",
+   "ts": "0:00:29",
+   "processo": "48500.001xxx/2019-14 (número ilegível na legenda)",
+   "interessado": "Eletrobras CGTEE (Companhia de Geração Térmica de Energia Elétrica) - UTE Candiota III",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para suspender descontos de subsídios da CDE na receita de venda da UTE Candiota III (Fase C), aplicados pela CCEE",
+   "tema": ["CDE e encargos setoriais", "recursos administrativos", "comercialização (CCEE)", "outorgas de geração (térmica)"],
+   "relator": "Rodrigo Limp",
+   "resultado": "Deferida a medida cautelar por unanimidade, suspendendo os descontos de subsídio da CDE na receita de venda da UTE Candiota III até análise de mérito",
+   "resumo_voto": "Relator reconhece fumaça do bom direito (aparente incompatibilidade entre a REN 801/2017, o caderno de regras da CCEE e despacho da ANEEL de 2013 sobre custeio de combustível pela CDE na parcela de inflexibilidade) e perigo da demora (fluxo de caixa da CGTEE, pagamento de pessoal e fornecedores).",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:00:57", "justificativa": "Defere a cautelar: verossimilhança pela aparente incompatibilização entre a resolução 802/801 e a decisão da diretoria de 2013 que estabelece que, na parcela fixa, o combustível seria todo pago pela CDE; perigo da demora pelo impacto no caixa da empresa.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:13:48", "justificativa": "Fala 'voto com o relator' sem nome na legenda; atribuição inferida.", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:13:55", "justificativa": "Acompanha e proclama decisão unânime.", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:14:40",
+   "processo": "48500.0015xx/2019-43 (número ilegível na legenda)",
+   "interessado": "Ministério de Minas e Energia; EPE; proponentes do Leilão de Transmissão 2/2019",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 30/05 a 01/07/2019) para aprimorar a minuta de edital e anexos do Leilão de Transmissão nº 2/2019 (linhas, subestações da rede básica do SIN; inclui interligação de Cruzeiro do Sul/AC)",
+   "tema": ["leilões (transmissão)", "transmissão (outorgas)", "regulação normativa (audiência pública)"],
+   "relator": "Rodrigo Limp",
+   "resultado": "Aprovada por unanimidade a instauração da audiência pública conforme nota técnica conjunta 9/2019",
+   "resumo_voto": "Relator apresenta cronograma (sessão do leilão prevista para 19/12/2019, aprovação do edital após análise do TCU sob a IN 81) e inovações, como mudanças na efetividade da garantia de fiel cumprimento e prazo de assinatura de contratos de conexão reduzido de 12 para 6 meses.",
+   "votos": [
+    {"diretor": "Rodrigo Limp", "voto": "relator, aprova", "ts": "0:15:08", "justificativa": "Instaura audiência pública para colher subsídios ao edital do Leilão 2/2019; destaca lote da interligação de Cruzeiro do Sul (AC), obra antes objeto de caducidade.", "confianca": "alta"},
+    {"diretor": "Elisa Bastos", "voto": "acompanha o relator (pela proclamação)", "ts": "0:55:55", "justificativa": "Na discussão, um diretor parabeniza o relator e as áreas (SCT, SEL) pela coordenação com MME, EPE e TCU após a IN 81; outro diretor cita 'como destacou a diretora Elisa', o que sugere ser ela a primeira a comentar. Voto 'com o relator' sem nome na legenda.", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:56:02", "justificativa": "Comentou a ineficácia histórica da execução da garantia de fiel cumprimento e o fim do estoque de obras de transmissão atrasadas; sugeriu avaliar workshop no cronograma. Acompanha e proclama unanimidade (atribuição pela função de presidente, inferida).", "tom": "elogioso", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "O .md atribui a abertura a {Ricardo Tili} (falante inferido); em maio/2019 o Diretor-Geral era André Pepitone, que presumivelmente presidiu. Presidência e composição não são ditas na legenda desta parte.",
+  "Na votação ouvem-se apenas duas falas além do relator; Ricardo Tili e Efrain Cruz podem ter estado presentes ou ausentes, não confirmável. Atribuição de 'voto com o relator' a Elisa Bastos é inferência (confiança baixa).",
+  "O comentário longo do item 7 ('fui sorteado praticamente todos os leilões') foi atribuído ao presidente por inferência; pode ser de outro diretor.",
+  "Números de processos ilegíveis na legenda automática."
+ ]
+}

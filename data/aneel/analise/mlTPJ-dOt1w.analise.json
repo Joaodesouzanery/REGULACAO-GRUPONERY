@@ -1,0 +1,26 @@
+{
+ "meta": {"video_id": "mlTPJ-dOt1w", "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "9ª Reunião Pública Extraordinária de 2021", "data": "2021-09-10", "formato": "videoconferência",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+  "ausentes": [],
+  "observacoes": ["Reunião extraordinária convocada para o voto-vista de Efrain Cruz em processo único (Transnorte/Linhão de Roraima).", "Sandoval Feitosa não estava na reunião em que o voto da relatora foi apresentado e votou após a vista."]
+ },
+ "itens": [
+  {"id": "1", "ts": "0:01:12", "processo": "48500.004361/2019-39 (número incerto)", "interessado": "Transnorte Energia S.A. (TNE)",
+   "assunto": "Proposta de solução alternativa de controvérsia (arbitragem) para viabilizar execução do contrato de concessão 3/2012 (Linhão Manaus-Boa Vista, Roraima)",
+   "tema": ["transmissão (RAP, outorgas, reforços)", "arbitragem", "reequilíbrio econômico-financeiro"],
+   "relator": "Elisa Bastos", "resultado": "aprovado por unanimidade, com supressão do item 4 do dispositivo (grupo de trabalho/dotação orçamentária remetidos à reunião administrativa)",
+   "resumo_voto": "Autoriza termo de compromisso arbitral entre ANEEL e TNE, com interveniência da União, FUNAI e IBAMA, para submeter o reequilíbrio do contrato 3/2012 a juízo arbitral; convoca a TNE a assinar em até 30 dias o termo e o aditivo com cláusula compromissória; arquiva processo correlato.",
+   "votos": [
+    {"diretor": "Elisa Bastos", "voto": "relator, aprova (acata supressão do item 4)", "ts": "0:06:30", "justificativa": "acolhe sugestão do voto-vista de retirar o item 4 (grupo e orçamento) para decisão administrativa", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "voto-vista: acompanha a relatora com sugestão de eliminar o item 4", "ts": "0:04:27", "justificativa": "acompanha literalmente quanto à arbitragem; escolha do árbitro, grupo de trabalho e questão orçamentária ficam para reunião administrativa interna", "confianca": "alta"},
+    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (ratifica voto com a alteração)", "ts": "0:08:21", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:12:02", "justificativa": "lembra necessidade de provisão orçamentária para custos da arbitragem em eventual derrota da ANEEL; destaca importância da obra para Roraima", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator (reafirma voto anterior)", "ts": "0:12:50", "confianca": "media"}
+   ]}
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Legenda automática: nomes e número do processo distorcidos; atribuição das falas de Hélvio, Sandoval e Pepitone inferida pelo contexto.", "Número do processo arquivado (48500.004876/2018-58?) incerto."]
+}

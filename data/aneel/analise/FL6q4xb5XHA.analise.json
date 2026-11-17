@@ -1,0 +1,86 @@
+{
+ "meta": {
+  "video_id": "FL6q4xb5XHA",
+  "fonte": "legenda automática YouTube",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "45ª Reunião Pública Ordinária de 2021 (Parte 2, tarde)",
+  "data": "2021-11-30",
+  "formato": "presencial/transmitida",
+  "presidente_da_sessao": "André Pepitone",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": "Parte da tarde, com um único processo (item 2). Efrain Cruz registrou voto antecipado por agenda externa. Encerramento da 45ª reunião ao final."
+ },
+ "itens": [
+  {
+   "id": "2",
+   "ts": "0:00:10",
+   "processo": "48500.004536/2021 (número conforme legenda, incerto)",
+   "interessado": "Consumidores de baixa renda / distribuidoras (Tarifa Social de Energia Elétrica)",
+   "assunto": "Resultado da Consulta Pública 65/2021 e regulamentação da Lei 14.203/2021: atualização obrigatória do cadastro e inscrição automática dos beneficiários da Tarifa Social de Energia Elétrica (TSEE)",
+   "tema": [
+    "regulação normativa (resolução, consulta pública)",
+    "tarifas e revisão tarifária (tarifa social)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "Aprovado por unanimidade dos votantes: emissão de resolução normativa regulamentando a Lei 14.203/2021 (cadastro e inscrição automática na TSEE)",
+   "resumo_voto": "Relator vota por emitir resolução normativa que regulamenta a Lei 14.203/2021, tornando obrigatória a atualização do cadastro e a inscrição automática dos beneficiários da TSEE pelas distribuidoras, a partir do CadÚnico; apresentação do superintendente adjunto da SRD Hugo Lamim. Procuradoria sem parecer, sem óbice jurídico.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:31:46",
+     "justificativa": "Inscrição automática corrige a baixa cobertura do benefício frente ao universo potencial; lê dispositivo: emitir a resolução normativa que regulamenta a Lei 14.203/2021.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (voto antecipado por agenda externa)",
+     "ts": "0:43:06",
+     "justificativa": "Programa desburocratizado leva o subsídio a quem realmente precisa; compara a melhor programa de distribuição de renda pela capilaridade.",
+     "tom": "enfático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:48:16",
+     "justificativa": "Unanimidade proclamada; fala individual não identificada com certeza.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:48:16",
+     "justificativa": "Unanimidade proclamada; fala individual não identificada com certeza.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:48:20",
+     "justificativa": "Eliminar burocracia: a distribuidora passa a cadastrar automaticamente as famílias vulneráveis (mais de 11 milhões); custo de cerca de 1% da tarifa; proclama unanimidade.",
+     "tom": "elogioso",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Transcrição sem marcação de falantes ao longo do item; ts obtidos do JSON da legenda.",
+  "Manifestação favorável em 0:32:19 sem nome dito (provavelmente Hélvio Guerra ou Elisa Bastos): tarifa social é medida nobre; ressalva a preocupação com o crescimento do orçamento da CDE (tarifa social ~14% do fundo), mas apoia pelo agravamento das carências sociais. Não atribuída a nenhum diretor.",
+  "Na votação final ouvem-se apenas dois 'acompanho' antes da proclamação; votos de Hélvio Guerra e Elisa Bastos inferidos da proclamação 'por unanimidade dos votantes'.",
+  "Composição presumida pela época (nov/2021) e por menções na fala do relator ('Dr Hélvio', 'Dra Elisa'); não houve chamada nominal.",
+  "Número do processo pode estar errado (legenda automática)."
+ ]
+}

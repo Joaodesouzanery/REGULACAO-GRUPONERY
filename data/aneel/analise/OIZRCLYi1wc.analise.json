@@ -1,0 +1,81 @@
+{
+  "meta": {"video_id": "OIZRCLYi1wc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "16ª Reunião Pública Ordinária de 2021", "data": "2021-05-11", "formato": "videoconferência",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Efrain Cruz", "Elisa Bastos", "Hélvio Guerra"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": ["Quórum de quatro diretores; Sandoval Feitosa ausente na abertura (poderia entrar depois, sem fala registrada).", "Ata da 15ª RPO aprovada.", "Pauta com 23 itens, bloco com 19; item 20 do bloco (reforços P0, RAP, transmissora) retirado pelo relator Hélvio Guerra a pedido da interessada.", "Sustentação oral do item 9 indeferida (requerente não diretamente afetado); Elisa Bastos pediu vista do item 9 do bloco.", "Item 6 (geração compartilhada, crédito entre áreas Coprel/RGE): vista do diretor Efrain Cruz.", "Encerramento: Elisa Bastos registra divulgação do Relatório Anual de Gestão 2020."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:04:51", "processo": "itens 5 a 23 (bloco)", "interessado": "diversos",
+      "assunto": "Votação em bloco; retirada do item 20 (autorização de RAP para reforços P0 de transmissora) e vista do item 9",
+      "tema": ["transmissão (RAP, reforços)", "institucional"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade dos votantes, exceto item 20 (retirado) e item 9 (vista de Elisa Bastos)",
+      "resumo_voto": "Hélvio Guerra retirou o item 20 a pedido da transmissora interessada (dúvida sobre ampliação futura da subestação). Sustentação oral do item 9 indeferida por não ser parte diretamente afetada (proposta de Pepitone, lembrada por Efrain). Elisa pediu vista do item 9.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:06:40", "confianca": "baixa"},
+        {"diretor": "Elisa Bastos", "voto": "pede vista do item 9; aprova os demais", "ts": "0:06:52", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco; retirou o item 20", "ts": "0:06:58", "justificativa": "retirada do item 20 por pedido da interessada, para reavaliação pela área técnica", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:07:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:07:36", "processo": "48500.000527/2021-xx e 48500.001162/2011-31",
+      "interessado": "Eletronorte; Roraima Energia; Azulão Geração (UTE Jaguatirica II)",
+      "assunto": "Classificação das instalações de conexão da SE Boa Vista (sistema isolado de Roraima) e encargos de uso compartilhados entre Roraima Energia e UTE Jaguatirica II",
+      "tema": ["transmissão (RAP, classificação de instalações)", "sistemas isolados", "encargos de uso"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Reclassificação provisória das instalações da REA 3.587/2012 como demais instalações de transmissão (DIT) até a interligação ao SIN; métrica provisória: Roraima Energia paga sozinha até a operação em teste da Jaguatirica II, depois 50% consumo/50% geração (proporcional à potência se houver novos geradores); Eletronorte calcula e fatura via CCT; eficácia 30 dias após publicação. Pedido da Roraima Energia de tratamento diferenciado de indicadores e parcela A negado.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:08:33", "justificativa": "instalações não são rede básica nem interligação internacional (REN 442/2011); classificação provisória até integração ao SIN; prazo de eficácia suficiente para adequações contratuais", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:37:09", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:37:12", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:37:15", "justificativa": "nova realidade energética para Roraima com o leilão de 2019 e a futura interligação Manaus–Boa Vista", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:38:03", "processo": "48500.000486/2021-12", "interessado": "Nova Palma Energia",
+      "assunto": "Recurso contra auto de infração 7/2021 da SFF: multa de cerca de R$ 8,2 mil convertida em advertência por não envio de informações (regulamentação do art. 1º da MP 998/2020, P&D/PEE)",
+      "tema": ["fiscalização e sanções", "recursos administrativos"],
+      "relator": "Hélvio Guerra", "resultado": "recurso conhecido e não provido por unanimidade dos votantes; mantida a advertência",
+      "resumo_voto": "Ofício circular entregue no e-mail cadastrado; notificação eletrônica (REN 804/2018) considerada realizada após 5 dias sem leitura; relator levou à leitura para lembrar aos agentes a importância das notificações eletrônicas.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento", "ts": "0:38:20", "justificativa": "empresa considerada notificada pelo sistema eletrônico; argumento de não recebimento rejeitado", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:46:20", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "0:46:25", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:46:39", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "6", "ts": "0:47:22", "processo": "48500.000242/2021-49",
+      "interessado": "Cooperativa de geração compartilhada (CGH João dos Passos) e MFB Participações; Coprel (permissionária); RGE Sul",
+      "assunto": "Pedido de reconsideração com cautelar contra o Despacho 933/2021, que negou alocar créditos de geração compartilhada da CGH (área de permissionária) em unidades na área da RGE Sul",
+      "tema": ["geração distribuída (MMGD)", "recursos administrativos"],
+      "relator": "Elisa Bastos", "resultado": "pedido de vista (Efrain Cruz)",
+      "resumo_voto": "Sustentação oral da advogada Luiza Dantas (mesmo estado, mercado único; isonomia). Procuradoria: publicação da pauta basta; REN 482 é opção regulatória. Relatora: inciso VII do art. 2º da REN 482 limita compensação à mesma área de concessão/permissão; mantém o despacho. Pepitone concorda com os argumentos para a revisão da 482, mas a norma vigente veda.",
+      "votos": [
+        {"diretor": "Elisa Bastos", "voto": "relator, conhece e indefere", "ts": "0:59:30", "justificativa": "REN 482 tem natureza geral e abstrata; compensação só na mesma área de concessão ou permissão; alocação correta de custos da rede", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:07:44", "confianca": "baixa"},
+        {"diretor": "Efrain Cruz", "voto": "pede vista", "ts": "1:07:55", "justificativa": "revisão da REN 482 está sob sua relatoria; análise melhor", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "não votou (vista)", "ts": "1:03:00", "justificativa": "em debate disse que a norma vigente veda a transação, mas os argumentos da requerente servem para a evolução da 482 (mesmo ICMS no estado)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:08:17", "processo": "48500.005800/2018-40", "interessado": "Copel Geração e Transmissão (Copel GT)",
+      "assunto": "Reequilíbrio econômico-financeiro do contrato de concessão 10/2010 (LT 500 kV Araraquara 2–Taubaté, SP): excludente de responsabilidade por atraso no licenciamento ambiental e recálculo da PVA",
+      "tema": ["transmissão (outorgas)", "reequilíbrio contratual", "licenciamento ambiental"],
+      "relator": "Hélvio Guerra", "resultado": "provimento parcial por unanimidade dos votantes",
+      "resumo_voto": "Reconhecidos 878 dias de excludente de responsabilidade (pedido: 2.580) com base no art. 19 da Lei 13.360/2016; aditivo estendendo a concessão; convocação para assinatura em até 90 dias; recálculo da PVA indeferido (limite regulatório e 995 dias reconhecidos para fins punitivos).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento parcial", "ts": "1:08:40", "justificativa": "ônus da prova da excludente é da transmissora; 893 dias atribuídos ao órgão ambiental, 878 reconhecidos; PVA mantida", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:31:29", "confianca": "media"},
+        {"diretor": "Elisa Bastos", "voto": "acompanha o relator", "ts": "1:31:32", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "1:31:35", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 20 do bloco (autorização de RAP para reforços P0 de transmissora; retirado pelo relator Hélvio Guerra)"],
+  "limites_da_analise": ["Legenda automática: nomes de empresas incertos (cooperativa do item 6, transmissora do item 20, nº do processo do item 1).", "Bloco: ordem de quem disse «aprovo» inferida; confiança baixa.", "Item 6: a fala «acompanho o voto da relatora» não tem nome; atribuída a Hélvio Guerra pela ordem, confiança baixa.", "Item 4: dispositivo lido traz '178'/'872' dias por erro de legenda; proclamação diz 878 dias.", "Sandoval Feitosa ausente; não há indício de que tenha entrado e votado.", "Itens 2, 5 e outros não deliberados individualmente além do bloco; item 9 com vista."]
+}

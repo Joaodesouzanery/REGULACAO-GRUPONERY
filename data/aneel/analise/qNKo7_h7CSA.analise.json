@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "qNKo7_h7CSA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de seguidores com ts aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª Reunião Pública Extraordinária de 2021", "data": "2021-05-27", "formato": "virtual",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra"],
+    "ausentes": ["Elisa Bastos", "Efrain Cruz"],
+    "observacoes": ["Pauta única: aprovação do edital do Leilão de Transmissão 1/2021 após pronunciamento do TCU.", "Quórum de três diretores; Elisa Bastos e Efrain Cruz ausentes justificadamente.", "Procuradoria (Daniel Bertoni, nome pela legenda) favorável, parecer 26/2021.", "Sessão de ≈ 17 minutos."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:57",
+      "processo": "48500.005153/2017-91",
+      "interessado": "SEL/SCT (ANEEL); contribuição da EDP Energias do Brasil",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 1/2021, incluindo objeto, receitas anuais permitidas e anexos técnicos de 5 lotes (AC, RO, RJ, MT, TO, SP), consolidado após acórdão do TCU",
+      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "aprovado por unanimidade dos votantes",
+      "resumo_voto": "Relator acolheu de ofício contribuição intempestiva da EDP sobre assimetria de informação quando o proponente é parte relacionada da distribuidora acessante: antecipação de obras até a data de necessidade do usuário passa a depender de avaliação prévia da ANEEL (cláusula sexta das minutas de contrato). Tema levado em audiência ao ministro Vital do Rêgo; TCU, em 26/05/2021, não viu irregularidades. Publicação do edital prevista para 28/05 e sessão pública em 30/06/2021 na B3 (legenda também diz 30 de julho).",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:15:24", "justificativa": "A contribuição da EDP, ainda que intempestiva, é relevante para deixar claro a necessidade de prévia autorização para antecipações e maximizar a competitividade; proibir a priori a antecipação imporia inflexibilidade indesejável.", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:16:25", "justificativa": "«eu acompanho o voto do relator»", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:16:29", "justificativa": "«também acompanho o voto proferido» e proclama por unanimidade dos votantes", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Falas de voto sem nome: atribuídas pela ordem usual (relator, demais diretor, Diretor-Geral por último que proclama); presidente inferido como André Pepitone (DG em 2021), nome não dito na legenda.", "Data da sessão pública do leilão aparece como 30/06 e 30/07/2021 na legenda; número do processo transcrito com variações (2017/2020)."]
+}

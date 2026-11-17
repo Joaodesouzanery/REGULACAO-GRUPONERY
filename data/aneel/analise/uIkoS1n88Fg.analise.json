@@ -1,0 +1,38 @@
+{
+ "meta": {"video_id": "uIkoS1n88Fg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "34ª Reunião Pública Ordinária de 2019", "data": "2019-09-17", "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz"],
+  "ausentes": ["Elisa Bastos (em missão fora do Brasil)", "Rodrigo Limp (viagem a serviço)"],
+  "observacoes": ["Quórum de três diretores.", "Pauta com 32 itens; bloco itens 4 a 32, item 31 retirado de pauta.", "Bloco aprovado, exceto item 4: Sandoval Feitosa declarou-se impedido (lavrou o auto de infração 12/2018 quando superintendente de fiscalização); item 4 obteve só 2 votos favoráveis e foi reinscrito na próxima pauta.", "Aniversário do diretor Efrain Cruz registrado na abertura."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:05:30", "processo": "itens 4 a 32 da pauta (exceto 31)", "interessado": "diversos", "assunto": "Deliberação em bloco dos itens 4 a 32; item 4 (auto de infração 12/2018) sem quórum por impedimento de Sandoval Feitosa, reinscrito na próxima pauta", "tema": ["deliberação em bloco"], "relator": "diversos", "resultado": "bloco aprovado, exceto item 4 (2 votos favoráveis, reinscrito na próxima pauta); item 31 retirado", "resumo_voto": "Aprovação integral do bloco; Sandoval impedido no item 4.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco; suspeito/impedido no item 4", "ts": "0:05:39", "justificativa": "impedido no item 4 por ter lavrado o auto de infração enquanto superintendente de fiscalização dos serviços de eletricidade", "confianca": "media"},
+    {"diretor": "Efrain Cruz", "voto": "aprova o bloco", "ts": "0:05:50", "justificativa": "também voto pela aprovação integral do bloco", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "aprova o bloco", "ts": "0:06:19", "justificativa": "proclamou a aprovação do bloco, exceto item 4", "confianca": "media"}
+   ]},
+  {"id": "1", "ts": "0:06:38", "processo": "48500.002919/1998-29", "interessado": "ONS - Operador Nacional do Sistema Elétrico", "assunto": "Abertura de audiência pública (intercâmbio documental, 18/09 a 18/10/2019) para subsidiar alterações do estatuto do ONS, inclusive a proposta de revogar a não coincidência de mandatos dos diretores", "tema": ["regulação normativa", "institucional"], "relator": "Efrain Cruz", "resultado": "aprovado por unanimidade", "resumo_voto": "Instaura audiência pública; relator questiona a revogação da não coincidência de mandatos pedida pelo ONS (MP 643/2014 já sem vigência; Lei 9.648/98 e Decreto 5.081/2004 vigentes).",
+   "votos": [
+    {"diretor": "Efrain Cruz", "voto": "relator, aprova", "ts": "0:15:00", "justificativa": "alterações decorrem de lei, decreto e resoluções; ponto controverso da não coincidência de mandatos merece contribuição da sociedade", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:17:34", "justificativa": "", "confianca": "media"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:17:36", "justificativa": "ponto sensível; pede contribuição de todos os agentes", "confianca": "media"}
+   ]},
+  {"id": "2", "ts": "0:18:04", "processo": "48500.004931/2018-18", "interessado": "Termocabo S.A. (UTE Termocabo)", "assunto": "Recurso administrativo contra o auto de infração 1013/2018 da SFG (multa por gestão inadequada da manutenção e operação da UTE Termocabo)", "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade: recurso conhecido e não provido; multa de R$ 593.584,9x mantida (0,70% da receita anual)", "resumo_voto": "Relator diverge da Procuradoria (que propunha nova motivação da dosimetria) e mantém percentuais máximos de gravidade (50%) e danos (20%); prazo de 45 dias é impróprio (Súmula 12/2009).",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega provimento)", "ts": "0:18:41", "justificativa": "risco da manutenção é do empreendedor; usina tipo 1 relevante para o Nordeste; pirâmide de conformidade justifica penalização exemplar; não cabe conversão em advertência", "confianca": "alta"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:47:33", "justificativa": "contratar terceiro não transfere a responsabilidade; indisponibilidade inerente à gestão do negócio; não é de menor potencial ofensivo", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:47:33", "justificativa": "relação com o fabricante é privada e não pode ser transposta ao consumidor; argumento dos 45 dias já superado pela Súmula 12/2009", "confianca": "media"}
+   ]},
+  {"id": "3", "ts": "0:48:25", "processo": "48500.003019/2018-xx e outros", "interessado": "geradoras eólicas Itaguaçu da Bahia, Ventos de Santa Luzia, Santa Madalena, Santa Marcella, Santa Vera, Santo Antônio, São Bento, São João, São Rafael, São Carlos e Furnas", "assunto": "Prorrogação do prazo de pedido de vista nos pedidos de reconsideração contra despachos que aplicaram multa e suspensão de licitar (leilão 10/2013)", "tema": ["fiscalização e sanções", "recursos administrativos", "leilões"], "relator": "Rodrigo Limp", "resultado": "prorrogação da vista concedida por mais oito sessões", "resumo_voto": "Mensagem da diretora Elisa Bastos (vista, ausente) lida por Sandoval Feitosa: recorrentes notificadas (ofício 308/2019) sobre possível reformatio in pejus (multa de 5% do investimento); pede mais 8 sessões.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "lê o pedido da diretora Elisa Bastos; concorda", "ts": "0:48:55", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Efrain Cruz", "voto": "acompanha (pela proclamação)", "ts": "0:51:30", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "André Pepitone", "voto": "concede a prorrogação", "ts": "0:51:30", "justificativa": "", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["item 31 (do bloco)"],
+ "limites_da_analise": ["Legenda automática; quase sem marcadores de tempo no .md, ts obtidos no .json e aproximados.", "Presidente inferido como André Pepitone (DG em 2019); nome não dito na transcrição.", "Ausência de Elisa Bastos inferida (fala de quórum confusa; item 3 diz que está em missão fora do Brasil).", "Valor da multa do item 2 com centavos divergentes (94/96) e número do processo do item 3 ilegível.", "Falas de acompanhamento sem nome nos itens 1 a 3; atribuição pela ordem usual."]
+}

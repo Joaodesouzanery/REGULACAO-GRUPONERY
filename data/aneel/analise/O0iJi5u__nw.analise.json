@@ -1,0 +1,299 @@
+{
+ "meta": {
+  "video_id": "O0iJi5u__nw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "8ª Reunião Pública Ordinária de 2019 (Parte 1)",
+  "data": "2019-03-19",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Rodrigo Limp",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quórum de cinco diretores. Parte 1 (manhã); sessão interrompida às 3:14 para retomada às 14h30 (Parte 2 em outro vídeo).",
+   "Ata da 7ª RPO aprovada com retificações (item 30 e AP 31/2018).",
+   "Pauta com 42 itens; retirados de pauta itens 3, 11, 13?, 4 e 6 (legenda confusa); item 30 retirado de deliberação.",
+   "Item 5 (Cepisa) com pedido de vista de Sandoval Feitosa."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:06:20",
+   "processo": "itens 1 a 42 em bloco (exceto 12, destacado, e 30, retirado de deliberação)",
+   "interessado": "diversos",
+   "assunto": "Deliberação em bloco dos itens da pauta; item 13 com impedimento do diretor Sandoval Feitosa (atuou como superintendente na instrução, nota técnica 17/2018)",
+   "tema": [
+    "institucional/TCU"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado por unanimidade; no item 13, unanimidade dos votantes (Sandoval impedido)",
+   "resumo_voto": "Todos votam pela aprovação integral do bloco; Sandoval declara impedimento apenas no item 13.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:07:27",
+     "justificativa": "Proclama aprovação do bloco por unanimidade, registrando impedimento de Sandoval no item 13.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco; suspeito/impedido no item 13",
+     "ts": "0:06:59",
+     "justificativa": "Impedido no item 13 por ter se manifestado como superintendente (nota técnica 17/2018).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "justificativa": "Vota pela aprovação do bloco (fala sem nome; atribuição pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "justificativa": "Vota pela aprovação do bloco (fala sem nome; atribuição pela ordem).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:07:10",
+     "justificativa": "Também vota pela aprovação integral do bloco (fala sem nome).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:07:49",
+   "processo": "48500.002682/2018-25",
+   "interessado": "Eletrobras Distribuição Piauí (Cepisa, atual controle Equatorial)",
+   "assunto": "Requerimento administrativo da Cepisa para revisão do plano de universalização rural; resultado da Audiência Pública 40/2018; relator propõe ano limite 2022 (25.160 ligações pelo Luz para Todos) e prazo até 30/06/2020 para levantamento cadastral",
+   "tema": [
+    "distribuição (universalização, Luz para Todos)",
+    "tarifas e revisão tarifária",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "pedido de vista do diretor Sandoval Feitosa",
+   "resumo_voto": "Sustentação oral de Cristiano de Lima (Cepisa/Equatorial). Relator homologa revisão com universalização rural até 2022, ponderando impacto tarifário (Cepisa 10ª tarifa mais alta) e capacidade de execução. Sandoval e Efrain criticam a prorrogação (escola em Curral Novo do Piauí, empresa recém-privatizada conhecia os prazos, prazo de cadastro longo); Elisa e Pepitone defendem equilíbrio entre universalização e tarifa. Sandoval pede vista.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "0:20:00",
+     "justificativa": "Revisão do plano com prazo limite 2022, alinhado à prorrogação do Luz para Todos (Decreto 9.357/2018); não acata alteração proposta e mantém proposta original.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "0:47:25",
+     "justificativa": "Revisão não pode ser mecanismo para postergar indefinidamente o atendimento, mas decisão deve ser equilibrada pelo impacto tarifário (Cepisa é a 10ª tarifa mais alta). Fala de voto sem nome; atribuição incerta.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "diverge (sinaliza voto contra)",
+     "ts": "0:47:30",
+     "justificativa": "Empresas conheciam a realidade e os prazos ao assumir a concessão; não aceita prorrogar; questão social (escola, água gelada). Na votação alguém diz «vou votar contra a matéria»; atribuição a Efrain é inferência.",
+     "confianca": "baixa",
+     "tom": "crítico, emotivo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "0:47:46",
+     "justificativa": "Desconforto com a prorrogação: escola sem energia em Curral Novo do Piauí, prazo de recadastramento longo, capacidade operacional da nova controladora diferente da histórica.",
+     "confianca": "alta",
+     "tom": "crítico"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (vista)",
+     "ts": "0:47:46",
+     "justificativa": "Considerou prudente a atuação do relator ao ajustar ao horizonte de 2022 e ponderou tarifa versus Luz para Todos; anuncia a vista de Sandoval.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:47:51",
+   "processo": "48500.004578/2018-68",
+   "interessado": "Mata de Santa Genebra Transmissão S.A.",
+   "assunto": "Pedido de medida cautelar em requerimento de excludente de responsabilidade por atraso na implantação das linhas de transmissão do contrato de concessão 01/2014",
+   "tema": [
+    "transmissão (outorgas, cronograma)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "cautelar negada por unanimidade; dispositivo ajustado (retirada a parte que remetia o mérito à SCT para julgamento; volta à área para instrução e o mérito será julgado pelo colegiado)",
+   "resumo_voto": "Sustentação oral de André Serrão (MSG). Relator: ausente periculum in mora (art. 10 da REN 729/2016 limita descontos de RAP) e fumus boni iuris. Limp, Elisa e Sandoval defendem que o mérito de excludente seja decidido pela Diretoria, não pela superintendência; relator acolhe e ajusta o dispositivo.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova (com ajuste do dispositivo)",
+     "ts": "1:13:11",
+     "justificativa": "Nega a cautelar por falta de periculum in mora e fumus boni iuris; aceita retirar a delegação do mérito à SCT, processo volta para instrução e julgamento pelo colegiado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator",
+     "ts": "1:15:27",
+     "justificativa": "Acompanha para negar a cautelar, mas entende que excludente de responsabilidade deve ser instruída pela área e decidida pelo colegiado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:15:59",
+     "justificativa": "ANEEL nunca deu tratamento diferenciado a estatais (autorização do CMN); cautelar só cabe contra ato já praticado; prefere instrução robusta e decisão por relator/colegiado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:29:27",
+     "justificativa": "Corrobora Limp: mais prudente que a Diretoria julgue o mérito após instrução da superintendência.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:29:27",
+     "justificativa": "Inciso I do art. 1º da delegação não confere à superintendência decisão de excludente; proclama unanimidade.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:30:03",
+   "processo": "48500.004972/2016-34",
+   "interessado": "Eletrobras e Amazonas Distribuidora de Energia",
+   "assunto": "Recurso contra o Despacho 2.504/2017 (SFF/SRG) sobre fiscalização e reprocessamento dos reembolsos da CCC de 30/07/2009 a 30/06/2016; efeitos da MP 855/2018, créditos de PIS/Cofins e CDS",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "provimento parcial por unanimidade; valor a ser reembolsado pela CCC à Eletrobras fixado em cerca de R$ 1,59 bilhão (set/2018), sem eficácia imediata até concluir fiscalizações análogas",
+   "resumo_voto": "Apresentação técnica de Alexandre (SFF). Resultado inverte de devolução para crédito da distribuidora (MP 855, PIS/Cofins não compensados, desembolso de competência anterior); reconhece parcialmente dívidas dos CDS sem efeito retroativo da MP 855 (diverge em parte do parecer da Procuradoria); reembolso parcelado após fiscalizações de Eletroacre, Ceron, Boa Vista e Amazonas 2º período; informa ao Ministério da Economia ineficiência de combustíveis de cerca de R$ 1,36 bilhão.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:38:10",
+     "justificativa": "Dá provimento parcial; segurança jurídica impede aplicar a MP 855 retroativamente aos CDS; reembolso após encontro de contas das demais fiscalizações.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "2:55:27",
+     "justificativa": "ANEEL apenas homologa efeitos de decisões judiciais e legislativas; Eletrobras como gestora não tinha material rastreável.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "2:55:27",
+     "justificativa": "Questionou impacto da decisão do CADE e momento da revisão da CDE; registra que o custo ao consumidor decorre da legislação, não da ANEEL.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:55:27",
+     "justificativa": "Confortável com aguardar as demais fiscalizações para orçar a CDE com bases mais precisas.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:55:27",
+     "justificativa": "Resultado parcial sem eficácia imediata; encontro de contas global do grupo Eletrobras; ponderou vigência da MP 855.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "2:57:19",
+   "processo": "48500.000754/2019-73",
+   "interessado": "concessionárias de transmissão licitadas (42 contratos a partir de 2007)",
+   "assunto": "Abertura de audiência pública (21/03 a 23/04/2019) para revisão periódica da RAP ofertada (custo de capital de terceiros/WACC e outras receitas) dos contratos de transmissão licitados com revisão a partir de 01/07/2019",
+   "tema": [
+    "transmissão (RAP)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Apresentação de Mateus (SGT): primeira fase da revisão (WACC e outras receitas), queda média de cerca de 3,15% na receita; reforços e melhorias dependem do novo banco de preços (relatoria de Efrain).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "3:12:46",
+     "justificativa": "Instaura audiência pública por intercâmbio documental; resultados preliminares.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:07",
+     "justificativa": "Destaca que a revisão de reforços e melhorias ficará para etapa posterior; proclama unanimidade dos votantes.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:07",
+     "justificativa": "acompanha o relator (pela proclamação de unanimidade)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:07",
+     "justificativa": "acompanha o relator (pela proclamação de unanimidade)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:07",
+     "justificativa": "acompanha o relator (pela proclamação de unanimidade)",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 30 (retirado de deliberação)",
+  "itens 3, 4, 6 e outros retirados de pauta (números incertos na legenda)"
+ ],
+ "limites_da_analise": [
+  "Composição de 2019 (Pepitone, Sandoval, Limp, Efrain, Elisa) inferida pelos nomes citados ('diretora lisa', 'efraim', 'limpe') e pelo contexto; a mesa raramente nomeia quem vota.",
+  "Item 5: falas de votação sem nome ('vou votar contra a matéria'); atribuição de Elisa (acompanha) e Efrain (contra) é baixa confiança.",
+  "Itens 2, 5 e 7 da sequência da ordem; demais itens da preferência (8, 9, 10) devem estar na Parte 2.",
+  "Valores e números de processo vêm da legenda automática e podem conter erros (ex.: processo do item 5).",
+  "Itens do bloco não detalhados individualmente."
+ ]
+}

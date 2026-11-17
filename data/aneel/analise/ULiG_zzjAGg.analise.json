@@ -1,0 +1,510 @@
+{
+ "meta": {
+  "video_id": "ULiG_zzjAGg",
+  "fonte": "legenda automática do YouTube; ts pelo json da transcrição; votos de quem acompanha aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "14",
+  "data": "2019-04-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (DG substituto) até o item 4; depois André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "André Pepitone",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura com três diretores (Sandoval, Elisa Bastos, Efrain Cruz); Pepitone assumiu durante o item 4 e Limp retornou mais tarde.",
+   "Item 12 retirado de pauta; item 15 destacado com pedido de vista; itens 7 e 3 retirados de pauta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:01",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Deliberação em bloco dos itens 13 a 21 (exceto item 12, retirado de pauta, e item 15, destacado com pedido de vista)",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes (exceto itens 12 e 15)",
+   "resumo_voto": "Sessão iniciada com três diretores; bloco aprovado; item 15 (relatoria de Elisa Bastos) destacado com pedido de vista.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco; pede destaque e vista do item 15",
+     "ts": "0:04:13",
+     "confianca": "baixa",
+     "justificativa": "processo do mesmo tema sob sua relatoria; verificar coerência com o voto que vai proferir"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:04:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (presidente interino)",
+     "ts": "0:04:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:04:13",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 15 do bloco (relatoria de Elisa Bastos), destacado; pedido de vista",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "pedido de vista; retirado do bloco",
+   "resumo_voto": "Diretor (provavelmente Efrain Cruz) pede vista por haver processo de mesmo tema sob sua relatoria.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "pede vista",
+     "ts": "0:04:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "não votou (vista)",
+     "ts": "0:04:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "0:04:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:05:50",
+   "processo": "48500.006202/2018-90 (aprox.)",
+   "interessado": "Odoyá Transmissora de Energia S.A. (Cymi/Brookfield); sustentação oral: Rafael (advogado)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 1707/2018 (revisão dos termos de liberação parcial TLP; parcela da RAP por FT, contrato de concessão 17/2014)",
+   "tema": [
+    "transmissão (RAP, TLP)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta após sustentação oral, para remessa dos autos à Procuradoria",
+   "resumo_voto": "Após sustentação oral, o procurador-geral disse não poder se manifestar sem análise; o presidente retirou o processo de pauta e remeteu à Procuradoria.",
+   "votos": []
+  },
+  {
+   "id": "4",
+   "ts": "0:22:54",
+   "processo": "48500.005776/2014-15 (aprox.)",
+   "interessado": "UFV Massapê (Fotowatio/FRV); sustentação oral: advogado André",
+   "assunto": "Resolução do contrato de energia de reserva CER 270/2014 da usina fotovoltaica Massapê (6º LER 2014) e aplicação de multa",
+   "tema": [
+    "outorgas de geração (solar)",
+    "leilões (reserva)",
+    "fiscalização e sanções (multa contratual)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: resolver o CER 270/2014 e determinar à CCEE a multa da subcláusula 13.1",
+   "resumo_voto": "Penalidade contratual decorre do contrato; só afastável com excludente de responsabilidade, já negada em outro processo; diligência e boa-fé não compensam a não implantação. Procurador afastou art. 22 da LINDB (sanção civil, não administrativa).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (resolve o CER e aplica multa)",
+     "ts": "0:48:25",
+     "confianca": "alta",
+     "justificativa": "excludente de responsabilidade já negada; boa-fé não elimina consequências da não implantação"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "0:50:19",
+     "confianca": "media",
+     "justificativa": "questão de reputação do leilão: quem contrata energia e não executa deve arcar com as consequências; sinal aos que cumprem; agente não ofereceu prêmio no MCSD"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:51:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:51:23",
+   "processo": "48500.003267/2012-96 e 48500.004556/2011-21 (aprox.)",
+   "interessado": "Central Geradora Eólica Famosa I; sustentação oral: Tiago Lobo Fonseca",
+   "assunto": "Pedido de reconsideração contra o Despacho 948/2018 que rescindiu o CER 162/2011 (LER 2011) e determinou multa da subcláusula 13.1",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "leilões (reserva)",
+    "fiscalização e sanções (multa contratual)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento por unanimidade",
+   "resumo_voto": "Razões já analisadas na revogação da outorga (falência da fornecedora Wind Power, atraso da SE Mossoró IV); frustração da usina afeta o planejamento; multa 13.1 é prévia avaliação de perdas e danos, sem necessidade de provar prejuízo (art. 416 CC, segundo a Procuradoria).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "1:15:14",
+     "confianca": "alta",
+     "justificativa": "multa compensatória independe de prova de dano; boa-fé não compensa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:15:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:16:39",
+   "processo": "48500.004281/2019-48 (aprox.)",
+   "interessado": "Centrais Elétricas de Carazinho (Eletrocar) x RGE",
+   "assunto": "Medida cautelar para suspender cobrança de penalidade (consumo abaixo da faixa de tolerância em 2018, ~R$ 4,5 milhões) e anular registro no cadastro de inadimplentes",
+   "tema": [
+    "recursos administrativos (cautelar)",
+    "distribuição",
+    "comercialização (contratos)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: provimento parcial à cautelar, suspendendo o débito até a decisão de mérito",
+   "resumo_voto": "Fumus boni iuris: Despacho 455/2018 autorizou registro precário das usinas Mata a Cobra e Colorado em nome de Lebrag; periculum in mora: inadimplência impediria o reajuste de 22/07/2019; decisão reversível.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, provimento parcial à cautelar",
+     "ts": "1:34:40",
+     "confianca": "alta",
+     "justificativa": "fumaça do bom direito, perigo da demora (reajuste tarifário) e reversibilidade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:40",
+     "confianca": "media",
+     "justificativa": "comentou que a RGE ignorou a decisão precária da agência"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:41:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:42:26",
+   "processo": "48500.004475/2017-17 (aprox.)",
+   "interessado": "CCEE",
+   "assunto": "Ajustes nas regras de comercialização aplicáveis ao novo sistema de contabilização e liquidação (versão 2018)",
+   "tema": [
+    "comercialização (CCEE)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "retirado de pauta pelo relator, para a próxima reunião",
+   "resumo_voto": "",
+   "votos": []
+  },
+  {
+   "id": "2",
+   "ts": "1:43:13",
+   "processo": "48500.000797/2019-59 (aprox.)",
+   "interessado": "Companhia Energética de Alagoas (Ceal), grupo Equatorial",
+   "assunto": "Reajuste tarifário anual 2019 da Ceal a partir de 03/05/2019 (efeito médio -2,72%)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade: efeito médio -2,72% (AT -2,83%, BT -2,68%)",
+   "resumo_voto": "Primeiro processo tarifário após privatização; deságio de 45,47% e fim de componentes financeiros (conta ACR, empréstimo) reduzem tarifa; relator destacou baixo cadastro de baixa renda em Alagoas.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:02:41",
+     "confianca": "alta",
+     "justificativa": "efeitos conjunturais: transferência de controle, antecipação da conta ACR"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:04:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:05:19",
+   "processo": "48500.002456/2018-37 (aprox.)",
+   "interessado": "CEEE-D (Companhia Estadual de Distribuição de Energia Elétrica)",
+   "assunto": "Recurso contra o Auto de Infração 3/2015 da AGERGS (manutenção de redes e transformadores), multa de R$ 9,64 milhões",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "distribuição e qualidade",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "conhecido e negado provimento por unanimidade; multa de R$ 9.640.501,16 mantida",
+   "resumo_voto": "Recurso sem argumentos novos; NC 8 e NC 13 mantidas, dosimetria adequada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "2:20:00",
+     "confianca": "alta",
+     "justificativa": "recurso não trouxe argumentação inovadora; dosimetria adequada"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:18",
+     "confianca": "media",
+     "justificativa": "registrou a importância da descentralização da fiscalização às agências estaduais"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:23:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:24:03",
+   "processo": "48500.000959/2019-59 (aprox.)",
+   "interessado": "Amazonas Geração e Transmissão (Amazonas GT), designada",
+   "assunto": "Abertura de audiência pública (intercâmbio documental, 03/05 a 03/06/2019) sobre a 1ª revisão periódica da RAP da Amazonas GT",
+   "tema": [
+    "transmissão (RAP)",
+    "regulação normativa (audiência pública)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Base de remuneração fiscalizada pela SFF (vinculada à futura licitação); reposicionamento de 7,19% nominal, 3,08% real.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:35:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:25",
+     "confianca": "media",
+     "justificativa": "previsibilidade e segurança no regime de designação"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:37:13",
+   "processo": "48500.003534/2018-11 (aprox.)",
+   "interessado": "ONS",
+   "assunto": "Aprovação provisória de 6/12 avos (mais 2/12) do orçamento 2019 do ONS (ciclo 2019-2021), R$ 369,6 milhões",
+   "tema": [
+    "institucional (orçamento ONS)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pesquisa salarial indicou remuneração acima do mercado; prazo adicional para manifestação do ONS sem travar suas atividades.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:46:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:49:44",
+   "processo": "48500.002005/2018-08 (aprox.)",
+   "interessado": "Paraíso Transmissora (Eletrosul) para JAC Materiais e Serviços de Engenharia",
+   "assunto": "Plano de transferência de controle societário do contrato de transmissão 02/2015 como alternativa à caducidade (art. 4º-C da Lei 9.074)",
+   "tema": [
+    "transmissão (outorgas)",
+    "fiscalização e sanções (caducidade)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Transferência antecipa entrada em operação em ~18 meses frente a nova licitação; RAP ~32% inferior a nova RAP-teto; garantia exigida; vedada nova transferência até a operação; SFE avaliará penalidades à Eletrosul.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "3:08:07",
+     "confianca": "alta",
+     "justificativa": "viabilidade e vantajosidade de prazo e de receita"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:44",
+     "confianca": "media",
+     "justificativa": "instrumento vantajoso se bem calibrado"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:44",
+     "confianca": "media",
+     "justificativa": "exigência de garantia foi aprendizado do caso Eletrosul; defende regulamentar o tema"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "3:15:26",
+   "processo": "48500.006118/2009-83 (aprox.)",
+   "interessado": "",
+   "assunto": "Prorrogação por mais 4 sessões do prazo de vista sobre a AP 77/2011 (revisão da REN 63/2004, penalidades)",
+   "tema": [
+    "regulação normativa",
+    "fiscalização e sanções"
+   ],
+   "relator": "André Pepitone",
+   "resultado": "prorrogado sem objeção",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "pede prorrogação da vista",
+     "ts": "3:15:40",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "12",
+  "7",
+  "3"
+ ],
+ "limites_da_analise": [
+  "Momento exato do retorno de Rodrigo Limp não identificado; votos dele registrados só a partir do item 1 (relator); pode ter votado antes (itens 2, 5).",
+  "Pepitone registrado como presente a partir do item 4 (passagem de bastão ~0:37).",
+  "Autor do pedido de vista do item 15 não nomeado; atribuído a Efrain Cruz por exclusão (confiança baixa). Assunto do item 15 não informado.",
+  "Números de processos lidos de legenda automática: aproximados.",
+  "Comentários no item 5 e 10 atribuídos a Pepitone/Sandoval por contexto."
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "video_id": "1jyPmdB2G3M",
+  "fonte": "legenda automática do YouTube; transcrição em bloco único (marcador [0:01:05]); ts recuperados do .json da legenda; votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "20",
+  "data": "2019-06-11",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) — inferido, não dito na legenda",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Elisa Bastos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 20ª Reunião Pública Ordinária de 2019; encerrada ~1:50:21.",
+   "4 itens deliberados por unanimidade (9, RGE, 7, 8); item 5 (Termocabo) retirado de pauta pelo relator Sandoval Feitosa.",
+   "Proclamação do item 7 diz «unanimidade dos presentes»: possivelmente um diretor ausente (Rodrigo Limp?) — não confirmado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "9",
+   "ts": "0:01:05",
+   "processo": "48500.005914/2017-17 (legenda incerta)",
+   "interessado": "Celpe — Companhia Energética de Pernambuco (distribuidora); ARPE",
+   "assunto": "Recurso administrativo contra o Auto de Infração 4/2014 da ARPE (fiscalização comercial, multa ~R$ 1,055 milhão e advertências)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "distribuição - qualidade comercial"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: conhecer e dar provimento parcial, multa alterada para cerca de R$ 1,048 milhão",
+   "resumo_voto": "Houve sustentação oral da Celpe (~0:06); Procuradoria recomendou provimento parcial só quanto ao prazo de religação; relator manteve demais não conformidades e a dosimetria validada pela SFE.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:20:00",
+     "justificativa": "acolhe só a não conformidade apontada pela Procuradoria; demais mantidas por inconsistências e abrangência das infrações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:29:32",
+     "justificativa": "Diretor-Geral; vota por último e proclama (identificação inferida)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:29:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:29:32",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "RGE",
+   "ts": "0:30:07",
+   "processo": "48500.006506/2018-55 (legenda incerta)",
+   "interessado": "RGE Sul Distribuidora de Energia S.A.",
+   "assunto": "Reajuste tarifário anual 2019 da RGE Sul, vigência a partir de 19/06/2019",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "distribuição - qualidade"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: homologado o reajuste (efeito médio informado na legenda, valores incertos)",
+   "resumo_voto": "Componentes financeiros relevantes (CVA de energia); um diretor não identificado comentou a qualidade ruim da RGE (DEC/FEC, plano de resultados) e defendeu desoneração tarifária.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:50:00",
+     "justificativa": "homologação conforme cálculo da área técnica; ressalva sobre qualidade do serviço da concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:13",
+     "justificativa": "Diretor-Geral; vota por último e proclama (identificação inferida)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:55:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:56:16",
+   "processo": "48500.004931/2018-18 (legenda incerta)",
+   "interessado": "Termocabo S.A. (UTE Termocabo)",
+   "assunto": "Recurso contra o Auto de Infração 1013/2018 da SFG (manutenção e operação inadequadas da usina)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "outorgas de geração - térmica"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após relatório e manifestação da Procuradoria sobre fundamentação da dosimetria em patamar máximo, o relator retirou o processo em razão de informação obtida.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "retira de pauta",
+     "ts": "1:06:20",
+     "justificativa": "em função de uma informação que obteve",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:06:33",
+   "processo": "48500.001107/2011-21 (legenda incerta)",
+   "interessado": "Light Serviços de Eletricidade S.A.",
+   "assunto": "Pedido de reconsideração contra o Despacho 652/2016 (recálculo da CVA de energia excluindo o risco hidrológico do preço de repasse, glosa de perdas)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "recursos administrativos",
+    "regulação normativa"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes: não conhecer do pedido (intempestivo e impugna ato normativo)",
+   "resumo_voto": "Relator acompanhou a Procuradoria pela inadmissibilidade, mas analisou o mérito; Elisa Bastos, relatora da revisão do módulo 4 do PRORET, informou que o tema irá a audiência pública.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:28:00",
+     "justificativa": "pedido intempestivo e pretende impugnar ato normativo; no mérito, escolha regulatória legítima",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:30",
+     "justificativa": "Diretor-Geral; vota por último e proclama (identificação inferida)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:32:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:33:20",
+   "processo": "48500.001657/2016-55 e 48500.001656/2016-19 (legenda incerta)",
+   "interessado": "Enel Green Power Mourão e Enel Green Power Paranapanema",
+   "assunto": "Alteração do regime de exploração das UHEs Mourão e Paranapanema; pedido de comercializar parcela da garantia física com consumidores especiais",
+   "tema": [
+    "outorgas de geração - hidrelétrica",
+    "comercialização"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Relatora acompanhou Procuradoria e SCG pelo indeferimento.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "1:48:00",
+     "justificativa": "acompanha Procuradoria e área técnica pelo indeferimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:43",
+     "justificativa": "Diretor-Geral; vota por último e proclama (identificação inferida)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:49:43",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5 — Termocabo (Sandoval Feitosa)"
+ ],
+ "limites_da_analise": [
+  "Transcrição em bloco único: falantes não separados; seguidores não identificados por nome na legenda (só «também acompanho»). Presidente e composição inferidos para jun/2019 (Pepitone DG, Sandoval, Efrain, Elisa; Rodrigo Limp possivelmente ausente) — confiança baixa.",
+  "Cada votação teve relator + 3 «acompanho»: 4 votos; 2 seguidores ficam «não identificado».",
+  "Números de processo e valores vindos de legenda automática podem estar errados.",
+  "Diretor que comentou a qualidade da RGE não identificado."
+ ]
+}

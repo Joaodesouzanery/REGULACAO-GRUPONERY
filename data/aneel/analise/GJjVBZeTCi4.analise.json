@@ -1,0 +1,144 @@
+{
+  "meta": {"video_id": "GJjVBZeTCi4", "fonte": "legenda automática do YouTube; falantes inferidos (marcadores {..} do .md frequentemente errados); ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21ª Reunião Pública Ordinária de 2026", "data": "2026-10-20", "formato": "presencial",
+    "presidente_da_sessao": "Gentil Nogueira (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Gentil Nogueira", "Ludimila Lima", "Willamy Frota"],
+    "ausentes": ["Agnes da Costa (férias)", "Sandoval Feitosa (no Uruguai, encontro da ARIAE)"],
+    "observacoes": [
+      "Quórum de três diretores. Primeira reunião da secretária-geral Renata Farias (adjunto Guilherme Rocco); procurador-geral Eduardo Ramalho.",
+      "Pauta com 31 itens; itens 10 a 31 em bloco; destacados 13, 18 e 20; retirados 4, 5, 6, 17 e 22; sustentação oral nos itens 9 e 18.",
+      "Itens 7 e 20 ficaram suspensos por falta de três votos convergentes (quórum de três) e voltam na próxima reunião pública.",
+      "Atas do 18º circuito deliberativo (6/9/2026) e da 20ª RPO (13/9/2026) aprovadas."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:11:07", "processo": "itens 10 a 31 (exceto destacados 13, 18, 20 e retirados 17, 22)", "interessado": "diversos",
+      "assunto": "Itens remanescentes do bloco da 21ª RPO", "tema": ["bloco"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Votos e atos disponibilizados previamente; aprovação em bloco.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "aprova os itens do bloco", "ts": "0:11:36", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "aprova os itens do bloco", "ts": "0:11:39", "confianca": "baixa"},
+        {"diretor": "Gentil Nogueira", "voto": "aprova e proclama", "ts": "0:11:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:11:58", "processo": "48500.030189/2025-17", "interessado": "Neoenergia Distribuição Brasília S.A.",
+      "assunto": "Resultado da revisão tarifária periódica 2026 da Neoenergia Brasília, vigente a partir de 22/10/2026, após CP 24/2026",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)"],
+      "relator": "Willamy Frota", "resultado": "aprovado por unanimidade, em caráter provisório",
+      "resumo_voto": "Efeito médio 1,92% (AT 4,27%, BT 1,06%); fixa TUSD/TE, CDE, postos tarifários, componente T do fator X (1,046) e perdas 2026-2030; aprovação provisória por inconsistências no mercado ligadas à troca do sistema comercial da distribuidora; STR avalia em 180 dias, com resultado da fiscalização da SFT, eventual recálculo no RTA 2027. Apresentação técnica da servidora Ana Lúcia (STR).",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, aprova em caráter provisório", "ts": "0:29:04", "justificativa": "incertezas no mercado de referência após substituição do sistema comercial; reavaliação em 180 dias", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator (pela proclamação)", "ts": "0:34:04", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator e proclama", "ts": "0:34:04", "justificativa": "registra incômodo com aprovações não definitivas; espera regularização em 180 dias", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:34:44", "processo": "48500.028921/2026-70", "interessado": "concessionárias de distribuição e transmissão",
+      "assunto": "Abertura de consulta pública sobre impactos da reforma tributária (EC 132/2023, LC 214/2025) nas bases de remuneração (créditos remanescentes de PIS/Cofins)",
+      "tema": ["regulação normativa (consulta pública)", "reforma tributária", "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "transmissão (RAP, outorgas, reforços)"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "CP por intercâmbio documental de 21 a 30/10/2026 (prazo excepcional de 10 dias pela vigência em 1/1/2027); dispensa de AIR por obrigação legal; acolhe sugestão do GT da reforma tributária de explicitar componente financeiro. Deliberado em conjunto com o item 3; apresentação de Denis Januzzi (STR).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova abertura de CP", "ts": "1:02:56", "justificativa": "obrigação legal de repassar efeitos da reforma; urgência justifica prazo de 10 dias", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:08:03", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:08:06", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:37:30", "processo": "48500.028922/2026-14", "interessado": "geradores, comercializadores, CCEE, distribuidoras",
+      "assunto": "Abertura de consulta pública para adequar contratos regulados de geração e comercialização e encargos setoriais à reforma tributária",
+      "tema": ["regulação normativa (consulta pública)", "reforma tributária", "comercialização (CCEE, PLD, contratos)", "CDE e encargos setoriais"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "CP de 21 a 30/10/2026; ajuste de preços contratados retirando a alíquota nominal de PIS/Cofins para contratos anteriores à LC 214/2025, sem termo aditivo. Julgado com o item 2.",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, aprova abertura de CP", "ts": "1:02:56", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:08:03", "confianca": "media"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:08:06", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "9", "ts": "1:09:06", "processo": "48500.029590/2026-95", "interessado": "Usina Termelétrica Pampa Sul S.A.",
+      "assunto": "Pedido de medida cautelar para suspender ônus contratuais (CCEARs, exposição ao MCP) pela impossibilidade de entrega após queda da LT Guaíba 3 - Candiota 2 por eventos climáticos em setembro/2026",
+      "tema": ["comercialização (CCEE, PLD, contratos)", "outorgas de geração (térmica)", "medida cautelar"],
+      "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade: cautelar negada; mérito à SGM",
+      "resumo_voto": "Conhece e nega a cautelar por ausência de probabilidade do direito e de perigo da demora; encaminha à SGM para análise do mérito. Sustentação oral de Rafael Filipe Silva Machado (Pampa Sul), que alegou risco de restrição externa não alocado ao vendedor e exposição de cerca de R$ 17 milhões.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, nega a cautelar", "ts": "1:21:51", "justificativa": "ausência dos requisitos, em especial probabilidade do direito e perigo da demora; precedente semelhante", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora, com ressalva", "ts": "1:23:37", "justificativa": "tem sensibilidade sistêmica; pede reflexão da SGM sobre a matriz de risco do gerador ao consumidor na análise de mérito", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora e proclama", "ts": "1:25:27", "justificativa": "ato de terceiro é incontroverso; matriz de risco merece exame no mérito; perigo da demora não demonstrado", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "18", "ts": "1:25:59", "processo": "48500.026749/2026-10; 48500.016875/2026-66", "interessado": "Palavan Ventures One, Two e Three Ltda. (data centers, SE Replan 440 kV)",
+      "assunto": "Recurso administrativo com cautelar contra o Despacho 3327/2026 da STD (pareceres de acesso do ONS, fila de acesso, incremento de MUST; PENASTE)",
+      "tema": ["transmissão (acesso, MUST)", "recursos administrativos"],
+      "relator": "Gentil Nogueira", "resultado": "aprovado por unanimidade: recurso conhecido e não provido",
+      "resumo_voto": "Nega provimento mantendo o despacho, esclarecendo que não impede a aplicação do regime transitório aprovado na 20ª RPO aos pedidos de MUST 2029 protocolados em 1/1/2026; indefere pedidos subsidiários; cautelar prejudicada; petição de 7/10 enviada à STD. Pautado por decisão do TRF1 (prazo de 48 h). Sustentação oral de Roberta Arakaki (Palavan).",
+      "votos": [
+        {"diretor": "Gentil Nogueira", "voto": "relator, nega provimento e proclama", "ts": "1:38:47", "justificativa": "não decide o enquadramento na regra de transição, que segue em processo apartado no ONS/STD; parece haver enquadramento parcial", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator (pela proclamação)", "ts": "1:43:39", "confianca": "baixa"},
+        {"diretor": "Willamy Frota", "voto": "acompanha o relator (pela proclamação)", "ts": "1:43:39", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "7", "ts": "1:44:11", "processo": "48500.017235/2025-92", "interessado": "Energisa Mato Grosso Distribuidora de Energia S.A.",
+      "assunto": "Recurso contra auto de infração 1/2025 da AGER-MT sobre cobrança retroativa de ICMS de consumidores com micro e minigeração distribuída (destacado do 18º circuito deliberativo pela diretora Agnes)",
+      "tema": ["fiscalização e sanções (auto de infração)", "geração distribuída (MMGD)", "recursos administrativos"],
+      "relator": "Fernando Mosna", "resultado": "suspenso por falta de três votos convergentes (2 votos com o voto-vista de Willamy Frota; voto de Fernando Mosna subsistente)",
+      "resumo_voto": "Voto-vista de Willamy Frota: provimento parcial; mantém NC1 e obrigação de fazer, reformada para comunicar aos consumidores, pela mesma via da cobrança, que ela não tem relação com o serviço de distribuição e não pode levar à suspensão do fornecimento; multa diária de R$ 1.108.134,42 por até 30 dias (limitada a 2%); prazo de 30 dias. Retirada a determinação de cancelar a cobrança após parecer 244 da Procuradoria (ANEEL não tem competência sobre cobrança extrajudicial).",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "voto-vista: provimento parcial", "ts": "1:44:57", "justificativa": "ajuste conforme Procuradoria; comunicação pela mesma via da cobrança", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o voto-vista de Willamy Frota", "ts": "1:51:54", "justificativa": "mudança relevante é a forma de comunicação (fatura em vez de site)", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "não vota (sucede a cadeira com voto já proferido de Fernando Mosna, segundo o presidente)", "ts": "1:51:54", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "1:53:15", "processo": "48500.005756/2026-88", "interessado": "Powertech Energia Engenharia (...) S.A.; Agreco Energia Locação de Geradores Ltda.",
+      "assunto": "Pedidos de reconsideração contra o Despacho 3543/2026 (antecipação de reembolso de combustível para estoques estratégicos na estiagem 2026 no Amazonas, CCC)",
+      "tema": ["CDE e encargos setoriais (CCC)", "sistemas isolados", "recursos administrativos"],
+      "relator": "Ludimila Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Não conhece do pedido da Agreco por desistência; provimento parcial à Powertech: prorroga até 18/11/2026 o prazo das notas fiscais; valores antecipados restituídos à CCC em parcela única em março/2027 corrigidos pelo IPCA; 2c nega os demais pedidos.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, provimento parcial", "ts": "1:54:33", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora (pela proclamação)", "ts": "1:56:50", "confianca": "media"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora e proclama", "ts": "1:56:50", "justificativa": "observou que outros agentes poderiam pedir a mesma condição; relatora informou que declinaram", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "13", "ts": "1:59:09", "processo": "48500.012823/2025-30", "interessado": "CEEE Equatorial (distribuidora; nome incerto na legenda)",
+      "assunto": "Tratamento extraordinário de interrupções programadas nos indicadores DEC/FEC 2024-2027 e recálculo do DEC 2024 (destacado a pedido de Gentil Nogueira)",
+      "tema": ["qualidade do serviço (DEC/FEC)", "fiscalização e sanções"],
+      "relator": "Willamy Frota", "resultado": "aprovado por unanimidade, com inciso 5 sugerido por Ludimila Lima",
+      "resumo_voto": "Extintos os pedidos de recálculo do DEC 2024 e de tratamento para 2024/2025; deferida franquia adicional de 1,33 h (DEC) e 1,09 interrupções (FEC) em 2026 e 2027, condicionada ao plano de obras e reduzida proporcionalmente; inciso 5: SFT verifica a execução do plano de obras na apuração. Parecer 243/2026 da Procuradoria sem óbice.",
+      "votos": [
+        {"diretor": "Willamy Frota", "voto": "relator, defere parcialmente; incorpora sugestão de Ludimila", "ts": "2:01:38", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator, com proposta de inciso 5 acolhida", "ts": "2:04:04", "justificativa": "garantir que a SFT verifique a contrapartida do plano de obras", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "acompanha o relator e proclama", "ts": "2:05:55", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "20", "ts": "2:06:22", "processo": "48500.017813/2026-71", "interessado": "Voltalia Energia do Brasil Ltda. (EOLs Potiguar C11 e C12, São Miguel do Gostoso-RN)",
+      "assunto": "Recurso contra o Despacho 1956/2026 da SCE que indeferiu outorga de autorização das eólicas Potiguar C11 e C12 (corrida do ouro, desconto de 50% na TUST/TUSD)",
+      "tema": ["outorgas de geração (eólica)", "CDE e encargos setoriais (subsídios)", "recursos administrativos"],
+      "relator": "Ludimila Lima", "resultado": "suspenso por falta de três votos convergentes (2 a 1 quanto ao desconto); volta na próxima reunião pública",
+      "resumo_voto": "Relatora: provimento para emitir as outorgas com desconto de 50%, pela mora da ANEEL (pedido de março/2022, precedente Eólica Seridó). Divergência de Gentil Nogueira: emite as outorgas, mas condiciona o desconto a processo da SCE com manifestação da Procuradoria sobre a diligência da empresa (LP arquivada desde dez/2023, três anos para nova licença). Procurador apontou dúvida razoável sobre a diligência.",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, dá provimento com desconto de 50%", "ts": "2:10:39", "justificativa": "agente não deu causa; mora da ANEEL na corrida do ouro; alinhamento com precedente", "confianca": "alta"},
+        {"diretor": "Gentil Nogueira", "voto": "diverge parcialmente: outorga sim, desconto condicionado a análise da SCE e Procuradoria", "ts": "2:13:55", "justificativa": "interpretação restritiva de subsídios; possível responsabilidade concorrente da Voltalia; crescimento da CDE", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "2:19:50", "justificativa": "momento diferente na agência pela demanda de processos", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["item 4", "item 5", "item 6", "item 17", "item 22"],
+  "limites_da_analise": [
+    "Marcadores de falante do .md são inconsistentes (aparecem Sandoval Feitosa, Ricardo Tili, Fernando Mosna, Agnes da Costa em falas do procurador, da secretária ou de Gentil); atribuições feitas pelo contexto e chamadas da mesa.",
+    "Item 7: presidente diz que Ludimila Lima não vota (voto anterior de Fernando Mosna, então diretor, permanece); conteúdo do voto original de Mosna não foi lido; só 2 votos registrados na sessão.",
+    "Item 18 e bloco: falas de acompanhamento sem nome; ordem atribuída por inferência (confiança baixa). No item 18 só uma fala de 'acompanho' foi ouvida antes da proclamação unânime.",
+    "Nome da distribuidora do item 13 aparece como 'C 3E', 'CEAL' e 'CERG' Equatorial na legenda; identidade incerta.",
+    "Números de processo e valores vêm da legenda automática e podem conter erros."
+  ]
+}

@@ -1,0 +1,398 @@
+{
+ "meta": {
+  "video_id": "godabJSHypU",
+  "fonte": "legenda automática do YouTube; falantes inferidos (cabeçalho do .md atribui falas a diretores de outra época, ignorado); ts = tempo do vídeo; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "45",
+  "data": "2019-12-03",
+  "formato": "presencial",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Elisa Bastos",
+   "Efrain Cruz",
+   "Rodrigo Limp"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 1 da 45ª Reunião Pública Ordinária de 2019; quórum de cinco diretores.",
+   "Registro de um ano de posse da diretora Elisa Bastos.",
+   "Retirados de pauta: itens 9 e 15 (abertura) e 5 e 8 (durante a sessão).",
+   "Reunião suspensa às 3:30 do vídeo para retomada às 14h30 (itens 11 e 12 e eventuais demais ficam para a Parte 2).",
+   "Item 7: única divergência; voto-vista de Sandoval Feitosa vencedor, Elisa Bastos vencida."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:04:57",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco da 45ª RPO (votos disponibilizados previamente; números dos itens ditos de forma ininteligível na legenda)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretores aprovam o bloco em sequência; Diretor-Geral proclama aprovação de todos os itens do bloco.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "aprova o bloco",
+     "ts": "0:04:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:05:16",
+   "processo": "48500.003071/2018-97 (legenda incerta)",
+   "interessado": "Centrais Elétricas do Norte do Brasil S.A. (Eletronorte) — transmissora",
+   "assunto": "Recurso administrativo contra o Auto de Infração 15/2019 da SFE (multa) após fiscalização da perturbação de 21/03/2018 (perda do bipolo Xingu–Estreito); voto-vista sobre a dosimetria da NC 3 (preparação da SE São Luís II, tap do autotransformador)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "transmissão",
+    "recursos administrativos",
+    "apagão de 21/03/2018"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "parcial provimento por maioria, nos termos do voto-vista de Sandoval Feitosa; vencida a relatora Elisa Bastos",
+   "resumo_voto": "Sustentação oral de Ricardo de Gusmão Dornelles (Eletronorte), pedindo conversão em advertência. Voto-vista mantém a NC 3, mas reduz a abrangência de 10% para 2% (falha em um único procedimento, sem dano ao serviço nem vantagem auferida), alterando a multa de R$ 3.990.351,93 para R$ 2.772.956,42. Relatora mantém o voto original (dosimetria é discricionária e a fiscalização tem visão mais abrangente).",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relatora original; vencida (mantém voto original sem redução de multa)",
+     "ts": "0:28:01",
+     "confianca": "alta",
+     "justificativa": "não verifica motivação suficiente para reduzir a pena; fiscalização tem visão mais abrangente das infrações"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista vencedor: parcial provimento, abrangência da NC 3 de 10% para 2%",
+     "ts": "0:07:10",
+     "confianca": "alta",
+     "justificativa": "único procedimento incorreto (tap), sem impacto na recomposição, sem dano ao serviço nem vantagem; alinhar com a NC 2"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a divergência (voto-vista)",
+     "ts": "0:32:39",
+     "confianca": "media",
+     "justificativa": "raramente a empresa reconhece o erro; a própria SFE não comprovou gravidade, dano ao serviço nem vantagem"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:33:42",
+     "confianca": "media",
+     "justificativa": "voto-vista trouxe elementos importantes na análise"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o voto divergente e proclama",
+     "ts": "0:34:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:34:30",
+   "processo": "48500.002367/2019-71 (legenda incerta)",
+   "interessado": "Parques eólicos Assuruá 2, 3, 4, 5 e 7, Capoeiras 3, Curral de Pedras 1 e 2, Diamante 2 e 3, Laranjeiras 1, 2 e 5 (grupo controlador citado como 'R energia', incerto) — geradoras eólicas, LER 2013 e 2014",
+   "assunto": "Pedido de medida cautelar para reconhecimento de constrained-off (restrições do ONS no escoamento) entre 31/08/2017 e 15/12/2018, afastando ressarcimentos dos CER e impacto na garantia física",
+   "tema": [
+    "outorgas de geração (eólica)",
+    "comercialização (CCEE, contratos de energia de reserva)",
+    "transmissão",
+    "recursos administrativos (cautelar)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "cautelar negada por unanimidade; autos à SRG para cumprir o item 2 do Despacho 2.303/2019",
+   "resumo_voto": "Sustentação oral da advogada Ana Carolina Kalil (escritório Mattos Filho). Relator: ausentes fumaça do bom direito e perigo da demora; boa parte do período era de operação em teste, fora do contrato; livre acesso não é absoluto; usinas conectadas e em operação; prejuízo já suportado não é dano irreparável; tema em regulamentação na AP 34/2019 com suspensão já determinada.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "0:56:43",
+     "confianca": "alta",
+     "justificativa": "período de teste não gera receita contratual; requisitos da cautelar não atendidos; tema na AP 34/2019"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:11:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:12:24",
+   "processo": "48500.003456/2016-92 (legenda incerta)",
+   "interessado": "Chesf (UHEs Paulo Afonso IV e Apolônio Sales/Moxotó); municípios de Jatobá-PE, Glória-BA, Paulo Afonso-BA, Delmiro Gouveia-AL, Petrolândia-PE",
+   "assunto": "Alteração dos coeficientes de distribuição da CFURH das UHEs Paulo Afonso IV e Apolônio Sales (reservatório único interligado por canal)",
+   "tema": [
+    "CFURH / compensação financeira",
+    "outorgas de geração (hidrelétrica)",
+    "judicialização"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade (resolução homologatória com novos coeficientes, efeitos a partir da publicação)",
+   "resumo_voto": "Sustentações orais: Edson (procurador do município de Glória-BA) e Thales Cabral Oliveira (procurador de Jatobá-PE). Relator: usinas compartilham os mesmos recursos hídricos (interdependência operativa), CFURH deve ser rateada entre todos os municípios afetados pela área inundada; efeitos futuros, passado segue em juízo. Pepitone, ex-relator do tema, cita nova divisão (aprox. 38,8% Glória, 30,5% Jatobá, 23,2% Paulo Afonso).",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "1:39:00",
+     "confianca": "alta",
+     "justificativa": "usinas operam como reservatório único; rateio pela área inundada de ambos"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (comentou em apoio)",
+     "ts": "1:38:46",
+     "confianca": "media",
+     "justificativa": "tecnicamente comprovado que as usinas usam o mesmo recurso hídrico; decisão vale daqui para frente"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:45:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:47:13",
+   "processo": "48500.001286/2002-17 (legenda incerta)",
+   "interessado": "Rio Verde Energia S.A. — UHE Salto (116 MW), Itarumã e Caçu-GO",
+   "assunto": "Alteração do termo final da concessão da UHE Salto por excludente de responsabilidade (atraso no licenciamento ambiental por TAC entre MPs e agência ambiental de Goiás)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "excludente de responsabilidade",
+    "licenciamento ambiental"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade (483 dias de excludente; empresa pedia 31 meses, SCG propunha 22)",
+   "resumo_voto": "Caso fortuito/força maior configurado (exigência inédita de estudo integrado de bacias); período comprovado de 26/03/2003 a 21/07/2004, 16,1 meses = 483 dias; pedido nunca julgado antes, sem coisa julgada.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "2:09:23",
+     "confianca": "alta",
+     "justificativa": "atraso por ato do poder público fora do risco do produtor independente; só o período comprovado nos autos"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:11:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:11:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:11:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:11:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:11:31",
+   "processo": "48500.003028/2018-21 (legenda incerta)",
+   "interessado": "ONS; Abraceel (sustentação oral)",
+   "assunto": "Resultado da AP 31/2019: revisão de submódulos dos Procedimentos de Rede para uso do modelo DESSEM na programação diária da operação do SIN a partir de 01/01/2020",
+   "tema": [
+    "regulação normativa (audiência pública)",
+    "comercialização (preço horário, PLD)",
+    "operação do sistema (ONS)"
+   ],
+   "relator": "Rodrigo Limp",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral de Bernardo Sicsú (Abraceel): reprodutibilidade da previsão de carga e periodicidade mínima semanal para parâmetros de rampa do unit commitment. Apresentação da SRG (Bruno). Relator mantém atualização anual dos parâmetros físicos e diária para rampas; determina ao ONS em 90 dias incluir o PrevCarga DESSEM, cadastro do unit commitment térmico e atualizar o submódulo 23.4 (Portaria MME 300/2019). Pepitone destaca a modernização e preço horário em 2021.",
+   "votos": [
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "relator, aprova",
+     "ts": "2:39:25",
+     "confianca": "alta",
+     "justificativa": "equilíbrio entre padronização anual e flexibilidade das rampas; ganho de transparência e reprodutibilidade"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (comentou em apoio) e proclama",
+     "ts": "2:48:10",
+     "confianca": "media",
+     "justificativa": "passo para a modernização e preço horário; dados de entrada tão importantes quanto o modelo"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:48:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2 e 3",
+   "ts": "2:49:01",
+   "processo": "48500.002930/2019-10 e 48500.005767/2019-39 (legenda incerta)",
+   "interessado": "Amazonas Energia S.A. — distribuidora; CCEE (gestora da CDE/CCC)",
+   "assunto": "Requerimentos sobre reembolsos da CCC (maio/2017 a dez/2018): metodologia do desconto do ACR médio (montante contratado x gerado nas usinas de Manaus conectadas ao SIN) e custos adicionais de ICMS e PIS/Cofins sobre o gás natural em Manaus",
+   "tema": [
+    "CDE e encargos setoriais (CCC)",
+    "distribuição",
+    "tributos"
+   ],
+   "relator": "Elisa Bastos",
+   "resultado": "provimento parcial por unanimidade; encontro de contas no orçamento da CDE 2020 em 12 parcelas",
+   "resumo_voto": "Apresentação técnica (Gabriel, SRG). Desconto do ACR médio deve usar o montante contratado (coerência com a cobertura tarifária): débito de cerca de R$ 188,5 milhões; reconhece cerca de R$ 97 milhões de ICMS/PIS/Cofins; saldo estimado de R$ 90 milhões a devolver pela distribuidora à CCC ao longo de 2020.",
+   "votos": [
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "relator, aprova",
+     "ts": "3:22:09",
+     "confianca": "alta",
+     "justificativa": "coerência entre reembolso da CCC e cobertura tarifária; mudança tributária estadual fora da gestão da distribuidora afasta o limite de seis meses"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rodrigo Limp",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:27:19",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "9",
+   "motivo": "retirado de pauta (anunciado na abertura)"
+  },
+  {
+   "item": "15",
+   "motivo": "retirado de pauta (anunciado na abertura)"
+  },
+  {
+   "item": "5",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "item": "8",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Composição da diretoria em 12/2019 inferida (Pepitone DG, Sandoval, Elisa Bastos, Efrain Cruz, Rodrigo Limp) a partir de nomes citados; o cabeçalho do .md lista Mosna e Tili, o que é anacrônico e foi ignorado.",
+  "Números de processos e valores vêm da legenda automática e podem estar errados.",
+  "Composição do bloco ininteligível ('bloco do citen 1642').",
+  "Nos itens unânimes, as falas «acompanho» não são nomeadas; votos atribuídos pela proclamação (confiança media).",
+  "Item 7: atribuição de Efrain Cruz à primeira fala divergente inferida pela fala seguinte («da mesma forma que o diretor Efraim»); a fala de Rodrigo Limp e a de Pepitone também inferidas pela ordem.",
+  "Item 10: comentário sobre a AP 34 (constrained-off) não nomeado; não atribuído.",
+  "Itens 2 e 3: comentador sobre ICMS (Decreto estadual 40.628/2019) não identificado.",
+  "Nome do grupo controlador dos parques eólicos e do advogado Bernardo (Abraceel) podem estar grafados incorretamente."
+ ]
+}
