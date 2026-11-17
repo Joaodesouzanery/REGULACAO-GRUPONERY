@@ -16,10 +16,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | workshop | 9 | 0 | 0 |
 | 2024 | diretoria | 7 | 7 | 0 |
 | 2023 | workshop | 11 | 0 | 0 |
-| 2023 | diretoria | 10 | 4 | 0 |
+| 2023 | diretoria | 10 | 10 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | workshop | 11 | 0 | 0 |
-| 2022 | diretoria | 34 | 0 | 0 |
+| 2022 | diretoria | 34 | 2 | 0 |
 | 2022 | audiencia | 25 | 0 | 0 |
 | 2021 | workshop | 20 | 0 | 0 |
 | 2021 | diretoria | 46 | 0 | 0 |
@@ -89,6 +89,14 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-06-07 · Reunião de Diretoria Colegiada nº 1117 - 07 de junho de 2023 · `apS7xnxgTQQ`
 - 2023-05-25 · Reunião de Diretoria Colegiada nº 1116 - 25 de maio de 2023 · `ElcukGuigSw`
 - 2023-04-27 · Reunião de Diretoria Colegiada nº 1115 - 27 de abril de 2023 · `s53PTjwnTYs`
+- 2023-04-14 · Reunião de Diretoria Colegiada nº 1114 - 14 de abril de 2023 · `RfuwfE8RpvY`
+- 2023-03-29 · Reunião de Diretoria Colegiada nº 1113 - 29 de março de 2023 · `DT1GPM-1tFQ`
+- 2023-03-02 · Reunião de Diretoria Colegiada nº 1112 - 02 de março de 2023 · `N3x2paA1C1I`
+- 2023-02-09 · Reunião de Diretoria Colegiada nº 1111 - 09 de fevereiro de 2023 · `G23edbU-YLk`
+- 2023-01-26 · Reunião de Diretoria Colegiada nº 1110 - 26 de janeiro de 2023 · `9HobT0z-Je8`
+- 2023-01-12 · Reunião de Diretoria Colegiada nº 1109 - 12 de janeiro de 2023 · `ZZOtUeHLMuw`
+- 2022-12-15 · Reunião de Diretoria Colegiada nº 1108 - 15 de dezembro de 2022 · `L1Abxivw0ZI`
+- 2022-12-01 · Reunião de Diretoria Colegiada nº 1107- 01 de dezembro de 2022 · `WBv0a4xqG54`
 -  · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
 -  · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
 -  · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **392** · sem /workshop: 10; sem /audiencia: 21; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 14; 2024/workshop: 9; 2023/workshop: 11; 2023/diretoria: 7; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **384** · sem /workshop: 10; sem /audiencia: 21; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 14; 2024/workshop: 9; 2023/workshop: 11; 2023/diretoria: 1; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 32; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -90,23 +90,15 @@ Total: **392** · sem /workshop: 10; sem /audiencia: 21; 2026/workshop: 17; 2026
 - 2023-05-16 · audiencia · Audiência Pública nº 28/2022 · https://www.youtube.com/watch?v=XkDwMEhwwhA · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · workshop · Workshop Regulamentação do inciso VI do Art. 7° da Nova Lei do Gás · https://www.youtube.com/watch?v=dDcIlmr0uCg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-25 · audiencia · Audiência Pública n° 4/2023 · https://www.youtube.com/watch?v=kOR_y1aOEpY · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-14 · diretoria · Reunião de Diretoria Colegiada nº 1114 - 14 de abril de 2023 · https://www.youtube.com/watch?v=RfuwfE8RpvY · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-29 · diretoria · Reunião de Diretoria Colegiada nº 1113 - 29 de março de 2023 · https://www.youtube.com/watch?v=DT1GPM-1tFQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-28 · workshop · 3º Seminário Nacional de Biocombustíveis e Qualidade de Produtos - Dia 2 · https://www.youtube.com/watch?v=gKCLUfLv0Zk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-27 · workshop · 3º Seminário Nacional de Biocombustíveis e Qualidade de Produtos - Dia 1 · https://www.youtube.com/watch?v=GqfAk1HpXJ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-21 · workshop · Workshop Acesso a Terminais Aquaviários - 6 meses da Resolução ANP 881/2022 · https://www.youtube.com/watch?v=vU6WJOge2qo · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-14 · audiencia · Audiência Pública n° 05/2023 · https://www.youtube.com/watch?v=939JoY75L00 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-10 · workshop · Workshop Acesso a Infraestruturas Essenciais de Gás Natural - Dia 2 · https://www.youtube.com/watch?v=fGBjDJWWoZE · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-09 · workshop · Workshop Acesso a Infraestruturas Essenciais de Gás Natural - Dia 1 · https://www.youtube.com/watch?v=Snnz3kXfSNA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-02 · diretoria · Reunião de Diretoria Colegiada nº 1112 - 02 de março de 2023 · https://www.youtube.com/watch?v=N3x2paA1C1I · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-15 · audiencia · Audiência Pública n° 27/2022 · https://www.youtube.com/watch?v=sZ83WE1gNRo · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-02-09 · diretoria · Reunião de Diretoria Colegiada nº 1111 - 09 de fevereiro de 2023 · https://www.youtube.com/watch?v=G23edbU-YLk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-01-26 · diretoria · Reunião de Diretoria Colegiada nº 1110 - 26 de janeiro de 2023 · https://www.youtube.com/watch?v=9HobT0z-Je8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-01-25 · workshop · Workshop do Sistema de Gerenciamento de Segurança Operacional (SGSO) · https://www.youtube.com/watch?v=zrDwQtLA8do · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-01-24 · audiencia · Audiência Pública n° 26/2022 · https://www.youtube.com/watch?v=dbiEpp1E6no · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-01-12 · diretoria · Reunião de Diretoria Colegiada nº 1109 - 12 de janeiro de 2023 · https://www.youtube.com/watch?v=ZZOtUeHLMuw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-12-15 · diretoria · Reunião de Diretoria Colegiada nº 1108 - 15 de dezembro de 2022 · https://www.youtube.com/watch?v=L1Abxivw0ZI · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-12-01 · diretoria · Reunião de Diretoria Colegiada nº 1107- 01 de dezembro de 2022 · https://www.youtube.com/watch?v=WBv0a4xqG54 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-24 · diretoria · Reunião de Diretoria Colegiada nº 1106 - 24 de novembro de 2022 · https://www.youtube.com/watch?v=I4D5gXFLWRA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-14 · workshop · Workshop Certificação de Importadores de Biocombustíveis - Etanol de Milho Ameri · https://www.youtube.com/watch?v=uj1sZKVepkk · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-09 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 64 - 09 de novembro de 2022 · https://www.youtube.com/watch?v=TRFz0bn4JyE · **ainda não baixado (rodar a coleta no Mac)**
