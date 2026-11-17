@@ -259,9 +259,27 @@ def densidade(html_path, estrito=False):
     return ruins
 
 
+def acentos(h):
+    """corrige palavras sem acento no TEXTO do HTML (fora de tags, URLs e falas literais «»), ex.: rótulos vindos de slugs (servicos_terminais)."""
+    import revisar_portugues as rp
+    def fix_txt(t):
+        partes = re.split(r"(«[^»]*»)", t)
+        for i in range(0, len(partes), 2):
+            partes[i] = re.sub(r"\b[a-zA-Z]+\b", lambda m: (lambda v: (v.capitalize() if m.group(0)[0].isupper() else v) if v else m.group(0))(rp.PARES.get(m.group(0).lower())), partes[i])
+        return "".join(partes)
+    out = re.split(r"(<[^>]+>)", h)
+    dentro_estilo = False
+    for i, x in enumerate(out):
+        if x.startswith("<"):
+            dentro_estilo = x.lower().startswith(("<style", "<script")) or (dentro_estilo and not x.lower().startswith(("</style", "</script")))
+            continue
+        if not dentro_estilo: out[i] = fix_txt(x)
+    return "".join(out)
+
+
 def sem_travessao(h):
     """troca o travessão de texto corrido por vírgula (skill pagina-cheia); mantém «—» sozinho (célula vazia)."""
-    return re.sub(r"(?<=\S) — (?=\S)", ", ", h).replace("→ —", "→ a definir")
+    return acentos(re.sub(r"(?<=\S) — (?=\S)", ", ", h).replace("→ —", "→ a definir"))
 
 
 def documento(paginas, titulo, saida):

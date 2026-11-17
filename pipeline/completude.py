@@ -3,7 +3,7 @@ processos de clientes e qualidade. Gera COMPLETUDE.md e imprime a tabela. Uso: p
 import os, json, glob, sqlite3, datetime, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 H = datetime.date.today().isoformat(); DESDE = "2018-01-01"
-AGS = [("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq"), ("aneel", "data/aneel"), ("anp", "data/anp")]
+AGS = [("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq"), ("aneel", "data/aneel"), ("anp", "data/anp"), ("ana", "data/ana"), ("anac", "data/anac")]
 ld = lambda p, d: json.load(open(p)) if os.path.exists(p) else d
 L = [f"# Completude da base — {datetime.date.today():%d/%m/%Y}", "", "Recorte 2018 em diante. Gerado por `python3 pipeline/completude.py` (skill completude).", ""]
 lin = []
@@ -17,7 +17,7 @@ for ag, d in AGS:
     dire = [v for v in V if v["tipo"] == "diretoria"]; ev = [v for v in V if v["tipo"] != "diretoria"]
     r = {"dir": (len(dire), sum(map(tx, dire)), sum(map(an, dire))), "ev": (len(ev), sum(map(tx, ev)), sum(map(an, ev)))}
     db = f"{d}/regulacao.db"
-    if os.path.exists(db):
+    if os.path.exists(db) and sqlite3.connect(db).execute("select count(*) from sqlite_master where name='itens'").fetchone()[0]:
         c = sqlite3.connect(db)
         r["itens"] = c.execute("select count(*) from itens i join reunioes r on r.id=i.reuniao_id where r.data>=?", (DESDE,)).fetchone()[0]
         r["votos"] = c.execute("select count(*) from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where r.data>=?", (DESDE,)).fetchone()[0]

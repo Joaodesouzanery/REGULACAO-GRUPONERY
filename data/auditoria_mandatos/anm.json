@@ -1,0 +1,50 @@
+{
+ "linhas": [
+  {
+   "linha": "1",
+   "iris": "Mauro Henrique Moreira Sousa, Diretor-Geral, titular, 05/12/2022 a 04/12/2026",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt tem só o cabeçalho (121 bytes, publicação vazia), então o ato não foi baixado e não há como conferir.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048"
+  },
+  {
+   "linha": "2",
+   "iris": "Caio Mário Trivellato Seabra Filho, Diretor (afastado judicialmente desde set/2025), titular, 27/12/2023 a 04/12/2026",
+   "ato": "Decreto de 26/12/2023 (DOU 27/12/2023, Seção 2)",
+   "trecho": "CAIO MÁRIO TRIVELLATO SEABRA FILHO, para exercer o cargo de Diretor da Agência Nacional de Mineração - ANM, com mandato até 4 de dezembro de 2026, na vaga decorrente do término do mandato de Ronaldo Jorge da Silva Lima.",
+   "resultado": "confere",
+   "detalhe": "Nome, cargo e fim do mandato (04/12/2026) conferem. O início de 27/12/2023 que o IRIS dá é a data de publicação; a posse não consta do ato. O ato não diz nada sobre o afastamento judicial de set/2025. A vaga é a de Ronaldo Jorge da Silva Lima.",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-26-de-dezembro-de-2023-533498882"
+  },
+  {
+   "linha": "3",
+   "iris": "José Fernando de Mendonça Gomes Júnior, Diretor, titular, 01/09/2025 a 04/12/2028",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt tem só o cabeçalho (121 bytes), então o ato não foi baixado.",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-28-de-agosto-de-2025-651712105"
+  },
+  {
+   "linha": "4",
+   "iris": "Diretoria vaga desde 04/12/2025 (ex-titular Roger Romão Cabral); próximo mandato até 04/12/2029; substituto Luiz Paniago Neves",
+   "resultado": "sem texto do ato",
+   "detalhe": "O link aponta para os decretos de 25/04/2022, que não foram baixados (só o cabeçalho). Observação: a designação de Luiz Paniago Neves como primeiro substituto aparece em outro ato, os Decretos de 30/01/2025 (ver linha 5).",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394848048"
+  },
+  {
+   "linha": "5",
+   "iris": "Diretoria vaga desde 04/12/2025 (ex-titular Tasso Mendonça Junior); próximo mandato até 04/12/2029; substituto Fábio Fernando Borges",
+   "ato": "Decretos de 30/01/2025 (DOU 31/01/2025, Seção 2)",
+   "trecho": "DESIGNAR FÁBIO FERNANDO BORGES, servidor da Agência Nacional de Mineração - ANM, para compor a lista de substituição da Diretoria Colegiada da referida agência, como terceiro substituto.",
+   "resultado": "confere",
+   "detalhe": "Confere só a parte do substituto: Fábio Fernando Borges está na lista de substituição, como terceiro substituto. O ato não fala da vaga de Tasso Mendonça Junior, da data da vaga (04/12/2025) nem do fim do próximo mandato (04/12/2029), e não liga o substituto a essa cadeira. O mesmo ato designa Luiz Paniago Neves (1º substituto) e Cláudio Roberto Freire (2º substituto) e dispensa Caio Mário Trivellato Seabra Filho como 1º substituto a partir de 27/12/2023.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-30-de-janeiro-de-2025-610203719"
+  },
+  {
+   "linha": "rodapé",
+   "iris": "Nota de rodapé (o IRIS não traz conteúdo estruturado)",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt tem só o cabeçalho (98 bytes), então o despacho não foi baixado.",
+   "url": "https://www.in.gov.br/web/dou/-/despacho-723534419"
+  }
+ ]
+}

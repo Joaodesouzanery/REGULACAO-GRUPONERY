@@ -1,0 +1,58 @@
+{
+ "linhas": [
+  {
+   "linha": "1",
+   "iris": "Leandro Pinheiro Safatle, Diretor-Presidente, titular, de 29/08/2025 a 21/12/2029",
+   "ato": "Decretos de 28 de agosto de 2025 (DOU)",
+   "trecho": "",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt baixado só tem cabeçalho (122 caracteres; status 'sem texto'). Não dá para conferir.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651773350"
+  },
+  {
+   "linha": "2",
+   "iris": "Daniel Meirelles Fernandes Pereira, Diretor (4ª Diretoria), titular, de 25/07/2022 a 24/07/2027",
+   "ato": "Decretos de 25 de abril de 2022 (DOU 25/04/2022, Seção 2 Extra B)",
+   "trecho": "NOMEAR, a partir de 25 de julho de 2022, DANIEL MEIRELLES FERNANDES PEREIRA, para exercer o cargo de Diretor da Agência Nacional de Vigilância Sanitária - ANVISA, com mandato até 24 de julho de 2027, na vaga decorrente do término do mandato de Cristiane Rose Jourdan Gomes.",
+   "resultado": "confere",
+   "detalhe": "Nome, início e fim conferem. O ato não numera a diretoria (4ª), então esse ponto não é verificável pelo texto.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-25-de-abril-de-2022-394914132"
+  },
+  {
+   "linha": "3",
+   "iris": "Daniela Marreco Cerqueira, Diretora (2ª Diretoria), titular, de 29/08/2025 a 12/12/2029",
+   "ato": "Decretos de 28 de agosto de 2025 (DOU)",
+   "trecho": "",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt baixado só tem cabeçalho (122 caracteres). Não dá para conferir.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651773350"
+  },
+  {
+   "linha": "4",
+   "iris": "Thiago Lopes Cardoso Campos, Diretor (5ª Diretoria), titular, de 29/08/2025 a 31/03/2030",
+   "ato": "Decretos de 28 de agosto de 2025 (DOU)",
+   "trecho": "",
+   "resultado": "sem texto do ato",
+   "detalhe": "O .txt baixado só tem cabeçalho (122 caracteres). Não dá para conferir.",
+   "url": "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651773350"
+  },
+  {
+   "linha": "5",
+   "iris": "3ª Diretoria vaga desde 19/12/2025; ex-titular Rômison Mota; o próximo mandato termina em 19/12/2030; substituto: Marcelo Mario Matos Moreira",
+   "ato": "Decreto de 19 de julho de 2021 (DOU 20/07/2021, Seção 2)",
+   "trecho": "NOMEAR ROMISON RODRIGUES MOTA, para exercer o cargo de Diretor da Agência Nacional de Vigilância Sanitária - ANVISA, com mandato até 19 de dezembro de 2025, na vaga decorrente do término do mandato de Alessandra Bastos Soares.",
+   "resultado": "confere",
+   "detalhe": "O ato confirma o ex-titular e o fim do mandato em 19/12/2025, que é a data em que a vaga começa. O ato não trata do substituto, do número da diretoria nem do fim do próximo mandato (19/12/2030), então esses pontos não são verificáveis por ele.",
+   "url": "https://www.in.gov.br/web/dou/-/decreto-de-19-de-julho-de-2021-332966409"
+  },
+  {
+   "linha": "rodapé",
+   "iris": "Nota de rodapé sem conteúdo estruturado (iris nulo); o link aponta para o Despacho nº 135/2026",
+   "ato": "Despacho nº 135, de 5 de novembro de 2026 (DOU 06/11/2026, Seção 1)",
+   "trecho": "LEANDRO PINHEIRO SAFATLE   Diretor-Presidente ... Área responsável: GGTOX/DIRE3 ... Relatoria: Marcelo Mario Matos Moreira.",
+   "resultado": "confere",
+   "detalhe": "O ato mostra Safatle assinando como Diretor-Presidente em 05/11/2026 e Marcelo Mario Matos Moreira como relator de item da DIRE3 (3ª Diretoria). Isso é compatível com a substituição na 3ª Diretoria indicada na linha 5. O ato não diz expressamente 'substituto', e o IRIS não traz afirmação própria para comparar.",
+   "url": "https://www.in.gov.br/web/dou/-/despacho-n-135-de-5-de-novembro-de-2026-742053430"
+  }
+ ]
+}
