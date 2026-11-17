@@ -4,17 +4,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | workshop | 10 | 0 | 0 |
-| sem data | diretoria | 31 | 31 | 0 |
-| sem data | audiencia | 21 | 0 | 0 |
-| 2026 | workshop | 17 | 0 | 0 |
+| sem data | workshop | 7 | 0 | 0 |
+| sem data | diretoria | 18 | 18 | 0 |
+| sem data | audiencia | 15 | 0 | 0 |
+| 2026 | workshop | 10 | 0 | 0 |
 | 2026 | diretoria | 22 | 21 | 0 |
 | 2026 | audiencia | 18 | 0 | 0 |
-| 2025 | workshop | 17 | 0 | 0 |
-| 2025 | diretoria | 22 | 22 | 0 |
-| 2025 | audiencia | 14 | 0 | 0 |
-| 2024 | workshop | 9 | 0 | 0 |
-| 2024 | diretoria | 7 | 7 | 0 |
+| 2025 | workshop | 14 | 0 | 0 |
+| 2025 | diretoria | 24 | 24 | 0 |
+| 2025 | audiencia | 15 | 0 | 0 |
+| 2024 | workshop | 12 | 0 | 0 |
+| 2024 | diretoria | 18 | 18 | 0 |
+| 2024 | audiencia | 5 | 0 | 0 |
 | 2023 | workshop | 11 | 0 | 0 |
 | 2023 | diretoria | 10 | 10 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
@@ -78,6 +79,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-03-27 · Reunião de Diretoria Colegiada nº 1157 - 27 de março de 2025 · `ocXCzfq0zZI`
 - 2025-03-20 · Reunião de Diretoria Colegiada nº 1156 - 20 de março de 2025 · `FdjDOZ9wcmI`
 - 2025-02-20 · Reunião de Diretoria Colegiada nº 1155 - 20 de fevereiro de 2025 · `OrAPFrxXbNc`
+- 2025-02-06 · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
+- 2025-01-23 · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
+- 2024-12-19 · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
 - 2024-12-14 · Reunião de Diretoria Colegiada nº 1151 - 13 de dezembro de 2024 · `MngJ-EXGqcs`
 - 2024-11-28 · Reunião de Diretoria Colegiada nº 1150 - 28 de novembro de 2024 · `hrCl14NQxvY`
 - 2024-11-15 · Reunião de Diretoria Colegiada nº 1149 - 14 de outubro de 2024 · `VAmwjPIED2U`
@@ -85,6 +89,16 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-10-03 · Reunião de Diretoria Colegiada nº 1146 - 3 de outubro de 2024 · `IoXXBk607M0`
 - 2024-09-19 · Reunião de Diretoria Colegiada nº 1145 - 19 de setembro de 2024 · `asAKOPmeB8E`
 - 2024-09-11 · Reunião de Diretoria Colegiada Extraordinária nº 67 - 11 de setembro d · `EmOfSI69wXY`
+- 2024-09-05 · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · `k0ZqLCoDJCo`
+- 2024-08-22 · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · `ArnN1KCB8kY`
+- 2024-08-08 · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · `rhsV7CS3jPE`
+- 2024-07-25 · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · `aMoxfPShKvw`
+- 2024-07-11 · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
+- 2024-06-27 · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
+- 2024-05-29 · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
+- 2024-05-24 · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
+- 2024-05-16 · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · `1OTBSgcmkU4`
+- 2024-04-25 · Reunião de Diretoria Colegiada nº 1136 - 25 de abril de 2024 · `R1qsVvBxk4o`
 - 2023-07-07 · Bastidores da Reunião de Diretoria · `Ig3r9jec6mY`
 - 2023-06-07 · Reunião de Diretoria Colegiada nº 1117 - 07 de junho de 2023 · `apS7xnxgTQQ`
 - 2023-05-25 · Reunião de Diretoria Colegiada nº 1116 - 25 de maio de 2023 · `ElcukGuigSw`
@@ -97,18 +111,6 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-01-12 · Reunião de Diretoria Colegiada nº 1109 - 12 de janeiro de 2023 · `ZZOtUeHLMuw`
 - 2022-12-15 · Reunião de Diretoria Colegiada nº 1108 - 15 de dezembro de 2022 · `L1Abxivw0ZI`
 - 2022-12-01 · Reunião de Diretoria Colegiada nº 1107- 01 de dezembro de 2022 · `WBv0a4xqG54`
--  · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
--  · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
--  · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
--  · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · `k0ZqLCoDJCo`
--  · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · `ArnN1KCB8kY`
--  · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · `rhsV7CS3jPE`
--  · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · `aMoxfPShKvw`
--  · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
--  · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
--  · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
--  · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · `1OTBSgcmkU4`
--  · Reunião de Diretoria Colegiada nº 1136 - 25 de abril de 2024 · `R1qsVvBxk4o`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
@@ -127,6 +129,5 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1120 - 03 de agosto de 2023 · `gpo-UVbWyXI`
 -  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
 -  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
--  · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
