@@ -5,7 +5,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | workshop | 10 | 0 | 0 |
-| sem data | diretoria | 31 | 29 | 0 |
+| sem data | diretoria | 31 | 31 | 0 |
 | sem data | audiencia | 21 | 0 | 0 |
 | 2026 | workshop | 17 | 0 | 0 |
 | 2026 | diretoria | 22 | 21 | 0 |
@@ -16,7 +16,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | workshop | 9 | 0 | 0 |
 | 2024 | diretoria | 7 | 7 | 0 |
 | 2023 | workshop | 11 | 0 | 0 |
-| 2023 | diretoria | 10 | 0 | 0 |
+| 2023 | diretoria | 10 | 4 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | workshop | 11 | 0 | 0 |
 | 2022 | diretoria | 34 | 0 | 0 |
@@ -85,6 +85,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-10-03 · Reunião de Diretoria Colegiada nº 1146 - 3 de outubro de 2024 · `IoXXBk607M0`
 - 2024-09-19 · Reunião de Diretoria Colegiada nº 1145 - 19 de setembro de 2024 · `asAKOPmeB8E`
 - 2024-09-11 · Reunião de Diretoria Colegiada Extraordinária nº 67 - 11 de setembro d · `EmOfSI69wXY`
+- 2023-07-07 · Bastidores da Reunião de Diretoria · `Ig3r9jec6mY`
+- 2023-06-07 · Reunião de Diretoria Colegiada nº 1117 - 07 de junho de 2023 · `apS7xnxgTQQ`
+- 2023-05-25 · Reunião de Diretoria Colegiada nº 1116 - 25 de maio de 2023 · `ElcukGuigSw`
+- 2023-04-27 · Reunião de Diretoria Colegiada nº 1115 - 27 de abril de 2023 · `s53PTjwnTYs`
 -  · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
 -  · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
 -  · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
@@ -113,6 +117,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1122 - 31 de agosto de 2023 · `CttEz2naNCU`
 -  · Reunião de Diretoria Colegiada nº 1121 - 17 de agosto de 2023 · `66uVC26Lmc4`
 -  · Reunião de Diretoria Colegiada nº 1120 - 03 de agosto de 2023 · `gpo-UVbWyXI`
+-  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
+-  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
 -  · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).

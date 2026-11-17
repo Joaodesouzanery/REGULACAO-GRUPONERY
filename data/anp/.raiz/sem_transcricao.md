@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **397** · sem /workshop: 10; sem /diretoria: 2; sem /audiencia: 21; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 14; 2024/workshop: 9; 2023/workshop: 11; 2023/diretoria: 10; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **392** · sem /workshop: 10; sem /audiencia: 21; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 14; 2024/workshop: 9; 2023/workshop: 11; 2023/diretoria: 7; 2023/audiencia: 7; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -83,14 +83,11 @@ Total: **397** · sem /workshop: 10; sem /diretoria: 2; sem /audiencia: 21; 2026
 - 2023-12-22 · workshop · Workshop SAG  EADs - Armazenamento Geológico e CCUS · https://www.youtube.com/watch?v=YE1if68Hi1o · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-28 · workshop · Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres (V · https://www.youtube.com/watch?v=AReDDMGOwGk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-27 · workshop · XI Workshop de Segurança Operacional e Meio Ambiente da ANP · https://www.youtube.com/watch?v=4DjA1xRF5fI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **ainda não baixado (rodar a coleta no Mac)**
+- 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **transcrição sem fala útil (557 caracteres; só música/ruído)**
 - 2023-06-26 · audiencia · Audiência Pública nº 24/2022 · https://www.youtube.com/watch?v=JmLRYlNB3s8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-07 · diretoria · Reunião de Diretoria Colegiada nº 1117 - 07 de junho de 2023 · https://www.youtube.com/watch?v=apS7xnxgTQQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-30 · audiencia · Audiência Pública nº 01/2023 · https://www.youtube.com/watch?v=sfV2AIAEp0Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-25 · diretoria · Reunião de Diretoria Colegiada nº 1116 - 25 de maio de 2023 · https://www.youtube.com/watch?v=ElcukGuigSw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-23 · workshop · RenovaBio – Workshop sobre contrato de longo prazo regulamentado na Resolução AN · https://www.youtube.com/watch?v=jfmXmNagkqc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-16 · audiencia · Audiência Pública nº 28/2022 · https://www.youtube.com/watch?v=XkDwMEhwwhA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-27 · diretoria · Reunião de Diretoria Colegiada nº 1115 - 27 de abril de 2023 · https://www.youtube.com/watch?v=s53PTjwnTYs · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · workshop · Workshop Regulamentação do inciso VI do Art. 7° da Nova Lei do Gás · https://www.youtube.com/watch?v=dDcIlmr0uCg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-25 · audiencia · Audiência Pública n° 4/2023 · https://www.youtube.com/watch?v=kOR_y1aOEpY · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-14 · diretoria · Reunião de Diretoria Colegiada nº 1114 - 14 de abril de 2023 · https://www.youtube.com/watch?v=RfuwfE8RpvY · **ainda não baixado (rodar a coleta no Mac)**
@@ -375,8 +372,6 @@ Total: **397** · sem /workshop: 10; sem /diretoria: 2; sem /audiencia: 21; 2026
 - s/data · workshop · Workshop Garantias de Descomisionamento · https://www.youtube.com/watch?v=zl3gP681dsg · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · Workshop Asfaltos · https://www.youtube.com/watch?v=Dk21bfURk4Y · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · Seminário Relatório Anual de Exploração 2022 · https://www.youtube.com/watch?v=TnOUY2iR_Fo · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · https://www.youtube.com/watch?v=Hyo-Ojswyp8 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · https://www.youtube.com/watch?v=YOvH8PE6agg · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · NA · https://www.youtube.com/watch?v=SeYWHzNt3XE · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · NA · https://www.youtube.com/watch?v=uZjnkGZ5gHg · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · NA · https://www.youtube.com/watch?v=NR67sLQ5koY · **ainda não baixado (rodar a coleta no Mac)**
