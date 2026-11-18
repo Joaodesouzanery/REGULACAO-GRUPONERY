@@ -12,9 +12,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 28 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
-| 2023 | diretoria | 36 | 29 | 0 |
+| 2023 | diretoria | 36 | 36 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
-| 2022 | diretoria | 25 | 0 | 0 |
+| 2022 | diretoria | 25 | 5 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
 | 2021 | diretoria | 27 | 0 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
@@ -109,5 +109,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-04-19 · 872ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de Abr · `CpHmsgHqqa8`
 - 2023-04-14 · 871ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 13 de Abr · `NPvP9_5HRww`
 - 2023-04-04 · 870ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de Abr · `sC-NIA_Ebps`
+- 2023-03-28 · 869ª REUNIÃO DELIBERATIVA ORDINÁRIA DA DIRETORIA COLEGIADA - 28 DE MAR · `h5cSSFFFj6k`
+- 2023-03-14 · 868ª REUNIÃO DELIBERATIVA ORDINÁRIA DA DIRETORIA COLEGIADA - 14 DE MAR · `isGq1KqISeg`
+- 2023-03-07 · 867ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 07 de Mar · `Pyl0x0AaQ5w`
+- 2023-02-28 · 866ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 28 Fevere · `egdaldILi4g`
+- 2023-02-14 · 865ª Reunião Deliberativa da Diretoria Colegiada - 14 de Fevereiro de  · `leqUzW3cOt8`
+- 2023-01-31 · 864ª Reunião Deliberativa da Diretoria Colegiada - 31 de Janeiro de 20 · `vmTBaMmHCeM`
+- 2023-01-24 · 863ª Reunião Deliberativa da Diretoria Colegiada - 24 de Janeiro de 20 · `m-baByVF8C4`
+- 2022-12-20 · 862ª Reunião Deliberativa da Diretoria Colegiada - 19 de Dezembro de 2 · `oj-LqSVI1k8`
+- 2022-12-13 · 861ª Reunião Deliberativa da Diretoria Colegiada - 13 de Dezembro de 2 · `fGP3uYZ_oWE`
+- 2022-12-08 · 860ª Reunião Deliberativa da Diretoria Colegiada - 08 de Dezembro de 2 · `Bpqc0Kpj-Bs`
+- 2022-11-22 · 859ª Reunião Deliberativa da Diretoria Colegiada - 22 de Novembro de 2 · `lVoT9EBeie8`
+- 2022-11-08 · 858ª Reunião Deliberativa da Diretoria Colegiada - 08 de Novembro de 2 · `IrmiCHBmjhY`
 
 Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
