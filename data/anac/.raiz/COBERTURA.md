@@ -20,7 +20,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 27 | 27 | 0 |
 | 2021 | audiencia | 4 | 0 | 0 |
-| 2020 | diretoria | 30 | 3 | 0 |
+| 2020 | diretoria | 30 | 15 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
 | 2019 | diretoria | 21 | 0 | 0 |
 | 2018 | diretoria | 25 | 0 | 0 |
@@ -148,4 +148,16 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-01-12 · 1ª Reunião Deliberativa da Diretoria Colegiada (2021) · `NeHipwbWtK8`
 - 2020-12-17 · 5ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2020) · `TQFW6VlGKJ0`
 - 2020-12-08 · 24ª Reunião Deliberativa da Diretoria Colegiada (2020) · `Oabh628NfJI`
+- 2020-11-24 · 23ª Reunião Deliberativa da Diretoria Colegiada (2020) · `_uic0f8R-6k`
+- 2020-11-17 · 4ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2020) · `C0CHzQ52hYw`
+- 2020-11-10 · 22ª Reunião Deliberativa da Diretoria Colegiada (2020) · `MhQYWCFlz_g`
+- 2020-10-27 · 21ª Reunião Deliberativa da Diretoria Colegiada (2020) · `D1-EnFwckvc`
+- 2020-10-13 · 20ª Reunião Deliberativa da Diretoria Colegiada (2020) · `pKnYp7cs2oQ`
+- 2020-09-29 · 19ª Reunião Deliberativa da Diretoria Colegiada (2020) · `3_VbpIEiOh8`
+- 2020-09-15 · 18ª Reunião Deliberativa da Diretoria Colegiada (2020) · `ZVxaFww_AmU`
+- 2020-09-01 · 17ª Reunião Deliberativa da Diretoria Colegiada (2020) · `wlrPu5VeReM`
+- 2020-08-18 · 16ª Reunião Deliberativa da Diretoria Colegiada (2020) · `rb9lh5wqEqo`
+- 2020-08-10 · 3ª Reunião Deliberativa Extraordinária da Diretoria (2020) · `6OUmb-2kpGI`
+- 2020-08-04 · 15ª Reunião Deliberativa da Diretoria Colegiada (2020) · `Qg9B2K1Q4EQ`
+- 2020-07-21 · 14ª Reunião Deliberativa da Diretoria Colegiada (2020) · `VRJ6MeMkG08`
 - 2020-07-08 · 13ª Reunião Deliberativa da Diretoria Colegiada - Parte I. · `_8qVbJpKzOo`

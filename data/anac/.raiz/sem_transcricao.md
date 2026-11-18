@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **759** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 27; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **747** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 15; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
@@ -21,19 +21,7 @@ Total: **759** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2021-10-27 · audiencia · Audiência Pública nº 13/2021 · https://www.youtube.com/watch?v=i-t6LIHcHXA · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-13 · audiencia · Audiência Pública n⁰ 12/2021 · https://www.youtube.com/watch?v=fb-b4Z5imnU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-12 · audiencia · Audiência Pública n⁰ 02/2021 · https://www.youtube.com/watch?v=n3fQEMEmT8g · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-24 · diretoria · 23ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=_uic0f8R-6k · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-17 · diretoria · 4ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=C0CHzQ52hYw · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-10 · diretoria · 22ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=MhQYWCFlz_g · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-27 · diretoria · 21ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=D1-EnFwckvc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-13 · diretoria · 20ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=pKnYp7cs2oQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-29 · diretoria · 19ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=3_VbpIEiOh8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-15 · diretoria · 18ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=ZVxaFww_AmU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-01 · diretoria · 17ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=wlrPu5VeReM · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-18 · diretoria · 16ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=rb9lh5wqEqo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-10 · diretoria · 3ª Reunião Deliberativa Extraordinária da Diretoria (2020) · https://www.youtube.com/watch?v=6OUmb-2kpGI · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-04 · diretoria · 15ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=Qg9B2K1Q4EQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-31 · audiencia · Webinário Consulta Pública - Emenda ao RBAC 145 · https://www.youtube.com/watch?v=8S0FRLWLTuY · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-21 · diretoria · 14ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=VRJ6MeMkG08 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-08 · diretoria · 13ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=DmWDwvXIqJ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-01 · diretoria · 2ª Reunião Deliberativa Extraordinária da Diretoria. · https://www.youtube.com/watch?v=1Itv1--ASlA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-23 · diretoria · 12ª Reunião Deliberativa da Diretoria Colegiada (2020) · https://www.youtube.com/watch?v=gw6gcPBlk4A · **ainda não baixado (rodar a coleta no Mac)**
