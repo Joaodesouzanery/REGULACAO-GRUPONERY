@@ -2,26 +2,14 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **50** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 19; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **38** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 7; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
 - 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **transcrição sem fala útil (557 caracteres; só música/ruído)**
-- 2021-10-20 · workshop · Seminário Ambiental e Jurídico-Fiscal da Segunda Rodada dos Volumes Excedentes d · https://www.youtube.com/watch?v=O8d0ZeffZvU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-15 · workshop · Workshop Projeto Biodiesel · https://www.youtube.com/watch?v=QRCazdxAgh0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-23 · workshop · Workshop Técnico sobre potencial petrolífero dos blocos exploratórios na Oferta  · https://www.youtube.com/watch?v=KMqEKJv_JpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-09 · workshop · Seminário Ambiental e Jurídico-Fiscal da 17ª Rodada de Licitações · https://www.youtube.com/watch?v=AJbjM0EJvIM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-04 · workshop · Seminário Plays exploratórios em águas profundas das bacias da Margem Equatorial · https://www.youtube.com/watch?v=3_78hRnPDl8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-27 · workshop · Workshop Estoques e Monitoramento do Abastecimento de Combustíveis · https://www.youtube.com/watch?v=Evh8ArG27qA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-05 · workshop · Seminário - Novos Instrumentos de Divulgação de Informações sobre Exploração · https://www.youtube.com/watch?v=xaZOE30fXQE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-15 · workshop · Seminário Técnico da 17ª Rodada de Licitações de Blocos · https://www.youtube.com/watch?v=Xzd3HILtR74 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-07 · workshop · 3º Workshop sobre o Modelo Conceitual do Mercado de Gás - 07/05/2021 · https://www.youtube.com/watch?v=MTDe9oj9oO0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-04 · workshop · Workshop de Conteúdo Local - 04/05 · https://www.youtube.com/watch?v=oV7_xVX0Ysk · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-03 · workshop · Workshop de Conteúdo Local - 03/05 · https://www.youtube.com/watch?v=7kte9XSfhUQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-28 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 28/04 · https://www.youtube.com/watch?v=bB2JSDhkNFw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-27 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 27/04 · https://www.youtube.com/watch?v=ldq0xRJoMi4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-07 · workshop · Workshop - Cessão de contratos · https://www.youtube.com/watch?v=bztZa7EpQEE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-06 · workshop · Seminário de Avaliação do Mercado de Combustíveis 2021 · https://www.youtube.com/watch?v=Rogr4KB755U · **ainda não baixado (rodar a coleta no Mac)**
+- 2021-05-07 · workshop · 3º Workshop sobre o Modelo Conceitual do Mercado de Gás - 07/05/2021 · https://www.youtube.com/watch?v=MTDe9oj9oO0 · **legenda desativada/inexistente no YouTube**
+- 2021-04-28 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 28/04 · https://www.youtube.com/watch?v=bB2JSDhkNFw · **legenda desativada/inexistente no YouTube**
+- 2021-04-27 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 27/04 · https://www.youtube.com/watch?v=ldq0xRJoMi4 · **legenda desativada/inexistente no YouTube**
 - 2021-03-19 · workshop · Workshop Fiscalização e o Direito do Consumidor no Mercado de Combustíveis · https://www.youtube.com/watch?v=7LoPnbuPSc4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-23 · workshop · Workshop sobre a Revisão da Resolução Conjunta ANP/Inmetro n° 1/2013 · https://www.youtube.com/watch?v=pLueKv6Ee3A · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-10 · workshop · 2º Workshop sobre o Modelo Conceitual do Mercado de Gás · https://www.youtube.com/watch?v=ZLd9IHeqnTw · **ainda não baixado (rodar a coleta no Mac)**

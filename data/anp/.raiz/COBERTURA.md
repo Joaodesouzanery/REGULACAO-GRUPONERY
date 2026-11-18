@@ -22,7 +22,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | workshop | 11 | 11 | 0 |
 | 2022 | diretoria | 34 | 34 | 0 |
 | 2022 | audiencia | 25 | 25 | 0 |
-| 2021 | workshop | 20 | 1 | 0 |
+| 2021 | workshop | 20 | 13 | 0 |
 | 2021 | diretoria | 46 | 46 | 0 |
 | 2021 | audiencia | 23 | 23 | 0 |
 | 2020 | workshop | 10 | 0 | 0 |
@@ -274,4 +274,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
 -  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
 
-Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 11 (ver `data/sem_legenda.jsonl`).
