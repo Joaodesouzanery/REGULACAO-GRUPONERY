@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **38** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 7; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **26** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 3; 2020/workshop: 2; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
@@ -10,18 +10,6 @@ Total: **38** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/au
 - 2021-05-07 · workshop · 3º Workshop sobre o Modelo Conceitual do Mercado de Gás - 07/05/2021 · https://www.youtube.com/watch?v=MTDe9oj9oO0 · **legenda desativada/inexistente no YouTube**
 - 2021-04-28 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 28/04 · https://www.youtube.com/watch?v=bB2JSDhkNFw · **legenda desativada/inexistente no YouTube**
 - 2021-04-27 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 27/04 · https://www.youtube.com/watch?v=ldq0xRJoMi4 · **legenda desativada/inexistente no YouTube**
-- 2021-03-19 · workshop · Workshop Fiscalização e o Direito do Consumidor no Mercado de Combustíveis · https://www.youtube.com/watch?v=7LoPnbuPSc4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-23 · workshop · Workshop sobre a Revisão da Resolução Conjunta ANP/Inmetro n° 1/2013 · https://www.youtube.com/watch?v=pLueKv6Ee3A · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-10 · workshop · 2º Workshop sobre o Modelo Conceitual do Mercado de Gás · https://www.youtube.com/watch?v=ZLd9IHeqnTw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-11 · workshop · 1º Workshop sobre o Modelo Conceitual do Mercado de Gás · https://www.youtube.com/watch?v=B9KS5KI1-Ew · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-21 · workshop · Workshop sobre redução de royalties para empresas de pequeno e médio portes · https://www.youtube.com/watch?v=G5Dxfn2R4Mc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=suYR31wiJY4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=3l-ufU0x910 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-27 · workshop · Workshop sobre a Revisão da Resolução ANP nº 41/2007 · https://www.youtube.com/watch?v=FzX1fGxi_yA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-25 · workshop · V Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres  · https://www.youtube.com/watch?v=cKp0x6g0Yiw · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 2 (Tarde) · https://www.youtube.com/watch?v=HJpdsQ832PQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 1 (Manhã) · https://www.youtube.com/watch?v=Pa4n68IpiKo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-06 · workshop · Novo workshop de revisão da Portaria ANP n° 251/2000 - 5 de outubro de 2020 · https://www.youtube.com/watch?v=MBL1tL5nECM · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-05 · workshop · Workshop de revisão da Portaria ANP n° 251/2000 - 28 de setembro de 2020 · https://www.youtube.com/watch?v=JYT5B2tE9tg · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-09-22 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=kH_5ehSVpYs · **legenda desativada/inexistente no YouTube**
 - 2020-09-18 · audiencia · Audiência Pública nº 03/2020 – dia 17 de setembro de 2020 (Introdução) · https://www.youtube.com/watch?v=sgZJVEHj3Q4 · **legenda desativada/inexistente no YouTube**
