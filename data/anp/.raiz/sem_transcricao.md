@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **134** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 14; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **122** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -89,25 +89,13 @@ Total: **134** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=suYR31wiJY4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=3l-ufU0x910 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-27 · workshop · Workshop sobre a Revisão da Resolução ANP nº 41/2007 · https://www.youtube.com/watch?v=FzX1fGxi_yA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-27 · audiencia · Audiência Pública ANP n° 10/2020 – dia 27 de novembro de 2020 · https://www.youtube.com/watch?v=cKv7wAA58_4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-25 · workshop · V Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres  · https://www.youtube.com/watch?v=cKp0x6g0Yiw · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-24 · audiencia · Audiência Pública n° 17/2020 – dia 24 de novembro de 2020 · https://www.youtube.com/watch?v=Sc0StyEvJAo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-12 · audiencia · Audiência Pública nº 01/2020 – dia 12 de novembro de 2020 · https://www.youtube.com/watch?v=i0EOi8067aA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-27 · audiencia · Audiência Pública ANP n° 14/2020 – dia 27 de outubro de 2020 · https://www.youtube.com/watch?v=yUOLeCeeBTE · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 2 (Tarde) · https://www.youtube.com/watch?v=HJpdsQ832PQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-19 · workshop · Workshop sobre a Resolução ANP nº 795/2019 - Parte 1 (Manhã) · https://www.youtube.com/watch?v=Pa4n68IpiKo · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-06 · workshop · Novo workshop de revisão da Portaria ANP n° 251/2000 - 5 de outubro de 2020 · https://www.youtube.com/watch?v=MBL1tL5nECM · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-05 · workshop · Workshop de revisão da Portaria ANP n° 251/2000 - 28 de setembro de 2020 · https://www.youtube.com/watch?v=JYT5B2tE9tg · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-29 · audiencia · Audiência Pública ANP n° 08/2020 – 29 de setembro de 2020 · https://www.youtube.com/watch?v=l7YuJpqFbe4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-25 · audiencia · Audiência Pública n° 05/2020 – 25 de setembro de 2020 · https://www.youtube.com/watch?v=r3-srQkYhYs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-22 · audiencia · Audiência Pública n° 09/2020 – 22 de setembro de 2020 · https://www.youtube.com/watch?v=ij0DxL02xqs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-22 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=kH_5ehSVpYs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-18 · audiencia · Audiência Pública nº 03/2020 – dia 17 de setembro de 2020 (Introdução) · https://www.youtube.com/watch?v=sgZJVEHj3Q4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-18 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 2) · https://www.youtube.com/watch?v=qHiXBz4Nkw8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-18 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=ww4Ywbt9E0A · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-15 · audiencia · Audiência Pública nº 04/2020 – dia 15 de setembro de 2020 · https://www.youtube.com/watch?v=F998NJGi7q0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-09 · audiencia · Audiência Pública nº 06/2020 – dia 9 de setembro de 2020 · https://www.youtube.com/watch?v=UsFXpCWEbCc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-02 · audiencia · Audiência Pública nº 07/2020 – dia 2 de setembro de 2020 · https://www.youtube.com/watch?v=XMeD5SIlVTU · **ainda não baixado (rodar a coleta no Mac)**
+- 2020-09-22 · audiencia · Audiência Pública ANP n° 03/2020 – dia 17 de setembro de 2020 (Parte 1) · https://www.youtube.com/watch?v=kH_5ehSVpYs · **legenda desativada/inexistente no YouTube**
+- 2020-09-18 · audiencia · Audiência Pública nº 03/2020 – dia 17 de setembro de 2020 (Introdução) · https://www.youtube.com/watch?v=sgZJVEHj3Q4 · **legenda desativada/inexistente no YouTube**
 - 2020-08-20 · workshop · Workshop GNL - 20/08/2020 · https://www.youtube.com/watch?v=635fg7K0hoU · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-11-14 · diretoria · Reunião de Diretoria Colegiada nº 1001 - 14 de novembro de 2019 · https://www.youtube.com/watch?v=qbhOOaE5Oms · **legenda desativada/inexistente no YouTube**
 - 2019-10-03 · diretoria · Reunião de Diretoria Colegiada nº 995 - 3 de outubro de 2019 · https://www.youtube.com/watch?v=23mvoaoHrK4 · **legenda desativada/inexistente no YouTube**
