@@ -2,22 +2,10 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **86** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **74** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2024/workshop: 1; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
-- 2025-02-07 · workshop · ANP Net Zero, 1ª edição: Workshop Metano · https://www.youtube.com/watch?v=WXOsQu6GIKc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-06 · workshop · Workshop sobre a Revisão da Resolução ANP nº 52/2015 - Dia 06/12/2024 · https://www.youtube.com/watch?v=O6tkecol2Yg · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-30 · workshop · VIII Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrest · https://www.youtube.com/watch?v=IBHm8WCcg20 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-29 · workshop · Workshop sobre a Revisão da Resolução ANP nº 52/2015 - Dia 29/11/2024 · https://www.youtube.com/watch?v=jO0HjcjNV8Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-27 · workshop · XII Seminário de Segurança Operacional e Meio Ambiente (XII SOMA) - Dia 2 · https://www.youtube.com/watch?v=K1ZFIlIfHRk · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-26 · workshop · XII Seminário de Segurança Operacional e Meio Ambiente (XII SOMA) - Dia 1 · https://www.youtube.com/watch?v=7bIN0BdIfHI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-19 · workshop · Workshop de Comunicação de Incidentes para Produtores de Biocombustíveis · https://www.youtube.com/watch?v=tMS-WZjrcfw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-12 · workshop · Workshop de Solventes (2024) · https://www.youtube.com/watch?v=PnHK_VDoNY4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-28 · workshop · Workshop para Empresas Contratadas na Fase de Produção (E&P) · https://www.youtube.com/watch?v=WlshFmJt7JE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-26 · workshop · Workshop de Lubrificantes 2024 · https://www.youtube.com/watch?v=4TqSKTnHmE0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-08 · workshop · Workshop Comunicação de Incidentes · https://www.youtube.com/watch?v=fRGEfO9iVI8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-21 · workshop · Diretor da ANP, Daniel Maia, convida para Workshop sobre Comunicação de Incident · https://www.youtube.com/watch?v=zAkEyvUq_sY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-11 · workshop · Workshop sobre o SisRoc · https://www.youtube.com/watch?v=r6ytbt2uMeo · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-22 · workshop · Workshop SAG  EADs - Armazenamento Geológico e CCUS · https://www.youtube.com/watch?v=YE1if68Hi1o · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-28 · workshop · Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres (V · https://www.youtube.com/watch?v=AReDDMGOwGk · **ainda não baixado (rodar a coleta no Mac)**
