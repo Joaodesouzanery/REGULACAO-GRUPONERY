@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **711** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 1; 2020/audiencia: 1; 2018/diretoria: 24; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **699** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 1; 2020/audiencia: 1; 2018/diretoria: 12; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
@@ -23,18 +23,6 @@ Total: **711** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2021-04-12 · audiencia · Audiência Pública n⁰ 02/2021 · https://www.youtube.com/watch?v=n3fQEMEmT8g · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-31 · audiencia · Webinário Consulta Pública - Emenda ao RBAC 145 · https://www.youtube.com/watch?v=8S0FRLWLTuY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-22 · diretoria · 1º Reunião Deliberativa da Diretoria (2020) · https://www.youtube.com/watch?v=GlAm0s6DKv4 · **legenda desativada/inexistente no YouTube**
-- 2018-11-27 · diretoria · 23º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=TYh4q3a6H1M · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-13 · diretoria · 22º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=b4DbDhiu9gY · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-10-30 · diretoria · 21º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=csgE-wGLJ4o · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-10-16 · diretoria · 20º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=tbGInfhdK50 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-10-02 · diretoria · 19º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=SN1p8Nb7tJ8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-09-04 · diretoria · 18º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=lqGVEsw_j-A · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-08-21 · diretoria · 17º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=gsl9FheIW_E · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-08-07 · diretoria · 16º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=K-4ChXJq0VQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-07-24 · diretoria · 15º Reunião da Diretoria - 2018 · https://www.youtube.com/watch?v=esEqQ03mA5w · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-07-11 · diretoria · 14ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=mBXENwPWITg · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-26 · diretoria · 13ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=fgws2duSyJs · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-12 · diretoria · 12ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=zbvTn8kOFsQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-28 · diretoria · 11ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=py4Aw4gtt8c · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-15 · diretoria · 10ª Reunião Deliberativa da Diretoria - 2018 (Parte 02) · https://www.youtube.com/watch?v=3Ze9Hl-YweE · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-15 · diretoria · 10ª Reunião Deliberativa da Diretoria - 2018 (Parte 01) · https://www.youtube.com/watch?v=YJcrTrOLxyk · **ainda não baixado (rodar a coleta no Mac)**
