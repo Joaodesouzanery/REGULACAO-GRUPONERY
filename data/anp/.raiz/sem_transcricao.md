@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **182** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2022/audiencia: 21; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **170** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2022/audiencia: 9; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -59,23 +59,11 @@ Total: **182** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2022-10-04 · workshop · PD&I: A Transição Energética e o Papel das Empresas de O&G na Geração de Energia · https://www.youtube.com/watch?v=wCW_Y_xAcm4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-26 · workshop · X Workshop de Segurança Operacional e Meio Ambiente (X SOMA) · https://www.youtube.com/watch?v=pT2N-FJb-2A · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-02 · workshop · Workshop Implementação da Resolução ANP nº 881 · https://www.youtube.com/watch?v=qlTrP0PadOg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-30 · audiencia · Audiência Pública nº 18/2022 · https://www.youtube.com/watch?v=l_sP-tR6io0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-19 · audiencia · Audiência Pública nº 14/2022 · https://www.youtube.com/watch?v=5tPZZmLRuHQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-17 · audiencia · Audiência Pública nº 15/2022 · https://www.youtube.com/watch?v=xNUPUygRpcU · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-15 · audiencia · Audiência Pública nº 11/2022 - Segunda Sessão · https://www.youtube.com/watch?v=ZqJK2XxHU3E · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-13 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=2iz3SAsVYJc · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=AwHqCQch9ws · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=WexzpV3CL_0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-12 · audiencia · Audiência Pública nº 16/2022 · https://www.youtube.com/watch?v=b0VjxVJ6RTc · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-08 · audiencia · Audiência Pública nº 12/2022 · https://www.youtube.com/watch?v=FHid7xpPZEs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-06 · audiencia · Audiência Pública nº 11/2022 - Primeira Sessão · https://www.youtube.com/watch?v=s56xy_4nXdQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-29 · audiencia · Audiência Pública nº 10/2022 · https://www.youtube.com/watch?v=lJ43Dh2V4zM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-28 · workshop · Seminário para aprimoramento dos instrumentos regulatórios relativos à Participa · https://www.youtube.com/watch?v=aw1YkWQbpbY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-22 · workshop · 2º Seminário Instrumentos de Divulgação de Informações sobre Exploração de Petró · https://www.youtube.com/watch?v=3bXP1Oj3wdg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-16 · audiencia · Audiência Pública nº 9/2022 · https://www.youtube.com/watch?v=MgwELeTjRd0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-13 · audiencia · Audiência Pública nº 8/2022 · https://www.youtube.com/watch?v=yJlarY9-EUA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-29 · audiencia · Audiência Pública nº 6/2022 · https://www.youtube.com/watch?v=ZasKnFHHQy0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-08 · audiencia · Audiência Pública nº 4/2022 · https://www.youtube.com/watch?v=4-fXD489oGQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-06 · audiencia · Audiência Pública nº 2/2022 · https://www.youtube.com/watch?v=2l1l8pucHp4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-05 · audiencia · Audiência Pública nº 1/2022 · https://www.youtube.com/watch?v=mEc49-_QEQs · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-25 · audiencia · Audiência Pública nº 05/2022 · https://www.youtube.com/watch?v=btKmAraX-6s · **ainda não baixado (rodar a coleta no Mac)**
