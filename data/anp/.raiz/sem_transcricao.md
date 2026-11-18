@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **122** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **110** · sem /workshop: 7; sem /audiencia: 3; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -113,16 +113,4 @@ Total: **122** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - s/data · audiencia · NA · https://www.youtube.com/watch?v=NR67sLQ5koY · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · NA · https://www.youtube.com/watch?v=pxEewE4ORKA · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · workshop · Lançamento do Anuário Estatístico Brasileiro do Petróleo, Gás Natural e Biocombu · https://www.youtube.com/watch?v=nehyC7RPFeI · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 9/2023 · https://www.youtube.com/watch?v=GYayqgsfe7A · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 8/2023 · https://www.youtube.com/watch?v=SurTPblPPG8 · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · audiencia · Audiência Pública nº 7/2023 · https://www.youtube.com/watch?v=LIAapXXuzEQ · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 6/2023 · https://www.youtube.com/watch?v=dcsF0e0v68E · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 19/2023 · https://www.youtube.com/watch?v=dRnascCWKa8 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 18/2023 · https://www.youtube.com/watch?v=ZUydpJKaj48 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 16/2023 · https://www.youtube.com/watch?v=ADzMLIFQak4 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 14/2023 · https://www.youtube.com/watch?v=wr7RZFEcojI · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 13/2023 · https://www.youtube.com/watch?v=XTL47yn1oco · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 12/2023 · https://www.youtube.com/watch?v=kp9MML0vR_c · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 11/2023 · https://www.youtube.com/watch?v=ejdyu1Dgtus · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 10/2023 · https://www.youtube.com/watch?v=rUnujBWs6MU · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=vFZ5jJmrW9U · **ainda não baixado (rodar a coleta no Mac)**
