@@ -20,9 +20,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 27 | 27 | 0 |
 | 2021 | audiencia | 4 | 0 | 0 |
-| 2020 | diretoria | 30 | 27 | 0 |
+| 2020 | diretoria | 30 | 29 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
-| 2019 | diretoria | 21 | 0 | 0 |
+| 2019 | diretoria | 21 | 10 | 0 |
 | 2018 | diretoria | 25 | 0 | 0 |
 | 2017 | diretoria | 289 | 0 | 0 |
 | 2016 | diretoria | 232 | 0 | 0 |
@@ -173,3 +173,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-03-17 · 5º Reunião Deliberativa da Diretoria Colegiada (2020) · `BC6PagzoSRs`
 - 2020-03-03 · 4º Reunião Deliberativa da Diretoria Colegiada (2020) · `ySspbDynSJo`
 - 2020-02-18 · 3º Reunião Deliberativa da Diretoria Colegiada (2020) · `FZOFXemNSU8`
+- 2020-02-14 · 1º Reunião Deliberativa Extraordinária da Diretoria (2020) · `ILD1zgUsd2g`
+- 2020-02-04 · 2º Reunião Deliberativa da Diretoria (2020) · `eTuxTcM-JvU`
+- 2019-12-17 · 19º Reunião Deliberativa da Diretoria Colegiada · `-1jjA1svN9c`
+- 2019-12-03 · 18º Reunião Deliberativa da Diretoria Colegiada · `JAsh0slicp0`
+- 2019-11-05 · 17º Reunião Deliberativa da Diretoria Colegiada · `p3zBT8lyx9k`
+- 2019-09-10 · 16º Reunião Deliberativa da Diretoria · `lLdoMJQF4M0`
+- 2019-08-27 · 15º Reunião Deliberativa da Diretoria · `Fw4mE4I15HQ`
+- 2019-08-13 · 14º Reunião Deliberativa da Diretoria · `ZOtY0ofZJ8s`
+- 2019-07-30 · 13º Reunião Deliberativa da Diretoria · `OWxKRL0OwKE`
+- 2019-07-25 · 2ª Reunião Deliberativa da Extraordinária da Diretoria · `dwBXVVOFWEs`
+- 2019-07-17 · 12ª Reunião Deliberativa da Diretoria · `_I_3HYH_acY`
+- 2019-07-02 · 11ª Reunião Deliberativa da Diretoria · `TbW4BD1w6wY`
+
+Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
