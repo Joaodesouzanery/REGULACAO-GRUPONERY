@@ -14,7 +14,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | diretoria | 36 | 36 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
-| 2022 | diretoria | 25 | 5 | 0 |
+| 2022 | diretoria | 25 | 17 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
 | 2021 | diretoria | 27 | 0 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
@@ -121,5 +121,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-12-08 · 860ª Reunião Deliberativa da Diretoria Colegiada - 08 de Dezembro de 2 · `Bpqc0Kpj-Bs`
 - 2022-11-22 · 859ª Reunião Deliberativa da Diretoria Colegiada - 22 de Novembro de 2 · `lVoT9EBeie8`
 - 2022-11-08 · 858ª Reunião Deliberativa da Diretoria Colegiada - 08 de Novembro de 2 · `IrmiCHBmjhY`
+- 2022-10-25 · 857ª Reunião Deliberativa da Diretoria Colegiada - 25 de Outubro de 20 · `9ggGDYDebJw`
+- 2022-10-04 · 856ª Reunião Deliberativa da Diretoria Colegiada - 04 de Outubro de 20 · `0OpGKFxu_zw`
+- 2022-09-20 · 855ª Reunião Deliberativa da Diretoria Colegiada - 20 de Setembro de 2 · `uvozG0id_f0`
+- 2022-09-05 · 854ª Reunião Deliberativa da Diretoria Colegiada - 05 de Setembro de 2 · `HD9anWrc-vY`
+- 2022-08-30 · 853ª Reunião Deliberativa da Diretoria Colegiada - 30 de Agosto de 202 · `byWGPVx_4Rw`
+- 2022-08-16 · 852ª Reunião Deliberativa da Diretoria Colegiada - 16 de Agosto de 202 · `7BBHhyez6qI`
+- 2022-08-02 · 851ª Reunião Deliberativa da Diretoria Colegiada - 02 de Agosto de 202 · `CDAdf_A3XpA`
+- 2022-07-19 · 850ª Reunião Deliberativa da Diretoria Colegiada - 19 de Julho de 2022 · `iIevkQdcvWE`
+- 2022-07-05 · 803ª Reunião Deliberativa da Diretoria Colegiada - 21 de setembro de 2 · `3aZ724FfUgY`
+- 2022-07-05 · 802ª Reunião Deliberativa da Diretoria Colegiada - 14 de setembro de 2 · `S8NeYgPP3ys`
+- 2022-06-28 · 849ª Reunião Deliberativa da Diretoria Colegiada - 28 de Junho de 2022 · `Zf95_Wa6rI0`
+- 2022-06-14 · 848ª Reunião Deliberativa da Diretoria Colegiada - 14 de Junho de 2022 · `J5ZlhEPxtgY`
 
 Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
