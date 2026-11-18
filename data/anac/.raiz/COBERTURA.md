@@ -7,10 +7,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 11 | 0 | 0 |
 | 2026 | diretoria | 6 | 6 | 0 |
 | 2026 | audiencia | 2 | 2 | 0 |
-| 2025 | workshop | 2 | 1 | 0 |
+| 2025 | workshop | 2 | 2 | 0 |
 | 2025 | diretoria | 15 | 15 | 0 |
 | 2025 | audiencia | 2 | 2 | 0 |
-| 2024 | workshop | 1 | 0 | 0 |
+| 2024 | workshop | 1 | 1 | 0 |
 | 2024 | diretoria | 22 | 22 | 0 |
 | 2024 | audiencia | 4 | 4 | 0 |
 | 2023 | workshop | 1 | 1 | 0 |
@@ -19,9 +19,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 25 | 25 | 0 |
 | 2022 | audiencia | 3 | 3 | 0 |
 | 2021 | diretoria | 27 | 27 | 0 |
-| 2021 | audiencia | 4 | 1 | 0 |
+| 2021 | audiencia | 4 | 4 | 0 |
 | 2020 | diretoria | 30 | 29 | 0 |
-| 2020 | audiencia | 1 | 0 | 0 |
+| 2020 | audiencia | 1 | 1 | 0 |
 | 2019 | diretoria | 21 | 21 | 0 |
 | 2018 | diretoria | 25 | 25 | 0 |
 | 2017 | diretoria | 289 | 0 | 0 |

@@ -2,14 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **675** · sem /diretoria: 11; 2025/workshop: 1; 2024/workshop: 1; 2021/audiencia: 3; 2020/diretoria: 1; 2020/audiencia: 1; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **669** · sem /diretoria: 11; 2020/diretoria: 1; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
-- 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-14 · workshop · Webinário sobre Sandbox Regulatório e Edital de Vertiportos · https://www.youtube.com/watch?v=nxqLJX0YUlw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-27 · audiencia · Audiência Pública nº 13/2021 · https://www.youtube.com/watch?v=i-t6LIHcHXA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-13 · audiencia · Audiência Pública n⁰ 12/2021 · https://www.youtube.com/watch?v=fb-b4Z5imnU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-12 · audiencia · Audiência Pública n⁰ 02/2021 · https://www.youtube.com/watch?v=n3fQEMEmT8g · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-31 · audiencia · Webinário Consulta Pública - Emenda ao RBAC 145 · https://www.youtube.com/watch?v=8S0FRLWLTuY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-22 · diretoria · 1º Reunião Deliberativa da Diretoria (2020) · https://www.youtube.com/watch?v=GlAm0s6DKv4 · **legenda desativada/inexistente no YouTube**
 - 2017-12-19 · diretoria · 1ª Reunião Extraordinário Deliberativa da Diretoria · https://www.youtube.com/watch?v=JiGCVCCYdaQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-12-12 · diretoria · 24ª Reunião Deliberativa da Diretoria - 2017 · https://www.youtube.com/watch?v=75ov0DAIr2g · **ainda não baixado (rodar a coleta no Mac)**
