@@ -12,10 +12,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | audiencia | 18 | 18 | 0 |
 | 2025 | workshop | 14 | 0 | 0 |
 | 2025 | diretoria | 24 | 24 | 0 |
-| 2025 | audiencia | 15 | 6 | 0 |
+| 2025 | audiencia | 15 | 14 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
 | 2024 | diretoria | 18 | 18 | 0 |
-| 2024 | audiencia | 5 | 0 | 0 |
+| 2024 | audiencia | 5 | 4 | 0 |
 | 2023 | workshop | 11 | 0 | 0 |
 | 2023 | diretoria | 10 | 10 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
@@ -274,4 +274,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
 -  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
 
-Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
