@@ -2,22 +2,10 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **98** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/workshop: 13; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **86** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
-- 2025-12-12 · workshop · Seminário da Oferta Permanente de Concessão 2025 · https://www.youtube.com/watch?v=pDUgJFHjdfk · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-28 · workshop · IX Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrestre · https://www.youtube.com/watch?v=vA5ulvQWWzc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-29 · workshop · Seminário Técnico de Avaliação Geoeconômica "Polígono do Pré-Sal sob a ótica da  · https://www.youtube.com/watch?v=ulQuBmE9_t4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-23 · workshop · 1° Workshop sobre a Revisão da Resolução ANP n° 759/2018 · https://www.youtube.com/watch?v=f9nY2DKu7g8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
-- 2025-08-29 · workshop · Workshop sobre a Resolução ANP nº 983/2025 · https://www.youtube.com/watch?v=L4K243fM10s · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-07-16 · workshop · Workshop - Substituição do Aplicativo i-SIMP · https://www.youtube.com/watch?v=cLd4UWbSwBo · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-07-11 · workshop · Webinar PRH-ANP: Operacionalização Edital 01/PRH-ANP/2025 · https://www.youtube.com/watch?v=pf7oULF4FiQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-06-27 · workshop · 2° Workshop sobre AIR da Revisão da Resolução ANP nº 688 | 27/06/2025 · https://www.youtube.com/watch?v=-51jEE0KcvA · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-04-29 · workshop · Workshop sobre AIR da Revisão da Resolução ANP nº 688 | 29/04/2025 (tarde) - 3ª  · https://www.youtube.com/watch?v=RAxSvfSZO0g · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-04-29 · workshop · Workshop sobre AIR da Revisão da Resolução ANP nº 688 | 29/04/2025 (manhã) - 2ª  · https://www.youtube.com/watch?v=Woeo5CV9YCs · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-04-25 · workshop · Workshop sobre AIR da Revisão da Resolução ANP nº 688 | 25/04/2025 - 1ª Sessão · https://www.youtube.com/watch?v=PzPOyD8wnaM · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-02-11 · workshop · Workshop nova funcionalidade Plataforma CBIO- RenovaBio · https://www.youtube.com/watch?v=yl1hULGVQlM · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-02-07 · workshop · ANP Net Zero, 1ª edição: Workshop Metano · https://www.youtube.com/watch?v=WXOsQu6GIKc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-06 · workshop · Workshop sobre a Revisão da Resolução ANP nº 52/2015 - Dia 06/12/2024 · https://www.youtube.com/watch?v=O6tkecol2Yg · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-11-30 · workshop · VIII Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrest · https://www.youtube.com/watch?v=IBHm8WCcg20 · **ainda não baixado (rodar a coleta no Mac)**
