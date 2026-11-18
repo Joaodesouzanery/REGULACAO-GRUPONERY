@@ -1,71 +1,74 @@
 {
  "meta": {
   "video_id": "cpM9rx1c2ZM",
-  "fonte": "legenda automática do YouTube; ts = tempo do vídeo; ts de quem só acompanha são aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "14ª Reunião Pública Ordinária de 2023",
+  "numero": "14ª RPO de 2023",
   "data": "2023-05-02",
-  "formato": "presencial com transmissão",
+  "formato": "presencial (transmitida pelo YouTube)",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
-   "Agnes da Costa",
    "Hélvio Guerra",
    "Ricardo Tili",
-   "Fernando Mosna"
+   "Fernando Mosna",
+   "Agnes da Costa"
   ],
   "ausentes": [],
   "observacoes": [
-   "Agnes da Costa chegou logo após a abertura (quórum de 5).",
-   "Pauta com 44 itens; retirados 5, 13 e 29; ordem: bloco, 1, 2, 4, 12, 3, 6.",
-   "Dois pedidos de vista: Agnes da Costa (Renova, item 4) e Sandoval Feitosa (Klabin, item 12).",
-   "Comunicados: nova estrutura organizacional da ANEEL, criação de corregedoria, homenagem ao servidor Paulo Richard."
+   "Abertura com quórum de quatro (Hélvio, Ricardo Tili, Fernando Mosna e o DG); Agnes da Costa chegou logo depois, completando cinco.",
+   "Comunicados: nova estrutura organizacional da ANEEL em vigor (corregedoria e ouvidoria); homenagem ao servidor Paulo Richard (falecido).",
+   "Pauta de 44 itens; itens 7 a 44 em bloco; retirados 5, 13 e 29; item 12 destacado por sustentação oral; ordem: bloco, 1, 2, 4, 12, 3, 6.",
+   "Dois pedidos de vista: Agnes da Costa (item 4, Renova) e Sandoval Feitosa (item 12, Klabin).",
+   "No item 4 o colegiado declarou insubsistente o voto do relator original (art. 28 da Norma de Organização 18) após longo debate regimental."
   ]
  },
  "itens": [
   {
-   "id": "bloco (itens 7 a 44)",
+   "id": "bloco",
    "ts": "0:15:30",
-   "processo": "",
+   "processo": "itens 7 a 44 da pauta (exceto retirados 13 e 29 e o destacado 12)",
    "interessado": "diversos",
-   "assunto": "Itens de bloco 7 a 44 (exceto retirados 13 e 29; item 12 destacado por sustentação oral), votos e atos disponibilizados previamente",
+   "assunto": "Itens de bloco da 14ª RPO de 2023 (votos e atos disponibilizados previamente na internet)",
    "tema": [
-    "bloco de itens"
+    "regulação normativa",
+    "recursos administrativos",
+    "outorgas de geração"
    ],
    "relator": "diversos",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Diretor-Geral proclama aprovação por unanimidade dos itens do bloco da 14ª RPO de 2023.",
+   "resultado": "aprovados por unanimidade",
+   "resumo_voto": "O Diretor-Geral submete os itens do bloco, aprova os remanescentes e proclama aprovação unânime; sem leitura nem discussão.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "aprova itens do bloco",
-     "ts": "0:15:30",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "aprova itens do bloco",
-     "ts": "0:15:30",
-     "confianca": "media"
+     "voto": "aprova os itens do bloco e proclama",
+     "ts": "0:15:35",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova itens do bloco",
-     "ts": "0:15:30",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:15:35",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "aprova itens do bloco",
-     "ts": "0:15:30",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:15:35",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "aprova itens do bloco",
-     "ts": "0:15:30",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:15:35",
      "confianca": "media"
     }
    ]
@@ -73,29 +76,30 @@
   {
    "id": "1",
    "ts": "0:16:14",
-   "processo": "48500.006854/2022-17",
-   "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.; Conselho de Consumidores da Equatorial Alagoas (sustentação oral)",
-   "assunto": "Reajuste tarifário anual 2023 da Equatorial Alagoas (a vigorar a partir de 3/5/2023); pedido da distribuidora de componente adicional na Parcela B pela redução de mercado decorrente da MMGD",
+   "processo": "48500.006854/2022-17 (número da legenda, incerto)",
+   "interessado": "Equatorial Alagoas Distribuidora de Energia S.A.; sustentação oral de Carlindo Lins Pereira Filho (Conselho de Consumidores da Equatorial Alagoas)",
+   "assunto": "Reajuste Tarifário Anual 2023 da Equatorial Alagoas, a vigorar a partir de 3/5/2023; distribuidora pede componente adicional de Parcela B pela redução de mercado decorrente da MMGD",
    "tema": [
-    "tarifas e revisão tarifária",
+    "tarifas e revisão tarifária (distribuidoras, RTP/RTA)",
     "geração distribuída (MMGD)"
    ],
    "relator": "Fernando Mosna",
    "resultado": "aprovado por unanimidade: prorrogada por 15 dias a vigência das tarifas da REH 3.033/2022",
-   "resumo_voto": "Sustentação oral de Carlindo Lins Pereira Filho (conselho de consumidores) sobre pobreza e tarifas em Alagoas. Relator propõe postergar 15 dias, alinhado ao decidido para a Neoenergia Pernambuco, para aprofundar efeitos da MMGD na estrutura tarifária. Diretor-Geral comenta que a ANEEL segue a lei e não é responsável por política pública socioeconômica.",
+   "resumo_voto": "Processo retirado da 13ª RPO para escrutínio técnico; em linha com a decisão sobre a Neoenergia Pernambuco (25/4/2023), relator propõe postergar por 15 dias a vigência das tarifas atuais para aprofundar os efeitos da MMGD na estrutura tarifária. Conselho de consumidores apontou baixa renda, IDH e tarifa acumulada acima da inflação; DG respondeu que a ANEEL não é responsável por política pública e segue estritamente a lei.",
    "votos": [
     {
      "diretor": "Fernando Mosna",
-     "voto": "relator, aprova (prorrogação de 15 dias)",
-     "ts": "0:30:19",
-     "confianca": "alta",
-     "justificativa": "evolução da MMGD acima do projetado exige avaliação mais aprofundada de seus efeitos na estrutura tarifária; alinhamento com decisão do caso Neoenergia Pernambuco"
+     "voto": "relator, aprova prorrogação de 15 dias",
+     "ts": "0:27:31",
+     "justificativa": "evolução da MMGD acima do projetado afeta revisões e reajustes; pleito de componente adicional de Parcela B exige avaliação aprofundada, alinhada à decisão do colegiado no caso Neoenergia Pernambuco",
+     "confianca": "alta"
     },
     {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:32:10",
-     "confianca": "media"
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "0:32:19",
+     "justificativa": "antecipou concordância; tarifa segue estritamente os componentes de custo previstos em lei, condições socioeconômicas cabem ao Legislativo; lembrou decisão que reduz a tarifa de Alagoas em 3,8% (transmissão)",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -110,42 +114,42 @@
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "0:32:12",
-     "confianca": "alta",
-     "justificativa": "tarifa segue estritamente parâmetros legais; condicionantes socioeconômicos cabem ao Legislativo"
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:32:10",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:33:54",
-   "processo": "48500.002920/2015-42",
-   "interessado": "agentes de geração hidrelétrica; associações (Abragel, Abrage, Apine, ABPCH, Abiape)",
-   "assunto": "Resultado da Consulta Pública 82/2021: nova resolução normativa de segurança de barragens fiscalizadas pela ANEEL (substitui REN 696/2015) e alteração da REN 846/2019 (penalidades), após Lei 14.066/2020",
+   "ts": "0:33:13",
+   "processo": "48500.002920/2015-42 (número da legenda, incerto)",
+   "interessado": "geradores hidrelétricos; associações ABRAGEL, ABRAGE, APINE, ABRAPCH e ABIAPE (parecer jurídico sobre penalidades)",
+   "assunto": "Resultado da Consulta Pública 82/2021: nova resolução normativa de critérios e ações de segurança de barragens fiscalizadas pela ANEEL (substitui a REN 696/2015), em função da Lei 14.066/2020 que alterou a Lei 12.334/2010; alteração da REN 846/2019 (penalidades)",
    "tema": [
-    "regulação normativa",
-    "fiscalização e sanções",
+    "regulação normativa (resolução, consulta pública)",
+    "segurança de barragens",
     "outorgas de geração (hidrelétrica)",
-    "segurança de barragens"
+    "fiscalização e sanções"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Apresentação técnica (Mateus e Rafael). Penalidades migradas para a REN 846 com grupos de multa até 1% e 2% (grupo 3 suprimido até decreto presidencial), em linha com parecer da Procuradoria; vigência a partir de 1/6/2023; determinação às superintendências para propor norma sobre caução/garantias do art. 17, §2º da Lei 12.334.",
+   "resumo_voto": "Apresentação técnica (Mateus, SGM; Rafael, fiscalização). Nova resolução substitui a REN 696; penalidades migradas para a REN 846 com grupos de multa de até 1% e até 2% (supressão do grupo 3 até que decreto regulamente as multas da Lei 12.334, conforme parecer da procuradoria e pleito das associações); vigência a partir de 1/6/2023; determina à SGM e à fiscalização proposta sobre caução, seguro-fiança ou garantias do art. 17, § 2º da Lei 12.334.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
      "ts": "1:04:30",
-     "confianca": "alta",
-     "justificativa": "regulamenta a lei; após parecer jurídico das associações e da Procuradoria, multas alinhadas à regra do setor elétrico até regulamentação por decreto"
+     "justificativa": "regulamentar a lei; penalidades revistas após manifestação das associações e parecer da procuradoria, aguardando decreto do Executivo; barragens do setor elétrico diferem das de mineração, mas exigem atenção",
+     "confianca": "alta"
     },
     {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:08:46",
-     "confianca": "media"
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:08:56",
+     "justificativa": "antecipou concordância: maturidade da discussão separou obrigações razoáveis dos agentes sem onerar excessivamente pequenas barragens e o consumidor",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
@@ -160,147 +164,152 @@
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "1:08:50",
-     "confianca": "media",
-     "justificativa": "destacou maturidade da discussão e diferença das barragens do setor elétrico frente às de mineração, sem onerar excessivamente pequenas barragens (atribuição de fala inferida)"
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:08:46",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "1:10:33",
-   "processo": "48500.003795/2020-55 e outros",
-   "interessado": "Renova Energia S.A. (sócio controlador AP Energias Renováveis FIP, gerido pela Angra Partners); proprietários de terras do complexo eólico Barra",
-   "assunto": "Recurso administrativo contra Despachos 363 a 374/2021 da SCG que indeferiram DRO para 153 eólicas e 10 fotovoltaicas (pedido reduzido para cerca de 2,7 GW: complexos Cordilheira dos Ventos, Mina de Ouro fase C, Graúna, Barra e Tupã/Mamá); voto-vista de Hélvio Guerra",
+   "ts": "1:10:09",
+   "processo": "48500.003795/2020-55 e outros (número da legenda, incerto)",
+   "interessado": "Renova Energia S.A. (em recuperação judicial; novo controlador AP Energias Renováveis FIP, gerido pela Angra Partners); manifestação da advogada Camila; denúncia de proprietários de terras (Fate Empreendimentos e outros) sobre o Complexo Barra",
+   "assunto": "Recurso administrativo da Renova contra os Despachos 363 a 374/2021 da SCG, que indeferiram DRO para 153 eólicas e 10 fotovoltaicas (cerca de 5,5 GW); retorno de vista do diretor Hélvio Guerra",
    "tema": [
     "outorgas de geração (eólica, solar)",
     "recursos administrativos",
-    "recuperação judicial"
+    "institucional (regimento, subsistência de voto)"
    ],
-   "relator": "Sandoval Feitosa (relator original; voto declarado insubsistente); voto-vista Hélvio Guerra",
-   "resultado": "preliminar: voto original declarado insubsistente por unanimidade (fatos novos, art. 28 da Norma de Organização 18); mérito: pedido de vista de Agnes da Costa",
-   "resumo_voto": "Hélvio Guerra diverge do voto original (negar provimento) e propõe emitir DRO para os complexos indicados, exceto Barra (disputa fundiária), considerando redução do escopo, novo controlador e usinas em operação. Longo debate sobre subsistência do voto e relatoria (Secretaria-Geral, Procuradoria, Mosna, Tili). Sustentação/esclarecimento excepcional da advogada Camila (Renova). Agnes pede vista para instruir capacidade financeira.",
+   "relator": "Sandoval Feitosa (relator original; voto-vista de Hélvio Guerra)",
+   "resultado": "preliminar: voto original do relator declarado insubsistente (fatos novos, art. 28 da Norma de Organização 18); mérito: pedido de vista de Agnes da Costa, sem deliberação",
+   "resumo_voto": "Voto original (2022) de Sandoval: conhecer e negar provimento (histórico da empresa e recuperação judicial; investimento estimado em 22 bilhões). Efrain Cruz pediu vista e saiu sem devolver; na 31ª RPO/2022 Hélvio pediu vista. Voto-vista de Hélvio: dar provimento parcial, emitindo DRO para os complexos Cordilheira dos Ventos, Mina de Ouro fase C, Graúna e Tupã/Mamá (cerca de 2,7 GW), indeferindo o Complexo Barra (disputa fundiária), porque a Renova reduziu o escopo à metade, tem novo controlador, quitou multas no ACL e pôs em operação as usinas do Alto Sertão III. Longo debate sobre subsistência do voto do relator original e quem relata (sorteio x autor do voto-vista); procuradoria opinou que o autor da vista relata. Colegiado declarou insubsistente o voto original e passou ao mérito; ao abrir a votação Agnes pediu vista para documentar nos autos capacidade financeira, dívida e situação da recuperação judicial.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "voto-vista: dá provimento parcial (DRO exceto complexo Barra)",
-     "ts": "1:17:21",
-     "confianca": "alta",
-     "justificativa": "histórico deve considerar evolução da empresa; usinas outorgadas em operação; novo controlador; DRO vale um ano e capacidade financeira é avaliada na outorga"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "vota pela insubsistência do voto original; no mérito não votou (vista)",
-     "ts": "2:07:29",
-     "confianca": "media",
-     "justificativa": "defendeu fato novo (redução do pedido e novo controlador) e que o autor do voto-vista siga como relator"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "vota pela insubsistência do voto original; no mérito não votou (vista)",
-     "ts": "2:07:29",
-     "confianca": "media",
-     "justificativa": "sustentou que fatos novos deveriam ir ao juiz natural/novo sorteio; questionou capacidade financeira em recuperação judicial"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "pede vista",
-     "ts": "2:26:27",
-     "confianca": "alta",
-     "justificativa": "argumentos sobre dívida, recebíveis e recuperação judicial precisam estar documentados no processo"
+     "voto": "voto-vista: provimento parcial (DRO para 4 complexos, indeferido o Complexo Barra); vota pela insubsistência do voto original",
+     "ts": "1:24:35",
+     "justificativa": "análise do histórico não é fotografia estática: empresa superou atrasos, todas as usinas outorgadas em operação; capacidade financeira é avaliada na outorga, não no DRO; DRO vale um ano e pode não ser renovado; recuperação judicial prevê esses projetos; novo controlador",
+     "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "vota pela insubsistência do voto original (pelos estritos termos do Regimento); no mérito não votou (vista)",
-     "ts": "2:07:40",
-     "confianca": "media",
-     "justificativa": "resistiu a desconsiderar voto proferido; dúvidas sobre capacidade do grupo e instrução da área técnica"
+     "voto": "preliminar: relator original cujo voto (negar provimento) foi declarado insubsistente; encaminhou e votou pela insubsistência; mérito: não votou (vista)",
+     "ts": "2:06:19",
+     "justificativa": "defendeu inicialmente que voto de diretor não pode ser desconsiderado e que fatos novos deveriam ir ao juiz natural (relator sorteado); questionou a relatoria pelo autor da vista e se o novo controlador foi analisado pela área técnica; acabou encaminhando pela insubsistência nos termos da NO 18",
+     "tom": "firme",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota pela insubsistência do voto original; mérito: não votou (vista)",
+     "ts": "2:07:32",
+     "justificativa": "em discussão: fatos novos (redução a 2,7 GW, novo controlador, usinas em operação) tornam o pedido original sem objeto; competência relativa e eficiência justificam manter o autor do voto-vista como relator; receita dos parques ajuda a pagar multas e sair da recuperação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "vota pela insubsistência do voto original; mérito: não votou (vista)",
+     "ts": "2:07:32",
+     "justificativa": "em discussão: cobrou que a procuradoria fosse ouvida e questionou a relatoria; votou pelos estritos termos do Regimento (Tili ocupa a vaga do relator original, conforme art. 28, § 2º)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "pede vista (mérito); vota pela insubsistência do voto original",
+     "ts": "2:26:27",
+     "justificativa": "argumentos relevantes, mas precisam estar no processo: dívida atual, recebíveis, visão do administrador da recuperação judicial e capacidade do novo sócio",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "2:27:49",
-   "processo": "48500.004607/2021-97",
-   "interessado": "Klabin S.A. (sustentação oral de Humberto Negrão); UTE Klabin Celulose, unidade Ortigueira",
-   "assunto": "Recurso contra Despacho 3.238/2022 (SRM/SRG) que negou determinar à CCEE recontabilização da geração verificada da UTE Klabin Celulose sem o consumo de Ortigueira e alocação de ESS, para subsidiar revisão de garantia física pelo MME",
+   "ts": "2:27:21",
+   "processo": "48500.004607/2021-97 (número da legenda, incerto)",
+   "interessado": "Klabin S.A. (UTE Klabin Celulose, unidade industrial de Ortigueira-PR); sustentação oral do advogado Humberto Negrão",
+   "assunto": "Recurso administrativo contra o Despacho 3.238/2022 (SRM/SRG) que negou à Klabin determinação à CCEE de alocação específica no rateio de ESS e recontabilização da geração da UTE Klabin Celulose sem o consumo de Ortigueira (junho a outubro de 2021) para subsidiar retificação de garantia física pelo MME",
    "tema": [
     "comercialização (CCEE)",
+    "outorgas de geração (térmica)",
+    "garantia física",
     "recursos administrativos",
-    "garantia física"
+    "CDE e encargos setoriais (ESS)"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "pedido de vista do Diretor-Geral (para parecer da Procuradoria) após votos de acompanhamento",
-   "resumo_voto": "Relator: conhecer e negar provimento; revisão de garantia física é competência exclusiva do MME. Três diretores acompanharam; Sandoval pediu vista apenas para ouvir a Procuradoria sobre competência.",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa (para parecer da procuradoria sobre competência); três diretores já acompanharam o relator",
+   "resumo_voto": "Destacado do bloco por pedido de sustentação oral. Relator conhece e nega provimento, mantendo o despacho: revisão de garantia física é competência exclusiva do MME; recontabilizar mudaria a garantia física por via indireta. Klabin alegou que a mudança do SMF (Despacho 3.056/2021) gerou dados não representativos e que MME, CCEE e ANEEL se remetem mutuamente a competência.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, conhece e nega provimento",
-     "ts": "2:41:57",
-     "confianca": "alta",
-     "justificativa": "revisão de garantia física é competência exclusiva do MME; não há fato novo"
+     "ts": "2:41:10",
+     "justificativa": "não há fato novo; revisão de garantia física é competência exclusiva do MME; recontabilização por despacho alteraria a garantia física",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "2:45:02",
-     "confianca": "baixa",
-     "justificativa": "lamentou ausência de parecer da Procuradoria; questão seria de alocação (atribuição inferida)"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "2:45:08",
+     "voto": "acompanha o relator (antes da vista)",
+     "ts": "2:45:11",
+     "justificativa": "em discussão lamentou a falta de parecer da procuradoria, pois a negativa se apoia só em argumento de competência; vota com o relator",
      "confianca": "baixa"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "2:45:10",
+     "voto": "acompanha o relator (antes da vista)",
+     "ts": "2:45:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (antes da vista)",
+     "ts": "2:45:11",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "pede vista",
-     "ts": "2:45:14",
-     "confianca": "alta",
-     "justificativa": "pedir parecer da Procuradoria sobre competência, sem questionar o mérito"
+     "ts": "2:45:18",
+     "justificativa": "único objetivo de obter parecer da Procuradoria Federal sobre a competência, ponto repisado na sustentação oral; confia na instrução técnica e da relatoria",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "2:47:03",
-   "processo": "48500.004013/2019-61 e outros",
-   "interessado": "Amazonas Energia, Energisa Acre, Energisa Rondônia, Equatorial Alagoas, Equatorial Piauí, Roraima Energia",
-   "assunto": "Encerramento do acompanhamento excepcional das seis distribuidoras privatizadas do grupo Eletrobras; determinação de regularização de problemas comerciais em 90 dias e advertência sobre indicadores",
+   "ts": "2:46:48",
+   "processo": "48500.004013/2019-61 e outros (número da legenda, incerto)",
+   "interessado": "Amazonas Energia, Energisa Acre, Energisa Rondônia, Equatorial Alagoas, Equatorial Piauí, Roraima Energia (ex-distribuidoras Eletrobras)",
+   "assunto": "Acompanhamento do desempenho do serviço de distribuição das seis distribuidoras privatizadas do grupo Eletrobras (2018): encerramento do acompanhamento excepcional",
    "tema": [
     "distribuição e qualidade",
     "fiscalização e sanções"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Apresentação técnica (Jaqueline e Fausto). Dispositivo ajustado em sessão para deixar claro que só se encerra o acompanhamento excepcional da desestatização. Diretor-Geral cobra rigor contra cortes fora do horário 8h–18h e qualidade comercial; Tili lembra que o problema vale para todas as concessões.",
+   "resumo_voto": "Apresentação técnica (Jaqueline e Fausto, SFT/SFF). Encerra o acompanhamento excepcional previsto na desestatização (relator ajustou o dispositivo para deixar claro que a fiscalização ordinária continua); determina regularização dos problemas da NT conjunta 63/2021 em 90 dias; adverte as distribuidoras sobre indicadores não cumpridos ou que pioraram. Achados: expurgos indevidos, cortes fora do horário permitido, cobranças indevidas em troca de titularidade e irregularidade de medição; Amazonas Energia recebeu termo de intimação por perda de condições econômico-financeiras.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
+     "voto": "relator, aprova (com ajuste no dispositivo)",
      "ts": "3:06:34",
-     "confianca": "alta",
-     "justificativa": "acompanhamento previsto no contrato de concessão já cumprido; fiscalização segue no ciclo normal"
+     "justificativa": "acompanhamento previsto no contrato/edital cumprido; empresas seguem no ciclo normal de fiscalização",
+     "confianca": "alta"
     },
     {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:14:42",
-     "confianca": "media"
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "3:14:49",
+     "justificativa": "pediu fiscalização intransigente contra corte de energia fora do horário das 8h às 18h; criticou piora dos serviços comerciais e práticas de aumento de receita mesmo após revisões tarifárias extraordinárias; contraste entre boa situação financeira e má qualidade",
+     "tom": "crítico às distribuidoras",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "3:14:42",
+     "justificativa": "em discussão: problema apontado vale para todas as concessões; o processo cumpriu sua obrigação e as empresas seguem o regime normal",
      "confianca": "media"
     },
     {
@@ -310,41 +319,40 @@
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "3:14:45",
-     "confianca": "media",
-     "justificativa": "pediu fiscalização intransigente com suspensões fora do horário e com qualidade comercial de empresas financeiramente equilibradas"
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:14:42",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "6",
-   "ts": "3:16:38",
-   "processo": "48500.004368/2022-84 e 48500.002101/2018-48",
-   "interessado": "Central Geradora Hidrelétrica Manoel Alves Ltda.; PCH Manoel Alves (Dianópolis-TO); Naturatins",
-   "assunto": "Requerimento de excludente de responsabilidade por atraso na implantação da PCH Manoel Alves (Covid-19, ataque cibernético, demora na licença de operação)",
+   "ts": "3:15:40",
+   "processo": "48500.004368/2012-84 e 48500.002101/2018-48 (números da legenda, incertos)",
+   "interessado": "Central Geradora Hidrelétrica Manoel Alves Ltda. (PCH Manoel Alves, Dianópolis-TO); órgão ambiental Naturatins",
+   "assunto": "Requerimento de reconhecimento de excludente de responsabilidade pelo atraso na implantação da PCH Manoel Alves (covid-19, ataque cibernético na Energisa Tocantins e demora na licença de operação), com ajuste do CER 419/2016 e do prazo de outorga",
    "tema": [
-    "outorgas de geração (PCH)",
-    "fiscalização e sanções",
-    "excludente de responsabilidade"
+    "outorgas de geração (hidrelétrica, PCH)",
+    "fiscalização e sanções (excludente de responsabilidade)",
+    "leilões (energia de reserva)"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade: 493 dias de excludente, postergação do CER 419/2016 e da outorga",
-   "resumo_voto": "Relator segue a Procuradoria (Parecer 101/2023) contra as áreas técnicas: demora injustificada do órgão ambiental na LO; Covid e ataque hacker sem nexo causal. Datas da outorga corrigidas na proclamação.",
+   "resultado": "aprovado por unanimidade: reconhecidos 493 dias de excludente",
+   "resumo_voto": "Contra a área técnica (SFG/SCG) e com a procuradoria (Parecer 101/2023): covid e ataque hacker sem nexo causal; demora de 737 dias na LO decorreu de suspensão da LI pelo Naturatins depois declarada nula, com agente diligente. Reconhecidos 493 dias (de 8/7/2020 a 13/11/2021) para a operação comercial; posterga início e fim do CER 419/2016 e o fim da outorga em 493 dias; penalidades devem considerar o prazo reconhecido. Data final da outorga corrigida na proclamação (junho/julho de 2053; legenda confusa).",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, aprova (reconhece 493 dias)",
-     "ts": "3:38:43",
-     "confianca": "alta",
-     "justificativa": "órgão ambiental suspendeu ilegalmente a LI e demorou 737 dias; empresa diligente; LO era a única pendência"
+     "voto": "relator, reconhece excludente de 493 dias",
+     "ts": "3:38:06",
+     "justificativa": "procuradoria teve acesso ao processo ambiental completo; suspensão da LI declarada nula pelo próprio órgão; LO era a única pendência para a operação comercial; art. 393 do Código Civil (legenda diz 339)",
+     "confianca": "alta"
     },
     {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:45:28",
-     "confianca": "media"
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "3:45:35",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -359,32 +367,39 @@
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "3:45:32",
-     "confianca": "media",
-     "justificativa": "análise da Procuradoria foi mais completa que a das áreas técnicas"
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:28",
+     "justificativa": "em discussão (atribuição incerta) questionou se as penalidades já haviam sido aplicadas e o efeito da decisão sobre processos com outros relatores; defendeu prevalecer a análise mais completa (procuradoria)",
+     "confianca": "baixa"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "id": "5"
+   "item": "5",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:14:50"
   },
   {
-   "id": "13"
+   "item": "13",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:14:50"
   },
   {
-   "id": "29"
+   "item": "29",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:14:50"
   }
  ],
  "limites_da_analise": [
-  "Legenda automática: números de processo e valores podem estar errados.",
-  "Nos itens 1, 2, 3 e 6 os votos dos não relatores vêm da proclamação de unanimidade; falas «acompanho» sem nome.",
-  "Item 12: as três falas de acompanhamento não têm nome; atribuição a Mosna, Agnes e Hélvio inferida (confiança baixa).",
-  "Item 4: votos individuais na preliminar de insubsistência sem nome; o diretor Efraim Cruz (ex-diretor, fora da lista) havia pedido vista antes; Jácomo citado como ex-diretor.",
-  "Itens do bloco (7 a 44) não detalhados na transmissão.",
-  "Falas de comentário no item 2 (antes do voto) não têm falante claro."
+  "Legenda automática: números de processo, nomes (Mosna aparece como Mozart; Tili como Tile/Chile; Hélvio como Élvio) e valores podem estar errados.",
+  "O cabeçalho do .md listava Gentil Nogueira entre os falantes, mas a chamada nomeia Hélvio, Ricardo, Fernando e Agnes; Gentil não estava presente.",
+  "Votos de quem só disse «acompanho» atribuídos pela proclamação unânime; ordem individual não identificável (confiança media).",
+  "Item 4: Ricardo Tili votou a preliminar de insubsistência (ocupa a vaga do relator original segundo a secretaria/procuradoria); a atribuição das falas de discussão a Tili e a Sandoval é inferida. Ninguém votou o mérito antes da vista de Agnes, exceto a proposta do voto-vista de Hélvio.",
+  "Item 12: três diretores acompanharam o relator antes da vista do DG; a atribuição das falas a Mosna, Hélvio e Agnes é incerta (confiança baixa).",
+  "Item 6: data final da outorga dita de forma confusa (março/2052 para junho ou julho/2053); confira na ata.",
+  "Itens de bloco (7 a 44) não lidos: conteúdo individual não analisado."
  ]
 }

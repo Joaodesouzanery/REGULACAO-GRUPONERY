@@ -1,181 +1,172 @@
 {
  "meta": {
   "video_id": "iFrTsP6Z08c",
-  "fonte": "legenda automática do YouTube; ts aproximados para quem acompanha",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "16ª Reunião Pública Ordinária de 2022 (Parte 1)",
   "data": "2022-05-10",
-  "formato": "presencial",
-  "presidente_da_sessao": "André Pepitone (Diretor-Geral); à tarde/itens finais aparentemente Hélvio Guerra/Elisa Bastos como substitutos",
+  "formato": "presencial com transmissão (sustentação em vídeo no item 7)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral) até o item 2; a partir do item 4 a condução aparenta ser da diretora Elisa Bastos (Diretora-Geral substituta) — inferido",
   "diretores_presentes": [
    "André Pepitone",
+   "Sandoval Feitosa",
    "Efrain Cruz",
    "Elisa Bastos",
-   "Hélvio Guerra",
-   "Sandoval Feitosa"
+   "Hélvio Guerra"
   ],
   "ausentes": [],
   "observacoes": [
-   "Quórum completo (5 diretores) na abertura.",
-   "Ata da 15ª RPO aprovada.",
-   "Retirados de pauta itens 3, 10 e 13.",
-   "Parte 1 vai até a suspensão para almoço (3:31); itens 8, 9, 11, 12, 14, 15, 17, 30, 38, 44 ficam para a parte 2.",
-   "Item 4: pedido de vista de Hélvio Guerra após divergência Sandoval x Efrain Cruz."
+   "Abertura com quórum completo (5 diretores). Ata da 15ª RPO (03/05/2022) aprovada.",
+   "Pauta com 55 itens; bloco = itens 16 a 55, exceto destacados 17, 30, 38 e 44 (julgados fora desta Parte 1).",
+   "Retirados de pauta: itens 3, 13 (a pedido do relator) e 10 (a pedido do Diretor-Geral).",
+   "Sessão suspensa para almoço às 3:31:34 do vídeo, com retorno às 14h30 (Parte 2 em outro vídeo).",
+   "Item 4 (TUST, REN 559): vista do diretor Hélvio Guerra, com duas propostas em mesa (relator Sandoval e alternativa de Efrain Cruz)."
   ]
  },
  "itens": [
   {
-   "id": "bloco",
-   "ts": "0:07:00",
+   "id": "bloco (itens 16 a 55)",
+   "ts": "0:07:14",
    "processo": "",
    "interessado": "diversos",
-   "assunto": "Itens 16 a 55 da pauta deliberados em bloco (exceto destacados 17, 30, 38 e 44)",
+   "assunto": "Aprovação em bloco dos itens 16 a 55 da pauta, exceto os destacados 17, 30, 38 e 44 (votos e atos disponíveis no site da ANEEL)",
    "tema": [
-    "bloco"
+    "institucional (votação em bloco)"
    ],
-   "relator": "vários",
-   "resultado": "aprovados por unanimidade",
-   "resumo_voto": "Bloco aprovado por todos os diretores.",
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretor-Geral submete o bloco; os cinco diretores aprovam; proclamação por unanimidade.",
    "votos": [
     {
      "diretor": "André Pepitone",
-     "voto": "aprova o bloco",
-     "ts": "0:07:31",
-     "justificativa": "aprovação do bloco",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "aprova o bloco",
-     "ts": "0:07:31",
-     "justificativa": "aprovação do bloco",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "aprova o bloco",
-     "ts": "0:07:31",
-     "justificativa": "aprovação do bloco",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco",
-     "ts": "0:07:31",
-     "justificativa": "aprovação do bloco",
+     "voto": "aprova o bloco (preside e proclama)",
+     "ts": "0:07:27",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "aprova o bloco",
-     "ts": "0:07:31",
-     "justificativa": "aprovação do bloco",
-     "confianca": "media"
+     "ts": "0:07:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:07:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "aprova o bloco",
+     "ts": "0:07:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:07:36",
+     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "1",
    "ts": "0:07:55",
-   "processo": "48500.003855/2022-76",
-   "interessado": "ISA CTEEP (sustentação oral de Márcio Pina Marques); SCT/SEL",
-   "assunto": "Abertura de consulta pública sobre o edital do Leilão de Transmissão nº 2/2022 (6 lotes, ~2,7 bi; inclui revitalização Garabi 1 e 2 e novo serviço 345 kV na SE Centro, São Paulo)",
+   "processo": "48500.003385/2022-76 (número parcialmente distorcido na legenda)",
+   "interessado": "SEL/SCT; ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista) contesta o lote 6",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 13/05 a 27/06/2022) sobre o edital do Leilão de Transmissão nº 2/2022 (ES, MA, MG, PA, RJ, RO, RS, SP; 6 lotes, ~R$ 2,7 bi, ~710 km de linhas); lote 6 = novo serviço 345 kV na subestação Centro (São Paulo), hoje da ISA CTEEP; lote 5 = revitalização das conversoras de Garabi 1 e 2",
    "tema": [
     "leilões (transmissão)",
-    "transmissão",
+    "transmissão (reforços, outorgas)",
     "regulação normativa (consulta pública)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade: CP por intercâmbio documental de 13/05 a 27/06/2022",
-   "resumo_voto": "Relator negou pedido da CTEEP de retirada de pauta/exclusão da SE Centro (MME já negou pleito); legalidade será avaliada na CP com Procuradoria. Cita caso SE Porto Alegre 4 (deságio ~57%). Efrain defende revisar regulamento de reforços e melhorias. Sandoval destaca inovações: excludente de responsabilidade só após operação comercial e caducidade por recuperação judicial do controlador.",
+   "resultado": "aprovado por unanimidade (consulta pública instaurada)",
+   "resumo_voto": "Sustentação oral de Márcio Pina Marques (ISA CTEEP) pedindo retirada de pauta ou exclusão da SE Centro, por ser parte do objeto da concessão e caber reforço de grande porte (cita parecer de Marçal Justen Filho). Procurador-geral: possível redução unilateral com reequilíbrio; à disposição na CP. Relator negou a retirada (MME já indeferiu o pleito no DOU; fase é de consulta pública) e citou a SE Porto Alegre 4 (Leilão 1/2020) com deságio de 57,35% versus 51,25% da própria concessionária. Novidades da minuta: análise de excludentes de responsabilidade após a operação comercial e possibilidade de caducidade em caso de recuperação judicial do sócio controlador.",
    "votos": [
     {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:53:11",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (instaurar consulta pública)",
+     "ts": "0:39:19",
+     "justificativa": "licitação traz benefício ao consumidor (caso Porto Alegre 4); legalidade levantada pela CTEEP será examinada pela Procuradoria e pelo poder concedente durante a CP",
+     "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:53:11",
-     "justificativa": "acompanha; avaliar legalidade na CP e necessidade de revisar regulamentação de reforços e melhorias (sem deságio para o consumidor)",
+     "voto": "acompanha o relator (pela proclamação), com reflexão sobre reforços",
+     "ts": "0:41:48",
+     "justificativa": "casa precisa avançar na regulamentação de reforços e autorizações: nesses casos não há deságio e o consumidor paga preço cheio; legalidade será analisada na CP",
+     "tom": "enfático",
      "confianca": "media"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:53:11",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "0:39:19",
-     "justificativa": "voto do relator",
-     "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:53:11",
-     "justificativa": "acompanha; destaca inovações do edital e vantagem da licitação para modicidade tarifária",
+     "ts": "0:53:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha e proclama (Diretor-Geral)",
+     "ts": "0:53:19",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:54:07",
-   "processo": "48500.003943/2022-21",
-   "interessado": "SEL / leilões de energia nova",
-   "assunto": "Abertura de consulta pública para editais dos Leilões nº 4/2022 (A-5) e nº 5/2022 (A-6) de energia nova",
+   "ts": "0:53:45",
+   "processo": "48500.003943/2022-21 (número parcialmente distorcido na legenda)",
+   "interessado": "SEL; empreendedores de geração (MME, EPE)",
+   "assunto": "Abertura de consulta pública (12/05 a 27/06/2022, com dispensa de AIR) sobre os editais dos Leilões nº 4/2022 (energia nova A-5) e nº 5/2022 (energia nova A-6), sessão pública prevista para 16/09/2022; fontes hídrica, eólica, solar, térmicas a resíduos sólidos urbanos, biomassa, carvão mineral nacional, gás natural e biogás; reserva de demanda para hidrelétricas até 50 MW (art. 21 da Lei 14.182/2021) sem desconto na TUST/TUSD",
    "tema": [
     "leilões (geração)",
     "outorgas de geração",
     "regulação normativa (consulta pública)"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade: CP com dispensa de AIR de 12/05 a 27/06/2022",
-   "resumo_voto": "Edital segue portaria MME 41/2022; reserva de demanda para hidrelétricas até 50 MW (lei 14.182) sem desconto TUST/TUSD; resíduos sólidos urbanos com dois produtos. Hélvio comenta inclusão de RSU e carvão mineral.",
+   "resultado": "aprovado por unanimidade (consulta pública instaurada)",
+   "resumo_voto": "Apresentação do secretário executivo de leilões (Patrus). Relator vai direto ao dispositivo. Hélvio destaca a nova participação da fonte resíduos sólidos urbanos e ressalva a presença do carvão mineral nacional (competência do poder concedente); Diretor-Geral elogia os dois preços para RSU e biogás.",
    "votos": [
     {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:10:47",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
-    },
-    {
      "diretor": "Efrain Cruz",
-     "voto": "relator, aprova",
-     "ts": "1:08:00",
-     "justificativa": "voto do relator",
+     "voto": "relator, aprova (instaurar consulta pública)",
+     "ts": "1:07:23",
+     "justificativa": "edital segue diretrizes da Portaria MME 41/2022; desconto/renúncia na reserva de demanda decorre de previsão legal",
      "confianca": "alta"
     },
     {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:10:47",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
-    },
-    {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha o relator",
      "ts": "1:10:47",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
+     "justificativa": "importância da fonte resíduos sólidos urbanos; ressalva sobre carvão mineral nacional, cuja definição é do poder concedente",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:10:47",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
+     "voto": "acompanha a proposta de voto do relator",
+     "ts": "1:10:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator",
+     "ts": "1:10:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha e proclama (Diretor-Geral)",
+     "ts": "1:10:53",
+     "justificativa": "evolução: RSU com dois preços conforme a tecnologia",
      "confianca": "media"
     }
    ]
@@ -183,209 +174,206 @@
   {
    "id": "4",
    "ts": "1:11:29",
-   "processo": "48500.003564/2021-22",
-   "interessado": "Santo Antônio Energia (Gerusa Magalhães) e Energia Sustentável do Brasil/Jirau (Pedro Henrique Maciel Fonseca) - sustentação oral",
-   "assunto": "Resultado da CP 67/2021: regra de transição do art. 8º da REN 559/2013 (TUST estabilizada) para geradores de leilões anteriores",
+   "processo": "48500.003564/2021-22 (número parcialmente distorcido na legenda)",
+   "interessado": "Santo Antônio Energia (SAE) e Energia Sustentável do Brasil (ESBR, UHE Jirau); demais geradores com TUST estabilizada (Res. 267/2007)",
+   "assunto": "Resultado da Consulta Pública 67/2021: alteração do art. 8º da REN 559/2013 (regra de transição da TUST estabilizada para geradores que participaram de leilões antes da norma)",
    "tema": [
     "tarifas (TUST)",
     "transmissão",
-    "regulação normativa (consulta pública)"
+    "regulação normativa (consulta pública)",
+    "leilões (geração)"
    ],
    "relator": "Sandoval Feitosa",
-   "resultado": "pedido de vista de Hélvio Guerra",
-   "resumo_voto": "Relator vota por afastar a regra de transição para geradores com TUST estabilizada pela REN 267/2007 a partir do ciclo 2022-2023, mantendo-a até o ciclo 2021-2022 (item a). Efrain propõe regra geral de aplicar a transição só quando não for gravosa ao gerador; Elisa questiona retirar o item a por haver pleito concreto sob sua relatoria. Relator aceita retirar o item a. Com duas propostas na mesa, Hélvio pede vista.",
+   "resultado": "pedido de vista do diretor Hélvio Guerra (sem deliberação)",
+   "resumo_voto": "Sustentações orais de Pedro Henrique Maciel Fonseca (ESBR) e Gerusa de Souza Cortez Magalhães (SAE): edital fixou 10 ciclos de TUST estabilizada; regra de transição não pode ser mais gravosa. Procurador-geral registra divergência interna na Procuradoria, mas prevaleceu a tese de que a transição não se aplica quando a TUST estabilizada é maior que a locacional. Relator propõe afastar a regra de transição para geradores com TUST estabelecida pela Res. 267/2007 a partir do ciclo 2022/2023, mantendo-a até o ciclo 2021/2022 (sem retroação), por isonomia entre consumo e geração. Efrain propõe alternativa: manter a REN 559 e afastar a transição apenas quando onerosa ao gerador. Elisa sugere retirar o item a; Hélvio defende que no 11º ano se aplique a tarifa calculada, maior ou menor. Com duas propostas em votação, Hélvio pede vista.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "relator, aprova (afastar regra de transição; retirou item a)",
+     "voto": "relator, voto lido: afastar a regra de transição do art. 8º da REN 559/2013 para geradores da Res. 267/2007 a partir do ciclo 2022/2023 (mantida até 2021/2022); deliberação suspensa pela vista",
      "ts": "1:55:22",
-     "justificativa": "transição em um só sentido feriria isonomia; afastamento total equilibra e evita risco não previsto no edital",
+     "justificativa": "norma tem efeito prospectivo; transição em uma só direção feriria a neutralidade entre consumo e geração (relação condominial); afastamento total evita risco não previsto no edital apontado pela Procuradoria",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "diverge (proposta alternativa)",
-     "ts": "2:10:00",
-     "justificativa": "regra de transição não pode ser gravosa; manter REN 559 afastando-a só quando onerar o gerador; preservar o combinado no leilão",
+     "voto": "não votou (vista); no debate apresentou proposta divergente",
+     "ts": "2:16:22",
+     "justificativa": "manter a REN 559 como regra geral e afastar a transição só quando onerosa ao gerador; respeito ao que foi combinado no leilão (cláusula econômica do lance) e segurança jurídica",
+     "tom": "enfático",
      "confianca": "media"
     },
     {
      "diretor": "Elisa Bastos",
      "voto": "não votou (vista)",
-     "ts": "2:25:00",
-     "justificativa": "questionou item a pelo caso concreto da Santo Antônio sob sua relatoria",
+     "ts": "2:14:38",
+     "justificativa": "questionou se retirar o item a do dispositivo resolveria a divergência, por haver pleito específico sob sua relatoria",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "pede vista",
      "ts": "2:31:04",
-     "justificativa": "tarifa estabilizada vale 10 anos; no 11º aplica-se a calculada; precisa de convicção",
+     "justificativa": "precisa de convicção diante de duas propostas; entende que após 10 anos se aplica a tarifa calculada, maior ou menor, preservando edital e contratos",
      "confianca": "alta"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "não votou (vista)",
-     "ts": "2:31:00",
-     "justificativa": "conduziu a discussão e resumiu as duas propostas",
-     "confianca": "media"
     }
    ]
   },
   {
-   "id": "5",
-   "ts": "2:31:16",
-   "processo": "48500.004119/2021-80",
-   "interessado": "CCEE; geradoras eólicas",
-   "assunto": "Abertura de CP sobre regras de comercialização para a REN 927/2021 (restrição de operação por constrained-off de eólicas)",
+   "id": "25",
+   "ts": "2:31:14",
+   "processo": "48500.004119/2021-80 (número parcialmente distorcido na legenda)",
+   "interessado": "CCEE; usinas eólicas (e, em seguida, solares) com restrição de operação",
+   "assunto": "Abertura de consulta pública (45 dias) sobre regras de comercialização para atender a REN 927/2021 (apuração e pagamento de restrição de operação por constrained-off de usinas eólicas)",
    "tema": [
-    "comercialização (CCEE)",
+    "comercialização (CCEE, regras de comercialização)",
     "outorgas de geração (eólica)",
     "regulação normativa (consulta pública)"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade: CP por 45 dias",
-   "resumo_voto": "Instaura CP com minutas de regras de comercialização; abre caminho para regulamentar outras fontes (solares).",
+   "resultado": "aprovado por unanimidade (consulta pública instaurada)",
+   "resumo_voto": "Apresentação da SRG (Rafael): limite de indisponibilidade externa sem compensação, cálculo da frustração de geração, energia contratada, sazonalização/modulação e manutenção da suspensão dos ressarcimentos (Despacho 2.303/2019). Relator: não se pode negar direito previsto em lei por ausência de regras; abre caminho para outros segmentos.",
    "votos": [
     {
      "diretor": "Efrain Cruz",
-     "voto": "relator, aprova",
-     "ts": "2:44:30",
-     "justificativa": "voto do relator",
+     "voto": "relator, aprova (instaurar consulta pública)",
+     "ts": "2:44:20",
+     "justificativa": "regulamentar o direito das eólicas ao ressarcimento por constrained-off; abre caminho para outros segmentos de geração",
      "confianca": "alta"
     },
     {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:45:15",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
-    },
-    {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:45:15",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
+     "voto": "acompanha o relator",
+     "ts": "2:45:14",
+     "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:45:15",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
+     "voto": "acompanha a proposta de voto do relator",
+     "ts": "2:45:18",
      "confianca": "media"
+    },
+    {
+     "diretor": "Elisa Bastos",
+     "voto": "acompanha o relator e proclama (presidindo)",
+     "ts": "2:45:22",
+     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "6",
    "ts": "2:45:53",
-   "processo": "48500.000349/2018-91",
+   "processo": "48500.000349/2018-91 (número parcialmente distorcido na legenda)",
    "interessado": "Enel Distribuição São Paulo (Eletropaulo)",
-   "assunto": "Recurso contra auto de infração 1008/2018 (SFE) sobre teleatendimento e ouvidoria",
+   "assunto": "Recurso administrativo contra o Auto de Infração 1.008/2018 (SFE, fiscalização conjunta com a ARSESP das centrais de teleatendimento e ouvidoria): advertências e multa reduzida em reconsideração de R$ 38,5 mi para R$ 16.214.457,76",
    "tema": [
-    "fiscalização e sanções (multa)",
-    "recursos administrativos"
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "distribuição (atendimento ao consumidor)"
    ],
    "relator": "Elisa Bastos",
-   "resultado": "unanimidade dos votantes: recurso conhecido e parcialmente provido, mantida multa de R$ 16.214.457,76 (despacho 2887/2019)",
-   "resumo_voto": "Acompanha área técnica e Procuradoria; multa reduzida em reconsideração de 38,5 mi para 16,2 mi.",
+   "resultado": "aprovado por unanimidade dos votantes: recurso conhecido e parcialmente provido, mantido o Despacho 2.887/2019 (multa de R$ 16.214.457,76)",
+   "resumo_voto": "Apresentação técnica da SFE (Thomson): NC4 (não registro de reclamações com variação de consumo inferior a 30%) responde por 93% da multa; NC5, NC6 e NC12 com valores menores. Relatora acompanha a área técnica e a Procuradoria.",
    "votos": [
     {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:58:20",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
-    },
-    {
      "diretor": "Elisa Bastos",
-     "voto": "relator, aprova",
-     "ts": "2:57:40",
-     "justificativa": "voto do relator",
+     "voto": "relatora, conhece e dá parcial provimento (mantém multa de R$ 16,2 mi)",
+     "ts": "2:57:54",
+     "justificativa": "acompanha integralmente a área técnica e a Procuradoria",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:58:20",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
+     "voto": "acompanha a relatora",
+     "ts": "2:58:25",
+     "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:58:20",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
+     "voto": "acompanha a proposta de voto da relatora",
+     "ts": "2:58:29",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação, «unanimidade dos votantes»)",
+     "ts": "2:58:33",
+     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "7",
-   "ts": "2:59:09",
-   "processo": "48500.003532/2018-?",
-   "interessado": "Furnas (sustentação oral por vídeo de Fabiana Toledo)",
-   "assunto": "Recurso contra auto de infração 11/2019 (SFE): compensador estático da SE Barro Alto, plano de melhorias não cumprido",
+   "ts": "2:59:03",
+   "processo": "48500.003532/2018 (número parcialmente distorcido na legenda)",
+   "interessado": "Furnas Centrais Elétricas (subestação Barro Alto, compensador estático)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 11/2019 (SFE): multa de R$ 12.506.737,79 por descumprimento de plano de melhorias e providências do compensador estático da SE Barro Alto (NC1) e falhas na gestão da manutenção (NC2)",
    "tema": [
-    "fiscalização e sanções (multa)",
-    "transmissão",
-    "recursos administrativos"
+    "fiscalização e sanções (multa, auto de infração, fiscalização responsiva)",
+    "recursos administrativos",
+    "transmissão"
    ],
    "relator": "Elisa Bastos",
-   "resultado": "unanimidade dos votantes: recurso negado, mantida multa de R$ 12.506.737,79",
-   "resumo_voto": "Furnas descumpriu plano de melhorias da fiscalização responsiva e piorou (12 desligamentos vs meta 5).",
+   "resultado": "aprovado por unanimidade dos votantes: recurso conhecido e não provido, mantida a multa de R$ 12.506.737,79 (a atualizar)",
+   "resumo_voto": "Sustentação oral em vídeo de Fabiana Toledo (Furnas): ações do plano perderam sentido com a licitação da substituição do compensador; abrangência e gravidade excessivas. Apresentação da SFE (Humberto): meta de 5 desligamentos, ocorreram 12. Relatora acompanha área técnica e Procuradoria. Hélvio orienta a SGM a limitar sustentações em vídeo a 10 minutos.",
    "votos": [
     {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:30:50",
-     "justificativa": "acompanha o relator; proclamação por unanimidade",
-     "confianca": "media"
+     "diretor": "Elisa Bastos",
+     "voto": "relatora, conhece e nega provimento (mantém multa)",
+     "ts": "3:23:08",
+     "justificativa": "acompanha a área técnica e a Procuradoria",
+     "confianca": "alta"
     },
     {
-     "diretor": "Elisa Bastos",
-     "voto": "relator, aprova",
-     "ts": "3:23:14",
-     "justificativa": "voto do relator",
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "3:26:37",
+     "justificativa": "na fiscalização responsiva a empresa teve chance de melhorar e piorou; penalidade deve ser exemplar, senão se gasta recurso público sem incentivo",
+     "tom": "firme",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:30:50",
-     "justificativa": "acompanha; elogia critério da área técnica; pede que SG corte sustentações em vídeo em 10 minutos",
-     "confianca": "media"
+     "voto": "acompanha a relatora",
+     "ts": "3:27:45",
+     "justificativa": "área técnica foi criteriosa; regulação/fiscalização responsiva é melhor mesmo com recursos abundantes",
+     "confianca": "alta"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:30:50",
-     "justificativa": "acompanha; fiscalização responsiva deu oportunidade e a empresa persistiu na infração, cabendo penalidade exemplar",
-     "confianca": "media"
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha a relatora (pela proclamação, «unanimidade dos votantes»; fala não ouvida)",
+     "ts": "3:30:55",
+     "confianca": "baixa"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "id": "3",
-   "motivo": "retirado"
+   "item": "3",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anúncio do secretário-geral)",
+   "ts": "0:05:10"
   },
   {
-   "id": "10",
-   "motivo": "retirado a pedido do Diretor-Geral"
+   "item": "13",
+   "relator": "não identificado",
+   "motivo": "retirado a pedido do relator",
+   "ts": "0:04:56"
   },
   {
-   "id": "13",
-   "motivo": "retirado a pedido do relator"
+   "item": "10",
+   "relator": "não identificado",
+   "motivo": "retirado a pedido do Diretor-Geral",
+   "ts": "0:53:56"
   }
  ],
  "limites_da_analise": [
-  "André Pepitone, Efrain Cruz e Elisa Bastos não estão na lista de diretores do config_agencia.json; nomes registrados como ditos (Pepitone DG em 2022).",
-  "Itens 5 a 7: pela fala (diretora-geral substituta, Hélvio conduzindo no item 7, 'unanimidade dos votantes', 3 vozes de voto) Pepitone parece ausente; votos registrados só para os 4 presentes - incerto.",
-  "Votos de quem acompanha atribuídos pela proclamação; ts aproximados.",
-  "Item 4: posição de Elisa e Pepitone não votada; Efrain registrado como divergente pela proposta alternativa, sem votação formal.",
-  "Número do processo do item 7 com dígito verificador incerto; processo item 1 lido como 48500.003855/2022-76 (legenda)."
+  "Legenda automática sem pontuação: números de processo e nomes distorcidos (ex.: Efraim/ephrain, Eliza); falas de votação curtas sem identificação de quem fala.",
+  "A partir do item 4 o Diretor-Geral André Pepitone não aparece nas votações (item 25 tem relator + 3 votos; itens 6 e 7 proclamados «por unanimidade dos votantes»); presume-se que deixou a sessão e que Elisa Bastos presidiu como substituta. Por isso não há voto de Pepitone nos itens 4, 25, 6 e 7 — inferência, confiança baixa.",
+  "Itens 6 e 7: só duas falas «acompanho» antes da proclamação; o voto de Efrain Cruz foi atribuído pela proclamação («unanimidade dos votantes»), pode ter estado ausente ou não votado — confiança baixa.",
+  "Item 1: votação ilegível na legenda (0:53:11); votos de Sandoval e Elisa atribuídos pela proclamação de unanimidade. A fala sobre inovações do edital (0:48:07) não teve autor identificado.",
+  "Item 4: ninguém votou além da leitura do voto do relator; Efrain apresentou proposta alternativa em debate, mas o item foi suspenso por vista antes da votação.",
+  "Atribuição dos «acompanho» seguiu a ordem usual e o estilo («proposta de voto» = Sandoval); ordem exata não confirmada."
  ]
 }

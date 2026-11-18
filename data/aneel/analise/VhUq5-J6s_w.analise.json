@@ -1,86 +1,89 @@
 {
- "meta": {"video_id": "VhUq5-J6s_w", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
- "reuniao": {
-  "numero": "7ª Reunião Pública Ordinária de 2023 (Parte 1)",
-  "data": "2023-03-14",
-  "formato": "presencial com participação remota (Agnes da Costa remota)",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
-  "ausentes": [],
-  "observacoes": [
-   "Quórum completo de cinco diretores; Agnes da Costa participou remotamente.",
-   "Pauta com 58 itens; itens 8 a 58 em bloco; retirados de pauta os itens 4, 8, 14, 21, 33 e 55 (lista lida pelo secretário-geral; legenda confusa, pois o 14 também aparece na ordem de julgamento).",
-   "Esta parte 1 cobre o bloco, o item 1 (leilão de transmissão 2/2023), o item da RTP Enel Rio (vista em mesa do Diretor-Geral, a retomar até o fim da reunião) e o reajuste da Light; reunião suspensa para almoço às 12h37.",
-   "Sustentações orais: Hugo Lamim (Enel Rio), Ezequiel Siqueira (Conselho de Consumidores da Enel Rio), Alexandre Nogueira Ferreira (Light)."
+  "meta": {"video_id": "VhUq5-J6s_w", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "7ª Reunião Pública Ordinária de 2023 (Parte 1)",
+    "data": "2023-03-14",
+    "formato": "presencial com participação remota (Agnes da Costa remota)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum completo de cinco diretores declarado na abertura; Agnes da Costa participou remotamente. Procurador-geral Luís Eduardo e secretário-geral Carlos Eduardo Lima.",
+      "Pauta publicada em 09/03/2023 com 58 itens; itens 8 a 58 em bloco; retirados de pauta os itens 4, 8, 14, 21, 33 e 55 (segundo o secretário-geral); pedidos de sustentação oral nos itens 2, 3, 12, 14, 20, 23, 25, 32 e 43. Ordem: bloco, depois 1, 2, 3, 6, 12, 14, 20, 23, 25, 32, 43, 5 e 7.",
+      "Esta Parte 1 cobre o bloco e os itens 1 (consulta pública do Leilão de Transmissão 2/2023), 2 (RTP 2023 da Enel Rio, com vista em mesa do Diretor-Geral) e 3 (reajuste 2023 da Light). Sessão suspensa às 12h37 para o almoço, com retorno previsto às 14h30 (demais itens na Parte 2, outro vídeo).",
+      "Comunicados: AP 5/2023 (universalização rural Energisa Rondônia, Porto Velho, presidida por Ricardo Tili) e AP 6/2023 (RTP Cemig D, Belo Horizonte, presidida por Fernando Mosna); ata da 6ª reunião aprovada."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:08:42",
+      "processo": "itens 8 a 58 (exceto retirados)", "interessado": "diversos",
+      "assunto": "Julgamento em bloco dos itens 8 a 58 da pauta, com votos e atos disponibilizados previamente",
+      "tema": ["institucional / pauta em bloco"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Diretores aprovam o bloco; uma diretora ressalvou um item que não poderia votar; o Diretor-Geral proclamou primeiro com destaque do item 30 (Agnes da Costa) e depois retificou, proclamando a aprovação de todos os itens do bloco por unanimidade.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (ressalva sobre item que não poderia votar, item 30)", "ts": "0:08:51", "justificativa": "disse haver um item que não podia votar; na retificação foi dito que ele já fora votado", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:10", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:13", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:15", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco e proclama", "ts": "0:09:18", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:10:19",
+      "processo": "48500.000529/2023-13", "interessado": "SEL e SCT (ANEEL); MME/EPE (estudos)",
+      "assunto": "Abertura de consulta pública (intercâmbio documental, 17/03 a 02/05/2023) para aprimorar as minutas de edital e anexos do Leilão 2/2023 de transmissão: elo de corrente contínua de 800 kV e sistema de 500 kV em GO, MA, MG, SP e TO, três lotes, investimento de quase R$ 20 bilhões, prazo de até 72 meses para o lote 1",
+      "tema": ["leilões (transmissão)", "transmissão", "regulação normativa (consulta pública)"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentação de André (SEL); relator destaca ser o maior leilão de transmissão em investimento, ligado à transição energética (escoamento de renováveis do Nordeste), e o prazo de 72 meses pela demanda mundial por HVDC e risco de leilão deserto. Comentários sobre a importância da intensificação do sinal locacional na TUST e sobre a cadeia de suprimentos.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova abertura da consulta pública", "ts": "0:21:43", "justificativa": "leilão estratégico para a transição energética; prazo de 72 meses por gargalo mundial de fabricação de equipamentos HVDC, para evitar leilão deserto", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação), com comentário", "ts": "0:22:08", "justificativa": "enfatizou a importância da intensificação do sinal locacional, pois a receita alta da linha vai para as tarifas e os geradores do Nordeste devem pagar pelo uso; recado ao Congresso", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:27:03", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:27:03", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:27:11", "justificativa": "expansão será de renováveis no Nordeste/norte de MG; sinal locacional onera quem mais usa a transmissão; preocupação com cadeia de suprimentos, preços de commodities e gargalo nos órgãos", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:27:51",
+      "processo": "48500.006884/2022-15 e 48500.007896/2022-67", "interessado": "Enel Distribuição Rio (Ampla); Conselho de Consumidores da Enel Rio",
+      "assunto": "Resultado da Revisão Tarifária Periódica 2023 da Enel Rio, a vigorar a partir de 15/03/2023 (efeito médio proposto de 3,28%: -4,91% AT e 6,18% BT), e limites de DEC/FEC 2024-2028, após a Consulta Pública 60/2022; pleitos da distribuidora sobre perdas não técnicas e receitas irrecuperáveis em áreas de severa restrição operativa, mercado medido x faturado (Tomada de Subsídios 28/2022), efeito da MMGD e custos operacionais da CP 62/2020",
+      "tema": ["tarifas e revisão tarifária (RTP)", "distribuição e qualidade (DEC/FEC, perdas não técnicas)", "geração distribuída (MMGD)", "áreas de risco / severa restrição operativa"],
+      "relator": "Ricardo Tili", "resultado": "pedido de vista em mesa do Diretor-Geral Sandoval Feitosa (para organizar as propostas, com promessa de trazer até o fim da reunião); deliberação não concluída nesta Parte 1",
+      "resumo_voto": "Sustentações orais de Hugo Lamim (Enel Rio: áreas dominadas por grupos armados, 470 mil clientes, pede perdas reais na área de risco e receitas irrecuperáveis de 1,4%, aplicação da TS 28 e da metodologia de custos operacionais da CP 62/2020) e de Ezequiel Siqueira (presidente interino do Conselho de Consumidores: a empresa deixa a desejar e o consumidor não aguenta mais subsídios). Apresentação da SGT. O relator acata o ajuste econômico pela migração para MMGD e nega os demais pleitos, determinando à SRM e à SGT avaliar em 90 dias a reformulação do submódulo 2.6A do PRORET. Debate longo: Hélvio Guerra aponta incoerência (MMGD fora do PRORET acatada, perdas não) e propõe tornar provisória a trajetória de perdas; Fernando Mosna propõe aplicar já o mercado medido (TS 28); Sandoval Feitosa defende a norma de perdas (relatou a norma, aplicada à Light sem recurso) e rejeita revisão provisória. O relator incorporou o caráter provisório da trajetória de perdas e do tratamento medido/faturado, com eventuais efeitos pelo componente financeiro no reajuste seguinte; Fernando Mosna manteve divergência (prazo de 90 dias para a SGT calcular e aplicar já nesta revisão). Iniciada a votação, o Diretor-Geral pediu vista em mesa.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova a RTP (voto ajustado: trajetória de perdas e medido/faturado em caráter provisório, ajuste via componente financeiro no reajuste seguinte)", "ts": "2:46:51", "justificativa": "MMGD pode ser medida com dados validados e é excepcional; nas perdas na área de risco não há como medir e valorar o pleito; pleitos sobre metodologias ainda em discussão não devem ser aplicados por isonomia entre as mais de 20 revisões de 2023; revisão deve sair com índice definitivo por um ano", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge (proposta própria)", "ts": "2:47:05", "justificativa": "aplicar já o entendimento da TS 28 (mercado medido em vez de faturado para perdas não técnicas), com prazo de 90 dias para a SGT calcular grandezas e impactos e aplicar os efeitos nesta revisão; mudança da GD inverte a relação medido x faturado", "tom": "insistente; diz que a proposta do relator não reflete o que sugeriu", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (antes da vista)", "ts": "2:51:18", "justificativa": "ao longo do debate preocupou-se com o vai e volta de números e a isonomia com as demais revisões; tendeu à opção do relator", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a divergência de Fernando Mosna (provável, antes da vista)", "ts": "2:51:21", "justificativa": "no debate: incoerente acatar MMGD fora do PRORET e negar perdas não técnicas; propôs revisão provisória da trajetória de perdas, com retorno a esta revisão após a reforma do submódulo 2.6A; impossibilidade notória de acesso em áreas dominadas por milícia e tráfico", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista (em mesa)", "ts": "2:51:24", "justificativa": "para organizar as propostas, com retorno até o fim da reunião; no mérito, defendeu a norma de perdas vigente e criticou revisão provisória como mau sinal", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "2:52:15",
+      "processo": "48500.006864/2022-44", "interessado": "Light Serviços de Eletricidade S.A.",
+      "assunto": "Reajuste Tarifário Anual 2023 da Light, a vigorar a partir de 15/03/2023 (efeito médio de 7%: 6,03% AT e 7,47% BT); pleitos da Light sobre trajetória de perdas não técnicas (queda do mercado de baixa tensão desde 2015 e efeito do TOI na relação medido x faturado)",
+      "tema": ["tarifas e revisão tarifária (reajuste)", "distribuição e qualidade (perdas não técnicas)", "CDE e encargos setoriais"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade; pleitos da Light recebidos como pedido de revisão tarifária extraordinária a ser tratado pela SGT e SRM",
+      "resumo_voto": "Sustentação oral de Alexandre Nogueira Ferreira (Light). A Procuradoria lembrou que reajuste é vinculado ao contrato e ao PRORET, sem espaço para rediscutir trajetória de perdas. Relator: pleitos relevantes, mas o reajuste não é a via adequada; determina tratá-los como pedido de RTE. O Diretor-Geral sugeriu fixar prazo para a determinação; o relator manteve o rito normal.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova o reajuste e determina tratar os pleitos como pedido de RTE", "ts": "3:23:01", "justificativa": "reajuste só aplica o índice contratual e não altera a trajetória de perdas fixada na RTP 2022; pleitos devem ser avaliados por SGT e SRM como revisão extraordinária", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:29:53", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:29:55", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:29:56", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:29:58", "justificativa": "reajuste é apenas reajuste por índice, defesa que tem sido positiva para a ANEEL em juízo; não houve recurso da Light contra a norma de perdas nem contra a RTP 2022", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["4", "8", "14", "21", "33", "55"],
+  "limites_da_analise": [
+    "Vídeo é a Parte 1 da 7ª RPO de 2023; o resultado do item 2 (Enel Rio), após a vista em mesa, e os demais itens (6, 12, 14, 20, 23, 25, 32, 43, 5 e 7) estão em outro vídeo.",
+    "Item 2: votos antes da vista mal captados pela legenda («eu dirijo do relatório», «eu acompanho o voto direto a Fernanda», «eu também acompanho a — desculpa»). A atribuição a Agnes da Costa (chamada pela mesa) e a Hélvio Guerra (que antes disse acompanhar Fernando Mosna no ponto medido/faturado, 2:18:13) é inferida; confiança baixa.",
+    "Bloco: falas de aprovação sem nome; a primeira proclamação citou destaque do item 30 pela diretora Agnes, depois retificada para aprovação de todos os itens do bloco; o motivo exato (impedimento ou voto anterior) não está claro.",
+    "Item 1: só o voto do Diretor-Geral foi ouvido; demais pela proclamação de unanimidade. A atribuição do comentário sobre sinal locacional a Hélvio Guerra é inferida (o Diretor-Geral fala «na mesma linha, diretor Élvio»).",
+    "Item 3: as falas «antecipo a minha concordância» (3:28:06) e o complemento sobre ausência de recurso não têm nome explícito; atribuídas por contexto ao Diretor-Geral. Ordem dos votos de Agnes, Hélvio e Fernando no item 3 aproximada.",
+    "Legenda automática: nomes como «Ricardo Chile» (Ricardo Tili), «Élvio/Elvis» (Hélvio Guerra), «Mota/Moz» (Fernando Mosna), «Ênio/Hino» (Enel), «Hugo Lamim», «Ezequiel Siqueira», «André Tibutino/Fortino» (SEL) e «Davi» (superintendente da SGT) podem estar grafados incorretamente; dígitos dos processos podem conter erros.",
+    "Item 14 foi citado ao mesmo tempo como retirado de pauta e com sustentação oral/ordem de julgamento; a legenda não permite resolver."
   ]
- },
- "itens": [
-  {
-   "id": "bloco", "ts": "0:08:31", "processo": "", "interessado": "diversos",
-   "assunto": "Itens de bloco (itens 8 a 58, exceto retirados), votos e atos disponibilizados previamente",
-   "tema": ["bloco"], "relator": "vários",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Bloco aprovado; o Diretor-Geral primeiro proclamou com ressalva do item 30 destacado por Agnes da Costa, depois retificou (o item já havia sido votado) e proclamou a aprovação de todo o bloco por unanimidade.",
-   "votos": [
-    {"diretor": "Agnes da Costa", "voto": "aprova o bloco (mencionou um item em que não poderia votar; item 30)", "ts": "0:08:40", "justificativa": "Disse haver um item que não poderia votar; depois esclareceu que já havia votado.", "confianca": "baixa"},
-    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:00", "justificativa": "", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:00", "justificativa": "", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:00", "justificativa": "", "confianca": "media"},
-    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:09:10", "justificativa": "", "confianca": "alta"}
-   ]
-  },
-  {
-   "id": "1", "ts": "0:10:17", "processo": "48500.000529/2023-13", "interessado": "Secretaria Executiva de Leilões / SCT; MME; EPE",
-   "assunto": "Abertura de consulta pública (intercâmbio documental, 17/03 a 02/05/2023) sobre minuta de edital do Leilão de Transmissão 2/2023 (elo HVDC 800 kV e lotes em GO, MA, MG, SP, TO; cerca de R$ 20 bilhões)",
-   "tema": ["leilões (transmissão)", "transmissão", "regulação normativa (consulta pública)"],
-   "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instaurada consulta pública; apresentação técnica de André (Secretaria de Leilões): 3 lotes, lote 1 com prazo de 72 meses; relator destacou transição energética e risco de cadeia de suprimentos de HVDC. Hélvio Guerra e Sandoval Feitosa comentaram a importância do sinal locacional (TUST) para escoamento de renováveis do Nordeste.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:21:30", "justificativa": "Leilão importante para a transição energética; prazo de 72 meses pela demanda mundial por HVDC, para evitar leilão deserto.", "confianca": "alta"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:22:11", "justificativa": "Comentou a importância da intensificação do sinal locacional, pois a receita da linha vai para as tarifas.", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:50", "justificativa": "", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:26:50", "justificativa": "", "confianca": "media"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:27:03", "justificativa": "Expansão é renovável no Nordeste/norte de Minas; sinal locacional onera quem mais usa a transmissão; preocupação com cadeia de suprimento e inflação de serviços.", "confianca": "alta"}
-   ]
-  },
-  {
-   "id": "2", "ts": "0:28:00", "processo": "48500.006884/2022-15; 48500.007896/2022-67", "interessado": "Enel Distribuição Rio (Ampla); Conselho de Consumidores da Enel Rio",
-   "assunto": "Resultado da Revisão Tarifária Periódica 2023 da Enel Rio (efeito médio 3,28%; AT -4,91%, BT 6,18%) e limites DEC/FEC 2024-2028, após CP 60/2022",
-   "tema": ["tarifas e revisão tarifária (RTP)", "perdas não técnicas / áreas de severa restrição operativa", "geração distribuída (MMGD)"],
-   "relator": "Ricardo Tili",
-   "resultado": "pedido de vista em mesa do Diretor-Geral (a retomar até o fim da reunião)",
-   "resumo_voto": "Relator negou pleitos da Enel sobre perdas não técnicas em área de risco, receitas irrecuperáveis, TS 28/2022 e custos operacionais (CP 62/2020), acatou ajuste econômico pelo crescimento da GD e determinou à SRM/SGT avaliar em 90 dias o submódulo 2.6A do PRORET. Longo debate: Hélvio Guerra propôs tornar provisória a trajetória de perdas; Fernando Mosna propôs aplicar o mercado medido (TS 28) com prazo de 90 dias e efeito nesta revisão; relator reformulou acatando caráter provisório com efeito via componente financeiro no reajuste seguinte; Fernando manteve divergência. Com duas propostas na mesa, o Diretor-Geral pediu vista em mesa para organizar as propostas.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova (voto reformulado: perdas e mercado medido/faturado provisórios, ajuste no reajuste seguinte)", "ts": "2:30:00", "justificativa": "Não pode medir/valorar a perda em área de risco como mede a GD; revisão é um retrato e deve sair com índice definitivo ao menos por um ano.", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "diverge (proposta própria: aplicar mercado medido da TS 28 com prazo de 90 dias à SGT e efeitos nesta revisão)", "ts": "2:45:00", "justificativa": "Mercado medido e faturado são grandezas conhecidas; com a GD o faturado tende a cair; a regulação deve ser contemporânea aos fatos.", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "diverge do relator, acompanha Fernando Mosna (incerto)", "ts": "2:51:10", "justificativa": "Trecho ouvido: «eu dirijo do relatório eu acompanho o voto direto a Fernanda»; antes havia manifestado preocupação com o vai e volta de números e isonomia com outras revisões.", "confianca": "baixa"},
-    {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "2:51:20", "justificativa": "No debate defendeu tratar provisoriamente as perdas não técnicas e acompanhar Fernando quanto ao mercado medido; fala de voto não identificada (há um «eu também acompanho» sem nome antes da vista).", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "pede vista (em mesa)", "ts": "2:51:28", "justificativa": "Para organizar as propostas; trará até o fim da reunião. No debate defendeu aplicar a norma de perdas vigente (aplicada à Light sem recurso) e criticou revisões provisórias.", "confianca": "alta"}
-   ]
-  },
-  {
-   "id": "3", "ts": "2:52:18", "processo": "48500.006864/2022-44", "interessado": "Light Serviços de Eletricidade S.A.",
-   "assunto": "Reajuste Tarifário Anual 2023 da Light (efeito médio 7%; AT 6,03%, BT 7,47%), vigência 15/03/2023",
-   "tema": ["tarifas e revisão tarifária (reajuste)", "perdas não técnicas"],
-   "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Homologado o reajuste; pleitos da Light (trajetória de perdas não técnicas por queda do mercado BT e TOI na diferença medido/faturado) não cabem no reajuste e devem ser tratados por SGT e SRM como pedido de revisão tarifária extraordinária. Sustentação oral de Alexandre Nogueira Ferreira (Light).",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "3:25:00", "justificativa": "Reajuste só aplica índice; trajetória de perdas definida na RTP 2022; pleito recebido como pedido de RTE.", "confianca": "alta"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:29:45", "justificativa": "", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:29:47", "justificativa": "Concordou com o procurador: em reajuste não se rediscute trajetória de perdas.", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:29:49", "justificativa": "", "confianca": "media"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:29:52", "justificativa": "Sugeriu prazo para a determinação; não houve recurso da Light contra a norma nem contra a RTP 2022.", "confianca": "alta"}
-   ]
-  }
- ],
- "retirados": ["4", "8", "14", "21", "33", "55"],
- "limites_da_analise": [
-  "Parte 1 da reunião; o desfecho do item da Enel Rio (vista em mesa) e os itens 6, 12, 20, 23, 25, 32, 43, 5 e 7 ficam para a parte 2.",
-  "Cabeçalho do .md listava Gentil Nogueira; a chamada cita Élvio (Hélvio Guerra), Ricardo, Fernando e Agnes; usada a chamada.",
-  "No item da Enel Rio, as falas de voto antes da vista são truncadas e sem nome; atribuição a Agnes da Costa (chamada pela mesa) é baixa; Hélvio Guerra pode ter dito «eu também acompanho» antes da vista.",
-  "Números de processo e percentuais vêm da legenda automática e podem conter erros.",
-  "No bloco, o item 30 foi citado como destacado por Agnes da Costa e depois a proclamação foi retificada; não ficou claro se houve impedimento."
- ]
 }

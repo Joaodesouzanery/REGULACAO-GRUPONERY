@@ -1,44 +1,55 @@
 {
-  "meta": {"video_id": "uMVF1pZGe8U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de quem acompanha são aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "uMVF1pZGe8U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "2ª Reunião Pública Extraordinária de 2023", "data": "2023-06-27", "formato": "presencial com transmissão",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) — inferido",
+    "numero": "2ª Reunião Pública Extraordinária de 2023", "data": "2023-06-27", "formato": "presencial com transmissão pelo YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
     "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili"],
     "ausentes": [],
-    "observacoes": ["Quórum de três diretores declarado na abertura; presidente cumprimenta a diretora Agnes e o diretor Ricardo Tili (o .md atribui a abertura a Agnes por erro de inferência).", "Dois itens: medidas cautelares sobre vigência de pareceres de acesso de UFVs em São João do Piauí, vinculadas à CP 15/2023. Sem sustentação oral."]
+    "observacoes": [
+      "Quórum de três diretores declarado na abertura; o presidente cumprimenta a diretora Agnes e o diretor Ricardo Tili, o procurador-geral Luís Eduardo e o secretário-geral Carlos Eduardo.",
+      "Pauta publicada em 26/06/2023 com dois itens, sem pedidos de sustentação oral.",
+      "Os dois itens são pedidos de medida cautelar de geradoras fotovoltaicas (São João do Piauí 1 a 3 e Chapada/Chatô Forte 1 a 10, nome incerto) para manter a vigência de pareceres de acesso até a conclusão da Consulta Pública 15/2023 (tratamento excepcional de outorgas de geração e CUST).",
+      "Ao final o presidente anuncia que em alguns minutos começaria a reunião pública ordinária."
+    ]
   },
   "itens": [
     {
-      "id": "1", "ts": "0:01:02",
-      "processo": "48500.003353/2023-51 (número incerto)", "interessado": "Renobrax Energias Renováveis Ltda. (UFV São João do Piauí 1 a 3); ONS",
-      "assunto": "Pedido de medida cautelar para manter a vigência do parecer de acesso DTA-2022-PA-0130-R1 das UFVs São João do Piauí 1 a 3 até a conclusão da CP 15/2023",
-      "tema": ["transmissão (acesso, CUST)", "outorgas de geração (solar)", "regulação normativa (CP 15/2023)", "medida cautelar"],
-      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (provimento à cautelar)",
-      "resumo_voto": "Presentes perigo da demora (ONS realocaria a margem de escoamento ao próximo da fila) e fumaça do bom direito (voto do relator da CP 15 e expectativa de liberação de margem). ONS mantém vigência do parecer até 15 dias após aprovação da proposta da CP 15/2023, com efeitos retroativos; empresa pode assinar CUST até 15 dias após a aprovação.",
+      "id": "1", "ts": "0:01:53",
+      "processo": "48500.003353/2023-51 (número reconstruído da legenda)",
+      "interessado": "Renobrax Energias Renováveis Ltda. (geradora; UFV São João do Piauí 1 a 3)",
+      "assunto": "Pedido de medida cautelar para manter a vigência do parecer de acesso DTA-2022-PA-0130-R1 (ONS) das UFV São João do Piauí 1 a 3 até a conclusão da Consulta Pública 15/2023, com efeito retroativo, e opção de assinar o CUST em até 15 dias após a aprovação da proposta da CP 15/2023",
+      "tema": ["outorgas de geração (solar)", "transmissão (acesso, CUST, parecer de acesso)", "recursos administrativos (medida cautelar)", "regulação normativa (CP 15/2023)"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade: cautelar deferida; ONS mantém a vigência do parecer de acesso 130-R1 até 15 dias da aprovação da proposta da CP 15/2023, com efeitos retroativos à data de vigência original; Renobrax pode optar por assinar o CUST em até 15 dias após essa aprovação",
+      "resumo_voto": "Relator reconhece perigo da demora (com o fim da vigência do parecer, o ONS realocaria a margem de escoamento ao próximo da fila) e fumaça do bom direito (voto do relator da CP 15/2023 na 21ª RPO de 20/06/2023 sinaliza tratamento excepcional e já há manifestações de agentes por revogação de outorgas e rescisão de CUST, liberando margem). Base: art. 45 da Lei 9.784/1999 e art. 300 do CPC. Sem sustentação oral. Na discussão, um diretor (provavelmente o presidente) questionou se precisava ser cautelar ou bastaria acolher como requerimento; o relator respondeu que a natureza é provisória e depende da decisão da CP 15.",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova (dar provimento à cautelar)", "ts": "0:04:48", "justificativa": "perigo da demora e fumaça do bom direito presentes; decisão retroage à vigência original", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:14", "justificativa": "", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:14", "justificativa": "questionou se seria necessária cautelar ou bastaria requerimento; aceitou que sem decisão a empresa perderia o ponto de conexão", "tom": "questionador, depois concordante", "confianca": "media"}
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova (dá provimento à cautelar)", "ts": "0:04:48", "justificativa": "presentes perigo da demora (perda do ponto de conexão para o próximo da fila) e fumaça do bom direito (sinalização do voto do relator da CP 15/2023); decisão deve retroagir à vigência original", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:14", "justificativa": "sem fala individual audível na legenda; proclamação «por unanimidade»", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:14:20", "justificativa": "questionou se a via deveria ser cautelar ou simples requerimento, mas entendeu que sem a decisão a empresa perderia o ponto de conexão; proclamou unanimidade", "tom": "dúvida formal, depois concordância", "confianca": "media"}
       ]
     },
     {
-      "id": "2", "ts": "0:14:40",
-      "processo": "48500.003352/2023-15 (número incerto)", "interessado": "Renobrax / Chapada Forte (nome incerto) Geração de Energia Ltda. (UFV Chapada Forte 1 a 10, nome incerto); ONS",
-      "assunto": "Pedido de medida cautelar para manter a vigência do parecer de acesso DTA-2022-PA-0128-R1 das UFVs (Chapada?) Forte 1 a 10, que compartilham conexão em 500 kV com as UFVs São João do Piauí 1 a 3",
-      "tema": ["transmissão (acesso, CUST)", "outorgas de geração (solar)", "regulação normativa (CP 15/2023)", "medida cautelar"],
-      "relator": "Sandoval Feitosa", "resultado": "provimento à cautelar (proclamação não captada na legenda; presumido unânime)",
-      "resumo_voto": "Mesma fundamentação do item 1; relator ajustou o voto para incluir o prazo de até 15 dias para assinatura do CUST, como proposto por Ricardo Tili. Observou que o processo poderia ter sido distribuído por conexão.",
+      "id": "2", "ts": "0:15:10",
+      "processo": "48500.003352/2023-15 (número reconstruído da legenda)",
+      "interessado": "Renobrax Geração de Energia Ltda. e outra empresa (nome ilegível na legenda: «vença obras»/«versobrais»); UFV Chatô Forte (grafia incerta) 1 a 10",
+      "assunto": "Pedido de medida cautelar para manter a vigência do parecer de acesso DTA-2022-PA-0128-R1 das UFV Chatô Forte 1 a 10 (conexão compartilhada com as UFV São João do Piauí 1 a 3) até a conclusão da Consulta Pública 15/2023",
+      "tema": ["outorgas de geração (solar)", "transmissão (acesso, CUST, parecer de acesso)", "recursos administrativos (medida cautelar)", "regulação normativa (CP 15/2023)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "aprovado (cautelar deferida nos mesmos termos do item 1, com inclusão do prazo de 15 dias para assinatura do CUST); a legenda não registra a fórmula «por unanimidade», mas o dispositivo é repetido após lacuna de cerca de 25 s, aparentemente como proclamação",
+      "resumo_voto": "Relator dispensa a leitura do relatório por ser idêntico ao do item 1 (mudam só as usinas); observa que o processo poderia ter sido distribuído por conexão ao diretor Ricardo Tili; ajusta o voto para incluir o prazo de até 15 dias para assinatura do CUST, como proposto por Tili; procurador sem considerações adicionais. Sem sustentação oral.",
       "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (dar provimento à cautelar)", "ts": "0:17:00", "justificativa": "mesmos fundamentos do item 1; incluiu prazo de 15 dias para assinatura do CUST", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (presumido)", "ts": "0:20:50", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (presumido)", "ts": "0:20:50", "justificativa": "", "confianca": "baixa"}
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (dá provimento à cautelar)", "ts": "0:15:52", "justificativa": "mesmos fundamentos do voto do diretor Ricardo Tili no item 1; ajusta o voto para incluir prazo de 15 dias para assinar o CUST", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (inferido)", "ts": "0:19:50", "justificativa": "falas de voto não captadas na legenda (lacuna entre 0:19:49 e 0:20:15); resultado inferido pela repetição do dispositivo e encerramento", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (inferido)", "ts": "0:19:50", "justificativa": "falas de voto não captadas na legenda; o relator adotou a proposta de Tili sobre o prazo do CUST", "confianca": "baixa"}
       ]
     }
   ],
   "retirados": [],
   "limites_da_analise": [
-    "Presidente/relator do item 2 inferido como Sandoval Feitosa (Diretor-Geral): nome não dito; ele se dirige a 'diretor Ricardo, diretora Agnes'.",
-    "Item 2: votação e proclamação não aparecem na legenda (só leitura do dispositivo e encerramento); votos dos demais presumidos, confiança baixa.",
-    "Números de processo, nomes de usinas (Chatô/Chapada Forte) e da empresa (Renobrax, Vença Obras?) incertos pela legenda automática."
+    "Falante de abertura marcado na transcrição como {Agnes da Costa}, mas quem preside cumprimenta a diretora Agnes e o diretor Ricardo Tili; inferido que o presidente é o Diretor-Geral Sandoval Feitosa (não dito pelo nome).",
+    "Relator do item 2 inferido: quem relata se dirige a «diretor Ricardo, diretora Agnes» e pede que ambos não se oponham à leitura direta do dispositivo, logo seria o terceiro presente (Sandoval Feitosa); nome não dito.",
+    "Item 1: a pergunta sobre precisar ser cautelar não tem falante identificado; atribuída por inferência ao presidente.",
+    "Item 2: a legenda tem lacuna (~0:19:49 a 0:20:15) onde provavelmente estão os votos dos demais; resultado e votos de Agnes da Costa e Ricardo Tili inferidos, confiança baixa.",
+    "Números de processo, nomes das usinas (Chatô Forte / Chapada?) e da segunda requerente vêm da legenda automática e podem estar errados."
   ]
 }

@@ -1,86 +1,283 @@
 {
-  "meta": {"video_id": "ORinlKcBiT0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "40ª Reunião Pública Ordinária de 2022", "data": "2022-10-25", "formato": "presencial com transmissão",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Giácomo Bassi (diretor, nome fora da lista do config)", "Ricardo Tili", "Hélvio Guerra"],
-    "ausentes": ["Fernando Mosna (ausência justificada)"],
-    "observacoes": ["Quórum de quatro diretores.", "Informes: encerramento das CPs 40, 41 e 42/2022 em 31/10; leilão de transmissão 2/2022 marcado para 16/12 na B3; selo de qualidade regulatória (padrão ouro) para a REN 964 (segurança cibernética).", "Retificação da deliberação do item 18 da 39ª reunião (Translide / PCHs Assungui): o pedido de medida cautelar foi conhecido e negado, por maioria.", "Ata da 39ª reunião aprovada.", "Pauta com 40 itens; itens 6 a 40 em bloco; retirados os itens 4, 12, 18 e 22; sustentação oral no item 5.", "No encerramento o DG fala em '41ª reunião' (provável erro de fala/legenda; a abertura diz 40ª)."]
-  },
-  "itens": [
-    {
-      "id": "bloco (itens 6 a 40)", "ts": "0:09:50", "processo": "vários", "interessado": "vários",
-      "assunto": "Itens de bloco (6 a 40, exceto retirados), com votos e atos disponibilizados previamente; segundo o encerramento incluem outorgas, 11 declarações de utilidade pública, recursos administrativos e pedidos de reconsideração",
-      "tema": ["vários", "outorgas de geração", "recursos administrativos"],
-      "relator": "vários", "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Bloco aprovado sem discussão.",
-      "votos": [
-        {"diretor": "Giácomo Bassi", "voto": "aprova o bloco", "ts": "0:09:57", "confianca": "baixa"},
-        {"diretor": "Ricardo Tili", "voto": "aprova os itens remanescentes do bloco", "ts": "0:09:59", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:10:02", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "aprova; proclama unanimidade", "ts": "0:10:06", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "3", "ts": "0:10:34", "processo": "48500.005495/2022-72", "interessado": "ANEEL (Gabinete do Diretor-Geral)",
-      "assunto": "Abertura de audiência pública (4/11/2022) sobre a proposta de Agenda Regulatória 2023-2024",
-      "tema": ["regulação normativa", "agenda regulatória", "institucional"],
-      "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Tomada de subsídios 16/2022 recebeu 397 contribuições de 36 contribuintes; agenda bienal com 36 atividades, todas prioritárias (fim da distinção indicativa/determinativa); apresentação de Elvira dos Santos (chefe de gabinete do DG). Hélvio pediu articulação entre as atividades de modernização da distribuição; Ricardo Tili sugeriu tratar da regulação do uso de energia na produção de hidrogênio verde; DG disse que o tema ainda está em fase de prospecção, mas aceita contribuições.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova abertura da audiência pública", "ts": "0:29:09", "justificativa": "agenda regulatória como principal instrumento de gestão da atividade regulatória; previsibilidade, transparência e velocidade", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:52:06", "justificativa": "pediu que as áreas atuem de forma articulada nos itens de modernização da distribuição (tarifa, medição, depreciação, GD); apoiou avaliar o tema do hidrogênio verde, preocupado com exportação de subsídio", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:52:08", "justificativa": "sugeriu incluir regulação do uso da energia elétrica na produção de hidrogênio verde (eletrointensivo)", "confianca": "media"},
-        {"diretor": "Giácomo Bassi", "voto": "acompanha o relator (pela proclamação)", "ts": "0:52:10", "justificativa": "parabenizou a equipe do gabinete; agenda como norte diante do dinamismo do setor", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "1", "ts": "0:52:39", "processo": "48500.005373/2022-86", "interessado": "CCEE / distribuidoras / geradores existentes",
-      "assunto": "Aprovação do edital dos leilões de energia existente A-1 e A-2 de 2022 (Leilões de Geração 6 e 7/2022), após a CP 32/2022; sessão pública em 2/12/2022",
-      "tema": ["leilões (energia existente)", "comercialização"],
-      "relator": "Giácomo Bassi", "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Edital segue as diretrizes da Portaria MME 45/2022; preços-teto informados pelo MME; contribuições contrárias às diretrizes do MME consideradas fora de escopo; vedação de participação estendida a controladores de empresas suspensas; devolução de garantias em até 5 dias úteis; mantida sazonalização e modulação no perfil da carga.",
-      "votos": [
-        {"diretor": "Giácomo Bassi", "voto": "relator, aprova o edital", "ts": "1:04:14", "justificativa": "edital reproduz modelos dos leilões de 2021, adaptado às diretrizes do MME", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:06:53", "justificativa": "observou que a sazonalização das intermitentes já foi decidida e não elevou preços, embora volte em toda consulta", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:06:55", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator; proclama unanimidade", "ts": "1:06:58", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "2", "ts": "1:07:39", "processo": "48500.004390/2022", "interessado": "consumidores com micro e minigeração distribuída; distribuidoras",
-      "assunto": "Abertura de consulta pública (27/10 a 12/12/2022, 47 dias) sobre os aspectos econômicos da Lei 14.300/2022: custeio do benefício tarifário da GD pela CDE (cota CDE-GD) e reflexos nos processos tarifários (PRORET 5.2, 7.1, 7.2, 7.3)",
-      "tema": ["geração distribuída (MMGD)", "CDE e encargos setoriais", "tarifas"],
-      "relator": "Giácomo Bassi", "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Apresentação de Flávia (SGT). Estimativa de 1,4 bilhão na CDE-GD em 2023, paga só pelo mercado cativo (baixa renda isenta); cerca de 4 bilhões continuam implícitos na tarifa. Ricardo Tili alertou que o custo recairá sobre cativos cada vez menos numerosos (efeito perverso com abertura do mercado); Hélvio pediu transparência ao consumidor; DG destacou subsidiômetro e que a tarifa é consequência de escolhas de política pública.",
-      "votos": [
-        {"diretor": "Giácomo Bassi", "voto": "relator, aprova abertura da consulta pública", "ts": "1:39:41", "justificativa": "cumprimento da Lei 14.300; interpretação de que entrantes pagam só o percentual do fio B durante a transição", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:19", "justificativa": "preocupação com o rateio só entre cativos, crescente com a migração ao mercado livre, onerando os de menor renda", "tom": "crítico quanto ao desenho legal", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "2:08:21", "justificativa": "clareza ao consumidor sobre o que paga; ANEEL só aplica a lei", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator; proclama unanimidade", "ts": "2:08:24", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "5", "ts": "2:09:08", "processo": "48500.004079/2020-95", "interessado": "Light Serviços de Eletricidade S.A.; cerca de 1.858 condomínios reclamantes",
-      "assunto": "Procedimentos da Light na reclassificação de unidades consumidoras de administração condominial (residencial para comercial, REN 414/2010) e devolução em dobro dos valores faturados a maior",
-      "tema": ["fiscalização", "distribuição", "direitos do consumidor"],
-      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes, com prazo alterado de 30 para 60 dias",
-      "resumo_voto": "Sustentação oral de Emerson Rubim (Light) pedindo modulação dos juros de mora, IPCA e prazo maior. Relator: não houve engano justificável (reclassificação iniciada 7 meses após o prazo e devoluções amplas só em 2017); devolução em dobro para 26.562 unidades, com IGPM e juros de 1% ao mês desde o evento danoso; memória de cálculo aos consumidores e comprovantes à SFE, sob pena de processo punitivo. Por sugestão de Ricardo Tili (ciclo de faturamento) e proposta do DG, prazo passou a 60 dias.",
-      "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, determina devolução em dobro; acata prazo de 60 dias", "ts": "3:05:45", "justificativa": "Light não provou engano justificável; devolução não é penalidade, é restituição; precedentes de 21 processos", "tom": "firme", "confianca": "alta"},
-        {"diretor": "Giácomo Bassi", "voto": "acompanha o relator (pela proclamação)", "ts": "3:26:06", "justificativa": "elogiou o tratamento conjunto SMA/SFE; gráficos mostram inércia da distribuidora; não há alternativa ao cumprimento da regra", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "3:26:08", "justificativa": "juros são atualização do dinheiro no tempo; apontou que 30 dias podia não caber no ciclo de faturamento", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator; proclama unanimidade", "ts": "3:26:12", "justificativa": "propôs 60 dias para cobrir dois ciclos de faturamento; empresa fez escolha de não devolver", "confianca": "alta"}
-      ]
-    }
+ "meta": {
+  "video_id": "ORinlKcBiT0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "40ª Reunião Pública Ordinária de 2022",
+  "data": "2022-10-25",
+  "formato": "presencial (com transmissão no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Giácomo Bassi Almeida (diretor substituto)",
+   "Ricardo Tili",
+   "Hélvio Guerra"
   ],
-  "retirados": ["4", "12", "18", "22"],
-  "limites_da_analise": [
-    "Giácomo Bassi não consta da lista de diretores do config (legenda: 'diácomo Bassi', 'já como base Almeida'); provavelmente diretor substituto em 2022 — confirmar nome.",
-    "Votos dos que só acompanham sem nome dito foram atribuídos pela ordem usual e pela proclamação de unanimidade; ts aproximados.",
-    "No bloco, a ordem das três falas antes do DG é incerta (confiança baixa).",
-    "Atribuição do relator Giácomo Bassi no item 2 inferida pela fala do DG ('diretor Giácomo, parabéns'); a numeração dos itens 1 e 2 foi inferida da fala do secretário ('item um', 'item dois').",
-    "Conteúdo individual dos itens de bloco não é lido na sessão.",
-    "Legenda automática: números de processo e valores podem conter erros."
+  "ausentes": [
+   "Fernando Mosna (ausência justificada)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores declarado na abertura.",
+   "DG retificou a deliberação do item 18 da 39ª RPO (cautelar da Translide/PCHs Assungui: conhecido e negado provimento, por maioria) e foi aprovada a ata da 39ª RPO.",
+   "Pauta com 40 itens; itens 6 a 40 em bloco; retirados de pauta os itens 4, 12, 18 e 22; sustentação oral no item 5. Ordem de julgamento: bloco, 3, 1, 2 e 5.",
+   "Todos os itens deliberados foram unânimes; no item 5 o relator acolheu a alteração do prazo de 30 para 60 dias.",
+   "No encerramento o DG fala em '41ª reunião', mas a sessão é a 40ª (cabeçalho e abertura)."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 6 a 40)",
+   "ts": "0:09:50",
+   "processo": "diversos (itens de bloco 6 a 40, exceto retirados)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 40ª RPO/2022, com votos e atos disponibilizados previamente (segundo o encerramento: outorgas, 11 declarações de utilidade pública, 8 recursos administrativos/pedidos de reconsideração, entre outros)",
+   "tema": [
+    "diversos",
+    "outorgas de geração",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Bloco aprovado sem discussão; algumas falas mencionam 'itens remanescentes do bloco', sem detalhar exclusões.",
+   "votos": [
+    {
+     "diretor": "Giácomo Bassi Almeida",
+     "voto": "aprova o bloco",
+     "ts": "0:10:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:10:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:10:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco e proclama",
+     "ts": "0:10:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:10:31",
+   "processo": "48500.005495/2022-72 (número parcial na legenda)",
+   "interessado": "ANEEL (Gabinete do Diretor-Geral e unidades técnicas)",
+   "assunto": "Abertura de audiência pública (sessão em 4/11/2022) para aprimorar a proposta de Agenda Regulatória 2023-2024 da ANEEL (36 atividades, todas prioritárias; 397 contribuições na Tomada de Subsídios 16/2022)",
+   "tema": [
+    "regulação normativa (agenda regulatória, audiência pública)",
+    "institucional",
+    "modernização da distribuição",
+    "hidrogênio verde"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Relator (DG) defende a agenda como principal instrumento de gestão regulatória; apresentação de Elvira dos Santos (chefe de gabinete do DG). Na discussão, um diretor (provavelmente Hélvio Guerra) pediu articulação entre as atividades de modernização da distribuição (tarifas, medição, depreciação); discutiu-se incluir o hidrogênio verde (Ricardo Tili defendeu olhar o uso da energia elétrica como insumo da produção de hidrogênio); o DG disse estar aberto a incorporar contribuições.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova (audiência pública em 4/11/2022)",
+     "ts": "0:29:13",
+     "justificativa": "agenda regulatória é obrigação legal (Lei 13.848/2019) e boa prática; agência deve regular com previsibilidade e velocidade frente às inovações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:12",
+     "justificativa": "comentou a necessidade de articulação entre as áreas na modernização da distribuição e preocupação com subsídio à energia renovável exportado via hidrogênio (atribuição do falante inferida)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:13",
+     "justificativa": "sugeriu tratar a regulação do uso de energia elétrica na produção de hidrogênio verde (citado por outro diretor como 'o que o diretor Ricardo coloca')",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:52:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:52:40",
+   "processo": "48500.005373/2022-86 (número parcial na legenda)",
+   "interessado": "ANEEL / MME (leilões de energia existente; contribuições de Energisa e outros na CP 32/2022)",
+   "assunto": "Aprovação do edital e anexos dos Leilões de Geração 6/2022 e 7/2022 (energia existente A-1 e A-2 de 2022), sessão em 2/12/2022, preços-teto informados pelo MME, após a Consulta Pública 32/2022",
+   "tema": [
+    "leilões (geração, energia existente)",
+    "comercialização (CCEAR)"
+   ],
+   "relator": "Giácomo Bassi Almeida",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Edital segue modelo dos leilões de existente de 2021 e diretrizes da Portaria MME 45/2022; quatro contribuições fora do escopo por conflitarem com diretrizes do MME; acatada vedação abrangendo controladores de empresa suspensa; devolução de garantias em até 5 dias úteis; mantida sazonalização/modulação pelo perfil da carga (contribuição por energia flat não acatada). Na discussão, um diretor reforçou a decisão anterior sobre sazonalização das intermitentes e outro confirmou que a modulação é no perfil do consumo.",
+   "votos": [
+    {
+     "diretor": "Giácomo Bassi Almeida",
+     "voto": "relator, aprova o edital",
+     "ts": "1:04:19",
+     "justificativa": "edital alinhado às diretrizes do MME e à Lei 10.848/2004; contribuições conflitantes com as diretrizes ficam fora do escopo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:07:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:07:06",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:07:54",
+   "processo": "48500.004390/2022 (número parcial na legenda)",
+   "interessado": "ANEEL/SGT; distribuidoras; consumidores com micro e minigeração distribuída",
+   "assunto": "Abertura de consulta pública (47 dias, 27/10 a 12/12/2022) sobre a regulamentação dos aspectos econômicos da Lei 14.300/2022 (marco legal da MMGD): custeio do benefício tarifário pela CDE (nova cota CDE-GD paga só pelo mercado cativo) e rebatimento nos processos tarifários (submódulos 5.2, 7.1, 7.2 e 7.3 do PRORET)",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Giácomo Bassi Almeida",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Apresentação da servidora Flávia (SGT). CDE passa a custear em 2023 o benefício dos entrantes e dos existentes de distribuidoras com mercado < 700 GWh/ano (estimativa 1,4 bilhão de reais); benefício dos demais existentes (cerca de 4 bilhões) segue implícito na tarifa; não há custo novo, só nova forma de custeio. Ricardo Tili alertou que a cota só do cativo cresce com a migração ao mercado livre e onera o consumidor de menor renda ('componente perverso'); Hélvio Guerra pediu clareza ao consumidor sobre o que paga; o DG citou o subsidiômetro e o destaque dos subsídios na fatura.",
+   "votos": [
+    {
+     "diretor": "Giácomo Bassi Almeida",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "1:39:51",
+     "justificativa": "Lei 14.300 explicita o subsídio antes implícito e dá transparência; no período de transição os entrantes só pagam os percentuais do Fio B do art. 27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:27",
+     "justificativa": "alerta: custo da CDE-GD rateado só pelo cativo tende a crescer desproporcionalmente com a abertura do mercado, atingindo os consumidores de menor renda, embora previsto em lei",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:08:30",
+     "justificativa": "a ANEEL apenas aplica a lei; é preciso deixar claro ao consumidor, inclusive na fatura, o que ele paga e por quê",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:08:32",
+     "justificativa": "a tarifa é consequência das escolhas de política pública; orçamento da CDE dobrou em cinco anos; evitar novos encargos sem contrapartida de receita",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:09:08",
+   "processo": "48500.004079/2020-95 (número parcial na legenda)",
+   "interessado": "Light Serviços de Eletricidade S.A. (distribuidora, Rio de Janeiro); cerca de 26,5 mil unidades consumidoras de administração condominial",
+   "assunto": "Análise dos procedimentos da Light na reclassificação (residencial para comercial, REN 414/2010) e devolução em dobro de valores faturados a maior a unidades consumidoras de administração condominial; descumprimento da Orientação 1 do Relatório de Fiscalização 19/2021 da SFE",
+   "tema": [
+    "fiscalização e sanções",
+    "distribuição e qualidade (faturamento)",
+    "direitos do consumidor"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes, com prazo alterado de 30 para 60 dias",
+   "resumo_voto": "Sustentação oral de Emerson Rubim (superintendente de regulação da Light), pedindo modulação dos juros de mora, IPCA no lugar do IGP-M e prazo maior. Procuradoria: não há engano justificável; IGP-M; juros desde o evento danoso. Relator: Orientação 1 não cumprida; devolução em dobro com IGP-M e juros de 1% ao mês desde o evento danoso para 26.562 unidades consumidoras; memória de cálculo aos consumidores e comprovantes à SFE, sob pena de processo punitivo. Por sugestão de Ricardo Tili (ciclo de faturamento) e proposta do DG, o relator alterou o prazo de 30 para 60 dias.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (devolução em dobro; prazo ajustado para 60 dias)",
+     "ts": "3:05:53",
+     "justificativa": "Light reclassificou com atraso e só devolveu de forma ampla em 2017; inércia afasta o engano justificável; devolução em dobro não é penalidade, é devolução do que o consumidor pagou a maior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Bassi Almeida",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:15",
+     "justificativa": "elogiou o tratamento conjunto SMA/SFE em vez de caso a caso; ANEEL não pode suprimir direito líquido e certo do consumidor (atribuição pela referência do DG ao 'diretor Giácomo')",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:18",
+     "justificativa": "juros são atualização do valor do dinheiro no tempo; apontou que 30 dias podem não caber no ciclo de faturamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:26:21",
+     "justificativa": "foi prática da empresa, não casos isolados; propôs 60 dias para cobrir dois ciclos de faturamento; IGP-M é o índice vigente à época",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "4",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:09:22"
+  },
+  {
+   "item": "12",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:09:22"
+  },
+  {
+   "item": "18",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:09:22"
+  },
+  {
+   "item": "22",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:09:22"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais e nomes distorcidos.",
+  "Giácomo Bassi Almeida (diretor substituto) não consta da lista de diretores do config; nome reconstruído de 'Dr diácomo Bassi' e 'já como base Almeida' na legenda.",
+  "As falas de voto ('voto com o relator', 'acompanho') não têm nome; atribuição pela ordem usual (DG por último, proclamando) e pela proclamação de unanimidade; ordem entre os demais é incerta (confiança media/baixa).",
+  "Autoria dos comentários na discussão inferida por referências cruzadas ('diretor Ricardo', 'diretor Elvio', 'diretor Giácomo'); no item 1 os dois comentários não foram atribuídos.",
+  "Itens do bloco (6 a 40) não foram individualizados; o vídeo não lê seus assuntos.",
+  "ts dos retirados é aproximado (anúncio do secretário-geral)."
+ ]
 }

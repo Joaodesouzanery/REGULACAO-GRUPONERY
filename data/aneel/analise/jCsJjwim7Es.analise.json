@@ -1,74 +1,94 @@
 {
-  "meta": {"video_id": "jCsJjwim7Es", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos do .md não confiáveis); ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "jCsJjwim7Es", "fonte": "legenda automática do YouTube; falantes inferidos (a marcação de falantes do .md está errada: nomes de 2023+); ts = tempo do vídeo; ts de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "23ª Reunião Pública Ordinária (Parte 2)", "data": "2022-06-28", "formato": "híbrido (relator Efrain Cruz remoto, com falhas de áudio)",
-    "presidente_da_sessao": "Diretora-Geral (chamada 'Doutora Camila' na legenda; nome fora da lista do config); ela se ausentou durante o item 10",
-    "diretores_presentes": ["Efrain Pereira da Cruz (fora da lista do config)", "Hélvio Guerra", "Camila (Diretora-Geral; fora da lista do config)", "não identificado"],
+    "numero": "23ª Reunião Pública Ordinária de 2022 (Parte 2)",
+    "data": "2022-06-28",
+    "formato": "híbrido (relator Efrain Cruz participando remotamente, com falhas de áudio e de tela)",
+    "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta; fora da lista do config)",
+    "diretores_presentes": ["Camila Bomfim", "Hélvio Guerra", "Ricardo Tili", "Efrain Cruz"],
     "ausentes": [],
     "observacoes": [
-      "Parte 2 da 23ª ROD de 28/06/2022; todos os itens desta parte são da relatoria de Efrain Pereira da Cruz.",
-      "Item 8 (pedido de reconsideração de cronogramas de eólicas/fotovoltaicas) negado por unanimidade.",
-      "Item 9 (Ambar/UTE Mário Covas, PSS 1/2021) adiado no início e, ao fim, retirado de pauta pelo relator porque os cálculos da CCEE não foram concluídos.",
-      "Item 10 (UTEs Camaçari Muricy II e Pecém II/CH4 Energia) retirado de pauta pelo relator após sustentação oral e pedido de desistência da requerente.",
-      "Item 11 (transferência de DIT de Furnas para a Light) aprovado por unanimidade, exceto a SE São José."
+      "Continuação (tarde) da 23ª ROD de 28/06/2022; composição presente tomada da Parte 1 (r6Mov1kkLNQ): Camila Bomfim, Hélvio Guerra, Ricardo Tili e Efrain Cruz.",
+      "Todos os itens desta parte (8 a 11) são da relatoria de Efrain Cruz.",
+      "Item 8 (reconsideração de cronogramas de eólicas e fotovoltaicas) negado por unanimidade.",
+      "Item 9 (Âmbar/UTE Mário Covas, PSS 1/2021) adiado no início a pedido do relator e, ao final, retirado de pauta porque os cálculos (CCEE) não foram concluídos.",
+      "Item 10 (UTEs Camaçari Muricy II e PS2/CH4 Energia) retirado de pauta pelo relator após sustentação oral e pedido de desistência protocolado na véspera pela requerente.",
+      "A Diretora-Geral se ausentou durante o item 10 (dito pelo procurador às 0:37:16) e volta a ser chamada no item 11.",
+      "Item 11 (transferência de DIT de Furnas para a Light) aprovado por unanimidade, exceto a SE São José, não anuída.",
+      "Encerramento às 1:04:47."
     ]
   },
   "itens": [
     {
-      "id": "8", "ts": "0:00:27", "processo": "48500.000302/2022-71 e outros (número incerto na legenda)",
-      "interessado": "Ventos de Santa Teresa 1 a 14 Energias Renováveis S.A., Saphirus (participações), Ventos de São Ricardo 1 a 13, Tucano F5 Geração, Serra Verde 1 a 5 Energética (Complexo Cajuína C3 a C7), UFVs Sky Arinos 1 a 8",
-      "assunto": "Pedido de reconsideração contra os Despachos 1411 e 1412/2022, que indeferiram alteração dos cronogramas de implantação de centrais eólicas e fotovoltaicas (prazo judicial de decisão até 21/06/2022)",
-      "tema": ["outorgas de geração (eólica, solar)", "recursos administrativos", "margem de escoamento"],
-      "relator": "Efrain Pereira da Cruz", "resultado": "pedido conhecido e negado provimento, por unanimidade",
-      "resumo_voto": "Sem excludente de responsabilidade; mudança de entendimento da ANEEL (exigir excludente para alterar cronograma de usinas do ACL) decorre da disputa por margem de escoamento, não é nova condição regulatória; efeitos da Covid-19 já considerados risco do empreendedor. Procuradoria (Luiz Eduardo) registrou que o descumprimento do prazo judicial não é imputável à ANEEL, pois o recurso foi interposto 16 dias após a decisão e distribuído só em 20/06.",
+      "id": "8", "ts": "0:00:27",
+      "processo": "48500.000302/2022-71 e outros (número incerto na legenda)",
+      "interessado": "Ventos de Santa Teresa 1 a 14 Energias Renováveis S.A., Saphira (legenda: 'saphirus') A-001/8.19 Participações, Ventos de São Ricardo 1 a 13, Tucano F5 Geração de Energia, Serra Verde 1 a 5 Energética S.A. (geradoras eólicas e fotovoltaicas)",
+      "assunto": "Pedido de reconsideração contra os Despachos 1411/2022 e 1412/2022, que indeferiram alteração dos cronogramas de implantação das EOLs Tucano, Ventos de Santa Teresa 1–14, Ventos de São Ricardo 1–13, Cajuína C3 a C7 (complexo Serra Verde) e das UFVs Sky Arinos 1 a 8; prazo fixado por decisão judicial",
+      "tema": ["outorgas de geração (eólica, solar)", "recursos administrativos", "transmissão (margem de escoamento)", "judicialização"],
+      "relator": "Efrain Cruz",
+      "resultado": "conhecido e negado provimento, por unanimidade",
+      "resumo_voto": "Pedido tempestivo. Relator rejeita os quatro argumentos (falta de previsão regulatória; mudança de entendimento da ANEEL; ausência de prejuízo ao sistema; efeitos da covid-19): com o aumento de outorgas no ACL e disputa por margem de escoamento, a ANEEL passou a exigir excludente de responsabilidade para alterar cronograma (NT 287/2022); postergar sem justificativa pode mascarar inviabilidade e bloquear novos acessantes; covid-19 já tratada como risco do empreendedor. Procurador Luiz Eduardo registrou que o descumprimento do prazo judicial (21/06/2022) não é imputável à ANEEL, pois a parte usou 16 dias para recorrer e o processo só foi distribuído em 20/06.",
       "votos": [
-        {"diretor": "Efrain Pereira da Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:15:08", "justificativa": "inexistência de excludente de responsabilidade; postergar cronograma sem justificativa ocupa margem de escoamento e inibe novos acessantes; entendimento sedimentado no colegiado", "confianca": "alta"},
-        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:16:06", "confianca": "baixa"},
-        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "0:16:09", "confianca": "baixa"},
-        {"diretor": "não identificado", "voto": "acompanha o relator e proclama o resultado", "ts": "0:16:12", "confianca": "baixa"}
+        {"diretor": "Efrain Cruz", "voto": "relator, conhece e nega provimento", "ts": "0:15:08", "justificativa": "inexistência de excludente de responsabilidade; entendimento já sedimentado no colegiado; risco de ocupar margem de escoamento sem justificativa plausível", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:16:06", "justificativa": "fala sem nome: 'eu acompanho'; atribuição pela ordem usual", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:16:09", "justificativa": "fala sem nome: 'eu também acompanho o voto do relator'; atribuição pela ordem usual", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "0:16:12", "justificativa": "'também acompanho o voto do relator e proclamo que a diretoria por unanimidade decidiu conhecer e no mérito negar provimento'", "confianca": "alta"}
       ]
     },
     {
-      "id": "9", "ts": "0:17:19", "processo": "48500.004485/2022-10 (número incerto)",
-      "interessado": "Âmbar Energia e SPEs (Centrais Elétricas e Itaguaí Energia)",
-      "assunto": "Requerimento administrativo com pedido de cautelar para que obrigações do Procedimento Competitivo Simplificado PSS 1/2021 sejam atendidas pela UTE Mário Covas",
-      "tema": ["leilões (PSS 2021)", "outorgas de geração (térmica)", "recursos administrativos"],
-      "relator": "Efrain Pereira da Cruz", "resultado": "retirado de pauta",
-      "resumo_voto": "Havia pedido de sustentação oral; relator pediu para adiar dentro da sessão e, ao fim, retirou de pauta porque os cálculos da CCEE não foram concluídos para conferência; volta na próxima pauta.",
-      "votos": []
-    },
-    {
-      "id": "10", "ts": "0:18:25", "processo": "48500.005133/2005-88 e 48500.005374/... (números incertos)",
-      "interessado": "Energética Camaçari Muricy II S.A. e Pecém II (PC Energia S.A.); CH4 Energia Ltda. (grupo New Fortress)",
-      "assunto": "Alteração de características técnicas e de combustível das UTEs Camaçari Muricy II e Pecém II (unificação na UTE Ressurreição, gás natural, mudança de Dias d'Ávila-BA para Ipojuca-PE), pautado com descrição de transferência de autorização",
-      "tema": ["outorgas de geração (térmica)", "leilões (A-3/2006)", "regulação normativa"],
-      "relator": "Efrain Pereira da Cruz", "resultado": "retirado de pauta",
-      "resumo_voto": "Sustentação oral de Guilherme Baggio (pela PC Energia/requerentes): pauta descrevia processo de transferência já deliberado, processo restrito às partes e pedido de desistência protocolado na véspera. Procuradoria não emitiu parecer. Relator criticou a desistência às vésperas (após trabalho de ANEEL, MME, EPE e ONS) como desrespeito ao regulador, mas retirou de pauta para analisar o pedido de desistência; volta na reunião seguinte.",
+      "id": "9", "ts": "0:17:19",
+      "processo": "48500.004485/2022-10 (número incerto na legenda)",
+      "interessado": "Âmbar Energia (legenda: 'ambas energia'), EPP2 Centrais Elétricas Ltda. e EPP2 Itaguaí Energia Ltda. (nomes incertos)",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar para que as obrigações do Procedimento Competitivo Simplificado (PSS) 1/2021 sejam atendidas pela UTE Mário Covas",
+      "tema": ["leilões (PSS 1/2021, contratação emergencial)", "outorgas de geração (térmica)", "recursos administrativos"],
+      "relator": "Efrain Cruz",
+      "resultado": "retirado de pauta (a pedido do relator; cálculos não concluídos)",
+      "resumo_voto": "Havia pedido de sustentação oral. Relator pediu para adiar o item no início (0:17:50, 'uma questão do voto que é necessário') e, ao fim da sessão (1:04:35), sugeriu a retirada de pauta porque os cálculos da CCEE não foram finalizados para sua conferência; volta em pauta futura. Sem deliberação de mérito.",
       "votos": [
-        {"diretor": "Efrain Pereira da Cruz", "voto": "relator, retira de pauta", "ts": "0:46:08", "justificativa": "analisar se o pedido de desistência se consubstancia; do contrário o processo volta à pauta na semana seguinte", "tom": "crítico à requerente", "confianca": "alta"}
+        {"diretor": "Efrain Cruz", "voto": "relator, retira de pauta", "ts": "1:04:35", "justificativa": "cálculos (CCEE) não finalizados para conferência", "confianca": "alta"}
       ]
     },
     {
-      "id": "11", "ts": "0:47:24", "processo": "48500.003971/2006-30 (número incerto)",
-      "interessado": "Furnas Centrais Elétricas S.A. e Light Serviços de Eletricidade S.A.; Enel Distribuição Rio (manifestou-se contra a parte compartilhada)",
-      "assunto": "Anuência à transferência de demais instalações de transmissão (DIT) de Furnas para a Light: LT 138 kV Santa Cruz-Brisamar C1, LT 138 kV Adrianópolis-Cepel C1 e C2, SE Jacarepaguá e SE Zona Oeste (138 kV); SE São José excluída",
-      "tema": ["transmissão (DIT)", "tarifas e revisão tarifária (distribuidoras)", "distribuição"],
-      "relator": "Efrain Pereira da Cruz", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Anui com a transferência nos termos da REN 916/2021; autoriza a SGT a incorporar os ativos nos reajustes anteriores à próxima revisão da Light como componente financeiro de Parcela B (tratamento análogo ao Eletrosul/Celesc); não anui com a SE São José, de uso compartilhado com a Enel Rio, pelo impacto tarifário de cerca de 3,5% em momento de pressão tarifária. Um diretor (não identificado) pediu esclarecimento sobre a SE São José.",
+      "id": "10", "ts": "0:18:25",
+      "processo": "48500.005133/2005-88 e 48500.005374/2005-77 (números incertos na legenda)",
+      "interessado": "Energética Camaçari Muricy II S.A. e PS2/'PC em' Energia S.A. (nome incerto), em favor de CH4 Energia Ltda. (controlada pela New Fortress, legenda: 'New forças')",
+      "assunto": "Pauta lida como transferência de autorizações das UTEs Camaçari Muricy II e PS2 para a CH4 Energia; o relator tratou de alteração de características técnicas e de combustível (diesel para gás natural), unificação e mudança de Dias d'Ávila/BA para Ipojuca/PE como UTE Ressurreição 1 (≈289 MW, conexão 500 kV na SE da Chesf); leilão 2/2006",
+      "tema": ["outorgas de geração (térmica)", "leilões (A-3/2006)", "transmissão (conexão)", "judicialização"],
+      "relator": "Efrain Cruz",
+      "resultado": "retirado de pauta pelo relator, para analisar o pedido de desistência; volta na semana seguinte se a desistência não se consubstanciar",
+      "resumo_voto": "Sustentação oral do advogado Guilherme (sobrenome incerto: 'Pereira bairro'/'Baggio'), representante das requerentes: (1) erro de inscrição na pauta (assunto coincidia com transferência já deliberada, item 28 de reunião anterior) e processo restrito à parte, ferindo o prazo mínimo da lei das agências; (2) pedido de desistência protocolado na véspera. Procurador Luiz Eduardo: procuradoria não emitiu parecer e não conseguiu acessar o processo restrito. Relator rebate o vício formal (transferência já concedida, este pedido é o de alteração de características técnicas), diz que a minuta de voto era para deferir as alterações após trabalho do MME, EPE e ONS, critica a desistência 'aos 47 do segundo tempo' como desrespeito ao regulador e retira o processo de pauta.",
       "votos": [
-        {"diretor": "Efrain Pereira da Cruz", "voto": "relator, anui parcialmente (exclui SE São José)", "ts": "1:00:34", "justificativa": "acordo entre as partes sem óbice técnico; SE São José compartilhada geraria impacto tarifário de cerca de 3,5% para a Enel Rio, cuja tarifa já subiu perto de 17%", "confianca": "alta"},
-        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:03:23", "confianca": "baixa"},
-        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "1:03:26", "confianca": "baixa"},
-        {"diretor": "não identificado", "voto": "acompanha o relator e proclama o resultado", "ts": "1:03:29", "confianca": "baixa"}
+        {"diretor": "Efrain Cruz", "voto": "relator, retira de pauta", "ts": "0:46:08", "justificativa": "avaliar se o pedido de desistência se consubstancia; senão o processo volta à pauta na semana seguinte", "tom": "crítico à requerente (inferência: chama a desistência de 'total desrespeito' ao regulador e à EPE)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "11", "ts": "0:47:24",
+      "processo": "48500.003971/2006-30 (número incerto na legenda)",
+      "interessado": "Furnas Centrais Elétricas S.A. (transmissora) e Light Serviços de Eletricidade S.A. (distribuidora); Enel Distribuição Rio (afetada)",
+      "assunto": "Anuência prévia à transferência de Demais Instalações de Transmissão (DIT) de Furnas para a Light: LT 138 kV Santa Cruz–Brisamar C1, LT 138 kV Adrianópolis–Cepel C1 e C2, SE Jacarepaguá e SE Zona Oeste (setores de 138 kV), e SE São José (REN 916/2021)",
+      "tema": ["transmissão (DIT)", "distribuição", "tarifas e revisão tarifária (impacto na Enel Rio)"],
+      "relator": "Efrain Cruz",
+      "resultado": "aprovado por unanimidade: anuída a transferência dos ativos, exceto a SE São José (setor 138 kV); SGT autorizada a incorporar os ativos como componente financeiro de Parcela B até a próxima revisão da Light",
+      "resumo_voto": "Transferência por acordo (art. 1º, §2º, REN 916/2021); SE Adrianópolis excluída pelas partes após contestação da Enel Rio. SE São José é compartilhada com a Enel Rio e a transferência traria impacto tarifário estimado pela SGT em ≈3,5% na Enel Rio em momento de pressão tarifária, por isso não anuída. Ativos avaliados em ≈R$ 69,6 milhões; tratamento análogo ao caso Eletrosul–Celesc. Procuradoria não se manifestou (tema técnico). Um diretor (não identificado) perguntou sobre o impacto da SE São José e o relator explicou o acordo Light–Enel–Furnas.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, anui parcialmente (nega a SE São José)", "ts": "1:00:28", "justificativa": "sem óbice técnico aos ativos de uso exclusivo da Light; SE São José geraria impacto tarifário de ≈3,5% na Enel Rio", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:03:23", "justificativa": "fala sem nome: 'eu voto com o relator'; atribuição pela ordem usual", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:03:25", "justificativa": "fala sem nome: 'também voto com o relator'; atribuição pela ordem usual", "confianca": "media"},
+        {"diretor": "Camila Bomfim", "voto": "acompanha o relator e proclama", "ts": "1:03:27", "justificativa": "'também voto com o relator e proclamo que a diretoria por unanimidade decidiu anuir'", "confianca": "media"}
       ]
     }
   ],
-  "retirados": ["9", "10"],
+  "retirados": [
+    {"id": "9", "motivo": "retirado pelo relator Efrain Cruz: cálculos da CCEE não concluídos", "ts": "1:04:35"},
+    {"id": "10", "motivo": "retirado pelo relator Efrain Cruz para analisar pedido de desistência da requerente", "ts": "0:46:08"}
+  ],
   "limites_da_analise": [
-    "Os rótulos de falante do .md (Gentil Nogueira, Ricardo Tili) são anacrônicos para 2022 e foram ignorados.",
-    "Relator Efrain Pereira da Cruz (legenda: 'ephrain', 'diretor Frank/Franklin') e a Diretora-Geral 'Camila' não constam da lista de diretores do config; registrados como ditos.",
-    "Hélvio Guerra é citado como presente na saudação da sustentação oral do item 10, mas as falas 'acompanho' não têm nome: os três votos de acompanhamento nos itens 8 e 11 ficaram como não identificado. Sandoval Feitosa provavelmente integrava o colegiado, mas não é nomeado na legenda.",
-    "No item 11 houve três votos de acompanhamento após a Diretora-Geral ter se ausentado no item 10; não é possível confirmar quem presidiu nem quem proclamou.",
-    "Números de processos e despachos estão distorcidos pela legenda automática."
+    "Legenda automática: números de processo, despachos, valores e nomes de empresas são incertos.",
+    "Camila Bomfim (Diretora-Geral substituta) não consta da lista de diretores do config_agencia.json; nome tomado da análise da Parte 1 (r6Mov1kkLNQ) e da fala 'doutora Camila'.",
+    "A presença de Ricardo Tili nesta parte não é dita no vídeo; deduzida da Parte 1 e das três falas de 'acompanho' após o relator nos itens 8 e 11.",
+    "Nos itens 8 e 11 as falas de acompanhamento não têm nome: atribuição Hélvio Guerra e Ricardo Tili pela ordem usual (confiança media); a última fala, que proclama, foi atribuída à Diretora-Geral substituta. No item 11 não é certo que Camila Bomfim já tivesse voltado (ausentou-se no item 10), mas a procuradoria se dirige à 'Senhora Diretora-Geral' às 0:53:50.",
+    "'Diretor Franklin' na legenda é provavelmente o relator Efrain; o diretor que fez a pergunta sobre a SE São José no item 11 não foi identificado.",
+    "Itens 9 e 10 retirados de pauta sem deliberação de mérito: registrado só o ato do relator; os demais diretores não votaram.",
+    "Nome do advogado da sustentação oral no item 10 incerto ('Guilherme Pereira bairro' / 'Baggio')."
   ]
 }

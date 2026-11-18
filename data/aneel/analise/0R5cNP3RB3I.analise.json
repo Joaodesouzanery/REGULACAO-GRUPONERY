@@ -1,56 +1,341 @@
 {
-  "meta": {"video_id": "0R5cNP3RB3I", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "25ª Reunião Pública Ordinária de 2023 (Parte 1, manhã)", "data": "2023-07-18", "formato": "presencial com transmissão",
-    "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
-    "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna"],
-    "ausentes": ["Sandoval Feitosa (férias)"],
-    "observacoes": ["Pauta com 40 itens; itens 9 a 40 em bloco, aprovados por unanimidade; item 13 retirado de pauta; sustentação oral nos itens 4, 6 e 22.", "Ordem: bloco, 2, 3, 4, 6, 22, 1, 5, 7, 8; nesta parte foram julgados 2, 3, 4, 6, 22 e 7; item 1 chegou a ser apregoado por engano e a sessão foi suspensa às 12h30 para retorno às 14h30 (itens 1, 5 e 8 na Parte 2).", "Item 4 (Teles Pires, Jirau, Santo Antônio) decidido por maioria, contra parecer da Procuradoria e área técnica."]
-  },
-  "itens": [
-    {"id": "bloco (9 a 40)", "ts": "0:05:28", "processo": "", "interessado": "diversos", "assunto": "Itens 9 a 40 em bloco (votos disponibilizados previamente)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade", "resumo_voto": "Presidente submete e aprova o bloco; proclamação de unanimidade.",
-     "votos": [
-      {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:05:28", "justificativa": "submete e aprova os itens do bloco", "confianca": "alta"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:05:35", "confianca": "media"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:05:35", "confianca": "media"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "0:05:35", "confianca": "media"}]},
-    {"id": "2", "ts": "0:06:15", "processo": "48500.006862/2022-55", "interessado": "Hidropan Distribuição de Energia S.A. (Panambi/RS)", "assunto": "Reajuste tarifário anual 2023 da Hidropan, vigência a partir de 22/07/2023; efeito médio 8,65% (AT 4,20%, BT 10,78%)", "tema": ["tarifas e revisão tarifária"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa tarifas com efeito médio de 8,65%; destaque para fim dos financeiros do ano anterior (créditos PIS/Cofins) e migração da compra de energia para a CCEE.",
-     "votos": [
-      {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:19:39", "justificativa": "emissão de resolução homologatória com efeito médio de 8,65%", "confianca": "alta"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:20:45", "confianca": "media"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:20:45", "confianca": "media"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:20:45", "confianca": "media"}]},
-    {"id": "3", "ts": "0:22:10", "processo": "48500.006878/2022-68; 48500.003299/2023-44", "interessado": "EDP São Paulo Distribuição de Energia S.A.", "assunto": "Abertura de consulta pública sobre a revisão tarifária periódica da EDP São Paulo (vigência 23/10/2023; efeito preliminar 5,66%) e limites DEC/FEC 2024-2027, com reunião presencial em São José dos Campos em 10/08/2023", "tema": ["tarifas e revisão tarifária", "regulação normativa (consulta pública)", "qualidade (DEC/FEC)"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade", "resumo_voto": "Instaura consulta pública até 1º/09/2023; relator destaca reajuste de parcela B de apenas 0,08%.",
-     "votos": [
-      {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:34:55", "justificativa": "instaurar consulta pública para colher subsídios à RTP e aos limites DEC/FEC", "confianca": "alta"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:35:43", "confianca": "baixa"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:35:45", "confianca": "baixa"},
-      {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:35:48", "confianca": "media"}]},
-    {"id": "4", "ts": "0:36:31", "processo": "48500.000182/2016-80; 48500.000096/2016-77; 48500.005406/2016-40", "interessado": "Companhia Hidrelétrica Teles Pires S.A.; Energia Sustentável do Brasil (UHE Jirau); Santo Antônio Energia (UHE Santo Antônio)", "assunto": "Efeitos da descontratação de energia no ACR sobre os termos de repactuação do risco hidrológico (GSF) das UHEs Teles Pires, Jirau e Santo Antônio; sustentação oral de Camila Alves (Teles Pires)", "tema": ["comercialização (risco hidrológico, GSF, MCSD)", "outorgas de geração (hidrelétrica)", "segurança jurídica"], "relator": "Hélvio Guerra", "resultado": "aprovado por maioria (manter montantes repactuados), contra área técnica e Procuradoria", "resumo_voto": "Relator mantém os montantes repactuados: à época não havia vedação à descontratação nem regra de revisão do termo; Despacho 4.008/2017 vedou só dali em diante e preservou casos já operacionalizados; segurança regulatória e confiança legítima. Procuradoria (Eduardo Estevão) defendeu caráter acessório do termo ao CCEAR. Divergência: risco da energia descontratada não deve recair sobre consumidor do ACR.",
-     "votos": [
-      {"diretor": "Hélvio Guerra", "voto": "relator, aprova (manter montante repactuado)", "ts": "1:20:48", "justificativa": "decisões tomadas sob regra vigente, sem vedação; Despacho 4.008/2017 preservou casos passados; previsibilidade e vedação a comportamento contraditório", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:41:07", "justificativa": "questionou a Procuradoria; cláusula oitava do termo (irrevogável, independente de outros atos) e art. 233 do Código Civil afastam a acessoriedade; vácuo normativo antes de dez/2017", "confianca": "media"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:41:10", "justificativa": "termo e contrato são independentes, não vinculados; manter por respeito à estabilidade", "confianca": "media"},
-      {"diretor": "Ricardo Tili", "voto": "diverge (vencido)", "ts": "1:39:14", "justificativa": "termo de repactuação é acessório ao contrato regulado (cláusula primeira); não é correto atribuir ao consumidor do ACR o risco hidrológico da energia descontratada; vota com as áreas técnicas pela redução proporcional do prêmio daqui para frente", "tom": "divergência respeitosa", "confianca": "baixa"}]},
-    {"id": "6", "ts": "1:41:58", "processo": "48500.000732/2022-17 (e outros, seis processos)", "interessado": "usinas cotistas (Lei 12.783/2013); sustentações: EMAE, ABRAGE (Hermano Dumont Veronezi), Eletrobras (Natália)", "assunto": "Resultado da Consulta Pública 13/2023: metodologia de revisão da RAG e do Fator X das UHEs em regime de cotas (submódulo 12.1 do PRORET), ciclo 2023-2028", "tema": ["tarifas e revisão tarifária", "outorgas de geração (hidrelétrica)", "regulação normativa"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova nova metodologia (IPCA mantido; fluxo de 30 anos; limite de queda líquida 96 m; Fator X 0,7% a.a. sobre GAG O&M) e uso do IPCA definitivo de junho; pleitos de IGP-M e Fator X zero não acolhidos.",
-     "votos": [
-      {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:32:49", "justificativa": "aprova nova metodologia da RAG e do Fator X; análise prudente da área técnica (EMAE/Henry Borden como ponto fora da curva)", "confianca": "alta"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:34:14", "confianca": "baixa"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:34:14", "confianca": "baixa"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:34:14", "confianca": "baixa"}]},
-    {"id": "22", "ts": "2:34:53", "processo": "48500.003840/2002-64; 48500.004785/2021; 48500.006068/1999-56", "interessado": "Hendrix Geração Elétrica Ltda.; Companhia Energética Salto do Lobo Ltda. (CGHs Bruno Hendrix Neto, Salto do Lobo, Ribeirão do Pinhal); sustentações: Guilherme (Salto do Lobo) e Cláudio Mesquita (Hendrix)", "assunto": "Percentual de desconto na TUST/TUSD após conversão de PCH em CGH: manutenção de 100% negada, fixado 50% sem efeito retroativo", "tema": ["transmissão (TUST/TUSD)", "outorgas de geração (PCH/CGH)", "recursos administrativos"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade (pedidos negados)", "resumo_voto": "Desconto de 100% vale só durante a vigência da autorização de PCH; com revogação a pedido do agente cai a 50%, excepcionalmente a partir da decisão; nega repristinação das autorizações. Segue três pareceres da Procuradoria e área técnica, contra despacho do procurador-chefe.",
-     "votos": [
-      {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "2:55:50", "justificativa": "desconto atrelado à outorga; senão valeria por tempo indeterminado; revogação foi pedida pelo próprio agente", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:57:18", "justificativa": "concorda integralmente; interpretação razoável conforme três pareceres da Procuradoria", "confianca": "media"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:58:33", "confianca": "baixa"},
-      {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "2:58:35", "confianca": "media"}]},
-    {"id": "7", "ts": "3:00:24", "processo": "48500.002395/2023-75", "interessado": "usinas em regime de cotas (Lei 12.783/2013)", "assunto": "Receita Anual de Geração (RAG) das usinas cotistas para 1º/07/2023 a 30/06/2024 (variação -5,94% pela descotização da Eletrobras)", "tema": ["tarifas e revisão tarifária", "outorgas de geração (hidrelétrica)"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Homologa a RAG do ciclo 2023-2024; receita cai mas tarifa de cotas sobe pela descotização.",
-     "votos": [
-      {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "3:15:26", "justificativa": "resolução homologatória da RAG 2023-2024", "confianca": "alta"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "3:16:27", "confianca": "media"},
-      {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "3:16:27", "confianca": "media"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "3:16:27", "confianca": "media"}]}
+ "meta": {
+  "video_id": "0R5cNP3RB3I",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25ª Reunião Pública Ordinária de 2023 (Parte 1)",
+  "data": "2023-07-18",
+  "formato": "presencial",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna"
   ],
-  "retirados": ["item 13 (retirado de pauta antes da reunião)"],
-  "limites_da_analise": ["Transcrição sem marcadores de tempo e sem identificação de falantes; ts obtidos por busca no JSON da legenda.", "Item 4: proclamação 'por maioria' sem nomear o vencido; atribuição da divergência a Ricardo Tili é inferência pela ordem das falas (quem diverge cita a 'diretora Agnes'; Agnes e Fernando defendem independência do termo); confiança baixa.", "Votos de seguidores nos itens 3, 6 e 22 ('volto com o relator') sem nome na legenda; atribuídos pela ordem e pela proclamação de unanimidade.", "Números de processos e nomes de usinas/empresas (Hidropan, Hendrix) podem estar errados pela legenda automática.", "Itens 1, 5 e 8 ficaram para a Parte 2 (tarde)."]
+  "ausentes": [
+   "Sandoval Feitosa (Diretor-Geral, em férias)"
+  ],
+  "observacoes": [
+   "Parte 1 da reunião (manhã); suspensa às 12h30 para retorno às 14h30. Itens 1, 5 e 8 ficaram para a Parte 2 (outro vídeo).",
+   "Ordem de deliberação: bloco, 2, 3, 4, 6, 22, 1, 5, 7, 8; o item 7 foi chamado logo após o 22 (relacionado ao item 6); o secretário chegou a anunciar o item 5 (processo 48500.003281/2023-42, consulta pública) por engano.",
+   "Item 4 decidido por maioria: Agnes da Costa vencida (pela redução do montante repactuado).",
+   "Procurador-geral substituto Eduardo Estevão; secretário-geral substituto Daniel Dana.",
+   "Aprovada a ata da 24ª RPO de 2023; registrada nova data (04/08/2023) da reunião virtual da AP 12/2023 (Olimpíada Nacional de Eficiência Energética)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 9 a 40, exceto 13)",
+   "ts": "0:05:45",
+   "processo": "vários (itens em bloco)",
+   "interessado": "vários",
+   "assunto": "Itens 9 a 40 da pauta deliberados em bloco (votos e atos disponibilizados previamente na internet); item 13 retirado de pauta; item 22 destacado do bloco por pedido de sustentação oral",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "vários",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Presidente substituto submete os itens do bloco e declara aprovação unânime.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (presidente da sessão)",
+     "ts": "0:05:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:06:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:06:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha (pela proclamação)",
+     "ts": "0:06:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:06:15",
+   "processo": "48500.006862/2022-55",
+   "interessado": "Hidropan Distribuição de Energia S.A. (Panambi-RS, ~20 mil unidades consumidoras)",
+   "assunto": "Reajuste tarifário anual de 2023 da Hidropan, a vigorar a partir de 22/07/2023: efeito médio de 8,65% (4,20% alta tensão; 10,78% baixa tensão)",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "distribuição"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa as tarifas da Hidropan com efeito médio de 8,65%; destaque para fim dos financeiros do ano anterior (créditos de PIS/Cofins), migração da compra de energia para a CCEE/cotas e encargo de serviços do sistema. Apresentação técnica de Cecília (STR). Procuradoria sem questão jurídica.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "0:19:48",
+     "confianca": "alta",
+     "justificativa": "aplicação das cláusulas econômicas do contrato; efeito médio 8,65% conforme cálculo da STR"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:20:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:20:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:20:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:22:10",
+   "processo": "48500.006878/2022-68; 48500.003299/2023-44",
+   "interessado": "EDP São Paulo Distribuição de Energia S.A.",
+   "assunto": "Abertura de consulta pública (19/07 a 01/09/2023, reunião presencial em 10/08/2023 em São José dos Campos-SP) sobre a revisão tarifária periódica da EDP São Paulo a vigorar a partir de 23/10/2023 (efeito médio preliminar de 5,66%: 4,73% AT; 6,15% BT) e limites de DEC e FEC para 2024-2027",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "regulação normativa (consulta pública)",
+    "distribuição e qualidade (DEC/FEC)"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública; números preliminares; parcela B praticamente sem reajuste (0,08%), abaixo da inflação, destacado pelo relator.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "0:35:03",
+     "confianca": "alta",
+     "justificativa": "números preliminares a validar na CP; parcela B com reajuste de 0,08%"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:35:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:35:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (presidente da sessão)",
+     "ts": "0:35:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:36:45",
+   "processo": "48500.000182/2016-80; 48500.000096/2016-77; 48500.005406/2016-40",
+   "interessado": "Companhia Hidrelétrica Teles Pires S.A. (UHE Teles Pires); Energia Sustentável do Brasil S.A. - ESBR (UHE Jirau); Santo Antônio Energia S.A. - SAESA (UHE Santo Antônio)",
+   "assunto": "Efeitos da descontratação de energia no ACR (MCSD A-4+ e acordos bilaterais) sobre os termos de repactuação do risco hidrológico (GSF) dessas usinas: áreas técnicas propunham aditar os termos para reduzir o montante repactuado",
+   "tema": [
+    "comercialização (ACR, MCSD)",
+    "risco hidrológico (GSF, repactuação)",
+    "outorgas de geração (hidrelétrica)",
+    "segurança jurídica"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por maioria; vencida a diretora Agnes da Costa",
+   "resumo_voto": "Mantém o montante repactuado nos termos de repactuação do risco hidrológico, contra a proposta das áreas técnicas e o parecer da Procuradoria (Parecer 365/2021: termo acessório ao CCEAR). Fundamento: à época não havia vedação à descontratação nem regra de revisão do montante; o Despacho 4.008/2017 vedou dali para frente e preservou os casos já operacionalizados; segurança regulatória e confiança legítima. Sustentação oral de Camila Alves (Teles Pires). Procurador Eduardo Estevão reafirmou o parecer.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (mantém o montante repactuado)",
+     "ts": "1:21:03",
+     "confianca": "alta",
+     "justificativa": "não havia restrição normativa à descontratação nem regra de revisão do montante; Despacho 4.008/2017 preservou casos passados; segurança regulatória e respeito à legítima expectativa; termos são independentes, não acessórios"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:41:15",
+     "confianca": "media",
+     "justificativa": "questionou a Procuradoria sobre o caráter acessório; à luz do art. 233 do Código Civil e da cláusula oitava do termo (firmado em caráter irrevogável, independentemente de outros atos), vê independência entre CCEAR e termo de repactuação e vácuo normativo antes de 28/12/2017; não seria possível rever unilateralmente"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:41:15",
+     "confianca": "media",
+     "justificativa": "preservar a coisa decidida no Despacho 4.008/2017, que vedou só para frente sem anular atos passados; segurança jurídica, não retroagir após quatro anos"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "diverge; vencida",
+     "ts": "1:40:38",
+     "confianca": "alta",
+     "justificativa": "termo de repactuação é acessório do contrato regulado (cláusula primeira: objeto é o risco inerente aos contratos regulados); não é correto atribuir ao consumidor do ACR o risco hidrológico de energia comercializada livremente; vota com as áreas técnicas pela redução proporcional do montante e do prêmio daqui para frente"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:42:04",
+   "processo": "48500.000732/2022-17",
+   "interessado": "usinas hidrelétricas em regime de cotas (Lei 12.783/2013): EMAE (Henry Borden), Eletrobras, ABRAGE",
+   "assunto": "Resultado da Consulta Pública 13/2023: nova metodologia de revisão da receita anual de geração (RAG) para o ciclo 2023-2028 e do Fator X das usinas cotistas (submódulo 12.1 do PRORET)",
+   "tema": [
+    "tarifas e revisão tarifária (RAG de cotas)",
+    "outorgas de geração (hidrelétrica)",
+    "regulação normativa (consulta pública, PRORET)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova metodologia (GAG melhorias por potência e queda líquida, com limite de queda de 96 m; fluxo de 30 anos; PIS/Cofins efetivo pela metade; trajetória uniforme; Fator X de cerca de 0,7% ao ano só na GAG O&M) e determina usar o IPCA definitivo de junho. Pleitos não acolhidos: IGP-M em vez de IPCA e efeito tributário da depreciação (ABRAGE), fator de anualização de 24,5 anos e Fator X zero (Eletrobras). Sustentações orais: Moura Franco (EMAE), Hermano Dumont Veronezi (ABRAGE), Natália (Eletrobras). Apresentação técnica de Vitor (STR).",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:32:53",
+     "confianca": "alta",
+     "justificativa": "área técnica tratou IGP-M x IPCA e o caso atípico de Henry Borden (limite de queda líquida); análise prudente"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:34:58",
+   "processo": "48500.003840/2002-64; 48500.004785/20xx; 48500.006068/1999-56",
+   "interessado": "Hendrix (Bruno Hendrix Neto) Geração Elétrica Ltda.; Companhia Energética Salto do Lobo Ltda. (CGHs Bruno Hendrix Neto, Salto do Lobo e Ribeirão do Pinhal)",
+   "assunto": "Percentual de desconto na TUST/TUSD das CGHs que eram PCHs com desconto de 100% e pediram a revogação da autorização para virar registro (CGH): manutenção dos 100% ou redução a 50% (item destacado do bloco por sustentação oral)",
+   "tema": [
+    "CDE e encargos / descontos na TUST-TUSD",
+    "outorgas de geração (PCH/CGH)",
+    "recursos administrativos"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade (pedidos negados)",
+   "resumo_voto": "Conhece e nega provimento: desconto de 100% só vale durante a vigência da autorização como PCH; reduz para 50% a partir da decisão, sem efeito retroativo; nega restabelecer as Resoluções Autorizativas 276/2002, 231/2002 e 336/2003 (impossibilidade de repristinação). Sustentações orais: Guilherme (Salto do Lobo) e Cláudio Mesquita (Hendrix). Procurador relatou que o procurador-chefe (Despacho 619/2021) entendeu pelo direito aos 100%, contra três pareceres anteriores.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, nega provimento",
+     "ts": "2:55:58",
+     "confianca": "alta",
+     "justificativa": "acompanha os três pareceres da Procuradoria e a área técnica; desconto vinculado à outorga de PCH, criado como incentivo no racionamento; manter para CGH sem prazo tornaria o desconto indeterminado; revogação foi pedida pelo próprio agente"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:57:40",
+     "confianca": "media",
+     "justificativa": "concorda integralmente; interpretação razoável dos três pareceres: ao abrir mão da outorga, desconto passa a 50%"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:58:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (presidente da sessão, pela proclamação)",
+     "ts": "2:58:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "3:00:42",
+   "processo": "48500.002395/2023-75",
+   "interessado": "usinas em regime de cotas (Lei 12.783/2013), inclusive usinas da Eletrobras em descotização",
+   "assunto": "Receita anual de geração (RAG) das usinas cotistas para 01/07/2023 a 30/06/2024 (RAG de cerca de R$ 9,84 bilhões, variação de -5,94%; tarifa de cotas sobe de cerca de R$ 145 para R$ 168/MWh por efeito da descotização)",
+   "tema": [
+    "tarifas e revisão tarifária (RAG de cotas)",
+    "outorgas de geração (hidrelétrica)",
+    "Eletrobras (descotização)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa a RAG do ciclo 2023-2024 aplicando a metodologia aprovada no item 6; redução decorre da descotização da Eletrobras (80% da garantia física em 2023, 60% em 2024). Apresentação técnica de André Neves.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "3:15:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:16:43",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "13",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (anunciado pelo secretário; assunto não lido)",
+   "ts": "0:05:13"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais (ex.: item 22, segundo processo) e nomes distorcidos (Hidropan, Hendrix, Henry Borden, sustentantes).",
+  "Transcrição sem separação de falantes: em vários itens só se ouve «acompanho» sem nome; seguidores atribuídos pela proclamação unânime (confiança baixa/média), com ts aproximados.",
+  "Item 2: só uma fala «acompanho» audível antes da proclamação; os três demais votos vêm da proclamação.",
+  "Item 4: as falas «eu acompanho relator / eu também acompanho» (1:41:15) não têm nome; atribuídas a Tili e Mosna pela proclamação por maioria e pelas manifestações anteriores (Mosna questionou a Procuradoria e defendeu independência dos termos; a fala sobre os «dois marcos» e o Despacho 4.008 foi atribuída a Tili por inferência). A proclamação não nomeia a vencida; Agnes identificada pela fala divergente e pela réplica que a cita.",
+  "Item 22: a fala de concordância integral com o «diretor Ricardo» foi atribuída a Fernando Mosna por inferência (estilo jurídico); confiança média.",
+  "Itens 1, 5 e 8 não estão neste vídeo (Parte 2)."
+ ]
 }

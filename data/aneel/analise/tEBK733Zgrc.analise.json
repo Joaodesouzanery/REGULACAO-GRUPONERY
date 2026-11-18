@@ -1,69 +1,91 @@
 {
-  "meta": {"video_id": "tEBK733Zgrc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~1:26:03); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "tEBK733Zgrc", "fonte": "legenda automática do YouTube (transmissão ao vivo, 4h20; sessão começa ~1:26:00); falantes inferidos; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "6ª Reunião Pública Ordinária de 2023", "data": "2023-03-07", "formato": "presencial",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "numero": "6ª Reunião Pública Ordinária de 2023",
+    "data": "2023-03-07",
+    "formato": "presencial",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) — inferido; o nome não é dito na legenda",
     "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna", "Hélvio Guerra"],
     "ausentes": [],
-    "observacoes": ["Quórum completo de cinco diretores; data inferida pela fala de abertura (véspera do Dia Internacional da Mulher, 8 de março) e pela pauta publicada em 2/3/2023.", "Pauta com 56 itens; itens 4 a 56 em bloco; retirados de pauta os itens 1, 10 e 23; item 5 destacado do bloco por pedido de sustentação oral.", "Ata da 5ª reunião aprovada com ressalva da ausência de Hélvio Guerra naquela sessão.", "Informes: missão de Hélvio Guerra à Índia (India Smart Utility Week), agenda de Agnes da Costa no Ceará, homenagens ao Dia da Mulher e aos 30 anos da AGU.", "Todos os itens deliberados por unanimidade."]
+    "observacoes": [
+      "Abertura às ~1:26:03 do vídeo; quórum completo de cinco diretores aptos a deliberar declarado na abertura.",
+      "Pauta com 56 itens; itens 4 a 56 em bloco; retirados de pauta os itens 1, 10 e 23; item 5 destacado do bloco por pedido de sustentação oral; ordem de julgamento: bloco, itens 3, 5 e 2.",
+      "Ata da 5ª reunião pública ordinária aprovada com ressalva da ausência do diretor Hélvio Guerra naquela sessão.",
+      "Informes: audiência pública 2/2023 (revisão tarifária Coelba, Salvador), CPs 1, 3 e 4/2023 (Energisa Sergipe, Cosern, Enel CE); missão de Hélvio Guerra à Índia (India Smart Utility Week); homenagens ao Dia Internacional da Mulher e aos 30 anos da AGU.",
+      "Todos os itens deliberados foram aprovados por unanimidade; duas sustentações orais (item 5: Klinger Souza Barros, Pedro Afonso/BP Bunge; item 2: Natália Moura de Oliveira, Abrace)."
+    ]
   },
   "itens": [
     {
-      "id": "bloco", "ts": "1:44:07", "processo": "", "interessado": "diversos",
-      "assunto": "Itens 4 a 56 da pauta (bloco, votos disponibilizados previamente), exceto o item 5 destacado e os retirados",
-      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovados por unanimidade",
-      "resumo_voto": "Diretoria aprovou os itens do bloco por unanimidade.",
+      "id": "bloco", "ts": "1:44:07",
+      "processo": "itens 4 a 56 (exceto o item 5, destacado, e os retirados)", "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 4 a 56 da pauta (votos disponibilizados previamente)",
+      "tema": ["diversos (bloco)"],
+      "relator": "diversos", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens de bloco aprovados sem leitura; três diretores dizem «aprovo o bloco» e o presidente proclama a unanimidade.",
       "votos": [
-        {"diretor": "Agnes da Costa", "voto": "acompanha (aprova o bloco)", "ts": "1:44:10", "justificativa": "Aprovação em bloco, sem fala individual registrada.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha (aprova o bloco)", "ts": "1:44:12", "justificativa": "Aprovação em bloco.", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha (aprova o bloco)", "ts": "1:44:14", "justificativa": "Aprovação em bloco.", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha (aprova o bloco)", "ts": "1:44:16", "justificativa": "Aprovação em bloco.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha (aprova o bloco) e proclama", "ts": "1:44:28", "justificativa": "Proclamou a aprovação por unanimidade dos itens do bloco.", "confianca": "alta"}
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "1:44:12", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "1:44:15", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "1:44:18", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (pela proclamação)", "ts": "1:44:18", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "1:44:28", "confianca": "media"}
       ]
     },
     {
-      "id": "3", "ts": "1:44:55", "processo": "48500.006406/2022-13 (número incerto)", "interessado": "Mata Verde Transmissora de Energia Ltda. (controlador IG Transmissão e Distribuição, em recuperação judicial)",
-      "assunto": "Termo de Intimação 8/2022 da SFE: falhas e transgressões no Contrato de Concessão 8/2019 (LT 230 kV Itararé 2 - Capão Bonito, ~108 km); pedido de excludente de responsabilidade, reequilíbrio e encerramento consensual; proposta de caducidade",
-      "tema": ["transmissão", "fiscalização e sanções (caducidade)"], "relator": "Hélvio Guerra",
-      "resultado": "unânime: negado provimento aos pedidos; processo encaminhado ao MME propondo a caducidade do contrato (art. 38 da Lei 8.987/1995); SFE instruirá demais sanções",
-      "resumo_voto": "Relator acompanhou SFE/SCT e a Procuradoria: atrasos nos marcos intermediários, falta de capacidade econômico-financeira, licenciamento parado por culpa da empresa, sem nexo com a covid; apresentação técnica de Humberto (SFE).",
+      "id": "3", "ts": "1:44:43",
+      "processo": "48500.006406/2022-13", "interessado": "Mata Verde Transmissora de Energia Ltda. (controladora IG Transmissão e Distribuição, em recuperação judicial)",
+      "assunto": "Termo de Intimação nº 8/2022 (SFE): falhas e transgressões no contrato de concessão de transmissão nº 8/2019 (LT 230 kV Itararé 2–Capão Bonito, ~108 km, lote do leilão de transmissão 4/2018); pedido de excludente de responsabilidade, reequilíbrio e solução consensual; proposta de caducidade",
+      "tema": ["transmissão (outorgas)", "fiscalização e sanções (caducidade)", "recursos administrativos"],
+      "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade — pedidos negados; processo encaminhado ao MME propondo a caducidade do contrato 8/2019",
+      "resumo_voto": "Conhece do requerimento e nega excludente de responsabilidade (atraso no licenciamento ambiental causado pela própria empresa, que não respondeu à Cetesb), reequilíbrio (sem nexo causal com a covid-19) e solução consensual; encaminha ao MME a proposta de declaração de caducidade (art. 38 da Lei 8.987/1995); determina à SFE instrução para demais sanções. Apresentação técnica da SFE (Humberto); procuradoria concorda com a caducidade. Ricardo Tili destaca que a intimação foi aberta quase um ano antes da data de operação graças ao acompanhamento das obras.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:58:00", "justificativa": "Caso emblemático; não há outra medida senão encaminhar ao MME para declaração de caducidade; nega excludente, reequilíbrio e solução consensual.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:00:30", "justificativa": "Destacou que a fiscalização acompanhou o cronograma da obra e abriu o termo de intimação quase um ano antes da entrada em operação.", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:00", "justificativa": "Sem fala individual; unanimidade proclamada.", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:00", "justificativa": "Sem fala individual; unanimidade proclamada.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:03:00", "justificativa": "Elogiou a gestão de contratos (SFE/SCT) que permite propor caducidade a tempo de relicitar; lembrou que a decisão final é do poder concedente.", "confianca": "media"}
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (nega os pedidos e propõe caducidade ao MME)", "ts": "1:59:13", "justificativa": "marcos intermediários descumpridos, não captação de recursos, controlador em recuperação judicial, sem plano de recuperação; não há excludente no licenciamento nem nexo com a pandemia; caso emblemático sem outra medida possível", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação), com destaque", "ts": "2:00:30", "justificativa": "destaca que a SFE acompanhou de perto as etapas da obra e abriu o processo quase um ano antes da entrada em operação, acelerando eventual caducidade", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:08", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:03:08", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:03:08", "justificativa": "elogia a gestão de contratos (SFE/SCT) que permite propor caducidade a tempo de relicitar sem solução de continuidade; decisão final é do poder concedente", "confianca": "media"}
       ]
     },
     {
-      "id": "5", "ts": "2:04:26", "processo": "48500.005556/2020-30 (número incerto)", "interessado": "Pedro Afonso Açúcar e Bioenergia Ltda. e BP Bioenergia Tropical S.A. (grupo BP Bunge); UTE Pedro Afonso e UTE Tropical Bioenergia",
-      "assunto": "Requerimento para cessão de energia da UTE Tropical Bioenergia (4º LER) para a UTE Pedro Afonso (3º LER) no mecanismo de cessão de energia de reserva, entre leilões distintos",
-      "tema": ["comercialização (energia de reserva, CCEE)", "outorgas de geração (térmica a biomassa)", "recursos administrativos"], "relator": "Ricardo Tili",
-      "resultado": "unânime: requerimento conhecido e negado provimento",
-      "resumo_voto": "Sustentação oral de Klinger Souza Barros (Pedro Afonso), invocando flexibilização do Despacho 4.510/2014. Relator seguiu SRM e Procuradoria: edital e portarias do MME restringem a cessão a usinas da mesma fonte, submercado e certame; vinculação ao edital.",
+      "id": "5", "ts": "2:04:26",
+      "processo": "48500.005556/2020-30", "interessado": "Pedro Afonso Açúcar e Bioenergia Ltda. e BP Bioenergia Tropical S.A. (grupo BP Bunge Bioenergia); UTE Pedro Afonso (submercado Norte, 3º LER) e UTE Tropical Bioenergia (4º LER)",
+      "assunto": "Requerimento de autorização para cessão de energia da UTE Tropical Bioenergia para a UTE Pedro Afonso no âmbito do mecanismo de cessão de energia de reserva (usinas de leilões de reserva distintos)",
+      "tema": ["comercialização (energia de reserva, CCEE)", "outorgas de geração (térmica a biomassa)", "recursos administrativos"],
+      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade — requerimento negado",
+      "resumo_voto": "Destacado do bloco por pedido de sustentação oral (Klinger Souza Barros, pela Pedro Afonso), que invocou a flexibilização do Despacho 4.510/2014 (cessão entre submercados) e pediu nova flexibilização entre leilões. Relator, com SRM e procuradoria, nega: portarias MME 407/2010 e 197/2011 e os editais 5/2010 e 3/2011 restringem a cessão a usinas da mesma fonte, mesmo submercado e mesmo certame; vinculação ao edital. Procurador refuta os precedentes citados (Tibagi, decisão cautelar).",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova (nega provimento)", "ts": "2:22:08", "justificativa": "Limitação expressa do edital e das portarias do MME; precedente de 2014 tratou de submercado no mesmo leilão; aceitar cessão entre leilões abriria precedente e extrapola a competência da ANEEL.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:27:27", "justificativa": "Dispositivos são explícitos; misturar leilões permitiria jogo entre preços diferentes e desvirtuaria a energia de reserva.", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:29:30", "justificativa": "Pedido não é interpretação além da literalidade, é reescrever a norma no interesse exclusivo do agente, sem benefício ao consumidor.", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:32:00", "justificativa": "Transferir energia entre leilões compromete a competição e permite arbitragem; ANEEL não altera portarias do poder concedente.", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:36:00", "justificativa": "Regulação não extrapola a norma; regulador não legisla.", "confianca": "media"}
+        {"diretor": "Ricardo Tili", "voto": "relator, nega provimento", "ts": "2:26:34", "justificativa": "vedação expressa em portaria do MME e no edital; aceitar abriria precedente para outras flexibilizações; foge à competência da ANEEL", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:27:18", "justificativa": "energia de reserva serve para cobrir garantia física; permitir troca entre leilões abriria jogo com usinas contratadas a preços diferentes e desvirtuaria o instrumento", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:29:20", "justificativa": "o pedido não é interpretação além da literalidade, é reescrever a norma em interesse exclusivo do agente, sem benefício ao consumidor", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:31:42", "justificativa": "transferir energia entre leilões compromete a competição e permite arbitragem de preço; ANEEL não pode alterar portarias do poder concedente", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:35:54", "justificativa": "a regulação não extrapola a lei; o regulador não legisla", "confianca": "media"}
       ]
     },
     {
-      "id": "2", "ts": "2:36:42", "processo": "48500.007804/2022-49", "interessado": "SGT/SRG/SFF/SRD; CCEE; consumidores (Abrace)",
-      "assunto": "Resultado da Consulta Pública 63/2022: orçamento anual da CDE 2023 (total ~R$ 34,986 bi; CCC R$ 12 bi; cotas CDE-Uso ~R$ 28,87 bi; CDE-GD R$ 702 mi com recolhimento concatenado)",
-      "tema": ["CDE e encargos setoriais", "geração distribuída (MMGD)", "tarifas e revisão tarifária", "regulação normativa (consulta pública)"], "relator": "Agnes da Costa",
-      "resultado": "unânime: aprovado o orçamento da CDE 2023, custos unitários, cotas CDE-Uso e CDE-GD (concatenadas) e tarifas da rede básica",
-      "resumo_voto": "Sustentação oral de Natália Moura de Oliveira (Abrace): saldo RGR, tarifa social superestimada, descontos de fontes incentivadas, fiscalização de descontos, CCC. Apresentação de André (SGT). Relatora registrou preocupação com o crescimento de subsídios definidos em lei (~R$ 5,6 bi de novas leis 2021-22).",
+      "id": "2", "ts": "2:36:38",
+      "processo": "48500.007804/2022-49", "interessado": "consumidores e agentes de distribuição e transmissão; CCEE (gestora); sustentação oral da Abrace",
+      "assunto": "Resultado da Consulta Pública nº 63/2022: orçamento anual da Conta de Desenvolvimento Energético (CDE) 2023 — total de R$ 34,986 bilhões, CCC de R$ 12 bilhões, cotas CDE Uso de R$ 28,87 bilhões, cotas CDE GD com recolhimento concatenado aos processos tarifários, e tarifas da rede básica",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária", "geração distribuída (MMGD)", "regulação normativa (consulta/audiência pública)"],
+      "relator": "Agnes da Costa", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sustentação oral de Natália Moura de Oliveira (Abrace): saldo da RGR, recursos adicionais de multas/UBP, tarifa social superestimada, descontos de fontes incentivadas, fiscalização de descontos e compatibilização da CCC. Apresentação técnica da SGT (André). Voto aprova o orçamento e inova com o recolhimento concatenado das cotas da CDE GD a partir do processo tarifário de cada distribuidora (evita CVA e custos financeiros). Conclusão: ANEEL não tem discricionariedade sobre as despesas criadas por lei (~R$ 5,6 bilhões de impacto das leis de 2021–2022), mas registra preocupação com o crescimento dos subsídios a fontes já maduras e pede reavaliação por quem tem competência legislativa. SFE (Jaqueline) informa fiscalização dos descontos tarifários de 2018–2022 planejada para 2023.",
       "votos": [
-        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "3:40:00", "justificativa": "ANEEL não pode incluir ou excluir despesas fixadas em lei, mas deve chamar atenção para o crescimento de subsídios a tecnologias já maduras e o impacto no bolso do consumidor.", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:44:30", "justificativa": "Sem discricionariedade sobre rubricas legais; papel cresce na fiscalização (subsidiômetro; possíveis ~R$ 500 mi em benefícios indevidos apontados pela Abrace); pediu panorama à SFE.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:54:52", "justificativa": "Alguns subsídios são necessários (tarifa social, CCC), mas cabe estudar redução de custos; descontos de transmissão cresceram pela corrida às outorgas.", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:55:00", "justificativa": "Tudo decorre de lei; cerca de 80% da CDE em CCC, fontes incentivadas e baixa renda; renováveis já competitivas não precisam de subsídio; consumidor paga sem avaliar disposição a pagar.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "4:13:30", "justificativa": "Votou por último e proclamou a unanimidade.", "confianca": "media"}
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "3:42:22", "justificativa": "despesas da CDE decorrem de lei; preocupação com subsídios a tecnologias maduras e impacto no bolso do consumidor; concatenação da CDE GD reduz custos financeiros e exposição das distribuidoras", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora (pela proclamação)", "ts": "3:44:30", "justificativa": "faz coro à reavaliação das rubricas; ANEEL sem discricionariedade, mas seu papel cresce na fiscalização; cita subsidiômetro, ~R$ 540 milhões de impacto (Roraima e carvão para exportação) e indícios de descontos indevidos apontados pela Abrace", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "3:54:50", "justificativa": "alguns subsídios são necessários (tarifa social, CCC), mas a agência deve fiscalizar e propor redução de custos; antecipa concordância", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "3:55:00", "justificativa": "tudo vem de lei (cita ao menos sete leis); CCC, fontes incentivadas e baixa renda somam ~80% da CDE; fontes renováveis já são competitivas e o consumidor paga sem que se avalie sua disposição a pagar", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "4:13:36", "confianca": "media"}
       ]
     }
   ],
-  "retirados": ["Itens 1, 10 e 23 da pauta (retirados antes da sessão; assuntos não lidos)"],
-  "limites_da_analise": ["Legenda automática: números de processo (itens 3 e 5) e valores podem estar errados.", "Falantes sem nome: a fala sobre falhas de mercado/arbitragem no item 5 e a fala longa no item 2 (que menciona a viagem à Índia) foram atribuídas a Hélvio Guerra por inferência; a proclamação, a Sandoval Feitosa (presidente).", "Itens 3: só Ricardo Tili comentou; demais votos pela proclamação de unanimidade.", "Data 2023-03-07 inferida pela véspera do Dia da Mulher; ts de seguidores aproximados."]
+  "retirados": ["item 1 (retirado de pauta; assunto não lido)", "item 10 (retirado de pauta; assunto não lido)", "item 23 (retirado de pauta; assunto não lido)"],
+  "limites_da_analise": [
+    "Legenda automática: nomes e números podem estar errados (ex.: 'rio guerra' = Hélvio Guerra; 'Ricardo Chile' = Ricardo Tili; 'abraço' = Abrace; nº do processo do item 3 lido como '48.500 64 06 2022 dígito 13').",
+    "O nome do Diretor-Geral não aparece na legenda; presidência atribuída a Sandoval Feitosa por inferência (abertura em 3ª pessoa da missão de Hélvio Guerra e ressalva da ausência de Hélvio na ata anterior). Hélvio Guerra, no item 3, dirige-se apenas a Agnes, Ricardo e Fernando; não há registro claro de saída do presidente.",
+    "Nas votações dos itens 5 e 2 a legenda registra «acompanho o voto do relator» seguido de «eu voto com o relator e declaro»: a primeira fala não tem dono identificado; votos de quem não falou foram atribuídos pela proclamação de unanimidade (confiança media).",
+    "Item 5: a fala sobre arbitragem entre leilões (2:31:42) foi atribuída a Hélvio Guerra por inferência (estilo e menção a «diretor Fernando»); no item 2 a fala final antes da votação é de Hélvio (cita a própria missão à Índia).",
+    "Item 3: Ricardo Tili e o comentário pós-voto foram identificados pelo vocativo «muito bem destacado diretor Ricardo»; o autor desse comentário (presidente) é inferido.",
+    "Valores do orçamento da CDE (34,986 bi; 28,87 bi; 12 bi; CAFT 8,892 mi) conforme a leitura do dispositivo/proclamação; podem conter erros de legenda.",
+    "Bloco: as três falas «aprovo o bloco» não têm nome; atribuídas aos diretores pela ordem usual, confiança media.",
+    "Este vídeo é a transmissão ao vivo da mesma reunião de luermX3BXaQ (versão editada)."
+  ]
 }

@@ -1,82 +1,79 @@
 {
- "meta": {"video_id": "hO_uDnb1o8Y", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (localizado na transcrição json); ts de quem só acompanha é aproximado", "versao_esquema": 1},
- "reuniao": {
-  "numero": "10ª Reunião Pública Ordinária de 2023 (parte 2, tarde)",
-  "data": "2023-04-04",
-  "formato": "presencial (transmitida no YouTube)",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Gentil Nogueira", "Fernando Mosna", "Hélvio Guerra", "Ricardo Tili"],
-  "ausentes": [],
-  "observacoes": [
-   "Sessão da tarde da 10ª RPO de 2023; três processos: requerimentos BP/Statkraft (Mosna), abertura de CP do PEQUI 2023-2028 (Tili) e resultado da CP 75/2020 sobre liquidação dos EUST (Hélvio Guerra), este com pedido de vista de Agnes da Costa.",
-   "No item 1 o relator ajustou o voto durante a discussão: postergação para 1º/01/2024 (em vez de 30/04/2024) e retirada da determinação à CCE de divulgar a lista de comercializadores tipo 1.",
-   "No item 2 o Diretor-Geral registra que um diretor se retirou da sessão e deixou voto acompanhando o relator; o nome não é dito na legenda.",
-   "Sessão encerrada perto das 19h (o DG diz que começaram às 9h)."
+  "meta": {"video_id": "hO_uDnb1o8Y", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto (a legenda não identifica quem fala); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "10ª Reunião Pública Ordinária de 2023 (Parte 2, período da tarde)",
+    "data": "2023-04-04",
+    "formato": "presencial (sustentações orais na bancada) com transmissão pelo YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Sessão da tarde da 10ª RPO de 2023; o Diretor-Geral diz ao final que a reunião começou às 9h e já se aproximava das 19h.",
+      "Três processos apregoados à tarde: comercializadoras tipo 1/tipo 2 (Fernando Mosna), abertura de CP do PEQUI 2023-2028 (Ricardo Tili) e liquidação financeira dos EUST - CP 75/2020 (Hélvio Guerra).",
+      "Item 1: unânime, com ajuste no voto durante a discussão (prazo passou de 30/04/2024 para 01/01/2024). Item 2: unânime; um diretor se retirou e deixou voto acompanhando o relator. Item 3: nove sustentações orais; a diretora Agnes da Costa pediu vista após o voto do relator.",
+      "Diretor Gentil Nogueira, listado no cabeçalho de falantes inferidos, não aparece na sessão (não é citado nem chamado); não incluído entre os presentes."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:03",
+      "processo": "48500.001392/2019-66",
+      "interessado": "BP Comercializadora de Energia Ltda. e Statkraft Energias Renováveis S.A. (comercializadoras); manifestações da CCEE, Abraceel e Flash Energia",
+      "assunto": "Requerimentos administrativos para excepcionalizar a REN 1.011/2022 (redação da REN 1.014/2022): classificação de comercializadores em tipo 1 e tipo 2 (patrimônio líquido mínimo de R$ 10 milhões) e seus efeitos (limite de 30 MWmédios para tipo 2)",
+      "tema": ["comercialização (CCEE, comercializadores, segurança de mercado)", "regulação normativa", "recursos administrativos"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento, postergando para 01/01/2024 a exigibilidade do art. 4º, II, b, da REN 1.014/2022 quanto à classificação tipo 1/tipo 2 e seus efeitos",
+      "resumo_voto": "Relator nega a aferição do patrimônio líquido por grupo econômico (pessoas jurídicas distintas fragilizariam a garantia em caso de inadimplência), mas acolhe o pedido da CCEE de postergar a classificação, porque os PdCs ainda não foram aprovados e o sistema da CCEE não existe; cita precedente (Despacho 2.718/2015 sobre a REN 622/2014). Propôs inicialmente 30/04/2024 e a determinação à CCEE de divulgar a lista de tipo 1 a partir de 31/12/2023; na discussão o prazo foi ajustado para 01/01/2024 e o inciso da divulgação foi suprimido. Sustentação oral de Bernardo (Abraceel), pedindo a postergação total para abril de 2024. A Procuradoria não se manifestou conclusivamente (discricionariedade técnica).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (parcial provimento; prazo ajustado para 01/01/2024)", "ts": "0:12:11", "justificativa": "sem PdC aprovado e sem sistema na CCEE não há como cumprir a regra; postergar dá previsibilidade e segurança jurídica e evita tratamentos diferentes (tipo 2 'linha'); grupo econômico não pode somar patrimônio líquido", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:40", "justificativa": "considerou o encaminhamento adequado, mas 'frustrante' esperar mais um ano por uma regra de segurança de mercado discutida desde 2019; importa implementar com segurança", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação), com críticas", "ts": "1:01:40", "justificativa": "na discussão disse que os pedidos questionam o mérito de regra aprovada em consulta pública e, a seu ver, não deveriam ser conhecidos; criticou o atraso da própria agência e da CCEE; achou 12 meses demasiado e o precedente citado já revogado; ao final aceitou a postergação para 01/01/2024", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:40", "justificativa": "manifestou desconforto ('não é um bom dia', segunda vez no dia que a agência cede por prazo não cumprido); prazo é para ser cumprido; sugeriu aprovar REN junto com o PdC ou travar o prazo a partir da aprovação do PdC", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:01:46", "justificativa": "concordou com a prorrogação, mas propôs vigência no início do ano civil, 01/01/2024, em vez de 12 meses", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:02:22",
+      "processo": "48500.008730/2022-68",
+      "interessado": "SPE/ANEEL (Superintendência de Pesquisa e Desenvolvimento e Eficiência Energética); empresas obrigadas ao programa de PDI (Lei 9.991/2000)",
+      "assunto": "Abertura de consulta pública (intercâmbio documental de 06/04 a 22/05/2023 e sessão presencial em Brasília) para o Plano Estratégico Quinquenal de Inovação (PEQUI) 2023-2028 do programa de PDI ANEEL",
+      "tema": ["pesquisa, desenvolvimento e inovação (PDI)", "regulação normativa (consulta pública)", "eficiência energética"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade: instaurada a consulta pública",
+      "resumo_voto": "Apresentação técnica do servidor Márcio (SPE): mapa estratégico, 7 temas estratégicos, 17 indicadores (KRs) e índice Ampere para reconhecimento do investimento a partir de 2024. O relator acrescentou pontos para contribuição da sociedade: transparência, fiscalização dos recursos, realidade local e consumidores vulneráveis, problemas presentes (custo da energia para famílias pobres), integração com outras plataformas e compatibilidade com a Resolução CNPE 2/2021. Procuradoria opinou formalmente pela abertura.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova abertura da CP", "ts": "1:18:39", "justificativa": "mudança de paradigma: acompanhamento dos projetos ao longo da execução; não há transição energética sem entregar benefícios à sociedade hipossuficiente", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:32:39", "justificativa": "elogiou os pontos acrescentados; sugeriu considerar temas da Resolução CNPE 2/2021 que ficaram fora (nuclear, minerais estratégicos, termelétrica sustentável) e indicadores de impacto social, citando o 'community benefits' e o Justice40 dos EUA", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:32:39", "justificativa": "elogiou a ênfase em produtos para o consumidor que paga o programa, em vez da formação de pessoas (titulações com peso de 5%)", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "voto deixado (lido por Sandoval Feitosa): acompanha o relator", "ts": "1:33:02", "justificativa": "o Diretor-Geral registra que um diretor se retirou e deixou voto acompanhando o relator; o nome não é captado pela legenda", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:32:39", "justificativa": "sem justificativa de mérito (comentário bem-humorado sobre não gostar de pequi)", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:34:08",
+      "processo": "48500.005470/2018-92",
+      "interessado": "ONS; transmissoras e usuários da rede básica; sustentações: ONS, ABIAPE, ABRATE, ABEEólica, Abrace, Apine, Abdib, Engie Brasil Energia e Eletrobras",
+      "assunto": "Resultado da 2ª fase da Consulta Pública 75/2020: aprimoramento do processo de liquidação financeira dos encargos de uso do sistema de transmissão (EUST) - escolha entre plataforma única (alternativa 2) e liquidação centralizada por instituição financeira (alternativa 4)",
+      "tema": ["transmissão (EUST, liquidação financeira)", "regulação normativa (consulta pública, AIR)", "inadimplência e cadastro de inadimplentes"],
+      "relator": "Hélvio Guerra",
+      "resultado": "pedido de vista da diretora Agnes da Costa após o voto do relator; deliberação suspensa",
+      "resumo_voto": "Relator vota pela alternativa 2 (plataforma única do ONS para documentos de cobrança), rejeitando a centralização (alternativa 4) por alterar a matriz de risco das transmissoras e o risco de judicialização em cascata (exemplo do GSF no mercado de curto prazo); recomenda à SRT incluir na agenda regulatória agrupamento de faturas por CNPJ, faturamento por transmissora e não por ativo, padronização via boleto e unificação de vencimentos; fixa em 60 dias notificação prévia de 3 dias antes da inclusão no cadastro de inadimplentes e retirada em até 3 dias após regularização; ONS apresenta cronograma em 90 dias. Durante a discussão anunciou acrescentar avaliação do resultado em 2 anos após a entrada em operação do sistema. Nove sustentações orais (10 min cada): Gustavo Henrique Novaes Rodrigues (ONS, pró-alternativa 4 ou sobrestamento), Daniel Pina (ABIAPE), Thiago Aragão Soares (ABRATE, apoia o relator), representante da ABEEólica (nome incerto na legenda), Talita Viana Cabral (Abrace), Josiane Napolitano (Apine, pró-alternativa 4), Kleber Davi (Abdib, apoia alternativa 2), Rômulo Muniz (Engie, pró-alternativa 4) e Rafael Takasaki Carvalho (Eletrobras, contra a alternativa 4). A Procuradoria (Eduardo Ramalho) apontou preocupação com judicialização e percepção de risco.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova alternativa 2 (plataforma única) com medidas sobre cadastro de inadimplentes", "ts": "3:06:24", "justificativa": "para resolver um problema procedimental não se pode inserir mais risco aos credores; a centralização muda a matriz de risco das transmissoras e cria ativo judicializável, como no GSF; só levaria a centralização se as transmissoras concordassem", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "4:07:56", "justificativa": "ainda tem dúvidas; quer estudar alternativa de centralização 'mais ousada' que evite conta única judicializável, em complementação ao voto do relator; lamenta perder eficiência por medo de judicialização", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "3:43:02", "justificativa": "na discussão achou o voto 'tímido'; defende liquidação centralizada nos moldes das cotas de garantia física/Angra (via CCEE, pagamentos individualizados), sem relação com o GSF", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "3:49:09", "justificativa": "na discussão apoiou a lógica do relator: centralizar poderia reproduzir o efeito das liminares do GSF (cerca de R$ 8,5 bilhões no MCP); previsibilidade é o maior vetor de investimento; a plataforma única racionaliza", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes e números distorcidos (ex.: 'Starcraft/statecraft/esthetti Craft' = Statkraft; 'abração/abracell' = Abraceel; 'reomar Mirim no Jorge' da ABEEólica; 'Kleber Davi ele novisk' da Abdib); números de processo reconstruídos a partir do pregão.",
+    "A legenda não identifica falantes; autores das falas na discussão foram inferidos pelo conteúdo e pela fala do relator no item 1 ('como o diretor Hélvio colocou, diretora Agnes, diretor Ricardo e você também'). A atribuição a Hélvio Guerra (defendeu não conhecer os pedidos) e a Ricardo Tili ('não é um bom dia') no item 1 tem confiança baixa.",
+    "Item 1: os votos de acompanhamento ('eu acompanho o voto do relator', três vozes seguidas) não têm nome na legenda; atribuídos pela proclamação de unanimidade; ts aproximados.",
+    "Item 2: o Diretor-Geral registra que um diretor se retirou e deixou voto acompanhando o relator, mas o nome não é captado. Atribuído a Fernando Mosna por ser o único diretor que não fala nos itens 2 e 3 (inferência, confiança baixa).",
+    "Item 3: Fernando Mosna não aparece na discussão e provavelmente já tinha se retirado (ver item 2); não foi registrado voto para ele. Por isso o item tem 4 votos para 5 diretores presentes no início da sessão.",
+    "Item 3: só a diretora Agnes da Costa pediu vista; Ricardo Tili e Sandoval Feitosa falaram na discussão, mas não votaram no mérito antes da vista ('não votou (vista)').",
+    "Gentil Nogueira consta na lista de falantes inferidos do cabeçalho do .md, mas não há qualquer menção a ele na sessão; tratado como não participante."
   ]
- },
- "itens": [
-  {
-   "id": "1", "ts": "0:00:30",
-   "processo": "48500.001392/2019-66 (número da legenda, incerto)",
-   "interessado": "BP Comercializadora de Energia Ltda. e Statkraft Energias Renováveis S.A.; CCE, Abraceel e Flash Energia se manifestaram",
-   "assunto": "Requerimentos administrativos para excepcionalizar a REN 1.011/2022 (redação da REN 1.014/2022): classificação de comercializadoras em tipo 1 e tipo 2 (patrimônio líquido), limite de 30 MWmédios, postergação da exigibilidade",
-   "tema": ["comercialização (CCEE, PLD, contratos)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "segurança de mercado"],
-   "relator": "Fernando Mosna",
-   "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento; exigibilidade da classificação tipo 1/tipo 2 (art. 4º, II, b, da REN 1.014/2022) e seus efeitos postergada para 1º/01/2024",
-   "resumo_voto": "Pedido de considerar patrimônio do grupo econômico negado (pessoas jurídicas distintas; exemplo do grupo com 1 bilhão e agente com 1 milhão). Sem PDCs aprovados e sem sistema da CCE, posterga-se a classificação para evitar tipos distintos de comercializadoras e dar segurança jurídica, com precedente do Despacho 2.718/2015. Na discussão o prazo passou de 30/04/2024 para 1º/01/2024. Sustentação oral de Bernardo (Abraceel), pela postergação total. Procuradoria não se manifestou conclusivamente (discricionariedade técnica).",
-   "votos": [
-    {"diretor": "Fernando Mosna", "voto": "relator, aprova (parcial provimento; ajustou prazo para 1º/01/2024)", "ts": "0:35:17", "justificativa": "Grupo econômico não pode somar patrimônio; sem PDC e sistema, postergar dá previsibilidade e segurança jurídica e evita criar um 'tipo 2 linha'; aceitou antecipar para início de 2024.", "confianca": "alta"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:28", "justificativa": "Achou o encaminhamento adequado, mas frustrante esperar mais um ano por um sistema de segurança de mercado discutido desde 2019 (falante inferido).", "tom": "frustração com o atraso", "confianca": "media"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:28", "justificativa": "Falante inferido: os pedidos questionam o mérito de regra aprovada em consulta pública e não deveriam ser conhecidos; prazo de 12 meses demasiado; precedente já revogado; cobrou explicação da área técnica sobre o descumprimento do prazo; ao fim acompanhou.", "tom": "crítico, desconforto com prazo não cumprido", "confianca": "baixa"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:28", "justificativa": "Falante inferido: estranhou a demora; sugeriu travar prazos de resolução que dependem de PDC; disse estar num beco sem saída.", "confianca": "baixa"},
-    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator (pela proclamação)", "ts": "1:01:28", "justificativa": "Unanimidade proclamada; fala individual não identificada.", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama)", "ts": "1:01:46", "justificativa": "Falante inferido: incomodado com adiar para 2024; propôs vigência a partir de 1º/01/2024 (início do ano civil), aceita pelo relator.", "confianca": "media"}
-   ]
-  },
-  {
-   "id": "2", "ts": "1:02:33",
-   "processo": "48500.008730/2022-68 (número da legenda, incerto)",
-   "interessado": "SPE (Superintendência de P&D e Eficiência Energética); empresas obrigadas ao PDI (Lei 9.991/2000)",
-   "assunto": "Abertura de consulta pública para o Plano Estratégico Quinquenal de Inovação (PEQUI) 2023-2028 do programa de PDI ANEEL",
-   "tema": ["regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "pesquisa, desenvolvimento e inovação (PDI)"],
-   "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade: instaurar consulta pública por intercâmbio documental de 6/04 a 22/05/2023, com sessão presencial em Brasília",
-   "resumo_voto": "Apresentação técnica do servidor Márcio (SPE) sobre mapa estratégico, sete temas estratégicos e indicadores/metas. O relator acrescentou pontos para a sociedade contribuir e defendeu transição energética com inclusão da população hipossuficiente. Procuradoria opinou pela abertura.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:02:38", "justificativa": "Não há transição energética sem participação e entrega para a sociedade hipossuficiente; pede contribuições nos pontos acrescentados ao voto.", "confianca": "alta"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:31:00", "justificativa": "Falante inferido: elogiou o olhar de inclusão e citou indicadores de inovação para transição energética justa.", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "1:32:30", "justificativa": "Unanimidade proclamada; fala individual não identificada.", "confianca": "baixa"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "1:32:30", "justificativa": "Unanimidade proclamada; fala individual não identificada.", "confianca": "baixa"},
-    {"diretor": "Gentil Nogueira", "voto": "voto deixado (lido por Sandoval Feitosa)", "ts": "1:32:53", "justificativa": "DG registra que um diretor se retirou e deixou voto acompanhando o relator; atribuição a Gentil Nogueira é inferência.", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (proclama)", "ts": "1:32:30", "justificativa": "Diz acompanhar o voto do relator e proclama a unanimidade.", "confianca": "alta"}
-   ]
-  },
-  {
-   "id": "3", "ts": "1:34:26",
-   "processo": "48500.005470/2018-92 (número da legenda, incerto)",
-   "interessado": "ONS; transmissoras (Abrate); usuários e consumidores (Abrace e outras associações); 9 sustentações orais",
-   "assunto": "Resultado da 2ª fase da Consulta Pública 75/2020: aprimoramento da liquidação financeira dos encargos de uso do sistema de transmissão (EUST) - liquidação centralizada x plataforma única",
-   "tema": ["transmissão (RAP, outorgas, reforços)", "regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)", "CDE e encargos setoriais"],
-   "relator": "Hélvio Guerra",
-   "resultado": "pedido de vista de Agnes da Costa (não votado)",
-   "resumo_voto": "Relator rejeita a liquidação centralizada (risco de mudar a matriz de risco e criar ativo judicializável, como no GSF no mercado de curto prazo) e propõe plataforma única e padronização em até 60 dias, notificação prévia de 3 dias antes da inserção no cadastro de inadimplentes e 3 dias para retirada após o pagamento, e cronograma do ONS em 90 dias; aceitou incluir avaliação do resultado em cerca de dois anos após o sistema entrar em operação. Nove sustentações orais, entre elas Abrate (Thiago Aragão Soares) e Abrace (Talita Viana Cabral).",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, aprova (voto lido; julgamento suspenso por vista)", "ts": "3:42:25", "justificativa": "Plataforma única e padronização em vez de liquidação centralizada, para não deslocar a matriz de risco e não estimular a judicialização; avaliação do resultado depois de implantado o sistema.", "confianca": "alta"},
-    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "3:43:43", "justificativa": "Achou o voto tímido; defendeu liquidação centralizada nos moldes da cota de garantia física, separada do mercado de curto prazo, possivelmente pela CCEE.", "tom": "crítico construtivo", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "4:07:51", "justificativa": "Ainda tem dúvidas; quer estudar alternativa mais ousada de centralização sem conta única judicializável, em complementação ao voto do relator.", "confianca": "alta"},
-    {"diretor": "Fernando Mosna", "voto": "não votou (vista)", "ts": "4:07:51", "justificativa": "Falante inferido: defendeu a plataforma única e alertou para o risco de repetir o caso do GSF com a liquidação centralizada.", "confianca": "baixa"},
-    {"diretor": "Gentil Nogueira", "voto": "não votou (vista)", "ts": "4:07:51", "justificativa": "Possivelmente já ausente (retirou-se antes); sem fala identificada.", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "4:08:20", "justificativa": "Concede a vista à diretora Agnes.", "confianca": "alta"}
-   ]
-  }
- ],
- "retirados": [],
- "limites_da_analise": [
-  "Legenda automática: números de processo, nomes de empresas (BP, Statkraft, Flash) e de pessoas podem estar errados.",
-  "Falantes da discussão do item 1 inferidos pelo conteúdo e pelas menções (Mosna cita 'diretor Hélvio, diretora Agnes, diretor Ricardo'); atribuições de justificativa a Hélvio Guerra, Ricardo Tili e Sandoval Feitosa têm confiança baixa/média.",
-  "Item 1: foram ouvidos três 'acompanho' antes da proclamação; com 6 presentes não fecha a contagem; um diretor (provavelmente Gentil Nogueira) pode não ter falado ou já estar ausente; registrado pela proclamação de unanimidade.",
-  "Item 2: o diretor que se retirou e deixou voto não é nomeado; atribuído por inferência a Gentil Nogueira (o único presente sem fala identificada).",
-  "Item 3: a lista de presentes na hora da vista é incerta; na fala de Mosna sobre o GSF o falante é inferido.",
-  "A lista de presentes vem do cabeçalho do .md (falantes inferidos), não de chamada nominal."
- ]
 }

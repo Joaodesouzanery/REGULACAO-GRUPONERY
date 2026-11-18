@@ -1,72 +1,158 @@
 {
  "meta": {
   "video_id": "HvRF1LIxz5c",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "41ª Reunião Pública Ordinária de 2022 (Parte 1)",
   "data": "2022-11-01",
-  "formato": "presencial",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Fernando Mosna como substituto no item 9",
+  "formato": "presencial (transmitida no YouTube)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Fernando Mosna como Diretor-Geral substituto no item 9, após saída de Sandoval",
   "diretores_presentes": [
    "Sandoval Feitosa",
-   "Ricardo Tili",
    "Hélvio Guerra",
+   "Ricardo Tili",
    "Fernando Mosna",
    "Giácomo Almeida"
   ],
   "ausentes": [],
   "observacoes": [
-   "Quórum completo de cinco diretores.",
-   "Ata da 40ª RPO aprovada com abstenção de Fernando Mosna (ausente na sessão anterior).",
-   "Pauta com 60 itens; ordem: bloco, 1,2,3,4,5,6,9,15,16,17,12,14,36,27,28,29,7,8,11. Esta Parte 1 cobre bloco e itens 1 a 6 e 9; intervalo até 14h45.",
-   "Fernando Mosna impedido nos itens 4 e 5 (atuou pela AGU contra a CEB).",
-   "Sandoval Feitosa saiu durante o item 9 e deixou voto escrito."
+   "Quórum completo de cinco diretores; pauta com 60 itens, itens 18 a 60 em bloco.",
+   "Retirados de pauta: itens 10, 13, 23 e 32; destacados do bloco: 27, 28, 29 e 36; item 34 retirado do bloco pelo relator; vista do item 26 pedida por Sandoval Feitosa.",
+   "Sustentação oral prevista para os itens 12, 14, 15, 16, 17, 27, 28, 29 e 36, que não foram julgados neste vídeo.",
+   "Ordem de julgamento: bloco, 1, 2, 3, 4, 5, 6, 9, 15, 16, 17, 12, 14, 36, 27, 28, 29, 7, 8 e 11; este vídeo (Parte 1) cobre até o item 9; sessão suspensa às 3:48 com retorno marcado para 14h45 (Parte 2 em outro vídeo).",
+   "Comunicados: fim da Tomada de Subsídios 15/2022 (REN 888/2020); AP 14/2022 da agenda regulatória 2023-2024 em 04/11; visita do PURC; ANEEL Cast sobre resposta da demanda; agradecimento pelo fornecimento nas eleições de 2022.",
+   "Fernando Mosna declarou-se impedido nos itens 4 e 5 (atuou pela AGU contra a CEB)."
   ]
  },
  "itens": [
   {
-   "id": "bloco",
-   "ts": "0:07:57",
+   "id": "ata",
+   "ts": "0:05:02",
    "processo": "",
-   "interessado": "diversos",
-   "assunto": "Itens 18 a 60 deliberados em bloco (votos disponibilizados previamente); retirados de pauta itens 10, 13, 23 e 32; destacados 27, 28, 29 e 36; item 34 retirado do bloco e pedido de vista do item 26",
+   "interessado": "Diretoria da ANEEL",
+   "assunto": "Aprovação da ata da 40ª Reunião Pública Ordinária de 2022 (25/10/2022)",
    "tema": [
-    "deliberação em bloco"
+    "institucional"
    ],
-   "relator": "diversos",
-   "resultado": "aprovados por unanimidade os itens remanescentes do bloco",
-   "resumo_voto": "Bloco aprovado; um diretor retirou o item 34 e outro pediu vista do item 26 (nomes não claros na legenda).",
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovada; abstenção de Fernando Mosna (ausente na sessão anterior)",
+   "resumo_voto": "Ata aprovada por concordância tácita; Fernando Mosna se absteve por não ter participado da reunião anterior.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:08:20",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:08:20",
+     "voto": "aprova (preside)",
+     "ts": "0:05:20",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:08:20",
+     "voto": "aprova (concordância tácita)",
+     "ts": "0:05:20",
      "confianca": "media"
     },
     {
-     "diretor": "Fernando Mosna",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:08:20",
+     "diretor": "Ricardo Tili",
+     "voto": "aprova (concordância tácita)",
+     "ts": "0:05:20",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:08:20",
+     "voto": "aprova (concordância tácita)",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "abstenção",
+     "ts": "0:05:25",
+     "justificativa": "não participou da sessão anterior",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "bloco (itens 18 a 60)",
+   "ts": "0:07:57",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 18 a 60 (votos e atos divulgados previamente), excluídos os retirados (23, 32), os destacados (27, 28, 29, 36), o item 34 retirado do bloco pelo relator e o item 26 com pedido de vista",
+   "tema": [
+    "diversos (bloco)"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (itens remanescentes)",
+   "resumo_voto": "Diretores aprovam os itens remanescentes do bloco; um diretor (não identificado, dirigindo-se ao diretor Sandoval) retira o item 34; Sandoval pede vista do item 26 e proclama a aprovação por unanimidade dos presentes.",
+   "votos": [
+    {
+     "diretor": "não identificado",
+     "voto": "aprova os itens do bloco, ressalvados os remanescentes",
+     "ts": "0:08:03",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:08:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "retira o item 34 (de sua relatoria) e aprova os demais itens do bloco",
+     "ts": "0:08:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista do item 26 e aprova os itens remanescentes do bloco; proclama",
+     "ts": "0:08:26",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "bloco-26",
+   "ts": "0:08:26",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Item 26 do bloco (assunto não enunciado na sessão)",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa; item retirado do bloco e pendente",
+   "resumo_voto": "Sandoval Feitosa solicita vista do item 26 ao votar o bloco; demais diretores não votaram o mérito deste item.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "pede vista",
+     "ts": "0:08:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "0:08:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (vista)",
+     "ts": "0:08:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "0:08:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "não votou (vista)",
+     "ts": "0:08:26",
      "confianca": "media"
     }
    ]
@@ -75,76 +161,81 @@
    "id": "1",
    "ts": "0:08:51",
    "processo": "48500.001978/2022-06",
-   "interessado": "Amazonas Energia S.A.",
-   "assunto": "Resultado da Consulta Pública 37/2022 sobre pedido de revisão tarifária extraordinária (RTE) da Amazonas Energia por alteração da legislação tributária do Amazonas (LC estadual 217/2021, substituição tributária do ICMS na geração)",
+   "interessado": "Amazonas Energia S.A. (distribuidora)",
+   "assunto": "Resultado da Consulta Pública 37/2022: pedido de revisão tarifária extraordinária (RTE) da Amazonas Energia em razão da substituição tributária do ICMS na geração (Lei Complementar estadual 217/2021, Amazonas)",
    "tema": [
-    "tarifas e revisão tarifária",
-    "RTE",
-    "ICMS"
+    "tarifas e revisão tarifária (distribuidoras, RTE)",
+    "ICMS / tributação",
+    "consulta pública"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade: RTE indeferida; previsão de cobertura tarifária no RTA 2022; apurações pela SFF e SFE; passivo de cerca de R$ 377,4 milhões reconhecido, a aplicar após fiscalização",
-   "resumo_voto": "Inequações do PRORET não descumpridas, sem desequilíbrio; ICMS na geração passa a ser custo de compra de energia (capital -4,9%, interior +5,9%); passivo só após apuração de cobrança indevida ao consumidor. Apresentação técnica de Marcelo (SGT). Hélvio Guerra e Sandoval criticaram o efeito regressivo da lei estadual.",
+   "resultado": "aprovado por unanimidade: RTE indeferida; cobertura tarifária reconhecida no reajuste 2022; apurações SFF/SFE; passivo de cerca de R$ 377,4 milhões só após fiscalização",
+   "resumo_voto": "Apresentação técnica da SGT (Marcelo). Inequações do PRORET não descumpridas, logo sem desequilíbrio que justifique RTE; custo do ICMS na geração passa a ser tratado como compra de energia no reajuste 2022 (NT 197/2022 SGT), com correção por CVA; SFF apura ICMS do período do Decreto 40.628/2019 até a lei e SFE apura ICMS repassado irregularmente ao consumidor; passivo jan-ago/2022 (cerca de R$ 377,4 milhões) aplicado só após a fiscalização da SFE. Efeito estimado: -4,9% na capital e +5,9% no interior (isento de ICMS).",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, aprova",
-     "ts": "0:33:00",
-     "justificativa": "inequações do Proret não descumpridas; diferença existe mas não gera desequilíbrio; acerto no reajuste ordinário",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "0:38:05",
+     "voto": "relator, indefere a RTE e reconhece cobertura tarifária no reajuste",
+     "ts": "0:29:21",
+     "justificativa": "pleito tem fundamento, mas os valores apurados não configuram desequilíbrio da concessão; tratar no reajuste ordinário; distribuidora cobrou ICMS do consumidor de forma indevida, a ser compensado",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:38:05",
-     "justificativa": "comentou que consumidor do interior terá aumento de 5,9% por lei estadual; «mas é o cumprimento da lei»",
+     "justificativa": "fez observação: lei estadual reduz 4,9% na capital e aumenta 5,9% no interior, de população mais carente; 'é o cumprimento da lei'",
+     "tom": "preocupação",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:38:05",
+     "ts": "0:38:07",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:38:05",
+     "ts": "0:38:09",
      "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:38:12",
+     "justificativa": "lembrou que negou a RTE em 2020 sob o decreto inconstitucional (ADIs 6144 e 6624); agora há lei estadual e a ANEEL só aplica; a lei gera injustiça tributária para consumidores de baixa renda",
+     "tom": "crítico à legislação estadual",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:40:26",
+   "ts": "0:40:21",
    "processo": "48500.004894/2021-35",
-   "interessado": "Amazonas Energia S.A.",
-   "assunto": "Reajuste tarifário anual 2022 da Amazonas Energia (efeito médio 4,38%; AT 5,71%, BT 3,74%), aplicação condicionada à adimplência intrassetorial",
+   "interessado": "Amazonas Energia S.A. (distribuidora)",
+   "assunto": "Reajuste tarifário anual 2022 da Amazonas Energia, vigência a partir de 01/11/2022",
    "tema": [
-    "tarifas e revisão tarifária",
-    "reajuste tarifário"
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "ICMS / tributação"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Homologa RTA; tarifas só praticadas quando comprovada adimplência (despacho da SGT).",
+   "resultado": "aprovado por unanimidade: efeito médio 4,38% (AT 5,71%; BT 3,74%), aplicação condicionada à adimplência intrassetorial",
+   "resumo_voto": "Homologa RTA com efeito médio de 4,38%; ICMS da substituição tributária entra como compra de energia (+4,62%); CVA energia negativa (-8,56%) compensa; distribuidora inadimplente: tarifas só aplicadas após comprovação de adimplência, autorizadas por despacho da SGT.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, aprova",
-     "ts": "0:53:00",
-     "justificativa": "CVA de energia negativa equilibrou o efeito; distribuidora inadimplente, aplicação suspensa",
+     "voto": "relator, homologa o reajuste com aplicação condicionada à adimplência",
+     "ts": "0:52:54",
+     "justificativa": "distribuidora inadimplente com obrigações intrassetoriais; efeito suspenso até apresentação de certidão negativa; parâmetros da LC 194 já aplicados na projeção do ICMS",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "0:57:15",
+     "voto": "acompanha o relator; proclama",
+     "ts": "0:57:24",
+     "justificativa": "comentou que a redução da base do ICMS (LC 194), como em MG e DF, reduziria até 7,8% a tarifa no Amazonas",
      "confianca": "alta"
     },
     {
@@ -156,50 +247,45 @@
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:57:15",
+     "ts": "0:57:18",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:57:15",
+     "ts": "0:57:20",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "0:58:42",
+   "ts": "0:58:37",
    "processo": "48500.004963/2021-19",
-   "interessado": "Roraima Energia S.A.",
-   "assunto": "Reajuste tarifário anual 2022 da Roraima Energia (efeito médio 27,10%; AT 26,88%, BT 27,15%)",
+   "interessado": "Roraima Energia S.A. (distribuidora)",
+   "assunto": "Reajuste tarifário anual 2022 da Roraima Energia, vigência a partir de 01/11/2022",
    "tema": [
-    "tarifas e revisão tarifária",
-    "reajuste tarifário",
-    "sistemas isolados"
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "sistemas isolados / CCC",
+    "CDE e encargos setoriais"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Alta pelo ACR médio (crise hídrica 2021) e retirada de financeiros; Sandoval observou que a tarifa de Roraima é das menores do país.",
+   "resultado": "aprovado por unanimidade: efeito médio 27,10% (AT 26,88%; BT 27,15%)",
+   "resumo_voto": "Apresentação da SGT (Francisco Faé). Alta puxada pela compra de energia (+12,56%) via ACR médio, que subiu com a crise hídrica de 2021, e pela retirada de financeiros anteriores; mantida a reversão à modicidade da penalidade contratual do CER 2/2010 (Despacho 3.314/2021), apesar do pedido de postergação da distribuidora; homologa cerca de R$ 20,6 milhões a ressarcir pela CCC em 2023 e o valor da geração própria.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, aprova",
-     "ts": "1:06:00",
-     "justificativa": "aumento decorre do ACR médio e retirada de componentes financeiros",
+     "voto": "relator, homologa o reajuste",
+     "ts": "1:06:04",
+     "justificativa": "efeito decorre do ACR médio (sistema isolado) e da retirada de componentes financeiros",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "1:09:46",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:09:52",
+     "justificativa": "esclareceu que a tarifa de Roraima está entre as menores do país; ACR médio passou de 274 para 348 R$/MWh pela crise hídrica; redução da base do ICMS reduziria 5,5%",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:09:46",
-     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -208,92 +294,96 @@
      "confianca": "media"
     },
     {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:09:47",
+     "confianca": "media"
+    },
+    {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:09:46",
+     "ts": "1:09:49",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "1:10:41",
+   "ts": "1:10:33",
    "processo": "48500.002755/2017-91",
-   "interessado": "CEB Distribuição (atual Neoenergia Distribuição Brasília)",
-   "assunto": "Pedido de reconsideração contra a REH 2.316/2017 (RTA 2017): baixa contábil do passivo regulatório baixa renda e reversão de acordos bilaterais",
+   "interessado": "CEB Distribuição S.A. (atual Neoenergia Distribuição Brasília)",
+   "assunto": "Pedido de reconsideração contra a REH 2.316/2017 (reajuste tarifário 2017): baixa contábil do passivo regulatório baixa renda (2002-2008) e reversão de efeitos de acordos bilaterais com geradores",
    "tema": [
     "recursos administrativos",
-    "tarifas e revisão tarifária"
+    "tarifas e revisão tarifária (distribuidoras)",
+    "tarifa social / baixa renda"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade dos votantes (Fernando Mosna impedido): conhecer e negar provimento; perda de objeto quanto aos acordos bilaterais",
-   "resumo_voto": "Prazo só corre de dez/2013, quando a CEB informou o passivo; liminar caiu com a sentença; três parcelas restantes devem ser revertidas.",
+   "resultado": "aprovado por unanimidade dos votantes: conhecido; negado provimento quanto ao passivo baixa renda; perda de objeto quanto aos acordos bilaterais; Fernando Mosna impedido",
+   "resumo_voto": "Prazo decadencial só corre de dez/2013, quando a CEB informou o passivo (PF, Parecer 320/2022); liminar judicial que suspendia as parcelas caiu com a sentença; restam 3 parcelas a reverter à modicidade no RTA 2022; acordos bilaterais já tratados no processo de 2018. Apresentação conjunta (itens 4 e 5) da SGT por Francisco Faé.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, aprova",
+     "voto": "relator, conhece e nega provimento; perda de objeto parcial",
      "ts": "1:27:21",
-     "justificativa": "sem decadência: prazo conta da informação à ANEEL em 2013; acordos bilaterais tratados em 2018",
+     "justificativa": "obrigação da distribuidora era informar o passivo; não há impedimento judicial; reverter as três parcelas restantes ao consumidor",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "1:34:15",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:34:15",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:34:15",
-     "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "suspeito/impedido",
-     "justificativa": "declarou impedimento por ter atuado no processo pela AGU, representando a ANEEL contra a CEB",
+     "ts": "1:34:09",
+     "justificativa": "atuou no processo pela AGU representando a ANEEL contra a CEB",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:34:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:34:24",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "1:35:34",
+   "ts": "1:35:24",
    "processo": "48500.004722/2018-66",
-   "interessado": "CEB Distribuição (atual Neoenergia Distribuição Brasília)",
-   "assunto": "Pedido de reconsideração contra a REH 2.471/2018 (RTA 2018): passivo baixa renda e custos de transmissão de Brasília Leste",
+   "interessado": "CEB Distribuição S.A. (atual Neoenergia Distribuição Brasília); transmissora Vale do São Bartolomeu citada",
+   "assunto": "Pedido de reconsideração contra a REH 2.471/2018 (reajuste tarifário 2018): passivo baixa renda e custos de uso da transmissão (SE Brasília Leste)",
    "tema": [
     "recursos administrativos",
-    "tarifas e revisão tarifária"
+    "tarifas e revisão tarifária (distribuidoras)",
+    "transmissão"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade dos votantes (Fernando Mosna impedido): conhecer e negar provimento",
-   "resumo_voto": "Mesmos fundamentos do item anterior; encargos de transmissão devidos por atraso de obras da distribuidora.",
+   "resultado": "aprovado por unanimidade dos votantes: conhecido e negado provimento; Fernando Mosna impedido",
+   "resumo_voto": "Mesmo tema do passivo baixa renda; quanto à transmissão, instalação ficou pronta mas a conexão atrasou por obra da distribuidora, que deve arcar com a receita no período; consumidor não paga por serviço não disponível. Processo veio a Giácomo após impedimento de Fernando Mosna.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, aprova",
-     "ts": "1:39:30",
-     "justificativa": "mesmos fundamentos; atraso nas obras é responsabilidade da distribuidora",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:40:18",
+     "justificativa": "atraso nas obras é responsabilidade da distribuidora; custo não repassável ao consumidor",
      "confianca": "alta"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "1:40:40",
+     "diretor": "Fernando Mosna",
+     "voto": "suspeito/impedido",
+     "ts": "1:40:36",
+     "justificativa": "mesmas razões do item anterior (atuação pela AGU)",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:40:40",
-     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -302,40 +392,53 @@
      "confianca": "media"
     },
     {
-     "diretor": "Fernando Mosna",
-     "voto": "suspeito/impedido",
-     "justificativa": "impedimento pelas mesmas razões do item anterior",
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:40:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:40:47",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "6",
-   "ts": "1:41:37",
+   "ts": "1:41:32",
    "processo": "48500.004961/2021-11",
-   "interessado": "Neoenergia Distribuição Brasília",
-   "assunto": "Reajuste tarifário anual 2022 da Neoenergia Brasília (efeito médio 22,55%; AT 24,94%, BT 21,58%), após postergação de duas semanas",
+   "interessado": "Neoenergia Distribuição Brasília (ex-CEB); GDF citado",
+   "assunto": "Reajuste tarifário anual 2022 da Neoenergia Distribuição Brasília, vigência a partir de 03/11/2022",
    "tema": [
-    "tarifas e revisão tarifária",
-    "reajuste tarifário",
-    "ICMS"
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "ICMS / tributação",
+    "CDE e encargos setoriais"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Com passivo baixa renda e decreto do GDF reduzindo base do ICMS, efeito prático na conta de cerca de 11,17%; diferenças da prorrogação corrigidas pela Selic em 2023.",
+   "resultado": "aprovado por unanimidade: efeito médio 22,55% (AT 24,94%; BT 21,58%)",
+   "resumo_voto": "Efeito puxado por CDE uso (+5,41%) e contratos; mitigações (créditos PIS/Cofins cerca de -5%, passivo baixa renda -3,14%); postergação de duas semanas permitiu capturar o Decreto distrital 43.893/2022 de redução da base do ICMS, com efeito na conta estimado pelo relator em cerca de 11,17%; diferenças da prorrogação corrigidas pela Selic em 2023.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, aprova",
-     "ts": "1:52:00",
-     "justificativa": "postergação permitiu capturar redução do ICMS do GDF",
+     "voto": "relator, homologa o reajuste",
+     "ts": "1:52:59",
+     "justificativa": "postergação permitiu capturar a redução do ICMS do GDF; na prática a conta subirá cerca de 11,17%",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (vota por último e proclama)",
-     "ts": "1:57:00",
+     "voto": "acompanha o relator; proclama",
+     "ts": "1:57:05",
+     "justificativa": "agradeceu à empresa e ao GDF; redução da base do ICMS gera cerca de 10% de redução na conta",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:56:58",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
@@ -344,83 +447,100 @@
      "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:57:00",
-     "confianca": "media"
-    },
-    {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:57:00",
+     "ts": "1:57:02",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "9",
-   "ts": "1:57:48",
+   "ts": "1:57:45",
    "processo": "48500.004924/2010-51",
-   "interessado": "SRD/SGT/SPE; associações de GD e consumidores",
-   "assunto": "Abertura de consulta pública (46 dias, 4/11 a 19/12/2022, audiência presencial em 8/12/2022) para regulamentar a Lei 14.300/2022 (marco legal da MMGD) e art. 1º da Lei 14.120/2021",
+   "interessado": "agentes de MMGD, distribuidoras e consumidores (ABSOLAR, INEL, ABGD, ABRADEE, ABRACE, CNI, CNA, IDEC, Senacon e outros ouvidos pelo relator)",
+   "assunto": "Abertura de consulta pública para adequar a regulação da micro e minigeração distribuída à Lei 14.300/2022 e ao art. 1º da Lei 14.120/2021 (revogação da REN 482/2012, consolidação na REN 1.000)",
    "tema": [
     "geração distribuída (MMGD)",
-    "regulação normativa",
-    "consulta pública"
+    "regulação normativa (consulta/audiência pública, AIR)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade (voto do Diretor-Geral deixado por escrito)",
-   "resumo_voto": "Lista dispositivos autoaplicáveis da lei; garantia de fiel cumprimento em dinheiro; TUSD-G sobre excedente injetado; troca de medidores acima de 30 kW; dispensa de AIR. Apresentação de Davi Rabelo (SRD). Fernando Mosna e Ricardo Tili pediram contribuições sobre outras modalidades de garantia.",
+   "resultado": "aprovado por unanimidade: CP de 46 dias (04/11 a 19/12/2022) com audiência pública presencial em 08/12/2022, dispensada a AIR",
+   "resumo_voto": "Apresentação da SRD (Davi Rabelo). Lista dispositivos autoaplicáveis da lei; garantia de fiel cumprimento (2,5% e 5% do investimento acima de 500 kW) por depósito em dinheiro, com abertura para outras modalidades na CP; vedação de transferência de créditos entre titulares; cobrança da TUSD-G sobre o excedente injetado (inclusive microgeração, conforme parecer da PF sobre o art. 18), com demanda estimada até 30 kW e troca de medidores acima disso; recontabilização de créditos do custo de disponibilidade; rastreabilidade de módulos fotovoltaicos. Sandoval saiu antes da votação e deixou voto escrito; Fernando Mosna presidiu como Diretor-Geral substituto.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "3:30:30",
-     "justificativa": "aplicar a lei como está posta; dispositivos autoaplicáveis para segurança jurídica; consulta aberta a contribuições sobre garantia e custo de transporte",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "3:30:23",
+     "justificativa": "urgência e consenso pela regulamentação da Lei 14.300; a ANEEL não pode aplicar o texto de acordo de 11/08/2021 onde a lei diverge; benefícios da GD cabem ao CNPE",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (presidia como DG substituto)",
-     "ts": "3:45:22",
-     "justificativa": "apoiou lista de autoaplicáveis; preocupação com garantia de fiel cumprimento à vista (ex.: R$ 95 mil a R$ 570 mil) e pediu contribuições sobre outras modalidades",
-     "confianca": "media"
+     "voto": "acompanha o relator; proclama (Diretor-Geral substituto)",
+     "ts": "3:45:25",
+     "justificativa": "elogiou a lista de itens autoaplicáveis (segurança jurídica); pediu contribuições sobre o impacto da garantia de fiel cumprimento só em dinheiro no financiamento de minigeração",
+     "tom": "propositivo",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "3:45:22",
-     "justificativa": "lei abre garantias além de caução; restringir não é bom; auditório pequeno para audiência",
+     "justificativa": "também se preocupa com a garantia restrita a caução; sugeriu local maior para a audiência pública",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator",
-     "ts": "3:45:22",
-     "justificativa": "elogiou trabalho; etapa final da regulamentação da Lei 14.300",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:45:23",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "voto deixado (lido por Fernando Mosna)",
-     "ts": "3:45:29",
-     "justificativa": "concorda com a proposta do relator de instaurar a consulta pública",
+     "voto": "voto deixado (lido por servidor a pedido de Fernando Mosna): acompanha o relator",
+     "ts": "3:45:40",
+     "justificativa": "saiu por motivo urgente; com a CP inicia-se etapa importante da revisão das regras de MMGD",
      "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
-  "itens 10, 13, 23 e 32 (retirados de pauta)",
-  "item 34 (retirado do bloco)"
+  {
+   "item": "10",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:06:35"
+  },
+  {
+   "item": "13",
+   "motivo": "retirado de pauta",
+   "ts": "0:06:40"
+  },
+  {
+   "item": "23 (bloco)",
+   "motivo": "retirado de pauta",
+   "ts": "0:06:35"
+  },
+  {
+   "item": "32 (bloco)",
+   "motivo": "retirado de pauta",
+   "ts": "0:06:40"
+  },
+  {
+   "item": "34 (bloco)",
+   "relator": "não identificado",
+   "motivo": "retirado do bloco pelo relator durante a votação",
+   "ts": "0:08:13"
+  }
  ],
  "limites_da_analise": [
-  "Giácomo (Francisco Bacci) Almeida, chamado de «Jácomo» na legenda, não consta da lista de diretores do config; registrado como dito.",
-  "Atribuição individual dos «acompanho» sem nome é inferida pela proclamação (confiança media).",
-  "Quem retirou o item 34 e quem pediu vista do item 26 do bloco não é claro na legenda.",
-  "Item 4: proclamação diz «por unanimidade» apesar do impedimento declarado de Fernando Mosna; registrado como impedido.",
-  "Ludimila Lima aparece no cabeçalho de falantes inferidos, mas na sessão a palavra «Ludmila» refere-se a assessora; não é diretora presente.",
-  "Itens 7, 8, 11, 12, 14 a 17, 27 a 29 e 36 ficaram para a Parte 2 (outro vídeo).",
-  "Números e valores da legenda automática podem conter erros."
+  "O diretor chamado de 'Jácomo' / 'Francisco Bassi Almeida' na legenda foi registrado como Giácomo Almeida; o nome não está na lista do config da ANEEL.",
+  "O .md tem um único marcador de tempo; ts obtidos por busca de frases no JSON da legenda; ts de quem só acompanha são aproximados.",
+  "Falas de votação dos não relatores ('acompanho', 'voto com o relator') não têm nome; atribuição pela proclamação de unanimidade (confiança media).",
+  "No bloco, as três falas antes de Sandoval não têm nome; não foi possível identificar quem retirou o item 34; assuntos dos itens 26 e 34 não foram enunciados.",
+  "No item 9, o comentário de 3:43 (elogio à equipe e menção a três CPs da Lei 14.300) parece ser de Giácomo Almeida, mas sem confirmação; o voto escrito de Sandoval foi lido por pessoa não identificada.",
+  "Números de processo, valores e percentuais vêm da legenda automática e podem conter erros (ex.: passivo de R$ 377.445.347; 20 milhões a ressarcir pela CCC em Roraima).",
+  "Itens 7, 8, 11, 12, 14, 15, 16, 17, 27, 28, 29 e 36 foram julgados na Parte 2 (outro vídeo), não analisada aqui."
  ]
 }

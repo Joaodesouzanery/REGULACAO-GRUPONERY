@@ -1,13 +1,13 @@
 {
  "meta": {
   "video_id": "Sqo57UI6FwE",
-  "fonte": "legenda automática do YouTube; ts de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "30",
   "data": "2022-08-16",
-  "formato": "presencial",
+  "formato": "presencial (plenária)",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
@@ -18,380 +18,381 @@
   ],
   "ausentes": [],
   "observacoes": [
-   "Primeira reunião de Sandoval Feitosa como DG e de Fernando Mosna como diretor.",
-   "Giácomo Almeida em exercício até a chegada de Agnes da Costa.",
-   "Itens 4 e 5 retirados de pauta; destaques 7, 11 e 23 com sustentação oral.",
-   "No encerramento Mosna propôs regras sobre decisões monocráticas e prazo de vista; Hélvio propôs vedar abstenções; Ricardo, critério de desempate."
+   "30ª Reunião Pública Ordinária de 2022; primeira de Sandoval Feitosa como Diretor-Geral e de Fernando Mosna como diretor (posses em 15/8/2022). Agnes da Costa ainda não empossada; Giácomo Almeida ainda em exercício.",
+   "Pauta com 38 itens; itens 6 a 38 em bloco, com destaques 7, 11 e 23 (sustentação oral); itens 4 e 5 retirados de pauta.",
+   "Item 1 (edital A-5) suspenso às 1:36 para redação de cláusula e retomado às 2:31.",
+   "Encerramento (3:53–4:00): Fernando Mosna propôs revisar o Regimento para vedar decisões monocráticas e fixar prazo peremptório para pedidos de vista; Hélvio Guerra propôs vedar abstenções (exigir cinco votos); Ricardo Tili defendeu critério de desempate; Sandoval anunciou grupo para revisar o Regimento."
   ]
  },
  "itens": [
   {
    "id": "bloco",
    "ts": "0:17:46",
-   "processo": "itens 6 a 38 em bloco (exceto destacados 7, 11 e 23)",
+   "processo": "itens 6 a 38 da pauta, exceto os destacados 7, 11 e 23",
    "interessado": "diversos",
-   "assunto": "Aprovação dos itens remanescentes do bloco da 30ª RPO",
+   "assunto": "Votação em bloco dos itens 6 a 38 da pauta da 30ª RPO (votos disponibilizados previamente na internet); conteúdo individual dos itens não lido na sessão",
    "tema": [
-    "bloco"
+    "votação em bloco"
    ],
    "relator": "diversos",
-   "resultado": "aprovados por unanimidade; Giácomo Almeida suspeito no item 17; Ricardo Tili impedido no item 14 (Eletronorte), registrado depois",
-   "resumo_voto": "Itens do bloco aprovados conforme votos disponibilizados previamente.",
+   "resultado": "aprovados por unanimidade; item 17 sem voto de Giácomo Almeida (suspeição); item 14 sem voto de Ricardo Tili (impedimento declarado depois, às 1:36:40)",
+   "resumo_voto": "Diretores aprovam os itens do bloco; Giácomo Almeida argui suspeição no item 17 (norma 273, segundo a legenda); Ricardo Tili registra depois impedimento no item 14 (processo da Eletronorte). O Diretor-Geral proclama aprovação por unanimidade.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco",
-     "ts": "0:17:50",
-     "justificativa": "Aprova os itens remanescentes do bloco.",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:18:05",
+     "justificativa": "fala de aprovação sem nome; atribuição pela ordem usual e pela proclamação",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "aprova o bloco; suspeito no item 17",
-     "ts": "0:18:10",
-     "justificativa": "Arguiu suspeição no item 17 conforme a norma 273.",
-     "confianca": "media"
+     "voto": "aprova os itens do bloco, exceto o item 17 (suspeito/impedido no item 17)",
+     "ts": "0:18:11",
+     "justificativa": "argui suspeição no item 17",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "aprova o bloco; impedido no item 14",
-     "ts": "1:36:40",
-     "justificativa": "Declarou-se impedido no item 14 por ser parte em processo da Eletronorte.",
+     "voto": "aprova os itens do bloco, exceto o item 14 (suspeito/impedido no item 14)",
+     "ts": "0:18:21",
+     "justificativa": "impedido no item 14 por ser parte em processo da Eletronorte (declarado às 1:36:40)",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "aprova o bloco",
-     "ts": "0:18:20",
-     "justificativa": "Aprova os itens do bloco.",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:18:21",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "aprova o bloco",
-     "ts": "0:18:25",
-     "justificativa": "Proclamou aprovação por unanimidade, ressalvado o item 17.",
+     "voto": "aprova e proclama",
+     "ts": "0:18:26",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "1",
-   "ts": "0:19:00",
-   "processo": "48500.003943/2022-01 (número incerto)",
-   "interessado": "SEL/SRM/SGT; agentes de geração (EPE cadastrou 83 GW)",
-   "assunto": "Edital do Leilão nº 4/2022 (A-5 de 2022), energia nova hidro, eólica, solar, biomassa, RSU, carvão nacional e biogás, suprimento a partir de 1º/1/2027; A-6 (Leilão 5/2022) cancelado pelo MME; TUSDg de referência",
+   "ts": "0:18:53",
+   "processo": "48500.003943/2022-01",
+   "interessado": "ANEEL / Secretaria Executiva de Leilões (SEL); potenciais participantes do leilão",
+   "assunto": "Aprovação do edital do Leilão nº 4/2022 (Leilão de Energia Nova A-5 de 2022), fontes hidrelétrica, eólica, solar fotovoltaica, biomassa, resíduos sólidos urbanos, carvão mineral nacional e biogás, suprimento a partir de 1º/1/2027, após a Consulta Pública 23/2022; o A-6 (Leilão 5/2022) foi cancelado pelo MME",
    "tema": [
-    "leilões",
+    "leilões (geração)",
     "outorgas de geração",
-    "tarifas"
+    "tarifas (TUST/TUSD, desconto no fio)",
+    "CDE e encargos setoriais"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade, com inclusão de cláusula 14.12.2 (sugestão de Fernando Mosna): divergência entre projeto do pedido de outorga e o cadastrado na EPE, incluindo ponto de conexão, implica perda do desconto na TUST/TUSD",
-   "resumo_voto": "Aprova edital do A-5; deliberação suspensa ~1:36 para redação da cláusula e retomada às 2:31.",
+   "resultado": "aprovado por unanimidade dos presentes, com inclusão de cláusula sugerida por Fernando Mosna",
+   "resumo_voto": "Apresentação da SEL (André Patrus): garantias passam a ter a ANEEL como beneficiária; margem de escoamento como critério; reserva para hidrelétricas até 50 MW (Lei 14.182); sem desconto para quem pediu outorga após 2/3/2022; consórcios intermunicipais não podem participar. Fernando Mosna propôs explicitar no edital que divergência de ponto de conexão implica perda do desconto; após debate, Hélvio Guerra incorporou a subcláusula 14.12.2 (divergência entre o empreendimento da outorga e o cadastrado na EPE, inclusive ponto de conexão e ICG, implica perda do direito à redução tarifária). Deliberação suspensa às 1:36 e retomada às 2:31.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova (incorporou cláusula sugerida por Mosna)",
-     "ts": "2:32:18",
-     "justificativa": "Inicialmente entendia desnecessária cláusula expressa (risco de impugnação, matéria já na lei); acolheu explicitar perda do desconto em mudança do pedido de outorga para dar mais segurança aos licitantes.",
+     "voto": "relator, aprova (incorpora cláusula explícita sugerida por Fernando Mosna)",
+     "ts": "0:53:15",
+     "justificativa": "edital consolidado após CP 23; inicialmente via cláusula como desnecessária e com risco de impugnação, mas aceitou explicitar que mudança no pedido original não terá desconto, por trazer mais segurança aos licitantes e à ANEEL",
+     "tom": "dialogante",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (após inclusão da cláusula que sugeriu)",
      "ts": "2:36:22",
-     "justificativa": "Propôs cláusula expressa no edital sobre perda do desconto por mudança de ponto de conexão (preocupação com aumento de subsídios); agradeceu a inclusão.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "2:36:27",
-     "justificativa": "Achava a cláusula desnecessária, regra geral já na lei; destacou fim da TUST estabilizada, concentração solar/eólica e cancelamento do A-6 como sinal de migração para o mercado livre.",
+     "justificativa": "defendeu previsão expressa no edital para evitar aumento da conta de subsídios; agradeceu ao relator pela sensibilidade",
      "confianca": "media"
     },
     {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:25",
+     "justificativa": "no debate disse que a regra é geral e a cláusula seria desnecessária, embora não impeditiva; documentação incompleta também seria impeditiva do desconto",
+     "confianca": "baixa"
+    },
+    {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator",
-     "ts": "2:36:28",
-     "justificativa": "Sem fala de voto distinta identificada.",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:36:27",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama",
      "ts": "2:36:30",
-     "justificativa": "Proclamou unanimidade; destacou garantias com a ANEEL como beneficiária (multas para a CDE).",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "1:37:10",
-   "processo": "48500.001671/2021",
-   "interessado": "ENBPar; distribuidoras elegíveis (11)",
-   "assunto": "Alocação do saldo positivo da conta de comercialização de Itaipu de 2021 (~R$ 947 mi) para modicidade tarifária via diferimento (Decreto 11.027/2022), limite de 2,54 p.p. por empresa, recomposição a partir de 2024 com Selic",
+   "ts": "1:37:00",
+   "processo": "48500.001671/2021-xx (número incompleto na legenda)",
+   "interessado": "distribuidoras elegíveis (11 concessionárias cotistas de Itaipu); ENBPar",
+   "assunto": "Alocação e repasse do saldo positivo da conta de comercialização de Itaipu de 2021 (cerca de R$ 947 milhões) para modicidade tarifária, nos termos do Decreto 11.027/2022",
    "tema": [
-    "tarifas",
+    "tarifas e revisão tarifária",
+    "Itaipu",
     "CDE e encargos setoriais"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Transferência em parcela única em até 10 dias úteis ou na data de aniversário; recomposição em 1 ou excepcionalmente 2 ciclos.",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Diferimento tarifário (componente negativo) para distribuidoras com efeito médio esperado acima de 10 pontos percentuais, limite individual de 2,54 p.p. somando 2021 e 2022; Neoenergia Brasília excluída por já ter superado o limite; transferência em parcela única até 10 dias úteis após a REH (ou na data de aniversário); recomposição a partir dos processos tarifários de 2024, remunerada pela Selic, podendo ocorrer em dois ciclos. Apresentação da SGT (Francisco).",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
      "voto": "relator, aprova",
-     "ts": "2:01:00",
-     "justificativa": "Uso eficiente do recurso escasso para as distribuidoras com maior impacto tarifário.",
+     "ts": "1:55:27",
+     "justificativa": "uso eficiente de recurso escasso, concentrando nos processos tarifários mais pressionados em vez de diluir centavos para todos os consumidores",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "2:05:20",
-     "justificativa": "Questionou neutralidade e critério de rateio vs. cotas de Itaipu; esclarecido pela SGT.",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:22",
+     "justificativa": "perguntas sobre exclusão da Neoenergia Brasília, neutralidade e critério de rateio (atribuição das perguntas incerta)",
      "confianca": "media"
     },
     {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "2:05:22",
-     "justificativa": "acompanha o relator (pela proclamação)",
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:25",
      "confianca": "baixa"
     },
     {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "2:05:24",
-     "justificativa": "Questionou o caso da Neoenergia Brasília (excluída por já ter superado o limite).",
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:05:25",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "2:05:26",
-     "justificativa": "Proclamou unanimidade.",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:05:25",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "2:07:55",
-   "processo": "48500.004897/2021",
-   "interessado": "Celesc Distribuição S.A. (SC)",
-   "assunto": "Reajuste tarifário anual 2022 da Celesc, vigência 22/8/2022: efeito médio 11,32% (AT 16,71%, BT 8,17%)",
+   "ts": "2:07:49",
+   "processo": "48500.004897/2021-xx (número incompleto na legenda)",
+   "interessado": "Celesc Distribuição S.A. (Santa Catarina)",
+   "assunto": "Reajuste tarifário anual 2022 da Celesc Distribuição, a vigorar a partir de 22/8/2022",
    "tema": [
-    "tarifas e revisão tarifária"
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Sem mitigação (créditos PIS/Cofins, CDE Eletrobras, Itaipu) o reajuste passaria de 25%; com a LC 194 (ICMS) residencial percebe redução de 4,22%.",
+   "resultado": "aprovado por unanimidade; efeito médio de 11,32% (alta tensão 16,71%, baixa tensão 8,17%)",
+   "resumo_voto": "Efeito médio 11,32%; sem as medidas de mitigação (créditos de PIS/Cofins pela Lei 14.385, CDE Eletrobras) o reajuste passaria de 25%; com a redução do ICMS (LC 194) o residencial perceberia queda de cerca de 4,22%. Relator corrigiu na leitura o percentual da baixa tensão para 8,17%.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, aprova",
-     "ts": "2:22:00",
-     "justificativa": "Destacou medidas de mitigação construídas por ANEEL, Congresso e governo; residencial abaixo da inflação.",
+     "ts": "2:20:42",
+     "justificativa": "medidas de mitigação construídas pela ANEEL, Congresso e governo reduziram um reajuste que passaria de 25%; residencial abaixo da inflação",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "2:30:20",
-     "justificativa": "acompanha o relator (pela proclamação)",
-     "confianca": "baixa"
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:30:17",
+     "justificativa": "comentou que a ANEEL não tem competência sobre o ICMS, mas a LC 194 reduz a tarifa final",
+     "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "2:30:22",
-     "justificativa": "acompanha o relator (pela proclamação)",
      "confianca": "baixa"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "2:30:25",
-     "justificativa": "acompanha o relator (pela proclamação)",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "2:30:28",
-     "justificativa": "Comentou repasse integral do PIS/Cofins em 2022 como desafio para 2023 e encargos setoriais elevados (18%).",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:30:25",
+     "justificativa": "comentou que a Lei 14.385 deu segurança ao repasse de PIS/Cofins mas o concentrou em um ano, desafio para 2023; encargos setoriais elevados",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "7",
-   "ts": "2:37:48",
-   "processo": "48500.000457/2022-23 (número incerto)",
-   "interessado": "Lacerdópolis Energética S.A. (PCH Lacerdópolis); sustentação oral de Cláudio Mesquita",
-   "assunto": "Recurso contra auto de infração nº 12/2022 da SFG: multa (R$ 40 mil) por não envio do RAPEEL nos prazos",
+   "ts": "2:37:37",
+   "processo": "48500.000457/2022-23 (legenda incerta)",
+   "interessado": "Lacerdópolis Energética S.A. (PCH Lacerdópolis)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 12/2022 da SFG: multa de R$ 40 mil pelo não envio do RAPEEL nos prazos",
    "tema": [
-    "fiscalização e sanções",
+    "fiscalização e sanções (multa, auto de infração)",
     "recursos administrativos",
-    "outorgas de geração"
+    "outorgas de geração (PCH)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "recurso conhecido e não provido, por unanimidade; pedido de retirada de pauta e conversão em advertência negados",
-   "resumo_voto": "Obrigação de informar ao RAPEEL independe do início das obras.",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Sustentação oral de Cláudio Mesquita (Lacerdópolis) pedindo conversão em advertência (REN 846/2019) ou retirada de pauta, alegando que as obras só eram obrigatórias a partir de fev/2022. Relator negou retirada: a discussão é a obrigação de informar o RAPEEL, não o cronograma. Procurador-geral não se manifestou conclusivamente.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, nega provimento",
-     "ts": "2:44:00",
-     "justificativa": "Não se discute cronograma, mas a obrigação de enviar informações à fiscalização; valor da multa não expressivo e sinaliza diligência.",
+     "ts": "2:44:37",
+     "justificativa": "RAPEEL é obrigação essencial para a fiscalização acompanhar a implantação; não se discute cumprimento do cronograma; nega retirada de pauta",
      "confianca": "alta"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator",
-     "ts": "2:50:58",
-     "justificativa": "Ressaltou importância das informações mensais (RAPEEL/SIGET) para a fiscalização.",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:50:57",
+     "justificativa": "reforçou a importância das informações mensais do RAPEEL e do SIGET para acompanhar mais de dois mil empreendimentos",
      "confianca": "media"
     },
     {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "2:51:00",
-     "justificativa": "acompanha o relator (pela proclamação)",
      "confianca": "baixa"
     },
     {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "2:51:02",
-     "justificativa": "acompanha o relator (pela proclamação)",
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:51:00",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "2:51:04",
-     "justificativa": "Proclamou unanimidade.",
-     "confianca": "alta"
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:51:02",
+     "justificativa": "disse ter cogitado advertência, mas foi convencido de que a informação é essencial para planejar a fiscalização e o valor é baixo (atribuição da fala inferida)",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "11",
-   "ts": "2:51:44",
-   "processo": "48500.006410/2017-81 (número incerto)",
-   "interessado": "Guaraciaba Transmissora de Energia (GTE); Furnas; TMT; sustentação oral de Cláudio Girardi",
-   "assunto": "Recurso contra Despacho SFE 1630/2021 que retificou termos de liberação das LTs 500 kV Rio Verde Norte–Marimbondo II C1 e C2, fixando direito a 90% da RAP só a partir de 21/12/2016",
+   "ts": "2:51:33",
+   "processo": "48500.006410/2017-81 (legenda incerta)",
+   "interessado": "Guaraciaba Transmissora de Energia S.A. (LT 500 kV Rio Verde Norte–Marimbondo 2, C1 e C2); Furnas e TMT citadas",
+   "assunto": "Recurso contra o Despacho SFE 1.630/2021, que retificou os termos de liberação do ONS e fixou em 21/12/2016 a data de recebimento de 90% da RAP das LTs Rio Verde Norte–Marimbondo 2",
    "tema": [
-    "transmissão",
-    "recursos administrativos"
+    "transmissão (RAP, termos de liberação)",
+    "recursos administrativos",
+    "fiscalização"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "recurso conhecido e não provido; unanimidade dos presentes, Giácomo Almeida impedido",
-   "resumo_voto": "Sem nexo causal que atribua o atraso exclusivamente a terceiros; configuração provisória foi proposta pelas transmissoras.",
+   "resultado": "recurso conhecido e não provido, por unanimidade dos presentes; Giácomo Almeida impedido",
+   "resumo_voto": "Sustentação oral de Cláudio Girardi (Guaraciaba) alegando pendências de terceiros (Furnas, TMT) e configuração provisória pedida pelo MME/CMSE. Procurador-geral: excludente de responsabilidade não transfere custo ao consumidor; danos se discutem entre as partes. Relator, com a SFE: sem nexo causal exclusivo de terceiros, configuração provisória proposta pelas próprias transmissoras, serviço efetivo só a partir de 21/12/2016.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, nega provimento",
-     "ts": "3:24:00",
-     "justificativa": "Acompanha a SFE: não houve imposição do ONS/ANEEL para a solução provisória e a GTE tinha pendências próprias.",
+     "ts": "3:23:07",
+     "justificativa": "não houve imposição do ONS, ANEEL ou poder concedente; GTE tinha pendências próprias; data correta é a da efetiva prestação do serviço",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "3:26:43",
-     "justificativa": "Ordem de voto incerta: um diretor diz «acompanho o relator».",
-     "confianca": "baixa"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "3:26:44",
-     "justificativa": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:45",
+     "justificativa": "fala «eu acompanho o relator» sem nome; pode ser Ricardo Tili ou Fernando Mosna",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:26:45",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
      "voto": "suspeito/impedido",
      "ts": "3:26:48",
-     "justificativa": "Declarou-se impedido por ter assinado o despacho como superintendente da SFE.",
+     "justificativa": "assinou o despacho recorrido quando era superintendente da SFE",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama",
      "ts": "3:26:56",
-     "justificativa": "Antecipou concordância: serviço de transmissão remunerado pela disponibilidade e não houve uso pleno dos ativos entre agosto e dezembro.",
-     "confianca": "media"
+     "justificativa": "antecipou concordância: SFE fez os maiores esforços; no período houve uso não pleno dos ativos, justificando o desconto da receita",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "23",
-   "ts": "3:29:10",
-   "processo": "48500.003120/2021 e outros (número incerto)",
-   "interessado": "ENGIE Brasil Energia; sustentação oral de representante (nome incerto, ~Diane)",
-   "assunto": "Alteração de cronograma das EOLs Serra do Assuruá 1 a 24 (882 MW), Gentio do Ouro (BA)",
+   "ts": "3:28:42",
+   "processo": "48500.003120/2021-xx e outros (legenda incerta)",
+   "interessado": "Engie Brasil Energia (EOLs Serra do Assuruá 1 a 24, 882 MW, Gentio do Ouro-BA)",
+   "assunto": "Pedido de alteração do cronograma de implantação das centrais geradoras eólicas Serra do Assuruá 1 a 24",
    "tema": [
-    "outorgas de geração",
-    "transmissão"
+    "outorgas de geração (eólica)",
+    "transmissão (acesso, CUST, margem de escoamento)"
    ],
    "relator": "Giácomo Almeida",
    "resultado": "pedido indeferido por unanimidade",
-   "resumo_voto": "Sem excludente de responsabilidade; margem de escoamento esgotada até 2027 na SE Gentio do Ouro II; postergar transferiria custos a terceiros.",
+   "resumo_voto": "Sustentação oral da representante da Engie (nome incerto na legenda): exigir excludente de responsabilidade no ACL seria tratamento não isonômico com precedentes; usinas fora do ciclo tarifário vigente; pediu aplicação da REN 1.038 (prazo de 54 meses). Procurador-geral: jurisprudência administrativa recente nega postergação do CUST além da outorga (REN 666, art. 5º §3º) diante da escassez de acesso. Relator: margem esgotada em Gentio do Ouro até 2027, mais de 2 GW interessados; postergar transferiria custos e riscos a terceiros.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, indefere",
-     "ts": "3:46:22",
-     "justificativa": "Disputa por ponto de acesso; dilatar cronograma coíbe entrada de outro agente mais célere e transfere custos e riscos a terceiros.",
+     "voto": "relator, indefere o pedido",
+     "ts": "3:45:04",
+     "justificativa": "sem excludente de responsabilidade; empreendedor pediu postergação um mês após a outorga; dilatar cronograma reserva ponto disputado e transfere custos a terceiros",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "3:51:43",
-     "justificativa": "Competição hoje é pelo ponto de conexão; decisão isonômica com precedentes recentes.",
+     "justificativa": "competição hoje é pelo ponto de conexão; decisão isonômica com as recentes",
+     "tom": "dialogante",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "3:51:47",
-     "justificativa": "acompanha o relator (pela proclamação)",
      "confianca": "baixa"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "3:51:49",
-     "justificativa": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:51:47",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "3:51:52",
-     "justificativa": "No colegiado anterior já defendera não imputar custos a outros agentes sem motivação.",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:51:51",
+     "justificativa": "já se manifestara no colegiado anterior: sem motivação não se pode impor custos a outros agentes nem reservar ponto de conexão",
      "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
-  "4",
-  "5"
+  {
+   "id": "4",
+   "motivo": "retirado de pauta (motivo não informado)"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado de pauta (motivo não informado)"
+  }
  ],
  "limites_da_analise": [
-  "Giácomo Almeida (diretor substituto, provável Giácomo Francisco Bassi Almeida) não consta da lista do config; nome registrado como dito.",
-  "Números de processo vêm da legenda automática e podem estar errados.",
-  "Ordem e autoria das falas «acompanho» dos seguidores inferidas da proclamação (confiança baixa).",
-  "Item 11: só uma fala «acompanho» audível além do impedimento; Mosna/Ricardo atribuídos pela proclamação.",
-  "Nome da representante da ENGIE incerto."
+  "Giácomo Almeida (Giácomo Francisco Bassi Almeida, chamado «Jácomo/Giácomo» na legenda) não consta da lista de diretores do config da ANEEL; registrado com o nome dito.",
+  "O .md tem só um marcador de tempo; ts obtidos da transcrição .json por busca de frases.",
+  "Votos de quem só acompanha foram atribuídos pela proclamação de unanimidade e pela ordem de fala; falas «acompanho» sem nome têm confiança baixa.",
+  "No bloco foram ouvidas quatro falas de aprovação para cinco diretores; Fernando Mosna registrado pela proclamação.",
+  "No item 11 só uma fala de acompanhamento sem nome foi ouvida antes da declaração de impedimento; Ricardo Tili e Fernando Mosna registrados pela proclamação.",
+  "Números de processo truncados ou distorcidos pela legenda; não completados.",
+  "Nome da representante da Engie no item 23 ilegível na legenda («Diane»/«Anne»).",
+  "Conteúdo dos itens do bloco não foi lido na sessão; não analisado individualmente."
  ]
 }

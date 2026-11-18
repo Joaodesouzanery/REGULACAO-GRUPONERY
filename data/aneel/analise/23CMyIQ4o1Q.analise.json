@@ -1,53 +1,73 @@
 {
-  "meta": {"video_id": "23CMyIQ4o1Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "23CMyIQ4o1Q", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2, sessão da tarde); ts de votos de seguidores aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "37ª Reunião Pública Ordinária (Parte 2, tarde)", "data": "2022-10-04", "formato": "presencial",
+    "numero": "37ª Reunião Pública Ordinária (Parte 2)", "data": "2022-10-04", "formato": "presencial (transmissão ao vivo)",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
     "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Fernando Mosna", "Ricardo Tili"],
     "ausentes": [],
-    "observacoes": ["Continuação da 37ª RPO à tarde; abertura saúda os diretores Élvio, Fernando e Tili, o Procurador-Geral e o Secretário-Geral.", "Três itens chamados à tarde: item 2 (fechamento da CP 21/2022, vista a Hélvio Guerra), item 4 (requerimento administrativo, empate 2 a 2 de sessão anterior, vista ao Diretor-Geral) e item 5 (reatores reserva da Equatorial Transmissora 1, divergência de Fernando Mosna vencedora).", "No balanço final: 53 processos na pauta, 46 em bloco, 3 retirados, 3 pedidos de vista no dia."]
+    "observacoes": [
+      "Parte 2 (tarde) da 37ª RPO de 04/10/2022; abertura saúda os diretores Hélvio, Fernando e Tili, o procurador-geral e o secretário-geral.",
+      "Três processos apregoados nesta parte: item 2 (CP 21/2022, ilhamento de subestações — vista de Hélvio Guerra), item 4 (requerimento de cooperativa de geração compartilhada — vista do Diretor-Geral, placar 2 a 2) e item 5 (reatores reserva da Equatorial Transmissora 1 — divergência de Fernando Mosna vencedora por maioria, relator Hélvio Guerra vencido).",
+      "No encerramento o DG informa: 53 processos na pauta do dia, 46 em bloco, 3 retirados, três pedidos de vista e dois pedidos de prorrogação de vista no dia."
+    ]
   },
   "itens": [
     {
-      "id": "2", "ts": "0:00:33",
-      "processo": "48500.006296/2021-09", "interessado": "transmissoras e geradores (acesso à rede básica)",
-      "assunto": "Resultado da Consulta Pública 21/2022: regulação do uso fundiário no entorno de subestações da rede básica (raio em torno de subestações, autodeclaração do gerador no pedido de outorga e na operação em teste)",
-      "tema": ["regulação normativa (consulta pública)", "transmissão", "outorgas de geração"],
-      "relator": "Fernando Mosna", "resultado": "pedido de vista de Hélvio Guerra; deliberação suspensa",
-      "resumo_voto": "Relator propõe aprovar a norma resultante da CP 21/2022 (agenda regulatória item 95), com autodeclaração em dois momentos e fiscalização posterior; longo debate sobre servidão x área de restrição e utilidade da segunda autodeclaração.",
+      "id": "2", "ts": "0:00:30",
+      "processo": "48500.006296/2021-09",
+      "interessado": "SRT/SRG/SCT/SCG (área técnica); agentes de transmissão e geração",
+      "assunto": "Resultado da Consulta Pública 21/2022 e minuta de resolução normativa sobre o ilhamento de subestações da rede básica por instalações de geração: criação da Área de Desenvolvimento da Subestação (ADS, raio de 2 km), autodeclaração em dois momentos (outorga e operação em teste), aprovação de traçados de linhas no interior da ADS pela transmissora (CCT/CCI), vigência a partir de 01/02/2023",
+      "tema": ["transmissão (subestações, acesso)", "outorgas de geração (solar fotovoltaica)", "regulação normativa (consulta pública, resolução)"],
+      "relator": "Fernando Mosna",
+      "resultado": "pedido de vista do diretor Hélvio Guerra (deliberação suspensa)",
+      "resumo_voto": "Relator vota por aprovar a minuta de REN da ADS. Apresentação técnica do superintendente adjunto da SRT (Tito) e parecer favorável da Procuradoria (ADS como limitação ligada ao serviço, sem invadir zoneamento municipal). Longo debate: Hélvio Guerra e Ricardo Tili questionam a utilidade da segunda autodeclaração e o risco de quem declara sem conhecer o centro geométrico da subestação; Sandoval elogia a antecipação do problema e o uso de geoprocessamento. Hélvio Guerra pede vista.",
       "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:18:25", "justificativa": "antecipar problema de ocupação do entorno de subestações; autodeclaração dupla gera responsabilidade do gerador", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:15:10", "justificativa": "primeiro avanço num tema sem regulação; problemas pontuais tratados caso a caso", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:15:13", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:15:13", "justificativa": "debateu o mérito (exemplo de áreas de aproximação de aeroportos) mas voto não ouvido antes da vista", "confianca": "baixa"}
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova a minuta de resolução normativa", "ts": "0:18:23", "justificativa": "ilhamento de subestações já é problema (ex.: SE Pirapora 2) e pode se agravar; vigência em 01/02/2023 dá previsibilidade a quem tem parecer de acesso; dupla autodeclaração gera responsabilidade e foi sugestão da CP", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto antecipado antes da vista)", "ts": "0:43:40", "justificativa": "agência se antecipa a problema futuro com base em dados de satélite e geoprocessamento; ainda questionou a função da segunda autodeclaração", "tom": "elogioso, institucional", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:15:09", "justificativa": "considera a segunda autodeclaração inócua e a primeira perigosa, pois o gerador pode declarar sem conhecer o centro geométrico da subestação e depois ser impedido de conectar usina já construída (risco de judicialização)", "tom": "questionador", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:15:01", "justificativa": "no debate concordou com Hélvio que a segunda declaração é inócua; comparou a ADS à restrição de construção perto de aeroportos (limitação sem servidão)", "confianca": "baixa"}
       ]
     },
     {
-      "id": "4", "ts": "1:15:33",
-      "processo": "48500.002268/2016-47", "interessado": "cooperativa de geração compartilhada; Máscara Energias Renováveis Ltda. (nomes incertos)",
-      "assunto": "Requerimento administrativo contra decisão de 2021 que deu parcial provimento a recurso contra despacho 1172/2019 da SCG",
-      "tema": ["recursos administrativos", "outorgas de geração"],
-      "relator": "Hélvio Guerra", "resultado": "pedido de vista do Diretor-Geral; empate 2 a 2 da sessão anterior",
-      "resumo_voto": "Processo já em votação, com dois votos para cada encaminhamento; restava o voto do Diretor-Geral, ausente na semana anterior, que pediu vista.",
+      "id": "4", "ts": "1:15:20",
+      "processo": "48500.002268/2016-47",
+      "interessado": "Cooperativa de geração compartilhada (nome ilegível na legenda); empresa de energias renováveis (nome distorcido)",
+      "assunto": "Requerimento administrativo contra o Despacho 3.781/2021, que deu parcial provimento a recurso administrativo com pedido de efeito suspensivo contra o Despacho 1.172/2019 da SCG (Superintendência de Concessões e Autorizações de Geração)",
+      "tema": ["recursos administrativos", "geração distribuída (geração compartilhada)", "outorgas de geração"],
+      "relator": "Hélvio Guerra",
+      "resultado": "pedido de vista do Diretor-Geral (placar de 2 votos a 2 em sessão anterior; falta apenas o voto do DG)",
+      "resumo_voto": "Processo já em fase de votação, com dois votos para cada encaminhamento; o Diretor-Geral, ausente na semana anterior, pede vista para avaliar o tema antes de desempatar.",
       "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "1:16:30", "justificativa": "não participou da votação anterior por ausência; precisa de mais tempo para avaliar", "confianca": "alta"}
+        {"diretor": "Hélvio Guerra", "voto": "relator (voto proferido em sessão anterior; conteúdo não lido nesta parte)", "ts": "1:16:00", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "voto proferido em sessão anterior (lado não identificado)", "ts": "1:16:00", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "voto proferido em sessão anterior (lado não identificado)", "ts": "1:16:00", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "pede vista", "ts": "1:16:29", "justificativa": "estava ausente na semana anterior e o processo está empatado em 2 a 2; precisa de mais tempo para avaliar", "confianca": "alta"}
       ]
     },
     {
-      "id": "5", "ts": "1:16:35",
-      "processo": "48500.000452/2022-09; 48500.000453/2022-45", "interessado": "Equatorial Transmissora 1 SPE S.A.; Parnaíba Transmissora de Energia (PTE)",
-      "assunto": "Autorização de reforços do POTEE 2021 (reatores de linha reserva) nas subestações Barreiras 2 e Rio das Éguas e responsabilidade pelo custeio",
-      "tema": ["transmissão (RAP, reforços)", "leilões (transmissão)"],
-      "relator": "Hélvio Guerra", "resultado": "aprovado por maioria o voto divergente de Fernando Mosna (Equatorial responsável pela instalação, sem receita adicional); relator vencido",
-      "resumo_voto": "Relator entendia que o edital (Lote 8 do Leilão 13/2015, 2ª etapa) não previa reator reserva e o projeto era compatível, cabendo receita; SCT e Procuradoria viam responsabilidade da Equatorial, pois o projeto de engenharia escolhido inviabilizou o compartilhamento com a PTE. Prevaleceu a divergência: obrigação de instalar sem RAP adicional; Mosna redige o voto condutor.",
+      "id": "5", "ts": "1:16:33",
+      "processo": "48500.000452/2022-09; 48500.000453/2022-45",
+      "interessado": "Equatorial Transmissora 1 SPE S.A. (transmissora; Lote 8 do Leilão 13/2015 2ª etapa, contrato de concessão 7/2017); Parnaíba Transmissora de Energia (PTE) citada",
+      "assunto": "Avaliação da outorga de obras do POTEE 2021 nas subestações Barreiras 2 e Rio das Éguas (reatores de linha reserva da LT 500 kV Rio das Éguas–Barreiras 2 C2): reforço com RAP adicional ou obrigação da Equatorial no âmbito do contrato",
+      "tema": ["transmissão (RAP, reforços, POTEE)", "leilões (transmissão)", "institucional (interpretação de edital)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por maioria o voto divergente de Fernando Mosna: responsabilidade da Equatorial pelo custeio e instalação dos reatores reserva, sem RAP adicional; relator vencido; Mosna redigirá o voto condutor",
+      "resumo_voto": "Relator: edital não previa reator reserva nem compartilhamento com a PTE, resposta ao esclarecimento 66 foi genérica e ONS só apontou a necessidade 3 anos e 6 meses depois, um mês antes da operação; vota por autorizar como reforço com RAP. Divergência (Mosna), na linha da SCT e da Procuradoria: esclarecimentos 64–66 vinculam o edital, a alternativa é só referência e a impossibilidade de compartilhar decorreu de decisão empresarial de projeto da Equatorial (NT 306, itens 34–35). Ricardo Tili critica reforços em instalações recém-inauguradas valorados pelo banco de preços da ANEEL e não pelo lance. Proclamação: por maioria, nega-se a receita adicional.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, vencido", "ts": "1:55:28", "justificativa": "edital não previa reator reserva; resposta do ONS e projeto compatível com edital; reforço deveria ser remunerado", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "diverge (voto condutor)", "ts": "1:50:00", "justificativa": "resposta a esclarecimento no leilão indicava compartilhamento; decisão empresarial da Equatorial tornou o reator necessário; usuários não devem pagar", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência", "ts": "2:07:02", "justificativa": "a empresa deveria ter previsto o compartilhamento no projeto", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha a divergência (inferido pela proclamação por maioria)", "ts": "2:10:32", "justificativa": "voto individual não ouvido", "confianca": "baixa"}
+        {"diretor": "Hélvio Guerra", "voto": "vencido (relator, autorizava os reforços com RAP adicional)", "ts": "1:36:08", "justificativa": "edital do Lote 8 não previa reator reserva nem compartilhamento; resposta ao esclarecimento foi genérica; ONS aprovou projeto básico sem apontar a necessidade; em outros lotes a ANEEL explicitou a exigência", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge do relator (voto vencedor)", "ts": "2:06:48", "justificativa": "segue SCT e Procuradoria: esclarecimentos do edital vinculam; a inviabilidade do compartilhamento decorreu de escolha de engenharia da Equatorial, que deve custear os reatores reserva sem RAP", "tom": "técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a divergência", "ts": "2:07:00", "justificativa": "no debate criticou autorizar reforço logo após a entrada em operação a preço do banco de preços e não ao preço do lance", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a divergência (proclama o resultado por maioria)", "ts": "2:07:17", "justificativa": "a empresa deveria ter previsto a necessidade", "confianca": "media"}
       ]
     }
   ],
   "retirados": [],
-  "limites_da_analise": ["Transcrição em bloco único com um só marcador; ts obtidos do JSON da legenda, alguns aproximados (ts do voto de Mosna no item 5 é estimado).", "Ludimila Lima aparece na lista inferida de falantes, mas não é saudada na abertura nem ouvida votando; tratada como não presente nesta parte (não confirmado).", "Item 5: voto de Ricardo Tili não ouvido; inferido da proclamação «por maioria» com relator vencido.", "Item 4: votos dos demais diretores foram dados em sessão anterior e não são identificados aqui; nomes dos interessados incertos na legenda.", "Item 2: Ricardo Tili participou do debate, voto não ouvido antes da vista.", "Parte 1 da 37ª RPO (manhã, itens em bloco) não está neste vídeo."]
+  "limites_da_analise": [
+    "Legenda automática: números de processo parcialmente reconstruídos (48500.006296/2021-09; 48500.002268/2016-47) e nomes de interessados do item 4 ilegíveis.",
+    "Item 2: a frase «eu acompanho o voto do relator» imediatamente antes do pedido de vista (1:15:09) não tem falante identificado; Sandoval já havia antecipado o voto às 0:43:40; Ricardo Tili ficou como «não votou (vista)» com confiança baixa.",
+    "Item 4: os votos de sessão anterior (2 a 2) não são lidos nesta parte; não se sabe qual lado cada diretor tomou além do relator.",
+    "Item 5: a atribuição das falas «eu vou acompanhar» (Ricardo Tili) e «também acompanho a divergência» (Sandoval) segue a ordem usual de votação (DG por último); a proclamação confirma maioria a favor da divergência com o relator vencido.",
+    "O DG menciona «a Ludmila que tá aqui» (1:11:45); não consta como diretora votante nesta sessão (provavelmente servidora presente). Agnes da Costa não é citada nesta parte.",
+    "O item 3 da pauta não aparece nesta parte do vídeo (provavelmente em bloco ou na Parte 1)."
+  ]
 }

@@ -1,28 +1,41 @@
 {
-  "meta": {"video_id": "1BFX7yuDEAk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:30); ts de votos de quem acompanha aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "1BFX7yuDEAk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:30:04); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "5ª Reunião Pública Extraordinária de 2023", "data": "2023-12-22", "formato": "híbrido (Ricardo Tili remoto)",
+    "numero": "5ª Reunião Pública Extraordinária de 2023",
+    "data": "2023-12-22",
+    "formato": "híbrido (Ricardo Tili remoto; Sandoval Feitosa e Hélvio Guerra presentes)",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
     "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili"],
     "ausentes": [],
-    "observacoes": ["Quórum de três diretores declarado na abertura.", "Pauta com item único, aprovado por unanimidade dos presentes.", "Diretor-Geral anuncia retomada das reuniões ordinárias em 23/01/2024."]
+    "observacoes": [
+      "Quórum de três diretores declarado na abertura; pauta com item único publicada no mesmo dia.",
+      "Procuradoria-Geral (Raul Lisboa) informa que o processo não foi encaminhado à Procuradoria.",
+      "Item único aprovado por unanimidade: valoração dos bens reversíveis das usinas do complexo Henry Borden, Porto Góis e Rasgão (EMAE) para indenização pelo poder concedente (MP 579/2012, Lei 12.783/2013).",
+      "No encerramento o Diretor-Geral deseja boas festas e indica retomada das reuniões ordinárias em 23/01/2024."
+    ]
   },
   "itens": [
     {
       "id": "1", "ts": "0:31:13",
-      "processo": "48500.007768/2022-13", "interessado": "EMAE - Empresa Metropolitana de Águas e Energia S.A.",
-      "assunto": "Análise da relação de bens reversíveis ainda não amortizados ou depreciados (REN 1027/2022) das usinas do complexo Henry Borden, Porto Góes e Rasgão, para subsidiar indenização pelo poder concedente (Lei 12.783/2013)",
-      "tema": ["outorgas de geração (hidrelétrica)", "bens reversíveis e indenização"],
+      "processo": "48500.007768/2022-13",
+      "interessado": "EMAE — Empresa Metropolitana de Águas e Energia S.A. (geradora; usinas Henry Borden, Porto Góis e Rasgão, SP)",
+      "assunto": "Análise da relação de bens reversíveis ainda não amortizados ou depreciados (REN 1.027/2022) das usinas do complexo Henry Borden, Porto Góis e Rasgão, para subsidiar decisão do poder concedente sobre indenização (art. 2º do Decreto 7.850/2012)",
+      "tema": ["outorgas de geração (hidrelétrica)", "indenização de bens reversíveis", "prorrogação de concessões (MP 579/2012, Lei 12.783/2013)", "fiscalização (laudo de avaliação, VNR)"],
       "relator": "Hélvio Guerra",
-      "resultado": "aprovado por unanimidade: fixada base de remuneração regulatória bruta (~R$ 475 milhões) e líquida (~R$ 281 milhões); autos enviados ao MME para reconhecimento da indenização",
-      "resumo_voto": "Relator corrobora valores apurados pela fiscalização (Nota Técnica 233 SFF/SGM), com exclusão de itens não elegíveis como reversíveis e correções de atualização (IPCA) e depreciação; envia ao MME. Sem sustentação oral.",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator corrobora valores apurados pela fiscalização (SFF/SGM, Nota Técnica 233/2023): laudo da EMAE validado após ajustes (IPCA/Plano Real, depreciação acumulada, exclusão de TUCs não elegíveis); fixa base de remuneração regulatória bruta (cerca de R$ 475 milhões) e líquida (cerca de R$ 281 milhões) e envia os autos ao MME para reconhecimento da indenização. Sem sustentação oral.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:44:34", "justificativa": "Valores do laudo validados em fiscalização; explica que a demora de 11 anos decorre de ativos posteriores ao projeto básico, que exigiram laudo.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:49:55", "justificativa": "«eu acompanho o voto do relator»; pesquisou que Henry Borden foi inaugurada em 1926.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:50:00", "justificativa": "Elogia áreas técnicas e relator por pautar o tema ainda em 2023, dada a importância para o Governo de São Paulo; «também acompanho o voto do eminente relator» e proclama.", "confianca": "alta"}
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "0:34:46", "justificativa": "corroboro os valores apurados pela fiscalização; investimentos posteriores ao projeto básico precisaram de laudo, por isso a indenização só agora, 11 anos após a MP 579", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:49:59", "justificativa": "eu acompanho o voto do relator (fala sem nome; atribuída pela ordem de votação e pela proclamação unânime)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:50:01", "justificativa": "elogia as unidades técnicas e o relator por pautar ainda em 2023 dada a importância para o Governo do Estado de São Paulo; «Eu também acompanho o voto do eminente relator» e proclama", "tom": "elogioso", "confianca": "alta"}
       ]
     }
   ],
   "retirados": [],
-  "limites_da_analise": ["Valores monetários da legenda automática são confusos; omitidos os centavos.", "Fala «eu acompanho o voto do relator» sem nome atribuída a Ricardo Tili pela ordem de votação (DG vota por último)."]
+  "limites_da_analise": [
+    "Legenda automática: os valores das bases de remuneração aparecem truncados/inconsistentes (bruta ~R$ 475 milhões, líquida ~R$ 281 milhões); conferir na ata/despacho.",
+    "Nomes vindos da legenda corrigidos: «Elvio/elv» = Hélvio Guerra; «imai/emai/Maia» = EMAE; «Henry borden» = Henry Borden.",
+    "A primeira fala «eu acompanho o voto do relator» não tem falante identificado; atribuída a Ricardo Tili (único diretor além do relator e do Diretor-Geral, que vota por último e proclama).",
+    "Número da reunião não dito como número sequencial geral; registrado como 5ª extraordinária de 2023."
+  ]
 }

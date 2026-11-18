@@ -1,22 +1,26 @@
 {
-  "meta": {"video_id": "DMIHA7iwd-A", "fonte": "legenda automática do YouTube; falantes inferidos", "versao_esquema": 1},
+  "meta": {"video_id": "DMIHA7iwd-A", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
   "reuniao": {
-    "numero": "28", "data": "2023-08-08", "formato": "presencial",
+    "numero": "28ª Reunião Pública Ordinária de 2023",
+    "data": "2023-08-08",
+    "formato": "presencial",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Fernando Mosna"],
-    "ausentes": ["Hélvio Guerra", "Agnes da Costa"],
+    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+    "ausentes": ["Hélvio Guerra"],
     "observacoes": [
-      "Sessão aberta com quórum de três diretores (Sandoval Feitosa, Ricardo Tili, Fernando Mosna); Hélvio Guerra e Agnes da Costa se juntariam ao longo da reunião (Agnes é cumprimentada durante a fala inicial).",
-      "Na abertura, um diretor (provavelmente Fernando Mosna, procurador federal, 'um ano de colegiado' junto com o DG) protesta contra a indicação do novo Procurador-Geral (Paulo Firmeza Soares, em substituição a Luís Eduardo Diniz) feita pelo Diretor-Geral via Ofício 21 de 31/07/2023 sem passar pelo colegiado; cita matéria da Agência Infra de 02/08 e precedente de 2016 (Romeu Rufino/Ricardo Brandão); fala em 'ausência de colegialidade' e pede licença para se retirar da reunião.",
-      "Outro diretor (provavelmente Ricardo Tili) concorda e relata que o Secretário-Geral, com aval do DG, negou seu pedido de retirada de pauta de processo de sua relatoria; diz que não há clima para deliberar e também se retira.",
-      "Sem quórum, o Diretor-Geral encerra a reunião sem deliberar nenhum item e anuncia futura reunião extraordinária para temas urgentes. Comunicado: Audiência Pública 14/2023 (RTP EDP São Paulo) em 10/08 em São José dos Campos."
+      "Abertura (0:00:06): o Diretor-Geral cumprimenta os diretores Ricardo Tili e Fernando Mosna, o procurador-geral Luiz Eduardo e o secretário-geral Carlos Eduardo Lima; anuncia que Hélvio Guerra e Agnes da Costa se juntariam ao longo da reunião; declara quórum com três diretores. Agnes da Costa é saudada como presente por volta de 0:03:33.",
+      "Comunicados: audiência pública 14/2023 (revisão tarifária periódica da EDP São Paulo e limites DEC/FEC 2024-2027, em São José dos Campos, 10/08/2023); pesquisa IASC 24ª edição; mesa-redonda com Eletronuclear e CNEN presidida por Fernando Mosna.",
+      "Antes da pauta (0:03:07), um diretor — pelo conteúdo, Fernando Mosna (diz ser procurador federal e completar um ano de colegiado junto com o Diretor-Geral Sandoval) — contesta matéria da Agência Infra de 02/08/2023 sobre a troca do procurador-geral (indicação de Paulo Firmeza Soares para substituir Luís Eduardo Diniz): afirma que a divergência não é contra o nome, mas contra o modo de condução do Diretor-Geral, que teria enviado o Ofício 21 (31/07/2023) à PGF/AGU sem deliberação do colegiado, com acesso restrito aos demais diretores; cita precedente de 2016 (indicação de Ricardo Brandão por Romeu Rufino); diz não haver condições de deliberar e pede licença para se retirar da reunião (0:14:15).",
+      "Em seguida (0:14:19) Ricardo Tili concorda e complementa: o secretário-geral e o Diretor-Geral teriam negado seu pedido, feito por e-mail na véspera, de retirar de pauta processo de sua relatoria, contrariando o regimento; diz que também não há clima para deliberar e se retira.",
+      "O Diretor-Geral encerra a reunião (0:15:39) por falta de quórum para deliberação (três diretores) e anuncia futura convocação de reunião extraordinária para os temas urgentes. Nenhum processo foi deliberado."
     ]
   },
   "itens": [],
   "retirados": [],
   "limites_da_analise": [
-    "Reunião sem deliberações: encerrada por falta de quórum após a retirada de dois diretores em protesto.",
-    "Falantes das duas falas de protesto inferidos pelo contexto (Fernando Mosna e Ricardo Tili; a legenda grafa 'Ricardo Chile'); não há chamada nominal.",
-    "Legenda automática: nomes (Paulo Firmeza, Luís Eduardo Diniz) e datas podem estar errados."
+    "Reunião sem deliberações: encerrada por falta de quórum após a retirada de dois diretores em protesto contra a condução, pelo Diretor-Geral, da indicação do novo procurador-geral. Itens vazios por esse motivo; a pauta prevista não foi lida.",
+    "Atribuição do primeiro discurso a Fernando Mosna é inferência pelo conteúdo (procurador federal, um ano de mandato junto com Sandoval Feitosa, mesa-redonda da Eletronuclear); a legenda não nomeia o orador. Atribuição do complemento a Ricardo Tili baseia-se em «tô Ricardo» na fala final e em o processo de relatoria dele; confiança média.",
+    "Não está claro se Agnes da Costa também se retirou; o Diretor-Geral fala em quórum de três diretores. Hélvio Guerra não aparece na gravação.",
+    "Legenda automática: nomes aparecem deformados (Ricardo Chile = Ricardo Tili; Élvio guerra = Hélvio Guerra; Fernando mosman = Fernando Mosna); valores e datas citados podem conter erros."
   ]
 }

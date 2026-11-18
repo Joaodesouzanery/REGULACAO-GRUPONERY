@@ -1,72 +1,96 @@
 {
- "meta": {"video_id": "KXvlicyfeYI", "fonte": "legenda automática do YouTube; falantes inferidos; .md sem marcadores de falante por trecho; ts localizados na transcrição .json; ts de quem só acompanha são aproximados", "versao_esquema": 1},
- "reuniao": {
-  "numero": "33ª Reunião Pública Ordinária de 2023", "data": "2023-09-12", "formato": "presencial com transmissão",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna"],
-  "ausentes": [],
-  "observacoes": [
-   "Abertura com quórum de quatro diretores; Fernando Mosna chegou ao longo da reunião (já participa do debate do item 2).",
-   "Pauta com 22 itens; itens 4 a 22 em bloco, retirados os itens 4 e 8; ordem de deliberação 2, 1, 3.",
-   "Ata da 32ª reunião aprovada com registro de não aprovação por Ricardo Tili (ausente naquela reunião).",
-   "No item 3 o Diretor-Geral se ausentou e deixou voto favorável por escrito na Secretaria-Geral."
+  "meta": {"video_id": "KXvlicyfeYI", "fonte": "legenda automática do YouTube; falantes inferidos pelo conteúdo e pela condução da mesa; ts = tempo do vídeo (sessão começa ~0:02:29); ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "33ª Reunião Pública Ordinária de 2023",
+    "data": "2023-09-12",
+    "formato": "presencial com transmissão pelo YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); ausentou-se antes da votação do item 3",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura com quórum de quatro diretores (Sandoval, Hélvio, Ricardo Tili, Agnes); o DG anuncia que Fernando Mosna se juntaria ao longo da reunião. Na abertura a legenda diz «31ª reunião», mas o título, a ata e o secretário-geral falam em 33ª.",
+      "Comunicados: tomada de subsídios 14/2023 (agenda regulatória 2024-2025) prorrogada parcialmente até 20/09 a pedido de associações; agenda da ANEEL na Câmara (tarifas e qualidade da Equatorial Amapá; hidrelétricas) e AP 16/2023 (RTP da Equatorial Piauí) em Teresina.",
+      "Ata da 32ª RPO aprovada; Ricardo Tili registrou que não a subscreve por ter estado ausente naquela reunião.",
+      "Pauta com 22 itens; itens 4 a 22 em bloco; retirados de pauta os itens 4 e 8; sustentação oral nos itens 2 e 3; ordem de deliberação: bloco, itens 2, 1 e 3.",
+      "Resumo final do secretário-geral: 19 itens em bloco (8 recursos/pedidos de reconsideração, 1 requerimento administrativo, 1 revogação de outorga, entre outros), 2 aberturas de consulta pública e 1 resultado de consulta pública.",
+      "Item 3: o Diretor-Geral precisou se ausentar e deixou voto favorável por escrito na Secretaria-Geral; a proclamação foi feita por outro diretor (não identificado com segurança)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:09:03",
+      "processo": "itens 5 a 22 da pauta (exceto o 8)", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos disponibilizados previamente): recursos administrativos e pedidos de reconsideração, requerimento administrativo, revogação de outorga e outros",
+      "tema": ["recursos administrativos", "julgamento em bloco"],
+      "relator": "diversos (não identificado)", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "O DG submete os itens do bloco, vota pela aprovação e proclama a aprovação unânime; não há leitura de votos individuais.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova e proclama", "ts": "0:09:24", "justificativa": "também aprovo os itens remanescentes da pauta do bloco", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha (pela proclamação)", "ts": "0:09:24", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:09:24", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:09:24", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:09:45",
+      "processo": "48500.004034/2017-15 (número pela legenda, incerto)", "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
+      "assunto": "Abertura de consulta pública sobre os indicadores e metas de desempenho do Programa de Performance Organizacional do ONS para o biênio 2024-2025 (parte de 50% definida pela ANEEL, REN 780/2017 consolidada na REN 1017)",
+      "tema": ["regulação normativa", "consulta pública", "ONS", "regulação por incentivos"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade: consulta pública de 13/09 a 30/10/2023 e determinação ao ONS para realizar consulta pública sobre os indicadores próprios (os outros 50%), estabelecidos dentro de sua governança",
+      "resumo_voto": "Sustentação oral de Fábio Reis Cortes (ONS), pedindo ajustes (apuração do indicador de gestão orçamentária no ciclo trienal, manutenção de indicadores descontinuados, meta de previsão de carga de 2,5%, prazo de 105 dias para parecer de acesso). Apresentação técnica de Vinícius (SGM). O relator propôs, fora do voto escrito, determinar que o ONS também submeta a consulta pública os 50% dos indicadores que ele mesmo define. Fernando Mosna e Agnes da Costa apoiaram; Ricardo Tili e Sandoval Feitosa manifestaram dúvida sobre interferir na governança privada do ONS sem estudo prévio. Após o ONS listar suas metas (relacionamento com stakeholders, segurança cibernética, diversidade, transição energética) e a SGM explicar a origem da divisão 50/50, a determinação foi incluída no dispositivo, com a ressalva «dentro de sua governança».",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova abertura da CP e propõe determinação ao ONS", "ts": "0:43:30", "justificativa": "consulta pública é dos elementos mais importantes da agência; se 50% dos indicadores passam por CP, os 50% propostos pelo ONS também deveriam passar; paralelo com os procedimentos de rede; segurança e transição energética interessam à sociedade e tudo é pago pelos agentes", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator, apoia a determinação ao ONS", "ts": "0:44:33", "justificativa": "lógica de regulação por incentivo; natureza jurídica híbrida do ONS (cita artigo de Gustavo Kaercher Loureiro) não impede a CP; metas próprias (stakeholders, diversidade, sustentabilidade) merecem escrutínio público", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:46:48", "justificativa": "achou a sugestão interessante: o ONS cumpre função pública e é salutar criar espaço para a sociedade opinar; sugeriu como alternativa avaliar o tema no fechamento da CP", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação), após manifestar dúvidas", "ts": "0:46:01", "justificativa": "dúvida sobre que caráter público teria a CP do ONS, entidade privada com conselho próprio; a divisão 50/50 pode refletir a parte privada da gestão; careceria de estudo antes de determinar", "tom": "cauteloso", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a proposta do relator e proclama", "ts": "1:16:39", "justificativa": "durante o debate disse achar a ideia espetacular, mas duvidou se a ANEEL pode interferir na governança e no estatuto do ONS, já que sem conhecer os indicadores podem ser de gestão intrínseca", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:17:10",
+      "processo": "48500.006872/2022-91", "interessado": "Companhia de Eletricidade do Amapá (CEA, Equatorial Amapá)",
+      "assunto": "Abertura de consulta pública e audiência pública presencial sobre a revisão tarifária extraordinária contratual de 2023 da CEA (avaliação completa da base de remuneração, prevista no contrato de concessão 1/2021 pós-desestatização), a vigorar a partir de 13/12/2023; efeito médio apresentado da ordem de 44%",
+      "tema": ["tarifas e revisão tarifária", "distribuição", "consulta pública", "CDE e encargos setoriais"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade: CP de 13/09 a 27/10/2023 e audiência pública presencial em Macapá em 27/09/2023",
+      "resumo_voto": "Sem sustentação oral. Apresentação de Thiago (STR, superintendente adjunto): base incremental de cerca de R$ 530 milhões, Parcela B +13%, fim de medidas mitigadoras (conta escassez hídrica, financeiros, empréstimo), perdas regulatórias definidas em lei. No debate os diretores apontaram a distorção tarifária em áreas de baixa densidade e baixa renda e a necessidade de medidas legislativas (redistribuição da CDE, incentivos Sudam/Sudene).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura de CP e audiência pública", "ts": "1:38:19", "justificativa": "revisão extraordinária prevista no contrato pós-desestatização; pontos expostos na apresentação técnica", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:51:56", "justificativa": "observou que a dispersão populacional penaliza consumidores de estados de baixa densidade; tema a ser tratado na reformulação tarifária", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:51:59", "justificativa": "prefere falar em distorção tarifária do modelo; cabe à agência estudar e propor soluções ao poder concedente e ao Congresso", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:52:00", "justificativa": "endossa as preocupações; ANEEL deve ajudar formuladores de política a enxergar o efeito das regras nas tarifas (justiça tarifária)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a proposta do relator e proclama", "ts": "1:52:02", "justificativa": "tarifa B1 do Amapá passaria de 19ª a 1ª do país; defende redistribuição da CDE (alívio de cerca de 8%) e critica incentivo Sudam/Sudene; reafirma necessidade de medidas legislativas", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:52:58",
+      "processo": "48500.006080/2022-16 (e outros dois processos apensos, números não captados)", "interessado": "geradores fotovoltaicos centralizados; sustentações de ABSOLAR, ABIAPE e Elera Renováveis",
+      "assunto": "Resultado da Consulta Pública 48/2022: resolução normativa sobre procedimentos e critérios de apuração e pagamento de restrição de operação por constrained-off de centrais geradoras fotovoltaicas (réplica da REN 927/2021 das eólicas, franquia de 30h30min/ano)",
+      "tema": ["comercialização", "outorgas de geração (solar)", "regulação normativa", "encargos (ESS)", "constrained-off"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade: emissão da REN e determinação à SGM de instaurar tomada de subsídios sobre a regra de comercialização para eventos no ACR até o sexto mês civil após a publicação (inclusive despachos 1407 e 1668 de 2022)",
+      "resumo_voto": "Sustentações orais: Camila Alves (ABSOLAR) contra a distinção entre riscos ordinários e extraordinários e contra a franquia de horas, sem base na Lei 10.848 e no Decreto 5.163; Paulo André (ABIAPE) sobre a falta de sinal de preço e a mistura de cortes por razão energética e controle de frequência; Pablo Mota Ribeiro (Elera Renováveis) pediu que corte não indicado no parecer de acesso seja tratado como extraordinário (complexos no CE e Janaúba/MG). A Procuradoria entendeu em avaliação preliminar que a ANEEL pode fazer a distinção. O relator manteve a isonomia com as eólicas: alocar ao consumidor um risco que ele não controla distorceria ainda mais o sinal de preço.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova a REN", "ts": "2:45:23", "justificativa": "questões já apreciadas no constrained-off eólico; mesma regra por isonomia, mudando só a franquia; temas da ABIAPE estão em outros processos; alocar o risco ao gerador permite precificá-lo, alocá-lo ao consumidor distorce o sinal de preço", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "2:46:27", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:46:27", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:46:27", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido por diretor que presidiu a votação, não identificado)", "ts": "2:46:31", "justificativa": "voto favorável deixado por escrito na Secretaria-Geral ao se ausentar", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "4", "observacao": "retirado de pauta (assunto não informado na transmissão)"},
+    {"id": "8", "observacao": "retirado de pauta (assunto não informado na transmissão)"}
+  ],
+  "limites_da_analise": [
+    "A legenda é automática e não traz nomes de falantes; atribuições feitas pelo conteúdo, pelas menções cruzadas (ex.: «que é o que defende o Ricardo», «diretor Fernando», «diretora Agnes») e pela ordem usual de votação.",
+    "Relator do item 3 atribuído a Ricardo Tili por inferência (estilo e referência a «um processo da minha relatoria» sobre confiabilidade); a legenda não diz o nome do relator na apregoação. Confiança media.",
+    "Item 3: na votação só se ouvem duas expressões de acompanhamento («eu também voto com ela», «eu acompanho o voto do relator») e o informe do voto escrito do DG; quem presidiu na ausência de Sandoval não foi identificado; votos de Hélvio, Agnes e Fernando atribuídos pela proclamação de unanimidade (confiança baixa).",
+    "Item 2: na votação ouvem-se três falas de acompanhamento para quatro diretores não relatores; atribuição pela proclamação de unanimidade.",
+    "Bloco: Fernando Mosna provavelmente ainda não estava presente (chegou ao longo da reunião); não recebe voto no bloco. Os itens do bloco não foram detalhados na transmissão.",
+    "Número do processo do item 2 lido pela legenda («48 500 40 34 2017 15»), incerto. Nomes de convidados conforme a legenda (Fábio Reis Cortes, Camila Alves, Paulo André da Silva, Pablo Mota Ribeiro; «Helena renováveis» interpretado como Elera Renováveis; «abiap» como ABIAPE).",
+    "Percentuais e valores (44%, R$ 530 milhões, 30h30min) vêm da legenda automática e podem conter erros."
   ]
- },
- "itens": [
-  {"id": "bloco", "ts": "0:09:03", "processo": "itens 4 a 22 (exceto 4 e 8, retirados)", "interessado": "diversos",
-   "assunto": "Itens de pauta em bloco: segundo o resumo do secretário, incluem recursos administrativos e pedidos de reconsideração, requerimentos, revogação de outorga, entre outros",
-   "tema": ["deliberação em bloco", "recursos administrativos"], "relator": "não identificado",
-   "resultado": "aprovados por unanimidade", "resumo_voto": "Diretor-Geral submete os itens do bloco e proclama aprovação unânime.",
-   "votos": [
-    {"diretor": "Sandoval Feitosa", "voto": "aprova (proclamação do bloco)", "ts": "0:09:28", "confianca": "alta"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha (pela proclamação)", "ts": "0:09:28", "confianca": "media"}
-   ]},
-  {"id": "2", "ts": "0:09:40", "processo": "48500.004034/2017-15 (número incerto na legenda)", "interessado": "Operador Nacional do Sistema Elétrico (ONS)",
-   "assunto": "Abertura de consulta pública sobre indicadores e metas do Programa de Performance Organizacional do ONS para o biênio 2024-2025; sustentação oral de Fábio Reis Cortes (ONS)",
-   "tema": ["regulação normativa", "consulta pública", "ONS", "regulação por incentivos"], "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade, com determinação para o ONS realizar consulta pública sobre os indicadores de sua própria governança",
-   "resumo_voto": "Consulta pública de 13/09 a 30/10/2023 sobre minuta de resolução homologatória dos indicadores (50% definidos pela ANEEL). Relator propôs em sessão determinar que o ONS também submeta a consulta pública os outros 50% de indicadores definidos em sua governança; debate sobre a natureza jurídica e a governança do ONS.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, aprova abertura e propõe determinação ao ONS", "ts": "0:43:30", "justificativa": "consulta pública é dos elementos mais importantes da agência; 50% dos indicadores do ONS não passam por consulta pública; segurança, transição energética e custeio tarifário justificam escrutínio público", "confianca": "alta"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator, apoia a determinação", "ts": "0:44:30", "justificativa": "lógica de regulação por incentivos; natureza jurídica do ONS não afasta a consulta (cita artigo de Gustavo Kaercher Loureiro); metas como relacionamento com stakeholders, gestão de pessoas e sustentabilidade merecem debate público", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:46:48", "justificativa": "sugestão interessante; ONS cumpre função pública; salutar dar espaço à sociedade; sugeriu alternativa de avaliar no fechamento da consulta", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação), com dúvidas manifestadas", "ts": "1:16:35", "justificativa": "dúvida se a ANEEL pode interferir na governança privada do ONS (conselho formado pelos agentes); defendeu estudo prévio; sugeriu incluir 'dentro de sua governança' no texto", "confianca": "media"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:16:44", "justificativa": "inicialmente desconfortável sem conhecer os indicadores próprios do ONS; após explicações, acompanhou", "confianca": "alta"}
-   ]},
-  {"id": "1", "ts": "1:17:49", "processo": "48500.006872/2022-91", "interessado": "Companhia de Eletricidade do Amapá (CEA, Equatorial Amapá)",
-   "assunto": "Abertura de consulta pública e audiência presencial em Macapá sobre a revisão tarifária extraordinária contratual de 2023 da CEA, com avaliação completa da base de remuneração (efeito médio da ordem de 44%)",
-   "tema": ["tarifas e revisão tarifária", "distribuidoras", "consulta pública"], "relator": "Fernando Mosna",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Consulta pública de 13/09 a 27/10/2023 e audiência presencial em Macapá em 27/09/2023; tarifas a vigorar a partir de 13/12/2023. Debate sobre distorção tarifária no Norte/Nordeste, CDE e incentivo Sudam/Sudene.",
-   "votos": [
-    {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura", "ts": "1:38:40", "justificativa": "revisão prevista no contrato de concessão pós-desestatização; pedido tempestivo da concessionária", "confianca": "alta"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:51:56", "justificativa": "dispersão populacional penaliza consumidores de regiões pouco densas; tema deve ser avaliado na reformulação tarifária", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:51:59", "justificativa": "há distorção tarifária no modelo; cabe à ANEEL propor ao poder concedente e ao Congresso soluções", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:52:00", "justificativa": "justiça tarifária; ANEEL deve subsidiar formuladores de política pública", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:52:02", "justificativa": "investimento de cerca de R$ 530 milhões na base; tarifa BT do Amapá passaria de 19ª à 1ª do país; critica rateio uniforme da CDE e incentivo Sudam/Sudene", "confianca": "alta"}
-   ]},
-  {"id": "3", "ts": "1:52:58", "processo": "48500.006080/2022-16", "interessado": "geradores fotovoltaicos; sustentações de Camila Alves (ABSOLAR), Paulo André (ABIAPE) e Pablo Mota Ribeiro (Elera Renováveis)",
-   "assunto": "Resultado da Consulta Pública 48/2022: resolução normativa sobre apuração e pagamento de restrição de operação por constrained-off de centrais fotovoltaicas (franquia de 30h30min/ano)",
-   "tema": ["regulação normativa", "outorgas de geração (solar)", "comercialização (CCEE, encargos)", "constrained-off"], "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Aprova resolução normativa nos moldes da REN 927/2021 (eólicas), por isonomia; determina à SRG tomada de subsídios sobre regra de comercialização para eventos no ACR até o 6º mês após a publicação, incluindo casos dos despachos 1407 e 1668/2022.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:27:30", "justificativa": "isonomia com eólicas; alocar todo risco ao consumidor via encargo distorce sinal de preço; demais pontos tratados em outros processos", "confianca": "baixa"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:46:27", "confianca": "baixa"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:46:30", "confianca": "baixa"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:46:40", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "voto deixado (lido pelo presidente substituto)", "ts": "2:46:38", "justificativa": "ausentou-se e deixou voto favorável por escrito", "confianca": "alta"}
-   ]}
- ],
- "retirados": ["item 4", "item 8"],
- "limites_da_analise": [
-  "Transcrição sem marcação de falante por trecho: atribuição de falas a diretores inferida pelo conteúdo e por vocativos.",
-  "Relator do item 3 não é nomeado explicitamente na legenda; atribuído a Ricardo Tili por inferência de estilo e contexto (confiança baixa).",
-  "No item 3 só duas falas de acompanhamento são ouvidas mais a proclamação; quem proclamou na ausência do DG não foi identificado.",
-  "Item bloco: Fernando Mosna ainda não estava presente na abertura; não incluído no voto do bloco.",
-  "Números de processo e nomes de expositores podem estar errados (legenda automática); abertura cita erroneamente 31ª reunião.",
-  "Itens do bloco (4 a 22) não detalhados na transmissão."
- ]
 }

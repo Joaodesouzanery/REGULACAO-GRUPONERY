@@ -1,13 +1,13 @@
 {
  "meta": {
   "video_id": "rLrwPYZnJq4",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha o relator são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "4ª RPE 2023",
+  "numero": "4ª Reunião Pública Extraordinária de 2023",
   "data": "2023-12-19",
-  "formato": "presencial",
+  "formato": "presencial (transmitida pelo YouTube)",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
@@ -19,44 +19,44 @@
    "Fernando Mosna (férias)"
   ],
   "observacoes": [
-   "Quórum mínimo de três diretores.",
-   "Pauta com 10 itens; itens 7 a 10 no bloco; itens 5 e 6 retirados de pauta (legenda: «itens c e se»).",
-   "Secretário-geral adjunto substituto Guilherme (sobrenome incerto) secretariou."
+   "Quórum mínimo de três diretores (dito pelo Diretor-Geral na abertura); Agnes da Costa e Fernando Mosna em férias, por isso processos deles foram redistribuídos a Ricardo Tili e Hélvio Guerra.",
+   "Secretário-geral adjunto substituto (Guilherme, sobrenome incerto) secretariou; Procurador-Geral Raul Lisboa presente. Aprovação da ata anterior adiada para janeiro.",
+   "Pauta publicada em 14/12/2023 com 10 itens; itens 7 a 10 em bloco; dois itens retirados de pauta (legenda: «itens c e se», provavelmente 5 e 6); pedido de sustentação oral no item 4.",
+   "Informes do Diretor-Geral: prorrogação da CP 43/2023 até 31/01/2024; resultado do Leilão de Transmissão 2/2023 (15/12/2023, relator Ricardo Tili), 3 lotes, cerca de R$ 22 bilhões de investimento e deságio médio de cerca de 40,85%.",
+   "Todos os itens deliberados aprovados por unanimidade dos presentes; sem divergências nem pedidos de vista.",
+   "Encerramento com balanço do ano pelo Diretor-Geral (reestruturação da agência, 86 GW outorgados, cerca de 10.600 km de linhas licitadas) e mensagens de fim de ano de Ricardo Tili, Hélvio Guerra, do Procurador-Geral e do secretário substituto. Sessão encerrada em ~2:29:19."
   ]
  },
  "itens": [
   {
-   "id": "bloco",
-   "ts": "0:08:30",
-   "processo": "itens 7 a 10 da pauta",
-   "interessado": "diversos",
-   "assunto": "Itens do bloco (votos disponibilizados previamente)",
+   "id": "bloco (itens 7 a 10)",
+   "ts": "0:08:33",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Itens 7 a 10 da pauta deliberados em bloco (votos disponibilizados previamente na internet; assuntos não lidos na sessão)",
    "tema": [
-    "institucional"
+    "bloco de itens"
    ],
-   "relator": "diversos",
-   "resultado": "aprovados por unanimidade",
-   "resumo_voto": "Bloco aprovado sem debate.",
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretor-Geral submete o bloco; os três diretores presentes aprovam; proclamação por unanimidade.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova",
-     "ts": "0:08:36",
-     "justificativa": "Diz «eu aprovo o bloco» (atribuição pela ordem).",
-     "confianca": "baixa"
+     "voto": "aprova o bloco",
+     "ts": "0:08:40",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "aprova",
-     "ts": "0:08:36",
-     "justificativa": "Diz «eu aprovo o bloco» (atribuição pela ordem).",
-     "confianca": "baixa"
+     "voto": "aprova o bloco",
+     "ts": "0:08:42",
+     "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "aprova",
-     "ts": "0:08:40",
-     "justificativa": "Aprova e proclama unanimidade.",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:08:45",
      "confianca": "alta"
     }
    ]
@@ -64,169 +64,169 @@
   {
    "id": "1",
    "ts": "0:08:59",
-   "processo": "48500.003385/2022-76 (número incerto na legenda)",
-   "interessado": "Consórcio Olympus 14 (Alupar Investimento S.A. e Mercury/Perfin Investments Participações S.A.)",
-   "assunto": "Homologação do resultado e adjudicação do lote 6 do Leilão de Transmissão 2/2022 (subestação Centro, São Paulo, 345/88/20 kV), após o TCU dar provimento ao pedido de reexame da ANEEL (acórdão 2445/2023); ajuste da data de entrada em operação para 60 meses a partir da nova data do contrato",
+   "processo": "48500.003385/2022-76 (legenda incerta)",
+   "interessado": "Consórcio Olympus 14 (Alupar Investimento S.A. e Mercury Investments Participações S.A.)",
+   "assunto": "Homologação do resultado e adjudicação do objeto do lote 6 do Leilão de Transmissão nº 2/2022 (subestação Centro, 345/88/20 kV, centro de São Paulo), após o TCU dar provimento ao pedido de reexame da ANEEL (Acórdão 2445/2023) contra o Acórdão 1023/2023; ajuste da data de entrada em operação para 60 meses a partir da nova data de assinatura do contrato",
    "tema": [
-    "leilões",
-    "transmissão",
+    "transmissão (outorgas)",
+    "leilões (transmissão)",
     "institucional/TCU"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Aprova o aviso de homologação e adjudicação do lote 6 e determina à comissão de leilões ajustar a data de entrada em operação comercial. Apresentação de André Tiburtino (comissão de leilões): RAP de 69,5 milhões, deságio de 15%. Debate elogiou a Procuradoria e a defesa da licitação perante o TCU.",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Aprovar o aviso de homologação e adjudicação do lote 6 ao Consórcio Olympus 14 e determinar à comissão de leilões o ajuste da data de entrada em operação comercial (60 meses contados da nova data de celebração do contrato). RAP de cerca de R$ 69,5 milhões contra teto de R$ 81,8 milhões (deságio de cerca de 15%), investimento de cerca de R$ 500 milhões. Apresentação de André Tiburtino (comissão de leilões); Procurador-Geral destacou a atuação no TCU. Hélvio defendeu a licitação como melhor solução para revelar preço (precedente SE Porto Alegre 4); Sandoval e Ricardo elogiaram a procuradoria e a decisão «corajosa» de recorrer ao TCU.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:22:30",
-     "justificativa": "Lê o dispositivo: aprovar homologação e adjudicação do lote 6; licitação é «sempre o melhor remédio», revela preço (cita Porto Alegre 4: lance 50% menor que pedido de autorização).",
+     "ts": "0:22:16",
+     "justificativa": "TCU reconheceu a licitude do arranjo; ANEEL não adjudicou antes da decisão final do TCU; licitação revela preço (deságio de 15% em relação ao teto) e é sempre o melhor remédio",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "0:32:42",
-     "justificativa": "Diz «eu acompanho o voto do relator»; atribuído pela ordem de votação (relator, demais, Diretor-Geral por último).",
-     "confianca": "media"
+     "ts": "0:32:51",
+     "confianca": "media",
+     "justificativa": "agradece à procuradoria e à área técnica pelo êxito no TCU, precedente importante"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "0:32:45",
-     "justificativa": "Acompanha o «eminente relator» e proclama a unanimidade dos presentes.",
-     "confianca": "alta"
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:32:55",
+     "confianca": "alta",
+     "justificativa": "decisões com convicção e respeito ao TCU; 52 precedentes; prejuízo ao consumidor se o entendimento fosse diverso"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:33:53",
-   "processo": "48500.006296/2023 (número incerto na legenda)",
-   "interessado": "ENBPar; Itaipu Binacional; distribuidoras cotistas Sul/Sudeste/Centro-Oeste",
-   "assunto": "Tarifa de repasse da potência contratada de Itaipu Binacional para 2024 (provisória, CUSE de 2023 mantido: US$ 16,71/kW.mês; tarifa US$ 17,66/kW.mês, redução de cerca de 12,69%)",
+   "ts": "0:33:59",
+   "processo": "48500.006296/2023 (legenda incerta)",
+   "interessado": "ENBPar (Itaipu Binacional); distribuidoras cotistas do Sul, Sudeste e Centro-Oeste",
+   "assunto": "Tarifa de repasse da potência contratada de Itaipu Binacional para 2024 (provisória, mantido o CUSE de 2023 por falta de deliberação do Conselho de Administração de Itaipu)",
    "tema": [
     "tarifas e revisão tarifária",
+    "Itaipu",
     "comercialização"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Aprova resolução homologatória que fixa provisoriamente a tarifa de repasse de Itaipu a partir de 1/1/2024; processo redistribuído de Fernando Mosna (férias) para Ricardo Tili.",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Resolução homologatória fixando provisoriamente a tarifa de repasse em 17,66 por kW-mês (moeda e unidade conforme legenda) a partir de 1º/01/2024; CUSE provisório 16,71; parcela do diferencial zerada pela quitação da dívida de construção (fev/2023); redução de cerca de 12,69% em relação a 2023. Processo redistribuído de Fernando Mosna (férias) para Ricardo Tili. Apresentação de André Lúcio (STR).",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, aprova",
-     "ts": "0:47:30",
-     "justificativa": "Mesmo mantendo o CUSE provisório, consumidor terá redução de 12,69%; destaca a complexidade da tarifa binacional.",
+     "ts": "0:48:54",
+     "justificativa": "consumidor terá redução de 12,69% mesmo com o CUSE provisório; complexidade de tarifa envolvendo dois países justifica aprovação provisória, como no ano anterior",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "0:51:03",
-     "justificativa": "Diz «eu acompanho o voto do relator»; atribuído pela ordem de votação (relator, demais, Diretor-Geral por último).",
+     "ts": "0:51:10",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "0:51:10",
-     "justificativa": "Acompanha o «eminente relator» e proclama a unanimidade dos presentes.",
-     "confianca": "alta"
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:51:12",
+     "confianca": "alta",
+     "justificativa": "base orçamentária provisória coerente para assegurar o funcionamento da usina até a fixação definitiva do CUSE"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "0:52:05",
-   "processo": "48500.006627/2023-47 (número incerto na legenda)",
-   "interessado": "CCEE; ENBPar; agentes do MRE",
-   "assunto": "Atualização da TSA, TEO, TEO Itaipu e limites máximo e mínimo do PLD para 2024 (PLD mínimo de R$ 61,07/MWh conforme legenda, valor incerto)",
+   "ts": "0:52:11",
+   "processo": "48500.006273/2023-47 (legenda incerta)",
+   "interessado": "agentes do MRE e do mercado de energia (CCEE); ENBPar",
+   "assunto": "Atualização da Tarifa de Serviços Ancilares (TSA), das Tarifas de Energia de Otimização (TEO e TEO Itaipu) e dos limites máximo e mínimo do PLD para 2024",
    "tema": [
-    "comercialização",
-    "tarifas e revisão tarifária"
+    "comercialização (PLD)",
+    "tarifas e revisão tarifária",
+    "regulação normativa"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Aprova resolução homologatória com os valores para 2024; relator acolhe sugestão de incluir tabela com os valores no dispositivo. Processo redistribuído de Agnes da Costa e Fernando Mosna (férias).",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Resolução homologatória com valores de TEO, TEO Itaipu, TSA e limites do PLD para 2024 (atualização por IPCA; TAR 2024 de R$ 94,45/MWh; TEO Itaipu com redução de cerca de 11,55% e PLD mínimo igual à TEO Itaipu, cerca de R$ 61/MWh segundo a legenda). Processo redistribuído de Agnes da Costa e Fernando Mosna (férias). A pedido do Diretor-Geral, o relator inclui tabela com os valores no dispositivo. Revisão de metodologia (Despacho 3587/2023) valerá a partir de 2025.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "1:03:00",
-     "justificativa": "Aprova os valores calculados pela STR; destaca redução da energia cedida pelo Paraguai pelo aumento do consumo paraguaio (~20%).",
+     "ts": "1:03:49",
+     "justificativa": "atualização técnica conforme a REN 1032; redução da energia cedida pelo Paraguai por aumento do consumo paraguaio (cerca de 20%)",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "1:10:20",
-     "justificativa": "Diz «eu acompanho o voto do relator»; atribuído pela ordem de votação (relator, demais, Diretor-Geral por último).",
-     "confianca": "media"
+     "ts": "1:10:25",
+     "confianca": "media",
+     "justificativa": "confirmou o aumento de cerca de 20% do consumo do Paraguai citado no item anterior"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "1:10:25",
-     "justificativa": "Acompanha o «eminente relator» e proclama a unanimidade dos presentes.",
-     "confianca": "alta"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:10:28",
+     "confianca": "alta",
+     "justificativa": "ANEEL venceu a judicialização sobre o PLD mínimo até o STJ e a AIR confirmou os estudos; previsibilidade para o mercado justifica aplicar a nova metodologia só em 2025; sugeriu tabela no dispositivo"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "1:11:10",
-   "processo": "48500.005536/2023 (número incerto na legenda)",
-   "interessado": "Âmbar Comercializadora de Energia Ltda.; Eletronorte (sustentação oral de José Eduardo de Oliveira Filgueiras); Roraima Energia; UTE Jaguatirica",
-   "assunto": "Sub-rogação dos benefícios da CCC à importação de energia da Venezuela para o sistema isolado de Roraima (Boa Vista), com condições de acesso e encargos de uso da transmissão (tarifas de uso da interligação internacional e do sistema de transmissão no sistema isolado)",
+   "ts": "1:11:13",
+   "processo": "48500.005360/2023 (legenda incerta)",
+   "interessado": "Ambar Comercializadora de Energia Ltda. (importadora); Eletronorte (transmissora; sustentação oral); Roraima Energia; UTE Jaguatirica",
+   "assunto": "Sub-rogação do benefício do rateio da CCC à importação de energia elétrica da Venezuela para atendimento ao sistema isolado de Roraima (Boa Vista), e condições de acesso e encargos de uso das instalações de transmissão da Eletronorte",
    "tema": [
-    "CDE e encargos setoriais",
+    "CDE e encargos setoriais (CCC)",
+    "sistemas isolados",
     "transmissão",
-    "comercialização",
-    "sistemas isolados"
+    "comercialização (importação de energia)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Enquadra a importação da Âmbar na sub-rogação da CCC conforme deliberação do CMSE e estabelece condições de acesso e encargos de conexão/uso. Eletronorte pediu garantias financeiras e aplicação por analogia das regras de qualidade; relator orienta áreas técnicas a tratar a questão de qualidade em processo apartado. Sandoval questiona perdas, CUST e segurança operacional; ressalta que decisão de importar, preço e montante são do poder concedente/CMSE.",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Enquadramento na sub-rogação da CCC da importação pela Ambar (deliberação do CMSE; Decreto 11.629/2023; Portaria MME 2689/2023), por resolução autorizativa, e despacho com condições de acesso (CCT único com a Eletronorte, sem CUST) e duas tarifas de uso (cerca de R$ 9,54/MWh na interligação internacional e R$ 5,762/MWh nas DITs da SE Boa Vista). Perdas calculadas por algoritmo no medidor de fronteira, com verificação mensal por ONS/CCEE. Sustentação oral de José Eduardo de Oliveira Filgueiras (Eletronorte): concordou com quase tudo, mas pediu garantias financeiras e aplicação por analogia das regras de qualidade/parcela variável. Apresentações de Alessandro Cantarino (SGM), Rafael Cambraia (STD) e Mateus (STR). Benefício estimado à CCC de cerca de R$ 9,5 milhões por mês.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "2:02:00",
-     "justificativa": "Elogia proposta «engenhosa» que reduz dispêndios da CCC; pede que áreas técnicas avaliem a preocupação da Eletronorte sobre qualidade fora deste processo.",
+     "ts": "1:54:54",
+     "justificativa": "retomada da importação da Venezuela com perspectiva de redução dos dispêndios da CCC e dos subsídios pagos pelos consumidores; ponto da Eletronorte sobre qualidade tratado à parte, com orientação às áreas técnicas para avaliar já",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "2:10:10",
-     "justificativa": "Diz «eu acompanho o voto do eminente relator»; atribuído pela ordem de votação.",
+     "ts": "2:10:16",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama",
      "ts": "2:10:20",
-     "justificativa": "Acompanha a proposta do relator e proclama a unanimidade; antes questionou perdas, contrato e segurança operacional da linha.",
-     "confianca": "alta"
+     "confianca": "alta",
+     "justificativa": "decisão de importar, escolha do agente, preço e montante são do poder concedente (decreto, CMSE, portaria); à ANEEL cabem a sub-rogação da CCC, arranjos contratuais e tarifas; questionou perdas, ausência de CUST e responsabilização em caso de falha, pedindo atenção à segurança do sistema de Roraima"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "id": "5",
-   "motivo": "retirado de pauta (legenda incerta)"
-  },
-  {
-   "id": "6",
-   "motivo": "retirado de pauta (legenda incerta)"
+   "item": "dois itens da pauta (legenda: «itens c e se», provavelmente 5 e 6)",
+   "relator": "não identificado",
+   "motivo": "não informado na sessão",
+   "ts": "0:01:45"
   }
  ],
  "limites_da_analise": [
-  "Votos «eu acompanho» sem nome atribuídos pela ordem (relator, outro diretor, Diretor-Geral por último).",
-  "Números de processo e valores vêm da legenda automática e podem estar errados.",
-  "Hélvio Guerra aparece na legenda como «évio/elv».",
-  "Identificação dos itens retirados (5 e 6) inferida de «itens c e se»."
+  "Legenda automática: números de processo, valores e nomes distorcidos (ex.: «évio»/«elv» = Hélvio Guerra; «Tile» = Ricardo Tili); processos marcados como incertos.",
+  "Itens do bloco (7 a 10): assuntos e relatores não lidos na sessão; ordem das falas «aprovo o bloco» atribuída pela ordem usual (Hélvio, Ricardo, Diretor-Geral) com confiança média.",
+  "Itens retirados de pauta: números ditos de forma ininteligível («c e se»); assuntos não identificados.",
+  "No item 1 a data de entrada em operação comercial foi dita de forma inconsistente («22/12/2022» e «22 de dezembro de 2008»); omitida. Percentual da Mercury Investments no consórcio também incerto.",
+  "No item 2 a legenda diz «em Reais equivalente a 17,66»; moeda/unidade incertas.",
+  "Votos dos não-relatores: falas «eu acompanho» sem nome; atribuídas pela ordem usual (relator, outro diretor, Diretor-Geral por último e proclama) com só três presentes; nº de votos = 3 presentes em todos os itens."
  ]
 }

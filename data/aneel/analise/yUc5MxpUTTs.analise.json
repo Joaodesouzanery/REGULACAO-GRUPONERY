@@ -1,44 +1,72 @@
 {
- "meta": {"video_id": "yUc5MxpUTTs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
- "reuniao": {
-  "numero": "5ª Reunião Pública Ordinária de 2022 (parte 2, tarde)", "data": "2022-02-15", "formato": "presencial/híbrida com sustentações orais em vídeo",
-  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
-  "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz"],
-  "ausentes": [],
-  "observacoes": ["Sessão da tarde com 3 processos destacados do bloco, todos com sustentação oral em vídeo e decididos por unanimidade dos votantes.", "O item 41 foi chamado primeiro, adiado por falha ao carregar o voto e julgado por último."]
- },
- "itens": [
-  {"id": "23", "ts": "0:00:14", "processo": "48500.005011/2021-23", "interessado": "Deputado federal Wellington (Weliton) Prado, deputado estadual Elismar Prado, Usina de Energia Fotovoltaica de Araxá S.A.; Cemig Distribuição",
-   "assunto": "Pedidos de reconsideração contra a REH 2.877/2021 (reajuste tarifário anual 2021 da Cemig-D) e TUSDg das UFV Araxá 1 e 2",
-   "tema": ["tarifas e revisão tarifária", "recursos administrativos", "bandeiras tarifárias", "créditos de PIS/Cofins (exclusão do ICMS)"],
-   "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes: conhecer e negar provimento ao pedido dos deputados; não conhecer o da UFV Araxá (intempestivo); de ofício retificar TUSDg das UFV Araxá 1 e 2 e UTE Tupaciguara com refaturamento",
-   "resumo_voto": "Sustentação oral do deputado Weliton Prado pedindo devolução integral dos créditos de PIS/Cofins e criticando a bandeira escassez hídrica. Procuradoria: cobrança não era ilegal; tema tratado em consulta pública em paralelo; opina pelo não provimento. Pepitone explicou que a bandeira escassez hídrica cobre custos de set-nov/2021 diluídos até abril.",
-   "votos": [
-    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega provimento)", "ts": "0:18:10", "justificativa": "cobrança não era ilegal; devolução dos créditos tratada em processo paralelo ainda não concluído; agência vem reduzindo impactos caso a caso", "confianca": "alta"},
-    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "0:24:18", "justificativa": "", "confianca": "media"},
-    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:24:20", "justificativa": "esclareceu que a bandeira escassez hídrica cobre déficit de set-nov e não se relaciona às chuvas atuais", "tom": "explicativo", "confianca": "alta"}
-   ]},
-  {"id": "46", "ts": "0:25:45", "processo": "48500.002725/2019-46", "interessado": "Brasenergia (nome incerto) Geradora de Energia Ltda (CGH Salto do Timbó); Emisul (nome incerto) Energias Renováveis Ltda",
-   "assunto": "Recurso administrativo contra o Despacho SCG 2.236/2019, que conferiu DRI-PCH da PCH Ricardo Marins; pedido de compensação energética para a CGH Salto do Timbó",
-   "tema": ["outorgas de geração (hidrelétrica)", "recursos administrativos"],
-   "relator": "Efrain Cruz", "resultado": "negado provimento por unanimidade dos votantes; mantido o despacho",
-   "resumo_voto": "Sustentação oral de Guilherme (sobrenome incerto) pela recorrente. Procuradoria (parecer 277): não há previsão legal para compensação a CGH com outorga extinta afetada pelo aproveitamento ótimo.",
-   "votos": [
-    {"diretor": "Efrain Cruz", "voto": "relator, nega provimento", "ts": "0:40:36", "justificativa": "não há previsão legal de compensação; não pode afastar o regramento; acompanha SCG e Procuradoria", "confianca": "alta"},
-    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:04", "justificativa": "", "confianca": "media"},
-    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "0:41:08", "justificativa": "", "confianca": "alta"}
-   ]},
-  {"id": "41", "ts": "0:41:50", "processo": "48500.002780/2001-18", "interessado": "Companhia Brasileira de Alumínio (CBA/Votorantim) - UHE Salto do Iporanga, Juquiá/SP",
-   "assunto": "Pedido de prorrogação da concessão da UHE Salto do Iporanga",
-   "tema": ["outorgas de geração (hidrelétrica)", "prorrogação de concessão"],
-   "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade dos votantes: recomendar ao MME o indeferimento da prorrogação e inclusão da usina no rol a ser licitado",
-   "resumo_voto": "Sustentação oral de Rodrigo Machado Moreira Santos (CBA) alegando direito adquirido e art. 4º da Lei 9.074, e pedindo exclusão de dispositivo sobre período pós-concessão. Procuradoria: não há direito à prorrogação; concessão já prorrogada (Portaria 523/2001) não se enquadra no art. 2º da Lei 12.783 após a Lei 13.360. Relator: ANEEL não determina ao MME, apenas opina; usina não fica abandonada.",
-   "votos": [
-    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (recomenda indeferimento)", "ts": "1:05:30", "justificativa": "dois pareceres da Procuradoria e instrução da SCG; concessão já prorrogada; decisão é do poder concedente; foi garantido contraditório", "confianca": "alta"},
-    {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:05:39", "justificativa": "", "confianca": "media"},
-    {"diretor": "André Pepitone", "voto": "acompanha o relator", "ts": "1:05:45", "justificativa": "", "confianca": "alta"}
-   ]}
- ],
- "retirados": [],
- "limites_da_analise": ["Parte 2 (tarde) da 5ª RPO de 2022; a parte da manhã está em outro vídeo.", "Presentes inferidos das saudações (Doutor André, Doutor Efrain) e da relatoria; a legenda menciona 'Senhora Diretora' em sustentações gravadas, sem fala de diretora na sessão.", "Falas de 'acompanho' sem nome; atribuição pela ordem usual e pela proclamação.", "Nomes das empresas do item 46 (Brasenergia/Emisul) e números de processo são incertos pela legenda automática."]
+  "meta": {"video_id": "yUc5MxpUTTs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (parte 2, sessão da tarde); ts de quem só acompanha é aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "5ª Reunião Pública Ordinária de 2022 (Parte 2)",
+    "data": "2022-02-15",
+    "formato": "sessão pública (transmissão; sustentações orais por vídeo)",
+    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Efrain Cruz"],
+    "ausentes": [],
+    "observacoes": [
+      "Parte 2 (tarde) da 5ª RPO de 2022; três processos deliberados (itens 23, 21 e 41 da pauta), todos por unanimidade dos votantes.",
+      "Sandoval cumprimenta apenas «Doutor André, Doutor Efraim»; proclamações dizem «unanimidade dos votantes»; inferido que só três diretores votaram nesta parte.",
+      "Item 41 foi anunciado às 0:24:43, mas o relator não conseguiu abrir o voto; passou-se ao item 21 e o 41 foi julgado ao fim (0:41:49).",
+      "Sessão encerrada às 1:06:24 do vídeo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "23", "ts": "0:00:14",
+      "processo": "48500.005011/2021-23 (número incerto pela legenda)",
+      "interessado": "Deputado federal Weliton (Wellington) Fernandes Prado, deputado estadual Elismar Fernandes Prado e Usina de Energia Fotovoltaica de Araxá S.A.; distribuidora Cemig Distribuição S.A.",
+      "assunto": "Pedidos de reconsideração contra a REH 2.877/2021 (reajuste tarifário anual 2021 da Cemig-D): devolução integral dos créditos de PIS/Cofins (exclusão do ICMS da base) e TUSDg das usinas Araxá 1 e 2",
+      "tema": ["tarifas e revisão tarifária", "recursos administrativos", "distribuição", "créditos PIS/Cofins", "bandeiras tarifárias"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "unanimidade dos votantes: conhecer e negar provimento ao pedido dos deputados; não conhecer o pedido da UFV Araxá (intempestivo); de ofício retificar a TUSDg das UFV Araxá 1 e 2 e da UTE Tupaciguara, com refaturamento",
+      "resumo_voto": "Item destacado do bloco a pedido do deputado. Sustentação oral (vídeo) do deputado federal Weliton Prado pedindo devolução total de cerca de 6,2 bi (legenda diz milhões) de créditos de PIS/Cofins e criticando a bandeira escassez hídrica. Procurador-geral: a cobrança não era ilegal; a devolução é tratada em consulta pública em outro processo; opina pelo não provimento. Relator: a matéria corre em processo paralelo; agência tem reduzido impactos caso a caso. Pepitone esclareceu que a bandeira escassez hídrica cobre déficit de set-nov/2021 (cerca de 13,8 bi) e não guarda relação com as chuvas atuais.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (nega provimento)", "ts": "0:18:10", "justificativa": "a forma de devolução dos créditos de PIS/Cofins está em discussão em processo paralelo ainda não concluído; a cobrança não era ilegal; pedido da UFV Araxá intempestivo; correção de ofício da TUSDg", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "0:24:18", "justificativa": "«Me acompanhe relator» (fala curta, atribuída pela ordem de votação)", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:24:19", "justificativa": "antes, esclareceu que a bandeira escassez hídrica cobre custos de set-nov/2021 (déficit de cerca de 13,8 bi na conta bandeira e medidas emergenciais) e não se relaciona com os reservatórios atuais", "tom": "explicativo, cordial com os parlamentares", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "21", "ts": "0:25:34",
+      "processo": "48500.002725/2019-46",
+      "interessado": "Brasenas (legenda: «brawn Jenner Bros») Energia Geradora de Energia Ltda. (CGH Salto do Timbó); Emisul (legenda: «emissora/me sua») Energias Renováveis Ltda. (PCH Ricardo Marins)",
+      "assunto": "Recurso administrativo contra o Despacho SCG 2.236/2019, que conferiu DRI-PCH da PCH Ricardo Marins; recorrente pede compensação pelas perdas energéticas da CGH Salto do Timbó afetada pelo aproveitamento ótimo",
+      "tema": ["outorgas de geração (PCH/CGH)", "recursos administrativos", "aproveitamento ótimo"],
+      "relator": "Efrain Cruz",
+      "resultado": "unanimidade dos votantes: conhecer e negar provimento ao recurso, mantendo o Despacho 2.236/2019",
+      "resumo_voto": "Sustentação oral (vídeo) de Guilherme (sobrenome incerto, legenda «berejuk»), pela recorrente: art. 8º da Lei 9.074 afasta ônus da União/ANEEL, mas não o direito a compensação entre agentes; pediu que a ANEEL dirimisse o conflito antes da outorga. Procuradoria: parecer 277 - não há previsão legal de compensação para CGH com outorga extinta por decurso de prazo afetada pelo aproveitamento ótimo. Relator acompanhou SCG e procuradoria.",
+      "votos": [
+        {"diretor": "Efrain Cruz", "voto": "relator, aprova (nega provimento)", "ts": "0:38:27", "justificativa": "não há previsão legal para compensação; «não posso eu afastar o regramento para estabelecer uma resolução de conflitos»; reconhece «algum ponto de sensibilidade no tema»", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:41:04", "justificativa": "«acompanha a proposta de voto do eminente relator» (atribuído pela ordem de votação; legenda truncada)", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "0:41:11", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "41", "ts": "0:41:49",
+      "processo": "48500.002780/2001-18",
+      "interessado": "Companhia Brasileira de Alumínio (CBA, grupo Votorantim); UHE Salto do Iporanga, Juquiá (SP)",
+      "assunto": "Pedido de prorrogação da concessão da UHE Salto do Iporanga (concessão encerrada em 04/11/2021)",
+      "tema": ["outorgas de geração (hidrelétrica)", "prorrogação de concessão", "institucional (recomendação ao MME)"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "unanimidade dos votantes: recomendar ao MME o indeferimento da prorrogação e a inclusão da usina no rol das usinas a serem licitadas",
+      "resumo_voto": "Sustentação oral (vídeo) de Rodrigo Machado Moreira Santos (CBA): direito à prorrogação pela redação original do art. 2º da Lei 12.783 e art. 4º da Lei 9.074; usina não interligada (Portaria MME 117 inaplicável); pediu exclusão de dispositivo da minuta sobre o período operado após o fim da concessão. Procurador-geral: não existe direito adquirido a prorrogação; pedido não forma ato jurídico perfeito; após a Lei 13.360 só se prorroga concessão não prorrogada antes; manifestação da ANEEL é opinativa. Relator: SCG e dois pareceres da procuradoria; ANEEL não determina nada ao MME; usina não fica abandonada.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova (recomenda indeferimento ao MME)", "ts": "1:05:03", "justificativa": "concessão já prorrogada (Portaria 523/2001), sem enquadramento no art. 2º da Lei 12.783; ANEEL só opina, decisão é do poder concedente; garantiu contraditório e retirada de pauta a pedido da empresa; usina continuará operada", "tom": "firme ao rebater a sustentação («não posso aceitar»)", "confianca": "alta"},
+        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:05:42", "justificativa": "«acompanha o relator» (atribuído pela ordem de votação)", "confianca": "media"},
+        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "1:05:44", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, nomes de empresas (Brasenas, Emisul) e do advogado Guilherme (sobrenome) são incertos.",
+    "Presença inferida: só André Pepitone, Sandoval Feitosa e Efrain Cruz falam/são citados; Efrain e a sustentação mencionam «Senhora Diretora», mas nenhuma diretora vota nesta parte (possível ausência na tarde ou fórmula de saudação).",
+    "Falas «acompanho» sem nome atribuídas pela ordem usual (relator, outro diretor, Diretor-Geral por último) e pela proclamação «unanimidade dos votantes».",
+    "Valores citados pelo deputado (6,2 milhões/bilhões) estão inconsistentes na legenda.",
+    "Itens do bloco e da parte da manhã estão em outro vídeo (Parte 1)."
+  ]
 }

@@ -1,80 +1,118 @@
 {
   "meta": {"video_id": "8kWc99E-0kU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "15ª Reunião Pública Ordinária de 2023", "data": "2023-05-09", "formato": "presencial (auditório da ANEEL)",
-    "presidente_da_sessao": "Hélvio Guerra (abriu e presidiu no início, na ausência do Diretor-Geral); Sandoval Feitosa (Diretor-Geral) assumiu após incorporar-se à sessão",
-    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna", "Sandoval Feitosa (chegou após o início)"],
-    "ausentes": [],
-    "observacoes": ["Abertura com quórum de quatro diretores; o Diretor-Geral Sandoval Feitosa estava em reunião fora da agência e incorporou-se depois (participa claramente a partir do item 3).", "Pauta com 39 itens; itens 7 a 39 em bloco; retirados de pauta os itens 4, 5, 16 e 22 (segundo a estatística final, os itens 4 e 5 tratavam de RBSE e de um requerimento de medida cautelar).", "Item 3 (tratamento excepcional de CUST/outorgas, 'anistia') aprovado por maioria, vencidos Fernando Mosna e Ricardo Tili, que queriam incluir na consulta pública propostas de regularização de cronograma e dispensa de multa de CUST rescindido; determinado estudo à área técnica em 60 dias, registrado em ata.", "Item 6 (Tradener x CCEE): relator Hélvio Guerra mudou o voto após sustentação oral e manifestação do procurador-geral, passando a conceder efeito suspensivo (art. 43 da REN 957/2021); aprovado por 3 a 2, vencidos Agnes da Costa e Fernando Mosna. Determinado em ata que SGM, Procuradoria e Secretaria-Geral disciplinem o rito dos pedidos de impugnação de decisões da CCEE (acompanhamento pelo gabinete de Ricardo Tili).", "Encerramento ≈ 3:42:00 do vídeo."]
+    "numero": "15ª Reunião Pública Ordinária de 2023",
+    "data": "2023-05-09",
+    "formato": "presencial (auditório da ANEEL) com transmissão pelo YouTube",
+    "presidente_da_sessao": "Hélvio Guerra (abertura, bloco e itens 1 e 2, com Sandoval ausente); Sandoval Feitosa (Diretor-Geral) a partir do item 3",
+    "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Agnes da Costa", "Fernando Mosna", "Sandoval Feitosa (chegou após o item 2)"],
+    "ausentes": ["Sandoval Feitosa (apenas na abertura, bloco e itens 1 e 2: em reunião fora da agência)"],
+    "observacoes": [
+      "Sessão aberta com quórum de quatro diretores; o presidente da abertura informa que o diretor Sandoval está em reunião fora da agência e se incorporaria depois. Pelas falas (procurador se dirige a «doutor Elvio» no item 2; no item 3 Hélvio se dirige a «diretor Sandoval» e a mesa brinca com o nome de Hélvio), Hélvio Guerra presidiu até o item 2 e Sandoval presidiu a partir do item 3.",
+      "Pauta com 39 itens; itens 7 a 39 em bloco; retirados de pauta os itens 4, 5, 16 e 22. Ordem: bloco, depois itens 1, 2, 3 e 6.",
+      "Ata da 14ª RPO aprovada.",
+      "Item 3 (tratamento excepcional / anistia de CUST e outorgas): aprovado por maioria 3 x 2; Fernando Mosna propôs incluir três pontos na consulta pública e Ricardo Tili acompanhou a inclusão dos pontos 1 e 3; determinação em ata de estudo pela área técnica (60 dias) sobre as propostas de Fernando.",
+      "Item 6 (Tradener x CCEE): relator Hélvio Guerra mudou o voto em plenário, após sustentação oral e manifestação do procurador-geral, de negar para conceder o efeito suspensivo à impugnação; aprovado por maioria 3 x 2, vencidos Agnes da Costa e Fernando Mosna; determinação em ata para SGM, Procuradoria e Secretaria-Geral disciplinarem o rito de impugnações de decisões da CCEE.",
+      "Encerramento por volta de 3:42 do vídeo (bom almoço)."
+    ]
   },
   "itens": [
     {
-      "id": "bloco", "ts": "0:08:56", "processo": "", "interessado": "diversos",
-      "assunto": "Itens 7 a 39 da pauta (bloco), votos e atos previamente publicados; itens 16 e 22 retirados", "tema": ["bloco"],
-      "relator": "diversos", "resultado": "aprovados por unanimidade",
-      "resumo_voto": "Itens do bloco aprovados sem discussão.",
+      "id": "bloco", "ts": "0:09:06",
+      "processo": "itens 7 a 39 da pauta (exceto 16 e 22, retirados)",
+      "interessado": "diversos",
+      "assunto": "Itens de bloco (votos e atos disponibilizados previamente na internet)",
+      "tema": ["bloco de itens"],
+      "relator": "diversos",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens do bloco submetidos e aprovados sem discussão.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:08:56", "justificativa": "Proclama: por unanimidade, aprovação dos itens do bloco.", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:08:58", "justificativa": "", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:08:58", "justificativa": "", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:08:58", "justificativa": "", "confianca": "media"}
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (presidente da sessão, proclama)", "ts": "0:09:19", "justificativa": "", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:16", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:16", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:09:16", "justificativa": "", "confianca": "baixa"}
       ]
     },
     {
-      "id": "1", "ts": "0:09:27", "processo": "48500.006867/2022-88", "interessado": "Neoenergia Pernambuco (Celpe)",
-      "assunto": "Reajuste tarifário anual 2023 da Neoenergia Pernambuco, a vigorar a partir de 14/05/2023 (efeito médio 9,02%; AT 10,41%; BT 8,51%)",
-      "tema": ["tarifas e revisão tarifária", "geração distribuída (MMGD)"],
-      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Homologa o reajuste; relator destaca que o aumento vem de sobrecontratação (7,47%) e reversão do financeiro de escassez hídrica (5,40%), atenuados pela devolução de créditos de PIS/Cofins; ajuste de perdas técnicas pela MMGD (+0,21%). Apresentação técnica da SRT (Francisco).",
+      "id": "1", "ts": "0:09:30",
+      "processo": "48500.006867/2022-88",
+      "interessado": "Neoenergia Pernambuco (Companhia Energética de Pernambuco, Celpe) — distribuidora",
+      "assunto": "Reajuste tarifário anual de 2023 da Neoenergia Pernambuco, a vigorar a partir de 14/05/2023 (tarifas prorrogadas desde 29/04 para avaliar efeito da MMGD nas perdas técnicas); efeito médio 9,02% (AT 10,41%, BT 8,51%)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTA)", "geração distribuída (MMGD)", "distribuição"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa índice de reajuste com efeito médio de 9,02%; ajuste das perdas técnicas pelo efeito da MMGD (dados faturados x medidos, +0,21%); principais pressões: sobrecontratação involuntária (7,47%) e reversão do financeiro de escassez hídrica (5,40%), atenuadas pela devolução de créditos de PIS/Cofins (Lei 14.385/2022). Apresentação técnica do servidor Francisco (STR); homenagens ao ex-superintendente Davi Antunes.",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:28:08", "justificativa": "Parcela A pressionada por encargos e sobrecontratação, efeitos externos à gestão da distribuidora; reajuste da parcela da distribuidora muito abaixo da inflação; sobrecontratação também é efeito da MMGD.", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:32:05", "justificativa": "Ressalta a necessidade de avaliar o descompasso entre energia medida e faturada nas perdas com MMGD; proclama unanimidade.", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:04", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:04", "justificativa": "", "confianca": "baixa"}
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:28:19", "justificativa": "aumento decorre de encargos, sobrecontratação (migração de consumidores para mercado livre e MMGD) e escassez hídrica, efeitos externos à gestão da distribuidora; parcela B praticamente estável, reajuste para a distribuidora muito abaixo da inflação", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:32:15", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:32:15", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (presidente da sessão, proclama)", "ts": "0:32:17", "justificativa": "descompasso entre energia medida e faturada nas perdas precisa ser bem avaliado pela agência porque eleva tarifas; tema em análise e em consulta pública", "confianca": "media"}
       ]
     },
     {
-      "id": "2", "ts": "0:32:46", "processo": "48500.006862/2022-12; 48500.001274/2023-14", "interessado": "Equatorial Pará Distribuidora de Energia",
-      "assunto": "Abertura de consulta pública (10/05 a 23/06/2023, reunião presencial em Belém em 26/05) sobre a revisão tarifária periódica 2023 da Equatorial Pará (a partir de 07/08/2023; efeito médio proposto 16,85%) e limites DEC/FEC 2024-2027",
-      "tema": ["tarifas e revisão tarifária", "regulação normativa (consulta pública)", "distribuição e qualidade"],
-      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Instaura consulta pública; apresentação técnica da SRT (Leonardo Araújo) indica efeito dominado por componentes financeiros (reversão de diferimento de 2022).",
+      "id": "2", "ts": "0:33:41",
+      "processo": "48500.006862/2022-12 e 48500.001274/2023-14 (números incertos na legenda)",
+      "interessado": "Equatorial Pará Distribuidora de Energia S.A. — distribuidora",
+      "assunto": "Abertura de consulta pública (10/05 a 23/06/2023, reunião presencial em Belém em 26/05/2023) sobre a revisão tarifária periódica 2023 da Equatorial Pará, a vigorar a partir de 07/08/2023, e limites de DEC e FEC 2024–2027; efeito médio preliminar 16,85%",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "regulação normativa (consulta pública)", "qualidade/continuidade (DEC/FEC)", "distribuição"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Instaura consulta pública da RTP 2023 da Equatorial Pará; efeito médio preliminar de 16,85% puxado por componentes financeiros (reversão de diferimento de 2022, 7,06%); perdas não técnicas regulatórias sobem de 32% para 37,06%; trajetória de redução de custos operacionais. Apresentação técnica do servidor Leonardo Araújo (STR).",
       "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:48:10", "justificativa": "Consulta pública essencial em revisão tarifária para aplicação da metodologia.", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:49:45", "justificativa": "Destaca indicadores DEC/FEC abaixo dos limites; proclama unanimidade.", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:49:43", "justificativa": "'eu acompanho o voto do relator' (falante não nomeado).", "confianca": "baixa"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:49:44", "justificativa": "'eu acompanho o voto do relator' (falante não nomeado).", "confianca": "baixa"}
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova abertura da consulta pública", "ts": "0:48:06", "justificativa": "revisão tarifária exige aplicação ampla da metodologia, sendo essencial ouvir a sociedade", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:49:55", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:49:55", "justificativa": "", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (presidente da sessão, proclama)", "ts": "0:48:55", "justificativa": "destaca indicadores DEC/FEC bem abaixo dos limites, sinal da qualidade do serviço", "confianca": "media"}
       ]
     },
     {
-      "id": "3", "ts": "0:50:42", "processo": "48500.001719/2023-58", "interessado": "centrais geradoras com CUST; ABEEólica (proponente); ONS",
-      "assunto": "Consulta pública (intercâmbio documental, 11 a 22/05/2023) sobre tratamento excepcional na gestão de outorgas de geração e CUST ('anistia': rescisão de CUST sem encargos rescisórios e revogação de outorga), com manifestação de intenção ao ONS até 06/06/2023",
-      "tema": ["transmissão (CUST, margem de escoamento)", "outorgas de geração (eólica, solar)", "regulação normativa (consulta pública)"],
-      "relator": "Hélvio Guerra", "resultado": "aprovado por maioria (3 a 2), vencidos Fernando Mosna e Ricardo Tili; determinado estudo em 60 dias sobre as propostas de Fernando Mosna",
-      "resumo_voto": "Relator abre CP para liberar margem de transmissão ocupada por empreendimentos da 'corrida do ouro' (pedidos até 02/03/2022); prazo ajustado de 11 para 12 dias. Fernando Mosna propôs incluir na CP (1) regularização de cronograma para quem paga CUST e tem obra em andamento, (2) postergação para CUST de execução futura sem obra e (3) dispensa da multa de 36 EUST para CUST rescindido por inadimplência mediante pagamento dos débitos; ao fim encaminhou os pontos 1 e 3. Relator recusou incorporar por falta de estudo de impacto, aceitando determinação de estudo.",
+      "id": "3", "ts": "0:51:11",
+      "processo": "48500.001719/2023-58",
+      "interessado": "centrais geradoras com CUST e outorgas (pedido da ABEEólica; ONS; transmissoras)",
+      "assunto": "Tratamento excepcional na gestão das outorgas de geração e dos contratos de uso do sistema de transmissão (CUST) — mecanismo voluntário de rescisão de CUST sem encargos rescisórios e revogação de outorga ('anistia', 'corrida do ouro' pós Lei 14.120/2021); consulta pública por intercâmbio documental de 12 dias (11 a 22/05/2023) e intenção de adesão ao ONS até 06/06/2023",
+      "tema": ["transmissão (CUST, margem de escoamento)", "outorgas de geração (eólica, solar)", "regulação normativa (consulta pública)", "descontos TUST/TUSD"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por maioria (3 x 2); vencidos Fernando Mosna e Ricardo Tili quanto à inclusão de propostas adicionais na consulta pública; determinação em ata de estudo técnico das propostas de Fernando Mosna",
+      "resumo_voto": "Abre consulta pública de 12 dias (prazo final ajustado de 21 para 22/05, domingo) sobre mecanismo excepcional de adesão voluntária para rescindir CUST sem encargos rescisórios e revogar outorgas (com devolução de garantias), condicionado a adimplência dos EUST até o fim do ciclo e renúncia a ações judiciais; objetivo: liberar margem de escoamento (teto estimado ~17,7 GW) antes do ciclo tarifário de julho/2023. Apresentação técnica do servidor Rafael (STD). Procurador-geral registra 24 ações judiciais sobre cobrança de EUST pré-operação. Fernando Mosna propôs incluir na CP: (1) regularização de cronograma para quem tem CUST em execução e obra em andamento, sem análise de excludente, mantendo o pagamento do CUST; (2) postergação para CUST com execução futura sem obra; (3) dispensa da multa de 36 EUST para CUST rescindidos por inadimplência mediante quitação dos valores em aberto. Relator manteve o voto, preferindo estudo técnico prévio.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:37:00", "justificativa": "Proposta convergente com o ONS; prazo curto para refletir saídas no ciclo tarifário que começa em 01/07/2023; não se sente à vontade para incluir propostas sem estudo, pois abrir CP dá sinal ao mercado ('tiro no escuro').", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:15:08", "justificativa": "'Eu voto primeiro e voto com o relator, espero que a gente faça os estudos em breve'; preocupação com isonomia e falta de análise de impacto; sugeriu estudo em 60 dias.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "vencido (acompanha Fernando Mosna: incluir itens 1 e 3)", "ts": "2:15:15", "justificativa": "Diretor pode contribuir em CP como qualquer cidadão; concordou com os itens 1 e 3 e discordou do item 2 por incentivar descontratação. Atribuição pela ordem de falas.", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "diverge: aprova CP incluindo itens 1 e 3 de sua proposta (vencido)", "ts": "2:15:30", "justificativa": "Colegiado pode inserir temas em CP sem nota técnica; evitar sinal de 'dia da anistia' seguido de 'dia da regularização'; boa-fé se presume.", "confianca": "alta"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:16:20", "justificativa": "Excludentes de responsabilidade travam áreas técnicas, mas estudos podem ser feitos de imediato; proclama maioria.", "confianca": "alta"}
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (mantém o voto sem as inclusões propostas)", "ts": "1:14:04", "justificativa": "esgotamento da capacidade de escoamento e judicialização exigem liberar margem; prazo curto para o próximo ciclo tarifário; propostas de Fernando não foram estudadas, dariam sinal regulatório sem avaliação de impacto e poderiam abrir janela para outros pedidos de anistia; devem ser estudadas pela área técnica em processo próprio", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:15:21", "justificativa": "não se sente confortável em incluir na CP sem estudo de impactos (isonomia, faturamento e registros contábeis das transmissoras); apoia determinar estudo técnico das propostas de Fernando", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "diverge parcialmente: acompanha o relator e acata os pontos 1 e 3 de Fernando Mosna (vencido)", "ts": "2:15:27", "justificativa": "diretor pode contribuir na abertura de consulta pública como qualquer cidadão; não concorda com o ponto 2 por incentivar a descontratação", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: vota com o relator incluindo os pontos 1 e 3 na consulta pública (vencido)", "ts": "2:15:54", "justificativa": "consulta pública é o momento de ouvir o mercado; limitar a CP ao que consta da nota técnica apequena o papel do colegiado; anistia agora e regularização depois criaria hábito de 'dias do perdão'", "tom": "enfático", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (vota por último e proclama)", "ts": "2:16:06", "justificativa": "preocupação de Fernando é válida, mas estudos podem ser feitos de imediato com as áreas técnicas; pedidos de excludente travam a fiscalização; pagamento do CUST é indício, mas não único, de que o empreendimento será implantado", "confianca": "alta"}
       ]
     },
     {
-      "id": "6", "ts": "2:19:00", "processo": "48500.001576/2023-84", "interessado": "Tradener Ltda. (comercializadora) x CCEE",
-      "assunto": "Pedido de impugnação com efeito suspensivo (tratado como medida cautelar) contra deliberação do Conselho de Administração da CCEE que manteve multa por insuficiência de lastro (jun-jul/2021, ≈ R$ 2,83 milhões; TNs 9909 e 9925/2022), decorrente de recontabilização do Despacho 3.122/2020",
-      "tema": ["comercialização (CCEE, lastro)", "recursos administrativos", "fiscalização e sanções (multa)"],
-      "relator": "Hélvio Guerra", "resultado": "concedido o efeito suspensivo por maioria (3 a 2), vencidos Agnes da Costa e Fernando Mosna; autos remetidos à SGM para mérito; determinação para disciplinar o rito dos pedidos de impugnação de decisões da CCEE",
-      "resumo_voto": "Sustentação oral de Flávio Bettega (Tradener): caução em dinheiro prestada, art. 43 da REN 957 não exige fumaça do bom direito. Procurador-geral Luís Eduardo concordou. Relator, que propunha negar (precedente Beta Comercializadora), alterou o voto para conceder o efeito suspensivo.",
+      "id": "6", "ts": "2:19:07",
+      "processo": "48500.001576/2023-84",
+      "interessado": "Tradener Ltda. — comercializadora; CCEE",
+      "assunto": "Pedido de impugnação com pedido de efeito suspensivo (tratado como medida cautelar) contra deliberação do Conselho de Administração da CCEE que manteve penalidade por insuficiência de lastro (jun–jul/2021, ~R$ 2,83 milhões; termos de notificação 9909 e 9925/2022) decorrente de recontabilização do Despacho 3.122/2020",
+      "tema": ["comercialização (CCEE, lastro)", "fiscalização e sanções (multa)", "recursos administrativos (impugnação, efeito suspensivo)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por maioria (3 x 2): conhecido o pedido de impugnação e concedido o efeito suspensivo; autos remetidos à SGM para mérito; vencidos Agnes da Costa e Fernando Mosna; determinação em ata para SGM, Procuradoria e Secretaria-Geral disciplinarem o rito de impugnações contra decisões da CCEE",
+      "resumo_voto": "Sustentação oral de Flávio Bettega (Tradener): caução em dinheiro prestada, art. 43 da REN 957/2021 não exige fumaça do bom direito, multa seria aplicada em 12/05 e CCEE não examinou culpa. Procurador-geral Luís Eduardo opina que, com a caução integral (paralelo com art. 151 do CTN), basta o art. 43. Relator, que propunha negar a cautelar por ausência de periculum e de fumaça do bom direito (precedente Beta Comercializadora, 14ª RPO), reformou o voto para conceder o efeito suspensivo, ajustando a fundamentação em até 24 horas/dois dias.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (voto reformulado: concede efeito suspensivo)", "ts": "2:54:07", "justificativa": "Pedido não é cautelar, mas impugnação com efeito suspensivo do art. 43; as três condições estão presentes e não se exige fumaça do bom direito; mudou após sustentação e manifestação da Procuradoria.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "diverge (vencida)", "ts": "3:29:50", "justificativa": "Mesmo pelo art. 43 é preciso haver justo receio de prejuízo de difícil ou incerta reparação; com a caução não há perigo de desligamento; outros efeitos (reputação) não foram alegados. Abriu a divergência.", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "diverge, acompanha a divergência de Agnes da Costa (vencido)", "ts": "3:30:12", "justificativa": "Pedido tratado como cautelar exige perigo da demora e reversibilidade; valor ≈ 1% do ajuste de R$ 250 milhões da Tradener na CCEE; mudança de entendimento arriscada sem aprofundamento.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:30:20", "justificativa": "Os três requisitos do art. 43 estão preenchidos; a incerteza de reparação existe pela fila de recontabilizações na CCEE.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:30:35", "justificativa": "'Ai que dilema': apesar de ter se alinhado aos argumentos de Fernando Mosna, acompanha o relator; proclama maioria e determina disciplina do rito.", "confianca": "alta"}
+        {"diretor": "Hélvio Guerra", "voto": "relator, reformula o voto em plenário: concede o efeito suspensivo (pedido de impugnação do art. 43 da REN 957)", "ts": "2:54:16", "justificativa": "trata-se de pedido de impugnação com efeito suspensivo do art. 43, não cautelar; os três requisitos estão presentes e não se exige fumaça do bom direito; sustentação oral e manifestação da procuradoria levaram à mudança", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "diverge: nega o efeito suspensivo (abre divergência, vencida)", "ts": "3:29:52", "justificativa": "dúvida sobre o requisito do inciso I (justo receio de prejuízo de difícil ou incerta reparação): com a caução não há risco de desligamento; outros efeitos da penalidade não foram demonstrados pela empresa", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a divergência de Agnes da Costa (vencido)", "ts": "3:30:23", "justificativa": "pedido foi recebido como cautelar e exige análise de periculum in mora e reversibilidade; valor (~1,1% do ajuste de R$ 250 milhões da Tradener na liquidação de março/2023) não é relevante para o porte do agente", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:30:29", "justificativa": "preenchidos os três requisitos do art. 43; a incerteza da reparação está caracterizada, pois a recontabilização na CCEE entra em fila sem prazo definido", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (vota por último e proclama)", "ts": "3:30:44", "justificativa": "embora tenha argumentado na linha de Fernando, alinha-se ao relator para receber o pedido com efeito suspensivo e determinar às áreas a disciplina do rito", "tom": "hesitante («Ai que dilema»)", "confianca": "media"}
       ]
     }
   ],
-  "retirados": ["Item 4 (RBSE, segundo a estatística final)", "Item 5 (requerimento com medida cautelar, segundo a estatística final)", "Item 16 (bloco)", "Item 22 (bloco)"],
-  "limites_da_analise": ["Legenda automática: números de processo e valores podem estar errados (ex.: processo do item 2 transcrito como 48.500686 2022 12).", "Abertura dita por Hélvio Guerra (cumprimenta Ricardo, Agnes e Fernando; quórum de quatro); momento exato da chegada de Sandoval Feitosa não identificado; nos itens bloco, 1 e 2 ele não foi contado como votante.", "Itens bloco, 1 e 2: falas de 'acompanho' sem nome; atribuição pela proclamação de unanimidade, confiança baixa/média.", "Item 3: ordem dos votos de Agnes e Ricardo inferida pelo conteúdo (Agnes sugerira o estudo; Ricardo apoiara os pontos de Fernando).", "Item 6: discussão longa e confusa sobre cautelar x efeito suspensivo; relator mencionou que Agnes, como divergente, teria de juntar voto escrito.", "ts dos votos finais do item 6 aproximados (≈ 3:29-3:31)."]
+  "retirados": [
+    {"id": "4", "observacao": "retirado de pauta (segundo a estatística final, um dos processos retirados tratava de RBSE; identificação incerta)"},
+    {"id": "5", "observacao": "retirado de pauta"},
+    {"id": "16", "observacao": "retirado de pauta (item de bloco)"},
+    {"id": "22", "observacao": "retirado de pauta (item de bloco)"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes podem estar errados (ex.: 'Tradener' grafado 'trade/trainer/tradener'; 'Hélvio' como 'Elvio/Élvio/ovo de guerra'; ABEEólica como 'biólica').",
+    "Presença de Sandoval Feitosa inferida: ausente na abertura, bloco e itens 1 e 2; presente a partir do item 3. Bloco e itens 1 e 2 contam 4 votos; itens 3 e 6 contam 5 votos.",
+    "Bloco e itens 1 e 2: só se ouvem duas ou três falas curtas de 'aprovo/acompanho' sem nome; votos de Ricardo, Agnes e Fernando atribuídos pela proclamação de unanimidade (confiança baixa).",
+    "Item 3: o primeiro voto ('Eu voto primeiro e voto com o relator, espero que a gente faça os estudos em breve') foi atribuído a Agnes da Costa pela ordem usual e por coerência com sua fala anterior; Ricardo Tili e Fernando Mosna identificados pelas próprias falas (Ricardo pede desculpas a Fernando por tomar a frente; Fernando 'encaminha um voto com item um e três'). Placar 3 x 2 inferido da proclamação 'por maioria' e das falas.",
+    "Item 6: Agnes identificada como primeira a votar e autora da divergência pela fala da mesa; Fernando identificado pelo comentário posterior 'o voto da diretora Agnes e o voto do diretor Fernando' e por sua menção a 'três a dois'. O voto de Agnes em si não é ouvido claramente.",
+    "Os processos retirados (4, 5, 16 e 22) não têm assunto anunciado na sessão; a estatística final menciona RBSE de forma confusa.",
+    "Item 2: números de processo truncados na legenda."
+  ]
 }

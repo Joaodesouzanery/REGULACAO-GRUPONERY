@@ -1,14 +1,14 @@
 {
  "meta": {
   "video_id": "8igqGVndMss",
-  "fonte": "legenda automática do YouTube; ts aproximados por busca no json de transcrição",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "13ª Reunião Pública Ordinária de 2023",
   "data": "2023-04-25",
-  "formato": "presencial com Agnes da Costa remota",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); Hélvio Guerra a partir do item 3",
+  "formato": "presencial com participação remota (Agnes da Costa remota)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); após sua saída, Hélvio Guerra conduziu os itens 3, 4 e 7",
   "diretores_presentes": [
    "Sandoval Feitosa",
    "Hélvio Guerra",
@@ -18,10 +18,11 @@
   ],
   "ausentes": [],
   "observacoes": [
-   "Pauta de 43 itens; itens 8 a 43 em bloco; retirados de pauta itens 5 e 8 (como dito pelo secretário).",
-   "Ordem: bloco, 2, item da Neoenergia Pernambuco, 18, 6, 3, 4, 7.",
-   "Sandoval Feitosa e Ricardo Tili saíram antes do item 3 (compromisso externo; Tili em missão a Foz do Iguaçu); itens 3, 4 e 7 votados por Hélvio, Fernando e Agnes.",
-   "Todos os itens unânimes; sem pedidos de vista."
+   "Quórum completo de cinco diretores na abertura; Agnes da Costa participou remotamente.",
+   "Ata da 12ª RPO (18/04/2023) aprovada.",
+   "Pauta com 43 itens; itens 8 a 43 em bloco, aprovados por unanimidade; ordem de deliberação anunciada: 2, 18, 6, 3, 4, 7 e 1, mas o item 1 (Neoenergia Pernambuco) foi deliberado logo após o item 2.",
+   "Sandoval Feitosa (compromisso externo) e Ricardo Tili (missão em Foz do Iguaçu) se ausentaram antes do item 3 (cerca de 2:07); itens 3, 4 e 7 deliberados por Hélvio Guerra, Fernando Mosna e Agnes da Costa.",
+   "Homenagens a Rui Altieri (fim do mandato como presidente do conselho da CCEE) e a Eduardo Rossi (novo conselheiro)."
   ]
  },
  "itens": [
@@ -30,387 +31,387 @@
    "ts": "0:11:55",
    "processo": "",
    "interessado": "diversos",
-   "assunto": "Itens de bloco 8 a 43 (votos disponibilizados previamente), exceto os retirados",
+   "assunto": "Itens de bloco da pauta (8 a 43), com votos e atos disponibilizados previamente na internet; exceto retirados de pauta",
    "tema": [
-    "diversos"
+    "bloco de pauta"
    ],
    "relator": "diversos",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Bloco aprovado sem leitura.",
+   "resumo_voto": "Bloco aprovado sem leitura; o Diretor-Geral declarou aprovação por unanimidade.",
    "votos": [
     {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:12:09",
+     "confianca": "alta"
+    },
+    {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco",
-     "ts": "0:11:55",
-     "justificativa": "Aprovação do bloco.",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:12:00",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "aprova o bloco",
-     "ts": "0:11:55",
-     "justificativa": "Aprovação do bloco.",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:12:00",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "aprova o bloco",
-     "ts": "0:11:55",
-     "justificativa": "Aprovação do bloco.",
+     "voto": "aprova o bloco (pela proclamação)",
+     "ts": "0:12:00",
      "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "aprova o bloco",
-     "ts": "0:11:55",
-     "justificativa": "Aprovação do bloco.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "aprova o bloco (proclama)",
+     "voto": "aprova o bloco (pela proclamação)",
      "ts": "0:12:00",
-     "justificativa": "Declara aprovação por unanimidade.",
-     "confianca": "alta"
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:12:31",
+   "ts": "0:12:34",
    "processo": "48500.008196/2022-90",
-   "interessado": "ENBPar / Itaipu Binacional; distribuidoras cotistas (Abradee, Energisa)",
-   "assunto": "Tarifa de repasse da potência contratada de Itaipu para 2023 em caráter definitivo (CUSE definitivo de US$ 16,71/kW), US$ 20,23/kW mês",
+   "interessado": "Itaipu Binacional / ENBPar; distribuidoras cotistas (Abradee, Energisa)",
+   "assunto": "Estabelecimento em caráter definitivo da tarifa de repasse da potência contratada de Itaipu Binacional para 2023, após definição do custo unitário do serviço de eletricidade (CUSE) definitivo de 2023 (USD 16,71/kW.mês); tarifa definitiva de USD 20,23/kW.mês",
    "tema": [
     "tarifas e revisão tarifária",
     "Itaipu",
-    "comercialização"
+    "distribuidoras cotistas"
    ],
    "relator": "Fernando Mosna",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Emissão de REH com tarifa definitiva de US$ 20,23/kW mês para 2023. Sustentações orais de Lucas Malheiros (Abradee) e Rodrigo Santana (Energisa) pedindo republicação/retificação das tarifas das 6 distribuidoras cotistas já reajustadas; procurador e relator: tema a ser tratado em outro processo. Apresentação técnica de André Neves (SGT).",
+   "resumo_voto": "Tarifa de repasse definitiva de USD 20,23/kW.mês para faturamentos de 1º/1 a 31/12/2023 (provisória era USD 16,19). Sustentação oral de Lucas Malheiros Nunes (Abradee) e Rodrigo Santana (Energisa) pedindo republicação/retificação das tarifas das 6 cotistas que já passaram por processo tarifário (CPFL, Light, Enel Rio, Energisa MT e MS, CPFL Paulista; cerca de R$ 500 milhões); procurador-geral pela aprovação. Relator e Diretor-Geral entenderam que o pleito não cabe neste processo; diferença vira componente financeiro (CVA) no próximo processo, conforme a regra. Apresentação técnica de André Neves (SGT).",
+   "sustentacao_oral": [
+    "Lucas Malheiros Nunes (Abradee)",
+    "Rodrigo Santana (Energisa)"
+   ],
    "votos": [
     {
      "diretor": "Fernando Mosna",
      "voto": "relator, aprova",
-     "ts": "0:36:30",
-     "justificativa": "Processo específico do CUSE definitivo; pleito de republicação deve ser analisado depois (CVA, republicação ou retificação), não agora.",
+     "ts": "0:34:14",
+     "justificativa": "processo trata só do CUSE definitivo e da tarifa de repasse; tratamento das distribuidoras que já passaram por processo tarifário (CVA, republicação ou retificação) deve ser analisado em outro momento, não agora",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
      "ts": "0:37:53",
-     "justificativa": "Acompanha.",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "0:37:55",
-     "justificativa": "Acompanha.",
+     "ts": "0:37:53",
      "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "0:37:57",
-     "justificativa": "Acompanha.",
+     "ts": "0:37:53",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "0:37:20",
-     "justificativa": "Tarifa definitiva ainda menor que a de 2022; regra prevê componentes financeiros no próximo reajuste; revisão extraordinária só se houver desequilíbrio, aparentemente não é o caso; nega na prática a republicação.",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "0:35:12",
+     "justificativa": "concorda integralmente; tarifa definitiva ainda é menor que a de 2022 e traz redução de cerca de 1% para consumidores cotistas; acúmulo de componentes financeiros é previsto na regra; se houver desequilíbrio, há revisão tarifária extraordinária; nega republicação pedida",
+     "tom": "firme",
      "confianca": "alta"
     }
    ]
   },
   {
-   "id": "1 (número provável)",
-   "ts": "0:39:08",
+   "id": "1",
+   "ts": "0:38:20",
    "processo": "48500.006867/2022-88",
-   "interessado": "Neoenergia Pernambuco (Celpe)",
-   "assunto": "Reajuste tarifário anual 2023 da Neoenergia Pernambuco: prorrogação por 15 dias das tarifas vigentes para avaliar pleito sobre efeito da MMGD",
+   "interessado": "Neoenergia Pernambuco (Companhia Energética de Pernambuco - Celpe)",
+   "assunto": "Reajuste tarifário anual de 2023 da Neoenergia Pernambuco (vigência prevista a partir de 29/04/2023): proposta de prorrogar por 15 dias a vigência das tarifas atuais para avaliar pleito de última hora sobre efeito da MMGD na base de cálculo de perdas",
    "tema": [
     "tarifas e revisão tarifária",
-    "geração distribuída (MMGD)"
+    "geração distribuída (MMGD)",
+    "distribuidoras"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade (prorrogação de 15 dias)",
-   "resumo_voto": "Prorroga por 15 dias a vigência das tarifas da REH 3.055/2022 para aprofundar análise do pleito de última hora da distribuidora sobre MMGD em reajuste.",
+   "resultado": "aprovado por unanimidade (prorrogação por 15 dias das tarifas vigentes)",
+   "resumo_voto": "Item 1 da pauta, deliberado antes do item 18 por alteração na ordem. Relator propôs prorrogar por 15 dias a vigência das tabelas da REH 3.055/2022 para aprofundar a análise do pleito da distribuidora sobre efeitos da MMGD (aplicação em reajuste, e não só em revisão). Diretor-Geral registrou que não há perda de receita: eventual diferença será recomposta.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, aprova",
-     "ts": "0:46:30",
-     "justificativa": "Pleito de última hora sobre MMGD; reajuste difere da revisão; precisa de 15 dias para avaliar.",
+     "voto": "relator, aprova prorrogação por 15 dias",
+     "ts": "0:45:22",
+     "justificativa": "pleito de última hora sobre efeito da MMGD em perdas; necessidade de avaliar a consequência no reajuste (antes aplicado só em revisão); trazer em 1 a 2 semanas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (vota por último e proclama)",
+     "ts": "0:50:02",
+     "justificativa": "prorrogação motivada não gera perda de receita para a distribuidora; diferença será recomposta; respeito aos contratos e ao equilíbrio econômico-financeiro",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator",
-     "ts": "0:48:30",
-     "justificativa": "Revisões anteriores usaram foto dos 30 dias por causa da Lei 14.300; 15 dias bastam para estressar possibilidades e firmar entendimento para reajustes.",
+     "ts": "0:49:58",
+     "justificativa": "comentário provável (falante não identificado na legenda): vale estudar 15 dias porque haverá outros reajustes; firmar entendimento sobre o tratamento da GD (Lei 14.300) também em reajuste",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "0:48:00",
-     "justificativa": "Ressalta a sensibilidade do relator olhando consumidor e sustentabilidade da distribuidora.",
-     "confianca": "baixa"
+     "ts": "0:49:58",
+     "justificativa": "comentário provável (falante não identificado na legenda): elogia a sensibilidade do relator com o consumidor e a sustentabilidade da distribuidora",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "0:49:00",
-     "justificativa": "Realidade da MMGD mudou recentemente; cabe a ponderação também para reajustes.",
+     "ts": "0:49:58",
+     "justificativa": "comentário provável (falante não identificado na legenda): concorda em ponderar a nova realidade da MMGD também nos reajustes",
      "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "0:50:09",
-     "justificativa": "Não há perda de receita para a distribuidora; diferença será recomposta; respeito ao contrato.",
-     "confianca": "alta"
     }
    ]
   },
   {
    "id": "18",
-   "ts": "0:50:43",
+   "ts": "0:50:36",
    "processo": "48500.000590/2023",
    "interessado": "Goiás Transmissão de Energia S.A.",
-   "assunto": "Pedido de reconsideração contra o Despacho 661/2023 que negou cautelar sobre entrada em operação comercial da SE Pirineus (TLR, PVA)",
+   "assunto": "Pedido de reconsideração contra o Despacho 661/2023, que negou medida cautelar sobre a entrada em operação comercial da subestação Pirineus (seccionamento da LT 345 kV Samambaia-Bandeirantes, de Furnas); pedido de emissão de TLR e de afastamento de PVA/penalidades",
    "tema": [
     "transmissão",
     "recursos administrativos",
+    "medida cautelar",
     "fiscalização e sanções"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "indeferido por unanimidade; processo encaminhado à SRT para mérito",
-   "resumo_voto": "Conhece e nega reconsideração; ausência de periculum in mora. Sustentação oral de Valéria Souza Rosa pela recorrente.",
+   "resultado": "aprovado por unanimidade: conhecer e, no mérito, indeferir o pedido de reconsideração; processo encaminhado à SRT para análise de mérito",
+   "resumo_voto": "Sustentação oral de Valéria Souza Rosa (recorrente): atraso causado por indeferimentos de intervenção pelo ONS (pendência sistêmica), pedindo TLR e afastamento de PVA. Procuradoria: não clara a probabilidade do direito. Relatora manteve a negativa da cautelar do relator original (Fernando Mosna): faltam elementos que demonstrem o perigo da demora; mérito deve ser analisado pela área técnica. Diretores criticaram o custo administrativo de sucessivos recursos em sede cautelar.",
+   "sustentacao_oral": [
+    "Valéria Souza Rosa (Goiás Transmissão)"
+   ],
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relator, nega (conhece e indefere)",
-     "ts": "1:05:00",
-     "justificativa": "Sem estudo de impacto econômico-financeiro que caracterize perigo da demora; não se pode escapar da análise de mérito pela área técnica; mantém decisão do diretor Mosna.",
+     "voto": "relatora, indefere o pedido de reconsideração",
+     "ts": "1:04:47",
+     "justificativa": "não há estudo que mostre impacto econômico-financeiro da concessão que caracterize o perigo da demora; não se pode escapar da análise de mérito pela área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (vota por último e proclama)",
+     "ts": "1:16:20",
+     "justificativa": "PVA é regra posta e conhecida, paga em 18 vezes e limitada; atraso não substancial; custo administrativo exagerado de cautelar, recurso de cautelar, mérito e recurso de mérito",
+     "tom": "crítico",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
+     "voto": "acompanha a relatora",
      "ts": "1:16:15",
-     "justificativa": "Cautelar exige fumaça do bom direito, perigo da demora e reversibilidade; pleito contra jurisprudência; penalidade só após operação.",
+     "justificativa": "cautelar exige perigo da demora, fumaça do bom direito e reversibilidade; pleito contraria decisões reiteradas da diretoria e a penalidade só vem depois da entrada em operação (fala identificada pela referência de Fernando Mosna ao diretor Ricardo)",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "1:16:17",
-     "justificativa": "Jurisprudência sólida; seu voto anterior já citava voto do diretor Hélvio; preocupação com estratégia dos agentes e custo administrativo.",
+     "voto": "acompanha a relatora",
+     "ts": "1:16:15",
+     "justificativa": "já há jurisprudência sólida; ele próprio negou a cautelar original citando voto anterior de Hélvio Guerra pela impossibilidade de verificar o perigo da demora",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "1:16:19",
-     "justificativa": "Acompanha.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "1:16:25",
-     "justificativa": "PVA é regra conhecida, paga em 18 vezes e limitada; custo administrativo exagerado de cautelar, recurso, mérito e recurso.",
-     "confianca": "alta"
+     "voto": "acompanha a relatora",
+     "ts": "1:16:15",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "6",
-   "ts": "1:17:05",
+   "ts": "1:16:56",
    "processo": "48500.007105/2019-01",
    "interessado": "ONS; geradores (Eletrobras, Norte Energia)",
-   "assunto": "Resultado da CP 83/2021: revisão da REN 1.030/2022 (serviços ancilares) e possibilidade de o ONS usar ambiente regulatório experimental (sandbox) mediante autorização da ANEEL",
+   "assunto": "Resultado da Consulta Pública 83/2021 sobre revisão da REN 697/2015 (atual REN 1.030/2022, Título III): prestação e remuneração de serviços ancilares no SIN, com previsão de ambiente regulatório experimental (sandbox) para produtos alternativos propostos pelo ONS",
    "tema": [
     "regulação normativa",
     "serviços ancilares",
-    "outorgas de geração"
+    "operação do sistema (ONS)",
+    "geração hidrelétrica"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Emite REN alterando a REN 1.030/2022 e prevê produtos alternativos em sandbox. Sustentações orais de Victor Hugo Ribeiro dos Santos (Eletrobras) e José Moisés Machado da Silva (Norte Energia). Apresentação técnica SRG (Mateus e outra servidora).",
+   "resumo_voto": "Emissão de REN alterando a REN 1.030/2022 com aprimoramentos da CP 83/2021 (despacho complementar para reserva de potência operativa mantido; suporte de reativo estendido a qualquer usina despachada centralizadamente) e possibilidade de o ONS dispor, mediante autorização específica da ANEEL, de produtos alternativos em ambiente regulatório experimental. Sustentação oral de Victor Hugo Ribeiro dos Santos (Eletrobras) e José Moisés Machado da Silva (Norte Energia) sobre remuneração inadequada de hidrelétricas (compensador síncrono, liga-desliga, autorrestabelecimento). Apresentação técnica da SRG. Fernando Mosna perguntou sobre o rito da autorização; relator esclareceu que haverá consulta pública antes da resolução autorizativa.",
+   "sustentacao_oral": [
+    "Victor Hugo Ribeiro dos Santos (Eletrobras)",
+    "José Moisés Machado da Silva (Norte Energia)"
+   ],
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "2:00:00",
-     "justificativa": "Nova configuração do sistema com eólicas e solares exige novo olhar; sandbox é fundamental; autorização via consulta pública sem necessidade de tomada de subsídios.",
+     "ts": "2:00:27",
+     "justificativa": "nova configuração do sistema com eólicas e solares exige novo olhar sobre serviços ancilares; aprimorar o existente e abrir sandbox piloto para experimentação",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator",
      "ts": "2:05:15",
-     "justificativa": "Considera oportuno abrir sandbox ao ONS; perguntou sobre o rito da autorização específica.",
+     "justificativa": "considera oportuno abrir o sandbox ao ONS; perguntou se a autorização específica passaria por consulta pública (resposta: sim)",
      "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "2:05:17",
-     "justificativa": "Tema pendente desde 2019; sandbox apropriado para testar soluções e gerar revelação de informação.",
+     "ts": "2:05:15",
+     "justificativa": "sandbox é instrumento apropriado para testar soluções e gerar conhecimento num tema discutido desde 2019 (fala provável da diretora, que cita acompanhamento pelo Ministério)",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "2:05:19",
-     "justificativa": "Acompanha.",
+     "ts": "2:05:15",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:05:22",
-     "justificativa": "Proclama unanimidade.",
+     "voto": "acompanha o relator (proclama, pela proclamação)",
+     "ts": "2:05:18",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "2:06:25",
+   "ts": "2:06:11",
    "processo": "48500.000732/2022-17",
    "interessado": "usinas hidrelétricas em regime de cotas (Lei 12.783/2013)",
-   "assunto": "Abertura de consulta pública (27/04 a 05/06/2023) para revisão periódica da RAG e do Fator X das usinas em regime de cotas",
+   "assunto": "Abertura de consulta pública (27/04 a 05/06/2023) para revisão periódica da receita anual de geração (RAG) e do Fator X das hidrelétricas em regime de cotas de garantia física e de potência",
    "tema": [
     "regulação normativa",
-    "outorgas de geração",
-    "tarifas e revisão tarifária"
+    "outorgas de geração (hidrelétrica)",
+    "tarifas e receitas de geração"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Retornou à pauta após retirada na reunião anterior por questionamento da diretora Agnes sobre slide; erro restrito ao slide. Presidida por Hélvio após saída de Sandoval e Ricardo.",
+   "resumo_voto": "Processo havia sido retirado de pauta na reunião anterior após ponderação da diretora Agnes sobre percentual em slide; verificação confirmou erro só no slide, sem repercussão na instrução. Período da CP atualizado. Sandoval Feitosa e Ricardo Tili se ausentaram antes deste item; Hélvio Guerra conduziu a sessão.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova (proclama)",
-     "ts": "2:12:15",
-     "justificativa": "Erro era apenas do slide, instrução correta.",
+     "voto": "relator, aprova (conduz e proclama)",
+     "ts": "2:11:11",
+     "justificativa": "equívoco era isolado no slide; instrução correta",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:12:10",
-     "justificativa": "Agradece a diligência; instrução adequada.",
+     "ts": "2:12:15",
+     "justificativa": "agradece a diligência; confirma que era apenas valor errado no slide",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "2:12:15",
-     "justificativa": "Sem fala individual ouvida.",
-     "confianca": "baixa"
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "2:13:29",
+   "ts": "2:13:20",
    "processo": "48500.001280/2022-82",
-   "interessado": "ONS; geradores eólicos e fotovoltaicos",
-   "assunto": "Segunda fase da CP 52/2022 (AIR sobre acesso à transmissão com expansão de eólicas e solares) e autorização ao ONS para consulta de 30 dias sobre garantias nos procedimentos de rede",
+   "interessado": "geradores eólicos e fotovoltaicos; transmissoras; ONS",
+   "assunto": "Abertura da segunda fase da Consulta Pública 52/2022 (AIR 2/2023) sobre acesso à transmissão no cenário de expansão de geradores eólicos e fotovoltaicos; autorização ao ONS para consulta sobre procedimentos de rede relativos a garantias do CUST",
    "tema": [
     "transmissão",
-    "regulação normativa"
+    "regulação normativa",
+    "acesso à rede",
+    "outorgas de geração (eólica, solar)"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instaura 2ª fase da CP 52/2022 (28/04 a 27/06/2023), intercâmbio documental, e autoriza consulta do ONS; ONS envia propostas em até 45 dias. Apresentação técnica de Jorge Humberto (SRT).",
+   "resumo_voto": "Segunda fase da CP 52/2022 por intercâmbio documental, 60 dias (28/04 a 27/06/2023), com nova alternativa D: fim da informação de acesso, ordem cronológica, garantia do parecer de acesso, postergação única do CUST por até 12 meses com encargo de reserva e garantia de rescisão; despacho autorizando o ONS a consulta de até 30 dias e envio das propostas em até 45 dias. Apresentação técnica de Jorge Humberto (SRT).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova (proclama)",
-     "ts": "2:41:46",
-     "justificativa": "Acesso à rede com crescimento de eólicas e solares; garantias e caução dão obrigação a quem reserva ponto da rede.",
+     "voto": "relator, aprova",
+     "ts": "2:39:33",
+     "justificativa": "crescimento de eólicas e fotovoltaicas e limitação da rede exigem garantias para quem reserva ponto de conexão; antecipar o tema das garantias diante de inadimplência e judicialização na transmissão",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "2:41:30",
-     "justificativa": "Proposta endereça preocupações sobre acesso discutidas em paralelo.",
+     "ts": "2:41:46",
+     "justificativa": "proposta endereça preocupações sobre acesso discutidas em paralelo (falante provável)",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator",
      "ts": "2:41:46",
-     "justificativa": "Vota com o relator.",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "7",
-   "ts": "2:44:00",
+   "ts": "2:43:50",
    "processo": "48500.008308/2022-11",
-   "interessado": "CCEE; 7 agentes com ajuste de contratos",
-   "assunto": "Medida cautelar para autorizar não desligamento da CCEE de agentes que tiveram ajuste de contratos e comprovaram regularização bilateral, sem prazo fixo de 3 dias; revoga Despacho 174/2023",
+   "interessado": "CCEE; agentes com ajuste de contratos",
+   "assunto": "Medida cautelar para autorizar o não desligamento da CCEE de agentes que tiveram ajuste de contratos e comprovaram regularização bilateral (7 de 47 agentes regularizaram após o prazo de 3 dias úteis do Despacho 174/2023)",
    "tema": [
     "comercialização (CCEE)",
-    "fiscalização e sanções"
+    "medida cautelar",
+    "regulação normativa"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade, com prazo de 6 meses para revisão das regras proposto por Agnes e incorporado",
-   "resumo_voto": "Concede cautelar até o término do período de desligamento (REN 957/2021, 60 dias), revoga Despacho 174/2023, devolve à SRM para mérito e fixa 6 meses para revisão dos prazos de regularização.",
+   "resultado": "aprovado por unanimidade, com acréscimo proposto por Agnes da Costa (prazo de 6 meses para a superintendência revisar os prazos de regularização)",
+   "resumo_voto": "Conceder cautelar sem prazo fixo de 3 dias (vinculado ao prazo de 60 dias da REN 957/2021 para concluir o desligamento), revogar o Despacho 174/2023 e restituir os autos à SRM para mérito; incorporada sugestão de Agnes da Costa de prazo de 6 meses para a área técnica revisar os prazos de regularização. O relator inicialmente declarou o resultado sem votação, foi lembrado e colocou em votação.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova (incorpora sugestão)",
-     "ts": "2:50:00",
-     "justificativa": "Desligamento de agente já regularizado é medida excessiva; prazo de 3 dias insuficiente; fumaça do bom direito e perigo da demora presentes.",
+     "voto": "relator, aprova (conduz e proclama)",
+     "ts": "2:53:06",
+     "justificativa": "desligamento de agente já regularizado sem prejuízo à contraparte é medida excessiva; prazo de 3 dias era só horizonte, não mérito; presentes fumaça do bom direito e perigo da demora",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator, com sugestão incorporada (prazo de 6 meses)",
-     "ts": "2:55:00",
-     "justificativa": "Questionou prazo em aberto; propôs prazo para a área técnica definir período de cura.",
-     "confianca": "alta"
+     "ts": "2:53:39",
+     "justificativa": "concorda, mas pediu prazo definido para a área técnica propor o prazo de cura, para não deixar a questão em aberto",
+     "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:59:40",
-     "justificativa": "Sem fala individual clara.",
-     "confianca": "baixa"
+     "ts": "2:59:56",
+     "confianca": "media"
     }
    ]
   }
  ],
  "retirados": [
-  {
-   "id": "5",
-   "motivo": "retirado de pauta (anunciado pelo secretário)"
-  },
-  {
-   "id": "8",
-   "motivo": "retirado de pauta (anunciado pelo secretário; número incerto)"
-  }
+  "Itens 5 e 8 retirados de pauta (conforme anúncio do secretário-geral; números segundo a legenda automática, sem processo nem assunto citados)"
  ],
  "limites_da_analise": [
-  "A legenda transcreve Hélvio como Eva/Elvio e Tili como Chile; Mosna como Mozart/mozana.",
-  "O número do item da Neoenergia Pernambuco não foi anunciado; ordem anunciada sugeria item 18 em segundo, mas o secretário chamou o Goiás Transmissão de item 18; registrado como item 1 provável.",
-  "Falas de voto «acompanho» sem nome: atribuídas pela ordem usual e confiança media/baixa; no item 6 só três falas de voto foram ouvidas antes da proclamação.",
-  "Item 3: votos individuais não ouvidos; unanimidade pela proclamação.",
-  "Item 7: votação final quase omitida (relator proclamou e depois colocou em votação); voto de Fernando Mosna pela proclamação.",
-  "Números de processo e valores podem conter erros da legenda."
+  "Legenda automática: nomes e números de processo podem estar distorcidos (ex.: 'Fernando mozana', 'Ricardo Chile', 'Elvio', 'Eva' para Hélvio).",
+  "Votos de seguidores ('eu acompanho', 'eu volto com ela') não têm nome na legenda; atribuídos pela ordem e pela proclamação de unanimidade, com confiança media/baixa e ts aproximado.",
+  "No item 1, os comentários de discussão (0:46-0:49) não têm falante identificado; a atribuição das justificativas a Fernando Mosna, Hélvio Guerra e Agnes da Costa é inferência de baixa segurança.",
+  "No item 18, há uma fala sem nome (1:15:45) sobre a estratégia de recorrer em sede cautelar e o custo administrativo; não atribuída.",
+  "No item 6 a legenda registra só três falas de voto antes da proclamação; o voto de Ricardo Tili é pela proclamação de unanimidade (confiança baixa).",
+  "Itens 3, 4 e 7: com 3 diretores presentes (Sandoval e Ricardo ausentes), os votos de Fernando e Agnes vêm sobretudo da proclamação de unanimidade.",
+  "No item 4 o secretário não disse o nome do relator na legenda; Hélvio Guerra é relator pela própria fala ('distribuído à minha relatoria').",
+  "O item 'bloco' agrega os itens 8 a 43 sem detalhamento individual; retirados 5 e 8 conforme legenda (o 8 parece estar no bloco: número possivelmente mal transcrito)."
  ]
 }

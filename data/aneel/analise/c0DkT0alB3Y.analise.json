@@ -1,217 +1,99 @@
 {
- "meta": {
-  "video_id": "c0DkT0alB3Y",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
-  "versao_esquema": 1
- },
- "reuniao": {
-  "numero": "36ª Reunião Pública Ordinária de 2023",
-  "data": "2023-10-03",
-  "formato": "presencial (auditório da ANEEL)",
-  "presidente_da_sessao": "Hélvio Guerra (provável; não nomeado na abertura)",
-  "diretores_presentes": [
-   "Hélvio Guerra",
-   "Agnes da Costa",
-   "Ricardo Tili"
+  "meta": {"video_id": "c0DkT0alB3Y", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "36ª Reunião Pública Ordinária de 2023",
+    "data": "2023-10-03",
+    "formato": "presencial (auditório da ANEEL) com transmissão pelo YouTube",
+    "presidente_da_sessao": "Hélvio Guerra na abertura (substituto); Sandoval Feitosa (Diretor-Geral) se juntaria em seguida e, pela contagem de votos, presidiu a partir do item 1 (inferência)",
+    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili", "Sandoval Feitosa"],
+    "ausentes": ["Fernando Mosna"],
+    "observacoes": [
+      "Abertura com três diretores presentes (Hélvio Guerra, Agnes da Costa, Ricardo Tili); Fernando Mosna em viagem representando a ANEEL; Sandoval Feitosa anunciado como chegando em seguida.",
+      "Pauta publicada em 28/09/2023 com 27 itens; itens 3 a 27 em bloco; retirados de pauta os itens 9, 13 e 20; pedidos de sustentação oral nos itens 5 e 11; ordem: bloco, 1, 2, 5, 11 e 8.",
+      "Item 11 retirado de pauta a pedido do relator; item 8 retirado de pauta a pedido do relator.",
+      "Ata da 35ª reunião pública ordinária (26/09/2023) aprovada.",
+      "Informes: AP 17/2023 (RTP Energisa Acre), prorrogação da CP 31/2023 (revisão da RAP das transmissoras, submódulos 9.1 e 9.2 do PRORET) anunciada por Ricardo Tili, workshop CCEE/ANEEL da CP 28/2023 (comercializador varejista) anunciado por Agnes da Costa; posse de Thiago Prado na presidência da EPE; bandeira verde em outubro.",
+      "Item 5 (UTE TermoCeará, Petrobras): sustentação oral de Jean William Carmes (Petrobras); vista concedida a Agnes da Costa."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:13:15",
+      "processo": "itens 3 a 27 (exceto retirados 9, 13, 20 e os destacados 5, 8 e 11)",
+      "interessado": "diversos",
+      "assunto": "Itens do bloco; destaque para o item 3: abertura de consulta pública sobre a revisão da receita de venda de energia das centrais nucleares Angra 1 e 2 a vigorar a partir de 1º de janeiro",
+      "tema": ["regulação normativa", "outorgas de geração", "tarifas e revisão tarifária"],
+      "relator": "diversos",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Itens do bloco aprovados sem debate; Agnes da Costa comentou o item 3 (área técnica considerou adequada a metodologia do submódulo 6.7 do PRORET).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:13:23", "justificativa": "destacou o item 3 (consulta pública da receita de Angra 1 e 2) para quem quiser contribuir", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:14:12", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco e proclama", "ts": "0:14:17", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:14:30",
+      "processo": "48500.008188/2022-43",
+      "interessado": "ONS; centrais geradoras conectadas à transmissão e à distribuição",
+      "assunto": "Resultado da Consulta Pública 54/2022: revisão do submódulo 2.10 dos Procedimentos de Rede (requisitos técnicos mínimos para conexão às instalações de transmissão) e do Módulo 3 do PRODIST (acesso ao sistema de distribuição)",
+      "tema": ["regulação normativa", "transmissão", "distribuição e qualidade", "geração distribuída"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Aprova a revisão do Módulo 3 do PRODIST e do submódulo 2.10 dos Procedimentos de Rede; requisitos de suportabilidade (frequência, tensão, PMU, compensadores síncronos, regulação primária, injeção de corrente reativa) aplicáveis a novas instalações. Processo redistribuído ao relator após fim do mandato de Alessandro Cantarino. Apresentação técnica da STD; 55 contribuições de 13 contribuintes.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:30:02", "justificativa": "diversificação e descentralização da geração exige ajustes nos requisitos de operação da transmissão e da distribuição; regras valem para novas instalações", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:34:06", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "0:34:09", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:34:13", "justificativa": "(fala de discussão atribuída por inferência a quem presidia) urgência sinalizada pelo ONS; ocorrência de 28/05/2021 (desligamento do elo Xingu-Estreito, mais de 1.700 MW de geração na distribuição desconectados indevidamente); alinhamento a requisitos internacionais e mais segurança para expansão das renováveis", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:34:45",
+      "processo": "48500.004197/2023-46",
+      "interessado": "CCEE; Estado de Pernambuco",
+      "assunto": "Abertura de consulta pública para as Regras de Comercialização de Energia Elétrica versão 2024 (inclui comunhão de direito de entidades da administração pública indireta, alocação ex ante de contratos ACL-ACR, automatização das cotas do PROINFA, submódulo 5.3 do PRORET)",
+      "tema": ["comercialização", "regulação normativa"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade dos presentes: CP de 4/10 a 17/11/2023",
+      "resumo_voto": "Instaura consulta pública com base na Nota Técnica 99/2023-SGM/STR; Procuradoria favorável a permitir comunhão de direito de entidades da administração indireta (pleito de Pernambuco). Apresentação de Carlos Eduardo Guimarães de Lima (SGM).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:47:42", "justificativa": "instaurar CP para aprimorar as regras de comercialização 2024 conforme nota técnica", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:48:31", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha a relatora", "ts": "0:48:34", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora e proclama", "ts": "0:48:36", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "0:49:56",
+      "processo": "48500.003395/2007-72",
+      "interessado": "Petrobras (UTE TermoCeará); distribuidoras compradoras de CCEAR; CCEE",
+      "assunto": "Descumprimento de cláusulas dos CCEARs pela UTE TermoCeará: rescisão dos contratos (cláusula 10.1, inciso IV) e multa contratual",
+      "tema": ["fiscalização e sanções", "comercialização", "outorgas de geração (térmica)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "pedido de vista de Agnes da Costa; julgamento suspenso",
+      "resumo_voto": "Relator propõe que as distribuidoras notifiquem a rescisão dos CCEARs em 31/10/2023, apliquem multa da subcláusula 11.1 (estimada entre 45 e 50 milhões), CCEE considere efeitos a partir de 1/11/2023 e valores revertidos à modicidade tarifária. Sustentação oral de Jean William Carmes (Petrobras): usina disponível, indisponibilidade decorreu do deslocamento do navio regaseificador para a Bahia na crise hídrica 2020-2021, R$ 290 milhões investidos; pede reconsiderar a dosimetria. Procuradoria: para leilões de 2005-2006 a cláusula 10 continua válida.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova rescisão dos CCEARs e multa", "ts": "1:10:47", "justificativa": "desempenho ruim desde 2013, não só no plano de resultados; falta de gás recorrente e permanente com desativação do terminal do Pecém; usina custa cerca de 10 milhões/mês ao consumidor e CVU de R$ 566/MWh sem entregar a disponibilidade contratada", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "1:15:21", "justificativa": "consistência com outros casos de térmicas (TermoBahia, julgada na semana anterior, foi eximida de penalidades); quer analisar o conjunto de térmicas da tabela da CCEE; diz que o voto parece bem encaminhado", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:18:20", "justificativa": "(atribuição incerta) dúvidas sobre a outorga após rescisão, permanência no deck e necessidade da usina para o sistema", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:12:20", "justificativa": "(atribuição por inferência) perguntou o valor das penalidades; lembrou campanha da SFG/SGM sobre térmicas com baixa disponibilidade; reservou manifestação para o retorno do voto-vista", "confianca": "baixa"}
+      ]
+    }
   ],
-  "ausentes": [
-   "Fernando Mosna (em viagem representando a ANEEL)",
-   "Sandoval Feitosa (anunciado que se juntaria depois; não identificado votando)"
+  "retirados": [
+    {"id": "9", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "13", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "20", "motivo": "retirado de pauta antes da sessão"},
+    {"id": "11", "motivo": "retirado de pauta a pedido do diretor relator (tinha pedido de sustentação oral)"},
+    {"id": "8", "motivo": "retirado de pauta a pedido do diretor relator"}
   ],
-  "observacoes": [
-   "Três diretores presentes (quórum).",
-   "Ata da 35ª RPO aprovada.",
-   "Agnes informou prorrogação da CP 31/2023 (RAP de transmissoras) e workshop da CP 28/2023 (comercializador varejista)."
+  "limites_da_analise": [
+    "Legenda automática; falantes não identificados no texto. A presença de Sandoval Feitosa a partir do item 1 é inferida (anunciado na abertura como chegando em seguida; nos itens 1 e 2 há três falas de acompanhamento além do relator e proclamação 'por unanimidade dos diretores presentes').",
+    "Ordem dos acompanhamentos nos itens 1 e 2 (Agnes/Ricardo e Hélvio) atribuída por inferência; confiança baixa.",
+    "Item 5: as falas da discussão (pergunta sobre valor das multas, lembrança do mandato anterior de diretor, dúvidas sobre outorga, reserva de manifestação) não têm falante nomeado; atribuições a Sandoval Feitosa e Ricardo Tili são incertas.",
+    "Bloco: itens individuais (3 a 27) não detalhados na transmissão; relatores não ditos.",
+    "Número do processo do item 1 e 2 reconstruído da fala (48500.008188/2022-43; 48500.004197/2023-46); conferir na pauta.",
+    "Nome do representante da Petrobras ('Jean William Carmes') como dito na legenda; grafia incerta."
   ]
- },
- "itens": [
-  {
-   "id": "bloco",
-   "ts": "0:13:21",
-   "processo": "itens 3 a 27 (exceto retirados 9, 13, 20; 5, 8 e 11 destacados)",
-   "interessado": "diversos",
-   "assunto": "Itens do bloco, inclusive item 3: abertura de consulta pública sobre a revisão da receita de venda de energia das centrais nucleares Angra 1 e 2",
-   "tema": [
-    "regulação normativa (consulta pública)",
-    "outorgas de geração (nuclear)"
-   ],
-   "relator": "diversos",
-   "resultado": "aprovados por unanimidade",
-   "resumo_voto": "Bloco aprovado; Agnes destacou o item 3 (Angra 1 e 2, submódulo 6.7 do PRORET considerado adequado).",
-   "votos": [
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco",
-     "ts": "0:13:23",
-     "justificativa": "aprova os itens remanescentes do bloco",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "aprova o bloco",
-     "ts": "0:14:09",
-     "justificativa": "destaca a consulta pública de Angra 1 e 2; metodologia do submódulo 6.7 adequada",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "aprova o bloco",
-     "ts": "0:14:12",
-     "justificativa": "sem comentários",
-     "confianca": "baixa"
-    }
-   ]
-  },
-  {
-   "id": "1",
-   "ts": "0:14:36",
-   "processo": "48500.008188/2022-43",
-   "interessado": "ONS; centrais geradoras conectadas à transmissão e distribuição",
-   "assunto": "Resultado da Consulta Pública 54/2022: revisão do submódulo 2.10 dos Procedimentos de Rede (requisitos técnicos mínimos para conexão à transmissão) e do Módulo 3 do PRODIST",
-   "tema": [
-    "regulação normativa (resolução, consulta pública)",
-    "transmissão",
-    "distribuição"
-   ],
-   "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Aprova revisão do Módulo 3 do PRODIST e do submódulo 2.10; requisitos de suportabilidade e outros aplicáveis a novas instalações. Apresentação da STD (servidor Sid).",
-   "votos": [
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "relator, aprova",
-     "ts": "0:29:52",
-     "justificativa": "diversificação e descentralização da geração exigem ajustes na operação da transmissão e da distribuição",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "0:34:06",
-     "justificativa": "«eu voto com o relator» (fala sem nome; atribuição pela ordem)",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:34:13",
-     "justificativa": "comentou urgência sinalizada pelo ONS, desligamento de 28/05/2021 (elo Xingu-Estreito, >1.700 MW de GD desconectados) e alinhamento a padrões internacionais",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "2",
-   "ts": "0:34:59",
-   "processo": "48500.004197/2023-46",
-   "interessado": "CCEE; Estado de Pernambuco",
-   "assunto": "Abertura de consulta pública (4/10 a 17/11/2023) sobre as Regras de Comercialização versão 2024, inclusive submódulo 5.3 do PRORET e comunhão de entes da administração indireta",
-   "tema": [
-    "comercialização (CCEE)",
-    "regulação normativa (consulta pública)"
-   ],
-   "relator": "Agnes da Costa",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Instaura consulta pública; apresentação de Carlos Eduardo Guimarães de Lima (SGM).",
-   "votos": [
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "relatora, aprova",
-     "ts": "0:47:44",
-     "justificativa": "instaurar consulta pública conforme NT 99/2023 SGM/STR",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha a relatora",
-     "ts": "0:48:31",
-     "justificativa": "«eu voto com a relatora» (atribuição pela ordem)",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha a relatora (pela proclamação)",
-     "ts": "0:48:36",
-     "justificativa": "proclama o resultado",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "5",
-   "ts": "0:49:56",
-   "processo": "48500.003395/2007-72",
-   "interessado": "Petrobras (UTE Termoceará); distribuidoras",
-   "assunto": "Descumprimento dos CCEARs pela UTE Termoceará: rescisão dos contratos em 31/10/2023 e multa rescisória",
-   "tema": [
-    "fiscalização e sanções (rescisão, multa)",
-    "comercialização (CCEAR)",
-    "outorgas de geração (térmica)"
-   ],
-   "relator": "Hélvio Guerra",
-   "resultado": "pedido de vista da diretora Agnes da Costa",
-   "resumo_voto": "Sustentação oral de Jean William Carmes (Petrobras) pedindo reflexão sobre a dosimetria. Relator manteve rescisão: baixa disponibilidade desde 2013, falta de gás que será permanente com desativação do terminal do Pecém, custo de ~R$ 10 milhões/mês ao consumidor.",
-   "votos": [
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova rescisão dos CCEARs e multa",
-     "ts": "1:10:57",
-     "justificativa": "histórico de baixa disponibilidade desde 2013; usina não agrega confiabilidade; custa cerca de 10 milhões por mês; falta de gás será permanente a partir de 2024",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "pede vista",
-     "ts": "1:19:52",
-     "justificativa": "preocupação com consistência entre os casos das térmicas (cita Termobahia, eximida de penalidades); quer se aprofundar; pode trazer voto em linha com o original",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "não votou (vista)",
-     "ts": "1:16:00",
-     "justificativa": "fez perguntas sobre valor das penalidades (~45-50 milhões) e auto de infração (atribuição incerta); deixa observações para o retorno",
-     "confianca": "baixa"
-    }
-   ]
-  }
- ],
- "retirados": [
-  {
-   "item": "9",
-   "relator": "não identificado",
-   "motivo": "retirado de pauta antes da sessão",
-   "ts": "0:12:30"
-  },
-  {
-   "item": "13",
-   "relator": "não identificado",
-   "motivo": "retirado de pauta antes da sessão",
-   "ts": "0:12:30"
-  },
-  {
-   "item": "20",
-   "relator": "não identificado",
-   "motivo": "retirado de pauta antes da sessão",
-   "ts": "0:12:30"
-  },
-  {
-   "item": "11",
-   "relator": "não identificado",
-   "motivo": "retirado a pedido do diretor relator (tinha sustentação oral)",
-   "ts": "0:49:51"
-  },
-  {
-   "item": "8",
-   "relator": "não identificado",
-   "motivo": "retirado a pedido do diretor relator",
-   "ts": "1:20:09"
-  }
- ],
- "limites_da_analise": [
-  "Presidente da sessão não se nomeia; inferido Hélvio Guerra (Agnes se dirige a 'Dr. Hélvio'), mas ele também é relator do item 5 e a mesa lhe faz perguntas, o que gera incerteza; possível que Sandoval tenha chegado e presidido parte da sessão.",
-  "No item 5, uma fala menciona 'quando eu ainda estava no meu mandato de diretor' (possivelmente ex-diretor/servidor, talvez Alessandro Cantarino) — falante não identificado.",
-  "Votos 'acompanho' sem nome atribuídos pela ordem; confiança baixa.",
-  "Números de processo vêm da legenda automática."
- ]
 }

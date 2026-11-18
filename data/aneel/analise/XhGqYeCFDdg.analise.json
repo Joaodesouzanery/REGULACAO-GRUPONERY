@@ -1,450 +1,463 @@
 {
  "meta": {
   "video_id": "XhGqYeCFDdg",
-  "fonte": "legenda automática do YouTube; ts = tempo do vídeo (Parte 2 da sessão); ts de votos de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "22",
+  "numero": "22ª Reunião Pública Ordinária de 2022 (Parte 2)",
   "data": "2022-06-21",
-  "formato": "presencial com participação remota",
-  "presidente_da_sessao": "Camila Bomfim (presidindo a sessão)",
+  "formato": "híbrida (Efrain Cruz por vídeo, com falhas de conexão)",
+  "presidente_da_sessao": "Camila Bomfim (diretora-geral interina)",
   "diretores_presentes": [
    "Camila Bomfim",
    "Hélvio Guerra",
    "Ricardo Tili",
    "Giácomo Almeida",
-   "Efrain Cruz (remoto; ausente a partir do item 8, votos lidos)"
+   "Efrain Cruz (remoto; presente nos itens 25, 26, 32 e 7; ausente a partir do item 8, com votos lidos)"
   ],
   "ausentes": [
-   "Sandoval Feitosa (não identificado na sessão)"
+   "Sandoval Feitosa (citado em 3ª pessoa; não participa das votações)"
   ],
   "observacoes": [
-   "Parte 2 (tarde) da 22ª RPO de 21/06/2022; itens da manhã estão em outro vídeo.",
-   "9 itens deliberados, todos unânimes; suspeição declarada por um diretor nos itens 26 e 9.",
-   "Sustentações orais: Ilídio (Enel GO, item 25), Jairo Eduardo de Barros Alvares (RGE, item 26), Valéria de Souza Rosa (item 32).",
-   "Item 24 (relator Efrain Cruz) retirado de pauta."
+   "Parte 2 (tarde) da 22ª RPO de 21/06/2022; a manhã está no vídeo REUE92DkPto.",
+   "9 itens deliberados, todos unânimes; nenhum pedido de vista nesta parte; suspeição arguida nos itens 26 e 9.",
+   "Sustentações orais: Ilídio José Bonfim (Enel GO, item 25), Jairo Eduardo de Barros Alvares (RGE, item 26), Valéria de Souza Rosa (item 32).",
+   "Item 24 (relator Efrain Cruz) retirado de pauta; encerramento às ~3:39 do vídeo."
   ]
  },
  "itens": [
   {
    "id": "25",
-   "ts": "0:00:05",
+   "ts": "0:00:25",
    "processo": "48500.003232/2021-57 (número incerto na legenda)",
-   "interessado": "Enel Distribuição Goiás (distribuidora); AGR – agência goiana conveniada",
-   "assunto": "Recurso administrativo contra o Auto de Infração 4/2019 da AGR (multa por descumprimentos na qualidade do atendimento comercial, após plano de resultados/plano emergencial). Sustentação oral de Ilídio (Enel GO) pedindo revisão da dosimetria (majoração por gravidade).",
+   "interessado": "Enel Distribuição Goiás (distribuidora); AGR - Agência Goiana de Regulação (fiscalização descentralizada)",
+   "assunto": "Recurso administrativo da Enel Distribuição Goiás contra o Auto de Infração nº 4/2019 da AGR (multa por descumprimento de regras de qualidade do atendimento comercial após o plano de resultados/plano emergencial)",
    "tema": [
     "fiscalização e sanções (multa, auto de infração)",
-    "recursos administrativos",
-    "distribuição e qualidade do serviço"
+    "distribuição e qualidade do serviço",
+    "recursos administrativos"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento, reduzindo a multa de cerca de R$ 45,6 milhões para cerca de R$ 31,8 milhões",
-   "resumo_voto": "Relator: sem fatos novos; argumentos já enfrentados pela AGR e pela SFE; redução decorre de reavaliação da SFE. Na discussão diretores rebateram a fala da sustentação de que a AGR teria feito simulações para chegar a multa alta; explicou-se que a penalidade majorada é a lógica da fiscalização responsiva para quem descumpre plano de resultados; Enel GO entre as piores no ranking de continuidade.",
+   "resultado": "aprovado por unanimidade: conhecer e dar parcial provimento, reduzindo a multa de R$ 45,6 milhões para cerca de R$ 31,8 milhões",
+   "resumo_voto": "Sustentação oral de Ilídio (Enel GO): pediu revisão da dosimetria (majoração por gravidade/reincidência sem base regulamentar, empresa recém-privatizada em plano emergencial; processos punitivos somam R$ 145 milhões). Relator: argumentos já enfrentados pela AGR e pela SFE; rejeita alegação de tratamento não isonômico; reduz a multa após reavaliação da SFE. Debate: Hélvio Guerra viu como grave a afirmação de que a AGR simulou para chegar a multa alta e pediu apuração; Giácomo Almeida explicou que a dosimetria buscou penalidade justa na fiscalização responsiva (empresa entre as piores no ranking); Camila Bomfim considerou a sustentação «um pouco infeliz».",
+   "sustentacao_oral": "Ilídio José Bonfim (Enel Distribuição Goiás)",
    "votos": [
     {
      "diretor": "Efrain Cruz",
-     "voto": "relator, dá parcial provimento (multa para ~R$ 31,8 mi)",
-     "ts": "0:17:22",
-     "justificativa": "não há fatos novos; argumentos já enfrentados pela agência estadual e pela SFE; sustentação tentou criar cenário de tratamento não isonômico",
+     "voto": "relator, conhece e dá parcial provimento (multa reduzida)",
+     "ts": "0:17:41",
+     "justificativa": "argumentos já enfrentados pela AGR e pela SFE; nenhum fato novo; multa reduzida de R$ 45,6 mi para ~R$ 31,8 mi após avaliação da SFE e do relator",
      "confianca": "alta"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:32:36",
-     "confianca": "baixa"
-    },
-    {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:32:36",
+     "voto": "acompanha o relator",
+     "ts": "0:32:49",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:32:36",
+     "voto": "acompanha o relator",
+     "ts": "0:32:49",
+     "justificativa": "em debate: dosimetria majorada pela não resposta ao plano de resultados (fiscalização responsiva); penalidade justa, não máxima",
      "confianca": "baixa"
     },
     {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:32:55",
+     "justificativa": "em debate: distribuidora antepenúltima no ranking de continuidade; afirmação de manipulação da multa pela AGR é grave e deve ser apurada",
+     "tom": "crítico à sustentação oral",
+     "confianca": "media"
+    },
+    {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "0:32:36",
-     "confianca": "media",
-     "justificativa": "fiscalização responsiva: ação da fiscalização compatível com a resposta do agente; sustentação foi infeliz ao sugerir busca de multa alta"
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:32:55",
+     "justificativa": "sustentação oral foi um pouco infeliz; penalidade padronizada e compatível com a fiscalização responsiva",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "26",
-   "ts": "0:33:36",
+   "ts": "0:33:38",
    "processo": "48500.005465/2020-21 (número incerto na legenda)",
-   "interessado": "RGE Sul Distribuidora de Energia (RGE); AGERGS",
-   "assunto": "Recurso administrativo contra o Auto de Infração 2/2020 da AGERGS (multa por indicadores de continuidade DEC/FEC, período jan/2018-nov/2019). Sustentação oral de Jairo Eduardo de Barros Alvares (RGE) pedindo atenuante por evolução do desempenho e revisão da gravidade de 100%.",
+   "interessado": "RGE Sul Distribuidora de Energia S.A. (distribuidora, grupo CPFL); AGERGS",
+   "assunto": "Recurso administrativo da RGE contra o Auto de Infração nº 2/2020 da AGERGS (multa por descumprimento de indicadores de continuidade/qualidade do serviço, período jan/2018-nov/2019)",
    "tema": [
     "fiscalização e sanções (multa, auto de infração)",
-    "recursos administrativos",
-    "distribuição e qualidade do serviço"
+    "distribuição e qualidade do serviço",
+    "recursos administrativos"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade (com um diretor declarando suspeição): conhecer e negar provimento, mantendo multa de cerca de R$ 36,5 milhões",
-   "resumo_voto": "Relator: nenhum elemento novo; SFE confirmou a aplicação da penalidade e o rito da AGERGS. Um diretor questionou a relação alegada entre o programa de troca de postes e a penalidade; o relator respondeu que a flexibilização dos postes não afasta o cumprimento do regulamento.",
+   "resultado": "aprovado por unanimidade dos votantes (um diretor suspeito): conhecer e negar provimento, mantida multa de cerca de R$ 36,5 milhões",
+   "resumo_voto": "Sustentação oral de Jairo Eduardo de Barros Alvares (RGE): período fiscalizado de dois anos somados, gravidade de 100% definida por um único conjunto, evolução de desempenho (conjuntos críticos de 30 para 12) e pedido de atenuante. Relator (com falha de internet): sem elementos novos; SFE confirmou o rito da AGERGS. Hélvio Guerra perguntou a relação da troca de postes com a penalidade; relator: flexibilização anterior não fecha os olhos ao descumprimento.",
+   "sustentacao_oral": "Jairo Eduardo de Barros Alvares (RGE)",
    "votos": [
     {
      "diretor": "Efrain Cruz",
-     "voto": "relator, nega provimento",
-     "ts": "0:42:53",
-     "justificativa": "nenhum elemento novo; SFE corroborou o rito e a aplicação da penalidade pela agência estadual",
+     "voto": "relator, conhece e nega provimento (mantém multa)",
+     "ts": "0:43:42",
+     "justificativa": "descumprimentos constatados e confirmados pela SFE; rito da agência estadual correto; nenhum elemento novo",
      "confianca": "alta"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:44:55",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "não identificado (Ricardo Tili ou Giácomo Almeida)",
-     "voto": "suspeito/impedido",
-     "ts": "0:44:55",
-     "justificativa": "argui suspeição conforme norma interna (dita como 273/90 na legenda)",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "não identificado (Ricardo Tili ou Giácomo Almeida)",
+     "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "0:44:55",
+     "ts": "0:45:35",
      "confianca": "baixa"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "suspeito/impedido",
+     "ts": "0:45:43",
+     "justificativa": "arguiu suspeição (norma 273), como já antecipado na votação do bloco na parte da manhã",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:45:49",
+     "justificativa": "em debate: não viu relação entre a flexibilização da troca de postes (da qual foi relator) e a penalidade",
+     "confianca": "media"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "0:45:56",
-     "confianca": "media"
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:45:54",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "32",
-   "ts": "0:46:58",
-   "processo": "48500.006467/2018-96 e outros (número incerto na legenda)",
-   "interessado": "Mercury Renew Participações; Castilho Solar Participações; Hélio Vargas Solar Participações (UFVs Castilho 1 a 5 e Hélio Vargas 1 a 10)",
-   "assunto": "Pedido de reconsideração contra o Despacho 1379/2022, que negou alteração de cronogramas de implantação das UFVs Castilho 1-5 e Hélio Vargas 1-10 (sem excludente de responsabilidade). Sustentação oral de Valéria de Souza Rosa (advogada) com pedido subsidiário de diferimento/parcelamento dos encargos de CUST. Prazo judicial (mandado de segurança) vencia no dia.",
+   "ts": "0:46:21",
+   "processo": "48500.002914/2018-38 e outros (número incerto na legenda)",
+   "interessado": "Mercury Renew Participações S.A., Castilho Solar Participações S.A. e Hélio Valgas Solar Participações S.A. (geradoras fotovoltaicas, ACL)",
+   "assunto": "Pedido de reconsideração contra o Despacho nº 1.379/2022, que negou alteração dos cronogramas de implantação das UFVs Castilho 1 a 5 e Hélio Valgas 1 a 10 por ausência de excludente de responsabilidade",
    "tema": [
     "outorgas de geração (solar)",
-    "recursos administrativos",
-    "transmissão (CUST, encargos de uso)"
+    "alteração de cronograma / excludente de responsabilidade",
+    "transmissão (CUST, acesso à rede)",
+    "recursos administrativos"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade: conhecer e negar provimento; pedido subsidiário de diferimento de encargos a ser apresentado em processo próprio",
-   "resumo_voto": "Sem fatos novos; pandemia e crise energética chinesa não configuram excludente; CUST reserva a rede e não pode ser gratuito sem prejudicar outros geradores e usuários; precedentes (São Roque, Prosperidade 3) tiveram particularidades; pedido subsidiário não pode ser avaliado no prazo judicial e deve ir às áreas técnicas.",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento; pedido subsidiário (diferimento/parcelamento de encargos do CUST) não apreciado, devendo ser reapresentado em processo ordinário",
+   "resumo_voto": "Sustentação oral de Valéria de Souza Rosa: pandemia e crise energética na China como excludentes; pediu regime de transição pela mudança de entendimento e, subsidiariamente, diferimento dos encargos do CUST de Hélio Valgas. Procuradoria: mandado de segurança fixa o prazo de julgamento para hoje. Relator: sem fatos novos; CUST reserva a rede e não pode ser gracioso; precedentes São Roque e Prosperidade 3 tiveram particularidades; pedido subsidiário deve ser apresentado como requerimento separado.",
+   "sustentacao_oral": "Valéria de Souza Rosa (advogada das recorrentes)",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, nega provimento",
-     "ts": "1:09:19",
-     "justificativa": "sem fatos novos; sem excludente de responsabilidade; adiar encargos de CUST reservaria graciosamente a rede e oneraria demais usuários; pedido subsidiário deve ser reapresentado em processo ordinário",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:09:45",
+     "justificativa": "sem fatos novos; sem excludente de responsabilidade, nega alteração de cronograma (REN 666/2015); reserva de rede sem pagamento de encargos prejudica outros geradores; pedido subsidiário não avaliável no prazo judicial",
      "confianca": "alta"
     },
     {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:11:36",
+     "confianca": "baixa"
+    },
+    {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:11:22",
+     "voto": "acompanha o relator",
+     "ts": "1:11:36",
+     "justificativa": "em debate: o pedido subsidiário é novo pleito e deve seguir trâmite normal",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:11:22",
-     "confianca": "baixa",
-     "justificativa": "pedido subsidiário é um novo pleito e deve seguir os trâmites normais (fala sem nome; atribuição incerta)"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:11:22",
+     "voto": "acompanha o relator",
+     "ts": "1:11:36",
      "confianca": "baixa"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "1:11:22",
-     "confianca": "media",
-     "justificativa": "razoável analisar o pedido subsidiário como requerimento administrativo em separado pela área técnica"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:11:53",
+     "justificativa": "encaminhamento do pedido subsidiário como requerimento administrativo separado é razoável",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "7",
-   "ts": "1:12:22",
+   "ts": "1:12:32",
    "processo": "48500.000715/2022-71",
-   "interessado": "70 concessionárias de transmissão licitadas; Abrate; Chesf, Jauru e outras (contribuintes da CP)",
-   "assunto": "Resultado da Consulta Pública 9/2022: revisão periódica da RAP dos contratos de concessão de transmissão licitados com revisão em julho de 2022 (custo de capital de terceiros, reforços e melhorias, outras receitas). Apresentação técnica da SGT.",
+   "interessado": "70 concessionárias de transmissão licitadas (revisão em julho/2022); Abrate",
+   "assunto": "Resultado da Consulta Pública nº 9/2022: revisão periódica da RAP dos contratos de concessão de transmissão licitados com revisão em 2022 (custo de capital de terceiros, reforços e melhorias, outras receitas)",
    "tema": [
-    "transmissão (RAP)",
+    "transmissão (RAP, revisão periódica)",
     "tarifas e revisão tarifária",
     "regulação normativa (consulta pública)"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "aprovado por unanimidade: resolução homologatória fixando o reposicionamento da RAP",
-   "resumo_voto": "47 contribuições de 17 empresas e Abrate; parte acatada (perfil de amortização da dívida nas concessões de 2007). RAP ofertada passou de ~R$ 5,14 bi para ~R$ 5,77 bi (+12,2% nominal, ~0,5% real); reforços e melhorias com redução real. Diretores elogiaram trabalho conjunto SGT/SFF/SRM.",
+   "resumo_voto": "Apresentação técnica da SGT: 47 contribuições de 17 empresas e Abrate (34% acatadas, 13% parcialmente); RAP ofertada no leilão passa de ~R$ 5,14 bi para ~R$ 5,77 bi (+12,2% nominal, ~0,5% real); reforços e melhorias +5,9% nominal (-5,2% real); ~R$ 1,5 mi/ano de outras receitas para modicidade. Relator dispensou leitura da fundamentação; Camila Bomfim destacou o trabalho conjunto SGT/SFF.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
+     "voto": "relator, aprova (emite resolução homologatória)",
      "ts": "1:36:44",
-     "justificativa": "proposta estudada pela SGT, contribuições analisadas; fórmulas de custo de capital de terceiros chegam ao mesmo resultado",
+     "justificativa": "trabalho da SGT, SFF e SRM; equação do custo de capital do leilão 13/2015 distinta mas tecnicamente correta; captura de ganhos atende observação do TCU",
      "confianca": "alta"
     },
     {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:40:36",
+     "confianca": "baixa"
+    },
+    {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:39:46",
+     "voto": "acompanha o relator",
+     "ts": "1:40:36",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:39:46",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:39:46",
+     "voto": "acompanha o relator",
+     "ts": "1:40:36",
+     "justificativa": "em debate: elogiou a atuação da fiscalização em apoio a outros processos",
      "confianca": "baixa"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "1:40:47",
-     "confianca": "media",
-     "justificativa": "elogia trabalho conjunto entre área de tarifas e de fiscalização"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:40:48",
+     "justificativa": "elogiou o trabalho conjunto entre área tarifária e fiscalização",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "8",
-   "ts": "1:40:47",
+   "ts": "1:41:01",
    "processo": "48500.000441/2022-11",
-   "interessado": "consumidores, parlamentares, associações e agentes (contribuintes da CP 12/2022)",
-   "assunto": "Resultado da Consulta Pública 12/2022: atualização das faixas de acionamento e dos adicionais das bandeiras tarifárias para o ciclo 2022-2023. Apresentação técnica de Bruno (SRG/SGT/SRM).",
+   "interessado": "consumidores e agentes do setor (CP 12/2022)",
+   "assunto": "Resultado da Consulta Pública nº 12/2022: atualização das faixas de acionamento e dos adicionais das bandeiras tarifárias para o ciclo 2022/2023",
    "tema": [
     "tarifas e revisão tarifária (bandeiras)",
     "regulação normativa (consulta pública)"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade: encerrar a CP 12/2022 atualizando faixas e valores das bandeiras (NT 63/2022)",
-   "resumo_voto": "Voto do relator (ausente) lido por outro diretor. Atualização por inflação, combustíveis e séries hidrológicas; pedidos de cobrir 100% dos eventos ou criar novo patamar não acatados agora. Na discussão Ricardo Tili e outros defenderam revisão metodológica mais profunda em ano de calmaria hidrológica e melhor comunicação das bandeiras; nenhum patamar supera a bandeira escassez hídrica.",
+   "resultado": "aprovado por unanimidade: encerrada a CP 12/2022, atualizadas faixas e valores das bandeiras (NT 63/2022 SRG/SGT/SRM)",
+   "resumo_voto": "Efrain Cruz ausente; voto lido por outro diretor (não nomeado). Apresentação técnica (Bruno, SRG): contribuições de 23 participantes, ~16% acatadas; pedidos de cobrir 100% dos eventos e incluir ESS ficam para estudo futuro; correções de cálculo acatadas. Valores atualizados ficam abaixo da bandeira escassez hídrica. Debate sobre necessidade de revisão metodológica mais profunda e de melhor comunicação das bandeiras.",
    "votos": [
     {
      "diretor": "Efrain Cruz",
-     "voto": "voto deixado (lido por outro diretor, provavelmente Ricardo Tili)",
-     "ts": "2:02:10",
-     "justificativa": "2021 foi ano de severidade hidrológica e pressão inflacionária; valores revisados mais aderentes à operação",
+     "voto": "voto deixado (lido por diretor não identificado)",
+     "ts": "2:02:16",
+     "justificativa": "2021 foi ano de severidade hidrológica e pressão inflacionária e de combustíveis; atualização torna as faixas mais aderentes à operação e ao PLD",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:16:26",
-     "confianca": "media",
-     "justificativa": "aproveitar o ano de calmaria hidrológica para revisar a metodologia; bandeira não aumenta o custo anual do consumidor"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:16:26",
-     "confianca": "baixa",
-     "justificativa": "estratégia de comunicação precisa melhorar; contra criar novos patamares de bandeira (atribuição da fala incerta)"
-    },
-    {
-     "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:16:26",
+     "voto": "acompanha o relator",
+     "ts": "2:16:21",
+     "justificativa": "em debate: aproveitar o ano de calmaria hidrológica para revisão mais profunda da metodologia; bandeira não aumenta o custo anual da energia",
      "confianca": "baixa"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator",
+     "ts": "2:16:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
      "ts": "2:16:26",
-     "confianca": "media",
-     "justificativa": "bom encaminhamento atualizar apenas valores agora e estudar metodologia com calma; bandeiras têm grande potencial de comunicação"
+     "justificativa": "em debate: a comunicação das bandeiras precisa melhorar; não criar novos patamares (roxa, preta)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:16:36",
+     "justificativa": "atualização apenas dos valores por elevação de custos; tempo para estudar mudanças metodológicas com cautela",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "9",
-   "ts": "2:16:26",
+   "ts": "2:16:58",
    "processo": "48500.001056/2020-29",
-   "interessado": "centrais geradoras fotovoltaicas com contratos regulados; CCEE; ONS",
-   "assunto": "Metodologia provisória para cálculo dos montantes de constrained-off de UFVs nos contratos regulados (ACR), em cumprimento ao Despacho 1407/2022.",
+   "interessado": "centrais geradoras fotovoltaicas com contratos no ACR; CCEE; ONS",
+   "assunto": "Metodologia provisória para cálculo dos montantes de constrained-off de usinas fotovoltaicas nos contratos regulados (em cumprimento ao Despacho nº 1.407/2022)",
    "tema": [
     "outorgas de geração (solar)",
-    "comercialização (CCEE, contratos regulados)",
-    "regulação normativa"
+    "comercialização (CCEE, ressarcimento)",
+    "constrained-off"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade (com um diretor declarando suspeição): metodologia provisória = potência instalada proporcional à garantia física no ACR x período de restrição, menos eventual geração",
-   "resumo_voto": "SRG validou a metodologia do voto-vista anterior: simplicidade, minimização de riscos e isonomia com eólicas; uso do fator de capacidade/carga rejeitado por complexidade e subcompensação.",
+   "resultado": "aprovado por unanimidade dos votantes (um diretor suspeito): metodologia provisória = potência instalada proporcional à garantia física negociada no ACR x período de restrição, menos a geração no período",
+   "resumo_voto": "SRG avaliou a proposta do voto-vista do relator na 18ª RPO (sugestão de Sandoval Feitosa) e concluiu ser adequada (simplicidade, minimização de riscos, isonomia com eólicas); uso de fator de capacidade/carga rejeitado. CCEE reprocessará quando houver metodologia definitiva (atividade 40 da agenda regulatória).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova metodologia provisória",
-     "ts": "2:28:34",
-     "justificativa": "simplicidade, minimização de riscos de questionamento e isonomia com eólicas; fator de carga inadequado",
+     "voto": "relator, aprova",
+     "ts": "2:28:43",
+     "justificativa": "metodologia simples e isonômica; fator de carga subestimaria montantes e geraria pedidos de reprocessamento individual",
      "confianca": "alta"
     },
     {
-     "diretor": "não identificado (Ricardo Tili ou Giácomo Almeida)",
+     "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "2:29:36",
+     "ts": "2:29:55",
      "confianca": "baixa"
     },
     {
-     "diretor": "não identificado (Ricardo Tili ou Giácomo Almeida)",
+     "diretor": "Giácomo Almeida",
      "voto": "suspeito/impedido",
-     "ts": "2:29:36",
-     "justificativa": "argui suspeição conforme norma interna",
+     "ts": "2:29:55",
+     "justificativa": "arguiu suspeição (norma 273); identidade inferida pela ordem de votação, não dita",
      "confianca": "baixa"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "2:29:36",
-     "confianca": "media"
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:30:06",
+     "justificativa": "parabenizou área técnica e relator pela avaliação da variável sugerida",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "15",
-   "ts": "2:29:36",
+   "ts": "2:30:33",
    "processo": "48500.004476/2022-29 (número incerto na legenda)",
-   "interessado": "Geradora de Energia Quintura (grafia incerta) SPE Ltda; UFVs Dourado 1-10 (Floresta-PE) e Surubim 1-15 (Petrolândia-PE)",
-   "assunto": "Pedido de reconsideração contra a REA 11.904/2022, que revogou as REAs que alteraram os cronogramas das UFVs após rescisão dos CUST por inadimplência; pedido alternativo de TAC.",
+   "interessado": "Geradora de Energia Quintura SPE Ltda. (nome incerto na legenda); grupo comprador citado",
+   "assunto": "Pedido de reconsideração contra a REA nº 11.904/2022, que revogou as REAs que alteraram os cronogramas das UFVs Dourado 1 a 10 (Floresta-PE) e Surubim 1 a 15 (Petrolândia-PE) após rescisão dos CUST por inadimplência",
    "tema": [
     "outorgas de geração (solar)",
-    "recursos administrativos",
-    "fiscalização e sanções (revogação de outorga)"
+    "alteração de cronograma",
+    "transmissão (CUST)",
+    "recursos administrativos"
    ],
    "relator": "Giácomo Almeida",
    "resultado": "aprovado por unanimidade: conhecer e negar provimento",
-   "resumo_voto": "Sem reformatio in pejus (era cautelar, não recurso); autotutela; condição (manutenção dos CUST) descumprida; TAC não previsto desde a REN 712/2016; viabilidade a ser discutida no processo de revogação na SFG (plano de transferência).",
+   "resumo_voto": "Procuradoria (Parecer 179/2022): não houve reformatio in pejus; ANEEL exerceu autotutela. Relator: decisão anterior era condicionada à manutenção dos CUST; ONS rescindiu os CUST em 1º/5/2022; TAC não existe mais na regulação (REN 333/2008 revogada pela REN 712/2016); viabilidade deve ser discutida no processo de revogação na SFG (possível plano de transferência).",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
-     "voto": "relator, nega provimento",
-     "ts": "2:50:53",
-     "justificativa": "ANEEL exerceu autotutela; condicionante descumprida; TAC não existe mais; contraditório no processo de revogação",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:51:54",
-     "confianca": "baixa"
+     "voto": "relator, conhece e nega provimento",
+     "ts": "2:51:35",
+     "justificativa": "não houve nulidade nem gravame sem contraditório; condição da alteração de cronograma descumprida; contraditório será assegurado no processo de revogação",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:51:54",
+     "voto": "acompanha o relator",
+     "ts": "2:52:22",
      "confianca": "baixa"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "2:51:54",
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "2:52:25",
      "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:52:29",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "19",
-   "ts": "2:52:54",
+   "ts": "2:53:10",
    "processo": "48500.001325/2022-19 (número incerto na legenda)",
-   "interessado": "concessionárias de transmissão (Chesf, Furnas, Cteep e outras)",
-   "assunto": "Parcelas adicionais de RAP de reforços de pequeno porte autorizados sem RAP prévia, para o reajuste anual 2022-2023. Apresentação técnica de André (SCT).",
+   "interessado": "21 concessionárias de transmissão (15 com reforços reconhecidos: Chesf, Furnas, Eletronorte, Cemig GT, CGT Eletrosul, TBE, State Grid etc.)",
+   "assunto": "Estabelecimento das parcelas adicionais de RAP referentes a reforços de pequeno porte autorizados sem RAP prévia, para o reajuste anual do ciclo 2022/2023",
    "tema": [
     "transmissão (RAP, reforços)",
     "tarifas e revisão tarifária"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade: resolução homologando as parcelas adicionais de RAP",
-   "resumo_voto": "691 reforços de 21 concessionárias analisados, 576 aptos; investimento ~R$ 309 mi, RAP ~R$ 48 mi; valor original contábil usado por o banco de preços não refletir reforços não modulares.",
+   "resultado": "aprovado por unanimidade: resolução autorizativa homologando as parcelas adicionais de RAP",
+   "resumo_voto": "Apresentação técnica da SCT (André): 691 reforços analisados de 21 concessionárias, 576 aptos (~83%); investimento ~R$ 309 milhões e RAP adicional ~R$ 48 milhões (~1,8% dos contratos); uso do valor original contábil em vez do banco de preços para reforços que não formam unidade modular. Ricardo Tili destacou o garimpo para separar reforço de obrigação de O&M.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "3:12:12",
-     "justificativa": "banco de preços não reflete reforços de pequeno porte; uso do valor original contábil",
+     "voto": "relator, aprova (emite resolução autorizativa)",
+     "ts": "3:12:48",
+     "justificativa": "banco de preços modular não reflete reforços de pequeno porte; valor original contábil é o método mais indicado",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:14:14",
+     "voto": "acompanha o relator",
+     "ts": "3:14:24",
+     "justificativa": "em debate: análise exige muito trabalho para não remunerar obrigações de operação e manutenção como reforço",
      "confianca": "baixa"
     },
     {
      "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:14:14",
+     "voto": "acompanha o relator",
+     "ts": "3:14:24",
      "confianca": "baixa"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "3:14:14",
-     "confianca": "media",
-     "justificativa": "resultado pequeno mas exige garimpo para não classificar O&M como reforço (fala atribuída com incerteza)"
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:14:32",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "16",
-   "ts": "3:14:14",
+   "ts": "3:14:56",
    "processo": "48500.002921/2018-30 e outros (número incerto na legenda)",
-   "interessado": "Mercury Renew Participações; Cassilândia Solar Participações (UFVs Cassilândia 1-6, MS)",
-   "assunto": "Pedido de reconsideração contra o Despacho 1410/2022, que negou excludente de responsabilidade e alteração de cronograma das UFVs Cassilândia 1 a 6 (ACL).",
+   "interessado": "Mercury Renew Participações S.A. e Cassilândia Solar Participações S.A. (geradoras fotovoltaicas, ACL)",
+   "assunto": "Pedido de reconsideração contra o Despacho nº 1.410/2022, que negou excludente de responsabilidade e alteração dos cronogramas das UFVs Cassilândia 1 a 6 (Cassilândia-MS)",
    "tema": [
     "outorgas de geração (solar)",
+    "alteração de cronograma / excludente de responsabilidade",
+    "transmissão (CUST)",
     "recursos administrativos"
    ],
    "relator": "Efrain Cruz",
    "resultado": "aprovado por unanimidade: conhecer e negar provimento",
-   "resumo_voto": "Voto do relator (ausente) lido por Ricardo Tili: critérios da 10ª RPO só priorizaram análise; alteração de cronograma não é direito; postergar CUST redistribui encargos; pandemia/crise chinesa são fortuito interno, risco do empreendedor.",
+   "resumo_voto": "Voto de Efrain Cruz (ausente) lido por Ricardo Tili. Decisão da 10ª RPO só fixou critérios de priorização, sem novas condicionantes; alteração de cronograma não é direito; postergar CUST redistribui encargos a terceiros; pandemia e crise energética chinesa são fortuito interno, risco do empreendedor; projeto sem avanço significativo.",
    "votos": [
     {
      "diretor": "Efrain Cruz",
      "voto": "voto deixado (lido por Ricardo Tili)",
-     "ts": "3:36:31",
-     "justificativa": "fortuito interno; contratação de equipamentos é risco do empreendedor; sem conveniência para alterar cronograma",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:37:33",
-     "confianca": "baixa"
+     "ts": "3:15:36",
+     "justificativa": "sem excludente de responsabilidade; contratação de equipamentos é risco do empreendedor (fortuito interno); postergar o CUST transfere custos a outros usuários",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:37:33",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Giácomo Almeida",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:37:33",
+     "voto": "acompanha o relator",
+     "ts": "3:38:07",
      "confianca": "baixa"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator e proclama (presidente da sessão)",
-     "ts": "3:37:33",
+     "diretor": "Giácomo Almeida",
+     "voto": "acompanha o relator",
+     "ts": "3:38:07",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:38:10",
      "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:38:10",
+     "confianca": "alta"
     }
    ]
   }
@@ -452,15 +465,17 @@
  "retirados": [
   {
    "item": "24",
-   "motivo": "retirado de pauta (relator Efrain Cruz), informado no encerramento"
+   "relator": "Efrain Cruz",
+   "motivo": "retirado de pauta (informado no encerramento)",
+   "ts": "3:38:58"
   }
  ],
  "limites_da_analise": [
-  "Nomes fora da lista do config (como ditos): Camila Bomfim, Efrain Cruz (legenda 'ephrain Pereira da Cruz'), Giácomo Almeida (legenda 'já com Francisco Barros Almeida', 'diácomo'). Composição inferida pela contagem de votos e pelas saudações; Sandoval Feitosa citado em 3ª pessoa, não parece presente.",
-  "Presidência atribuída a Camila Bomfim por ser tratada como 'diretora Camila' pelos relatores e pelas falas femininas de condução; não confirmado por fala explícita.",
-  "Votos dos não relatores sem nome: atribuídos pela proclamação de unanimidade (confiança baixa). Quem declarou suspeição nos itens 26 e 9 não é nomeado (provavelmente Ricardo Tili ou Giácomo Almeida).",
-  "Efrain Cruz participou remotamente com falha de internet; nos itens 8 e 16 seu voto foi lido (item 16 explicitamente por Ricardo Tili). Nos itens 7 e 32 sua participação é incerta.",
-  "Números de processo, valores de multa e nomes de empresas (ex.: Quintura) vêm da legenda automática e podem estar errados.",
-  "Item 15: 3 votos ouvidos além do relator (4 presentes); item 9: 4 presentes com 1 suspeito."
+  "Nomes fora da lista do config da ANEEL, registrados como ditos: Camila Bomfim (diretora-geral interina), Giácomo Almeida (legenda «já com Francisco Barros Almeida», «diácomo»); Efrain Cruz aparece como «ephrain Pereira da Cruz».",
+  "Composição (5 diretores) inferida pela contagem de falas de voto e saudações; Sandoval Feitosa citado em 3ª pessoa e não vota.",
+  "Votos sem nome atribuídos pela ordem recorrente de votação inferida (Ricardo Tili, Giácomo Almeida, Hélvio Guerra — que costuma dizer «acompanho o voto do relator» —, Camila Bomfim por último, proclamando); nos itens 7 e 32, com Efrain presente, a posição de cada fala é incerta (confiança baixa). Todas as votações foram proclamadas por unanimidade, então o sentido do voto é seguro; a atribuição individual do ts não.",
+  "Suspeição no item 26 atribuída a Giácomo Almeida porque o mesmo diretor a antecipou na votação do bloco (Parte 1), junto com o item 24 em que atuou como superintendente da SFE; no item 9 a suspeição foi atribuída a ele só pela ordem de votação (confiança baixa).",
+  "Item 8: voto de Efrain Cruz lido por outro diretor não nomeado; item 16: lido por Ricardo Tili (dito pelo secretário).",
+  "Números de processo, valores de multa e nomes de empresas (Quintura, Hélio Valgas, Mercury Renew) vêm da legenda automática e podem estar errados."
  ]
 }

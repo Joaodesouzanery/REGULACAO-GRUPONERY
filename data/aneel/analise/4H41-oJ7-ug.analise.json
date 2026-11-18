@@ -1,51 +1,135 @@
 {
- "meta": {"video_id": "4H41-oJ7-ug", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
- "reuniao": {
-  "numero": "38ª Reunião Pública Ordinária de 2022",
-  "data": "2022-10-11",
-  "formato": "presencial",
-  "presidente_da_sessao": "Hélvio Guerra (substituindo o Diretor-Geral)",
-  "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
-  "ausentes": ["Sandoval Feitosa (missão no exterior)", "um diretor(a) em férias (nome ininteligível na legenda)"],
-  "observacoes": ["Quórum de três diretores.", "Ata da 37ª RPO aprovada.", "Pauta com 39 itens; itens 11 a 39 em bloco; retirados os itens 5, 6, 7, 8 e 17; sustentação oral nos itens 3 e 9.", "Ordem: bloco, 9, 3, 1, 2, 4, 10.", "Item 9 (Oliveira Energia) sem decisão: três posições distintas, aguardando os diretores ausentes."]
- },
- "itens": [
-  {"id": "bloco (11 a 39)", "ts": "0:06:49", "processo": "", "interessado": "diversos", "assunto": "Itens 11 a 39 julgados em bloco (votos disponibilizados previamente)", "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade dos presentes", "resumo_voto": "Bloco aprovado sem discussão.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:06:49", "justificativa": "", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha (pela proclamação)", "ts": "0:06:49", "justificativa": "", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha (pela proclamação)", "ts": "0:06:49", "justificativa": "", "confianca": "media"}]},
-  {"id": "9", "ts": "0:07:08", "processo": "48500.005054/2019-75 e 48500.002108/2020-84", "interessado": "Oliveira Energia S.A. (UTE Monte Cristo Sucuba, Boa Vista/RR)", "assunto": "Pedido de medida cautelar contra o Despacho SFG 2.331/2022 (multa editalícia de cerca de R$ 3,23 milhões por atraso na implantação, Leilão 1/2019 de Roraima); sustentação oral de Guilherme Berezuk (Oliveira Energia)", "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (térmica)", "sistemas isolados / Roraima"], "relator": "Ricardo Tili", "resultado": "sem decisão: relator vencido em tese por dois votos contrários com fundamentos distintos; sem maioria, aguarda os diretores ausentes", "resumo_voto": "Relator: conhecer e conceder a cautelar para suspender a cobrança da multa até decisão final sobre o excludente de responsabilidade e sobre a penalidade, e determinar à SFG estudo em 60 dias para compatibilizar o rito das multas editalícias com a REN 846/2019 (efeito suspensivo). Procuradoria apontou que o DG já negara efeito suspensivo, decisão irrecorrível pela REN 273.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, conhece e dá provimento à cautelar", "ts": "0:43:00", "justificativa": "perigo da demora (multa vencida, execução da garantia iminente), fumaça do bom direito (recursos pendentes; aplicação analógica da REN 846 conforme parecer da Procuradoria) e reversibilidade", "confianca": "alta"},
-    {"diretor": "Fernando Mosna", "voto": "diverge (conhece, mas nega)", "ts": "0:48:30", "justificativa": "não está satisfeito o requisito da fumaça do bom direito; aplicação analógica da REN 846 em sede cautelar criaria precedente sem estudo", "confianca": "alta"},
-    {"diretor": "Hélvio Guerra", "voto": "diverge (não conhece)", "ts": "0:59:50", "justificativa": "cautelar é recurso travestido contra decisão do Diretor-Geral que negou efeito suspensivo, irrecorrível pela REN 273; seria cautelar sobre cautelar", "confianca": "alta"}]},
-  {"id": "3", "ts": "1:00:49", "processo": "48500.004373/2021-88", "interessado": "CCEE; consumidores (sustentação oral de Victor Hugo, Abrace)", "assunto": "Resultado da Consulta Pública 61/2021: regulamentação da contratação de reserva de capacidade na forma de potência (Decreto 10.707/2021), rateio do encargo ERCAP e modelo de CUPCAP", "tema": ["CDE e encargos setoriais", "regulação normativa", "comercialização (CCEE)"], "relator": "Fernando Mosna", "resultado": "pedido de vista de Hélvio Guerra", "resumo_voto": "Relator: emitir REN; rateio do encargo pelo maior consumo líquido horário de cada mês (mistura de propostas Abrace/Abraceel), prazo de 90 dias para a CCEE adequar regras.",
-   "votos": [
-    {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:15:49", "justificativa": "potência máxima mensal como peso do rateio capta os picos que motivaram a contratação", "confianca": "alta"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:18:20", "justificativa": "", "confianca": "media"},
-    {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:18:31", "justificativa": "explorar alternativa surgida em reunião técnica (assessoria do gabinete) para melhorar a proposta", "confianca": "alta"}]},
-  {"id": "1", "ts": "1:19:35", "processo": "48500.006031/2022-83", "interessado": "Light Serviços de Eletricidade S.A.", "assunto": "Revisão tarifária extraordinária 2022 da Light pela Lei 14.385/2022 (devolução de créditos de PIS/Cofins); abertura de consulta pública por decisão do TRF1", "tema": ["tarifas e revisão tarifária (distribuidoras)", "regulação normativa", "judicialização"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes: consulta pública de 13/10 a 28/11/2022", "resumo_voto": "Em estrito cumprimento da decisão judicial, instaurar CP de 45 dias sobre a RTE (efeito médio estimado -5,89%), embora a ANEEL entenda a CP desnecessária.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:42:43", "justificativa": "cumprimento da decisão do TRF1; CP não se presta ao contraditório, mas abre-se por 45 dias para ampliar participação", "confianca": "alta"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:43:49", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:43:49", "justificativa": "", "confianca": "baixa"}]},
-  {"id": "2", "ts": "1:45:24", "processo": "48500.004858/2021-71", "interessado": "geradoras eólicas (cerca de 500 pedidos)", "assunto": "Reconhecimento de constrained-off de usinas eólicas com garantia física no ACL, eventos anteriores a outubro de 2021", "tema": ["outorgas de geração (eólica)", "comercialização (ACL)", "recursos administrativos", "CDE e encargos setoriais"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade dos presentes: pedidos conhecidos e negados", "resumo_voto": "Nega ressarcimento de constrained-off do ACL antes da REN 927/2021, conforme Parecer 42/2021 e Nota Jurídica 17/2022 da Procuradoria e Despacho 1.095/2021.",
-   "votos": [
-    {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "1:55:04", "justificativa": "pagar eventos do ACL via ESS faria o consumidor cativo subsidiar o ambiente livre; REN 927 só vale para frente", "confianca": "alta"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:56:01", "justificativa": "", "confianca": "media"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:56:04", "justificativa": "", "confianca": "alta"}]},
-  {"id": "4", "ts": "1:57:38", "processo": "48500.006080/2022-16", "interessado": "geradoras fotovoltaicas (Absolar)", "assunto": "Abertura de consulta pública sobre procedimentos para apuração e pagamento de constrained-off de centrais fotovoltaicas", "tema": ["outorgas de geração (solar)", "regulação normativa (consulta pública, AIR)"], "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade: CP de 47 dias (13/10 a 28/11/2022)", "resumo_voto": "Proposta alinhada à REN 927 (eólicas): franquia de 29h30 por ano para indisponibilidade externa; sem reconhecimento retroativo para o ACL.",
-   "votos": [
-    {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "2:12:09", "justificativa": "aprendizado do constrained-off eólico; CP de 47 dias para não terminar em sábado", "confianca": "alta"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:12:49", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:12:49", "justificativa": "", "confianca": "media"}]},
-  {"id": "10", "ts": "2:13:41", "processo": "48500.005595/2022-07", "interessado": "Enel Distribuição Goiás, CEB Distribuição (Neoenergia Brasília), Energisa Tocantins", "assunto": "Verificação, para 2021, das cláusulas de eficiência na prestação do serviço e na gestão econômico-financeira dos contratos de distribuição prorrogados", "tema": ["distribuição e qualidade", "fiscalização e sanções (caducidade)"], "relator": "Hélvio Guerra", "resultado": "aprovado por unanimidade", "resumo_voto": "Enel Goiás descumpriu o DEC interno e o parâmetro mínimo de sustentabilidade econômico-financeira em 2021; novo descumprimento em 2022 sujeita a processo de caducidade; CEB e Energisa Tocantins cumpriram.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:30:48", "justificativa": "contrato traz fórmula objetiva; argumentos da Enel Goiás não podem ser considerados", "confianca": "alta"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:36:17", "justificativa": "parabeniza as áreas pelo monitoramento da qualidade da distribuição", "confianca": "media"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:36:20", "justificativa": "", "confianca": "baixa"}]}
- ],
- "retirados": [{"item": "5"}, {"item": "6"}, {"item": "7"}, {"item": "8"}, {"item": "17"}],
- "limites_da_analise": ["Diretor em férias não identificado (legenda: «diretor já Como»); nome fora da lista possível.", "Presidência por Hélvio Guerra inferida (cumprimenta Ricardo e Fernando e é chamado de diretor Élvio).", "Votos de quem só disse «acompanho» sem nome atribuídos pela ordem; confiança baixa/média.", "Número do processo do item 10 incerto na legenda (48500.005595/2022-07).", "Item 9: ts do voto do relator aproximado."]
+  "meta": {"video_id": "4H41-oJ7-ug", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "38ª Reunião Pública Ordinária de 2022",
+    "data": "2022-10-11",
+    "formato": "presencial (sala de reuniões da ANEEL), transmitida pela internet",
+    "presidente_da_sessao": "Hélvio Guerra (substituindo o Diretor-Geral)",
+    "diretores_presentes": ["Hélvio Guerra", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa (Diretor-Geral, em missão no exterior; poderia entrar mais tarde, o que não ocorreu)", "um diretor(a) em férias (nome inaudível na legenda: «o diretor já Como está de férias»)"],
+    "observacoes": [
+      "Quórum de três diretores. Procurador Eduardo Ramalho; secretário-geral Daniel Danna; secretário-geral designado Carlos Eduardo.",
+      "Informes: leilão de energia nova A-5 em 14/10/2022 na CCEE; fim das contribuições da CP 39/2022 (outorga de autorização, REN 876/2020) em 17/10; 25 anos da ANEEL em 01/12/2022.",
+      "Aprovada a ata da 37ª RPO de 04/10/2022.",
+      "Pauta com 39 itens; itens 11 a 39 em bloco (aprovados por unanimidade dos presentes); retirados de pauta os itens 5, 6, 7, 8 e 17; sustentação oral nos itens 3 e 9. Ordem: bloco, 9, 3, 1, 2, 4 e 10.",
+      "Item 9 (cautelar Oliveira Energia) ficou sem decisão: relator Ricardo Tili votou por deferir; Fernando Mosna e Hélvio Guerra divergiram; sem maioria absoluta, aguarda os dois diretores ausentes.",
+      "Item 3 (reserva de capacidade) teve pedido de vista de Hélvio Guerra.",
+      "No encerramento o presidente diz «30 reunião pública» (erro de legenda/fala; é a 38ª)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:06:40",
+      "processo": "itens 11 a 39 da pauta", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos e atos disponibilizados previamente com a pauta)",
+      "tema": ["institucional/bloco"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade dos presentes",
+      "resumo_voto": "Presidente submete o bloco; aprovado sem discussão.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:06:49", "justificativa": "«Eu também aprovo bloco»", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:45", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova o bloco (pela proclamação)", "ts": "0:06:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "9", "ts": "0:07:00",
+      "processo": "48500.005054/2019-75 e 48500.002108/2020-84",
+      "interessado": "Oliveira Energia S.A. (geradora; UTE Monte Cristo Sucuba, Boa Vista/RR, leilão 1/2019 para sistemas isolados)",
+      "assunto": "Pedido de medida cautelar contra o Despacho 2.331/2022 da SFG, que aplicou multa editalícia de cerca de R$ 3,23 milhões por atraso na implantação da UTE Monte Cristo Sucuba; pede suspender a cobrança e a execução da garantia até decisão final sobre excludente de responsabilidade e sobre a penalidade",
+      "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (térmica)", "sistemas isolados (Roraima)", "leilões"],
+      "relator": "Ricardo Tili",
+      "resultado": "sem decisão: relator votou por deferir; dois diretores divergiram; sem maioria, aguarda os dois diretores ausentes",
+      "resumo_voto": "Sustentação oral de Guilherme Berezuk (Oliveira Energia): usina já opera desde 2015 e sustentou Roraima após o corte da Venezuela; multa vencida e risco de execução da garantia. Procurador Eduardo Ramalho: DG já negou efeito suspensivo (decisão irrecorrível pela REN 273); cautelar com o mesmo objeto seria precedente indevido. Relator: conhecer e deferir a cautelar para suspender a cobrança até decisão de mérito em última instância sobre excludente e sobre a penalidade; perigo da demora (multa ≈ 2,54% do investimento, inadimplência, execução da garantia), fumaça do bom direito (recursos pendentes, analogia com efeito suspensivo do art. 36 da REN 846/2019, parecer da PF), reversibilidade; determina à SFG estudo em 60 dias para compatibilizar o rito das multas editalícias com a REN 846. Mosna: conheceria mas negaria (fumaça do bom direito não preenchida; analogia ainda não pacífica). Hélvio: entende que nem caberia conhecer (cautelar travestida de recurso contra decisão irrecorrível do DG; cita PCS, cujo edital previa efeito suspensivo), mas vota divergindo do relator.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, conhece e defere a cautelar (suspende a cobrança da multa) e determina estudo à SFG", "ts": "0:41:46", "justificativa": "presentes perigo da demora (multa vencida, inadimplência, execução da garantia), fumaça do bom direito (recursos pendentes; incongruência entre rito editalício e REN 846, que dá efeito suspensivo) e reversibilidade; não é prática adequada cobrar antes do trânsito em julgado da excludente", "tom": "defende o voto diante do procurador e dos colegas", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge do relator (conheceria e negaria provimento)", "ts": "0:59:43", "justificativa": "não preenchido o requisito da fumaça do bom direito: aplicação analógica da REN 846 a multa editalícia não é entendimento pacífico e criaria precedente em sede cautelar", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "diverge do relator (entende que não caberia conhecer)", "ts": "0:59:55", "justificativa": "efeito suspensivo tem natureza cautelar e foi negado pelo DG em decisão irrecorrível (REN 273); a cautelar seria um recurso travestido, cautelar sobre cautelar; concorda que falta fumaça do bom direito", "tom": "crítico ao conhecimento do pedido; sugere que a Secretaria-Geral nem recebesse pedidos assim", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:00:40",
+      "processo": "48500.004373/2021-88",
+      "interessado": "CCEE; agentes de consumo; sustentação oral da Abrace (Victor Hugo, nome incerto)",
+      "assunto": "Resultado da Consulta Pública 61/2021: regulamentação da contratação de reserva de capacidade na forma de potência (Decreto 10.707/2021): rateio do encargo (ERCAP), penalidades, contrato de uso (CUSPCAP/«copcap»), fundo de garantia e conta (CONCAP) geridos pela CCEE",
+      "tema": ["leilões (reserva de capacidade)", "CDE e encargos setoriais", "comercialização (CCEE)", "regulação normativa (consulta pública, resolução)"],
+      "relator": "Fernando Mosna",
+      "resultado": "pedido de vista de Hélvio Guerra",
+      "resumo_voto": "Abrace pediu rateio ponderado pelo PLD horário por submercado ou por janela horária definida pelo ONS. Relator (com apresentação do superintendente Júlio, SRM): rateio do encargo ponderado pelo maior consumo líquido horário de cada agente no mês (mistura de contribuições da Abrace e da Abraceel); repasse tarifário concatenado com o Proret 5.4 v2.0; prazo de 90 dias para a CCEE enviar regras e procedimentos; voto por emitir a resolução normativa e aprovar o modelo de contrato. Hélvio elogiou o trabalho, mas disse que proposta de seu gabinete na reunião técnica merecia mais avaliação e pediu vista.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova a resolução normativa e o modelo de contrato", "ts": "1:15:45", "justificativa": "rateio pela máxima demanda horária mensal captura a potência (não a energia) e faz todos pagarem conforme o que demandam", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:18:23", "justificativa": "fala «em votação eu acompanho o relator» sem nome; atribuída pela ordem de votação", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:18:26", "justificativa": "possibilidade de melhoria da proposta a partir de alternativa surgida em reunião técnica (assessoria do seu gabinete)", "tom": "elogioso à equipe técnica", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:19:30",
+      "processo": "48500.006031/2022-83",
+      "interessado": "Light Serviços de Eletricidade S.A. (distribuidora, Rio de Janeiro)",
+      "assunto": "Revisão tarifária extraordinária de 2022 da Light pela Lei 14.385/2022 (devolução dos créditos de PIS/Cofins pela exclusão do ICMS da base): abertura de consulta pública em cumprimento a decisão da 8ª Turma do TRF-1",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTE)", "créditos de PIS/Cofins", "regulação normativa (consulta pública)", "judicialização"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade dos presentes: consulta pública de 13/10 a 28/11/2022",
+      "resumo_voto": "A ANEEL entende desnecessária a CP (a lei já manda devolver; CP não é instrumento de contraditório), mas cumpre a decisão judicial obtida pela Light. Efeito médio estimado da RTE de -5,89% (≈ -5,68% AT e -6% BT); créditos em torno de R$ 1,8 bilhão somando valor disponível e previsão de 12 meses (valores informados pela própria Light; legenda pode errar). CP por 45 dias, acima do mínimo de 30.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova a abertura de consulta pública", "ts": "1:42:38", "justificativa": "estrito cumprimento da decisão do TRF-1, embora a ANEEL refute com veemência a tese da Light; prazo de 45 dias para ampliar a participação", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:43:41", "justificativa": "falas «acompanho» / «eu também acompanho» sem nome; atribuição pela ordem", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:43:43", "justificativa": "falas «acompanho» / «eu também acompanho» sem nome; atribuição pela ordem", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "1:45:19",
+      "processo": "48500.004858/2021-71",
+      "interessado": "geradoras eólicas com garantia física no ACL (cerca de 500 pedidos)",
+      "assunto": "Reconhecimento de restrição de operação por constrained-off de usinas eólicas com garantia física disponível no ACL para eventos anteriores a outubro de 2021",
+      "tema": ["outorgas de geração (eólica)", "constrained-off", "comercialização (ACL, ESS)", "recursos administrativos"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade dos presentes: conhecer e negar provimento",
+      "resumo_voto": "REN 927/2021 (consolidada na REN 1.030/2022) só cobre ACL a partir de out/2021; pagar eventos passados do ACL via ESS faria consumidores cativos subsidiarem o mercado livre; segue parecer 42/2021 e nota jurídica 17/2022 da PF e o Despacho 1.095/2021. Decisão alcança cerca de 500 pedidos.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "1:54:57", "justificativa": "incabível ressarcimento retroativo para energia do ACL; evita subsídio cruzado entre ambientes", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:55:45", "justificativa": "«eu acompanho o relator» sem nome; atribuição pela ordem", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:55:48", "justificativa": "«eu acompanho o voto do relator e declaro...»", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "4", "ts": "1:57:30",
+      "processo": "48500.006080/2022-16",
+      "interessado": "centrais geradoras fotovoltaicas; Absolar",
+      "assunto": "Abertura de consulta pública sobre procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de centrais fotovoltaicas (UFV)",
+      "tema": ["outorgas de geração (solar)", "constrained-off", "regulação normativa (consulta pública, AIR)", "comercialização (ESS, PLD)"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade dos presentes: consulta pública por 47 dias (13/10 a 28/11/2022)",
+      "resumo_voto": "Apresentação de Luciana (SRG): proposta espelha a REN 927 das eólicas; ACR e ACL para o futuro; franquia de 29h30 por ano para indisponibilidade externa; pagamento via ESS valorado a PLD; ACL retroativo não reconhecido, reforçando decisão anterior da diretoria; metodologia definitiva para casos passados do ACR. Prazo de 47 dias porque 45 terminaria num sábado.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova a abertura de consulta pública", "ts": "2:12:00", "justificativa": "aproveita o aprendizado do constrained-off eólico; demanda da Absolar e agenda regulatória 2022-2023", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:12:40", "justificativa": "«acompanho» sem nome; atribuição pela ordem", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:12:42", "justificativa": "«voto com o relator e declaro...»", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "10", "ts": "2:13:20",
+      "processo": "48500.005595/2022-07 (número incerto na legenda)",
+      "interessado": "Enel Distribuição Goiás, CEB Distribuição (Neoenergia Brasília) e Energisa Tocantins (distribuidoras com contratos prorrogados)",
+      "assunto": "Verificação do cumprimento, em 2021, das cláusulas de eficiência na qualidade do serviço e na gestão econômico-financeira e do parâmetro mínimo de sustentabilidade econômico-financeira dos contratos de concessão de distribuição prorrogados (Lei 12.783/2013, Decreto 8.461/2015)",
+      "tema": ["distribuição e qualidade (DECi/FECi)", "fiscalização e sanções (caducidade)", "sustentabilidade econômico-financeira"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade dos presentes",
+      "resumo_voto": "Enel Goiás descumpriu o critério de qualidade (DECi) e o parâmetro mínimo de sustentabilidade econômico-financeira de 2021 (restrição a proventos e a contratos com partes relacionadas; argumentos da empresa rejeitados porque a fórmula contratual é objetiva); se descumprir em 2022, sujeita-se a processo que pode levar à caducidade. CEB Distribuição e Energisa Tocantins cumpriram todos os critérios. Registra fato relevante da Equatorial sobre compra da Enel Goiás, ainda sem análise da ANEEL. Tili elogiou as áreas técnicas (SCT, SFF, SRD, SFE).",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova a emissão do despacho", "ts": "2:30:45", "justificativa": "contrato traz fórmula objetiva, sem margem para incluir eventos alegados pela Enel Goiás; fiscalização tem caráter pedagógico", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:36:09", "justificativa": "«eu acompanho o voto do relator» sem nome; atribuição pela ordem; antes elogiou o trabalho das superintendências sobre qualidade da distribuição", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:36:13", "justificativa": "«eu também acompanho» sem nome; atribuição pela ordem", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["5", "6", "7", "8", "17"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes podem estar errados (ex.: «Ricardo laborato Chile» = Ricardo Tili; «Élvio Neves guerra» = Hélvio Guerra; «mozza» = Mosna).",
+    "Nome do diretor(a) em férias inaudível; o presidente fala em «dois diretores ausentes».",
+    "Itens 3, 1, 2, 4 e 10: falas «acompanho» sem nome atribuídas pela ordem de votação (relator, demais, presidente por último); no item 3 a atribuição de «eu acompanho o relator» a Ricardo Tili tem confiança baixa.",
+    "Item 9: as duas divergências foram atribuídas a Mosna (fumaça do bom direito) e Hélvio («não concordo com o voto do relator») pelo conteúdo; a ordem exata das falas é incerta. O resultado ficou pendente sem decisão.",
+    "Item 10: número do processo incerto; o voto lido cita alternadamente CEB/«sede» e Neoenergia/«anel energia distribuição Brasília».",
+    "Nome do representante da Abrace (Victor Hugo «hyoca») e do representante da Oliveira (Guilherme «berezuk») incertos.",
+    "Itens do bloco (11 a 39) não são detalhados na transmissão."
+  ]
 }

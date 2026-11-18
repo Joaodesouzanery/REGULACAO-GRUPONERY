@@ -1,186 +1,159 @@
 {
  "meta": {
   "video_id": "9rKVd-z0sT8",
-  "fonte": "legenda automática do YouTube; falantes inferidos; nomes e números aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "4ª Reunião Pública Ordinária 2022",
+  "numero": "4ª Reunião Pública Ordinária de 2022",
   "data": "2022-02-08",
-  "formato": "videoconferência (híbrida)",
+  "formato": "híbrido (presencial com participação remota; procurador com problema de conexão)",
   "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
   "diretores_presentes": [
    "André Pepitone",
-   "Elisa Bastos",
-   "Hélvio Guerra",
    "Sandoval Feitosa",
-   "Efrain Cruz"
+   "Efrain Cruz",
+   "Hélvio Guerra"
   ],
-  "ausentes": [],
+  "ausentes": [
+   "Elisa Bastos (votos dos itens 1 e 4 lidos pelo Diretor-Geral)"
+  ],
   "observacoes": [
-   "Duração cerca de 3h13. Aprovadas as atas da 3ª ordinária (01/02) e da 1ª extraordinária (03/02).",
-   "Itens retirados de pauta antes da reunião: 6, 8, 9, 10, 18, 19, 20 e 33; itens 3 e 15 retirados a pedido do relator durante a sessão.",
-   "Item 3 foi adiado para o final e depois retirado.",
-   "Prorrogação da CP 83/2021 (serviços ancilares) por 30 dias, até 14/03/2022, anunciada no encerramento a pedido da Eletrobras.",
-   "Ordem real dos itens: bloco, 1, 2, 4, 5, 7, 11. A legenda grafa Hélvio Guerra como Elvis Neves Guerra."
+   "Quórum de quatro diretores declarado na abertura; aprovadas as atas da 3ª RPO e da 1ª reunião extraordinária de 2022.",
+   "Itens 6, 8, 9, 10, 18, 19, 20 e 33 retirados de pauta antes da sessão; itens 3 e 15 retirados a pedido do relator durante a sessão (o item 3 estava adiado para o fim).",
+   "Pedido de sustentação oral de terceiro não parte do processo não acatado pela presidência (item com numeração ininteligível na legenda).",
+   "Ao final, foi anunciada a prorrogação por 30 dias (até 14/03/2022) da Consulta Pública 83/2021 (serviços ancilares) a pedido da Eletrobras/Eletronorte; anúncio feito por um diretor (provavelmente Efrain Cruz), sem votação formal registrada.",
+   "No item 11 o colegiado deu orientação procedimental às áreas técnicas sobre pedidos de alteração de cronograma de usinas solares/eólicas sem CUST e licença ambiental."
   ]
  },
  "itens": [
   {
    "id": "bloco",
-   "ts": "0:04:52",
+   "ts": "0:04:55",
    "processo": "",
-   "interessado": "vários (itens em bloco)",
-   "assunto": "Votação em bloco dos itens de bloco da pauta (itens 12 a 38 da pauta, exceto os retirados 18, 19, 20 e 33; número exato de processos votados não dito na legenda)",
+   "interessado": "diversos",
+   "assunto": "Itens do bloco (votos disponibilizados previamente), aprovados em votação conjunta",
    "tema": [
-    "itens em bloco"
+    "bloco de itens"
    ],
-   "relator": "não se aplica",
+   "relator": "diversos",
    "resultado": "aprovados por unanimidade dos votantes",
-   "unanime": true,
-   "resumo_voto": "Diretores aprovaram o bloco; Diretor-Geral proclamou aprovação por unanimidade.",
+   "resumo_voto": "Aprovação em bloco sem leitura de votos.",
    "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:05:03",
+     "confianca": "media"
+    },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "aprova o bloco",
      "ts": "0:05:03",
-     "justificativa": "Aprovação do bloco; falas individuais sem nome na legenda, atribuição pela proclamação.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "aprova o bloco",
      "ts": "0:05:03",
-     "justificativa": "Aprovação do bloco; falas individuais sem nome na legenda, atribuição pela proclamação.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "aprova o bloco",
-     "ts": "0:05:03",
-     "justificativa": "Aprovação do bloco; falas individuais sem nome na legenda, atribuição pela proclamação.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "aprova o bloco",
      "ts": "0:05:03",
-     "justificativa": "Aprovação do bloco; falas individuais sem nome na legenda, atribuição pela proclamação.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "aprova o bloco",
-     "ts": "0:05:03",
-     "justificativa": "Aprovação do bloco; falas individuais sem nome na legenda, atribuição pela proclamação.",
-     "confianca": "baixa"
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "1",
-   "ts": "0:05:35",
-   "processo": "48500.000028/2022-73 (número aproximado pela legenda)",
-   "interessado": "Secretaria Executiva de Leilões (SEL)",
-   "assunto": "Abertura de consulta pública (10/02 a 28/03/2022, 46 dias) para aprimorar a minuta do edital do Leilão 3/2022 (leilão de energia nova A-4 de 2022); sessão do leilão prevista para 27/05/2022; 1.894 projetos cadastrados (175 GW)",
+   "ts": "0:05:24",
+   "processo": "48500.000282/2022-73 (número incerto na legenda)",
+   "interessado": "ANEEL / Secretaria Executiva de Leilões (SEL); MME (Portaria 34/2021)",
+   "assunto": "Abertura de consulta pública (10/02 a 28/03/2022) para aprimorar minuta de edital e anexos do Leilão 3/2022-ANEEL, leilão de energia nova A-4 de 2022 (novos empreendimentos hídricos, eólicos, solares e térmicos a biomassa/resíduos)",
    "tema": [
     "leilões (geração)",
-    "regulação normativa (consulta pública)",
-    "comercialização"
+    "outorgas de geração",
+    "regulação normativa (consulta pública)"
    ],
-   "relator": "Elisa Bastos",
-   "resultado": "consulta pública instaurada por unanimidade dos votantes",
-   "unanime": true,
-   "resumo_voto": "Voto da relatora lido pelo Diretor-Geral André Pepitone; apresentação técnica da SEL; aprovação definitiva do edital prevista para a reunião de 26/04.",
-   "sustentacao_oral": "não",
+   "relator": "Elisa Bastos (ausente; voto lido pelo Diretor-Geral André Pepitone)",
+   "resultado": "aprovado por unanimidade dos votantes: consulta pública instaurada de 10/02 a 28/03/2022",
+   "resumo_voto": "Apresentação técnica da SEL (Igor): sessão pública prevista para 27/05/2022, CCEAR por quantidade (15 anos eólica/solar, 20 anos hidrelétrica) e disponibilidade (20 anos biomassa), capacidade remanescente do SIN como critério de classificação, produto comum eólica/solar; aprovação final do edital prevista para 26/04. 1.894 projetos cadastrados (cerca de 175 GW, segundo a legenda).",
    "votos": [
     {
      "diretor": "Elisa Bastos",
-     "voto": "relatora, aprova",
-     "ts": "0:11:45",
-     "justificativa": "Voto pela instauração da consulta pública de 10/02 a 28/03/2022 para colher subsídios sobre a minuta de edital e anexos do Leilão 3/2022 (A-4); lido por Pepitone.",
-     "confianca": "alta"
+     "voto": "voto deixado (lido por André Pepitone): relatora, aprova a abertura da consulta pública",
+     "ts": "0:12:41",
+     "confianca": "alta",
+     "justificativa": "seguir a recomendação da SEL para colher contribuições ao edital do A-4/2022"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora",
+     "ts": "0:13:25",
+     "confianca": "media",
+     "justificativa": "leu o voto; destacou a didática da apresentação e o volume de projetos cadastrados"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:13:20",
-     "justificativa": "Acompanhamento sem nome na legenda (três diretores dizem acompanhar); atribuído pela proclamação.",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:13:27",
      "confianca": "baixa"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:13:25",
-     "justificativa": "Idem.",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:13:27",
      "confianca": "baixa"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha a relatora (pela proclamação)",
      "ts": "0:13:28",
-     "justificativa": "Idem.",
      "confianca": "baixa"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator; proclama",
-     "ts": "0:13:33",
-     "justificativa": "Leu o voto e proclamou o resultado por unanimidade.",
-     "confianca": "media"
     }
    ]
   },
   {
    "id": "2",
    "ts": "0:13:46",
-   "processo": "48500.000611/2022-xx (número parcial na legenda)",
-   "interessado": "CCEE; permissionárias e concessionárias de distribuição não agentes da CCEE (ex.: cooperativas; SLU citada)",
-   "assunto": "Operacionalização da cobrança e repasse de créditos do programa de incentivo à redução voluntária do consumo de energia elétrica (Resolução CREG 2/2021): repasse a distribuidoras não agentes da CCEE, isenção do rateio da inadimplência no curto prazo e rateio do encargo como o de segurança energética",
+   "processo": "48500.000621/2022-01 (número incerto na legenda)",
+   "interessado": "CCEE; Federação das Cooperativas de Energia de Santa Catarina; confederação nacional das cooperativas de infraestrutura; permissionárias e concessionárias supridas sem adesão à CCEE",
+   "assunto": "Operacionalização da cobrança dos custos e repasse de créditos do Programa de Incentivo à Redução Voluntária do Consumo de Energia Elétrica (Resolução CREG 2/2021)",
    "tema": [
-    "comercialização (CCEE)",
-    "CDE e encargos setoriais (ESS)",
-    "tarifas",
-    "escassez hídrica / CREG"
+    "CDE e encargos setoriais (encargo de serviço do sistema)",
+    "comercialização (CCEE, mercado de curto prazo)",
+    "crise hídrica"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos votantes (despacho autorizando CCEE a repassar valores; isenção do rateio da inadimplência; rateio conforme ESS de segurança energética)",
-   "unanime": true,
-   "resumo_voto": "Relator votou por autorizar CCEE a creditar valores às distribuidoras não agentes da CCEE, isentar os valores do rateio da inadimplência (R$ 1,1 bi de inadimplência em nov/2021) e ratear o custo como o encargo por segurança energética.",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "(1) autoriza a CCEE a creditar o bônus às permissionárias e concessionárias não agentes da CCEE nas contas correntes vinculadas à CDE; (2) isenta os valores do programa do rateio da inadimplência do mercado de curto prazo (simetria com a Portaria Normativa MME 22/2021 para consumidores livres); (3) rateio dos custos entre agentes da CCEE pela regra do encargo por segurança energética, com base no consumo do mês de contabilização (janeiro a março de 2022). Sem sustentação oral; procuradoria não se manifestou no mérito.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:29:00",
-     "justificativa": "Isenção do rateio por simetria com a portaria MME 22/2021 (consumidores livres) e por ser programa emergencial; valores contabilizados em jan-mar/2022.",
-     "confianca": "alta"
+     "ts": "0:26:41",
+     "confianca": "alta",
+     "justificativa": "acolhe análise conjunta SRM/SGT; consumidores cativos que reduziram consumo não podem receber bônus parcial por causa da inadimplência do MCP; caráter emergencial do programa"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:30:00",
-     "justificativa": "Fez observação de esclarecimento: perguntou se os beneficiários eram só permissionárias (resposta do superintendente: pequenas concessionárias/permissionárias sem obrigação de aderir à CCEE); não alterou o mérito.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha o relator",
      "ts": "0:31:00",
-     "justificativa": "Acompanhamento pela proclamação.",
-     "confianca": "baixa"
+     "confianca": "media",
+     "justificativa": "resumiu as três decisões e reforçou que até março todos os valores devem estar contabilizados e devolvidos ao consumidor"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:31:00",
-     "justificativa": "Acompanhamento pela proclamação.",
      "confianca": "baixa"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:31:00",
-     "justificativa": "Acompanhamento pela proclamação.",
      "confianca": "baixa"
     }
    ]
@@ -188,267 +161,224 @@
   {
    "id": "4",
    "ts": "0:32:07",
-   "processo": "48500.003222/2020-11 (aprox.)",
-   "interessado": "Secretaria-Geral (SG) / ANEEL",
-   "assunto": "Resultado da Consulta Pública 50/2021 e nova Resolução Normativa sobre cadastro institucional e notificação eletrônica (substitui a REN 804/2018); notificação eletrônica por opt-out, 2 tentativas, vigência 1º/05/2022; prazo de 90 dias para adequar compartilhamento de dados com CCEE, EPE e ONS à LGPD",
+   "processo": "48500.003222/2021-11 (número incerto na legenda)",
+   "interessado": "ANEEL / Secretaria-Geral e SGI",
+   "assunto": "Resultado da Consulta Pública 50/2021: revisão da REN 804/2018 (cadastro institucional e notificação eletrônica), adequação à Lei do Governo Digital (Lei 14.129/2021) e ao Decreto 10.139/2019",
    "tema": [
     "regulação normativa (resolução, consulta pública)",
-    "institucional / governo digital",
-    "LGPD"
+    "institucional (governo digital, LGPD)"
    ],
-   "relator": "Elisa Bastos",
-   "resultado": "aprovado por unanimidade dos votantes",
-   "unanime": true,
-   "resumo_voto": "Voto da relatora lido por Pepitone; apresentação de Raqueline Lemes (Secretaria-Geral); manifestação do procurador Luiz Eduardo.",
+   "relator": "Elisa Bastos (ausente; voto lido pelo Diretor-Geral André Pepitone)",
+   "resultado": "aprovado por unanimidade dos votantes: publicação da nova resolução e determinação de 90 dias para adequar o compartilhamento do cadastro com CCEE, EPE e ONS conforme a LGPD",
+   "resumo_voto": "Apresentação de Raqueline Lemes (SGE): cadastro institucional único, integração com gov.br, notificação eletrônica como opção padrão (opt-out), duas tentativas e publicação no DOU em caso de insucesso, vigência em 01/05/2022; 35 contribuições de 12 instituições. Procuradoria aprovou com ressalvas, incorporadas.",
    "votos": [
     {
      "diretor": "Elisa Bastos",
-     "voto": "relatora, aprova",
-     "ts": "0:45:00",
-     "justificativa": "Aprovar a publicação da REN do cadastro institucional e notificação eletrônica e determinar adequação à LGPD em 90 dias.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:51:00",
-     "justificativa": "Ressaltou a importância da digitalização dos processos, da opcionalidade para o agente e do uso do cadastro em leilões (texto padrão nos editais).",
-     "confianca": "media"
+     "voto": "voto deixado (lido por André Pepitone): relatora, aprova a resolução",
+     "ts": "0:47:27",
+     "confianca": "alta",
+     "justificativa": "digitalização e eficiência, preservada a opção do administrado pela via física"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:52:00",
-     "justificativa": "Parabenizou a relatora, citou eficiência/redução de burocracia (tarifa social) e perguntou sobre a base de dados única e compartilhamento.",
-     "confianca": "media"
+     "voto": "acompanha a relatora",
+     "ts": "0:55:12",
+     "confianca": "media",
+     "justificativa": "salto de eficiência e redução de burocracia (compara à tarifa social automática); perguntou à procuradoria se há restrição ao compartilhamento com CCEE/ONS/EPE (resposta: não, com termo de compromisso)"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:55:00",
-     "justificativa": "Acompanha o voto da relatora (fala atribuída ao Diretor Efraim na legenda).",
-     "confianca": "media"
+     "voto": "acompanha a relatora",
+     "ts": "0:55:10",
+     "confianca": "alta",
+     "justificativa": "parabenizou a relatora pelo voto"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:55:10",
-     "justificativa": "Acompanhamento pela proclamação.",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "0:54:52",
      "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha a relatora",
+     "ts": "0:55:12",
+     "confianca": "media",
+     "justificativa": "agentes terão de aderir para serem notificados eletronicamente; recomenda adesão para ganhar velocidade e reduzir burocracia"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "0:55:53",
-   "processo": "48500.002571/2021-15 (aprox.)",
-   "interessado": "Mantiqueira Transmissora de Energia S.A. (recorrente); Equatorial Transmissora 4 SPE e Equatorial Transmissora 6 SPE; ONS; SFE",
-   "assunto": "Recurso administrativo com pedido de medida cautelar da Mantiqueira contra o Despacho 2.344/2021 da SFE, que ratificou os Termos de Liberação de Receita (TLR) emitidos pelo ONS em favor das Equatorial 4 e 6 com pendências impeditivas de terceiros (SE Presidente Juscelino 500/345 kV)",
+   "ts": "0:55:56",
+   "processo": "48500.002571/2021-15",
+   "interessado": "Mantiqueira Transmissora de Energia S.A. (recorrente); Equatorial Transmissora 4 SPE e Equatorial Transmissora 6 SPE; ONS; SE Presidente Juscelino 500/345 kV (MG)",
+   "assunto": "Recurso administrativo com pedido de medida cautelar contra o Despacho SFE 2.344/2021, que ratificou Termos de Liberação de Receita (TLR) emitidos pelo ONS a favor das Equatorial 4 e 6 com pendências impeditivas de terceiros, em desfavor da Mantiqueira",
    "tema": [
-    "transmissão (RAP, TLR, pendências impeditivas)",
-    "recursos administrativos",
-    "fiscalização",
-    "medida cautelar / efeito suspensivo"
+    "transmissão (TLR, acesso a subestação)",
+    "fiscalização e sanções",
+    "recursos administrativos (efeito suspensivo/cautelar)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "por unanimidade dos votantes: conhecer e negar provimento ao recurso e negar efeito suspensivo ao pagamento dos TLR até decisão do pedido de excludente de responsabilidade (processo 48500.004155/2020-62)",
-   "unanime": true,
-   "resumo_voto": "Relator concluiu que pendências da Mantiqueira (comunicação e barramento) impediram a conexão das Equatorial; negou efeito suspensivo por ausência de perigo da demora, pois o valor devido seria limitado a 10% da receita em operação (cerca de R$ 330 mil/ano), e registrou que a decisão do TRF1 mantém descontos suspensos enquanto vigorar.",
-   "sustentacao_oral": "Victor Sarmento de Mello (Mantiqueira); procuradoria federal manifestou-se sem parecer de mérito",
+   "resultado": "conhecido e, no mérito, negado provimento ao recurso e ao pedido de efeito suspensivo, por unanimidade dos votantes",
+   "resumo_voto": "Sustentação oral de Victor Sarmento de Mello (Mantiqueira): pedido de excludente de responsabilidade por atraso do licenciamento ambiental (Ibama) e pandemia pendente desde maio/2020; ônus estimado de 165 milhões (+20 milhões/mês); alternativa de reclassificar a pendência como sistêmica. Relator: Equatorial estava pronta, faltou comunicação adequada da Mantiqueira (malha de terra, barramentos, painel de interface); sem perigo da demora porque o desconto do TLR é limitado a 10% da receita das instalações em operação (cerca de 330 mil reais/ano, conforme a legenda); registra liminar do TRF1 de 23/12/2021 que mantém suspensos os descontos enquanto vigorar. Processo foi retirado da pauta da reunião anterior após ponderações da diretora Elisa sobre a cautelar.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, nega provimento ao recurso e ao efeito suspensivo",
-     "ts": "1:39:06",
-     "justificativa": "Concluiu pela responsabilidade da Mantiqueira (falta de comunicação, barramento não pronto); sem perigo da demora diante do limite de 10% da receita (módulo 3.2); agradeceu ponderações da diretora Elisa feitas na reunião anterior.",
-     "confianca": "alta"
+     "ts": "1:38:45",
+     "confianca": "alta",
+     "justificativa": "pendências da Mantiqueira impediram o acesso das Equatorial; falta de comunicação entre as empresas; ausência de perigo da demora pelo limite de 10% da receita (Submódulo 3.2, REN 905); excludente de responsabilidade será tratado em processo próprio",
+     "tom": "técnico; crítica à falta de comunicação entre concessionárias"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:40:07",
+     "confianca": "media",
+     "justificativa": "proposta tem amparo no regramento defendido pela SFE; o processo de excludente de responsabilidade da Mantiqueira está sob sua relatoria e dará solução definitiva"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:41:00",
-     "justificativa": "Um diretor (nome não identificado com segurança na legenda) elogiou o aprimoramento do voto e disse que o processo de excludente está sob sua relatoria; atribuição incerta.",
+     "ts": "1:41:14",
      "confianca": "baixa"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:41:05",
-     "justificativa": "Acompanhamento pela proclamação.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:41:10",
-     "justificativa": "Acompanhamento pela proclamação; havia questionado o ponto da cautelar na reunião anterior, o que levou à retirada de pauta.",
+     "voto": "acompanha o relator",
+     "ts": "1:41:14",
      "confianca": "media"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:41:15",
-     "justificativa": "Acompanhamento pela proclamação.",
-     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "7",
    "ts": "1:42:04",
-   "processo": "48500.00x xxx/20xx (número não legível)",
-   "interessado": "Santa Vitória do Palmar Energias Renováveis S.A. e outras",
-   "assunto": "Pedido de reconsideração contra o Despacho 1.095/2021 (restrição de operação por constrained-off; ACR; art. 8º REN 927/2021) após pedido de vista",
+   "processo": "",
+   "interessado": "Santa Vitória do Palmar Energias Renováveis S.A. e outras (eólicas)",
+   "assunto": "Pedido de reconsideração contra o Despacho 1.095/2021, que deu parcial provimento para reconhecer, só na parcela de energia do ACR, eventos de restrição por constrained-off e aplicar o art. 8º da REN 927/2021 (retorno de voto-vista)",
    "tema": [
     "outorgas de geração (eólica)",
-    "constrained-off",
+    "comercialização (constrained-off)",
     "recursos administrativos (reconsideração)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "por unanimidade dos votantes: conhecer o pedido de reconsideração e negar-lhe provimento",
-   "unanime": true,
-   "resumo_voto": "Pedido de vista do Diretor Efrain Cruz; ao voltar, acompanhou integralmente o relator, mantendo a decisão colegiada anterior sobre constrained-off no ACR.",
+   "resultado": "conhecido e negado provimento, por unanimidade dos votantes, após voto-vista de Efrain Cruz acompanhando o relator",
+   "resumo_voto": "Retorno de vista. Efrain Cruz, que fora voto vencido na decisão original sobre constrained-off (reconhecido para o ACR e não para o ACL), acompanha integralmente o relator em respeito à colegialidade, ressalvando sua posição conhecida sobre o tema.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, nega provimento",
-     "ts": "1:46:00",
-     "justificativa": "Voto do relator mantém decisão do despacho 1.095 (não reconhece constrained-off no ACR).",
+     "voto": "relator, nega provimento (voto proferido em sessão anterior)",
+     "ts": "1:42:04",
      "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "voto-vista: acompanha o relator",
-     "ts": "1:43:30",
-     "justificativa": "Pediu vista, analisou com áreas técnicas e acompanhou integralmente o relator por colegialidade, apesar de seu voto vencido na decisão original; disse manter o posicionamento sobre grandes usinas.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:46:50",
-     "justificativa": "Observou que não há vencidos nem vencedores no colegiado; votou por último conforme a fala.",
-     "confianca": "media"
+     "voto": "voto-vista: acompanha integralmente o relator",
+     "ts": "1:45:32",
+     "confianca": "alta",
+     "justificativa": "decisão do colegiado sobre constrained-off deve ser respeitada (colegialidade), embora tenha sido voto vencido à época; mantém sua visão sobre o tema para casos futuros",
+     "tom": "conciliador"
     },
     {
      "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator",
-     "ts": "1:46:40",
-     "justificativa": "Voto favorável ao relator, segundo fala do Diretor-Geral.",
-     "confianca": "media"
+     "voto": "voto proferido em sessão anterior (acompanha o relator)",
+     "ts": "1:47:12",
+     "confianca": "media",
+     "justificativa": "registrado pela mesa como voto favorável ao relator; ausente nesta sessão"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:47:20",
-     "justificativa": "Acompanhamento pela proclamação.",
+     "voto": "acompanha o voto condutor",
+     "ts": "1:46:02",
      "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "1:47:12",
+     "confianca": "media",
+     "justificativa": "não há vencidos nem vencedores no colegiado; a posição do colegiado passa a ser a da ANEEL (atribuição incerta, ver limites)"
     }
    ]
   },
   {
    "id": "11",
-   "ts": "1:47:39",
-   "processo": "48500.005046/2019-82 e outros",
-   "interessado": "Geradora de Energia Quintura (nome incerto), complexos fotovoltaicos Dourado 1 a 10 (Floresta/PE) e Surubim 1 a 15 (Petrolândia/PE); grupo investidor com carta de compromisso (nome ilegível na legenda)",
-   "assunto": "Alteração de cronograma de implantação das UFVs Dourado 1-10 e Surubim 1-15 (operação comercial até 1º/10/2024), contrariando indeferimento das áreas técnicas (SCG, SFG, SRT), com condições: garantia de fiel cumprimento em 120 dias (cerca de R$ 200 milhões estimados), transferência das cotas em 120 dias, início das obras até 1º/09/2022, manutenção dos CUST (cerca de R$ 150 milhões de encargos), revogação das outorgas se descumprido",
+   "ts": "1:47:47",
+   "processo": "48500.005046/2019-82 e outros (número incerto na legenda)",
+   "interessado": "Geradora titular das UFV (nome distorcido na legenda, algo como «Quinturaré»); grupo investidor comprador das cotas (nome incerto: «Godoy»/«UCI Investimentos»); UFV Dourado 1 a 10 (Floresta/PE) e UFV Surubim 1 a 15 (Petrolândia/PE)",
+   "assunto": "Alteração do cronograma de implantação das centrais fotovoltaicas Dourado 1 a 10 e Surubim 1 a 15 (ACL), com entrada em operação comercial até 01/10/2024",
    "tema": [
     "outorgas de geração (solar)",
-    "cronograma de implantação",
     "transmissão (CUST, TUST)",
-    "regulação (reserva de rede, excesso de outorgas)"
+    "fiscalização e sanções (revogação de outorga)",
+    "reserva de capacidade de rede / desconto no fio"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos votantes",
-   "unanime": true,
-   "resumo_voto": "Relator divergiu da recomendação técnica por haver investidor com compromisso firme e garantias; colegiado debateu por cerca de 80 minutos o excesso de outorgas (cerca de 3 mil pedidos, 180 GW), a reserva de rede e o desconto no fio.",
+   "resultado": "aprovado por unanimidade dos votantes, divergindo da recomendação de indeferimento das áreas técnicas (SCG, SFG, SRT)",
+   "resumo_voto": "Altera cronogramas sem alterar a vigência dos CUST (encargos de cerca de 150 milhões até a operação, assumidos pela empresa); eficácia condicionada a: garantia de fiel cumprimento (5% do capex, cerca de 200 milhões segundo o relator) em 120 dias; transferência integral das cotas ao novo investidor em 120 dias (comprovação à SFF); início das obras até 01/09/2022; descumprimento leva a processo de revogação das outorgas. Discussão ampla sobre excesso de outorgas solares/eólicas (cerca de 3 mil), reserva de rede e expectativa de perenizar o desconto no fio; orientação procedimental às áreas para só analisar alterações de cronograma/características de quem tenha CUST e licença ambiental. Sem sustentação oral; procuradoria não emitiu parecer.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "2:03:10",
-     "justificativa": "Alterar cronograma condicionando a garantia, transferência de cotas e início de obras; divergiu das áreas técnicas; caso particular, não regra geral.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:12:00",
-     "justificativa": "Longa fala sobre excesso de outorgas (cerca de 1.500 pedidos em fila e 1.441 concedidos), retrabalho para equipe e falta de compromisso entre outorga e execução; propôs orientação procedimental a áreas técnicas; acompanhou o relator (atribuição da fala com confiança média).",
-     "confianca": "media"
+     "voto": "relator, aprova alteração condicionada",
+     "ts": "2:02:48",
+     "confianca": "alta",
+     "justificativa": "caso particular com licença ambiental e CUST assinado e investidor estrangeiro com compromisso firme; garantia e prazo de 120 dias funcionam como salvaguarda; precedente de garantia em transferência de PCH e sinal positivo da AIR da revisão da REN 876; a divergência com as áreas técnicas é saudável",
+     "tom": "defende a ousadia de divergir das áreas técnicas"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:05:00",
-     "justificativa": "Acompanhou integralmente o relator por tratar-se de contratos no mercado livre (bilaterais), defendendo mais flexibilidade ao empreendedor.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Elisa Bastos",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:05:00",
-     "justificativa": "Lembrou que a AIR da revisão da REN 876 previu garantia de fiel cumprimento em transferências de outorga; acompanhou o relator.",
-     "confianca": "media"
+     "voto": "acompanha integralmente o relator",
+     "ts": "3:08:05",
+     "confianca": "alta",
+     "justificativa": "por ser ACL, vê pouca razão para interferência no cronograma; critica corrida por outorgas para garantir desconto no fio (cerca de 180 GW), que decreto não pode perenizar subsídio extinto por lei; defende regulação firme diante do comportamento do mercado",
+     "tom": "enfático; crítico ao mercado de 'reserva' de outorgas"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:09:42",
-     "justificativa": "Atribuição incerta das falas sobre PCH, Eletrobras e segurança energética; voto pela proclamação.",
+     "ts": "3:09:37",
      "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:09:39",
+     "confianca": "alta",
+     "justificativa": "preocupação com cerca de 3 mil outorgas sem compromisso, retrabalho das equipes e reserva de uso da rede; propôs orientação procedimental para analisar só pedidos com CUST e licença ambiental; inicialmente desconfortável em exigir garantia fora da norma, aceitou por se tratar de transferência de titularidade",
+     "tom": "crítico ao cenário que chamou de caótico"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "id": "3",
-   "observacao": "retirado de pauta"
+   "item": "3",
+   "relator": "não identificado",
+   "motivo": "adiado para o final e depois retirado a pedido do relator",
+   "ts": "1:47:42"
   },
   {
-   "id": "6",
-   "observacao": "retirado de pauta"
+   "item": "15",
+   "relator": "não identificado",
+   "motivo": "retirado a pedido do relator (havia pedido de sustentação oral)",
+   "ts": "1:47:42"
   },
   {
-   "id": "8",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "9",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "10",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "15",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "18",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "19",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "20",
-   "observacao": "retirado de pauta"
-  },
-  {
-   "id": "33",
-   "observacao": "retirado de pauta"
+   "item": "6, 8, 9, 10, 18, 19, 20 e 33",
+   "relator": "diversos",
+   "motivo": "retirados de pauta (anunciado pelo secretário-geral)",
+   "ts": "0:04:06"
   }
  ],
  "limites_da_analise": [
-  "Legenda automática: nomes de empresas (Quintura/Quinto Orar, Godoy/Leodório, UCI), números de processos e valores podem estar errados.",
-  "Presença de cinco diretores inferida da fala de abertura (quórum), das citações nominais e dos votos; Gentil Nogueira e Ricardo Tili aparecem como falantes inferidos mas são superintendentes/servidores citados (Dr Gentil), não diretores votantes.",
-  "As falas individuais de acompanhamento raramente têm nome na legenda: votos de acompanhamento atribuídos pela proclamação do Diretor-Geral, confiança baixa/média; minutos aproximados.",
-  "No item 11 não foi possível atribuir com segurança a cada diretor as falas longas; atribuições de Efrain Cruz, Elisa Bastos e Sandoval Feitosa são inferências.",
-  "Números dos itens 2, 5 e 7 (processos) parcialmente ilegíveis na legenda; item 7 sem número de processo.",
-  "Item 5: sustentação oral de Victor Sarmento de Mello; relator voltou ao tema após retirada de pauta na reunião anterior (ordinária anterior)."
+  "Legenda automática: números de processo distorcidos (marcados como incertos); nomes da geradora e do investidor no item 11 são incertos.",
+  "O cabeçalho do .md lista falantes inferidos (Gentil Nogueira, Ricardo Tili) que não compunham a diretoria em 2022; a composição usada vem da abertura (diretores Sandoval, Efrain, Hélvio e o DG André Pepitone; quórum de quatro) e da leitura dos votos da diretora Elisa pelo DG.",
+  "Sandoval Feitosa não tem fala identificada com segurança; seus votos estão registrados pela proclamação de unanimidade (confiança baixa). Observações no item 2 (dúvida sobre permissionárias/concessionárias sem adesão à CCEE, 0:27:48) e no item 4 (importância da digitalização e da opcionalidade, 0:48:22) são de diretor não identificado, possivelmente Sandoval.",
+  "Item 7: o pedido de vista foi de Efrain Cruz em sessão anterior; a fala «acompanho o voto condutor» (1:46:02) e a de 1:47:12 («faltava o meu voto») têm autoria incerta entre Sandoval Feitosa e André Pepitone. Voto de Elisa Bastos foi dado na sessão anterior.",
+  "Nos itens 1 e 4 (relatora ausente) há 3 falas de acompanhamento para 4 presentes; o DG, que leu o voto, também é contado como votante pela proclamação de unanimidade.",
+  "Itens do bloco não foram detalhados na sessão (sem número exato de itens confiável na legenda).",
+  "Valores (165 milhões, 230 milhões, 330 mil, 200 milhões, 150 milhões, 180 GW, 3 mil outorgas) são como ditos na legenda e podem estar distorcidos."
  ]
 }

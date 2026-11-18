@@ -1,33 +1,43 @@
 {
-  "meta": {"video_id": "GadM58CgTM8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "GadM58CgTM8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:19:46); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "3ª extraordinária de 2023", "data": "2023-06-28", "formato": "presencial e transmissão pelo YouTube",
-    "presidente_da_sessao": "não identificado (diretor que presidiu na ausência de Sandoval Feitosa; cumprimenta Agnes da Costa, Ricardo Tili e Fernando Mosna)",
-    "diretores_presentes": ["Fernando Mosna", "Agnes da Costa", "Ricardo Tili", "presidente da sessão (não identificado)"],
-    "ausentes": ["Sandoval Feitosa (ausência justificada, representação no exterior)"],
-    "observacoes": ["Quórum de quatro diretores; pauta com um único item, sem pedido de sustentação oral.", "Reunião extraordinária convocada com urgência pelo relator (art. 35 da REN 698/2015) para decidir cautelar antes da contabilização da CCEE (resultados em 30/06/2023).", "Presença do procurador-geral substituto Eduardo Estevão, que se manifestou sobre os requisitos da cautelar."]
+    "numero": "3ª Reunião Pública Extraordinária de 2023",
+    "data": "2023-06-28",
+    "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto, inferido)",
+    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+    "ausentes": ["Sandoval Feitosa"],
+    "observacoes": [
+      "Quórum de quatro diretores; ausência justificada do Diretor-Geral Sandoval Feitosa por representação no exterior.",
+      "Pauta com um único item (pedido de medida cautelar da Copel GT sobre o MCSD 4%), sem pedido de sustentação oral.",
+      "Reunião extraordinária solicitada pelo relator Fernando Mosna pela urgência (prazos de contabilização da CCEE); procurador-geral substituto Eduardo Estevão informou que a Procuradoria não foi consultada e não se manifestou sobre o mérito.",
+      "Cautelar concedida por unanimidade; no encerramento o relator agradece à CCEE e a assessor do gabinete que elaborou o voto de madrugada."
+    ]
   },
   "itens": [
     {
-      "id": "1", "ts": "0:21:30",
-      "processo": "48500.003350/2023-18", "interessado": "Copel Geração e Transmissão S.A. (Copel GT)",
-      "assunto": "Requerimento administrativo com pedido de medida cautelar para retificar metodologia e parâmetros do MCSD 4% (mecanismo de compensação de sobras e déficits) nos CCEARs repactuados pelo Despacho 1395/2019 (4º leilão de energia existente, UHE Governador Bento Munhoz da Rocha Neto/Foz do Areia)",
-      "tema": ["comercialização (CCEE, MCSD, CCEAR)", "recursos administrativos / cautelar", "outorgas de geração (hidrelétrica, risco hidrológico, Lei 13.203/2015)"],
-      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: cautelar concedida a partir da referência de junho/2023",
-      "resumo_voto": "Relator vê fumaça do bom direito: a redução pelo MCSD 4% superaria o limite de 4% do Decreto 5.163/2004 (13 dos 17 CCEARs reduzidos integralmente). Perigo da demora: perda estimada em cerca de 264 milhões de reais no suprimento de 117 dias (CCEAR a cerca de R$ 246,98/MWh contra PLD mínimo). Reversibilidade: possível recontabilização. Efeitos da cautelar valem a partir da referência de junho/2023; mantém a contabilização de maio/2023; contratos da Copel GT continuam na proporcionalização de eventuais sobras declaradas; processo segue à SGM para análise de mérito. Procurador Eduardo Estevão: juízo sumário, sem opinião formal da procuradoria. Houve esclarecimento de um diretor sobre o item 2 do dispositivo, respondido pelo relator.",
+      "id": "1", "ts": "0:21:03",
+      "processo": "48500.003350/2023-18",
+      "interessado": "Copel Geração e Transmissão S.A. (Copel GT) — geradora; UHE Governador Bento Munhoz da Rocha Neto (GBM) / Governador José Richa (GJR); CCEE",
+      "assunto": "Requerimento administrativo com pedido de medida cautelar da Copel GT para suspender o processamento do Mecanismo de Compensação de Sobras e Déficits (MCSD) 4% e mensal sobre os CCEARs do 4º Leilão de Energia Existente repactuados pelo Despacho 1.395/2019 (extensão de outorga pela repactuação do risco hidrológico, Lei 13.203/2015)",
+      "tema": ["comercialização (CCEE, MCSD, contratos)", "outorgas de geração (hidrelétrica)", "risco hidrológico (GSF)", "recursos administrativos / medida cautelar"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade — cautelar concedida",
+      "resumo_voto": "Presentes fumaça do bom direito (o MCSD 4% reduziu cerca de 94% dos montantes dos aditivos de 117 dias, 13 dos 17 CCEARs zerados, superando o limite de 4% do Decreto 5.163/2004) e perigo da demora (perda estimada de receita da ordem de R$ 264 milhões, preço do CCEAR muito acima do PLD mínimo); medida reversível. Suspende os efeitos do MCSD 4% e mensal para os contratos da Copel GT a partir da referência de junho/2023 até o julgamento de mérito; mantém maio/2023 já contabilizado; contratos da Copel continuam participando da proporcionalização para não afetar outros vendedores; processo à SGM para análise de mérito.",
       "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, concede a medida cautelar", "ts": "0:28:20", "justificativa": "probabilidade do direito (teto de 4% superado), perigo da demora (perda de receita estimada em cerca de 264 milhões de reais) e reversibilidade da medida", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:22", "confianca": "baixa"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:22", "confianca": "baixa"},
-        {"diretor": "não identificado", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:42:25", "justificativa": "levantou dúvida sobre o item 2 do dispositivo e aceitou o esclarecimento do relator", "confianca": "baixa"}
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova (concede a cautelar)", "ts": "0:21:03", "justificativa": "redução pelo MCSD 4% supera em muito o teto de 4% do montante contratual; perda de receita relevante no curto período de 117 dias; efeitos reversíveis após o mérito; maio/2023 já processado não é alcançado", "tom": "técnico; respondeu às dúvidas sobre o item 2 do dispositivo explicando que visa garantir a reversibilidade sem recontabilizar os demais agentes", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:22", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:24", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:42:26", "justificativa": "na discussão (provavelmente) questionou o alcance do item 2 do dispositivo (manutenção da contabilização de maio/2023 para todo o sistema), entendendo ao final que visa evitar recontabilizações", "confianca": "baixa"}
       ]
     }
   ],
   "retirados": [],
   "limites_da_analise": [
-    "Legenda automática: nomes e números podem estar errados (a legenda grafa Lei 3.203/2015, que é a Lei 13.203/2015; processo 48500.003350/2023-18 lido como 48.500 3350 2023 18).",
-    "Quem presidiu a sessão não foi identificado com segurança: o falante cumprimenta Agnes, Ricardo e Fernando, logo é o quarto diretor presente, mas o nome não é dito na legenda; na ausência de Sandoval Feitosa. Não atribuído a ninguém da lista.",
-    "Os dois «acompanho» (0:42:22 e 0:42:25) não têm nome na legenda; atribuição entre Ricardo Tili, Agnes da Costa e o presidente da sessão não pode ser confirmada. Votos de Tili e Agnes registrados pela proclamação de unanimidade, confiança baixa. Quem fez a pergunta sobre o item 2 (0:37:47) também não foi identificado.",
-    "Número de votos fecha com os 4 presentes, um deles com nome não identificado."
+    "Legenda automática: número do processo transcrito como «48.500 3350 2023 digito 18» (reconstruído como 48500.003350/2023-18); «lei 3.203 de 2015» entendida como Lei 13.203/2015; valores (558,4 MWmédios, R$ 264 milhões, R$ 246,98/MWh) conforme a fala, podem conter erros.",
+    "Presidente da sessão inferido: quem abre cumprimenta a diretora Agnes, o diretor Ricardo e o diretor Fernando, logo seria o quarto diretor presente (Hélvio Guerra); o nome dele não é dito na legenda. O procurador se dirige a «Senhora Diretora», o que deixa alguma incerteza.",
+    "Os três «acompanho» (0:42:22–0:42:26) não têm nome dito; atribuídos pela proclamação de unanimidade, com ordem aproximada.",
+    "Na discussão sobre o item 2 do dispositivo (0:37:32–0:42:20) falam ao menos dois diretores além do relator, sem identificação de nome; a atribuição da dúvida a Hélvio Guerra é incerta.",
+    "Conferência: 4 votos = 4 presentes (Sandoval Feitosa ausente)."
   ]
 }

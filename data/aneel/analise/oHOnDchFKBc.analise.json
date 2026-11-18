@@ -1,175 +1,171 @@
 {
  "meta": {
   "video_id": "oHOnDchFKBc",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2, período da tarde); ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "20ª Reunião Pública Ordinária (Parte 2)",
   "data": "2022-06-07",
   "formato": "presencial com sustentações orais por vídeo",
-  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta)",
+  "presidente_da_sessao": "Camila Bomfim (Diretora-Geral substituta)",
   "diretores_presentes": [
-   "Camila Bomfim",
-   "Efraim Cruz",
+   "Camila Bomfim (Diretora-Geral substituta)",
+   "Efrain Cruz",
    "Hélvio Guerra",
    "Ricardo Tili"
   ],
   "ausentes": [
-   "Giácomo (Giácomo Almeida?) — saudado na sustentação oral, mas sem fala ou voto identificado na Parte 2; não citado pelo procurador entre os diretores"
+   "Ricardo Tili retirou-se durante o item 26 (deixou voto consignado) e não votou o item 12"
   ],
   "observacoes": [
-   "Parte 2 (tarde) da 20ª RPO; ordem invertida: itens 7, 26, 12 e 53.",
-   "Item 26 retirado de pauta a pedido do relator; item 53 retirado de pauta.",
-   "Ricardo Tili antecipou seu voto no item 26/Âmbar e se retirou (viagem); não participou do item 12.",
-   "Encerrada às ~3:19 do vídeo."
+   "Retomada da 20ª RPO no período da tarde; inversão de pauta: itens 7, 26, 12 e 53 (53 acabou retirado).",
+   "Todos os itens deliberados nesta parte foram relatados por Efrain Cruz.",
+   "Item 7 (DUP da Transmissora Paraíso, TPE): decidido por maioria; Camila Bomfim acompanhou a negativa da alteração da DUP mas divergiu da determinação de retirada/desmobilização das instalações; relator incorporou que a desmobilização ocorra sem interromper a prestação do serviço.",
+   "Item 26 (Âmbar/PCS, troca de localidade para Cuiabá junto à UTE Mário Covas): só foi deliberada a alteração de características técnicas (pedido subsidiário); mérito da cautelar ficou para a reunião seguinte.",
+   "Item 12 (recurso da seguradora Fairfax/«Flex» sobre garantia da SPR Transmissora Maranhense): negado provimento, aplicada multa editalícia de 10% do investimento.",
+   "Registrada a presença do deputado Joaquim Passarinho e comitiva do Pará.",
+   "Encerramento por volta de 3:19:37 do vídeo."
   ]
  },
  "itens": [
   {
    "id": "7",
-   "ts": "0:00:35",
+   "ts": "0:00:53",
    "processo": "48500.001153/2018-05",
-   "interessado": "Transmissora Paraíso de Energia S.A. (TPE, grupo Alupar); HF Empreendimentos e outros proprietários de terras",
-   "assunto": "Pedido de alteração do anexo da REA 6.942/2018 (declaração de utilidade pública - DUP para servidão das LTs 500 kV Poções III - Padre Paraíso 2 - Governador Valadares 6 e seccionamentos, BA/MG), após a linha já construída fora da área declarada",
-   "tema": [
-    "transmissão (DUP, servidão administrativa)",
-    "fiscalização e sanções"
-   ],
-   "relator": "Efraim Cruz",
-   "resultado": "Por maioria: negado o pedido de alteração da DUP; determinada a retirada das instalações construídas fora da área declarada e a apresentação de cronograma de desmobilização e nova implantação, sem interrupção do serviço (acréscimo aceito pelo relator). Camila Bomfim vencida quanto à desmobilização.",
-   "resumo_voto": "Relator: transmissora construiu trechos em área não declarada por sua conta e risco, contrariando art. 10 da REN 919/2021 e o contrato (menor impacto social); ANEEL não pode convalidar depois; direito de propriedade. Sustentações orais: Victor Sarmento de Mello (TPE) e Gustavo Mota (HF Empreendimentos); procurador Luiz Eduardo citou jurisprudência do STJ sobre desapropriação indireta (resolve-se por indenização).",
+   "interessado": "Transmissora Paraíso de Energia S.A. (TPE, grupo Alupar); proprietários afetados (HF Empreendimentos Ltda. e outro particular)",
+   "assunto": "Alteração, a pedido, do anexo da REA 6.942/2018 (declaração de utilidade pública para servidão administrativa das LTs Poções III–Padre Paraíso 2–Governador Valadares 6 e seccionamentos Mesquita–GV2 e Conselheiro Pena–GV2, BA/MG), após a linha já construída fora da área declarada",
+   "tema": ["transmissão (DUP, servidão administrativa)", "fiscalização e sanções", "direito de propriedade", "outorgas e autorizações"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por maioria o voto do relator: negado o pedido de alteração da DUP; determinada a retirada das instalações fora da DUP e apresentação de cronograma de desmobilização e nova implantação, sem interromper a prestação do serviço; vencida parcialmente Camila Bomfim quanto à desmobilização",
+   "resumo_voto": "Sustentações orais: Victor Sarmento de Mello (TPE: retificação usual, duas notas técnicas da SCT favoráveis, fiscalização sem irregularidade, indenização na Justiça de MG) e Gustavo Mota (HF Empreendimentos: alteração deve preceder a obra, invasão, pede retirada das torres). Procuradoria (Luiz Eduardo): desapropriação indireta se resolve por indenização (jurisprudência do STJ). Relator: visitou o local; transmissora construiu trechos fora da DUP por sua conta e risco, sem autorização prévia, contrariando art. 10 da REN 919/2021 e cláusula contratual de menor impacto social; Aneel não deve chancelar depois o que foi feito fora das regras; nega a alteração e determina retirada, com medida pedagógica para o setor.",
    "votos": [
     {
-     "diretor": "Efraim Cruz",
-     "voto": "relator, aprova (nega a alteração e determina retirada)",
-     "ts": "1:01:47",
-     "justificativa": "Transmissora construiu fora da DUP sem autorização prévia; medida drástica mas pedagógica; aceitou acrescentar que a desmobilização ocorra sem interromper o serviço.",
-     "confianca": "alta",
-     "tom": "enfático"
+     "diretor": "Efrain Cruz",
+     "voto": "relator, nega a alteração da DUP e determina retirada/desmobilização das instalações",
+     "ts": "1:01:49",
+     "justificativa": "transmissora construiu fora da área declarada por sua conta e risco, sem autorização prévia; Aneel não pode convalidar depois; direito de propriedade e cláusula de menor impacto social; medida drástica mas pedagógica; aceitou acrescentar que a desmobilização ocorra sem interromper o serviço",
+     "tom": "enfático, críticas à conduta das transmissoras em DUPs",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator integralmente",
+     "ts": "1:32:51",
+     "justificativa": "DUP é a mais grave intervenção na propriedade privada; Aneel é a única defesa do pequeno proprietário; houve invasão/irregularidade grave; caso emblemático; pediu que a retirada não descontinue a prestação do serviço (sugestão incorporada)",
+     "tom": "enfático",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "1:32:54",
-     "justificativa": "Corroborou o procurador: agente procura a ANEEL para ratificar e influenciar processo judicial; ao construir fora da DUP assumiu os riscos.",
+     "ts": "1:33:00",
+     "justificativa": "atribuição por eliminação (fala «eu acompanho o voto do relator» sem nome)",
      "confianca": "baixa"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "1:32:48",
-     "justificativa": "DUP é a mais grave intervenção na propriedade privada; ANEEL é a única defesa do pequeno proprietário; transmissora descumpriu a DUP (invasão); sugeriu manter a continuidade do serviço.",
-     "confianca": "media",
-     "tom": "enfático"
-    },
-    {
      "diretor": "Camila Bomfim",
-     "voto": "vencido (parcial): acompanha a negativa da alteração, diverge da determinação de desmobilização",
-     "ts": "1:33:05",
-     "justificativa": "DUP é opcional e risco do empreendedor; ANEEL não deveria definir o traçado; conduta pode ser avaliada em fiscalização com penalidade exemplar.",
-     "confianca": "media"
+     "voto": "acompanha a negativa da alteração da DUP, mas diverge da determinação de desmobilização (vencida em parte)",
+     "ts": "1:33:09",
+     "justificativa": "DUP é opcional e o agente assumiu o risco ao construir antes; não cabe alterar a DUP, mas também não cabe à Aneel definir o traçado nem mandar remover; preferiu apurar a conduta em processo de fiscalização e aplicar penalidade exemplar se cabível",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "26",
-   "ts": "1:34:43",
-   "processo": "48500.004485/2022-2 (número incerto)",
-   "interessado": "Âmbar Energia S.A., EPP II Centrais Elétricas Ltda e EPP II Itaguaí Energia Ltda; sustentações: Abrace (Paulo Pedrosa), Idec, Instituto Pólis",
-   "assunto": "PCS 1/2021: alteração de características técnicas das UTEs EPP II, EPP IV, Edlux X e Rio de Janeiro I para área contígua à UTE Mário Covas (Cuiabá/MT) — pedido subsidiário do requerimento com cautelar",
-   "tema": [
-    "outorgas de geração (térmica)",
-    "leilões (PCS / energia de reserva)"
-   ],
-   "relator": "Efraim Cruz",
-   "resultado": "Por unanimidade: conhecido o requerimento e deferida a alteração de características técnicas (NT 445/2022), com a condição de que não fundamente excludente de responsabilidade e que restrições de escoamento reduzam proporcionalmente a receita.",
-   "resumo_voto": "Relator aplica parecer 70/2022 da PF-ANEEL (restrição parcial de escoamento) já decidido pelo colegiado, ressalvando que foi vencido antes e segue a colegialidade; EPE contrária. Mérito da cautelar fica para a próxima reunião. Condição proposta por Camila Bomfim incorporada.",
+   "ts": "1:34:36",
+   "processo": "48500.004485/2022-xx",
+   "interessado": "Âmbar Energia S.A., EPP II Centrais Elétricas Ltda. e EPP II Itaguaí Energia Ltda. (grupo J&F); recorrentes/sustentações: Abrace, Idec, Instituto Pólis",
+   "assunto": "Requerimento administrativo com pedido cautelar sobre o PCS 1/2021: deliberação apenas do pedido subsidiário de alteração de características técnicas e de localização das UTEs EPP II, EPP IV, Edlux X e Rio de Janeiro I para área contígua à UTE Mário Covas (Cuiabá/MT)",
+   "tema": ["leilões (PCS 2021, energia de reserva)", "outorgas de geração (térmica)", "alteração de características técnicas", "restrição de escoamento"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: deferida a alteração de características técnicas conforme quadros 2 e 3 da NT 445/2022, com a condição de que não fundamente pedido de excludente de responsabilidade e que eventual restrição de escoamento reduza a receita na mesma proporção",
+   "resumo_voto": "Sustentações por vídeo: Paulo Pedrosa (Abrace: cumprir rigorosamente o contrato, sem substituição de energia), Idec (PCS antieconômico, impacto tarifário) e Flávio Siqueira Júnior (Instituto Pólis: rescisão e multas). Apresentação da SFG sobre o andamento das 17 usinas do PCS. Relator: Aneel não faz planejamento nem política pública; OMS e Energisa MT atestaram viabilidade de conexão; vedado aumento de receita; aplica, por colegialidade, o entendimento do Parecer 70/2022 da PF sobre restrição parcial de escoamento (em que fora vencido); mérito da cautelar fica para a próxima reunião.",
    "votos": [
     {
-     "diretor": "Efraim Cruz",
-     "voto": "relator, aprova",
-     "ts": "2:28:07",
-     "justificativa": "Alteração viável pelo precedente da Povoação/parecer 70; ANEEL não faz planejamento; usinas devem entrar no prazo; aceitou condição sobre excludente e receita.",
+     "diretor": "Efrain Cruz",
+     "voto": "relator, defere a alteração de características técnicas",
+     "ts": "2:28:24",
+     "justificativa": "viabilidade de conexão atestada; sem aumento de receita; posição da EPE exigiria requisito não cobrado no cadastramento; segue por colegialidade o precedente do Parecer 70/2022 em que foi vencido; incorporou a condição sugerida por Camila Bomfim",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (voto antecipado)",
-     "ts": "2:28:47",
-     "justificativa": "Antecipou o voto acompanhando o relator quanto às características técnicas, por ter de viajar; o voto ficou consignado.",
+     "voto": "acompanha o relator (voto antecipado e consignado antes de se retirar)",
+     "ts": "2:28:52",
+     "justificativa": "antecipou o voto por ter de pegar avião; voto restrito à alteração de característica técnica",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "2:52:48",
-     "justificativa": "Críticas às sustentações do Idec e do Pólis (endereço errado: planejamento é do poder concedente); ANEEL deve cumprir contratos.",
+     "ts": "2:52:55",
+     "justificativa": "nas falas: Aneel não faz planejamento; Idec e Pólis «erraram o endereço» (cabe ao poder concedente/EPE/ONS); rebate que a matriz seja poluente; discussão de energia nova x velha",
      "confianca": "media"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator",
-     "ts": "2:52:55",
-     "justificativa": "Não cabe à ANEEL discutir necessidade do PCS; sugeriu consignar que não haverá excludente de responsabilidade e que restrição de escoamento impacta a receita.",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:52:57",
+     "justificativa": "não cabe à Aneel discutir necessidade/economicidade do PCS, prerrogativa do planejador; sugeriu (acolhido) que a alteração não fundamente excludente de responsabilidade e que restrição de escoamento impacte a receita",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "2:54:14",
+   "ts": "2:54:11",
    "processo": "48500.004937/2016-15 e 48500.001419/2017-21",
-   "interessado": "Fairfax Brasil Seguros Corporativos S.A. (nome na legenda: Refex/Flex); SPE Transmissora Maranhense de Energia (grupo Abengoa)",
-   "assunto": "Recurso contra o Despacho 3.118/2017 da SCT (execução da garantia de fiel cumprimento do contrato de concessão 12/2014, caducado)",
-   "tema": [
-    "fiscalização e sanções (garantia, multa, caducidade)",
-    "recursos administrativos",
-    "transmissão"
-   ],
-   "relator": "Efraim Cruz",
-   "resultado": "Por unanimidade: recurso conhecido e negado provimento; revogado o Despacho 3.118/2017, ratificados os demais atos; aplicada multa editalícia de ~R$ 24,1 milhões (10% do investimento, preços de mar/2021, IPCA), com execução da garantia se não paga.",
-   "resumo_voto": "Sustentação oral de Murilo (seguradora): prescrição e princípio indenitário; procurador: prescrição quinquenal, não há prescrição. Relator lamentou insucesso de acordo na AGU.",
+   "interessado": "Fairfax Brasil Seguros Corporativos S.A. (legenda: «Flex»/«refex»); SPR Transmissora Maranhense de Energia Ltda. (grupo Abengoa)",
+   "assunto": "Recurso administrativo da seguradora contra o Despacho SCT 3.118/2017, que determinou a execução da garantia de fiel cumprimento do contrato de concessão 12/2014 (concessão caducada)",
+   "tema": ["recursos administrativos", "fiscalização e sanções (garantia de fiel cumprimento, multa editalícia, caducidade)", "transmissão"],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: recurso conhecido e não provido; revogado o Despacho 3.118/2017 e ratificados os demais atos; aplicada multa editalícia de 10% do investimento previsto (valor citado ~R$ 24,1 milhões a preços de março/2021, atualizável pelo IPCA); garantia devolvida se a multa for paga, ou executada até o valor da multa",
+   "resumo_voto": "Sustentação oral de Murilo (seguradora): prescrição de 1 ano, princípio indenitário, multa deveria seguir REN 846/2019 com dosimetria. Procuradoria: não há prescrição (prazo de 5 anos), processo regular. Relator relatou tentativa frustrada de acordo com a seguradora (travas na AGU) e converteu a execução direta da garantia em multa editalícia.",
    "votos": [
     {
-     "diretor": "Efraim Cruz",
-     "voto": "relator, aprova",
-     "ts": "3:16:52",
-     "justificativa": "Sem prescrição; conversão em multa editalícia de 10% do investimento por inexecução total.",
+     "diretor": "Efrain Cruz",
+     "voto": "relator, conhece e nega provimento; aplica multa editalícia",
+     "ts": "3:16:56",
+     "justificativa": "prescrição afastada pela Procuradoria; inexecução total do contrato; lamenta não ter sido possível acordo para recuperar quase R$ 1 bilhão em garantias para os consumidores",
      "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "3:18:35",
-     "justificativa": "Sem justificativa própria.",
+     "ts": "3:18:38",
      "confianca": "media"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama",
      "ts": "3:18:41",
-     "justificativa": "Sem justificativa própria; proclamou.",
-     "confianca": "media"
+     "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "id": "6",
-   "motivo": "retirado de pauta a pedido do relator (2:54:02; número do item incerto na legenda)"
+   "item": "6",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta a pedido do relator",
+   "ts": "2:54:05"
   },
   {
-   "id": "53",
-   "motivo": "retirado de pauta (3:19:26)"
+   "item": "53",
+   "relator": "não identificado",
+   "motivo": "retirado da pauta (anunciado no encerramento)",
+   "ts": "3:19:32"
   }
  ],
  "limites_da_analise": [
-  "Camila Bomfim e Efraim Cruz não constam da lista de diretores do config ANEEL (composição de 2022); nomes registrados como ditos.",
-  "Item 7: falas de votação sem nome; atribuição de Hélvio Guerra e Ricardo Tili por inferência (Hélvio pelo conteúdo — ex-superintendente de concessões de geração; Ricardo pela fala sobre o procurador). Giácomo não identificado na sessão.",
-  "Item 12: Ricardo Tili ausente (saiu após voto antecipado no item 26); 3 votos.",
-  "Números de processo, valores e nome da seguradora (Fairfax?) vêm da legenda automática e podem estar errados.",
-  "Numeração do item da Âmbar (26) e do retirado (6) incerta: a legenda anuncia ordem 7, 26, 12, 53."
+  "Camila Bomfim (Diretora-Geral substituta) e Giácomo Bassi Almeida (citado como «Giácomo»/«jacobassi» nas saudações das sustentações) não constam da lista de diretores do config; nomes registrados como ditos. Giácomo não se manifesta nesta parte e não aparece nas falas da mesa; tratado como não presente no período da tarde (incerto).",
+  "Item 7: as falas de voto não têm nome; «volto com o relator integralmente» atribuído a Hélvio Guerra (coerente com sua manifestação) e «eu acompanho o voto do relator» a Ricardo Tili por eliminação (confiança baixa). A fala de 1:02:34 que corrobora a Procuradoria (Aneel não deve interferir no processo judicial) tem autor incerto.",
+  "Item 26: quem antecipou o voto e se retirou foi inferido como Ricardo Tili pela fala da mesa «diretor Ricardo já [votou] no seu voto»; a fala «eu acompanho» de 2:52:55 atribuída a Hélvio Guerra.",
+  "Item 12: Ricardo Tili já havia se retirado; 3 votantes. Nome da seguradora distorcido na legenda («Flex», «refex», «cérvix», «farfetch»), provável Fairfax.",
+  "Número do processo do item 26 incompleto na legenda (48500.004485/2022-?); números de notas técnicas, despachos e valores podem estar errados (legenda automática).",
+  "Esta é a Parte 2 da 20ª RPO; os itens da manhã estão em outro vídeo."
  ]
 }

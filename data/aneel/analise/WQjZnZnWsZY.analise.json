@@ -1,14 +1,14 @@
 {
  "meta": {
   "video_id": "WQjZnZnWsZY",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "17ª Reunião Pública Ordinária de 2022 (Parte 1)",
+  "numero": "17ª Reunião Pública Ordinária de 2022 (Parte 1, manhã)",
   "data": "2022-05-17",
-  "formato": "presencial com participação virtual",
-  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+  "formato": "híbrida (presencial no auditório da ANEEL; Elisa Bastos participou virtualmente da homenagem)",
+  "presidente_da_sessao": "Hélvio Guerra (diretor-geral substituto)",
   "diretores_presentes": [
    "Hélvio Guerra",
    "Sandoval Feitosa",
@@ -16,17 +16,51 @@
   ],
   "ausentes": [],
   "observacoes": [
-   "Sessão de homenagem na abertura a André Pepitone (ex-Diretor-Geral, vai para Itaipu) e Elisa Bastos (vai para o ONS), exonerados no DOU do dia; participaram como convidados e não votaram.",
-   "Homenagem ao ex-ministro Bento Albuquerque por Efrain Cruz, Sandoval Feitosa e Hélvio Guerra.",
-   "Ata da 16ª RPO aprovada; pauta com 61 itens; bloco aprovado por unanimidade.",
-   "Parte 1 cobre a manhã até a suspensão para almoço (retorno às 14h30); demais itens destacados (4, 6, 7, 9, 12, 14, 16, 19, 20, 22, 34, 36) ficam para a parte 2."
+   "Quórum de três diretores (Hélvio Guerra, Sandoval Feitosa, Efrain Cruz). André Pepitone (ex-diretor-geral) e Elisa Bastos haviam sido exonerados no DOU do mesmo dia e participaram apenas da sessão de homenagens (0:04–1:34), sem votar.",
+   "Abertura com homenagens de despedida a André Pepitone (vai para a diretoria financeira de Itaipu) e Elisa Bastos (vai para a diretoria do ONS); depois homenagem ao ex-ministro Bento Albuquerque (1:35–1:42).",
+   "Pauta publicada com 61 itens; bloco dos itens 13 a 61 (exceto destacados 14, 16, 19, 20, 22, 34, 36 e 39 e os retirados) aprovado por unanimidade. 19 itens retirados de pauta, em grande parte por serem da relatoria de Elisa Bastos.",
+   "Ordem de preferência anunciada: 8, 3, 6, 4, 7, 9, 12, 14, 16, 19, 20, 22, 34, 36 e 39; nesta parte 1 foram julgados 8, 3 e 39 (antecipado por haver sustentação oral presente). Os demais seguem na parte da tarde (outro vídeo).",
+   "Sessão suspensa para almoço com retorno às 14h30 (3:27)."
   ]
  },
  "itens": [
   {
+   "id": "ata",
+   "ts": "1:34:42",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da 16ª Reunião Pública Ordinária de 2022 (10/05/2022)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada (sem manifestação contrária)",
+   "resumo_voto": "Diretor-geral substituto coloca em deliberação; todos permanecem como estão; ata aprovada.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova (preside)",
+     "ts": "1:34:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova (aprovação tácita)",
+     "ts": "1:34:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova (aprovação tácita)",
+     "ts": "1:34:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
    "id": "bloco",
-   "ts": "1:45:30",
-   "processo": "itens 13 a 61 (exceto destacados e retirados)",
+   "ts": "1:45:21",
+   "processo": "diversos (itens 13 a 61, exceto destacados e retirados)",
    "interessado": "diversos",
    "assunto": "Deliberação em bloco dos itens 13 a 61 da pauta, exceto os destacados (14, 16, 19, 20, 22, 34, 36, 39) e os retirados",
    "tema": [
@@ -34,67 +68,64 @@
    ],
    "relator": "diversos",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Diretor-Geral substituto colocou o bloco em votação; todos aprovaram.",
+   "resumo_voto": "Votos e súmulas disponíveis no site desde a quinta-feira anterior; o presidente proclama aprovação unânime dos itens do bloco.",
    "votos": [
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco (proclama)",
-     "ts": "1:45:38",
-     "justificativa": "Também aprovo o bloco e proclamo a aprovação por unanimidade.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "aprova o bloco",
-     "ts": "1:45:33",
-     "justificativa": "Aprovação dos itens do bloco (fala curta, atribuição pela ordem).",
-     "confianca": "media"
-    },
     {
      "diretor": "Efrain Cruz",
      "voto": "aprova o bloco",
-     "ts": "1:45:36",
-     "justificativa": "Aprova os itens remanescentes do bloco (fala curta, atribuição pela ordem).",
+     "ts": "1:45:34",
+     "justificativa": "fala curta («aprova»), atribuída pela ordem de votação",
      "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "1:45:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco e proclama",
+     "ts": "1:45:38",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "8",
-   "ts": "1:45:55",
-   "processo": "48500.000324/1999-16",
-   "interessado": "Eletrobras, Chesf, Furnas, Eletronorte, Eletrosul (CGT Eletrosul), Eletropar e Eletronet",
-   "assunto": "Requerimento das transmissoras do grupo Eletrobras para revogação da REA 2.354/2010 e homologação do 9º aditivo ao contrato 1166/99 de cessão de uso de infraestrutura de transmissão e fibras ópticas (cabos OPGW) à Eletronet; reformulado como anuência a novo contrato por 20 anos com afastamento da publicidade da Resolução Conjunta ANEEL/Anatel 1/1999",
+   "ts": "1:46:05",
+   "processo": "48500.003324/1999-16 (número da legenda, incerto)",
+   "interessado": "Eletrobras, Chesf, Furnas, Eletronorte e Eletrosul (CGT Eletrosul) — cedentes; Eletropar e Eletronet S.A.",
+   "assunto": "Requerimento administrativo das empresas Eletrobras para revogação da Resolução Autorizativa 2.354/2010 e homologação do 9º termo aditivo ao contrato 1166/99 de cessão de uso de infraestrutura de transmissão e fibras ópticas (cabos OPGW) à Eletronet; pedido reformulado para anuência a novo contrato por 20 anos com afastamento excepcional da Resolução Conjunta ANEEL/Anatel 1/1999 e da REN 797/2017",
    "tema": [
     "transmissão",
-    "compartilhamento de infraestrutura",
-    "fibras ópticas",
+    "compartilhamento de infraestrutura (fibras ópticas/OPGW)",
+    "telecomunicações (Anatel)",
     "modicidade tarifária",
-    "Anatel"
+    "fiscalização"
    ],
    "relator": "Sandoval Feitosa",
-   "resultado": "deferido parcialmente por unanimidade: aprovada a celebração de novo contrato de cessão com Eletronet condicionado a premissas (transferência da propriedade dos 5.358 km de OPGW às cedentes, objeto restrito aos 11.711 km e à ocupação de 6/2/2020, sem exclusividade nem preferência, vigência máxima de 20 anos, prorrogação só com anuência expressa ANEEL e Anatel, custo de intermediação da Eletropar não descontado da modicidade); fiscalização apura cumprimento da REA 2.354/2010; se não houver contrato em 90 dias, indenização à Eletronet da parcela não amortizada",
-   "resumo_voto": "Relator considerou a rede de 11.711 km indissociável; vantajosidade na regularização da propriedade dos cabos OPGW, necessários à segurança da operação, nas transmissoras; negou exclusividade, preferência, ampliação do objeto e renovação automática; Anatel anuiu formalmente; não anistia passivos regulatórios de 1999-2019.",
+   "resultado": "aprovado por unanimidade (deferimento parcial)",
+   "resumo_voto": "Aprova a celebração de novo contrato de cessão de uso entre Chesf, Furnas, Eletronorte, Eletrosul e Eletronet, condicionado a: transferência imediata às cedentes da propriedade dos 5.358 km de cabos OPGW lançados pela Eletronet; objeto restrito aos 11.711 km do contrato de 1999 e à ocupação existente em 06/02/2020; sem exclusividade nem direito de preferência para a Eletronet (capacidade ociosa vai a publicidade/processo competitivo); vigência máxima de 20 anos, prorrogação só com anuência expressa da ANEEL e da Anatel; comutatividade (arts. 24 e 25 do módulo 5 da REN 948); custos de intermediação da Eletropar não descontados da modicidade tarifária. Determina apuração em processo específico do cumprimento da REA 2.354/2010 e da reversão à modicidade tarifária da receita do contrato 1166; se em 90 dias não houver novo contrato, indenização à Eletronet da parcela não amortizada dos 5.358 km. Anatel anuiu formalmente à flexibilização da publicidade.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
      "voto": "relator, aprova (deferimento parcial)",
-     "ts": "2:33:57",
-     "justificativa": "Vantajosidade reside na transferência às cedentes da propriedade dos cabos OPGW lançados pela Eletronet; não há vantajosidade em afastar a regulação para criar preferência ou exclusividade; ampliação só por processo competitivo.",
+     "ts": "1:47:01",
+     "justificativa": "a vantajosidade está em transferir às transmissoras a propriedade dos cabos OPGW, necessários à operação segura; rede de 11.711 km é indissociável; nega preferência/exclusividade e renovação automática; ampliação só por processo competitivo; não há anistia de passivos regulatórios",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator",
-     "ts": "2:45:36",
-     "justificativa": "Elogiou a complexidade e a condução; perguntou como se caracteriza o interesse público na rede de 11.711 km e comparou com o precedente Copel Telecom; após resposta do relator, acompanhou.",
+     "ts": "2:45:34",
+     "justificativa": "elogiou a complexidade do dispositivo; perguntou como se caracteriza o interesse público na rede de 11.711 km e foi esclarecido pelo relator (2:39)",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (proclama)",
+     "voto": "acompanha o relator e proclama",
      "ts": "2:45:40",
-     "justificativa": "Também acompanho o relator; proclamou unanimidade.",
      "confianca": "alta"
     }
    ]
@@ -102,38 +133,39 @@
   {
    "id": "3",
    "ts": "2:48:15",
-   "processo": "48500.000444/2020-92",
-   "interessado": "CPFL Paulista (proponente) em cooperação com outras 31 distribuidoras",
-   "assunto": "Proposta de projeto-piloto de P&D (PD-00063-3088) de governança dos sandboxes tarifários (REN 966/2021; agenda regulatória 2022-2023, atividades 90 e 91)",
+   "processo": "48500.004444/2020-92 (número da legenda, incerto)",
+   "interessado": "CPFL Paulista (proponente) em formato cooperado com outras 31 distribuidoras",
+   "assunto": "Proposta de projeto piloto de P&D de governança de sandboxes tarifários (código PD-00063-3088/2022, conforme proclamação; legenda incerta), no âmbito das atividades 90 e 91 da Agenda Regulatória 2022-2023 e da REN 966/2021",
    "tema": [
-    "tarifas e revisão tarifária",
+    "tarifas (modalidades tarifárias do grupo B)",
     "sandbox tarifário",
     "P&D",
-    "regulação normativa"
+    "regulação normativa (agenda regulatória)",
+    "distribuidoras"
    ],
    "relator": "Sandoval Feitosa",
-   "resultado": "aprovado por unanimidade, com recomendações (gastos com viagens e diárias, plano de comunicação) e autorização para SGT e SPE comporem o órgão de governança",
-   "resumo_voto": "Apresentação da SGT (Flávia) sobre regulação adaptativa e tarifas de baixa tensão; relator leu só o dispositivo.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o projeto de governança de sandboxes tarifários da CPFL Paulista com outras 31 distribuidoras, com recomendações (otimizar gastos de viagens e diárias; estruturar plano de comunicação e plataforma de compartilhamento de dados) e autoriza SGT e SPE a comporem o órgão diretivo de governança. Apresentação da SGT (Flávia) sobre regulação adaptativa; próxima etapa será a chamada pública. Processo originalmente distribuído a Rodrigo Limp.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
      "voto": "relator, aprova",
-     "ts": "2:59:34",
-     "justificativa": "Processo central para a modernização do setor e a discussão da tarifa; aprova o projeto com recomendações.",
+     "ts": "2:59:28",
+     "justificativa": "tarifa é central na modernização do setor; projeto viabiliza experimentação tarifária para consumidores de baixa tensão",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator",
-     "ts": "3:02:55",
-     "justificativa": "Caso prático de modernização, preparar a estrada para tarifa binômia; antecipa concordância.",
-     "confianca": "media"
+     "voto": "acompanha o relator (antecipa concordância)",
+     "ts": "3:02:52",
+     "justificativa": "caso prático de modernização; passos necessários para sair da tarifa monômia/volumétrica rumo à binômia",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (proclama)",
-     "ts": "3:04:52",
-     "justificativa": "Projeto busca equilíbrio entre o que o consumidor paga e a remuneração do investimento; elogiou a SGT.",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:04:50",
+     "justificativa": "projeto busca equilíbrio entre o que o consumidor paga e a remuneração do investimento",
      "confianca": "alta"
     }
    ]
@@ -141,52 +173,165 @@
   {
    "id": "39",
    "ts": "3:06:58",
-   "processo": "48500.004094/2014-49 e outros",
-   "interessado": "Centrais eólicas Ventos de São Vitor 8 a 14 (Xique-Xique/Itaguaçu da Bahia, BA); sustentação oral do advogado Felipe (sobrenome incerto)",
-   "assunto": "Alteração do cronograma de implantação das eólicas Ventos de São Vitor 8 a 14",
+   "processo": "48500.000494/2014-49 e outros (número da legenda, incerto)",
+   "interessado": "Centrais geradoras eólicas Ventos de São Vitor 8 a 14 (Xique-Xique e Itaguaçu da Bahia, BA)",
+   "assunto": "Alteração do cronograma de implantação das eólicas Ventos de São Vitor 8 a 14 (pedido ligado à postergação do CUST); com sustentação oral",
    "tema": [
-    "outorgas de geração",
-    "eólica",
-    "cronograma",
-    "CUST",
-    "recursos administrativos"
+    "outorgas de geração (eólica)",
+    "cronograma de implantação",
+    "transmissão (CUST, pontos de conexão)",
+    "excludente de responsabilidade"
    ],
    "relator": "Hélvio Guerra",
    "resultado": "indeferido por unanimidade",
-   "resumo_voto": "Sustentação oral defendeu que a exigência de excludente de responsabilidade é critério novo que exigiria processo normativo e efeitos prospectivos; Procuradoria e relator discordaram: jurisprudência exige excludente, outorgas emitidas em 3/11/2020 já com a pandemia conhecida, escassez de pontos de conexão (cerca de 3.500 empreendimentos pedindo outorga).",
+   "resumo_voto": "Item retirado do bloco e antecipado por haver sustentação oral. Sustentação do advogado Felipe (sobrenome incerto na legenda) alegou que exigir excludente de responsabilidade é mudança de critério sem processo normativo e viola precedentes, a LINDB e a isonomia. Procuradoria (Luiz Eduardo) discordou: CUST é bem escasso e há jurisprudência da diretoria exigindo excludente (REN 666/2015). Relator indeferiu: outorgas emitidas em 03/11/2020, quando os efeitos da pandemia já eram conhecidos, e há forte disputa por pontos de conexão (≈3.500 pedidos).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, indefere (proclama)",
-     "ts": "3:21:46",
-     "justificativa": "Pandemia já conhecida quando das outorgas (nov/2020); disputa acirrada por pontos de conexão; discorda da sustentação oral.",
+     "voto": "relator, indefere",
+     "ts": "3:21:52",
+     "justificativa": "sem excludente de responsabilidade; outorga posterior ao início da pandemia; disputa acirrada por pontos de conexão",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator (antecipa concordância)",
      "ts": "3:26:01",
-     "justificativa": "REN 666/2015 regula o tema; prorrogação repassaria custos aos usuários com rede contratada; sem excludente de responsabilidade não há direito; precedente UFV Coremas citado pela defesa não se amolda (energia ACL sem CUST assinado).",
-     "confianca": "alta"
+     "justificativa": "a REN 666/2015 regula a matéria; prorrogar passaria custos aos usuários que contrataram a rede; precedente citado (UFV Coremas) não se aplica porque ali não havia CUST assinado",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator",
      "ts": "3:26:14",
-     "justificativa": "Acompanha (fala curta antes do relator).",
      "confianca": "media"
     }
    ]
   }
  ],
  "retirados": [
-  "Itens 1, 2, 5, 10, 11, 15, 27, 28, 29, 35, 37, 45, 48, 50, 51, 55, 57, 60 e 61 retirados de pauta, em boa parte por serem da relatoria de Elisa Bastos, exonerada naquele dia."
+  {
+   "item": "1",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "2",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "5",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "10",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "11",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "15",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "27",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "28",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "29",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "35",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "37",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "45",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "48",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "50",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "51",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "55",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "57",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "60",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  },
+  {
+   "item": "61",
+   "relator": "não informado (em grande parte da relatoria de Elisa Bastos)",
+   "motivo": "retirado de pauta; maioria por ser da relatoria de Elisa Bastos, exonerada nesta data",
+   "ts": "1:42:17"
+  }
  ],
  "limites_da_analise": [
-  "Efrain Cruz (Efrain Pereira da Cruz) não consta da lista de diretores do config; nome registrado como usado em outras análises.",
-  "O .md tem um único marcador de tempo; ts obtidos do JSON da transcrição, aproximados.",
-  "Falas de voto curtas (bloco, item 8, item 39) sem nome explícito; atribuídas pela ordem de votação e proclamação de unanimidade.",
-  "Números de processo pela legenda automática: item 8 dito '48.500 00324/1999-16', item 3 '48.500 00444/2020-92', item 39 '48.500 004 94/2014-49'; podem conter erros.",
-  "Contrato citado como 1166 e 1169/99 na proclamação; nome do advogado da sustentação oral incerto."
+  "Esta é apenas a Parte 1 (manhã) da 17ª RPO de 2022; os itens destacados 4, 6, 7, 9, 12, 14, 16, 19, 20, 22, 34 e 36 ficaram para a tarde (outro vídeo).",
+  "Cabeçalho do .md lista falantes inferidos que não estavam na diretoria em 2022-05-17 (Agnes da Costa, Gentil Nogueira, Ludimila Lima, Fernando Mosna, Ricardo Tili); a composição real veio da abertura e das falas: Hélvio Guerra, Sandoval Feitosa e Efrain Cruz.",
+  "Números de processo, códigos de P&D e o sobrenome do advogado da sustentação oral (Felipe) vêm da legenda automática e podem estar errados.",
+  "Bloco: falas curtas de aprovação atribuídas a Efrain e Sandoval pela ordem de votação anunciada (Efrain, Sandoval, Hélvio por último); confiança media.",
+  "Item 39: o voto longo com antecipação de concordância foi atribuído a Sandoval Feitosa e o «também acompanho o relator» a Efrain Cruz por inferência de contexto; a legenda não nomeia os falantes (confiança media).",
+  "Ata aprovada por permanência (sem fala individual).",
+  "Os itens do bloco não são detalhados individualmente (sem leitura de votos na sessão)."
  ]
 }

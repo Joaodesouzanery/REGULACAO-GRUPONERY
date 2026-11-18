@@ -1,128 +1,313 @@
 {
-  "meta": {"video_id": "DAccbQrtbR8", "fonte": "legenda automática do YouTube (sem marcadores de tempo no .md; ts obtidos de transcricoes/DAccbQrtbR8.json); falantes não identificados na legenda; ts de votos de seguidores aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "5", "data": "2022-02-15", "formato": "presencial com participação virtual",
-    "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
-    "diretores_presentes": ["André Pepitone", "Sandoval Feitosa", "Hélvio Guerra", "Efrain Cruz"],
-    "ausentes": ["Elisa Bastos (férias)"],
-    "observacoes": [
-      "Vídeo é a Parte 1 da 5ª Reunião Pública Ordinária de 2022 (0:00 a 3:51:14); a sessão foi suspensa para o almoço e retoma às 15h; os itens 21, 23 e 41 (sustentação oral) ficam para a Parte 2.",
-      "Pauta de 56 itens (8 a 56 em bloco). Retirados antes da sessão: 6, 7, 30 e 31. Sustentação oral nos itens 5, 21, 23 e 41. Ordem: bloco, 1, 2, 3, 5, 4 (invertido) e 21 ao final.",
-      "Abertura (0:00:20): o Diretor-Geral informa Elisa Bastos de férias e que Efrain Cruz se juntaria ao longo da reunião; quórum inicial de três diretores. Efrain não participou da votação do bloco (legenda: se ausentando) e foi relator dos itens 2 e 4.",
-      "Hélvio Guerra: presente nos itens 1 a 5; no item 4 o Diretor-Geral aguarda seu posicionamento e o de Elisa Bastos, e fala-se em Hélvio talvez entrar de forma virtual mais tarde, portanto tratado como ausente no item 4.",
-      "Cautelar (item 5) com duas sustentações orais, retirada de pauta pelo relator. Item 4 (Ourilândia do Norte Transmissora) com divergência 2x1 e julgamento suspenso por colegiado incompleto."
-    ]
-  },
-  "itens": [
-    {
-      "id": "ata", "ts": "0:11:27",
-      "processo": "", "interessado": "Diretoria Colegiada",
-      "assunto": "Aprovação da ata da 4ª Reunião Pública Ordinária de 2022, com leitura de orientação procedimental às superintendências SCG e SFG sobre pedidos de alteração de características técnicas e cronograma de empreendimentos outorgados (licença de instalação, CUST/CUSD, obras iniciadas, aporte de garantia de fiel cumprimento em transferência de controle)",
-      "tema": ["institucional", "outorgas de geração", "fiscalização e sanções"],
-      "relator": "não se aplica",
-      "resultado": "ata aprovada (pela proclamação, sem objeção)",
-      "resumo_voto": "Dois diretores manifestaram concordância com a orientação (racionalização dos pedidos; obras iniciadas como critério); Diretor-Geral aprovou a ata.",
-      "votos": [
-        {"diretor": "André Pepitone", "voto": "aprova a ata (proclamação)", "ts": "0:11:27", "justificativa": "se todos concordam, aprovada a ata", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "aprova a ata (pela proclamação)", "ts": "0:11:27", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "aprova a ata (pela proclamação)", "ts": "0:11:27", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "bloco", "ts": "0:12:59",
-      "processo": "", "interessado": "vários",
-      "assunto": "Itens do bloco (8 a 56) da 5ª Reunião Pública Ordinária de 2022, votados em conjunto",
-      "tema": ["institucional"],
-      "relator": "não se aplica",
-      "resultado": "aprovado por unanimidade dos votantes",
-      "resumo_voto": "Diretor-Geral submeteu o bloco; três diretores aprovaram e o Diretor-Geral proclamou por unanimidade dos votantes.",
-      "votos": [
-        {"diretor": "André Pepitone", "voto": "aprova o bloco (proclama)", "ts": "0:13:12", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco", "ts": "0:13:04", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:13:09", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "1", "ts": "0:13:28",
-      "processo": "48500.003869/2021-34", "interessado": "Secretaria Executiva de Leilões (SEL) / SCT",
-      "assunto": "Aprovação da minuta do edital do Leilão de Transmissão nº 1/2022 (13 lotes, 58 empreendimentos, 13 estados; sessão pública em 30/06/2022 na B3), após a Consulta Pública 71/2021; encaminhamento ao TCU (IN 81); visitas às instalações até 14/06/2022",
-      "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas, reforços)", "regulação normativa"],
-      "relator": "Sandoval Feitosa",
-      "resultado": "aprovado por unanimidade dos votantes",
-      "resumo_voto": "Investimento estimado de R$ 15,3 bilhões e RAP de R$ 2,2 bilhões, 31.500 empregos; consulta pública teve 92 contribuições de 16 instituições (34 aproveitadas total ou parcialmente); inovações: patrimônio líquido que cubra os lotes vencidos nos últimos 18 meses, ressarcimento dos estudos como pré-condição para assinar o contrato, ajuste na matriz de risco sobre entrada parcial/antecipação (só com benefício sistêmico); lotes 8 a 12 vêm de caducidades. Apresentação de André Tiburtino (SEL) e de superintendente da SCT.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "0:30:00", "justificativa": "aperfeiçoamento contínuo do edital e do contrato de concessão; segundo maior leilão de transmissão já realizado", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:02:38", "justificativa": "no debate: advertiu para liminares do STJ no leilão de reserva de capacidade de 2021 (17 usinas, custos extras estimados em R$ 23 bilhões segundo nota do MME) e pediu aprimorar o desenho dos leilões", "confianca": "baixa"},
-        {"diretor": "Efrain Cruz", "voto": "acompanha o relator (pela proclamação)", "ts": "1:02:45", "confianca": "baixa"},
-        {"diretor": "André Pepitone", "voto": "acompanha o relator (proclama)", "ts": "1:02:52", "justificativa": "questionou a escolha de 18 meses para o critério de patrimônio líquido e sugeriu avaliação mais dinâmica do endividamento; propôs ouvir o formulador da política pública sobre o resultado do leilão de reserva", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "2", "ts": "1:03:41",
-      "processo": "48500.003574/2021-68; 48500.004727/2021-94", "interessado": "Companhia Sul Sergipana de Eletricidade (Sulgipe)",
-      "assunto": "Abertura de consulta pública (16/02 a 01/04/2022, reunião virtual em 10/03) sobre a proposta de revisão tarifária periódica 2022 da Sulgipe (vigência em 22/05/2022) e limites dos indicadores DEC e FEC para 2023-2027",
-      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)", "distribuição e qualidade (DEC/FEC)", "regulação normativa (consulta pública)"],
-      "relator": "Efrain Cruz",
-      "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Efeito médio preliminar de 15,67% ao consumidor (grupo A 24,9%; grupo B 11,9%); componentes financeiros de 10,84%; tarifa residencial passaria da 29ª para a 7ª posição do ranking; limites DEC de 15,73 h (2023) a 13,52 h (2027) e FEC de 9,23 a 7,23. Apresentações de Charles Rocha (SGT) e de servidora da SRD.",
-      "votos": [
-        {"diretor": "Efrain Cruz", "voto": "relator, aprova abertura da consulta pública", "ts": "1:05:28", "justificativa": "colher subsídios para aprimorar a proposta preliminar de revisão e de limites de continuidade", "confianca": "alta"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:24:45", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:24:55", "confianca": "baixa"},
-        {"diretor": "André Pepitone", "voto": "acompanha (proclama por unanimidade)", "ts": "1:25:02", "confianca": "media"}
-      ]
-    },
-    {
-      "id": "3", "ts": "1:26:13",
-      "processo": "48500.000537/2021-06", "interessado": "SRT / ONS",
-      "assunto": "Resultado da Consulta Pública 42/2021: resolução normativa que inclui o Módulo 6 (coordenação e controle da operação) das Regras dos Serviços de Transmissão e aprova a revisão 3 do Módulo 1 (glossário); ONS deve encaminhar minutas dos procedimentos de rede com referências atualizadas até 01/08/2022",
-      "tema": ["transmissão (RAP, outorgas, reforços)", "regulação normativa (resolução, consulta pública, agenda regulatória)"],
-      "relator": "Sandoval Feitosa",
-      "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Consolidação das regras de transmissão (27 resoluções reunidas em uma, seis módulos); 18 contribuições de 6 agentes, 83% sobre o Módulo 6; apresentação técnica de Thelma Pinheiro (SRT). Hélvio Guerra esclareceu o prazo para o ONS em face da REN 1001; Pepitone elogiou a simplificação e a transparência.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:29:15", "justificativa": "simplificação e consolidação das regras de transmissão, mais transparência e investimento", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:44:22", "justificativa": "observação sobre prazo de 30 dias versus 90 dias da REN 1001 e 01/08/2022 para o ONS", "confianca": "baixa"},
-        {"diretor": "Efrain Cruz", "voto": "acompanha o relator", "ts": "1:44:30", "confianca": "baixa"},
-        {"diretor": "André Pepitone", "voto": "acompanha (proclama por unanimidade dos presentes)", "ts": "1:44:40", "justificativa": "parabenizou o relator e a SRT; mais transparência reduz assimetrias", "confianca": "media"}
-      ]
-    },
-    {
-      "id": "5", "ts": "1:45:04",
-      "processo": "48500.000065/2022", "interessado": "Oxi Participações S.A. (Santa Luz e Pau-Rainha) x Oliveira Energia Geração e Serviços Ltda. (UTE Monte Cristo/Sucuba)",
-      "assunto": "Medida cautelar da Oxi Participações para embargo de obras e retirada de cabos lançados pela Oliveira Energia no cruzamento com a LT de interesse restrito 69 kV Jacitara - Boa Vista (UTEs Santa Luz e Pau-Rainha, leilão de Boa Vista/Roraima)",
-      "tema": ["fiscalização e sanções (cautelar)", "outorgas de geração (térmica a biomassa e diesel)", "transmissão de interesse restrito", "leilões (sistemas isolados Roraima)", "recursos administrativos"],
-      "relator": "Sandoval Feitosa",
-      "resultado": "retirado de pauta pelo relator após sustentações orais; SFG fará vistoria em campo e o relator trará nova decisão cautelar",
-      "resumo_voto": "Sustentação oral de Henrique Silva (Santa Luz / Oxi, 10 min) e de Elvis Brito Paes (Oliveira Energia, vídeo, 12 min; pediu adiamento por falta de acesso aos autos). Procurador-geral Luís Eduardo recomendou aguardar a vistoria da SFG. Relator citou sete reuniões na semana, acusações de práticas anticompetitivas de parte a parte e informação incompleta; Pepitone sugeriu reforço da equipe e envolvimento da SFG/fiscalização de distribuição; debate sobre risco de deslocamento de térmica mais cara.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, retira de pauta", "ts": "2:23:05", "justificativa": "sem a completude das informações, para não ser injusto com nenhuma parte; determina vistoria da SFG e decisão cautelar rápida em seguida (já tinha voto pronto)", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "4", "ts": "2:33:07",
-      "processo": "48500.004686/2019-11", "interessado": "Ourilândia do Norte Transmissora de Energia S.A. (Vale / SE Onça Puma)",
-      "assunto": "Pedido de reconsideração da Ourilândia do Norte contra o Despacho 1498/2021 e a REA 10.032/2021 (parcela adicional de RAP por adequações em instalações recebidas em transferência da Vale; reparos e correções; incidência do REI; SMF; erros materiais)",
-      "tema": ["transmissão (RAP, outorgas, reforços)", "recursos administrativos", "tarifas e revisão tarifária (RAP, banco de preços)", "interessados: Vale, Eletronorte, Celpa"],
-      "relator": "Efrain Cruz",
-      "resultado": "julgamento suspenso (colegiado incompleto, 2x1); volta na primeira sessão com os cinco diretores, sem nova leitura",
-      "resumo_voto": "Relator votou por conhecer e dar provimento: Vale assume a obrigação financeira dos reparos (sistema de oscilografia, supervisão e controle, telecomunicações e OPGW, coordenação de isolamento e proteção de barras 230 kV) via encargos de conexão em aditivo ao CCT (prazo de 120 dias para o aditivo, 24 meses para execução), reavaliação do adicional de RAP do OPGW, sem REI na parcela adicional, cancelamento de parcelas por erro material. Sandoval Feitosa (relator do despacho original) divergiu, mantendo o Despacho 1498 (Ourilândia executa e cobra da Vale), exceto os itens de erros materiais.",
-      "votos": [
-        {"diretor": "Efrain Cruz", "voto": "relator, dá provimento (Vale paga via CCT)", "ts": "2:40:23", "justificativa": "equilíbrio e menor controvérsia jurídica; transmissora de pequeno porte não deve arcar com R$ 20 a 30 milhões e correr atrás da Vale na Justiça; mantém a responsabilização da Vale", "confianca": "alta"},
-        {"diretor": "Sandoval Feitosa", "voto": "diverge (mantém Despacho 1498, exceto erros materiais)", "ts": "3:48:46", "justificativa": "respeito aos contratos: a Ourilândia aceitou a transferência e declarou as instalações conformes; a agência não deve interferir numa relação bilateral entre Vale e Ourilândia", "confianca": "alta"},
-        {"diretor": "André Pepitone", "voto": "acompanha o relator (inferido pela contagem 2 a favor, 1 contrário)", "ts": "3:49:25", "justificativa": "atribuir o custo a quem deve pagar, evitando risco de litigância e deixar instalação de rede básica à mercê do Judiciário; suspendeu a proclamação aguardando Elisa Bastos e Hélvio Guerra", "confianca": "baixa"}
-      ]
-    }
+ "meta": {
+  "video_id": "DAccbQrtbR8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "5ª Reunião Pública Ordinária de 2022 (Parte 1)",
+  "data": "2022-02-15",
+  "formato": "presencial com transmissão (alguns participantes online)",
+  "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
+  "diretores_presentes": [
+   "André Pepitone",
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Efrain Cruz"
   ],
-  "retirados": [
-    {"item": "5 — medida cautelar Oxi Participações x Oliveira Energia (retirada pelo relator após sustentações orais)", "relator": "Sandoval Feitosa", "motivo": "informações incompletas; vistoria da SFG em Roraima antes de nova decisão cautelar", "ts": "2:23:05"},
-    {"item": "6, 7, 30 e 31 — retirados da pauta antes da sessão (informado pela Secretaria-Geral)", "relator": "não informado", "motivo": "não declarado", "ts": "0:12:19"}
+  "ausentes": [
+   "Elisa Bastos (férias)"
   ],
-  "limites_da_analise": [
-    "A legenda não traz marcadores de tempo nem falantes no .md; nomes de quem diz «acompanho» foram atribuídos pela ordem usual de votação e pela proclamação, com confiança baixa e ts aproximado.",
-    "Não ficou claro se Efrain Cruz estava presente na votação do bloco e da ata; foi omitido nesses dois itens. Hélvio Guerra foi tratado como ausente no item 4 (sem voto registrado), com base na fala do Diretor-Geral de aguardar sua posição e a de Elisa Bastos.",
-    "No item 4 o voto de André Pepitone é inferido da contagem informada (dois votos a favor, um contrário), não de uma fala identificada; confiança baixa. Conferir o item 4 na Parte 2 quando o julgamento for retomado.",
-    "Números de processo parciais ou incertos na legenda (item 1 e 2 reconstruídos; item 5 sem dígito verificador). Valores e nomes (ex.: Thelma Pinheiro, Henrique Silva, Elvis Brito Paes, Luís Eduardo) podem estar distorcidos.",
-    "Itens 21, 23 e 41 (sustentação oral) e o retorno do item 4 não estão neste vídeo (Parte 2)."
+  "observacoes": [
+   "Abertura com quórum de três diretores (André Pepitone, Sandoval Feitosa, Hélvio Guerra); Efrain Cruz anunciado para se juntar ao longo da reunião e participa a partir do item 1 (é relator do item 2).",
+   "Aprovada a ata da 4ª RPO; leitura da orientação procedimental às áreas SCG e SFG sobre pedidos de alteração de características técnicas e cronograma (licença de instalação, CUST/CUSD, obras iniciadas, garantia de fiel cumprimento em transferência de controle); Sandoval Feitosa manifestou concordância e informou viagem a Xanxerê (SC) com reunião na distribuidora local.",
+   "Ordem de deliberação anunciada: bloco, depois itens 1, 2, 3, 5, 21, 23, 41 e 4; pedidos de sustentação oral para itens 5, 21, 23 e 41. Após o item 5, o DG anunciou que o item 4 seria julgado antes e o 21 ao final.",
+   "Item 5 (cautelar Oxi x Oliveira Energia, Roraima) retirado de pauta pelo relator Sandoval Feitosa após duas sustentações orais, para inspeção da SFG em campo.",
+   "Item 4 (reconsideração da Ourilândia do Norte Transmissora) com placar de 2 x 1 (Efrain Cruz e André Pepitone x Sandoval Feitosa, divergência parcial); proclamação suspensa por colegiado incompleto, aguardando votos de Elisa Bastos e Hélvio Guerra.",
+   "Sessão suspensa para almoço (retorno previsto às 15h); itens 21, 23 e 41 ficam para a Parte 2 (outro vídeo)."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:12:41",
+   "processo": "",
+   "interessado": "diversos (itens 8 a 56)",
+   "assunto": "Itens do bloco (8 a 56, votos disponibilizados previamente), exceto destaques e retirados",
+   "tema": [
+    "bloco de processos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "O DG submeteu os itens do bloco; quatro falas «eu também aprovo» e proclamação por unanimidade dos votantes. O DG menciona logo antes que um diretor (provavelmente Efrain Cruz) havia se ausentado.",
+   "votos": [
+    {
+     "diretor": "André Pepitone",
+     "voto": "aprova o bloco",
+     "ts": "0:12:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco",
+     "ts": "0:13:00",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:13:04",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco (incerto; o DG disse que ele havia se ausentado, mas se ouvem quatro falas de aprovação)",
+     "ts": "0:13:09",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:13:36",
+   "processo": "48500.003869/2021-34",
+   "interessado": "SEL/SCT; transmissoras (leilão)",
+   "assunto": "Aprovação da minuta do edital do Leilão de Transmissão nº 1/2022 (13 lotes, ~R$ 15,3 bi de investimento, RAP ~R$ 2,2 bi, 13 estados; sessão em 30/06/2022 na B3) após a Consulta Pública 71/2021 e envio ao TCU",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, outorgas)",
+    "caducidade",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos votantes",
+   "resumo_voto": "Aprova minuta do edital com 13 lotes (8 inéditos e 5 vindos de caducidade, ex.: obra de Caladinho/RO), encaminha ao TCU (IN 81/2018) e determina às concessionárias acessadas que agendem visitas até 14/06/2022. Inovações: exigência de patrimônio líquido que cubra lotes vencidos nos últimos 18 meses (não reutilizar o mesmo balanço), ressarcimento dos estudos como condição para assinar o contrato e ajuste da cláusula de RAP para antecipação/entrada parcial só com benefício sistêmico. Apresentação de André Tiburtino (SEL) e esclarecimentos de Ivo (SCT). Na discussão, questionou-se o prazo de 18 meses (sugestão de aperfeiçoar nos próximos leilões); Efrain Cruz alertou para liminares do STJ no leilão de reserva de capacidade 2021 (custo extra estimado em ~R$ 23 bi pelo MME) e o DG sugeriu consultar o formulador da política pública.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "0:37:37",
+     "justificativa": "segundo maior leilão de transmissão da ANEEL; gera empregos em 13 estados; aprimoramentos do edital (balanço, ressarcimento dos estudos, matriz de risco da antecipação)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:02:38",
+     "justificativa": "(atribuição provável) elogiou a regra de não reutilizar o mesmo balanço, mas questionou a escolha de 18 meses e sugeriu aperfeiçoar o prazo nos próximos leilões",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:02:40",
+     "justificativa": "parabenizou os aprimoramentos; antecipação só se agregar ao sistema; alertou para liminares do STJ no leilão de reserva de capacidade de 2021 e pediu aprimoramentos para fechar brechas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:02:42",
+     "justificativa": "edital consolidado mas com refinamentos que agregam valor; contribuição do setor ao reaquecimento da economia",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:03:55",
+   "processo": "48500.003574/2021-68 e 48500.004727/2021-94 (números da legenda, incertos)",
+   "interessado": "Sulgipe – Companhia Sul Sergipana de Eletricidade (distribuidora, SE); conselho de consumidores",
+   "assunto": "Abertura de consulta pública (16/02 a 01/04/2022, reunião virtual em 10/03) sobre a revisão tarifária periódica 2022 da Sulgipe (vigência a partir de 22/05/2022) e limites de DEC/FEC 2023–2027",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição e qualidade (DEC/FEC)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura consulta pública. Apresentação de Charles (SGT): efeito médio preliminar de cerca de 15,6% (grupo A ~24,9%, grupo B ~11,9%), com peso dos componentes financeiros e encargos (CDE, ESS/EER, Proinfa); redução da compra de energia pelo contrato bilateral com Santa Maria Comercialização. SRD (Renata/Renato) apresentou trajetória decrescente de limites de DEC e FEC. Números lidos da legenda automática; conferir.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "1:24:05",
+     "justificativa": "apresentação metodológica pela SGT e SRD; instaurar consulta para colher subsídios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:25:02",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:25:06",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:25:10",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:25:54",
+   "processo": "48500.000537/2021-06 (legenda)",
+   "interessado": "SRT; ONS; transmissoras",
+   "assunto": "Resultado da Consulta Pública 42/2021: inclusão do módulo 6 (coordenação e controle da operação) e revisão 3 do módulo 1 (glossário) das Regras dos Serviços de Transmissão (REN 905/2020); ONS deve encaminhar minutas dos Procedimentos de Rede com referências atualizadas até 01/08/2022",
+   "tema": [
+    "transmissão",
+    "regulação normativa (resolução normativa, consolidação, agenda regulatória)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprova REN que inclui o módulo 6 e revisa o glossário, concluindo a consolidação de 27 resoluções da transmissão em uma norma com seis módulos (revoga, entre outras, REN 861 e 864, segundo a apresentação de Thelma Pinheiro, SRT). Esclarecido que o prazo ao ONS é 01/08/2022 (e não 30 dias), compatível com a REN 1001/2022.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, aprova",
+     "ts": "1:40:29",
+     "justificativa": "simplificação e consolidação da regulação de transmissão facilita leitura por investidores e usuários",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:44:22",
+     "justificativa": "(atribuição provável) perguntou se o prazo ao ONS era de 30 dias, para compatibilizar com o prazo de 90 dias da REN 1001; esclarecido que é 01/08/2022",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator",
+     "ts": "1:44:25",
+     "justificativa": "mais transparência e simplicidade, menos assimetria, beneficia o consumidor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:44:28",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:45:08",
+   "processo": "48500.000065/2022 (legenda, incompleto)",
+   "interessado": "Oxi Participações S.A. (UTEs a biomassa Santa Luz e Pau-Rainha) x Oliveira Energia Geração e Serviços Ltda. (UTE Monte Cristo Sucuba), Boa Vista/RR",
+   "assunto": "Pedido de medida cautelar da Oxi para embargo de obras e retirada de cabos lançados pela Oliveira Energia em interferência com a LT 69 kV de interesse restrito Jacitara–Boa Vista (sistema isolado de Roraima)",
+   "tema": [
+    "fiscalização e sanções (cautelar)",
+    "outorgas de geração (térmica, biomassa)",
+    "sistemas isolados (Roraima)"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "retirado de pauta pelo relator, para inspeção da SFG em campo",
+   "resumo_voto": "Sustentações orais: Henrique (Oxi/Santa Luz, presencial) e Elvis Brito Paes (Oliveira Energia, vídeo; pediu adiamento e acesso aos autos). Procurador-geral sugeriu aguardar a vistoria. O relator relatou sete reuniões, criticou práticas anticompetitivas de ambas as partes, rejeitou alegação de cerceamento de defesa e retirou o processo para que a SFG inspecione e lhe envie conclusões; advertiu que, se houver dolo, as consequências serão severas. Debate sobre enviar também a fiscalização de serviços de eletricidade e sobre efeito de deslocamento de térmica mais cara.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, retira de pauta",
+     "ts": "2:23:05",
+     "justificativa": "informações incompletas; decisão cautelar não seria justa sem a inspeção; a disputa deveria ter sido resolvida entre os agentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "não votou (retirado de pauta); sugeriu reforço da fiscalização",
+     "ts": "2:23:40",
+     "justificativa": "(atribuição provável) acusações graves; se o atraso desloca usina mais barata, há impacto ao consumidor; sugeriu enviar também equipe de outra superintendência de fiscalização",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "2:23:05",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "não votou (retirado de pauta); defendeu fiscalização conjunta em campo",
+     "ts": "2:25:46",
+     "justificativa": "(atribuição provável) caso excepcional; fiscalização de geração e de serviços de eletricidade devem ir ao local",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:33:02",
+   "processo": "48500.004686/2019-11",
+   "interessado": "Ourilândia do Norte Transmissora de Energia S.A. (ONTE); Vale (unidade consumidora Onça Puma); Eletronorte",
+   "assunto": "Pedido de reconsideração contra o Despacho 1498/2021 e a REA 10.032/2021: RAP adicional por adequações em ativos de transmissão recebidos em transferência da Vale (SE Integradora–Onça Puma 230 kV, cabo OPGW etc.), incidência do REIDI e remanejamento do SMF",
+   "tema": [
+    "transmissão (RAP, reforços)",
+    "recursos administrativos (reconsideração)"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "julgamento suspenso, sem proclamação: 2 votos pelo provimento (Efrain Cruz, André Pepitone) x 1 divergente parcial (Sandoval Feitosa); aguarda votos de Elisa Bastos e Hélvio Guerra",
+   "resumo_voto": "Relator: dar provimento para atribuir à Vale a obrigação financeira das correções (oscilografia, supervisão e controle, telecom/teleproteção com cabo OPGW, coordenação de isolamento/para-raios, proteção de barras 230 kV), executadas pela ONTE e pagas via encargos de conexão calculados pela ANEEL em aditivo ao CCT (120 dias para o aditivo, 24 meses para os reparos); reavaliar RAP da troca do OPGW em linha viva mediante comprovação; negar a não incidência do REIDI e a remuneração do SMF como ativo; acolher erros de planilha e cancelar parcelas de entradas de linha que já são da Eletronorte. Sandoval Feitosa (relator da decisão original) defendeu manter o despacho: responsabilidade objetiva da concessionária, que aceitou o termo de transferência; cobrança à Vale é questão privada.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, dá provimento ao recurso",
+     "ts": "2:52:21",
+     "justificativa": "Vale deve pagar (consenso); via encargo de conexão no CCT garante equilíbrio e segurança à pequena transmissora, evitando litígio judicial de R$ 20–30 milhões; ANEEL aceitou declaração da Vale de que a rede estava apta",
+     "tom": "enfático, debate longo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "diverge parcialmente: mantém o Despacho 1498/2021, salvo correção de erros materiais (item 7 e talvez 8)",
+     "ts": "3:48:46",
+     "justificativa": "responsabilidade objetiva da concessionária; ONTE assinou termo de transferência aceitando as instalações; respeito ao combinado; impor custo à Vale, que nem é parte, interfere em relação bilateral",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator",
+     "ts": "3:49:15",
+     "justificativa": "mais eficiente e seguro atribuir o custo diretamente a quem deve pagar (Vale) do que a um terceiro que depois precisa reaver; Vale se livrou de perdas e O&M ao transferir a linha",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (ausente no momento; julgamento suspenso aguardando seu voto)",
+     "ts": "3:49:35",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 6, 7, 30 e 31 retirados de pauta, segundo o secretário-geral (números da legenda incertos)",
+  "Item 5 (cautelar Oxi x Oliveira Energia) retirado pelo relator na sessão"
+ ],
+ "limites_da_analise": [
+  "Esta é a Parte 1 da 5ª RPO de 2022; os itens 21, 23 e 41 (com sustentação oral) e a conclusão da sessão estão em outro vídeo.",
+  "Legenda automática: nomes e números de processos, valores e percentuais podem estar errados (ex.: 'Efraim/Franklin/Elf/Hélvio', 'Sulgipe/surgiu/sugip').",
+  "Bloco: o DG diz que um diretor ('é Fry', provavelmente Efrain Cruz) havia se ausentado, mas há quatro falas de aprovação; voto de Efrain no bloco é incerto.",
+  "Itens 1, 2 e 3: as falas 'acompanho' não têm nome; atribuição pela ordem usual e pela proclamação (DG vota por último). Quem questionou os 18 meses (item 1) e o prazo ao ONS (item 3) foi atribuído a Hélvio Guerra com baixa confiança.",
+  "Item 4: Hélvio Guerra não estava no momento da votação (o DG diz aguardar o posicionamento de Elisa Bastos e Hélvio Guerra; menção a viagem); placar 2 x 1 com divergência parcial; não houve pedido de vista, e sim suspensão por colegiado incompleto.",
+  "Item 5: falas de debate atribuídas a Efrain Cruz e André Pepitone com baixa confiança; um diretor diz ter chegado no final da discussão."
+ ]
 }
