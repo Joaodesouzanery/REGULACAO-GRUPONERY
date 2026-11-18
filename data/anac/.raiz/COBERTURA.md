@@ -18,7 +18,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | diretoria | 25 | 25 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
-| 2021 | diretoria | 27 | 5 | 0 |
+| 2021 | diretoria | 27 | 17 | 0 |
 | 2021 | audiencia | 4 | 0 | 0 |
 | 2020 | diretoria | 30 | 1 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
@@ -122,6 +122,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-12-29 · 4ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `_vCVHlPJyJU`
 - 2021-12-21 · 3ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `U_L6wmjtLNM`
 - 2021-12-14 · 23ª Reunião Deliberativa da Diretoria Colegiada (2021) · `D0lwTchFOZ4`
+- 2021-11-30 · 22ª Reunião Deliberativa da Diretoria Colegiada (2021) · `fYABIlF0qsQ`
+- 2021-11-16 · 21ª Reunião Deliberativa da Diretoria Colegiada (2021) · `oUr6lxUvK5w`
+- 2021-11-03 · 20ª Reunião Deliberativa da Diretoria Colegiada (2021) · `TwP9WYffO1s`
+- 2021-10-19 · 19ª Reunião Deliberativa da Diretoria Colegiada (2021) · `00L-qt8P3fg`
+- 2021-10-05 · 18ª Reunião Deliberativa da Diretoria Colegiada (2021) · `eYadOlkj3Cc`
 - 2021-09-21 · 17ª Reunião Deliberativa da Diretoria Colegiada (2021) · `1CCGK7uqE58`
+- 2021-08-24 · 16ª Reunião Deliberativa da Diretoria Colegiada (2021) · `EPGd33i-Ryk`
+- 2021-08-10 · 15° Reunião Deliberativa Colegiada (2021) · `yDY7_bt51DI`
+- 2021-07-27 · 14ª Reunião Deliberativa da Diretoria Colegiada (2021) · `t5-nMq2K7FA`
+- 2021-07-06 · 2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `MNW74ajVEaU`
+- 2021-06-29 · 13ª Reunião Deliberativa da Diretoria Colegiada (2021) · `wLD2nI73xak`
 - 2021-06-25 · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `oujAHCte5Fs`
+- 2021-06-15 · 12ª Reunião Deliberativa da Diretoria Colegiada (2021) · `30_NfGLWxlU`
+- 2021-06-01 · 11ª Reunião Deliberativa da Diretoria Colegiada (2021) · `WY2VxhneHVc`
 - 2020-07-08 · 13ª Reunião Deliberativa da Diretoria Colegiada - Parte I. · `_8qVbJpKzOo`
