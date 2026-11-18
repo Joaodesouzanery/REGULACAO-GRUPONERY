@@ -1,304 +1,286 @@
 {
  "meta": {
   "video_id": "tzbwQ6uOKHM",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "31ª Reunião Pública Ordinária (parte 2)",
+  "numero": "31ª Reunião Pública Ordinária de 2023 (Parte 2)",
   "data": "2023-08-29",
-  "formato": "presencial com participação remota (Agnes da Costa remota a partir do item 24)",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "formato": "presencial, com a diretora Agnes da Costa acompanhando remotamente a partir do item 24",
+  "presidente_da_sessao": "Hélvio Guerra (conduz a sessão; inferido: é chamado de diretor Élvio, preside as votações e anuncia a saída de Ricardo Tili)",
   "diretores_presentes": [
-   "Sandoval Feitosa",
+   "Hélvio Guerra",
    "Agnes da Costa",
    "Fernando Mosna",
-   "Hélvio Guerra",
    "Ricardo Tili"
   ],
-  "ausentes": [],
+  "ausentes": [
+   "Sandoval Feitosa (não aparece na Parte 2; motivo não dito)",
+   "Ricardo Tili (retirou-se durante o item do monitoramento prudencial, antes da votação, por viagem)"
+  ],
   "observacoes": [
-   "Parte 2 da sessão; ordem: itens 1, 3, monitoramento prudencial, 16, 9 e 24.",
-   "Ricardo Tili retirou-se antes da votação do monitoramento prudencial (viagem).",
-   "Resumo do secretário: 40 processos, 31 em bloco, 2 retirados, 1 vista, 1 prorrogação de vista."
+   "Parte 2 (sessão da tarde) da 31ª RPO de 29/08/2023. Nova ordem de deliberação: itens 1, 3, monitoramento prudencial (número do item não dito), 16, 9 e 24.",
+   "Ricardo Tili pediu licença para se retirar (viagem) antes da votação do monitoramento prudencial; a mesa registrou que continuava havendo quórum.",
+   "Antes do item 24, a diretora Agnes da Costa passou a acompanhar a sessão por vídeo, remotamente.",
+   "Item 24 (Coremas): o diretor Fernando Mosna pediu vista e anunciou que pediria parecer à Procuradoria.",
+   "Resumo do secretário: 40 processos na pauta do dia (31 em bloco), 2 retirados, 1 pedido de vista, 1 prorrogação de vista, 4 resultados e 4 aberturas de consulta pública, 12 recursos/pedidos de reconsideração, 2 requerimentos, 2 cautelares, 1 revogação de outorga."
   ]
  },
  "itens": [
   {
    "id": "1",
-   "ts": "0:00:20",
+   "ts": "0:00:34",
    "processo": "48500.001560/2023-71",
-   "interessado": "MME/EPE; transmissoras (leilão)",
-   "assunto": "Abertura de consulta pública (intercâmbio documental, 01/09 a 16/10/2023) para aprimorar minuta de edital e anexos do Leilão de Transmissão nº 1/2024",
+   "interessado": "Secretaria de Leilões / SCE (ANEEL); MME/EPE (estudos)",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 01/09 a 16/10/2023) para aprimorar o edital do Leilão de Transmissão nº 1/2024 (15 lotes em 14 estados, cerca de R$ 20,5 bilhões); inovações: comprovação de experiência anterior (30% do porte), demonstrações contábeis auditadas por auditor registrado na CVM, convocação dos demais proponentes se o vencedor não for habilitado",
    "tema": [
-    "leilões",
+    "leilões (transmissão)",
     "transmissão",
-    "regulação normativa"
+    "regulação normativa (consulta pública)"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instaurar CP para leilão de transmissão de março/2024 (lotes em AL, BA, CE, MS, MA, MG, PB, PE, PI, RJ, RN, SC, SP, SE, TO); apresentação técnica sobre inovações do edital, inclusive lotes condicionados/condicionantes.",
+   "resultado": "aprovado por unanimidade: instaurada consulta pública",
+   "resumo_voto": "Relatora acolhe recomendação da SEL/SCE e da Procuradoria; apresentação técnica de Gabriel (SCE) e André Tiburtino (Secretaria de Leilões); sessão pública prevista para 28/03/2024.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relator, aprova",
-     "ts": "0:22:40",
-     "confianca": "baixa",
-     "justificativa": "instaurar CP para colher subsídios ao edital do leilão 1/2024"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:23:16",
-     "confianca": "media"
+     "voto": "relatora, aprova abertura da consulta pública",
+     "ts": "0:22:51",
+     "justificativa": "aprendizado dos leilões de 2023; colher contribuições dos agentes sobre as novas regras de habilitação",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:23:16",
+     "voto": "acompanha a relatora",
+     "ts": "0:23:29",
+     "justificativa": "sem justificativa própria",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:23:16",
+     "voto": "acompanha a relatora",
+     "ts": "0:23:31",
+     "justificativa": "sem justificativa própria",
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "0:23:18",
-     "confianca": "alta"
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:23:32",
+     "justificativa": "sem justificativa própria",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "0:24:10",
+   "ts": "0:24:02",
    "processo": "48500.002651/2022-43",
-   "interessado": "transmissoras com contratos prorrogados",
-   "assunto": "Abertura de consulta pública (45 dias, duas etapas) para revisão dos submódulos 9.1 e 9.2 do PRORET: custos operacionais regulatórios e revisão periódica da RAP das transmissoras",
+   "interessado": "transmissoras (concessões prorrogadas e licitadas); ABRATE; Eletrobras",
+   "assunto": "Abertura de consulta pública (45 dias, em duas etapas de 30 + 15 dias) para revisão dos submódulos 9.1 e 9.2 do PRORET: revisão periódica da RAP das transmissoras (marcos temporais, JOA, BAR, correção dos serviços do banco de preços pelo IPCA, módulos incompletos, custos operacionais regulatórios das prorrogadas por benchmarking DEA)",
    "tema": [
-    "transmissão",
+    "transmissão (RAP)",
     "tarifas e revisão tarifária",
-    "regulação normativa"
+    "regulação normativa (consulta pública)"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "CP por intercâmbio documental: 30 dias sobre metodologia e resultado preliminar dos custos operacionais (benchmarking) e 15 dias para manifestação sobre contribuições; relatora destacou atraso da 2ª revisão da RAP prevista para 01/07/2023.",
+   "resultado": "aprovado por unanimidade: instaurada consulta pública",
+   "resumo_voto": "Revisão postergada para 1º/07/2024 com efeitos retroativos a 2023; apresentação técnica de Victor Queiroz Oliveira (STR); relatora pede esforço das transmissoras para cumprir os 45 dias e evitar novo atraso.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relator, aprova",
-     "ts": "0:58:28",
-     "confianca": "alta",
-     "justificativa": "rever parâmetros de eficiência e benchmarking; evitar atraso no processo"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:58:54",
-     "confianca": "media"
+     "voto": "relatora, aprova abertura da consulta pública",
+     "ts": "0:58:20",
+     "justificativa": "é ruim para a sociedade realizar esses processos com atraso; pediu às transmissoras que mobilizem as equipes regulatórias para manter o prazo de 45 dias",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:58:54",
+     "voto": "acompanha a relatora",
+     "ts": "0:59:09",
+     "justificativa": "sem justificativa própria",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:58:54",
+     "voto": "acompanha a relatora",
+     "ts": "0:59:10",
+     "justificativa": "sem justificativa própria",
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "0:58:58",
-     "confianca": "alta"
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha a relatora e proclama",
+     "ts": "0:59:11",
+     "justificativa": "sem justificativa própria",
+     "confianca": "media"
     }
    ]
   },
   {
-   "id": "monitoramento prudencial (nº do item não dito)",
-   "ts": "0:59:43",
+   "id": "s/n (monitoramento prudencial)",
+   "ts": "0:59:59",
    "processo": "48500.004742/2021-32",
-   "interessado": "CCEE; agentes de comercialização (Abraceel e outros com sustentação oral)",
-   "assunto": "Resultado da 2ª fase da CP 11/2022: resolução normativa sobre monitoramento prudencial dos agentes na CCEE durante período sombra, com manual de monitoramento prudencial",
+   "interessado": "CCEE e agentes da CCEE; sustentações orais: Alexandre Pedrosa (Abraceel), Hugo Leite (comercializadora, nome incerto na legenda), Bárbara Torres Souza (ABEEólica, nome incerto)",
+   "assunto": "Resultado da 2ª fase da Consulta Pública 11/2022: resolução normativa que institui o período sombra do monitoramento prudencial dos agentes da CCEE (fator de alavancagem, dados criptografados, 5 maiores contrapartes), com o Manual de Monitoramento Prudencial em anexo, vigente a partir de 1º/11/2023",
    "tema": [
-    "comercialização",
-    "regulação normativa"
+    "comercialização (CCEE)",
+    "segurança de mercado",
+    "regulação normativa (resolução)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado (sem divergência registrada; Ricardo Tili retirou-se antes da votação)",
-   "resumo_voto": "Três sustentações orais (Alexandre Pedrosa/Abraceel e outros dois, citados como Hugo e Bárbara). Relator: dados das contrapartes criptografados e não públicos, CCEE já pode requisitá-los; adaptação de 60 dias, período sombra a partir de 1º/11 para dar 2 meses antes da abertura de mercado em 01/01/2024.",
+   "resultado": "aprovado (sem divergência; a proclamação não diz 'unanimidade'); Ricardo Tili já havia se retirado",
+   "resumo_voto": "Relator rejeita os pedidos de 90 dias para o início do período sombra (mantém cerca de 60 dias, para haver sombra antes da abertura de mercado de jan/2024) e de terceira fase da consulta pública agora (a participação pública será definida ao fim do período sombra); os dados das contrapartes são para uso interno da CCEE, criptografados; apresentação técnica de Alex (SGM).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "1:42:00",
-     "confianca": "alta",
-     "justificativa": "sigilo já contemplado (dados criptografados, não publicados); 60 dias de adaptação para ter período sombra antes da abertura do mercado em jan/2024"
+     "voto": "relator, aprova a resolução normativa do período sombra",
+     "ts": "1:42:11",
+     "justificativa": "processo debatido há mais de dois anos, em duas fases e com cerca de metade das contribuições aceitas; os dados das contrapartes já podem ser requisitados pela CCEE e serão criptografados; início em 1º/11 garante ao menos dois meses de sombra antes da abertura de mercado",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:42:30",
-     "confianca": "baixa",
-     "justificativa": "comentou ser grande evolução; pedido de prazo maior pode ser visto em análise de resultado regulatório"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:43:21",
+     "voto": "acompanha o relator, com comentários",
+     "ts": "1:42:39",
+     "justificativa": "grande evolução regulatória; a terceira fase poderia ser substituída por uma análise de resultado regulatório (ARR) na agenda regulatória",
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "1:43:21",
-     "confianca": "alta"
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:43:28",
+     "justificativa": "sem justificativa própria",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "16",
-   "ts": "1:43:49",
-   "processo": "48500.000982/2021-85",
-   "interessado": "Transmissora José Maria de Macedo de Eletricidade S.A. (JMM / Argo 7); sustentação oral de Arthur Azeredo",
-   "assunto": "Recurso contra Despacho 2.555/2022 (SRT) que negou isenção de PVI pelo desligamento da LT 500 kV Gilbués II–Buritirama (PI/BA) em 09/05/2021, atribuído a sabotagem (queda de torre)",
+   "ts": "1:43:56",
+   "processo": "48500.000098/2021-85 (número incerto na legenda)",
+   "interessado": "Transmissora José Maria de Macedo de Eletricidade S.A. (JMM, nome fantasia AG7); sustentação oral: Arthur Azeredo",
+   "assunto": "Recurso administrativo contra despacho da SRT que indeferiu a isenção da Parcela Variável por Indisponibilidade (PVI, cerca de R$ 6,2 milhões) pelo desligamento da LT 500 kV Gilbués 2 – Buritirama (PI/BA) em 09/05/2021, atribuído pela empresa a sabotagem (queda de torres)",
    "tema": [
     "transmissão",
-    "fiscalização e sanções",
+    "fiscalização e sanções (PVI)",
     "recursos administrativos"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "recurso conhecido e negado provimento, sem divergência",
-   "resumo_voto": "PVI de cerca de R$ 6,2 milhões (segundo a empresa); Procuradoria e área técnica: sabotagem não comprovada, transmissora deve fiscalizar; na dúvida mantém-se regra contratual.",
+   "resultado": "recurso conhecido e não provido (desprovimento proclamado sem registro de divergência)",
+   "resumo_voto": "Não comprovado o caso fortuito ou força maior (sabotagem); na dúvida quanto à prova, mantém-se a regra contratual e o desconto da receita; Procuradoria acompanhou a área técnica.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relator, aprova (nega provimento)",
-     "ts": "1:54:10",
-     "confianca": "alta",
-     "justificativa": "muito difícil caracterizar sabotagem nos termos da norma; na dúvida mantém-se a regra contratual e o desconto de receita"
+     "voto": "relatora, nega provimento",
+     "ts": "1:53:02",
+     "justificativa": "muito difícil caracterizar sabotagem nos termos da norma, sem intencionalidade demonstrada; na dúvida, prevalecem a regra contratual e o desconto da receita",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:55:42",
-     "confianca": "media"
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:54:59",
+     "justificativa": "ratifica a dificuldade de comprovar sabotagem; lembra caso semelhante durante a greve dos caminhoneiros, de que foi relator",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:55:42",
+     "voto": "acompanha a relatora (pela proclamação)",
+     "ts": "1:55:46",
+     "justificativa": "fala individual não ouvida",
      "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "1:55:42",
-     "confianca": "alta",
-     "justificativa": "lembrou caso anterior em que foi relator: difícil comprovar sabotagem"
     }
    ]
   },
   {
    "id": "9",
-   "ts": "1:56:29",
+   "ts": "1:56:36",
    "processo": "48500.005218/2020-06",
-   "interessado": "Abradee; sustentação oral de Lucas Malheiros Nunes",
-   "assunto": "Recurso da Abradee contra Despacho 1.456/2023 (STD): entendimento regulatório para ouvidoria setorial sobre perdas de reatores (medição a frio) e devolução em dobro, art. 473 da REN 1.000/2021",
+   "interessado": "ABRADEE (distribuidoras); municípios (iluminação pública); sustentação oral: Lucas Malheiros Nunes (ABRADEE)",
+   "assunto": "Recurso administrativo da ABRADEE contra o Despacho 1.456/2023 da STD, que fixou entendimento para a ouvidoria setorial sobre o art. 473 da REN 1.000/2021: as perdas dos reatores na iluminação pública com faturamento estimado devem seguir o ensaio a frio da ABNT; pedido de reconhecimento de boa-fé objetiva e de afastamento da devolução em dobro antes do despacho",
    "tema": [
+    "distribuição (iluminação pública, faturamento)",
     "recursos administrativos",
-    "distribuição",
-    "fiscalização e sanções"
+    "ouvidoria setorial"
    ],
    "relator": "Fernando Mosna",
-   "resultado": "recurso conhecido e negado provimento, por unanimidade",
-   "resumo_voto": "Abradee pediu provimento parcial reconhecendo boa-fé objetiva; relator: boa-fé e devolução em dobro analisadas caso a caso nos processos de ouvidoria, sem presunção geral.",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "O despacho não trata de revisão de faturamento; a boa-fé e a devolução em dobro devem ser analisadas caso a caso, nos processos de ouvidoria; não cabe dar provimento parcial; apresentação técnica de Daniel (STD).",
    "votos": [
     {
      "diretor": "Fernando Mosna",
-     "voto": "relator, aprova (nega provimento)",
-     "ts": "2:13:06",
-     "confianca": "alta",
-     "justificativa": "não há como presumir boa-fé objetiva de forma geral; análise casuística afasta ou não a devolução em dobro"
+     "voto": "relator, nega provimento",
+     "ts": "2:11:47",
+     "justificativa": "não há como reconhecer, de forma geral, presunção de boa-fé objetiva para todas as distribuidoras; a análise da devolução em dobro deve ser feita caso a caso",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:13:40",
+     "ts": "2:13:41",
+     "justificativa": "fala individual não ouvida",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:13:40",
+     "voto": "acompanha o relator (pela proclamação) e proclama",
+     "ts": "2:13:50",
+     "justificativa": "fala individual não ouvida",
      "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "2:13:40",
-     "confianca": "alta"
     }
    ]
   },
   {
    "id": "24",
-   "ts": "2:14:29",
-   "processo": "48500.004232/2020-84 e 48500.004235/2020-18 (números incertos)",
-   "interessado": "Coremas I a III e Coremas IV a VIII Geração de Energia SPE (UFVs Coremas); sustentações orais de advogados das duas partes",
-   "assunto": "Requerimento contra Despacho 1.638/2023 (SFG): pagamento entre sócios e apresentação de parecer técnico elaborado na mediação, sob alegado sigilo da Lei 13.140/2015",
+   "ts": "2:14:37",
+   "processo": "48500.004232/2020-84 e 48500.004235/2020-18 (números incertos na legenda)",
+   "interessado": "SPEs Coremas 1 a 3 e Coremas 4 a 8 (geração, PB); sustentações orais: André (sobrenome ininteligível), pela Coremas 2, e José Victor Palácio Isaque, pela Coremas 7",
+   "assunto": "Recursos e pedidos de esclarecimento contra o Despacho 1.638/2023, que determinou às Coremas 4 a 8 ressarcir as Coremas 1 a 3 pelo compartilhamento de instalações de conexão na rede básica, a partir da juntada do parecer técnico elaborado durante a mediação; disputa sobre a confidencialidade desse parecer (art. 30 da Lei de Mediação 13.140/2015)",
    "tema": [
-    "outorgas de geração (solar)",
+    "outorgas de geração",
+    "conexão / compartilhamento de instalações",
     "recursos administrativos",
-    "fiscalização e sanções"
+    "mediação de conflitos"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "pedido de vista (Fernando Mosna)",
-   "resumo_voto": "Relator: não conhecer dos recursos e determinar de ofício que Coremas 1 a 3 apresentem o parecer em 10 dias, podendo pedir acesso restrito; Procuradoria: processo deve ser público. Fernando Mosna pediu vista e parecer da Procuradoria.",
+   "resultado": "pedido de vista de Fernando Mosna; deliberação suspensa",
+   "resumo_voto": "Relator vota por não conhecer os recursos e determinar de ofício que as Coremas 1 a 3 apresentem o parecer em até 10 dias, podendo pedir acesso restrito (art. 12 da Norma de Organização 15); a Procuradoria (Luís Eduardo) entende que a competência da ANEEL de dirimir conflitos prevalece e que o próprio art. 30 trata do uso indevido em juízo.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, não conhece dos recursos e determina apresentação do parecer",
-     "ts": "2:33:05",
-     "confianca": "alta",
-     "justificativa": "pagamento só pode ser feito se conhecido o valor; acompanha a Procuradoria sobre uso indevido de informação da mediação"
+     "voto": "relator, não conhece dos recursos e determina a apresentação do parecer",
+     "ts": "2:30:55",
+     "justificativa": "o pagamento só pode ser feito se o valor for conhecido; acompanha a Procuradoria quanto ao uso indevido de informações da mediação",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "pede vista",
-     "ts": "2:37:28",
-     "confianca": "alta",
-     "justificativa": "questão jurídica complexa sobre publicidade de documento da mediação; pedirá parecer da Procuradoria"
+     "ts": "2:36:25",
+     "justificativa": "questão jurídica complexa sobre a publicidade de documento produzido na mediação; vai pedir parecer à Procuradoria antes de votar",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "não votou (vista)",
      "ts": "2:37:20",
-     "confianca": "media",
-     "justificativa": "remota; sem observação"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "voto deixado a princípio com o relator; concede vista",
-     "ts": "2:37:28",
-     "confianca": "alta"
+     "justificativa": "remota; consultada pela mesa, sem observações antes da concessão da vista",
+     "confianca": "media"
     }
    ]
   }
  ],
  "retirados": [],
  "limites_da_analise": [
-  "Legenda automática: números de processo e nomes de sustentantes podem estar errados.",
-  "Relatoria do item 1 inferida (fala em 1ª pessoa feminina, 'minha relatoria'; proclamação 'acompanho o voto da relatora'); atribuída a Agnes da Costa com confiança baixa.",
-  "Item de monitoramento prudencial: relator Hélvio Guerra inferido de 'diretor relator [H]élvio'; número do item não foi dito; comentário pós-dispositivo atribuído a Agnes sem certeza; votos dos demais pela proclamação (não dita 'unanimidade').",
-  "Ricardo Tili presente nos itens 1 e 3 (votos pela proclamação) e ausente nos itens seguintes.",
-  "Item 24: Sandoval disse 'voto a princípio com o relator' antes de conceder vista; Agnes não se manifestou.",
-  "Itens em bloco e da parte 1 da reunião não estão neste vídeo."
+  "Legenda automática: números de processo, nomes de pessoas (Hugo Leite, Bárbara Torres Souza, André, Arthur Azeredo) e valores podem estar errados.",
+  "Quem preside a Parte 2 foi inferido como Hélvio Guerra (chamado de diretor Élvio; Fernando Mosna pede compreensão da diretora Agnes e do diretor Élvio; a mesa anuncia a saída de Tili e mantém o quórum). Sandoval Feitosa não aparece nesta parte.",
+  "Itens 1 e 3: as três falas de 'acompanho' não têm nome; a ordem Mosna, Tili e Hélvio (presidente, que proclama) foi atribuída pela ordem usual (confiança media).",
+  "Monitoramento prudencial: o número do item não é dito na legenda. A fala 'eu também acompanho' foi atribuída a Fernando Mosna, porque Agnes já havia comentado e Tili tinha saído. A proclamação não diz 'unanimidade'.",
+  "Item 16: na legenda a proclamação aparece como 'conhecerem provimento'; pelo dispositivo da relatora, o resultado é conhecer e negar provimento.",
+  "Item 24: depois do pedido de vista, a mesa diz 'eu voto a princípio com o relator mas já concedo vistas ao diretor Fernando'. Como o relator (Hélvio) também preside, essa fala foi tratada como o próprio voto de relator. Agnes, remota, não votou no mérito.",
+  "Itens deliberados em bloco e a Parte 1 da reunião não estão neste vídeo.",
+  "Monitoramento prudencial: Ricardo Tili retirou-se antes da votação (1:41:59), por isso não tem voto registrado; votaram 3 diretores."
  ]
 }

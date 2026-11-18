@@ -1,8 +1,79 @@
-{"meta":{"video_id":"EHQWu4NyDJE","fonte":"legenda automática do YouTube; falantes inferidos (rótulos {} pouco confiáveis); ts aproximados","versao_esquema":1},
-"reuniao":{"numero":"2ª REX 2022 (Parte 2, retomada)","data":"2022-03-15","formato":"presencial","presidente_da_sessao":"Sandoval Feitosa (substituindo o Diretor-Geral em férias)","diretores_presentes":["Sandoval Feitosa","Efrain Cruz","Hélvio Guerra"],"ausentes":["André Pepitone (férias)","Elisa Bastos (motivos particulares)"],"observacoes":["Retomada da 2ª Reunião Extraordinária suspensa por falta de quórum; inicialmente suspensa de novo até haver quórum de três diretores.","Item único: resultado da CP 2/2022 (Conta Escassez Hídrica, MP 1.078/2021 e Decreto 10.939/2022).","Efrain Cruz abriu mão do argumento de deliberar só com colegiado completo, dada a urgência.","Quatro pedidos de sustentação oral: Abradee (Ricardo Brandão), Idec (Antônio/Anton Schneider), Conacen (Manoel Teixeira de Mesquita); apresentações técnicas das superintendências e manifestação da Procuradoria (Luiz Eduardo)."]},
-"itens":[{"id":"1","ts":"0:02:34","processo":"48500.006312/2021-55 (número incerto na legenda)","interessado":"distribuidoras de energia elétrica; consumidores (Abradee, Idec, Conselho Nacional de Consumidores)","assunto":"Resultado da Consulta Pública nº 2/2022 e aprovação de resolução normativa sobre a Conta Escassez Hídrica, operações financeiras e uso do encargo CDE para enfrentamento dos impactos financeiros da escassez hídrica (MP 1.078/2021, Decreto 10.939/2022)","tema":["CDE e encargos setoriais","tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)","regulação normativa (resolução, consulta/audiência pública, AIR, agenda regulatória)"],"relator":"Efrain Cruz","resultado":"aprovado por unanimidade dos presentes: minuta de resolução normativa da Conta Escassez Hídrica","resumo_voto":"Relator vota pela aprovação da minuta de REN sobre a Conta Escassez Hídrica, as operações financeiras, o uso do encargo CDE e procedimentos; rebate pedido do Idec de nulidade por prazo curto da CP e argumenta que a estrutura repete a Conta-Covid. Sustentações: Abradee, Idec (pede reconsiderar prazo mínimo da CP sob pena de nulidade), Conselho de Consumidores (crítica a repasse tarifário e bandeira).","votos":[
-{"diretor":"Efrain Cruz","voto":"relator, aprova","ts":"1:18:17","justificativa":"Vota pela aprovação da minuta de resolução normativa; implementa política pública com balizas definidas na MP e no decreto; modelagem idêntica à Conta-Covid; prazo da CP já enfrentado pela casa, discussão com a sociedade continuou.","confianca":"alta"},
-{"diretor":"Hélvio Guerra","voto":"acompanha o relator","ts":"1:18:47","justificativa":"Comentários sobre convicção e coragem para decidir; considera o voto do relator o melhor resultado possível na regulamentação da MP e do decreto, destacando a possibilidade de revisão na segunda tranche.","tom":"elogioso ao relator e aos servidores","confianca":"media"},
-{"diretor":"Sandoval Feitosa","voto":"acompanha o relator","ts":"1:43:37","justificativa":"Compara com a solução da crise da pandemia (Conta-Covid), destaca coordenação setorial; acompanha o voto do relator e proclama unanimidade dos presentes.","confianca":"alta"}]}],
-"retirados":[],
-"limites_da_analise":["Legenda automática: número do processo e nomes dos sustentantes incertos.","A voz que diz 'eu acompanho o voto do relator e eu também acompanho' na votação não é separada por nome; Hélvio Guerra atribuído pela sua manifestação favorável ao voto e pela proclamação de unanimidade dos presentes (confiança media).","Presidência da sessão atribuída a Sandoval Feitosa por inferência (Pepitone em férias; Sandoval proclama o resultado); o texto também diz que a reunião foi iniciada pelo diretor Efraim.","Cita-se 4 pedidos de sustentação oral, mas só 3 oradores identificados."]}
+{
+ "meta": {
+  "video_id": "EHQWu4NyDJE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "2ª Reunião Pública Extraordinária de 2022 (Parte 2, retomada)",
+  "data": "2022-03-15",
+  "formato": "presencial/transmissão",
+  "presidente_da_sessao": "Sandoval Feitosa (presidiu a retomada; Diretor-Geral André Pepitone em férias)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Efrain Cruz",
+   "Hélvio Guerra"
+  ],
+  "ausentes": [
+   "André Pepitone (férias)",
+   "Elisa Bastos (impossibilidade por motivos particulares)"
+  ],
+  "observacoes": [
+   "Retomada da 2ª Reunião Extraordinária suspensa na quinta-feira anterior por falta de quórum/colegiado completo; no início do vídeo a sessão é novamente suspensa aguardando quórum de três diretores e depois retomada.",
+   "Efrain Cruz (relator) abriu mão do argumento, levantado na reunião anterior, de aguardar o colegiado completo, pela urgência da matéria.",
+   "Item único, com três sustentações orais efetivas (Abradee, Idec, Conacen); o secretário anunciou quatro pedidos.",
+   "Aprovado por unanimidade dos presentes (três diretores)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:42",
+   "processo": "48500.006312/2021-55 (número incerto pela legenda)",
+   "interessado": "Distribuidoras de energia elétrica; CCEE (gestora da Conta Escassez Hídrica); consumidores",
+   "assunto": "Resultado da Consulta Pública nº 2/2022 e aprovação da resolução normativa que regulamenta a Conta Escassez Hídrica (MP 1.078/2021 e Decreto 10.939/2022): operações financeiras com sindicato de bancos via CDE, encargo CDE Escassez Hídrica, limites de captação (saldo da conta Bandeiras, importação de energia jul/ago 2021, bônus de redução voluntária de consumo, diferimentos tarifários) e procedimentos correspondentes",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária (bandeiras, diferimentos)",
+    "regulação normativa (resolução, consulta pública)",
+    "escassez hídrica",
+    "distribuidoras"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Aprovação da minuta de resolução normativa sobre a Conta Escassez Hídrica. Primeira tranche estimada em cerca de 5,3 bi (5,6 bi na abertura da CP): saldo da conta Bandeiras caiu para cerca de 540 milhões após atualização do cenário (mantido o cenário hidrológico fixado no decreto) e diferimentos subiram para cerca de 2,3 bi com inclusão de processos tarifários de 2022 até abril; custos do PCS ficam para eventual segunda tranche. Repasse limitado ao custo efetivo; dividendos limitados ao mínimo legal de 25% durante o recebimento; contratos da CCEE dependem de aprovação prévia da ANEEL. Pedidos não acolhidos: compensação pelo carregamento das distribuidoras (Abradee), prazo de 45 dias da CP (Idec) e prorrogação da bandeira escassez hídrica no lugar do empréstimo (Conacen), por falta de espaço legal na MP/decreto. Sustentações orais: Ricardo Brandão (Abradee), Antônio Jovita (Idec), Manoel Teixeira de Mesquita Neto (Conacen). Apresentações técnicas SGT, SRG e SFF; Procuradoria (Luiz Eduardo) sem parecer formal, mas acompanhou o processo.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova",
+     "ts": "1:18:23",
+     "justificativa": "a ANEEL apenas implementa política pública definida na MP 1.078 e no Decreto 10.939, com espaço muito estreito; estrutura idêntica à Conta Covid; prazo reduzido da CP justificado e superado pelo diálogo contínuo com agentes; não há base legal para prorrogar a bandeira escassez hídrica nem para compensar o carregamento das distribuidoras",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:43:47",
+     "justificativa": "defendera aguardar o colegiado completo, mas decide com os mesmos três diretores da reunião anterior porque não se pode esperar mais; destaca a exclusão do despacho térmico do Nordeste da conta (cerca de 3 bi, contribuição de sua assessoria) e a possibilidade de revisão na segunda tranche (PCS); 'é o melhor resultado que nós poderíamos obter'",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:43:50",
+     "justificativa": "solução intrassetorial como Conta ACR e Conta Covid; regulador não pode se contrapor a MP e decreto; urgência pela expiração da MP em 13/04/2022 justifica flexibilizar o prazo da CP; sem a medida os impactos tarifários seriam maiores que o suportável",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática; o cabeçalho do .md lista falantes inferidos (Fernando Mosna, Ricardo Tili) que não compunham a diretoria em março/2022; a composição usada (Sandoval Feitosa, Efrain Cruz, Hélvio Guerra presentes; André Pepitone e Elisa Bastos ausentes) vem das falas da própria sessão.",
+  "Número do processo transcrito como '48.500 100 63 12/2021 1-55' e '48.500 632 2,55'; o número registrado é uma reconstrução incerta.",
+  "Na votação as falas 'eu acompanho o voto do relator' (1:43:47) e 'eu também acompanho' (1:43:50) não têm nome; atribuídas a Hélvio Guerra e Sandoval Feitosa, respectivamente, pela ordem usual (presidente vota por último e proclama); por isso confiança media.",
+  "O falante dos comentários a partir de 1:18:43 (citando Romeu Rufino) foi identificado como Hélvio Guerra por se dirigir a 'diretor Sandoval, diretor Efraim'; o terceiro discurso (1:35:01) como Sandoval Feitosa por ter anunciado a votação e proclamado.",
+  "Valores (5,3 bi, 540 milhões, 2,3 bi, cerca de 3 bi) vêm da legenda e podem estar distorcidos.",
+  "Conferência: 3 votos = 3 presentes."
+ ]
+}

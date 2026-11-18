@@ -1,116 +1,361 @@
 {
-  "meta": {"video_id": "C1R1bJZggJE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (abertura da sessão ~1:30); ts de votos de seguidores aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "5ª Reunião Pública Ordinária de 2023", "data": "2023-02-28", "formato": "presencial com participação remota (Agnes da Costa)",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili"],
-    "ausentes": ["Hélvio Guerra (missão internacional)"],
-    "observacoes": [
-      "Quórum de quatro diretores; Agnes da Costa participou remotamente.",
-      "Pauta com 45 itens; itens 8 a 45 em bloco; retirados de pauta os itens 9 e 34 (antes da sessão) e o item 4 (durante a sessão).",
-      "Todos os itens julgados foram relatados por Fernando Mosna.",
-      "Sessão suspensa pelo Diretor-Geral após a leitura do voto do item 6 (compromisso inadiável) e retomada às 14h.",
-      "Item 6 (UTEs do PCS 1/2021, SPE EPP2): Ricardo Tili pediu vista após debate sobre conexão/competência entre processos.",
-      "Ricardo Tili se ausentou antes do item 7; o item 7 foi votado por três diretores."
-    ]
-  },
-  "itens": [
-    {
-      "id": "bloco", "ts": "1:32:45", "processo": "itens 8 a 45 da pauta (exceto 9 e 34)", "interessado": "diversos",
-      "assunto": "Itens de bloco com votos e atos disponibilizados previamente",
-      "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Itens do bloco aprovados por unanimidade dos presentes.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "1:33:05", "justificativa": "Aprova e proclama.", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha (bloco)", "ts": "1:33:00", "justificativa": "Acompanha os itens do bloco (pela proclamação).", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha (bloco)", "ts": "1:33:00", "justificativa": "Acompanha os itens do bloco (pela proclamação).", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha (bloco)", "ts": "1:33:00", "justificativa": "Acompanha os itens do bloco (pela proclamação).", "confianca": "media"}
-      ]
-    },
-    {
-      "id": "1", "ts": "1:33:33", "processo": "48500.006874/2022-80 e 48500.009381/2022-00", "interessado": "Cemig Distribuição S.A. (Cemig D)",
-      "assunto": "Abertura de consulta pública para a revisão tarifária periódica da Cemig D a vigorar a partir de 28/05/2023 e limites de DEC e FEC 2024-2028",
-      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "distribuição e qualidade (DEC/FEC)", "regulação normativa (consulta pública)"],
-      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Instaura consulta pública de 01/03 a 14/04/2023 com reunião presencial; efeito médio preliminar de 10,03% (apresentação de Charles Rocha, SGT), puxado pela saída de componentes financeiros; relator registrou que pleito da Cemig de postergar capitalização de obras de alta tensão não foi fundamentado.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:47:15", "justificativa": "Instaurar consulta pública da RTP da Cemig D e dos limites de DEC/FEC 2024-2028.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:50:01", "justificativa": "Acompanha (fala sem nome; atribuição pela ordem).", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:50:01", "justificativa": "Acompanha (fala sem nome; atribuição pela ordem).", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:50:05", "justificativa": "Comentou que o reajuste econômico é reduzido (~2,85%) e o efeito de ~10% decorre da retirada de financeiros (créditos de PIS/Cofins); destacou redução de cerca de uma hora no DEC até 2028.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "2", "ts": "1:51:19", "processo": "48500.000044/2020-92", "interessado": "Instituto Abradee / distribuidoras cooperadas (P&D sandbox tarifário)",
-      "assunto": "Alteração dos requisitos do termo de referência do projeto piloto de P&D Governança de Sandbox Tarifários (titulação do coordenador)",
-      "tema": ["tarifas (modernização tarifária, sandbox)", "P&D", "regulação normativa"],
-      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Em vez de retirar o requisito de doutorado há 4 anos, torna-o preferencial, exigindo justificativa quando não atendido (preserva o que foi à Consulta Pública 49/2021); determina publicação do TR ajustado.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:59:30", "justificativa": "Requisito de titulação passa a preferencial; simples retirada não seria adequada por ter passado por consulta pública.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:01:45", "justificativa": "A realidade às vezes se impõe; o preferencial mantém o esforço de buscar o profissional sem impedir o projeto.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:01:45", "justificativa": "Acompanha (fala sem nome; atribuição pela ordem); antes lembrou o rito regimental de ouvir a procuradoria.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:01:47", "justificativa": "Proposta mantém o essencial da agenda de modernização tarifária sem impedir a continuidade do projeto.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "3", "ts": "2:02:35", "processo": "48500.003754/2012-59", "interessado": "Centrais Elétricas Salto dos Dardanelos S.A.; Energisa Mato Grosso",
-      "assunto": "Recurso contra despacho SFG 2.863/2022 que indeferiu a liberação para operação comercial da PCH Faxinal 2 (Aripuanã-MT), por casa de força adicional (CGH Faxinal 3) inscrita na compensação de GD",
-      "tema": ["outorgas de geração (PCH)", "recursos administrativos", "geração distribuída (MMGD)", "fiscalização e sanções"],
-      "relator": "Fernando Mosna", "resultado": "provido (aprovado por unanimidade)",
-      "resumo_voto": "Determina à SFG liberar as UG1 e UG2 da PCH Faxinal 2 para operação comercial uma vez comprovado o desligamento definitivo da CGH Faxinal 3 (previsto para 03/03/2023) e à SFE prosseguir a fiscalização da Energisa Mato Grosso. Sustentação oral prevista foi desistida.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "2:17:14", "justificativa": "Separação entre liberação comercial e apuração da ampliação irregular, condicionada à desativação hidráulica e elétrica da Faxinal 3.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:21:06", "justificativa": "Acompanha (fala sem nome; atribuição pela ordem).", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:21:06", "justificativa": "Achou adequado o encaminhamento e relevante a continuidade do procedimento fiscalizatório.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:21:10", "justificativa": "Voto robusto: libera a operação comercial desde que o agente abdique da situação irregular e mantém a fiscalização para apurar responsabilidade.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "5", "ts": "2:22:30", "processo": "48500.005512/2021-91 e 48500.005513/2021-35", "interessado": "Energias de Buritis SPE Ltda. e Energias de Machadinho SPE Ltda. (Rovema Energia)",
-      "assunto": "Pedido de reconsideração contra despacho 2.825/2022 (nega cautelar de suspensão dos CERs 443 e 444/2021 e excludente de responsabilidade pelo atraso das UFVs Buritis e Machadinho, PCS 1/2021, RO)",
-      "tema": ["leilões (PCS 2021, energia de reserva)", "fiscalização e sanções (excludente de responsabilidade)", "recursos administrativos", "outorgas de geração (solar)"],
-      "relator": "Fernando Mosna", "resultado": "negado provimento por unanimidade",
-      "resumo_voto": "Sem fato novo; projetos protocolados na distribuidora e na CCEE sem tempo hábil, sem nexo causal (Lei 13.360/2016, art. 19); risco de implantação do vendedor pelo edital do PCS; voto trata só da excludente, prejudicial às multas.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "2:38:52", "justificativa": "Ausência de nexo de causalidade; usinas já atrasadas quando iniciaram pedidos à distribuidora e à CCEE; riscos assumidos no PCS.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "2:46:50", "justificativa": "Destacou a busca do nexo de causalidade e o caminho crítico na análise de excludentes.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:46:50", "justificativa": "Destacou separar a excludente (prejudicial) dos processos de multa, rescisão e revogação.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:46:55", "justificativa": "A lei exige relação direta entre o evento e o atraso; citou caso que alegava covid como causa de atraso em 2023.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "6", "ts": "2:48:18", "processo": "48500.005500/2021-66, 48500.005501/2021-19, 48500.005526/2021-?? e 48500.005527/2021-59", "interessado": "SPE EPP2 Centrais Elétricas Ltda. e SPE EPP2 Itaguaí Energia Ltda. (UTEs EPP2, EPP4, Edlux 10 e Rio de Janeiro 1)",
-      "assunto": "Pedido de reconsideração com efeito suspensivo contra despacho 2.966/2022 (excludente de responsabilidade pelo atraso das UTEs do PCS 1/2021 e perda de eficácia das cautelares; transferência à UTE Cuiabá/Mário Covas)",
-      "tema": ["leilões (PCS 2021, energia de reserva)", "fiscalização e sanções (excludente de responsabilidade)", "recursos administrativos", "outorgas de geração (térmica)"],
-      "relator": "Fernando Mosna", "resultado": "pedido de vista (Ricardo Tili); julgamento não concluído",
-      "resumo_voto": "Sustentação oral de Guilherme Leite (recorrentes): greve da Receita (64 dias de desembaraço), mora do INEA/IMASUL no licenciamento e lockdown em Xangai. Procuradora Bárbara: riscos assumidos no edital, cautelares de natureza precária. Relator nega provimento: atraso aduaneiro por escolha de seguro-garantia (fortuito interno), licenciamento e compra de equipamentos são riscos do vendedor, sem nexo causal; sem nulidade do despacho. Ricardo Tili questionou a competência/conexão com o processo de alteração de característica técnica sob sua relatoria e pediu vista.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "3:54:02", "justificativa": "Nenhum dos três eventos comprova excludente ou nexo causal; declaração de perda de eficácia das cautelares tem efeito meramente declaratório.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "6:42:22", "justificativa": "Concorda com cerca de 90% do mérito, mas preocupa-se com vício formal (conexão/competência com o processo de alteração de característica técnica de sua relatoria) que poderia anular decisões.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "6:42:22", "justificativa": "No debate disse que o voto do relator traz todos os elementos no mérito.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "6:42:22", "justificativa": "No debate disse não haver dúvida de que as motivações não justificam o atraso; ia colocar em votação quando houve o pedido de vista.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "7", "ts": "6:47:25", "processo": "48500.005498/2021-25", "interessado": "Energias Gaspar SPE Ltda. (Rovema Energia S.A.)",
-      "assunto": "Pedido de reconsideração contra despacho 3.120/2022 que negou excludente de responsabilidade e alteração de cronograma da UTE TG 1002-01 (Gaspar-SC, PCS 1/2021)",
-      "tema": ["leilões (PCS 2021, energia de reserva)", "fiscalização e sanções (excludente de responsabilidade)", "recursos administrativos", "outorgas de geração (térmica)"],
-      "relator": "Fernando Mosna", "resultado": "negado provimento por unanimidade dos presentes (3 diretores)",
-      "resumo_voto": "Agente não firmou contrato de gás nem de máquinas e obras paralisadas; sem excludente. Diretor-Geral firmou que penalidades se aplicam após decisão de primeira instância (efeito suspensivo automático só para penalidade editalícia por paralelo com a REN 846); garantias de fiel cumprimento já com expectativa de sinistro (Dr. Cabral).",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento", "ts": "7:15:40", "justificativa": "Pedido de reconsideração sem elementos que caracterizem excludente de responsabilidade.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "7:16:02", "justificativa": "Voto completo; a questão do gás (guerra na Ucrânia) foi vivida por vários empreendimentos; conclusão bem documentada.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "7:23:11", "justificativa": "Empresa sem contrato de gás e de máquinas e com obras paradas quer se isentar de responsabilidades, o que não se pode permitir.", "confianca": "alta"}
-      ]
-    }
+ "meta": {
+  "video_id": "C1R1bJZggJE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (abertura da sessão ≈ 1:22:50, antes há só música/espera); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "5ª Reunião Pública Ordinária de 2023",
+  "data": "2023-02-28",
+  "formato": "presencial, com a diretora Agnes da Costa participando remotamente",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Agnes da Costa"
   ],
-  "retirados": ["item 9 (retirado antes da sessão)", "item 34 (retirado antes da sessão)", "item 4 (retirado de pauta durante a sessão, com a saída de Ricardo Tili)"],
-  "limites_da_analise": [
-    "Legenda automática: nomes de empresas e números de processo podem estar errados (ex.: último dígito do processo 48500.005526/2021 incerto; 'Edlux 10' grafado de vários modos).",
-    "Nos itens 1, 2, 3 e 5 os 'acompanho' intermediários não têm nome; atribuídos a Ricardo Tili e Agnes da Costa pela ordem usual e pela proclamação de unanimidade (confiança media).",
-    "Item 6: o 'Ricardo Chile' da legenda é Ricardo Tili. O intervalo entre suspensão e reabertura aparece comprimido no vídeo; ts aproximados.",
-    "Item 7: Ricardo Tili ausente (saiu antes); 3 votos. O 'eu também' de Agnes foi inferido pela fala de comentário; a proclamação não cita vencidos.",
-    "Item 4 retirado de pauta (o relator não foi identificado na transcrição)."
+  "ausentes": [
+   "Hélvio Guerra (em missão internacional representando a agência)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores declarado na abertura (1:22:45); Hélvio Guerra ausente em missão internacional.",
+   "Ata da 4ª RPO de 2023 aprovada com retificação do diretor Ricardo Tili (audiência pública transferida de Ji-Paraná para Porto Velho) e ressalva de Fernando Mosna, que não participou daquela reunião.",
+   "Pauta com 45 itens; itens 8 a 45 em bloco; retirados de pauta os itens 9 e 34; sustentação oral pedida para os itens 4 e 6.",
+   "Todos os itens deliberados individualmente (1, 2, 3, 5, 6 e 7) foram relatados por Fernando Mosna.",
+   "Item 6: após a leitura do voto, o Diretor-Geral suspendeu a sessão por compromisso inadiável (3:56:37) e a reabriu à tarde (6:14:19); na retomada, Ricardo Tili questionou a competência/conexão com processo de alteração de característica técnica sob sua relatoria e pediu vista.",
+   "Item 4 (com pedido de sustentação oral) foi retirado de pauta porque o diretor Ricardo Tili teve de se ausentar; o item 7 foi deliberado em seguida, aparentemente sem Ricardo Tili.",
+   "Item 1: apresentação técnica do servidor Charles Rocha (SGT); efeito médio preliminar da RTP da Cemig D de 10,03%."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "1:32:54",
+   "processo": "itens 8 a 45 da pauta (exceto 9 e 34, retirados)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 5ª RPO de 2023 (votos e atos disponibilizados previamente no site)",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade dos diretores presentes",
+   "resumo_voto": "Diretor-Geral submete os itens do bloco; os diretores acompanham e ele proclama a aprovação unânime.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "1:32:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "1:33:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "1:33:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens do bloco e proclama",
+     "ts": "1:33:04",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:33:25",
+   "processo": "48500.006874/2022-80 e 48500.009381/2022-00 (números da legenda, incertos)",
+   "interessado": "Cemig Distribuição S.A. (Cemig D); Conselho de Consumidores",
+   "assunto": "Abertura de consulta pública para a revisão tarifária periódica da Cemig D a vigorar a partir de 28/05/2023 e definição dos limites de DEC e FEC para 2024-2028",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "distribuição e qualidade (DEC/FEC)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: consulta pública de 1º/03 a 14/04/2023, com reunião presencial em 17/03/2023",
+   "resumo_voto": "Efeito médio preliminar de 10,03% (grupo A 5,26%, grupo B 12,52%), puxado pela saída de componentes financeiros do processo anterior (créditos de PIS/Cofins, bandeira escassez hídrica); pleito da Cemig de postergar prazo de capitalização de obras de alta tensão não comprovado. Sem sustentação oral; procuradoria a favor.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "1:47:24",
+     "justificativa": "cumprir o rito da RTP; documentos da Cemig (285 MB) não justificaram o pleito de postergação das obras de alta tensão, apenas um parágrafo lacônico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:50:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:50:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:50:17",
+     "justificativa": "comenta que o reajuste econômico é reduzido (≈2,85%), o efeito de ~10% decorre da retirada dos financeiros (saldo de PIS/Cofins) e destaca a meta de reduzir quase uma hora de DEC até 2028",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:51:05",
+   "processo": "48500.000044/2020-92",
+   "interessado": "Instituto Abradee (coordenação do projeto); CPFL Paulista (proponente); distribuidoras cooperadas",
+   "assunto": "Alteração dos requisitos do termo de referência do projeto piloto de P&D Governança de Sandbox Tarifários: exigência de doutorado há 4 anos para o coordenador",
+   "tema": [
+    "tarifas (modernização tarifária, sandbox)",
+    "P&D",
+    "regulação normativa"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade dos diretores presentes",
+   "resumo_voto": "Em vez de retirar o requisito, como pedido, o relator transforma a titulação de doutorado há mais de 4 anos em critério preferencial; a escolha de coordenador sem essa titulação deve ser justificada; publicação do termo de referência ajustado. Preserva o que foi submetido à CP 49/2021.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova alteração (doutorado como requisito preferencial)",
+     "ts": "1:59:11",
+     "justificativa": "busca frustrada de profissionais no mercado ameaça a continuidade do projeto; função é mais gerencial; retirar o requisito discutido em consulta pública não seria adequado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:01:47",
+     "justificativa": "a realidade às vezes se impõe; deve-se buscar o profissional preferencial mas não impedir o projeto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:01:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:01:54",
+     "justificativa": "mantém o essencial: preferência pela titulação sem impedir a continuidade de projeto importante da agenda de modernização tarifária",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:02:32",
+   "processo": "48500.003754/2012-59",
+   "interessado": "Centrais Elétricas Salto Dardanelos S.A.; PCH Faxinal 2 e CGH Faxinal 3 (Aripuanã-MT); Energisa Mato Grosso",
+   "assunto": "Recurso administrativo contra o Despacho SFG 2.863/2022, que indeferiu a liberação para operação comercial da PCH Faxinal 2 (casa de força adicional CGH Faxinal 3 inscrita na geração distribuída)",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "fiscalização e sanções",
+    "geração distribuída (MMGD)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: SFG libera UG1 e UG2 da PCH Faxinal 2 após comprovado o desligamento da CGH Faxinal 3 (previsto até 03/03/2023); SFE continua a fiscalização na Energisa Mato Grosso",
+   "resumo_voto": "Agente aceitou desconectar definitivamente a casa de força secundária (Faxinal 3) e sair do sistema de compensação; com isso restabelece-se a conformidade com a outorga e se separa a liberação comercial da apuração da construção irregular. Sustentação oral prevista teve desistência.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, dá provimento condicionado (liberação após desligamento da CGH Faxinal 3)",
+     "ts": "2:17:22",
+     "justificativa": "desativação do circuito hidráulico e elétrico da Faxinal 3 restaura as condições da outorga; vigência do despacho atrelada ao cronograma de desligamento e à fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:21:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:21:17",
+     "justificativa": "encaminhamento adequado; destaca a continuidade do procedimento fiscalizatório (comentário atribuído por inferência)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:21:20",
+     "justificativa": "agente tinha duas opções e escolheria a mais benéfica; relator condicionou a liberação ao abandono da situação irregular e manteve a apuração de responsabilidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:22:17",
+   "processo": "48500.005512/2021-91 e 48500.005513/2021-35",
+   "interessado": "Energias de Buritis SPE Ltda. e Energias de Machadinho SPE Ltda. (originalmente Rovema Energia); UFV Buritis e UFV Machadinho (Rondônia)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.825/2022, que negou cautelar de suspensão das obrigações dos CER 443 e 444/2021 (PCS 1/2021) e indeferiu excludente de responsabilidade pelo atraso das usinas",
+   "tema": [
+    "leilões (PCS 2021, energia de reserva)",
+    "outorgas de geração (solar)",
+    "fiscalização e sanções (excludente de responsabilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento (unanimidade, pelas falas de voto)",
+   "resumo_voto": "Sem fato novo; projetos protocolados na distribuidora e na CCEE sem tempo hábil (CCEE só em 22/05/2022, após o início do suprimento em 01/05/2022); não há nexo causal com atos da distribuidora, CCEE, ONS ou ANEEL; riscos assumidos no edital do PCS. Voto trata só da excludente; multas ficam para outro voto. Procuradoria (pareceres 58 e 59/2023) pelo indeferimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "2:38:52",
+     "justificativa": "excludente exige evento fortuito/força maior e nexo de causalidade (Lei 13.360/2016); agente não comprovou prazos descumpridos pelo poder público; excludente é prejudicial às multas, por isso analisada separadamente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:46:43",
+     "justificativa": "cumprimenta a busca pelo nexo de causalidade e a análise do caminho crítico",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:46:47",
+     "justificativa": "importante esgotar as excludentes antes de julgar multas, pois são prejudiciais; acrescenta que o evento deve estar no caminho crítico",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:46:50",
+     "justificativa": "a lei exige relação direta entre o evento e o atraso; cita caso de agente que alegou covid para obrigações de 2023",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:47:47",
+   "processo": "48500.005500/2021-66, 48500.005501/2021-19, 48500.005526/2021 e 48500.005527/2021-59 (números da legenda, incertos)",
+   "interessado": "SPE EPP2 Centrais Elétricas Ltda. e SPE Itaguaí Energia Ltda.; UTEs EPP2, EPP4, Edlux 10 e Rio de Janeiro 1; UTE Cuiabá (antiga Mário Covas); sustentação oral de Guilherme Leite (nome incerto), advogado das recorrentes",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 2.966/2022, que negou excludente de responsabilidade pelo atraso das UTEs do PCS 1/2021 e declarou ineficazes cautelares anteriores (Despachos 1.336 e 1.872/2022)",
+   "tema": [
+    "leilões (PCS 2021, energia de reserva)",
+    "outorgas de geração (térmica a gás)",
+    "fiscalização e sanções (excludente de responsabilidade)",
+    "recursos administrativos",
+    "institucional (competência/conexão de processos)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "pedido de vista de Ricardo Tili; julgamento suspenso após o voto do relator",
+   "resumo_voto": "Sustentação oral alegou greve da Receita Federal (64 dias de desembaraço de 119 equipamentos), mora do INEA e do IMASUL no licenciamento e lockdown na China; a procuradora Bárbara defendeu o parecer 45/2023 (riscos assumidos no PCS, cautelares precárias). Relator nega provimento: demora no desembaraço decorreu da escolha de seguro-garantia; licenciamento era risco do vendedor (cláusula 14.7 do edital); compras de equipamentos são fortuito interno; falta nexo causal (gás, CCT não equacionados); não houve surpresa nem nulidade. Ricardo Tili questionou a competência/conexão com o processo de alteração de característica técnica sob sua relatoria e pediu vista.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento (voto lido; julgamento suspenso por vista)",
+     "ts": "3:53:57",
+     "justificativa": "nenhuma das três excludentes comprovada nem com nexo causal; decisão tem efeito apenas declaratório sobre condição de eficácia das cautelares que não se operou; usinas sem operação comercial 304 dias após o início do suprimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "6:42:29",
+     "justificativa": "concorda com cerca de 90% do mérito, mas teme vício formal de competência/conexão com o processo de alteração de característica técnica (do qual é relator) que poderia anular decisões posteriores",
+     "tom": "discordância respeitosa, foco em formalidade processual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista)",
+     "ts": "6:30:43",
+     "justificativa": "na discussão disse que, no mérito, o voto do relator já traz todos os elementos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (vista)",
+     "ts": "6:39:03",
+     "justificativa": "na discussão disse não haver dúvida de que as motivações não justificam o atraso; questão formal teria de ser discutida no sorteio/distribuição",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "6:46:17",
+   "processo": "48500.005498/2021-25",
+   "interessado": "Energias Gaspar SPE Ltda. (antes Rovema Energia S.A.); UTE RR TG 1002-01 (nome incerto), Gaspar-SC; fornecedora de gás NFE Power (New Fortress)",
+   "assunto": "Pedido de reconsideração contra o Despacho 3.120/2022, que negou excludente de responsabilidade e alteração do cronograma da UTE do PCS 1/2021",
+   "tema": [
+    "leilões (PCS 2021, energia de reserva)",
+    "outorgas de geração (térmica a gás)",
+    "fiscalização e sanções (excludente de responsabilidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "conhecido e negado provimento (proclamação, sem menção expressa a unanimidade)",
+   "resumo_voto": "Não assinatura do contrato de gás com a NFE não é excludente: não era fornecedor único, contrato deveria ser comprovado até 15/01/2022, antes da guerra Rússia-Ucrânia; outras 13 térmicas a gás do PCS se protegeram; risco do empreendedor. Voto cita trecho do voto de Ricardo Tili na primeira instância. Sem sustentação oral; procuradoria (parecer 32/2023) pelo não provimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, nega provimento",
+     "ts": "7:15:38",
+     "justificativa": "falta inevitabilidade e nexo causal; decisão de não firmar contrato de gás foi empresarial; riscos na matriz do empreendedor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "7:16:10",
+     "justificativa": "voto completo e bem documentado; a questão do gás após a guerra afetou vários empreendimentos (antecipou concordância na discussão; voto final não audível)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "7:23:18",
+     "justificativa": "agente não firmou contrato de gás nem de máquinas e paralisou as obras, talvez por inviabilidade econômica, e agora quer se isentar; esclarece que penalidades são aplicadas após a primeira instância (efeito suspensivo automático só para multa editalícia, por paralelismo com a REN 846)",
+     "tom": "crítico ao agente",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "4",
+   "motivo": "retirado de pauta durante a sessão porque o diretor Ricardo Tili teve de se ausentar (6:46:36); havia pedido de sustentação oral"
+  },
+  {
+   "id": "9",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "34",
+   "motivo": "retirado de pauta antes da sessão"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de empresas e usinas (Edlux 10, RR TG 1002-01, Itaguaí, NFE), e o nome do advogado da sustentação oral (Guilherme Leite ... Aguiar) são incertos.",
+  "Nas votações dos itens 1, 2, 3 e 5 os «acompanho» de Ricardo Tili e Agnes da Costa não são nomeados; atribuídos pela proclamação de unanimidade e pela ordem de fala (confiança media/baixa). No item 3 o comentário inicial («achei bastante adequado») foi atribuído a Agnes da Costa por inferência.",
+  "Item 1: o relator citou reunião presencial em 14/03/2023 no dispositivo, mas a apresentação técnica e a proclamação falam em 17/03/2023.",
+  "Item 6: só o relator votou no mérito; Ricardo Tili pediu vista; Agnes da Costa e Sandoval Feitosa registrados como «não votou (vista)», embora tenham sinalizado concordância com o mérito na discussão. A sessão foi suspensa pela manhã e retomada à tarde (salto de tempo no vídeo).",
+  "Item 7: Ricardo Tili aparentemente saiu antes (sua ausência motivou a retirada do item 4); não há voto dele registrado. Só a fala final do Diretor-Geral («Eu também voto com o eminente relator») é audível; o voto de Agnes da Costa vem da concordância antecipada na discussão. Nº de votos = 3 presentes.",
+  "Bloco: os três votos antes da proclamação não têm nome; atribuição aos diretores é pela proclamação de unanimidade.",
+  "Primeira ~1h22 do vídeo é música/espera; a sessão abre em ≈ 1:22:50."
+ ]
 }

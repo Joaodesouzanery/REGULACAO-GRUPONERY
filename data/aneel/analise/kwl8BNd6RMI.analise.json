@@ -1,160 +1,162 @@
 {
  "meta": {
   "video_id": "kwl8BNd6RMI",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados a partir de data/transcricoes; votos de seguidores pela proclamação",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "45",
   "data": "2022-11-29",
-  "formato": "presencial",
+  "formato": "presencial (sessão da tarde; Parte 2)",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
    "Hélvio Guerra",
    "Ricardo Tili",
-   "Alessandro Cantarino (diretor substituto; fora da lista do config)"
+   "Alessandro Cantarino (diretor substituto)"
   ],
   "ausentes": [
    "Fernando Mosna"
   ],
   "observacoes": [
-   "Parte 2 (tarde) da reunião pública ordinária de 29/11/2022; a legenda diz «41ª», o título diz 45ª.",
-   "Última reunião de Alessandro Cantarino como diretor substituto; Agnes da Costa toma posse na segunda-feira seguinte (não presente).",
-   "Aniversário do diretor Ricardo Tili registrado.",
-   "Balanço do DG: 54 processos na pauta, 48 deliberados, 40 em bloco (dados da reunião inteira)."
+   "Parte 2 (tarde) da 45ª Reunião Pública Ordinária de 29/11/2022; o DG anuncia sete processos para a tarde, mas só quatro são deliberados neste vídeo (itens 1, 2, 10 e 9, com inversão de ordem para atender a sustentação oral de Furnas e a apresentação da SGT).",
+   "Fernando Mosna não estava presente (Cantarino agradece «ao Fernando que não está conosco»); Agnes da Costa ainda não tomara posse (chega «na próxima segunda-feira»).",
+   "Última reunião de Alessandro Cantarino como diretor (substituto; fim do mandato saudado pelo DG). Aniversário de Ricardo Tili registrado.",
+   "Balanço do DG no encerramento: 54 processos na pauta do dia, 48 deliberados, 40 em bloco; 2 aberturas e 2 fechamentos de consulta pública, 5 outorgas, 12 DUPs, 16 recursos administrativos, 3 votos-vista e 1 prorrogação de vista; apresentação do Subsidiômetro.",
+   "No item 9 (TAESA, voto-vista) a decisão foi por maioria (3 a 2 contando votos de sessão anterior) negando provimento; como Fernando Mosna abriu a divergência e estava ausente, ficou definido que ele apresentará o voto condutor no prazo regimental, acompanhado pelo voto-vista de Hélvio Guerra."
   ]
  },
  "itens": [
   {
    "id": "1",
-   "ts": "0:00:10",
+   "ts": "0:00:20",
    "processo": "48500.008188/2022-43",
-   "interessado": "ONS",
-   "assunto": "Abertura de consulta pública (45 dias, 01/12/2022 a 16/01/2023) sobre revisão do submódulo 2.10 dos Procedimentos de Rede: requisitos técnicos mínimos para conexão às instalações de transmissão (usinas tipo 3 na distribuição, PMU, compensadores síncronos, excitação brushless)",
+   "interessado": "ONS (Operador Nacional do Sistema Elétrico); SRT/SRG/SRD",
+   "assunto": "Abertura de consulta pública (45 dias, 01/12/2022 a 16/01/2023) sobre proposta do ONS de revisão do submódulo 2.10 dos Procedimentos de Rede (requisitos técnicos mínimos para conexão às instalações de transmissão; usinas tipo 3 conectadas na distribuição, PMUs, compensadores síncronos, excitação brushless, injeção de corrente reativa)",
    "tema": [
     "regulação normativa (consulta pública)",
-    "transmissão",
-    "geração distribuída (MMGD)"
+    "transmissão (procedimentos de rede)",
+    "geração distribuída (MMGD)",
+    "segurança do sistema / ONS"
    ],
-   "relator": "Alessandro Cantarino",
-   "resultado": "aprovado por unanimidade, com ajuste: retirada do item 1.2 da menção que excetuava micro e minigeração distribuída",
-   "resumo_voto": "Relator (processo herdado de Giácomo Almeida) vota pela abertura da CP a pedido do ONS por celeridade; Hélvio Guerra questionou a exclusão da MMGD e a classificação como central geradora; Sandoval e Ricardo Tili alertaram para riscos de desconexão em cascata da geração renovável; relator acatou retirar a ressalva.",
+   "relator": "Alessandro Cantarino (diretor substituto)",
+   "resultado": "aprovado por unanimidade, com ajuste: retirada do texto do item 1.2 a ressalva que excluía expressamente micro e minigeração distribuída",
+   "resumo_voto": "Processo herdado de Giácomo Almeida (fim de mandato em 16/11/2022). ONS pediu tratamento célere: centenas de usinas na distribuição com ajustes de frequência descoordenados com o ERAC e híbridas iniciando acesso. Apresentação de Sidney (SRT). No debate, Hélvio Guerra questionou a exclusão da MMGD e a redação que trata MMGD como central geradora; Sandoval e Ricardo Tili reforçaram o risco de desligamentos em cascata de fontes sem inércia e a falta de supervisão do ONS sobre MMGD. Relator acatou retirar a ressalva sobre MMGD para não limitar o escopo da consulta.",
    "votos": [
     {
-     "diretor": "Alessandro Cantarino",
-     "voto": "relator, aprova",
-     "ts": "0:30:00",
-     "confianca": "media",
-     "justificativa": "CP necessária pelo pedido de celeridade do ONS; foco em usinas tipo 3; acatou retirar a exceção de MMGD do texto"
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "relator, aprova abertura de consulta pública (com ajuste acatado)",
+     "ts": "0:15:22",
+     "justificativa": "material do ONS maduro para consulta sobre usinas tipo 3; MMGD a ser tratada em etapa posterior (eventual 2ª fase ou Prodist); acatou retirar a exceção de MMGD do item 1.2",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
      "ts": "0:36:36",
-     "confianca": "media",
-     "justificativa": "levantou dúvida sobre excluir MMGD; risco de queda em cascata do sistema por pequena variação de frequência"
+     "justificativa": "levantou no debate a dúvida sobre excluir a MMGD e sobre chamá-la de central geradora (para ele são consumidores com geração); preocupação com derrubada do sistema por desconexões em cascata",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "0:36:40",
-     "confianca": "media",
-     "justificativa": "defendeu olhar de perto mini geração concentrada (ex.: norte de Minas)"
+     "ts": "0:36:39",
+     "justificativa": "no debate, fez eco à preocupação com MMGD (várias minigerações na mesma rede, ex.: norte de Minas) e defendeu controle sobre esse tipo de usina",
+     "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (proclama)",
-     "ts": "0:36:45",
-     "confianca": "alta",
-     "justificativa": "fontes de baixa inércia e requisitos frágeis de frequência causam riscos; tema MMGD terá de ser enfrentado"
+     "voto": "acompanha o relator e proclama",
+     "ts": "0:36:42",
+     "justificativa": "crescimento de renováveis com baixa inércia e requisitos frágeis de controle de frequência já causou ocorrências; ONS não supervisiona essas usinas; tema da MMGD terá de ser enfrentado",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:37:40",
+   "ts": "0:37:20",
    "processo": "48500.004954/2021-10",
-   "interessado": "Equatorial Piauí (distribuidora)",
-   "assunto": "Reajuste tarifário anual 2022 da Equatorial Piauí, vigência a partir de 02/12/2022; efeito médio 19,30% (AT 24,98%, BT 17,89%)",
+   "interessado": "Equatorial Energia Piauí (distribuidora; 224 municípios, ~1,41 milhão de UCs)",
+   "assunto": "Reajuste tarifário anual 2022 da Equatorial Piauí, a vigorar a partir de 02/12/2022: efeito médio de 19,30% (24,98% alta tensão; 17,89% baixa tensão); fixação de TUSD/TE, receita de DIT e repasse mensal da CDE pela CCEE",
    "tema": [
-    "tarifas e revisão tarifária",
-    "CDE e encargos setoriais"
+    "tarifas e revisão tarifária (reajuste anual)",
+    "CDE e encargos setoriais",
+    "distribuidoras"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos presentes",
-   "resumo_voto": "Homologação do índice, TUSD/TE, receita DIT e repasse CDE; apresentação técnica da SGT (Michele).",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação de Michele (SGT): Parcela A ~9,89%, Parcela B 1,32%, financeiros do período -4,03%, retirada dos financeiros anteriores 12,12%; mitigações (CDE Eletrobras, conta escassez hídrica, créditos de PIS/Cofins) somaram -16,54% dos financeiros. Relator corrigiu redação para «Equatorial Piauí». Sandoval atribuiu o índice elevado à normalização de custos represados (conta-covid, conta escassez hídrica, bandeira) e cobrou do governo do Piauí a aplicação da LC 194/2022 (ICMS). Outro diretor alertou que o volume de componentes financeiros mascara a tarifa econômica.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "0:48:30",
-     "confianca": "alta",
-     "justificativa": "efeito médio de 19,30% conforme NT 210/2022-SGT"
+     "voto": "relator, aprova o reajuste",
+     "ts": "0:49:37",
+     "justificativa": "cálculo da SGT (NT 210/2022) conforme contrato de concessão; homologa índice de 19,30%",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "0:56:45",
-     "confianca": "media",
-     "justificativa": "alertou que o excesso de componentes financeiros mascara a tarifa econômica da distribuidora"
-    },
-    {
-     "diretor": "Alessandro Cantarino",
      "voto": "acompanha o relator",
      "ts": "0:56:50",
      "confianca": "media"
     },
     {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "0:56:54",
+     "confianca": "media"
+    },
+    {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (proclama)",
+     "voto": "acompanha o relator e proclama",
      "ts": "0:56:56",
-     "confianca": "alta",
-     "justificativa": "reajuste elevado pela normalização de custos represados (conta Covid, escassez hídrica); cobrou do Piauí aplicar a LC 194 para reduzir ICMS"
+     "justificativa": "reajuste elevado decorre da normalização de custos represados nas crises de 2020-2021; redução de ICMS (Lei 14.385 e LC 194/2022) pode baixar a conta; cobra regulamentação pelo estado",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "10",
    "ts": "0:58:01",
-   "processo": "48100.001175/1996-76; 48500.002428/2020-34",
-   "interessado": "Furnas Centrais Elétricas (UTE Santa Cruz)",
-   "assunto": "Pedido de medida cautelar de Furnas para não desconexão da UTE Santa Cruz do SIN; autoriza ONS a celebrar CUST e CCT e emitir DAPR para operação em teste e comercial, com condição resolutiva até decisão sobre prorrogação da concessão",
+   "processo": "48100.001175/1996-76 e 48500.002428/2020-34",
+   "interessado": "Furnas Centrais Elétricas S.A. (UTE Santa Cruz, RJ); ONS",
+   "assunto": "Pedido de medida cautelar de Furnas para evitar a desconexão da UTE Santa Cruz do SIN enquanto se analisa a prorrogação da concessão (Lei 12.783/2013, art. 5º): autorizar o ONS a celebrar CUST e CCT e emitir a DAPR para operação em teste e comercial do fechamento do ciclo combinado",
    "tema": [
     "outorgas de geração (térmica)",
-    "transmissão",
-    "recursos administrativos"
+    "recursos administrativos (medida cautelar)",
+    "transmissão (CUST/CCT, procedimentos de rede)",
+    "prorrogação de concessão"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade (cautelar concedida)",
-   "resumo_voto": "Sustentação oral de Milena Fagundes (Furnas). Procuradoria favorável. Relator vê fumaça do bom direito (continuidade do serviço público, art. 9 da Lei 12.783), perigo da demora (importância sistêmica, serviço auxiliar de Angra) e reversibilidade.",
+   "resultado": "cautelar concedida por unanimidade",
+   "resumo_voto": "Sustentação oral de Milena Fagundes Batista Ferreira de Castro (Furnas): concessão vencida em 2015, Furnas opera como concessionária temporária, ONS nega a DAPR por falta de outorga vigente; desistiu do pedido alternativo de virar PIE por causa do preço do gás. Procurador Eduardo opinou ser caso típico de cautelar (art. 9º da Lei 12.783). Relator viu fumaça do bom direito (continuidade do serviço público; CCEAR do A-5/2007 até 2026), perigo da demora (suprimento auxiliar de Angra 1 e 2; importância sistêmica declarada pelo ONS) e reversibilidade (condição resolutiva nos contratos). No debate estranhou-se que o ONS despache a usina desde 2015 mas negue a DAPR; Sandoval falou em situação que vira fato consumado. Na proclamação, ajuste: celebrar CUST novo, não aditivo.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, concede a cautelar",
-     "ts": "1:28:22",
-     "confianca": "alta",
-     "justificativa": "Furnas é concessionária temporária pela continuidade do serviço público até decisão do poder concedente"
+     "voto": "relator, concede a medida cautelar",
+     "ts": "1:28:35",
+     "justificativa": "presentes fumaça do bom direito, perigo da demora e reversibilidade; Furnas é concessionária responsável pela prestação temporária com base no princípio da continuidade do serviço público",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "1:32:20",
-     "confianca": "media",
-     "justificativa": "achou estranho o ONS despachar a usina desde 2015 mas negar a DAPR"
+     "ts": "1:32:28",
+     "confianca": "media"
     },
     {
-     "diretor": "Alessandro Cantarino",
+     "diretor": "Alessandro Cantarino (diretor substituto)",
      "voto": "acompanha o relator",
-     "ts": "1:32:25",
+     "ts": "1:32:30",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (proclama)",
-     "ts": "1:32:32",
-     "confianca": "alta",
-     "justificativa": "situação não resolvida que vai se consolidando; antecipou concordância"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:32:31",
+     "justificativa": "situação não resolvida que se consolidou; antecipou concordância com o relator",
+     "confianca": "alta"
     }
    ]
   },
@@ -162,56 +164,57 @@
    "id": "9",
    "ts": "1:34:11",
    "processo": "48500.000526/2019-01",
-   "interessado": "Transmissora Aliança de Energia (TAESA)",
-   "assunto": "Recurso administrativo contra Despacho SRT 361/2019 que negou isenção de PVI (R$ 4,7 mi) pelo desligamento da LT 500 kV Ribeiro Gonçalves–São João do Piauí em 28/05/2018 (tiros em isoladores durante greve dos caminhoneiros); voto-vista",
+   "interessado": "Transmissora Aliança de Energia Elétrica S.A. (TAESA)",
+   "assunto": "Voto-vista: recurso administrativo da TAESA contra o Despacho SRT 361/2019, que negou isenção da Parcela Variável por Indisponibilidade (PVI, cerca de R$ 4,7 milhões) pelo desligamento da LT 500 kV Ribeiro Gonçalves - São João do Piauí C1 em 28/05/2018, atribuído pela empresa a disparos de arma de fogo nos isoladores (sabotagem durante a greve dos caminhoneiros)",
    "tema": [
-    "transmissão",
+    "transmissão (PVI)",
+    "recursos administrativos",
     "fiscalização e sanções",
-    "recursos administrativos"
+    "caso fortuito / força maior"
    ],
-   "relator": "Giácomo Francisco Bassi Almeida (ex-diretor; voto proferido na 37ª RPO)",
-   "resultado": "recurso conhecido e, no mérito, negado provimento por maioria (3x2), mantida a PVI; voto condutor a ser redigido por Fernando Mosna, autor da divergência",
-   "resumo_voto": "Voto-vista de Hélvio Guerra: não comprovada sabotagem (sem perícia, tiros provavelmente diurnos, inspeção 3 meses antes, outras linhas próximas intactas); vandalismo é risco inerente da transmissora; isenção transferiria custo ao consumidor. Discussão sobre como registrar em ata o voto de Fernando Mosna (ausente).",
+   "relator": "Giácomo Almeida (relator original, voto em sessão anterior); voto-vista de Hélvio Guerra",
+   "resultado": "recurso conhecido e, no mérito, desprovido por maioria (3 a 2): mantida a PVI; voto condutor a ser apresentado por Fernando Mosna (autor da divergência), acompanhado pelo voto-vista de Hélvio Guerra; vencidos Giácomo Almeida e Ricardo Tili",
+   "resumo_voto": "Em sessão anterior, o relator Giácomo Almeida (acompanhado por Ricardo Tili) votou pela isenção da PVI por sabotagem equiparada a força maior; Fernando Mosna divergiu para negar provimento; Hélvio pediu vista. Voto-vista: vandalismo é risco do negócio da transmissora, sabotagem exclui responsabilidade, mas a TAESA não provou nexo com a greve (sem perícia nem cartuchos; desligamento à 0h32 indica tiros anteriores e efeito da umidade; circuitos vizinhos intactos; última inspeção em 23/02/2018); isolador de vidro foi escolha da empresa; isentar a PVI transfere o custo ao consumidor; precedentes (Cepisa, balões, greve) não se aplicam. Debate formal sobre como registrar a decisão com Fernando ausente; solução: voto condutor de Fernando Mosna.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "voto-vista vencedor: nega provimento, mantém PVI",
-     "ts": "1:35:00",
-     "confianca": "alta",
-     "justificativa": "não restou comprovado rompimento do nexo causal; vandalismo deve ser suportado pela transmissora; uso de isoladores de vidro foi risco assumido"
+     "voto": "voto-vista vencedor: conhece e nega provimento (acompanha a divergência de Fernando Mosna)",
+     "ts": "1:40:33",
+     "justificativa": "não comprovada sabotagem nem rompimento do nexo causal; vandalismo é risco inerente da transmissora; isenção da PVI oneraria o consumidor",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "vencido (mantém voto pela isenção da PVI, com o relator)",
+     "voto": "mantém voto anterior pelo provimento (isenção da PVI); vencido",
      "ts": "2:05:11",
-     "confianca": "alta",
-     "justificativa": "mantém o voto dado na reunião anterior; defendeu cuidado na redação da ata"
+     "justificativa": "mantém o voto dado em sessão anterior acompanhando o relator Giácomo Almeida",
+     "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o voto-vista (proclama)",
-     "ts": "2:05:19",
-     "confianca": "alta",
-     "justificativa": "acompanha a divergência de Fernando Mosna via voto-vista"
+     "voto": "acompanha o voto-vista (nega provimento) e proclama",
+     "ts": "2:05:26",
+     "justificativa": "o voto-vista acompanha a divergência de Fernando Mosna, que passa a ser o voto condutor",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "diverge (voto anterior, nega provimento; ausente nesta sessão)",
-     "ts": "1:35:13",
-     "confianca": "media",
-     "justificativa": "abriu a divergência na reunião de 27/09/2022; será redator do voto condutor"
+     "voto": "voto proferido em sessão anterior: diverge, nega provimento (voto condutor); ausente nesta sessão",
+     "ts": "2:04:48",
+     "justificativa": "divergência aberta na sessão em que houve o pedido de vista; apresentará o voto condutor no prazo regimental",
+     "confianca": "media"
     },
     {
-     "diretor": "Giácomo Francisco Bassi Almeida",
-     "voto": "vencido (relator, dava provimento; voto anterior)",
+     "diretor": "Giácomo Almeida",
+     "voto": "voto proferido em sessão anterior como relator: dá provimento (isenção da PVI); vencido",
      "ts": "1:35:13",
-     "confianca": "media",
-     "justificativa": "caso fortuito/força maior por sabotagem durante a greve dos caminhoneiros"
+     "justificativa": "sabotagem no auge da greve dos caminhoneiros, imprevisível e inevitável, equiparada a força maior; culpa da transmissora não demonstrada",
+     "confianca": "media"
     },
     {
-     "diretor": "Alessandro Cantarino",
-     "voto": "não vota (sucessor de diretor que já votou)",
-     "ts": "1:35:20",
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "não vota (sucedeu relator que já havia votado)",
+     "ts": "2:04:43",
      "confianca": "alta"
     }
    ]
@@ -219,11 +222,13 @@
  ],
  "retirados": [],
  "limites_da_analise": [
-  "Alessandro Cantarino e Giácomo Francisco Bassi Almeida não constam da lista do config; nomes como ditos.",
-  "Cabeçalho inferido do .md lista Agnes da Costa e Fernando Mosna como presentes: incorreto; Agnes só chega na semana seguinte e Mosna está ausente.",
-  "Falas 'acompanho' sem nome atribuídas pela ordem usual (relator, demais, DG por último); ts aproximados.",
-  "Número da reunião: legenda diz 41ª, título 45ª.",
-  "Item 9: votos de Giácomo e Mosna foram dados na 37ª/32ª RPO (legenda cita ambos); placar 3x2 dito pelo diretor Ricardo.",
-  "Ordem dos itens alterada na sessão (2, 10, 9 após o 1)."
+  "Legenda automática: o .md tem um único marcador de tempo; ts obtidos do JSON da transcrição; ts de quem só acompanha são aproximados e a ordem das falas «acompanho» (sem nome) foi atribuída pela ordem usual (relator, demais, DG por último), com confiança media.",
+  "Número da reunião: o título diz 45ª, mas a fala de abertura diz «41ª» (provável erro de legenda); adotado 45.",
+  "Alessandro Cantarino e Giácomo Francisco Bassi Almeida não constam da lista de diretores do config da ANEEL; nomes registrados como ditos (Cantarino = diretor substituto).",
+  "Item 9: a sessão anterior em que votaram Giácomo, Ricardo e Fernando é citada como 32ª e como 37ª reunião (27/09/2022) e a sustentação oral como da 36ª; números incertos. Os votos de Giácomo e Fernando foram dados em sessão anterior e não nesta; ts deles aponta para a menção na sessão.",
+  "Item 9: os autores das falas no debate formal sobre registrar a decisão com Fernando ausente (dúvida «pela ordem», proposta de retirar e reinscrever) não são identificáveis com segurança.",
+  "Item 2: a fala sobre componentes financeiros mascararem a tarifa econômica não tem autor identificável (Ricardo Tili ou Alessandro Cantarino).",
+  "Item 10: o diretor que estranhou que o ONS despache a usina sem outorga mas negue a DAPR não é identificável com segurança.",
+  "Dos sete processos anunciados para a tarde, só quatro aparecem deliberados neste vídeo; os demais podem ter ido ao bloco ou à parte da manhã."
  ]
 }

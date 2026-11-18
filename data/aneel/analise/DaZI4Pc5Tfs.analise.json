@@ -1,302 +1,268 @@
 {
  "meta": {
   "video_id": "DaZI4Pc5Tfs",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts do vídeo, aproximados para quem só acompanha",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "47",
+  "numero": "47ª Reunião Pública Ordinária (2022) – Parte 2",
   "data": "2022-12-13",
-  "formato": "presencial (Parte 2 da 47ª Reunião Pública Ordinária)",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "formato": "presencial (sessão da tarde, retomada)",
+  "presidente_da_sessao": "Hélvio Guerra (conduz a sessão; Diretor-Geral ausente nesta parte)",
   "diretores_presentes": [
-   "Sandoval Feitosa",
    "Hélvio Guerra",
    "Agnes da Costa",
    "Ricardo Tili"
   ],
-  "ausentes": [],
+  "ausentes": [
+   "Sandoval Feitosa (Diretor-Geral; citado como tendo atuado no caso CEA na semana anterior)",
+   "Fernando Mosna (citado em fala, sem participação audível)"
+  ],
   "observacoes": [
-   "Parte 2 (tarde) da 47ª RPO de 2022, última ordinária do ano; itens 8 a 13 da pauta.",
-   "Ricardo Tili pediu vista no item 12 (Diamante) alegando quórum reduzido e risco de empate.",
-   "Balanço do secretário-geral: 54 processos em pauta no dia, 7 retirados; 1757 processos deliberados em 2022."
+   "Parte 2 (tarde) da 47ª RPO de 13/12/2022, última ordinária do ano; encerrada por Hélvio Guerra, que anuncia a 1ª reunião de 2023 para 24/01.",
+   "Composição audível: Hélvio Guerra (conduz e relata itens 8, 10, 11 e 12), Agnes da Costa (recém-empossada, ~1–2 semanas) e Ricardo Tili. A sustentante do item 12 cumprimenta apenas o relator, Ricardo Tili e Agnes; Tili agradece «aos diretores que estão aqui e os que não estão».",
+   "6 itens: 5 unânimes; item 12 (Diamante, reembolso CDE carvão para energia exportada) com pedido de vista de Ricardo Tili, que antecipou divergência (entende que a ANEEL não pode restringir o subsídio da Lei 10.438) e citou quórum baixo.",
+   "Item 9 (CDE 2023): por sugestão de Hélvio Guerra, acolhida pela relatora Agnes, incluída audiência pública na consulta pública.",
+   "Item 1 (reajuste CEA/Equatorial Amapá, 36,08%) foi deixado para o fim da pauta; sustentação do Conselho de Consumidores do Amapá; diretores relatam tentativas frustradas de crédito extraordinário (saldo ~R$ 26 mi da Lei 14.146) e de redução do ICMS.",
+   "Secretário-geral resume o dia: 54 processos em pauta, 41 em bloco, 7 retirados."
   ]
  },
  "itens": [
   {
    "id": "8",
-   "ts": "0:00:06",
-   "processo": "48500.008292/2022-38 (número da legenda, incerto)",
-   "interessado": "Eletronuclear (Angra 1 e 2); distribuidoras cotistas",
-   "assunto": "Estabelecimento da receita fixa e tarifa de venda de energia das centrais nucleares Angra 1 e 2 a vigorar a partir de 1/1/2023",
+   "ts": "0:00:21",
+   "processo": "48500.008292/2022-38",
+   "interessado": "Eletronuclear (Angra 1 e 2)",
+   "assunto": "Estabelecimento da receita fixa e da tarifa das centrais nucleares Angra 1 e 2 a vigorar a partir de 1º/01/2023",
    "tema": [
     "tarifas e revisão tarifária",
     "outorgas de geração (nuclear)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Emissão de resolução homologatória com receita fixa de cerca de R$ 4,66 bilhões para 2023 (tarifa citada 347,50 R$/MWh), com ajuste de combustível nuclear validado pela SFF.",
+   "resultado": "Aprovado por unanimidade: receita fixa de R$ 4.662.203.616,90 para 2023 e tarifa de R$ 347,50/MWh (redução de 0,47%), incluindo na parcela de ajuste ~R$ 177 mi de combustível pagos em out–nov/2021 e não considerados no processo anterior.",
+   "resumo_voto": "Apresentação técnica da SGT (André Neves). Parcela B atualizada pelo IPCA; parcela de ajuste de cerca de -R$ 428 mi; sem a inclusão dos R$ 177 mi a redução seria de 4,66%. Agnes pergunta sobre o ajuste de combustível; relator esclarece.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:17:49",
-     "justificativa": "Voto pela homologação da receita fixa e tarifa de Angra 1 e 2 para 2023, com ajuste dos valores de combustível nuclear efetivamente pagos.",
+     "ts": "0:13:30",
+     "justificativa": "Voto pela emissão de resolução homologatória com receita fixa de R$ 4,662 bi e tarifa de R$ 347,50/MWh; destaca a inclusão do pagamento de 2021 validado pela SFF.",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:17:52",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
+     "voto": "acompanha o relator",
+     "ts": "0:17:41",
+     "justificativa": "Antes pediu esclarecimento sobre os R$ 177 mi de combustível (parcela de ajuste); fala «eu acompanho» sem nome, atribuída pela ordem.",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:17:52",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:17:52",
-     "justificativa": "Votou por último acompanhando o relator e proclamou a unanimidade.",
+     "ts": "0:17:42",
+     "justificativa": "Fala curta «voto com [o relator]» sem nome; unanimidade proclamada.",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "9",
-   "ts": "0:18:41",
-   "processo": "48500.007804/2022-49 (número da legenda, incerto)",
-   "interessado": "CCEE; concessionárias de distribuição",
-   "assunto": "Orçamento anual da CDE 2023: abertura de consulta pública e cotas provisórias da CDE Uso a partir de janeiro de 2023",
+   "ts": "0:18:35",
+   "processo": "48500.007804/2022-49",
+   "interessado": "CCEE; distribuidoras e transmissoras (cotas CDE)",
+   "assunto": "Orçamento anual da CDE 2023: abertura de consulta pública e definição de cotas provisórias de CDE-Uso a partir de janeiro/2023",
    "tema": [
     "CDE e encargos setoriais",
-    "regulação normativa (consulta pública)"
+    "regulação normativa (consulta/audiência pública)",
+    "geração distribuída (MMGD)"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "aprovado por unanimidade, com inclusão de audiência pública",
-   "resumo_voto": "Consulta pública de 15/12/2022 a 27/01/2023 sobre o orçamento da CDE 2023 e cotas provisórias mensais; por sugestão do Diretor-Geral, acolhida pela relatora, incluída audiência pública. Debate sobre peso de CCC e fontes incentivadas (cerca de dois terços da CDE) e transparência.",
+   "resultado": "Aprovado por unanimidade: consulta pública por intercâmbio documental de 14/12/2022 a 27/01/2023, acrescida de audiência pública (data a definir), e cotas provisórias mensais de CDE-Uso (cerca de R$ 2,279 bi/mês, 1/12 de R$ 28,983 bi) até a aprovação definitiva.",
+   "resumo_voto": "Primeiro processo relatado por Agnes. Apresentação da SGT (André): orçamento total de ~R$ 33,4 bi; CDE-Uso estável; cotas -4,09%; novas rubricas CDE-Eletrobras (aporte de R$ 618 mi) e CDE-GD (R$ 702 mi, Lei 14.300); fontes incentivadas ~R$ 10 bi (≈30%). Hélvio propôs incluir audiência pública; a relatora concordou.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relator, aprova",
-     "ts": "1:24:10",
-     "justificativa": "Abertura de consulta pública do orçamento da CDE 2023 e aprovação provisória das cotas; acolheu a inclusão de audiência pública.",
+     "voto": "relatora, aprova (com inclusão de audiência pública)",
+     "ts": "1:11:30",
+     "justificativa": "Abertura de CP por 45 dias e cotas provisórias; voto descritivo, fechamento será mais analítico sobre distorções dos subsídios; acolhe a audiência pública para dar voz aos consumidores frente aos beneficiários de subsídios.",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "1:24:17",
-     "justificativa": "Acompanhou; destacou que a CDE é quase toda definida em lei e alertou para o peso crescente do encargo sobre o consumidor cativo com a expansão da GD e a abertura do mercado.",
+     "voto": "acompanha a relatora",
+     "ts": "1:24:07",
+     "justificativa": "Pouca discricionariedade, tudo definido em lei; alerta que a nova CDE-GD recai só sobre cativos, com peso maior na baixa tensão, e tende a onerar quem fica na distribuidora com a abertura de mercado e o crescimento da GD; cabe à agência apontar o gargalo (subsidiômetro).",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:24:20",
-     "justificativa": "Acompanhou a relatora (fala individual não identificada com segurança).",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "1:24:20",
-     "justificativa": "Acompanhou o voto da diretora Agnes; destacou que CCC e subsídio a fontes incentivadas somam cerca de dois terços da CDE e propôs audiência pública por transparência.",
-     "confianca": "media"
+     "voto": "acompanha a relatora e proclama",
+     "ts": "1:24:11",
+     "justificativa": "Destaca que CCC e fontes incentivadas somam cerca de 2/3 da CDE e que se subsidiam fontes que não precisariam mais de subsídio; baixa tensão é a mais onerada; propõe audiência pública para dar transparência ao consumidor.",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "10",
-   "ts": "1:25:34",
-   "processo": "48500.000598/2019 (número da legenda, incerto)",
-   "interessado": "Concessionárias de distribuição",
-   "assunto": "Segunda fase da Consulta Pública 62/2020: metodologia de custos operacionais regulatórios (Submódulos 2.2 e 2.2A do PRORET)",
+   "ts": "1:25:24",
+   "processo": "48500.000598/2019 (número incerto na legenda; o dispositivo é lido como «48.500 4924 2010 51»)",
+   "interessado": "Distribuidoras de energia elétrica (Abradee citada)",
+   "assunto": "Abertura da segunda fase da Consulta Pública 62/2020: revisão da metodologia de custos operacionais regulatórios (submódulos 2.2 e 2.2A do PRORET)",
    "tema": [
     "tarifas e revisão tarifária",
-    "regulação normativa (consulta pública)",
-    "distribuição"
+    "regulação normativa (consulta pública)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instauração da segunda fase da CP 62/2020 em duas etapas (45 dias, de 15/12/2022 a 30/01/2023, e etapa posterior só para manifestações sobre as contribuições). Elogios à regulação por incentivos e uso de dados.",
+   "resultado": "Aprovado por unanimidade: segunda fase da CP 62/2020 em duas etapas (15/12/2022–30/01/2023 e 31/01–14/02/2023).",
+   "resumo_voto": "Apresentação da SRM (Vítor): modelo DEA com nova base 2018–2020, limites de pesos por bootstrap (21 modelos), eficiência de referência de 79% para cerca de 86,85%, cálculo anual, condenações trabalhistas fora do repasse tarifário, compartilhamento a partir de 110%.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "2:00:33",
-     "justificativa": "Voto por instaurar a segunda fase da CP 62/2020 para aprimorar a metodologia de custos operacionais regulatórios.",
+     "ts": "1:59:36",
+     "justificativa": "Aperfeiçoamento da base de dados e da metodologia justifica nova fase; regulação por incentivos.",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:00:29",
+     "justificativa": "Antecipou concordância: tema complexo que afeta o caixa da distribuidora; desde 2019 muitas distribuidoras melhoraram eficiência; consulta pública é excelente.",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:02:31",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:02:31",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:02:31",
-     "justificativa": "Votou por último acompanhando o relator e proclamou a unanimidade.",
+     "ts": "2:02:26",
+     "justificativa": "Elogiou o uso de dados na regulação por incentivos e a consulta para captar a inteligência do setor; fala «eu acompanho o voto relator» sem nome, atribuição incerta.",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "11",
-   "ts": "2:03:59",
-   "processo": "48500.001167/2021 (número da legenda, incerto)",
-   "interessado": "ANEEL (institucional)",
-   "assunto": "Consulta pública para revisão da Norma de Organização ANEEL nº 40/2013 (Análise de Impacto Regulatório)",
+   "ts": "2:03:51",
+   "processo": "48500.001167/2021-16",
+   "interessado": "ANEEL (CTREG – Comissão Técnica de Apoio às Boas Práticas Regulatórias)",
+   "assunto": "Abertura de consulta pública sobre o relatório de AIR para revisão da Norma de Organização ANEEL nº 40/2013 (análise de impacto regulatório e ARR)",
    "tema": [
     "regulação normativa (AIR, consulta pública)",
     "institucional"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Consulta pública de 46 dias (15/12/2022 a 29/01/2023) sobre o relatório de AIR da revisão da NO 40/2013, em adequação ao Decreto 10.411/2020; Diretor-Geral destacou o pioneirismo da ANEEL em AIR.",
+   "resultado": "Aprovado por unanimidade: consulta pública por 46 dias, de 15/12/2022 a 29/01/2023.",
+   "resumo_voto": "Apresentação da CTREG (Telma): alternativa 2 (padronizar procedimentos e incentivar boas práticas) com melhor escore e menor custo (R$ 29 mi em 10 anos). Relator havia retirado de pauta na 41ª RPO para aprofundar a ARR; sugere chamar os custos de «investimentos».",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "2:23:23",
-     "justificativa": "Voto pela abertura de consulta pública sobre a revisão da norma de AIR.",
+     "voto": "relator, aprova e proclama",
+     "ts": "2:22:55",
+     "justificativa": "Voto pela instauração de CP de 46 dias; ANEEL foi precursora em AIR; custo deve ser visto como investimento na boa regulação.",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:32:55",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
-     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:32:55",
-     "justificativa": "Acompanhou o voto do relator; proclamação por unanimidade.",
+     "ts": "2:23:19",
+     "justificativa": "Elogia a comissão; ANEEL é referência em AIR entre as agências; resultado é difícil de mensurar financeiramente.",
      "confianca": "media"
     },
     {
-     "diretor": "Sandoval Feitosa",
+     "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:32:55",
-     "justificativa": "Votou por último acompanhando o relator e proclamou a unanimidade.",
+     "ts": "2:24:21",
+     "justificativa": "Elogia o processo participativo (oficinas de design) e destaca a importância da ARR; consulta pública trará mais ideias.",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "2:33:43",
+   "ts": "2:33:35",
    "processo": "48500.006837/2022-71",
-   "interessado": "Diamante Geração de Energia Ltda. (Complexo Termelétrico Jorge Lacerda); CCEE",
-   "assunto": "Requerimento administrativo com pedido de cautelar para reembolso pela CDE (CDE Carvão) do custo de combustível; desconstituição de recontabilização da CCEE; geração exportada",
+   "interessado": "Diamante Geração de Energia Ltda. (Complexo Termelétrico Jorge Lacerda, carvão mineral nacional)",
+   "assunto": "Requerimento administrativo com pedido de cautelar: reembolso pela CDE (CDE Carvão) do custo de combustível da geração destinada à exportação (Argentina) e anulação da recontabilização feita pela CCEE",
    "tema": [
     "CDE e encargos setoriais",
-    "recursos administrativos",
     "comercialização (CCEE)",
+    "recursos administrativos",
     "outorgas de geração (térmica a carvão)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "pedido de vista (Ricardo Tili); julgamento suspenso",
-   "resumo_voto": "Sustentação oral de Valéria de Souza Rosa (Diamante). Relator votou por determinar que a CCEE considere excepcionalmente o período anterior e que a parcela de geração exportada seja contabilizada para reembolso, se comprovado contrato. Agnes levantou dúvidas (subsídio a exportação, risco na OMC, ausência de decisão do Congresso); Ricardo discordou de que o consumidor subsidie produção exportada e pediu vista para evitar empate, dado o quórum reduzido.",
+   "resultado": "Pedido de vista de Ricardo Tili; deliberação não concluída. Voto do relator: a CCEE considera, excepcionalmente, a energia exportada no período anterior à decisão e a energia futura exportada apenas quando decorrente de contratos já celebrados; fora disso, sem reembolso pela CDE.",
+   "resumo_voto": "Sustentação oral de Valéria de Souza Rosa (Diamante): lei não restringe o reembolso pelo destino da energia; CCEE mudou entendimento retroativamente. Procurador Luiz Eduardo: interpretação restritiva conforme a Constituição (subsídio a exportação exigiria lei expressa), mas sem glosa do passado (confiança legítima). Relator acolhe essa linha e preserva contratos vigentes.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova (defere em parte)",
-     "ts": "3:17:34",
-     "justificativa": "Determina à CCEE considerar excepcionalmente o período anterior e contabilizar a geração exportada para reembolso pela CDE, desde que comprovados os contratos; entende que a lei de 2020 não restringiu.",
+     "voto": "relator, aprova (provimento parcial)",
+     "ts": "3:16:34",
+     "justificativa": "Consumidor brasileiro não deve subsidiar energia consumida no exterior; exportação é escolha econômica privada; por segurança jurídica não reprocessa 2020–2022 e reconhece contratos de exportação já celebrados, desde que apresentados à CCEE.",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (antes da vista; fala ambígua)",
+     "ts": "3:29:29",
+     "justificativa": "Concorda com a leitura finalística do procurador para o futuro; preserva o passado; preocupação com OMC, acessão à OCDE e subsídio a fóssil deslocando agentes de outro país. A fala «eu volto com relação» logo após «em votação» foi atribuída a ela pela ordem.",
+     "confianca": "baixa"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "pede vista",
-     "ts": "3:29:29",
-     "justificativa": "Discorda de que o consumidor de energia subsidie a produção exportada; pediu vista para trazer voto divergente na próxima reunião em vez de votar agora e empatar.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "não votou (vista)",
-     "ts": "3:29:29",
-     "justificativa": "Manifestou preocupações (subsídio a exportação, OMC, ausência de decisão do Congresso), mas não votou antes da vista.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "não votou (vista)",
-     "ts": "3:30:30",
-     "justificativa": "Não votou; concedeu vista ao diretor Ricardo.",
-     "confianca": "media"
+     "ts": "3:29:30",
+     "justificativa": "Discorda do procurador: a agência não pode restringir subsídio que a lei e o formulador da política não restringiram (paralelo com irrigante, alumínio, hidrogênio); concorda com a preservação do ato jurídico perfeito; pede vista por quórum baixo para trazer voto divergente na próxima reunião.",
+     "confianca": "media",
+     "tom": "firme, respeitoso"
     }
    ]
   },
   {
-   "id": "13",
-   "ts": "3:30:51",
+   "id": "1",
+   "ts": "3:30:28",
    "processo": "48500.004895/2021-80",
-   "interessado": "Companhia de Eletricidade do Amapá (CEA Equatorial); Conselho de Consumidores do Amapá",
-   "assunto": "Reajuste tarifário anual de 2022 da CEA a vigorar a partir de 13/12/2022",
+   "interessado": "Companhia de Eletricidade do Amapá – CEA (Equatorial Amapá); Conselho de Consumidores do Amapá",
+   "assunto": "Reajuste tarifário anual 2022 da CEA, a vigorar a partir de 13/12/2022",
    "tema": [
     "tarifas e revisão tarifária (distribuidoras, RTA)",
-    "distribuição"
+    "CDE e encargos setoriais"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Efeito médio de 36,08% (44,87% alta tensão; 33,29% baixa tensão), puxado pela retirada de componentes financeiros do processo de 2021 (29,82%). Sustentação oral de representante do Conselho de Consumidores do Amapá pedindo moderação e repasse de valores do apagão de 2020. Tentativas de mitigação junto ao governo e à distribuidora sem sucesso.",
+   "resultado": "Aprovado por unanimidade: efeito médio de 36,08% (44,87% alta tensão; 33,29% baixa tensão), mais TUSD/TE, DIT, repasses CDE e CCC.",
+   "resumo_voto": "Sustentação oral de José de Nazaré Pereira (Conselho de Consumidores do Amapá): não foram avisados; pedem repasse do saldo de ~R$ 26 mi da Lei 14.146 (apagão de 2020). SGT (Leonardo): retirada do financeiro de 24,08% diferido em 2021 pesa 29,82%; quitação de dívida antiga (~R$ 90 mi) no CVA; mitigações de -52,97% incluindo Coaraci Nunes e créditos de PIS/Cofins; CEA passa da 2ª tarifa mais baixa para a 15ª.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, aprova",
-     "ts": "4:11:22",
-     "justificativa": "Voto pela homologação do índice de reajuste; impacto decorre principalmente da retirada dos financeiros de 2021; esforços de mitigação não tiveram sucesso.",
+     "ts": "4:09:33",
+     "justificativa": "Pouca discricionariedade; diferimentos acumulados chegam na conta; esforço conjunto (PIS/Cofins antecipado, bandeiras); crédito extraordinário para o saldo de R$ 26 mi não foi obtido; ICMS (LC 194) ainda não aplicado pelo Estado; ANEEL não pode diferir por iniciativa própria.",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "4:29:40",
-     "justificativa": "Acompanhou o relator (fala individual não identificada com segurança).",
-     "confianca": "baixa"
+     "voto": "acompanha o relator",
+     "ts": "4:29:30",
+     "justificativa": "«É com muita dor no coração» que vota com o relator; diferir joga a dívida para frente remunerada pela Selic; tarifa segue a 2ª mais baixa do Norte; sugere sala virtual para conselhos de consumidores.",
+     "confianca": "media",
+     "tom": "pesaroso"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "4:29:40",
-     "justificativa": "Acompanhou o relator; registrou que votava com muita dor no coração (atribuição incerta).",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "4:29:42",
-     "justificativa": "Acompanhou o voto do relator, proclamou a unanimidade e lamentou que o conselho de consumidores não tenha sido avisado da deliberação.",
-     "confianca": "media"
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:29:34",
+     "justificativa": "Pouquíssima discricionariedade; processo deixado para o fim enquanto se tentava crédito extraordinário e ICMS; diferimento é bola de neve.",
+     "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [],
  "limites_da_analise": [
-  "Transcrição sem marcadores de tempo por fala; ts obtidos do JSON da legenda por busca de frases, aproximados.",
-  "Composição inferida: Sandoval, Hélvio Guerra, Agnes da Costa e Ricardo Tili; o cabeçalho cita Fernando Mosna, mas ele não fala nem vota e há menção a quórum que sugere 4 presentes; não incluído como presente (incerto).",
-  "Falas «acompanho» sem nome: atribuídas pela ordem usual e pela proclamação, confiança baixa/media.",
-  "Números de processo e valores vêm da legenda automática e podem estar errados.",
-  "Nome do representante do Conselho de Consumidores do Amapá na sustentação oral não identificado."
+  "Este vídeo é só a Parte 2 (tarde) da 47ª RPO; os itens anteriores (manhã) não estão aqui. O secretário cita 7 retirados no dia, sem identificá-los neste trecho.",
+  "Presença inferida pelas falas: Sandoval Feitosa e Fernando Mosna não falam nesta parte e são citados em terceira pessoa; o cabeçalho do .md (falantes inferidos) lista Sandoval e Mosna, mas não há fala atribuível a eles.",
+  "Votos de quem só acompanha: as falas «eu acompanho» não trazem nome; atribuição pela ordem (relator, demais, quem conduz por último). Ts aproximados.",
+  "Item 12: sequência «em votação / eu volto com relação / eu vou pedir visto» ambígua; atribuí «voto com o relator» a Agnes da Costa (baixa confiança) e o pedido de vista a Ricardo Tili (mesa: «vistas ao diretor Ricardo»).",
+  "Item 10: número do processo divergente entre a apregoação (48500.000598/2019) e o dispositivo lido; tratar como incerto.",
+  "Legenda automática: nomes como «Élvio guerra», «Ricardo Chile», «Agnes Costa», «Jácomo Francisco Almeida» (diretor substituto anterior), valores e percentuais podem ter erros (ex.: reajuste citado como 36,8% pelo conselho e 36,08% pela SGT)."
  ]
 }

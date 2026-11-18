@@ -1,182 +1,82 @@
 {
- "meta": {
-  "video_id": "otXqqijJTAM",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos de seguidores aproximados",
-  "versao_esquema": 1
- },
- "reuniao": {
-  "numero": "3",
-  "data": "2023-02-07",
-  "formato": "presencial com participação remota (Agnes da Costa)",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-  "diretores_presentes": [
-   "Sandoval Feitosa",
-   "Agnes da Costa",
-   "Hélvio Guerra",
-   "Ricardo Tili"
+  "meta": {"video_id": "otXqqijJTAM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2 da sessão, retomada após o almoço); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "3ª Reunião Pública Ordinária de 2023 (Parte 2)",
+    "data": "2023-02-07",
+    "formato": "presencial com participação remota (diretora Agnes da Costa por videoconferência)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Hélvio Guerra", "Ricardo Tili"],
+    "ausentes": ["Fernando Mosna (missão oficial fora do Brasil; deixou voto escrito no item da MMGD)"],
+    "observacoes": [
+      "Vídeo é a Parte 2 da 3ª RPO de 2023: o relator Hélvio Guerra retoma a leitura do voto sobre a regulamentação da Lei 14.300/2022 (MMGD) iniciada de manhã; as sustentações orais desse item (22 nesta reunião, 15 na 2ª RPO) ocorreram antes deste vídeo.",
+      "Três processos: (1) regulamentação da micro e minigeração distribuída (Lei 14.300), aprovada por unanimidade com determinação adicional proposta por Agnes da Costa; (2) PRORET submódulos 5.2, 7.1, 7.2 e 7.3 (aspectos econômicos da Lei 14.300/CDE), aprovado por unanimidade; (3) revisão da REN 696/2015 (segurança de barragens), retirado de pauta pelo relator após sete sustentações orais e manifestação da Procuradoria.",
+      "Agnes da Costa voltava de licença e participou remotamente.",
+      "Encerramento por volta das 18h (fala do Diretor-Geral)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1",
+      "ts": "0:00:04",
+      "processo": "48500.004924/2010-51 (número incerto pela legenda)",
+      "interessado": "SRD/ANEEL; requerimento administrativo com pedido de cautelar do INEL (Instituto Nacional de Energia Limpa); distribuidoras (ABRADEE), setor solar (ABSOLAR, Movimento Solar Livre), Frente Nacional dos Consumidores de Energia",
+      "assunto": "Resultado da Consulta Pública 51/2022: adequação dos regulamentos de micro e minigeração distribuída (alteração da REN 1000, resolução normativa e resolução homologatória) às disposições da Lei 14.300/2022 e do art. 1º da Lei 14.120/2021; e requerimento administrativo do INEL com pedido de cautelar para nova instrução",
+      "tema": ["geração distribuída (MMGD)", "regulação normativa (resolução, consulta pública)", "tarifas (TUSD fio B, custo de disponibilidade)", "distribuição (conexão, prazos)", "recursos administrativos"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade (requerimento do INEL conhecido e indeferido no mérito; cautelar prejudicada); incluída determinação sugerida por Agnes da Costa",
+      "resumo_voto": "Relator conclui leitura do voto: armazenamento não retira enquadramento GD1, mas aumento de potência à revelia sim; prazo de conexão do art. 26 fica suspenso quando a obra da distribuidora excede os prazos legais; geração remota não pode optar pelo faturamento grupo B (art. 11 §1º); sem direito adquirido a regras de faturamento futuras; vedação de divisão de central geradora com repositório de casos concretos; sem intervalo mínimo para alterar integrantes da geração compartilhada; custo de disponibilidade como faturamento mínimo (art. 16, com parecer da Procuradoria); cobrança pelo uso da rede para injeção também para microgeradores (art. 18, parecer da Procuradoria: isenção seria ilegal); prazo até 1º/07/2023 para distribuidoras se adaptarem. Determinações à SRD em 180 dias: estudar rastreabilidade/qualidade de módulos fotovoltaicos; dar publicidade aos casos de vedação à divisão; e (proposta de Agnes, acatada) avaliar necessidade de comandos para aplicar o art. 28 da Lei 14.300 (consumo próprio). Sandoval sugeriu prazo de 180 dias para as determinações. Esclarecimento técnico (Davi, SRD) de que não há cobrança dupla: paga-se o maior entre (compensação fio B + consumo não compensado) e o custo de disponibilidade; relator ajustará a redação. Bárbara (setor solar) pediu que a redação deixe isso explícito.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "1:50:10", "justificativa": "regulamentação limitada ao que a Lei 14.300 prescreve; pareceres da Procuradoria afastam isenção de microgeradores e cobrança dupla; busca de equilíbrio entre agentes; requerimento do INEL não aponta ilegalidades", "tom": "conciliador; agradece interlocutores (Bárbara, Ricardo Costa, Rosemeire, Ricardo Brandão)", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:40:11", "justificativa": "não há cobrança dupla: paga-se a parcela do fio B ou o custo de disponibilidade; interpretação diversa aumentaria o subsídio contra o espírito da lei de redução progressiva; acompanha a área técnica na cobrança de demanda de injeção, que atinge sobretudo geração compartilhada no grupo B", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação), com proposta de determinação acatada", "ts": "2:40:11", "justificativa": "propôs determinar à SRD avaliar comandos regulatórios para aplicar o art. 28 da Lei 14.300 (MMGD como produção para consumo próprio); preocupação com quem se beneficia da GD sem pagar custos que gera; troca de medidores e proteção dos pequenos devem ser tratados em fóruns próprios (agenda regulatória)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:40:14", "justificativa": "lei muito prescritiva; a ANEEL deve cumprir o que está na lei (mudança da cobrança ao microgerador exige alterar a lei); apoia proposta de Agnes e grupo de trabalho sobre registro/rastreabilidade de placas", "tom": "institucional; elogia o relator e as áreas técnicas", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "voto deixado (lido por Sandoval Feitosa): acompanha integralmente o relator", "ts": "2:16:07", "justificativa": "relevância da regulamentação; 829 contribuições da CP 51 analisadas; fecha ciclo iniciado com a REN 482 e o PL 5829/2019. Ausente; poderia ratificar a complementação de Agnes em até 48 h", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2",
+      "ts": "2:42:54",
+      "processo": "48500.004390/2022-04",
+      "interessado": "SGT/ANEEL; distribuidoras; CCEE (CDE)",
+      "assunto": "Resultado da Consulta Pública 50/2022: alteração dos submódulos 5.2, 7.1, 7.2 e 7.3 do PRORET para regulamentar os aspectos econômicos da Lei 14.300/2022 (custeio do benefício tarifário da MMGD via CDE e efeitos nos processos tarifários)",
+      "tema": ["CDE e encargos setoriais", "tarifas e revisão tarifária (PRORET)", "geração distribuída (MMGD)", "regulação normativa (consulta pública)"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por unanimidade, com vigência a partir da publicação e determinação à SGT com prazo até o fim de 2023",
+      "resumo_voto": "Relatora (processo redistribuído após fim do mandato do relator anterior) acompanha a SGT: altera os submódulos do PRORET conforme minutas; vigência na publicação por urgência (orçamento da CDE 2023); determina à SGT avaliar conveniência, oportunidade e forma de implementar o §2º do art. 10 do Decreto 9.022/2017 para segregar as cotas da CDE dos demais componentes tarifários, evitando descasamentos financeiros. Sandoval sugeriu prazo para a determinação (até o final do ano, conforme a SGT).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relator, aprova", "ts": "3:04:00", "justificativa": "regulamentação adequada para operacionalizar o novo sistema de compensação; alocação do benefício na CDE dá transparência à política pública; urgência pelo orçamento da CDE 2023", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "3:05:50", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "3:05:50", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:05:53", "justificativa": "sugeriu prazo para a determinação à SGT para controle pela auditoria interna", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "3",
+      "ts": "3:06:45",
+      "processo": "48500.002920/2015-42 (número incerto pela legenda)",
+      "interessado": "SRG/SFG; geradoras hidrelétricas: ABRAGEL, APINE, ABRAGE, ABIAPE, Brasil PCH, Helena/Electra Renováveis (nome incerto), escritório Bajo Costa Filho (nome incerto)",
+      "assunto": "Resultado da Consulta Pública 82/2021: revisão da REN 696/2015 (critérios e ações de segurança de barragens fiscalizadas pela ANEEL) em função da Lei 14.066/2020 e do Decreto 11.310/2022",
+      "tema": ["segurança de barragens", "regulação normativa (consulta pública)", "fiscalização e sanções (multa, dosimetria)", "outorgas de geração (hidrelétrica, PCH)"],
+      "relator": "Hélvio Guerra",
+      "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Sete sustentações orais (5 minutos cada, fixados pela presidência): Charles Lenzi e Isabela Ramagem (ABRAGEL), Josiane Napolitano (APINE), Liz Rizzo (escritório contratado pelas associações), Milena Fagundes e Gilberto José (ABRAGE), Júlia Varela Raposo (grupo de renováveis), Fabiano Mafra Siqueira (Brasil PCH), Paulo André da Silva (ABIAPE). Pedidos: advertência prévia obrigatória (art. 53), respeito ao teto de 2% da Lei 9.427 até decreto regulamentar o art. 17-E, percentuais 'até' para dosimetria, tipos infracionais mais claros, transição de dois anos; subsidiariamente, retirada de pauta. Procurador-Geral Luís Eduardo disse que os pareceres foram anteriores ao Decreto 11.310 e pediu prazo até o fim da semana. Relator ponderou que multas precisam ser duras (Brumadinho) mas, diante da unanimidade dos pedidos, retirou o processo de pauta.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, retira de pauta", "ts": "3:57:22", "justificativa": "todas as sustentações e a Procuradoria pediram a retirada; segurança de barragens envolve vidas, multa de até 1 bilhão pode não indenizar danos", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (retirado de pauta)", "ts": "3:57:40", "justificativa": "comentou que causa estranheza fixar penalidades por comando de lei e decreto e não na resolução ordinária da agência; considerou ponderada a decisão do relator", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (retirado de pauta)", "ts": "3:57:22", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (retirado de pauta)", "ts": "3:57:22", "confianca": "media"}
+      ]
+    }
   ],
-  "ausentes": [
-   "Fernando Mosna (missão oficial no exterior; voto escrito no item 1)"
+  "retirados": [
+    {"item": "3 — revisão da REN 696/2015, segurança de barragens (CP 82/2021)", "relator": "Hélvio Guerra", "motivo": "pedidos de retirada em todas as sustentações orais e da Procuradoria (pareceres anteriores ao Decreto 11.310/2022), sobretudo quanto a penalidades e transição", "ts": "3:57:22"}
   ],
-  "observacoes": [
-   "Parte 2 da 3ª Reunião Pública Ordinária de 2023 (retomada à tarde); a parte 1 está em outro vídeo.",
-   "Item 1 (MMGD/Lei 14.300) aprovado por unanimidade com sugestão de Agnes; item 2 (PRORET) unânime; item 3 (segurança de barragens) retirado de pauta pelo relator.",
-   "Encerramento por volta das 18h."
+  "limites_da_analise": [
+    "Vídeo é só a Parte 2 da reunião; as sustentações orais e o início do voto do item 1 estão na Parte 1 (outro vídeo).",
+    "Legenda automática em bloco único sem separação de falantes: atribuição de falas inferida por contexto (vocativos e menções como 'diretor Tili', 'diretora Agnes').",
+    "Item 1: na votação a legenda registra 'eu volto [voto] com relator eu acompanho brilhante voto do relator' antes da fala de Sandoval; atribuído a Tili e Agnes sem identificação nominal (confiança media). Fernando Mosna, ausente, teve voto escrito lido pelo Diretor-Geral, sem ainda contemplar a complementação de Agnes.",
+    "Item 2: só duas falas de 'acompanho' antes da proclamação (uma delas do Diretor-Geral); o voto de um entre Hélvio Guerra e Ricardo Tili não é audível; registrados pela proclamação de unanimidade (confiança baixa). Fernando Mosna ausente e sem voto escrito mencionado neste item.",
+    "Números de processo dos itens 1 e 3 reconstruídos da legenda ('48.500 49 24 2010 51' e '48.500 29 20 2015 dígito 42'): podem estar errados.",
+    "Nomes de expositores e de entidades (Bajo Costa Filho, Helena Renováveis, Bárbara, Ricardo Costa) vêm da legenda e podem estar distorcidos."
   ]
- },
- "itens": [
-  {
-   "id": "1",
-   "ts": "0:00:04",
-   "processo": "48500.004924/2010-51 (legenda incerta)",
-   "interessado": "INEL – Instituto Nacional de Energia Limpa (requerimento administrativo com cautelar); setor de micro e minigeração distribuída; sustentações orais (ex.: Bárbara) na parte 1",
-   "assunto": "Resultado da consulta pública sobre adequação dos regulamentos de micro e minigeração distribuída (MMGD) à Lei 14.300/2022 e art. 1º da Lei 14.120/2021; requerimento administrativo do INEL",
-   "tema": [
-    "geração distribuída (MMGD)",
-    "regulação normativa (resolução, consulta/audiência pública)",
-    "recursos administrativos"
-   ],
-   "relator": "Hélvio Guerra",
-   "resultado": "Aprovado por unanimidade dos presentes: conhecer e negar provimento ao requerimento do INEL; aprovar resolução homologatória e normativa; determinações à SRD (180 dias: rastreabilidade de módulos fotovoltaicos, publicidade de entendimentos sobre divisão de centrais geradoras) e, por sugestão de Agnes da Costa acatada pelo relator, avaliar comandos para aplicação do art. 28 da Lei 14.300 (consumo próprio)",
-   "resumo_voto": "Continuação da leitura do voto iniciada na parte 1. Relator conclui que alegações não são ilegalidades, indefere o INEL e aprova as normas. Debate: diretor (provavelmente Ricardo Tili) defende que não há dupla cobrança Fio B/disponibilidade; Agnes propõe determinação sobre art. 28; Sandoval defende a regulamentação e lê o voto escrito de Fernando Mosna (ausente, em missão oficial), que acompanha integralmente.",
-   "votos": [
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "1:50:25",
-     "justificativa": "Alegações do INEL não configuram ilegalidade; aprova resoluções e acata sugestão de Agnes.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação), com proposta de determinação acatada",
-     "ts": "2:02:46",
-     "justificativa": "Propõe que a SRD avalie comandos regulatórios para aplicação do art. 28 da Lei 14.300 (consumo próprio); questões de pequenos x grandes grupos devem ir a fóruns próprios.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:40:07",
-     "justificativa": "Fala (atribuição provável) de que o espírito da lei é redução progressiva do subsídio e não há dupla cobrança Fio B e disponibilidade.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "2:40:22",
-     "justificativa": "Anel ouviu áreas técnicas, diretores e procuradoria; divergência pode ir ao recurso ou Judiciário; «lei não se discute, lei se cumpre».",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "voto deixado (lido por Sandoval Feitosa)",
-     "ts": "2:16:13",
-     "justificativa": "Ausente em missão oficial; voto escrito acompanhando integralmente o relator, com faculdade de ratificar em 48 h a complementação de Agnes.",
-     "confianca": "alta"
-    }
-   ]
-  },
-  {
-   "id": "2",
-   "ts": "2:43:00",
-   "processo": "48500.004390/2022-04",
-   "interessado": "distribuidoras e consumidores (aspectos tarifários da MMGD)",
-   "assunto": "Resultado da Consulta Pública 50/2022: alteração dos submódulos 5.2, 7.1, 7.2 e 7.3 do PRORET para aspectos econômicos da Lei 14.300/2022",
-   "tema": [
-    "tarifas e revisão tarifária",
-    "geração distribuída (MMGD)",
-    "CDE e encargos setoriais",
-    "regulação normativa (resolução, consulta/audiência pública)"
-   ],
-   "relator": "Agnes da Costa",
-   "resultado": "Aprovado por unanimidade: altera submódulos 5.2, 7.1, 7.2, 7.3 do PRORET; determina à SGT avaliar até o fim do ano a segregação das cotas da CDE (Decreto 9.022/2017, art. 10 §2º)",
-   "resumo_voto": "Relatora alinha com o orçamento da CDE 2023; vigência a partir da publicação. Prazo da determinação à SGT ajustado para o final do ano por sugestão do superintendente Davi.",
-   "votos": [
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "relator, aprova",
-     "ts": "3:04:09",
-     "justificativa": "Regulamenta aspectos econômicos da Lei 14.300; vigência a partir da publicação.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "3:05:52",
-     "justificativa": "Acompanha o voto da relatora (falante sem nome; atribuição pela ordem).",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:05:52",
-     "justificativa": "Sem fala individual identificada.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "3:05:57",
-     "justificativa": "Acompanha e declara a unanimidade.",
-     "confianca": "alta"
-    }
-   ]
-  },
-  {
-   "id": "3",
-   "ts": "3:06:53",
-   "processo": "48500.002920/2015-42 (legenda incerta)",
-   "interessado": "geradoras hidrelétricas; sustentações orais de ABRAGEL, ABIAPE, ABRAPCH e outras associações (Paulo André, Fabiano, Alice, Charles, Isabela, Josiane, Milena, Júlia)",
-   "assunto": "Resultado da Consulta Pública 82/2021: revisão da REN 696/2015 (segurança de barragens fiscalizadas pela ANEEL) em função da Lei 14.066/2020",
-   "tema": [
-    "fiscalização e sanções (multa)",
-    "outorgas de geração (hidrelétrica)",
-    "regulação normativa (resolução, consulta/audiência pública)"
-   ],
-   "relator": "Hélvio Guerra",
-   "resultado": "Retirado de pauta pelo relator após sete sustentações orais e manifestação da Procuradoria (que pediu tempo para analisar o Decreto 11.310/2022)",
-   "resumo_voto": "Associações pediram revisão das penalidades (multas até R$ 1 bilhão / percentuais de faturamento) e regras de transição ou retirada de pauta; o procurador-geral disse não estar confortável sem analisar o decreto. Relator defendeu multas duras por segurança da vida (Brumadinho), mas retirou o processo.",
-   "votos": [
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "retirado de pauta pelo relator",
-     "ts": "3:57:22",
-     "justificativa": "«considerando essa unanimidade eu vou acompanhar o unanimidade e vou retirar o processo da pauta»; multa precisa ser dura para proteger pessoas.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "não votou (retirado)",
-     "ts": "3:57:22",
-     "justificativa": "Item retirado sem votação.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "não votou (retirado)",
-     "ts": "3:57:22",
-     "justificativa": "Item retirado sem votação.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "não votou (retirado)",
-     "ts": "3:57:30",
-     "justificativa": "Comenta a estranheza de fixar penalidades por lei/decreto e não em resolução ordinária.",
-     "confianca": "alta"
-    }
-   ]
-  }
- ],
- "retirados": [
-  "3 – 48500.002920/2015-42 (segurança de barragens, REN 696/2015), retirado pelo relator Hélvio Guerra"
- ],
- "limites_da_analise": [
-  "Ludimila Lima não é mencionada como presente; tratada como não presente nesta parte (não confirmado).",
-  "Fala em 1:51–1:58 (Fio B x disponibilidade) sem nome; atribuída provavelmente a Ricardo Tili, confiança baixa.",
-  "Números de processo vêm da legenda automática e podem estar errados.",
-  "Item 1 começou na parte 1 (leitura do voto e sustentações orais não estão neste vídeo).",
-  "No item 2, as falas 'acompanho' não têm nome; Ricardo Tili registrado pela proclamação de unanimidade."
- ]
 }

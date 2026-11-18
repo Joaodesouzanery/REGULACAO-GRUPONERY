@@ -1,241 +1,278 @@
 {
  "meta": {
   "video_id": "rfP1C674eNM",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "34ª Reunião Pública Ordinária (parte 2)",
+  "numero": "34ª Reunião Pública Ordinária de 2023 (Parte 2, sessão da tarde)",
   "data": "2023-09-19",
-  "formato": "presencial",
-  "presidente_da_sessao": "Hélvio Guerra (inferido)",
+  "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
-   "Hélvio Guerra",
+   "Sandoval Feitosa",
    "Agnes da Costa",
-   "Ricardo Tili",
-   "Fernando Mosna"
+   "Fernando Mosna",
+   "Hélvio Guerra",
+   "Ricardo Tili"
   ],
-  "ausentes": [
-   "Sandoval Feitosa (inferido; não citado)"
-  ],
+  "ausentes": [],
   "observacoes": [
-   "Parte 2 da 34ª RPO; item 24 retirado a pedido do relator; inversão de pauta.",
-   "Dois votos-vista de Agnes da Costa (itens 15 e São Francisco) acolhidos, com debate de procedimento sobre voto-vista."
+   "Retomada da 34ª RPO de 19/09/2023 (parte 2). Secretário-geral: Daniel Dana.",
+   "Item 24 retirado de pauta a pedido do relator; inversão da ordem, começando pelo item 6.",
+   "Dois votos-vista de Agnes da Costa (item 15, relator original Hélvio Guerra; e requerimento da São Francisco Energia, relator original Ricardo Tili) geraram debate sobre o rito do voto-vista (art. 24, §6º da Norma de Organização 18): se o relator original incorpora o voto-vista ou se se vota o voto-vista. Nos dois casos os relatores originais acompanharam o voto-vista, que prevaleceu.",
+   "Sustentação oral no item 15: Vladimir (sobrenome incerto na legenda), representante da Hidrelétrica Médio Norte.",
+   "Hélvio Guerra não é citado no agradecimento final do Diretor-Geral (2:13:36), que nomeia só Agnes, Ricardo e Fernando: provável saída antes do último item.",
+   "Todos os itens deliberados por unanimidade ou sem divergência registrada."
   ]
  },
  "itens": [
   {
    "id": "6",
-   "ts": "0:00:30",
+   "ts": "0:00:32",
    "processo": "48500.002905/2014-13 e 48500.003180/2020-29",
-   "interessado": "Santo Antônio do Pinhal Energia Elétrica Ltda (recorrente); Aziana Serviços Corporativos Eireli (interessada); UHE Santo Antônio, rio Chapecó (SC)",
-   "assunto": "Recurso administrativo contra o Despacho 551/2021 (SCG) que revogou o Despacho 1772/2014 e tornou inativo o registro para EVTE da UHE Santo Antônio; pedido de reenquadramento para 40 MW",
+   "interessado": "Santo Antônio do Pinhal Energia Elétrica Ltda. (recorrente); Aziana Serviços Corporativos Eireli (interessada)",
+   "assunto": "Recurso administrativo contra o Despacho 551/2021 (SCG), que revogou o Despacho 1.772/2014 e tornou inativo o registro para estudos de viabilidade (EVTE) da UHE Santo Antônio (Rio Chapecó, SC; 84,3 MW no inventário); pedido de reenquadramento para 40 MW",
    "tema": [
     "outorgas de geração (hidrelétrica)",
     "recursos administrativos",
     "licenciamento ambiental"
    ],
    "relator": "Fernando Mosna",
-   "resultado": "conhecido e parcialmente provido, por unanimidade",
-   "resumo_voto": "Restabelece o registro da Santo Antônio do Pinhal (Despacho 1772/2014), mantém o registro da Aziana (Despacho 1033/2021), indefere o reenquadramento para 40 MW e abre 120 dias para ambas apresentarem novos estudos com cota de montante de 305 m, conforme ofício do IMA/SC (fato superveniente); manutenção do registro condicionada à entrega no prazo.",
+   "resultado": "aprovado por unanimidade: recurso conhecido e parcialmente provido",
+   "resumo_voto": "Revoga o Despacho 551/2021 e restabelece o registro da Santo Antônio do Pinhal; mantém o registro da Aziana; indefere o reenquadramento como UHE de 40 MW; dá 120 dias às duas empresas para novos estudos com nível de montante na cota 305 m (exigência do IMA-SC, Ofício de 19/06/2023), modelo SUISHI do Cepel, série de vazões desde 1931 e vazão ecológica Q7,10; manutenção do registro condicionada à entrega no prazo.",
    "votos": [
     {
      "diretor": "Fernando Mosna",
      "voto": "relator, dá parcial provimento",
-     "ts": "0:05:00",
-     "confianca": "alta",
-     "justificativa": "fato superveniente do IMA/SC exige cota 305 m; reenquadramento com premissas inadequadas não aprovado"
+     "ts": "0:25:28",
+     "justificativa": "fato superveniente: o órgão ambiental de SC só admite a alternativa com cota 305 m; o licenciamento é condição prévia, então as empresas devem poder reapresentar estudos; o reenquadramento para 40 MW não se sustenta pelas premissas e critérios de motorização apresentados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "0:30:30",
+     "justificativa": "no debate, alertou para o cuidado com usinas abaixo de 50 MW (autorizadas, sem licitação), lembrando o histórico das PCHs; perguntou se os 40 MW eram só indicativos (no item 15 refere-se a essa fala como sua)",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "0:30:30",
-     "confianca": "media",
-     "justificativa": "elogiou a solução ponderada do voto"
+     "ts": "0:30:31",
+     "justificativa": "elogios ao voto ponderado no debate (falante não identificado com certeza)",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
      "ts": "0:30:32",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
+     "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator e proclama",
      "ts": "0:30:35",
-     "confianca": "media",
-     "justificativa": "alertou para usinas no limite de 50 MW (autorização x licitação); perguntou sobre a potência indicativa"
+     "justificativa": "proclamou o resultado por unanimidade",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "15",
-   "ts": "0:32:58",
-   "processo": "48500.000828/2010-33",
-   "interessado": "Hidrelétrica Médio Norte Ltda; PCH Salto do Sapo Parecis",
-   "assunto": "Recurso administrativo contra o Despacho 2875/2022 (SCG) que revogou despachos de registro/projeto básico da PCH Salto do Sapo Parecis e a excluiu da partição de quedas; voto-vista da diretora Agnes; sustentação oral",
+   "ts": "0:32:54",
+   "processo": "48500.000828/2010-33 (número incerto)",
+   "interessado": "Hidrelétrica Médio Norte Ltda.",
+   "assunto": "Recurso administrativo contra o Despacho 2.875/2022 (SCG), que revogou os Despachos 1.974/2010, 1.899/2012 e 3.199/2015 quanto à PCH Salto do Sapo Parecis e a excluiu da partição de quedas; voto-vista de Agnes da Costa sobre a potência (5.200 kW, PCH, vs. 4.400 kW, CGH)",
    "tema": [
-    "outorgas de geração (PCH)",
+    "outorgas de geração (PCH/CGH)",
     "recursos administrativos",
     "voto-vista"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "provido por unanimidade, nos termos do voto-vista de Agnes da Costa (relator retirou seu voto e aderiu)",
-   "resumo_voto": "Restabelece os Despachos 1974/2010, 1899/2012 e 3199/2015 e encaminha à SCE para emissão do DRS-PCH do projeto básico revisado com 5.200 kW; voto-vista retirou do dispositivo 3 a exigência de nova série de vazões, já validada pela área técnica. Sustentação oral de Vladimir (sobrenome incerto) pela Médio Norte. Debate de procedimento sobre voto-vista x voto do relator.",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista de Agnes da Costa: recurso conhecido e provido",
+   "resumo_voto": "Restabelece os efeitos dos despachos de 2010, 2012 e 2015 e encaminha à SCE para emitir o DRS-PCH do projeto básico revisado da PCH Salto do Sapo Parecis com 5.200 kW. O voto-vista seguiu o relator, mudando só o dispositivo 3: retirou a exigência de nova série de vazões, já validada pela área técnica depois do voto original (10/04/2023). Sustentação oral da empresa (Vladimir, sobrenome incerto) a favor do voto-vista.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "voto-vista vencedor",
-     "ts": "0:45:20",
-     "confianca": "alta",
-     "justificativa": "área técnica confirmou que 5.200 kW maximiza ganho energético e validou a série de vazões; alterou só o dispositivo 3"
+     "voto": "voto-vista vencedor, dá provimento",
+     "ts": "0:44:51",
+     "justificativa": "a área técnica (SCE) confirmou que 5.200 kW maximiza o ganho energético para qualquer série de vazões e validou a série da empresa; o risco de garantia física não confirmada é coberto por penalidades (compra ao PLD, exclusão do MRE)",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator; retirou o voto e acompanha o voto-vista",
-     "ts": "0:59:50",
-     "confianca": "alta",
-     "justificativa": "complementação técnica veio depois do seu voto de 10/04/2023; concorda no mérito; cautela na fronteira de 5/30/50 MW"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o voto-vista",
-     "ts": "1:02:50",
-     "confianca": "media",
-     "justificativa": "levantou questão de procedimento sobre quem conduz o voto"
+     "voto": "relator original; retira o voto e acompanha o voto-vista",
+     "ts": "0:59:51",
+     "justificativa": "concorda no mérito (o complemento técnico de 25/04 é posterior ao seu voto de 10/04); defende rito padronizado para o voto-vista e a cautela nas fronteiras de 5, 30 e 50 MW (a usina acima de 5 MW tem direito a declaração de utilidade pública)",
+     "tom": "institucional/procedimental",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o voto-vista",
+     "ts": "1:02:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:02:52",
+     "justificativa": "no debate, pediu esclarecimento por questão de ordem sobre qual voto seria apreciado (atribuição provável)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a proposta do voto-vista e proclama",
      "ts": "1:02:53",
-     "confianca": "baixa"
+     "justificativa": "conduziu o debate sobre o rito do art. 24, §6º da NO 18",
+     "confianca": "alta"
     }
    ]
   },
   {
-   "id": "não informado (São Francisco Energia)",
-   "ts": "1:03:51",
-   "processo": "48500.009039/2022-00",
-   "interessado": "São Francisco Energia S.A.; UTE Bahia 1 (atual Camaçari/Curumim, nome incerto); 24 distribuidoras compradoras; Coelba",
-   "assunto": "Requerimento de rescisão amigável dos CCEARs da UTE Bahia 1; voto-vista de Agnes da Costa",
+   "id": "s/n-SaoFrancisco",
+   "ts": "1:03:59",
+   "processo": "48500.009039/2022-00 (número incerto)",
+   "interessado": "São Francisco Energia S.A. (UTE Bahia 1, atual UTE Curumim, a óleo combustível, 3 x 10,6 MW); Coelba e as 24 distribuidoras compradoras",
+   "assunto": "Requerimento de rescisão amigável dos CCEARs da UTE Bahia 1, sem multas rescisórias; voto-vista de Agnes da Costa (relator original Ricardo Tili). Nº do item na pauta não ouvido",
    "tema": [
-    "comercialização (CCEAR)",
+    "comercialização (CCEAR, contratos regulados)",
     "outorgas de geração (térmica)",
     "voto-vista"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "parcialmente provido por unanimidade, nos termos do voto-vista ajustado (sem o item 3)",
-   "resumo_voto": "Autoriza acordos bilaterais de rescisão amigável dos CCEARs sem multas rescisórias; declara perda de objeto do pedido de homologação (art. 108 §10 REN 1009/2022); item 3 do voto-vista (determinação de pedido de alteração/revogação de outorga) retirado após debate. Compradoras consultadas manifestaram interesse; rescisão vantajosa ao ACR.",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista de Agnes da Costa (reformulado na sessão): parcial provimento",
+   "resumo_voto": "Autoriza as partes a celebrar acordos bilaterais de rescisão amigável dos CCEARs da UTE Bahia 1 sem as multas rescisórias; declara a perda de objeto do pedido de homologação dos acordos (art. 108, §10 da REN 1.009/2022). No debate, Agnes retirou o item 3 do dispositivo (determinar que a empresa peça em processo próprio a alteração de características técnicas ou a revogação da outorga), a pedido de Ricardo Tili; a dispensa ficou restrita à multa rescisória, e não a penalidades genéricas.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "voto-vista vencedor (reformulado)",
-     "ts": "1:04:20",
-     "confianca": "alta",
-     "justificativa": "consulta às compradoras mostrou vantagem ao consumidor; regulador não deve autorizar rescisão sem ouvir compradores"
+     "voto": "voto-vista vencedor, dá parcial provimento",
+     "ts": "1:04:35",
+     "justificativa": "consultou as 24 compradoras, que concordaram; SRM e STR confirmaram que a rescisão é vantajosa para os consumidores do ACR em qualquer cenário de PLD (CVU muito acima do PLD máximo); não cabe ao regulador rescindir contrato privado sem ouvir o comprador; o pedido de homologação não cabe pela REN 1.009",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator; acompanha o voto-vista com as alterações",
-     "ts": "1:28:05",
-     "confianca": "alta",
-     "justificativa": "ressalva sobre autoria do voto quando vista muda pouco; não cabe projetar o que o empreendedor fará com a outorga"
+     "voto": "relator original; acompanha o voto-vista com os ajustes",
+     "ts": "1:28:11",
+     "justificativa": "o mérito coincide com o seu voto; foi contra o item 3 (o destino da outorga é faculdade do empreendedor); registrou preocupação com o relator que, pedindo vista e mudando pouco, passa a ter a autoria do voto",
+     "tom": "institucional/procedimental",
+     "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o voto-vista",
      "ts": "1:29:12",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "acompanha o voto-vista e proclama",
+     "voto": "acompanha o voto-vista",
      "ts": "1:29:15",
+     "justificativa": "atribuição pela ordem de votação; fala sem nome",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha e proclama",
+     "ts": "1:29:16",
+     "justificativa": "proclamou o resultado por unanimidade; abriu a votação pelo relator original",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "s/n-PEQui",
+   "ts": "1:30:19",
+   "processo": "48500.008730/2022 (número incerto)",
+   "interessado": "Setor elétrico (empresas obrigadas ao PDI, Lei 9.991/2000); contribuições do Instituto Abradee/Abrate (nome incerto), AIE e outros",
+   "assunto": "Resultado da Consulta Pública 12/2023: Plano Estratégico de Inovação (PEQui) 2024–2028 e revisão dos módulos 1 a 7 do PROPDI. Nº do item na pauta não ouvido",
+   "tema": [
+    "regulação normativa (resolução, consulta pública)",
+    "P&D e inovação (PDI)",
+    "transição energética"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a REN que revisa os módulos 1 a 7 do PROPDI (revoga as versões da REN 1.045/2022 e a revisão 1 do módulo 1 do PROPEE, REN 929/2021) e aprova o PEQui 2024–2028 com 7 temas estratégicos. Depois de retirado de pauta em 22/08/2023, foram incluídos fissão e fusão nuclear (sugestão de Fernando Mosna), a transmissão como tema estratégico (pedido do instituto da transmissão) e os chamados estratégicos da ANEEL como temas estratégicos.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova",
+     "ts": "1:40:36",
+     "justificativa": "transição energética justa e inclusiva como pilar; tema de modernização e modicidade tarifária; mais de 1.600 contribuições analisadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:52:50",
+     "justificativa": "no debate, elogiou o trabalho de acomodar as ponderações; o plano de 5 anos dá previsibilidade (cita relatório da AIE)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:52:51",
+     "justificativa": "no debate, agradeceu a inclusão da energia nuclear (grupo de fissão e fusão no tema 5, eletricidade de baixo carbono)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:52:52",
+     "justificativa": "Ricardo se dirige a ele no início do item, mas o voto não é ouvido; presença no fim do item incerta",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:52:53",
+     "justificativa": "no debate (atribuição provável), perguntou se o item 7.12 (modernização e regulação tarifária) não se sobrepõe ao sandbox tarifário em curso; pediu atenção da STE para não duplicar recursos",
      "confianca": "media"
     }
    ]
   },
   {
-   "id": "não informado (PEQUI)",
-   "ts": "1:30:00",
-   "processo": "48500.008730/2022",
-   "interessado": "STE/SPE; setor elétrico (PDI)",
-   "assunto": "Resultado da Consulta Pública 12/2023: revisão dos módulos 1 a 7 do PROPDI e aprovação do Plano Estratégico Quinquenal de Inovação (PEQUI) 2024-2028",
-   "tema": [
-    "regulação normativa (consulta pública)",
-    "P&D e inovação"
-   ],
-   "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Aprova REN com revisão dos módulos do PROPDI e o PEQUI 2024-2028; incluiu energia nuclear (fissão/fusão) a pedido de Fernando Mosna, transmissão (pedido Abrate) e chamadas estratégicas da ANEEL como temas estratégicos.",
-   "votos": [
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "relator, aprova",
-     "ts": "1:33:00",
-     "confianca": "alta",
-     "justificativa": "transição energética justa como pilar; mais de 1.600 contribuições"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "1:52:50",
-     "confianca": "media",
-     "justificativa": "elogiou acomodação das ponderações"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "1:52:50",
-     "confianca": "media",
-     "justificativa": "agradeceu inclusão do tema nuclear"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator e declara",
-     "ts": "1:52:52",
-     "confianca": "media",
-     "justificativa": "dúvida sobre sobreposição do tema 7.12 com sandbox tarifário em curso"
-    }
-   ]
-  },
-  {
    "id": "8",
-   "ts": "1:54:22",
+   "ts": "1:54:28",
    "processo": "48500.002314/2022-56",
-   "interessado": "Transmissora de Energia Ribeiro Gonçalves Balsas (Ribalsas); LT 230 kV Ribeiro Gonçalves-Balsas (Lote 16, Leilão 2/2018)",
-   "assunto": "Pedido de reconsideração do Despacho 2.365/2023, que negou excludentes, reequilíbrio e rescisão amigável e propôs ao MME a caducidade da concessão",
+   "interessado": "Transmissora de Energia Ribeiro Gonçalves Balsas (Ribalsas)",
+   "assunto": "Pedido de reconsideração contra o Despacho 2.365/2023, que negou excludente de responsabilidade, reequilíbrio e rescisão amigável e propôs ao MME a caducidade do contrato de concessão 27/2018 (LT 230 kV Ribeiro Gonçalves–Balsas, Lote 16 do Leilão 2/2018)",
    "tema": [
-    "transmissão",
+    "transmissão (concessão)",
     "fiscalização e sanções (caducidade)",
-    "recursos administrativos"
+    "recursos administrativos",
+    "leilões (transmissão)"
    ],
-   "relator": "não identificado",
-   "resultado": "negado provimento (proclamação sem menção explícita a unanimidade; votos audíveis acompanham)",
-   "resumo_voto": "Atraso do Ibama não afasta responsabilidade (incapacidade financeira); pandemia não justifica; sem obra executada não cabe indenização; urgência pela inclusão da LT no Leilão 1/2024.",
+   "relator": "Sandoval Feitosa",
+   "resultado": "pedido de reconsideração conhecido e negado (sem divergência registrada; a palavra unanimidade não é ouvida na proclamação)",
+   "resumo_voto": "O atraso do Ibama (709 dias) não afasta a responsabilidade, porque a incapacidade financeira da concessionária rompe o nexo causal; a pandemia e o aumento de insumos não justificam (havia hedge). Nenhuma obra executada, logo sem indenização; os ativos (licenças, fundiário) podem ser negociados de forma privada com o vencedor do novo leilão. Há urgência para que o MME declare a caducidade a tempo de incluir a LT no Lote 13 do Leilão de Transmissão 1/2024. A procuradoria (procurador Cid) reiterou o Parecer 138/2023 pelo indeferimento.",
    "votos": [
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha / aprova (relator não identificado)",
-     "ts": "2:13:00",
-     "confianca": "baixa"
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento",
+     "ts": "1:58:40",
+     "justificativa": "sem elemento novo; atraso imputável à empresa (incapacidade financeira); urgência em licitar a linha no leilão 1/2024; indenização é questão privada (nome do relator não ouvido; atribuição por indícios)",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha / aprova (relator não identificado)",
+     "voto": "acompanha o relator",
      "ts": "2:13:00",
      "confianca": "baixa"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha / aprova (relator não identificado)",
-     "ts": "2:13:00",
+     "voto": "acompanha o relator",
+     "ts": "2:13:02",
      "confianca": "baixa"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha / aprova (relator não identificado)",
-     "ts": "2:13:00",
+     "voto": "acompanha o relator",
+     "ts": "2:13:04",
      "confianca": "baixa"
     }
    ]
@@ -243,16 +280,19 @@
  ],
  "retirados": [
   {
-   "id": "24",
-   "motivo": "a pedido do relator"
+   "item": "24",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta a pedido do relator",
+   "ts": "0:00:24"
   }
  ],
  "limites_da_analise": [
-  "Presidente inferido: encerramento agradece Agnes, Ricardo e Fernando; Hélvio citado como diretor; Sandoval não aparece (presença não confirmada).",
-  "Ricardo Tili cita 'Dr Anderson' (provável erro de legenda).",
-  "Relator do item 15 inferido pelas falas 'voto do Dr Elvio'; do item 6 dito 'Fernando Ferreira da Silva' (= Fernando Mosna).",
-  "Item 8: relator não identificado na legenda; votos atribuídos pela ordem com confiança baixa.",
-  "Números dos itens São Francisco e PEQUI não ditos; números de processo e despachos podem ter erros da legenda.",
-  "Sobrenome do orador da sustentação oral (Vladimir) incerto."
+  "Legenda automática: números de processo, nomes de pessoas (sustentante Vladimir, procurador Cid, servidores) e siglas aparecem distorcidos.",
+  "Item 6: relator lido como «Fernando Ferreira da Silva», que corresponde a Fernando Mosna (Fernando Luiz Mosna Ferreira da Silva).",
+  "Item 8 (Ribalsas): o nome do relator caiu na legenda (lacuna entre 1:54:57 e 1:55:09). Atribuímos a Sandoval Feitosa com confiança média: o mesmo falante anuncia o item, chama a procuradoria, agradece às superintendências e abre a votação sem passar a palavra. Só se ouvem duas falas de acompanhamento antes do «eu declaro»; os votos de Agnes, Ricardo e Fernando foram inferidos (confiança baixa). Hélvio Guerra provavelmente já tinha saído (não é citado no encerramento) e por isso não tem voto registrado.",
+  "Itens sem número ouvido: requerimento da São Francisco Energia (UTE Bahia 1) e PEQui/CP 12/2023; ids «s/n-».",
+  "PEQui: só se ouvem duas falas de voto («eu também acompanho», «eu acompanho o relator e declaro»); os demais votos vêm da proclamação por unanimidade. A presença de Hélvio Guerra nesse item é incerta.",
+  "Nos itens 15 e São Francisco, a atribuição das falas «acompanho o voto-vista» a Fernando, Hélvio e Sandoval segue a ordem usual de votação; os falantes não são nomeados.",
+  "As falas de debate sem nome (questão de ordem no item 15; dúvida sobre o item 7.12 do PEQui) foram atribuídas por inferência de contexto."
  ]
 }

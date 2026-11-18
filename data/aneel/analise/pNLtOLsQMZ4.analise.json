@@ -1,59 +1,70 @@
 {
  "meta": {
   "video_id": "pNLtOLsQMZ4",
-  "fonte": "legenda automática do YouTube; sem marcadores de falante (um único turno); atribuição de votos pela ordem de fala; ts = tempo do vídeo (sessão começa ~0:39)",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:39:33); ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "20",
+  "numero": "20ª Reunião Pública Ordinária de 2023",
   "data": "2023-06-13",
-  "formato": "presencial (Brasília), transmitida pelo YouTube",
+  "formato": "presencial (com transmissão no YouTube)",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
    "Hélvio Guerra",
    "Fernando Mosna",
-   "Agnes da Costa"
+   "Agnes da Costa (chegou ao longo da reunião)"
   ],
   "ausentes": [
-   "Ricardo Tili"
+   "Ricardo Tili (férias)"
   ],
   "observacoes": [
-   "Ricardo Tili em férias; Agnes da Costa se juntou após o início (voltava de missão em Paris/Quênia), presente nos itens deliberados.",
-   "Ata da 19ª RPO aprovada às 0:49 (Agnes ausente justificadamente naquela reunião).",
-   "Pauta com 22 itens, 16 em bloco; ordem de julgamento: bloco, 1, 5, 3, 4, 11, 12.",
-   "Resumo final do secretário: 3 retirados de pauta, 2 revisões tarifárias, 2 aberturas de consulta pública, 2 recursos/reconsiderações, 1 impugnação, 7 DUP, 2 pedidos de vista e 2 prorrogações de vista."
+   "Abertura com quórum de três (Sandoval, Hélvio, Fernando); Agnes da Costa chegou depois e já estava presente no item 1.",
+   "Pauta com 22 itens (7 a 22 em bloco); retirados de pauta os itens 2 e 6; sustentação oral nos itens 4, 5, 11 e 12; ordem de julgamento 1, 5, 3, 4, 11, 12.",
+   "Ata da 19ª RPO (06/06/2023) aprovada pelos presentes, exceto Agnes (ausente naquela sessão).",
+   "Item 4 (resultado da CP 15/2023, gestão excepcional de outorgas e CUST) retirado de pauta pelo relator Hélvio Guerra após dez sustentações orais.",
+   "Itens 11 e 12 com pedido de vista do Diretor-Geral; no encerramento se registram dois pedidos de vista e dois de prorrogação de vista.",
+   "Debate tenso no item 11 entre Sandoval e Fernando Mosna sobre a discussão do pedido de vista e o uso de cautelares para 'furar fila' de acesso."
   ]
  },
  "itens": [
   {
    "id": "bloco",
-   "ts": "0:52:39",
-   "processo": "itens 7 a 22 da pauta (bloco)",
-   "interessado": "diversos (itens não detalhados em voz)",
-   "assunto": "Bloco de itens da pauta (votos disponibilizados previamente): segundo o balanço final, inclui duas revisões tarifárias, duas aberturas de consulta pública, dois recursos/pedidos de reconsideração, um pedido de impugnação e 7 declarações de utilidade pública; itens individuais não foram lidos em voz alta",
+   "ts": "0:51:30",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (itens 7 a 22 da pauta, com votos disponibilizados previamente), exceto os itens 11 e 12, destacados por terem pedido de sustentação oral; segundo o encerramento, incluíam declarações de utilidade pública, recursos administrativos/pedidos de reconsideração, um pedido de impugnação e pedidos de prorrogação de vista",
    "tema": [
-    "declaração de utilidade pública",
-    "tarifas e revisão tarifária",
-    "recursos administrativos",
-    "regulação normativa"
+    "deliberação em bloco"
    ],
-   "relator": "vários (não lidos)",
-   "resultado": "aprovados os itens remanescentes do bloco; 11 e 12 saíram do bloco por sustentação oral; ao menos um item do bloco retirado de pauta",
-   "resumo_voto": "Um diretor aprova os itens e menciona retirada de pauta e vistas (11 e 12); o Diretor-Geral corrige que vista só cabe no julgamento e aprova os itens remanescentes. Itens 11 e 12 julgados fora do bloco.",
+   "relator": "diversos",
+   "resultado": "aprovados os itens remanescentes do bloco",
+   "resumo_voto": "Bloco submetido à votação no início da sessão; itens 11 e 12 retirados do bloco para julgamento com sustentação oral; o Diretor-Geral declarou aprovados os itens remanescentes.",
    "votos": [
     {
      "diretor": "Fernando Mosna",
-     "voto": "aprova os itens do bloco; anuncia retirada de um item e pede vista dos itens 11 e 12",
-     "ts": "0:52:42",
-     "justificativa": "menciona retirada de pauta e vistas em 11 e 12; Diretor-Geral lembra que vista não cabe antes do julgamento",
+     "voto": "aprova os itens do bloco (exceto 11 e 12)",
+     "ts": "0:52:37",
+     "justificativa": "declarou aprovar os itens do bloco; falas iniciais sobre vista em 11 e 12 retificadas pelo DG, pois itens com sustentação oral saem do bloco",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:53:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco (pela proclamação)",
+     "ts": "0:55:22",
+     "justificativa": "presença no momento da votação do bloco incerta (chegou ao longo da reunião)",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "aprova os itens remanescentes do bloco",
-     "ts": "0:55:29",
-     "justificativa": "registra retificação: itens 11 e 12 têm sustentação oral e não vão no bloco",
+     "voto": "aprova os itens remanescentes do bloco (proclama)",
+     "ts": "0:55:22",
      "confianca": "media"
     }
    ]
@@ -61,90 +72,87 @@
   {
    "id": "1",
    "ts": "0:55:42",
-   "processo": "48500.006892/2022-61 e 48500.000934/2023-31 (números parciais pela legenda)",
-   "interessado": "RGE Sul Distribuidora de Energia S.A.",
-   "assunto": "Resultado da revisão tarifária periódica da RGE Sul (contrato de concessão 12/1997) a vigorar a partir de 19/06/2023, após a Consulta Pública 9/2023, e limites de DEC e FEC para 2024 a 2028",
+   "processo": "48500.006892/2022-61; 48500.000934/2023-31",
+   "interessado": "RGE Sul Distribuidora de Energia S.A. (RGE)",
+   "assunto": "Resultado da revisão tarifária periódica da RGE Sul a vigorar a partir de 19/06/2023 e limites dos indicadores de continuidade DEC e FEC para 2024-2028, após a Consulta Pública 9/2023 (audiência em São Leopoldo-RS)",
    "tema": [
-    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
-    "distribuição e qualidade (DEC/FEC)",
-    "CDE e encargos setoriais"
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "distribuição e qualidade (DEC/FEC)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos diretores presentes",
-   "resumo_voto": "Efeito médio de +1,10% para os consumidores (-3,99% alta tensão; +3,72% baixa tensão); fator X componentes Pd e T de 0,368% e 1,472%; limites de DEC/FEC 2024-2028 e referencial de perdas 2023-2027. Apresentação da SRD (Ana Lúcia); audiência pública em São Leopoldo (RS) com 11 contribuições.",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Efeito médio de 1,10% (-3,99% alta tensão; +3,72% baixa tensão); Fator X com componentes T 1,472% e Pd 0,368%; créditos de PIS/Cofins devolvidos reduziram o efeito; apresentação técnica de Ana Lúcia (STR). Sem sustentação oral.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:58:00",
-     "justificativa": "voto pela homologação do resultado, dispensando a leitura da fundamentação; destaca a participação social na audiência de São Leopoldo",
+     "ts": "1:10:34",
+     "justificativa": "destaca a participação social na audiência pública em São Leopoldo (11 contribuições, conselho de consumidores, CREA-RS); dispensa leitura da fundamentação",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:11:36",
-     "justificativa": "elogia a apresentação e o reajuste comportado; antecipa concordância (atribuição do nome pela ordem de falas)",
-     "confianca": "baixa"
+     "voto": "acompanha o relator",
+     "ts": "1:11:18",
+     "justificativa": "faz coro à importância das audiências públicas; reajuste 'bastante comportado'; antecipa concordância",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:11:38",
+     "voto": "acompanha o relator",
+     "ts": "1:11:25",
+     "justificativa": "fala individual curta sem nome ('eu voto com relator'/'também voto com ela'); atribuição pela ordem",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator; proclama a unanimidade",
-     "ts": "1:11:39",
-     "justificativa": "Diretor-Geral colhe os votos e proclama o resultado",
-     "confianca": "media"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:11:29",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "1:12:57",
-   "processo": "48500.002233/2021-?5 (dígito verificador incerto na legenda)",
-   "interessado": "Enel Distribuição Rio (Enel Rio), contrato de concessão 5/1996",
-   "assunto": "Requerimento de reequilíbrio econômico-financeiro por efeitos da Lei Estadual RJ 8.769/2020 (proibição de corte durante a pandemia): decisão de abrir consulta pública sobre os valores",
+   "ts": "1:12:49",
+   "processo": "48500.002233/2021-75",
+   "interessado": "Enel Distribuição Rio (Enel RJ)",
+   "assunto": "Requerimento administrativo de reequilíbrio econômico-financeiro do contrato de concessão 5/1996 pelos efeitos da Lei estadual RJ 8.769/2020 (proibição de corte por inadimplência na pandemia), com instauração de consulta pública",
    "tema": [
-    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
-    "equilíbrio econômico-financeiro / pandemia",
-    "regulação normativa (consulta pública)",
-    "distribuição e qualidade (inadimplência)"
+    "tarifas e revisão tarifária (RTE)",
+    "recursos/requerimentos administrativos",
+    "regulação normativa (consulta pública)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade dos diretores presentes; sustentação oral de Gerusa de Souza Cortes Magalhães (Enel Rio)",
-   "resumo_voto": "Não acatar a inadimplência sem benchmark nem as perdas regulatórias; instaurar consulta pública de 14/06 a 31/07/2023 sobre valores iniciais de cerca de R$ 74,2 milhões (2020) e R$ 34,8 milhões (2021); SFF deve considerar os valores nos indicadores de sustentabilidade 2020 e 2021. Apresentação técnica da STR (Luiz Carlos): total de R$ 109 milhões (79 milhões de receitas irrecuperáveis com extensão até julho/2021 e 30 milhões de mercado).",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Não acata pedido de envelhecimento da curva de inadimplência sem benchmark do PRORET 2.10; não acata pedido de perdas regulatórias por redução de mercado; instaura CP de 14/06 a 31/07/2023 com valores iniciais de cerca de R$ 74 milhões (2020) e R$ 34,8 milhões (2021) (total apresentado pela STR de R$ 109 milhões, com extensão excepcional até julho/2021); SFF deve considerar os valores nos indicadores de sustentabilidade de 2020-2021. Sustentação oral de Gerusa de Souza Cortes Magalhães (Enel Rio); apresentação técnica de Luiz Carlos (STR).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova abertura de consulta pública",
-     "ts": "1:34:00",
-     "justificativa": "desequilíbrio demonstrado; lei estadual causou perturbação mais grave que nas demais concessões; perdas ficam para outra oportunidade",
+     "voto": "relator, aprova (acata parcialmente; abre consulta pública)",
+     "ts": "1:50:05",
+     "justificativa": "análise confirmou desequilíbrio agravado pela lei estadual; aplica benchmark do PRORET 2.10 mas estende o período até julho/2021; perdas ficam para outra oportunidade",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:58:55",
-     "justificativa": "comentário sobre intervenção do governo estadual em concessão federal e dever de restabelecer o equilíbrio (atribuição pela ordem de falas)",
-     "confianca": "baixa"
+     "voto": "acompanha o relator",
+     "ts": "1:58:50",
+     "justificativa": "lei estadual foi intervenção de poder sem competência sobre concessão federal que causou perturbação; a agência tem o poder-dever de restabelecer o equilíbrio; ponto de debate na CP será o tratamento das receitas irrecuperáveis de 2021",
+     "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:59:00",
-     "justificativa": "perguntou sobre a contestação judicial das leis estaduais (atribuição incerta)",
+     "ts": "1:58:53",
+     "justificativa": "fez pergunta sobre a judicialização da segunda lei estadual; voto individual não ouvido",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator; proclama a unanimidade",
-     "ts": "1:59:01",
-     "justificativa": "proclama os quatro itens do dispositivo",
-     "confianca": "media"
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:58:53",
+     "confianca": "alta"
     }
    ]
   },
@@ -152,134 +160,135 @@
    "id": "3",
    "ts": "2:00:39",
    "processo": "48500.001367/2016-10",
-   "interessado": "CCEE e agentes de fontes incentivadas (descontos TUSD/TUST)",
-   "assunto": "Abertura de consulta pública (45 dias, 16/06 a 31/07/2023, via Microsoft Forms) para revisão da REN 1031/2022 e dos módulos das regras de comercialização por força do art. 4º da Lei 14.120/2021 (fim dos descontos na TUSD/TUST para fontes incentivadas)",
+   "interessado": "geradores de fontes incentivadas; CCEE",
+   "assunto": "Abertura de consulta pública para revisão da REN 1.031/2022 e de módulos das Regras de Comercialização em razão do art. 4º da Lei 14.120/2021 (término dos descontos na TUST/TUSD para fontes incentivadas)",
    "tema": [
     "regulação normativa (consulta pública)",
-    "fontes incentivadas / descontos TUSD-TUST",
-    "comercialização (CCEE, regras de comercialização)",
+    "CDE e encargos setoriais / subsídios",
+    "comercialização (CCEE)",
     "outorgas de geração (PCH, solar, eólica)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade, com ajuste da fundamentação por sugestão de Fernando Mosna (limite de 48 meses também para hidrelétricas até 30 MW)",
-   "resumo_voto": "Minuta alinha a REN 1031 à Lei 14.120; debate sobre despacho do Procurador-Geral (Luís Eduardo) versus parecer 77/2021 (Marcelo Escalante): Fernando Mosna pede aplicar a condição de entrada em operação em 48 meses às hidrelétricas até 30 MW; relator acata e altera a fundamentação, mantendo a minuta para consulta. Debate também sobre fracionamento de usinas e excludente de responsabilidade. Apresentação de Henrique Vasconcelos (SGM).",
+   "resultado": "aprovado por unanimidade, com ajuste da fundamentação",
+   "resumo_voto": "CP por 45 dias (16/06 a 31/07/2023). Apresentação de Henrique Vasconcelos (SGM). Por proposta de Fernando Mosna, o relator ajustou a fundamentação para adotar a leitura do parecer do procurador Marcelo Escalante (hidrelétricas até 30 MW também sujeitas aos 48 meses para entrar em operação), em vez do despacho do Procurador-Geral Luís Eduardo que afastava esse prazo; a minuta de resolução não muda. Debate também sobre fracionamento de centrais para manter desconto e sobre excludente de responsabilidade no prazo legal dos 48 meses.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova abertura de consulta pública, acatando a sugestão de Fernando Mosna",
-     "ts": "2:56:30",
-     "justificativa": "limitar descontos é melhor para os consumidores; adota a sugestão e ajusta a fundamentação",
+     "voto": "relator, aprova (com ajuste da fundamentação proposto por Fernando Mosna)",
+     "ts": "2:20:19",
+     "justificativa": "limitar desconto é melhor para os consumidores; adota interpretação do parecer (48 meses) para submeter à CP",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator, após sugerir o limite de 48 meses",
-     "ts": "2:30:00",
-     "justificativa": "discorda do despacho do PG; defende leitura conjunta dos parágrafos 1º-C e 1º-D para evitar prazo sem delimitação",
+     "voto": "acompanha o relator, considerando os ajustes",
+     "ts": "2:57:59",
+     "justificativa": "propôs a leitura conjunta dos §§ 1º-C e 1º-D do art. 26 da Lei 9.427: sem o limite de 48 meses haveria janela de 11 anos e usinas implantadas a qualquer tempo com desconto; abrir CP sem delimitação temporal seria péssima sinalização",
      "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:58:08",
-     "justificativa": "discutiu a leitura do caput e a preocupação com o fim dos subsídios (atribuição incerta)",
+     "voto": "acompanha o relator",
+     "ts": "2:57:43",
+     "justificativa": "na discussão defendeu ler parágrafos em conjunto com o caput; atribuição da fala de voto incerta",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator; proclama a unanimidade",
-     "ts": "2:58:23",
-     "justificativa": "preocupação com fracionamento de usinas e com excludente de responsabilidade; ressalta que o risco de conexão é dos agentes (atribuição pela ordem de falas)",
-     "confianca": "baixa"
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:58:10",
+     "justificativa": "apoiou a leitura combinada (espírito da lei é limitar descontos no tempo); pediu norma firme contra divisão de centrais geradoras e questionou excludente de responsabilidade por risco de conexão; convidou consumidores a participar da CP",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "4",
    "ts": "2:59:20",
-   "processo": "48500.0017xx/2023-58 (número parcial pela legenda)",
-   "interessado": "geradores e transmissoras; sustentações da Abólica, EDP Renováveis, Canadian Solar, empresa citada como «s brasil energia» (grafia incerta), Absolar, Casa dos Ventos, Abrace, Solatio e Abrate",
-   "assunto": "Resultado da Consulta Pública 15/2023: tratamento excepcional na gestão de outorgas de geração e dos CUSTs celebrados por centrais geradoras (rescisão de CUST, revogação de outorga, liberação de margem de escoamento)",
+   "processo": "48500.000017/2023-58 (número incerto)",
+   "interessado": "centrais geradoras com outorgas/CUST; ABSOLAR, Casa dos Ventos, EDP Renováveis, Canadian Solar, AES Brasil, Abrace, ABRATE e outros",
+   "assunto": "Resultado da Consulta Pública 15/2023: tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (rescisão de CUST e revogação de outorga sem penalidades, liberação de margem de escoamento)",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
-    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
-    "regulação normativa (consulta pública)",
-    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+    "transmissão (acesso, CUST, margem de escoamento)",
+    "outorgas de geração (eólica, solar)",
+    "regulação normativa (consulta pública)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "retirado de pauta pelo relator após as sustentações orais, para reanalisar; volta quando o relator entender adequado",
-   "resumo_voto": "Ao final de nove sustentações orais (cinco minutos cada), o relator afirma ter mudado voto na reunião e retira o processo para reanalisar à luz das contribuições, inclusive a regularização de cronogramas, com a qual não concorda preliminarmente. Critica a tese de que a agência causou a corrida do ouro.",
+   "resultado": "retirado de pauta pelo relator após as sustentações orais",
+   "resumo_voto": "Dez pedidos de sustentação oral (5 min cada): Bárbara Torres Souza (ABEEólica), Francisco Carlos da Silva Júnior (EDP Renováveis), Henrique Silva Reis (Canadian Solar), Francine Martins Busine (AES Brasil), Bruna de Marcos Correia (ABSOLAR), Pedro Marcelo (Casa dos Ventos e Ventos de Santa Tarcila), Talita Viana Cabral (Abrace, contrária à proposta), Micheline (Solatio, contra anistia de multas), Thiago Aragão Soares (ABRATE). O relator discordou da tese de que a ANEEL causou a 'corrida do ouro' ou limitou alterações de cronograma, mas retirou de pauta para reanalisar à luz das contribuições, inclusive regularização de cronogramas.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "retira de pauta (relator)",
-     "ts": "4:08:38",
-     "justificativa": "quer reanalisar à luz das sustentações orais; discorda que a ANEEL tenha limitado alteração de cronogramas; diz que a corrida do ouro foi provocada pelos agentes",
+     "voto": "relator, retira de pauta para reanálise",
+     "ts": "4:08:30",
+     "justificativa": "'quem fez a corrida do ouro foram os agentes em busca e manutenção de subsídio'; quer reanalisar as contribuições das sustentações",
+     "tom": "enfático",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "não votou (retirado de pauta)",
-     "ts": "4:10:07",
+     "ts": "4:08:30",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "não votou (retirado de pauta)",
-     "ts": "4:10:07",
+     "ts": "4:08:30",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "não votou (retirado de pauta); recebe a retirada e agradece as sustentações",
-     "ts": "4:10:07",
-     "justificativa": "pede que em próximas reuniões os agentes tragam uma apresentação grande e uma pequena",
-     "confianca": "media"
+     "voto": "não votou (retirado de pauta); registra a retirada",
+     "ts": "4:10:03",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "11",
-   "ts": "4:10:23",
+   "ts": "4:10:27",
    "processo": "48500.001699/2023-15",
-   "interessado": "Solatio (UFV Morro Preto 1 a 40, SE Janaúba 6, 500 kV)",
-   "assunto": "Requerimento administrativo com pedido de medida cautelar para garantir vaga na fila de acesso à transmissão (Janaúba 6, MG)",
+   "interessado": "Solatio (UFV Morro Preto 1 a 40, conexão na SE Janaúba 6, norte de MG)",
+   "assunto": "Requerimento administrativo com pedidos de medida cautelar da Solatio: assinatura de CUST/CCT e garantia de vaga (prioridade) na fila de acesso para escoamento no SIN",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
-    "acesso e margem de escoamento",
-    "recursos administrativos (cautelar)",
+    "transmissão (acesso, fila de escoamento)",
+    "recursos administrativos (medida cautelar)",
     "outorgas de geração (solar)"
    ],
    "relator": "Agnes da Costa",
-   "resultado": "pedido de vista (resultado pendente); voto da relatora: perda de objeto quanto aos CUSTs e negar a cautelar de vaga na fila",
-   "resumo_voto": "Agnes da Costa declara perda de objeto do pedido de assinatura dos contratos (a requerente desistiu) e nega a cautelar de garantia de vaga na fila por falta de fumaça do bom direito e de perigo de demora. Debate sobre liberação de margem e sinalização de que cautelares não podem criar fila paralela. Sustentação oral não realizada (requerente desistiu).",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa (relatora, Fernando Mosna e Hélvio Guerra já votaram por negar)",
+   "resumo_voto": "Relatora: perda de objeto do pedido cautelar de assinatura do CUST e negativa da cautelar de garantia de vaga na fila (sem fumaça do bom direito, sem perigo da demora; ONS cumpriu regulamento; ordem cronológica do Submódulo 7.1). A requerente desistiu da sustentação oral. Longo debate: Sandoval vinculou o pedido à CP 15 retirada de pauta (liberação de margem em Janaúba pode afetar o pedido); Fernando e Agnes alertaram que acolher cautelar para 'furar fila' daria sinal ruim.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "relatora, nega a cautelar e declara perda de objeto",
-     "ts": "4:13:00",
-     "justificativa": "regulamento cumprido pelo ONS; garantia de vaga não tem previsão; discussão cabe à CP 52 e à CP 15",
+     "voto": "relatora: declara perda de objeto e nega a cautelar",
+     "ts": "4:18:04",
+     "justificativa": "não há direito à vaga na fila nem previsão regulatória; critério de alocação de margem deve ser regra geral nos processos da CP 15 e CP 52; acolher daria incentivo a outros pedidos de prioridade",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora (nega cautelar)",
+     "ts": "4:48:42",
+     "justificativa": "cautelar para obter o primeiro lugar na fila seria retrocesso e péssima sinalização; 'não podemos tolerar' esse tipo de tentativa; Janaúba 6 não se relaciona com a margem da CP 15 (Janaúba 3)",
+     "tom": "enfático",
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha a relatora",
-     "ts": "4:48:47",
-     "justificativa": "tese de que cautelar para primeiro da fila sinalizaria oportunismo (atribuição pela ordem de falas)",
+     "ts": "4:48:43",
+     "justificativa": "fala 'eu também voto com ela' sem nome; atribuição pela ordem",
      "confianca": "baixa"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha a relatora",
-     "ts": "4:48:51",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Fernando Mosna",
      "voto": "pede vista",
-     "ts": "4:48:53",
-     "justificativa": "liberação de margem em item retirado (item 4) pode mudar a situação; tinha sinalizado vista em 11 e 12 (atribuição do nome pelo contexto)",
-     "confianca": "baixa"
+     "ts": "4:48:44",
+     "justificativa": "vista sinalizada desde o início: processo anterior (CP 15) não deliberado pode liberar margem em Janaúba e afetar o direito do agente; preferiu aguardar",
+     "tom": "tenso (discussão sobre cabimento do debate do pedido de vista com Fernando Mosna)",
+     "confianca": "alta"
     }
    ]
   },
@@ -287,76 +296,69 @@
    "id": "12",
    "ts": "4:49:07",
    "processo": "48500.002763/2023-85",
-   "interessado": "Centrais Elétricas Itaparica S.A. (grupo Renova, em recuperação judicial), UFV Caetité 5",
-   "assunto": "Pedido de medida cautelar para suspender a cobrança pelo ONS de encargos rescisórios do CUST da UFV Caetité 5",
+   "interessado": "Centrais Elétricas Itaparica S.A. (grupo Renova, em recuperação judicial); UFV Caetité 5",
+   "assunto": "Pedido de medida cautelar para suspender a cobrança, pelo ONS, de multa de encargos rescisórios do CUST da UFV Caetité 5",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
-    "encargos setoriais (encargo rescisório de CUST)",
-    "recursos administrativos (cautelar)",
-    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)"
+    "transmissão (CUST, encargo rescisório)",
+    "recursos administrativos (medida cautelar)",
+    "fiscalização e sanções"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "pedido de vista (resultado pendente); voto do relator: negar a cautelar",
-   "resumo_voto": "Hélvio Guerra mantém o voto de negar a cautelar por ausência de fumaça do bom direito; sustentação oral de Lígia Pereira (Itaparica) com críticas dele ao tom e a pedido de audiência. Diretores discutem se a CP 15 alcança CUSTs já rescindidos (não consta do escopo).",
+   "resultado": "pedido de vista do Diretor-Geral Sandoval Feitosa",
+   "resumo_voto": "Relator nega a cautelar. Sustentação oral de Lígia Pereira (Itaparica), que pediu tratamento isonômico com a CP 15; o relator repreendeu a conduta da representante (insistência em ser recebida). Procurador-Geral via possível fumaça do bom direito se a solução da CP 15 alcançasse CUST já rescindidos. Agnes e Fernando, na discussão, não viram fumaça do bom direito (CP 15 não trata de CUST rescindidos). Sandoval pediu vista conforme antecipado.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, nega provimento ao pedido cautelar",
-     "ts": "5:12:20",
-     "justificativa": "sem fumaça do bom direito; CP 15 não trata de CUST já rescindido; reage à sustentação oral",
+     "voto": "relator, nega provimento à cautelar",
+     "ts": "5:07:29",
+     "justificativa": "não trabalha com hipóteses sobre a CP 15, retirada de pauta; mantém o voto; 'perigo da demora evidente, mas não há fumaça do bom direito'",
+     "tom": "enfático (crítica à conduta da representante)",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "pede vista",
-     "ts": "5:12:35",
-     "justificativa": "conforme antecipado em 11 e 12 (atribuição incerta)",
-     "confianca": "baixa"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "não votou (vista)",
-     "ts": "4:49:07",
-     "justificativa": "expressou dúvida sobre o escopo da CP 15 e a ausência de fumaça do bom direito (atribuição incerta)",
-     "confianca": "baixa"
+     "ts": "5:08:03",
+     "justificativa": "na discussão, inclinou-se a negar: CP 15 não abrange CUST rescindidos e o valor pode ser reavido no mérito",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (vista)",
+     "ts": "5:10:30",
+     "justificativa": "na discussão disse não ver como dar provimento: CP 15 não trata de CUST rescindidos, logo não há fumaça do bom direito",
+     "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "não votou (vista)",
-     "ts": "4:49:07",
-     "justificativa": "ouviu memoriais da empresa; comentou que o tema deveria ser tratado na CP 15 (atribuição incerta)",
-     "confianca": "baixa"
+     "voto": "pede vista",
+     "ts": "5:12:25",
+     "justificativa": "vista anunciada desde o início da sessão",
+     "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "item": "6 (pauta) — retirado pelo Diretor-Geral para melhor compreensão do tema; havia dois representantes das empresas presentes",
-   "relator": "Sandoval Feitosa",
-   "motivo": "melhor compreensão do tema",
-   "ts": "0:52:57"
+   "id": "2",
+   "motivo": "retirado de pauta antes da sessão (assunto não lido)"
   },
   {
-   "item": "2 (pauta) — retirado de pauta, motivo não audível",
-   "relator": "não identificado",
-   "motivo": "não identificado pela legenda",
-   "ts": "0:49:43"
+   "id": "6",
+   "motivo": "retirado de pauta pelo relator 'para melhor compreensão do tema' (relator não identificado com segurança; assunto não lido)"
   },
   {
-   "item": "4 (pauta, CP 15/2023) — retirado pelo relator após as sustentações orais",
-   "relator": "Hélvio Guerra",
-   "motivo": "reanalisar à luz das contribuições",
-   "ts": "4:08:38"
+   "id": "4",
+   "motivo": "retirado pelo relator Hélvio Guerra após as sustentações orais (ver itens)"
   }
  ],
  "limites_da_analise": [
-  "Legenda sem falantes: todo o texto vem como um único turno; nomes dos votantes atribuídos pela ordem de fala e pelos nomes citados, com confiança baixa onde indicado.",
-  "Presença: Sandoval, Hélvio, Fernando e Agnes (nomes do cabeçalho Gentil Nogueira, Ludimila Lima e Ricardo Tili não votaram; Ricardo Tili estava de férias; Ludmila é superintendente).",
-  "Itens 1, 5 e 3: só duas falas individuais de acompanhamento são audíveis em cada um; o voto de cada diretor e a unanimidade vêm da proclamação do Diretor-Geral.",
-  "Itens 11 e 12: quem pediu vista é incerto (Fernando Mosna pelo contexto, 'conforme antecipado'); pode ter sido outro diretor. No item 11 os dois acompanhamentos (Hélvio, Sandoval) são atribuídos pela ordem de fala.",
-  "Bloco 7 a 22: itens não lidos em voz alta, sem detalhes individuais; não há votos individuais registrados na legenda.",
-  "Números de processo parciais ou com dígito duvidoso (itens 1, 5 e 4).",
-  "Nomes de empresas e representantes (inclusive «s brasil energia», Solatio/Solaço, Abólica/Biônica, Canadian/Kaneja) vêm da legenda e podem estar errados."
+  "Legenda automática: nomes de pessoas (Gerusa, Luiz Carlos 'Carraza', Henrique Vasconcelos, Marcelo Escalante, Lígia Pereira) e números de processo podem estar errados; o processo do item 4 está ilegível ('48.500 00017 19 2023 de 58').",
+  "Hélvio aparece como 'Élvio'/'Elvio'/'Neves guerra'; Ricardo Tili como 'Ricardo Chile'; Agnes como 'agres'.",
+  "Votos de quem só acompanha foram atribuídos pela ordem de fala e pela proclamação 'por unanimidade dos diretores presentes'; falas curtas sem nome ('voto com relator', 'também voto com ela') têm atribuição incerta entre Agnes e Fernando (itens 1, 3) e entre Fernando e Hélvio (item 11).",
+  "Bloco: não se sabe se Agnes já estava presente na votação; os itens individuais do bloco não foram lidos e não estão detalhados.",
+  "Item 12: após o relator, o Diretor-Geral pediu vista sem colher votos individuais de Agnes e Fernando; ambos ficaram como 'não votou (vista)', com a posição externada na discussão registrada na justificativa.",
+  "Item 11: Fernando e Hélvio votaram com a relatora antes do pedido de vista do Diretor-Geral; o item ficou pendente."
  ]
 }

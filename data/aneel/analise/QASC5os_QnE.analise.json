@@ -1,112 +1,316 @@
 {
-  "meta": {"video_id": "QASC5os_QnE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:27); ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "30", "data": "2023-08-22", "formato": "presencial",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Fernando Mosna", "Hélvio Guerra"],
-    "ausentes": ["Agnes da Costa"],
-    "observacoes": [
-      "Título: 30ª Reunião Pública Ordinária de 2023; o Diretor-Geral fala em «31ª» na abertura e no encerramento (legenda).",
-      "Agnes da Costa em missão internacional (8º Fórum Mundial de Regulação de Energia, Lima, Peru); Hélvio Guerra chegou logo após a abertura; quórum de quatro diretores.",
-      "Pauta com 37 itens; itens 7 a 37 em bloco (aprovados por unanimidade); item 6 retirado de pauta pela ausência da relatora Agnes; ordem de julgamento: 3, 4, 2, 1, 5.",
-      "Aprovadas as atas da 27ª, 28ª e 29ª reuniões ordinárias.",
-      "Item 4 (PEQuI/PROP&D) retirado de pauta pelo próprio relator Ricardo Tili após debate sobre incluir energia nuclear como tema estratégico (proposta de Fernando Mosna).",
-      "No item 1 (Leilão de Transmissão 1/2023) o relator incorporou item 4 ao dispositivo: Procuradoria e Corregedoria avaliam a documentação do consórcio Gênesis por eventual ilícito civil, administrativo ou criminal."
-    ]
-  },
-  "itens": [
-    {
-      "id": "bloco", "ts": "0:33:55", "processo": "", "interessado": "diversos",
-      "assunto": "Itens 7 a 37 da pauta, deliberados em bloco (atos e votos disponibilizados previamente)",
-      "tema": ["institucional/bloco"], "relator": "diversos",
-      "resultado": "aprovados por unanimidade", "resumo_voto": "Bloco aprovado sem debate.",
-      "votos": [
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "0:34:00", "justificativa": "acompanha os itens do bloco", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "0:34:03", "justificativa": "acompanha os itens do bloco", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:34:06", "justificativa": "«eu aprovo bloco»", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:34:10", "justificativa": "acompanha e proclama unanimidade", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "3", "ts": "0:34:30", "processo": "48500.005650/2023-87", "interessado": "SGM/STR; consumidores (bandeiras tarifárias)",
-      "assunto": "Abertura de consulta pública para definir parâmetros de acionamento e valores dos patamares das bandeiras tarifárias, ciclo 2023-2024, incluindo aprimoramento metodológico para precificar o despacho fora da ordem de mérito (ESS energético)",
-      "tema": ["tarifas e revisão tarifária (bandeiras)", "regulação normativa (consulta pública)"],
-      "relator": "Fernando Mosna",
-      "resultado": "aprovado por unanimidade: consulta pública de 23/08 a 06/10/2023",
-      "resumo_voto": "Relator propõe CP; apresentação do servidor Bruno (SGM): queda de cerca de 37% na amarela, 31% na vermelha 1 e quase 20% na vermelha 2; cobertura da bandeira verde de cerca de 102 para 77 R$/MWh. Hélvio pede comunicação mais simples ao consumidor; Sandoval apoia a inclusão do despacho fora da ordem de mérito no modelo.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "0:55:52", "justificativa": "instaurar CP para trazer à precificação da bandeira o despacho fora da ordem de mérito determinado pelo CMSE, dando sinal adequado ao consumidor", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:02:50", "justificativa": "elogia apresentação, mas pede linguagem mais simples: «os consumidores não deve ter entendido isso que foi apresentado»", "tom": "construtivo, crítico da comunicação", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "1:02:55", "justificativa": "sem fala própria identificada", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:03:00", "justificativa": "redução das bandeiras decorre da metodologia; momento sem pressão térmica é adequado para discutir a estrutura", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "4", "ts": "1:03:20", "processo": "48500.008730/2022-68", "interessado": "STE (P&D); empresas reguladas; sustentação oral do prof. José Alexandre Araújo (UnB)",
-      "assunto": "Resultado da Consulta Pública 12/2023: Plano Estratégico Quinquenal de Inovação (PEQuI 2023-2028) e revisão dos módulos do PROP&DI",
-      "tema": ["regulação normativa (resolução, consulta pública)", "P&D e inovação"],
-      "relator": "Ricardo Tili",
-      "resultado": "retirado de pauta pelo relator",
-      "resumo_voto": "Sustentação oral crítica do prof. José Alexandre Araújo (UnB): excesso de KRs, foco em startups, risco de desestruturar P&D. Relator leu dispositivo aprovando o PEQuI. Fernando Mosna propôs incluir energia nuclear (SMR) como tema estratégico, citando resolução CNPE 2/2021; Sandoval ponderou limitação de recursos; Tili retirou o processo para reanalisar e trazer na próxima reunião.",
-      "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, retira de pauta", "ts": "1:56:40", "justificativa": "após proposta sobre energia nuclear: «eu vou tirar o processo de pauta e vou analisar melhor»", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "não votou (retirado)", "ts": "1:41:00", "justificativa": "propôs incluir energia nuclear como tema estratégico até 2028 (SMRs, taxonomia europeia, CNPE 2/2021)", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "não votou (retirado)", "ts": "1:50:00", "justificativa": "preocupação: recursos limitados, projetos caros, nuclear fora das prioridades do planejamento", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "não votou (retirado)", "ts": "1:56:40", "justificativa": "sem manifestação identificada", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "2", "ts": "1:57:13", "processo": "48500.006879/2022-11; 48500.001752/2023-88", "interessado": "Elektro Redes S.A. (Neoenergia Elektro)",
-      "assunto": "Revisão tarifária periódica da Elektro a partir de 27/08/2023 e limites de DEC/FEC 2024-2027 (após CP 11/2023)",
-      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "distribuição e qualidade (DEC/FEC, perdas)"],
-      "relator": "Hélvio Guerra",
-      "resultado": "aprovado por unanimidade: efeito médio de 7,17% (3,15% AT; 9,53% BT)",
-      "resumo_voto": "Negados os pleitos da distribuidora de tratamento de área de risco no Guarujá e de neutralização de perdas de receita por MMGD (STR monitora). Relator defende estudo para áreas de risco. Sandoval pergunta sobre o custo de transmissão (efeito do sinal locacional).",
-      "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova", "ts": "2:28:00", "justificativa": "aplicação do PRORET; áreas de risco do Guarujá não se enquadram no submódulo 2.6; efeitos da MMGD monitorados pela STR", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator (pela proclamação)", "ts": "2:35:45", "justificativa": "«eu acompanho o relator» (falante inferido pela ordem)", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "2:35:48", "justificativa": "«eu voto com o relator» (falante inferido pela ordem)", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "2:35:54", "justificativa": "acompanha e proclama", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "1", "ts": "2:36:40", "processo": "48500.007497/2022-04", "interessado": "Leilão de Transmissão 1/2023; consórcio Gênesis (The Best Car e Intec Empreendimentos)",
-      "assunto": "Homologação e adjudicação do Leilão de Transmissão 1/2023 (lotes 2 a 7 e 9) e recurso do consórcio Gênesis contra inabilitação nos lotes 1 e 8",
-      "tema": ["leilões (transmissão)", "recursos administrativos", "fiscalização e sanções"],
-      "relator": "Fernando Mosna",
-      "resultado": "aprovado por unanimidade: homologação parcial; recurso conhecido e não provido; CEL instrui sanções e chama segundos colocados; Procuradoria e Corregedoria avaliam ilícitos",
-      "resumo_voto": "Consórcio inabilitado por inconsistências jurídicas, técnicas, econômico-financeiras e fiscais (microempresa com faturamento declarado de cerca de R$ 800 milhões, capital que salta de R$ 500 mil para R$ 1,5 bilhão sem lastro). Sandoval sugere apuração pela lei anticorrupção; Tili sugere balanço auditado por auditoria credenciada nos próximos leilões; relator acrescenta item 4.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "3:00:00", "justificativa": "acolhe NT 20/2023 da CEL e parecer 255/2023 da Procuradoria; diligências são dever da administração; risco aos usuários do SIN", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:49:52", "justificativa": "voto impecável; empresa não demonstrou condições para o compromisso; achou o dispositivo original suficiente, mas não se opôs ao item 4", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:49:53", "justificativa": "concorda; sugere exigir balanço auditado por auditorias credenciadas nos próximos leilões", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "3:49:55", "justificativa": "defende inversão de fases e propõe apuração (lei anticorrupção 12.846/2013); proclama", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "5", "ts": "3:52:00", "processo": "48500.005448/2022-9", "interessado": "Neoenergia Lagoa dos Patos Transmissão de Energia S.A.; sustentação oral de Márcio Pina",
-      "assunto": "Agravo contra o Despacho 2.489/2023, que negou seguimento a recurso contra o Ofício 347/2023-SCE (LT 525 kV Capivari do Sul - Siderópolis 2; inviabilidade ambiental das alternativas 1 e 2 pelo Ibama)",
-      "tema": ["transmissão (outorgas)", "recursos administrativos"],
-      "relator": "Sandoval Feitosa",
-      "resultado": "agravo não provido por unanimidade",
-      "resumo_voto": "Ofício 347 é meramente informativo, sem caráter decisório; licenciamento da alternativa 3 deve avançar antes de discutir excludente, redução de escopo ou reequilíbrio. Tili e Hélvio questionam no mérito se a alternativa 3 está no escopo; superintendente Ludimila (SCE) diz que o traçado é referencial e risco do empreendedor; pedido segue em instrução.",
-      "votos": [
-        {"diretor": "Sandoval Feitosa", "voto": "relator, nega provimento", "ts": "4:18:55", "justificativa": "Ofício 347 não caracteriza decisão, mas informação e pedido de esclarecimentos; pedidos incompatíveis entre si", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "4:41:08", "justificativa": "concorda que o ofício não é decisório; no mérito, vê o R3 como referência e questiona traçado fora do referencial ser risco integral do empreendedor", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "4:41:10", "justificativa": "se o órgão ambiental inviabiliza o traçado, empresa não pode ser penalizada; mérito a ser analisado pela área", "confianca": "media"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (pela proclamação)", "ts": "4:41:11", "justificativa": "sem fala própria identificada", "confianca": "media"}
-      ]
-    }
+ "meta": {
+  "video_id": "QASC5os_QnE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:27); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "30",
+  "data": "2023-08-22",
+  "formato": "presencial (com transmissão)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Ricardo Tili",
+   "Fernando Mosna",
+   "Hélvio Guerra"
   ],
-  "retirados": [
-    {"id": "6", "motivo": "retirado de pauta pela ausência da relatora Agnes da Costa (processo com voto-vista)"},
-    {"id": "4", "motivo": "retirado pelo relator Ricardo Tili durante o julgamento (PEQuI; inclusão de energia nuclear)"}
+  "ausentes": [
+   "Agnes da Costa (missão internacional, 8º Fórum Mundial de Regulação de Energia, Lima/Peru)"
   ],
-  "limites_da_analise": [
-    "Legenda automática: números de processo, valores e nomes (ex.: «Elvio», «morzza», «Chile» para Tili) podem conter erros.",
-    "Falas «acompanho» sem nome foram atribuídas pela ordem usual; a quem não teve fala própria identificada foi atribuído o voto pela proclamação de unanimidade.",
-    "«Doutora Ludmila» no item 5 e «superintendente Ludmila» no item 1 referem-se à superintendente de concessões (SCE), não à diretora Ludimila Lima, que não compôs a sessão.",
-    "Os itens do bloco (7 a 37) não foram analisados individualmente; o encerramento menciona 12 declarações de utilidade pública, 7 reajustes, 5 recursos etc.",
-    "Item 6 e três processos com prorrogação de vista não foram identificados nominalmente."
+  "observacoes": [
+   "Título e secretaria: 30ª RPO de 2023; o Diretor-Geral fala em 31ª na abertura e no encerramento.",
+   "Hélvio Guerra juntou-se logo no início (quórum de quatro diretores).",
+   "Pauta de 37 itens: itens 7 a 37 em bloco; item 6 retirado de pauta (relatora Agnes em missão); segundo o resumo final, dois retirados e três prorrogações de pedido de vista.",
+   "Ordem de julgamento: bloco, itens 3, 4, 2, 1 e 5.",
+   "Aprovadas as atas da 27ª, 28ª e 29ª RPOs.",
+   "Item 4 (PEQui) retirado de pauta pelo relator Ricardo Tili após proposta de Fernando Mosna de incluir energia nuclear como tema estratégico.",
+   "Item 1: Consórcio Gênesis mantido inabilitado; acrescido item 4 (Procuradoria e Corregedoria).",
+   "Sustentações orais: prof. José Alexandre Araújo (UnB) no item 4; Márcio Pina (Neoenergia Lagoa dos Patos) no item 5."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 7 a 37)",
+   "ts": "0:34:04",
+   "processo": "31 processos do bloco (itens 7 a 37 da pauta)",
+   "interessado": "diversos",
+   "assunto": "Julgamento em bloco dos itens 7 a 37 da pauta (atos e votos disponibilizados previamente); segundo o resumo final, a pauta incluiu reajustes tarifários, recursos administrativos, requerimentos e declarações de utilidade pública",
+   "tema": [
+    "diversos (bloco)"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens do bloco submetidos sem leitura; quatro manifestações de aprovação e proclamação unânime pelo Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:34:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:34:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:34:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:34:16",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:34:31",
+   "processo": "48500.0056?/2023-87 (legenda: «48.500565 202387»)",
+   "interessado": "SGM/STR (Superintendências de Geração e Mercado e de Gestão Tarifária); consumidores",
+   "assunto": "Abertura de consulta pública (23/08 a 06/10/2023) para definir parâmetros de acionamento e valores dos patamares das bandeiras tarifárias para o ciclo 2023-2024, com aprimoramento metodológico para incorporar o despacho fora da ordem de mérito (ESS energético) ao acionamento das bandeiras",
+   "tema": [
+    "tarifas e revisão tarifária (bandeiras)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (consulta pública instaurada)",
+   "resumo_voto": "Apresentação técnica do servidor Bruno (SGM): proposta reduz os patamares (amarela -37%, vermelha 1 -31%, vermelha 2 -20%); cobertura da bandeira verde cai de ~102 para ~77 R$/MWh; metodologia passa a precificar explicitamente o despacho termelétrico fora da ordem de mérito decidido pelo CMSE.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "0:55:43",
+     "justificativa": "sinal adequado ao consumidor: trazer para a bandeira o custo do despacho fora da ordem de mérito que hoje é implícito; redução significativa em todos os patamares",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:02:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:02:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:02:56",
+     "justificativa": "redução decorre da metodologia (combustíveis, contratos, IPCA, oferta hídrica); momento sem pressão térmica é o adequado para discutir a estrutura; propõe interagir com a comunicação para massificar a informação",
+     "tom": "elogioso",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:03:22",
+   "processo": "48500.008730/2022-68",
+   "interessado": "SPE/ANEEL (P&D); empresas obrigadas à Lei 9.991/2000; sustentação oral do prof. José Alexandre Araújo (UnB)",
+   "assunto": "Resultado da Consulta Pública 12/2023: Plano Estratégico Quinquenal de Inovação (PEQui 2023-2028) e revisão dos módulos 1 e 3 a 7 do PROPDI",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "pesquisa e desenvolvimento (P&D/PDI)",
+    "energia nuclear"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "retirado de pauta pelo relator após debate",
+   "resumo_voto": "Sustentação oral do prof. José Alexandre Araújo (UnB) criticando o PEQui (excesso de KRs, foco em startups, interferência nas empresas). Apresentação técnica (Lucas, SPE). Relator leu dispositivo aprovando os módulos e o PEQui; Fernando Mosna propôs incluir energia nuclear (inclusive SMRs) como tema estratégico, citando Resolução CNPE 2/2021 e nota jurídica 19/2023; Sandoval ponderou limites de recursos e ausência de diretriz de planejamento; o relator retirou o processo de pauta para reanalisar e trazer na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, retira de pauta",
+     "ts": "1:56:45",
+     "justificativa": "após a proposta de incluir energia nuclear como tema estratégico, decide analisar melhor e trazer na próxima reunião; antes já admitira acrescentar o tema se a diretoria entendesse",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "1:45:10",
+     "justificativa": "propôs incluir energia nuclear (SMRs para sistemas isolados) como tema estratégico do PEQui, citando taxonomia verde europeia e Resolução CNPE 2/2021",
+     "tom": "propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "1:51:22",
+     "justificativa": "preocupação de recursos limitados serem drenados por projetos caros sem diretriz do planejamento; critica isenção de P&D das renováveis",
+     "tom": "ponderado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "1:56:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:57:13",
+   "processo": "48500.006879/2022-11 e 48500.001752/2023-88",
+   "interessado": "Elektro Redes S.A. (Neoenergia Elektro, distribuidora, SP/MS); conselhos de consumidores",
+   "assunto": "Resultado da revisão tarifária periódica da Elektro a vigorar a partir de 27/08/2023 (efeito médio 7,17%: 3,15% AT e 9,53% BT) e limites de DEC/FEC 2024-2027, após Consulta Pública 11/2023",
+   "tema": [
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "distribuição e qualidade (DEC/FEC, perdas)",
+    "geração distribuída (MMGD)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Apresentação técnica de Cecília (STR). Relator negou os pleitos da distribuidora de tratamento de área de risco no Guarujá (submódulo 2.6 não abrange o caso) e de neutralizar perda de receita com MMGD anterior à Lei 14.300 (efeito a ser monitorado pela STR); Fator X componente T 2,324%.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova",
+     "ts": "2:28:18",
+     "justificativa": "aplicação das metodologias do PRORET; área de risco do Guarujá não se enquadra na regra atual, mas defende que a ANEEL estude melhor o tema; variações de mercado entre revisões ficam com a distribuidora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:35:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:35:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:35:50",
+     "justificativa": "perguntou sobre custo de transmissão maior (efeito do sinal locacional) e destacou redução do custo de distribuição",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:36:47",
+   "processo": "48500.007497/2022-04",
+   "interessado": "Leilão de Transmissão 1/2023; Consórcio Gênesis (The Best Car Transportes e Intec Empreendimentos)",
+   "assunto": "Homologação parcial e adjudicação do Leilão de Transmissão 1/2023 (lotes 2, 3, 4, 5, 6, 7 e 9) e recurso do Consórcio Gênesis contra sua inabilitação nos lotes 1 e 8",
+   "tema": [
+    "leilões (transmissão)",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (recurso conhecido e não provido; acrescido item 4 determinando à Procuradoria e à Corregedoria análise de eventual ilícito)",
+   "resumo_voto": "Deságio médio ~50,97% e economia estimada ~R$ 32 bi; manutenção da inabilitação do Consórcio Gênesis por falhas de qualificação jurídica, técnica, econômico-financeira e fiscal (microempresa com faturamento declarado de R$ 800 mi, capital sem lastro, etc.); CEL deve apurar sanções e chamar os segundos colocados. Por sugestão de Sandoval, relator incluiu item 4 (Procuradoria e Corregedoria verificarem ilícito civil, administrativo ou criminal e encaminharem às autoridades).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova homologação e nega provimento ao recurso",
+     "ts": "3:12:28",
+     "justificativa": "diligências da CEL legítimas (edital e Lei 14.133, art. 64); inconsistências graves; impacto aos usuários se o lote 1 não fosse executado; acata incluir item 4",
+     "tom": "contundente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "3:49:48",
+     "justificativa": "voto impecável; empresa não demonstrou condições; achava o item 3a suficiente mas acompanharia o acréscimo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:49:50",
+     "justificativa": "adiantou concordância; sugeriu estudar exigir balanço auditado por auditorias credenciadas nos próximos leilões",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:49:52",
+     "justificativa": "defendeu a inversão de fases; sugeriu apuração com base na Lei Anticorrupção 12.846/2013 pela Corregedoria",
+     "tom": "contundente",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "3:51:52",
+   "processo": "48500.005448/2022 (dígito final incerto)",
+   "interessado": "Neoenergia Lagoa dos Patos Transmissão de Energia S.A. (transmissora; LT 525 kV Capivari do Sul - Siderópolis 2); sustentação oral de Márcio Pina",
+   "assunto": "Agravo contra o Despacho 2.489/2023 do Diretor-Geral substituto, que negou seguimento a recurso contra o Ofício 347/2023-SCE (alternativa de traçado 3 indicada pelo Ibama; pedido de excludente de responsabilidade, redução de escopo e reequilíbrio)",
+   "tema": [
+    "transmissão (outorgas, licenciamento)",
+    "recursos administrativos"
+   ],
+   "relator": "Sandoval Feitosa",
+   "resultado": "agravo não provido por unanimidade",
+   "resumo_voto": "Ofício 347 é meramente informativo/instrutório, sem caráter decisório; pedidos da transmissora incompatíveis entre si; deve-se avançar no licenciamento da alternativa 3 até decisão definitiva do Ibama. Ricardo Tili questionou no mérito se a alternativa 3 está no escopo do edital (R3 como referência); SCE (Ludimila, superintendente) explicou que o objeto é a conexão entre subestações, não o traçado; mérito segue em instrução na área técnica.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "relator, nega provimento e proclama",
+     "ts": "4:19:04",
+     "justificativa": "Ofício 347 não caracteriza decisão, mas informação e pedido de esclarecimentos; sem violação à Lei 9.784/99; recomenda que a empresa continue a obra e que a área acelere a instrução",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "4:41:08",
+     "justificativa": "concorda na questão processual, mas no mérito vê risco de impor traçado fora do referencial R3 ao empreendedor",
+     "tom": "questionador",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "4:41:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "4:41:12",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "6",
+   "motivo": "relatora Agnes da Costa em missão internacional",
+   "processo": "não identificado na legenda"
+  },
+  {
+   "id": "4",
+   "motivo": "retirado pelo relator Ricardo Tili durante o julgamento",
+   "processo": "48500.008730/2022-68"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores podem estar errados (item 3 com dígitos incertos; item 5 sem dígito verificador).",
+  "Votos dos seguidores são falas curtas sem nome («eu acompanho», «voto com o relator»); atribuídos pela proclamação unânime e pela ordem usual (relator, demais, Diretor-Geral por último); ordem exata entre Tili, Mosna e Hélvio incerta, ts aproximados.",
+  "Item 3: o comentário sobre comunicação com o consumidor (0:56:19) é de diretor não identificado (Hélvio Guerra ou Ricardo Tili), por isso não atribuído.",
+  "Item 5: falas de mérito após a de Ricardo Tili (sobre risco do traçado e o exemplo do Acre) têm falante incerto; não atribuídas.",
+  "Bloco (itens 7 a 37) registrado como um único item: a legenda não lista os processos individualmente.",
+  "Nomes como Ludmila (superintendente de outorgas/SCE), Camila (STR), Bruno (SGM), Lucas (SPE), Cid (procurador), Renato Braga (CEL) são servidores, não diretores.",
+  "Conferência de votos: 4 presentes em todos os itens; item 4 sem votação de mérito (retirado)."
+ ]
 }

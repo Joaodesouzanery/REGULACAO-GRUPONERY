@@ -1,69 +1,408 @@
 {
-  "meta": {"video_id": "o_wn1E8LoRc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "36ª RPO 2022 (Parte 1)", "data": "2022-09-27", "formato": "presencial (auditório da ANEEL)",
-    "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
-    "diretores_presentes": ["Hélvio Guerra", "Fernando Mosna", "Ricardo Tili", "Giácomo Francisco Bassi Almeida (diretor substituto)"],
-    "ausentes": ["Sandoval Feitosa (Diretor-Geral, em missão no exterior)"],
-    "observacoes": ["Quórum de quatro diretores; Sandoval Feitosa em missão representando a ANEEL no exterior.", "Pauta com 52 itens (14 a 52 em bloco); destaques 19, 22 e 34; retirados de pauta 4, 10, 11 e 42; sustentações orais nos itens 6, 7, 8, 19, 22 e 34.", "Ata da 35ª RPO aprovada.", "Esta Parte 1 vai até a suspensão às ~12h50; itens 2, 3, 5, 9, 12 e 13 ficaram para a tarde (outro vídeo).", "Três pedidos de vista: item 6 (Hélvio Guerra, inferido), item 34 (Ricardo Tili) e item 1 (Hélvio Guerra, inferido); vista de Ricardo Tili também no item 15 do bloco."]
-  },
-  "itens": [
-    {"id": "bloco 14-52", "ts": "0:06:28", "processo": "itens 14 a 52 (exceto destacados e retirados)", "interessado": "diversos (inclui 21 permissionárias de distribuição; Triângulo Mineiro Transmissora - TMT)", "assunto": "Votação em bloco: inclui reajustes tarifários de 21 permissionárias (item 14), recurso da TMT sobre PVI na LT 500 kV Marimbondo II - Assis (item 25), retificação do dispositivo do item 15", "tema": ["tarifas e revisão tarifária", "transmissão", "recursos administrativos"], "relator": "diversos", "resultado": "bloco aprovado; item 15 com pedido de vista de Ricardo Tili; Giácomo Almeida impedido no item 18", "resumo_voto": "Bloco aprovado pelos presentes. Retificação no item 15 (Taguatinga 2/TO, 138/34,5 kV). Hélvio Guerra (inferido) elogiou a SGT pelo item 14 e manteve no bloco o item 25 apesar de carta complementar da TMT. Ricardo Tili pediu vista do item 15.", "votos": [
-      {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:06:50", "justificativa": "acompanha os votos do bloco", "confianca": "baixa"},
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "aprova o bloco; suspeito/impedido no item 18", "ts": "0:07:00", "justificativa": "impedido no item 18: relatora à época era Elisa Bastos e, como superintendente, assinou o auto de infração", "confianca": "media"},
-      {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:07:30", "justificativa": "elogio à SGT pelos reajustes de 21 permissionárias; carta da TMT não altera o encaminhamento do item 25", "confianca": "media"},
-      {"diretor": "Ricardo Tili", "voto": "aprova o bloco; pede vista do item 15", "ts": "0:09:42", "justificativa": "pediu vista do item 15", "confianca": "alta"}
-    ]},
-    {"id": "6", "ts": "0:11:23", "processo": "48500.000526/2019-01", "interessado": "Transmissora Aliança de Energia Elétrica S.A. (TAESA)", "assunto": "Recurso contra Despacho SRT 361/2019 que negou isenção de PVI pelo desligamento da LT 500 kV Ribeiro Gonçalves - São João do Piauí em 28/05/2018 (tiros em isoladores durante a greve dos caminhoneiros)", "tema": ["transmissão", "recursos administrativos", "fiscalização e sanções"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "pedido de vista (inferido: Hélvio Guerra) após voto do relator, divergência e acompanhamento", "resumo_voto": "Relator dá provimento: ato de sabotagem no contexto da greve equipara-se a força maior, isentando a PVI de todo o período (00h32 às 08h33). Sustentação oral de Emanuel Guedes Ferreira (TAESA); Procuradoria a favor do provimento; SRT (Leonardo) defendeu tratar-se de vandalismo, risco do negócio.", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova (dá provimento)", "ts": "0:40:00", "justificativa": "contexto da greve nacional; sem histórico de vandalismo na torre; 23 de 25 isoladores danificados; caso fortuito/força maior", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "diverge (vencido não definido)", "ts": "1:05:44", "justificativa": "entende que foi ato de vandalismo e não sabotagem; questionou nexo causal e ausência de perícia", "confianca": "media"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:05:50", "justificativa": "analogia com o ataque a torre na privatização da Cepisa: sabotagem com fim de desligar", "confianca": "media"},
-      {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "1:05:55", "justificativa": "dúvidas sobre poucos isoladores poliméricos na linha, ausência de cartuchos/perícia e se houve outros atos na mesma região", "confianca": "media"}
-    ]},
-    {"id": "7", "ts": "1:06:00", "processo": "48500.000012/2021-35 (aprox.)", "interessado": "ArcelorMittal Brasil S.A.", "assunto": "Recurso contra Despacho SRT 93/2021 que negou alterar o ponto de conexão à rede básica e o SMF para a SE Vega do Sul (São Francisco do Sul/SC)", "tema": ["transmissão", "recursos administrativos"], "relator": "Sandoval Feitosa", "resultado": "negado provimento, por unanimidade dos presentes (voto-vista acompanhando o relator)", "resumo_voto": "Voto-vista (pedido em fev/2022) acompanha o relator: instalações são DIT de uso exclusivo (REN 67/2004) enquanto não houver outro usuário com CUST; perdas na LT são baixas (cálculo do ONS no Anarede). Sustentação oral de Elise Calixto (ArcelorMittal).", "votos": [
-      {"diretor": "Sandoval Feitosa", "voto": "voto deixado (relator, nega provimento; voto já emitido na 3ª RPO 2022)", "ts": "1:06:00", "justificativa": "regulação vigente (REN 67) só permite tratar como compartilhada se houver outra carga conectada", "confianca": "media"},
-      {"diretor": "Hélvio Guerra", "voto": "voto-vista: acompanha o relator", "ts": "1:15:00", "justificativa": "LT Joinville - São Francisco do Sul foi construída para um único consumidor; perdas técnicas baixas segundo o ONS", "confianca": "media"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:25:25", "justificativa": "", "confianca": "baixa"},
-      {"diretor": "Ricardo Tili", "voto": "não vota (sucessor de voto já proferido por Sandoval Feitosa)", "ts": "1:25:30", "justificativa": "disse não votar porque Sandoval já emitiu o voto", "confianca": "baixa"},
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "acompanha o relator", "ts": "1:25:35", "justificativa": "", "confianca": "baixa"}
-    ]},
-    {"id": "19", "ts": "1:26:19", "processo": "48500.001153/2022-83", "interessado": "Centrais Elétricas do Norte do Brasil (Eletronorte)", "assunto": "Recurso contra Auto de Infração 4/2022 da SFG (multa por descumprimento de obrigações de segurança de barragem da UHE Curuá-Una)", "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "negado provimento, por unanimidade dos votantes (um diretor impedido)", "resumo_voto": "Mantida a multa: relatório de inspeção de segurança regular não avaliou instrumentação, anomalias nem comparou com a inspeção anterior; não cabe conversão em advertência; dosimetria pela potência outorgada correta. Sustentação oral de Roberta Fonseca Santos Fernandes (Eletronorte); Procuradoria pela manutenção (segurança de barragem não é baixa ofensividade).", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova (nega provimento)", "ts": "1:38:00", "justificativa": "relatório não cumpriu objetivo de retratar segurança da barragem; nível normal não afasta as infrações", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:47:10", "justificativa": "antes perguntou à SFG por que o AI saiu antes do ajuste do relatório", "confianca": "baixa"},
-      {"diretor": "Ricardo Tili", "voto": "suspeito/impedido", "ts": "1:47:17", "justificativa": "declarou-se impedido (autor da fala inferido)", "confianca": "baixa"},
-      {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:47:20", "justificativa": "segurança de barragem exige rigidez; risco a vidas", "confianca": "media"}
-    ]},
-    {"id": "22", "ts": "1:47:58", "processo": "48500.005894/2020-71", "interessado": "Múltipla Participações Ltda. (sustentação: Cláudio Mesquita, Econel)", "assunto": "Recurso contra Despacho SCG 2.754/2021 que aprovou os estudos de inventário hidrelétrico do rio Pulpito (sub-bacia 70, rio Uruguai, SC)", "tema": ["outorgas de geração", "recursos administrativos"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "negado provimento, por unanimidade", "resumo_voto": "Impacto da PCH Pulpito nas usinas a jusante é insignificante (área de drenagem 51 km² vs 1.484 km² da PCH São Joaquim, ~1,6% de redução); avaliação detalhada cabe no licenciamento e na DRDH.", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova (nega provimento)", "ts": "1:58:00", "justificativa": "influência hídrica muito baixa; questões resolvidas na outorga de recursos hídricos", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:05:12", "justificativa": "", "confianca": "media"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:05:15", "justificativa": "", "confianca": "media"},
-      {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:05:20", "justificativa": "inventário busca aproveitamento ótimo; analogia com Paranoá/Itaipu: influência insignificante", "confianca": "media"}
-    ]},
-    {"id": "34", "ts": "2:05:40", "processo": "48500.003924/2008-19 e 48500.001656/2017-91", "interessado": "PCH Mantovilles SPE S.A.", "assunto": "Pleito adicional de excludente de responsabilidade pelo atraso na implantação da PCH Mantovilles (MT), com pedido cautelar", "tema": ["outorgas de geração", "fiscalização e sanções", "recursos administrativos"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "pedido de vista de Ricardo Tili", "resumo_voto": "Relator indefere o pleito adicional (152 dias além dos 423 já reconhecidos): compatibilização com a PCH Mutum e mudança do sistema de transmissão de interesse restrito estão na matriz de risco do empreendedor; obras atrasadas em outros marcos. Sustentação oral de Rodrigo Quintana Fernandes.", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, indefere o pleito", "ts": "2:20:00", "justificativa": "inexistência de nexo causal (art. 19 da Lei 13.360); problemas de projeto e alteração do sistema de transmissão são do empreendedor", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:31:55", "justificativa": "", "confianca": "baixa"},
-      {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "2:32:00", "justificativa": "", "confianca": "alta"},
-      {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "2:32:04", "justificativa": "concedeu a vista", "confianca": "media"}
-    ]},
-    {"id": "8", "ts": "2:32:13", "processo": "48500.003303/2021-xx e 48500.000566/2022-41", "interessado": "Transmissora de Energia Campinas-Itatiba S.A. (Captiva)", "assunto": "Recurso contra Despacho SRT 2.118/2021 e requerimento de excludente de responsabilidade (742 dias) e recálculo de PVA pelo atraso na LT 500 kV Campinas-Itatiba C2", "tema": ["transmissão", "recursos administrativos"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "retirado de pauta pelo relator após sustentação oral, para complementar a instrução (retorno previsto no mês seguinte)", "resumo_voto": "Sustentação oral de Joaquim Augusto Melo de Queiroz pediu instrução suplementar (Furnas, ONS, Cetesb). Sem votação.", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, retira de pauta", "ts": "2:48:14", "justificativa": "processo precisa de complementação da instrução", "confianca": "alta"}
-    ]},
-    {"id": "1", "ts": "2:48:27", "processo": "48500.003672/2002-61", "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE); FGV contrária", "assunto": "Homologação da convenção arbitral aprovada na 68ª AGE da CCEE (fim da exclusividade da Câmara FGV; impedimentos de árbitros passam a suspeição)", "tema": ["comercialização", "regulação normativa"], "relator": "Giácomo Francisco Bassi Almeida", "resultado": "pedido de vista (inferido: Hélvio Guerra) após dois votos com o relator", "resumo_voto": "Relator homologa a convenção e revoga a REH 531/2007; vê ampliação de escolha dos agentes. Debate sobre consulta pública e redação do parágrafo 56 (suspeição x impedimento).", "votos": [
-      {"diretor": "Giácomo Francisco Bassi Almeida", "voto": "relator, aprova (homologa)", "ts": "3:00:00", "justificativa": "proposta aprovada pela assembleia dos agentes; consulta pública não traria ganho", "confianca": "alta"},
-      {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:39:19", "justificativa": "liberdade dos agentes; consulta pública não seria a melhor solução", "confianca": "media"},
-      {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:39:22", "justificativa": "direito disponível entre agentes; pouco espaço para a agência intervir", "confianca": "media"},
-      {"diretor": "Hélvio Guerra", "voto": "pede vista", "ts": "3:39:25", "justificativa": "dúvida sobre suspeição x impedimento (ex.: cônjuge, credor como árbitro) e defende consulta pública; homologação implica responsabilidade da ANEEL", "confianca": "media"}
-    ]}
+ "meta": {
+  "video_id": "o_wn1E8LoRc",
+  "fonte": "legenda automática do YouTube; transcrição sem separação de falantes; ts = tempo do vídeo; ts de quem só acompanha é aproximado",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "36ª RPO 2022 (Parte 1)",
+  "data": "2022-09-27",
+  "formato": "presencial (auditório da ANEEL) com transmissão",
+  "presidente_da_sessao": "Hélvio Guerra (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Giácomo Almeida (diretor substituto; nome fora da lista)"
   ],
-  "retirados": ["4", "10", "11", "42", "8 (retirado pelo relator durante a sessão)"],
-  "limites_da_analise": [
-    "Giácomo Francisco Bassi Almeida (diretor substituto) não consta da lista de diretores do config; nome como dito na sessão.",
-    "Hélvio Guerra identificado como presidente pelas falas 'Doutor Elvio'/'diretor Elvio' e 'diretor-geral substituto'.",
-    "Votos sem nome atribuídos pela ordem observada (relator, Fernando Mosna, Ricardo Tili, Hélvio Guerra por último); no item 34 a mesa confirma vista de Ricardo, o que sustenta essa ordem. Vistas dos itens 6 e 1 atribuídas a Hélvio Guerra por inferência.",
-    "Item 19: quem se declarou impedido não foi nomeado; atribuído a Ricardo Tili com confiança baixa.",
-    "Item 7: interpretação de que Ricardo Tili não votou por suceder voto já proferido por Sandoval Feitosa é inferida da fala e da proclamação (legenda: 'consideração de voto do diretor Ricardo').",
-    "Números de processo vêm da legenda automática e podem estar incorretos (ex.: item 7 e item 8).",
-    "Somente a Parte 1 da reunião; itens 2, 3, 5, 9, 12 e 13 da tarde não estão neste vídeo. Votos do bloco por item não detalhados.",
-    "ts de votos dos relatores são aproximados (início da fundamentação)."
+  "ausentes": [
+   "Sandoval Feitosa (Diretor-Geral, em missão no exterior)"
+  ],
+  "observacoes": [
+   "Quórum de quatro diretores; pauta com 52 itens (14 a 52 em bloco); destaques 19, 22 e 34; retirados de pauta 4, 10, 11 e 42.",
+   "Ordem: bloco, 6, 7, 19, 22, 34, 8, 1, 2, 3, 5, 9, 12, 13. Esta Parte 1 vai até o item 1; reunião suspensa às 12h50 para retorno às 14h30 (itens 2, 3, 5, 9, 12, 13 na Parte 2).",
+   "Ata da 35ª RPO aprovada.",
+   "Três pedidos de vista: item 6 e item 1 (Hélvio Guerra), item 34 (Ricardo Tili), além do item 15 do bloco (Ricardo Tili)."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 14 a 52)",
+   "ts": "0:06:28",
+   "processo": null,
+   "interessado": "diversos",
+   "assunto": "Votação em bloco dos itens 14 a 52 (exceto destacados 19, 22 e 34 e retirado 42); inclui item 14 (reajustes de 21 permissionárias de distribuição com aniversário em 30/09/2022) e item 25 (recurso da Triângulo Mineiro Transmissora - TMT contra PVI pelo desligamento da LT 500 kV Marimbondo 2 - Assis, mantido no bloco); correção material no dispositivo do item 15 (onde se lê SE 138/69 kV Santo Antônio de Pádua/RJ, leia-se 138/34,5 kV Taguatinga 2/TO)",
+   "tema": [
+    "votação em bloco",
+    "tarifas e revisão tarifária (permissionárias)",
+    "transmissão (PVI)",
+    "recursos administrativos"
+   ],
+   "relator": "diversos",
+   "resultado": "bloco aprovado; item 15 com pedido de vista de Ricardo Tili; item 18 sem voto de Giácomo Almeida (impedido)",
+   "resumo_voto": "Bloco aprovado pelos quatro presentes. Giácomo Almeida não votou o item 18 (relatoria original de Elisa Bastos e ele assinou o auto de infração como superintendente). Um diretor elogiou a SGT pelo item 14. Ricardo Tili, revendo, pediu vista do item 15. O presidente da sessão registrou que carta complementar da TMT (item 25) não alterou o voto.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:07:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "aprova o bloco, exceto item 18 (impedido)",
+     "ts": "0:07:13",
+     "justificativa": "não vota o item 18: relatora original era Elisa Bastos e ele assinou o auto de infração como superintendente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco; pede vista do item 15",
+     "ts": "0:09:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco (presidente; relator do item 25)",
+     "ts": "0:09:48",
+     "justificativa": "item 25: carta complementar da TMT protocolada na véspera não trouxe nada que alterasse o voto",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:09:42",
+   "processo": null,
+   "interessado": null,
+   "assunto": "Item 15 do bloco (dispositivo envolve SE 138/34,5 kV Taguatinga 2/TO, após correção material); objeto não detalhado na transmissão",
+   "tema": [
+    "transmissão"
+   ],
+   "relator": "não identificado",
+   "resultado": "pedido de vista de Ricardo Tili (votos do bloco já haviam sido dados)",
+   "resumo_voto": "Ricardo Tili, que ainda não havia concluído seu voto no bloco, pediu vista do item 15.",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "0:09:42",
+     "justificativa": "quis rever o item",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "votou no bloco antes do pedido de vista",
+     "ts": "0:07:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "votou no bloco antes do pedido de vista",
+     "ts": "0:07:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista) / votou no bloco antes da vista — incerto",
+     "ts": "0:09:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:11:23",
+   "processo": "48500.000526/2019-01",
+   "interessado": "Transmissora Aliança de Energia Elétrica S.A. (TAESA); sustentação oral de Emanuel Guedes Ferreira",
+   "assunto": "Recurso administrativo contra o Despacho SRT 361/2019, que indeferiu isenção de PVI (parcela variável por indisponibilidade, cerca de R$ 4,7 milhões) pelo desligamento da LT 500 kV Ribeiro Gonçalves - São João do Piauí C1 em 28/05/2018, atribuído a tiros na cadeia de isoladores da torre 577 durante a greve dos caminhoneiros",
+   "tema": [
+    "transmissão (PVI)",
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "caso fortuito/força maior"
+   ],
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "resultado": "pedido de vista do presidente da sessão (Hélvio Guerra); relator votou pelo provimento, um diretor divergiu e outro acompanhou",
+   "resumo_voto": "Relator (processo redistribuído após fim do mandato de Efrain Cruz): conhecer e dar provimento, classificando o evento como sabotagem (força maior) no contexto da greve dos caminhoneiros, sem histórico de vandalismo na torre rural; isenção de PVI por todo o período (0h32 a 8h33). Procuradoria apoiou o provimento. SRT (Leonardo) sustentou tratar-se de vandalismo, risco do negócio. Debate sobre ausência de perícia, cartuchos e isoladores de vidro x poliméricos.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "relator, dá provimento",
+     "ts": "0:44:01",
+     "justificativa": "disparos contra a cadeia de isoladores no contexto da greve nacional caracterizam sabotagem, equiparada a força maior; não houve conduta omissiva da transmissora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "diverge do relator",
+     "ts": "1:05:44",
+     "justificativa": "entende que se trata de ato de vandalismo, não sabotagem; questionou nexo causal, falta de perícia e de cartuchos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:05:49",
+     "justificativa": "associou o caso ao da Cepisa (sabotagem no dia da privatização); sem a greve seria vandalismo comum",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "1:05:49",
+     "justificativa": "dúvidas sobre ausência de evidências (cartuchos), uso de isoladores poliméricos só em 1,31% das torres e tese da SRT",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:06:02",
+   "processo": "48500.000120/2021-35",
+   "interessado": "ArcelorMittal Brasil S.A.; sustentação oral de Elise Calixto",
+   "assunto": "Voto-vista em recurso administrativo contra o Despacho SRT 93/2021, que indeferiu a alteração do ponto de conexão à rede básica e do SMF para a SE Vega do Sul (LT Joinville - São Francisco do Sul C1 e C2, SC), por classificação das instalações como DIT de uso exclusivo",
+   "tema": [
+    "transmissão (conexão, DIT)",
+    "recursos administrativos",
+    "consumidor livre"
+   ],
+   "relator": "Sandoval Feitosa (relator original, voto proferido na 3ª RPO/2022)",
+   "resultado": "aprovado por unanimidade dos presentes (nos termos do voto do relator, com consideração do voto-vista de Ricardo Tili): conhecer e negar provimento",
+   "resumo_voto": "Voto-vista acompanha o relator: a Res. 67/2004 classifica a linha como DIT enquanto houver um único usuário; a linha foi construída pela Eletrosul para um único consumidor; perdas na linha são muito baixas (ONS, programa Anarede).",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto deixado (proferido como relator na 3ª RPO/2022): conhecer e negar provimento",
+     "ts": "1:06:02",
+     "justificativa": "instalações classificam-se como DIT enquanto não houver outro acessante (Res. 67/2004)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "voto-vista: acompanha o relator (nega provimento)",
+     "ts": "1:24:21",
+     "justificativa": "dúvidas que motivaram a vista foram esclarecidas: linha construída para um único consumidor; perdas técnicas muito baixas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:25:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "não vota (ocupa a cadeira cujo titular, Sandoval Feitosa, já votou)",
+     "ts": "1:25:26",
+     "justificativa": "não voto nesse processo porque o Sandoval já emitiu o voto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:25:35",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:26:19",
+   "processo": "48500.001153/2022-83",
+   "interessado": "Centrais Elétricas do Norte do Brasil (Eletronorte), UHE Curuá-Una; sustentação oral de Roberta Fonseca Santos Fernandes",
+   "assunto": "Recurso administrativo contra o Auto de Infração 4/2022 da SFG, que aplicou multa por descumprimento de obrigações de segurança de barragem (relatório de inspeção de segurança regular incompleto e gestão de manutenção)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "segurança de barragens",
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos"
+   ],
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "resultado": "aprovado por unanimidade dos votantes: conhecer e negar provimento (um diretor declarou-se impedido)",
+   "resumo_voto": "Infrações não são de baixa ofensividade (requisito para converter multa em advertência); dosimetria pela potência outorgada mantida; nível de segurança normal não afasta a infração. Procurador-geral: descumprimento em segurança de barragem não pode ser visto como de baixa ofensividade. Superintendente Gentil (SFG) explicou que o ajuste do relatório não afasta a autuação.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "relator, nega provimento",
+     "ts": "1:43:58",
+     "justificativa": "relatório não retratava as condições de segurança; risco de perda de vidas; não cabe conversão em advertência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:47:14",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "suspeito/impedido",
+     "ts": "1:47:14",
+     "justificativa": "declarou-se impedido (atribuição pela ordem de votação; incerta)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "1:47:20",
+     "justificativa": "segurança de barragem exige rigidez",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "1:47:54",
+   "processo": "48500.005894/2020-71",
+   "interessado": "Múltipla Participações Ltda.; sustentação oral de Cláudio Mesquita (Econel Engenharia)",
+   "assunto": "Recurso contra o Despacho SCG 2.754/2021, que aprovou os estudos de inventário hidrelétrico do Rio Pupito (sub-bacia 70, bacia do Uruguai, SC); recorrente alegou impacto nas vazões das usinas a jusante",
+   "tema": [
+    "outorgas de geração (PCH, inventário)",
+    "recursos administrativos"
+   ],
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "resultado": "aprovado por unanimidade: conhecer e negar provimento",
+   "resumo_voto": "Área de drenagem da PCH Pupito (51 km²) é pequena frente à PCH São Joaquim (1.484 km²); redução estimada de disponibilidade hídrica de cerca de 1,6%; impacto será avaliado no DRDH e pelo órgão de recursos hídricos.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "relator, nega provimento",
+     "ts": "2:05:07",
+     "justificativa": "impacto nas usinas a jusante é insignificante; avaliação definitiva no DRDH",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:05:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "2:05:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (proclama)",
+     "ts": "2:05:12",
+     "justificativa": "influência insignificante, comparou com a contribuição do Paranoá a Itaipu",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "2:06:05",
+   "processo": "48500.003924/2008-19 e 48500.001656/2017-91",
+   "interessado": "PCH Mantovilles SPE S.A. (MT); sustentação oral de Rodrigo Quintana Fernandes",
+   "assunto": "Pleito adicional de reconhecimento de excludente de responsabilidade (152 dias além dos 423 já reconhecidos) pelo atraso na implantação da PCH Mantovilles, alegando compatibilização com a PCH Mutum e o sistema de transmissão de interesse restrito e a pandemia",
+   "tema": [
+    "outorgas de geração (PCH)",
+    "excludente de responsabilidade",
+    "fiscalização e sanções"
+   ],
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "resultado": "pedido de vista de Ricardo Tili",
+   "resumo_voto": "Relator: indeferir o pleito adicional; compatibilização decorreu de erro de projeto do próprio agente (modelo geoidal), a alteração do sistema de transmissão foi decisão do empreendedor e a pandemia já era conhecida em jun/2021; outras pendências da obra também atrasavam a usina.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "relator, indefere",
+     "ts": "2:31:32",
+     "justificativa": "ausência de nexo causal; atrasos na matriz de risco do empreendedor (art. 19 da Lei 13.360)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "2:31:59",
+     "justificativa": "atribuição pela ordem de votação",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista",
+     "ts": "2:31:59",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (vista)",
+     "ts": "2:32:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:48:27",
+   "processo": "48500.003672/2002-61",
+   "interessado": "Câmara de Comercialização de Energia Elétrica (CCEE); FGV (Câmara FGV de Conciliação e Arbitragem) contrária",
+   "assunto": "Homologação da convenção arbitral aprovada na 68ª Assembleia Geral Extraordinária da CCEE (fim da exclusividade da Câmara FGV, árbitros por suspeição em vez de impedimento, divulgação de sentenças) e revogação da REH 531/2007",
+   "tema": [
+    "comercialização (CCEE, arbitragem)",
+    "regulação normativa"
+   ],
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "resultado": "pedido de vista do presidente da sessão (Hélvio Guerra)",
+   "resumo_voto": "Relator: homologar a convenção arbitral e revogar a REH 531/2007; consulta pública desnecessária porque os agentes aprovaram em assembleia. Hélvio questionou a redação do item 56 (suspeição x impedimento, cônjuge e credor como árbitros) e defendeu consulta pública; relator disse que corrigirá o texto.",
+   "votos": [
+    {
+     "diretor": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+     "voto": "relator, homologa",
+     "ts": "3:12:02",
+     "justificativa": "amplia a escolha dos agentes; vontade dos agentes aprovada em assembleia; cabe pouca intervenção da agência em direito disponível",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:39:16",
+     "justificativa": "não vê ganho em consulta pública; agentes aprovaram em assembleia",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:39:19",
+     "justificativa": "consulta pública não traria ganho: FGV contrária e todos os agentes a favor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "pede vista",
+     "ts": "3:39:19",
+     "justificativa": "dúvidas sobre a redação de suspeição/impedimento dos árbitros; homologação implica responsabilidade da ANEEL; defendeu consulta pública",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "8 — recursos da Transmissora de Energia Campinas-Itatiba (Captiva) contra o Despacho SRT 2.118/2021 e pedido de excludente de 742 dias e recálculo de PVA (procs. 48500.003303/2021 e 48500.000566/2022)",
+   "relator": "Giácomo Almeida (diretor substituto; nome fora da lista)",
+   "motivo": "após sustentação oral de Joaquim Augusto Melo de Queiroz, relator retirou de pauta para complementar a instrução; retorno previsto no mês seguinte",
+   "ts": "2:48:14"
+  },
+  {
+   "item": "4, 10, 11 e 42 — retirados de pauta antes da sessão",
+   "relator": "não identificado",
+   "motivo": "não informado",
+   "ts": "0:06:28"
+  }
+ ],
+ "limites_da_analise": [
+  "Giácomo Francisco Bassi Almeida atuou como diretor relator (substituto) e não consta da lista canônica de diretores do config; registrado como dito. Na legenda aparece como Jácomo/Giácomo.",
+  "A legenda não separa falantes; votos de quem só acompanha foram atribuídos pela ordem usual (relator, Fernando Mosna, Ricardo Tili, presidente por último) — confiança baixa/média.",
+  "Item 6: a divergência foi atribuída a Fernando Mosna e o acompanhamento a Ricardo Tili pela ordem de votação e pelo teor dos debates; atribuição incerta.",
+  "Item 19: quem se declarou impedido não foi nomeado; atribuído a Ricardo Tili pela ordem de votação (confiança baixa).",
+  "Item 34: a mesa concede vista ao diretor Ricardo; quem acompanhou antes foi atribuído a Fernando Mosna (baixa).",
+  "Item 7: a proclamação cita consideração de voto do diretor Ricardo Tili (voto-vista); Sandoval Feitosa, ausente, votou como relator em fev/2022; Giácomo Almeida declarou que não vota.",
+  "Bloco e item 15: o objeto do item 15 e seu relator não foram lidos; não se sabe se o presidente já tinha votado o bloco antes do pedido de vista.",
+  "Números de processo vêm da legenda automática e podem conter erros."
+ ]
 }

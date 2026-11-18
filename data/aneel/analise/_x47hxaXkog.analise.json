@@ -1,408 +1,403 @@
 {
  "meta": {
   "video_id": "_x47hxaXkog",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; .md com um único marcador de tempo, ts localizados por busca de frases no JSON da legenda; ts de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "7ª RPO 2023 (parte 2)",
+  "numero": "7ª Reunião Pública Ordinária de 2023 (parte 2, tarde)",
   "data": "2023-03-14",
-  "formato": "presencial/híbrida",
+  "formato": "presencial (sede da Aneel), com transmissão",
   "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
   "diretores_presentes": [
    "Sandoval Feitosa",
    "Agnes da Costa",
+   "Hélvio Guerra",
    "Fernando Mosna",
-   "Ricardo Tili",
-   "Hélvio Guerra"
+   "Ricardo Tili"
   ],
   "ausentes": [],
   "observacoes": [
-   "Parte 2 (tarde/noite) da 7ª Reunião Pública Ordinária de 2023; itens destacados do bloco.",
-   "Item 23 retirado por Hélvio Guerra; item 43 retirado por Fernando Mosna.",
-   "Processo TPE (item 1) segue em vista do Diretor-Geral; Enel Rio (item 6) decidido após vista em mesa."
+   "Continuação da 7ª RPO de 14/03/2023 (a parte 1, de manhã, é outro vídeo); sessão de ≈ 4h20, encerrada à noite.",
+   "Retorno de vista de Ricardo Tili no caso TPE: maioria formada para negar provimento, mas Sandoval Feitosa pediu nova vista.",
+   "Vista em mesa do DG na RTP da Enel Rio resolvida na mesma sessão, com unanimidade após longa negociação.",
+   "Retirados de pauta: item 23 (relator Hélvio Guerra), item 12 CEEE-G (após sustentação oral, volta em 28/03) e item 43 (relator Fernando Mosna).",
+   "O relator Hélvio Guerra dispensou a leitura de relatório e fundamentação dos itens 12, 20, 25 e 32, destacados do bloco."
   ]
  },
  "itens": [
   {
-   "id": "1",
+   "id": "6",
    "ts": "0:00:02",
    "processo": "48500.001153/2018-05",
-   "interessado": "Transmissora Paraíso de Energia S.A. (TPE)",
-   "assunto": "Pedido de reconsideração contra o Despacho 1525/2022, que negou alteração do anexo da REA 6.942/2018 (DUP para servidão administrativa de LT 500 kV na saída da SE Governador Valadares 6); retorno de vista do diretor Ricardo Tili",
+   "interessado": "Transmissora Paraíso de Energia S.A. (TPE) — transmissora; proprietário de terras afetado (Governador Valadares/MG)",
+   "assunto": "Pedido de reconsideração da TPE contra o Despacho 1.525/2022, que negou a alteração do anexo da REA 6.942/2018 (declaração de utilidade pública — DUP — para servidão administrativa) e determinou a retirada de instalações de LT 500 kV construídas fora do traçado declarado, na saída da SE Governador Valadares 6; retorno de vista (voto-vista de Ricardo Tili)",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
+    "transmissão (servidão administrativa, DUP)",
     "recursos administrativos",
     "fiscalização e sanções"
    ],
-   "relator": "Giácomo Almeida (ex-diretor; voto proferido na 41ª RPO de 2022)",
-   "resultado": "Não concluído: maioria formada pelo voto-vista de Ricardo Tili (negar provimento e manter o Despacho 1525/2022), mas o Diretor-Geral Sandoval Feitosa pediu vista",
-   "resumo_voto": "Relator original (Giácomo Almeida) dava provimento para revogar o Despacho 1525/2022 e alterar a DUP. Voto-vista de Ricardo Tili: conhecer e negar provimento, pois a TPE construiu fora da DUP e pediu a alteração depois de iniciar as obras (imagens de satélite: sem obra em 3/4/2020, pedido em 15/5/2020, obra em 28/5/2020). Fernando Mosna reviu seu voto anterior e acompanhou a vista, citando abuso de direito (art. 187 do Código Civil) e desapropriação indireta. Procuradoria defendeu que a solução é indenização no Judiciário. Agnes da Costa não vota no processo pelas regras regimentais. Sandoval pediu vista como último a votar.",
+   "relator": "Giácomo Almeida (ex-diretor; voto proferido na 41ª RPO de 01/11/2022) — nome fora da lista de diretores",
+   "resultado": "pendente — pedido de vista de Sandoval Feitosa; maioria já formada (Tili, Mosna, Guerra) para conhecer e negar provimento, contra o voto do relator original (provimento)",
+   "resumo_voto": "Na 41ª RPO/2022 o relator Giácomo Almeida votou por conhecer e dar provimento (revogar o Despacho 1.525/2022 e alterar a DUP) e Fernando Mosna o acompanhou; Agnes da Costa não vota no processo por disposição regimental. Voto-vista de Ricardo Tili: conhecer e negar provimento, mantendo integralmente o Despacho 1.525/2022 — alteração de DUP deve ser pedida antes ou durante a implantação, nunca depois, salvo área sem litígio; perito judicial constatou obra 100% implantada fora da DUP; intervenção na propriedade é excepcional. Fernando Mosna reviu o voto (doutrina de servidão sem acordo nem DUP = ato manu militari, desapropriação indireta, abuso de direito art. 187 do Código Civil; TLR antecipada ~16 meses, RAP ~R$ 243 mi/ano). Imagens de satélite mostram obra iniciada entre 15/05/2020 (pedido) e 28/05/2020. Procuradoria (parecer) via questão como judicial/indenizatória. Sandoval, último a votar, pediu vista.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "voto-vista: conhecer e negar provimento (manter Despacho 1525/2022)",
-     "ts": "0:24:04",
-     "justificativa": "Transmissora implantou trechos fora da DUP e só depois pediu alteração para convalidar obra já executada, usando a agência para subsidiar disputa judicial; alteração de DUP deve ser pedida antes da implantação.",
-     "tom": "firme",
+     "voto": "voto-vista: conhece e nega provimento (mantém Despacho 1.525/2022)",
+     "ts": "0:05:14",
+     "justificativa": "transmissora construiu em área não abarcada pela DUP antes de pedir a alteração; alteração deve ser pedida antes ou durante a implantação; havia litígio judicial; agiu para usar a Aneel como subsídio em ação judicial ('na minha visão agiu de má-fé')",
+     "tom": "enfático",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o voto-vista (reviu voto anterior favorável ao relator)",
-     "ts": "1:16:44",
-     "justificativa": "Conduta caracteriza abuso de direito (art. 187 CC) e tentativa de regularizar desapropriação indireta; antecipação de receita (RAP) motivou a pressa; agência não pode ter sua autoridade usada para isso.",
-     "confianca": "media"
+     "voto": "reviu o voto (antes acompanhava o relator na 41ª RPO/2022); acompanha o voto-vista",
+     "ts": "1:16:50",
+     "justificativa": "pela doutrina (Carvalho Filho), ocupação sem acordo nem DUP é manu militari e leva a desapropriação indireta; pedido de alteração da DUP para convalidar situação de fato é abuso de direito (art. 187 CC); antecipação da receita era o móvel econômico; Aneel deve preservar sua autoridade",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o voto-vista",
-     "ts": "1:16:46",
-     "justificativa": "Fala curta «eu também acompanho» sem nome; atribuição pela ordem de votação. Lembrou que na decisão original (relator Efrain) votou pela retirada da linha.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "não votou (impedida pelas disposições regimentais)",
-     "ts": "0:00:30",
-     "justificativa": "Secretário informa que a diretora Agnes não vota neste processo.",
+     "ts": "1:16:52",
+     "justificativa": "fala 'Eu também acompanho' sem nome, atribuída pela ordem de votação; na discussão um diretor (provavelmente Guerra) lembrou que votara com o relator Efrain Cruz na decisão original (3 a 2) pela retirada da linha e ponderou que a linha tinha ~mil proprietários e só este caso teve problema",
      "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "pede vista",
-     "ts": "1:16:47",
-     "justificativa": "Como último a votar, pediu vista mesmo com maioria formada, pela possibilidade de mudança de convencimento; ponderou solução intermediária via indenização judicial.",
+     "ts": "1:16:56",
+     "justificativa": "como último a votar, tem a prerrogativa de pedir vista mesmo com maioria formada, porque houve mudança de voto durante o julgamento e o voto ainda pode alterar convencimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não vota neste processo (disposição regimental)",
+     "ts": "0:01:56",
+     "justificativa": "secretário informa que, pelas disposições regimentais então vigentes, a diretora Agnes não vota nesse processo",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "1:19:00",
+   "ts": "1:19:31",
    "processo": "48500.008586/2022-60",
-   "interessado": "Companhia Estadual de Geração de Energia Elétrica (CEEE-G), grupo CSN",
-   "assunto": "Recurso contra auto de infração 49/2021 da AGERGS (multa por descumprimento de regras de estações hidrométricas)",
+   "interessado": "Companhia Estadual de Geração de Energia Elétrica (CEEE-G), controlada pelo grupo CSN — geradora; AGERGS (agência estadual RS)",
+   "assunto": "Recurso administrativo contra o Auto de Infração 49/2021 da AGERGS (multa por descumprimento de regras sobre instalações de observação hidrométrica)",
    "tema": [
-    "fiscalização e sanções (multa, auto de infração, TAC, caducidade)",
-    "recursos administrativos"
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "geração hidrelétrica"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "Retirado de pauta pelo relator após sustentação oral; volta na reunião de 28/03/2023 (prazo de 60 dias negado)",
-   "resumo_voto": "Sustentação oral de Bernardo Garcia Sampaio (CEEE-G) pediu retirada e 60 dias, alegando nova gestão desde 24/10/2022. Hélvio lembrou que o novo controlador assume ativos e passivos, mas retirou o processo para ouvir a empresa.",
+   "resultado": "retirado de pauta pelo relator após a sustentação oral; volta na última reunião de março (28/03/2023)",
+   "resumo_voto": "Sustentação oral de Bernardo Garcia Sampaio (CEEE-G): novo controlador (CSN, controle desde 24/10/2022) pede retirada e 60 dias; alega 82% da Resolução Conjunta ANA/Aneel 3/2010 atendida, multa calculada com receitas não recorrentes (repactuação GSF, redução potencial ~25%) e investimentos de ~R$ 475 mil na rede hidrométrica. Relator: novo controlador assume ativos e passivos e cumprimento é dever contratual, não boa vontade; retira de pauta para ouvir a empresa, mas sem conceder 60 dias.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "retira de pauta (relator)",
-     "ts": "1:26:51",
-     "justificativa": "Retira para ouvir a empresa; recoloca em pauta em 28/03; não concede os 60 dias.",
+     "voto": "relator, retira de pauta (sem deliberação de mérito)",
+     "ts": "1:26:58",
+     "justificativa": "quem assume a concessão assume também os passivos; retira para ouvir a empresa e pode mudar o voto se convencido; prazo até 28/03",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "20",
-   "ts": "1:27:40",
-   "processo": "48500.001540/2021-39; 48500.001541/2021-83",
-   "interessado": "ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista); ABRATE",
-   "assunto": "Pedido de reconsideração contra a REA 11.536/2022 (reforços em LTs Água Vermelha-Jales e Jales-Boa Hora; RAP com valor contábil em vez do Banco de Preços de Referência)",
+   "ts": "1:27:52",
+   "processo": "48500.001540/2021-39 e 48500.001541/2021-83",
+   "interessado": "Companhia de Transmissão de Energia Elétrica Paulista (ISA CTEEP) — transmissora; ABRATE (associação de transmissoras)",
+   "assunto": "Pedido de reconsideração contra a REA 11.536/2022 (autorização de reforços — recondutoramento das LTs Água Vermelha–Jales e Jales–Três Irmãos (nome incerto) — e respectivas parcelas de RAP); discussão do uso do Banco de Preços de Referência vs. valor original contábil (VOC) para equipamentos que não formam módulo completo",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
+    "transmissão (RAP, reforços, banco de preços)",
     "recursos administrativos"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "Unanimidade: conhecer e dar parcial provimento, com minuta de REA anexa; pedido de retirada de pauta negado",
-   "resumo_voto": "Sustentações orais de Rafael Janiques (CTEEP) e Thiago Aragão Soares (ABRATE) pediram retirada e uso do banco de preços. Relator: prática desde 2020, 86% das autorizações usam banco de preços; valor contábil não traz prejuízo. Agnes esclareceu que seu voto na revisão das licitadas tratava do futuro/definitivo e acompanhou.",
+   "resultado": "aprovado por unanimidade — conhecer e dar parcial provimento, nova minuta de REA",
+   "resumo_voto": "Sustentações orais de Rafael Janiques (CTEEP) e Thiago Aragão Soares (ABRATE): mudança de interpretação da SCT após 10 anos de uso itemizado do banco de preços ('cavalo de pau no transatlântico'), violação do PRORET 9.1, pedido de retirada de pauta e de tratar o tema na revisão do PRORET (processo da diretora Agnes). Procuradoria: tema já decidido desde 2020/2021 (voto da diretora Elisa Bastos). SCT (André): ciclo 2021/22 86% das autorizações com banco de preços; modo híbrido abandonado em 2020. Relator nega retirada: não há inovação, VOC é adequado quando o módulo não está completo e não traz prejuízo; voto da diretora Agnes tratava de casos futuros.",
    "votos": [
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "2:00:28",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e dá parcial provimento; nega retirada de pauta",
+     "ts": "1:58:59",
+     "justificativa": "desde meados de 2020 a abordagem é aplicada; 86% com banco de preços, 14% VOC; VOC reflete o valor efetivamente investido, sem prejuízo ao concessionário",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator",
-     "ts": "1:59:40",
-     "justificativa": "Seu voto anterior tratava da revisão tarifária (valor definitivo) e de casos futuros; aqui o valor ainda não é definitivo.",
+     "ts": "1:59:44",
+     "justificativa": "seu voto anterior tratava de revisão tarifária (valor definitivo), por isso não decidiu banco de preços x VOC; aqui a receita ainda não é definitiva, dá para seguir o relator",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:00:28",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "ts": "2:00:26",
+     "justificativa": "falas 'eu também voto com ele/acompanho' sem nome",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:00:28",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "ts": "2:00:27",
+     "justificativa": "falas sem nome; atribuição pela proclamação de unanimidade",
      "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "1:58:30",
-     "justificativa": "Uso do valor original contábil quando não há módulo completo no banco de preços é prática desde 2020; não há inovação; parcial provimento.",
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:00:28",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "25",
-   "ts": "2:00:50",
+   "ts": "2:01:06",
    "processo": "48500.002418/2022-61",
-   "interessado": "Migratio Gestão e Comercialização de Energia Elétrica Ltda.; CEEE-D (vendedora); CCEE",
-   "assunto": "Pedido de reconsideração contra o Despacho 2.347/2022, que negou anular oferta equivocada de compra (PLD + R$ 190,20) no MVE de fevereiro/2022",
+   "interessado": "Migratio Gestão e Comercialização de Energia Elétrica Ltda. — comercializadora; CCEE; distribuidora vendedora (citada como 'C3E', nome incerto)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 2.347/2022, que negou a anulação de oferta equivocada de compra no Mecanismo de Venda de Excedentes (MVE) da CCEE, produto 3 (preço variável, PLD + R$ 190,20), fevereiro/2022",
    "tema": [
-    "comercialização (CCEE, PLD, contratos)",
+    "comercialização (CCEE, MVE, PLD)",
     "recursos administrativos"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "Unanimidade: conhecer e negar provimento",
-   "resumo_voto": "Sustentação de Marcelo Naves (Migratio) alegou erro substancial e escusável (art. 138 CC); Procuradoria mantém que havia erro justificando anulação. Relator: a tela pede confirmação do lance, o agente sabia o que submetia; erros raros. Fernando Mosna, relator vencido na 1ª instância, passou a acompanhar.",
+   "resultado": "aprovado por unanimidade — conhecer e negar provimento",
+   "resumo_voto": "Sustentação oral de Marcelo Naves (Migratio): erro substancial e escusável (art. 138 CC), perfil apenas de leitura no CliqCCEE, procuradoria havia opinado pela anulação; pedido subsidiário de retificação para PLD + R$ 3,10. Na 1ª instância o relator Fernando Mosna votou pela anulação e ficou vencido (4 a 1). Relator: a tela do MVE pede confirmação do lance antes do envio; o agente sabia o que submetia; erros desse tipo são raríssimos e o sistema funciona.",
    "votos": [
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "2:20:20",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "2:15:34",
+     "justificativa": "há tela de confirmação do lance; erro reconhecido mas o agente sabia o que estava submetendo; casos raríssimos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (foi relator vencido na 1ª instância)",
+     "ts": "2:18:48",
+     "justificativa": "embora tenha votado pela anulação na 1ª instância, a modelagem do sistema dá ao agente a chance de ratificar o lance (direito de arrependimento), o que torna a proposta firme",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:20:20",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "ts": "2:20:15",
+     "justificativa": "DG pergunta 'algum comentário, Doutora Agnes?'; falas de acompanhamento sem nome",
      "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "2:19:00",
-     "justificativa": "Embora tenha votado pela anulação na 1ª instância, a etapa de ratificação do sistema dá direito de arrependimento; acompanha.",
-     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:20:20",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "ts": "2:20:15",
      "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "2:16:00",
-     "justificativa": "O sistema exige confirmação do lance; houve erro, mas o agente conhecia o lance submetido; nada a fazer.",
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "2:20:20",
      "confianca": "alta"
     }
    ]
   },
   {
-   "id": "6",
-   "ts": "2:20:50",
-   "processo": "48500.006834/2022-15; 48500.007896/2022-67",
-   "interessado": "Enel Distribuição Rio",
-   "assunto": "Revisão tarifária periódica 2023 da Enel Rio (vigência 15/03/2023) e limites DEC/FEC 2024-2028, após CP 60/2022; retorno de vista em mesa do Diretor-Geral",
+   "id": "2",
+   "ts": "2:20:44",
+   "processo": "48500.006834/2022-15 e 48500.007896/2022-67",
+   "interessado": "Enel Distribuição Rio (Ampla) — distribuidora",
+   "assunto": "Revisão Tarifária Periódica 2023 da Enel Rio (vigência 15/03/2023), indicadores DEC/FEC 2024–2028, após Consulta Pública 60/2022; retorno de vista em mesa (pedida pelo DG na parte da manhã) — debate sobre resultado provisório x definitivo e perdas não técnicas em áreas de severa restrição operativa",
    "tema": [
-    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)",
-    "regulação normativa"
+    "tarifas e revisão tarifária (distribuidoras, RTP)",
+    "perdas não técnicas",
+    "distribuição (qualidade DEC/FEC)",
+    "regulação normativa (PRORET)"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "Unanimidade: aprova RTP definitiva, efeito médio 3,28% (-4,91% AT; 6,18% BT), determinação de 90 dias à SRM/SGT sobre módulo 2.6 do PRORET (perdas não técnicas em áreas de severa restrição operativa), com efeitos a incorporar no próximo processo tarifário",
-   "resumo_voto": "Voto-vista em mesa de Sandoval defendia revisão definitiva; depois abriu mão e acompanhou o relator. Ricardo Tili ajustou o dispositivo: efeitos de eventual aprimoramento entram como componente financeiro retroativo no próximo reajuste. Fernando Mosna retirou a divergência (tomada de subsídios 28/2022, mercado medido x faturado) após a SGT esclarecer que o efeito da GD já é expurgado. Agnes ponderou contra componentes financeiros, mas convergiu.",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator (revisão sem caráter provisório) com determinação à SRM/SGT",
+   "resumo_voto": "Voto-vista em mesa de Sandoval: resultado deve ser definitivo (desde o 4º ciclo a Aneel evita revisões provisórias; meta de perdas não técnicas 22,93% do mercado BT, ante 18,54% pactuados no aditivo; ponderação de severa restrição operativa mais flexível que a da Light); propôs determinação para em 90 dias avaliar o submódulo 2.6 do PRORET. Havia três linhas: Ricardo (dois pontos em aberto, efeitos no próximo reajuste), Fernando (aplicar desde logo o tratamento medido/faturado da Tomada de Subsídios 28/2022) e o voto-vista. Sandoval mudou o voto e acompanhou Ricardo; após esclarecimento da SGT de que o efeito da GD no mercado medido/faturado já é expurgado desde a RTP da Light, Fernando retirou a divergência. Decisão: efeito médio de 3,28% (AT -4,91%, BT 6,18% — sinais e valores pela legenda), Ter -0,30%, referencial de perdas 2024–2027, limites DEC/FEC (NT 14/2023); determinação SRM/SGT, em 90 dias, avaliar reformulação do submódulo 2.6A do PRORET (perdas não técnicas e inadimplência em áreas de severa restrição operativa), com eventuais efeitos retroativos como componente financeiro no próximo processo tarifário.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, aprova (dispositivo ajustado)",
-     "ts": "3:05:00",
-     "justificativa": "Deixar aberta revisão das perdas não técnicas, com efeitos no próximo reajuste como componente financeiro retroativo.",
+     "voto": "relator, aprova a RTP com dois pontos a revisitar no reajuste; depois retira o ponto da TS 28/2022",
+     "ts": "2:49:54",
+     "justificativa": "prefere não fechar a revisão com dúvida na diretoria; eventuais mudanças metodológicas entram no próximo reajuste como componente financeiro, sem reabrir o processo",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "voto-vista retirado; acompanha o relator e proclama",
-     "ts": "2:52:03",
-     "justificativa": "Revisões provisórias prejudicam consumidores e distribuidoras; metodologia nova exige AIR; abriu mão do voto em nome da convergência.",
+     "voto": "voto-vista em mesa (revisão definitiva); depois muda o voto e acompanha o relator; proclama",
+     "ts": "2:52:10",
+     "justificativa": "revisões provisórias geram componentes financeiros e instabilidade para consumidores e distribuidoras; alteração metodológica exige AIR (lei das agências); mudou o voto em nome de uma decisão",
      "confianca": "alta"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (retirou divergência)",
-     "ts": "3:17:20",
-     "justificativa": "Retirou divergência sobre tomada de subsídios 28/2022 após esclarecimento de que o expurgo da GD já está no cálculo; «com medo de apanhar eu voto com o relator» (atribuição provável).",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "3:17:30",
-     "justificativa": "Antes acompanhara a divergência de Fernando só quanto ao mercado medido/faturado; acompanhou a proposta final.",
+     "voto": "divergência parcial (aplicar tratamento medido/faturado da TS 28/2022) retirada; acompanha o relator",
+     "ts": "3:17:36",
+     "justificativa": "após esclarecimento da SGT de que o efeito da GD já é expurgado, considerou a preocupação atendida; 'com medo de apanhar eu voto com o relator' — falante não nomeado, atribuição provável",
      "confianca": "media"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:17:30",
-     "justificativa": "Receio de componentes financeiros e de instabilidade regulatória, mas tende a convergir; perdas ligadas à segurança pública devem ser tratadas pela União na renovação da concessão.",
+     "ts": "3:06:30",
+     "justificativa": "receio de decisões provisórias e componentes financeiros; segurança pública não deve ser ônus do concessionário nem do consumidor e deve ser tratada na renovação da concessão; 'tendo a concordar' para convergir",
      "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:08:18",
+     "justificativa": "pediu esclarecimento à SGT sobre se a questão do mercado já estava tratada; um diretor (possivelmente Guerra) disse ter acompanhado Fernando só no ponto do mercado",
+     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "3:22:00",
+   "ts": "3:21:58",
    "processo": "48500.006579/2018-47",
-   "interessado": "Copel Distribuição S.A.; Cooperativa de Distribuição Elétrica Castro (Castro-DIS)",
-   "assunto": "Recurso contra o Despacho 3.489/2022 da SRM, que homologou o 3º termo aditivo do contrato de suprimento exceto montantes de jan-set/2022",
+   "interessado": "Copel Distribuição S.A. (supridora) e Cooperativa de Distribuição de Energia Elétrica Castro (permissionária suprida, PR)",
+   "assunto": "Recurso administrativo contra o Despacho 3.489/2022 da SRM, que homologou o 3º termo aditivo ao contrato de suprimento Copel–Castro exceto os montantes de janeiro a setembro de 2022 (aditivo enviado com ~1 ano de atraso)",
    "tema": [
-    "comercialização (CCEE, PLD, contratos)",
+    "comercialização (contratos de suprimento)",
     "recursos administrativos",
-    "fiscalização e sanções"
+    "fiscalização e sanções",
+    "tarifas (PRORET)"
    ],
    "relator": "Fernando Mosna",
-   "resultado": "Unanimidade dos presentes: dar provimento, homologar jan-set/2022; SFF instaura processo punitivo contra a Castro pelo atraso; SRM/SGT avaliam ajuste no PRORET",
-   "resumo_voto": "Homologação é ato vinculado de certificação de legalidade; atraso no envio gera penalidade, não homologação parcial; precedente da própria Castro (NT 22/2018).",
+   "resultado": "aprovado por unanimidade dos presentes — provimento ao recurso",
+   "resumo_voto": "Homologação é ato vinculado de certificação de legalidade; a REN 1.009/2022 não prevê homologação parcial; atraso no envio sujeita a penalidade (REN 846/2019), não à não homologação; a própria SRM homologou contrato da Castro enviado com atraso em 2018 (NT 22/2018); caso difere do da EDP Espírito Santo (aprovação, não homologação). Determina homologar jan–set/2022, SFF instaurar processo punitivo contra a Castro e SRM/SGT avaliarem ajuste no PRORET para considerar montantes contratados e homologados. Procuradoria (Cid) sem óbice, citando parecer 234/2021.",
    "votos": [
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "3:41:41",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:41:41",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
-    },
-    {
      "diretor": "Fernando Mosna",
-     "voto": "relator, aprova",
-     "ts": "3:36:00",
-     "justificativa": "Homologação é mera certificação de legalidade; atraso de quase 1 ano enseja processo punitivo, não recusa parcial.",
+     "voto": "relator, dá provimento",
+     "ts": "3:37:54",
+     "justificativa": "homologação é vinculada; atraso gera penalidade, não não homologação; precedente da própria SRM",
      "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:41:41",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "ts": "3:39:12",
+     "justificativa": "fez perguntas sobre o objeto do aditivo (montantes e sazonalização de 2022)",
      "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:41:41",
+     "confianca": "baixa"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "3:41:41",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:41:49",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "7",
-   "ts": "3:43:00",
+   "ts": "3:43:17",
    "processo": "48500.003324/1999-16",
-   "interessado": "Eletrobras; Eletronet S.A.; LT Bandeirantes; Eletropar",
-   "assunto": "Requerimento de esclarecimento do Despacho 1290/2022 (cessão de direito de uso de infraestrutura de transmissoras do grupo Eletrobras à Eletronet)",
+   "interessado": "Eletrobras, Eletronet S.A., LT Bandeirantes e Eletrobras Participações (Eletropar); transmissoras Chesf, Furnas, Eletronorte, CGT Eletrosul",
+   "assunto": "Requerimento de esclarecimento sobre o Despacho 1.290/2022 (aprovação condicionada do contrato de cessão de direito de uso de infraestrutura entre as transmissoras do grupo Eletrobras e a Eletronet)",
    "tema": [
-    "transmissão (RAP, outorgas, reforços)",
-    "recursos administrativos"
+    "transmissão (compartilhamento de infraestrutura)",
+    "recursos administrativos",
+    "institucional"
    ],
    "relator": "Fernando Mosna",
-   "resultado": "Unanimidade: não conhecer do requerimento",
-   "resumo_voto": "Na linha do Parecer 25/2023 da Procuradoria: pedido intempestivo como recurso, coisa julgada administrativa; diretoria não tem função consultiva; afasta a orientação via fiscalização (art. 2º da REN 846/2019) pois implicaria reanálise de mérito.",
+   "resultado": "aprovado por unanimidade — não conhecer do requerimento",
+   "resumo_voto": "Na linha do Parecer 25/2023 da procuradoria: o pedido, protocolado em 01/08/2022, seria recurso intempestivo (prazo encerrado em 06/06/2022); coisa julgada administrativa; a diretoria não tem função consultiva e não cabem embargos de declaração. O relator afasta também a sugestão do procurador-geral de orientação pela fiscalização (art. 2º da REN 846/2019), porque os esclarecimentos envolveriam rever o mérito do despacho.",
    "votos": [
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "3:57:52",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "diretor": "Fernando Mosna",
+     "voto": "relator, não conhece",
+     "ts": "3:57:39",
+     "justificativa": "estabilização das decisões administrativas; direito de petição não abre instância ilimitada; evitar uma 'ciranda sem fim' de pedidos de esclarecimento",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:57:52",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "relator, aprova",
-     "ts": "3:55:00",
-     "justificativa": "Coisa julgada administrativa; pedido de esclarecimento implicaria reexame do mérito do Despacho 1290/2022.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:57:52",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
+     "ts": "3:58:16",
+     "confianca": "baixa"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:57:52",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
+     "ts": "3:58:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "3:58:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:58:16",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "32",
-   "ts": "3:59:01",
+   "ts": "3:58:55",
    "processo": "48500.003996/2021-33 e outros",
-   "interessado": "Complexo Fotovoltaico Irmãos Coragem SPE Ltda.",
-   "assunto": "Autorização das UFVs Irmãos Coragem 1 a 3 (Parazinho/RN) como PIE e direito ao desconto na TUST/TUSD",
+   "interessado": "Complexo Fotovoltaico Irmãos Coragem SPE Ltda. — geradora solar; UFVs Irmãos Coragem 1 a 3, Parazinho/RN",
+   "assunto": "Autorização para implantar e explorar as UFVs Irmãos Coragem 1 a 3 como PIE e direito ao desconto na TUST/TUSD (prazo legal de 02/03/2022, Lei 9.427/1996 art. 26)",
    "tema": [
-    "outorgas de geração (eólica, solar, hidrelétrica, térmica)",
-    "tarifas e revisão tarifária (distribuidoras, RTP/RTA, bandeiras)"
+    "outorgas de geração (solar)",
+    "CDE e encargos / descontos TUST-TUSD"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "Unanimidade: emite a REA, sem direito à redução de TUST/TUSD",
-   "resumo_voto": "Sustentação de Diogo Pignataro de Oliveira alegou boa-fé (protocolo em 13/08/2021, complementação em 3 dias). Relator: documentos essenciais (ex.: licença ambiental) não foram protocolados até 02/03/2022; Secretaria-Geral confirmou. Fernando Mosna acompanhou e sinalizou que casos do prazo de 2/3 exigirão exame detalhado.",
+   "resultado": "aprovado por unanimidade — autorizada, sem direito ao desconto na TUST/TUSD",
+   "resumo_voto": "Sustentação oral de Diogo Pignataro de Oliveira: protocolo em 13/08/2021, sete meses antes do prazo; documentos faltantes (licença prévia de 09/07/2021, informação de acesso) já existiam e foram entregues 3 dias após a exigência; boa-fé (parágrafo 51 do Parecer 77/2021). Procuradoria: lei exige pedido conforme regulamento no prazo; flexibilização só para pendências de pouca importância. Relator: faltavam documentos essenciais (licença ambiental etc.) no protocolo, confirmado pela Secretaria-Geral; autoriza sem desconto. Superintendente da SCG (Carlos Cabral, nome incerto) confirma.",
    "votos": [
     {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator e proclama",
-     "ts": "4:19:30",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, autoriza sem desconto na TUST/TUSD",
+     "ts": "4:10:50",
+     "justificativa": "documentos essenciais não foram apresentados até 02/03/2022, ainda que existissem; protocolo já mostrava a falta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "4:15:27",
+     "justificativa": "assessoria confirmou que não houve falha da Aneel; daqui em diante casos semelhantes exigirão análise detalhada da instrução e do respeito ao prazo",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "4:19:30",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "4:16:30",
-     "justificativa": "Não houve imprecisão da agência; daqui em diante casos do prazo de 2 de março exigirão análise detalhada da instrução.",
-     "confianca": "alta"
+     "ts": "4:19:00",
+     "justificativa": "falas 'eu também acompanho' sem nome; DG se confundiu sobre quem era o relator",
+     "confianca": "baixa"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "4:19:30",
-     "justificativa": "Unanimidade proclamada pelo Diretor-Geral.",
-     "confianca": "media"
+     "ts": "4:19:04",
+     "confianca": "baixa"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "4:14:00",
-     "justificativa": "Documentos essenciais não apresentados até 02/03/2022; outorga emitida sem desconto.",
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "4:19:19",
      "confianca": "alta"
     }
    ]
@@ -411,23 +406,31 @@
  "retirados": [
   {
    "id": "23",
-   "motivo": "retirado de pauta por indicação do relator Hélvio Guerra"
-  },
-  {
-   "id": "43",
-   "motivo": "retirado de pauta por decisão do diretor Fernando Mosna"
+   "relator": "Hélvio Guerra",
+   "motivo": "retirado por indicação do relator, autorizado pela presidência",
+   "ts": "1:19:10"
   },
   {
    "id": "12",
-   "motivo": "retirado após sustentação oral; volta em 28/03/2023"
+   "processo": "48500.008586/2022-60",
+   "relator": "Hélvio Guerra",
+   "motivo": "retirado pelo relator após sustentação oral da CEEE-G; reinclusão prevista para 28/03/2023",
+   "ts": "1:26:58"
+  },
+  {
+   "id": "43",
+   "relator": "Fernando Mosna",
+   "motivo": "retirado por decisão do relator",
+   "ts": "3:21:51"
   }
  ],
  "limites_da_analise": [
-  "Cabeçalho do .md lista Gentil Nogueira, mas ele não aparece na sessão (posse posterior); presentes inferidos pelas falas: Sandoval, Agnes, Fernando Mosna, Ricardo Tili, Hélvio Guerra.",
-  "Item 1: votos de seguidores sem nome ('eu acompanho o voto vista', 'eu também acompanho') atribuídos a Fernando e Hélvio pela ordem; confiança baixa para Hélvio.",
-  "Item 6: falas finais 'com medo de apanhar eu voto com o relator' e 'eu também' sem nome; atribuições aproximadas.",
-  "Número do processo do item 25 (48500.002418/2022-61) e nomes de advogados vêm da legenda automática e podem estar errados.",
-  "Relator original do item 1 (Giácomo Almeida) não está na lista do config; registrado como dito.",
-  "Timestamps de votos de seguidores e de alguns relatores são aproximados (transcrição em bloco único)."
+  "Legenda automática: nomes e números podem estar errados (ex.: 'já como base Almeida' = Giácomo Almeida, ex-diretor relator do item 6, fora da lista de diretores; 'Ricardo Chile/Tile' = Ricardo Tili; 'Elvis/Élvio/houve guerra' = Hélvio Guerra; 'Mózna/Mozart' = Fernando Mosna).",
+  "O cabeçalho do .md lista Gentil Nogueira entre os falantes inferidos, mas ele não aparece na sessão; os presentes considerados (5) seguem as falas e chamadas.",
+  "Item 6: Giácomo Almeida (ex-diretor, voto de 01/11/2022, provimento) não está entre os presentes e não recebeu voto; a fala 'Eu também acompanho' foi atribuída a Hélvio Guerra pela ordem de votação (confiança média). Também não é certo quem fez as intervenções sobre os 'mil proprietários' e a solução pela indenização judicial.",
+  "Na maioria dos itens só o relator e o DG são identificáveis; os demais votos vêm da proclamação de unanimidade (confiança média/baixa) e os ts são aproximados.",
+  "Item 5: o DG proclamou 'unanimidade dos presentes'; não ficou claro se algum diretor estava fora naquele momento. Registrados os 5 votos.",
+  "Item 2 (Enel Rio): a atribuição de falas não nomeadas a Fernando Mosna, Agnes da Costa e Hélvio Guerra na discussão é inferida; os percentuais do efeito tarifário (3,28%; -4,91% AT; 6,18% BT) saíram da legenda e o sinal do efeito médio não está claro.",
+  "Nomes de terceiros (Rafael Janiques, Thiago Aragão Soares, Bernardo Garcia Sampaio, Marcelo Naves, Diogo Pignataro de Oliveira, Carlos Cabral, procuradores Luís Eduardo e Cid) estão grafados como foram ouvidos e são incertos."
  ]
 }

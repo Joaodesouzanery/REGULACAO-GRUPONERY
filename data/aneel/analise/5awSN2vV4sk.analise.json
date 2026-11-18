@@ -1,28 +1,42 @@
 {
-  "meta": {"video_id": "5awSN2vV4sk", "fonte": "legenda automática do YouTube; falantes inferidos; transcrição sem marcadores internos, ts obtidos do .json de legendas", "versao_esquema": 1},
+  "meta": {"video_id": "5awSN2vV4sk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; parte 2 da 21ª RPO (retomada da sessão)", "versao_esquema": 1},
   "reuniao": {
-    "numero": "21ª Reunião Pública Ordinária (Parte 2)", "data": "2023-06-20", "formato": "presencial com transmissão",
+    "numero": "21", "data": "2023-06-20", "formato": "presencial com transmissão (parte 2)",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
     "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Hélvio Guerra"],
     "ausentes": [],
-    "observacoes": ["Retomada da 21ª RPO só para o último item da pauta (CP 15/2023, mecanismo excepcional de rescisão de CUST e liberação de margem de escoamento).", "Item havia sido pautado na reunião anterior e retirado pelo relator para avaliar as sustentações orais.", "Fernando Mosna abriu divergência (regularização das outorgas já nesta fase, sem segunda fase de CP) e pediu vista; vista concedida. Agnes propôs excluir o item 3 do parágrafo 171 (suspensão da cobrança de encargos do CUST), aceito pelo relator.", "No encerramento o presidente fala em 'vigésima segunda' reunião, provável lapso (abertura diz vigésima primeira)."]
+    "observacoes": [
+      "Parte 2 da 21ª Reunião Pública Ordinária de 20/06/2023: retomada com o último item da pauta (CP 15/2023, mecanismo excepcional de rescisão de CUST e revogação de outorgas de geração).",
+      "Na abertura o Diretor-Geral cumprimenta a diretora Agnes, o diretor Fernando e o diretor Hélvio; não há menção a quinto diretor.",
+      "Item com sustentação oral, apresentação técnica (Rafael), debate longo (Agnes da Costa sobre a suspensão da cobrança de encargos; Fernando Mosna defendendo tratar a regularização já nesta fase) e pedido de vista de Fernando Mosna; sem deliberação final.",
+      "No encerramento a legenda diz «vigésima segunda reunião», mas a abertura e o título indicam a 21ª (erro de fala ou de legenda)."
+    ]
   },
   "itens": [
     {
-      "id": "1", "ts": "0:00:30",
-      "processo": "48500.001719/2023-58 (número da legenda, incerto)", "interessado": "centrais geradoras com outorga e CUST (sustentação oral de representante da Índia Brasil Energia, Sra. Diane, nome incerto)",
-      "assunto": "Aprovação do mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (CP 15/2023) e abertura da segunda fase da CP 15/2023 para alocação da margem de escoamento e regularização de outorgas sem CUST rescindido",
-      "tema": ["outorgas de geração", "transmissão (margem de escoamento, CUST)", "regulação normativa (consulta pública)"],
-      "relator": "Hélvio Guerra", "resultado": "pedido de vista de Fernando Mosna; julgamento suspenso",
-      "resumo_voto": "Relator propõe despacho fixando 30/06/2023 como prazo para agentes apresentarem ao ONS termo de adesão; rescisão dos CUST sem encargos rescisórios para quem aderir; segunda fase da CP por intercâmbio documental de 20 dias (22/06 a 11/07/2023) sobre regularização de outorgas e alocação da margem (inclusive PCM). Apresentação técnica de Rafael (área técnica). Divergência de Fernando: tratar a regularização já, sem segunda fase. Agnes: excluir a suspensão da cobrança do CUST para quem já assinou (relator retira o item 3 do §171).",
+      "id": "1", "ts": "0:00:37",
+      "processo": "48500.001719/2023-58",
+      "interessado": "Centrais geradoras com CUST celebrado (agentes de geração), ONS e transmissoras; sustentação oral de representante de associação/empresa do setor (nome incerto na legenda)",
+      "assunto": "Aprovação do mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (CP 15/2023: rescisão amigável de CUST sem encargos rescisórios e revogação de outorgas, para liberar margem de escoamento) e abertura da segunda fase da CP 15/2023 sobre alocação da margem liberada e propostas de regularização de outorgas que não terão CUST rescindido",
+      "tema": ["transmissão (CUST, margem de escoamento)", "outorgas de geração (eólica, solar)", "regulação normativa (consulta pública)", "tarifas (TUST)", "judicialização"],
+      "relator": "Hélvio Guerra",
+      "resultado": "pedido de vista do diretor Fernando Mosna (concedido); sem deliberação nesta sessão",
+      "resumo_voto": "Relator (item já pautado na reunião anterior e retirado após sustentações orais) vota por despacho fixando 30/06/2023 para os agentes entregarem ao ONS o termo de declaração; ONS envia até 15/08/2023 a relação das centrais aptas; revogação das outorgas e rescisão dos CUST sem os encargos rescisórios; e instauração de segunda fase da CP 15/2023 (intercâmbio documental, 20 dias, 22/06 a 11/07/2023) sobre regularização das outorgas (postergação limitada a 36 meses, condicionada a renúncia de ações judiciais, sem excludente de responsabilidade e com garantia de CUST) e alternativas de alocação da margem liberada, mantendo a vigência dos pareceres de acesso. Apresentação técnica: 72 contribuições, potencial cadastrado de 11,78 GW. Agnes da Costa questionou a suspensão da cobrança dos encargos do CUST durante a segunda fase; o relator concordou em retirar esse ponto (item 3 do par. 171). Fernando Mosna sinalizou divergência (tratar a regularização já nesta fase, como opção do agente; forma de resolução e não despacho; ponto sobre o ACR (legenda: «CR»)) e pediu vista em nome da colegialidade.",
+      "sustentacao_oral": "Representante (Diane, conforme legenda) de entidade transcrita como «Índia Brasil energia»: apoio ao mecanismo, reabertura do prazo de adesão e regularização de outorgas/cronogramas para grupo restrito de agentes, com comprovação de viabilidade, renúncia judicial e garantia adicional do CUST. Procuradoria (Luís Eduardo) manteve a manifestação da reunião anterior.",
       "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (retirando o item 3 do §171 após sugestão de Agnes)", "ts": "0:24:02", "justificativa": "liberar margem ocupada por empreendimentos inviáveis; regularização ad hoc sem critério escolheria vencedores e transferiria custos aos demais usuários; regularização vai à segunda fase da CP", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "diverge parcialmente e pede vista", "ts": "0:57:07", "justificativa": "defende encerrar a CP 15 já tratando a regularização das outorgas, sem segunda fase; nota técnica 28 (§61) já apontava a regularização como solução", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "1:26:47", "justificativa": "elogia o voto, mas propõe excluir a suspensão da cobrança dos encargos do CUST: quem tem obrigação deve pagar até a decisão; evitar criar um limbo", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "1:33:11", "justificativa": "concede vista; concorda com Agnes sobre não suspender o pagamento; empreendedor é quem conhece a viabilidade", "confianca": "media"}
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova (despacho do mecanismo excepcional + segunda fase da CP 15/2023); ajustou o voto retirando a suspensão da cobrança dos encargos do CUST", "ts": "0:49:22", "justificativa": "objetivo do mecanismo é liberar margem e reduzir inadimplência na transmissão; regularização não libera margem, pode ter impacto tarifário e deve ser debatida em segunda fase com cautela para que agentes não desistam do mecanismo; quem conhece a viabilidade é o empreendedor; concordou com Agnes que não vale suspender o pagamento", "tom": "técnico, conciliador", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (vista); no debate questionou a suspensão da cobrança dos encargos do CUST durante a segunda fase", "ts": "0:52:26", "justificativa": "quem tem CUST assinado deve continuar pagando até a decisão sobre regularização; a suspensão criaria um limbo e mais uma exceção; achou o restante do voto coerente", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "pede vista (sinalizou divergência)", "ts": "1:33:11", "justificativa": "o mecanismo excepcional da CP 15 não se limita a liberar margem (forças da NT 28: saneamento, redução de judicialização); deixar a regularização para segunda fase impõe ao agente uma «escolha de Sofia»; já seria possível oferecer a opção entre rescisão sem multa e regularização; não houve parecer jurídico sobre «mudança de entendimento»; forma adequada seria resolução, não despacho", "tom": "divergente, argumentativo", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista); no debate defendeu tratar a regularização em fase própria", "ts": "1:13:13", "justificativa": "regularização ad hoc sem critério escolheria vencedores e transferiria custo de rede aos demais usuários; tema não fez parte formal da consulta; preocupação com suspensão da assinatura de CUST e possível judicialização; agente decide com base em sua própria matriz de risco", "confianca": "media"}
       ]
     }
   ],
   "retirados": [],
-  "limites_da_analise": ["Transcrição automática em bloco único; nomes (Diane, Índia Brasil Energia, Rafael, Vitor) e número do processo incertos.", "Ricardo Tili e outros diretores não são mencionados; não se sabe se havia cadeira vaga ou ausência.", "Votação formal não chegou a ocorrer: vista concedida a Fernando Mosna antes da coleta de votos; Agnes e Sandoval registrados como não votou (vista)."]
+  "limites_da_analise": [
+    "Legenda automática: o número do processo (48500.001719/2023-58), o nome da representante na sustentação oral (Diane) e da entidade («Índia Brasil energia») são incertos.",
+    "Atribuição da fala de 1:13:13 («bem eu assim já me manifestei... tô há 18 anos na agência») a Sandoval Feitosa é inferida pelo contexto (preside, cita o diretor Fernando e a diretora Agnes em terceira pessoa); confiança media.",
+    "O pedido de vista (1:33:11) não tem nome explícito na fala; a mesa proclama «vista concedida ao diretor Fernando».",
+    "Nenhum diretor votou no mérito: item ficou pendente; Agnes da Costa e Sandoval Feitosa registrados como «não votou (vista)».",
+    "Reunião com 4 diretores presentes conforme cumprimentos iniciais; a 5ª cadeira não é mencionada."
+  ]
 }

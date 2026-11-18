@@ -1,140 +1,153 @@
 {
  "meta": {
   "video_id": "Gp44MOT6MzI",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts pelo json da transcrição; votos de quem acompanha aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados (início da rodada de votação)",
   "versao_esquema": 1
  },
  "reuniao": {
   "numero": "25ª Reunião Pública Ordinária de 2022 (Parte 1)",
   "data": "2022-07-12",
-  "formato": "presencial com transmissão",
-  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta)",
+  "formato": "presencial com transmissão (sustentações orais presenciais e remotas)",
+  "presidente_da_sessao": "Camila Bomfim (diretora-geral substituta; apenas o prenome Camila aparece na legenda)",
   "diretores_presentes": [
    "Camila Bomfim",
-   "Efrain Cruz",
-   "Giácomo Almeida",
    "Hélvio Guerra",
-   "Ricardo Tili"
+   "Ricardo Tili",
+   "Efrain Cruz",
+   "Giácomo Almeida"
   ],
   "ausentes": [],
   "observacoes": [
-   "Pauta de 51 itens; sessão aberta com quórum de cinco diretores.",
-   "Dez RTEs da Lei 14.385/2022 (devolução de créditos PIS/Cofins) deliberadas em sequência, todas unânimes.",
-   "Parte 1 termina no intervalo de almoço antes da votação do item 23 (Âmbar/UTE Cuiabá)."
+   "Quórum declarado de cinco diretores: a presidente cumprimenta os diretores Ricardo (Tili), Efraim (Efrain Cruz), Giácomo e Hélvio.",
+   "Pauta com 51 itens; bloco dos itens 26 a 51; retirados de pauta pela Secretaria-Geral os itens 11 (RTE da Light, liminar judicial), 25, 27, 29 e 33; no início do julgamento foram retirados também os itens 7, 8 e 10 (RTEs com créditos ainda não habilitados ou com liminar).",
+   "Itens 1 a 14: dez revisões tarifárias extraordinárias da Lei 14.385/2022 (devolução de créditos de PIS/Cofins), todas aprovadas por unanimidade, com tarifas vigentes a partir de 13/07/2022.",
+   "Item 23 (Âmbar / UTE Cuiabá no PCS): voto do relator Efrain Cruz lido contra o parecer das áreas técnicas e da Procuradoria; sessão suspensa para almoço antes da votação; continua na Parte 2.",
+   "Ata da 24ª RPO (05/07/2022) aprovada."
   ]
  },
  "itens": [
   {
    "id": "bloco",
    "ts": "0:04:28",
-   "processo": "itens remanescentes do bloco (itens 26 a 51, exceto 26 e 28 destacados e retirados)",
+   "processo": "",
    "interessado": "diversos",
-   "assunto": "Aprovação em bloco dos itens remanescentes",
+   "assunto": "Itens remanescentes do bloco (itens 26 a 51 da pauta, exceto 26 e 28, destacados, e 27, 29 e 33, retirados)",
    "tema": [
-    "diversos"
+    "bloco de itens"
    ],
    "relator": "diversos",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Votos do bloco disponíveis no site desde a quinta anterior; aprovação sem discussão.",
+   "resumo_voto": "Votos do bloco disponíveis no site da ANEEL desde a quinta-feira anterior; aprovados sem discussão.",
    "votos": [
     {
-     "diretor": "Camila Bomfim",
-     "voto": "aprova o bloco; proclama unanimidade",
-     "ts": "0:04:35",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:04:35",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Giácomo Almeida",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:04:35",
-     "confianca": "media"
-    },
-    {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:04:35",
+     "voto": "aprova o bloco",
+     "ts": "0:04:34",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "aprova o bloco (pela proclamação)",
-     "ts": "0:04:35",
+     "voto": "aprova o bloco",
+     "ts": "0:04:34",
      "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "aprova o bloco",
+     "ts": "0:04:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "aprova o bloco",
+     "ts": "0:04:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:04:43",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "1",
    "ts": "0:05:19",
-   "processo": "48500.006017/2022-82 (legenda incerta)",
-   "interessado": "Neoenergia Pernambuco (Celpe)",
-   "assunto": "Revisão tarifária extraordinária 2022 de Neoenergia Pernambuco (Celpe) (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "processo": "48500.006017/2022-82 (número incerto na legenda)",
+   "interessado": "Companhia Energética de Pernambuco (Neoenergia Pernambuco, Celpe)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia Energética de Pernambuco (Neoenergia Pernambuco, Celpe) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade — efeito médio -4,07% (AT -3,98%; BT -4,10%)",
-   "resumo_voto": "Primeiro de 10 processos de RTE da Lei 14.385 (apresentação técnica conjunta SGT/SFF, Malu e Leonardo). Procuradoria: consulta pública desnecessária, pois a lei já decidiu a titularidade dos créditos (destinação integral ao consumidor via tarifa). Efrain destacou celeridade (duas semanas após a lei); Camila Bomfim explicou que ICMS não entra na tarifa (LC 194) e que valores declarados pelas empresas serão fiscalizados.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -4,07% (-3,98% alta tensão; -4,10% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária. Apresentação técnica conjunta SFF/SGT (Malu e Leonardo) cobrindo os 10 processos de RTE. Procuradoria: consulta pública desnecessária porque a decisão já foi tomada pelo Parlamento e não há margem de discricionariedade. No início, retirados de pauta os itens 7, 8 e 10 (ver retirados).",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:29:00",
-     "confianca": "alta",
-     "justificativa": "cumprimento direto dos §§6º e 7º do art. 3º-B da Lei 9.427 incluídos pela Lei 14.385; créditos são dos consumidores"
+     "ts": "0:34:28",
+     "justificativa": "lei 14.385 definiu que os créditos são dos consumidores e devem ser devolvidos via cálculo tarifário; consulta pública não é necessária; reforça que o ICMS nunca é incluído pela ANEEL nas tarifas (competência estadual, entra na fatura)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:45:15",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:45:13",
+     "ts": "0:45:15",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:45:13",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:45:13",
-     "confianca": "media"
+     "ts": "0:45:15",
+     "confianca": "baixa",
+     "justificativa": "comentário (atribuição inferida): ANEEL deliberou em duas semanas após a lei; o que importa é o efeito total do PIS/Cofins no processo tarifário, de quase 5 a quase 9 pontos percentuais; parabeniza a SGT"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "0:45:13",
-     "confianca": "alta"
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "0:45:24",
+     "confianca": "alta",
+     "justificativa": "a lei não prevê nem exige consulta pública: é aplicação direta de dispositivo legal, não RTP/RTA/RTE contratual; valores declarados pelas empresas ainda serão fiscalizados e ajustes podem vir no próximo processo tarifário; a redução do ICMS (LC 194/2022) não entra nas tarifas da ANEEL"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "0:46:22",
-   "processo": "48500.006018/2022-24 (legenda incerta)",
-   "interessado": "Neoenergia Coelba",
-   "assunto": "Revisão tarifária extraordinária 2022 de Neoenergia Coelba (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "0:46:07",
+   "processo": "48500.006018/2022-24 (número incerto na legenda)",
+   "interessado": "Companhia de Eletricidade do Estado da Bahia (Neoenergia Coelba)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia de Eletricidade do Estado da Bahia (Neoenergia Coelba) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade — efeito médio -0,50% (AT -0,49%; BT -0,50%)",
-   "resumo_voto": "Leitura de relatório e fundamentação dispensada; efeito pequeno porque créditos já haviam sido usados em processos anteriores (efeito total de PIS/Cofins ≈ -6,41%, segundo Efrain).",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -0,50% (-0,49% alta tensão; -0,50% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária. Efeito incremental pequeno porque a maior parte dos créditos já tinha sido devolvida em processos tarifários anteriores.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:48:30",
+     "ts": "0:48:17",
+     "justificativa": "aplicação direta da Lei 14.385/2022; relatório e fundamentação iguais aos dos demais casos, leitura dispensada, lido apenas o dispositivo",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:50:25",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
@@ -146,41 +159,44 @@
      "diretor": "Giácomo Almeida",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:50:25",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:50:25",
-     "confianca": "media"
+     "confianca": "baixa",
+     "justificativa": "comentário (atribuição inferida): o número a guardar é a redução total de 6,41% no processo da Coelba, não o meio por cento incremental"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "0:50:25",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "0:50:34",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "0:51:30",
-   "processo": "48500.006019/2022-79 (legenda incerta)",
-   "interessado": "Cosern",
-   "assunto": "Revisão tarifária extraordinária 2022 de Cosern (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "0:51:19",
+   "processo": "48500.006019/2022-79 (número incerto na legenda)",
+   "interessado": "Companhia Energética do Rio Grande do Norte (Cosern)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia Energética do Rio Grande do Norte (Cosern) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade — efeito médio -1,54% (AT -1,51%; BT -1,54%)",
-   "resumo_voto": "Dispensada leitura; efeito total do crédito PIS/Cofins na tarifa da Cosern de 6,22%, parte já aplicada no reajuste anterior.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -1,54% (-1,51% alta tensão; -1,54% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, aprova",
-     "ts": "0:52:30",
+     "ts": "0:53:01",
+     "justificativa": "mesmos argumentos dos processos anteriores; destaca que o efeito total do crédito de PIS/Cofins na tarifa da Cosern é de 6,22%, parte já aplicada na revisão anterior",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:53:56",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
@@ -195,84 +211,88 @@
      "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:53:56",
-     "confianca": "media"
-    },
-    {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "0:53:56",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "0:54:04",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "0:54:54",
-   "processo": "48500.006020/2022-01 (legenda incerta)",
-   "interessado": "CPFL Paulista",
-   "assunto": "Revisão tarifária extraordinária 2022 de CPFL Paulista (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "0:54:41",
+   "processo": "48500.006020/2022-01 (número incerto na legenda)",
+   "interessado": "Companhia Paulista de Força e Luz (CPFL Paulista)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia Paulista de Força e Luz (CPFL Paulista) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade — efeito médio -2,44% (AT -2,38%; BT -2,47%)",
-   "resumo_voto": "Leitura direta do dispositivo.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -2,44% (-2,38% alta tensão; -2,47% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:55:30",
+     "ts": "0:55:26",
+     "justificativa": "aplicação direta da Lei 14.385/2022; relatório e fundamentação iguais aos dos demais casos, leitura dispensada, lido apenas o dispositivo",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:56:22",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:56:24",
+     "ts": "0:56:22",
      "confianca": "media"
     },
     {
      "diretor": "Giácomo Almeida",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:56:24",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:56:24",
+     "ts": "0:56:22",
      "confianca": "media"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "0:56:24",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "0:56:32",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "0:57:20",
-   "processo": "48500.006021/2022-48 (legenda incerta)",
-   "interessado": "CPFL Santa Cruz (Companhia Jaguari de Energia)",
-   "assunto": "Revisão tarifária extraordinária 2022 de CPFL Santa Cruz (Companhia Jaguari de Energia) (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "0:57:08",
+   "processo": "48500.006021/2022-48 (número incerto na legenda)",
+   "interessado": "Companhia Jaguari de Energia (CPFL Santa Cruz)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia Jaguari de Energia (CPFL Santa Cruz) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade — efeito médio -2,32% (AT -2,12%; BT -2,45%)",
-   "resumo_voto": "Leitura direta do dispositivo.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -2,32% (-2,12% alta tensão; -2,45% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "0:57:50",
+     "ts": "0:57:47",
+     "justificativa": "aplicação direta da Lei 14.385/2022; relatório e fundamentação iguais aos dos demais casos, leitura dispensada, lido apenas o dispositivo",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "0:58:52",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
@@ -287,44 +307,34 @@
      "confianca": "media"
     },
     {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "0:58:52",
-     "confianca": "media"
-    },
-    {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "0:58:52",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "0:59:02",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "6",
-   "ts": "0:59:51",
-   "processo": "48500.006022/2022-92 (legenda incerta)",
-   "interessado": "Energisa Borborema",
-   "assunto": "Revisão tarifária extraordinária 2022 de Energisa Borborema (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "0:59:41",
+   "processo": "48500.006022/2022-92 (número incerto na legenda)",
+   "interessado": "Energisa Borborema Distribuidora de Energia (EBO)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Energisa Borborema Distribuidora de Energia (EBO) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade — efeito médio -5,26% (AT -5,02%; BT -5,34%)",
-   "resumo_voto": "Leitura direta do dispositivo; efeito total do processo de -7,81%.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -5,26% (-5,02% alta tensão; -5,34% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
      "voto": "relator, aprova",
-     "ts": "1:00:20",
+     "ts": "1:00:25",
+     "justificativa": "processo similar aos anteriores, leitura direta do dispositivo; efeito total do PIS/Cofins no processo de -7,81%",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:01:24",
-     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -339,38 +349,40 @@
      "confianca": "media"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "1:01:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "1:01:43",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "9",
-   "ts": "1:02:32",
-   "processo": "48500.006029/2022 (legenda incerta)",
+   "ts": "1:02:21",
+   "processo": "48500.006029/2022-12 (número incerto na legenda)",
    "interessado": "Enel Distribuição Ceará",
-   "assunto": "Revisão tarifária extraordinária 2022 de Enel Distribuição Ceará (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Enel Distribuição Ceará em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade — efeito médio -3,01% (AT -2,96%; BT -3,02%)",
-   "resumo_voto": "Sustentação oral do Conselho de Consumidores da Enel Ceará (Antonio Erildo Lemos Pontes e Ricardo Vinícius, nomes pela legenda), pedindo devolução imediata e também os efeitos da capitalização da Eletrobras (Lei 14.182). Relator: efeito total de PIS/Cofins de 5,27%; efeitos da Eletrobras serão tratados em breve.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -3,01% (-2,96% alta tensão; -3,02% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária. Sustentação oral do Conselho de Consumidores da Enel Ceará (Antonio Erildo Lemos Pontes e o consultor Ricardo Diniz/Vinícius, nome incerto): pediram devolução imediata e também a aplicação nesta revisão dos aportes da capitalização da Eletrobras, citando reajuste de cerca de 24,75% em abril de 2022. O relator interrompeu a leitura do dispositivo para dar lugar à sustentação esquecida.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
      "voto": "relator, aprova",
-     "ts": "1:09:30",
+     "ts": "1:09:29",
+     "justificativa": "efeito total do PIS/Cofins no processo tarifário da Enel Ceará é de -5,27%; os efeitos da capitalização da Eletrobras (CDE) serão tratados em breve, não nesta RTE",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:10:17",
-     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -385,32 +397,46 @@
      "confianca": "media"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "1:10:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "1:10:26",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "1:11:21",
-   "processo": "48500.006032/2022-28 (legenda incerta)",
-   "interessado": "Sulgipe (Companhia Sul Sergipana de Eletricidade)",
-   "assunto": "Revisão tarifária extraordinária 2022 de Sulgipe (Companhia Sul Sergipana de Eletricidade) (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "1:11:08",
+   "processo": "48500.006032/2022-28 (número incerto na legenda)",
+   "interessado": "Companhia Sul Sergipana de Eletricidade (Sulgipe)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Companhia Sul Sergipana de Eletricidade (Sulgipe) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "aprovado por unanimidade — efeito médio -4,88% (AT -5,00%; BT -4,83%)",
-   "resumo_voto": "Leitura direta do dispositivo, sem sustentação oral.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -4,88% (-5,00% alta tensão; -4,83% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
      "voto": "relator, aprova",
-     "ts": "1:11:50",
+     "ts": "1:11:42",
+     "justificativa": "aplicação direta da Lei 14.385/2022; relatório e fundamentação iguais aos dos demais casos, leitura dispensada, lido apenas o dispositivo",
      "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:12:34",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
@@ -425,44 +451,34 @@
      "confianca": "media"
     },
     {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:12:34",
-     "confianca": "media"
-    },
-    {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "1:12:34",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "1:12:44",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "13",
-   "ts": "1:13:34",
-   "processo": "48500.006033/2022-32 (legenda incerta)",
-   "interessado": "Energisa Sergipe",
-   "assunto": "Revisão tarifária extraordinária 2022 de Energisa Sergipe (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "ts": "1:13:24",
+   "processo": "48500.006033/2022-32 (número incerto na legenda)",
+   "interessado": "Energisa Sergipe Distribuidora de Energia (ESE)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Energisa Sergipe Distribuidora de Energia (ESE) em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
     "distribuição"
    ],
    "relator": "Giácomo Almeida",
-   "resultado": "aprovado por unanimidade — efeito médio -4,47% (AT -3,80%; BT -4,75%)",
-   "resumo_voto": "Leitura direta do dispositivo; efeito global de PIS/Cofins -7,88%.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -4,47% (-3,80% alta tensão; -4,75% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária.",
    "votos": [
     {
      "diretor": "Giácomo Almeida",
      "voto": "relator, aprova",
-     "ts": "1:14:00",
+     "ts": "1:13:56",
+     "justificativa": "leitura direta do dispositivo; efeito global do PIS/Cofins no processo da Energisa Sergipe de -7,88%",
      "confianca": "alta"
-    },
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:15:02",
-     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
@@ -477,42 +493,53 @@
      "confianca": "media"
     },
     {
-     "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
      "ts": "1:15:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Camila Bomfim",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "1:15:12",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "14",
-   "ts": "1:16:09",
-   "processo": "48500.006107/2022-71 (legenda incerta)",
+   "ts": "1:15:59",
+   "processo": "48500.006107/2022-71 (número incerto na legenda)",
    "interessado": "Enel Distribuição Rio",
-   "assunto": "Revisão tarifária extraordinária 2022 de Enel Distribuição Rio (Lei 14.385/2022, devolução de créditos de PIS/Cofins sobre ICMS)",
+   "assunto": "Revisão tarifária extraordinária 2022 de Enel Distribuição Rio em função da Lei 14.385/2022 (devolução de créditos de PIS/Cofins aos consumidores)",
    "tema": [
-    "tarifas e revisão tarifária (RTE PIS/Cofins)",
-    "distribuição",
-    "recursos/sustentação oral"
+    "tarifas e revisão tarifária (RTE)",
+    "créditos de PIS/Cofins (exclusão do ICMS)",
+    "distribuição"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade — efeito médio -4,22% (AT -3,86%; BT -4,34%)",
-   "resumo_voto": "Sustentações orais: Fabiano Silveira (Conselho de Consumidores Enel Rio) pediu devolução mínima de R$ 700 milhões (≈8%); Gerusa Magalhães (Enel Rio) pediu retirada de pauta: falta de consulta pública (liminares obtidas por outras distribuidoras, ex. Light), equilíbrio econômico-financeiro e RTE pendente da pandemia (lei estadual que vedou cortes). Procuradoria: contraditório não exige consulta pública; não se pode atrelar devolução de valores do consumidor ao desequilíbrio. Relator manteve o processo: são duas RTEs distintas; R$ 10 milhões/mês levaria ~25 anos para devolver ~R$ 3,3 bi; valor de ~R$ 35 milhões/mês respeita a capacidade de pagamento. Efrain: recorda ter sido vencido 4x1 no passado defendendo a tese agora em lei; dinheiro do consumidor não pode sustentar equilíbrio da empresa. Ricardo Tili: lei prevê RTE exclusiva. Camila: equilíbrio é da concessão, não da empresa; ajustes no próximo processo tarifário.",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RTE determinada pela Lei 14.385/2022 (art. 3º-B, §§ 6º e 7º da Lei 9.427/1996) para destinar integralmente aos consumidores os créditos de PIS/Cofins decorrentes da exclusão do ICMS da base de cálculo; efeito médio de -4,22% (-3,86% alta tensão; -4,34% baixa tensão); tarifas a vigorar a partir de 13/07/2022; fixa TE e TUSD e homologa o repasse mensal da CDE (via CCEE) para custeio dos subsídios retirados da estrutura tarifária. Sustentações orais: Fabiano Silveira (presidente do Conselho de Consumidores da Enel Rio) pediu que ao menos 700 milhões de reais fossem considerados, para redução de cerca de 8%; Gerusa Magalhães (Enel Rio) pediu a retirada de pauta, alegando necessidade de considerar o equilíbrio econômico-financeiro (RTE pendente desde maio de 2021 por lei estadual que proibiu cortes na pandemia), ausência de consulta pública e as liminares obtidas por outras distribuidoras. Procuradoria (Eduardo): contraditório não exige audiência pública; não se pode reter valores do consumidor para mitigar eventual desequilíbrio. O relator manteve o processo em pauta. Outro diretor (não identificado) acrescentou que a lei prevê RTE exclusiva para esse tema, justamente para não contaminar com outras revisões.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "1:40:00",
-     "confianca": "alta",
-     "justificativa": "consumidor não pode ser onerado para manter sustentabilidade da empresa; RTE da lei distinta da RTE pleiteada; consulta pública não é instrumento de contraditório"
+     "ts": "1:38:34",
+     "justificativa": "a RTE da lei é distinta da RTE pedida pela Enel Rio (pandemia/inadimplência) e não pode ser atrelada a ela; consulta pública não é instrumento de contraditório; análise célere mas aprofundada; média de compensação considerada de cerca de 35 milhões/mês dentro da capacidade de pagamento, enquanto 10 milhões/mês levariam uns 25 anos para devolver cerca de 3,3 bilhões; o consumidor não pode ser onerado para manter a sustentabilidade da empresa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:21",
+     "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (manifestação de apoio antes da votação)",
-     "ts": "1:53:41",
-     "confianca": "media",
-     "justificativa": "tese que defendeu quando foi vencido por 4 a 1; o dinheiro é do consumidor e não pode impulsionar equilíbrio econômico-financeiro da distribuidora",
-     "tom": "enfático"
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:06:21",
+     "confianca": "baixa",
+     "justificativa": "fala atribuída por inferência: defendia essa tese antes da lei e foi voto vencido por 4 a 1; o dinheiro é do consumidor e não pode sustentar o equilíbrio econômico-financeiro da empresa; parabeniza o relator por manter o processo em pauta"
     },
     {
      "diretor": "Giácomo Almeida",
@@ -521,84 +548,102 @@
      "confianca": "media"
     },
     {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:00:30",
-     "confianca": "media",
-     "justificativa": "a lei prevê RTE exclusiva para o tema; não vincular a outra revisão"
-    },
-    {
      "diretor": "Camila Bomfim",
-     "voto": "acompanha o relator; proclama unanimidade",
-     "ts": "2:06:21",
+     "voto": "acompanha o relator e proclama o resultado (presidente da sessão)",
+     "ts": "2:06:31",
      "confianca": "alta",
-     "justificativa": "equilíbrio da concessão, não da empresa; pedido de RTE pendente não suspende outros ritos tarifários; ajuste possível no próximo processo"
+     "justificativa": "o equilíbrio econômico-financeiro da lei é o da concessão, não o da empresa; o pedido de RTE da Enel Rio (lei estadual que proibiu corte) não suspende outros ritos tarifários; a capacidade de compensação vem sendo acompanhada há mais de um ano; valor considerado (cerca de 16% da ação) é inferior aos cerca de 20% que a ANEEL já usava provisoriamente; ajustes no próximo processo"
     }
    ]
   },
   {
    "id": "23",
-   "ts": "2:07:29",
-   "processo": "48500.004485/2022-10 (legenda incerta)",
-   "interessado": "Âmbar Energia S.A., EPP II Centrais Elétricas Ltda. e EPP IV Itaguaí Energia Ltda. (UTEs Edlux X, EPP II, EPP IV, Rio de Janeiro I; UTE Mário Covas/Cuiabá)",
-   "assunto": "Requerimento administrativo com cautelar: obrigações assumidas no PCS 1/2021 (energia de reserva) atendidas pela UTE Mário Covas (Cuiabá); recursos da Abrace, Ipp e Anace contra a cautelar",
+   "ts": "2:07:12",
+   "processo": "48500.004485/2022-10 (número incerto na legenda)",
+   "interessado": "Âmbar Energia S.A., EPP II Centrais Elétricas Ltda. e EPP IV/Itaguaí Energia Ltda. (grupo Âmbar); UTEs EDLUX X, EPP II, EPP IV e Rio de Janeiro I; UTE Cuiabá (Mário Covas)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para que as obrigações assumidas no Procedimento Competitivo Simplificado (PCS 1/2021) sejam atendidas pela UTE Cuiabá (Mário Covas), em vez das quatro usinas vencedoras; recursos da Abrace e de Pólis/Anace contra a cautelar",
    "tema": [
-    "leilões (PCS, reserva de capacidade)",
-    "outorgas de geração (térmica)",
-    "recursos administrativos"
+    "leilões (PCS 2021, energia de reserva)",
+    "outorgas de geração (térmica a gás)",
+    "recursos administrativos",
+    "medida cautelar"
    ],
    "relator": "Efrain Cruz",
-   "resultado": "não concluído nesta parte — voto do relator lido; deliberação continua após o intervalo (Parte 2)",
-   "resumo_voto": "Sustentações: Rosemeire Cecília da Costa (Conselho de Consumidores da Energisa MS) contra a transferência (pacta sunt servanda, UTE existente desde 1999, custo); Marcelo Zanatta (Âmbar) a favor (economia de R$ 616–901 milhões). Procuradoria (Eduardo Ramalho) opinou pelo indeferimento do mérito e contra a cautelar (cautelar satisfativa e incongruente com o pedido; edital vedava usina em operação comercial). Relator vota por manter a cautelar e autorizar a assunção pela UTE Cuiabá, condicionada à conclusão das quatro usinas no prazo limite do PCS, afastando a cláusula 4.4 dos CERs, com receita fixa de ~R$ 1.734,87/MWh e riscos da sazonalização da inflexibilidade alocados ao gerador.",
+   "resultado": "não deliberado nesta parte: voto do relator lido e sessão suspensa para almoço (retorno às 15h, deliberação na Parte 2)",
+   "resumo_voto": "Relator propõe manter a cautelar e autorizar a UTE Cuiabá a assumir as obrigações do PCS das UTEs EDLUX X, EPP II, EPP IV e Rio de Janeiro I, condicionado à conclusão e disponibilização dessas quatro usinas até o prazo limite do edital (90 dias após o início do suprimento); afastar a cláusula 4.4 dos CERs, agregar os contratos em um só, CVU de 616,03 R$/MWh e receita fixa unitária de cerca de 1.734 R$/MWh (ganho estimado de cerca de 500 milhões); sazonalização da inflexibilidade no período seco com todos os riscos (geração por ordem de mérito no período úmido, falta de combustível) alocados ao gerador; sem afastamento das penalidades da cláusula 9ª; proposta de reduzir a inflexibilidade total remetida ao MME. Contra o parecer das áreas técnicas (NT 74/2022: UTE Cuiabá em operação comercial desde 1999, vedada no edital) e da Procuradoria (cautelar satisfativa e incongruente com o pedido; empreendimento existente não podia participar; cláusula 4.4 veda substituição). Sustentações orais: Rosemeire Cecília da Costa (Conselho de Consumidores da Energisa MS), contra, cobrando cumprimento do contrato e citando custo de 191 milhões/ano; Marcelo Zanatta (Âmbar), a favor, citando economia de 616 a 901 milhões e redução de emissões. Apresentação da SFG sobre fiscalização em campo de 24/06/2022.",
    "votos": [
     {
      "diretor": "Efrain Cruz",
-     "voto": "relator: mantém cautelar e autoriza assunção pela UTE Cuiabá, condicionada à conclusão das quatro usinas",
-     "ts": "3:54:39",
-     "justificativa": "finalidade do PCS é agregar energia; Cuiabá tem garantia física nula e é novo recurso; vantajosidade de ~R$ 500 milhões ao consumidor; economicidade e eficiência acima da vinculação estrita ao edital",
-     "tom": "argumentativo",
+     "voto": "relator, voto lido: mantém a cautelar e defere a assunção pela UTE Cuiabá com condicionantes (deliberação pendente)",
+     "ts": "2:53:04",
+     "justificativa": "finalidade do PCS é agregar energia ao sistema e cumprir contratos, não buscar rescisão; UTE Cuiabá, com garantia física nula e fora do planejamento, configura novo recurso energético à luz do Decreto 6.353/2008; vantajosidade ao consumidor (cerca de 500 milhões) e princípios da eficiência e economicidade justificam afastar a cláusula 4.4",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "não votou (item pendente: sessão suspensa antes da votação)",
+     "ts": "3:57:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (item pendente: sessão suspensa antes da votação)",
+     "ts": "3:57:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Giácomo Almeida",
+     "voto": "não votou (item pendente: sessão suspensa antes da votação)",
+     "ts": "3:57:27",
      "confianca": "alta"
     },
     {
      "diretor": "Camila Bomfim",
-     "voto": "não votou nesta parte (deliberação continua na Parte 2)",
-     "ts": "3:57:48",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Giácomo Almeida",
-     "voto": "não votou nesta parte (deliberação continua na Parte 2)",
-     "ts": "3:57:48",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "não votou nesta parte (deliberação continua na Parte 2)",
-     "ts": "3:57:48",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "não votou nesta parte (deliberação continua na Parte 2)",
-     "ts": "3:57:48",
-     "confianca": "media"
+     "voto": "não votou (item pendente: sessão suspensa antes da votação)",
+     "ts": "3:57:27",
+     "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
-  "11, 25, 27, 29, 33 (anunciados pela Secretaria-Geral)",
-  "7 — RTE Energisa Mato Grosso do Sul (créditos ainda não habilitados na Receita Federal)",
-  "8 — RTE Energisa Mato Grosso (mesma razão)",
-  "10 — RTE Equatorial Alagoas (liminar judicial suspendendo compensações)",
-  "Light (RTE) retirada por decisão judicial, citado no item 14"
+  {
+   "id": "7",
+   "assunto": "RTE 2022 da Energisa Mato Grosso do Sul (Lei 14.385/2022)",
+   "motivo": "créditos ainda não habilitados na Receita Federal; retirada pedida pelo relator (atribuída a Ricardo Tili, confiança media)",
+   "ts": "0:05:47"
+  },
+  {
+   "id": "8",
+   "assunto": "RTE 2022 da Energisa Mato Grosso (Lei 14.385/2022)",
+   "motivo": "mesma situação do item 7; retirada pedida pelo relator (atribuída a Hélvio Guerra, confiança media)",
+   "ts": "0:06:28"
+  },
+  {
+   "id": "10",
+   "assunto": "RTE 2022 da Equatorial Alagoas (Lei 14.385/2022)",
+   "motivo": "liminar judicial suspendendo as compensações; retirada pedida pelo relator (atribuída a Hélvio Guerra, confiança media)",
+   "ts": "0:06:51"
+  },
+  {
+   "id": "11",
+   "assunto": "RTE 2022 da Light (Lei 14.385/2022)",
+   "motivo": "liminar judicial que exigiu consulta pública; retirado pela Secretaria-Geral",
+   "ts": "0:02:50"
+  },
+  {
+   "id": "25, 27, 29, 33",
+   "assunto": "não informado",
+   "motivo": "retirados de pauta (anúncio da Secretaria-Geral)",
+   "ts": "0:02:50"
+  }
  ],
  "limites_da_analise": [
-  "Camila Bomfim, Efrain Cruz e Giácomo Almeida não constam da lista de diretores do config (composição 2022); nomes registrados como ditos/conhecidos (legenda: 'Efraim', 'Giácomo', 'Francisco bacia Almeida').",
-  "Votos dos não relatores atribuídos pela proclamação de unanimidade e ordem usual; falas 'também acompanho' sem nome — confiança media.",
-  "Números de processo e percentuais vêm da legenda automática; podem ter erros.",
-  "Atribuição de quem pediu a retirada dos itens 7, 8 e 10 é incerta (Hélvio e outro diretor).",
-  "Sandoval Feitosa não aparece nesta sessão; não há declaração explícita de ausência.",
-  "Item 23 sem resultado nesta parte; ver Parte 2."
+  "Vídeo é a Parte 1 da 25ª RPO de 12/07/2022; termina no intervalo de almoço. Itens 15 a 22, 24, 26, 28 e a votação do item 23 não estão neste vídeo.",
+  "Camila (presidente da sessão, diretora-geral substituta) e Giácomo (Giácomo Francisco Bassi Almeida, dito «Francisco bacia Almeida» na legenda) não constam da lista de diretores do config da ANEEL; registrados como Camila Bomfim e Giácomo Almeida. O sobrenome Bomfim não aparece na legenda (inferência de composição da diretoria em 2022).",
+  "Nas RTEs, a legenda registra quatro falas curtas de acompanhamento sem nome antes da proclamação; atribuídas pela proclamação de unanimidade (confiança media), ts aproximado.",
+  "Comentários sem nome atribuídos por inferência: os de itens 1 e 2 a Giácomo Almeida (Ricardo Tili refere-se ao que foi dito pelo diretor Giácomo); o do item 14 sobre ter sido voto vencido por 4 a 1 a Efrain Cruz (confiança baixa); outra fala do item 14 sobre RTE exclusiva ficou sem atribuição.",
+  "Números de processo, percentuais e valores vêm da legenda automática e podem conter erros; processos marcados como incertos.",
+  "Ts do anúncio dos retirados pela Secretaria-Geral é aproximado (início da sessão)."
  ]
 }

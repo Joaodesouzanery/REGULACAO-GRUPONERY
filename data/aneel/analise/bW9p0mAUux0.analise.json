@@ -1,13 +1,13 @@
 {
  "meta": {
   "video_id": "bW9p0mAUux0",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts do vídeo (sessão começa ~0:28); ts de quem acompanha aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:28:46); ts de votos de quem só acompanha são aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "24ª RPO 2023",
+  "numero": "24ª Reunião Pública Ordinária de 2023",
   "data": "2023-07-11",
-  "formato": "presencial com transmissão",
+  "formato": "presencial com transmissão pelo YouTube",
   "presidente_da_sessao": "Hélvio Guerra (diretor-geral substituto)",
   "diretores_presentes": [
    "Hélvio Guerra",
@@ -16,294 +16,326 @@
    "Fernando Mosna"
   ],
   "ausentes": [
-   "Sandoval Feitosa (férias)"
+   "Sandoval Feitosa (diretor-geral, em férias)"
   ],
   "observacoes": [
-   "Pauta com 26 itens; itens 3 e 11 retirados; bloco (6 a 26) aprovado exceto o 18.",
-   "Ata da 23ª RPO aprovada com uma abstenção de quem não participou da reunião anterior (falante não identificado com segurança).",
-   "Item 5 sem proclamação: empate 2 a 2, aguarda o Diretor-Geral.",
-   "Fernando Mosna ausentou-se antes do item 18 e não votou nos itens 18, 1 e 2."
+   "Quórum de quatro diretores; Hélvio Guerra preside como diretor-geral substituto na ausência de Sandoval Feitosa (férias).",
+   "Ata da 23ª RPO aprovada com abstenção de Hélvio Guerra, que não participou da reunião anterior.",
+   "Pauta com 26 itens; itens 6 a 26 em bloco; itens 3 e 11 retirados de pauta antes da sessão; sustentação oral pedida para os itens 4, 5 e 12 (a do item 4 indeferida por ser retorno de vista). Ordem: bloco, 4, 5, 18 (destacado), 1, 2, 12.",
+   "Item 5 (Camaçari 2/Pecém 2) terminou empatado 2 a 2 sem proclamação de resultado; aguarda o retorno do diretor-geral Sandoval Feitosa.",
+   "Fernando Mosna precisou se ausentar após o item 5; não votou nos itens 18, 1 e 2.",
+   "Item 12 retirado de pauta pelo relator Hélvio Guerra após sustentação oral, para nova manifestação da procuradoria.",
+   "Resumo do secretário-geral: 26 processos, 21 em bloco, três retirados de pauta, uma prorrogação de prazo de retorno de vista e um item sem deliberação (ausência de três votos convergentes, conforme o regimento interno)."
   ]
  },
  "itens": [
   {
    "id": "bloco",
-   "ts": "0:35:01",
-   "processo": "itens 6 a 26 (exceto 18 e retirados)",
+   "ts": "0:35:11",
+   "processo": "itens 6 a 26 da pauta (exceto 18)",
    "interessado": "diversos",
-   "assunto": "Itens de bloco (votos disponibilizados previamente): recursos administrativos, resultados de consulta pública, cautelares, declarações de utilidade pública e outros",
+   "assunto": "Votação em bloco dos itens 6 a 26 (votos disponibilizados previamente), exceto o item 18, destacado por Agnes da Costa; segundo o secretário-geral incluem recursos administrativos, pedidos de reconsideração, cautelares, declarações de utilidade pública e resultados de consulta pública",
    "tema": [
-    "recursos administrativos",
-    "bloco"
+    "votação em bloco",
+    "recursos administrativos"
    ],
    "relator": "diversos",
-   "resultado": "aprovado o bloco, exceto o item 18 (destaque da diretora Agnes)",
-   "resumo_voto": "Agnes da Costa pediu destaque do item 18 e aprovou o restante; demais diretores aprovaram o bloco.",
+   "resultado": "bloco aprovado, exceto o item 18 (destacado)",
+   "resumo_voto": "Agnes da Costa pede destaque do item 18 e aprova os remanescentes; os demais aprovam o bloco.",
    "votos": [
     {
      "diretor": "Agnes da Costa",
-     "voto": "aprova o bloco, pede destaque do item 18",
-     "ts": "0:35:05",
-     "confianca": "media"
+     "voto": "aprova o bloco, com destaque do item 18",
+     "ts": "0:35:11",
+     "justificativa": "pede destaque do item 18 (impugnação da Eletronorte)",
+     "confianca": "alta"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "aprova o bloco",
-     "ts": "0:35:15",
+     "ts": "0:35:18",
      "confianca": "media"
     },
     {
      "diretor": "Fernando Mosna",
      "voto": "aprova o bloco",
-     "ts": "0:35:15",
+     "ts": "0:35:20",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "aprova o bloco (preside)",
-     "ts": "0:35:20",
+     "voto": "aprova o bloco (proclama)",
+     "ts": "0:35:23",
      "confianca": "media"
     }
    ]
   },
   {
    "id": "4",
-   "ts": "0:35:48",
+   "ts": "0:35:51",
    "processo": "48500.001719/2023-58",
-   "interessado": "centrais geradoras com CUST celebrados (pedido originado de associação do setor)",
-   "assunto": "Mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST (anistia com rescisão do CUST e revogação da outorga; regularização com prazo +36 meses; MCSD extraordinário para descontratação ACR 2025; fila da margem de escoamento) — resultado da CP 15/2023; volta de vista",
+   "interessado": "centrais geradoras com CUST celebrado (pedido originado de associação do setor); ONS; CCEE",
+   "assunto": "Mecanismo de tratamento excepcional na gestão de outorgas de geração e dos CUST celebrados por centrais geradoras (Consulta Pública 15/2023): anistia (rescisão do CUST sem multa com revogação da outorga), regularização e alocação da margem de escoamento liberada; retorno de vista",
    "tema": [
-    "transmissão (CUST, acesso, margem de escoamento)",
+    "transmissão (CUST, margem de escoamento)",
     "outorgas de geração",
-    "regulação normativa (resolução, consulta pública)",
-    "comercialização (MCSD)"
+    "regulação normativa (resolução normativa, consulta pública)",
+    "comercialização (MCSD, ACR)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade nos termos do voto-vista de Fernando Mosna (emissão de REN; extinção da determinação de estudos à STD)",
-   "resumo_voto": "Voto-vista: REN em vez de despacho (parecer PF 198/2023); anistia só para CUST vigente; MCSD extraordinário para contratos ACR iniciando em 2025; regularização imediata (CUST em execução e futuro) com prorrogação de 36 meses, diferimento e parcelamento de valores suspensos por liminar e garantia (fiança bancária) de cerca de 40 meses de EUST; fila cronológica no ONS para a margem liberada; sem nova fase de CP. Sustentação oral indeferida por ser volta de vista.",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista de Fernando Mosna: emissão de resolução normativa (anistia, MCSD extraordinário de energia nova para descontratação do ACR de 2025, regularização com prorrogação de 36 meses, deferimento e parcelamento dos EUST suspensos por liminar, garantia por fiança bancária, fila de alocação da margem) e extinção da determinação de estudos à STD",
+   "resumo_voto": "Voto-vista de Fernando Mosna: concorda com a anistia do relator, mas acrescenta MCSD extraordinário para quem tem contratos no ACR a partir de 2025, regulamenta já a regularização (CUST em execução e execução futura) em vez de nova fase de consulta pública, defere e parcela os valores suspensos por liminar, exige garantia de fiança, aprova a fila cronológica para a margem liberada e adota resolução normativa em vez de despacho (parecer 198/2023 da PF/ANEEL). Anistia não alcança CUST já rescindidos. Sustentação oral indeferida por ser retorno de vista.",
    "votos": [
     {
      "diretor": "Fernando Mosna",
-     "voto": "voto-vista vencedor",
-     "ts": "0:36:47",
-     "confianca": "alta",
-     "justificativa": "regulamentar de imediato a regularização junto com a anistia para evitar que o mecanismo se repita; diferimento e parcelamento sem impacto tarifário no ciclo 2023/24; garantias protegem transmissoras e usuários; solução consensual sem mudança de entendimento (parecer PF)"
+     "voto": "voto-vista vencedor: aprova resolução normativa com anistia, regularização imediata e MCSD extraordinário",
+     "ts": "0:36:55",
+     "justificativa": "regulamentar anistia e regularização juntas evita que o mecanismo se repita; regularização reduz judicialização (cerca de 180 milhões de reais em EUST suspensos) com garantias; trata-se de solução consensual sem mudança de entendimento sobre excludentes",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator original; acompanha o voto-vista",
-     "ts": "1:57:51",
-     "confianca": "alta",
-     "justificativa": "as condições e garantias trazidas no voto-vista resolveram sua dúvida sobre regularização imediata; casos de CUST já rescindidos podem ser tratados em casos concretos"
+     "voto": "relator original; acompanha o voto-vista de Fernando Mosna",
+     "ts": "1:57:55",
+     "justificativa": "as condições e garantias da regularização trazidas no voto-vista resolvem a dúvida que o levou a propor nova fase de consulta; levantou a dúvida sobre CUST já rescindidos (caso São Roque, troca de controle), que fica para casos concretos",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o voto-vista",
-     "ts": "1:57:40",
-     "confianca": "media",
-     "justificativa": "elogia a instrução técnica; contra abrir o mecanismo a CUST já rescindidos por falta de estudo e de linha de corte («o ótimo inimigo do bom»)"
+     "voto": "acompanha o voto-vista de Fernando Mosna",
+     "ts": "1:57:43",
+     "justificativa": "houve análise técnica documentada para a regularização; contra abrir o mecanismo para CUST rescindidos no passado sem estudo e linha de corte («o ótimo é inimigo do bom»)",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o voto-vista",
-     "ts": "1:57:45",
-     "confianca": "media",
-     "justificativa": "casos específicos (ex.: São Roque) podem ser tratados no caso concreto; a favor de REN"
+     "voto": "acompanha o voto-vista de Fernando Mosna",
+     "ts": "1:57:51",
+     "justificativa": "questionou prazos, MCSD para 2025 e garantia de 40 meses; casos de CUST rescindido podem ser tratados no caso concreto",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "5",
-   "ts": "2:03:19",
-   "processo": "48500.000533/2005-88 e outros",
-   "interessado": "CH4 Energia, Pecém Energia, Energética Camaçari Muricy, EPESA (UTEs Camaçari Muricy 2, Pecém 2, Pau Ferro 1, Termomanaus)",
-   "assunto": "Alteração de características técnicas das UTEs Camaçari Muricy 2 e Pecém 2 (implantação no sítio das UTEs Pau Ferro 1 e Termomanaus, Igarassu/PE), revogação da transferência de outorgas (REAs 11.914 e 11.915/2022) e revogação das outorgas de Pau Ferro 1 e Termomanaus a partir de 1/1/2024",
+   "ts": "2:03:34",
+   "processo": "48500.000533/2005-88 e outros (números citados no dispositivo incertos na legenda)",
+   "interessado": "CH4 Energia; Pecém Energia; Energética Camaçari Muricy; EPESA (UTEs Termomanaus e Pau Ferro I)",
+   "assunto": "Alteração de características técnicas das UTEs Camaçari Muricy 2 e Pecém 2 (leilão A-3 2/2006) para implantação no sítio das UTEs Termomanaus e Pau Ferro I (Igarassu-PE); revogação das REAs 11.914 e 11.915/2022 com restabelecimento das titularidades originais; revogação das outorgas de Pau Ferro I e Termomanaus a partir de 1º/1/2024",
    "tema": [
-    "outorgas de geração (térmica)",
-    "leilões (A-3 2/2006, energia nova)"
+    "outorgas de geração (térmica a óleo diesel)",
+    "leilões (A-3 2/2006)",
+    "alteração de características técnicas"
    ],
    "relator": "Ricardo Tili",
-   "resultado": "sem decisão: empate 2 a 2, sem três votos convergentes; aguarda retorno do Diretor-Geral Sandoval Feitosa",
-   "resumo_voto": "Relator deferia todos os pedidos (PIE pode reutilizar ativos; situação análoga a Camaçari 2020, só antecipada no tempo), contra o parecer PF 155/2023, que via burla ao leilão e ausência de empreendimento novo. Sustentação oral de Guilherme Pereira Baggio (CH4 Energia).",
+   "resultado": "empate 2 a 2, sem decisão (falta de três votos convergentes); aguarda o retorno do diretor-geral Sandoval Feitosa",
+   "resumo_voto": "Sustentação oral de Guilherme Pereira Baggio (CH4 Energia), invocando o precedente Camaçari de 2020. Procuradoria (parecer 155/2023) entende que não se trata de empreendimento novo e que haveria burla ao leilão. Relator vota por deferir: produtor independente pode reutilizar ativos térmicos ao fim da outorga; revogação de Pau Ferro I e Termomanaus a partir de 1º/1/2024 torna o caso idêntico ao de Camaçari.",
    "votos": [
     {
      "diretor": "Ricardo Tili",
-     "voto": "relator, defere os pedidos",
-     "ts": "2:46:40",
-     "confianca": "alta",
-     "justificativa": "produtor independente pode destinar e reutilizar os ativos; com fim dos contratos e outorgas em 31/12/2023 o caso é idêntico a Camaçari; atraso decorreu de judicialização"
+     "voto": "relator, aprova (alteração de características técnicas, revogações e restabelecimento das titularidades)",
+     "ts": "2:23:04",
+     "justificativa": "o edital do leilão 2/2006 não veda equipamentos de usinas desativadas; ativos de térmica do PIE não são reversíveis (Decreto 2.003/1996, REN 921/2021); a partir de 1º/1/2024 as usinas estarão sem outorga e sem contrato, como no caso Camaçari; atraso decorreu de disputa judicial",
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator",
-     "ts": "3:11:53",
-     "confianca": "media",
-     "justificativa": "energia nova não depende de equipamento novo; edital permitia máquinas usadas; atraso não é culpa do empreendedor (decisão do STF); caso igual a Camaçari deslocado no tempo"
+     "ts": "3:12:03",
+     "justificativa": "energia nova não se confunde com equipamento novo; o agente não teve culpa pelo atraso (disputa judicial até o STF); outorga foi a óleo; revogação a pedido a partir de 2024 desloca no tempo o caso Camaçari",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "diverge (empate)",
-     "ts": "2:47:58",
-     "confianca": "baixa",
-     "justificativa": "estranha considerar usinas amortizadas como energia nova com o consumidor pagando mais 15 anos de óleo diesel; não houve análise de vantajosidade"
+     "voto": "diverge do relator (vota contra)",
+     "ts": "3:12:00",
+     "justificativa": "estranha usar usinas amortizadas do mesmo leilão como energia nova por mais 15 anos; mudanças de característica técnica podem premiar quem não cumpriu o contrato; não houve análise de vantajosidade de térmica a diesel para o consumidor",
+     "confianca": "baixa"
     },
     {
      "diretor": "Fernando Mosna",
-     "voto": "diverge (empate)",
-     "ts": "2:52:44",
-     "confianca": "baixa",
-     "justificativa": "parecer PF 155/2023 é peremptório: não é empreendimento novo e haveria burla ao leilão; não se pode decidir hoje como se fosse 2 de janeiro"
+     "voto": "diverge do relator (acompanha a divergência)",
+     "ts": "3:12:00",
+     "justificativa": "com base no parecer 155/2023 da procuradoria, as usinas ainda existem e não são empreendimento novo; antecipar em quatro meses uma situação futura poderia configurar burla ao procedimento licitatório",
+     "confianca": "baixa"
     }
    ]
   },
   {
    "id": "18",
-   "ts": "3:12:54",
+   "ts": "3:13:00",
    "processo": "48500.003254/2023-70",
-   "interessado": "Eletronorte (Centrais Elétricas do Norte do Brasil)",
-   "assunto": "Impugnação, com pedido de efeito suspensivo, de deliberação do CAD da CCEE sobre procedimento de desligamento (atraso de um dia no encargo de risco hidrológico por erro do Banco do Brasil) e monitoramento por seis meses",
+   "interessado": "Eletronorte (Centrais Elétricas do Norte do Brasil); CCEE",
+   "assunto": "Pedido de impugnação, com efeito suspensivo, da Eletronorte contra deliberação do Conselho de Administração da CCEE que manteve monitoramento de seis meses no procedimento de desligamento 7199, após atraso de um dia no recolhimento de encargo (erro do Banco do Brasil)",
    "tema": [
-    "comercialização (CCEE)",
-    "recursos administrativos"
+    "comercialização (CCEE, desligamento)",
+    "recursos administrativos",
+    "fiscalização e sanções"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade: provimento, extinção do procedimento de desligamento 7199 e recomendação à área técnica de avaliar em 30 dias alteração da REN 957/2021",
-   "resumo_voto": "Destaque de Agnes. Sustentação oral de Nívea Guimarães da Costa (Eletronorte). Fernando Mosna ausente neste item. Recomendação acrescentada por sugestão de Agnes e Ricardo.",
+   "resultado": "aprovado por unanimidade (3 votos): conhece e dá provimento, declarando extinto o procedimento de desligamento 7199, e recomenda à área técnica avaliar em 30 dias a alteração da REN 957/2021",
+   "resumo_voto": "Item destacado do bloco por Agnes da Costa. Sustentação oral de Nívea Guimarães da Costa (Eletronorte). Relator dá provimento; por sugestão de Agnes e Ricardo, acrescenta recomendação (não determinação) de estudo de aprimoramento do rito de desligamento da REN 957/2021 em 30 dias.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, dá provimento; acolhe recomendação",
-     "ts": "3:21:18",
-     "confianca": "alta",
-     "justificativa": "caso atípico: um dia de atraso por falha reconhecida do banco"
+     "voto": "relator, dá provimento; acolhe a sugestão como recomendação à área técnica",
+     "ts": "3:21:30",
+     "justificativa": "atraso de um dia com reconhecimento de erro pelo banco e devolução do encargo; caso atípico",
+     "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha, com sugestão de determinação para aprimorar o rito da REN 957",
-     "ts": "3:22:57",
-     "confianca": "alta",
-     "justificativa": "norma defasada; monitoramento por um dia de atraso prejudica comercialização; prefere mudar a norma a afastá-la caso a caso"
+     "voto": "acompanha o relator, com sugestão de determinação adicional",
+     "ts": "3:21:55",
+     "justificativa": "não é razoável colocar em monitoramento por um dia de atraso, com efeito comercial no mercado livre; preferível aprimorar a norma (critérios objetivos, carência para regularização) a afastá-la caso a caso",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator",
-     "ts": "3:26:54",
-     "confianca": "alta",
-     "justificativa": "sanção desproporcional; ato sem lesividade ao mercado; sugere carência para regularização"
+     "ts": "3:26:56",
+     "justificativa": "sanção desproporcional: 1,4 milhão de reais diante de 300 milhões liquidados por mês, sem risco ao mercado; propõe que a área estude carência para regularização",
+     "confianca": "alta"
     }
    ]
   },
   {
    "id": "1",
-   "ts": "3:29:50",
+   "ts": "3:29:53",
    "processo": "48500.006859/2022-31",
-   "interessado": "Energisa Sul-Sudeste (ESS)",
-   "assunto": "Reajuste tarifário anual 2023 da Energisa Sul-Sudeste a partir de 12/07/2023 (efeito médio 10,65%; 8,58% AT; 11,58% BT)",
+   "interessado": "Energisa Sul-Sudeste Distribuidora de Energia S.A. (ESS)",
+   "assunto": "Reajuste tarifário anual de 2023 da Energisa Sul-Sudeste, vigente a partir de 12/07/2023: efeito médio de 10,65% (8,58% alta tensão; 11,58% baixa tensão), TUSD, receita de DIT, repasses de CDE e cotas para recomposição da conta de Itaipu",
    "tema": [
-    "tarifas e revisão tarifária (distribuidoras, RTA)"
+    "tarifas e revisão tarifária (reajuste anual)",
+    "distribuição",
+    "CDE e encargos setoriais"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Homologação do reajuste; apresentação da STR; Fernando Mosna ausente.",
+   "resultado": "aprovado por unanimidade (3 votos)",
+   "resumo_voto": "Apresentação técnica de Leonardo (STR); destaque para custos de rede básica, CDE Eletrobras e créditos de PIS/Cofins; acolhido apenas o pleito de ajuste de perdas técnicas ligado à MMGD; procuradoria sem óbice.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
      "voto": "relator, aprova",
-     "ts": "3:44:00",
+     "ts": "3:42:41",
+     "justificativa": "aplicação da cláusula contratual de reajuste e do PRORET 10.2",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:44:55",
+     "ts": "3:44:52",
      "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
      "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:44:55",
-     "confianca": "baixa"
+     "ts": "3:44:52",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "2",
-   "ts": "3:46:01",
+   "ts": "3:46:03",
    "processo": "48500.006876/2022-79 e 48500.003257/2023-11",
-   "interessado": "CPFL Piratininga",
-   "assunto": "Abertura de consulta pública (12/07 a 28/08/2023, audiência presencial em Santos em 24/08) sobre a RTP 2023 da CPFL Piratininga (efeito médio preliminar -1,92%) e limites DEC/FEC 2024-2027",
+   "interessado": "CPFL Piratininga (Companhia Piratininga de Força e Luz)",
+   "assunto": "Abertura de consulta pública (12/07 a 28/08/2023, com audiência presencial em Santos-SP em 24/08) sobre a revisão tarifária periódica da CPFL Piratininga a vigorar em 23/10/2023 (efeito médio preliminar de -1,92%) e limites de DEC e FEC para 2024 a 2027",
    "tema": [
-    "tarifas e revisão tarifária (distribuidoras, RTP)",
-    "regulação normativa (consulta pública)"
+    "tarifas e revisão tarifária (RTP)",
+    "regulação normativa (consulta pública)",
+    "distribuição (qualidade, DEC/FEC)"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instaurada a CP; Fernando Mosna ausente.",
+   "resultado": "aprovado por unanimidade (3 votos)",
+   "resumo_voto": "Proposta preliminar da STR com efeito médio de -1,92% (-9,38% alta tensão; +2,63% baixa tensão); discriminação por classe de consumo atendendo sugestão do conselho de consumidores.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "3:59:30",
+     "voto": "relator, aprova abertura da consulta pública",
+     "ts": "3:59:32",
      "confianca": "alta"
     },
     {
      "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "4:00:18",
-     "confianca": "baixa"
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:00:27",
+     "confianca": "media"
     },
     {
      "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "4:00:18",
-     "confianca": "baixa"
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "4:00:27",
+     "confianca": "media"
     }
    ]
   },
   {
    "id": "12",
-   "ts": "4:01:28",
+   "ts": "4:01:51",
    "processo": "48500.000536/2021-53 e 48500.000535/2021-17",
-   "interessado": "Goiás Transmissão S.A. e MGE Transmissão S.A.",
-   "assunto": "Recursos contra despachos da SCT que não conheceram, por prescrição, pedidos de recomposição de prazo de concessão (art. 19 da Lei 13.360/2016)",
+   "interessado": "Goiás Transmissão S.A.; MGE Transmissão S.A.",
+   "assunto": "Recursos administrativos contra despachos 1.925/2021 e 2.058/2021 da antiga SCT, que não conheceram por prescrição os pedidos de recomposição do prazo de concessão (art. 19 da Lei 13.360/2016)",
    "tema": [
-    "transmissão",
+    "transmissão (prazo de concessão, excludente de responsabilidade)",
     "recursos administrativos"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "retirado de pauta pelo relator após a sustentação oral",
-   "resumo_voto": "Sustentação de Paulo Gesteira (MGE Transmissão), invocando precedente da PCH Divisa; PF manteve entendimento de prescrição contada da operação comercial; relator retira para aprofundar e ouvir a procuradoria.",
+   "resultado": "retirado de pauta pelo relator após a sustentação oral, para aprofundar e ouvir novamente a procuradoria",
+   "resumo_voto": "Sustentação oral de Paulo (Justino Costa Filho / Gesteira, nome incerto na legenda) pela MGE Transmissão, invocando o precedente da PCH Divisa (prescrição contada da Lei 13.360). Procurador Eduardo Estevão mantém o entendimento de prescrição contada da operação comercial na transmissão. O relator disse que seu voto era no sentido de conhecer o pedido, mas retirou o item da pauta.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, retira de pauta",
-     "ts": "4:21:15",
-     "confianca": "alta",
-     "justificativa": "complexidade do tema; dúvida se o precedente da geração se estende à transmissão"
+     "voto": "relator; retira de pauta (sem voto de mérito)",
+     "ts": "4:21:19",
+     "justificativa": "complexidade e delicadeza do tema da prescrição; nova consulta à procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "4:21:19",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "não votou (retirado de pauta)",
+     "ts": "4:21:19",
+     "confianca": "alta"
     }
    ]
   }
  ],
  "retirados": [
   {
-   "item": "3",
-   "motivo": "retirado de pauta (anunciado na abertura)"
+   "item": "3 — não identificado na transcrição",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão",
+   "ts": "0:33:00"
   },
   {
-   "item": "11",
-   "motivo": "retirado de pauta (anunciado na abertura)"
+   "item": "11 — não identificado na transcrição",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta antes da sessão",
+   "ts": "0:33:00"
   },
   {
-   "item": "12",
-   "motivo": "retirado pelo relator após sustentação oral"
+   "item": "12 — recursos de Goiás Transmissão e MGE Transmissão",
+   "relator": "Hélvio Guerra",
+   "motivo": "retirado pelo relator após sustentação oral, para aprofundar e ouvir a procuradoria",
+   "ts": "4:21:19"
   }
  ],
  "limites_da_analise": [
-  "Item 5: o empate 2 a 2 foi proclamado, mas a fala de votação está truncada; a atribuição Tili e Guerra a favor e Agnes e Mosna contra foi inferida das manifestações na discussão (confiança baixa para os divergentes).",
-  "Item 4: os votos de Agnes e Tili são inferidos de falas curtas sem nome; resultado unânime proclamado.",
-  "Itens 1 e 2: não se ouve fala individual de Agnes e Tili; registrados pela proclamação de unanimidade.",
-  "Bloco: os ts e a ordem de quem aprovou são aproximados.",
-  "Os falantes inferidos no .md incluem Ludimila Lima e Sandoval Feitosa, mas eles não estavam presentes (Sandoval em férias; a 'Ludmila' citada é servidora).",
-  "Números de processos e valores vêm da legenda automática e podem ter erros."
+  "Legenda automática: números de processo, nomes de usinas e de pessoas distorcidos (ex.: Élvio/Elvis/Evo = Hélvio Guerra; Chili/Tile = Ricardo Tili; móvel/Moana = Fernando Mosna).",
+  "O cabeçalho do .md lista Ludimila Lima entre os falantes inferidos, mas ela não estava na sessão; a «Ludmila» citada é servidora da área de outorgas.",
+  "Item 4: os votos individuais de Agnes da Costa e Ricardo Tili não estão nominados na legenda; Agnes é dada pela fala do presidente («a diretora Agnes votou com o voto revisor»); a fala «eu também acompanho o voto-vista» foi atribuída a Ricardo Tili pela ordem de votação.",
+  "Item 5: o empate 2 a 2 é dito pelo presidente, mas a legenda só registra «eu também acompanhei divergência» e «eu acompanho o voto do relator» (Hélvio Guerra). A divergência de Agnes da Costa e Fernando Mosna é inferida das falas críticas de ambos durante a discussão; não está claro quem abriu a divergência. Confiança baixa.",
+  "Item 5: números de processo e de resoluções autorizativas citados no dispositivo estão incertos.",
+  "Itens 18, 1 e 2: Fernando Mosna ausente (precisou se ausentar), por isso há três votos por item.",
+  "Item 2: a fala «eu acompanho o valor [voto]» antes da proclamação não tem autor identificado.",
+  "Bloco: as falas de aprovação de Ricardo Tili e Fernando Mosna não são nominadas; a atribuição é aproximada. O conteúdo dos itens 6 a 26 não é lido na sessão.",
+  "Item 12: nome do sustentante incerto (Paulo Justino Costa Filho / Paulo Gesteira).",
+  "Itens 3 e 11 retirados antes da sessão sem assunto informado; o ts dos retirados é aproximado. O resumo do secretário menciona uma prorrogação de prazo de retorno de vista que não é identificada."
  ]
 }

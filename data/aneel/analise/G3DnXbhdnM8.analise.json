@@ -1,92 +1,306 @@
 {
-  "meta": {"video_id": "G3DnXbhdnM8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "45ª Reunião Pública Ordinária de 2022 (Parte 1, manhã)", "data": "2022-11-29", "formato": "presencial",
-    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Alessandro Cantarino (diretor substituto)"],
-    "ausentes": [],
-    "observacoes": ["Abertura com lançamento do Subsidiômetro (painel de subsídios da CDE e da GD na tarifa), apresentado pela SGT (Cristina); diretores elogiam a transparência.", "Aniversário de Ricardo Tili e última reunião de Alessandro Cantarino como diretor substituto (retorna à SRG). Informada a posse de Agnes da Costa em 5/12/2022.", "Pauta com 54 itens; 14 a 54 em bloco; retirados 5, 6, 11, 12, 13 e 23; sustentação oral nos itens 8 e 10; ordem: bloco, 1, 3, 4, 8, 7, 9, 10 e 2. Ata da 44ª RPO aprovada.", "Esta parte cobre bloco e itens 1, 3, 4 e 8; a sessão foi suspensa para continuar às 14h30 (itens 7, 9, 10 e 2 em outra parte)."]
-  },
-  "itens": [
-    {
-      "id": "bloco", "ts": "0:43:00", "processo": "", "interessado": "diversos",
-      "assunto": "Itens de bloco 14 a 54 (votos disponibilizados previamente); Fernando Mosna comentou o item 37: autorização de quatro eólicas sem reconhecimento do desconto no fio (TUST/TUSD), pois a garantia de fiel cumprimento só foi constituída em 8/9.",
-      "tema": ["outorgas de geração (eólica)", "tarifas e descontos (fonte incentivada)"],
-      "relator": "diversos", "resultado": "aprovados por unanimidade",
-      "resumo_voto": "Bloco aprovado por unanimidade.",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "aprova o bloco", "ts": "0:43:00", "justificativa": "Destacou o item 37: sem garantia de fiel cumprimento no pedido de outorga no prazo, não há direito ao desconto no fio.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:43:10", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:43:10", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Alessandro Cantarino", "voto": "aprova o bloco", "ts": "0:43:10", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:43:20", "justificativa": "", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "1", "ts": "0:43:41", "processo": "48500.007497/2022-04", "interessado": "SCT/CEL (MME/EPE)",
-      "assunto": "Abertura de consulta pública para aperfeiçoar o edital do Leilão de Transmissão nº 1/2023 (9 lotes, 33 empreendimentos, cerca de R$ 16 bilhões, BA, ES, MG, PE, RJ, SE, SP); inovações: prazo de 66 meses em lotes grandes e possibilidade de incluir reforços até 12 meses após o contrato limitados a 5% da RAP.",
-      "tema": ["leilões (transmissão)", "transmissão (RAP)", "regulação normativa (consulta pública)"],
-      "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade: CP por intercâmbio documental de 1/12/2022 a 16/1/2023",
-      "resumo_voto": "Instaurar consulta pública. Debate: Tili questionou o limite de 12 meses e se 66 meses gera antecipação de receita; Sandoval pediu metodologia objetiva para prazos e ligou o leilão à discussão do sinal locacional/estabilização da TUST, alertando para o impacto tarifário (relação RAP/investimento).",
-      "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:20:00", "justificativa": "Prazo de 66 meses por dificuldade de licenciamento ambiental; janela de 12 meses para dar previsibilidade e capturar o deságio.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:20:45", "justificativa": "Questionou se o reforço não poderia valer até a entrada em operação e se 66 meses não geraria receita antecipada; satisfeito com a explicação sobre precificação de risco.", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:20:45", "justificativa": "Pediu que a justificativa do aumento de prazo conste da nota técnica.", "confianca": "media"},
-        {"diretor": "Alessandro Cantarino", "voto": "acompanha o relator", "ts": "1:20:45", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:20:50", "justificativa": "Pediu lógica/metodologia para os prazos e alertou que os investimentos pressionarão as tarifas; ligação com a estabilização da TUST.", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "3", "ts": "1:21:30", "processo": "48500.003267/2020", "interessado": "Energisa Mato Grosso, Energisa Tocantins e Energisa Rondônia",
-      "assunto": "Revisão das metas do programa Mais Luz para a Amazônia (REH 2.891/2021) a partir de novo cadastro (satélite e campo); metas sobem de 2.296 para 6.901 ligações, conforme SRD.",
-      "tema": ["universalização (Mais Luz para a Amazônia)", "distribuição"],
-      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade dos presentes",
-      "resumo_voto": "Alterar as metas conforme recomendação da SRD; sem AIR nem consulta pública por não haver edição normativa.",
-      "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "1:27:51", "justificativa": "Alinha-se à SRD; novo levantamento por imagens de satélite justifica a revisão.", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:28:17", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:28:17", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Alessandro Cantarino", "voto": "acompanha o relator", "ts": "1:28:21", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:28:25", "justificativa": "", "confianca": "baixa"}
-      ]
-    },
-    {
-      "id": "4", "ts": "1:29:11", "processo": "48500.002486/2020-68", "interessado": "ONS, CCEE",
-      "assunto": "Resultado da CP 74/2021: revisão 2022.08 dos submódulos 2.14, 6.8, 6.16 e 7.11 dos Procedimentos de Rede (sistema de medição para faturamento - SMF). Voto-vista após sustentação do ONS na 29ª RPO.",
-      "tema": ["regulação normativa (procedimentos de rede)", "transmissão"],
-      "relator": "Efrain Cruz (relator original, ex-diretor); voto-vista Hélvio Guerra", "resultado": "aprovado por unanimidade dos presentes, com recomendação às áreas técnicas",
-      "resumo_voto": "Aprovar a revisão 2022.08 e recomendar a SRG, SRT e SRD que, na próxima revisão dos Procedimentos de Rede, interajam com a CCEE e agentes conectantes sobre o instrumento mais adequado para as responsabilidades no SMF.",
-      "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "voto-vista vencedor: acompanha o relator com recomendação", "ts": "1:38:25", "justificativa": "Algumas responsabilidades da CCEE poderiam estar em outro ato, mas mudar isso foge do escopo da CP de baixo impacto; 85% das contribuições apoiaram manter nos Procedimentos de Rede.", "confianca": "alta"},
-        {"diretor": "Ricardo Tili", "voto": "mantém voto original (aprova) e acolhe a recomendação", "ts": "1:39:57", "justificativa": "", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação; voto dado na 29ª RPO)", "ts": "1:41:14", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Fernando Mosna", "voto": "não vota (não participou do início do julgamento)", "ts": "1:30:00", "justificativa": "", "confianca": "alta"},
-        {"diretor": "Alessandro Cantarino", "voto": "não vota (não participou do início do julgamento)", "ts": "1:30:00", "justificativa": "", "confianca": "alta"}
-      ]
-    },
-    {
-      "id": "8", "ts": "1:42:07", "processo": "48500.005956/2020-45", "interessado": "Operador Nacional do Sistema Elétrico (ONS); LMTE citada",
-      "assunto": "Recurso administrativo do ONS contra o Auto de Infração 7/2021 da SFE: multa de R$ 5.701.920 (0,8625% do orçamento) pela perturbação/apagão do Amapá de 3/11/2020 (subestação Macapá, TR2 indisponível). Sustentação oral de Márcio (ONS).",
-      "tema": ["fiscalização e sanções (multa, auto de infração)", "recursos administrativos", "transmissão", "distribuição e qualidade (apagão)"],
-      "relator": "Hélvio Guerra", "resultado": "recurso conhecido e não provido por unanimidade; multa mantida",
-      "resumo_voto": "ONS não causou o apagão, mas permitiu a propagação: não incluiu o TR2 indisponível nos estudos diário, mensal e quadrimestral nem adotou medidas preventivas (ex.: SEP) para instalação estratégica; enquadramento no grupo 5 da REN 846 mantido; agravantes e base de cálculo corretas.",
-      "votos": [
-        {"diretor": "Hélvio Guerra", "voto": "relator, nega provimento", "ts": "3:02:20", "justificativa": "Houve falha de confiabilidade e propagação do distúrbio; multa proporcionalmente quatro vezes menor que a da LMTE; caso grave demais para ação apenas orientativa.", "confianca": "alta"},
-        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:10:20", "justificativa": "Endossou o enquadramento no grupo 5: não deu causa, mas permitiu a propagação.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:10:25", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Alessandro Cantarino", "voto": "acompanha o relator", "ts": "3:10:30", "justificativa": "", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "3:10:37", "justificativa": "Fiscalização responsiva: penalidade é exceção, com sinais maiores quando aplicada; defendeu o termo perturbação conforme Procedimentos de Rede.", "confianca": "alta"}
-      ]
-    }
+ "meta": {
+  "video_id": "G3DnXbhdnM8",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela ordem de fala e pelas chamadas da mesa; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "45ª Reunião Pública Ordinária de 2022 (Parte 1)",
+  "data": "2022-11-29",
+  "formato": "presencial (sede da ANEEL, Brasília), transmitida pelo YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Fernando Mosna",
+   "Ricardo Tili",
+   "Alessandro Cantarino (diretor substituto)"
   ],
-  "retirados": ["5", "6", "11", "12", "13", "23"],
-  "limites_da_analise": [
-    "O .md tem um único marcador de tempo; ts obtidos do JSON de legenda por busca de frases e aproximados para quem só acompanha.",
-    "Alessandro Cantarino (diretor substituto) e Efrain Cruz (relator original do item 4, ex-diretor) não constam da lista de diretores do config.",
-    "Cabeçalho de falantes cita Agnes da Costa e Gentil Nogueira, mas Agnes só tomaria posse em 5/12/2022; não presentes.",
-    "Comentário do item 37 do bloco atribuído a Fernando Mosna por inferência (fala do relator sobre a instrução da SCG); comentários de Tili/Sandoval no item 1 atribuídos pelo conteúdo (o DG cita «a pergunta do diretor Ricardo»).",
-    "Item 3: só três falas de «acompanho» audíveis além do relator; não está claro quem não se manifestou. Votos com confiança baixa.",
-    "Item 4: a mesa diz que Sandoval não estava presente naquele momento; seu voto teria sido dado na 29ª RPO (legenda confusa). Proclamação feita por quem presidia naquele momento (não identificado).",
-    "Item 4 de pauta usa a numeração dita pelo secretário; os itens 7, 9, 10 e 2 ficaram para a parte da tarde."
+  "ausentes": [],
+  "observacoes": [
+   "Abertura às 0:01:11 com quórum de cinco diretores; última reunião pública de Alessandro Cantarino como diretor substituto (retorna à SRG); aniversário de Ricardo Tili.",
+   "Antes da pauta, lançamento do Subsidiômetro (painel da SGT sobre subsídios na tarifa; apresentação de Cristina, SGT): CDE passou de 16 bi (2017) para 32 bi (2022); 25,7 bi pagos em 2022, 12,59% da tarifa média residencial. Sandoval critica o PL 2703 (prorrogação de prazos da Lei 14.300/MMGD), estimando cerca de 25 bi implícitos na tarifa. Não é deliberação.",
+   "Informes: 25 anos da ANEEL (cerimônia em 1/12/2022); posse da diretora Agnes da Costa marcada para 5/12/2022 (ela ainda não integra o colegiado nesta sessão).",
+   "Ata da 44ª RPO (22/11/2022) aprovada por aquiescência (0:39:30).",
+   "Pauta com 54 itens; itens 14 a 54 em bloco; retirados de pauta os itens 5, 6, 11, 12, 13 e 23; sustentação oral nos itens 8 e 10. Ordem: bloco, 1, 3, 4, 8, 7, 9, 10 e 2.",
+   "Esta Parte 1 cobre bloco e itens 1, 3, 4 e 8; a sessão foi suspensa às 3:11:43 para continuar às 14h30 (itens 7, 9, 10 e 2 ficam para a Parte 2, em outro vídeo)."
   ]
+ },
+ "itens": [
+  {
+   "id": "bloco (itens 14 a 54)",
+   "ts": "0:41:26",
+   "processo": "diversos",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 14 a 54 (votos disponibilizados previamente na internet); aparte sobre o item 37: autorização de quatro usinas eólicas sem reconhecimento do direito ao desconto na tarifa de uso (fio), porque a garantia de fiel cumprimento só foi constituída em 8/9 e enviada à ANEEL em 12/9, fora do prazo de 12 meses contados de 2/3/2021",
+   "tema": [
+    "bloco",
+    "outorgas de geração (eólica)",
+    "descontos na TUST/TUSD"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bloco aprovado por unanimidade; um diretor (não identificado com segurança) fez aparte explicando o item 37: pedido de outorga incompleto (sem garantia de fiel cumprimento) dentro do prazo legal impede o desconto no fio, conforme parecer da Procuradoria e precedentes.",
+   "votos": [
+    {
+     "diretor": "não identificado (autor do aparte sobre o item 37)",
+     "voto": "aprova o bloco",
+     "ts": "0:43:19",
+     "justificativa": "item 37: sem garantia de fiel cumprimento no pedido de outorga no prazo, não há direito ao desconto no fio",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:43:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:43:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:43:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:43:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "aprova o bloco",
+     "ts": "0:43:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:43:38",
+   "processo": "48500.007497/2022-04",
+   "interessado": "MME/EPE; SEL e SCT (ANEEL); transmissoras interessadas",
+   "assunto": "Abertura de consulta pública (intercâmbio documental, 1/12/2022 a 16/1/2023) para aperfeiçoar o edital do Leilão de Transmissão nº 1/2023: cerca de 16 bi de investimento, 9 lotes, 33 empreendimentos, 6.122 km de linhas em BA, ES, MG, PE, RJ, SE e SP; inovações: Lei 14.133, cláusula de reforços/melhorias determinados em até 12 meses após o contrato com até 5% da RAP e prazo de 66 meses em lotes maiores",
+   "tema": [
+    "leilões (transmissão)",
+    "transmissão (RAP, reforços)",
+    "regulação normativa (consulta pública)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade (consulta pública instaurada)",
+   "resumo_voto": "Relator vota por instaurar a CP. Apresentação de André Tiburtino (SEL). Debate: Ricardo Tili pergunta se o prazo de 12 meses para reforços não deveria ir até a entrada em operação e se a ampliação de 60 para 66 meses não gera antecipação de receita; SCT (Ivo) responde com dados de monitoramento de prazos e licenciamento ambiental. Sandoval pede metodologia objetiva para os prazos, destaca que é o maior leilão em investimento, impacto de cerca de 1,6 bi na RAP, vínculo com o sinal locacional e a estabilização da TUST, e questiona o tamanho dos lotes; SCT explica o loteamento por linhas em série.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova (instaurar consulta pública)",
+     "ts": "0:58:51",
+     "justificativa": "inovações: adequação à Lei 14.133, inclusão de reforços até 12 meses após o contrato com limite de 5% da RAP para capturar o deságio; 66 meses em alguns lotes por dificuldade de licença ambiental",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "1:20:45",
+     "justificativa": "levantou dúvidas sobre o limite de 12 meses para reforços e sobre o prazo de 66 meses permitir antecipação e receita extra",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator",
+     "ts": "1:20:47",
+     "justificativa": "perguntou se a explicação sobre a ampliação do prazo consta da nota técnica que acompanha a CP",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "1:20:49",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:20:51",
+     "justificativa": "pediu lógica/metodologia histórica para fixar prazos; alertou para pressão tarifária da RAP e para o vínculo com o sinal locacional da TUST",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:20:58",
+   "processo": "48500.003267/2020 (dígito incerto)",
+   "interessado": "Energisa Mato Grosso, Energisa Tocantins e Energisa Rondônia (distribuidoras)",
+   "assunto": "Requerimento administrativo da Energisa para revisão das metas do Programa Mais Luz para a Amazônia fixadas pela REH 2.891/2021, após novo cadastro por imagens de satélite e visitas em campo",
+   "tema": [
+    "universalização (Mais Luz para a Amazônia)",
+    "distribuição"
+   ],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Relator acompanha a SRD (NT 63/2022) e altera as metas (área técnica recomendou elevar de 2.296 para 6.901 ligações, acima das 4.605 pedidas); dispensa AIR e consulta pública por não haver edição de norma. Procuradoria não se manifestou (tema técnico).",
+   "votos": [
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "relator, aprova a alteração das metas",
+     "ts": "1:27:51",
+     "justificativa": "novo levantamento da Energisa justifica revisar metas; segue SRD; decreto prorrogou o programa até 2030",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:19",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:28:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "1:28:23",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:29:05",
+   "processo": "48500.002486/2020-68",
+   "interessado": "ONS; CCEE; agentes conectantes",
+   "assunto": "Resultado da Consulta Pública 74/2021: revisão 2022.08 dos submódulos 2.14, 6.8, 6.16 e 7.11 dos Procedimentos de Rede (sistema de medição para faturamento, SMF) — retorno de voto-vista",
+   "tema": [
+    "regulação normativa (consulta pública, Procedimentos de Rede)",
+    "transmissão",
+    "medição para faturamento"
+   ],
+   "relator": "Efrain Cruz (relator original, voto na 29ª RPO de 2022); voto-vista de Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos presentes, com recomendação do voto-vista",
+   "resumo_voto": "Na 29ª RPO o relator Efrain Cruz votou por aprovar a revisão, acompanhado por Ricardo Tili; Hélvio Guerra pediu vista após sustentação do ONS. Voto-vista acompanha o relator e acrescenta recomendação à SRG, SRT e SRD para, na próxima revisão dos Procedimentos de Rede, interagir com CCEE e agentes sobre o instrumento regulatório mais adequado para as responsabilidades da CCEE e dos agentes no SMF (ONS defendia retirá-las dos ProRede). Fernando Mosna e Alessandro Cantarino não votam (não participaram do início do julgamento). O secretário-geral esclarece que a recomendação é orientativa e não exige suspensão.",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova a revisão 2022.08 (voto proferido na 29ª RPO, antes da vista; não presente nesta sessão)",
+     "ts": "1:30:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "voto-vista: acompanha o relator, com recomendação às superintendências (vencedor)",
+     "ts": "1:31:00",
+     "justificativa": "mudar o instrumento implicaria revisão ampla fora do escopo de baixo impacto da CP 74; 85% das contribuições da tomada de subsídios apoiam manter as responsabilidades nos ProRede; reflexão deve ser feita na próxima revisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "mantém o voto original (acompanha o relator), com o adendo da recomendação",
+     "ts": "1:39:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha (pela proclamação; participação no voto incerta)",
+     "ts": "1:41:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "não vota (não participou do início do julgamento)",
+     "ts": "1:30:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "não vota (não participou do início do julgamento)",
+     "ts": "1:30:47",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:41:50",
+   "processo": "48500.005956/2020-45",
+   "interessado": "Operador Nacional do Sistema Elétrico (ONS); LMTE (transmissora, citada)",
+   "assunto": "Recurso administrativo do ONS contra o Auto de Infração 7/2021 da SFE: multa de R$ 5.701.920 (0,8625% do orçamento 2021) por falhas de planejamento/programação da operação que permitiram a propagação do apagão do Amapá de 3/11/2020 (SE Macapá, indisponibilidade do TR2)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "recursos administrativos",
+    "transmissão",
+    "distribuição/qualidade (apagão do Amapá)"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "recurso conhecido e não provido por unanimidade; multa mantida",
+   "resumo_voto": "Sustentação oral de Márcio Miguel (nome incerto), pelo ONS: pede anulação (sem nexo causal; defeito oculto nas buchas de 69 kV; informações da LMTE previam retorno do TR2 em 21 dias) ou reenquadramento no grupo 3, outra base de cálculo e exclusão de agravantes. André (SFE) apresenta as 4 não conformidades. Relator: ONS não deu causa, mas permitiu a propagação; deveria ter incluído a ausência do TR2 nos estudos diário, mensal e quadrimestral e adotado medidas como um SEP; SE Macapá é instalação estratégica E2; enquadramento no grupo 5 correto; fórmula paramétrica legítima; antecedentes com exigibilidade suspensa judicialmente contam; multa proporcionalmente cerca de 4 vezes menor que a da LMTE.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, nega provimento ao recurso",
+     "ts": "3:02:20",
+     "justificativa": "ONS não provocou o colapso, mas sua omissão nos estudos e em medidas preventivas (SEP) permitiu a propagação; caso grave demais para tratamento apenas orientativo",
+     "tom": "firme, com reconhecimento da qualidade técnica do ONS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "3:10:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "3:10:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alessandro Cantarino (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "3:10:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator e proclama",
+     "ts": "3:10:36",
+     "justificativa": "perturbação é o termo técnico dos ProRede; fórmula paramétrica única dá previsibilidade; fiscalização responsiva: menos punições, mas maiores quando ocorrem",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "item 5",
+  "item 6",
+  "item 11",
+  "item 12",
+  "item 13",
+  "item 23"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números distorcidos (ex.: «Ricardo Chile» = Ricardo Tili; «Élvio/Neves guerra» = Hélvio Guerra; «Fernando móveis/Moser» = Fernando Mosna; «Imperial da Cruz» = Efrain Cruz; o Diretor-Geral diz «41ª», mas o secretário-geral diz 45ª RPO).",
+  "Alessandro Cantarino (diretor substituto, superintendente da SRG) não está na lista de diretores do config; registrado como dito. Efrain Cruz já não integrava o colegiado; registrado só como relator original do item 4.",
+  "O cabeçalho do .md lista Agnes da Costa e Gentil Nogueira entre os falantes, mas Agnes só tomaria posse em 5/12/2022 e Gentil não é citado; não foram considerados presentes.",
+  "Bloco: o autor do aparte sobre o item 37 não é nomeado (provavelmente o relator do item); os cinco «aprovo» não têm nome, atribuição por presença.",
+  "Item 3: só três falas de voto audíveis (incluindo a do Diretor-Geral) para quatro não-relatores, e a proclamação diz «unanimidade dos presentes»; um de Hélvio, Mosna ou Cantarino pode ter estado momentaneamente fora; votos marcados com confiança baixa.",
+  "Item 4: trecho confuso: alguém diz que «o diretor Sandoval não está presente na sessão neste momento», mas a proclamação parece ser do Diretor-Geral; não está claro se Sandoval votou na 29ª RPO ou nesta sessão. Os nomes de quem votou na 29ª RPO além de Efrain Cruz e Ricardo Tili estão ininteligíveis («já como base Almeida»).",
+  "Item 8: cinco falas «acompanho» para quatro não-relatores; atribuição pela ordem usual. O comentário de endosso ao enquadramento no grupo 5 (3:03:08) é de diretor não identificado; o comentário seguinte (3:04:53) é atribuído a Sandoval porque Hélvio responde «diretor Sandoval».",
+  "Esta é a Parte 1; itens 2, 7, 9 e 10 foram deliberados à tarde, em outro vídeo."
+ ]
 }

@@ -1,52 +1,80 @@
 {
-  "meta": {"video_id": "Ewasw5xzwKs", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "Ewasw5xzwKs", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "41ª Reunião Pública Ordinária de 2023", "data": "2023-11-07", "formato": "presencial com participação remota",
+    "numero": "41ª Reunião Pública Ordinária de 2023",
+    "data": "2023-11-07",
+    "formato": "híbrido (presencial com diretores Ricardo Tili e Hélvio Guerra participando remotamente)",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
     "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Hélvio Guerra", "Agnes da Costa"],
     "ausentes": ["Fernando Mosna (férias)"],
-    "observacoes": ["Ricardo Tili e Hélvio Guerra participaram remotamente; Agnes da Costa chegou ao longo da reunião (já citada na aprovação da ata).", "Comunicado longo do Diretor-Geral sobre o evento climático de 3/11/2023 em São Paulo (4,2 milhões de unidades consumidoras sem energia, 7 áreas de concessão); Ricardo Tili disse ser inadmissível levar quatro dias para restabelecer.", "Pauta com 27 itens; itens 5 a 27 em bloco; retirados 2, 3 e 15; sem sustentação oral.", "Ata da 40ª reunião (31/10/2023) aprovada."]
+    "observacoes": [
+      "Abertura com quórum mínimo de três diretores (Sandoval Feitosa, Ricardo Tili e Hélvio Guerra, os dois últimos remotos); Agnes da Costa anunciada para se juntar ao longo da reunião e já citada na deliberação da ata (0:20:28).",
+      "Longo informe do Diretor-Geral sobre o evento climático de 3/11/2023 em São Paulo (mais de 4,2 milhões de unidades consumidoras sem energia, 7 áreas de concessão, 23 municípios): reunião no Palácio dos Bandeirantes com governador Tarcísio e prefeito Ricardo Nunes, abertura de processos de fiscalização por empresa, priorização de ressarcimento por danos elétricos, pedido de identificação de árvores para poda; menciona 17 processos de fiscalização nas concessionárias paulistas em 5 anos e penalidades de cerca de R$ 211 milhões (valor da legenda automática).",
+      "Ricardo Tili manifesta-se (0:15:54): evento gravíssimo, não é admissível ficar quatro dias para restabelecer energia na maior cidade do país; pede rigor na apuração e plano para eventos climáticos futuros.",
+      "Aprovada a ata da reunião anterior (realizada em 31/10/2023; legenda diz «4ª», provavelmente 40ª).",
+      "Pauta com 27 itens; retirados de pauta os itens 2, 3 e 15; sem sustentação oral; ordem: bloco, item 1 e item 4. Todos os itens unânimes; nenhum pedido de vista."
+    ]
   },
   "itens": [
     {
-      "id": "bloco", "ts": "0:21:58", "processo": "", "interessado": "",
-      "assunto": "Itens 5 a 27 deliberados em bloco (votos disponibilizados com a pauta)",
-      "tema": ["bloco"], "relator": "vários", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Itens do bloco aprovados sem discussão.",
+      "id": "bloco", "ts": "0:21:58",
+      "processo": "",
+      "interessado": "diversos",
+      "assunto": "Itens de bloco (itens 5 a 27, exceto o 15, retirado; legenda diz «5 a 17 A 27»), com votos e atos disponibilizados previamente",
+      "tema": ["itens de bloco"],
+      "relator": "diversos",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Bloco aprovado sem discussão; o Diretor-Geral proclamou a aprovação por unanimidade.",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:22:00", "confianca": "baixa"},
-        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:22:03", "confianca": "baixa"},
-        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:22:06", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "aprova e proclama", "ts": "0:22:08", "confianca": "alta"}
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:22:00", "justificativa": "sem justificativa (votação em bloco)", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:22:06", "justificativa": "sem justificativa (votação em bloco)", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:22:06", "justificativa": "sem justificativa (votação em bloco)", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:22:09", "justificativa": "aprova os itens remanescentes do bloco e proclama a unanimidade", "confianca": "alta"}
       ]
     },
     {
-      "id": "1", "ts": "0:22:26", "processo": "48500.000529/2023-13", "interessado": "Leilão de transmissão (Goiás, Maranhão, Minas Gerais, São Paulo, Tocantins)",
-      "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2023 após análise técnica do TCU (3 lotes; lote 1 = elo HVDC 800 kV Graça Aranha–Silvânia, dividido em sublotes 1A–1D com competição cruzada; nova rodada em caso de inabilitação do vencedor); sessão pública em 15/12/2023 na B3",
+      "id": "1", "ts": "0:22:26",
+      "processo": "48500.000529/2023-13",
+      "interessado": "ANEEL (SCE/Secretaria de Leilões); TCU (análise prévia)",
+      "assunto": "Aprovação do edital do Leilão de Transmissão nº 2/2023 consolidado após análise técnica do TCU: objeto, RAPs e anexos técnicos de três lotes (elo de corrente contínua 800 kV Graça Aranha (MA) a Silvânia (GO), lote 1 dividido em sublotes 1A a 1D com competição cruzada); sessão pública em 15/12/2023 na B3; estados GO, MA, MG, SP e TO",
       "tema": ["leilões (transmissão)", "transmissão (RAP, outorgas)", "institucional/TCU"],
-      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Edital aprovado; apresentação de André Tiburtino (coordenador de leilões); maior leilão da história da ANEEL (cerca de 21,7 bilhões); Procuradoria favorável (parecer 148/2023); plenário do TCU ainda não havia apreciado.",
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Edital aprovado com ajustes recomendados pela área técnica do TCU (plenário do TCU ainda não apreciou). Maior leilão da história da ANEEL, cerca de R$ 21,7 bilhões (R$ 18,1 bi elo CC e R$ 3,6 bi CA); lote 1 em sublotes com competição cruzada para ampliar a competitividade; em caso de inabilitação do vencedor, nova rodada com todos que apresentaram proposta válida (sessão pública extraordinária). Apresentação de André Tiburtino (coordenador de leilões). Procuradoria (Eduardo Estevão) reiterou o Parecer 148/2023, favorável. Sem sustentação oral.",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:36:00", "justificativa": "criar competitividade num lote complexo com poucos fornecedores; aprender com leilões anteriores (inabilitação do vencedor); manter cronograma", "confianca": "alta"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:25", "justificativa": "elogiou a divisão do lote 1 proposta pela área técnica e o ofício conjunto ao MME; cada 12,5% de deságio no lote 1 pode dar 1% de economia na tarifa de transmissão", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:21", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:23", "confianca": "media"}
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:35:38", "justificativa": "leilão viabiliza expansão das renováveis do Nordeste para o centro de carga do Sudeste e confiabilidade; mecanismo de sublotes cria competição num lote complexo com poucos fornecedores no mundo; aprendizado com leilões anteriores (inabilitação); publicação necessária 30 dias antes do certame mesmo sem apreciação do plenário do TCU", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:21", "justificativa": "sem justificativa própria registrada", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:41:25", "justificativa": "sem justificativa própria registrada", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:41:25", "justificativa": "em discussão (0:36:34) destacou que a área técnica alertou para o risco de baixa competitividade do lote único (conversoras = 2/3 do valor), o que levou a ofício conjunto com o relator ao MME e à prorrogação do leilão para remodelagem; cada 12,5% de deságio no lote 1 pode significar cerca de 1% de economia na tarifa de transmissão; geração de empregos no Maranhão", "tom": "elogioso à área técnica e ao relator", "confianca": "media"}
       ]
     },
     {
-      "id": "4", "ts": "0:42:17", "processo": "48500.000551/2021-46", "interessado": "Powertech (UTE Manicoré Powertech); Amazonas Energia",
-      "assunto": "Condições de atendimento ao município de Manicoré (AM), §5º do art. 1º da Portaria MME 714/2022: prorrogação da locação de geração térmica de reserva (UTE Manicoré 2)",
-      "tema": ["sistemas isolados", "outorgas de geração (térmica)", "distribuição/qualidade", "fiscalização"],
-      "relator": "Ricardo Tili", "resultado": "aprovado por unanimidade",
-      "resumo_voto": "Reconhece que não foram restabelecidas totalmente as condições de atendimento por causa da recuperação judicial da Powertech; Amazonas Energia pode prorrogar a locação térmica por até 180 dias, rescindível se as condições se restabelecerem; SFT e SFF acompanham; SFT fiscaliza em campo a UTE Manicoré 2. Procuradoria sem parecer formal, mas concordou.",
+      "id": "4", "ts": "0:42:17",
+      "processo": "48500.005511/2021-46",
+      "interessado": "Amazonas Energia S.A. (distribuidora); Powertech (geradora, UTE Manicoré Powertech, em recuperação judicial); UTE Manicoré 2 (geração térmica locada)",
+      "assunto": "Condições de atendimento ao município de Manicoré (AM), nos termos do art. 1º, §5º, da Portaria MME 714/2022: reconhecimento de que não foram restabelecidas as condições de atendimento e possibilidade de prorrogar a locação de geração térmica de reserva",
+      "tema": ["sistemas isolados", "outorgas de geração (térmica)", "distribuição e qualidade do atendimento", "fiscalização"],
+      "relator": "Ricardo Tili",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reconhece que as condições de atendimento a Manicoré por meio da UTE Manicoré Powertech não foram restabelecidas na totalidade (recuperação judicial e processo judicial com liminar limitando pagamentos a credores); mantido o fundamento da deliberação do CMSE (7ª reunião ordinária, 6/10/2022), a Amazonas Energia pode prorrogar a locação de geração térmica em reserva, em caráter excepcional e temporário, por até 180 dias, rescindível a qualquer momento se restabelecidas as condições; SFT e SFF acompanham a prorrogação; SFT faz fiscalização em campo na UTE Manicoré 2. Procuradoria (Ramalho) não emitiu parecer formal, mas corroborou a nota técnica. Relator leu apenas resumo do relatório e da fundamentação.",
       "votos": [
-        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:48:00", "justificativa": "recuperação judicial e liminar sobre pagamentos geram incerteza econômico-financeira; prudência no suprimento a Manicoré", "confianca": "alta"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:15", "confianca": "media"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:17", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:54:20", "confianca": "alta"}
+        {"diretor": "Ricardo Tili", "voto": "relator, aprova", "ts": "0:52:20", "justificativa": "ANEEL só avalia o restabelecimento das condições, sem se envolver na contratação; atendimento técnico adequado (autonomia de combustível de 22 dias), mas situação econômico-financeira incerta pela recuperação judicial e agravo de credores pendente; prudência para garantir o suprimento", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:00", "justificativa": "sem justificativa própria registrada", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "0:54:02", "justificativa": "sem justificativa própria registrada", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "0:54:06", "justificativa": "acompanha o voto do ilustre relator", "confianca": "alta"}
       ]
     }
   ],
-  "retirados": ["item 2", "item 3", "item 15"],
-  "limites_da_analise": ["Falas de voto sem nome: no bloco houve 4 manifestações e nos itens 1 e 4 três ('voto com relator', 'acompanho', 'também acompanho e proclamo'); atribuição de Hélvio Guerra e Agnes da Costa inferida pela proclamação de unanimidade, ordem incerta.", "Presença de Agnes da Costa nas votações inferida (anunciada como chegando ao longo da reunião e citada na aprovação da ata).", "Os 23 itens do bloco não são enunciados individualmente; conteúdo não identificado.", "Números de processo e valores vêm da legenda automática; podem conter erros."]
+  "retirados": [
+    {"id": "2", "observacao": "retirado de pauta (assunto não lido)"},
+    {"id": "3", "observacao": "retirado de pauta (assunto não lido)"},
+    {"id": "15", "observacao": "retirado de pauta (item de bloco; assunto não lido)"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática; falantes inferidos. As falas de voto («eu voto com relator», «eu acompanho», «eu aprovo o bloco») não têm nome: Hélvio Guerra e Agnes da Costa foram atribuídos pela proclamação de unanimidade e pela ordem usual (Diretor-Geral por último); a ordem entre Hélvio e Agnes é incerta (confiança media).",
+    "Presença de Agnes da Costa: anunciada para se juntar ao longo da reunião; inferida presente a partir da deliberação da ata (0:20:28) e de quatro vozes de voto no bloco e três seguidores em cada item. Não há chamada nominal confirmando o momento de entrada.",
+    "A fala de discussão do item 1 (0:36:34, ofício conjunto com o relator ao MME) foi atribuída a Sandoval Feitosa pelo contexto (preside e submete o voto em seguida); confiança media.",
+    "Itens do bloco não foram lidos individualmente; números exatos do bloco garbled («5 a 17 A 27»). Assuntos dos itens retirados 2, 3 e 15 não foram ditos.",
+    "Números de processo, valores e nomes (Powertech/powertec, Tiburtino, Ramalho, Graça Aranha) vêm da legenda automática e podem ter erros; processo do item 4 lido como «48500 00551 2021 46» no anúncio e «48500 00 5511 de 2021» no dispositivo."
+  ]
 }

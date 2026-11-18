@@ -1,41 +1,157 @@
 {
- "meta": {"video_id": "vMhQuPIMKSA", "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de quem só acompanha aproximados", "versao_esquema": 1},
+ "meta": {
+  "video_id": "vMhQuPIMKSA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado",
+  "versao_esquema": 1
+ },
  "reuniao": {
-  "numero": "40ª Reunião Pública Ordinária de 2023", "data": "2023-10-31", "formato": "presencial com transmissão no YouTube",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral) na abertura e no bloco; no item 4 a condução final é incerta (Sandoval deixou voto por escrito)",
-  "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Agnes da Costa", "Ricardo Tili", "Fernando Mosna"],
+  "numero": "40ª Reunião Pública Ordinária de 2023",
+  "data": "2023-10-31",
+  "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); no item 4 a condução e a proclamação ficaram com Hélvio Guerra após saída de Sandoval Feitosa",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Hélvio Guerra",
+   "Agnes da Costa",
+   "Ricardo Tili",
+   "Fernando Mosna"
+  ],
   "ausentes": [],
-  "observacoes": ["Quórum inicial de quatro diretores (Sandoval, Ricardo, Hélvio, Agnes); Fernando Mosna ausente na abertura, juntou-se depois e é agradecido no encerramento.", "Ata da 39ª RPO (24/10/2023) aprovada.", "Pauta de 26 itens; itens 5 a 26 em bloco; retirados a pedido dos relatores os itens 1, 2, 3, 7 e 21. Hélvio Guerra explicou a retirada do item 2 (RBSE) para ajustes no voto, com desculpas às associações (Abrate, ABAP/Abrass citadas).", "Item 4: revisão tarifária extraordinária da Enel Rio (covid-19 e lei estadual do RJ que vedou cortes); sustentação oral de Jerusa Magalhães (Enel Rio); apresentação técnica de Luís Carlos Carrasa (STR); deferimento parcial por unanimidade, com voto escrito de Sandoval Feitosa."]
+  "observacoes": [
+   "Abertura: quórum de quatro diretores (Sandoval Feitosa, Ricardo Tili, Hélvio Guerra, Agnes da Costa); Fernando Mosna ausente na abertura, com chegada anunciada ao longo da reunião, e citado no agradecimento final.",
+   "Informes: AP 20/2023 (agenda regulatória 2024-2025), TS 15 e 16/2023, CP 36/2023; bandeira verde confirmada para novembro; Citenel 2023 em São Luís organizado pela diretora Agnes da Costa.",
+   "Aprovada a ata da 39ª reunião pública ordinária (24/10/2023).",
+   "Pauta com 26 itens, itens 5 a 26 em bloco; retirados a pedido dos relatores os itens 1, 2, 3, 7 e 21. Hélvio Guerra explicou que retirou o item 2 (RBSE) para ajustar o voto e se desculpou com os que pediram sustentação oral (Abrate e outras associações).",
+   "Item 4 (Enel Distribuição Rio, revisão tarifária extraordinária covid/lei estadual): Sandoval Feitosa deixou voto por escrito acompanhando o relator; Hélvio Guerra proclamou a unanimidade e encerrou a reunião."
+  ]
  },
  "itens": [
   {
-   "id": "bloco (itens 5 a 26, exceto 7 e 21)", "ts": "0:06:47", "processo": "", "interessado": "diversos",
-   "assunto": "Itens de bloco com votos e atos previamente publicados",
-   "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Itens do bloco aprovados sem debate.",
+   "id": "bloco",
+   "ts": "0:06:47",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da pauta (itens 5 a 26, exceto os retirados 7 e 21), com votos disponibilizados previamente na internet",
+   "tema": [
+    "deliberação em bloco"
+   ],
+   "relator": "vários (não identificados na transmissão)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Itens remanescentes do bloco aprovados sem discussão; conteúdo dos itens não lido na sessão.",
    "votos": [
-    {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco (proclama)", "ts": "0:06:59", "justificativa": "", "confianca": "media"},
-    {"diretor": "Hélvio Guerra", "voto": "aprova o bloco", "ts": "0:06:51", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "0:06:53", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "0:06:57", "justificativa": "", "confianca": "baixa"}
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "aprova o bloco",
+     "ts": "0:06:48",
+     "justificativa": "sem fundamentação oral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco",
+     "ts": "0:06:50",
+     "justificativa": "sem fundamentação oral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:06:53",
+     "justificativa": "sem fundamentação oral",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:06:57",
+     "justificativa": "proclamou a aprovação unânime do bloco",
+     "confianca": "alta"
+    }
    ]
   },
   {
-   "id": "4", "ts": "0:07:22", "processo": "48500.002233/2021-75 (número incerto na legenda)",
-   "interessado": "Enel Distribuição Rio (distribuidora)",
-   "assunto": "Requerimento administrativo de reequilíbrio econômico-financeiro do contrato de concessão 5/1996 (revisão tarifária extraordinária por efeitos da pandemia de covid-19 e da lei estadual RJ 8.769/2020, que vedou suspensão de fornecimento por inadimplência)",
-   "tema": ["tarifas e revisão tarifária (RTE)", "distribuição", "covid-19", "receitas irrecuperáveis / inadimplência"],
-   "relator": "Hélvio Guerra", "resultado": "deferido parcialmente por unanimidade",
-   "resumo_voto": "Deferimento parcial da RTE da Enel Rio: aplicação do submódulo 2.10 do Proret com benchmark (mediana) de receitas irrecuperáveis mantido; acatada por analogia a extensão do período em 6 meses após a revogação da lei estadual (jul/2021); valores para 2020 e 2021 (cerca de R$ 133,5 milhões no total segundo a apresentação) a atualizar como componente financeiro no processo tarifário subsequente; SFF deve considerá-los nos indicadores de sustentabilidade 2020-2021. Sustentação oral de Jerusa Magalhães (Enel Rio) pediu afastar o benchmark e estender o período; procuradoria (Eduardo Ramalho) remeteu ao parecer da CP 35/2020 e presunção de legitimidade.",
+   "id": "4",
+   "ts": "0:07:12",
+   "processo": "48500.002233/2021-75 (número conforme legenda, incerto)",
+   "interessado": "Enel Distribuição Rio (distribuidora, contrato de concessão nº 5/1996)",
+   "assunto": "Requerimento administrativo de reequilíbrio econômico-financeiro / revisão tarifária extraordinária pelos efeitos da pandemia de covid-19 e da lei estadual RJ 8.769/2020 (vedação de corte por inadimplência), com base no submódulo 2.10 do Proret",
+   "tema": [
+    "tarifas e revisão tarifária (RTE)",
+    "distribuição",
+    "covid-19",
+    "recursos administrativos"
+   ],
+   "relator": "Hélvio Guerra",
+   "resultado": "deferido parcialmente por unanimidade",
+   "resumo_voto": "Sustentação oral de Jerusa Magalhães (Enel Rio) pedindo afastamento do benchmark de receitas irrecuperáveis e extensão do período de apuração; procurador Eduardo Ramalho remeteu ao parecer da CP 35/2020 e opinou pela presunção de legitimidade; apresentação técnica de Luís Carlos Carrasa (STR). Relator acolheu a extensão de 6 meses após a revogação da lei estadual (julho/2021), por analogia à regra da ANEEL, e negou o afastamento do benchmark por extrapolar o Proret 2.10. Deferimento parcial: cerca de R$ 74,2 milhões (2020) e R$ 59,3 milhões (2021), a atualizar como componente financeiro no processo tarifário subsequente; SFF deve considerar os valores nos indicadores de sustentabilidade de 2020 e 2021 (valores conforme legenda).",
    "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, defere parcialmente", "ts": "0:54:50", "justificativa": "afastar o benchmark extrapolaria norma do Proret aprovada em consulta pública; extensão de 6 meses cabe por analogia à resolução da ANEEL, pois a lei estadual foi além da regulação", "confianca": "alta"},
-    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:56:48", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "0:56:53", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:56:55", "justificativa": "", "confianca": "baixa"},
-    {"diretor": "Sandoval Feitosa", "voto": "voto deixado (por escrito), acompanha o relator", "ts": "0:57:05", "justificativa": "", "confianca": "media"}
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, aprova (defere parcialmente)",
+     "ts": "0:54:50",
+     "justificativa": "cabe estender por 6 meses o período após o fim da lei estadual, por analogia à resolução da ANEEL; afastar o benchmark extrapolaria norma bem estabelecida do Proret 2.10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:56:51",
+     "justificativa": "sem fundamentação oral; falante não nomeado",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha o relator",
+     "ts": "0:56:52",
+     "justificativa": "sem fundamentação oral; falante não nomeado",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:56:53",
+     "justificativa": "sem fundamentação oral; falante não nomeado",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto deixado (lido por Hélvio Guerra): acompanha o relator",
+     "ts": "0:57:05",
+     "justificativa": "voto deixado por escrito, registrado pelo relator na proclamação",
+     "confianca": "alta"
+    }
    ]
   }
  ],
- "retirados": ["1", "2 (RBSE, relator Hélvio Guerra, para ajustes no voto)", "3", "7", "21"],
- "limites_da_analise": ["Transcrição automática sem marcação de falantes: as três falas de voto no item 4 ('Eu voto com relator', 'Eu também voto', 'Eu também acompanho') e as quatro aprovações do bloco não têm nome; atribuição pela composição presente, confiança baixa.", "Sandoval Feitosa deixou voto escrito no item 4, sugerindo que se ausentou; quem proclamou o resultado do item 4 não é identificável com segurança.", "Fernando Mosna chegou após a abertura; não se sabe se votou no bloco (registrado só os quatro presentes na abertura).", "Números do processo e valores (R$ 74,2 milhões para 2020; R$ 59,3 milhões para 2021) vêm da legenda automática e podem estar errados.", "Nomes da sustentação oral (Jerusa Magalhães) e do técnico (Luís Carlos Carrasa) conforme legenda."]
+ "retirados": [
+  {
+   "id": "1",
+   "motivo": "retirado a pedido do relator"
+  },
+  {
+   "id": "2",
+   "assunto": "RBSE (Rede Básica Sistema Existente)",
+   "relator": "Hélvio Guerra",
+   "motivo": "relator vai ajustar o voto; havia pedidos de sustentação oral (Abrate e associações)"
+  },
+  {
+   "id": "3",
+   "motivo": "retirado a pedido do relator"
+  },
+  {
+   "id": "7",
+   "motivo": "retirado a pedido do relator (item de bloco)"
+  },
+  {
+   "id": "21",
+   "motivo": "retirado a pedido do relator (item de bloco)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: número do processo do item 4 e valores (R$) podem estar errados; a legenda alterna 8769 e 8976 para a lei estadual (a correta é 8.769/2020).",
+  "Bloco: quatro falas de aprovação sem nome; atribuídas pela ordem usual (Sandoval Feitosa por último, ao proclamar); a ordem dos outros três é inferida. Fernando Mosna não votou o bloco por estar ausente naquele momento (quórum de quatro).",
+  "Item 4: três falas «voto com relator / também voto / também acompanho» sem nome; atribuídas a Agnes da Costa, Ricardo Tili e Fernando Mosna (presentes, citados no agradecimento final) com confiança baixa; a unanimidade proclamada sustenta o sentido do voto, não a ordem.",
+  "Momento exato da saída de Sandoval Feitosa e da chegada de Fernando Mosna não é dito na transmissão.",
+  "Assuntos e relatores dos itens de bloco e dos retirados 1, 3, 7 e 21 não foram lidos na sessão."
+ ]
 }

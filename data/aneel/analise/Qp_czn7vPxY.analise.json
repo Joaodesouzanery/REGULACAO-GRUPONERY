@@ -1,39 +1,64 @@
 {
- "meta": {"video_id": "Qp_czn7vPxY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:52:21); ts de votos de seguidores aproximados", "versao_esquema": 1},
- "reuniao": {
-  "numero": "11ª RPO 2023", "data": "2023-04-11", "formato": "presencial (auditório) e transmissão pela internet",
-  "presidente_da_sessao": "Hélvio Guerra (presidência da sessão; Diretor-Geral Sandoval Feitosa ausente)",
-  "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili"],
-  "ausentes": ["Sandoval Feitosa (impedimento pessoal)", "Fernando Mosna (em missão representando a ANEEL fora de Brasília)"],
-  "observacoes": ["Quórum de três diretores. Pauta com 46 itens; itens 2 a 46 em bloco; retirados de pauta os itens 1, 5, 7 e 45; sustentação oral só no item 8, destacado do bloco.", "Data deduzida da fala de abertura (reunião de 11/04/2023: 'amanhã, 12 de abril'). Presidente da sessão deduzido do fato de quem preside ler o relatório do item 8 como relator (Hélvio Guerra); não dito explicitamente com o nome.", "Informes: seminário GGT (12/04), seminário usinas reversíveis (13/04), workshop mexilhão dourado fase 3 (13/04), fim do prazo da CP 6/2023 (RTP Cemig-D, 14/04), encontro de conselhos de consumidores em Macapá, Dia da Engenharia. Ata da 10ª reunião aprovada pelos diretores presentes.", "Item 8 terminou em pedido de vista da diretora Agnes da Costa; reunião encerrada em seguida."]
- },
- "itens": [
-  {
-   "id": "bloco", "ts": "1:01:20",
-   "processo": "itens 2 a 46 da pauta, exceto 5, 7, 8 e 45 (retirados 5, 7 e 45; item 8 destacado)", "interessado": "diversos",
-   "assunto": "Itens do bloco (votos e atos disponibilizados previamente na página da ANEEL)",
-   "tema": ["institucional"], "relator": "diversos", "resultado": "aprovados por unanimidade",
-   "resumo_voto": "Presidência colocou o bloco em votação; os demais diretores aprovaram e a presidência proclamou a aprovação por unanimidade.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "aprova (proclama unanimidade)", "ts": "1:02:13", "justificativa": "Declarou aprovação do bloco por unanimidade.", "confianca": "media"},
-    {"diretor": "Agnes da Costa", "voto": "aprova o bloco", "ts": "1:02:08", "justificativa": "Disse «eu também aprovo os itens remanescentes»; atribuição pela ordem de votação.", "confianca": "baixa"},
-    {"diretor": "Ricardo Tili", "voto": "aprova o bloco", "ts": "1:02:10", "justificativa": "Disse «eu também aprovo bloco»; atribuição pela ordem de votação.", "confianca": "baixa"}
-   ]
+  "meta": {"video_id": "Qp_czn7vPxY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:52:21); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "11ª Reunião Pública Ordinária da Diretoria de 2023",
+    "data": "2023-04-11",
+    "formato": "presencial (auditório da ANEEL), transmitida pelo YouTube",
+    "presidente_da_sessao": "Hélvio Guerra (presidindo na ausência do Diretor-Geral)",
+    "diretores_presentes": ["Hélvio Guerra", "Agnes da Costa", "Ricardo Tili"],
+    "ausentes": ["Sandoval Feitosa (impedimento pessoal)", "Fernando Mosna (em missão representando a ANEEL fora de Brasília)"],
+    "observacoes": [
+      "Quórum de três diretores declarado na abertura; data inferida da fala de abertura («quarta-feira dia 12 de abril, portanto amanhã») e do título.",
+      "Informes: 6º seminário de gestão geoespacial da transmissão (12/4), seminário sobre usinas hidrelétricas reversíveis (State Grid/EDP/GESEL, 13/4), workshop sobre mexilhão-dourado fase 3 (13/4), fim do prazo da CP 6/2023 (revisão tarifária periódica da Cemig D, 14/4); Dia da Engenharia (10/4).",
+      "Ata da 10ª reunião pública ordinária de 2023 (4/4/2023) aprovada sem ressalvas.",
+      "Pauta com 46 itens; itens 2 a 46 de bloco; retirados os itens 1, 5, 7 e 45; item 8 destacado do bloco por pedido de sustentação oral.",
+      "Bloco aprovado por unanimidade; item 8 (PCH Salto do Sapo Parecis) teve sustentação oral, leitura do voto do relator Hélvio Guerra (provimento ao recurso), debate com Ricardo Tili e Agnes da Costa e terminou com pedido de vista de Agnes da Costa."
+    ]
   },
-  {
-   "id": "8", "ts": "1:02:47",
-   "processo": "48500.000828/2010-33", "interessado": "Hidrelétrica Médio Norte Ltda. (PCH Salto do Sapo Parecis); sustentação oral de Guilherme Berezuk em nome de Macleybert Luis Formigoni e Wellington Wladimir Formigoni (proprietários de terras na margem do rio)",
-   "assunto": "Recurso administrativo contra o Despacho 2.875/2022 da SCG, que revogou os Despachos 1.974/2010, 1.899/2012 e 3.199/2015 quanto à PCH Salto do Sapo Parecis e excluiu o empreendimento da partição de quedas aprovada pelo Despacho 931/2004 (enquadramento como CGH, 5,2 MW)",
-   "tema": ["recursos administrativos", "outorgas de geração (hidrelétrica, PCH/CGH)", "sustentação oral"],
-   "relator": "Hélvio Guerra", "resultado": "pedido de vista (Agnes da Costa); julgamento suspenso",
-   "resumo_voto": "Relator votou por conhecer e dar provimento ao recurso, restabelecendo os despachos revogados e determinando que a empresa revise o projeto básico (série de vazões conforme premissas da área técnica) para emissão do DRS-PCH com 5.200 kW; divergiu da área técnica quanto à sobremotorização. Após debate, Agnes da Costa pediu vista, concedida.",
-   "votos": [
-    {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento ao recurso", "ts": "1:34:16", "justificativa": "Entende que não há prejuízo ao uso do potencial hidráulico com 5,2 MW (diferença inferior a 10% ante 5,7 MW do inventário; ganhos energéticos até esse limite), mas a série de vazões adotada superestima a disponibilidade hídrica e a garantia física, devendo ser revista; a utilidade pública/desapropriação não pautou a análise.", "confianca": "alta"},
-    {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "1:49:05", "justificativa": "Após os esclarecimentos do relator, disse «vou pedir vistas, vou estudar mais um pouco»; vista concedida pela presidência.", "confianca": "media"},
-    {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:49:05", "justificativa": "Durante o debate houve questionamentos ao relator (atribuição individual não identificável); preocupação com uso da PCH como artifício para fim fundiário/desapropriação; não votou por causa da vista.", "confianca": "baixa"}
-   ]
-  }
- ],
- "retirados": ["Itens 1, 5, 7 e 45 da pauta (retirados de pauta, sem identificação do assunto na transmissão)"],
- "limites_da_analise": ["Legenda automática com nomes distorcidos (Hélvio como 'Élvio', Mosna como 'mozana'); confirmar nomes.", "Fala de quem presidiu e de quem pediu vista deduzida do contexto; concessão da vista: «concedido vistas a diretora Agnes». Ricardo Tili não teve fala atribuída com segurança: os questionamentos ao relator no debate não têm falante identificado; as dúvidas sobre artifício/DUP podem ser de Agnes ou de Ricardo.", "Itens do bloco não são individualizados: não se sabe os processos nem relatores.", "Votos do bloco por diretor atribuídos pela ordem e pela proclamação (confiança baixa/média); 3 votos = 3 presentes."]
+  "itens": [
+    {
+      "id": "bloco (itens 2 a 46)", "ts": "1:02:01",
+      "processo": "itens 2 a 46 da pauta, exceto retirados 5, 7 e 45 e o destacado 8",
+      "interessado": "diversos",
+      "assunto": "Deliberação em bloco dos itens 2 a 46 (votos e atos divulgados previamente), com exceção do item 8, destacado para sustentação oral",
+      "tema": ["deliberação em bloco"],
+      "relator": "diversos",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "O presidente da sessão coloca o bloco em votação; os diretores aprovam os itens remanescentes e é proclamada a aprovação por unanimidade, exceto o item 8.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "aprova o bloco (presidente da sessão, proclama)", "ts": "1:02:13", "justificativa": "«Eu também aprovo bloco e declaro que a diretoria colegiada por unanimidade decidiu pela aprovação dos itens do bloco»", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "aprova o bloco (pela proclamação)", "ts": "1:02:08", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco (pela proclamação)", "ts": "1:02:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "8", "ts": "1:02:47",
+      "processo": "48500.000828/2010-33",
+      "interessado": "Hidrelétrica Médio Norte Ltda. (recorrente); irmãos Macleybert Luís Formigoni e Wellington Wladimir Formigoni (proprietários de terras, terceiros interessados)",
+      "assunto": "Recurso administrativo da Hidrelétrica Médio Norte contra o Despacho 2.875/2022 da SCG, que revogou os Despachos 1.974/2010, 1.899/2012 e 3.199/2015 quanto à PCH Salto do Sapo Parecis e excluiu o aproveitamento da partição de quedas do inventário (Despacho 931/2004), por enquadrá-lo como CGH; empresa pede 5.200 kW (PCH)",
+      "tema": ["outorgas de geração (hidrelétrica, PCH/CGH)", "recursos administrativos", "inventário hidrelétrico"],
+      "relator": "Hélvio Guerra",
+      "resultado": "pedido de vista da diretora Agnes da Costa (deliberação suspensa)",
+      "resumo_voto": "Sustentação oral de Guilherme Berezuk (nome incerto na legenda), pelos irmãos Formigoni, pedindo o não provimento e alegando sobremotorização para obter outorga e futura DUP. Procuradoria não opinou (matéria técnica). O relator diverge da área técnica: conhecer e dar provimento ao recurso, restabelecer os despachos de 2010, 2012 e 2015 e determinar que a empresa revise o projeto básico com a série de vazões indicada pela SCG, para emissão do DRS-PCH de 5.200 kW; considera que a ampliação agrega energia e que a sobremotorização é decisão econômica do empreendedor. Ricardo Tili questiona o efeito prático e manifesta receio de que a potência extra seja artifício para obter DUP; Agnes da Costa pondera sobre garantia física e valor da potência e pede vista.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, conhece e dá provimento ao recurso (diverge da área técnica)", "ts": "1:34:12", "justificativa": "simulação da própria SCG aponta ganhos energéticos até 5,2 MW, diferença inferior a 10% frente aos 5,7 MW do inventário; sobremotorização não prejudica o consumidor e é decisão do empreendedor; análise feita só do ponto de vista técnico, sem considerar a questão da DUP; determina revisão do projeto básico com a série de vazões da SCG para não superestimar a garantia física", "tom": "técnico, didático (cita Jirau e Belo Monte, Dia da Engenharia)", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "pede vista", "ts": "1:49:03", "justificativa": "«adorei os esclarecimentos, mas eu vou pedir vistas, eu vou estudar mais um pouco»; antes ponderou que a determinação de revisar a série de vazões resolve a preocupação com garantia física e que potência instalada maior não é de todo negativa para o interesse público", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "não votou (vista)", "ts": "1:39:18", "justificativa": "não votou no mérito; no debate manifestou preocupação de a agência ser usada como «muleta» para disputa fundiária: pela curva de potência, o aumento de 4,4 para 5,2 MW quase não agrega energia e pareceria artifício para caracterizar PCH e obter DUP", "tom": "questionador", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1", "relator": "não informado", "motivo": "retirado de pauta (motivo não informado)", "ts": "1:01:17"},
+    {"item": "5", "relator": "não informado", "motivo": "retirado de pauta (motivo não informado)", "ts": "1:01:17"},
+    {"item": "7", "relator": "não informado", "motivo": "retirado de pauta (motivo não informado)", "ts": "1:01:17"},
+    {"item": "45", "relator": "não informado", "motivo": "retirado de pauta (motivo não informado)", "ts": "1:01:17"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática em bloco único; falantes não marcados: atribuição das falas do debate do item 8 inferida pelo conteúdo e pelas referências do relator («bem lembrou a diretora Agnes de garantia física»).",
+    "Hélvio Guerra presidiu a sessão (DG Sandoval ausente) e foi também relator do item 8; a legenda transcreve «Élvio guerra».",
+    "Pedido de vista: a mesa declara «concedido vistas à diretora Agnes»; a fala do pedido não tem nome — atribuição pela mesa (confiança media). As falas de questionamento sobre DUP/artifício foram atribuídas a Ricardo Tili por inferência (confiança media).",
+    "Nome do advogado da sustentação oral (Guilherme Berezuk/Benejuk) e dos irmãos Formigoni incertos pela legenda; números de despachos e processo podem ter erros de transcrição.",
+    "Votos de Agnes e Tili no bloco registrados pela proclamação de unanimidade; não há fala individual clara com nome.",
+    "Itens do bloco não são detalhados individualmente na transmissão (votos disponibilizados previamente na página da ANEEL)."
+  ]
 }

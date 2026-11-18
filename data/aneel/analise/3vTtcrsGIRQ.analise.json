@@ -1,13 +1,13 @@
 {
  "meta": {
   "video_id": "3vTtcrsGIRQ",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
   "versao_esquema": 1
  },
  "reuniao": {
-  "numero": "11ª RPO 2022",
+  "numero": "11ª Reunião Pública Ordinária de 2022",
   "data": "2022-04-05",
-  "formato": "presencial",
+  "formato": "presencial (com máscaras) e transmissão pelo YouTube",
   "presidente_da_sessao": "André Pepitone (Diretor-Geral)",
   "diretores_presentes": [
    "André Pepitone",
@@ -15,54 +15,102 @@
    "Efrain Cruz",
    "Hélvio Guerra"
   ],
-  "ausentes": [],
+  "ausentes": [
+   "Elisa Bastos (não citada na chamada; quórum de quatro diretores)"
+  ],
   "observacoes": [
-   "Quórum de quatro diretores.",
-   "Ata da 10ª RPO aprovada exceto item 11 (cautelar Absolar/alteração de cronogramas de usinas e CUST), suspenso para a 12ª RPO após debate sobre decisão judicial e extensão isonômica a todos os agentes (Hélvio Guerra propôs; Sandoval criticou ativismo judicial).",
-   "Pauta com 58 itens; retirados 4, 5, 8, 14, 15, 21, 25, 30; depois 9-12 e 32.",
-   "Efrain Cruz felicitou indicações de Hélvio Guerra (recondução), Sandoval Feitosa (DG), Ricardo Tili, Fernando Mosna e Agnes da Costa."
+   "Quórum de quatro diretores; Sandoval Feitosa ausentou-se temporariamente a partir do item 13 (dito pelo relator do voto-vista) e, ao que parece, não voltou para os itens 16 a 18.",
+   "Pauta com 58 itens; bloco: itens 19 a 58 (exceto 32 destacado e 21, 25 e 30 retirados).",
+   "Ata da 10ª RPO aprovada exceto o item 11 (cautelar ABSOLAR/ABEEólica sobre alteração de cronograma e CUST), suspenso para a 12ª RPO; Hélvio propôs estender a solução judicial a todos os empreendimentos.",
+   "Efrain Cruz parabenizou as indicações presidenciais de 04/04/2022: recondução de Hélvio Guerra, Sandoval Feitosa para Diretor-Geral ao fim do mandato de André Pepitone, e Ricardo Tili, Fernando Mosna e Agnes da Costa.",
+   "Hélvio Guerra retirou de pauta os itens 9 e 10 (ajustes nos votos) e 11 e 12 (seus pedidos de vista), para tratá-los em conjunto; o item 32 foi retirado ao final.",
+   "Encerrada antes do almoço; duração do vídeo ~2:57."
   ]
  },
  "itens": [
   {
+   "id": "ata-10RPO",
+   "ts": "0:03:09",
+   "processo": "",
+   "interessado": "ABSOLAR, ABEEólica, eólicas Ventos de São Vitor e demais geradoras com pedido de alteração de cronograma (CUST 2022/2023)",
+   "assunto": "Aprovação da ata da 10ª Reunião Pública Ordinária de 2022; proposta de Hélvio Guerra de nova redação do item 3 do dispositivo da cautelar ABSOLAR/ABEEólica (priorizar análise de alteração de cronograma de centrais geradoras com CUST no ciclo 2022/2023 até 30/04) estendendo-a a todos os empreendimentos por isonomia, após decisão judicial em mandado de segurança",
+   "tema": [
+    "regulação normativa",
+    "transmissão (CUST)",
+    "outorgas de geração (eólica, solar)",
+    "judicialização",
+    "institucional"
+   ],
+   "relator": "Hélvio Guerra (proposta de redação)",
+   "resultado": "ata aprovada, exceto o item 11, cuja aprovação foi suspensa e volta na 12ª Reunião Pública Ordinária para a Diretoria e a Procuradoria fecharem a estratégia judicial; orientação de tratamento isonômico a todos",
+   "resumo_voto": "Hélvio propõe estender a todos os agentes o prazo de conclusão de instrução até 30/04 acordado em audiência judicial (juíza fixou instrução até 30/04, decisão até 24/05 e reconsideração até 21/06). Sandoval alerta que decidir até junho compromete o cálculo da tarifa de transmissão (pronto em 1º/07) e pergunta sobre embargos; um diretor (provavelmente Efrain Cruz) faz desabafo contra o ativismo judicial que impõe prazos à agência, mas acompanha o racional de isonomia; o procurador Luiz Eduardo explica que o arranjo evitou liminar que suspenderia pagamento do CUST desde já e preservou o poder decisório da ANEEL.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "propõe nova redação (isonomia para todos os empreendimentos)",
+     "ts": "0:03:18",
+     "justificativa": "decisão judicial alcançou só o grupo da ABSOLAR; estender a todos por justiça, senão vira corrida ao Judiciário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "de acordo com a suspensão; preocupação operacional",
+     "ts": "0:20:40",
+     "justificativa": "impossível concluir tudo até junho e ainda calcular a tarifa de transmissão; pergunta à Procuradoria se cabem embargos; sugere força-tarefa",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o racional de isonomia, com protesto contra o ativismo judicial",
+     "ts": "0:18:40",
+     "justificativa": "«eu acompanho aqui o racional do Dr Élvio guerra no sentido de se é para uma que seja para todos»; o Judiciário impõe prazos a um regulador que não é moroso; o custo recai sobre o consumidor",
+     "tom": "crítico, enfático",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "propõe suspender o item 11 da ata e proclama aprovação do restante",
+     "ts": "0:25:19",
+     "justificativa": "fechar internamente a estratégia junto ao Judiciário antes de aprovar; tratamento isonômico desde já",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
    "id": "bloco",
-   "ts": "0:28:24",
-   "processo": "itens 19 a 58 (exceto 21, 25, 30 retirados e 32 destacado)",
+   "ts": "0:26:39",
+   "processo": "",
    "interessado": "diversos",
-   "assunto": "Deliberação em bloco dos itens 19 a 58 da pauta da 11ª RPO de 2022",
+   "assunto": "Deliberação em bloco dos itens 19 a 58 da pauta (exceto 32, destacado, e 21, 25 e 30, retirados); votos e atos disponíveis no site desde a quinta-feira anterior",
    "tema": [
     "deliberação em bloco"
    ],
    "relator": "diversos",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Itens do bloco aprovados por unanimidade dos votantes.",
+   "resumo_voto": "Pauta com 58 itens; bloco aprovado sem debate.",
    "votos": [
     {
      "diretor": "André Pepitone",
-     "voto": "aprova o bloco",
-     "ts": "0:28:31",
-     "justificativa": "Votação nominal do bloco; quatro falas de aprovação.",
-     "confianca": "media"
+     "voto": "aprova o bloco e proclama",
+     "ts": "0:28:39",
+     "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "aprova o bloco",
-     "ts": "0:28:31",
-     "justificativa": "Votação nominal do bloco; quatro falas de aprovação.",
+     "ts": "0:28:33",
      "confianca": "media"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "aprova o bloco",
-     "ts": "0:28:31",
-     "justificativa": "Votação nominal do bloco; quatro falas de aprovação.",
+     "ts": "0:28:35",
      "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "aprova o bloco",
-     "ts": "0:28:31",
-     "justificativa": "Votação nominal do bloco; quatro falas de aprovação.",
+     "ts": "0:28:37",
      "confianca": "media"
     }
    ]
@@ -70,43 +118,40 @@
   {
    "id": "1",
    "ts": "0:28:57",
-   "processo": "48500.004905/2021-87",
-   "interessado": "CPFL Paulista (distribuidora)",
-   "assunto": "Reajuste tarifário anual 2022 da CPFL Paulista, a partir de 8/4/2022; efeito médio de 14,97% (16,42% alta tensão, 14,24% baixa tensão)",
+   "processo": "48500.004905/2021-87 (número incerto na legenda)",
+   "interessado": "CPFL Paulista (Companhia Paulista de Força e Luz; Campinas/SP; ~4,7 milhões de unidades consumidoras)",
+   "assunto": "Reajuste Tarifário Anual 2022 da CPFL Paulista, a vigorar a partir de 08/04/2022",
    "tema": [
-    "tarifas e revisão tarifária",
-    "distribuição"
+    "tarifas e revisão tarifária (distribuidoras, RTA)",
+    "CDE e encargos setoriais",
+    "conta escassez hídrica"
    ],
    "relator": "Sandoval Feitosa",
    "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Homologa o índice de reajuste, fixa TUSD e TE, receita das DIT e repasse mensal da CDE pela CCEE. Apresentação da servidora Érika Braga (SGT); sem sustentação oral.",
+   "resumo_voto": "Efeito médio de 14,97% (alta tensão 16,42%; baixa tensão 14,24%); encargos setoriais +6,99% (CDE +4,80%), parcela B +4,27% (IGP-M); componentes financeiros mitigam −10,93% (conta escassez hídrica, ressarcimento PIS/Cofins, reversão de créditos). Apresentação de Érika Braga (SGT). Sem sustentação oral; Procuradoria pela aprovação. Relator elogia a pontualidade dos processos tarifários.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
      "voto": "relator, aprova",
-     "ts": "0:39:45",
-     "justificativa": "Reajuste segue rito contratual; financeiros (conta escassez hídrica, PIS/Cofins) mitigaram o efeito médio.",
+     "ts": "0:39:47",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:41:02",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:41:02",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama o resultado",
      "ts": "0:41:04",
-     "justificativa": "Diretor-Geral vota por último e proclama unanimidade.",
      "confianca": "alta"
     }
    ]
@@ -114,191 +159,206 @@
   {
    "id": "2",
    "ts": "0:41:28",
-   "processo": "48500.004915/2021",
-   "interessado": "Energisa Mato Grosso do Sul (distribuidora)",
-   "assunto": "Reajuste tarifário anual 2022 da Energisa MS: prorrogação das tarifas vigentes (REH 2.855/2021) até homologação do novo reajuste, a pedido da concessionária",
+   "processo": "48500.004915/2021-12",
+   "interessado": "Energisa Mato Grosso do Sul (Campo Grande/MS; ~1,08 milhão de unidades consumidoras)",
+   "assunto": "Reajuste Tarifário Anual 2022 da Energisa MS (previsto para 08/04/2022): prorrogação da vigência das tarifas atuais (REH 2.855/2021) a pedido da distribuidora",
    "tema": [
-    "tarifas e revisão tarifária",
-    "distribuição"
+    "tarifas e revisão tarifária (distribuidoras, RTA)"
    ],
    "relator": "Sandoval Feitosa",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Prorroga a vigência das tarifas atuais a pedido da distribuidora; sustentação oral dispensada por não se discutir o mérito tarifário nesta deliberação.",
+   "resultado": "aprovado por unanimidade (prorrogação das tarifas vigentes até a homologação do reajuste 2022)",
+   "resumo_voto": "Relator acolhe pedido da Energisa MS de postergar as tarifas até que as medidas (conta escassez hídrica/Decreto 10.939) possam ser aplicadas; sustentação oral não realizada a pedido do relator, por não se discutir o mérito tarifário nesta deliberação (fica para quando o reajuste for julgado).",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
      "voto": "relator, aprova",
-     "ts": "0:45:30",
-     "justificativa": "Prorrogação a pedido da concessionária até que medidas para o processo tarifário estejam aptas.",
+     "ts": "0:45:16",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:45:46",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:45:46",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama o resultado",
      "ts": "0:45:49",
-     "justificativa": "Diretor-Geral vota por último e proclama unanimidade.",
      "confianca": "alta"
     }
    ]
   },
   {
    "id": "3",
-   "ts": "0:45:58",
-   "processo": "48500.004916/2021",
-   "interessado": "Energisa Mato Grosso (distribuidora)",
-   "assunto": "Reajuste tarifário anual 2022 da Energisa MT: prorrogação das tarifas vigentes (REH 2.856/2021) até homologação do novo reajuste, a pedido da concessionária",
+   "ts": "0:46:13",
+   "processo": "48500.004906/2021-67 (número incerto na legenda)",
+   "interessado": "Energisa Mato Grosso (Cuiabá/MT; ~1,56 milhão de unidades consumidoras)",
+   "assunto": "Reajuste Tarifário Anual 2022 da Energisa MT (previsto para 08/04/2022): prorrogação da vigência das tarifas atuais (REH 2.856/2021) a pedido da distribuidora",
    "tema": [
-    "tarifas e revisão tarifária",
-    "distribuição"
+    "tarifas e revisão tarifária (distribuidoras, RTA)"
    ],
    "relator": "Sandoval Feitosa",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Mesmo encaminhamento do item 2; sustentação oral dispensada.",
+   "resultado": "aprovado por unanimidade (prorrogação das tarifas vigentes até a homologação do reajuste 2022)",
+   "resumo_voto": "Mesmo encaminhamento do item 2; sustentação oral dispensada; Procuradoria frisa que a prorrogação é a pedido da concessionária.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
      "voto": "relator, aprova",
-     "ts": "0:49:25",
-     "justificativa": "Prorrogação a pedido da concessionária, por conveniência e oportunidade.",
+     "ts": "0:49:28",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:50:10",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "0:50:10",
-     "justificativa": "Fala «acompanho o voto do relator» sem nome identificado; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
-     "ts": "0:50:13",
-     "justificativa": "Diretor-Geral vota por último e proclama unanimidade.",
-     "confianca": "alta"
-    }
-   ]
-  },
-  {
-   "id": "6 e 7",
-   "ts": "0:50:20",
-   "processo": "48500.003901/2012-91 e 48500.004742/2021-32",
-   "interessado": "CCEE; agentes do mercado livre",
-   "assunto": "Abertura de consulta pública (45 dias, dispensa de AIR) sobre monitoramento do mercado de energia e salvaguardas/garantias financeiras da liquidação do MCP (modelo de seis camadas proposto pela CCEE)",
-   "tema": [
-    "comercialização",
-    "regulação normativa",
-    "abertura de mercado"
-   ],
-   "relator": "Efrain Cruz",
-   "resultado": "aprovado por unanimidade",
-   "resumo_voto": "Instaura CP por 45 dias a partir de 7/4 com dispensa de AIR. Apresentação da SRM. Hélvio Guerra registra dúvida sobre as salvaguardas (fundo mutualizado como 'condomínio') a debater na CP; DG destaca segurança do mercado livre após episódio de 2019.",
-   "votos": [
-    {
-     "diretor": "Efrain Cruz",
-     "voto": "relator, aprova",
-     "ts": "1:30:18",
-     "justificativa": "Preparar a abertura de mercado com regras claras; inadimplência bilateral de 2019 e contratos de gaveta; proposta é início de discussão com a sociedade.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:36:02",
-     "justificativa": "Passo importante para segurança do mercado; dúvida sobre salvaguardas será levada à consulta pública.",
      "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
-     "ts": "1:36:06",
-     "justificativa": "Aumentar a segurança das transações no mercado livre em ambiente de abertura.",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "0:50:13",
      "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:50:44",
+   "processo": "48500.003901/2012-91",
+   "interessado": "CCEE; agentes do mercado livre (Abraceel)",
+   "assunto": "Abertura de consulta pública para aprimorar as garantias financeiras associadas à liquidação do Mercado de Curto Prazo (MCP): proposta CCEE de salvaguardas em seis camadas (garantia individual, fundo de liquidação com cotas, corte de contratos, loss sharing)",
+   "tema": [
+    "comercialização (CCEE, MCP)",
+    "regulação normativa (consulta pública)",
+    "abertura do mercado"
+   ],
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: consulta pública por 45 dias, com dispensa de AIR, a partir de 07/04 (conjunta com o item 7)",
+   "resumo_voto": "Deliberado em conjunto com o item 7; apresentação técnica da SRM (Bené); inadimplência no MCP baixa (0,05% a 0,34%), mas risco no bilateral; maior posição devedora ~R$ 251 milhões (nov/2021).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "1:30:18",
+     "justificativa": "início da discussão com a sociedade para preparar a abertura do mercado livre com regras claras e segurança; caso de inadimplência bilateral de 2019 (contratos de gaveta Norte-Sudeste)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha, com ressalva sobre as salvaguardas",
+     "ts": "1:31:00",
+     "justificativa": "passo importante para a segurança do mercado; dúvida sobre o fundo de salvaguardas mutualizado («quase um condomínio»), a debater na consulta",
+     "confianca": "media"
     },
     {
      "diretor": "Sandoval Feitosa",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "1:36:02",
-     "justificativa": "Presença não confirmada na votação; atribuição pela proclamação de unanimidade.",
-     "confianca": "baixa"
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:36:06",
+     "confianca": "alta"
     }
    ]
   },
   {
-   "id": "9 a 12",
-   "ts": "1:36:51",
-   "processo": "",
-   "interessado": "",
-   "assunto": "Itens 9 e 10 (votos do relator) e 11 e 12 (votos-vista) retirados de pauta pelo diretor Hélvio Guerra para ajustes e tratamento conjunto",
+   "id": "7",
+   "ts": "0:51:08",
+   "processo": "48500.004742/2021-32",
+   "interessado": "CCEE; agentes do mercado livre",
+   "assunto": "Abertura de consulta pública para aprimorar o monitoramento do mercado de energia elétrica (monitoramento prudencial, índice de alavancagem, duplo flag para registro antecipado de contratos, câmara de controvérsias, sanções por conduta)",
    "tema": [
-    "retirado de pauta"
+    "comercialização (CCEE, monitoramento)",
+    "regulação normativa (consulta pública)",
+    "abertura do mercado"
    ],
-   "relator": "Hélvio Guerra",
-   "resultado": "retirado de pauta",
-   "resumo_voto": "Retirados pelo relator para ajustes.",
-   "votos": []
+   "relator": "Efrain Cruz",
+   "resultado": "aprovado por unanimidade: consulta pública conjunta por 45 dias, com dispensa de AIR",
+   "resumo_voto": "Mesma deliberação do item 6 (um único dispositivo para os dois processos).",
+   "votos": [
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "relator, aprova abertura de consulta pública",
+     "ts": "1:30:18",
+     "justificativa": "início da discussão com a sociedade para preparar a abertura do mercado livre com regras claras e segurança; caso de inadimplência bilateral de 2019 (contratos de gaveta Norte-Sudeste)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "acompanha, com ressalva sobre as salvaguardas",
+     "ts": "1:31:00",
+     "justificativa": "passo importante para a segurança do mercado; dúvida sobre o fundo de salvaguardas mutualizado («quase um condomínio»), a debater na consulta",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "1:36:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "1:36:06",
+     "confianca": "alta"
+    }
+   ]
   },
   {
    "id": "13",
    "ts": "1:37:36",
-   "processo": "48500.000917/2015-32 (número incerto)",
-   "interessado": "Starcraft Energias Renováveis e outras 66; Pampeana Energética e outras 32; UHEs Jirau e Santo Antônio",
-   "assunto": "Pedidos de reconsideração contra as REH 2.919/2021 e 2.932/2021 (prazos de extensão de outorga de hidrelétricas do MRE, repactuação do risco hidrológico/GSF)",
+   "processo": "48500.000991/2021-32 (número incerto na legenda)",
+   "interessado": "Starcraft Energias Renováveis e outras 66 empresas; Pampeana Energética S.A. e outras 32 empresas; UHE Jirau; UHE Santo Antônio; Copel",
+   "assunto": "Pedidos de reconsideração contra as REH 2.919/2021 e 2.932/2021 (prazos de extensão de outorga de hidrelétricas do MRE pela repactuação do risco hidrológico / GSF, Lei 14.052/2020 e REN 895/2020) — voto-vista",
    "tema": [
-    "outorgas de geração",
-    "recursos administrativos",
-    "comercialização"
+    "outorgas de geração (hidrelétrica)",
+    "risco hidrológico (GSF/MRE)",
+    "recursos administrativos"
    ],
-   "relator": "Sandoval Feitosa (original); Hélvio Guerra (voto-vista)",
-   "resultado": "provimento parcial, por unanimidade",
-   "resumo_voto": "Voto-vista acompanha integralmente o relator original: publica extensão de 847 dias para Jirau e 1.587 dias para Santo Antônio, com novo prazo de 60 dias para manifestação conforme REN 895/2020, e ajustes futuros de cálculo.",
+   "relator": "Sandoval Feitosa (relator original); Hélvio Guerra (voto-vista)",
+   "resultado": "aprovado por unanimidade dos votantes nos termos do voto do relator original: provimento parcial; publicar extensão de 847 dias para a UHE Jirau e 1.587 dias para a UHE Santo Antônio; prazo de 60 dias para os agentes manifestarem aceitação e desistência",
+   "resumo_voto": "Hélvio pedira vista na 10ª RPO para saber se Jirau, que não se manifestou no prazo da REN 895, teria novo prazo após recálculo; concluiu que sim (art. 7º da REN 895), e acompanhou integralmente o relator original. Sandoval estava temporariamente ausente; seu voto da 10ª RPO foi mantido. Elisa Bastos votara na sessão anterior.",
    "votos": [
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "voto deixado (proferido na 10ª RPO)",
+     "voto": "relator original, voto proferido na 10ª RPO (ausente temporariamente nesta sessão)",
      "ts": "1:40:00",
-     "justificativa": "Relator original; temporariamente ausente nesta sessão, voto mantido.",
-     "confianca": "media"
+     "confianca": "alta"
     },
     {
      "diretor": "Hélvio Guerra",
      "voto": "voto-vista: acompanha integralmente o relator original",
-     "ts": "1:44:25",
-     "justificativa": "Jirau tem direito a nova manifestação em 60 dias após publicação do novo prazo (art. 7º da REN 895/2020).",
+     "ts": "1:39:37",
+     "justificativa": "Jirau tem direito a nova manifestação em 60 dias após a publicação do novo prazo, cumpridos os requisitos da REN 895/2020",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha o relator original e o voto-vista",
      "ts": "1:44:57",
-     "justificativa": "Fala «acompanho integralmente» atribuída por ordem de votação.",
-     "confianca": "baixa"
+     "justificativa": "«eu acompanho integralmente o voto»",
+     "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama o resultado",
      "ts": "1:46:31",
-     "justificativa": "Vota por último e proclama unanimidade.",
      "confianca": "alta"
     }
    ]
@@ -306,126 +366,200 @@
   {
    "id": "16",
    "ts": "1:48:31",
-   "processo": "48500.005195/2015-64 (número incerto)",
-   "interessado": "Eólica Brasil Ltda. (EOL offshore Marítimo Asa Branca I, 720 MW, Amontada/CE)",
-   "assunto": "Prorrogação da vigência do DRO da eólica offshore Asa Branca I",
+   "processo": "48500.005195/2015-64 (número incerto na legenda)",
+   "interessado": "Eólica Brasil Ltda. — EOL marítima Asa Branca I (720 MW, Amontada/CE, offshore)",
+   "assunto": "Prorrogação da vigência do DRO (despacho de registro de requerimento de outorga) da central eólica offshore Asa Branca I",
    "tema": [
-    "outorgas de geração",
-    "eólica offshore"
+    "outorgas de geração (eólica offshore)",
+    "DRO",
+    "Decreto 10.946/2022"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "processo declarado extinto (prejudicado por fato superveniente), por unanimidade",
-   "resumo_voto": "Sustentação oral de José Virgílio Lopes Enei e Acácio (Eólica Brasil). Procuradoria contra emitir DRO sem cessão de uso. Relator: Decreto 10.946/2022 criou rito no MME para cessão de uso; declaração da SPU não comprova posse; extinção do processo (art. 14 da NO 1, REN 273/2007).",
+   "resultado": "aprovado por unanimidade dos votantes: processo declarado extinto por fato superveniente (Decreto 10.946/2022), art. 14 da Norma de Organização nº 1 (REN 273/2007)",
+   "resumo_voto": "sustentação oral: José Virgílio Lopes Enei (advogado) e Acácio (engenheiro do projeto), pela Eólica Brasil. A empresa invocou 20 anos de desenvolvimento, três renovações do DRO, segurança jurídica e confiança legítima (LINDB arts. 23 e 24) e investidores com aporte de US$ 30 milhões; Procuradoria (Luiz Eduardo): ANEEL não deve emitir DRO offshore sem cessão do espelho d'água, para não criar falsa expectativa. Relator: a declaração da SPU não garante posse nem exclusividade, MME e Procuradoria contrários, e o decreto criou rito próprio (cessão de uso pelo MME, DIPs) que inviabiliza o DRO até regulamentação.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "2:14:22",
-     "justificativa": "Decreto 10.946/2022 inviabiliza renovação/emissão de DRO offshore até regulamentação pelo MME; declaração da SPU não é exclusiva.",
+     "voto": "relator, declara extinto (prejudicado por fato superveniente)",
+     "ts": "2:30:33",
+     "justificativa": "decreto 10.946/2022 atribui ao MME a cessão de uso do espaço marítimo e se aplica aos processos em tramitação; DRO não é instrumento adequado para offshore enquanto não houver regulamentação; elogia o pioneirismo dos empreendedores",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
-     "voto": "acompanha o relator (pela proclamação)",
+     "voto": "acompanha o relator",
      "ts": "2:31:28",
-     "justificativa": "Fala «acompanha» sem nome; atribuição pela proclamação.",
-     "confianca": "baixa"
+     "justificativa": "edição do decreto prejudica o pedido; política pública está sendo posta",
+     "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama o resultado",
      "ts": "2:31:31",
-     "justificativa": "Edição do decreto torna o pedido prejudicado; política pública sendo posta.",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:31:28",
-     "justificativa": "Presença não confirmada; atribuição pela proclamação.",
+     "voto": "ausente temporariamente (provável; não votou)",
+     "ts": "",
+     "justificativa": "Hélvio Guerra dirige-se apenas a 'diretor André, diretor Efraim'; na votação só se ouvem duas vozes; no item 13 a ausência temporária foi dita expressamente",
      "confianca": "baixa"
     }
    ]
   },
   {
-   "id": "17 e 18",
+   "id": "17",
    "ts": "2:31:57",
-   "processo": "48500.003528/2019-44 e 48500.003842/2021-41",
-   "interessado": "Bi Energia Ltda. (EOL offshore Caucaia, 576 MW, CE); Votu Winds Energia Eólica Ltda. (EOL offshore, 1.440 MW, ES/RJ) (nomes incertos)",
-   "assunto": "Emissão de DRO para eólicas offshore Caucaia e Votu Winds",
+   "processo": "48500.003528/2019-44",
+   "interessado": "BI Energia Ltda. (com a belga DEME) — EOL offshore Caucaia (576 MW, Caucaia/CE)",
+   "assunto": "Emissão de DRO para a central geradora eólica offshore Caucaia",
    "tema": [
-    "outorgas de geração",
-    "eólica offshore"
+    "outorgas de geração (eólica offshore)",
+    "DRO",
+    "Decreto 10.946/2022"
    ],
    "relator": "Hélvio Guerra",
-   "resultado": "processos declarados extintos (prejudicados por fato superveniente), por unanimidade",
-   "resumo_voto": "Sustentações orais de Aloísio Pereira Neto (Caucaia) e José Virgílio Lopes Enei (Votu Winds); relator não convencido, mesma fundamentação do item 16.",
+   "resultado": "aprovado por unanimidade dos votantes: processo declarado extinto por fato superveniente (Decreto 10.946/2022) — itens 17 e 18 julgados em conjunto",
+   "resumo_voto": "sustentação oral: Aloísio Pereira Neto (BI Energia). Pedido de emitir o DRO por não causar prejuízo e facilitar licenciamento (Ibama, IPHAN, SPU, Funai) e diferenciar os projetos pioneiros anteriores ao decreto. Relator, mesma fundamentação do item 16: «eu não fui convencido»; compara com potencial hidráulico, que exige licitação da área; o DRO negado é mais proteção do que risco ao empreendedor.",
    "votos": [
     {
      "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "2:53:00",
-     "justificativa": "Mesma fundamentação do item 16; decreto obriga revisão dos projetos em curso; DRO protege mais do que cria risco.",
+     "voto": "relator, declara extinto (prejudicado por fato superveniente)",
+     "ts": "2:54:55",
+     "justificativa": "mesma fundamentação do item 16; o decreto obriga a revisão dos projetos em curso",
      "confianca": "alta"
     },
     {
      "diretor": "Efrain Cruz",
      "voto": "acompanha o relator (pela proclamação)",
      "ts": "2:55:48",
-     "justificativa": "Fala «acompanhe relator» sem nome; atribuição pela proclamação.",
-     "confianca": "baixa"
+     "confianca": "media"
     },
     {
      "diretor": "André Pepitone",
-     "voto": "acompanha o relator",
+     "voto": "acompanha o relator e proclama o resultado",
      "ts": "2:55:51",
-     "justificativa": "Vota e proclama unanimidade.",
      "confianca": "alta"
     },
     {
      "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:55:48",
-     "justificativa": "Presença não confirmada; atribuição pela proclamação.",
+     "voto": "ausente temporariamente (provável; não votou)",
+     "ts": "",
+     "justificativa": "Hélvio Guerra dirige-se apenas a 'diretor André, diretor Efraim'; na votação só se ouvem duas vozes; no item 13 a ausência temporária foi dita expressamente",
      "confianca": "baixa"
     }
    ]
   },
   {
-   "id": "32",
-   "ts": "2:56:28",
-   "processo": "",
-   "interessado": "",
-   "assunto": "Item 32 retirado de pauta pelo relator",
+   "id": "18",
+   "ts": "2:31:57",
+   "processo": "48500.000384/2021-41 (número incerto na legenda)",
+   "interessado": "Votu Winds Energia Eólica Ltda. — EOL offshore Votu Winds (1.440 MW, Piúma, Itapemirim, Marataízes e Presidente Kennedy/ES e São Francisco do Itabapoana/RJ)",
+   "assunto": "Emissão de DRO para a central geradora eólica offshore Votu Winds",
    "tema": [
-    "retirado de pauta"
+    "outorgas de geração (eólica offshore)",
+    "DRO",
+    "Decreto 10.946/2022"
    ],
-   "relator": "não identificado",
-   "resultado": "retirado de pauta",
-   "resumo_voto": "",
-   "votos": []
+   "relator": "Hélvio Guerra",
+   "resultado": "aprovado por unanimidade dos votantes: processo declarado extinto por fato superveniente (Decreto 10.946/2022) — itens 17 e 18 julgados em conjunto",
+   "resumo_voto": "sustentação oral: José Virgílio Lopes Enei (Votu Winds). Pedido de emitir o DRO por não causar prejuízo e facilitar licenciamento (Ibama, IPHAN, SPU, Funai) e diferenciar os projetos pioneiros anteriores ao decreto. Relator, mesma fundamentação do item 16: «eu não fui convencido»; compara com potencial hidráulico, que exige licitação da área; o DRO negado é mais proteção do que risco ao empreendedor.",
+   "votos": [
+    {
+     "diretor": "Hélvio Guerra",
+     "voto": "relator, declara extinto (prejudicado por fato superveniente)",
+     "ts": "2:54:55",
+     "justificativa": "mesma fundamentação do item 16; o decreto obriga a revisão dos projetos em curso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Efrain Cruz",
+     "voto": "acompanha o relator (pela proclamação)",
+     "ts": "2:55:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "André Pepitone",
+     "voto": "acompanha o relator e proclama o resultado",
+     "ts": "2:55:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "ausente temporariamente (provável; não votou)",
+     "ts": "",
+     "justificativa": "Hélvio Guerra dirige-se apenas a 'diretor André, diretor Efraim'; na votação só se ouvem duas vozes; no item 13 a ausência temporária foi dita expressamente",
+     "confianca": "baixa"
+    }
+   ]
   }
  ],
  "retirados": [
-  "4",
-  "5",
-  "8",
-  "14",
-  "15",
-  "21",
-  "25",
-  "30",
-  "9",
-  "10",
-  "11",
-  "12",
-  "32"
+  {
+   "id": "4",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "5",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "8",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "14",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "21",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "25",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "30",
+   "motivo": "retirado de pauta antes da sessão (anúncio da Secretaria-Geral)"
+  },
+  {
+   "id": "9",
+   "motivo": "retirado pelo relator Hélvio Guerra para ajustes no voto",
+   "ts": "1:36:31"
+  },
+  {
+   "id": "10",
+   "motivo": "retirado pelo relator Hélvio Guerra para ajustes no voto",
+   "ts": "1:36:31"
+  },
+  {
+   "id": "11",
+   "motivo": "pedido de vista de Hélvio Guerra (sessão anterior); retirado para tratar em conjunto com 9 e 10",
+   "ts": "1:36:57"
+  },
+  {
+   "id": "12",
+   "motivo": "pedido de vista de Hélvio Guerra (sessão anterior); retirado para tratar em conjunto com 9 e 10",
+   "ts": "1:36:57"
+  },
+  {
+   "id": "32",
+   "motivo": "destacado do bloco (com pedido de sustentação oral e preferência) e retirado pelo relator ao final; relator não identificado na legenda",
+   "ts": "2:56:33"
+  }
  ],
  "limites_da_analise": [
-  "André Pepitone e Efrain Cruz não constam da lista de diretores do config da ANEEL (mandatos anteriores); nomes registrados como ditos.",
-  "Nos itens 1-3, 6/7, 16 e 17/18 só duas falas de voto após o relator; o quarto diretor atribuído pela proclamação de unanimidade (confiança baixa). Sandoval esteve temporariamente ausente no item 13 e sua presença nos itens seguintes não foi confirmada.",
-  "Números de processo vêm da legenda automática e podem estar errados.",
-  "Relator do item 32 não identificado.",
-  "ts aproximados (o .md tem só um marcador; ts obtidos do JSON da transcrição)."
+  "Legenda automática do YouTube; números de processo, valores e nomes (Érika Braga, Bené, Acácio, Aloísio Pereira Neto, BI Energia, Votu Winds) podem estar errados; processos marcados como incertos.",
+  "O .md tem um único marcador de tempo; os ts foram obtidos na transcrição com tempo por trecho; votos de quem só acompanha são aproximados.",
+  "Nos itens 1, 2, 3, 6/7 só se ouvem duas falas de 'acompanho' após o relator, para três não-relatores presentes; o terceiro voto foi atribuído pela proclamação de unanimidade (confiança media).",
+  "Presença de Sandoval Feitosa nos itens 16 a 18 é inferência (ausência temporária declarada no item 13; Hélvio se dirige só a André e Efrain); registrado como ausente provável com confiança baixa.",
+  "Na discussão da ata, a atribuição das falas a Efrain Cruz (desabafo sobre ativismo judicial) e a Sandoval Feitosa (preocupação com o cálculo da tarifa de transmissão) é inferida pelo conteúdo e pelos vocativos.",
+  "Itens do bloco (19 a 58) não são identificados individualmente na transmissão.",
+  "Relator do item 32, retirado ao final, não identificado."
  ]
 }

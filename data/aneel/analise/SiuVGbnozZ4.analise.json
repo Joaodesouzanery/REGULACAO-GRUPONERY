@@ -1,322 +1,115 @@
 {
- "meta": {
-  "video_id": "SiuVGbnozZ4",
-  "fonte": "legenda automática do YouTube; falantes inferidos; ts aproximados para quem só acompanha",
-  "versao_esquema": 1
- },
- "reuniao": {
-  "numero": "46ª RPO 2022 (Parte 1)",
-  "data": "2022-12-06",
-  "formato": "presencial",
-  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-  "diretores_presentes": [
-   "Sandoval Feitosa",
-   "Hélvio Guerra",
-   "Ricardo Tili",
-   "Fernando Mosna",
-   "Agnes da Costa"
+  "meta": {"video_id": "SiuVGbnozZ4", "fonte": "legenda automática do YouTube; falantes inferidos pelo conteúdo; ts = tempo do vídeo; ts de quem só acompanha o relator são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "46ª Reunião Pública Ordinária de 2022 (Parte 1)",
+    "data": "2022-12-06",
+    "formato": "presencial (transmitida pelo YouTube)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Hélvio Guerra", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores; primeira reunião pública de Agnes da Costa como diretora (posse no dia anterior), que não participou da aprovação da ata da 45ª RPO.",
+      "Presença do senador Jorge Kajuru (GO), que fez sustentação oral no item 1 (transferência de controle da Enel Goiás para a Equatorial).",
+      "Pauta com 42 itens; itens 15 a 42 em bloco (exceto 22 e 23, julgados fora do bloco); retirados de pauta previamente os itens 2, 8, 9, 11 e 12; o item 4 foi retirado de pauta durante a sessão (anúncio do secretário-geral).",
+      "Ordem definida: bloco, depois itens 1, 4, 13, 5, 23, 6, 7, 10, 14, 22 e 3 (item 23 deslocado para o final). Esta Parte 1 cobre bloco, 1, 13, 5 e 6; a sessão foi suspensa para almoço com retorno às 14h30 (itens 7, 10, 14, 22, 23 e 3 ficam na Parte 2, outro vídeo).",
+      "Único item não unânime: item 13 (cautelar Barra Bonita), aprovado por 4 x 1, vencido o Diretor-Geral Sandoval Feitosa, que votou por não conhecer do pedido."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco (itens 15 a 42, exceto 22 e 23)", "ts": "0:12:59",
+      "processo": "", "interessado": "diversos",
+      "assunto": "Itens de bloco da 46ª RPO de 2022, com votos disponibilizados previamente; Hélvio Guerra registrou correção do dispositivo do item 20 do bloco da reunião anterior (reconhecimento para desembolso da CCC/CDE do reajuste do carvão do Complexo Termelétrico Jorge Lacerda: período correto 5/1 a 31/12/2022)",
+      "tema": ["bloco", "CDE e encargos setoriais"],
+      "relator": "diversos", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Diretores aprovaram os itens do bloco; o Diretor-Geral pediu que a correção apontada por Hélvio Guerra constasse na ata.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens do bloco", "ts": "0:13:05", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens do bloco", "ts": "0:13:07", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens remanescentes do bloco", "ts": "0:13:10", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "aprova os itens do bloco (com correção do item 20 do bloco da reunião anterior)", "ts": "0:13:20", "justificativa": "erro material no dispositivo: o período do reajuste do carvão de Jorge Lacerda é de 5 de janeiro a 31 de dezembro de 2022", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens remanescentes do bloco e proclama", "ts": "0:14:21", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:14:53",
+      "processo": "48500.007743/2022-10", "interessado": "Enel Distribuição Goiás (Celg D) / Enel Brasil; Equatorial Participações e Investimentos e Equatorial Energia",
+      "assunto": "Plano de transferência do controle societário da Enel Distribuição Goiás para a Equatorial (subcláusula 8ª da cláusula 12ª do 5º termo aditivo ao contrato de concessão 63/2000), como alternativa à extinção da concessão por descumprimento do DEC em 2021 e provavelmente 2022, com pedidos de flexibilização regulatória",
+      "tema": ["distribuição e qualidade", "transferência de controle", "fiscalização e sanções (caducidade)", "regulação econômico-financeira"],
+      "relator": "Hélvio Guerra",
+      "resultado": "aprovado por unanimidade: plano aprovado; afastado por 3 anos o art. 9º do Anexo 8 da REN 948/2021 só quanto à abertura de processo de caducidade; fiscalização orientativa apenas no 1º ano (não 2, como pedido); anuência prévia à transferência; 120 dias para implementar e 30 dias para enviar documentos à SFF",
+      "resumo_voto": "Concessão descumpriu o DEC (limite violado 2017–2021, DEC ~18 h frente a limite de ~12 h) e a gestão econômico-financeira em 2021; plano tempestivo. Waiver de 3 anos restrito à caducidade: limites de DEC/FEC continuam valendo para compensações e demais fins; mantidas restrições a dividendos e partes relacionadas; SFE deve cobrar plano de redução do DEC dos conjuntos. Pleito de revisão tarifária extraordinária foi retirado pela Equatorial. Sustentações orais: senador Jorge Kajuru (contra, alega falta de transparência do contrato de 2016, multas não pagas, passivo de 5,7 bi) e Augusto Miranda da Paz Júnior (presidente da Equatorial). Procuradoria favorável.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, aprova o plano com flexibilizações parciais", "ts": "1:22:51", "justificativa": "caducidade seria a pior alternativa para o consumidor; flexibilização restrita à caducidade; fiscalização orientativa só no 1º ano; consumidor é o protagonista; voto e processos são públicos (resposta à crítica de falta de transparência)", "tom": "técnico, defensivo quanto à transparência", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:52:50", "justificativa": "processo desgastante mas necessário; caducidade e nova licitação seriam longas e mais caras ao consumidor; flexibilização não foi muito grande; destacou aumento de OPEX/manutenção para resposta rápida ao consumidor", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "1:52:52", "justificativa": "sentiu-se contemplado; elogiou fiscalização orientativa de um ano e a determinação (item 51 do voto) de a SFE cobrar plano de homogeneidade do DEC dos conjuntos", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "1:52:52", "justificativa": "solução ponderada e em prol do consumidor; preocupação com indicadores que só se verificam no fim do período e com os mútuos; SFE deve acompanhar de perto para não voltar à mesma situação em 3 anos", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:52:55", "justificativa": "processo de consolidação da distribuição com flexibilizações menores que as das distribuidoras da Eletrobras; sem RTE porque a causa da potencial caducidade é qualidade, não questão econômico-financeira; DEC caiu de ~32 h para ~17 h sob a Enel", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "13", "ts": "1:55:11",
+      "processo": "48500.005614/2022-97", "interessado": "Barra Bonita Óleo e Gás (UTE Barra Bonita 1, Pitanga/PR); CCEE",
+      "assunto": "Pedido de medida cautelar para que a CCEE cumpra a cautelar do Despacho 1.688/2022 (suspensão de penalidades por atraso na entrada em operação comercial no CER 450/2021, leilão de reserva emergencial) e deixe de reter receitas de venda (~6,6 milhões de reais)",
+      "tema": ["comercialização (CCEE, contratos)", "leilões (reserva de capacidade / PCS)", "recursos administrativos (cautelar)", "outorgas de geração (térmica)"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por maioria (4 x 1), vencido Sandoval Feitosa: conhecido o pedido e dado provimento para não reter receitas de venda do CER 450/2021 por penalidades da subcláusula 7.10 até a primeira decisão da Diretoria sobre excludente de responsabilidade",
+      "resumo_voto": "Despacho 1.688/2022 suspendeu penalidades; retenção de receita equivale a aplicar penalidade; fumaça do bom direito (decisão anterior da agência) e perigo da demora (custos operacionais ~1,8–2 milhões/mês). Reversível com atualização. Sustentação oral de Flávio Betega (advogado da Barra Bonita). Procuradoria sem parecer. Agnes sugeriu remuneração pelo PLD como meio-termo; relator rejeitou por falta de lastro contratual.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e dá provimento à cautelar", "ts": "2:18:22", "justificativa": "a CCEE descumpriu o Despacho 1.688/2022; retenção é penalidade; remunerar por PLD seria arbitrário sem lastro contratual; prefere segurança jurídica e celeridade em cautelares", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:38:04", "justificativa": "já adiantara: despacho 1.688 é muito claro; CCEE resiste a cumprir despacho da ANEEL; com a penalidade suspensa não cabe à CCEE reter valores por conta própria", "confianca": "media"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:38:06", "justificativa": "a cautelar afastou penalidade, então tem de receber; perigo da demora (asfixia financeira); quem entregou energia ao sistema tem de ser remunerado", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:38:06", "justificativa": "levantou a hipótese de pagar pelo PLD para reduzir o risco de reversibilidade, mas declarou-se pela segurança jurídica e pelo contrato", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "vencido: não conhece do pedido de cautelar", "ts": "2:38:12", "justificativa": "requisitos não preenchidos; caberia pedido de esclarecimento da decisão anterior, não nova cautelar (cautelar da cautelar com efeitos procrastinatórios); reversibilidade tem sentido amplo e há dúvida em pagar receita antes de julgada a excludente", "tom": "cauteloso, preocupado com precedente", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "5", "ts": "2:40:42",
+      "processo": "48500.002928/2019-32", "interessado": "transmissoras; ONS (SRT)",
+      "assunto": "Resultado da Consulta Pública 33/2022: regras do contrato de compartilhamento de instalações de transmissão (CCI) e da conexão de transmissoras a instalações existentes; altera módulos 1 (glossário) e 3 (instalações e equipamentos) das Regras de Transmissão",
+      "tema": ["transmissão", "regulação normativa (resolução, consulta pública, agenda regulatória)"],
+      "relator": "Fernando Mosna",
+      "resultado": "aprovado por unanimidade: emissão de resolução normativa",
+      "resumo_voto": "Consolidação e esclarecimento de comandos já existentes (obrigatoriedade e prazo de 9 meses para o CCI, equipamentos reserva remunerados), rito simplificado com dispensa de AIR; 245 contribuições de 18 participantes. Apresentação técnica de Paulo Roberto Fernandes Souza (SRT). Interveniência do ONS no CCI fica fora do escopo.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova emissão da resolução normativa", "ts": "2:52:31", "justificativa": "consolidação no procedimento de rede de institutos do CCI e esclarecimentos", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:57:23", "confianca": "baixa"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "2:57:24", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (pela proclamação)", "ts": "2:57:25", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:57:27", "justificativa": "framework regulatório já existe; poucos conflitos (3 a 5 casos em mais de mil contratos); organizar disposições é o caminho racional, sem regra exaustiva", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "6", "ts": "2:58:12",
+      "processo": "48500.005495/2022-72", "interessado": "ANEEL (GDG e superintendências)",
+      "assunto": "Aprovação da Agenda Regulatória 2023–2024 após a Audiência Pública 14/2022 (35 atividades, 25 da agenda anterior e 10 novas, organizadas por temas estratégicos)",
+      "tema": ["regulação normativa (agenda regulatória)", "institucional"],
+      "relator": "Sandoval Feitosa",
+      "resultado": "aprovado por unanimidade: publicação de portaria aprovando a Agenda Regulatória 2023–2024",
+      "resumo_voto": "Agenda por temas estratégicos sem classificação prioritária/ordinária/indicativa; excluída atividade TRV 23-06 (SRD); hidrogênio tratado inicialmente por chamada de P&D estratégico em 2023. Apresentação de Elvira (GDG). Debate sobre hidrogênio de baixo carbono, carga eletrointensiva e risco de aumento da CDE/subsídios.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "relator, aprova a agenda regulatória e proclama", "ts": "3:11:09", "justificativa": "foco no que é de fato prioritário; agência com ~25% a menos de quadro; integração por programa/portfólio/projeto; hidrogênio é eletrointensivo e o Brasil não deve exportar subsídios", "confianca": "alta"},
+        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "3:29:02", "justificativa": "agradeceu o agrupamento de temas que pedira na abertura da consulta (ex.: modernização tarifária)", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "3:29:04", "justificativa": "preocupação com o hidrogênio verde como carga eletrointensiva e possível aumento da CDE por fontes incentivadas; falta sinalização legal", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "3:29:06", "justificativa": "enfoque temático dá racionalidade e deixa claro o interesse da agência, que antes parecia agenda setorial; consumidor brasileiro não deveria subsidiar energia barata exportada", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "3:29:10", "justificativa": "agenda viva e revisável; sugeriu falar em hidrogênio de baixo carbono e lembrou isonomia entre agentes e impactos em transmissão e eólica offshore", "confianca": "media"}
+      ]
+    }
   ],
-  "ausentes": [],
-  "observacoes": [
-   "Primeira reunião de Agnes da Costa como diretora.",
-   "Pauta com 42 itens; bloco 15 a 42; ordem: bloco, 1, 4, 13, 5, 23 (para o final), 6, 7, 10, 14, 22, 3.",
-   "Parte 1 termina com suspensão para almoço (retorno 14h30); itens 23, 7, 10, 14, 22 e 3 ficam para a Parte 2 (outro vídeo).",
-   "Ata da 45ª RPO aprovada sem participação de Agnes."
+  "retirados": [
+    {"id": "2", "observacao": "retirado de pauta antes da sessão"},
+    {"id": "4", "ts": "1:55:11", "observacao": "retirado de pauta durante a sessão (anúncio do secretário-geral após o item 1); tinha pedido de sustentação oral"},
+    {"id": "8", "observacao": "retirado de pauta antes da sessão"},
+    {"id": "9", "observacao": "retirado de pauta antes da sessão"},
+    {"id": "11", "observacao": "retirado de pauta antes da sessão"},
+    {"id": "12", "observacao": "retirado de pauta antes da sessão"}
+  ],
+  "limites_da_analise": [
+    "Vídeo é só a Parte 1 da 46ª RPO de 2022; itens 7, 10, 14, 22, 23 e 3 foram deliberados após o almoço (Parte 2, outro vídeo) e não estão aqui.",
+    "Legenda automática: números de processo transcritos por voz; no item 1 o dispositivo lido cita outro número (soa como 48500.004924/2010-51), possivelmente o processo do contrato; usar o número apregoado com cautela.",
+    "Votos finais quase sem nome: falas «eu acompanho» atribuídas pela ordem usual e pelos debates; no item 13 só duas falas de acompanhamento foram ouvidas além do voto do Diretor-Geral; o placar 4 x 1 da proclamação fecha a conta com Agnes acompanhando. No item 13 a atribuição a Hélvio Guerra das falas sobre perigo da demora e PLD é inferida (confiança baixa).",
+    "Item 13: a proclamação lida mistura o texto do Despacho 1.688 com o dispositivo novo; registrado o dispositivo do voto do relator (não reter receitas).",
+    "Item 5: na legenda o ONS aparece como «INSS»; corrigido para ONS por contexto.",
+    "Nomes transcritos com erro (Élvio/Elvis = Hélvio Guerra; Ricardo Chile = Ricardo Tili; Mosna/morza = Fernando Mosna; Agnes/agnens = Agnes da Costa)."
   ]
- },
- "itens": [
-  {
-   "id": "bloco (itens 15 a 42)",
-   "ts": "0:13:02",
-   "processo": "",
-   "interessado": "diversos",
-   "assunto": "Itens de bloco 15 a 42 (votos disponibilizados previamente); Hélvio Guerra registrou correção no dispositivo do item 20 do bloco da reunião anterior (reembolso CCC/CDE do carvão do Complexo Termelétrico Jorge Lacerda: período 5/1 a 31/12/2022).",
-   "tema": [
-    "bloco",
-    "CDE e encargos setoriais"
-   ],
-   "relator": "diversos",
-   "resultado": "aprovados por unanimidade",
-   "resumo_voto": "Todos aprovam os itens do bloco.",
-   "votos": [
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "aprova os itens do bloco",
-     "ts": "0:13:14",
-     "justificativa": "Aprova os itens do bloco.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "aprova os itens do bloco",
-     "ts": "0:13:14",
-     "justificativa": "Aprova e registra correção do item 20 do bloco da reunião passada.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "aprova os itens do bloco",
-     "ts": "0:13:14",
-     "justificativa": "Aprova os itens do bloco.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "aprova os itens do bloco",
-     "ts": "0:13:14",
-     "justificativa": "Aprova os itens do bloco.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "aprova os itens do bloco",
-     "ts": "0:13:14",
-     "justificativa": "Aprova os itens do bloco.",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "1",
-   "ts": "0:15:00",
-   "processo": "48500.007743/2022-10 (no dispositivo citado 48500.004924/2010-51; legenda incerta)",
-   "interessado": "Enel Distribuição Goiás (Celg D); Enel Brasil; Equatorial Participações e Investimentos / Equatorial Energia",
-   "assunto": "Plano de transferência do controle societário da Enel Distribuição Goiás para a Equatorial, como alternativa à extinção da concessão (subcláusula 8ª da cláusula 12ª do 5º termo aditivo ao contrato 63/2000). Sustentações orais: senador Jorge Kajuru (contra, critica falta de transparência) e Augusto Miranda da Paz Júnior (Equatorial).",
-   "tema": [
-    "distribuição e qualidade (DEC/FEC)",
-    "transferência de controle",
-    "caducidade",
-    "fiscalização e sanções"
-   ],
-   "relator": "Hélvio Guerra",
-   "resultado": "aprovado por unanimidade: afasta art. 9º do anexo 8 da REN 948/2021 por 3 anos só quanto à abertura de processo de caducidade; fiscalização orientativa no 1º ano; anuência prévia à transferência; 120 dias para implementar",
-   "resumo_voto": "Relator aprova o plano com waiver de caducidade por 3 anos e fiscalização orientativa só no 1º ano (não 2 como pedido); pleito de RTE retirado pela Equatorial; SFE deve cobrar plano para homogeneizar DEC dos conjuntos.",
-   "votos": [
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator",
-     "ts": "1:52:46",
-     "justificativa": "Processo de consolidação da distribuição; flexibilizações menores que nas privatizações da Eletrobras; RTE não cabe pois causa foi qualidade, não econômico-financeira.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "relator, aprova",
-     "ts": "1:22:55",
-     "justificativa": "DEC violado de 2017 a 2021; caducidade seria pior para o consumidor; flexibilização limitada; consumidor é o protagonista.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "1:52:46",
-     "justificativa": "Destacou aumento de OPEX da Equatorial para resposta rápida ao consumidor; alternativa de caducidade seria pior.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator",
-     "ts": "1:24:43",
-     "justificativa": "Alternativa seria caducidade em 2023 e nova licitação, prejudicando o consumidor de Goiás; elogia waiver e fiscalização orientativa de um ano.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "1:29:16",
-     "justificativa": "Solução ponderada e em prol do consumidor; preocupação com indicadores só apurados no fim do período e com mútuos; SFE deve acompanhar de perto.",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "13",
-   "ts": "1:55:31",
-   "processo": "48500.005614/2022-97",
-   "interessado": "Barra Bonita Óleo e Gás Ltda. (UTE Barra Bonita 1); CCEE",
-   "assunto": "Pedido de medida cautelar para que a CCEE cumpra o Despacho 1688/2022 e não retenha receitas do contrato de energia de reserva 450/2021 por penalidades de atraso. Houve sustentação oral do advogado da empresa (nome não captado).",
-   "tema": [
-    "comercialização (CCEE)",
-    "recursos administrativos",
-    "fiscalização e sanções",
-    "outorgas de geração (térmica)"
-   ],
-   "relator": "Fernando Mosna",
-   "resultado": "por maioria (4 x 1), conhecida e parcialmente provida a cautelar: não reter receitas do CER 450/2021 até a primeira decisão da Diretoria sobre excludente de responsabilidade; vencido Sandoval Feitosa",
-   "resumo_voto": "Relator vê fumaça do bom direito (despacho 1688 suspende penalidades, retenção é penalidade) e perigo da demora (asfixia financeira); reversibilidade preserva consumidor.",
-   "votos": [
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "vencido (não conhecer da cautelar)",
-     "ts": "2:38:28",
-     "justificativa": "Caberia pedido de esclarecimento da decisão, não nova cautelar ('cautelar da cautelar'), com risco de efeitos procrastinatórios; reversibilidade em sentido amplo.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator",
-     "ts": "2:38:12",
-     "justificativa": "Cautelar afastou penalidade; energia foi entregue e deve ser remunerada.",
-     "confianca": "baixa"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator",
-     "ts": "2:19:08",
-     "justificativa": "Despacho 1688 é claro; CCEE resiste a cumprir decisão da ANEEL.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "relator, aprova",
-     "ts": "2:18:27",
-     "justificativa": "Despacho 1688 impede retenção; reversível; risco de incapacidade de atender ao contrato; pagamento pelo PLD seria arbitrário.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator",
-     "ts": "2:38:12",
-     "justificativa": "Cogitou remunerar pelo PLD como meio-termo, mas prefere segurança jurídica e o contrato.",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "5",
-   "ts": "2:39:07",
-   "processo": "48500.002928/2019-32",
-   "interessado": "transmissoras; SRT",
-   "assunto": "Resultado da Consulta Pública 33/2022: compartilhamento de instalações de transmissão (CCI) e conexão de transmissoras a instalações existentes; altera módulos 1 e 3 das Regras de Transmissão.",
-   "tema": [
-    "transmissão",
-    "regulação normativa"
-   ],
-   "relator": "Fernando Mosna",
-   "resultado": "aprovada a resolução normativa por unanimidade",
-   "resumo_voto": "Emissão de REN sobre compartilhamento de instalações de transmissão, dispensada AIR por baixo impacto.",
-   "votos": [
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:57:32",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:57:32",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:57:32",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "relator, aprova",
-     "ts": "2:57:32",
-     "justificativa": "Leu o voto e o dispositivo.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "2:57:32",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    }
-   ]
-  },
-  {
-   "id": "6",
-   "ts": "2:58:07",
-   "processo": "48500.005495/2022-72",
-   "interessado": "ANEEL (institucional)",
-   "assunto": "Aprovação da Agenda Regulatória 2023-2024 após Audiência Pública 14/2022 (35 atividades, organizadas por temas).",
-   "tema": [
-    "regulação normativa",
-    "agenda regulatória"
-   ],
-   "relator": "Sandoval Feitosa",
-   "resultado": "aprovada por unanimidade a portaria da agenda regulatória 2023-2024",
-   "resumo_voto": "Relator (DG) aprova a agenda temática; Ricardo Tili destaca preocupação com carga do hidrogênio verde.",
-   "votos": [
-    {
-     "diretor": "Sandoval Feitosa",
-     "voto": "relator, aprova",
-     "ts": "3:11:13",
-     "justificativa": "Agenda temática, recupera a agenda comprometida de 2022, pode ser revista.",
-     "confianca": "alta"
-    },
-    {
-     "diretor": "Hélvio Guerra",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:29:10",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Ricardo Tili",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:29:10",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Fernando Mosna",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:29:10",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    },
-    {
-     "diretor": "Agnes da Costa",
-     "voto": "acompanha o relator (pela proclamação)",
-     "ts": "3:29:10",
-     "justificativa": "Proclamação por unanimidade.",
-     "confianca": "media"
-    }
-   ]
-  }
- ],
- "retirados": [
-  {
-   "id": "2",
-   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
-  },
-  {
-   "id": "8",
-   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
-  },
-  {
-   "id": "9",
-   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
-  },
-  {
-   "id": "11",
-   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
-  },
-  {
-   "id": "12",
-   "motivo": "retirado de pauta (anunciado pelo secretário-geral)"
-  },
-  {
-   "id": "4",
-   "motivo": "retirado de pauta durante a sessão (tinha pedido de sustentação oral)"
-  }
- ],
- "limites_da_analise": [
-  "Legenda automática: números de processo e nomes podem estar errados (item 1 cita dois números de processo distintos).",
-  "Itens 5 e 6: só se ouvem algumas falas de acompanhamento sem nome; votos atribuídos pela proclamação unânime.",
-  "Item 13: proclamação 4 x 1; voto de Hélvio Guerra inferido pela contagem (não identificado individualmente com clareza); falas dos diretores na discussão sem rótulo de falante.",
-  "Item 1: voto de Ricardo Tili inferido pela proclamação unânime.",
-  "Nome do advogado da Barra Bonita na sustentação oral não captado.",
-  "Itens deliberados à tarde estão na Parte 2, não analisada aqui."
- ]
 }
