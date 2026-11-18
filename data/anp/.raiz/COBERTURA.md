@@ -4,30 +4,31 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | workshop | 10 | 0 | 0 |
-| sem data | diretoria | 31 | 31 | 0 |
-| sem data | audiencia | 21 | 0 | 0 |
-| 2026 | workshop | 17 | 0 | 0 |
+| sem data | workshop | 7 | 5 | 0 |
+| sem data | diretoria | 18 | 18 | 0 |
+| sem data | audiencia | 15 | 13 | 0 |
+| 2026 | workshop | 10 | 10 | 0 |
 | 2026 | diretoria | 22 | 21 | 0 |
-| 2026 | audiencia | 18 | 0 | 0 |
-| 2025 | workshop | 17 | 0 | 0 |
-| 2025 | diretoria | 22 | 22 | 0 |
-| 2025 | audiencia | 14 | 0 | 0 |
-| 2024 | workshop | 9 | 0 | 0 |
-| 2024 | diretoria | 7 | 7 | 0 |
-| 2023 | workshop | 11 | 0 | 0 |
-| 2023 | diretoria | 10 | 4 | 0 |
-| 2023 | audiencia | 7 | 0 | 0 |
-| 2022 | workshop | 11 | 0 | 0 |
-| 2022 | diretoria | 34 | 0 | 0 |
-| 2022 | audiencia | 25 | 0 | 0 |
-| 2021 | workshop | 20 | 0 | 0 |
-| 2021 | diretoria | 46 | 0 | 0 |
-| 2021 | audiencia | 23 | 0 | 0 |
-| 2020 | workshop | 10 | 0 | 0 |
-| 2020 | diretoria | 26 | 0 | 0 |
-| 2020 | audiencia | 18 | 0 | 0 |
-| 2019 | diretoria | 42 | 0 | 0 |
+| 2026 | audiencia | 18 | 18 | 0 |
+| 2025 | workshop | 14 | 14 | 0 |
+| 2025 | diretoria | 24 | 24 | 0 |
+| 2025 | audiencia | 15 | 14 | 0 |
+| 2024 | workshop | 12 | 12 | 0 |
+| 2024 | diretoria | 18 | 18 | 0 |
+| 2024 | audiencia | 5 | 5 | 0 |
+| 2023 | workshop | 11 | 11 | 0 |
+| 2023 | diretoria | 10 | 10 | 0 |
+| 2023 | audiencia | 7 | 7 | 0 |
+| 2022 | workshop | 11 | 11 | 0 |
+| 2022 | diretoria | 34 | 34 | 0 |
+| 2022 | audiencia | 25 | 25 | 0 |
+| 2021 | workshop | 20 | 17 | 0 |
+| 2021 | diretoria | 46 | 46 | 0 |
+| 2021 | audiencia | 23 | 23 | 0 |
+| 2020 | workshop | 10 | 10 | 0 |
+| 2020 | diretoria | 26 | 26 | 0 |
+| 2020 | audiencia | 18 | 16 | 0 |
+| 2019 | diretoria | 42 | 40 | 0 |
 | 2015 | audiencia | 1 | 0 | 0 |
 | 2013 | audiencia | 1 | 0 | 0 |
 | 2011 | diretoria | 1 | 0 | 0 |
@@ -78,6 +79,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-03-27 · Reunião de Diretoria Colegiada nº 1157 - 27 de março de 2025 · `ocXCzfq0zZI`
 - 2025-03-20 · Reunião de Diretoria Colegiada nº 1156 - 20 de março de 2025 · `FdjDOZ9wcmI`
 - 2025-02-20 · Reunião de Diretoria Colegiada nº 1155 - 20 de fevereiro de 2025 · `OrAPFrxXbNc`
+- 2025-02-06 · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
+- 2025-01-23 · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
+- 2024-12-19 · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
 - 2024-12-14 · Reunião de Diretoria Colegiada nº 1151 - 13 de dezembro de 2024 · `MngJ-EXGqcs`
 - 2024-11-28 · Reunião de Diretoria Colegiada nº 1150 - 28 de novembro de 2024 · `hrCl14NQxvY`
 - 2024-11-15 · Reunião de Diretoria Colegiada nº 1149 - 14 de outubro de 2024 · `VAmwjPIED2U`
@@ -85,22 +89,172 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-10-03 · Reunião de Diretoria Colegiada nº 1146 - 3 de outubro de 2024 · `IoXXBk607M0`
 - 2024-09-19 · Reunião de Diretoria Colegiada nº 1145 - 19 de setembro de 2024 · `asAKOPmeB8E`
 - 2024-09-11 · Reunião de Diretoria Colegiada Extraordinária nº 67 - 11 de setembro d · `EmOfSI69wXY`
+- 2024-09-05 · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · `k0ZqLCoDJCo`
+- 2024-08-22 · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · `ArnN1KCB8kY`
+- 2024-08-08 · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · `rhsV7CS3jPE`
+- 2024-07-25 · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · `aMoxfPShKvw`
+- 2024-07-11 · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
+- 2024-06-27 · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
+- 2024-05-29 · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
+- 2024-05-24 · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
+- 2024-05-16 · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · `1OTBSgcmkU4`
+- 2024-04-25 · Reunião de Diretoria Colegiada nº 1136 - 25 de abril de 2024 · `R1qsVvBxk4o`
 - 2023-07-07 · Bastidores da Reunião de Diretoria · `Ig3r9jec6mY`
 - 2023-06-07 · Reunião de Diretoria Colegiada nº 1117 - 07 de junho de 2023 · `apS7xnxgTQQ`
 - 2023-05-25 · Reunião de Diretoria Colegiada nº 1116 - 25 de maio de 2023 · `ElcukGuigSw`
 - 2023-04-27 · Reunião de Diretoria Colegiada nº 1115 - 27 de abril de 2023 · `s53PTjwnTYs`
--  · Reunião de Diretoria Colegiada nº 1154 - 06 de fevereiro de 2025 · `fiOUzAVXS3w`
--  · Reunião de Diretoria Colegiada nº 1153 - 23 de janeiro de 2025 · `O8R2Sbk2THE`
--  · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
--  · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · `k0ZqLCoDJCo`
--  · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · `ArnN1KCB8kY`
--  · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · `rhsV7CS3jPE`
--  · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · `aMoxfPShKvw`
--  · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
--  · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
--  · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
--  · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · `1OTBSgcmkU4`
--  · Reunião de Diretoria Colegiada nº 1136 - 25 de abril de 2024 · `R1qsVvBxk4o`
+- 2023-04-14 · Reunião de Diretoria Colegiada nº 1114 - 14 de abril de 2023 · `RfuwfE8RpvY`
+- 2023-03-29 · Reunião de Diretoria Colegiada nº 1113 - 29 de março de 2023 · `DT1GPM-1tFQ`
+- 2023-03-02 · Reunião de Diretoria Colegiada nº 1112 - 02 de março de 2023 · `N3x2paA1C1I`
+- 2023-02-09 · Reunião de Diretoria Colegiada nº 1111 - 09 de fevereiro de 2023 · `G23edbU-YLk`
+- 2023-01-26 · Reunião de Diretoria Colegiada nº 1110 - 26 de janeiro de 2023 · `9HobT0z-Je8`
+- 2023-01-12 · Reunião de Diretoria Colegiada nº 1109 - 12 de janeiro de 2023 · `ZZOtUeHLMuw`
+- 2022-12-15 · Reunião de Diretoria Colegiada nº 1108 - 15 de dezembro de 2022 · `L1Abxivw0ZI`
+- 2022-12-01 · Reunião de Diretoria Colegiada nº 1107- 01 de dezembro de 2022 · `WBv0a4xqG54`
+- 2022-11-24 · Reunião de Diretoria Colegiada nº 1106 - 24 de novembro de 2022 · `I4D5gXFLWRA`
+- 2022-11-09 · Reunião de Diretoria Colegiada Extraordinária nº 64 - 09 de novembro d · `TRFz0bn4JyE`
+- 2022-11-08 · Reunião de Diretoria Colegiada nº 1105 - 08 de novembro de 2022 · `FKQJXTX9o8o`
+- 2022-10-20 · Reunião de Diretoria Colegiada nº 1104 - 20 de outubro de 2022 · `CmYaAVt-ad8`
+- 2022-10-06 · Reunião de Diretoria Colegiada nº 1103 - 06 de outubro de 2022 · `ftblrdWdqlE`
+- 2022-09-22 · Reunião de Diretoria Colegiada nº 1102 - 22 de setembro de 2022 · `GWjmRAwBsO8`
+- 2022-09-15 · Reunião de Diretoria Colegiada nº 1101 - 15 de setembro de 2022 · `d5wRV44aUJo`
+- 2022-09-01 · Reunião de Diretoria Colegiada nº 1100 - 01 de setembro de 2022 · `8m_LH-_Ai9c`
+- 2022-08-25 · Reunião de Diretoria Colegiada nº 1099 - 25 de agosto de 2022 · `T4Y0uiYnDZw`
+- 2022-08-18 · Reunião de Diretoria Colegiada nº 1098 - 18 de agosto de 2022 · `IaV146chR8o`
+- 2022-08-05 · Reunião de Diretoria Colegiada nº 1097 - 5 de agosto de 2022 · `o-sgU4Vtvkw`
+- 2022-07-26 · Reunião de Diretoria Colegiada nº 1096 - 26 de julho de 2022 · `y4KQCuMvxSI`
+- 2022-07-14 · Reunião de Diretoria Colegiada nº 1095 - 14 de julho de 2022 · `BdMo7kf33Tg`
+- 2022-07-07 · Reunião de Diretoria Colegiada nº 1094 - 07 de julho de 2022 · `9eH_kyTDUbM`
+- 2022-06-30 · Reunião de Diretoria Colegiada nº 1093 - 30 de junho de 2022 · `SYSQIglktc0`
+- 2022-06-15 · Reunião de Diretoria Colegiada nº 1092 - 15 de junho  de 2022 · `cJ33ETVeZUY`
+- 2022-06-02 · Reunião de Diretoria Colegiada nº 1091 - 02 de junho  de 2022 · `qO9P5aFJAho`
+- 2022-05-26 · Reunião de Diretoria Colegiada nº 1090 - 26 de maio de 2022 · `loiuFRTWF94`
+- 2022-05-19 · Reunião de Diretoria Colegiada nº 1089 - 19 de maio de 2022 · `O6LCs9JD9B8`
+- 2022-05-12 · Reunião de Diretoria Colegiada nº 1088 - 12 de maio de 2022 · `HIPHOC8xLtg`
+- 2022-04-28 · Reunião de Diretoria Colegiada nº 1087 - 28 de abril de 2022 · `q4uA95JjH1E`
+- 2022-04-14 · Reunião de Diretoria Colegiada nº 1086 - 14 de abril de 2022 · `RF9J2G1v_Mg`
+- 2022-04-08 · Reunião de Diretoria Colegiada nº 1085 - 8 de abril de 2022 · `YKbQF1H8cRM`
+- 2022-03-31 · Reunião de Diretoria Colegiada nº 1084 - 31 de março de 2022 · `fr5_mAXZihs`
+- 2022-03-24 · Reunião de Diretoria Colegiada nº 1083 - 24 de março de 2022 · `4V3ci7ToFTU`
+- 2022-03-17 · Reunião de Diretoria Colegiada nº 1082 - 17 de março de 2022 · `cLaOcqeit-E`
+- 2022-02-23 · Reunião de Diretoria Colegiada nº 1081 - 23 de fevereiro de 2022 · `nTFg6Csx4H0`
+- 2022-02-16 · Reunião de Diretoria Colegiada nº 1080 - 16 de fevereiro de 2022 · `f1HmjGAQ2xM`
+- 2022-02-10 · Reunião de Diretoria Colegiada nº 1079 - 10 de fevereiro de 2022 · `f6uxgWOo_VY`
+- 2022-01-27 · Reunião de Diretoria Colegiada nº 1078 - 27 de janeiro de 2022 · `g6Xh5nGEZo8`
+- 2022-01-19 · Reunião de Diretoria Colegiada nº 1077 - 19 de janeiro de 2022 · `JMpLBQakVWI`
+- 2022-01-13 · Reunião de Diretoria Colegiada nº 1076 - 13 de janeiro de 2022 · `my3Wmq3NSpU`
+- 2021-12-16 · Reunião de Diretoria Colegiada nº 1075 - 16 de dezembro de 2021 · `N_vEJIenM94`
+- 2021-12-09 · Reunião de Diretoria Colegiada nº 1074 - 09 de dezembro de 2021 · `nqX81DB5Hhw`
+- 2021-12-02 · Reunião de Diretoria Colegiada nº 1073 - 02 de dezembro de 2021 · `xzVMwOecXF4`
+- 2021-11-25 · Reunião de Diretoria Colegiada nº 1072 - 25 de novembro de 2021 · `oA7nMgVVuj4`
+- 2021-11-18 · Reunião de Diretoria Colegiada nº 1071 - 18 de novembro de 2021 · `QV7AESOsoI8`
+- 2021-11-11 · Reunião de Diretoria Colegiada nº 1070 - 11 de novembro de 2021 · `SQNpk4DZF3Q`
+- 2021-11-04 · Reunião de Diretoria Colegiada nº 1069 - 04 de novembro de 2021 · `b_hrJS3KXB8`
+- 2021-10-28 · Reunião de Diretoria Colegiada nº 1068 - 28 de outubro de 2021 · `tbvDmykoHdw`
+- 2021-10-21 · Reunião de Diretoria Colegiada nº 1067 - 21 de outubro de 2021 · `_GS4CV-QzGY`
+- 2021-10-06 · Reunião de Diretoria Colegiada nº 1066 - 06 de outubro de 2021 · `LmFS4t9Rm24`
+- 2021-09-30 · Reunião de Diretoria Colegiada nº 1065 - 30 de setembro de 2021 · `sxVnJMdQQF0`
+- 2021-09-23 · Reunião de Diretoria Colegiada nº 1064 - 23 de setembro de 2021 · `_gVjfFKA2G4`
+- 2021-09-16 · Reunião de Diretoria Colegiada nº 1063 - 16 de setembro de 2021 · `3-MrwRaQ3gU`
+- 2021-09-02 · Reunião de Diretoria Colegiada nº 1062 - 02 de setembro de 2021 · `IkCv4HjwLx4`
+- 2021-08-26 · Reunião de Diretoria Colegiada nº 1061 - 26 de agosto de 2021 · `gMiQqZjBRS0`
+- 2021-08-12 · Reunião de Diretoria Colegiada nº 1060 - 12 de agosto de 2021 · `KXm5uoAx0Wc`
+- 2021-08-11 · Reunião de Diretoria Colegiada Extraordinária nº 63 - 11 de agosto de  · `lYtlcdGW7Io`
+- 2021-08-05 · Reunião de Diretoria Colegiada nº 1059 - 5 de agosto de 2021 · `nBQjJr0hvVI`
+- 2021-07-29 · Reunião de Diretoria Colegiada nº 1058 - 29 de julho de 2021 · `LqLRGA5Le9U`
+- 2021-07-22 · Reunião de Diretoria Colegiada nº 1057 - 22 de julho de 2021 · `gPr7e4LecTs`
+- 2021-07-15 · Reunião de Diretoria Colegiada nº 1056 - 15  de julho de 2021 · `I69Ci4l4mvY`
+- 2021-07-08 · Reunião de Diretoria Colegiada nº 1055 - 8  de julho de 2021 · `6z_LmdUNBi4`
+- 2021-07-01 · Reunião de Diretoria Colegiada nº 1054 - 1  de julho de 2021 · `9Di-ujrYq5k`
+- 2021-06-24 · Reunião de Diretoria Colegiada nº 1053 - 24  de junho de 2021 · `ASc_RPmOxsk`
+- 2021-06-17 · Reunião de Diretoria Colegiada nº 1052 - 17 de junho de 2021 · `rkgwSbtXeYY`
+- 2021-06-10 · Reunião de Diretoria Colegiada nº 1051 - 10 de junho de 2021 · `0u56dH7EHN0`
+- 2021-05-27 · Reunião de Diretoria Colegiada nº 1050 - 27 de maio de 2021 · `ZK4oYxuNegM`
+- 2021-05-24 · Reunião de Diretoria Colegiada nº 984 - 11 de julho de 2019 · `_GkEFhtg_mI`
+- 2021-05-21 · Reunião de Diretoria Colegiada nº 1049 - 21 de maio de 2021 · `SMmf1CFrvhQ`
+- 2021-05-13 · Reunião de Diretoria Colegiada nº 1048 - 13 de maio de 2021 · `mMmEgVJZK-g`
+- 2021-05-06 · Reunião de Diretoria Colegiada nº 1047 - 06 de maio de 2021 · `77vHdLYEB40`
+- 2021-04-29 · Reunião de Diretoria Colegiada nº 1046 - 29 de abril de 2021 · `YKNuQNx0gL4`
+- 2021-04-22 · Reunião de Diretoria Colegiada nº 1045 - 22 de abril de 2021 · `yBgh2M4PZJA`
+- 2021-04-15 · Reunião de Diretoria Colegiada nº 1044 - 15 de abril de 2021 · `nL3Em1uCHio`
+- 2021-04-08 · Reunião de Diretoria Colegiada nº 1043 - 08 de abril de 2021 · `gNXdklmZe5U`
+- 2021-03-25 · Reunião de Diretoria Colegiada nº 1042 - 25 de março de 2021 · `MP3y9ug-Otk`
+- 2021-03-18 · Reunião de Diretoria Colegiada nº 1041 - 18 de março de 2021 · `TimR2T-RAao`
+- 2021-03-11 · Reunião de Diretoria Colegiada nº 1040 - 11 de março de 2021 · `SZoz6tng1PE`
+- 2021-03-04 · Reunião de Diretoria Colegiada nº 1039 - 04 de março de 2021 · `5DDaB4vKTz0`
+- 2021-02-25 · Reunião de Diretoria Colegiada nº 1038 - 25 de fevereiro de 2021 · `i_optd_Wl5M`
+- 2021-02-11 · Reunião de Diretoria Colegiada nº 1037 - 11 de fevereiro de 2021 · `bzwFKhXZkAk`
+- 2021-02-04 · Reunião de Diretoria Colegiada nº 1036 - 04 de fevereiro de 2021 · `5WmKISLlbOU`
+- 2021-01-28 · Reunião de Diretoria Colegiada nº 1035 - 28 de janeiro de 2021 · `r_SOqgNewrQ`
+- 2021-01-21 · Reunião de Diretoria Colegiada nº 1034 - 21 de janeiro de 2021 · `uyoyB2ZuWqk`
+- 2021-01-15 · Reunião de Diretoria Colegiada nº 1033 - 14 de janeiro de 2021 · `iAYyd8JvRjg`
+- 2021-01-14 · Reunião de Diretoria Colegiada nº 1033 - 14 de janeiro de 2020 Parte 2 · `kbQeeAq6LMU`
+- 2020-12-17 · Reunião de Diretoria Colegiada nº 1032 - 17 de dezembro de 2020 · `bO5GUR96iuc`
+- 2020-12-10 · Reunião de Diretoria Colegiada nº 1031 - 10 de dezembro de 2020 · `rAobSSBl1Rw`
+- 2020-12-03 · Reunião de Diretoria Colegiada nº 1030 - 03 de dezembro de 2020 · `5K8SPHSnmug`
+- 2020-11-26 · Reunião de Diretoria Colegiada nº 1029 - 26 de novembro de 2020 · `SZlh9E9ddFQ`
+- 2020-11-19 · Reunião de Diretoria Colegiada nº 1028 - 19 de novembro de 2020 · `jqWv_def9MI`
+- 2020-11-12 · Reunião de Diretoria Colegiada nº 1027 - 12 de novembro de 2020 · `9A2oYD--XEQ`
+- 2020-10-29 · Reunião de Diretoria Colegiada nº 1026 - 29 de Outubro de 2020 · `yWVul_zcz-E`
+- 2020-10-22 · Reunião de Diretoria Colegiada nº 1025 - 22 de Outubro de 2020 · `fhPYZ0nJ4YA`
+- 2020-10-08 · Reunião de Diretoria Colegiada nº 1024 - 08 de Outubro de 2020 · `afYtkqw01Hs`
+- 2020-10-01 · Reunião de Diretoria Colegiada nº 1023 - 01 de Outubro de 2020 · `eeHj24RkHLs`
+- 2020-09-24 · Reunião de Diretoria Colegiada nº 1022 - 24 de Setembro de 2020 · `m3xf8MbjY0o`
+- 2020-09-10 · Reunião de Diretoria Colegiada nº 1021 - 10 de Setembro de 2020 · `04VGtrnEfOU`
+- 2020-08-27 · Reunião de Diretoria Colegiada nº 1020 - 27 de Agosto de 2020 · `7eEePvWyaHE`
+- 2020-08-13 · Reunião de Diretoria Colegiada nº 1019 - 13 de Agosto de 2020 · `uHrGyggkobI`
+- 2020-07-30 · Reunião de Diretoria Colegiada nº 1018 - 30 de Julho de 2020 · `wvRGMVDtNXM`
+- 2020-07-16 · Reunião de Diretoria Colegiada nº 1017 - 16 de Julho de 2020 · `jmgOStFCWTA`
+- 2020-07-02 · Reunião de Diretoria Colegiada nº 1016 - 02 de Julho de 2020 · `g1Id-UgZpSs`
+- 2020-06-18 · Reunião de Diretoria Colegiada nº 1015 - 18 de Junho de 2020 · `k-pYKnuWK4M`
+- 2020-05-28 · Reunião de Diretoria Colegiada nº 1014 - 28 de maio de 2020 · `j4s1JZY-LgU`
+- 2020-05-14 · Reunião de Diretoria Colegiada nº 1013 - 14 de maio de 2020 · `2HBNbKJd8CU`
+- 2020-03-12 · Reunião de Diretoria Colegiada nº 1012 - 12 de março de 2020 · `DyVMgQ6axV0`
+- 2020-03-05 · Reunião de Diretoria Colegiada nº 1011 - 05 de março de 2020 · `VyPg-CpUmac`
+- 2020-02-20 · Reunião de Diretoria Colegiada nº 1010 - 20 de fevereiro de 2020 · `3hn_srQ5KM4`
+- 2020-02-11 · Reunião de Diretoria Colegiada nº 1009 - 11 de fevereiro de 2020 · `DLGv9MQed5M`
+- 2020-01-30 · Reunião de Diretoria Colegiada nº 1008 - 30 de janeiro de 2020 · `9Qe_PkqJDPc`
+- 2020-01-16 · Reunião de Diretoria Colegiada nº 1007 - 16 de janeiro de 2020 · `XXQY7wxNHac`
+- 2019-12-19 · Reunião de Diretoria Colegiada nº 1006 - 19 de dezembro de 2019 · `GFroxcTN6yo`
+- 2019-12-12 · Reunião de Diretoria Colegiada nº 1005 - 12 de dezembro de 2019 · `8kpKKICQT2w`
+- 2019-12-05 · Reunião de Diretoria Colegiada nº 1004 - 05 de dezembro de 2019 · `fc3t-ZV29vo`
+- 2019-11-28 · Reunião de Diretoria Colegiada nº 1003 - 28 de novembro de 2019 · `91LMHVUJrWg`
+- 2019-11-21 · Reunião de Diretoria Colegiada nº 1002 - 21 de novembro de 2019 · `pKFBj2lhhMk`
+- 2019-11-05 · Reunião de Diretoria Colegiada nº 1000 - 05 de novembro de 2019 · `DBR340X3aeo`
+- 2019-10-31 · Reunião de Diretoria Colegiada nº 999 - 31 de outubro de 2019 · `yZ9_mdcQM0A`
+- 2019-10-24 · Reunião de Diretoria Colegiada nº 998 - 24 de outubro de 2019 · `e7hgs_0ysOk`
+- 2019-10-17 · Reunião de Diretoria Colegiada nº 997 - 17 de outubro de 2019 · `auUIG_gF1aw`
+- 2019-10-09 · Reunião de Diretoria Colegiada nº 996 - 9 de outubro de 2019 · `ocZ4QnD1Nw0`
+- 2019-09-26 · Reunião de Diretoria Colegiada nº 994 - 26 de setembro de 2019 · `L_HUQPYz_j8`
+- 2019-09-19 · Reunião de Diretoria Colegiada Nº 993 - 19 de Setembro de 2019 · `wqTBUco86A4`
+- 2019-09-12 · Reunião de Diretoria Colegiada Nº 992 - 12 de Setembro de 2019 · `T6m4Z7qIeF4`
+- 2019-09-05 · Reunião de Diretoria Colegiada nº991 - 5 de setembro de 2019 · `kFGc0GzznpM`
+- 2019-08-31 · Reunião de Diretoria Colegiada nº 990 - 29 de agosto de 2019 · `4TfbcPrkv-k`
+- 2019-08-16 · Reunião de Diretoria Colegiada nº989 - 16 de agosto de 2019 · `KRynXtRpqJQ`
+- 2019-08-06 · Reunião de Diretoria Colegiada Nº 988 - 06 de agosto de 2019 · `VVp1UP0azpM`
+- 2019-08-01 · Reunião de diretoria colegiada Nº 987 -01 de Agosto de 2019 · `UdLuPjpMYVA`
+- 2019-07-25 · Reunião de Diretoria Colegiada nº 986 - 25 de julho de 2019 · `wQIItmusoQ0`
+- 2019-07-18 · Reunião de Diretoria Colegiada nº 985 - 18 de julho de 2019 · `kqBlnCKdkt4`
+- 2019-07-04 · Reunião de Diretoria Colegiada nº 983 - 4 de julho de 2019 · `8LFAkRz2sVg`
+- 2019-06-27 · Reunião de Diretoria Colegiada nº 982 - 27 de junho de 2019 · `Hc7MLJvx_QQ`
+- 2019-06-19 · Reunião de Diretoria nº 981 - 19 de junho de 2019 · `DF0W8t18aCo`
+- 2019-06-12 · Reunião de Diretoria Colegiada nº 980 - 12 de Junho de 2019 · `zS_ACzZNrRM`
+- 2019-06-05 · Reunião de Diretoria Colegiada nº 979 - 05 de junho de 2019 · `hJttBicCCEY`
+- 2019-05-30 · Reunião de Diretoria Colegiada nº 978 - 30 de maio de 2019 · `HZF3-e3gE5o`
+- 2019-05-22 · Reunião de Diretoria Colegiada nº 977 - 22 de maio de 2019 · `MnTO8kOmUbM`
+- 2019-05-16 · Reunião de Diretoria Colegiada nº 976 - 16 de maio de 2019 · `0Emxzryzbs8`
+- 2019-05-02 · Reunião de Diretoria Colegiada  nº 975 - 2 de Maio de 2019 · `FAcHgP_ZgD8`
+- 2019-04-25 · Reunião de Diretoria Colegiada nº 974 - 25 de abril de 2019 · `Ks7tOYei1Cc`
+- 2019-04-18 · Reunião de Diretoria Colegiada nº 973 - 18 de abril de 2019 · `XglbPSf202Q`
+- 2019-04-10 · Reunião de Diretoria Colegiada nº 972 - 10  de abril de 2019 · `m9X4kIj3CJc`
+- 2019-04-04 · Reunião de Diretoria Colegiada nº 971 - 4 de abril de 2019 · `uaYr_lof3r0`
+- 2019-03-28 · Reunião de Diretoria Colegiada nº 970 - 28 de Março de 2019 · `tdUJQJmZZu0`
+- 2019-03-22 · Reunião de Diretoria Colegiada Extraordinária nº 60 - 22 de Março de 2 · `l4U7K8goE_s`
+- 2019-03-21 · Reunião de Diretoria Colegiada nº 969 - 21 de Março de 2019 · `cVRWUMnyzmo`
+- 2019-02-28 · Reunião de Diretoria Colegiada nº 968 - 28 de Fevereiro de 2019 · `lpdg-Tzac5U`
+- 2019-02-22 · Reunião de Diretoria Colegiada nº 967 - 22 de Fevereiro de 2019 · `laelPZf9XSg`
+- 2019-02-14 · Reunião de Diretoria Colegiada nº 966 - 14 de Fevereiro de 2019 · `l4oO5mpCKgk`
+- 2019-02-06 · Reunião de Diretoria Colegiada Nº 965 - 6 de fevereiro de 2019 · `FrfR81eEHYk`
 -  · Reunião de Diretoria Colegiada nº 1135 - 11 de abril de 2024 · `5swPN_oBvT8`
 -  · Reunião de Diretoria Colegiada nº 1134 - 28 de março de 2024 · `xHZCaiyRFSA`
 -  · Reunião de Diretoria Colegiada nº 1133 - 07 de março de 2024 · `NrhWfC4av8Q`
@@ -119,6 +273,5 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 -  · Reunião de Diretoria Colegiada nº 1120 - 03 de agosto de 2023 · `gpo-UVbWyXI`
 -  · Reunião de Diretoria Colegiada nº 1119 - 20 de julho de 2023 · `Hyo-Ojswyp8`
 -  · Reunião de Diretoria Colegiada nº 1118 - 22 de junho de 2023 · `YOvH8PE6agg`
--  · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 20 · `RbRfXV3entM`
 
-Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 13 (ver `data/sem_legenda.jsonl`).
