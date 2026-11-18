@@ -2,23 +2,11 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **74** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2024/workshop: 1; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **62** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
-- 2024-01-11 · workshop · Workshop sobre o SisRoc · https://www.youtube.com/watch?v=r6ytbt2uMeo · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-22 · workshop · Workshop SAG  EADs - Armazenamento Geológico e CCUS · https://www.youtube.com/watch?v=YE1if68Hi1o · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-28 · workshop · Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres (V · https://www.youtube.com/watch?v=AReDDMGOwGk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-27 · workshop · XI Workshop de Segurança Operacional e Meio Ambiente da ANP · https://www.youtube.com/watch?v=4DjA1xRF5fI · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **transcrição sem fala útil (557 caracteres; só música/ruído)**
-- 2023-05-23 · workshop · RenovaBio – Workshop sobre contrato de longo prazo regulamentado na Resolução AN · https://www.youtube.com/watch?v=jfmXmNagkqc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-26 · workshop · Workshop Regulamentação do inciso VI do Art. 7° da Nova Lei do Gás · https://www.youtube.com/watch?v=dDcIlmr0uCg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-28 · workshop · 3º Seminário Nacional de Biocombustíveis e Qualidade de Produtos - Dia 2 · https://www.youtube.com/watch?v=gKCLUfLv0Zk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-27 · workshop · 3º Seminário Nacional de Biocombustíveis e Qualidade de Produtos - Dia 1 · https://www.youtube.com/watch?v=GqfAk1HpXJ8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-21 · workshop · Workshop Acesso a Terminais Aquaviários - 6 meses da Resolução ANP 881/2022 · https://www.youtube.com/watch?v=vU6WJOge2qo · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-10 · workshop · Workshop Acesso a Infraestruturas Essenciais de Gás Natural - Dia 2 · https://www.youtube.com/watch?v=fGBjDJWWoZE · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-09 · workshop · Workshop Acesso a Infraestruturas Essenciais de Gás Natural - Dia 1 · https://www.youtube.com/watch?v=Snnz3kXfSNA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-01-25 · workshop · Workshop do Sistema de Gerenciamento de Segurança Operacional (SGSO) · https://www.youtube.com/watch?v=zrDwQtLA8do · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-11-14 · workshop · Workshop Certificação de Importadores de Biocombustíveis - Etanol de Milho Ameri · https://www.youtube.com/watch?v=uj1sZKVepkk · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-07 · workshop · Seminário Técnico do 1º Ciclo da Oferta Permanente de Partilha de Produção · https://www.youtube.com/watch?v=JyxKcO4N4i8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-04 · workshop · PD&I: A Transição Energética e o Papel das Empresas de O&G na Geração de Energia · https://www.youtube.com/watch?v=wCW_Y_xAcm4 · **ainda não baixado (rodar a coleta no Mac)**
