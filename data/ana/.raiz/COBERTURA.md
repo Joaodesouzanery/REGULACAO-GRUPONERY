@@ -12,7 +12,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 28 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
-| 2023 | diretoria | 36 | 17 | 0 |
+| 2023 | diretoria | 36 | 29 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 0 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
@@ -97,5 +97,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-08-09 · 884ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 08 de ago · `xSK_VBbPUSk`
 - 2023-08-03 · 883ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 02 de ago · `S3JJQgPFOhc`
 - 2023-07-25 · 882ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 24 de jul · `BncXMPIZJm4`
+- 2023-07-04 · 881ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 03 de jul · `PTMPzYJDM1I`
+- 2023-06-23 · 880ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de jun · `MdmHGLO-OU8`
+- 2023-06-13 · 879ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 12 de jun · `9j5TsAiPjTk`
+- 2023-06-07 · 878ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de jun · `7V_p0b4VyIc`
+- 2023-05-30 · 877ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de mai · `8UGRQvyk4yc`
+- 2023-05-23 · 876ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de mai · `Vr91b0lV2FQ`
+- 2023-05-17 · 875ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de mai · `zklnHSmBQfw`
+- 2023-05-10 · 874ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 09 de mai · `4AC69kaQkIo`
+- 2023-04-26 · 873ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de abr · `vWd34k-FvTg`
+- 2023-04-19 · 872ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de Abr · `CpHmsgHqqa8`
+- 2023-04-14 · 871ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 13 de Abr · `NPvP9_5HRww`
+- 2023-04-04 · 870ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de Abr · `sC-NIA_Ebps`
 
 Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).

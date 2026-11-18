@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **108** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/diretoria: 19; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
+Total: **96** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/diretoria: 7; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
 
 - 2026-11-17 · diretoria · 962ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de novembro de 2 · https://www.youtube.com/watch?v=U8mWRixQNF4 · **legenda desativada/inexistente no YouTube**
 - 2026-09-02 · workshop · Workshop Dam Screening Tool (USACE) - (02/09/2026). · https://www.youtube.com/watch?v=8HvGvQInCPY · **ainda não baixado (rodar a coleta no Mac)**
@@ -28,18 +28,6 @@ Total: **108** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/a
 - 2023-09-27 · audiencia · Audiência Pública nº 03/2023 sobre a norma de referência de modelos de regulação · https://www.youtube.com/watch?v=52blPElGFOg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-04 · audiencia · Audiência Pública nº 01/2023 · https://www.youtube.com/watch?v=Gs3tgRy0L24 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-07-13 · audiencia · AUDIÊNCIA PÚBLICA nº 002/2023 – ANA · https://www.youtube.com/watch?v=f8AlmxU7B90 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-07-04 · diretoria · 881ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 03 de julho de 2023 · https://www.youtube.com/watch?v=PTMPzYJDM1I · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-23 · diretoria · 880ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de junho de 2023 · https://www.youtube.com/watch?v=MdmHGLO-OU8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-13 · diretoria · 879ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 12 de junho de 2023 · https://www.youtube.com/watch?v=9j5TsAiPjTk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-07 · diretoria · 878ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de junho de 2023 · https://www.youtube.com/watch?v=7V_p0b4VyIc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-30 · diretoria · 877ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 29 de maio de 2023. · https://www.youtube.com/watch?v=8UGRQvyk4yc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-23 · diretoria · 876ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de maio de 2023. · https://www.youtube.com/watch?v=Vr91b0lV2FQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-17 · diretoria · 875ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 16 de maio de 2023. · https://www.youtube.com/watch?v=zklnHSmBQfw · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-10 · diretoria · 874ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 09 de maio de 2023. · https://www.youtube.com/watch?v=4AC69kaQkIo · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-26 · diretoria · 873ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de abril de 2023 · https://www.youtube.com/watch?v=vWd34k-FvTg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-19 · diretoria · 872ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 18 de Abril de 2023 · https://www.youtube.com/watch?v=CpHmsgHqqa8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-14 · diretoria · 871ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 13 de Abril de 2023 · https://www.youtube.com/watch?v=NPvP9_5HRww · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-04 · diretoria · 870ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de Abril de 2023 · https://www.youtube.com/watch?v=sC-NIA_Ebps · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-28 · diretoria · 869ª REUNIÃO DELIBERATIVA ORDINÁRIA DA DIRETORIA COLEGIADA - 28 DE MARÇO DE 2023 · https://www.youtube.com/watch?v=h5cSSFFFj6k · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-14 · diretoria · 868ª REUNIÃO DELIBERATIVA ORDINÁRIA DA DIRETORIA COLEGIADA - 14 DE MARÇO DE 2023 · https://www.youtube.com/watch?v=isGq1KqISeg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-07 · diretoria · 867ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 07 de Março de 2023 · https://www.youtube.com/watch?v=Pyl0x0AaQ5w · **ainda não baixado (rodar a coleta no Mac)**
