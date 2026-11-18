@@ -16,9 +16,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 24 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
-| 2021 | diretoria | 27 | 17 | 0 |
+| 2021 | diretoria | 27 | 26 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
-| 2020 | diretoria | 9 | 0 | 0 |
+| 2020 | diretoria | 9 | 3 | 0 |
 | 2017 | audiencia | 1 | 0 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
@@ -157,5 +157,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-06-28 · 825ª Reunião Deliberativa da Diretoria Colegiada - 28 de junho de 2021 · `2jOfWyCcQmU`
 - 2021-06-14 · 824ª Reunião Deliberativa da Diretoria Colegiada - 14 de junho de 2021 · `p3QYdkWfbf0`
 - 2021-06-07 · 823ª Reunião Deliberativa da Diretoria Colegiada - 07 de junho de 2021 · `-AvPSYkaVIY`
+- 2021-05-24 · 822ª Reunião Deliberativa da Diretoria Colegiada - 24 de maio de 2021 · `QxuTJuth14U`
+- 2021-05-10 · 821ª Reunião Deliberativa da Diretoria Colegiada - 10 de maio de 2021 · `AGPBLNYrWHk`
+- 2021-04-26 · 820ª Reunião Deliberativa da Diretoria Colegiada - 26 de abril de 2021 · `RQi3tFeJ3AA`
+- 2021-03-29 · 818ª Reunião Deliberativa da Diretoria Colegiada - 29 de março de 2021 · `tqUNNhJxCnA`
+- 2021-03-15 · 817ª Reunião Deliberativa da Diretoria Colegiada - 15 de março de 2021 · `ylHLugxZ7IQ`
+- 2021-03-01 · 816ª Reunião Deliberativa da Diretoria Colegiada - 01 de março de 2021 · `6je6agTy0Fo`
+- 2021-02-08 · 815ª Reunião Deliberativa da Diretoria Colegiada - 08 de fevereiro de  · `_T6lVoL2fSI`
+- 2021-02-01 · 814ª Reunião Deliberativa da Diretoria Colegiada - 01 de fevereiro de  · `ZZe6OMBAs98`
+- 2021-01-18 · 813ª Reunião Deliberativa da Diretoria Colegiada - 18 de janeiro de 20 · `ceEUEx9d-sg`
+- 2020-12-21 · 812ª Reunião Deliberativa da Diretoria Colegiada - 21 de dezembro de 2 · `iz9TzGOZNLI`
+- 2020-12-14 · 811ª Reunião Deliberativa da Diretoria Colegiada - 14 de dezembro de 2 · `PUr_ReXsNic`
+- 2020-12-07 · 810ª Reunião Deliberativa da Diretoria Colegiada - 07 de dezembro de 2 · `Ul3yQKabMCk`
 
-Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).
