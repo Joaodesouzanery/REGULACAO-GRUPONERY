@@ -2,23 +2,11 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **62** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **50** · sem /workshop: 7; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 19; 2020/workshop: 10; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
 - 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **transcrição sem fala útil (557 caracteres; só música/ruído)**
-- 2022-11-14 · workshop · Workshop Certificação de Importadores de Biocombustíveis - Etanol de Milho Ameri · https://www.youtube.com/watch?v=uj1sZKVepkk · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-10-07 · workshop · Seminário Técnico do 1º Ciclo da Oferta Permanente de Partilha de Produção · https://www.youtube.com/watch?v=JyxKcO4N4i8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-10-04 · workshop · PD&I: A Transição Energética e o Papel das Empresas de O&G na Geração de Energia · https://www.youtube.com/watch?v=wCW_Y_xAcm4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-26 · workshop · X Workshop de Segurança Operacional e Meio Ambiente (X SOMA) · https://www.youtube.com/watch?v=pT2N-FJb-2A · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-02 · workshop · Workshop Implementação da Resolução ANP nº 881 · https://www.youtube.com/watch?v=qlTrP0PadOg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-13 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=2iz3SAsVYJc · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=AwHqCQch9ws · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=WexzpV3CL_0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-28 · workshop · Seminário para aprimoramento dos instrumentos regulatórios relativos à Participa · https://www.youtube.com/watch?v=aw1YkWQbpbY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-22 · workshop · 2º Seminário Instrumentos de Divulgação de Informações sobre Exploração de Petró · https://www.youtube.com/watch?v=3bXP1Oj3wdg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-22 · workshop · Webinar Proposta de Procedimento para Cadeia de Custódia de Grãos no âmbito do R · https://www.youtube.com/watch?v=tyF4eC0CTLA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-22 · workshop · Workshop - Alteração de classe de locação de gasodutos · https://www.youtube.com/watch?v=JjnHOo6EeJY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-20 · workshop · Seminário Ambiental e Jurídico-Fiscal da Segunda Rodada dos Volumes Excedentes d · https://www.youtube.com/watch?v=O8d0ZeffZvU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-15 · workshop · Workshop Projeto Biodiesel · https://www.youtube.com/watch?v=QRCazdxAgh0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · workshop · Workshop Técnico sobre potencial petrolífero dos blocos exploratórios na Oferta  · https://www.youtube.com/watch?v=KMqEKJv_JpA · **ainda não baixado (rodar a coleta no Mac)**
