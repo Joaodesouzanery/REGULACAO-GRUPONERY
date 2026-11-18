@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **795** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/diretoria: 9; 2022/audiencia: 3; 2021/diretoria: 25; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **783** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/diretoria: 22; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
@@ -15,21 +15,9 @@ Total: **795** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2023-05-31 · audiencia · Audiência Publica nº 04/2023 · https://www.youtube.com/watch?v=Mi0_5q0qqlw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-19 · audiencia · Consulta Pública - tema "Dados da Certificação de Projeto Relevantes ao Ambiente · https://www.youtube.com/watch?v=NipQFnUd8c4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-01 · audiencia · Audiência Pública nº 08/2022 · https://www.youtube.com/watch?v=Uglhkk-9Rec · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-03 · diretoria · 8ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=Sfcx220Hf1E · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-26 · audiencia · Webinário Consulta Pública de Emenda ao RBAC 153 · https://www.youtube.com/watch?v=XFkhgq_8r3k · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-19 · diretoria · 7ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=uzF3a6TAZL0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-05 · diretoria · 6ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=rLJ5Nmya49s · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-22 · diretoria · 5ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=lmigUuCP6aI · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-08 · diretoria · 4ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=FpdGvynNi7k · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-23 · diretoria · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada  (2022) · https://www.youtube.com/watch?v=SBp3RxM79ho · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-15 · diretoria · 3ª Reunião Deliberativa da Diretoria Colegiada  (2022) · https://www.youtube.com/watch?v=5jd0syt0yhw · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-02-03 · audiencia · Consulta Pública nº 02/2022 · https://www.youtube.com/watch?v=LEjTTwwOf-Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-01 · diretoria · 2ª Reunião Deliberativa da Diretoria Colegiada (2022) · https://www.youtube.com/watch?v=korAYdU0hoE · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-18 · diretoria · 1ª Reunião Deliberativa da Diretoria Colegiada  (2022) · https://www.youtube.com/watch?v=JS4QprjCmRE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-29 · diretoria · 4ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=_vCVHlPJyJU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-21 · diretoria · 3ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=U_L6wmjtLNM · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-12-16 · audiencia · Audiência Pública n⁰ 19/2021 · https://www.youtube.com/watch?v=Wc8fSx6RoZg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-14 · diretoria · 23ª Reunião Deliberativa da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=D0lwTchFOZ4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-30 · diretoria · 22ª Reunião Deliberativa da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=fYABIlF0qsQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-16 · diretoria · 21ª Reunião Deliberativa da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=oUr6lxUvK5w · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-03 · diretoria · 20ª Reunião Deliberativa da Diretoria Colegiada (2021) · https://www.youtube.com/watch?v=TwP9WYffO1s · **ainda não baixado (rodar a coleta no Mac)**
