@@ -16,7 +16,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 24 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
-| 2021 | diretoria | 27 | 5 | 0 |
+| 2021 | diretoria | 27 | 17 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
 | 2020 | diretoria | 9 | 0 | 0 |
 | 2017 | audiencia | 1 | 0 | 0 |
@@ -145,5 +145,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-11-29 · 837ª Reunião Deliberativa da Diretoria Colegiada - 29 de novembro de 2 · `994v57UQKA4`
 - 2021-11-23 · 836ª Reunião Deliberativa da Diretoria Colegiada - 23 de novembro de 2 · `5h7JhP_En90`
 - 2021-11-16 · 835ª Reunião Deliberativa da Diretoria Colegiada - 16 de novembro de 2 · `c3_2HOAloOM`
+- 2021-11-03 · 834ª Reunião Deliberativa da Diretoria Colegiada - 03 de novembro de 2 · `iZQvY1Qw3fY`
+- 2021-10-13 · 833ª Reunião Deliberativa da Diretoria Colegiada - 13 de outubro de 20 · `haCPtNVUF6w`
+- 2021-09-27 · 832ª Reunião Deliberativa da Diretoria Colegiada - 27 de setembro de 2 · `31QMGIwfxXc`
+- 2021-09-13 · 831ª Reunião Deliberativa da Diretoria Colegiada - 13 de setembro de 2 · `vtQlwCOpt3Q`
+- 2021-08-31 · 830ª Reunião Deliberativa da Diretoria Colegiada - 31 de agosto de 202 · `_xSkE3AqHkU`
+- 2021-08-23 · 829ª Reunião Deliberativa da Diretoria Colegiada - 23 de agosto de 202 · `VEQ8-MTU5Bs`
+- 2021-08-09 · 828ª Reunião Deliberativa da Diretoria Colegiada - 09 de agosto de 202 · `HC9RUIrALEE`
+- 2021-07-26 · 827ª Reunião Deliberativa da Diretoria Colegiada - 26 de julho de 2021 · `f2kv3vK0WZk`
+- 2021-07-05 · 826ª Reunião Deliberativa da Diretoria Colegiada - 05 de julho de 2021 · `rTlgcJRbnso`
+- 2021-06-28 · 825ª Reunião Deliberativa da Diretoria Colegiada - 28 de junho de 2021 · `2jOfWyCcQmU`
+- 2021-06-14 · 824ª Reunião Deliberativa da Diretoria Colegiada - 14 de junho de 2021 · `p3QYdkWfbf0`
+- 2021-06-07 · 823ª Reunião Deliberativa da Diretoria Colegiada - 07 de junho de 2021 · `-AvPSYkaVIY`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
