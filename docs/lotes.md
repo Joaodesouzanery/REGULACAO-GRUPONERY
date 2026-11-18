@@ -20,3 +20,5 @@ Script do workflow: `docs/lotes/analise-lote-aneel.js`. Fila completa de 16/11: 
 
 - 18/11/2026 · ANAC: usuário achou a playlist oficial "Reuniões da Diretoria Colegiada" (850 vídeos) no canal @OficialANAC — nossa coleta só tinha 11. Passar o comando `coletar_tudo_e_enviar.sh anac @OficialANAC --total` no Mac para recoletar com playlists. NÃO lançar análise até combinar o tamanho real pós-coleta. ANA (163 vs 158) está ok, diferença normal.
 - 18/11/2026 · ARTESP: usuário pediu para abrir como agência nova (contato com Metrô-SP). Pesquisa do canal/diretoria/mandatos em andamento (agente a9f6143682d51a24e).
+
+- 18/11/2026 · ARTESP: pesquisa achou que a diretoria delibera por "Deliberação" publicada no DOE-SP, com processo em SEI — NENHUM canal oficial do YouTube nem evidência de reunião gravada em vídeo foi localizado. Rascunho de mandatos em data/artesp/mandatos.json (incompleto, bloqueio de rede). SEM a gravação em vídeo, o método do projeto (trecho literal + link no minuto) não se aplica à ARTESP como está — avaliar com o usuário antes de seguir.
