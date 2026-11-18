@@ -2,22 +2,10 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **687** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 1; 2020/audiencia: 1; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **675** · sem /diretoria: 11; 2025/workshop: 1; 2024/workshop: 1; 2021/audiencia: 3; 2020/diretoria: 1; 2020/audiencia: 1; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-29 · audiencia · Audiência Pública nº 08/2024 · https://www.youtube.com/watch?v=QDhZZ3XJsR8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-14 · workshop · Webinário sobre Sandbox Regulatório e Edital de Vertiportos · https://www.youtube.com/watch?v=nxqLJX0YUlw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-03 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=EJ8QWS1ZpYI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-24 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=Ddzc5nBJWJs · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-15 · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=IyKUVm611rg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-11 · audiencia · Webinário de divulgação da Consulta Pública sobre Categorias de Registro de Aero · https://www.youtube.com/watch?v=y26Pd4FMY70 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-31 · audiencia · Audiência Publica nº 04/2023 · https://www.youtube.com/watch?v=Mi0_5q0qqlw · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-19 · audiencia · Consulta Pública - tema "Dados da Certificação de Projeto Relevantes ao Ambiente · https://www.youtube.com/watch?v=NipQFnUd8c4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-07-01 · audiencia · Audiência Pública nº 08/2022 · https://www.youtube.com/watch?v=Uglhkk-9Rec · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-26 · audiencia · Webinário Consulta Pública de Emenda ao RBAC 153 · https://www.youtube.com/watch?v=XFkhgq_8r3k · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-03 · audiencia · Consulta Pública nº 02/2022 · https://www.youtube.com/watch?v=LEjTTwwOf-Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-16 · audiencia · Audiência Pública n⁰ 19/2021 · https://www.youtube.com/watch?v=Wc8fSx6RoZg · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-27 · audiencia · Audiência Pública nº 13/2021 · https://www.youtube.com/watch?v=i-t6LIHcHXA · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-13 · audiencia · Audiência Pública n⁰ 12/2021 · https://www.youtube.com/watch?v=fb-b4Z5imnU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-12 · audiencia · Audiência Pública n⁰ 02/2021 · https://www.youtube.com/watch?v=n3fQEMEmT8g · **ainda não baixado (rodar a coleta no Mac)**
@@ -680,14 +668,14 @@ Total: **687** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2015-09-29 · diretoria · 09ª Reunião Deliberativa da Diretoria - 29/09/2015 · https://www.youtube.com/watch?v=yxxK9O3cxNM · **ainda não baixado (rodar a coleta no Mac)**
 - 2015-09-29 · diretoria · 09ª Reunião Deliberativa da Diretoria - 29/09/2015 · https://www.youtube.com/watch?v=ZBlALsVEyig · **ainda não baixado (rodar a coleta no Mac)**
 - 2015-09-29 · diretoria · 09ª Reunião Deliberativa da Diretoria - 29/09/2015 · https://www.youtube.com/watch?v=n07hmLATFcM · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=K05LQPRLH24 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=m4DDF4M6iME · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=WaAgrpNU2wA · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=5ghj0zr0efY · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=SKqu4KTsJmg · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=qCL7sPhVpOI · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=YHff_fOGZrk · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=AutHiM7IQZE · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=wGEDXJRtshc · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=cMjmlYfsb6c · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=fWmfrHYL68E · **ainda não baixado (rodar a coleta no Mac)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=K05LQPRLH24 · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=m4DDF4M6iME · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=WaAgrpNU2wA · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=5ghj0zr0efY · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=SKqu4KTsJmg · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=qCL7sPhVpOI · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=YHff_fOGZrk · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=AutHiM7IQZE · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=wGEDXJRtshc · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=cMjmlYfsb6c · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=fWmfrHYL68E · **privado**

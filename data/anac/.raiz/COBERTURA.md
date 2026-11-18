@@ -9,17 +9,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | audiencia | 2 | 2 | 0 |
 | 2025 | workshop | 2 | 1 | 0 |
 | 2025 | diretoria | 15 | 15 | 0 |
-| 2025 | audiencia | 2 | 1 | 0 |
+| 2025 | audiencia | 2 | 2 | 0 |
 | 2024 | workshop | 1 | 0 | 0 |
 | 2024 | diretoria | 22 | 22 | 0 |
-| 2024 | audiencia | 4 | 0 | 0 |
+| 2024 | audiencia | 4 | 4 | 0 |
 | 2023 | workshop | 1 | 1 | 0 |
 | 2023 | diretoria | 21 | 21 | 0 |
-| 2023 | audiencia | 3 | 0 | 0 |
+| 2023 | audiencia | 3 | 3 | 0 |
 | 2022 | diretoria | 25 | 25 | 0 |
-| 2022 | audiencia | 3 | 0 | 0 |
+| 2022 | audiencia | 3 | 3 | 0 |
 | 2021 | diretoria | 27 | 27 | 0 |
-| 2021 | audiencia | 4 | 0 | 0 |
+| 2021 | audiencia | 4 | 1 | 0 |
 | 2020 | diretoria | 30 | 29 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
 | 2019 | diretoria | 21 | 21 | 0 |
@@ -222,4 +222,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-01-23 · 2º Reunião Deliberativa da Diretoria - 2018 · `Q4ltwLL-NDs`
 - 2018-01-09 · 1º Reunião Deliberativa da Diretoria - 2018 · `864QAPH6QK0`
 
-Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 12 (ver `data/sem_legenda.jsonl`).
