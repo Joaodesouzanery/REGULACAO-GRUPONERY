@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **146** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2021/audiencia: 8; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **134** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2020/workshop: 10; 2020/audiencia: 14; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -81,25 +81,13 @@ Total: **146** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2021-04-27 · workshop · Seminário Nacional de Biocombustíveis e Qualidade de Produtos - 27/04 · https://www.youtube.com/watch?v=ldq0xRJoMi4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-07 · workshop · Workshop - Cessão de contratos · https://www.youtube.com/watch?v=bztZa7EpQEE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-06 · workshop · Seminário de Avaliação do Mercado de Combustíveis 2021 · https://www.youtube.com/watch?v=Rogr4KB755U · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-31 · audiencia · Audiência Pública nº 01/2021 – dia 31 de março de 2021 · https://www.youtube.com/watch?v=z6XNWJrL2ys · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-26 · audiencia · Audiência Pública nº 02/2021 – dia 26 de março de 2021 · https://www.youtube.com/watch?v=QyfYbDy7niA · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-19 · workshop · Workshop Fiscalização e o Direito do Consumidor no Mercado de Combustíveis · https://www.youtube.com/watch?v=7LoPnbuPSc4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-03 · audiencia · Audiência Pública ANP n° 19/2020 – dia 03 de março de 2021 · https://www.youtube.com/watch?v=vA8t_pPx-wU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-23 · workshop · Workshop sobre a Revisão da Resolução Conjunta ANP/Inmetro n° 1/2013 · https://www.youtube.com/watch?v=pLueKv6Ee3A · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-12 · audiencia · Audiência Pública ANP n° 22/2020 – dia 12 de fevereiro de 2021 · https://www.youtube.com/watch?v=AKox7ZWFoQE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-10 · workshop · 2º Workshop sobre o Modelo Conceitual do Mercado de Gás · https://www.youtube.com/watch?v=ZLd9IHeqnTw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-03 · audiencia · Audiência Pública ANP n° 20/2020 – dia 03 de fevereiro de 2021 · https://www.youtube.com/watch?v=lAlH31P9_oA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-26 · audiencia · Audiência Pública ANP n° 18/2020 – dia 26 de janeiro de 2021 · https://www.youtube.com/watch?v=X6261_m08n4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-19 · audiencia · Audiência Pública ANP n° 26/2019 – dia 19 de janeiro de 2021 · https://www.youtube.com/watch?v=z_nuAfHNsEg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-19 · audiencia · Audiência Pública ANP n° 26/2019 – dia 19 de janeiro de 2021 · https://www.youtube.com/watch?v=qSrrneNOsak · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-11 · workshop · 1º Workshop sobre o Modelo Conceitual do Mercado de Gás · https://www.youtube.com/watch?v=B9KS5KI1-Ew · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-21 · workshop · Workshop sobre redução de royalties para empresas de pequeno e médio portes · https://www.youtube.com/watch?v=G5Dxfn2R4Mc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-21 · audiencia · Audiência Pública ANP n° 21/2020 – dia 21 de dezembro de 2020 · https://www.youtube.com/watch?v=EzgD2L4yjvo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-15 · audiencia · Audiência Pública ANP n° 16/2020 – dia 15 de dezembro de 2020 · https://www.youtube.com/watch?v=UJ_yeCO7Ano · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=suYR31wiJY4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-14 · workshop · Workshop sobre a Revisão da Resolução ANP nº 37/2015 · https://www.youtube.com/watch?v=3l-ufU0x910 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-07 · audiencia · Audiência Pública ANP n° 13/2020 – dia 07 de dezembro de 2020 · https://www.youtube.com/watch?v=tgCRS6nFsLU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-01 · audiencia · Audiência Pública ANP n° 11/2020 – dia 1° de dezembro de 2020 · https://www.youtube.com/watch?v=9q-IXNnEFuA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-27 · workshop · Workshop sobre a Revisão da Resolução ANP nº 41/2007 · https://www.youtube.com/watch?v=FzX1fGxi_yA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-27 · audiencia · Audiência Pública ANP n° 10/2020 – dia 27 de novembro de 2020 · https://www.youtube.com/watch?v=cKv7wAA58_4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-25 · workshop · V Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres  · https://www.youtube.com/watch?v=cKp0x6g0Yiw · **ainda não baixado (rodar a coleta no Mac)**
