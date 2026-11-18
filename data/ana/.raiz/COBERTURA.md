@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-17)
+# Cobertura da base (atualizado em 2026-11-18)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
@@ -12,7 +12,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 28 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
-| 2023 | diretoria | 36 | 5 | 0 |
+| 2023 | diretoria | 36 | 17 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 0 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
@@ -85,5 +85,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-12-06 · 895ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 05 de dez · `nqg6cC4NIqM`
 - 2023-11-28 · 894ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 28 de nov · `bWfLs0xanbA`
 - 2023-11-23 · 893ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 22 de nov · `CfkMT07UGZY`
+- 2023-11-15 · 892ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 14 de nov · `Na3QPurKplY`
+- 2023-11-07 · 891ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 06 de nov · `0q4q7xLgzFk`
+- 2023-10-09 · 26ª Reunião Extraordinária da Diretoria Colegiada · `1H0EaKddxb0`
+- 2023-09-26 · 890ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de set · `umLW4RvfCGw`
+- 2023-09-12 · 889ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 11 de set · `fqTSJTrOiVw`
+- 2023-09-05 · 888ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 04 de set · `rOoYRJZDxzM`
+- 2023-08-29 · 887ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 28 de ago · `06ggYgXMhis`
+- 2023-08-22 · 886ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 21 de ago · `JjvtubsQaBk`
+- 2023-08-15 · 885ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 14 de ago · `YLvZfO_MwVo`
+- 2023-08-09 · 884ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 08 de ago · `xSK_VBbPUSk`
+- 2023-08-03 · 883ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 02 de ago · `S3JJQgPFOhc`
+- 2023-07-25 · 882ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 24 de jul · `BncXMPIZJm4`
 
-Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
