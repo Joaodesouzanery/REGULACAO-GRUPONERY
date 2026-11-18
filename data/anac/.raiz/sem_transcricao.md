@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **699** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 1; 2020/audiencia: 1; 2018/diretoria: 12; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **687** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/audiencia: 3; 2022/audiencia: 3; 2021/audiencia: 4; 2020/diretoria: 1; 2020/audiencia: 1; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
@@ -23,18 +23,6 @@ Total: **699** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2021-04-12 · audiencia · Audiência Pública n⁰ 02/2021 · https://www.youtube.com/watch?v=n3fQEMEmT8g · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-31 · audiencia · Webinário Consulta Pública - Emenda ao RBAC 145 · https://www.youtube.com/watch?v=8S0FRLWLTuY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-22 · diretoria · 1º Reunião Deliberativa da Diretoria (2020) · https://www.youtube.com/watch?v=GlAm0s6DKv4 · **legenda desativada/inexistente no YouTube**
-- 2018-05-28 · diretoria · 11ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=py4Aw4gtt8c · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · diretoria · 10ª Reunião Deliberativa da Diretoria - 2018 (Parte 02) · https://www.youtube.com/watch?v=3Ze9Hl-YweE · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · diretoria · 10ª Reunião Deliberativa da Diretoria - 2018 (Parte 01) · https://www.youtube.com/watch?v=YJcrTrOLxyk · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-02 · diretoria · 9ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=MumtxOXLsgI · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-04-17 · diretoria · 8ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=V2rZApcfxsg · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-04-03 · diretoria · 7ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=2AzhcC-MB_8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-03-20 · diretoria · 6ª Reunião Deliberativa da Diretoria 2018 · https://www.youtube.com/watch?v=tTrmcQ5LwCA · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-03-06 · diretoria · 5º Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=py9v4tt2O0E · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-02-20 · diretoria · 4º Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=KGHEZdjHNQo · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-02-06 · diretoria · 3ª Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=Fvs1CgbDqHs · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-01-23 · diretoria · 2º Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=Q4ltwLL-NDs · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-01-09 · diretoria · 1º Reunião Deliberativa da Diretoria - 2018 · https://www.youtube.com/watch?v=864QAPH6QK0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-12-19 · diretoria · 1ª Reunião Extraordinário Deliberativa da Diretoria · https://www.youtube.com/watch?v=JiGCVCCYdaQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-12-12 · diretoria · 24ª Reunião Deliberativa da Diretoria - 2017 · https://www.youtube.com/watch?v=75ov0DAIr2g · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-11-28 · diretoria · 21ª Reunião Deliberativa da Diretoria - 2017 · https://www.youtube.com/watch?v=bEpB58btf3s · **ainda não baixado (rodar a coleta no Mac)**
