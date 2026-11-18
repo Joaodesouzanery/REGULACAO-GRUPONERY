@@ -5,19 +5,19 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | diretoria | 1 | 0 | 0 |
-| 2026 | workshop | 1 | 0 | 0 |
+| 2026 | workshop | 1 | 1 | 0 |
 | 2026 | diretoria | 6 | 5 | 0 |
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 4 | 4 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 28 | 0 |
-| 2024 | audiencia | 4 | 2 | 0 |
+| 2024 | audiencia | 4 | 4 | 0 |
 | 2023 | diretoria | 36 | 36 | 0 |
-| 2023 | audiencia | 7 | 0 | 0 |
+| 2023 | audiencia | 7 | 7 | 0 |
 | 2022 | diretoria | 25 | 24 | 0 |
-| 2022 | audiencia | 1 | 0 | 0 |
+| 2022 | audiencia | 1 | 1 | 0 |
 | 2021 | diretoria | 27 | 26 | 0 |
-| 2021 | audiencia | 1 | 0 | 0 |
+| 2021 | audiencia | 1 | 1 | 0 |
 | 2020 | diretoria | 9 | 9 | 0 |
 | 2017 | audiencia | 1 | 0 | 0 |
 
