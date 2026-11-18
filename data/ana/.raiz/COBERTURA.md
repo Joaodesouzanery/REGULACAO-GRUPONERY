@@ -14,9 +14,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | diretoria | 36 | 36 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
-| 2022 | diretoria | 25 | 17 | 0 |
+| 2022 | diretoria | 25 | 24 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
-| 2021 | diretoria | 27 | 0 | 0 |
+| 2021 | diretoria | 27 | 5 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
 | 2020 | diretoria | 9 | 0 | 0 |
 | 2017 | audiencia | 1 | 0 | 0 |
@@ -133,5 +133,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-07-05 · 802ª Reunião Deliberativa da Diretoria Colegiada - 14 de setembro de 2 · `S8NeYgPP3ys`
 - 2022-06-28 · 849ª Reunião Deliberativa da Diretoria Colegiada - 28 de Junho de 2022 · `Zf95_Wa6rI0`
 - 2022-06-14 · 848ª Reunião Deliberativa da Diretoria Colegiada - 14 de Junho de 2022 · `J5ZlhEPxtgY`
+- 2022-06-07 · 847ª Reunião Deliberativa da Diretoria Colegiada - 07 de Junho de 2022 · `KJtLB7jCAmw`
+- 2022-05-17 · 846ª Reunião Deliberativa da Diretoria Colegiada - 17 de Maio de 2022. · `dRRy2kE62lg`
+- 2022-05-03 · 845ª Reunião Deliberativa da Diretoria Colegiada · `QMVelwsj7Pc`
+- 2022-04-12 · 844ª Reunião Deliberativa da Diretoria Colegiada - 12 de Abril de 2022 · `TCFoT7KO-2w`
+- 2022-03-15 · 843ª Reunião Deliberativa da Diretoria Colegiada - 15 de Março de 2022 · `gK46loJFseI`
+- 2022-02-15 · 842ª Reunião Deliberativa da Diretoria Colegiada - 15 de fevereiro de  · `w7GN69fURLA`
+- 2022-02-08 · 841ª Reunião Deliberativa da Diretoria Colegiada - 08 de fevereiro de  · `PLTkvwZkw1M`
+- 2021-12-15 · 839ª Reunião Deliberativa da Diretoria Colegiada - 15 de dezembro de 2 · `1YV0Fk6u_pI`
+- 2021-12-07 · 838ª Reunião Deliberativa da Diretoria Colegiada - 07 de dezembro de 2 · `U5Ut_f4PfoY`
+- 2021-11-29 · 837ª Reunião Deliberativa da Diretoria Colegiada - 29 de novembro de 2 · `994v57UQKA4`
+- 2021-11-23 · 836ª Reunião Deliberativa da Diretoria Colegiada - 23 de novembro de 2 · `5h7JhP_En90`
+- 2021-11-16 · 835ª Reunião Deliberativa da Diretoria Colegiada - 16 de novembro de 2 · `c3_2HOAloOM`
 
-Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **72** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/audiencia: 7; 2022/diretoria: 8; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
+Total: **60** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/audiencia: 7; 2022/diretoria: 1; 2022/audiencia: 1; 2021/diretoria: 22; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
 
 - 2026-11-17 · diretoria · 962ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de novembro de 2 · https://www.youtube.com/watch?v=U8mWRixQNF4 · **legenda desativada/inexistente no YouTube**
 - 2026-09-02 · workshop · Workshop Dam Screening Tool (USACE) - (02/09/2026). · https://www.youtube.com/watch?v=8HvGvQInCPY · **ainda não baixado (rodar a coleta no Mac)**
@@ -29,19 +29,7 @@ Total: **72** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/au
 - 2023-08-04 · audiencia · Audiência Pública nº 01/2023 · https://www.youtube.com/watch?v=Gs3tgRy0L24 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-07-13 · audiencia · AUDIÊNCIA PÚBLICA nº 002/2023 – ANA · https://www.youtube.com/watch?v=f8AlmxU7B90 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-12-12 · audiencia · Audiência pública sobre indenizações de investimentos na prestação de serviços d · https://www.youtube.com/watch?v=eqZuRi2E0V0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-07 · diretoria · 847ª Reunião Deliberativa da Diretoria Colegiada - 07 de Junho de 2022. · https://www.youtube.com/watch?v=KJtLB7jCAmw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-17 · diretoria · 846ª Reunião Deliberativa da Diretoria Colegiada - 17 de Maio de 2022. · https://www.youtube.com/watch?v=dRRy2kE62lg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-03 · diretoria · 845ª Reunião Deliberativa da Diretoria Colegiada · https://www.youtube.com/watch?v=QMVelwsj7Pc · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-12 · diretoria · 844ª Reunião Deliberativa da Diretoria Colegiada - 12 de Abril de 2022. · https://www.youtube.com/watch?v=TCFoT7KO-2w · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-15 · diretoria · 843ª Reunião Deliberativa da Diretoria Colegiada - 15 de Março de 2022 · https://www.youtube.com/watch?v=gK46loJFseI · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-15 · diretoria · 842ª Reunião Deliberativa da Diretoria Colegiada - 15 de fevereiro de 2022. · https://www.youtube.com/watch?v=w7GN69fURLA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-08 · diretoria · 841ª Reunião Deliberativa da Diretoria Colegiada - 08 de fevereiro de 2022 · https://www.youtube.com/watch?v=PLTkvwZkw1M · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-10 · diretoria · 840ª Reunião Deliberativa da Diretoria Colegiada - 10 de janeiro de 2022 · https://www.youtube.com/watch?v=Rm0oxZYQvuM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-15 · diretoria · 839ª Reunião Deliberativa da Diretoria Colegiada - 15 de dezembro de 2021 · https://www.youtube.com/watch?v=1YV0Fk6u_pI · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-07 · diretoria · 838ª Reunião Deliberativa da Diretoria Colegiada - 07 de dezembro de 2021 · https://www.youtube.com/watch?v=U5Ut_f4PfoY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-29 · diretoria · 837ª Reunião Deliberativa da Diretoria Colegiada - 29 de novembro de 2021 · https://www.youtube.com/watch?v=994v57UQKA4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-23 · diretoria · 836ª Reunião Deliberativa da Diretoria Colegiada - 23 de novembro de 2021 · https://www.youtube.com/watch?v=5h7JhP_En90 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-16 · diretoria · 835ª Reunião Deliberativa da Diretoria Colegiada - 16 de novembro de 2021 · https://www.youtube.com/watch?v=c3_2HOAloOM · **ainda não baixado (rodar a coleta no Mac)**
+- 2022-01-10 · diretoria · 840ª Reunião Deliberativa da Diretoria Colegiada - 10 de janeiro de 2022 · https://www.youtube.com/watch?v=Rm0oxZYQvuM · **legenda desativada/inexistente no YouTube**
 - 2021-11-03 · diretoria · 834ª Reunião Deliberativa da Diretoria Colegiada - 03 de novembro de 2021 · https://www.youtube.com/watch?v=iZQvY1Qw3fY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-13 · diretoria · 833ª Reunião Deliberativa da Diretoria Colegiada - 13 de outubro de 2021 · https://www.youtube.com/watch?v=haCPtNVUF6w · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-27 · diretoria · 832ª Reunião Deliberativa da Diretoria Colegiada - 27 de setembro de 2021 · https://www.youtube.com/watch?v=31QMGIwfxXc · **ainda não baixado (rodar a coleta no Mac)**
