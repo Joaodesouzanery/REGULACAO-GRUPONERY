@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **831** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/diretoria: 20; 2023/audiencia: 3; 2022/diretoria: 25; 2022/audiencia: 3; 2021/diretoria: 25; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **819** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/audiencia: 4; 2023/diretoria: 8; 2023/audiencia: 3; 2022/diretoria: 25; 2022/audiencia: 3; 2021/diretoria: 25; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
@@ -11,19 +11,7 @@ Total: **831** · sem /diretoria: 11; 2025/workshop: 1; 2025/audiencia: 1; 2024/
 - 2024-05-03 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=EJ8QWS1ZpYI · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-24 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=Ddzc5nBJWJs · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-03-15 · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=IyKUVm611rg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-06 · diretoria · 19ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=SlAItFy7t-8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-22 · diretoria · 18ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=JBhTPoAZzOY · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-15 · diretoria · 17ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=LCSXr8qpATg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-11 · audiencia · Webinário de divulgação da Consulta Pública sobre Categorias de Registro de Aero · https://www.youtube.com/watch?v=y26Pd4FMY70 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-18 · diretoria · 16ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=0A2CVg9RYjU · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-27 · diretoria · 15ª Reunião Deliberativa da Diretoria Colegiada da ANAC · https://www.youtube.com/watch?v=IaOPJfVGM8k · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-13 · diretoria · 14ª Reunião Deliberativa da Diretoria Colegiada da ANAC(2023) · https://www.youtube.com/watch?v=x_-uZwqedEk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-30 · diretoria · 13ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=h5Q6xPW2HCg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-16 · diretoria · 12ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=MfjRGDgRdt4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-02 · diretoria · 11ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=YiDVZ8KUqZU · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-07-05 · diretoria · 10ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=EyAKEJHInG0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-30 · diretoria · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada da ANAC · https://www.youtube.com/watch?v=Fny9gNoU3Mw · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-08 · diretoria · 9ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=YyhMuOAQoI4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-31 · audiencia · Audiência Publica nº 04/2023 · https://www.youtube.com/watch?v=Mi0_5q0qqlw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-10 · diretoria · 8ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=U_SlJzvhYh8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · diretoria · 7ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · https://www.youtube.com/watch?v=AV1z3Ukq98A · **ainda não baixado (rodar a coleta no Mac)**
