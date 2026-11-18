@@ -42,7 +42,8 @@ def temas_de(it):
 def categoria(v, relator):
     s = (v.get("voto") or "").lower()
     if "não captado" in s: return "nao_captado"
-    if "pede vista" in s or s.strip() == "pede vista": return "vista"
+    if ("pede vista" in s or s.strip() == "pede vista" or "concede vista" in s) and "voto-vista" not in s: return "vista"
+    if re.search(r"não votou|nao votou|sem voto", s) and "voto-vista" not in s: return "nao_votou"
     if "vencido" in s: return "vencido"
     if "voto-vista" in s or "revisor" in s:
         return "revisor_diverge" if "diverg" in s else "revisor_acompanha"

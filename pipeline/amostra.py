@@ -14,7 +14,7 @@ RODADAS["aneel_2024_2026"] = dict(anos="2024 2025 2026", reun=5, seed=20261117, 
 RODADAS["aneel_2018_2023"] = dict(anos="2018 2019 2020 2021 2022 2023", reun=2, seed=20261118, dir="data/qualidade/aneel_2018_2023", rel="conferencia_aneel_2018_2023")
 RD = sys.argv[2] if len(sys.argv) > 2 else "2019_2024"; CFG = RODADAS[RD]; D = CFG["dir"]; os.makedirs(D + "/respostas", exist_ok=True)
 random.seed(CFG["seed"])
-CAT = lambda s: ("relator" if re.match(r"\s*(voto[- ])?relator|\s*relatora|\s*relator[, ]", s or "", re.I) else ("diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha") if re.search(r"voto[- ]vista", s or "", re.I) else "vista" if re.search(r"vista", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")
+CAT = lambda s: ("relator" if re.match(r"\s*(voto[- ])?relator|\s*relatora|\s*relator[, ]", s or "", re.I) else "nao_votou" if re.search(r"n[ãa]o vot[ao]u|sem voto|ainda n[ãa]o vot|aguarda o voto", s or "", re.I) and not re.search(r"voto[- ]vista", s or "", re.I) else ("diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha") if re.search(r"voto[- ]vista", s or "", re.I) else "vista" if re.search(r"\bpede vista\b|\bpedido de vista\b|\bconcede vista\b", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")
 def sortear():
     EXC = {c["video_id"] for c in json.load(open(CFG["excluir"]))} if CFG.get("excluir") else set()
     por_ano = collections.defaultdict(list)

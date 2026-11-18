@@ -39,10 +39,10 @@ ano,video_id,item,campo,original,conferencia
 2026,x2ywLplRyDk,2,relator,Agnes Costa,Agnes Costa
 2026,x2ywLplRyDk,2,resultado,vista,vista
 2026,x2ywLplRyDk,2,voto:Agnes Costa,relator,relator
-2026,x2ywLplRyDk,2,voto:Ludimila Lima da Silva,outro,nao_localizado
-2026,x2ywLplRyDk,2,voto:Willamy Frota,outro,nao_localizado
+2026,x2ywLplRyDk,2,voto:Ludimila Lima da Silva,nao_votou,nao_localizado
+2026,x2ywLplRyDk,2,voto:Willamy Frota,nao_votou,nao_localizado
 2026,x2ywLplRyDk,2,voto:Gentil Nogueira,vista,vista
-2026,x2ywLplRyDk,2,voto:Sandoval Feitosa,vista,nao_localizado
+2026,x2ywLplRyDk,2,voto:Sandoval Feitosa,nao_votou,nao_localizado
 2026,x2ywLplRyDk,21,relator,Gentil Nogueira,Gentil Nogueira
 2026,x2ywLplRyDk,21,resultado,unanim,unanim
 2026,x2ywLplRyDk,21,voto:Gentil Nogueira,relator,relator
@@ -103,8 +103,8 @@ ano,video_id,item,campo,original,conferencia
 2025,B29pPIWdmE8,7,resultado,vista,vista
 2025,B29pPIWdmE8,7,voto:Agnes da Costa,relator,relator
 2025,B29pPIWdmE8,7,voto:Gentil Nogueira,vista,vista
-2025,B29pPIWdmE8,7,voto:Fernando Mosna,vista,outro
-2025,B29pPIWdmE8,7,voto:Sandoval Feitosa,vista,outro
+2025,B29pPIWdmE8,7,voto:Fernando Mosna,outro,outro
+2025,B29pPIWdmE8,7,voto:Sandoval Feitosa,nao_votou,outro
 2025,B29pPIWdmE8,1,relator,Willamy Frota,Willamy Frota
 2025,B29pPIWdmE8,1,resultado,unanim,unanim
 2025,B29pPIWdmE8,1,voto:Gentil Nogueira,relator,acompanha
@@ -133,7 +133,7 @@ ano,video_id,item,campo,original,conferencia
 2025,8DYJpmqe0_Y,3,resultado,vista,vista
 2025,8DYJpmqe0_Y,3,voto:Agnes da Costa,relator,relator
 2025,8DYJpmqe0_Y,3,voto:Gentil Nogueira,vista,vista
-2025,8DYJpmqe0_Y,3,voto:Willamy Frota,vista,nao_localizado
+2025,8DYJpmqe0_Y,3,voto:Willamy Frota,outro,nao_localizado
 2025,8DYJpmqe0_Y,3,voto:Sandoval Feitosa,vista,nao_localizado
 2025,N_wVKeeerXQ,ata 2º circuito,relator,Agnes da Costa,Agnes da Costa
 2025,N_wVKeeerXQ,ata 2º circuito,resultado,unanim,unanim
@@ -178,7 +178,7 @@ ano,video_id,item,campo,original,conferencia
 2026,3zfdHaNlbfc,6,resultado,vista,vista
 2026,3zfdHaNlbfc,6,voto:Gentil Nogueira,relator,relator
 2026,3zfdHaNlbfc,6,voto:Willamy Frota,acompanha,nao_localizado
-2026,3zfdHaNlbfc,6,voto:Agnes da Costa,vista,vista
+2026,3zfdHaNlbfc,6,voto:Agnes da Costa,nao_votou,vista
 2026,3zfdHaNlbfc,6,voto:Fernando Mosna,vista,nao_localizado
 2026,3zfdHaNlbfc,6,voto:Sandoval Feitosa,outro,nao_localizado
 2026,3zfdHaNlbfc,3,relator,Fernando Mosna,Fernando Mosna

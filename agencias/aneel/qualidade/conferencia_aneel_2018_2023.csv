@@ -13,7 +13,7 @@ ano,video_id,item,campo,original,conferencia
 2018,eL8PPNzpJEY,bloco,voto:Efrain Cruz,acompanha,acompanha
 2018,eL8PPNzpJEY,4,relator,André Pepitone,André Pepitone
 2018,eL8PPNzpJEY,4,resultado,vista,unanim
-2018,eL8PPNzpJEY,4,voto:André Pepitone,vista,relator
+2018,eL8PPNzpJEY,4,voto:André Pepitone,outro,relator
 2018,eL8PPNzpJEY,4,voto:Efrain Cruz,outro,acompanha
 2018,eL8PPNzpJEY,4,voto:Sandoval Feitosa,outro,acompanha
 2018,eL8PPNzpJEY,4,voto:Rodrigo Limp,outro,acompanha
@@ -93,7 +93,7 @@ ano,video_id,item,campo,original,conferencia
 2022,O7Nt2tIGZ2o,7,resultado,maioria,maioria
 2022,O7Nt2tIGZ2o,7,voto:Hélvio Guerra,acompanha,relator
 2022,O7Nt2tIGZ2o,7,voto:Elisa Bastos,diverge,vencido
-2022,O7Nt2tIGZ2o,7,voto:Ricardo Tili,outro,nao_votou
+2022,O7Nt2tIGZ2o,7,voto:Ricardo Tili,nao_votou,nao_votou
 2022,O7Nt2tIGZ2o,7,voto:Efrain Pereira da Cruz,acompanha,acompanha
 2022,O7Nt2tIGZ2o,7,voto:Giácomo Almeida,acompanha,acompanha
 2022,O7Nt2tIGZ2o,7,voto:Camila Bomfim,acompanha,acompanha
@@ -151,9 +151,9 @@ ano,video_id,item,campo,original,conferencia
 2023,rmkEJPFufso,7,resultado,vista,vista
 2023,rmkEJPFufso,7,voto:Fernando Mosna,relator,relator
 2023,rmkEJPFufso,7,voto:Agnes da Costa,vista,vista
-2023,rmkEJPFufso,7,voto:Sandoval Feitosa,vista,nao_votou
-2023,rmkEJPFufso,7,voto:Hélvio Guerra,vista,nao_votou
-2023,rmkEJPFufso,7,voto:Ricardo Tili,vista,nao_votou
+2023,rmkEJPFufso,7,voto:Sandoval Feitosa,nao_votou,nao_votou
+2023,rmkEJPFufso,7,voto:Hélvio Guerra,nao_votou,nao_votou
+2023,rmkEJPFufso,7,voto:Ricardo Tili,nao_votou,nao_votou
 2023,rmkEJPFufso,23,relator,Hélvio Guerra,Hélvio Guerra
 2023,rmkEJPFufso,23,resultado,unanim,unanim
 2023,rmkEJPFufso,23,voto:Sandoval Feitosa,acompanha,acompanha
@@ -165,16 +165,16 @@ ano,video_id,item,campo,original,conferencia
 2023,rmkEJPFufso,14,resultado,vista,vista
 2023,rmkEJPFufso,14,voto:Agnes da Costa,relator,relator
 2023,rmkEJPFufso,14,voto:Fernando Mosna,vista,vista
-2023,rmkEJPFufso,14,voto:Hélvio Guerra,vista,nao_votou
-2023,rmkEJPFufso,14,voto:Ricardo Tili,vista,nao_votou
-2023,rmkEJPFufso,14,voto:Sandoval Feitosa,vista,nao_votou
+2023,rmkEJPFufso,14,voto:Hélvio Guerra,nao_votou,nao_votou
+2023,rmkEJPFufso,14,voto:Ricardo Tili,nao_votou,nao_votou
+2023,rmkEJPFufso,14,voto:Sandoval Feitosa,nao_votou,nao_votou
 2019,O0iJi5u__nw,5,relator,Rodrigo Limp,Rodrigo Limp
 2019,O0iJi5u__nw,5,resultado,vista,vista
 2019,O0iJi5u__nw,5,voto:Rodrigo Limp,relator,relator
 2019,O0iJi5u__nw,5,voto:Elisa Bastos,acompanha,nao_votou
 2019,O0iJi5u__nw,5,voto:Efrain Cruz,diverge,nao_votou
 2019,O0iJi5u__nw,5,voto:Sandoval Feitosa,vista,vista
-2019,O0iJi5u__nw,5,voto:André Pepitone,vista,nao_votou
+2019,O0iJi5u__nw,5,voto:André Pepitone,nao_votou,nao_votou
 2019,O0iJi5u__nw,bloco,relator,diversos,indeterminado
 2019,O0iJi5u__nw,bloco,resultado,unanim,unanim
 2019,O0iJi5u__nw,bloco,voto:André Pepitone,acompanha,acompanha
@@ -206,10 +206,10 @@ ano,video_id,item,campo,original,conferencia
 2020,dkctHCOEoIQ,23,relator,não identificado,indeterminado
 2020,dkctHCOEoIQ,23,resultado,vista,vista
 2020,dkctHCOEoIQ,23,voto:Sandoval Feitosa,vista,vista
-2020,dkctHCOEoIQ,23,voto:André Pepitone,vista,nao_votou
-2020,dkctHCOEoIQ,23,voto:Elisa Bastos,vista,nao_votou
-2020,dkctHCOEoIQ,23,voto:Efrain Cruz,vista,nao_votou
-2020,dkctHCOEoIQ,23,voto:Júlio César Rezende Ferraz,vista,nao_votou
+2020,dkctHCOEoIQ,23,voto:André Pepitone,nao_votou,nao_votou
+2020,dkctHCOEoIQ,23,voto:Elisa Bastos,nao_votou,nao_votou
+2020,dkctHCOEoIQ,23,voto:Efrain Cruz,nao_votou,nao_votou
+2020,dkctHCOEoIQ,23,voto:Júlio César Rezende Ferraz,nao_votou,nao_votou
 2020,2DKLJGUJ2vs,2,relator,Elisa Bastos,Elisa Bastos
 2020,2DKLJGUJ2vs,2,resultado,unanim,unanim
 2020,2DKLJGUJ2vs,2,voto:Elisa Bastos,relator,relator
@@ -227,5 +227,5 @@ ano,video_id,item,campo,original,conferencia
 2020,2DKLJGUJ2vs,9,relator,Rodrigo Limp,Rodrigo Limp
 2020,2DKLJGUJ2vs,9,resultado,vista,vista
 2020,2DKLJGUJ2vs,9,voto:Efrain Cruz,acompanha,vista
-2020,2DKLJGUJ2vs,9,voto:Rodrigo Limp,vista,nao_votou
+2020,2DKLJGUJ2vs,9,voto:Rodrigo Limp,nao_votou,nao_votou
 2020,2DKLJGUJ2vs,9,voto:Sandoval Feitosa,outro,nao_votou
