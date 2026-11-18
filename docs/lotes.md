@@ -17,3 +17,6 @@ Script do workflow: `docs/lotes/analise-lote-aneel.js`. Fila completa de 16/11: 
 - 18/11/2026 · corrigido o bug vista/não-votou em amostra.py e 05_indexar.py (votos 2018-2023: 77,2% -> 85,4%; 2024-2026 seguem 87,3%). Reanálise com Opus das reuniões ANEEL 2022-2023 (187 no total): lote 1/2 com 94, run wf_63e9521a-afa, task w6xeb0do1; lote 2/2 com as 93 restantes fica para depois.
 - 18/11/2026 · reanálise Opus ANEEL 2022-2023: lote 1/2 concluído (94/94, 539 itens, 2.192 votos). Lote 2/2 lançado: run wf_ef0a9c60-2a0, task w3ucekkpj, 93 reuniões.
 - 18/11/2026 · reanálise Opus ANEEL 2022-2023 lote 2/2 (93 reuniões) **pausada a pedido do usuário** (gasto de token), não por limite. 0/93 feitas. Retomar com Workflow resumeFromRunId wf_ef0a9c60-2a0 quando o usuário autorizar.
+
+- 18/11/2026 · ANAC: usuário achou a playlist oficial "Reuniões da Diretoria Colegiada" (850 vídeos) no canal @OficialANAC — nossa coleta só tinha 11. Passar o comando `coletar_tudo_e_enviar.sh anac @OficialANAC --total` no Mac para recoletar com playlists. NÃO lançar análise até combinar o tamanho real pós-coleta. ANA (163 vs 158) está ok, diferença normal.
+- 18/11/2026 · ARTESP: usuário pediu para abrir como agência nova (contato com Metrô-SP). Pesquisa do canal/diretoria/mandatos em andamento (agente a9f6143682d51a24e).
