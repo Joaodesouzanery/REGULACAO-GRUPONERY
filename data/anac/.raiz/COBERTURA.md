@@ -14,9 +14,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | diretoria | 22 | 22 | 0 |
 | 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | workshop | 1 | 1 | 0 |
-| 2023 | diretoria | 21 | 13 | 0 |
+| 2023 | diretoria | 21 | 21 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
-| 2022 | diretoria | 25 | 0 | 0 |
+| 2022 | diretoria | 25 | 4 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 27 | 2 | 0 |
 | 2021 | audiencia | 4 | 0 | 0 |
@@ -86,6 +86,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-07-05 · 10ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · `EyAKEJHInG0`
 - 2023-06-30 · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada da ANAC · `Fny9gNoU3Mw`
 - 2023-06-08 · 9ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · `YyhMuOAQoI4`
+- 2023-05-10 · 8ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · `U_SlJzvhYh8`
+- 2023-04-26 · 7ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · `AV1z3Ukq98A`
+- 2023-04-11 · 6ª Reunião Deliberativa da Diretoria Colegiada (2023) · `7xx6J8VLtIc`
+- 2023-03-28 · 5ª REDIR Deliberativa da Diretoria Colegiada (2023) · `fW1tr9ARBFQ`
+- 2023-03-14 · 4ª Reunião Deliberativa da Diretoria Colegiada da ANAC (2023) · `78eUkt0QxwI`
+- 2023-02-28 · 3ª Reunião Deliberativa da Diretoria Colegiada (2023) · `uDnEkDlMXDc`
+- 2023-02-07 · 2ª Reunião Deliberativa da Diretoria Colegiada (2023) · `_Ixh-_wmjPI`
+- 2023-01-24 · 1ª Reunião Deliberativa da Diretoria Colegiada (2023) · `uvpDr4yiqe4`
+- 2022-12-13 · 20ª Reunião Deliberativa da Diretoria Colegiada (2022) · `o-yoqCvtpW4`
+- 2022-11-16 · 19ª Reunião Deliberativa da Diretoria Colegiada (2022) · `EuPm2en7ecw`
+- 2022-11-08 · 5ª Reunião Deliberativa Extraordinária da Diretoria (2022) · `pCC2irOwKnc`
+- 2022-11-01 · 18ª Reunião Deliberativa da Diretoria Colegiada (2022) · `JGUiUsTVM-Q`
 - 2021-09-21 · 17ª Reunião Deliberativa da Diretoria Colegiada (2021) · `1CCGK7uqE58`
 - 2021-06-25 · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `oujAHCte5Fs`
 - 2020-07-08 · 13ª Reunião Deliberativa da Diretoria Colegiada - Parte I. · `_8qVbJpKzOo`
