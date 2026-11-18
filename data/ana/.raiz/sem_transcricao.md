@@ -2,8 +2,9 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **120** · sem /diretoria: 2; 2026/workshop: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/diretoria: 31; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
+Total: **120** · sem /diretoria: 1; 2026/workshop: 1; 2026/diretoria: 1; 2025/audiencia: 4; 2024/workshop: 6; 2024/diretoria: 1; 2024/audiencia: 4; 2023/diretoria: 31; 2023/audiencia: 7; 2022/diretoria: 25; 2022/audiencia: 1; 2021/diretoria: 27; 2021/audiencia: 1; 2020/diretoria: 9; 2017/audiencia: 1
 
+- 2026-11-17 · diretoria · 962ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de novembro de 2 · https://www.youtube.com/watch?v=U8mWRixQNF4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-02 · workshop · Workshop Dam Screening Tool (USACE) - (02/09/2026). · https://www.youtube.com/watch?v=8HvGvQInCPY · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-25 · audiencia · AUDIÊNCIA PÚBLICA 04/2025 · https://www.youtube.com/watch?v=PUz4CMKyHBo · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-20 · audiencia · Public Hearing No. 003/2025 · https://www.youtube.com/watch?v=zw519ispNEI · **ainda não baixado (rodar a coleta no Mac)**
@@ -123,4 +124,3 @@ Total: **120** · sem /diretoria: 2; 2026/workshop: 1; 2025/audiencia: 4; 2024/w
 - 2020-10-05 · diretoria · 804ª Reunião Deliberativa da Diretoria Colegiada - 05 de outubro de 2020 · https://www.youtube.com/watch?v=LyiRx9PvC5s · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-03-09 · audiencia · Audiência pública sobre renovação da Outorga do Sistema Cantareira - 09/03/2017  · https://www.youtube.com/watch?v=pWf5Q6g_zHA · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=Ka02N326m2I · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · 962ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de novembro de 2 · https://www.youtube.com/watch?v=U8mWRixQNF4 · **ainda não baixado (rodar a coleta no Mac)**
