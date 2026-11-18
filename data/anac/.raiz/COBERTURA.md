@@ -4,14 +4,29 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| 2026 | diretoria | 3 | 3 | 0 |
+| sem data | diretoria | 11 | 0 | 0 |
+| 2026 | diretoria | 6 | 3 | 0 |
 | 2026 | audiencia | 2 | 2 | 0 |
-| 2025 | workshop | 1 | 1 | 0 |
-| 2025 | diretoria | 5 | 5 | 0 |
-| 2025 | audiencia | 3 | 3 | 0 |
+| 2025 | workshop | 2 | 1 | 0 |
+| 2025 | diretoria | 15 | 5 | 0 |
+| 2025 | audiencia | 2 | 1 | 0 |
+| 2024 | workshop | 1 | 0 | 0 |
+| 2024 | diretoria | 22 | 0 | 0 |
+| 2024 | audiencia | 4 | 0 | 0 |
 | 2023 | workshop | 1 | 1 | 0 |
-| 2021 | diretoria | 2 | 2 | 0 |
-| 2020 | diretoria | 1 | 1 | 0 |
+| 2023 | diretoria | 21 | 0 | 0 |
+| 2023 | audiencia | 3 | 0 | 0 |
+| 2022 | diretoria | 25 | 0 | 0 |
+| 2022 | audiencia | 3 | 0 | 0 |
+| 2021 | diretoria | 27 | 2 | 0 |
+| 2021 | audiencia | 4 | 0 | 0 |
+| 2020 | diretoria | 30 | 1 | 0 |
+| 2020 | audiencia | 1 | 0 | 0 |
+| 2019 | diretoria | 21 | 0 | 0 |
+| 2018 | diretoria | 25 | 0 | 0 |
+| 2017 | diretoria | 289 | 0 | 0 |
+| 2016 | diretoria | 232 | 0 | 0 |
+| 2015 | diretoria | 136 | 0 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
