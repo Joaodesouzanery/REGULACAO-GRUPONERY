@@ -16,7 +16,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | workshop | 1 | 1 | 0 |
 | 2023 | diretoria | 21 | 21 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
-| 2022 | diretoria | 25 | 4 | 0 |
+| 2022 | diretoria | 25 | 16 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 27 | 2 | 0 |
 | 2021 | audiencia | 4 | 0 | 0 |
@@ -98,6 +98,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-11-16 · 19ª Reunião Deliberativa da Diretoria Colegiada (2022) · `EuPm2en7ecw`
 - 2022-11-08 · 5ª Reunião Deliberativa Extraordinária da Diretoria (2022) · `pCC2irOwKnc`
 - 2022-11-01 · 18ª Reunião Deliberativa da Diretoria Colegiada (2022) · `JGUiUsTVM-Q`
+- 2022-10-18 · 17ª Reunião Deliberativa da Diretoria Colegiada (2022) · `nZioHU2Llew`
+- 2022-09-20 · 16ª Reunião Deliberativa da Diretoria Colegiada (2022) · `kBzn1HNoDy8`
+- 2022-09-12 · 4ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2022) · `qESEwaNgNAA`
+- 2022-09-06 · 15ª Reunião Deliberativa da Diretoria Colegiada (2022) · `8KAc6mYMLUk`
+- 2022-08-23 · 14ª Reunião Deliberativa da Diretoria Colegiada (2022) · `yLLAVjSgw_g`
+- 2022-08-09 · 13ª Reunião Deliberativa da Diretoria Colegiada (2022) · `0fndHpVsWJo`
+- 2022-07-12 · 12ª Reunião Deliberativa da Diretoria Colegiada (2022) · `9rTOPGYnDBo`
+- 2022-06-28 · 11ª Reunião Deliberativa da Diretoria Colegiada (2022) · `X4IefVOQ22E`
+- 2022-06-14 · 10ª Reunião Deliberativa da Diretoria Colegiada (2022) · `JDMmzsrGlnY`
+- 2022-06-06 · 3ª Reunião Deliberativa Extraordinária da Diretoria Colegiada  (2022) · `w6kds6RUpKc`
+- 2022-05-31 · 9ª Reunião Deliberativa da Diretoria Colegiada (2022) · `vcCA3mJ8xBQ`
+- 2022-05-25 · 2ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2022) · `heCrb5LutlA`
 - 2021-09-21 · 17ª Reunião Deliberativa da Diretoria Colegiada (2021) · `1CCGK7uqE58`
 - 2021-06-25 · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (2021) · `oujAHCte5Fs`
 - 2020-07-08 · 13ª Reunião Deliberativa da Diretoria Colegiada - Parte I. · `_8qVbJpKzOo`
