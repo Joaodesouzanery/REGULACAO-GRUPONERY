@@ -8,17 +8,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | workshop | 1 | 0 | 0 |
 | 2026 | diretoria | 6 | 5 | 0 |
 | 2025 | diretoria | 24 | 24 | 0 |
-| 2025 | audiencia | 4 | 0 | 0 |
+| 2025 | audiencia | 4 | 4 | 0 |
 | 2024 | workshop | 6 | 0 | 0 |
 | 2024 | diretoria | 29 | 28 | 0 |
-| 2024 | audiencia | 4 | 0 | 0 |
+| 2024 | audiencia | 4 | 2 | 0 |
 | 2023 | diretoria | 36 | 36 | 0 |
 | 2023 | audiencia | 7 | 0 | 0 |
 | 2022 | diretoria | 25 | 24 | 0 |
 | 2022 | audiencia | 1 | 0 | 0 |
 | 2021 | diretoria | 27 | 26 | 0 |
 | 2021 | audiencia | 1 | 0 | 0 |
-| 2020 | diretoria | 9 | 3 | 0 |
+| 2020 | diretoria | 9 | 9 | 0 |
 | 2017 | audiencia | 1 | 0 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
@@ -169,5 +169,11 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-12-21 · 812ª Reunião Deliberativa da Diretoria Colegiada - 21 de dezembro de 2 · `iz9TzGOZNLI`
 - 2020-12-14 · 811ª Reunião Deliberativa da Diretoria Colegiada - 14 de dezembro de 2 · `PUr_ReXsNic`
 - 2020-12-07 · 810ª Reunião Deliberativa da Diretoria Colegiada - 07 de dezembro de 2 · `Ul3yQKabMCk`
+- 2020-12-01 · 809ª Reunião Deliberativa da Diretoria Colegiada - 01 de dezembro de 2 · `0ywd9o8Hzso`
+- 2020-11-23 · 808ª Reunião Deliberativa da Diretoria Colegiada - 23 de novembro de 2 · `3NVEbJ5uqEY`
+- 2020-11-16 · 807ª Reunião Deliberativa da Diretoria Colegiada - 16 de novembro de 2 · `htyeI3h1J_4`
+- 2020-10-26 · 806ª Reunião Deliberativa da Diretoria Colegiada - 26 de outubro de 20 · `2hpa14BOBbs`
+- 2020-10-19 · 805ª Reunião Deliberativa da Diretoria Colegiada - 19 de outubro de 20 · `jdttzCmSr6U`
+- 2020-10-05 · 804ª Reunião Deliberativa da Diretoria Colegiada - 05 de outubro de 20 · `LyiRx9PvC5s`
 
-Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 6 (ver `data/sem_legenda.jsonl`).
