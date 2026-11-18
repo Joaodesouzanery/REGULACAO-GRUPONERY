@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **170** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2022/audiencia: 9; 2021/workshop: 20; 2021/audiencia: 23; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **158** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/diretoria: 1; 2025/workshop: 14; 2025/audiencia: 1; 2024/workshop: 12; 2023/workshop: 11; 2023/diretoria: 1; 2022/workshop: 11; 2021/workshop: 20; 2021/audiencia: 20; 2020/workshop: 10; 2020/audiencia: 18; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-10-26 · workshop · Workshop sobre a Revisão da Resolução ANP 804/2019 · https://www.youtube.com/watch?v=70kVkektH_E · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop sobre a revisão da Resolução ANP nº 884/2022 · https://www.youtube.com/watch?v=EqSkL0cCb8Q · **ainda não baixado (rodar a coleta no Mac)**
@@ -64,20 +64,8 @@ Total: **170** · sem /workshop: 7; sem /audiencia: 15; 2026/workshop: 10; 2026/
 - 2022-07-12 · workshop · VI Workshop de Segurança Operacional e Meio Ambiente para Instalações Terrestres · https://www.youtube.com/watch?v=WexzpV3CL_0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-28 · workshop · Seminário para aprimoramento dos instrumentos regulatórios relativos à Participa · https://www.youtube.com/watch?v=aw1YkWQbpbY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-22 · workshop · 2º Seminário Instrumentos de Divulgação de Informações sobre Exploração de Petró · https://www.youtube.com/watch?v=3bXP1Oj3wdg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-06 · audiencia · Audiência Pública nº 2/2022 · https://www.youtube.com/watch?v=2l1l8pucHp4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-05 · audiencia · Audiência Pública nº 1/2022 · https://www.youtube.com/watch?v=mEc49-_QEQs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-25 · audiencia · Audiência Pública nº 05/2022 · https://www.youtube.com/watch?v=btKmAraX-6s · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-23 · audiencia · Audiência Pública nº 03/2022 · https://www.youtube.com/watch?v=GgGoLYvPEUA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-22 · workshop · Webinar Proposta de Procedimento para Cadeia de Custódia de Grãos no âmbito do R · https://www.youtube.com/watch?v=tyF4eC0CTLA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-22 · audiencia · Audiência Pública nº 27/2021 · https://www.youtube.com/watch?v=aXZAHD_a5VY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-08 · audiencia · Audiência Pública nº 25/2021 · https://www.youtube.com/watch?v=z0lWmu8BBJs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-18 · audiencia · Audiência Pública nº 26/2021 · https://www.youtube.com/watch?v=dp_uSS6y-M4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-18 · audiencia · Audiência Pública nº 23/2021 · https://www.youtube.com/watch?v=rT3hXR2aETo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-12 · audiencia · Audiência Pública nº 19/2021 · https://www.youtube.com/watch?v=-ht_Og0u3QE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-28 · audiencia · Audiência Pública nº 22/2021 · https://www.youtube.com/watch?v=Mach2ypRWQA · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-12-22 · workshop · Workshop - Alteração de classe de locação de gasodutos · https://www.youtube.com/watch?v=JjnHOo6EeJY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-08 · audiencia · Audiência Pública nº 24/2021 · https://www.youtube.com/watch?v=oUKXFgcpcwM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-26 · audiencia · Audiência Pública nº 17/2021 · https://www.youtube.com/watch?v=JfmoE18EjRs · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-22 · audiencia · Audiência Pública nº 16/2021 · https://www.youtube.com/watch?v=tCbSnIVzbd8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-09 · audiencia · Audiência Pública nº 20/2021 · https://www.youtube.com/watch?v=jCBefDl9e9w · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-11-08 · audiencia · Audiência Pública nº 14/2021 · https://www.youtube.com/watch?v=tPr-OV-DKOs · **ainda não baixado (rodar a coleta no Mac)**
