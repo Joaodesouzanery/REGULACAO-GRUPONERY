@@ -1,62 +1,63 @@
 {
-  "meta": {"video_id": "lY7zdy60SMA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "meta": {"video_id": "lY7zdy60SMA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (Parte 2 da sessão); ts de quem só acompanha são aproximados", "versao_esquema": 1},
   "reuniao": {
-    "numero": "5ª Reunião Pública Ordinária de 2023 (Parte 2)", "data": "2023-02-28", "formato": "presencial",
+    "numero": "5ª Reunião Pública Ordinária de 2023 (Parte 2)",
+    "data": "2023-02-28",
+    "formato": "presencial, transmitida (retomada à tarde)",
     "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
-    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Ricardo Tili", "Hélvio Guerra"],
-    "ausentes": [],
+    "diretores_presentes": ["Sandoval Feitosa", "Ricardo Tili", "Fernando Mosna", "Agnes da Costa"],
+    "ausentes": ["Hélvio Guerra (em missão internacional, conforme a Parte 1)", "Ricardo Tili ausentou-se antes do item 7 (a partir de 0:32)"],
     "observacoes": [
-      "Parte 2 da sessão: reabertura no item 6, na etapa de debates (voto do relator lido na parte 1).",
-      "Item 6: Ricardo Tili levanta questão de ordem sobre conexão/competência com processo de alteração de característica técnica de sua relatoria e pede vista.",
-      "Item 4 retirado de pauta; Ricardo Tili precisou se ausentar antes do item 7.",
-      "Item 7 (Energia de Gaspar / UTE em Gaspar-SC, PCS 1/2021): negado provimento, relator Fernando Mosna, decisão aparentemente unânime entre os presentes."
+      "Sessão reaberta (0:00:03) no item 6, na etapa de debates, após a suspensão da manhã (Parte 1, vídeo E4J1YJtqVWQ).",
+      "Item 6: Ricardo Tili levantou questão de competência/conexão com processo de alteração de característica técnica sob sua relatoria (recurso da Abrace) e pediu vista após o relator já ter lido o voto; o Diretor-Geral registrou o pedido como regimental.",
+      "O Secretário-Geral informou que o diretor Ricardo Tili teria de se ausentar; o item 4 (com sustentação oral pedida) foi retirado de pauta e o item 7 passou a ser o último.",
+      "Item 7: relator Fernando Mosna negou provimento ao pedido de reconsideração (excludente de responsabilidade, UTE do PCS 1/2021, Gaspar-SC); Agnes da Costa e Sandoval Feitosa acompanharam; proclamação sem menção expressa a unanimidade.",
+      "No item 7, o Diretor-Geral firmou que a orientação da diretoria não é aplicar penalidades só após trânsito em julgado (efeito suspensivo automático apenas para penalidade editalícia, por paralelismo com a REN 846); o superintendente (Dr. Cabral) informou que há garantia de fiel cumprimento com expectativa de sinistro.",
+      "Encerramento da 5ª RPO às 1:10:01 do vídeo."
     ]
   },
   "itens": [
     {
       "id": "6", "ts": "0:00:03",
-      "processo": "",
-      "interessado": "empreendedor de usina termelétrica do PCS 1/2021 (nome incerto, possivelmente Âmbar); Abrace citada como recorrente em processo conexo",
-      "assunto": "Segunda instância: pedido de excludente de responsabilidade por atraso de usina termelétrica do PCS (transferida do RJ para MT), com efeito declaratório sobre a condição de eficácia da transferência de contratos de quatro usinas do PCS para térmica merchant e revaloração da energia a PLD",
-      "tema": ["fiscalização e sanções (excludente de responsabilidade)", "leilões (PCS 2021)", "outorgas de geração (térmica)", "recursos administrativos"],
+      "processo": "48500.005500/2021-66, 48500.005501/2021-19, 48500.005526/2021-02 e 48500.005527/2021-59 (conforme Parte 1; números da legenda, incertos)",
+      "interessado": "SPEs das UTEs do PCS 1/2021 (EPP2, EPP4, Edlux X e Rio de Janeiro I; energia transferida para UTE merchant em Cuiabá-MT) – grupo citado na legenda como «amba» (provavelmente Âmbar), nome incerto",
+      "assunto": "Pedido de reconsideração com efeito suspensivo contra o Despacho 2.966/2022, que negou excludente de responsabilidade pelo atraso na implantação das UTEs do PCS 1/2021 (continuação: debates e pedido de vista)",
+      "tema": ["leilões (PCS 2021 / energia de reserva)", "outorgas de geração (térmica)", "fiscalização e sanções", "recursos administrativos (excludente de responsabilidade)"],
       "relator": "Fernando Mosna",
-      "resultado": "pedido de vista de Ricardo Tili; julgamento suspenso",
-      "resumo_voto": "Relator nega a excludente de responsabilidade (motivos do atraso: transferência RJ-MT, desembaraço na Receita, licenciamento, covid) e dá efeito declaratório de que a condição de eficácia não se operou. Tili questiona competência/conexão com processo de alteração de característica técnica sob sua relatoria e risco de nulidade formal; pede vista. Houve sustentação oral (Guilherme) na parte 1 e parecer da Procuradoria (Dra. Bárbara).",
+      "resultado": "pedido de vista de Ricardo Tili; julgamento suspenso após o voto do relator (lido na Parte 1)",
+      "resumo_voto": "Relator (voto lido na Parte 1) nega a excludente; nesta parte explica que se restringe à excludente, questão prejudicial, e que negar a excludente tem efeito declaratório de que a condição de eficácia (transferência dos contratos de quatro usinas do PCS para térmica merchant) não se operou, com revaloração da energia a PLD; multa, revogação de outorga e rescisão do CER ficam para outros processos. Ricardo Tili, relator do processo de alteração de característica técnica (recurso da Abrace) e vencido em primeira instância, questiona competência/conexão e risco de nulidade formal. Secretário-Geral (Carlos Eduardo) explica as regras de conexão do regimento. Sustentação oral (advogado Guilherme) e parecer da procuradora Bárbara foram elogiados.",
       "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega excludente)", "ts": "0:00:03", "justificativa": "Excludente é prejudicial; negá-la tem efeito apenas declaratório de que a condição de eficácia não se operou; revogação, rescisão e multa ficam para os processos próprios.", "confianca": "media"},
-        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "0:28:15", "justificativa": "Preocupação formal: não vê diferença entre o processo de alteração de característica técnica (sua relatoria) e os de penalidade/revogação; risco de anulação por vício de competência/conexão; concorda com cerca de 90% do mérito.", "tom": "divergência formal respeitosa", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "0:16:23", "justificativa": "Comentou que no mérito o voto do relator traz todos os elementos.", "confianca": "media"},
-        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:28:15", "justificativa": "Disse não pairar dúvida sobre ausência de excludente; questão formal poderia ter sido discutida no sorteio.", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "não votou (vista)", "ts": "0:28:15", "justificativa": "Sem fala identificada nesta parte.", "confianca": "baixa"}
+        {"diretor": "Fernando Mosna", "voto": "relator, nega provimento (voto lido na Parte 1; julgamento suspenso por vista)", "ts": "0:03:32", "justificativa": "não há excludente; decisão tem efeito declaratório sobre a condição de eficácia não materializada; conexão formal não é prejudicial, pois os efeitos constitutivos (multa, revogação, rescisão) ficam nos outros processos", "tom": "firme, técnico", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "pede vista", "ts": "0:28:15", "justificativa": "concorda com cerca de 90% do mérito, mas vê vício de forma/competência: o processo de alteração de característica técnica sob sua relatoria depende da excludente; risco de decisão anulada e de contaminar processos dependentes («a forma é um problema muito muito sério»)", "tom": "questionador, cordial", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "não votou (vista)", "ts": "0:16:27", "justificativa": "comentou que em primeira instância excludente e cautelar foram tratadas juntas e que, no mérito, o voto do relator já traz todos os elementos", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "não votou (vista)", "ts": "0:24:11", "justificativa": "sinalizou convicção de que as motivações do atraso (transferência do RJ para MT, desembaraço na Receita por opção tributária, meio ambiente, covid) não justificam excludente; reconheceu a questão formal como meritória e acolheu a vista como regimental", "confianca": "alta"}
       ]
     },
     {
-      "id": "4", "ts": "0:32:20",
-      "processo": "", "interessado": "", "assunto": "Item 4 da pauta retirado (ausência do diretor Ricardo Tili)",
-      "tema": ["institucional"], "relator": "não identificado", "resultado": "retirado de pauta", "resumo_voto": "", "votos": []
-    },
-    {
-      "id": "7", "ts": "0:32:58",
-      "processo": "48500.005498/2021-25",
-      "interessado": "Energia de Gaspar SPE Ltda. (antes Rovema Energia S.A.); UTE em Gaspar-SC, PCS 1/2021",
-      "assunto": "Pedido de reconsideração contra o Despacho 3.120/2022, que negou excludente de responsabilidade e alteração de cronograma da UTE pelo atraso (falta de contrato de gás com a NFE Power, guerra na Ucrânia)",
-      "tema": ["fiscalização e sanções (excludente de responsabilidade)", "leilões (PCS 2021)", "outorgas de geração (térmica)", "recursos administrativos"],
+      "id": "7", "ts": "0:32:52",
+      "processo": "48500.005498/2021-25 (conforme legenda)",
+      "interessado": "Energias de Gaspar SPE Ltda. (sucessora da Rovema Energia S.A.; UTE RETG 1002-01 / «TG 1000201» na legenda, Gaspar-SC; PCS 1/2021)",
+      "assunto": "Pedido de reconsideração contra o Despacho 3.120/2022, que negou excludente de responsabilidade pelo descumprimento do cronograma de implantação e a alteração do cronograma da UTE do PCS 1/2021",
+      "tema": ["leilões (PCS 2021 / energia de reserva)", "outorgas de geração (térmica a gás)", "fiscalização e sanções (multa editalícia, revogação, garantia de fiel cumprimento)", "recursos administrativos (excludente de responsabilidade)"],
       "relator": "Fernando Mosna",
-      "resultado": "conhecer e negar provimento (unânime entre os presentes)",
-      "resumo_voto": "Risco do combustível é do empreendedor; NFE não era fornecedora única; contrato deveria ser comprovado até 15/01/2022, antes da guerra; 14 térmicas a gás do PCS se viabilizaram. Sandoval reforça que penalidades se aplicam após 1ª instância (efeito suspensivo automático só para penalidade editalícia, por paralelo à REN 846); SFG informa garantia de fiel cumprimento com expectativa de sinistro.",
+      "resultado": "conhecido e negado provimento (proclamação do Diretor-Geral, sem menção expressa a unanimidade; votos de Fernando Mosna, Agnes da Costa e Sandoval Feitosa)",
+      "resumo_voto": "Sem sustentação oral. Procuradoria (parecer 32/2023) pelo não provimento. Empresa alegou impossibilidade de contratar gás natural (NFE Power/NFL Latam, guerra Rússia-Ucrânia) e paralisação da montagem eletromecânica. Relator: fornecimento de combustível e localização são risco exclusivo do empreendedor; NFL não era única fornecedora; contrato de combustível deveria ser comprovado até 15/01/2022, antes da guerra; outras 14 térmicas a gás do PCS se viabilizaram; falta inevitabilidade e nexo causal (Lei 13.360/2016, art. 19). Voto não trata da multa (Despacho SFG 3.346/2022), do termo de intimação 25/2022 (revogação) nem do desligamento da CCEE (Despacho 3.253/2022).",
       "votos": [
-        {"diretor": "Fernando Mosna", "voto": "relator, aprova (nega provimento)", "ts": "1:01:26", "justificativa": "Não demonstrada inevitabilidade nem nexo causal; riscos de combustível e localização são do empreendedor.", "confianca": "alta"},
-        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:01:58", "justificativa": "Voto completo e documentado; a questão do gás foi vivida por vários empreendimentos.", "confianca": "media"},
-        {"diretor": "Hélvio Guerra", "voto": "acompanha o relator", "ts": "1:02:25", "justificativa": "Antecipa concordância; voto perfeito (falante inferido).", "confianca": "baixa"},
-        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:09:07", "justificativa": "Empresa sem contrato de gás e com obras paralisadas quer se isentar de responsabilidades, o que não se pode permitir.", "tom": "enfático", "confianca": "alta"}
+        {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "1:01:26", "justificativa": "riscos de combustível e localização são do empreendedor; não comprovada inevitabilidade nem nexo causal com a guerra; contratação de gás devia ocorrer antes do conflito; evitar «privatização dos lucros e socialização dos riscos»", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:01:53", "justificativa": "voto bastante completo; a questão do gás e da Ucrânia afetou vários empreendimentos; rito e contraditório observados e conclusão bem documentada", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "1:09:01", "justificativa": "empresa não firmou contrato de gás nem de máquinas e paralisou as obras, talvez por falta de viabilidade, e quer se isentar de responsabilidades («o que nós não podemos permitir em hipótese alguma»); firmou que a orientação da diretoria não é aplicar penalidades só após trânsito em julgado", "tom": "enfático", "confianca": "alta"}
       ]
     }
   ],
-  "retirados": ["Item 4 (retirado por ausência de Ricardo Tili)"],
+  "retirados": [
+    {"id": "4", "ts": "0:32:01", "motivo": "retirado de pauta porque o diretor Ricardo Tili teve de se ausentar (item com sustentação oral pedida, conforme a Parte 1); assunto e processo não lidos nesta parte"}
+  ],
   "limites_da_analise": [
-    "Parte 2 apenas: relatório, sustentação e leitura do voto do item 6 estão na parte 1; número do processo e nome da empresa do item 6 não ditos aqui (Âmbar é inferência da legenda 'amba').",
-    "Presença de Hélvio Guerra inferida pela composição de fev/2023; nenhuma fala atribuível com segurança. Ricardo Tili ausente no item 7 (votos = 4 presentes).",
-    "Atribuição da fala 'antecipo minha concordância... voto perfeito, diretor Mosna' a Hélvio Guerra é incerta.",
-    "Legenda automática: nomes (Rovema, NFE Power, Energia de Gaspar) e números podem estar errados."
+    "Vídeo cobre só a Parte 2 da 5ª RPO de 2023; abertura, bloco e itens 1, 2, 3, 5 e a leitura do voto do item 6 estão na Parte 1 (E4J1YJtqVWQ).",
+    "Transcrição sem marcadores de falante; atribuição das falas inferida pelo conteúdo (Ricardo se diz relator vencido em primeira instância e pede vista; Sandoval preside e proclama). A fala «achei o voto bastante completo» no item 7 foi atribuída a Agnes da Costa por exclusão (Ricardo já ausente), confiança media.",
+    "Item 7: não se ouve declaração expressa de ausência no momento da votação, mas o Secretário-Geral anunciou que Ricardo Tili teria de se ausentar e o item 4 foi retirado por isso; registrados 3 votos (Fernando, Agnes, Sandoval). Se Ricardo tivesse votado, o voto não aparece na legenda.",
+    "Item 6: votos de Agnes e Sandoval registrados como «não votou (vista)»; seus comentários indicam inclinação a acompanhar o relator, mas não houve voto formal.",
+    "Nome do grupo econômico no item 6 («amba» na legenda) e números de processos/despachos/usinas vêm da legenda automática e podem estar errados; o secretário inicialmente leu o número do item 7 ao anunciar a retirada, gerando confusão sobre qual item saiu (confirmado como item 4).",
+    "Nomes de servidores (Carlos Eduardo, Bárbara, Thiago, Cabral, Rodrigo, assessores Bene/Mauro) conforme legenda, sem verificação."
   ]
 }
