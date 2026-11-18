@@ -2,22 +2,10 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **867** · sem /diretoria: 11; 2026/diretoria: 3; 2025/workshop: 1; 2025/diretoria: 10; 2025/audiencia: 1; 2024/workshop: 1; 2024/diretoria: 22; 2024/audiencia: 4; 2023/diretoria: 21; 2023/audiencia: 3; 2022/diretoria: 25; 2022/audiencia: 3; 2021/diretoria: 25; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
+Total: **855** · sem /diretoria: 11; 2025/workshop: 1; 2025/diretoria: 1; 2025/audiencia: 1; 2024/workshop: 1; 2024/diretoria: 22; 2024/audiencia: 4; 2023/diretoria: 21; 2023/audiencia: 3; 2022/diretoria: 25; 2022/audiencia: 3; 2021/diretoria: 25; 2021/audiencia: 4; 2020/diretoria: 29; 2020/audiencia: 1; 2019/diretoria: 21; 2018/diretoria: 25; 2017/diretoria: 289; 2016/diretoria: 232; 2015/diretoria: 136
 
-- 2026-10-06 · diretoria · 7th Deliberative Meeting of the Collegiate Board (10/06/2026) · https://www.youtube.com/watch?v=SXQrYbrsyXE · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-22 · diretoria · 6th Deliberative Meeting of the Collegiate Board (09/22/2026) · https://www.youtube.com/watch?v=9pp9YIgD3UU · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-12 · diretoria · 4th Deliberative Meeting of the Collegiate Board (06/12/2026) · https://www.youtube.com/watch?v=VBTSVhD8bOk · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-11 · diretoria · 2nd Extraordinary Deliberative Meeting of the Collegiate Board (12/11/2025) · https://www.youtube.com/watch?v=ctobZIU7IKE · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-22 · diretoria · 8ª Reunião Deliberativa da Diretoria Colegiada (22/05/2025) · https://www.youtube.com/watch?v=TFiMAkohtiw · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-06 · diretoria · 7ª Reunião Deliberativa da Diretoria Colegiada (06/05/2025) · https://www.youtube.com/watch?v=DX2A7mifn9M · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-04-22 · diretoria · 6ª Reunião Deliberativa da Diretoria Colegiada (22/04/2025) · https://www.youtube.com/watch?v=aVJjHlgEKNs · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-25 · workshop · Week +OM: IS ​​Reviews related to workshops - RBAC 145 · https://www.youtube.com/watch?v=3YK90DVy_S0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-03-25 · diretoria · 5ª Reunião Deliberativa da Diretoria Colegiada (25/03/2025) · https://www.youtube.com/watch?v=CL9vBVWl9vQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-03-18 · diretoria · 4ª Reunião Deliberativa da Diretoria Colegiada (18/03/2025) · https://www.youtube.com/watch?v=frUO2_Duta4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-03-13 · audiencia · Audiência Pública n° 02/2025 - Revisão normativa sobre acessibilidade no transpo · https://www.youtube.com/watch?v=AocGNbmvotc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-03-11 · diretoria · 3ª Reunião Deliberativa da Diretoria Colegiada (11/03/2025) · https://www.youtube.com/watch?v=FzjCNk9IluY · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-02-03 · diretoria · 2ª Reunião Deliberativa da Diretoria Colegiada (03/02/2025) · https://www.youtube.com/watch?v=MeOezXphXvI · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-01-21 · diretoria · 1ª Reunião Deliberativa da Diretoria Colegiada (21/01/2025) · https://www.youtube.com/watch?v=db1chGMpN9c · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-01-15 · diretoria · 1st Extraordinary Deliberative Meeting of the Board of Directors (January 14, 20 · https://www.youtube.com/watch?v=L3mG04d13KY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-17 · diretoria · 3ª Reunião Deliberativa Extraordinária da Diretoria Colegiada · https://www.youtube.com/watch?v=thBUOIYS8ec · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-12-10 · diretoria · 19ª Reunião Deliberativa da Diretoria Colegiada · https://www.youtube.com/watch?v=jn1PXAQFL_M · **ainda não baixado (rodar a coleta no Mac)**
