@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-19)
+# Cobertura da base (atualizado em 2026-11-21)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
@@ -50,7 +50,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-03-11 · 3ª Reunião Deliberativa da Diretoria Colegiada (11/03/2025) · `FzjCNk9IluY`
 - 2025-02-03 · 2ª Reunião Deliberativa da Diretoria Colegiada (03/02/2025) · `MeOezXphXvI`
 - 2025-01-21 · 1ª Reunião Deliberativa da Diretoria Colegiada (21/01/2025) · `db1chGMpN9c`
-- 2025-01-15 · 1st Extraordinary Deliberative Meeting of the Board of Directors (Janu · `L3mG04d13KY`
+- 2025-01-14 · 1ª Reunião Deliberativa Extraordinária da Diretoria Colegiada (14/01/2 · `L3mG04d13KY`
 - 2024-12-17 · 3ª Reunião Deliberativa Extraordinária da Diretoria Colegiada · `thBUOIYS8ec`
 - 2024-12-10 · 19ª Reunião Deliberativa da Diretoria Colegiada · `jn1PXAQFL_M`
 - 2024-11-28 · 18ª Reunião Deliberativa da Diretoria Colegiada · `WoFETAObsV8`
