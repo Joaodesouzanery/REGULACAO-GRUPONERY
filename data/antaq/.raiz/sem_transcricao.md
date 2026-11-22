@@ -2,9 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **33** · 2026/audiencia: 1; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **32** · 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
 
-- 2026-11-18 · audiencia · Webinar - Public Hearing No. 08/2026 - ANTAQ Resolutions No. 129/2025 and No. 62 · https://www.youtube.com/watch?v=W6-Qt9WdDv4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
 - 2020-04-10 · diretoria · 475ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xli1Kp1oxZU · **legenda desativada/inexistente no YouTube**
 - 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **legenda desativada/inexistente no YouTube**
