@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **9** · sem /diretoria: 4; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 3
+Total: **10** · sem /diretoria: 5; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 3
 
 - 2021-08-25 · diretoria · 31ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=k-CdRkAHYaU · **legenda desativada/inexistente no YouTube**
 - 2020-05-25 · diretoria · 6ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=MGhW4TEoNZI · **transcrição sem fala útil (1135 caracteres; só música/ruído)**
@@ -13,3 +13,4 @@ Total: **9** · sem /diretoria: 4; 2021/diretoria: 1; 2020/diretoria: 1; 2019/di
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=lRgOSOxqLMo · **privado**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=0hV4jkrqIgA · **privado**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=dpf6isne5HM · **privado**
+- s/data · diretoria · 91ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=D53oZl1m7Hw · **ainda não baixado (rodar a coleta no Mac)**
