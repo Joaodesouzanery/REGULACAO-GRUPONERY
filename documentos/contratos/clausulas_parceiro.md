@@ -16,10 +16,10 @@
 2.3. **Preço mínimo de revenda:** o PARCEIRO não pode vender abaixo da tabela do Anexo I (preço de fundador ou tabela cheia, conforme o caso) sem autorização escrita do GRUPO NERY. *(Nota ao advogado: avaliar o preço mínimo de revenda à luz da Lei 12.529/2011, art. 36, §3º, IX; se necessário, trocar por preço sugerido e repasse mínimo fixo por cliente.)*
 
 ## Cláusula 3 — Divisão de receita, não concorrência e metas
-3.1. A receita líquida de cada contrato com cliente final é dividida **50% GRUPO NERY / 50% PARCEIRO**. Receita líquida = valor faturado menos os tributos incidentes sobre o faturamento, conforme o Anexo II.
+3.1. **Piso por cliente ao GRUPO NERY:** por cliente final ativo, o GRUPO NERY recebe no mínimo R$ {{piso_atacado|6.500}}/mês (escritórios e monitoramento de 2–3 processos) e R$ {{piso_concessionaria|15.000}}/mês (concessionárias e grandes grupos), independentemente do preço que o PARCEIRO pratique e da consultoria que ele cobre à parte. Alternativa, se as partes preferirem: receita líquida dividida **{{divisao|50% / 50%}}**, nunca abaixo do piso. Receita líquida = valor faturado menos os tributos incidentes sobre o faturamento, conforme o Anexo II.
 3.2. **Não concorrência:** durante a vigência e por {{nao_concorrencia_meses|12}} meses depois, o PARCEIRO não desenvolverá, contratará nem revenderá produto substancialmente igual (perfis de votos de diretores de agências reguladoras a partir de reuniões públicas) concorrente das ENTREGAS, no território do Brasil. *(Nota ao advogado: limite razoável de tempo, objeto e território.)*
 3.3. **Não aliciamento:** pelo mesmo prazo, nenhuma das partes aliciará empregados ou colaboradores da outra, nem abordará diretamente os clientes finais trazidos pela outra para vender o mesmo serviço sem ela.
-3.4. O GRUPO NERY pode atender clientes diretamente ou por outros parceiros, exceto nos casos de exclusividade (3.6) e nos clientes registrados pelo PARCEIRO (3.5).
+3.4. **Sem exclusividade por padrão.** A ferramenta, a base e o código são do GRUPO NERY (licença de uso por cliente, nunca cessão). O GRUPO NERY pode atender clientes diretamente ou por outros parceiros, exceto nos casos de exclusividade (3.6) e nos clientes registrados pelo PARCEIRO (3.5).
 3.5. **Registro de oportunidade:** cliente registrado por escrito pelo PARCEIRO fica reservado a ele por {{registro_dias|90}} dias.
 3.6. **Exclusividade (opcional):** {{exclusividade.ativa}}. Se ativa, vale para {{exclusividade.escopo}} (setor/agência/território) e depende de meta mínima de {{exclusividade.meta_clientes}} clientes ativos ou R$ {{exclusividade.meta_receita}}/mês em até {{exclusividade.prazo_meses}} meses; se não atingida, a exclusividade cai automaticamente, sem multa.
 
@@ -49,7 +49,8 @@
 8.1. As partes usarão **somente informação pública** e nunca buscarão, comprarão nem usarão informação não pública de agentes públicos, servidores ou autos sigilosos.
 8.2. É vedado oferecer, prometer ou dar vantagem a agente público (Lei 12.846/2013, art. 5º) e induzir agente público a usar informação privilegiada ou a atuar em conflito de interesses (Lei 12.813/2013, arts. 5º e 6º).
 8.3. As ENTREGAS não contêm juízo pessoal sobre diretores; padrões de voto são apresentados como contagens e inferências.
-8.4. Violação desta cláusula é causa de rescisão imediata, sem multa para a parte inocente.
+8.4. **Retiradas de pauta e atrasos** são entregues só como fatos (quem retirou, motivo dito na sessão, dias até voltar). Nenhuma das partes atribuirá motivo pessoal ou ilícito a diretor em material, conversa com cliente ou uso das ENTREGAS. Suspeita de irregularidade será levada a canal oficial (CGU, Comissão de Ética Pública, ouvidoria da agência, Ministério Público), nunca explorada comercialmente.
+8.5. Violação desta cláusula é causa de rescisão imediata, sem multa para a parte inocente.
 
 ## Cláusula 9 — Proteção de dados (LGPD)
 9.1. Aplica-se o `dpa_lgpd.md` (Anexo III), parte integrante deste contrato. Base: Lei 13.709/2018.
