@@ -69,6 +69,14 @@ Com o ticket alto, a meta é menor e mais qualificada: 1 contrato novo por mês 
 | Contatos dos prospects | Colunas vazias (a rede da nuvem bloqueia os sites) | Preencher no Mac ou à mão |
 
 ## 5. Parceria com a Circle: preço e como a Circle ganha
+**Atualização 22/11/2026 (reunião com a Circle):** o parceiro quer ficar com a maior parte da recorrência. Posição do Grupo Nery:
+- **Piso por cliente ao Nery:** R$ 6–7 mil/mês (escritórios no atacado e monitoramento de 2–3 processos); R$ 10–20 mil/mês por concessionária trazida pela Circle (cliente paga R$ 40–60 mil no total com a consultoria).
+- **Sem exclusividade**, ferramenta e base do Grupo Nery (licença por cliente), cada escritório assina a licença com o Nery, parceria de 6 meses com metas e sem renovação automática.
+- **Venda direta continua** (escritórios, associações, empresas fora da rede do parceiro).
+- **Retirada de pauta é só fato.** Nunca atribuir motivo pessoal ou ilícito a diretor; suspeita vai a canal oficial (cláusula 8 do contrato de parceiro).
+- Detalhes do serviço novo (Radar de Previsibilidade) e do funil: `documentos/comercial/plano_clientes_circle.md`.
+
+*Modelo anterior, mantido como referência:*
 **Quatro formas de ganho para a Circle:**
 1. **Revenda (padrão):** a Circle vende e atende a relação; o Grupo Nery produz. **50% para cada lado** sobre o preço praticado, com piso nesta tabela de preços.
 2. **Indicação:** a Circle só indica e o Grupo Nery vende e atende. **15% do 1º ano** para a Circle.

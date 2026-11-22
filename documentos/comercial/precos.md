@@ -7,6 +7,13 @@ Documento interno de referência (17/11/2026), em reais. Entregamos **inteligên
 2. **Referência de mercado:** inteligência regulatória de nicho custa de US$ 20 mil a US$ 75 mil por ano por usuário ou vertical lá fora (`concorrentes.md`). Nenhum fornecedor brasileiro entrega voto a voto de diretor com prova no minuto.
 3. **O valor se mede em meses e milhões.** Um processo que não sai na 1ª sessão fica, na mediana, cerca de 4 meses a mais na diretoria (ANTT 112, ANTAQ 125 e ANM 139 dias). Num pleito de R$ 50 milhões, cada mês custa cerca de R$ 500 mil de capital (`exemplos_de_valor.md`).
 
+## 0. Linhas com a Circle (22/11/2026) — valor que fica com o Grupo Nery
+| Linha | Para quem | O que leva | Ao Grupo Nery |
+|---|---|---|---|
+| Atacado escritórios | Escritórios de regulatório/infra | Monitoramento de processos dos clientes deles + mapa dos diretores + alertas (pauta, retirada, mandato) | R$ 6–7 mil/mês por escritório |
+| Monitoramento 2–3 processos | Empresa regulada (porta de entrada) | Raio-X + 8 blocos + Radar de Previsibilidade + boletim | R$ 6–7 mil/mês |
+| Concessionária + Circle | Grandes grupos (rodovias, aeroportos, aéreas, portos) | Tudo acima; a consultoria/relacionamento é cobrada pela Circle | R$ 10–20 mil/mês (cliente paga R$ 40–60 mil no total) |
+
 ## 1. Pacotes (contrato anual, valor mensal)
 | Pacote | Escopo | Mensal | Anual |
 |---|---|---|---|
