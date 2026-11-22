@@ -1,4 +1,4 @@
-# Completude da base — 18/11/2026
+# Completude da base — 22/11/2026
 
 Recorte 2018 em diante. Gerado por `python3 pipeline/completude.py` (skill completude).
 
@@ -10,7 +10,7 @@ Recorte 2018 em diante. Gerado por `python3 pipeline/completude.py` (skill compl
 | ANEEL | 763/739/739 | 263/242/5 | 4175 · 11393 | 2018-01-23 a 2026-10-28 | 5/5/5/5 | 17/6 | 5/3 · 1 | 3 / 2026-12-08 / 0 | 2128/530/11 | 6 |
 | ANP | 240/237/0 | 221/211/0 | — · — | — a — | 0/0/0/0 | 0/0 | 0/0 · 0 | 0 / — / 0 | —/—/— | 0 |
 | ANA | 157/152/0 | 24/24/0 | — · — | — a — | 0/0/0/0 | 0/0 | 0/0 · 0 | 0 / — / 0 | 0/0/0 | 0 |
-| ANAC | 11/11/0 | 7/7/0 | — · — | — a — | 0/0/0/0 | 0/0 | 0/0 · 0 | 0 / — / 0 | 0/0/0 | 0 |
+| ANAC | 203/191/0 | 23/23/0 | — · — | — a — | 0/0/0/0 | 0/0 | 0/0 · 0 | 0 / — / 0 | 0/0/0 | 0 |
 
 ## Processos de clientes (blocos 1 e 2 — dependem do cliente informar o SEI)
 
