@@ -8,7 +8,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 35 | 30 | 30 |
 | sem data | audiencia | 6 | 5 | 0 |
 | 2026 | workshop | 15 | 15 | 2 |
-| 2026 | diretoria | 49 | 45 | 45 |
+| 2026 | diretoria | 49 | 47 | 45 |
 | 2026 | audiencia | 4 | 4 | 3 |
 | 2025 | workshop | 9 | 8 | 0 |
 | 2025 | diretoria | 97 | 95 | 95 |
@@ -45,5 +45,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
+- 2026-11-17 · 23ª Reunião Pública Ordinária ANEEL – 17/11/2026 – Parte II · `Rf8-Hl2N0J4`
+- 2026-11-17 · 23ª Reunião Pública Ordinária ANEEL – 17/11/2026 – Parte I · `QHzI-Brg1_I`
 
 Vídeos sem legenda registrados: 49 (ver `data/sem_legenda.jsonl`).
