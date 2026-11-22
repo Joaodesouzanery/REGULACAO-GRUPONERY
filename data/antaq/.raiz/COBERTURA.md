@@ -1,14 +1,13 @@
-# Cobertura da base (atualizado em 2026-11-17)
+# Cobertura da base (atualizado em 2026-11-22)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | audiencia | 1 | 0 | 0 |
 | 2026 | workshop | 1 | 1 | 1 |
 | 2026 | participativa | 1 | 1 | 1 |
 | 2026 | diretoria | 9 | 9 | 9 |
-| 2026 | audiencia | 9 | 9 | 9 |
+| 2026 | audiencia | 10 | 9 | 9 |
 | 2025 | participativa | 2 | 2 | 2 |
 | 2025 | diretoria | 12 | 12 | 12 |
 | 2025 | audiencia | 10 | 10 | 10 |
