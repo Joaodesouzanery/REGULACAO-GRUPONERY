@@ -1,14 +1,14 @@
-# Cobertura da base (atualizado em 2026-11-21)
+# Cobertura da base (atualizado em 2026-11-22)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | diretoria | 11 | 0 | 0 |
-| 2026 | diretoria | 6 | 6 | 0 |
+| 2026 | diretoria | 3 | 3 | 0 |
 | 2026 | audiencia | 2 | 2 | 0 |
 | 2025 | workshop | 2 | 2 | 0 |
-| 2025 | diretoria | 15 | 15 | 0 |
+| 2025 | diretoria | 14 | 14 | 0 |
 | 2025 | audiencia | 2 | 2 | 0 |
 | 2024 | workshop | 1 | 1 | 0 |
 | 2024 | diretoria | 22 | 22 | 0 |
@@ -30,13 +30,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-10-06 · 7th Deliberative Meeting of the Collegiate Board (10/06/2026) · `SXQrYbrsyXE`
-- 2026-09-22 · 6th Deliberative Meeting of the Collegiate Board (09/22/2026) · `9pp9YIgD3UU`
 - 2026-08-17 · 5ª Reunião Deliberativa da Diretoria Colegiada (17/08/2026) · `dyM7H7T0TKM`
-- 2026-06-12 · 4th Deliberative Meeting of the Collegiate Board (06/12/2026) · `VBTSVhD8bOk`
 - 2026-03-06 · 2ª Reunião Deliberativa da Diretoria Colegiada (06/03/2026) · `jffGukQJVIk`
 - 2026-01-20 · 1ª Reunião Deliberativa da Diretoria Colegiada (20/01/2026) · `ZuHcl1ahxSk`
-- 2025-12-11 · 2nd Extraordinary Deliberative Meeting of the Collegiate Board (12/11/ · `ctobZIU7IKE`
 - 2025-10-28 · 13ª Reunião Deliberativa da Diretoria Colegiada (28/10/2025) · `pvYoq4oXEEI`
 - 2025-09-17 · 12ª Reunião Deliberativa da Diretoria Colegiada (17/09/2025) · `FBySE3Veewg`
 - 2025-08-26 · 11ª Reunião Deliberativa da Diretoria Colegiada (26/08/2025) · `gx-VCn_gx98`
