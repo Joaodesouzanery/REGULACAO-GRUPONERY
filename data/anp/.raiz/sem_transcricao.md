@@ -2,11 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **22** · sem /workshop: 2; sem /audiencia: 2; 2026/diretoria: 2; 2026/audiencia: 2; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 3; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **19** · sem /workshop: 2; sem /audiencia: 2; 2026/diretoria: 1; 2025/audiencia: 1; 2023/diretoria: 1; 2021/workshop: 3; 2020/audiencia: 2; 2019/diretoria: 2; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
-- 2026-11-20 · audiencia · Audiência Pública n° 16/2026 · https://www.youtube.com/watch?v=r9tsiv6P0ow · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-11-19 · audiencia · Audiência Pública n° 23/2026 · https://www.youtube.com/watch?v=ayvPPSx5OMI · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-11-18 · diretoria · Reunião de Diretoria Colegiada Extraordinária n° 72 - 18 de novembro de 2026 · https://www.youtube.com/watch?v=dyVFtew-4jk · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-03 · diretoria · Reunião de Diretoria Colegiada nº 1179 (Retomada) - 2 de abril de 2026 · https://www.youtube.com/watch?v=s8KIUTdq0o8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-09 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=sa8gDM6QmCs · **legenda desativada/inexistente no YouTube**
 - 2023-07-07 · diretoria · Bastidores da Reunião de Diretoria · https://www.youtube.com/watch?v=Ig3r9jec6mY · **transcrição sem fala útil (557 caracteres; só música/ruído)**
