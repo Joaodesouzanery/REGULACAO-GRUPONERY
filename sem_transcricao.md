@@ -2,10 +2,9 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **19** · 2026/workshop: 1; 2026/diretoria: 1; 2026/audiencia: 3; 2025/workshop: 1; 2023/diretoria: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/diretoria: 1; 2021/audiencia: 1; 2020/audiencia: 2; 2019/audiencia: 3; 2018/audiencia: 3
+Total: **18** · 2026/diretoria: 1; 2026/audiencia: 3; 2025/workshop: 1; 2023/diretoria: 1; 2022/diretoria: 1; 2022/audiencia: 1; 2021/diretoria: 1; 2021/audiencia: 1; 2020/audiencia: 2; 2019/audiencia: 3; 2018/audiencia: 3
 
 - 2026-12-15 · audiencia · Audiência Pública nº 16/2026 - 15/12/2026 - Brasília/DF · https://www.youtube.com/watch?v=y3dfqMfG6HE · **privado**
-- 2026-11-19 · workshop · I Workshop Verificadores · https://www.youtube.com/watch?v=QoVnaZJJvzI · **privado**
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
 - 2026-03-17 · audiencia · Audiência Pública nº 04/2026 - 17/03/2026 - Pelotas/RS - Rota Portuária · https://www.youtube.com/watch?v=12S7PAizj9Y · **legenda desativada/inexistente no YouTube**

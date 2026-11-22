@@ -4,7 +4,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| 2026 | workshop | 4 | 3 | 3 |
+| 2026 | workshop | 4 | 4 | 3 |
 | 2026 | romeiros | 1 | 1 | 1 |
 | 2026 | participativa | 10 | 10 | 10 |
 | 2026 | diretoria | 26 | 26 | 25 |
