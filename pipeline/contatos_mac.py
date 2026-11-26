@@ -9,6 +9,8 @@ get = lambda u: subprocess.run(["curl", "-sL", "--max-time", "20", "-A", UA, u],
 for arq in sorted(glob.glob("documentos/comercial/contatos_*.csv")):
     rows = list(csv.DictReader(open(arq, encoding="utf-8"), delimiter=";")); campos = list(rows[0].keys()) if rows else []
     for r in rows:
+        for k in ("email_institucional", "telefone_institucional", "linkedin_pagina"):
+            if (r.get(k) or "").strip().lower() == "conferir": r[k] = ""
         site = (r.get("site") or "").strip()
         if not site or (r.get("email_institucional") and r.get("telefone_institucional")): continue
         dom = urllib.parse.urlparse(site if "//" in site else "https://" + site).netloc.replace("www.", "")
