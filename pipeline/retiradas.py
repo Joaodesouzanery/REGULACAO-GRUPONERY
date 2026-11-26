@@ -47,10 +47,10 @@ def por_diretor(ag):
     from prazos import chave
     tot = collections.Counter(r["relator"] for r in c.execute("select relator, processo from itens where relator is not null and relator<>''") if chave(r["processo"]))
     ret = collections.Counter(e["relator"] for e in ev)
-    media = sum(ret.values()) / max(sum(tot[k] for k in ret), 1)
+    media = sum(v for k, v in ret.items() if k != "não identificado") / max(sum(tot.values()), 1)
     linhas = []
     for d, n in ret.most_common():
-        if d == "não identificado" or tot[d] < 10: continue
+        if d == "não identificado" or tot[d] < 1: continue
         vs = [e["dias_ate_voltar"] for e in ev if e["relator"] == d and e["dias_ate_voltar"] is not None]
         sm = sum(1 for e in ev if e["relator"] == d and e["motivo"] == "sem motivo declarado na sessão")
         linhas.append((d, n, tot[d], n / tot[d], media, sorted(vs)[len(vs) // 2] if vs else None, sm))
