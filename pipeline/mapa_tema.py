@@ -41,7 +41,9 @@ def mapear(ag, rx, desde=None):
                   "just": [v["justificativa"] for v in V if v["justificativa"]][-3:]}
     unan = sum(1 for i in its if not c.execute("select 1 from votos where item_id=? and categoria in ('vencido','revisor_diverge')", (i["id"],)).fetchone())
     des_all = collections.Counter(desfecho_item(c, i["id"]) for i in its)
-    return {"agencia": ag, "regex": rx, "itens": its, "colegiado": board, "por_diretor": por, "unanimes": unan, "desfechos": des_all, "base_ate": ult}
+    dec = [i for i in its if desfecho_item(c, i["id"]) != "pendente" and not re.match(r"\s*(retirad|pedido de vista|vista|sobrestad|adiad)", i["resultado"] or "", re.I)]
+    divs = sum(1 for i in dec if c.execute("select 1 from votos where item_id=? and categoria in ('vencido','revisor_diverge','diverge')", (i["id"],)).fetchone())
+    return {"agencia": ag, "regex": rx, "itens": its, "colegiado": board, "por_diretor": por, "unanimes": unan, "decididos": len(dec), "divergentes": divs, "desfechos": des_all, "base_ate": ult}
 
 
 if __name__ == "__main__":

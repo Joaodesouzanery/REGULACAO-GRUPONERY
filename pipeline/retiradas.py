@@ -44,7 +44,8 @@ def eventos(ag):
 
 def por_diretor(ag):
     c, ev = eventos(ag)
-    tot = collections.Counter(r["relator"] for r in c.execute("select relator from itens where relator is not null and relator<>''"))
+    from prazos import chave
+    tot = collections.Counter(r["relator"] for r in c.execute("select relator, processo from itens where relator is not null and relator<>''") if chave(r["processo"]))
     ret = collections.Counter(e["relator"] for e in ev)
     media = sum(ret.values()) / max(sum(tot[k] for k in ret), 1)
     linhas = []
@@ -61,8 +62,8 @@ def main():
     L = []
     if modo == "diretores":
         linhas, media = por_diretor(ag)
-        L += [f"# Retiradas de pauta por relator — {ag.upper()}", "", f"Média da agência: {100 * media:.1f} (retiradas com nº de processo legível ÷ itens relatados; subestima um pouco, porque item sem nº legível não entra).", "",
-              "| Relator | Retiradas | Itens relatados | Taxa | × média | Mediana de dias até voltar | Sem motivo declarado |", "|---|---|---|---|---|---|---|"]
+        L += [f"# Retiradas de pauta por relator — {ag.upper()}", "", f"Média da agência: {100 * media:.1f} (retiradas ÷ itens relatados, os dois contando só itens com nº de processo legível).", "",
+              "| Relator | Retiradas | Itens relatados (nº legível) | Taxa | × média | Mediana de dias até voltar | Sem motivo declarado |", "|---|---|---|---|---|---|---|"]
         L += [f"| {d} | {n} | {t} | {100 * x:.1f}% | {x / m:.1f}× | {v if v is not None else '—'} | {s} |" for d, n, t, x, m, v, s in linhas]
         L += ["", "Fatos contados a partir das reuniões gravadas; «sem motivo declarado» = nenhum motivo foi dito em voz alta na sessão (pode ter sido registrado em documento). Legenda automática pode errar nomes e números."]
     else:
