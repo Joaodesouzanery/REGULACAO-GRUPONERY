@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-18)
+# Cobertura da base (atualizado em 2026-11-22)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
@@ -6,7 +6,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 |---|---|---|---|---|
 | sem data | diretoria | 1 | 0 | 0 |
 | 2026 | workshop | 1 | 1 | 0 |
-| 2026 | diretoria | 6 | 5 | 0 |
+| 2026 | diretoria | 6 | 6 | 0 |
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 4 | 4 | 0 |
 | 2024 | workshop | 6 | 6 | 0 |
@@ -24,6 +24,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
 - 2026-09-14 · 959ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 15 de set · `Bj0EjBM2tx8`
+- 2026-06-26 · 955ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 25 de jun · `RuXIZqXS0bo`
 - 2026-04-29 · 953ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 28 de abr · `NUeOIGcV1GM`
 - 2026-03-18 · 951ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 17 de mar · `VK_YR49ZrRg`
 - 2026-03-04 · 950ª Reunião Deliberativa Ordinária da Diretoria Colegiada - 3 de març · `XVJhZlQ-vWk`

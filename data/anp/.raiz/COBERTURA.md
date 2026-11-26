@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-17)
+# Cobertura da base (atualizado em 2026-11-22)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
@@ -8,8 +8,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 18 | 18 | 0 |
 | sem data | audiencia | 15 | 13 | 0 |
 | 2026 | workshop | 10 | 10 | 0 |
-| 2026 | diretoria | 22 | 21 | 0 |
-| 2026 | audiencia | 18 | 18 | 0 |
+| 2026 | diretoria | 23 | 22 | 0 |
+| 2026 | audiencia | 20 | 20 | 0 |
 | 2025 | workshop | 14 | 14 | 0 |
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 15 | 14 | 0 |
@@ -36,6 +36,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
+- 2026-11-18 · Reunião de Diretoria Colegiada Extraordinária n° 72 - 18 de novembro d · `dyVFtew-4jk`
 - 2026-11-09 · Reunião de Diretoria Colegiada nº 1194 - 9 de novembro de 2026 · `EZiB2sKkQYk`
 - 2026-10-30 · Reunião de Diretoria Colegiada n° 1193 - 29 de outubro de 2026 · `T06P0sd4NhE`
 - 2026-10-09 · Reunião de Diretoria Colegiada nº 1192 - 9 de outubro de 2026 · `CdvXfMs6Mb4`
