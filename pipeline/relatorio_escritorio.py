@@ -97,6 +97,8 @@ def sem_dec(ag, m):
     c = previsao.conn(ag); W = lambda t: set(re.findall(r"\w{4,}", (t or "").lower())); out = []
     for i in m["itens"]:
         if desfecho_item(c, i["id"]) != "pendente": continue
+        k = prazos.chave((c.execute("select processo from itens where id=?", (i["id"],)).fetchone() or [""])[0])
+        if k and any(r["data"] > i["data"] and desfecho_item(c, r["id"]) != "pendente" for r in c.execute("select i.id, i.processo, r.data from itens i join reunioes r on r.id=i.reuniao_id") if prazos.chave(r["processo"]) == k): continue
         if any(j["data"] > i["data"] and desfecho_item(c, j["id"]) != "pendente" and W(i["assunto"]) and len(W(i["assunto"]) & W(j["assunto"])) / len(W(i["assunto"]) | W(j["assunto"])) >= 0.4 for j in m["itens"]): continue
         out.append(i)
     return out
@@ -125,7 +127,7 @@ cal_aq = [x for x in json.load(open("data/antaq/calendario.json")) if x["data"] 
 corpo = (d.grade(d.conceito("", "ANTAQ: calendário oficial", "", texto=d.agenda_cards(cal_aq, 2) + '<p style="font-size:8.5pt">Pauta da próxima reunião ainda não publicada; ela sai cerca de uma semana antes.</p>'),
                  d.conceito("", "ANTT: próxima reunião (estimativa)", "", texto=f'<p>Última reunião na base: <b>{ult[0]["numero"]}ª, {fmtd(ult[0]["data"])}</b>. Pelo intervalo mediano das últimas reuniões ({int(statistics.median(gaps))} dias), a próxima deve cair perto de <b>{fmtd(prox)}</b>. <i>Estimativa: o calendário oficial não foi lido nesta edição.</i></p>'), cols=2)
          + "<h3>Processos do tema ainda sem decisão final na ANTT (sem deliberação posterior na base)</h3>"
-         + (d.tabela(["Última sessão · processo", "Assunto", "Situação na última sessão"], [[f'{fmtd(i["data"])} · {i["numero"]}ª<br>{i["processo_k"]}', E((i["assunto"] or "")[:130]), E(i["resultado"] or "pendente")] for i in reversed(pend)], ["18%", "58%", "24%"]) if pend else "<p>Nenhum processo do tema ficou sem decisão posterior desde 2024.</p>")
+         + (d.tabela(["Última sessão · processo", "Assunto", "Situação na última sessão"], [[f'{fmtd(i["data"])} · {i["numero"]}ª<br>{i["processo_k"]}', E((i["assunto"] or "")[:130]), E(i["resultado"] or "pendente")] for i in reversed(pend)], ["18%", "58%", "24%"]) if pend else "<p>Nenhum item do tema ficou sem decisão posterior desde 2023.</p>")
          + "<h3>Diretoria em exercício (quem votou nas últimas reuniões)</h3>" + d.grade(d.conceito("", "ANTT", "", texto=d.tabela(["Diretor", "Cargo", "Situação", "Fim do mandato"], diretoria("antt"))), d.conceito("", "ANTAQ", "", texto=d.tabela(["Diretor", "Cargo", "Situação", "Fim do mandato"], diretoria("antaq"))), cols=2))
 S.append(d.tecnica("01 · Próximas agendas", "O que vem pela frente nas duas diretorias", corpo, "ANTT · ANTAQ", "Troca de diretor muda o relator e o placar provável dos processos. Mandatos conforme a base de mandatos; a posse de alguns diretores da ANTT ainda está sem confirmação no Diário Oficial."))
 
@@ -135,7 +137,7 @@ for ag in ("antt", "antaq"):
     D = prazos.duracoes(ag, desde=DESDE); ks = {prazos.chave(i2["processo"]) for i2 in previsao.conn(ag).execute("select processo from itens where id in (%s)" % ",".join(str(i["id"]) for i in m["itens"]) or "0")} - {None}
     st = [v[0] for k, v in D.items() if k in ks and v[2] > 1 and v[3]]
     corpo = (d.numeros([(len(m["itens"]), f"itens no tema desde 2023 ({m['decididos']} decididos)"), ((f'{m["divergentes"]} de {m["decididos"]}' if m["divergentes"] else "nenhuma"), f'decididas com voto divergente ou vencido registrado' + (f'; {sum(s["vista"] for s in m["por_diretor"].values())} pedidos de vista' if any(s["vista"] for s in m["por_diretor"].values()) else "")),
-                        ((f'{statistics.median(st):.0f} dias' if len(st) >= 3 else " e ".join(f"{x} dias" for x in sorted(st)) or "—"), (f"mediana da 1ª sessão (desde 2023) à decisão, processos com mais de uma sessão (n = {len(st)}{'; indicativo' if len(st) < 10 else ''})" if len(st) >= 3 else f"só {len(st)} caso(s) com mais de uma sessão desde 2023")), (len(sem_dec(ag, m)), "itens sem decisão posterior na base")])
+                        ((f'{statistics.median(st):.0f} dias' if len(st) >= 3 else " e ".join(f"{x} dias" for x in sorted(st)) or "—"), (f"mediana da 1ª sessão (desde 2023) à decisão, processos com mais de uma sessão (n = {len(st)}{'; indicativo' if len(st) < 10 else ''})" if len(st) >= 3 else f"só {len(st)} caso(s) com mais de uma sessão desde 2023")), (len(sem_dec(ag, m)), "item sem decisão posterior na base" if len(sem_dec(ag, m)) == 1 else "itens sem decisão posterior na base")])
              + d.grade(d.conceito("", "Como cada diretor em exercício votou no tema", "", texto=d.tabela(["Diretor", "Votos", "Relatou", "Acompanhou", "Divergiu", "Vista"], rows)),
                        d.conceito("", "Desfechos", "", texto=d.barras([(k, v, "itens") for k, v in m["desfechos"].most_common()])), cols=2)
              + "<h3>Casos recentes, com a fala no minuto do vídeo</h3>" + casos(ag, m["itens"]))
