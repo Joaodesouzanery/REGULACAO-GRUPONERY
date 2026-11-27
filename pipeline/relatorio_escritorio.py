@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao, mapa_tema, prazos, retiradas, design as d
 from desfecho import desfecho_item
 E = d.E
-NOMEESC = sys.argv[1]; MARCA = sys.argv[sys.argv.index("--marca") + 1] if "--marca" in sys.argv else "nery"
+NOMEESC = sys.argv[1]; MARCA = sys.argv[sys.argv.index("--marca") + 1] if "--marca" in sys.argv else sys.exit("Informe --marca iris|circle|nery (pergunte ao usuário).")
 HOJE = datetime.date.today(); ANO = (HOJE - datetime.timedelta(days=365)).isoformat(); DESDE = "2023-01-01"
 fmtd = lambda s: (datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if len(str(s)) >= 10 else "/".join(reversed(str(s).split("-")))) if s else "—"
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()).strip("-")
@@ -18,7 +18,7 @@ TEMAS = {
     "antaq": ("Portos de Santos e São Sebastião: arrendamento, desestatização, reequilíbrio e prorrogação",
               r"(Santos|S[aã]o Sebasti[aã]o).*(arrendamento|desestatiza|reequil|prorroga)|(arrendamento|desestatiza|reequil|prorroga).*(Santos|S[aã]o Sebasti[aã]o)")}
 SINAIS = {"antt": "EcoRioMinas|Eco Rio Minas|Ecorodovias|Rodovias do Tiet", "antaq": "S[aã]o Sebasti[aã]o|Santos Port|SPA|desestatiza"}
-KIT = d.kit("rodovias"); KITP = d.kit("portos")
+d.MARCA = MARCA; KIT = d.kit("rodovias"); KITP = d.kit("portos")
 S = []
 
 
@@ -86,7 +86,7 @@ def mandatos(ag):
 
 M = {ag: mapa_tema.mapear(ag, TEMAS[ag][1], DESDE) for ag in TEMAS}
 tot = sum(len(M[a]["itens"]) for a in M); dec = sum(M[a]["decididos"] for a in M); dvg = sum(M[a]["divergentes"] for a in M)
-S.append(d.capa(KIT["capa"], "50% 55%", "Inteligência regulatória aplicada", NOMEESC, "Agenda, votos da diretoria e oportunidades na ANTT e na ANTAQ",
+S.append(d.capa(KIT["capa"], "50% 55%", "Inteligência regulatória aplicada", NOMEESC, "Agenda e votos da diretoria na ANTT e na ANTAQ",
                 f"Preparado para reunião institucional. Só fontes públicas: reuniões gravadas das diretorias, pautas e Diário Oficial. Base até {fmtd(max(M[a]['base_ate'] for a in M))}.",
                 [(f"{tot} itens", f"nos temas do escritório desde 2023 ({dec} já decididos)"), (f"{100 * (dec - dvg) / max(dec, 1):.0f}%", f"das {dec} decididas sem voto divergente"), ("2", "agências: ANTT e ANTAQ"), (sum(previsao.conn(a).execute("select count(*) from reunioes").fetchone()[0] for a in M), "reuniões de diretoria analisadas")]))
 
@@ -143,10 +143,10 @@ for ag in ("antt", "antaq"):
 S.append(d.tecnica("02 · Previsibilidade", "Quem da diretoria atual retira processos de pauta, e quanto tempo levam para voltar", d.grade(*[c for c in corpo.split("</div><div class=\"cc\"")][:1], cols=1) if False else corpo, "antt",
                    "Só fatos: quem retirou, quantas vezes e em quanto tempo voltou. «Sem motivo declarado» = nenhum motivo dito em voz alta na sessão (pode constar em documento)."))
 
-# 3. Prospecção
-for ag in ("antt", "antaq"):
-    S.append(d.tecnica("03 · Prospecção", f"Empresas com processo na {ag.upper()} nos últimos 12 meses", prospeccao(ag), ag,
-                       "Interessados citados nas pautas públicas, sem autoridades portuárias, órgãos públicos, sindicatos e associações. Lista de oportunidade setorial; não indica relação com o escritório."))
+# 3. Prospecção: material interno, NÃO entra no documento do cliente (gerar com --interno)
+if "--interno" in sys.argv:
+    for ag in ("antt", "antaq"):
+        S.append(d.tecnica("Interno · Prospecção", f"Empresas com processo na {ag.upper()} nos últimos 12 meses", prospeccao(ag), ag, "Material interno."))
 
 # Como acompanhar
 S.append(d.tecnica("04 · Como acompanhar", "O que uma rotina contínua entrega ao escritório", d.whitepaper("Entregas", [
@@ -159,14 +159,4 @@ S.append(d.tecnica("04 · Como acompanhar", "O que uma rotina contínua entrega 
 S.append(d.fim("Base: reuniões gravadas das diretorias da ANTT e da ANTAQ, pautas, calendários e Diário Oficial. Conferência cega por amostra: voto por diretor ≈ 94–95% (mede consistência, não verdade absoluta). Legenda automática pode errar nomes e números.",
                "IRIS · Instituto de Regulação, Inovação e Sustentabilidade · inteligência por Grupo Nery", KIT["capa"]))
 pdf = d.documento(S, f"{NOMEESC} · inteligência regulatória", f"{OUT}/relatorio_escritorio")
-if MARCA == "iris":  # troca a marca Circle por IRIS (texto) mantendo Grupo Nery menor
-    h = open(f"{OUT}/relatorio_escritorio.html").read()
-    for k in ("circle_b", "circle_p"):
-        h = h.replace(f'<img src="{d.img(k)}" class="lgc">', '<b style="font:800 22pt Inter,sans-serif;color:#fff;letter-spacing:.06em">IRIS</b>')
-        h = h.replace(f'<img src="{d.img(k)}" class="hcp">', '<b style="font:800 12pt Inter,sans-serif;color:#003B4C;letter-spacing:.06em;margin-right:8px">IRIS</b>')
-        h = h.replace(f'<img src="{d.img(k)}" class="pc">', '<b style="font:800 10pt Inter,sans-serif;color:#003B4C">IRIS</b>')
-    open(f"{OUT}/relatorio_escritorio.html", "w").write(h)
-    import subprocess
-    js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(OUT)}/relatorio_escritorio.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(OUT)}/relatorio_escritorio.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
-    subprocess.run(["node", "-e", js], cwd="/tmp", check=True)
 print(pdf, len(S), "páginas")

@@ -17,3 +17,7 @@ description: Roteiro-mestre de qualquer relatório de cliente (empresa, temátic
 | 10 | Revisão visual | revisor-visual (screenshots) | 0 estouros |
 | 11 | Conformidade | `clientes/` fora do git; aviso de estimativa; LGPD; fonte de toda informação do cliente marcada | checklist em clientes/<x>/entrega.md |
 Regra: informação recebida do cliente («retirado para análise do DG») aparece como tal e é confrontada com o vídeo; nunca chamar de «privilegiada» o que é público.
+
+
+## Etapa obrigatória antes de enviar (nov/2026)
+Marca perguntada ao usuário (skill marca-relatorio) e conferência tripla: `auditar_falas.py`, agente `auditor-respostas` e agente `conferente-final` (regras na skill relatorio-escritorio). Corrigir no gerador e gerar de novo.

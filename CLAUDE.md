@@ -39,3 +39,9 @@ Sempre commit e push no branch de trabalho; não abra PR sem pedido. Não versio
 
 ## Skills novas (nov/2026)
 **analise-lote** (fila + workflow de analistas + conferência), **auditoria-falas** (`pipeline/auditar_falas.py`), **pacote-mensal** (`bash pipeline/pacote_mensal.sh`), **pagina-cheia** (densidade; travessão só onde precisa), **post-setor**, **calendario-agencias** (agente `pesquisador-calendario`), **controle-diretoria** (`cadeiras.json`), **lacunas-agencias**, **transparencia-agencias** (agente `auditor-transparencia`, `pipeline/transparencia.py` → `documentos/agencias/transparencia_agencias.md`), **retomar-workflow** (`docs/lotes.md`), **atualizar-mandatos** (`data/mandatos_agencias.json`, 12 agências), **monitoramento-8-blocos** (`pipeline/monitor_8blocos.py`), **triagem-eventos**, **prospeccao** (agente `pesquisador-prospects`), **proposta-comercial** (`pipeline/apresentacao_nery.py`; agente `revisor-comercial`). Mapa completo: `docs/MAPA.md`.
+
+
+## Marca e qualidade dos documentos (nov/2026)
+- **Perguntar antes** qual marca vai no documento: IRIS + Grupo Nery, Circle + Grupo Nery ou só Grupo Nery (skill **marca-relatorio**; logos reais em `docs/marca/`, nunca desenhadas em texto).
+- Nenhum documento sai sem `auditar_falas.py` + agente `auditor-respostas` + agente **`conferente-final`** (skill **relatorio-escritorio**, 8 regras). Prospecção nunca entra em documento de cliente.
+- Monitoramento contínuo (Radar semanal + alertas por e-mail): skill **monitoramento-continuo**.

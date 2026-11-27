@@ -9,8 +9,8 @@ cat > "$PLIST" <<EOF
 <plist version="1.0"><dict>
 <key>Label</key><string>br.antt.monitor</string>
 <key>ProgramArguments</key><array><string>/bin/bash</string><string>$REPO/pipeline/monitorar.sh</string></array>
-<key>StartCalendarInterval</key><dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict>
+<key>StartCalendarInterval</key><array><dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict><dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict></array>
 <key>StandardOutPath</key><string>$REPO/data/monitor.log</string><key>StandardErrorPath</key><string>$REPO/data/monitor.log</string>
 </dict></plist>
 EOF
-launchctl unload "$PLIST" 2>/dev/null; launchctl load "$PLIST" && echo "Agendado: toda segunda 09:00 (o Mac precisa estar ligado/acordado). Log: $REPO/data/monitor.log"
+launchctl unload "$PLIST" 2>/dev/null; launchctl load "$PLIST" && echo "Agendado: toda segunda e quinta 09:00 (o Mac precisa estar ligado/acordado). Log: $REPO/data/monitor.log"

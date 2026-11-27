@@ -13,3 +13,7 @@ Base: seção B de `documentos/contratos/checklist_contrato.md` (itens 23–32).
 7. LGPD: dados pessoais restritos à função pública; sem juízo pessoal; sem informação não pública; dados do cliente só no que ele contratou.
 8. SLA: data de entrega dentro do prazo do plano.
 9. Rodar o agente **revisor-contratual** sobre o PDF. Gravar a tabela OK/FALHA/N.A. com evidência em `entrega.md`. Só enviar com 0 FALHA.
+
+
+## Etapa obrigatória antes de enviar (nov/2026)
+Marca perguntada ao usuário (skill marca-relatorio) e conferência tripla: `auditar_falas.py`, agente `auditor-respostas` e agente `conferente-final` (regras na skill relatorio-escritorio). Corrigir no gerador e gerar de novo.

@@ -26,7 +26,8 @@ def kit(setor):
     return {"capa": capa, "divisores": divs, "icone": s.get("icone"), "foco": s.get("foco", {})}
 
 
-MARCAS = {"circle_b": "docs/marca/circle/logo_circle_branco.png", "circle_p": "docs/marca/circle/logo_circle_preto.png",
+MARCA = "circle"  # parceiro na capa/cabeçalho: "iris", "circle" ou "nery" (só Grupo Nery). Perguntar ao usuário antes de cada documento.
+MARCAS = {"iris_b": "docs/marca/iris/logo_iris_branco.png", "iris_p": "docs/marca/iris/logo_iris_azul.png", "circle_b": "docs/marca/circle/logo_circle_branco.png", "circle_p": "docs/marca/circle/logo_circle_preto.png",
           "nery_b": "docs/marca/grupo_nery/logo_branco.png", "nery_a": "docs/marca/grupo_nery/logo_azul.png", "simbolo": "docs/marca/grupo_nery/simbolo_lilas.png"}
 _cache = {}
 def img(k):
@@ -34,11 +35,16 @@ def img(k):
     return _cache[k]
 
 
+def _topo():
+    if MARCA == "nery": return f'<img src="{img("nery_b")}" class="lgn" style="height:.32in">'
+    return f'<img src="{img(MARCA + "_b")}" class="lgc {MARCA}"><span class="sep"></span><span class="parc">em parceria com</span><img src="{img("nery_b")}" class="lgn">'
+
+
 # ---------------- páginas ----------------
 def capa(foto, foco, eyebrow, titulo, subtitulo, linha_fina, numeros, logo_cliente=None):
     nums = "".join(f'<div class="cn"><b>{E(str(a))}</b><span>{E(t)}</span></div>' for a, t in numeros)
     return f'''<section class="pg capa"><div class="cf" style="background-image:url({b64(foto)});background-position:{foco}"></div><div class="cv"></div>
-<div class="ctop"><img src="{img("circle_b")}" class="lgc"><span class="sep"></span><span class="parc">em parceria com</span><img src="{img("nery_b")}" class="lgn"></div>
+<div class="ctop">{_topo()}</div>
 <div class="cbody"><div class="eb">{E(eyebrow)}</div>{f'<div class="lcli"><img src="{b64(logo_cliente)}"></div>' if logo_cliente else ''}<h1>{E(titulo)}</h1><div class="cs">{E(subtitulo)}</div><div class="cl">{E(linha_fina)}</div></div>
 <div class="cbar">{nums}</div></section>'''
 
@@ -55,8 +61,8 @@ def divisor(n, titulo, texto, foto, foco="50% 50%"):
 
 
 def tecnica(secao, titulo, corpo, ag, rodape="", logo_cliente=None):
-    marca = f'<img src="{b64(logo_cliente)}" class="hcli">' if logo_cliente else f'<img src="{img("circle_p")}" class="hcp"><img src="{img("nery_a")}" class="hn">'
-    pe = f'<div class="tpe"><img src="{img("circle_p")}" class="pc"><span>em parceria com</span><img src="{img("nery_a")}" class="pn"></div>' if logo_cliente else ""
+    marca = f'<img src="{b64(logo_cliente)}" class="hcli">' if logo_cliente else (f'<img src="{img(MARCA + "_p")}" class="hcp {MARCA}"><img src="{img("nery_a")}" class="hn">' if MARCA != "nery" else f'<img src="{img("nery_a")}" class="hn">')
+    pe = f'<div class="tpe">{f'<img src="{img(MARCA + "_p")}" class="pc">' if MARCA != "nery" else ""}<span>em parceria com</span><img src="{img("nery_a")}" class="pn"></div>' if logo_cliente else ""
     return f'''<section class="pg tec">{pe}<header><span class="hs">{E(NOME_AG.get(ag, ag.upper()))} · {E(secao)}</span><span class="hsp"></span>{marca}</header>
 <h2 class="th">{E(titulo)}</h2><div class="tb">{corpo}</div>{f'<div class="trod">{rodape}</div>' if rodape else ''}</section>'''
 
@@ -64,7 +70,7 @@ def tecnica(secao, titulo, corpo, ag, rodape="", logo_cliente=None):
 def fim(texto, contato="", foto=None, foco="50% 50%", titulo="Obrigado."):
     """encerramento estilo brochura: página azul, foto do setor ao fundo, «Obrigado.» grande e faixa branca de contato no rodapé."""
     fo = f'<div class="ff" style="background-image:url({b64(foto)});background-position:{foco}"></div><div class="fv"></div>' if foto else ""
-    return f'''<section class="pg fim">{fo}<div class="fc"><div class="ftop"><img src="{img("circle_b")}" class="lgc"><span class="sep"></span><span class="parc">em parceria com</span><img src="{img("nery_b")}" class="lgn"></div>
+    return f'''<section class="pg fim">{fo}<div class="fc"><div class="ftop">{_topo()}</div>
 <h2 class="fh">{E(titulo)}</h2><span class="fr"></span><p>{texto}</p></div>
 <div class="fbar"><img src="{img("nery_a")}" class="hn"><span class="fsp"></span><span>{E(contato)}</span></div></section>'''
 
@@ -207,7 +213,7 @@ CSS = f"""@page{{size:13.333in 7.5in;margin:0}}*{{box-sizing:border-box}}body{{m
 .pg{{width:13.333in;height:7.5in;position:relative;overflow:hidden;page-break-after:always;background:#fff}}h1,h2,h3{{margin:0;font-weight:500;letter-spacing:-.01em}}a{{color:{AZUL};text-decoration:underline;text-underline-offset:2px}}
 .eb{{font-size:8.5pt;letter-spacing:.18em;text-transform:uppercase;color:{LILAS}}}.eb.az{{color:{AZUL2}}}
 .capa{{background:{AZUL};color:#fff}}.cf{{position:absolute;inset:0 0 1.35in 4.9in;background-size:cover}}.cv{{position:absolute;left:4.9in;top:0;width:1.2in;bottom:1.35in;background:linear-gradient(90deg,{AZUL},rgba(0,59,76,0))}}
-.ctop{{position:absolute;left:.6in;top:.5in;display:flex;align-items:center;gap:12px}}.lgc{{height:.32in}}.lgn{{height:.24in}}.sep{{width:1px;height:.3in;background:rgba(255,255,255,.35)}}.parc{{font-size:7.5pt;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.65)}}
+.ctop{{position:absolute;left:.6in;top:.5in;display:flex;align-items:center;gap:12px}}.lgc{{height:.32in}}.lgc.iris{{height:.42in}}.hcp.iris{{height:.26in}}.lgn{{height:.24in}}.sep{{width:1px;height:.3in;background:rgba(255,255,255,.35)}}.parc{{font-size:7.5pt;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.65)}}
 .cbody{{position:absolute;left:.6in;top:1.75in;width:4.1in}}.lcli{{background:#fff;display:inline-block;padding:8px 12px;margin:.18in 0 .08in}}.lcli img{{height:.4in;display:block}}.capa h1{{font-size:34pt;font-weight:400;line-height:1.05;margin-top:.1in}}.cs{{font-size:11.5pt;color:{LILAS};margin-top:.1in;font-weight:300}}.cl{{font-size:7.6pt;color:rgba(255,255,255,.6);margin-top:.18in;line-height:1.45}}
 .cbar{{position:absolute;left:0;right:0;bottom:0;height:1.35in;background:#fff;display:grid;grid-template-columns:repeat(4,1fr);padding:.28in .6in;gap:.4in;color:{TINTA}}}.cn{{border-top:1px solid {AZUL};padding-top:.1in}}.cn b{{font-size:26pt;font-weight:300;color:{AZUL};display:block;line-height:1}}.cn span{{font-size:8pt;color:{CINZA};display:block;margin-top:.06in}}
 .sum{{display:grid;grid-template-columns:4.6in 1fr}}.sf{{background-size:cover}}.sc{{padding:.7in .7in}}.sh{{font-size:24pt;font-weight:300;color:{AZUL};margin:.12in 0 .35in}}.sl{{display:grid;grid-template-columns:1fr 1fr;gap:.28in .5in}}.si{{display:flex;gap:.18in;border-top:1px solid {FIO};padding-top:.12in}}.sn{{font-size:22pt;font-weight:300;color:{AZUL2};line-height:1}}.si b{{display:block;font-weight:500;font-size:11pt}}.si span{{font-size:8.6pt;color:{CINZA};line-height:1.4}}
