@@ -7,6 +7,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao, mapa_tema, prazos, retiradas, design as d
 from desfecho import desfecho_item
 E = d.E
+corte = lambda t, n: (t or "") if len(t or "") <= n else (t or "")[:n].rsplit(" ", 1)[0] + "…"
+pct = lambda x, k=1: f"{x:.{k}f}".replace(".", ",")
 NOMEESC = sys.argv[1]; MARCA = sys.argv[sys.argv.index("--marca") + 1] if "--marca" in sys.argv else sys.exit("Informe --marca iris|circle|nery (pergunte ao usuário).")
 HOJE = datetime.date.today(); ANO = (HOJE - datetime.timedelta(days=365)).isoformat(); DESDE = "2023-01-01"
 fmtd = lambda s: (datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if len(str(s)) >= 10 else "/".join(reversed(str(s).split("-")))) if s else "—"
@@ -27,9 +29,10 @@ def casos(ag, its, n=3):
     for i in list(reversed(its))[:40]:
         v = c.execute("select * from votos where item_id=? and trecho is not null and trecho<>'' order by eh_relator desc limit 1", (i["id"],)).fetchone()
         if not v: continue
-        rows.append([f'{fmtd(i["data"])}<br>{i["numero"]}ª', E((i["assunto"] or "")[:110]), f'<b>{E(v["diretor"])}</b>{" (relator)" if v["eh_relator"] else ""}<br><i>«{E(v["trecho"][:140])}»</i> <a href="{mapa_tema.link(i["video_id"], v["ts"] or i["ts"], v["trecho_t"])}">▶ minuto</a>', E((i["resultado"] or "")[:70])])
+        bd = previsao.colegiado_atual(c)[0]; inter = "; ".join(empresas(i["interessado"], alias=False)) if "interessado" in i.keys() else ""
+        rows.append([f'{fmtd(i["data"])}<br>{i["numero"]}ª', E(corte(inter, 60)) + "<br>" + E(corte(i["assunto"], 110)), f'<b>{E(v["diretor"])}</b>{" (relator)" if v["eh_relator"] else ""}{"" if v["diretor"] in bd else " · fora da diretoria atual"}<br><i>«{E(corte(v["trecho"], 140))}»</i> <a href="{mapa_tema.link(i["video_id"], v["ts"] or i["ts"], v["trecho_t"])}">▶ minuto</a>', E(corte(v["voto"] or "", 60)) + "<br>" + E(corte(i["resultado"], 70))])
         if len(rows) >= n: break
-    return d.tabela(["Data", "Assunto", "Fala no minuto", "Resultado"], rows, ["10%", "34%", "40%", "16%"])
+    return d.tabela(["Data", "Interessado e assunto", "Fala no minuto (legenda automática)", "Voto e resultado"], rows, ["10%", "34%", "38%", "18%"])
 
 
 ALIAS = [(r"\bAPPA\b|Paranagu[aá] e Antonina|Portos do Paran[aá]", "APPA (Portos do Paraná)"),
@@ -88,7 +91,16 @@ M = {ag: mapa_tema.mapear(ag, TEMAS[ag][1], DESDE) for ag in TEMAS}
 tot = sum(len(M[a]["itens"]) for a in M); dec = sum(M[a]["decididos"] for a in M); dvg = sum(M[a]["divergentes"] for a in M)
 S.append(d.capa(KIT["capa"], "50% 55%", "Inteligência regulatória aplicada", NOMEESC, "Agenda e votos da diretoria na ANTT e na ANTAQ",
                 f"Preparado para reunião institucional. Só fontes públicas: reuniões gravadas das diretorias, pautas e Diário Oficial. Base até {fmtd(max(M[a]['base_ate'] for a in M))}.",
-                [(f"{tot} itens", f"nos temas do escritório desde 2023 ({dec} já decididos)"), (f"{100 * (dec - dvg) / max(dec, 1):.0f}%", f"das {dec} decididas sem voto divergente"), ("2", "agências: ANTT e ANTAQ"), (sum(previsao.conn(a).execute("select count(*) from reunioes").fetchone()[0] for a in M), "reuniões de diretoria analisadas")]))
+                [(f"{tot} itens", f"nos temas do escritório desde 2023 ({dec} já decididos)"), (" · ".join(f"{a.upper()} {M[a]['decididos'] - M[a]['divergentes']}/{M[a]['decididos']}" for a in M), "decididas sem voto divergente"), ("2", "agências: ANTT e ANTAQ"), (" · ".join(f"{a.upper()} {previsao.conn(a).execute('select count(*) from reunioes').fetchone()[0]}" for a in M), "reuniões de diretoria analisadas")]))
+
+def sem_dec(ag, m):
+    c = previsao.conn(ag); W = lambda t: set(re.findall(r"\w{4,}", (t or "").lower())); out = []
+    for i in m["itens"]:
+        if desfecho_item(c, i["id"]) != "pendente": continue
+        if any(j["data"] > i["data"] and desfecho_item(c, j["id"]) != "pendente" and W(i["assunto"]) and len(W(i["assunto"]) & W(j["assunto"])) / len(W(i["assunto"]) | W(j["assunto"])) >= 0.4 for j in m["itens"]): continue
+        out.append(i)
+    return out
+
 
 # 1. Agendas
 ant = previsao.conn("antt"); ult = list(ant.execute("select numero, data from reunioes order by data desc limit 4"))
@@ -108,29 +120,29 @@ def _decidido_depois(i):
             a, b = _w(i["assunto"]), _w(j["assunto"])
             if a and len(a & b) / len(a | b) >= 0.4: return True
     return False
-pend = [i for i in sorted(pend, key=lambda x: x["data"]) if not _decidido_depois(i)][-4:]
+pend = [dict(i, processo_k=prazos.chave(i["processo"]) if "processo" in i.keys() else "") for i in sem_dec("antt", M["antt"])][-4:]
 cal_aq = [x for x in json.load(open("data/antaq/calendario.json")) if x["data"] >= HOJE.isoformat()][:2]
 corpo = (d.grade(d.conceito("", "ANTAQ: calendário oficial", "", texto=d.agenda_cards(cal_aq, 2) + '<p style="font-size:8.5pt">Pauta da próxima reunião ainda não publicada; ela sai cerca de uma semana antes.</p>'),
                  d.conceito("", "ANTT: próxima reunião (estimativa)", "", texto=f'<p>Última reunião na base: <b>{ult[0]["numero"]}ª, {fmtd(ult[0]["data"])}</b>. Pelo intervalo mediano das últimas reuniões ({int(statistics.median(gaps))} dias), a próxima deve cair perto de <b>{fmtd(prox)}</b>. <i>Estimativa: o calendário oficial não foi lido nesta edição.</i></p>'), cols=2)
          + "<h3>Processos do tema ainda sem decisão final na ANTT (sem deliberação posterior na base)</h3>"
          + (d.tabela(["Última sessão · processo", "Assunto", "Situação na última sessão"], [[f'{fmtd(i["data"])} · {i["numero"]}ª<br>{i["processo_k"]}', E((i["assunto"] or "")[:130]), E(i["resultado"] or "pendente")] for i in reversed(pend)], ["18%", "58%", "24%"]) if pend else "<p>Nenhum processo do tema ficou sem decisão posterior desde 2024.</p>")
          + "<h3>Diretoria em exercício (quem votou nas últimas reuniões)</h3>" + d.grade(d.conceito("", "ANTT", "", texto=d.tabela(["Diretor", "Cargo", "Situação", "Fim do mandato"], diretoria("antt"))), d.conceito("", "ANTAQ", "", texto=d.tabela(["Diretor", "Cargo", "Situação", "Fim do mandato"], diretoria("antaq"))), cols=2))
-S.append(d.tecnica("01 · Próximas agendas", "O que vem pela frente nas duas diretorias", corpo, "antt", "Troca de diretor muda o relator e o placar provável dos processos. Mandatos conforme a base de mandatos; a posse de alguns diretores da ANTT ainda está sem confirmação no Diário Oficial."))
+S.append(d.tecnica("01 · Próximas agendas", "O que vem pela frente nas duas diretorias", corpo, "ANTT · ANTAQ", "Troca de diretor muda o relator e o placar provável dos processos. Mandatos conforme a base de mandatos; a posse de alguns diretores da ANTT ainda está sem confirmação no Diário Oficial."))
 
 # 2. Votos em pautas parecidas
 for ag in ("antt", "antaq"):
     m = M[ag]; rows = [[E(k), s["n"], s["rel"], s["ac"], s["dv"], s["vista"]] for k, s in m["por_diretor"].items()]
     D = prazos.duracoes(ag, desde=DESDE); ks = {prazos.chave(i2["processo"]) for i2 in previsao.conn(ag).execute("select processo from itens where id in (%s)" % ",".join(str(i["id"]) for i in m["itens"]) or "0")} - {None}
     st = [v[0] for k, v in D.items() if k in ks and v[2] > 1 and v[3]]
-    corpo = (d.numeros([(len(m["itens"]), f"itens no tema desde 2023 ({m['decididos']} decididos)"), (f'{100 * m["divergentes"] / max(m["decididos"], 1):.0f}%', f'com voto divergente ou vencido, entre {m["decididos"]} decididas'),
-                        (f'{statistics.median(st):.0f} dias' if st else "—", f"mediana da 1ª sessão (desde 2023) à decisão, só processos com mais de uma sessão (n = {len(st)}{'; indicativo' if len(st) < 10 else ''})"), (m["desfechos"].get("pendente", 0), "ainda pendentes")])
+    corpo = (d.numeros([(len(m["itens"]), f"itens no tema desde 2023 ({m['decididos']} decididos)"), ((f'{m["divergentes"]} de {m["decididos"]}' if m["divergentes"] else "nenhuma"), f'decididas com voto divergente ou vencido registrado' + (f'; {sum(s["vista"] for s in m["por_diretor"].values())} pedidos de vista' if any(s["vista"] for s in m["por_diretor"].values()) else "")),
+                        ((f'{statistics.median(st):.0f} dias' if len(st) >= 3 else " e ".join(f"{x} dias" for x in sorted(st)) or "—"), (f"mediana da 1ª sessão (desde 2023) à decisão, processos com mais de uma sessão (n = {len(st)}{'; indicativo' if len(st) < 10 else ''})" if len(st) >= 3 else f"só {len(st)} caso(s) com mais de uma sessão desde 2023")), (len(sem_dec(ag, m)), "itens sem decisão posterior na base")])
              + d.grade(d.conceito("", "Como cada diretor em exercício votou no tema", "", texto=d.tabela(["Diretor", "Votos", "Relatou", "Acompanhou", "Divergiu", "Vista"], rows)),
                        d.conceito("", "Desfechos", "", texto=d.barras([(k, v, "itens") for k, v in m["desfechos"].most_common()])), cols=2)
              + "<h3>Casos recentes, com a fala no minuto do vídeo</h3>" + casos(ag, m["itens"]))
     S.append(d.tecnica("02 · Como a diretoria tem votado", TEMAS[ag][0], corpo, ag, "Contagens a partir das reuniões gravadas; «acompanhou» inclui quem só disse que acompanha o relator. Legenda automática pode errar nomes e números."))
     sin = [i for i in previsao.itens_empresa(previsao.conn(ag), SINAIS[ag].split("|")) if i["data"] >= "2022-01-01"][-6:]
     if sin and ag == "antt":
-        S.append(d.tecnica("02 · Como a diretoria tem votado", "Concessionárias ligadas à atuação pública do escritório", d.tabela(["Data", "Empresas citadas", "Tipo", "Assunto", "Resultado"],
+        S.append(d.tecnica("02 · Como a diretoria tem votado", "Concessionárias rodoviárias de interesse na pauta da ANTT", d.tabela(["Data", "Empresas citadas", "Tipo", "Assunto", "Resultado"],
                  [[fmtd(i["data"]), E("; ".join(empresas(i["interessado"], alias=False)) or "—"), ("ato da agência" if re.search(r"homolog|sandbox|resultado (preliminar|final)|regulament|consulta p", i["assunto"] or "", re.I) or re.match(r"\s*Superintend", i["interessado"] or "") else "processo da empresa"), E((i["assunto"] or "")[:140]), E(i["resultado"] or "")] for i in reversed(sin)], ["10%", "18%", "12%", "44%", "16%"]),
                  ag, "Sinais públicos de aderência setorial (ex.: assessoria em debêntures), não representação do escritório nesses processos. Nomes de SPEs como aparecem na pauta."))
 
@@ -138,9 +150,9 @@ for ag in ("antt", "antaq"):
 corpo = ""
 for ag in ("antt", "antaq"):
     lin, med = retiradas.por_diretor(ag); bd, _ = previsao.colegiado_atual(previsao.conn(ag)); lin = [x for x in lin if x[0] in bd]
-    corpo += d.conceito("", f"{ag.upper()}: retiradas de pauta por relator", f"média da agência {100 * med:.1f}% (retiradas ÷ itens relatados, só itens com nº de processo legível)", texto=d.tabela(["Relator (diretoria atual)", "Retiradas ÷ itens relatados", "Taxa", "× média", "Mediana até voltar", "Sem motivo declarado"],
-                        [[E(a), f"{n} ÷ {t}", f"{100 * x:.1f}%" + (" (n pequeno)" if t < 30 else ""), f"{x / mm:.1f}×", f"{v} dias" if v is not None else "—", s] for a, n, t, x, mm, v, s in lin]))
-S.append(d.tecnica("02 · Previsibilidade", "Quem da diretoria atual retira processos de pauta, e quanto tempo levam para voltar", d.grade(*[c for c in corpo.split("</div><div class=\"cc\"")][:1], cols=1) if False else corpo, "antt",
+    corpo += d.conceito("", f"{ag.upper()}: retiradas de pauta por relator", f"média da agência {pct(100 * med)}% (retiradas ÷ itens relatados, só itens com nº de processo legível)", texto=d.tabela(["Relator (diretoria atual)", "Retiradas ÷ itens relatados", "Taxa", "× média", "Mediana até voltar", "Sem motivo declarado"],
+                        [[E(a), f"{n} ÷ {t}", pct(100 * x) + "%" + (" (n pequeno)" if t < 30 else ""), pct(x / mm) + "×", f"{v} dias" if v is not None else "—", s] for a, n, t, x, mm, v, s in lin]))
+S.append(d.tecnica("03 · Previsibilidade", "Quem da diretoria atual retira processos de pauta, e quanto tempo levam para voltar", d.grade(*[c for c in corpo.split("</div><div class=\"cc\"")][:1], cols=1) if False else corpo, "ANTT · ANTAQ",
                    "Só fatos: quem retirou, quantas vezes e em quanto tempo voltou. «Sem motivo declarado» = nenhum motivo dito em voz alta na sessão (pode constar em documento)."))
 
 # 3. Prospecção: material interno, NÃO entra no documento do cliente (gerar com --interno)
