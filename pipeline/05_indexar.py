@@ -45,6 +45,7 @@ def categoria(v, relator):
     if ("pede vista" in s or s.strip() == "pede vista" or "concede vista" in s) and "voto-vista" not in s: return "vista"
     if re.search(r"não votou|nao votou|sem voto", s) and "voto-vista" not in s: return "nao_votou"
     if "vencido" in s: return "vencido"
+    if re.search(r"acompanha o (revisor|voto-vista)", s) and "relator" not in s[:8]: return "revisor_acompanha"
     if "voto-vista" in s or "revisor" in s:
         return "revisor_diverge" if "diverg" in s else "revisor_acompanha"
     if "relator" in s and canon(v["diretor"]) == relator and not s.startswith("acompanha"): return "relator"
